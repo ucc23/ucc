@@ -14,9 +14,9 @@ import pandas as pd
 def main():
     """
     """
-    cl = "ASCC_101"
-    path = "../1_code/members_fastMP/out_1/"
-    # path = "/home/gabriel/Descargas/"
+    cl = "Dutra-Bica 83"
+    # path = "../1_code/members_fastMP/out_1/"
+    path = "/home/gabriel/Descargas/"
 
     df = pd.read_csv(path + cl + ".csv")
 
@@ -45,7 +45,8 @@ def main():
     # x_pos, y_pos, w, h = .98, 0.59, .02, .38
     x_pos, y_pos, w, h = .985, 0.103, 0.02, 0.866
     cb_ax = fig.add_axes([x_pos, y_pos, w, h])
-    fig.colorbar(im2, orientation='vertical', cax=cb_ax)
+    cbar = fig.colorbar(im2, orientation='vertical', cax=cb_ax)
+    cbar.set_label('Probs')
 
     ax2.set_xlabel("pmRA [mas/yr]")
     ax2.set_ylabel("pmDE [mas/yr]")
