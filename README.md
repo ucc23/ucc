@@ -11,6 +11,12 @@
 Description of *The Unified Cluster Catalogue*.
 
 
+### IAU naming convention
+
+https://cds.unistra.fr/Dic/iau-spec.html#S3.5.1
+
+
+
 # converting from .py to .ipynb
 
 https://stackoverflow.com/questions/62510114/converting-from-py-to-ipynb
