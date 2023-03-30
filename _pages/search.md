@@ -5,7 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search the catalog...">
+    <input type="text" id="search-input" placeholder="Search the catalogue...">
     <ul id="results-container"></ul>
 </div>
 
