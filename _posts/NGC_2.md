@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  NGC 2517
-categories: [small_N, ABC]
+title:  NGC 2
+categories: [large_N, AAA]
 ---
 
 <!-- include Aladin Lite CSS file in the head section of your page -->
@@ -71,7 +71,7 @@ categories: [small_N, ABC]
 </div>
 
 <!-- Hidden for search purposes -->
-<font color="#FFFFFF">CCC</font>
+<font color="#FFFFFF">AAA</font>
 
 <div style="text-align: center;">
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>Cluster has very few estimated members and a DDD classification</span>
