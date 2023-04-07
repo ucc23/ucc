@@ -15,7 +15,7 @@
    {
      {% if page.title != nil %}
         "title"    : "{{ page.title | escape }}",
-        "category" : "{{ post.categories | join: ', '}}",
+        "category" : "{{ page.categories | join: ', '}}",
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "content"  : "{{ page.content | strip_html | strip_newlines }}"
