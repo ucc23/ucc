@@ -77,4 +77,5 @@ exclude:
 
 
 collections:
-  - clusters
+  clusters:
+    output: true
