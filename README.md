@@ -31,3 +31,12 @@ https://stackoverflow.com/questions/62596466/how-can-i-run-notebooks-of-a-github
 * Use:
 https://colab.research.google.com/github/{user}/{repo-name}/blob/master/{path}/{notebook-name}.ipynb
 
+
+
+
+CDS search (ra, icrs)
+
+http://cdsportal.u-strasbg.fr/?target=11.9662%2066.7755
+
+Simbad search:
+href="http://simbad.cds.unistra.fr/simbad/sim-coo?Coord=+66+77+&Radius=1&Radius.unit=arcmin&submit=submit+query"
