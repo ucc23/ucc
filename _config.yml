@@ -73,7 +73,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - meta.html
 
 
 collections:
