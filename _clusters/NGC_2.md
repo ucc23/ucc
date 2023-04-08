@@ -1,17 +1,14 @@
 ---
 layout: post
 title:  NGC 2
-tags: [large_N, ]
+tags: [large_N, CCC]
 ---
 
 <!-- include Aladin Lite CSS file in the head section of your page -->
 <link rel="stylesheet" href="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" />
-<!-- you can skip the following line if your page already integrates the jQuery library -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
 <!-- Aladin Lite CS -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Search region in</b><a href="http://cdsportal.u-strasbg.fr/?target=11.9662%2066.7755" target="_blank"><img src="https://raw.githubusercontent.com/ucc23/ucc/main/images/cds_logo.png" alt="CDS" width="7%" height="7%"></a> &nbsp;&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;&nbsp; <b>Explore data in</b> <a href="https://colab.research.google.com/github/UCC23/datafiles/blob/master/notebooks/Gulliver_22.ipynb" target="_blank"><img src="https://raw.githubusercontent.com/ucc23/ucc/main/images/colab_logo.png" alt="Google Colab" width="7%" height="7%"></a>
 
 <div style="display: flex; justify-content: space-between;">
    <div style="text-align: center;">
@@ -71,13 +68,18 @@ tags: [large_N, ]
 </div>
 
 <!-- Hidden for search purposes -->
-<font color="#FFFFFF">AAA</font>
+<font color="#FFFFFF">CCC</font>
 
 <div style="text-align: center;">
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>Cluster has very few estimated members and a DDD classification</span>
 </div>
 
 ![CLUSTER](https://raw.githubusercontent.com/ucc23/plots/main/plots/cluster.png)
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/datafiles/blob/master/notebooks/Gulliver_22.ipynb" target="_blank">Colab</a></p>
+
+
+
 
 ### Fundamental parameters in literature (not exhaustive)
 
@@ -86,6 +88,10 @@ tags: [large_N, ]
 | [Smith et al. (1970)](http://ads.etc)   | E_BV=0.13 ; logAge=9.87    |
 | [Jones et al. (1970)](http://ads.etc)   | logAge=9.87 ; d_pc=9786 ; [FeH]=-0.1  |
 | [Someguy et al. (1970)](http://ads.etc)   | E_BV=0.13 ; logAge=9.87 ; d_pc=9786 ; [FeH]=0.0 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search name in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20%3Dbody%3A%22Bochum%207%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
 
 
 ### Position in published works (not exhaustive)
@@ -96,8 +102,11 @@ tags: [large_N, ]
 | [Jones et al. (1970)](http://ads.etc)   | 275.0342 | -32.3533 | -4.821 | 1.148 | 0.152 |
 | [Someguy et al. (1970)](http://ads.etc) | 275.0432 | -32.3533 | -4.831 | 1.148 | 0.152 |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=11.9662%2066.7755" target="_blank">CDS</a></p>
 
-### Clusters in proximity
+
+
+### Catalogued clusters in <a href="faq.html" title="See FAQ for definition of proximity">proximity</a>
 
 | Cluster         | RA    | DEC   | pmRA  | pmDE  | Plx         |
 | :---         | :---: | :---: | :---: | :---: | :---:       |
