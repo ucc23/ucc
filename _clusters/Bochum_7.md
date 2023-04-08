@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  NGC 2
+title:  Bochum 7
 ---
 
 <!-- include Aladin Lite CSS file in the head section of your page -->
