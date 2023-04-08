@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NGC 2
-categories: [large_N, ]
+tags: [large_N, ]
 ---
 
 <!-- include Aladin Lite CSS file in the head section of your page -->
