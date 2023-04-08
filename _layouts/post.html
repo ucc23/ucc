@@ -5,11 +5,7 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
-  <div>
-<!--     <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %} -->
+<!--   <div>
     <div class="post-tags">
       {% if post %}
         {% assign tags = post.tags %}
@@ -21,17 +17,26 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
+  </div> -->
+
+  <div>
+    <div class="post-tags">
+    {% assign tags =  site.clusters | map: 'tags' | uniq %}
+    {% for tag in tags %}
+      <h3>{{ tag }}</h3>
+      <ul>
+      {% for note in site.note %}
+        {% if note.tags contains tag %}
+        <li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endfor %}
+    </div>
   </div>
 
   <div class="entry">
     {{ content }}
   </div>
 
-<!--   <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-  </div> -->
-
-<!--   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div> -->
 </article>
