@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  NGC 2
-tags: [large_N, CCC]
 ---
 
 <!-- include Aladin Lite CSS file in the head section of your page -->
@@ -9,6 +8,7 @@ tags: [large_N, CCC]
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
 <!-- Aladin Lite CS -->
 
+<br>
 
 <div style="display: flex; justify-content: space-between;">
    <div style="text-align: center;">
