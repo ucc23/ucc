@@ -8,8 +8,6 @@ title:  NGC 2
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
 <!-- Aladin Lite CS -->
 
-<br>
-
 <div style="display: flex; justify-content: space-between;">
    <div style="text-align: center;">
       <!-- Left block -->
@@ -70,9 +68,6 @@ title:  NGC 2
 <!-- Hidden for search purposes -->
 <font color="#FFFFFF">CCC</font>
 
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>Cluster has very few estimated members and a DDD classification</span>
-</div>
 
 ![CLUSTER](https://raw.githubusercontent.com/ucc23/plots/main/plots/cluster.png)
 
