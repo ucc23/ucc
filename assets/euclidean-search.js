@@ -17,7 +17,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("{{ site.baseurl }}/_clusters/clusters_DB.json")
+fetch("https://ucc.ar/_clusters/clusters_DB.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
