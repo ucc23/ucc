@@ -91,7 +91,7 @@ title:  Bochum 7
 
 ### Position in published works (not exhaustive)
 
-| Reference<code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>   | RA    | DEC   | pmRA  | pmDE  | Plx   |  Rv  |
+| Reference    | RA    | DEC   | pmRA  | pmDE  | Plx   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Smith et al. (1970)](http://ads.etc)   | 275.0432 | -32.3533 | -4.821 | 1.148 | 0.152 | 45.754 |
 | [Jones et al. (1970)](http://ads.etc)   | 275.0342 | -32.3533 | -4.821 | 1.148 | 0.152 | 45.754 |
@@ -103,7 +103,7 @@ title:  Bochum 7
 
 ### Catalogued clusters in <a href="faq.html" title="See FAQ for definition of proximity">proximity</a>
 
-| Cluster         | RA    | DEC   | pmRA  | pmDE  | Plx |  Rv  |
+| Cluster      | RA    | DEC   | pmRA  | pmDE  | Plx |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 | [NGC 333](https://ucc.ar)  | 275.0432 | -32.3533 | -4.821 | 1.148 | 0.152 | 45.754 |
 | [Bochum 5](https://ucc.ar) | 275.0432 | -32.3533 | -4.821 | 1.148 | 0.152 | 45.754 |
