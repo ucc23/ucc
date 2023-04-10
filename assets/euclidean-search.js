@@ -33,6 +33,7 @@ fetch("https://ucc.ar/_clusters/test.json")
       const body = card.querySelector("[data-body]")
       header.textContent = user.name
       body.textContent = user.company
+      card.classList.add('hide');
       userCardContainer.append(card)
       return {
         name: user.name,
