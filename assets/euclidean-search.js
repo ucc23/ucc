@@ -5,19 +5,26 @@ const searchInput = document.querySelector("[data-search]")
 let users = []
 
 searchInput.addEventListener("input", e => {
+
   const value = e.target.value.toLowerCase()
   const xy = value.split(' ')
+
   users.forEach(user => {
-  
-  var distance = Math.sqrt(Math.pow(parseFloat(xy[0]) - parseFloat(user.lat), 2) + Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2))
-  
-    const isVisible =
-      user.name.toLowerCase().includes(value) || distance <= 10
-    user.element.classList.toggle("hide", !isVisible)
+
+    if (parseFloat(value.length) < 3) {
+      user.element.classList.toggle("hide", true)
+    } else {
+      var distance = Math.sqrt(
+        Math.pow(parseFloat(xy[0]) - parseFloat(user.x), 2) +
+        Math.pow(parseFloat(xy[1]) - parseFloat(user.y), 2))
+      const isVisible =
+        user.name.toLowerCase().includes(value) || distance <= 10
+      user.element.classList.toggle("hide", !isVisible)
+    }
   })
 })
 
-fetch("https://ucc.ar/_clusters/clusters_DB.json")
+fetch("https://ucc.ar/_clusters/test.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
@@ -25,12 +32,12 @@ fetch("https://ucc.ar/_clusters/clusters_DB.json")
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
       header.textContent = user.name
-      body.textContent = user.email
+      body.textContent = user.company
       userCardContainer.append(card)
       return {
         name: user.name,
-        lon: user.x,
-        lat: user.y,
+        x: user.x,
+        y: user.y,
         element: card
       }
     })
