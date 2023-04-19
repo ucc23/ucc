@@ -24,13 +24,14 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://ucc.ar/_clusters/test.json")
+fetch("https://ucc.ar/_clusters/clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
       const card = userCardTemplate.content.cloneNode(true).children[0]
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
+      card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.url)
       header.textContent = user.name
       body.textContent = user.company
       card.classList.add('hide');
