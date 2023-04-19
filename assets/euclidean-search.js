@@ -24,14 +24,14 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json")
+fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json.gz")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
       const card = userCardTemplate.content.cloneNode(true).children[0]
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
-      card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.url)
+      card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fname)
       header.textContent = user.ID
       body.textContent = user.UCC_ID
       card.classList.add('hide');
