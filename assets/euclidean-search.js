@@ -14,11 +14,17 @@ searchInput.addEventListener("input", e => {
     if (parseFloat(value.length) < 4) {
       user.element.classList.toggle("hide", true)
     } else {
-      var distance = Math.sqrt(
-        Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
-        Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
+      if (xy[0] == "G") {
+        var distance = Math.sqrt(
+          Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
+          Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
+      } else{
+        var distance = Math.sqrt(
+          Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
+          Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
+      }
       const isVisible =
-        user.name.toLowerCase().includes(value) || distance <= 10
+        user.name.toLowerCase().includes(value) || distance <= 0.17
       user.element.classList.toggle("hide", !isVisible)
     }
   })
@@ -40,6 +46,8 @@ fetch("clusters.json")
         name: user.ID,
         ra: user.RA_ICRS,
         dec: user.DE_ICRS,
+        lon: user.GLON,
+        lat: user.GLAT,
         element: card
       }
     })
