@@ -5,31 +5,6 @@ const searchInput = document.querySelector("[data-search]")
 let users = []
 let results = []
 
-// searchInput.addEventListener("input", e => {
-
-//   const value = e.target.value.toLowerCase()
-//   const xy = value.split(' ')
-
-//   users.forEach(user => {
-
-//     if (parseFloat(value.length) < 4) {
-//       user.element.classList.toggle("hide", true)
-//     } else {
-//       if (xy[0] == "g") {
-//         var distance = Math.sqrt(
-//           Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
-//           Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
-//       } else{
-//         var distance = Math.sqrt(
-//           Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
-//           Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
-//       }
-//       const isVisible = user.name.toLowerCase().includes(value) || distance <= 0.17
-//       user.element.classList.toggle("hide", !isVisible)
-//     }
-//   })
-// })
-
 searchInput.addEventListener("input", e => {
   results = []; //quickly empty array
   userCardContainer.innerHTML = "";
@@ -40,17 +15,18 @@ searchInput.addEventListener("input", e => {
   if (parseFloat(value.length) >= 4) {
     users.forEach(user => {
 
+      // For galactic coordinates search
       if (xy[0] == "g") {
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
           Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
+      // For equatorial coordinates search
       } else{
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
           Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
       }
       const isVisible = user.name.toLowerCase().includes(value) || distance <= 0.17
-      // user.element.classList.toggle("hide", !isVisible)
 
       if (isVisible) {
         user.distance = distance
@@ -60,7 +36,7 @@ searchInput.addEventListener("input", e => {
       }
     })
   }
-
+  // Sort and limit results
   results.sort((a, b) => a.distance - b.distance)
   results = results.slice(0, 10)
   results.forEach((u) => {
