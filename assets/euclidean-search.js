@@ -24,7 +24,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json")
+fetch("clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
