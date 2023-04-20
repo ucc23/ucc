@@ -1,5 +1,3 @@
-import { gzip } from 'pako';
-
 const userCardTemplate = document.querySelector("[data-user-template]")
 const userCardContainer = document.querySelector("[data-user-cards-container]")
 const searchInput = document.querySelector("[data-search]")
@@ -26,15 +24,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json.gz", {
-      method: 'POST',
-      mode: 'cors',
-      headers: {
-        'Content-Encoding': 'gzip',
-        'Content-Type': 'application/json'
-      },
-      body: gzippedBody
-    })
+fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
