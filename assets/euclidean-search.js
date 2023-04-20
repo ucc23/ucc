@@ -29,7 +29,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("clusters.json")
+fetch("_posts/clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
