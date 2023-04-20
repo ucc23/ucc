@@ -33,7 +33,7 @@ fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json.gz", {
         'Content-Encoding': 'gzip',
         'Content-Type': 'application/json'
       },
-      body: await gzip(JSON.stringify(payload))
+      body: gzippedBody
     })
   .then(res => res.json())
   .then(data => {
