@@ -26,7 +26,15 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json.gz")
+fetch("https://raw.githubusercontent.com/ucc23/ucc/main/clusters.json.gz", {
+      method: 'POST',
+      mode: 'cors',
+      headers: {
+        'Content-Encoding': 'gzip',
+        'Content-Type': 'application/json'
+      },
+      body: await gzip(JSON.stringify(payload))
+    })
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
