@@ -14,7 +14,7 @@ searchInput.addEventListener("input", e => {
     if (parseFloat(value.length) < 4) {
       user.element.classList.toggle("hide", true)
     } else {
-      if (xy[0] == "G") {
+      if (xy[0] == "g") {
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
           Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
