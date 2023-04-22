@@ -55,8 +55,6 @@ fetch("/_clusters/clusters.json")
       card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fname)
       header.textContent = user.ID.split(',')[0]
       body.textContent = user.UCC_ID
-      // card.classList.add('hide');
-      // userCardContainer.append(card)
       return {
         name: user.ID,
         ra: user.RA_ICRS,
