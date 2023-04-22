@@ -53,7 +53,7 @@ fetch("/_clusters/clusters.json")
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
       card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fname)
-      header.textContent = user.ID.split(' ')[0]
+      header.textContent = user.ID.split(',')[0]
       body.textContent = user.UCC_ID
       // card.classList.add('hide');
       // userCardContainer.append(card)
