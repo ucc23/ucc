@@ -28,7 +28,7 @@ searchInput.addEventListener("input", e => {
       }
       let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace(".", "")
 
-      const isVisible = user.name.toLowerCase().includes(fvalue) || distance <= 0.17
+      const isVisible = user.fnames.includes(fvalue) || distance <= 0.17
 
       if (isVisible) {
         user.distance = distance
@@ -54,11 +54,11 @@ fetch("/_clusters/clusters.json")
       const card = userCardTemplate.content.cloneNode(true).children[0]
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
-      card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fname)
-      header.textContent = user.ID.split(',')[0]
+      card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
+      header.textContent = user.ID
       body.textContent = user.UCC_ID
       return {
-        name: user.ID,
+        fnames: user.fnames,
         ra: user.RA_ICRS,
         dec: user.DE_ICRS,
         lon: user.GLON,
