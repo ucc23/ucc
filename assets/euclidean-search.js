@@ -26,7 +26,9 @@ searchInput.addEventListener("input", e => {
           Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
           Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
       }
-      const isVisible = user.name.toLowerCase().includes(value) || distance <= 0.17
+      let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace(".", "")
+
+      const isVisible = user.name.toLowerCase().includes(fvalue) || distance <= 0.17
 
       if (isVisible) {
         user.distance = distance
