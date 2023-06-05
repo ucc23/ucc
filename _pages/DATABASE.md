@@ -6,11 +6,13 @@ permalink: /database/
 
 Full database split into 8 regions:
 
-- Q1 positive latitude (l:[0, 90); b:[0, 90])
-- Q1 negative latitude (l:[90, 180); b:(0, -90])
-- Q2 positive latitude (l:[180, 270); b:[0, 90])
-- Q2 negative latitude (l:[270, 360); b:(0, -90])
-- Q3 positive latitude (l:[0, 90); b:[0, 90])
-- Q3 negative latitude (l:[90, 180); b:(0, -90])
-- Q4 positive latitude (l:[180, 270); b:[0, 90])
-- Q4 negative latitude (l:[270, 360); b:(0, -90])
+|         | lon region | lat region |
+|---------|------------|------------|
+| Q1 lat+ | [0, 90)    | [0, 90]    |
+| Q1 lat- | [0, 90)    | (0, -90]   |
+| Q2 lat+ | [90, 180)  | [0, 90]    |
+| Q2 lat- | [90, 180)  | (0, -90]   |
+| Q3 lat+ | [180, 270) | [0, 90]    |
+| Q3 lat- | [180, 270) | (0, -90]   |
+| Q4 lat+ | [270, 360) | [0, 90]    |
+| Q4 lat- | [270, 360) | (0, -90]   |
