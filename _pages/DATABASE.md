@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DATABASE
-permalink: /databse/
+permalink: /database/
 ---
 
 Full database split into 8 regions:
