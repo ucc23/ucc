@@ -22,28 +22,31 @@ A.init.then(() => {
    <table style="text-align: center; width:355px;height:250px;">
       <!-- Row 0 (title) -->
       <tbody><tr>
-         <td colspan="5"><h3>UCC G015.0-79.0<br>Class: <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></h3></td>
+         <td colspan="5"><h3>UCC G015.0-79.0</h3></td>
       </tr>
       <!-- Row 1 -->
+      <tr>
+         <td colspan="5"><h3>Class: <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></h3></td>
+      </tr>
+      <!-- Row 2 -->
       <tr>
          <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 1">C1</a></th>
          <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 2">C2</a></th>
          <th>N_20</th>
-         <th>P>0.5</th>
+         <th>N_50</th>
          <th>r_50</th>
       </tr>
-      <!-- Row 2 -->
+      <!-- Row 3 -->
       <tr>
          <td>1.0</td>
          <td>1.0</td>
          <td>550</td>
-         <td>547</td>
+         <td>547/td>
          <td>547</td>
       </tr>
    </tbody></table>
    <!-- Right block -->
 </div>
-
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20%3Dbody%3A%22Blanco%201%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
 
@@ -61,7 +64,6 @@ A.init.then(() => {
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 0.872 | -29.975 | 4.224 | 18.738 | 2.606 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 0.915 | -30.011 | 4.232 | 18.725 | 2.593 | 4.217 |
 | **UCC** |1.07 | -29.988 | 4.221 | 18.715 | 2.594 | 5.464 |
-
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=1.07%20-29.988" target="_blank">CDS</a></p>
 
