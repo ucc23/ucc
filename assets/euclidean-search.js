@@ -12,6 +12,7 @@ searchInput.addEventListener("input", e => {
   const value = e.target.value.toLowerCase()
   const xy = value.split(' ')
 
+  // wait for 4 chars
   if (parseFloat(value.length) >= 4) {
     users.forEach(user => {
 
@@ -26,9 +27,10 @@ searchInput.addEventListener("input", e => {
           Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
           Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
       }
-      let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace(".", "")
+      let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
 
-      const isVisible = user.fnames.includes(fvalue) || distance <= 0.17
+      // 1 deg search region
+      const isVisible = user.fnames.includes(fvalue) || distance <= 1
 
       if (isVisible) {
         user.distance = distance
