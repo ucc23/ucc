@@ -12,7 +12,7 @@ title:  Blanco 1
 <script type="text/javascript">
 let aladin;
 A.init.then(() => {
-    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.25, target: "1.07 -29.988"});
+    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.503333333333333, target: "1.07 -29.988"});
 });
 </script>
 </div>
@@ -20,19 +20,15 @@ A.init.then(() => {
 
    <!-- Right block -->
    <table style="text-align: center; width:355px;height:250px;">
-      <!-- Row 0 (title) -->
+      <!-- Row 1 (title) -->
       <tbody><tr>
          <td colspan="5"><h3>UCC G015.0-79.0</h3></td>
-      </tr>
-      <!-- Row 1 -->
-      <tr>
-         <td colspan="5"><h3>Class: <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></h3></td>
       </tr>
       <!-- Row 2 -->
       <tr>
          <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 1">C1</a></th>
          <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 2">C2</a></th>
-         <th>N_20</th>
+         <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 3">C3</a></th>
          <th>N_50</th>
          <th>r_50</th>
       </tr>
@@ -40,7 +36,7 @@ A.init.then(() => {
       <tr>
          <td>1.0</td>
          <td>1.0</td>
-         <td>547</td>
+         <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
          <td>547</td>
          <td>105.1</td>
       </tr>
@@ -67,7 +63,7 @@ A.init.then(() => {
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=1.07%20-29.988" target="_blank">CDS</a></p>
 
-### Plots for 547 selected probable members
+### Plots for selected probable members
 
 ![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/blanco1.webp)
 
