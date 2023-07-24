@@ -40,9 +40,9 @@ A.init.then(() => {
       <tr>
          <td>1.0</td>
          <td>1.0</td>
-         <td>550</td>
-         <td>547/td>
          <td>547</td>
+         <td>547</td>
+         <td>105.1</td>
       </tr>
    </tbody></table>
    <!-- Right block -->
@@ -67,7 +67,7 @@ A.init.then(() => {
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=1.07%20-29.988" target="_blank">CDS</a></p>
 
-### Plots for 105.1 selected probable members
+### Plots for 547 selected probable members
 
 ![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/blanco1.webp)
 
