@@ -12,7 +12,7 @@ title:  Blanco 1
 <script type="text/javascript">
 let aladin;
 A.init.then(() => {
-    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", cooFrame: "galactic", fov:0.25, target: "14.781 GLAT"});
+    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", cooFrame: "galactic", fov:0.25, target: "14.781 -79.086"});
 });
 </script>
 </div>
@@ -30,14 +30,14 @@ A.init.then(() => {
          <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 2">C2</a></th>
          <th>N_20</th>
          <th>P>0.5</th>
-         <th>r50</th>
+         <th>547</th>
       </tr>
       <!-- Row 2 -->
       <tr>
          <td>1.0</td>
          <td>1.0</td>
          <td>550</td>
-         <td>N_50</td>
+         <td>105.1</td>
          <td>547</td>
       </tr>
    </tbody></table>
@@ -67,7 +67,7 @@ A.init.then(() => {
 
 ### Plots for 547 selected probable members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/blanco1.png)
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/blanco1.webp)
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1N/blob/master/notebooks/blanco1.ipynb" target="_blank">Colab</a></p>
