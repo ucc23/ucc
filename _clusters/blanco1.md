@@ -12,7 +12,7 @@ title:  Blanco 1
 <script type="text/javascript">
 let aladin;
 A.init.then(() => {
-    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.503333333333333, target: "1.07 -29.988"});
+    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.503, target: "1.07 -29.988"});
 });
 </script>
 </div>
