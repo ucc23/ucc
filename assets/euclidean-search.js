@@ -17,7 +17,7 @@ searchInput.addEventListener("input", e => {
     users.forEach(user => {
 
       // For galactic coordinates search
-      if (xy[0] == "g") ||  (xy[0] == "G") {
+      if (xy[0] == "g") { // ||  (xy[0] == "G")
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
           Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
