@@ -25,7 +25,7 @@ searchInput.addEventListener("input", e => {
 
       let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
 
-      const fvalueInmnames = user.mnames.includes(fvalue)
+      const fvalueInmnames = user.fnames.includes(fvalue)
 
       // Search method based on text
       if (fvalueInmnames) {
