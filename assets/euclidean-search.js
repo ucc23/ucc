@@ -23,27 +23,25 @@ searchInput.addEventListener("input", e => {
       var show_e_3 = false
       var distance
 
-      let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
-
-      const fvalueInmnames = user.fnames.includes(fvalue)
-
-      // Search method based on text
-      if (fvalueInmnames) {
-        var show_e_1 = true;
-      } else if (xy[0] == "g") {
+      if (xy[0].match(/^\d/)) { // Eq coordinates, check if first char is a number
+          var distance = Math.sqrt(
+          Math.pow(parseFloat(xy[0]) - parseFloat(user.RA), 2) +
+          Math.pow(parseFloat(xy[1]) - parseFloat(user.DEC), 2))
+        var show_e_3 = true;
+      } else if (xy[0] == "g") { // galactic coordinates
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[1]) - parseFloat(user.GLON), 2) +
           Math.pow(parseFloat(xy[2]) - parseFloat(user.GLAT), 2))
         var show_e_2 = true;
-      } else if (xy[0].match(/^\d/)) { // check if first char is a number
-        var distance = Math.sqrt(
-          Math.pow(parseFloat(xy[0]) - parseFloat(user.RA), 2) +
-          Math.pow(parseFloat(xy[1]) - parseFloat(user.DEC), 2))
-        var show_e_3 = true;
+      } else {  // Search method based on text
+        let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
+        if (user.fnames.includes(fvalue)) {
+          var show_e_1 = true;
+        }
       }
 
       // Condition to show card
-      const isVisible = fvalueInmnames || distance <= 1
+      const isVisible = show_e_1 || distance <= 1
 
       if (isVisible) {
         user.distance = distance
