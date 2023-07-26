@@ -57,7 +57,7 @@ searchInput.addEventListener("input", e => {
 
   // Sort and limit results
   results.sort((a, b) => a.distance - b.distance)
-  results = results.slice(0, 10)
+  results = results.slice(0, 9)
   results.forEach((u) => {
     if (u.show_e_1) {
       userCardContainer.append(u.element_1);
@@ -97,14 +97,14 @@ fetch("/_clusters/clusters.json")
 
       body_1.textContent = user.fnames.split(';').slice(1, 3)
       body_2.textContent = '(' + user.GLON + ', ' + user.GLAT + ')'
-      body_3.textContent = '(' + user.RA_ICRS + ', ' + user.DEC_ICRS + ')'
+      body_3.textContent = '(' + user.RA_ICRS + ', ' + user.DE_ICRS + ')'
 
       return {
         fnames: user.fnames,
         GLON: user.GLON,
         GLAT: user.GLAT,
         RA: user.RA_ICRS,
-        DEC: user.DEC_ICRS,
+        DEC: user.DE_ICRS,
         element_1: card_1,
         element_2: card_2,
         element_3: card_3
