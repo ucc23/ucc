@@ -74,6 +74,10 @@ fetch("/_clusters/clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
+
+//       card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
+//       header.textContent = user.ID
+
       const card_1 = userCardTemplate.content.cloneNode(true).children[0]
       const card_2 = userCardTemplate.content.cloneNode(true).children[0]
       const card_3 = userCardTemplate.content.cloneNode(true).children[0]
@@ -86,15 +90,15 @@ fetch("/_clusters/clusters.json")
       const body_2 = card_2.querySelector("[data-body_2]")
       const body_3 = card_3.querySelector("[data-body_3]")
 
-      card_1.querySelector("a").setAttribute("href", "https://url/" + user.name)
-      card_2.querySelector("a").setAttribute("href", "https://url/" + user.name)
-      card_3.querySelector("a").setAttribute("href", "https://url/" + user.name)
+      card_1.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
+      card_2.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
+      card_3.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
 
-      header_1.textContent = user.name
-      header_2.textContent = user.name
-      header_3.textContent = user.name
+      header_1.textContent = user.ID
+      header_2.textContent = user.ID
+      header_3.textContent = user.ID
 
-      body_1.textContent = user.fnames.split(',')
+      body_1.textContent = user.fnames.split(';')
       body_2.textContent = '(' + user.GLON + ', ' + user.GLAT + ')'
       body_3.textContent = '(' + user.RA + ', ' + user.DEC + ')'
 
