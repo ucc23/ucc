@@ -580,7 +580,19 @@ input {
   margin-bottom: .25rem;
 }
 
-.card > .body {
+.card > .body_1 {
+  font-size: .7rem;
+  color: #777;
+  font-weight: bold;
+}
+
+.card > .body_2 {
+  font-size: .7rem;
+  color: #777;
+  font-weight: bold;
+}
+
+.card > .body_3 {
   font-size: .7rem;
   color: #777;
   font-weight: bold;

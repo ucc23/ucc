@@ -35,7 +35,7 @@ searchInput.addEventListener("input", e => {
           Math.pow(parseFloat(xy[1]) - parseFloat(user.GLON), 2) +
           Math.pow(parseFloat(xy[2]) - parseFloat(user.GLAT), 2))
         var show_e_2 = true;
-      } else {
+      } else if (xy[0].match(/^\d/)) { // check if first char is a number
         var distance = Math.sqrt(
           Math.pow(parseFloat(xy[0]) - parseFloat(user.RA), 2) +
           Math.pow(parseFloat(xy[1]) - parseFloat(user.DEC), 2))
