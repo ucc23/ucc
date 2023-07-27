@@ -7,7 +7,7 @@ permalink: /Q1N_table/
 | Name | UCC ID | RA | DEC | Plx | C1 | C2 | C3 |
 | ---- | ------ | -- | --- | --- | -- | -- | -- |
 | [AH03 J2011+26.7](https://ucc.ar/_clusters/ah03j2011p267/) | G065.7-03.9 | 302.99 | 26.74 | 0.249 | 0.4 | 0.42 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [ASCC 104](https://ucc.ar/_clusters/ascc104/) | G054.8-01.5 | 294.72 | 18.66 | 2.456 | 0.81 | 0.43 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [ASCC 104](https://ucc.ar/_clusters/ascc104/) | `G054.8-01.5` | 294.72 | 18.66 | 2.456 | 0.81 | 0.43 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [ASCC 106](https://ucc.ar/_clusters/ascc106/) | G040.1-10.3 | 295.32 | 1.59 | 1.466 | 0.53 | 0.45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [ASCC 107](https://ucc.ar/_clusters/ascc107/) | G058.9-01.9 | 297.16 | 21.99 | 1.105 | 1.0 | 0.61 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [ASCC 113](https://ucc.ar/_clusters/ascc113/) | G082.8-06.5 | 317.93 | 38.64 | 1.766 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
