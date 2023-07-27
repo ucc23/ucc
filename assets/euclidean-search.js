@@ -94,8 +94,8 @@ fetch("/_clusters/clusters.json")
       header_3.textContent = user.ID
 
       body_1.textContent = user.fnames.split(';').slice(1, 3)
-      body_2.textContent = 'Gl (' + user.GLON + ', ' + user.GLAT + ')'
-      body_3.textContent = 'Eq (' + user.RA_ICRS + ', ' + user.DE_ICRS + ')'
+      body_2.textContent = 'G (' + user.GLON + ', ' + user.GLAT + ')'
+      body_3.textContent = 'E (' + user.RA_ICRS + ', ' + user.DE_ICRS + ')'
 
       return {
         fnames: user.fnames,
