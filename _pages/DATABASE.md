@@ -6,13 +6,13 @@ permalink: /database/
 
 Full database split into 8 regions:
 
-|         | lon region | lat region |
+| Region  | lon range  | lat range  |
 |---------|------------|------------|
-| Q1 lat+ | [0, 90)    | [0, 90]    |
-| Q1 lat- | [0, 90)    | (0, -90]   |
-| Q2 lat+ | [90, 180)  | [0, 90]    |
-| Q2 lat- | [90, 180)  | (0, -90]   |
-| Q3 lat+ | [180, 270) | [0, 90]    |
-| Q3 lat- | [180, 270) | (0, -90]   |
-| Q4 lat+ | [270, 360) | [0, 90]    |
-| Q4 lat- | [270, 360) | (0, -90]   |
+| [Q1P](https://ucc.ar/Q1P_table/) | [0, 90)    | [0, 90]    |
+| [Q1N](https://ucc.ar/Q1P_table/) | [0, 90)    | (0, -90]   |
+| [Q2P](https://ucc.ar/Q2P_table/) | [90, 180)  | [0, 90]    |
+| [Q2N](https://ucc.ar/Q2N_table/) | [90, 180)  | (0, -90]   |
+| [Q3P](https://ucc.ar/Q3P_table/) | [180, 270) | [0, 90]    |
+| [Q3N](https://ucc.ar/Q3N_table/) | [180, 270) | (0, -90]   |
+| [Q4P](https://ucc.ar/Q4P_table/) | [270, 360) | [0, 90]    |
+| [Q4N](https://ucc.ar/Q4N_table/) | [270, 360) | (0, -90]   |
