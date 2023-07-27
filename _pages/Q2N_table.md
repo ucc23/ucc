@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Q2N
+title: 2nd quadrant, negative latitude
 permalink: /Q2N_table/
 ---
 
