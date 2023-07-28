@@ -22,6 +22,7 @@ on how to install are provided.
 
 xxxx
 
-### Clusters in  proximity
+### Clusters in proximity
 
 xxxx xxx
+

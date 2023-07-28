@@ -3,45 +3,42 @@ layout: post
 title:  Blanco 1
 ---
 <h3><span style="color: #808080;"><i>(zeta Scl; OCL 43; ESO 409 09; MWSC 7)</i></span></h3>
- <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center;">
-       <!-- Left block -->
-<!-- insert this snippet where you want Aladin Lite viewer to appear -->
-<div id="aladin-lite-div" style="width:355px;height:250px;"></div>
-<script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
-<script type="text/javascript">
-let aladin;
-A.init.then(() => {
-    aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.503, target: "1.07 -29.988"});
-});
-</script>
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.503, target: "1.07 -29.988"});
+   });
+ </script>
 </div>
 <!-- Left block -->
 
-   <!-- Right block -->
-   <table style="text-align: center; width:355px;height:250px;">
-      <!-- Row 1 (title) -->
-      <tbody><tr>
-         <td colspan="5"><h3>UCC G015.0-79.0</h3></td>
-      </tr>
-      <!-- Row 2 -->
-      <tr>
-         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-         <th><a title="Stars with membership probability >50%">N_50</a></th>
-         <th><a title="Radius that contains half the members, in [arcmin]">r_50</a></th>
-      </tr>
-      <!-- Row 3 -->
-      <tr>
-         <td>1.0</td>
-         <td>1.0</td>
-         <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-         <td>547</td>
-         <td>105.1</td>
-      </tr>
-   </tbody></table>
-   <!-- Right block -->
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G015.0-79.0</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><a title="Stars with membership probability >50%">N_50</a></th>
+    <th><a title="Radius that contains half the members, in [arcmin]">r_50</a></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>1.0</td>
+    <td>1.0</td>
+    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td>547</td>
+    <td>105.1</td>
+  </tr>
+</table>
 </div>
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20%3Dbody%3A%22Blanco%201%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
@@ -83,11 +80,11 @@ A.init.then(() => {
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, --=--, logt=7.8, --=--` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.06, d_pc=234.39, logt=8.24, --=--` |
 
-### Catalogued clusters in <a href="https://ucc.ar/FAQ#clusters-in-proximity" title="See FAQ for definition of proximity">proximity</a>
+### Catalogued clusters in <a href="https://ucc.ar/faq#clusters-in-proximity" title="See FAQ for definition of proximity">proximity</a>
 
-| Cluster | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P     |
+| Cluster | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P (%) |
 | :---    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 | 0.82 |
+|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 | 82 |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-28</i></font>
