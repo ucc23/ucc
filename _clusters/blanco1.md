@@ -26,11 +26,11 @@ A.init.then(() => {
       </tr>
       <!-- Row 2 -->
       <tr>
-         <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 1">C1</a></th>
-         <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 2">C2</a></th>
-         <th><a href="https://ucc.ar/FAQ/#1.0" title="Cluster class 3">C3</a></th>
-         <th>N_50</th>
-         <th>r_50</th>
+         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+         <th><a href="https://ucc.ar/FAQ#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+         <th><a title="Stars with membership probability >50%">N_50</a></th>
+         <th><a title="Radius that contains half the members, in [arcmin]">r_50</a></th>
       </tr>
       <!-- Row 3 -->
       <tr>
@@ -83,11 +83,11 @@ A.init.then(() => {
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, --=--, logt=7.8, --=--` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.06, d_pc=234.39, logt=8.24, --=--` |
 
-### Catalogued clusters in <a href="faq.html" title="See FAQ for definition of proximity">proximity</a>
+### Catalogued clusters in <a href="https://ucc.ar/FAQ#clusters-in-proximity" title="See FAQ for definition of proximity">proximity</a>
 
 | Cluster | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P     |
 | :---    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 | 0.82 |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-24</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-07-28</i></font>
