@@ -22,7 +22,7 @@ on how to install are provided.
 
 xxxx
 
-### Clusters in proximity
+### Probable duplicates
 
 xxxx xxx
 

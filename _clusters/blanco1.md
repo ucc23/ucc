@@ -28,7 +28,7 @@ title:  Blanco 1
     <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
     <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
     <th><a title="Stars with membership probability >50%">N_50</a></th>
-    <th><a title="Radius that contains half the members, in [arcmin]">r_50</a></th>
+    <th><a title="Radius that contains half the members [arcmin]">r_50</a></th>
   </tr>
   <!-- Row 3 -->
   <tr>
@@ -41,7 +41,7 @@ title:  Blanco 1
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20%3Dbody%3A%22Blanco%201%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Blanco%201%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -58,6 +58,12 @@ title:  Blanco 1
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 0.915 | -30.011 | 4.232 | 18.725 | 2.593 | 4.217 |
 | **UCC** |1.07 | -29.988 | 4.221 | 18.715 | 2.594 | 5.464 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster (P%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P (%) |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) (82)| 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 |
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=1.07%20-29.988" target="_blank">CDS</a></p>
 
 ### Plots for selected probable members
@@ -80,11 +86,5 @@ title:  Blanco 1
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, --=--, logt=7.8, --=--` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.06, d_pc=234.39, logt=8.24, --=--` |
 
-### Catalogued clusters in <a href="https://ucc.ar/faq#clusters-in-proximity" title="See FAQ for definition of proximity">proximity</a>
-
-| Cluster | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P (%) |
-| :---    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 | 82 |
-
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-28</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>
