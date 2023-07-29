@@ -61,9 +61,9 @@ title:  Blanco 1
 
 ### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
 
-| Cluster (P%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    | P (%) |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/) (82)| 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 |
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/)| 82 | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 |
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=1.07%20-29.988" target="_blank">CDS</a></p>
 
 ### Plots for selected probable members
