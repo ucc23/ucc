@@ -27,8 +27,8 @@ title:  Blanco 1
     <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
     <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
     <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><a title="Stars with membership probability >50%">N_50</a></th>
-    <th><a title="Radius that contains half the members [arcmin]">r_50</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
