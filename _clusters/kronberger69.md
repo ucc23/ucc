@@ -1,0 +1,80 @@
+---
+layout: post
+title:  Kronberger 69
+---
+<h3><span style="color: #808080;"><i>(DSH J2001.9+3126; SAI 133; FSR 0181)</i></span></h3>
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.143, target: "300.51 31.408"});
+   });
+ </script>
+</div>
+<!-- Left block -->
+
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G068.5+00.4</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>0.81</td>
+    <td>0.79</td>
+    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td>52</td>
+    <td>4.3</td>
+  </tr>
+</table>
+</div>
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Kronberger%2069%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
+### Position in UCC and published works (not exhaustive)
+
+| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 300.488 | 31.445 | -- | -2.78 | -3.63 | -- |
+|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 300.48 | 31.445 | -- | -2.044 | -4.582 | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 300.491 | 31.441 | -- | -- | -- | -- |
+|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 300.499 | 31.42 | 0.351 | -2.741 | -5.246 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 300.49 | 31.423 | 0.355 | -2.719 | -5.206 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 300.509 | 31.42 | 0.37 | -2.776 | -5.235 | -44.436 |
+| **UCC** |300.51 | 31.408 | 0.369 | -2.791 | -5.243 | -13.202 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=300.51%2031.408" target="_blank">CDS</a></p>
+
+### Plots for selected probable members
+
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger69.webp)
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1P/blob/master/notebooks/kronberger69.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=2.04, dm=15.3, logt=7.9` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.56, dm=11.83, logt=8.77, --=--` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=2.46, dm=12.14, logt=7.61, --=--` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.83, d_pc=2651.0, logt=7.07, FeH=-0.11` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.91, d_pc=2568.44, logt=7.75, --=--` |
+
+<br>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>

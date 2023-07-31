@@ -1,0 +1,79 @@
+---
+layout: post
+title:  PHOC 11
+---
+
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.163, target: "303.358 32.137"});
+   });
+ </script>
+</div>
+<!-- Left block -->
+
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G070.4-01.2a</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>0.96</td>
+    <td>0.52</td>
+    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td>276</td>
+    <td>4.9</td>
+  </tr>
+</table>
+</div>
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22PHOC%2011%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
+### Position in UCC and published works (not exhaustive)
+
+| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 303.333 | 32.175 | 0.464 | -3.845 | -5.271 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 303.36 | 32.122 | 0.479 | -3.823 | -5.3 | 48.783 |
+| **UCC** |303.358 | 32.137 | 0.447 | -3.801 | -5.315 | -13.219 |
+
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[HXHWL 40](https://ucc.ar/_clusters/hxhwl40/)| 87 | 303.358 | 32.136 | 0.458 | -3.807 | -5.315 | 0.089 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=303.358%2032.137" target="_blank">CDS</a></p>
+
+### Plots for selected probable members
+
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc11.webp)
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1N/blob/master/notebooks/phoc11.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.07, d_pc=1969.42, logt=8.22, --=--` |
+
+<br>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>

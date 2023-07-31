@@ -1,0 +1,78 @@
+---
+layout: post
+title:  CWNU 194
+---
+
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.193, target: "85.46 29.395"});
+   });
+ </script>
+</div>
+<!-- Left block -->
+
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G179.1-00.4a</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>0.6</td>
+    <td>0.57</td>
+    <td><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td>122</td>
+    <td>5.8</td>
+  </tr>
+</table>
+</div>
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWNU%20194%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
+### Position in UCC and published works (not exhaustive)
+
+| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 85.477 | 29.396 | 0.48 | 0.51 | -3.52 | -11.1 |
+| **UCC** |85.46 | 29.395 | 0.45 | 0.528 | -3.534 | -5.924 |
+
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1289](https://ucc.ar/_clusters/ubc1289/)| 74 | 85.466 | 29.394 | 0.446 | 0.531 | -3.53 | 8.072 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=85.46%2029.395" target="_blank">CDS</a></p>
+
+### Plots for selected probable members
+
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q2N/main/plots/cwnu194.webp)
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q2N/blob/master/notebooks/cwnu194.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.0, dm=11.1, logt=9.0, Z=0.01` |
+
+<br>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>

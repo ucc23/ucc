@@ -1,0 +1,79 @@
+---
+layout: post
+title:  Berkeley 15
+---
+
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.147, target: "75.518 44.503"});
+   });
+ </script>
+</div>
+<!-- Left block -->
+
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G162.2+01.6</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>0.93</td>
+    <td>0.63</td>
+    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td>247</td>
+    <td>4.4</td>
+  </tr>
+</table>
+</div>
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Berkeley%2015%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
+### Position in UCC and published works (not exhaustive)
+
+| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 75.528 | 44.512 | -- | -1.29 | -4.23 | -- |
+|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 75.525 | 44.512 | -- | -0.303 | -1.134 | -- |
+|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 75.52 | 44.506 | 0.339 | 0.782 | -0.872 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 75.511 | 44.499 | 0.338 | 0.797 | -0.88 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 75.524 | 44.507 | 0.337 | 0.668 | -0.977 | -14.328 |
+| **UCC** |75.518 | 44.503 | 0.335 | 0.683 | -0.979 | -26.372 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=75.518%2044.503" target="_blank">CDS</a></p>
+
+### Plots for selected probable members
+
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q2P/main/plots/berkeley15.webp)
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q2P/blob/master/notebooks/berkeley15.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.35, dm=10.68, logt=9.4, FeH=0.0` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.76, dm=13.06, logt=8.56, --=--` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=2.64, dm=12.36, logt=7.27, --=--` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.77, d_pc=2101.0, logt=7.24, FeH=-0.18` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.95, d_pc=2568.96, logt=7.88, --=--` |
+
+<br>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>

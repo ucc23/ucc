@@ -1,0 +1,78 @@
+---
+layout: post
+title:  Ruprecht 41
+---
+<h3><span style="color: #808080;"><i>(OCL 673; ESO 493 31; FSR 1318; MWSC 1378)</i></span></h3>
+<div style="display: flex; justify-content: space-between;">
+ <div style="text-align: center;">
+ <!-- Left block -->
+ <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
+ <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+ <script type="text/javascript">
+   let aladin;
+   A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.143, target: "118.427 -27.005"});
+   });
+ </script>
+</div>
+<!-- Left block -->
+
+<table style="text-align: center; width:355px;height:250px;">
+  <!-- Row 1 (title) -->
+  <tr>
+    <td colspan="5"><h3>UCC G243.8+00.3</h3></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
+    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
+    <th><div title="Stars with membership probability >50%">N_50</div></th>
+    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td>0.94</td>
+    <td>0.69</td>
+    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td>165</td>
+    <td>4.3</td>
+  </tr>
+</table>
+</div>
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Ruprecht%2041%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+
+
+### Position in UCC and published works (not exhaustive)
+
+| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 118.451 | -26.965 | -- | -2.33 | 3.91 | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 118.441 | -26.967 | -- | -- | -- | -- |
+|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 118.443 | -26.992 | 0.195 | -2.593 | 3.554 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 118.437 | -26.975 | 0.204 | -2.581 | 3.535 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 118.424 | -27.007 | 0.227 | -2.596 | 3.572 | 96.074 |
+| **UCC** |118.427 | -27.005 | 0.228 | -2.6 | 3.579 | 78.43 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=118.427%20-27.005" target="_blank">CDS</a></p>
+
+### Plots for selected probable members
+
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ruprecht41.webp)
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q3P/blob/master/notebooks/ruprecht41.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.14, dm=12.6, logt=8.87` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=0.98, dm=13.18, logt=8.16, --=--` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.23, d_pc=3410.0, logt=8.59, FeH=-0.11` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.1, d_pc=3746.34, logt=8.46, --=--` |
+
+<br>
+<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>
