@@ -41,7 +41,7 @@ title:  Berkeley 13
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Berkeley%2013%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Berkeley%2013%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=berkeley13" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -56,7 +56,7 @@ title:  Berkeley 13
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 73.953 | 52.81 | 0.223 | -0.143 | 0.528 | -30.019 |
 | **UCC** |73.944 | 52.803 | 0.225 | -0.114 | 0.498 | -30.098 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=73.944%2052.803" target="_blank">CDS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=73.944%2052.803" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=73.944%2052.803&output=json&radius=5&userEntry=berkeley13" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -77,4 +77,4 @@ title:  Berkeley 13
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.35, d_pc=3788.32, logt=8.66, --=--` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

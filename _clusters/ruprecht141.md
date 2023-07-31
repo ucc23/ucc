@@ -41,7 +41,7 @@ title:  Ruprecht 141
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Ruprecht%20141%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Ruprecht%20141%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ruprecht141" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -59,7 +59,7 @@ title:  Ruprecht 141
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Teutsch J1830.8-1215](https://ucc.ar/_clusters/teutschj183081215/)| 30 | 277.829 | -12.273 | 0.279 | -1.639 | -3.76 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=277.838%20-12.328" target="_blank">CDS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=277.838%20-12.328" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.838%20-12.328&output=json&radius=5&userEntry=ruprecht141" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  Ruprecht 141
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.95, dm=12.95, logt=6.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

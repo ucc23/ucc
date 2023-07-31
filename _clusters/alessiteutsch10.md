@@ -41,7 +41,7 @@ title:  Alessi Teutsch10
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Alessi%20Teutsch10%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Alessi%20Teutsch10%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=alessiteutsch10" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -60,7 +60,7 @@ title:  Alessi Teutsch10
 |[UBC 19](https://ucc.ar/_clusters/ubc19/)| 44 | 56.398 | 29.848 | 2.468 | 2.668 | -5.235 | 16.344 |
 |[OC 0278](https://ucc.ar/_clusters/oc0278/)| 80 | 56.362 | 29.761 | 2.514 | 2.512 | -5.344 | 34.266 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search region in <a href="http://cdsportal.u-strasbg.fr/?target=56.32%2029.735" target="_blank">CDS</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=56.32%2029.735" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.32%2029.735&output=json&radius=5&userEntry=alessiteutsch10" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,4 +78,4 @@ title:  Alessi Teutsch10
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.66, d_pc=392.6, logt=6.53, --=--` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-29</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
