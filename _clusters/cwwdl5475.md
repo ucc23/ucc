@@ -48,7 +48,7 @@ title:  CWWDL 5475
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | 198.196 | -64.259 | 0.447 | -4.399 | -0.497 | -25.611 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 198.196 | -64.259 | 0.447 | -4.399 | -0.497 | -25.611 |
 | **UCC** |198.194 | -64.271 | 0.448 | -4.374 | -0.486 | -19.508 |
 
 
@@ -74,7 +74,7 @@ title:  CWWDL 5475
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | `--=--, --=--, logt=7.88, Z=-0.28` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=7.88, Z=-0.28` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

@@ -52,7 +52,7 @@ title:  CWWDL 928
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | 244.701 | -52.883 | 0.288 | -2.604 | -3.919 | -9.388 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 244.701 | -52.883 | 0.288 | -2.604 | -3.919 | -9.388 |
 | **UCC** |244.711 | -52.889 | 0.231 | -2.594 | -3.979 | -24.719 |
 
 
@@ -79,7 +79,7 @@ title:  CWWDL 928
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | `--=--, --=--, logt=7.91, Z=0.44` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=7.91, Z=0.44` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

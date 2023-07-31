@@ -48,7 +48,7 @@ title:  CWWDL 2050
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | 102.085 | 4.032 | 0.26 | -0.484 | -0.535 | 56.437 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 102.085 | 4.032 | 0.26 | -0.484 | -0.535 | 56.437 |
 | **UCC** |102.099 | 4.016 | 0.272 | -0.516 | -0.573 | 51.847 |
 
 
@@ -72,7 +72,7 @@ title:  CWWDL 2050
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | `--=--, --=--, logt=7.76, Z=0.3` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=7.76, Z=0.3` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

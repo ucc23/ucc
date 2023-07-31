@@ -48,7 +48,7 @@ title:  CWWDL 3100
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | 122.106 | -23.707 | 0.251 | -2.219 | 4.049 | 67.79 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 122.106 | -23.707 | 0.251 | -2.219 | 4.049 | 67.79 |
 | **UCC** |122.116 | -23.702 | 0.235 | -2.211 | 4.042 | 60.916 |
 
 
@@ -73,7 +73,7 @@ title:  CWWDL 3100
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | `--=--, --=--, logt=8.36, Z=-0.1` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=8.36, Z=-0.1` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>

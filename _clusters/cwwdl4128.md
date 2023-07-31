@@ -48,7 +48,7 @@ title:  CWWDL 4128
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | 155.865 | -61.126 | 0.25 | -5.495 | 2.988 | -2.963 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 155.865 | -61.126 | 0.25 | -5.495 | 2.988 | -2.963 |
 | **UCC** |155.862 | -61.122 | 0.196 | -5.53 | 2.977 | 46.012 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=155.862%20-61.122" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=155.862%20-61.122&output=json&radius=5&userEntry=cwwdl4128" target="_blank">Simbad</a></p>
@@ -65,7 +65,7 @@ title:  CWWDL 4128
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstrac) | `--=--, --=--, logt=8.33, Z=-0.88` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=8.33, Z=-0.88` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
