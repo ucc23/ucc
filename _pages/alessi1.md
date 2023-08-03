@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Alessi 1
+permalink: /alessi1/
 tags: [test1, test2]
 ---
 <h3><span style="color: #808080;"><i>(CA 1; Casado-Alessi 1; LeDrew 1; MWSC 88)</i></span></h3>
