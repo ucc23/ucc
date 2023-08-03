@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Alessi 1
 tags: [test1, test2]
 ---
