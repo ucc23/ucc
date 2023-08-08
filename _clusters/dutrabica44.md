@@ -72,4 +72,4 @@ title:  Dutra-Bica 44
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=2.41, dm=12.55, logt=9.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>

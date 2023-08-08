@@ -79,4 +79,4 @@ title:  Gaia 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.69, d_pc=4832.05, logt=9.12, --=--` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>

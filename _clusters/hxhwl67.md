@@ -75,4 +75,4 @@ title:  HXHWL 67
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.8, dm=10.7, logt=8.38, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>

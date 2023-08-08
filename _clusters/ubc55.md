@@ -75,4 +75,4 @@ title:  UBC 55
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=1.38, dm=9.76, logt=7.53, --=--` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>

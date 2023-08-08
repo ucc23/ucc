@@ -73,4 +73,4 @@ title:  UBC 63
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `--=--, d_pc=1473.0, logt=7.82, --=--` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>

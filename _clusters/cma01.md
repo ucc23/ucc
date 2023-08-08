@@ -77,4 +77,4 @@ title:  CMa01
 | [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `Av=0.42;0.43, d_pc=1059;1015, logt=8.24;8.3, FeH=0.07;0.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-07-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
