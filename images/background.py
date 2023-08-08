@@ -39,7 +39,7 @@ def main():
     ax.set_yticklabels([])
 
     # # fig.tight_layout()
-    fig.savefig('background.webp', dpi=300)#, bbox_inches='tight')
+    fig.savefig('background.webp', dpi=200)#, bbox_inches='tight')
 
 
 if __name__ == '__main__':
