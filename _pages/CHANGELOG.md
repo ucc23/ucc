@@ -4,6 +4,6 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
-### v230810 (10/08/2023)
+### 10/08/2023
 
 Initial release of the catalogue, accompanied with the article published in MNRAS.
