@@ -36,12 +36,15 @@ searchInput.addEventListener("input", e => {
       } else {  // Search method based on text
         let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
         if (user.fnames.includes(fvalue)) {
+          // The division by 10 is so that this distance is compatible with
+          // the Euclidean distance in the other blocks
+          var distance = findMinimumDistance(fvalue, user.fnames, levenshteinDistance)/10;
           var show_e_1 = true;
         }
       }
 
-      // Condition to show card
-      const isVisible = show_e_1 || distance <= 2
+      // Condition to show card. This value seems reasonable
+      const isVisible = distance < 2
 
       if (isVisible) {
         user.distance = distance
@@ -68,7 +71,51 @@ searchInput.addEventListener("input", e => {
 })
 
 
-fetch("/_clusters/clusters.json")
+// Source: https://stackoverflow.com/a/18514751/1391441
+// This implementation combines speed with brevity of code
+var levenshteinDistance = (function() {
+        var row2 = [];
+        return function(s1, s2) {
+            if (s1 === s2) {
+                return 0;
+            } else {
+                var s1_len = s1.length, s2_len = s2.length;
+                if (s1_len && s2_len) {
+                    var i1 = 0, i2 = 0, a, b, c, c2, row = row2;
+                    while (i1 < s1_len)
+                        row[i1] = ++i1;
+                    while (i2 < s2_len) {
+                        c2 = s2.charCodeAt(i2);
+                        a = i2;
+                        ++i2;
+                        b = i2;
+                        for (i1 = 0; i1 < s1_len; ++i1) {
+                            c = a + (s1.charCodeAt(i1) === c2 ? 0 : 1);
+                            a = row[i1];
+                            b = b < a ? (b < c ? b + 1 : c) : (a < c ? a + 1 : c);
+                            row[i1] = b;
+                        }
+                    }
+                    return b;
+                } else {
+                    return s1_len + s2_len;
+                }
+            }
+        };
+})();
+
+
+function findMinimumDistance(fvalue, fnames, dist_func) {
+    let minDistance = Infinity;
+    for (const randomStr of fnames.split(';')) {
+        const distance = dist_func(fvalue, randomStr);
+        minDistance = Math.min(minDistance, distance);
+    }
+    return minDistance;
+}
+
+
+fetch("clusters.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
@@ -109,78 +156,3 @@ fetch("/_clusters/clusters.json")
       }
     })
   })
-
-
-
-// const userCardTemplate = document.querySelector("[data-user-template]")
-// const userCardContainer = document.querySelector("[data-user-cards-container]")
-// const searchInput = document.querySelector("[data-search]")
-
-// let users = []
-// let results = []
-
-// searchInput.addEventListener("input", e => {
-//   results = []; //quickly empty array
-//   userCardContainer.innerHTML = "";
-
-//   const value = e.target.value.toLowerCase()
-//   const xy = value.split(' ')
-
-//   // wait for 4 chars
-//   if (parseFloat(value.length) >= 4) {
-//     users.forEach(user => {
-
-//       var distance;
-//       // For galactic coordinates search
-//       if (xy[0] == "g") { // ||  (xy[0] == "G")
-//         var distance = Math.sqrt(
-//           Math.pow(parseFloat(xy[1]) - parseFloat(user.lon), 2) +
-//           Math.pow(parseFloat(xy[2]) - parseFloat(user.lat), 2))
-//       // For equatorial coordinates search
-//       } else{
-//         var distance = Math.sqrt(
-//           Math.pow(parseFloat(xy[0]) - parseFloat(user.ra), 2) +
-//           Math.pow(parseFloat(xy[1]) - parseFloat(user.dec), 2))
-//       }
-//       let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
-
-//       // 1 deg search region
-//       const isVisible = user.fnames.includes(fvalue) || distance <= 1
-
-//       if (isVisible) {
-//         user.distance = distance
-//         results.push(
-//           user
-//         );
-//       }
-//     })
-//   }
-//   // Sort and limit results
-//   results.sort((a, b) => a.distance - b.distance)
-//   results = results.slice(0, 10)
-//   results.forEach((u) => {
-//     userCardContainer.append(u.element);
-//   });
-// })
-
-
-// fetch("/_clusters/clusters.json")
-//   .then(res => res.json())
-//   .then(data => {
-//     users = data.map(user => {
-//       const card = userCardTemplate.content.cloneNode(true).children[0]
-//       const header = card.querySelector("[data-header]")
-//       const body = card.querySelector("[data-body]")
-//       card.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
-//       header.textContent = user.ID
-//       body.textContent = user.UCC_ID
-//       return {
-//         fnames: user.fnames,
-//         ra: user.RA_ICRS,
-//         dec: user.DE_ICRS,
-//         lon: user.GLON,
-//         lat: user.GLAT,
-//         element: card
-//       }
-//     })
-//   })

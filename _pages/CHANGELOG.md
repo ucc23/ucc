@@ -4,6 +4,6 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
-### [vXXYY23] - XX/YY/2023
+### v230810 (10/08/2023)
 
-First release of the catalogue with XXXXXX entries
+Initial release of the catalogue, accompanied with the article published in MNRAS.

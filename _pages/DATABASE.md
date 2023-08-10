@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Database split into 8 regions
+title: Database
 permalink: /database/
 ---
+
+### Split into eight regions by coordinates
 
 | Region  | lon range  | lat range  |
 |---------|------------|------------|
@@ -15,11 +17,3 @@ permalink: /database/
 | [Q4P: 4th quadrant, positive latitude](https://ucc.ar/Q4P_table/) | [270, 360) | [0, 90]    |
 | [Q4N: 4th quadrant, negative latitude](https://ucc.ar/Q4N_table/) | [270, 360) | (0, -90]   |
 
-### Where is the full database?
-
-The latest version of the UCC can be found [here](link_to_databse) in `csv` format.
-
-### Is there a single file with the complete list of estimated members?
-
-Yes, the `parquet` file with the latest version of the estimated members for the
-complete UCC can be downloaded [here](link_to_members_file).
