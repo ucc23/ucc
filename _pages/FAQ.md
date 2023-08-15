@@ -86,10 +86,17 @@ C3        : C_phot,C_dens, combined quality class
 {% endraw %}
 
 
-## Is there a single file with the complete list of estimated members?
+## Where is the complete list of estimated members?
 
-Yes, the `parquet` file with the latest version of the estimated members for the
-complete UCC can be downloaded [here](link_to_members_file).
+The compressed `parquet` file with the latest version of the estimated
+members for the complete UCC can be downloaded [here](/../UCC_members.parquet.gz). To extract the
+data simply use the [pandas](https://pandas.pydata.org/) Python package:
+
+{% raw %}
+```
+df = pd.read_parquet('UCC_members.parquet.gz')
+```
+{% endraw %}
 
 
 ## Is the fastMP tool publicly available?
