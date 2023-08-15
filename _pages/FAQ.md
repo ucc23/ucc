@@ -9,7 +9,6 @@ permalink: /faq/
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 - [How do I use the search bar?](#how-do-i-use-the-search-bar)
 - [Where is the full database?](#where-is-the-full-database)
-- [Is there a single file with the complete list of estimated members?](#is-there-a-single-file-with-the-complete-list-of-estimated-members)
 - [Is the fastMP tool publicly available?](#is-the-fastmp-tool-publicly-available)
 - [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
 - [Probable duplicates](#probable-duplicates)
@@ -58,39 +57,12 @@ need to add a `g` before the `(lon, lat)` values:
 
 ## Where is the full database?
 
-The latest version of the UCC can be found [here](/../UCC_cat.csv.gz) in compressed `csv`
-format. The file contains the following columns:
-
-{% raw %}
-```
-ID        : Name(s) associated to the OC
-RA_ICRS   : Median RA from the databases this OC is present
-DE_ICRS   : Median DEC from the databases this OC is present
-plx       : Median parallax from the databases this OC is present
-pmRA      : Median RA proper motion from the databases this OC is present
-pmDE      : Median DEC proper motion from the databases this OC is present
-UCC_ID    : Internal UCC naming
-N_50      : Number of estimated members with P>0.5
-r_50      : Radius that contains half the members (in arcmin)
-RA_ICRS_m : Median RA estimated using the selected members
-DE_ICRS_m : Median DEC estimated using the selected members
-plx_m     : Median parallax estimated using the selected members
-pmRA_m    : Median RA proper motion estimated using the selected members
-pmDE_m    : Median DEC proper motion estimated using the selected members
-Rv_m      : Median radial velocity estimated using the selected members
-N_Rv      : Number of members with Rv data
-C1        : C_phot quality class
-C2        : C_dens quality class
-C3        : C_phot,C_dens, combined quality class
-```
-{% endraw %}
-
-
-## Where is the complete list of estimated members?
+The latest version of the UCC can be found in its [Zenodo repository](https://zenodo.org/record/8250524) in
+compressed `csv` format.
 
 The compressed `parquet` file with the latest version of the estimated
-members for the complete UCC can be downloaded [here](/../UCC_members.parquet.gz). To extract the
-data simply use the [pandas](https://pandas.pydata.org/) Python package:
+members for the complete UCC can also be downloaded from the same Zenodo
+repository. To extract the data simply use the [pandas](https://pandas.pydata.org/) Python package:
 
 {% raw %}
 ```

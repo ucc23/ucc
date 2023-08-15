@@ -1,1 +1,0 @@
-UCC_members.parquet.gz filter=lfs diff=lfs merge=lfs -text
