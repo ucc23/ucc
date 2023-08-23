@@ -16,7 +16,7 @@ permalink: /faq/
 ## How can I cite the UCC?
 
 If you used the UCC and/or the `fastMP` tool in your work, please reference the
-following article:
+[following article](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract):
 
 {% raw %}
 ```
