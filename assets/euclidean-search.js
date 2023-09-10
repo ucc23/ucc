@@ -34,7 +34,7 @@ searchInput.addEventListener("input", e => {
           Math.pow(parseFloat(xy[2]) - parseFloat(user.GLAT), 2))
         var show_e_2 = true;
       } else {  // Search method based on text
-        let fvalue = value.replace(" ", "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
+        let fvalue = value.replace(/\s/g, "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
         if (user.fnames.includes(fvalue)) {
           // The division by 10 is so that this distance is compatible with
           // the Euclidean distance in the other blocks
