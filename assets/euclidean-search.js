@@ -35,7 +35,7 @@ searchInput.addEventListener("input", e => {
         var show_e_2 = true;
       } else {  // Search method based on text
         let fvalue = value.replace(/\s/g, "").replace("_", "").replace("-", "").replace("+", "p").replace(".", "")
-        if (user.fnames.includes(fvalue)) {
+        if (user.fnames.includes(fvalue.slice(0, 3))) {
           // The division by 10 is so that this distance is compatible with
           // the Euclidean distance in the other blocks
           var distance = findMinimumDistance(fvalue, user.fnames, levenshteinDistance)/10;
