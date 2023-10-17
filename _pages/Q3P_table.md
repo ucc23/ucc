@@ -1198,7 +1198,7 @@ permalink: /Q3P_table/
 | [NGC 2413](https://ucc.ar/_clusters/ngc2413/) | 229.34 | 3.06 | 113.28 | -13.1 | 0.147 | 0.15 | 0.39 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 2414](https://ucc.ar/_clusters/ngc2414/) | 231.4 | 1.94 | 113.29 | -15.45 | 0.181 | 1.0 | 0.84 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2420](https://ucc.ar/_clusters/ngc2420/) | 198.11 | 19.64 | 114.6 | 21.58 | 0.383 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [NGC 2421](https://ucc.ar/_clusters/ngc2421/) | 236.28 | 0.06 | 114.05 | -20.63 | 0.36 | 1.0 | 0.86 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 2421](https://ucc.ar/_clusters/ngc2421/) | 236.28 | 0.06 | 114.05 | -20.63 | 0.36 | 1.0 | 0.87 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2422](https://ucc.ar/_clusters/ngc2422/) | 230.96 | 3.13 | 114.15 | -14.49 | 2.096 | 1.0 | 0.98 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2423](https://ucc.ar/_clusters/ngc2423/) | 230.49 | 3.56 | 114.3 | -13.86 | 1.059 | 1.0 | 0.85 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2425](https://ucc.ar/_clusters/ngc2425/) | 231.51 | 3.3 | 114.58 | -14.88 | 0.295 | 1.0 | 0.71 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -1230,6 +1230,7 @@ permalink: /Q3P_table/
 | [NGC 2658](https://ucc.ar/_clusters/ngc2658/) | 254.56 | 6.07 | 130.87 | -32.66 | 0.218 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2664](https://ucc.ar/_clusters/ngc2664/) | 214.37 | 31.35 | 131.84 | 12.6 | 0.17 | 0.72 | 0.41 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 2671](https://ucc.ar/_clusters/ngc2671/) | 262.16 | 0.79 | 131.56 | -41.89 | 0.695 | 1.0 | 0.75 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 2682](https://ucc.ar/_clusters/ngc2682/) | 215.69 | 31.92 | 132.85 | 11.81 | 1.151 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2818A](https://ucc.ar/_clusters/ngc2818a/) | 262.0 | 8.6 | 139.04 | -36.63 | 0.302 | 1.0 | 0.94 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2818](https://ucc.ar/_clusters/ngc2818/) | 262.0 | 8.61 | 139.04 | -36.62 | 0.301 | 1.0 | 0.92 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2849](https://ucc.ar/_clusters/ngc2849/) | 265.27 | 6.36 | 139.85 | -40.52 | 0.171 | 1.0 | 0.65 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

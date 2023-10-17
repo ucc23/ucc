@@ -1057,6 +1057,7 @@ permalink: /Q2N_table/
 | [Markarian 50](https://ucc.ar/_clusters/markarian50/) | 111.33 | -0.24 | 348.81 | 60.45 | 0.33 | 0.8 | 0.81 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Mayer 1](https://ucc.ar/_clusters/mayer1/) | 119.46 | -0.92 | 5.5 | 61.75 | 0.348 | 1.0 | 0.59 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Melotte 20](https://ucc.ar/_clusters/melotte20/) | 147.36 | -6.4 | 51.62 | 48.98 | 5.74 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Melotte 22](https://ucc.ar/_clusters/melotte22/) | 166.46 | -23.61 | 56.6 | 24.11 | 7.36 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 239](https://ucc.ar/_clusters/melotte239/) | 99.95 | -2.68 | 332.62 | 52.86 | 0.271 | 1.0 | 0.96 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 1039](https://ucc.ar/_clusters/ngc1039/) | 143.68 | -15.65 | 40.53 | 42.72 | 2.003 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 103](https://ucc.ar/_clusters/ngc103/) | 119.79 | -1.39 | 6.31 | 61.33 | 0.282 | 1.0 | 0.77 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
