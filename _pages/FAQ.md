@@ -16,20 +16,23 @@ permalink: /faq/
 ## How can I cite the UCC?
 
 If you used the UCC and/or the `fastMP` tool in your work, please reference the
-[following article](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract):
+[article](https://doi.org/10.1093/mnras/stad2826):
 
 {% raw %}
 ```
-@ARTICLE{2023arXiv230804546P,
-    author = {{Perren}, G.~I. and {Pera}, M.~S. and {Navone}, H.~D. and {V{\'a}zquez}, R.~A.},
-     title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous database of stellar clusters}",
-   journal = {arXiv e-prints},
-  keywords = {Astrophysics - Astrophysics of Galaxies},
-      year = 2023,
-     month = aug,
-       doi = {10.48550/arXiv.2308.04546},
-    adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P},
-   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@ARTICLE{2023MNRAS.tmp.2728P,
+       author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
+        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous database of stellar clusters}",
+      journal = {\mnras},
+     keywords = {(Galaxy:) open clusters and associations: general, catalogues, methods: data analysis, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = sep,
+          doi = {10.1093/mnras/stad2826},
+archivePrefix = {arXiv},
+       eprint = {2308.04546},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2728P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
 {% endraw %}
