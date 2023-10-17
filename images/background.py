@@ -11,7 +11,7 @@ the bottom left and trim the blank space to the right. This generates an
 image with the proper dimensions for the ucc.ar site.
 """
 
-df = pd.read_csv("../../add_New_DB/UCC_cat_230702.csv")
+df = pd.read_csv("../../updt_UCC/UCC_versions/UCC_cat_230810.csv")
 
 sizes = 1 * (1 / np.clip(df['plx'].values, .1, 20))
 
@@ -32,4 +32,5 @@ ax.scatter(i_lon, lat, s=sizes, lw=.2, facecolor='none', ec='grey', zorder=5)
 ax.set_xticklabels([])
 ax.set_yticklabels([])
 
-fig.savefig('background.webp', dpi=150)
+# fig.savefig('background.webp', dpi=150)
+fig.savefig('background.png', dpi=300)
