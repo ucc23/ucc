@@ -68,11 +68,5 @@ title:  Pismis 24
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4P/blob/master/notebooks/pismis24.ipynb" target="_blank">Colab</a></p>
 
 
-### Fundamental parameters in literature (not exhaustive)
-
-| Reference |  Fundamental parameters |
-| :---         |     :---:      |
-| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) |` |
-
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
