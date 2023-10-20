@@ -41,7 +41,7 @@ title:  CWNU 456
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWNU%20456%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwnu456" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWNU%20456%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwnu456" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -59,7 +59,7 @@ title:  CWNU 456
 |[CWWDL 2459](https://ucc.ar/_clusters/cwwdl2459/)| 83 | 300.904 | 32.678 | 0.461 | -1.049 | -2.006 | 15.65 |
 |[UBC 1084](https://ucc.ar/_clusters/ubc1084/)| 89 | 300.906 | 32.667 | 0.464 | -1.059 | -2.001 | -3.673 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=300.906%2032.678" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.906%2032.678&output=json&radius=5&userEntry=cwnu456" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.906,32.678" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.906%2032.678&output=json&radius=5&userEntry=cwnu456" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  CWNU 456
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=3.35, dm=12.85, logt=6.8, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

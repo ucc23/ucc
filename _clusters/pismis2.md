@@ -41,7 +41,7 @@ title:  Pismis 2
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Pismis%202%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=pismis2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Pismis%202%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=pismis2" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -63,7 +63,7 @@ title:  Pismis 2
 |[OC 0455](https://ucc.ar/_clusters/oc0455/)| 47 | 124.469 | -41.668 | 0.267 | -4.621 | 5.44 | 60.177 |
 |[OC 0456](https://ucc.ar/_clusters/oc0456/)| 45 | 124.471 | -41.67 | 0.278 | -4.616 | 5.438 | 60.177 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=124.465%20-41.664" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.465%20-41.664&output=json&radius=5&userEntry=pismis2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=124.465,-41.664" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.465%20-41.664&output=json&radius=5&userEntry=pismis2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 

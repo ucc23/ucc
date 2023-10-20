@@ -41,7 +41,7 @@ title:  Mon OB1-D
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Mon%20OB1-D%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=monob1d" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Mon%20OB1-D%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=monob1d" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -56,9 +56,9 @@ title:  Mon OB1-D
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LP44](https://ucc.ar/_clusters/lp44/)| 85 | 100.266 | 9.567 | 1.379 | -2.306 | -3.683 | 18.529 |
+|[LP 44](https://ucc.ar/_clusters/lp44/)| 85 | 100.266 | 9.567 | 1.379 | -2.306 | -3.683 | 18.529 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=100.265%209.549" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.265%209.549&output=json&radius=5&userEntry=monob1d" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.265,9.549" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.265%209.549&output=json&radius=5&userEntry=monob1d" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,7 +72,7 @@ title:  Mon OB1-D
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.44, d_pc=706.46, logt=6.76, --=--` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.44, d_pc=706.46, logt=6.76` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

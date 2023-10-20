@@ -41,7 +41,7 @@ title:  CWWDL 8237
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWWDL%208237%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwwdl8237" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWWDL%208237%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwwdl8237" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -59,7 +59,7 @@ title:  CWWDL 8237
 |[UBC 163](https://ucc.ar/_clusters/ubc163/)| 67 | 330.84 | 55.649 | 0.629 | -1.938 | -3.271 | -27.426 |
 |[CWWDL 14170](https://ucc.ar/_clusters/cwwdl14170/)| 70 | 330.842 | 55.639 | 0.641 | -1.989 | -3.278 | -27.253 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=330.821%2055.632" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=330.821%2055.632&output=json&radius=5&userEntry=cwwdl8237" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=330.821,55.632" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=330.821%2055.632&output=json&radius=5&userEntry=cwwdl8237" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  CWWDL 8237
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `--=--, --=--, logt=7.64, Z=-0.28` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.64, Z=-0.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

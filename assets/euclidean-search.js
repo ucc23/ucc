@@ -132,24 +132,24 @@ fetch("clusters.json")
       const body_2 = card_2.querySelector("[data-body_2]")
       const body_3 = card_3.querySelector("[data-body_3]")
 
-      card_1.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
-      card_2.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
-      card_3.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.fnames.split(';')[0])
+      card_1.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
+      card_2.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
+      card_3.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
 
-      header_1.textContent = user.ID
-      header_2.textContent = user.ID
-      header_3.textContent = user.ID
+      header_1.textContent = user.N
+      header_2.textContent = user.N
+      header_3.textContent = user.N
 
-      body_1.textContent = user.fnames.split(';').slice(1, 3)
-      body_2.textContent = 'G (' + user.GLON + ', ' + user.GLAT + ')'
-      body_3.textContent = 'E (' + user.RA_ICRS + ', ' + user.DE_ICRS + ')'
+      body_1.textContent = user.F.split(';').slice(1, 3)
+      body_2.textContent = 'G (' + user.L + ', ' + user.B + ')'
+      body_3.textContent = 'E (' + user.R + ', ' + user.D + ')'
 
       return {
-        fnames: user.fnames,
-        GLON: user.GLON,
-        GLAT: user.GLAT,
-        RA: user.RA_ICRS,
-        DEC: user.DE_ICRS,
+        fnames: user.F,
+        GLON: user.L,
+        GLAT: user.B,
+        RA: user.R,
+        DEC: user.D,
         element_1: card_1,
         element_2: card_2,
         element_3: card_3

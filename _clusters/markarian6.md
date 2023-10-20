@@ -51,7 +51,7 @@ title:  Markarian 6
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 37.41 | 60.707 | -- | -1.343 | -2.513 | -7.18 |
 | **UCC** |37.437 | 60.712 | 1.471 | -3.601 | 0.51 | -7.816 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.437%2060.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.437%2060.712&output=json&radius=5&userEntry=markarian6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.437,60.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.437%2060.712&output=json&radius=5&userEntry=markarian6" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -68,4 +68,4 @@ title:  Markarian 6
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.55, Dmod=8.87, logt=7.21` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

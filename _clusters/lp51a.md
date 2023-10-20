@@ -55,7 +55,7 @@ title:  LP 51A
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 105.255 | -7.38 | -- | 3.787 | -2.734 | -- |
 | **UCC** |105.254 | -7.374 | 0.179 | -0.377 | 0.732 | 56.727 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.254%20-7.374" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.254%20-7.374&output=json&radius=5&userEntry=lp51a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.254,-7.374" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.254%20-7.374&output=json&radius=5&userEntry=lp51a" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,4 +72,4 @@ title:  LP 51A
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.4, Dmod=12.41, logt=8.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

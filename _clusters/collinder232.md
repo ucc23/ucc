@@ -51,7 +51,7 @@ title:  Collinder 232
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 161.16 | -59.559 | -- | -6.09 | 0.75 | -3.0 |
 | **UCC** |161.141 | -59.552 | 0.399 | -6.514 | 1.957 | -36.156 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=161.141%20-59.552" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=161.141%20-59.552&output=json&radius=5&userEntry=collinder232" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=161.141,-59.552" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=161.141%20-59.552&output=json&radius=5&userEntry=collinder232" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -68,4 +68,4 @@ title:  Collinder 232
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.41, Dmod=11.88, logt=6.87` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

@@ -41,7 +41,7 @@ title:  Teutsch 230
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%20230%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch230" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%20230%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch230" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -59,7 +59,7 @@ title:  Teutsch 230
 |[OC 0572](https://ucc.ar/_clusters/oc0572/)| 91 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
 |[SAI 116](https://ucc.ar/_clusters/sai116/)| 94 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=177.332%20-62.227" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.332%20-62.227&output=json&radius=5&userEntry=teutsch230" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.332,-62.227" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.332%20-62.227&output=json&radius=5&userEntry=teutsch230" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  Teutsch 230
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

@@ -41,7 +41,7 @@ title:  Teutsch 59a
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%2059a%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch59a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%2059a%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch59a" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -60,7 +60,7 @@ title:  Teutsch 59a
 |[Teutsch 59b](https://ucc.ar/_clusters/teutsch59b/)| 83 | 100.956 | -0.872 | 0.354 | -0.651 | 0.69 | 60.94 |
 |[UBC 212](https://ucc.ar/_clusters/ubc212/)| 94 | 100.958 | -0.886 | 0.343 | -0.651 | 0.674 | 58.941 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=100.963%20-0.886" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.963%20-0.886&output=json&radius=5&userEntry=teutsch59a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.963,-0.886" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.963%20-0.886&output=json&radius=5&userEntry=teutsch59a" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,4 +71,4 @@ title:  Teutsch 59a
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

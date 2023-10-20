@@ -59,7 +59,7 @@ title:  LP 53A
 |[UBC 380](https://ucc.ar/_clusters/ubc380/)| 55 | 317.735 | 47.704 | 0.451 | -0.991 | -1.785 | -22.297 |
 |[XDOCC-11](https://ucc.ar/_clusters/xdocc11/)| 48 | 317.726 | 47.7 | 0.449 | -0.993 | -1.789 | -22.297 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.693%2047.695" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.693%2047.695&output=json&radius=5&userEntry=lp53a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.693,47.695" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.693%2047.695&output=json&radius=5&userEntry=lp53a" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  LP 53A
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.51, Dmod=12.56, logt=7.81` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

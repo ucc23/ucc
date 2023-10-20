@@ -41,7 +41,7 @@ title:  Trumpler 28
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Trumpler%2028%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=trumpler28" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Trumpler%2028%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=trumpler28" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -54,7 +54,6 @@ title:  Trumpler 28
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 264.231 | -32.469 | 0.678 | -0.851 | -2.824 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 264.236 | -32.468 | 0.669 | -0.833 | -2.79 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 264.231 | -32.466 | 0.736 | -0.771 | -2.815 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | -- | -- | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 264.232 | -32.476 | 0.659 | -0.828 | -2.813 | -35.935 |
 | **UCC** |264.227 | -32.456 | 0.671 | -0.828 | -2.863 | -55.54 |
 
@@ -65,7 +64,7 @@ title:  Trumpler 28
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 569](https://ucc.ar/_clusters/ubc569/)| 66 | 264.217 | -32.467 | 0.676 | -0.803 | -2.865 | -27.244 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=264.227%20-32.456" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.227%20-32.456&output=json&radius=5&userEntry=trumpler28" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=264.227,-32.456" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.227%20-32.456&output=json&radius=5&userEntry=trumpler28" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 

@@ -41,7 +41,7 @@ title:  XDOCC-5
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-5%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc5" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-5%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc5" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -59,7 +59,7 @@ title:  XDOCC-5
 |[HSC 1995](https://ucc.ar/_clusters/hsc1995/)| 85 | 121.755 | -29.888 | 0.601 | -3.617 | 3.606 | 36.741 |
 |[OC 0433](https://ucc.ar/_clusters/oc0433/)| 76 | 121.755 | -29.888 | 0.601 | -3.619 | 3.604 | 36.741 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=121.757%20-29.887" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=121.757%20-29.887&output=json&radius=5&userEntry=xdocc5" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=121.757,-29.887" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=121.757%20-29.887&output=json&radius=5&userEntry=xdocc5" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 

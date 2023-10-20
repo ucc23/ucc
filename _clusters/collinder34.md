@@ -58,7 +58,7 @@ title:  Collinder 34
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[SAI 24](https://ucc.ar/_clusters/sai24/)| 85 | 44.829 | 60.57 | 0.441 | -0.234 | 0.071 | -45.97 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=44.845%2060.566" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=44.845%2060.566&output=json&radius=5&userEntry=collinder34" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=44.845,60.566" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=44.845%2060.566&output=json&radius=5&userEntry=collinder34" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  Collinder 34
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.7, Dmod=10.18, logt=7.38` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
