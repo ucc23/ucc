@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Czernik11
+title:  Czernik 11
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -41,7 +41,7 @@ title:  Czernik11
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Czernik11%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=czernik11" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Czernik%2011%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=czernik11" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -51,7 +51,7 @@ title:  Czernik11
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 39.135 | 59.632 | -- | -1.123 | -4.417 | -- |
 | **UCC** |39.1 | 59.583 | 0.3 | -1.266 | 0.054 | -38.907 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=39.1%2059.583" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=39.1%2059.583&output=json&radius=5&userEntry=czernik11" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=39.1%2059.583" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=39.1%2059.583&output=json&radius=5&userEntry=czernik11" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -65,7 +65,7 @@ title:  Czernik11
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=1.46, dm=11.85, logt=8.0, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.46, Dmod=11.85, logt=8.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>

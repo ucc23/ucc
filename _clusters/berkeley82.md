@@ -53,6 +53,7 @@ title:  Berkeley 82
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 287.84 | 13.1 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 287.845 | 13.111 | 0.708 | 0.178 | -3.168 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 287.843 | 13.113 | 0.723 | 0.172 | -3.206 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 287.834 | 13.111 | 0.743 | 0.013 | -3.168 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | -- | -- | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 287.838 | 13.117 | 0.729 | 0.028 | -3.196 | 7.376 |
 | **UCC** |287.83 | 13.111 | 0.709 | 0.062 | -3.178 | -2.388 |
@@ -71,12 +72,12 @@ title:  Berkeley 82
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.92, dm=10.55, logt=8.06` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=1.02, dm=9.67, logt=7.49, --=--` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=2.43, dm=10.68, logt=8.02, --=--` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.78, d_pc=1310.0, logt=8.28, FeH=0.3` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `--=--, d_pc=1311.0, logt=8.08, --=--` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.78, d_pc=1330.63, logt=7.97, --=--` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.92, distance=1125.0, log_age=8.06` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.02, Dmod=9.67, logt=7.49` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.43, DMNN=10.68, AgeNN=8.02` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.78, Dist=1310.0, logage=8.28, [Fe/H]=0.3` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1311.0, logt=8.08` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.78, d_pc=1330.63, logt=7.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

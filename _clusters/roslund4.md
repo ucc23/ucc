@@ -50,6 +50,7 @@ title:  Roslund 4
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 301.23 | 29.217 | -- | -5.016 | -5.668 | -15.7 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 301.199 | 29.196 | 0.423 | -2.166 | -5.057 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 301.212 | 29.188 | 0.46 | -2.168 | -5.089 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 301.214 | 29.191 | 0.433 | -2.231 | -5.17 | 55.191 |
 | **UCC** |301.189 | 29.194 | 0.435 | -2.186 | -5.123 | 55.283 |
 
@@ -67,9 +68,9 @@ title:  Roslund 4
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.96, dm=12.0, logt=7.53, --=--` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=2.33, dm=11.57, logt=7.23, --=--` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.3, d_pc=2139.59, logt=6.99, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.96, Dmod=12.0, logt=7.53` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.33, DMNN=11.57, AgeNN=7.23` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.3, d_pc=2139.59, logt=6.99` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

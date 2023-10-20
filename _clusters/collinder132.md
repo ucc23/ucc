@@ -52,6 +52,7 @@ title:  Collinder 132
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 108.84 | -30.682 | -- | -1.685 | 3.679 | 28.0 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 108.485 | -30.758 | 1.501 | -4.14 | 3.732 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 108.595 | -30.703 | 1.5 | -4.128 | 3.687 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 108.79 | -30.672 | 1.49 | -4.067 | 3.547 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 108.346 | -30.971 | 1.525 | -4.125 | 3.727 | 18.565 |
 | **UCC** |108.438 | -30.933 | 1.54 | -4.138 | 3.761 | 20.302 |
 
@@ -69,11 +70,11 @@ title:  Collinder 132
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.02, dm=7.6, logt=7.51` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.03, dm=8.14, logt=7.05, --=--` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=0.0, dm=8.98, logt=7.39, --=--` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.2, d_pc=648.0, logt=7.49, FeH=0.04` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=637.46, logt=7.14, --=--` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.02, distance=330.0, log_age=7.51` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.03, Dmod=8.14, logt=7.05` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.0, DMNN=8.98, AgeNN=7.39` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.2, Dist=648.0, logage=7.49, [Fe/H]=0.04` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=637.46, logt=7.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

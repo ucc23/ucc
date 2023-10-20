@@ -51,6 +51,7 @@ title:  Ruprecht 130
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 266.878 | -30.087 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 266.9 | -30.098 | 0.389 | 0.477 | -1.795 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 266.899 | -30.099 | 0.393 | 0.482 | -1.782 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 266.901 | -30.103 | 0.417 | 0.503 | -1.812 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 266.895 | -30.098 | 0.382 | 0.492 | -1.872 | 0.841 |
 | **UCC** |266.9 | -30.095 | 0.381 | 0.497 | -1.87 | -1.896 |
 
@@ -68,9 +69,9 @@ title:  Ruprecht 130
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `Av=2.76, dm=11.85, logt=8.6, --=--` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.89, d_pc=2009.0, logt=8.61, FeH=0.2` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.39, d_pc=2380.62, logt=8.02, --=--` |
+| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.76, DMNN=11.85, AgeNN=8.6` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.89, Dist=2009.0, logage=8.61, [Fe/H]=0.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.39, d_pc=2380.62, logt=8.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

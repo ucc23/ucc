@@ -48,7 +48,7 @@ title:  XDOCC-5
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 121.75 | -29.9 | 0.6 | -3.66 | 3.56 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 121.754 | -29.901 | 0.598 | -3.656 | 3.562 | -- |
 | **UCC** |121.757 | -29.887 | 0.601 | -3.617 | 3.606 | 36.741 |
 
 
@@ -73,7 +73,7 @@ title:  XDOCC-5
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `--=--, d_kpc=1.64, --=--, --=--` |
+| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.24, Dist=1575.75, logAge=8.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

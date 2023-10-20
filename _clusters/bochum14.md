@@ -49,6 +49,7 @@ title:  Bochum 14
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 270.495 | -23.684 | -- | -1.75 | -1.63 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 270.517 | -23.698 | 0.311 | 0.251 | -1.063 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 270.5 | -23.697 | 0.313 | 0.25 | -1.117 | 57.733 |
 | **UCC** |270.504 | -23.701 | 0.301 | 0.264 | -1.139 | 38.816 |
 
@@ -66,8 +67,8 @@ title:  Bochum 14
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=1.51, dm=9.09, logt=7.0, --=--` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.18, d_pc=2836.58, logt=7.12, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.51, Dmod=9.09, logt=7.0` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.18, d_pc=2836.58, logt=7.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

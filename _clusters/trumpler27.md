@@ -54,6 +54,7 @@ title:  Trumpler 27
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 264.09 | -33.52 | -- | -0.5 | -0.09 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 264.09 | -33.518 | -- | -0.801 | -1.959 | -15.8 |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 264.079 | -33.485 | 0.488 | -0.146 | -1.267 | -- |
 | **UCC** |264.089 | -33.514 | 0.406 | -0.223 | -1.258 | -60.316 |
 
 
@@ -77,8 +78,8 @@ title:  Trumpler 27
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=1.21, dm=10.9, logt=7.58, FeH=-0.19` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=1.19, dm=10.41, logt=7.08, --=--` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.21, distance=1266.0, log_age=7.58, metallicity=-0.19` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.19, Dmod=10.41, logt=7.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  XDOCC-8
+title:  Pismis 24
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -11,7 +11,7 @@ title:  XDOCC-8
  <script type="text/javascript">
    let aladin;
    A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.21, target: "270.783 -22.66"});
+      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.18, target: "261.46 -34.343"});
    });
  </script>
 </div>
@@ -20,7 +20,7 @@ title:  XDOCC-8
 <table style="text-align: center; width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
-    <td colspan="5"><h3>UCC G007.3-00.2</h3></td>
+    <td colspan="5"><h3>UCC G353.0+00.6a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
@@ -32,47 +32,47 @@ title:  XDOCC-8
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.99</td>
+    <td>1.0</td>
     <td>0.71</td>
     <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>60</td>
-    <td>6.3</td>
+    <td>192</td>
+    <td>5.4</td>
   </tr>
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-8%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc8" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Pismis%2024%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=pismis24" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 270.759 | -22.727 | 0.735 | 0.67 | -2.575 | -- |
-| **UCC** |270.783 | -22.66 | 0.733 | 0.655 | -2.642 | -34.887 |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 261.391 | -34.402 | 0.572 | -0.978 | -2.502 | -- |
+| **UCC** |261.46 | -34.343 | 0.567 | -0.973 | -2.521 | 11.968 |
 
 
 ### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 340](https://ucc.ar/_clusters/ubc340/)| 74 | 270.772 | -22.65 | 0.723 | 0.707 | -2.664 | -21.988 |
+|[OC 0688](https://ucc.ar/_clusters/oc0688/)| 25 | 261.439 | -34.378 | 0.566 | -0.911 | -2.369 | 17.924 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=270.783%20-22.66" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.783%20-22.66&output=json&radius=5&userEntry=xdocc8" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=261.46%20-34.343" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=261.46%20-34.343&output=json&radius=5&userEntry=pismis24" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/xdocc8.webp)
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4P/main/plots/pismis24.webp)
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1N/blob/master/notebooks/xdocc8.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4P/blob/master/notebooks/pismis24.ipynb" target="_blank">Colab</a></p>
 
 
 ### Fundamental parameters in literature (not exhaustive)
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=2.5, Dist=1511.89, logAge=7.52` |
+| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) |` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

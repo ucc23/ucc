@@ -48,7 +48,7 @@ title:  XDOCC-4
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 118.83 | -24.17 | 0.33 | -2.71 | 3.06 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 118.827 | -24.17 | 0.333 | -2.71 | 3.063 | -- |
 | **UCC** |118.824 | -24.15 | 0.299 | -2.678 | 3.057 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=118.824%20-24.15" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=118.824%20-24.15&output=json&radius=5&userEntry=xdocc4" target="_blank">Simbad</a></p>
@@ -65,7 +65,7 @@ title:  XDOCC-4
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `--=--, d_kpc=3.02, --=--, --=--` |
+| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.53, Dist=2891.23, logAge=7.79` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

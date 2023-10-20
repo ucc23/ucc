@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  LP55A
+title:  LP 55A
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -45,7 +45,7 @@ title:  LP55A
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22LP55A%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=lp55a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22LP%2055A%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=lp55a" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -55,7 +55,7 @@ title:  LP55A
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 78.0 | 52.503 | -- | -3.588 | -2.805 | -- |
 | **UCC** |78.023 | 52.524 | 0.207 | 0.314 | -0.74 | -13.953 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=78.023%2052.524" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.023%2052.524&output=json&radius=5&userEntry=lp55a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=78.023%2052.524" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.023%2052.524&output=json&radius=5&userEntry=lp55a" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,7 +69,7 @@ title:  LP55A
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.28, dm=12.31, logt=8.98, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.28, Dmod=12.31, logt=8.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>

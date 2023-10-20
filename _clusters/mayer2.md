@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mayer2
+title:  Mayer 2
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -45,7 +45,7 @@ title:  Mayer2
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Mayer2%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=mayer2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Mayer%202%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=mayer2" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -55,7 +55,7 @@ title:  Mayer2
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 64.935 | 53.168 | -- | -2.923 | 1.264 | -- |
 | **UCC** |64.948 | 53.172 | 0.231 | -0.126 | -0.712 | -70.104 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=64.948%2053.172" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=64.948%2053.172&output=json&radius=5&userEntry=mayer2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=64.948%2053.172" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=64.948%2053.172&output=json&radius=5&userEntry=mayer2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,7 +69,7 @@ title:  Mayer2
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.88, dm=12.43, logt=7.51, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.88, Dmod=12.43, logt=7.51` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>

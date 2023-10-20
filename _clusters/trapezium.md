@@ -35,13 +35,13 @@ title:  Trapezium
     <td>0.15</td>
     <td>0.27</td>
     <td><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td>55.0</td>
+    <td>55</td>
     <td>9.2</td>
   </tr>
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Trapezium%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=trapezium" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Trapezium%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=trapezium" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -50,6 +50,7 @@ title:  Trapezium
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 83.82 | -5.39 | -- | 2.05 | 1.56 | 28.9 |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.835 | -5.41 | 2.557 | 1.262 | 0.274 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 83.829 | -5.417 | 2.57 | 1.276 | 0.176 | -- |
 | **UCC** |83.823 | -5.417 | 2.541 | 1.297 | 0.247 | 19.065 |
 
 
@@ -59,7 +60,7 @@ title:  Trapezium
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OC 0345](https://ucc.ar/_clusters/oc0345/)| 75 | 83.79 | -5.476 | 2.566 | 1.147 | 0.168 | 8.405 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.823%20-5.417" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.823%20-5.417&output=json&radius=5&userEntry=trapezium" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=83.823%20-5.417" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.823%20-5.417&output=json&radius=5&userEntry=trapezium" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,8 +74,8 @@ title:  Trapezium
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.31, Dmod=8.44, logt=7.01, --=--, --=--, --=--, --=--` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.25, Dist=381.0, logage=6.78, [Fe/H]=-0.15, --=--, --=--, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.31, Dmod=8.44, logt=7.01` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.25, Dist=381.0, logage=6.78, [Fe/H]=-0.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-17</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

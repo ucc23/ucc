@@ -51,6 +51,7 @@ title:  Hogg 16
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 202.32 | -61.212 | -- | -4.53 | -1.82 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 202.32 | -61.2 | -- | -6.414 | -0.718 | -33.0 |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 202.3 | -61.209 | 0.431 | -3.479 | -1.645 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 202.485 | -61.284 | 0.454 | -3.455 | -1.809 | -- |
 | **UCC** |202.279 | -61.227 | 0.452 | -3.497 | -1.57 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=202.279%20-61.227" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=202.279%20-61.227&output=json&radius=5&userEntry=hogg16" target="_blank">Simbad</a></p>
@@ -67,9 +68,9 @@ title:  Hogg 16
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `Ebv=0.41, dm=11.7, logt=7.95` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.5, dm=10.8, logt=7.36, --=--` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.42, d_pc=1943.0, logt=7.49, FeH=0.11` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.41, distance=2059.0, log_age=7.95` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.5, Dmod=10.8, logt=7.36` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.42, Dist=1943.0, logage=7.49, [Fe/H]=0.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>

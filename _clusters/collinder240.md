@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Collinder240
+title:  Collinder 240
 ---
 
 <div style="display: flex; justify-content: space-between;">
@@ -41,7 +41,7 @@ title:  Collinder240
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Collinder240%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="http://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=collinder240" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Collinder%20240%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=collinder240" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
@@ -51,7 +51,7 @@ title:  Collinder240
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 167.91 | -60.309 | -- | -4.33 | -1.82 | -8.02 |
 | **UCC** |167.913 | -60.318 | 0.205 | -6.813 | 2.166 | 51.055 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="http://cdsportal.u-strasbg.fr/?target=167.913%20-60.318" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=167.913%20-60.318&output=json&radius=5&userEntry=collinder240" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=167.913%20-60.318" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=167.913%20-60.318&output=json&radius=5&userEntry=collinder240" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -65,7 +65,7 @@ title:  Collinder240
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `Ebv=0.31, dm=10.99, logt=7.16, --=--` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.31, Dmod=10.99, logt=7.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-08-08</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-18</i></font>

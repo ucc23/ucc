@@ -119,7 +119,7 @@ permalink: /Q1N_table/
 | [CWNU 1499](https://ucc.ar/_clusters/cwnu1499/) | 39.06 | -5.63 | 290.67 | 2.85 | 0.795 | 0.83 | 0.53 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 1501](https://ucc.ar/_clusters/cwnu1501/) | 22.96 | -0.2 | 278.45 | -8.96 | 0.483 | 0.31 | 0.47 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1517](https://ucc.ar/_clusters/cwnu1517/) | 3.81 | -0.75 | 269.32 | -26.05 | 0.331 | 0.33 | 0.69 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 1520](https://ucc.ar/_clusters/cwnu1520/) | 61.74 | -1.13 | 298.01 | 24.82 | 0.296 | 0.29 | 0.62 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 1520](https://ucc.ar/_clusters/cwnu1520/) | 61.74 | -1.13 | 298.0 | 24.82 | 0.296 | 0.29 | 0.62 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 1521](https://ucc.ar/_clusters/cwnu1521/) | 54.61 | -0.41 | 293.51 | 18.99 | 0.358 | 0.91 | 0.78 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 152](https://ucc.ar/_clusters/cwnu152/) | 72.11 | -2.63 | 305.85 | 32.73 | 0.939 | 0.96 | 0.55 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 153](https://ucc.ar/_clusters/cwnu153/) | 62.27 | -5.15 | 302.07 | 23.16 | 0.623 | 0.61 | 0.63 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -138,7 +138,7 @@ permalink: /Q1N_table/
 | [CWNU 1613](https://ucc.ar/_clusters/cwnu1613/) | 4.26 | -12.92 | 281.91 | -31.21 | 0.5 | 0.17 | 0.31 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1615](https://ucc.ar/_clusters/cwnu1615/) | 4.61 | -2.15 | 271.12 | -26.05 | 0.669 | 0.93 | 0.88 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 1628](https://ucc.ar/_clusters/cwnu1628/) | 22.46 | -1.78 | 279.65 | -10.13 | 0.53 | 0.63 | 0.47 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 1630](https://ucc.ar/_clusters/cwnu1630/) | 10.67 | -1.53 | 273.72 | -20.45 | 0.729 | 0.94 | 0.74 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 1630](https://ucc.ar/_clusters/cwnu1630/) | 10.67 | -1.53 | 273.72 | -20.44 | 0.729 | 0.94 | 0.74 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 1634](https://ucc.ar/_clusters/cwnu1634/) | 52.34 | -4.9 | 296.44 | 14.81 | 0.529 | 0.81 | 0.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 1642](https://ucc.ar/_clusters/cwnu1642/) | 16.87 | -1.42 | 276.67 | -14.92 | 0.335 | 0.49 | 0.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 1657](https://ucc.ar/_clusters/cwnu1657/) | 6.24 | -12.44 | 282.31 | -29.25 | 0.492 | 0.78 | 0.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -519,7 +519,7 @@ permalink: /Q1N_table/
 | [FSR 0115](https://ucc.ar/_clusters/fsr0115/) | 40.35 | -0.7 | 286.89 | 6.28 | 0.244 | 1.0 | 0.66 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [FSR 0118](https://ucc.ar/_clusters/fsr0118/) | 44.06 | -3.86 | 291.44 | 8.09 | 0.143 | 0.3 | 0.56 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [FSR 0126](https://ucc.ar/_clusters/fsr0126/) | 48.54 | -0.17 | 290.28 | 13.77 | 0.187 | 0.86 | 0.43 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [FSR 0128](https://ucc.ar/_clusters/fsr0128/) | 49.24 | -19.63 | 307.76 | 4.71 | 0.173 | 0.6 | 0.33 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [FSR 0128](https://ucc.ar/_clusters/fsr0128/) | 49.24 | -19.63 | 307.76 | 4.72 | 0.173 | 0.6 | 0.33 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [FSR 0129](https://ucc.ar/_clusters/fsr0129/) | 49.4 | -1.33 | 291.74 | 13.98 | 0.235 | 0.67 | 0.42 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [FSR 0131](https://ucc.ar/_clusters/fsr0131/) | 51.1 | -1.43 | 292.68 | 15.43 | 0.166 | 0.31 | 0.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [FSR 0132](https://ucc.ar/_clusters/fsr0132/) | 51.11 | -4.05 | 295.05 | 14.17 | 0.264 | 0.1 | 0.42 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -561,7 +561,7 @@ permalink: /Q1N_table/
 | [FSR 0266](https://ucc.ar/_clusters/fsr0266/) | 85.62 | -16.14 | 328.52 | 33.58 | 0.296 | 0.22 | 0.28 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [FSR 0270](https://ucc.ar/_clusters/fsr0270/) | 86.16 | -1.7 | 316.06 | 44.34 | 0.396 | 1.0 | 0.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [FSR 0271](https://ucc.ar/_clusters/fsr0271/) | 86.18 | -5.28 | 319.66 | 41.92 | 0.184 | 0.21 | 0.28 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [FSR 0272](https://ucc.ar/_clusters/fsr0272/) | 86.2 | -5.28 | 319.68 | 41.93 | 0.17 | 0.22 | 0.23 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [FSR 0272](https://ucc.ar/_clusters/fsr0272/) | 86.2 | -5.28 | 319.68 | 41.94 | 0.17 | 0.22 | 0.23 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [FSR 0273](https://ucc.ar/_clusters/fsr0273/) | 86.21 | -1.06 | 315.43 | 44.81 | 0.219 | 0.12 | 0.42 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [FSR 0277](https://ucc.ar/_clusters/fsr0277/) | 87.8 | -8.67 | 324.33 | 40.6 | 0.122 | 0.28 | 0.31 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [FSR 0279](https://ucc.ar/_clusters/fsr0279/) | 87.93 | -15.84 | 330.36 | 35.23 | 0.2 | 0.66 | 0.37 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
@@ -615,7 +615,7 @@ permalink: /Q1N_table/
 | [HSC 139](https://ucc.ar/_clusters/hsc139/) | 11.93 | -5.2 | 277.82 | -21.03 | 1.95 | 0.52 | 0.33 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 13](https://ucc.ar/_clusters/hsc13/) | 1.18 | -1.99 | 269.05 | -28.94 | 0.415 | 0.95 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HSC 140](https://ucc.ar/_clusters/hsc140/) | 10.79 | -5.43 | 277.47 | -22.16 | 0.134 | 0.27 | 0.61 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [HSC 143](https://ucc.ar/_clusters/hsc143/) | 10.98 | -2.04 | 274.35 | -20.41 | 0.743 | 0.46 | 0.61 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [HSC 143](https://ucc.ar/_clusters/hsc143/) | 10.98 | -2.04 | 274.35 | -20.42 | 0.743 | 0.46 | 0.61 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 144](https://ucc.ar/_clusters/hsc144/) | 10.98 | -1.86 | 274.18 | -20.32 | 0.6 | 0.66 | 0.61 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 147](https://ucc.ar/_clusters/hsc147/) | 11.1 | -15.17 | 287.28 | -26.02 | 1.799 | 0.35 | 0.31 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 148](https://ucc.ar/_clusters/hsc148/) | 11.38 | -0.92 | 273.5 | -19.52 | 0.352 | 0.55 | 0.95 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
@@ -665,7 +665,7 @@ permalink: /Q1N_table/
 | [HSC 230](https://ucc.ar/_clusters/hsc230/) | 21.64 | -0.29 | 277.92 | -10.17 | 0.308 | 0.96 | 0.77 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HSC 231](https://ucc.ar/_clusters/hsc231/) | 21.77 | -2.2 | 279.71 | -10.93 | 0.674 | 0.12 | 0.38 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 23](https://ucc.ar/_clusters/hsc23/) | 2.25 | -13.76 | 281.88 | -33.34 | 0.265 | 0.31 | 0.46 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [HSC 240](https://ucc.ar/_clusters/hsc240/) | 24.48 | -6.86 | 285.17 | -10.63 | 1.392 | 0.65 | 0.29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [HSC 240](https://ucc.ar/_clusters/hsc240/) | 24.48 | -6.86 | 285.18 | -10.63 | 1.392 | 0.65 | 0.29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 245](https://ucc.ar/_clusters/hsc245/) | 25.3 | -0.58 | 279.88 | -7.06 | 0.43 | 0.53 | 0.61 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 249](https://ucc.ar/_clusters/hsc249/) | 25.65 | -0.19 | 279.69 | -6.57 | 0.428 | 0.15 | 0.73 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 252](https://ucc.ar/_clusters/hsc252/) | 25.76 | -11.06 | 289.59 | -11.33 | 1.569 | 0.6 | 0.25 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
@@ -674,7 +674,7 @@ permalink: /Q1N_table/
 | [HSC 264](https://ucc.ar/_clusters/hsc264/) | 26.75 | -0.62 | 280.58 | -5.78 | 0.24 | 0.4 | 0.71 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 266](https://ucc.ar/_clusters/hsc266/) | 26.84 | -0.8 | 280.79 | -5.79 | 0.12 | 0.91 | 0.65 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 269](https://ucc.ar/_clusters/hsc269/) | 26.99 | -3.16 | 282.97 | -6.73 | 0.518 | 0.22 | 0.53 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [HSC 26](https://ucc.ar/_clusters/hsc26/) | 2.33 | -0.88 | 268.62 | -27.39 | 0.378 | 0.58 | 0.84 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [HSC 26](https://ucc.ar/_clusters/hsc26/) | 2.33 | -0.88 | 268.62 | -27.38 | 0.378 | 0.58 | 0.84 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [HSC 273](https://ucc.ar/_clusters/hsc273/) | 27.29 | -0.93 | 281.11 | -5.44 | 0.232 | 0.27 | 0.61 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 276](https://ucc.ar/_clusters/hsc276/) | 27.48 | -7.85 | 287.42 | -8.39 | 1.09 | 0.91 | 0.62 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 277](https://ucc.ar/_clusters/hsc277/) | 27.65 | -3.87 | 283.9 | -6.46 | 0.941 | 0.65 | 0.76 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
@@ -728,11 +728,11 @@ permalink: /Q1N_table/
 | [HSC 391](https://ucc.ar/_clusters/hsc391/) | 45.68 | -7.82 | 295.73 | 7.61 | 0.745 | 0.87 | 0.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 392](https://ucc.ar/_clusters/hsc392/) | 45.87 | -6.81 | 294.93 | 8.27 | 0.499 | 0.15 | 0.31 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 393](https://ucc.ar/_clusters/hsc393/) | 45.96 | -1.01 | 289.79 | 11.1 | 0.408 | 0.55 | 0.58 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [HSC 394](https://ucc.ar/_clusters/hsc394/) | 46.4 | -3.75 | 292.47 | 10.2 | 0.825 | 1.0 | 0.43 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [HSC 394](https://ucc.ar/_clusters/hsc394/) | 46.4 | -3.75 | 292.46 | 10.2 | 0.825 | 1.0 | 0.43 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 396](https://ucc.ar/_clusters/hsc396/) | 46.55 | -32.01 | 317.19 | -3.67 | 9.467 | 0.07 | 0.39 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 397](https://ucc.ar/_clusters/hsc397/) | 46.67 | -1.42 | 290.5 | 11.53 | 0.239 | 0.6 | 0.61 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 398](https://ucc.ar/_clusters/hsc398/) | 47.29 | -0.47 | 289.94 | 12.53 | 0.342 | 0.88 | 0.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [HSC 3](https://ucc.ar/_clusters/hsc3/) | 0.57 | -6.95 | 273.73 | -31.87 | 0.635 | 0.99 | 0.71 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [HSC 3](https://ucc.ar/_clusters/hsc3/) | 0.57 | -6.95 | 273.74 | -31.87 | 0.635 | 0.99 | 0.71 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 402](https://ucc.ar/_clusters/hsc402/) | 47.75 | -0.61 | 290.29 | 12.86 | 0.606 | 0.33 | 0.61 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 404](https://ucc.ar/_clusters/hsc404/) | 48.12 | -6.52 | 295.77 | 10.37 | 1.013 | 0.92 | 0.37 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 406](https://ucc.ar/_clusters/hsc406/) | 48.38 | -0.27 | 290.29 | 13.59 | 0.345 | 0.57 | 0.68 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -829,7 +829,7 @@ permalink: /Q1N_table/
 | [HSC 661](https://ucc.ar/_clusters/hsc661/) | 84.29 | -4.94 | 317.59 | 40.79 | 1.672 | 0.6 | 0.67 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 662](https://ucc.ar/_clusters/hsc662/) | 84.29 | -1.42 | 314.06 | 43.13 | 1.25 | 0.8 | 0.58 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 675](https://ucc.ar/_clusters/hsc675/) | 86.3 | -1.24 | 315.71 | 44.76 | 0.112 | 0.61 | 0.49 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [HSC 677](https://ucc.ar/_clusters/hsc677/) | 86.37 | -4.36 | 318.95 | 42.69 | 0.199 | 0.3 | 0.43 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [HSC 677](https://ucc.ar/_clusters/hsc677/) | 86.37 | -4.36 | 318.94 | 42.69 | 0.199 | 0.3 | 0.43 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 684](https://ucc.ar/_clusters/hsc684/) | 86.95 | -5.45 | 320.54 | 42.35 | 0.553 | 0.1 | 0.27 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 686](https://ucc.ar/_clusters/hsc686/) | 87.3 | -16.52 | 330.31 | 34.32 | 0.308 | 0.87 | 0.41 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 689](https://ucc.ar/_clusters/hsc689/) | 87.59 | -5.88 | 321.57 | 42.48 | 1.581 | 0.44 | 0.54 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -848,7 +848,7 @@ permalink: /Q1N_table/
 | [HSC 74](https://ucc.ar/_clusters/hsc74/) | 5.32 | -16.32 | 286.04 | -31.6 | 0.52 | 0.71 | 0.46 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 76](https://ucc.ar/_clusters/hsc76/) | 5.54 | -0.57 | 270.1 | -24.46 | 0.666 | 0.72 | 0.45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [HSC 79](https://ucc.ar/_clusters/hsc79/) | 5.67 | -0.46 | 270.07 | -24.29 | 0.472 | 0.4 | 0.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [HSC 80](https://ucc.ar/_clusters/hsc80/) | 5.71 | -0.63 | 270.25 | -24.33 | 0.354 | 0.23 | 0.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [HSC 80](https://ucc.ar/_clusters/hsc80/) | 5.71 | -0.63 | 270.25 | -24.34 | 0.354 | 0.23 | 0.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HSC 87](https://ucc.ar/_clusters/hsc87/) | 6.05 | -2.78 | 272.51 | -25.09 | 0.877 | 0.91 | 0.83 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HSC 8](https://ucc.ar/_clusters/hsc8/) | 0.83 | -0.8 | 267.67 | -28.63 | 0.347 | 0.75 | 0.76 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HSC 93](https://ucc.ar/_clusters/hsc93/) | 6.33 | -11.36 | 281.23 | -28.72 | 0.091 | 0.2 | 0.26 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -887,7 +887,7 @@ permalink: /Q1N_table/
 | [LISC 3356](https://ucc.ar/_clusters/lisc3356/) | 15.28 | -0.18 | 274.77 | -15.74 | 0.72 | 1.0 | 0.75 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [LISC 3404](https://ucc.ar/_clusters/lisc3404/) | 31.93 | -7.26 | 288.88 | -4.19 | 0.902 | 0.98 | 0.77 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [LISC-III 3263](https://ucc.ar/_clusters/lisciii3263/) | 34.71 | -11.55 | 293.96 | -3.68 | 1.692 | 0.74 | 0.69 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [LP53A](https://ucc.ar/_clusters/lp53a/) | 89.39 | -0.32 | 317.73 | 47.66 | 0.238 | 0.1 | 0.41 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| [LP 53A](https://ucc.ar/_clusters/lp53a/) | 89.39 | -0.32 | 317.73 | 47.66 | 0.238 | 0.1 | 0.41 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [MWSC 4475](https://ucc.ar/_clusters/mwsc4475/) | 6.98 | -16.6 | 287.04 | -30.23 | 0.065 | 0.65 | 1.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [MWSC 4484](https://ucc.ar/_clusters/mwsc4484/) | 13.27 | -17.53 | 290.58 | -25.01 | 0.199 | 0.82 | 0.47 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [MWSC 4500](https://ucc.ar/_clusters/mwsc4500/) | 5.97 | -22.66 | 293.34 | -33.23 | 0.047 | 0.84 | 0.98 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -923,6 +923,7 @@ permalink: /Q1N_table/
 | [Markarian 38](https://ucc.ar/_clusters/markarian38/) | 11.99 | -0.93 | 273.82 | -19.0 | 0.576 | 0.73 | 0.78 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 204](https://ucc.ar/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6506](https://ucc.ar/_clusters/ngc6506/) | 5.3 | -0.58 | 269.98 | -24.66 | 0.388 | 1.0 | 0.96 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 6514](https://ucc.ar/_clusters/ngc6514/) | 7.08 | -0.29 | 270.68 | -22.97 | 0.783 | 0.71 | 0.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 6519](https://ucc.ar/_clusters/ngc6519/) | 1.28 | -3.78 | 270.89 | -29.74 | 0.072 | 0.21 | 0.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 6520](https://ucc.ar/_clusters/ngc6520/) | 2.89 | -2.85 | 270.86 | -27.88 | 0.548 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6530](https://ucc.ar/_clusters/ngc6530/) | 6.07 | -1.32 | 271.11 | -24.36 | 0.762 | 1.0 | 0.78 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -952,6 +953,7 @@ permalink: /Q1N_table/
 | [NGC 6737](https://ucc.ar/_clusters/ngc6737/) | 17.43 | -10.67 | 285.58 | -18.55 | 0.298 | 0.14 | 0.32 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 6755](https://ucc.ar/_clusters/ngc6755/) | 38.55 | -1.7 | 286.94 | 4.22 | 0.401 | 1.0 | 0.93 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6756](https://ucc.ar/_clusters/ngc6756/) | 39.1 | -1.68 | 287.18 | 4.71 | 0.309 | 1.0 | 0.84 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 6773](https://ucc.ar/_clusters/ngc6773/) | 39.98 | -3.01 | 288.76 | 4.88 | 0.223 | 0.45 | 0.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 6774](https://ucc.ar/_clusters/ngc6774/) | 20.93 | -12.76 | 289.09 | -16.33 | 3.27 | 1.0 | 0.89 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6775](https://ucc.ar/_clusters/ngc6775/) | 35.02 | -6.08 | 289.22 | -0.92 | 0.233 | 0.44 | 0.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 6823](https://ucc.ar/_clusters/ngc6823/) | 59.42 | -0.14 | 295.79 | 23.32 | 0.442 | 1.0 | 0.91 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -981,10 +983,8 @@ permalink: /Q1N_table/
 | [NGC 7062](https://ucc.ar/_clusters/ngc7062/) | 89.96 | -2.74 | 320.86 | 46.38 | 0.398 | 1.0 | 0.65 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 7063](https://ucc.ar/_clusters/ngc7063/) | 83.09 | -9.89 | 321.12 | 36.51 | 1.493 | 1.0 | 0.97 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 7084](https://ucc.ar/_clusters/ngc7084/) | 69.96 | -24.2 | 323.06 | 17.57 | 0.291 | 0.99 | 0.32 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [NGC6514](https://ucc.ar/_clusters/ngc6514/) | 7.08 | -0.29 | 270.68 | -22.97 | 0.783 | 0.71 | 0.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [NGC6773](https://ucc.ar/_clusters/ngc6773/) | 39.98 | -3.01 | 288.76 | 4.88 | 0.223 | 0.45 | 0.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [NGC7193](https://ucc.ar/_clusters/ngc7193/) | 70.1 | -34.28 | 330.76 | 10.8 | 0.288 | 0.91 | 0.39 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [NGC7826](https://ucc.ar/_clusters/ngc7826/) | 61.87 | -77.65 | 1.32 | -20.69 | 0.871 | 0.44 | 0.35 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [NGC 7193](https://ucc.ar/_clusters/ngc7193/) | 70.1 | -34.28 | 330.76 | 10.8 | 0.288 | 0.91 | 0.39 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [NGC 7826](https://ucc.ar/_clusters/ngc7826/) | 61.87 | -77.65 | 1.32 | -20.69 | 0.871 | 0.44 | 0.35 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [OC 0001](https://ucc.ar/_clusters/oc0001/) | 1.64 | -0.63 | 267.98 | -27.85 | 0.352 | 0.99 | 0.91 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [OC 0003](https://ucc.ar/_clusters/oc0003/) | 5.24 | -0.88 | 270.24 | -24.87 | 0.559 | 0.62 | 0.75 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [OC 0004](https://ucc.ar/_clusters/oc0004/) | 5.97 | -0.93 | 270.68 | -24.26 | 0.759 | 0.99 | 0.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -1244,7 +1244,7 @@ permalink: /Q1N_table/
 | [Ryu 755](https://ucc.ar/_clusters/ryu755/) | 17.69 | -2.8 | 278.33 | -14.83 | 0.234 | 0.18 | 0.32 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 756](https://ucc.ar/_clusters/ryu756/) | 17.74 | -2.42 | 278.01 | -14.61 | 0.211 | 0.58 | 0.24 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 758](https://ucc.ar/_clusters/ryu758/) | 17.89 | -3.67 | 279.23 | -15.05 | 0.099 | 0.94 | 0.44 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [Ryu 759](https://ucc.ar/_clusters/ryu759/) | 17.89 | -0.31 | 276.16 | -13.5 | 0.542 | 0.17 | 0.38 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| [Ryu 759](https://ucc.ar/_clusters/ryu759/) | 17.89 | -0.31 | 276.15 | -13.5 | 0.542 | 0.17 | 0.38 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 760](https://ucc.ar/_clusters/ryu760/) | 17.92 | -0.41 | 276.26 | -13.52 | 0.365 | 0.4 | 0.31 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 761](https://ucc.ar/_clusters/ryu761/) | 17.96 | -3.55 | 279.15 | -14.93 | 0.125 | 0.86 | 0.45 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 762](https://ucc.ar/_clusters/ryu762/) | 17.97 | -4.07 | 279.64 | -15.16 | 0.257 | 0.2 | 0.38 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1260,7 +1260,7 @@ permalink: /Q1N_table/
 | [Ryu 797](https://ucc.ar/_clusters/ryu797/) | 19.76 | -0.29 | 277.03 | -11.84 | 0.276 | 0.35 | 0.45 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 798](https://ucc.ar/_clusters/ryu798/) | 19.99 | -3.04 | 279.64 | -12.9 | 0.142 | 0.31 | 0.26 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 799](https://ucc.ar/_clusters/ryu799/) | 20.04 | -0.68 | 277.52 | -11.77 | 0.585 | 0.24 | 0.25 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [Ryu 804](https://ucc.ar/_clusters/ryu804/) | 20.36 | -0.14 | 277.18 | -11.23 | 0.313 | 0.74 | 0.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [Ryu 804](https://ucc.ar/_clusters/ryu804/) | 20.36 | -0.14 | 277.18 | -11.24 | 0.313 | 0.74 | 0.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 808](https://ucc.ar/_clusters/ryu808/) | 21.22 | -4.28 | 281.34 | -12.37 | 0.136 | 0.61 | 0.23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 810](https://ucc.ar/_clusters/ryu810/) | 21.41 | -3.88 | 281.06 | -12.02 | 0.064 | 0.97 | 0.37 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 815](https://ucc.ar/_clusters/ryu815/) | 21.92 | -0.19 | 277.96 | -9.88 | 0.292 | 0.21 | 0.31 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1290,7 +1290,7 @@ permalink: /Q1N_table/
 | [Ryu 906](https://ucc.ar/_clusters/ryu906/) | 29.06 | -1.96 | 282.84 | -4.34 | 0.116 | 0.58 | 0.26 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 908](https://ucc.ar/_clusters/ryu908/) | 29.26 | -2.29 | 283.23 | -4.31 | 0.172 | 0.39 | 0.47 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 910](https://ucc.ar/_clusters/ryu910/) | 29.3 | -1.51 | 282.55 | -3.92 | 0.278 | 0.16 | 0.37 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [Ryu 911](https://ucc.ar/_clusters/ryu911/) | 29.63 | -0.62 | 281.91 | -3.22 | 0.406 | 0.58 | 0.34 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [Ryu 911](https://ucc.ar/_clusters/ryu911/) | 29.63 | -0.62 | 281.9 | -3.22 | 0.406 | 0.58 | 0.34 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu 917](https://ucc.ar/_clusters/ryu917/) | 30.07 | -3.77 | 284.92 | -4.26 | 0.352 | 0.11 | 0.21 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 922](https://ucc.ar/_clusters/ryu922/) | 30.48 | -0.2 | 281.92 | -2.27 | 0.326 | 0.85 | 0.35 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [S Sct Group](https://ucc.ar/_clusters/ssctgroup/) | 25.82 | -3.49 | 282.73 | -7.92 | 0.096 | 0.21 | 0.37 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1385,7 +1385,7 @@ permalink: /Q1N_table/
 | [Turner 11](https://ucc.ar/_clusters/turner11/) | 76.87 | -4.26 | 310.85 | 35.59 | 0.367 | 0.17 | 0.22 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Turner 2](https://ucc.ar/_clusters/turner2/) | 12.23 | -1.29 | 274.28 | -18.95 | 0.347 | 0.15 | 0.67 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Turner 3](https://ucc.ar/_clusters/turner3/) | 12.35 | -1.35 | 274.39 | -18.88 | 0.564 | 0.56 | 0.76 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
-| [Turner4](https://ucc.ar/_clusters/turner4/) | 12.43 | -1.16 | 274.26 | -18.72 | 0.284 | 0.34 | 0.42 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [Turner 4](https://ucc.ar/_clusters/turner4/) | 12.43 | -1.16 | 274.26 | -18.72 | 0.284 | 0.34 | 0.42 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [UBC 1001](https://ucc.ar/_clusters/ubc1001/) | 0.18 | -0.87 | 267.36 | -29.23 | 0.365 | 0.92 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1002](https://ucc.ar/_clusters/ubc1002/) | 1.4 | -0.9 | 268.11 | -28.2 | 0.274 | 0.81 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1004](https://ucc.ar/_clusters/ubc1004/) | 5.2 | -1.23 | 270.55 | -25.07 | 0.375 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -1394,7 +1394,7 @@ permalink: /Q1N_table/
 | [UBC 1008](https://ucc.ar/_clusters/ubc1008/) | 11.74 | -0.53 | 273.33 | -19.03 | 0.36 | 0.62 | 0.98 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1009](https://ucc.ar/_clusters/ubc1009/) | 11.79 | -0.69 | 273.5 | -19.05 | 0.317 | 0.44 | 0.98 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 100](https://ucc.ar/_clusters/ubc100/) | 22.28 | -3.63 | 281.24 | -11.13 | 0.737 | 1.0 | 0.98 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [UBC 1010](https://ucc.ar/_clusters/ubc1010/) | 12.69 | -1.27 | 274.49 | -18.54 | 0.36 | 0.97 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [UBC 1010](https://ucc.ar/_clusters/ubc1010/) | 12.69 | -1.27 | 274.49 | -18.55 | 0.36 | 0.97 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1011](https://ucc.ar/_clusters/ubc1011/) | 12.9 | -0.74 | 274.1 | -18.1 | 0.352 | 0.99 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1014](https://ucc.ar/_clusters/ubc1014/) | 16.61 | -1.42 | 276.55 | -15.15 | 0.484 | 0.63 | 0.78 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 1015](https://ucc.ar/_clusters/ubc1015/) | 17.62 | -1.1 | 276.74 | -14.11 | 0.297 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
