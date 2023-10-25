@@ -59,7 +59,7 @@ title:  Teutsch 106
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Turner 6](https://ucc.ar/_clusters/turner6/)| 63 | 164.831 | -59.549 | 0.132 | -6.037 | 2.131 | 49.348 |
+|[Turner 6](https://ucc.ar/_clusters/turner6/)| 90 | 164.831 | -59.549 | 0.132 | -6.037 | 2.131 | 49.348 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=164.837,-59.549" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=164.837%20-59.549&output=json&radius=5&userEntry=teutsch106" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  Teutsch 106
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.03, d_pc=4978.2, logt=8.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

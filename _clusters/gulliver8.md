@@ -58,7 +58,7 @@ title:  Gulliver 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HXWHB 8](https://ucc.ar/_clusters/hxwhb8/)| 59 | 80.573 | 33.786 | 0.914 | -0.33 | -3.076 | -5.343 |
+|[HXWHB 8](https://ucc.ar/_clusters/hxwhb8/)| 84 | 80.573 | 33.786 | 0.914 | -0.33 | -3.076 | -5.343 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=80.573,33.795" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.573%2033.795&output=json&radius=5&userEntry=gulliver8" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Gulliver 8
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.0, logt=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

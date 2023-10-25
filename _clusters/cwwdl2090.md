@@ -56,8 +56,8 @@ title:  CWWDL 2090
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 29](https://ucc.ar/_clusters/phoc29/)| 45 | 120.699 | -28.556 | 0.33 | -3.058 | 2.557 | -- |
-|[FoF 1431](https://ucc.ar/_clusters/fof1431/)| 61 | 120.702 | -28.556 | 0.34 | -3.036 | 2.552 | -- |
+|[PHOC 29](https://ucc.ar/_clusters/phoc29/)| 77 | 120.699 | -28.556 | 0.33 | -3.058 | 2.557 | -- |
+|[FoF 1431](https://ucc.ar/_clusters/fof1431/)| 97 | 120.702 | -28.556 | 0.34 | -3.036 | 2.552 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=120.704,-28.556" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.704%20-28.556&output=json&radius=5&userEntry=cwwdl2090" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWWDL 2090
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.58, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

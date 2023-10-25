@@ -57,9 +57,9 @@ title:  HXHWL 28
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13945](https://ucc.ar/_clusters/cwwdl13945/)| 87 | 330.451 | 56.028 | 0.639 | -2.016 | -1.651 | 83.86 |
-|[UBC 1154](https://ucc.ar/_clusters/ubc1154/)| 85 | 330.451 | 56.037 | 0.632 | -2.014 | -1.645 | 30.29 |
-|[CWWDL 14210](https://ucc.ar/_clusters/cwwdl14210/)| 55 | 330.471 | 56.029 | 0.636 | -2.009 | -1.655 | 83.86 |
+|[CWWDL 13945](https://ucc.ar/_clusters/cwwdl13945/)| 96 | 330.451 | 56.028 | 0.639 | -2.016 | -1.651 | 83.86 |
+|[UBC 1154](https://ucc.ar/_clusters/ubc1154/)| 89 | 330.451 | 56.037 | 0.632 | -2.014 | -1.645 | 30.29 |
+|[CWWDL 14210](https://ucc.ar/_clusters/cwwdl14210/)| 91 | 330.471 | 56.029 | 0.636 | -2.009 | -1.655 | 83.86 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=330.457,56.028" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=330.457%2056.028&output=json&radius=5&userEntry=hxhwl28" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  HXHWL 28
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.97, d_pc=1524.61, logt=7.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

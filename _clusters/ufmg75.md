@@ -57,9 +57,9 @@ title:  UFMG 75
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 9706](https://ucc.ar/_clusters/cwwdl9706/)| 71 | 270.238 | -20.221 | 0.37 | 0.2 | -0.148 | 20.493 |
-|[OC 0016](https://ucc.ar/_clusters/oc0016/)| 60 | 270.232 | -20.224 | 0.388 | 0.206 | -0.156 | 15.491 |
-|[Ryu 183](https://ucc.ar/_clusters/ryu183/)| 83 | 270.241 | -20.211 | 0.384 | 0.195 | -0.143 | -- |
+|[CWWDL 9706](https://ucc.ar/_clusters/cwwdl9706/)| 84 | 270.238 | -20.221 | 0.37 | 0.2 | -0.148 | 20.493 |
+|[OC 0016](https://ucc.ar/_clusters/oc0016/)| 72 | 270.232 | -20.224 | 0.388 | 0.206 | -0.156 | 15.491 |
+|[Ryu 183](https://ucc.ar/_clusters/ryu183/)| 73 | 270.241 | -20.211 | 0.384 | 0.195 | -0.143 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.233,-20.218" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.233%20-20.218&output=json&radius=5&userEntry=ufmg75" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  UFMG 75
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.86, d_pc=2458.39, logt=8.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  CWWDL 2197
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 39](https://ucc.ar/_clusters/gulliver39/)| 65 | 163.71 | -58.052 | 0.361 | -4.464 | 1.254 | -13.219 |
+|[Gulliver 39](https://ucc.ar/_clusters/gulliver39/)| 98 | 163.71 | -58.052 | 0.361 | -4.464 | 1.254 | -13.219 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=163.71,-58.052" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=163.71%20-58.052&output=json&radius=5&userEntry=cwwdl2197" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 2197
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.0, Z=0.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

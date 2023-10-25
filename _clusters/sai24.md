@@ -59,7 +59,7 @@ title:  SAI 24
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Collinder 34](https://ucc.ar/_clusters/collinder34/)| 85 | 44.845 | 60.566 | 0.436 | -0.231 | 0.017 | -51.046 |
+|[Collinder 34](https://ucc.ar/_clusters/collinder34/)| 80 | 44.845 | 60.566 | 0.436 | -0.231 | 0.017 | -51.046 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=44.829,60.57" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=44.829%2060.57&output=json&radius=5&userEntry=sai24" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  SAI 24
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.99, d_pc=2045.16, logt=6.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

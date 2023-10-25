@@ -60,7 +60,7 @@ title:  ASCC 67
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0569](https://ucc.ar/_clusters/oc0569/)| 25 | 175.223 | -61.06 | 0.501 | -6.753 | 0.963 | -- |
+|[OC 0569](https://ucc.ar/_clusters/oc0569/)| 59 | 175.223 | -61.06 | 0.501 | -6.753 | 0.963 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=175.256,-61.033" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=175.256%20-61.033&output=json&radius=5&userEntry=ascc67" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  ASCC 67
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.58, d_pc=1884.63, logt=7.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

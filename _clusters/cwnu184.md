@@ -56,9 +56,9 @@ title:  CWNU 184
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1465](https://ucc.ar/_clusters/ubc1465/)| 59 | 146.932 | -50.604 | 0.64 | -7.162 | 4.999 | 20.527 |
-|[CWWDL 14184](https://ucc.ar/_clusters/cwwdl14184/)| 79 | 146.87 | -50.547 | 0.648 | -7.161 | 5.0 | 16.662 |
-|[CWWDL 13969](https://ucc.ar/_clusters/cwwdl13969/)| 61 | 146.868 | -50.55 | 0.648 | -7.159 | 4.999 | 16.662 |
+|[UBC 1465](https://ucc.ar/_clusters/ubc1465/)| 66 | 146.932 | -50.604 | 0.64 | -7.162 | 4.999 | 20.527 |
+|[CWWDL 14184](https://ucc.ar/_clusters/cwwdl14184/)| 85 | 146.87 | -50.547 | 0.648 | -7.161 | 5.0 | 16.662 |
+|[CWWDL 13969](https://ucc.ar/_clusters/cwwdl13969/)| 74 | 146.868 | -50.55 | 0.648 | -7.159 | 4.999 | 16.662 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=146.868,-50.55" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=146.868%20-50.55&output=json&radius=5&userEntry=cwnu184" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 184
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.3, dm=11.5, logt=8.5, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

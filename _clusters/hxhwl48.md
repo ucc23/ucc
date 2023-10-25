@@ -57,7 +57,7 @@ title:  HXHWL 48
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14490](https://ucc.ar/_clusters/cwwdl14490/)| 49 | 113.466 | -8.225 | 0.925 | -3.531 | 0.986 | 14.781 |
+|[CWWDL 14490](https://ucc.ar/_clusters/cwwdl14490/)| 79 | 113.466 | -8.225 | 0.925 | -3.531 | 0.986 | 14.781 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=113.467,-8.231" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=113.467%20-8.231&output=json&radius=5&userEntry=hxhwl48" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 48
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.21, d_pc=1038.33, logt=8.51` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

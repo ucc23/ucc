@@ -59,7 +59,8 @@ title:  Pismis 19
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0610](https://ucc.ar/_clusters/oc0610/)| 28 | 217.664 | -60.89 | 0.313 | -5.476 | -3.408 | -29.462 |
+|[OC 0610](https://ucc.ar/_clusters/oc0610/)| 53 | 217.664 | -60.89 | 0.313 | -5.476 | -3.408 | -29.462 |
+|[OC 0611](https://ucc.ar/_clusters/oc0611/)| 35 | 217.693 | -60.881 | 0.218 | -5.489 | -3.451 | -29.985 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=217.666,-60.886" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=217.666%20-60.886&output=json&radius=5&userEntry=pismis19" target="_blank">Simbad</a></p>
 
@@ -80,4 +81,4 @@ title:  Pismis 19
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.94, d_pc=3033.64, logt=8.09` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  CWNU 79
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1378](https://ucc.ar/_clusters/ubc1378/)| 33 | 113.496 | -19.192 | 0.354 | -1.776 | 2.708 | 42.265 |
+|[UBC 1378](https://ucc.ar/_clusters/ubc1378/)| 51 | 113.496 | -19.192 | 0.354 | -1.776 | 2.708 | 42.265 |
 |[UBC 1379](https://ucc.ar/_clusters/ubc1379/)| 56 | 113.522 | -19.238 | 0.341 | -1.804 | 2.74 | 41.926 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=113.505,-19.279" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=113.505%20-19.279&output=json&radius=5&userEntry=cwnu79" target="_blank">Simbad</a></p>
@@ -76,4 +76,4 @@ title:  CWNU 79
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.45, dm=11.9, logt=8.8, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

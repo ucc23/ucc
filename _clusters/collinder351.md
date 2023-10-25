@@ -57,7 +57,7 @@ title:  Collinder 351
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 91](https://ucc.ar/_clusters/ubc91/)| 64 | 267.446 | -28.747 | 0.41 | -0.617 | -1.139 | -36.777 |
+|[UBC 91](https://ucc.ar/_clusters/ubc91/)| 48 | 267.446 | -28.747 | 0.41 | -0.617 | -1.139 | -36.777 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.434,-28.776" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.434%20-28.776&output=json&radius=5&userEntry=collinder351" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Collinder 351
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.85, d_pc=2093.47, logt=8.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

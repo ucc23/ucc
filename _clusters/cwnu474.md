@@ -56,7 +56,7 @@ title:  CWNU 474
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1245](https://ucc.ar/_clusters/ubc1245/)| 75 | 45.574 | 56.582 | 0.389 | 0.665 | -0.997 | -48.858 |
+|[UBC 1245](https://ucc.ar/_clusters/ubc1245/)| 89 | 45.574 | 56.582 | 0.389 | 0.665 | -0.997 | -48.858 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=45.572,56.573" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=45.572%2056.573&output=json&radius=5&userEntry=cwnu474" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 474
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.0, dm=11.8, logt=8.8, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

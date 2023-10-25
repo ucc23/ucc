@@ -56,8 +56,8 @@ title:  UBC 78
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 27](https://ucc.ar/_clusters/coingaia27/)| 57 | 85.762 | 13.731 | 0.923 | 0.678 | -3.594 | 10.88 |
-|[Streicher 52](https://ucc.ar/_clusters/streicher52/)| 70 | 85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
+|[COIN-Gaia 27](https://ucc.ar/_clusters/coingaia27/)| 69 | 85.762 | 13.731 | 0.923 | 0.678 | -3.594 | 10.88 |
+|[Streicher 52](https://ucc.ar/_clusters/streicher52/)| 81 | 85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.752,13.715" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.752%2013.715&output=json&radius=5&userEntry=ubc78" target="_blank">Simbad</a></p>
 
@@ -70,4 +70,4 @@ title:  UBC 78
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

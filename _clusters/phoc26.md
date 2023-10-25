@@ -57,8 +57,8 @@ title:  PHOC 26
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HXHWL 50](https://ucc.ar/_clusters/hxhwl50/)| 80 | 96.075 | 7.501 | 0.48 | -0.908 | -0.28 | 46.024 |
-|[CWWDL 255](https://ucc.ar/_clusters/cwwdl255/)| 68 | 96.075 | 7.497 | 0.491 | -0.915 | -0.269 | 46.488 |
+|[HXHWL 50](https://ucc.ar/_clusters/hxhwl50/)| 100 | 96.075 | 7.501 | 0.48 | -0.908 | -0.28 | 46.024 |
+|[CWWDL 255](https://ucc.ar/_clusters/cwwdl255/)| 86 | 96.075 | 7.497 | 0.491 | -0.915 | -0.269 | 46.488 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.075,7.501" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.075%207.501&output=json&radius=5&userEntry=phoc26" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  PHOC 26
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.48, d_pc=1880.08, logt=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

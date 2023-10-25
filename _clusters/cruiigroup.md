@@ -51,6 +51,13 @@ title:  Cru II Group
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 192.352 | -61.521 | -- | -- | -- | -- |
 | **UCC** |192.35 | -61.511 | 0.29 | -7.259 | -0.607 | -28.341 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[DBSB 80](https://ucc.ar/_clusters/dbsb80/)| 57 | 192.48 | -61.523 | 0.296 | -7.257 | -0.586 | -28.341 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=192.35,-61.511" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=192.35%20-61.511&output=json&radius=5&userEntry=cruiigroup" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  Cru II Group
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

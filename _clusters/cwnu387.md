@@ -56,7 +56,7 @@ title:  CWNU 387
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1046](https://ucc.ar/_clusters/ubc1046/)| 79 | 280.902 | -1.029 | 0.449 | 0.029 | -0.679 | 0.336 |
+|[UBC 1046](https://ucc.ar/_clusters/ubc1046/)| 85 | 280.902 | -1.029 | 0.449 | 0.029 | -0.679 | 0.336 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=280.91,-1.013" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=280.91%20-1.013&output=json&radius=5&userEntry=cwnu387" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 387
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.05, dm=10.95, logt=8.9, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

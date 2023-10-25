@@ -56,7 +56,7 @@ title:  ASCC 50
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Alessi 43](https://ucc.ar/_clusters/alessi43/)| 86 | 132.593 | -41.71 | 1.046 | -5.59 | 3.95 | 20.802 |
+|[Alessi 43](https://ucc.ar/_clusters/alessi43/)| 91 | 132.593 | -41.71 | 1.046 | -5.59 | 3.95 | 20.802 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=132.586,-41.703" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=132.586%20-41.703&output=json&radius=5&userEntry=ascc50" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  ASCC 50
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.23, distance=846.0, log_age=7.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

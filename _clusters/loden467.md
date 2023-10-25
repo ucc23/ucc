@@ -52,6 +52,13 @@ title:  Loden 467
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 176.369 | -62.444 | 0.2 | -6.505 | 0.998 | -- |
 | **UCC** |176.386 | -62.431 | 0.213 | -6.538 | 1.002 | -- |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3744](https://ucc.ar/_clusters/cwnu3744/)| 95 | 176.386 | -62.424 | 0.213 | -6.536 | 0.998 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=176.386,-62.431" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=176.386%20-62.431&output=json&radius=5&userEntry=loden467" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -70,4 +77,4 @@ title:  Loden 467
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.42, d_pc=4242.96, logt=7.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

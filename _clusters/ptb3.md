@@ -51,14 +51,6 @@ title:  PTB 3
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 333.349 | 70.045 | -- | -2.12 | -1.5 | -- |
 | **UCC** |333.409 | 70.039 | 0.199 | -2.287 | -1.067 | -58.778 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VDB 152](https://ucc.ar/_clusters/vdb152/)| 62 | 333.424 | 70.105 | 2.669 | 5.212 | 0.9 | -28.247 |
-|[OCSN 37](https://ucc.ar/_clusters/ocsn37/)| 66 | 333.504 | 70.094 | 2.662 | 5.18 | 0.893 | -23.004 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=333.409,70.039" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=333.409%2070.039&output=json&radius=5&userEntry=ptb3" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -76,4 +68,4 @@ title:  PTB 3
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=3220.0, log_age=9.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  PHOC 14
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 2418](https://ucc.ar/_clusters/cwwdl2418/)| 71 | 295.899 | 24.439 | 0.418 | -3.505 | -6.593 | 90.764 |
+|[CWWDL 2418](https://ucc.ar/_clusters/cwwdl2418/)| 93 | 295.899 | 24.439 | 0.418 | -3.505 | -6.593 | 90.764 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.896,24.443" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.896%2024.443&output=json&radius=5&userEntry=phoc14" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  PHOC 14
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.51, d_pc=2207.75, logt=7.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

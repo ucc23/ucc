@@ -56,7 +56,7 @@ title:  CWWDL 1705
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0023](https://ucc.ar/_clusters/oc0023/)| 61 | 273.763 | -17.013 | 0.354 | 1.198 | -1.05 | 14.226 |
+|[OC 0023](https://ucc.ar/_clusters/oc0023/)| 99 | 273.763 | -17.013 | 0.354 | 1.198 | -1.05 | 14.226 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.763,-17.013" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.763%20-17.013&output=json&radius=5&userEntry=cwwdl1705" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 1705
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.12, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

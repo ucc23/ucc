@@ -57,7 +57,7 @@ title:  CWNU 302
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 6326](https://ucc.ar/_clusters/cwwdl6326/)| 68 | 104.645 | -3.023 | 0.448 | -1.273 | 0.473 | -- |
+|[CWWDL 6326](https://ucc.ar/_clusters/cwwdl6326/)| 88 | 104.645 | -3.023 | 0.448 | -1.273 | 0.473 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.645,-3.023" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.645%20-3.023&output=json&radius=5&userEntry=cwnu302" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 302
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.75, d_pc=2069.03, logt=7.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

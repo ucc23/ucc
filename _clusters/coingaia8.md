@@ -60,8 +60,8 @@ title:  COIN-Gaia 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 48](https://ucc.ar/_clusters/ubc48/)| 87 | 39.017 | 49.991 | 1.377 | 2.476 | -2.497 | -7.951 |
-|[CWWDL 14301](https://ucc.ar/_clusters/cwwdl14301/)| 46 | 39.186 | 49.984 | 1.367 | 2.366 | -2.544 | -8.408 |
+|[UBC 48](https://ucc.ar/_clusters/ubc48/)| 82 | 39.017 | 49.991 | 1.377 | 2.476 | -2.497 | -7.951 |
+|[CWWDL 14301](https://ucc.ar/_clusters/cwwdl14301/)| 55 | 39.186 | 49.984 | 1.367 | 2.366 | -2.544 | -8.408 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=39.045,49.984" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=39.045%2049.984&output=json&radius=5&userEntry=coingaia8" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  COIN-Gaia 8
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.39, d_pc=709.05, logt=8.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

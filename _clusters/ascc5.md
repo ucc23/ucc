@@ -53,6 +53,13 @@ title:  ASCC 5
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 14.469 | 55.829 | 0.538 | -2.407 | -1.919 | -- |
 | **UCC** |14.475 | 55.822 | 0.552 | -2.395 | -1.892 | -33.138 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3665](https://ucc.ar/_clusters/cwnu3665/)| 93 | 14.475 | 55.824 | 0.555 | -2.398 | -1.875 | -33.138 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=14.475,55.822" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=14.475%2055.822&output=json&radius=5&userEntry=ascc5" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -71,4 +78,4 @@ title:  ASCC 5
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.18, d_pc=1740.98, logt=7.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

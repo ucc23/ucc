@@ -60,7 +60,7 @@ title:  VDBH 37
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0475](https://ucc.ar/_clusters/oc0475/)| 76 | 128.964 | -43.616 | 0.246 | -3.479 | 3.985 | 52.969 |
+|[OC 0475](https://ucc.ar/_clusters/oc0475/)| 88 | 128.964 | -43.616 | 0.246 | -3.479 | 3.985 | 52.969 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=128.966,-43.616" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=128.966%20-43.616&output=json&radius=5&userEntry=vdbh37" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  VDBH 37
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.73, d_pc=3587.03, logt=7.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

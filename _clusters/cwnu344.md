@@ -56,7 +56,7 @@ title:  CWNU 344
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0290](https://ucc.ar/_clusters/oc0290/)| 75 | 75.414 | 30.736 | 0.567 | 0.763 | -2.969 | 24.224 |
+|[OC 0290](https://ucc.ar/_clusters/oc0290/)| 84 | 75.414 | 30.736 | 0.567 | 0.763 | -2.969 | 24.224 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=75.423,30.72" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=75.423%2030.72&output=json&radius=5&userEntry=cwnu344" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 344
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.25, dm=11.85, logt=6.5, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

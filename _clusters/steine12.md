@@ -56,8 +56,8 @@ title:  Steine 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 34](https://ucc.ar/_clusters/ubc34/)| 91 | 11.828 | 66.707 | 1.544 | -5.04 | -3.151 | -12.229 |
-|[COIN-Gaia 1](https://ucc.ar/_clusters/coingaia1/)| 88 | 11.82 | 66.727 | 1.55 | -5.033 | -3.153 | -13.683 |
+|[UBC 34](https://ucc.ar/_clusters/ubc34/)| 94 | 11.828 | 66.707 | 1.544 | -5.04 | -3.151 | -12.229 |
+|[COIN-Gaia 1](https://ucc.ar/_clusters/coingaia1/)| 99 | 11.82 | 66.727 | 1.55 | -5.033 | -3.153 | -13.683 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=11.809,66.726" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=11.809%2066.726&output=json&radius=5&userEntry=steine12" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Steine 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.49, d_pc=632.11, logt=8.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

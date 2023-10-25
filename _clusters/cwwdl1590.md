@@ -56,7 +56,7 @@ title:  CWWDL 1590
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 19](https://ucc.ar/_clusters/phoc19/)| 69 | 246.309 | -49.74 | 0.368 | -1.378 | -3.13 | -35.056 |
+|[PHOC 19](https://ucc.ar/_clusters/phoc19/)| 97 | 246.309 | -49.74 | 0.368 | -1.378 | -3.13 | -35.056 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=246.307,-49.74" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=246.307%20-49.74&output=json&radius=5&userEntry=cwwdl1590" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 1590
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.78, Z=0.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

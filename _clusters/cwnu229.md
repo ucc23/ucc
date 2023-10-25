@@ -57,7 +57,7 @@ title:  CWNU 229
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14328](https://ucc.ar/_clusters/cwwdl14328/)| 75 | 263.734 | -43.01 | 0.909 | -0.801 | -1.733 | 22.409 |
+|[CWWDL 14328](https://ucc.ar/_clusters/cwwdl14328/)| 82 | 263.734 | -43.01 | 0.909 | -0.801 | -1.733 | 22.409 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=263.747,-43.016" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=263.747%20-43.016&output=json&radius=5&userEntry=cwnu229" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 229
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.55, d_pc=1050.51, logt=8.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

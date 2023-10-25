@@ -61,8 +61,8 @@ title:  UPK 53
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14443](https://ucc.ar/_clusters/cwwdl14443/)| 71 | 288.478 | 14.302 | 1.661 | 2.429 | 0.999 | -6.2 |
-|[CWWDL 14632](https://ucc.ar/_clusters/cwwdl14632/)| 49 | 288.583 | 14.355 | 1.681 | 2.46 | 1.054 | -6.123 |
+|[CWWDL 14443](https://ucc.ar/_clusters/cwwdl14443/)| 87 | 288.478 | 14.302 | 1.661 | 2.429 | 0.999 | -6.2 |
+|[CWWDL 14632](https://ucc.ar/_clusters/cwwdl14632/)| 59 | 288.583 | 14.355 | 1.681 | 2.46 | 1.054 | -6.123 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.473,14.321" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.473%2014.321&output=json&radius=5&userEntry=upk53" target="_blank">Simbad</a></p>
 
@@ -86,4 +86,4 @@ title:  UPK 53
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.31, d_pc=584.66, logt=8.27` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

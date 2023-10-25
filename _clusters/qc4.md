@@ -56,7 +56,7 @@ title:  QC 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1115](https://ucc.ar/_clusters/ubc1115/)| 61 | 309.131 | 46.884 | 0.42 | -2.316 | -5.493 | 0.412 |
+|[UBC 1115](https://ucc.ar/_clusters/ubc1115/)| 82 | 309.131 | 46.884 | 0.42 | -2.316 | -5.493 | 0.412 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=309.122,46.875" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=309.122%2046.875&output=json&radius=5&userEntry=qc4" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  QC 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.9, d_pc=2260.66, logt=7.91` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

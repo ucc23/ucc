@@ -62,7 +62,7 @@ title:  ASCC 113
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14315](https://ucc.ar/_clusters/cwwdl14315/)| 85 | 317.977 | 38.646 | 1.767 | 0.82 | -3.715 | -5.684 |
+|[CWWDL 14315](https://ucc.ar/_clusters/cwwdl14315/)| 89 | 317.977 | 38.646 | 1.767 | 0.82 | -3.715 | -5.684 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.962,38.612" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.962%2038.612&output=json&radius=5&userEntry=ascc113" target="_blank">Simbad</a></p>
 
@@ -86,4 +86,4 @@ title:  ASCC 113
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.11, d_pc=557.42, logt=8.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

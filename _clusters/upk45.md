@@ -60,8 +60,8 @@ title:  UPK 45
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 116](https://ucc.ar/_clusters/ubc116/)| 87 | 291.628 | 0.166 | 1.114 | -0.652 | -2.147 | 1.525 |
-|[CWWDL 14314](https://ucc.ar/_clusters/cwwdl14314/)| 98 | 291.701 | 0.199 | 1.123 | -0.597 | -2.16 | 2.555 |
+|[UBC 116](https://ucc.ar/_clusters/ubc116/)| 84 | 291.628 | 0.166 | 1.114 | -0.652 | -2.147 | 1.525 |
+|[CWWDL 14314](https://ucc.ar/_clusters/cwwdl14314/)| 100 | 291.701 | 0.199 | 1.123 | -0.597 | -2.16 | 2.555 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=291.692,0.199" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=291.692%200.199&output=json&radius=5&userEntry=upk45" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 45
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.76, d_pc=864.9, logt=7.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

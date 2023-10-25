@@ -61,7 +61,7 @@ title:  Haffner 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0389](https://ucc.ar/_clusters/oc0389/)| 41 | 106.521 | -15.007 | 0.174 | -0.42 | 0.985 | -- |
+|[OC 0389](https://ucc.ar/_clusters/oc0389/)| 45 | 106.521 | -15.007 | 0.174 | -0.42 | 0.985 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.51,-15.004" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.51%20-15.004&output=json&radius=5&userEntry=haffner4" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  Haffner 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.13, d_pc=4046.83, logt=8.71` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

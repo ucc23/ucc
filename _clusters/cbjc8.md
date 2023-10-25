@@ -57,7 +57,7 @@ title:  CBJC 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2830](https://ucc.ar/_clusters/cwnu2830/)| 98 | 313.496 | 44.933 | 0.392 | -2.807 | -3.539 | -21.17 |
+|[CWNU 2830](https://ucc.ar/_clusters/cwnu2830/)| 88 | 313.496 | 44.933 | 0.392 | -2.807 | -3.539 | -21.17 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=313.498,44.933" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=313.498%2044.933&output=json&radius=5&userEntry=cbjc8" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CBJC 8
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.23, d_pc=2425.65, logt=8.27` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

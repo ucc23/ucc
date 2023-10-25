@@ -52,6 +52,13 @@ title:  Alessi 57
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 290.222 | 15.682 | -- | -- | -- | -- |
 | **UCC** |290.202 | 15.662 | 0.155 | -2.129 | -5.251 | 37.555 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_4304](https://ucc.ar/_clusters/cwnu4304/)| 65 | 290.195 | 15.667 | 0.148 | -2.143 | -5.253 | 37.555 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=290.202,15.662" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=290.202%2015.662&output=json&radius=5&userEntry=alessi57" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +76,4 @@ title:  Alessi 57
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.87, distance=3797.0, log_age=8.65` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

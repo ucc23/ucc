@@ -56,7 +56,8 @@ title:  CWWDL 630
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 733](https://ucc.ar/_clusters/fof733/)| 77 | 111.05 | -20.217 | 0.332 | -2.747 | 3.219 | -- |
+|[PHOC 16](https://ucc.ar/_clusters/phoc16/)| 56 | 111.051 | -20.212 | 0.337 | -2.728 | 3.123 | -- |
+|[FoF 733](https://ucc.ar/_clusters/fof733/)| 93 | 111.05 | -20.217 | 0.332 | -2.747 | 3.219 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.051,-20.224" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.051%20-20.224&output=json&radius=5&userEntry=cwwdl630" target="_blank">Simbad</a></p>
 
@@ -75,4 +76,4 @@ title:  CWWDL 630
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.65, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

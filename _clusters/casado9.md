@@ -57,7 +57,7 @@ title:  Casado 9
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1422](https://ucc.ar/_clusters/ubc1422/)| 85 | 120.751 | -32.242 | 0.272 | -3.191 | 3.737 | -- |
+|[UBC 1422](https://ucc.ar/_clusters/ubc1422/)| 87 | 120.751 | -32.242 | 0.272 | -3.191 | 3.737 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=120.749,-32.243" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.749%20-32.243&output=json&radius=5&userEntry=casado9" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Casado 9
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.19, d_pc=3339.18, logt=8.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

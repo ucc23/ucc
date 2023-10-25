@@ -56,8 +56,8 @@ title:  Gaia 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 41](https://ucc.ar/_clusters/phoc41/)| 92 | 282.524 | 33.388 | 3.458 | 1.802 | -3.87 | -18.689 |
-|[CWWL 3595](https://ucc.ar/_clusters/cwwl3595/)| 86 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
+|[PHOC 41](https://ucc.ar/_clusters/phoc41/)| 100 | 282.524 | 33.388 | 3.458 | 1.802 | -3.87 | -18.689 |
+|[CWWL 3595](https://ucc.ar/_clusters/cwwl3595/)| 99 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.531,33.388" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.531%2033.388&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Gaia 8
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.18, d_pc=289.24, logt=7.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

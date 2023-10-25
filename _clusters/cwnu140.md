@@ -56,8 +56,8 @@ title:  CWNU 140
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1388](https://ucc.ar/_clusters/ubc1388/)| 53 | 117.223 | -23.571 | 0.4 | -3.115 | 3.076 | -- |
-|[CWWDL 8784](https://ucc.ar/_clusters/cwwdl8784/)| 77 | 117.205 | -23.575 | 0.399 | -3.125 | 3.075 | -- |
+|[UBC 1388](https://ucc.ar/_clusters/ubc1388/)| 65 | 117.223 | -23.571 | 0.4 | -3.115 | 3.076 | -- |
+|[CWWDL 8784](https://ucc.ar/_clusters/cwwdl8784/)| 98 | 117.205 | -23.575 | 0.399 | -3.125 | 3.075 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=117.205,-23.576" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=117.205%20-23.576&output=json&radius=5&userEntry=cwnu140" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWNU 140
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.15, dm=11.85, logt=8.7, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

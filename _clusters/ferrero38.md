@@ -51,6 +51,13 @@ title:  Ferrero 38
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 37.627 | 59.769 | -- | -- | -- | -- |
 | **UCC** |37.64 | 59.768 | 0.342 | 0.017 | -0.482 | -- |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 2007](https://ucc.ar/_clusters/cwwdl2007/)| 40 | 37.54 | 59.767 | 0.355 | -0.06 | -0.507 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.64,59.768" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.64%2059.768&output=json&radius=5&userEntry=ferrero38" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  Ferrero 38
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

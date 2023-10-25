@@ -56,9 +56,9 @@ title:  Teutsch 59b
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 611](https://ucc.ar/_clusters/cwwdl611/)| 83 | 100.964 | -0.872 | 0.337 | -0.648 | 0.677 | 64.633 |
-|[UBC 212](https://ucc.ar/_clusters/ubc212/)| 85 | 100.958 | -0.886 | 0.343 | -0.651 | 0.674 | 58.941 |
-|[Teutsch 59a](https://ucc.ar/_clusters/teutsch59a/)| 83 | 100.963 | -0.886 | 0.354 | -0.653 | 0.673 | 60.94 |
+|[CWWDL 611](https://ucc.ar/_clusters/cwwdl611/)| 80 | 100.964 | -0.872 | 0.337 | -0.648 | 0.677 | 64.633 |
+|[UBC 212](https://ucc.ar/_clusters/ubc212/)| 84 | 100.958 | -0.886 | 0.343 | -0.651 | 0.674 | 58.941 |
+|[Teutsch 59a](https://ucc.ar/_clusters/teutsch59a/)| 89 | 100.963 | -0.886 | 0.354 | -0.653 | 0.673 | 60.94 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.956,-0.872" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.956%20-0.872&output=json&radius=5&userEntry=teutsch59b" target="_blank">Simbad</a></p>
 
@@ -71,4 +71,4 @@ title:  Teutsch 59b
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

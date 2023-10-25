@@ -56,7 +56,7 @@ title:  Cep OB6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 33](https://ucc.ar/_clusters/ocsn33/)| 59 | 335.317 | 56.65 | 4.132 | 16.81 | 4.758 | -14.492 |
+|[OCSN 33](https://ucc.ar/_clusters/ocsn33/)| 60 | 335.317 | 56.65 | 4.132 | 16.81 | 4.758 | -14.492 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=334.407,56.126" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=334.407%2056.126&output=json&radius=5&userEntry=cepob6" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Cep OB6
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.35, logt=7.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

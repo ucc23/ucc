@@ -58,8 +58,8 @@ title:  UBC 88
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UPK 322](https://ucc.ar/_clusters/upk322/)| 68 | 58.169 | 45.963 | 1.025 | -1.429 | -3.028 | -10.819 |
-|[Teutsch 176](https://ucc.ar/_clusters/teutsch176/)| 68 | 58.169 | 45.967 | 1.025 | -1.426 | -3.024 | -10.819 |
+|[UPK 322](https://ucc.ar/_clusters/upk322/)| 88 | 58.169 | 45.963 | 1.025 | -1.429 | -3.028 | -10.819 |
+|[Teutsch 176](https://ucc.ar/_clusters/teutsch176/)| 88 | 58.169 | 45.967 | 1.025 | -1.426 | -3.024 | -10.819 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=58.157,45.97" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=58.157%2045.97&output=json&radius=5&userEntry=ubc88" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  UBC 88
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.45, logt=7.65` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

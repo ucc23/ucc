@@ -56,8 +56,8 @@ title:  CWNU 197
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1288](https://ucc.ar/_clusters/ubc1288/)| 66 | 88.647 | 31.168 | 0.541 | 0.735 | -3.382 | -16.495 |
-|[UBC 1580](https://ucc.ar/_clusters/ubc1580/)| 77 | 88.647 | 31.167 | 0.539 | 0.736 | -3.381 | -16.495 |
+|[UBC 1288](https://ucc.ar/_clusters/ubc1288/)| 84 | 88.647 | 31.168 | 0.541 | 0.735 | -3.382 | -16.495 |
+|[UBC 1580](https://ucc.ar/_clusters/ubc1580/)| 87 | 88.647 | 31.167 | 0.539 | 0.736 | -3.381 | -16.495 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=88.647,31.165" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=88.647%2031.165&output=json&radius=5&userEntry=cwnu197" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWNU 197
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.95, dm=11.7, logt=7.5, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

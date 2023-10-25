@@ -57,7 +57,7 @@ title:  CWNU 155
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14149](https://ucc.ar/_clusters/cwwdl14149/)| 84 | 273.452 | -21.083 | 0.776 | 0.795 | -0.946 | -14.971 |
+|[CWWDL 14149](https://ucc.ar/_clusters/cwwdl14149/)| 93 | 273.452 | -21.083 | 0.776 | 0.795 | -0.946 | -14.971 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.453,-21.083" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.453%20-21.083&output=json&radius=5&userEntry=cwnu155" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 155
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.95, d_pc=1226.69, logt=7.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

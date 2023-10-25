@@ -56,7 +56,7 @@ title:  Bica 494
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ruprecht 167](https://ucc.ar/_clusters/ruprecht167/)| 83 | 215.146 | -58.861 | 0.617 | -8.234 | -4.794 | -29.57 |
+|[Ruprecht 167](https://ucc.ar/_clusters/ruprecht167/)| 89 | 215.146 | -58.861 | 0.617 | -8.234 | -4.794 | -29.57 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=215.157,-58.866" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.157%20-58.866&output=json&radius=5&userEntry=bica494" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Bica 494
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

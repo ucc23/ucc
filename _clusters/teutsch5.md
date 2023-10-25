@@ -59,8 +59,8 @@ title:  Teutsch 5
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0283](https://ucc.ar/_clusters/oc0283/)| 53 | 73.942 | 36.777 | 0.378 | 0.069 | -1.594 | -- |
-|[OC 0285](https://ucc.ar/_clusters/oc0285/)| 89 | 73.946 | 36.784 | 0.461 | 0.056 | -1.561 | -71.435 |
+|[OC 0283](https://ucc.ar/_clusters/oc0283/)| 45 | 73.942 | 36.777 | 0.378 | 0.069 | -1.594 | -- |
+|[OC 0285](https://ucc.ar/_clusters/oc0285/)| 91 | 73.946 | 36.784 | 0.461 | 0.056 | -1.561 | -71.435 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=73.943,36.781" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=73.943%2036.781&output=json&radius=5&userEntry=teutsch5" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Teutsch 5
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.59, d_pc=2008.94, logt=9.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

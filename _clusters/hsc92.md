@@ -56,7 +56,7 @@ title:  HSC 92
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 1625](https://ucc.ar/_clusters/fof1625/)| 48 | 269.489 | -23.284 | 0.304 | -0.096 | -1.557 | -8.79 |
+|[FoF 1625](https://ucc.ar/_clusters/fof1625/)| 32 | 269.489 | -23.284 | 0.304 | -0.096 | -1.557 | -8.79 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=269.494,-23.287" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.494%20-23.287&output=json&radius=5&userEntry=hsc92" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  HSC 92
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.15, d_pc=3041.71, logt=7.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -59,7 +59,7 @@ title:  Gulliver 51
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14029](https://ucc.ar/_clusters/cwwdl14029/)| 70 | 30.327 | 63.793 | 0.662 | -4.956 | -0.228 | -58.026 |
+|[CWWDL 14029](https://ucc.ar/_clusters/cwwdl14029/)| 91 | 30.327 | 63.793 | 0.662 | -4.956 | -0.228 | -58.026 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=30.33,63.794" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=30.33%2063.794&output=json&radius=5&userEntry=gulliver51" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Gulliver 51
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.62, d_pc=1436.52, logt=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

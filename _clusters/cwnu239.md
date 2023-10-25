@@ -57,9 +57,9 @@ title:  CWNU 239
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1330](https://ucc.ar/_clusters/ubc1330/)| 86 | 98.283 | 2.475 | 0.622 | -2.329 | -0.552 | 19.107 |
-|[LISC-III 1682](https://ucc.ar/_clusters/lisciii1682/)| 45 | 98.259 | 2.447 | 0.625 | -2.362 | -0.506 | -29.384 |
-|[CWWDL 3775](https://ucc.ar/_clusters/cwwdl3775/)| 89 | 98.281 | 2.46 | 0.624 | -2.342 | -0.558 | -17.716 |
+|[UBC 1330](https://ucc.ar/_clusters/ubc1330/)| 87 | 98.283 | 2.475 | 0.622 | -2.329 | -0.552 | 19.107 |
+|[LISC-III 1682](https://ucc.ar/_clusters/lisciii1682/)| 73 | 98.259 | 2.447 | 0.625 | -2.362 | -0.506 | -29.384 |
+|[CWWDL 3775](https://ucc.ar/_clusters/cwwdl3775/)| 99 | 98.281 | 2.46 | 0.624 | -2.342 | -0.558 | -17.716 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=98.281,2.462" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.281%202.462&output=json&radius=5&userEntry=cwnu239" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWNU 239
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.44, d_pc=1511.28, logt=7.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

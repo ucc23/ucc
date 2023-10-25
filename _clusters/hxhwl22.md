@@ -57,7 +57,7 @@ title:  HXHWL 22
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 22](https://ucc.ar/_clusters/h21oc22/)| 49 | 109.042 | -9.394 | 0.873 | -0.615 | 0.947 | 14.433 |
+|[H21OC 22](https://ucc.ar/_clusters/h21oc22/)| 60 | 109.042 | -9.394 | 0.873 | -0.615 | 0.947 | 14.433 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=109.006,-9.369" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=109.006%20-9.369&output=json&radius=5&userEntry=hxhwl22" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 22
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.19, d_pc=1094.02, logt=8.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

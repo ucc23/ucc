@@ -58,7 +58,7 @@ title:  Roslund 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0079](https://ucc.ar/_clusters/oc0079/)| 68 | 296.185 | 17.52 | 1.133 | -0.858 | -5.845 | -4.361 |
+|[OC 0079](https://ucc.ar/_clusters/oc0079/)| 74 | 296.185 | 17.52 | 1.133 | -0.858 | -5.845 | -4.361 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=296.243,17.516" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=296.243%2017.516&output=json&radius=5&userEntry=roslund1" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Roslund 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.99, d_pc=863.3, logt=8.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

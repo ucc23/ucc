@@ -56,7 +56,7 @@ title:  CWNU 332
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0376](https://ucc.ar/_clusters/oc0376/)| 91 | 105.833 | -12.65 | 0.765 | -0.565 | -0.359 | 27.573 |
+|[OC 0376](https://ucc.ar/_clusters/oc0376/)| 96 | 105.833 | -12.65 | 0.765 | -0.565 | -0.359 | 27.573 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.833,-12.656" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.833%20-12.656&output=json&radius=5&userEntry=cwnu332" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 332
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.7, dm=10.45, logt=7.7, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

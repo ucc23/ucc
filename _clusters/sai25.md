@@ -56,6 +56,13 @@ title:  SAI 25
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 45.071 | 57.479 | 0.41 | 0.649 | -1.265 | -13.889 |
 | **UCC** |44.997 | 57.436 | 0.388 | 0.614 | -1.252 | -41.923 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0259](https://ucc.ar/_clusters/oc0259/)| 26 | 45.098 | 57.485 | 0.42 | 0.685 | -1.3 | -144.173 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=44.997,57.436" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=44.997%2057.436&output=json&radius=5&userEntry=sai25" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -77,4 +84,4 @@ title:  SAI 25
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.39, d_pc=2252.22, logt=7.27` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

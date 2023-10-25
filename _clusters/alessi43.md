@@ -60,7 +60,7 @@ title:  Alessi 43
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[ASCC 50](https://ucc.ar/_clusters/ascc50/)| 86 | 132.586 | -41.703 | 1.05 | -5.585 | 3.971 | 20.541 |
+|[ASCC 50](https://ucc.ar/_clusters/ascc50/)| 91 | 132.586 | -41.703 | 1.05 | -5.585 | 3.971 | 20.541 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=132.593,-41.71" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=132.593%20-41.71&output=json&radius=5&userEntry=alessi43" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Alessi 43
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.13, d_pc=917.83, logt=6.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

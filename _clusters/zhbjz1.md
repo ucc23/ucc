@@ -56,7 +56,7 @@ title:  ZHBJZ 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2439](https://ucc.ar/_clusters/fof2439/)| 79 | 103.688 | -5.837 | 3.488 | -7.41 | -2.453 | 20.649 |
+|[FoF 2439](https://ucc.ar/_clusters/fof2439/)| 85 | 103.688 | -5.837 | 3.488 | -7.41 | -2.453 | 20.649 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.83,-5.806" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.83%20-5.806&output=json&radius=5&userEntry=zhbjz1" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  ZHBJZ 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.18, d_pc=283.66, logt=7.13` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  HXHWL 13
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14426](https://ucc.ar/_clusters/cwwdl14426/)| 74 | 218.035 | -58.723 | 0.875 | -1.224 | -3.041 | 5.26 |
+|[CWWDL 14426](https://ucc.ar/_clusters/cwwdl14426/)| 91 | 218.035 | -58.723 | 0.875 | -1.224 | -3.041 | 5.26 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=218.02,-58.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=218.02%20-58.712&output=json&radius=5&userEntry=hxhwl13" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 13
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.81, d_pc=1097.08, logt=8.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

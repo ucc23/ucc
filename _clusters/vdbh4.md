@@ -2,7 +2,7 @@
 layout: post
 title:  VDBH 4
 ---
-<h3><span style="color: #808080;"><i>(vdBergh-Hagen 4; ESO 368 06; MWSC 1288)</i></span></h3>
+<h3><span style="color: #808080;"><i>(vdBergh-Hagen 4; ESO 368 06; MWSC 1288; vdBergh_Hagen_4)</i></span></h3>
 <div style="display: flex; justify-content: space-between;">
  <div style="text-align: center;">
  <!-- Left block -->
@@ -49,6 +49,7 @@ title:  VDBH 4
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 114.44 | -36.057 | -- | -- | -- | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 114.438 | -36.061 | 0.084 | -0.846 | 2.137 | -- |
 | **UCC** |114.436 | -36.061 | 0.091 | -0.875 | 2.167 | 120.757 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=114.436,-36.061" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=114.436%20-36.061&output=json&radius=5&userEntry=vdbh4" target="_blank">Simbad</a></p>
@@ -61,5 +62,11 @@ title:  VDBH 4
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q3N/blob/master/notebooks/vdbh4.ipynb" target="_blank">Colab</a></p>
 
 
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.75, m-M=15.0, logA=7.2` |
+
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

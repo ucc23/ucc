@@ -57,7 +57,7 @@ title:  Teutsch 143b
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 143a](https://ucc.ar/_clusters/teutsch143a/)| 92 | 167.151 | -60.739 | 0.222 | -5.622 | 2.267 | 19.465 |
+|[Teutsch 143a](https://ucc.ar/_clusters/teutsch143a/)| 98 | 167.151 | -60.739 | 0.222 | -5.622 | 2.267 | 19.465 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=167.153,-60.74" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=167.153%20-60.74&output=json&radius=5&userEntry=teutsch143b" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 143b
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.22, d_pc=3850.92, logt=8.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

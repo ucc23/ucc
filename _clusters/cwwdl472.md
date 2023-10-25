@@ -56,7 +56,7 @@ title:  CWWDL 472
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 22](https://ucc.ar/_clusters/phoc22/)| 83 | 144.053 | -56.583 | 0.365 | -5.548 | 5.248 | 16.059 |
+|[PHOC 22](https://ucc.ar/_clusters/phoc22/)| 89 | 144.053 | -56.583 | 0.365 | -5.548 | 5.248 | 16.059 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=144.082,-56.583" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=144.082%20-56.583&output=json&radius=5&userEntry=cwwdl472" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 472
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.18, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

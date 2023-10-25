@@ -61,11 +61,11 @@ title:  King 13
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0215](https://ucc.ar/_clusters/oc0215/)| 53 | 2.567 | 61.198 | 0.247 | -2.716 | -0.88 | -59.756 |
-|[OC 0216](https://ucc.ar/_clusters/oc0216/)| 42 | 2.568 | 61.202 | 0.255 | -2.715 | -0.888 | -59.272 |
-|[OC 0217](https://ucc.ar/_clusters/oc0217/)| 45 | 2.558 | 61.203 | 0.253 | -2.718 | -0.888 | -59.272 |
-|[OC 0218](https://ucc.ar/_clusters/oc0218/)| 38 | 2.577 | 61.198 | 0.253 | -2.722 | -0.874 | -60.575 |
-|[OC 0219](https://ucc.ar/_clusters/oc0219/)| 40 | 2.589 | 61.212 | 0.247 | -2.722 | -0.902 | -57.692 |
+|[OC 0215](https://ucc.ar/_clusters/oc0215/)| 73 | 2.567 | 61.198 | 0.247 | -2.716 | -0.88 | -59.756 |
+|[OC 0216](https://ucc.ar/_clusters/oc0216/)| 75 | 2.568 | 61.202 | 0.255 | -2.715 | -0.888 | -59.272 |
+|[OC 0217](https://ucc.ar/_clusters/oc0217/)| 71 | 2.558 | 61.203 | 0.253 | -2.718 | -0.888 | -59.272 |
+|[OC 0218](https://ucc.ar/_clusters/oc0218/)| 72 | 2.577 | 61.198 | 0.253 | -2.722 | -0.874 | -60.575 |
+|[OC 0219](https://ucc.ar/_clusters/oc0219/)| 72 | 2.589 | 61.212 | 0.247 | -2.722 | -0.902 | -57.692 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=2.606,61.2" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=2.606%2061.2&output=json&radius=5&userEntry=king13" target="_blank">Simbad</a></p>
 
@@ -88,4 +88,4 @@ title:  King 13
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.05, d_pc=3581.88, logt=8.52` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

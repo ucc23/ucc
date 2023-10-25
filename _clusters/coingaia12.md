@@ -60,7 +60,7 @@ title:  COIN-Gaia 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3479](https://ucc.ar/_clusters/lisc3479/)| 74 | 79.179 | 41.718 | 1.031 | 2.514 | -4.706 | -9.394 |
+|[LISC 3479](https://ucc.ar/_clusters/lisc3479/)| 89 | 79.179 | 41.718 | 1.031 | 2.514 | -4.706 | -9.394 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=79.179,41.745" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=79.179%2041.745&output=json&radius=5&userEntry=coingaia12" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  COIN-Gaia 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.27, d_pc=945.54, logt=8.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

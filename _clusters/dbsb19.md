@@ -56,7 +56,7 @@ title:  DBSB 19
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0469](https://ucc.ar/_clusters/oc0469/)| 79 | 128.906 | -40.622 | 1.05 | -5.861 | 3.279 | 23.993 |
+|[OC 0469](https://ucc.ar/_clusters/oc0469/)| 93 | 128.906 | -40.622 | 1.05 | -5.861 | 3.279 | 23.993 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=128.907,-40.622" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=128.907%20-40.622&output=json&radius=5&userEntry=dbsb19" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  DBSB 19
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.0, d_pc=911.04, logt=6.72` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

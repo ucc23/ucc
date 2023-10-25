@@ -57,7 +57,7 @@ title:  UFMG 90
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2859](https://ucc.ar/_clusters/cwnu2859/)| 59 | 270.639 | -25.819 | 0.474 | 0.591 | -0.016 | -47.52 |
+|[CWNU 2859](https://ucc.ar/_clusters/cwnu2859/)| 78 | 270.639 | -25.819 | 0.474 | 0.591 | -0.016 | -47.52 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.636,-25.82" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.636%20-25.82&output=json&radius=5&userEntry=ufmg90" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UFMG 90
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.87, d_pc=1999.24, logt=8.17` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

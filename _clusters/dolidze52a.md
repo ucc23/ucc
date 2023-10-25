@@ -57,8 +57,8 @@ title:  Dolidze 52a
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 970](https://ucc.ar/_clusters/cwwdl970/)| 81 | 276.465 | -17.071 | 0.487 | -0.223 | -1.565 | -14.982 |
-|[UBC 341](https://ucc.ar/_clusters/ubc341/)| 72 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
+|[CWWDL 970](https://ucc.ar/_clusters/cwwdl970/)| 97 | 276.465 | -17.071 | 0.487 | -0.223 | -1.565 | -14.982 |
+|[UBC 341](https://ucc.ar/_clusters/ubc341/)| 79 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.468,-17.072" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.468%20-17.072&output=json&radius=5&userEntry=dolidze52a" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Dolidze 52a
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.11, d_pc=1885.88, logt=7.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

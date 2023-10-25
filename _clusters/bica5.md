@@ -51,13 +51,6 @@ title:  Bica 5
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 175.395 | -62.425 | -- | -2.87 | -2.15 | -- |
 | **UCC** |175.394 | -62.446 | 0.386 | -7.377 | 1.017 | 10.517 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Lynga 15](https://ucc.ar/_clusters/lynga15/)| 64 | 175.384 | -62.472 | 0.577 | -6.475 | 0.862 | -12.257 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=175.394,-62.446" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=175.394%20-62.446&output=json&radius=5&userEntry=bica5" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -75,4 +68,4 @@ title:  Bica 5
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.21, distance=1687.0, log_age=8.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

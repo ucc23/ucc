@@ -60,8 +60,8 @@ title:  Teutsch 266
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1659](https://ucc.ar/_clusters/cwnu1659/)| 26 | 276.534 | -13.959 | 0.383 | 0.344 | -2.03 | -30.631 |
-|[Teutsch 267](https://ucc.ar/_clusters/teutsch267/)| 74 | 276.532 | -13.962 | 0.352 | 0.436 | -2.021 | 15.05 |
+|[CWNU 1659](https://ucc.ar/_clusters/cwnu1659/)| 45 | 276.534 | -13.959 | 0.383 | 0.344 | -2.03 | -30.631 |
+|[Teutsch 267](https://ucc.ar/_clusters/teutsch267/)| 78 | 276.532 | -13.962 | 0.352 | 0.436 | -2.021 | 15.05 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.528,-13.964" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.528%20-13.964&output=json&radius=5&userEntry=teutsch266" target="_blank">Simbad</a></p>
 
@@ -74,4 +74,4 @@ title:  Teutsch 266
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

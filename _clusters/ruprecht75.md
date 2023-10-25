@@ -61,7 +61,7 @@ title:  Ruprecht 75
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0519](https://ucc.ar/_clusters/oc0519/)| 46 | 140.478 | -56.319 | 0.23 | -6.075 | 5.073 | -3.805 |
+|[OC 0519](https://ucc.ar/_clusters/oc0519/)| 52 | 140.478 | -56.319 | 0.23 | -6.075 | 5.073 | -3.805 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=140.494,-56.312" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=140.494%20-56.312&output=json&radius=5&userEntry=ruprecht75" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Ruprecht 75
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.25, d_pc=3955.39, logt=8.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

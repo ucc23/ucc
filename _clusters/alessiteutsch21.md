@@ -57,8 +57,8 @@ title:  Alessi-Teutsch 21
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 2](https://ucc.ar/_clusters/coingaia2/)| 32 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
-|[UBC 35](https://ucc.ar/_clusters/ubc35/)| 64 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
+|[COIN-Gaia 2](https://ucc.ar/_clusters/coingaia2/)| 63 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
+|[UBC 35](https://ucc.ar/_clusters/ubc35/)| 81 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=15.055,55.455" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.055%2055.455&output=json&radius=5&userEntry=alessiteutsch21" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Alessi-Teutsch 21
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.81, d_pc=1232.9, logt=8.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

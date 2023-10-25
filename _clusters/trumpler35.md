@@ -59,7 +59,7 @@ title:  Trumpler 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0050](https://ucc.ar/_clusters/oc0050/)| 54 | 280.748 | -4.232 | 0.33 | -0.921 | -2.224 | -51.134 |
+|[OC 0050](https://ucc.ar/_clusters/oc0050/)| 57 | 280.748 | -4.232 | 0.33 | -0.921 | -2.224 | -51.134 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=280.752,-4.218" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=280.752%20-4.218&output=json&radius=5&userEntry=trumpler35" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Trumpler 35
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.02, d_pc=2674.35, logt=7.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

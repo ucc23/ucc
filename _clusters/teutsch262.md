@@ -52,6 +52,13 @@ title:  Teutsch 262
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 274.52 | -18.972 | 0.6 | 0.986 | -1.889 | 35.433 |
 | **UCC** |274.516 | -18.972 | 0.601 | 1.001 | -1.903 | 35.434 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_4035](https://ucc.ar/_clusters/cwnu4035/)| 93 | 274.518 | -18.971 | 0.603 | 1.005 | -1.905 | 35.434 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=274.516,-18.972" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=274.516%20-18.972&output=json&radius=5&userEntry=teutsch262" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +76,4 @@ title:  Teutsch 262
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.27, d_pc=1541.83, logt=6.72` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

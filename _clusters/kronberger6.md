@@ -57,9 +57,9 @@ title:  Kronberger 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 12517](https://ucc.ar/_clusters/cwwdl12517/)| 94 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
-|[UBC 70](https://ucc.ar/_clusters/ubc70/)| 76 | 91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
-|[COIN-Gaia 22](https://ucc.ar/_clusters/coingaia22/)| 77 | 91.065 | 31.6 | 0.505 | -0.764 | -3.284 | 12.872 |
+|[CWWDL 12517](https://ucc.ar/_clusters/cwwdl12517/)| 98 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
+|[UBC 70](https://ucc.ar/_clusters/ubc70/)| 94 | 91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
+|[COIN-Gaia 22](https://ucc.ar/_clusters/coingaia22/)| 94 | 91.065 | 31.6 | 0.505 | -0.764 | -3.284 | 12.872 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.06,31.601" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.06%2031.601&output=json&radius=5&userEntry=kronberger6" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Kronberger 6
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.0, d_pc=1826.73, logt=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

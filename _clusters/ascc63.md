@@ -58,7 +58,7 @@ title:  ASCC 63
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 508](https://ucc.ar/_clusters/ubc508/)| 62 | 164.122 | -60.477 | 0.133 | -5.205 | 2.282 | 21.214 |
+|[UBC 508](https://ucc.ar/_clusters/ubc508/)| 65 | 164.122 | -60.477 | 0.133 | -5.205 | 2.282 | 21.214 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=164.102,-60.479" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=164.102%20-60.479&output=json&radius=5&userEntry=ascc63" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  ASCC 63
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.3, d_pc=5115.95, logt=8.62` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

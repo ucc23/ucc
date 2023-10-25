@@ -51,6 +51,13 @@ title:  Steine 31
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 295.573 | 19.657 | -- | -- | -- | -- |
 | **UCC** |295.565 | 19.658 | 0.073 | -3.013 | -5.715 | 27.496 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3825](https://ucc.ar/_clusters/cwnu3825/)| 80 | 295.576 | 19.66 | 0.074 | -3.034 | -5.701 | 21.083 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.565,19.658" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.565%2019.658&output=json&radius=5&userEntry=steine31" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  Steine 31
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

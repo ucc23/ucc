@@ -56,7 +56,7 @@ title:  Bica 417
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Westerlund 2](https://ucc.ar/_clusters/westerlund2/)| 87 | 156.013 | -57.762 | 0.204 | -5.373 | 2.895 | 26.583 |
+|[Westerlund 2](https://ucc.ar/_clusters/westerlund2/)| 48 | 156.013 | -57.762 | 0.204 | -5.373 | 2.895 | 26.583 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=156.017,-57.76" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=156.017%20-57.76&output=json&radius=5&userEntry=bica417" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Bica 417
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

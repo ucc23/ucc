@@ -56,7 +56,7 @@ title:  UBC 98
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UPK 12](https://ucc.ar/_clusters/upk12/)| 85 | 288.885 | -22.128 | 1.511 | 0.614 | -6.679 | 3.397 |
+|[UPK 12](https://ucc.ar/_clusters/upk12/)| 88 | 288.885 | -22.128 | 1.511 | 0.614 | -6.679 | 3.397 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.906,-22.114" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.906%20-22.114&output=json&radius=5&userEntry=ubc98" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  UBC 98
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

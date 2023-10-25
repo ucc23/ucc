@@ -56,6 +56,13 @@ title:  Casado 8
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 123.47 | -30.972 | 0.255 | -2.943 | 2.105 | -- |
 | **UCC** |123.474 | -30.952 | 0.27 | -2.957 | 2.091 | 53.345 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1581](https://ucc.ar/_clusters/ubc1581/)| 57 | 123.474 | -30.942 | 0.264 | -2.953 | 2.065 | 95.455 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=123.474,-30.952" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=123.474%20-30.952&output=json&radius=5&userEntry=casado8" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -74,4 +81,4 @@ title:  Casado 8
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.92, d_pc=3291.94, logt=8.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

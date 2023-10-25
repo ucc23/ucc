@@ -56,7 +56,7 @@ title:  Pismis 24
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0688](https://ucc.ar/_clusters/oc0688/)| 25 | 261.439 | -34.378 | 0.566 | -0.911 | -2.369 | 17.924 |
+|[OC 0688](https://ucc.ar/_clusters/oc0688/)| 39 | 261.439 | -34.378 | 0.566 | -0.911 | -2.369 | 17.924 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=261.46,-34.343" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=261.46%20-34.343&output=json&radius=5&userEntry=pismis24" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Pismis 24
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

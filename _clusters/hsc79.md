@@ -56,7 +56,8 @@ title:  HSC 79
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ryu 594](https://ucc.ar/_clusters/ryu594/)| 40 | 270.053 | -24.291 | 0.472 | 0.054 | -1.171 | 92.364 |
+|[Ryu 594](https://ucc.ar/_clusters/ryu594/)| 70 | 270.053 | -24.291 | 0.472 | 0.054 | -1.171 | 92.364 |
+|[CWNU_4102](https://ucc.ar/_clusters/cwnu4102/)| 97 | 270.068 | -24.298 | 0.473 | 0.096 | -1.178 | 37.838 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.068,-24.296" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.068%20-24.296&output=json&radius=5&userEntry=hsc79" target="_blank">Simbad</a></p>
 
@@ -75,4 +76,4 @@ title:  HSC 79
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.55, d_pc=1925.23, logt=6.81` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  PHOC 28
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 248](https://ucc.ar/_clusters/ubc248/)| 80 | 137.929 | -52.227 | 0.331 | -4.065 | 3.942 | 23.664 |
+|[UBC 248](https://ucc.ar/_clusters/ubc248/)| 86 | 137.929 | -52.227 | 0.331 | -4.065 | 3.942 | 23.664 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=137.969,-52.229" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=137.969%20-52.229&output=json&radius=5&userEntry=phoc28" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  PHOC 28
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

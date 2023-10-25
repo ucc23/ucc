@@ -57,7 +57,7 @@ title:  OCSN 27
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14619](https://ucc.ar/_clusters/cwwdl14619/)| 92 | 321.737 | 47.741 | 2.416 | 3.347 | -2.481 | -15.563 |
+|[CWWDL 14619](https://ucc.ar/_clusters/cwwdl14619/)| 98 | 321.737 | 47.741 | 2.416 | 3.347 | -2.481 | -15.563 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=321.733,47.739" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=321.733%2047.739&output=json&radius=5&userEntry=ocsn27" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  OCSN 27
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.11, dm=8.47, logt=7.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

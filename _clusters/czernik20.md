@@ -61,7 +61,7 @@ title:  Czernik 20
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 88](https://ucc.ar/_clusters/teutsch88/)| 69 | 80.125 | 39.544 | 0.278 | 0.552 | -1.59 | 29.316 |
+|[Teutsch 88](https://ucc.ar/_clusters/teutsch88/)| 73 | 80.125 | 39.544 | 0.278 | 0.552 | -1.59 | 29.316 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=80.131,39.533" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.131%2039.533&output=json&radius=5&userEntry=czernik20" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  Czernik 20
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.47, d_pc=3093.61, logt=9.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  OCSN 77
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2424](https://ucc.ar/_clusters/fof2424/)| 57 | 112.696 | -12.79 | 1.884 | -5.784 | -0.959 | 16.333 |
+|[FoF 2424](https://ucc.ar/_clusters/fof2424/)| 61 | 112.696 | -12.79 | 1.884 | -5.784 | -0.959 | 16.333 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=112.722,-12.756" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=112.722%20-12.756&output=json&radius=5&userEntry=ocsn77" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  OCSN 77
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.13, dm=8.97, logt=8.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

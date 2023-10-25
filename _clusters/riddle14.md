@@ -51,6 +51,13 @@ title:  Riddle 14
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 173.777 | -64.839 | -- | -- | -- | -- |
 | **UCC** |173.783 | -64.835 | 0.183 | -6.604 | 0.998 | -5.458 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3342](https://ucc.ar/_clusters/cwnu3342/)| 90 | 173.783 | -64.828 | 0.187 | -6.599 | 1.002 | -5.458 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=173.783,-64.835" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=173.783%20-64.835&output=json&radius=5&userEntry=riddle14" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  Riddle 14
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

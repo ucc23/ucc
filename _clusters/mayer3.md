@@ -58,7 +58,7 @@ title:  Mayer 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[S305](https://ucc.ar/_clusters/s305/)| 85 | 112.517 | -18.545 | 0.23 | -1.881 | 2.37 | 44.516 |
+|[S305](https://ucc.ar/_clusters/s305/)| 66 | 112.517 | -18.545 | 0.23 | -1.881 | 2.37 | 44.516 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=112.519,-18.561" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=112.519%20-18.561&output=json&radius=5&userEntry=mayer3" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Mayer 3
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.71, d_pc=3777.09, logt=6.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  Alessi 191
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 577](https://ucc.ar/_clusters/ubc577/)| 72 | 282.116 | 22.059 | 0.992 | -1.012 | 2.991 | -9.141 |
+|[UBC 577](https://ucc.ar/_clusters/ubc577/)| 71 | 282.116 | 22.059 | 0.992 | -1.012 | 2.991 | -9.141 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.116,22.031" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.116%2022.031&output=json&radius=5&userEntry=alessi191" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Alessi 191
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.45, d_pc=983.02, logt=8.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

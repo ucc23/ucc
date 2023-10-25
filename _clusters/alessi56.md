@@ -50,6 +50,7 @@ title:  Alessi 56
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 286.722 | 9.59 | -- | 0.23 | 0.17 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 286.714 | 9.584 | -- | -- | -- | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 286.722 | 9.592 | 0.258 | -1.973 | -5.357 | -- |
 | **UCC** |286.696 | 9.607 | 0.246 | -2.073 | -5.361 | 64.274 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=286.696,9.607" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.696%209.607&output=json&radius=5&userEntry=alessi56" target="_blank">Simbad</a></p>
@@ -67,6 +68,7 @@ title:  Alessi 56
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.19, distance=5745.0, log_age=8.59` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=7.4, m-M=13.45, logA=8.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

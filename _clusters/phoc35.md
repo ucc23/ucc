@@ -57,7 +57,7 @@ title:  PHOC 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13493](https://ucc.ar/_clusters/cwwdl13493/)| 56 | 289.451 | 8.711 | 0.606 | -2.978 | -5.276 | 45.599 |
+|[CWWDL 13493](https://ucc.ar/_clusters/cwwdl13493/)| 65 | 289.451 | 8.711 | 0.606 | -2.978 | -5.276 | 45.599 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=289.415,8.686" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=289.415%208.686&output=json&radius=5&userEntry=phoc35" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  PHOC 35
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.35, d_pc=1578.52, logt=8.83` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

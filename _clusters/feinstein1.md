@@ -59,8 +59,8 @@ title:  Feinstein 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 2200](https://ucc.ar/_clusters/cwwdl2200/)| 45 | 166.284 | -59.723 | 0.391 | -6.731 | 1.771 | -- |
-|[UBC 266](https://ucc.ar/_clusters/ubc266/)| 34 | 166.25 | -59.74 | 0.388 | -6.742 | 1.768 | -3.363 |
+|[CWWDL 2200](https://ucc.ar/_clusters/cwwdl2200/)| 55 | 166.284 | -59.723 | 0.391 | -6.731 | 1.771 | -- |
+|[UBC 266](https://ucc.ar/_clusters/ubc266/)| 52 | 166.25 | -59.74 | 0.388 | -6.742 | 1.768 | -3.363 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=166.339,-59.74" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=166.339%20-59.74&output=json&radius=5&userEntry=feinstein1" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Feinstein 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.4, d_pc=2383.28, logt=7.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

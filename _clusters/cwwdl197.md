@@ -60,7 +60,7 @@ title:  CWWDL 197
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 699](https://ucc.ar/_clusters/fof699/)| 59 | 138.14 | -53.347 | 0.26 | -3.972 | 3.822 | 12.588 |
+|[FoF 699](https://ucc.ar/_clusters/fof699/)| 55 | 138.14 | -53.347 | 0.26 | -3.972 | 3.822 | 12.588 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=138.095,-53.397" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=138.095%20-53.397&output=json&radius=5&userEntry=cwwdl197" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWWDL 197
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.82, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

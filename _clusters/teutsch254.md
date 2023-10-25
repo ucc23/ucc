@@ -57,8 +57,8 @@ title:  Teutsch 254
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 320](https://ucc.ar/_clusters/ubc320/)| 57 | 251.403 | -44.446 | 0.354 | -0.673 | -1.014 | -47.051 |
-|[CWWDL 2283](https://ucc.ar/_clusters/cwwdl2283/)| 81 | 251.404 | -44.444 | 0.354 | -0.669 | -1.019 | -46.794 |
+|[UBC 320](https://ucc.ar/_clusters/ubc320/)| 91 | 251.403 | -44.446 | 0.354 | -0.673 | -1.014 | -47.051 |
+|[CWWDL 2283](https://ucc.ar/_clusters/cwwdl2283/)| 97 | 251.404 | -44.444 | 0.354 | -0.669 | -1.019 | -46.794 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=251.404,-44.44" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=251.404%20-44.44&output=json&radius=5&userEntry=teutsch254" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Teutsch 254
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.69, d_pc=2557.17, logt=8.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

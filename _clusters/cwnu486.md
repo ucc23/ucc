@@ -56,7 +56,7 @@ title:  CWNU 486
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0587](https://ucc.ar/_clusters/oc0587/)| 89 | 193.706 | -61.767 | 0.511 | -5.246 | -1.35 | 84.844 |
+|[OC 0587](https://ucc.ar/_clusters/oc0587/)| 98 | 193.706 | -61.767 | 0.511 | -5.246 | -1.35 | 84.844 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=193.705,-61.768" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=193.705%20-61.768&output=json&radius=5&userEntry=cwnu486" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 486
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.65, dm=10.8, logt=8.6, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  HXHWL 67
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13341](https://ucc.ar/_clusters/cwwdl13341/)| 82 | 235.025 | -58.477 | 0.561 | -2.163 | -3.538 | -- |
+|[CWWDL 13341](https://ucc.ar/_clusters/cwwdl13341/)| 93 | 235.025 | -58.477 | 0.561 | -2.163 | -3.538 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=235.024,-58.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=235.024%20-58.473&output=json&radius=5&userEntry=hxhwl67" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  HXHWL 67
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.8, dm=10.7, logt=8.38, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

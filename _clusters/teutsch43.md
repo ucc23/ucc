@@ -52,6 +52,13 @@ title:  Teutsch 43
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 295.696 | 29.851 | -- | -- | -- | -- |
 | **UCC** |295.694 | 29.855 | 0.048 | -1.996 | -3.596 | -56.261 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3118](https://ucc.ar/_clusters/cwnu3118/)| 93 | 295.694 | 29.858 | 0.051 | -2.001 | -3.596 | -74.649 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.694,29.855" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.694%2029.855&output=json&radius=5&userEntry=teutsch43" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +76,4 @@ title:  Teutsch 43
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.36, distance=2105.0, log_age=9.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

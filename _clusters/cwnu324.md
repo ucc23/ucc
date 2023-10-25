@@ -57,7 +57,7 @@ title:  CWNU 324
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0394](https://ucc.ar/_clusters/oc0394/)| 77 | 113.03 | -16.947 | 0.517 | -2.163 | 2.561 | 70.23 |
+|[OC 0394](https://ucc.ar/_clusters/oc0394/)| 90 | 113.03 | -16.947 | 0.517 | -2.163 | 2.561 | 70.23 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=113.031,-16.945" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=113.031%20-16.945&output=json&radius=5&userEntry=cwnu324" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 324
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.23, d_pc=1746.49, logt=7.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

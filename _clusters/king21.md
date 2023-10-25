@@ -61,7 +61,7 @@ title:  King 21
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0212](https://ucc.ar/_clusters/oc0212/)| 59 | 357.483 | 62.702 | 0.319 | -3.235 | -1.721 | -78.273 |
+|[OC 0212](https://ucc.ar/_clusters/oc0212/)| 100 | 357.483 | 62.702 | 0.319 | -3.235 | -1.721 | -78.273 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=357.483,62.703" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.483%2062.703&output=json&radius=5&userEntry=king21" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  King 21
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.56, d_pc=2883.04, logt=7.72` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

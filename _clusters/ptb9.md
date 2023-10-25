@@ -57,7 +57,7 @@ title:  PTB 9
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[NGC 7762](https://ucc.ar/_clusters/ngc7762/)| 82 | 357.449 | 68.035 | 1.031 | 1.483 | 3.972 | -44.706 |
+|[NGC 7762](https://ucc.ar/_clusters/ngc7762/)| 99 | 357.449 | 68.035 | 1.031 | 1.483 | 3.972 | -44.706 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=357.45,68.035" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.45%2068.035&output=json&radius=5&userEntry=ptb9" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  PTB 9
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.55, d_pc=942.36, logt=8.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

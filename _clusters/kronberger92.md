@@ -57,7 +57,7 @@ title:  Kronberger 92
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1158](https://ucc.ar/_clusters/cwnu1158/)| 71 | 83.904 | 44.127 | 0.803 | 1.934 | -2.599 | -23.683 |
+|[CWNU 1158](https://ucc.ar/_clusters/cwnu1158/)| 88 | 83.904 | 44.127 | 0.803 | 1.934 | -2.599 | -23.683 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.903,44.141" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.903%2044.141&output=json&radius=5&userEntry=kronberger92" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Kronberger 92
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.75, d_pc=1189.38, logt=8.22` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

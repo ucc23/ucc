@@ -57,7 +57,7 @@ title:  Teutsch 83
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0665](https://ucc.ar/_clusters/oc0665/)| 56 | 250.138 | -45.467 | 0.219 | -2.815 | -4.126 | -51.734 |
+|[OC 0665](https://ucc.ar/_clusters/oc0665/)| 85 | 250.138 | -45.467 | 0.219 | -2.815 | -4.126 | -51.734 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=250.133,-45.467" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=250.133%20-45.467&output=json&radius=5&userEntry=teutsch83" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 83
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.88, d_pc=3717.86, logt=7.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

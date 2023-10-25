@@ -60,8 +60,8 @@ title:  Ruprecht 63
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0487](https://ucc.ar/_clusters/oc0487/)| 75 | 128.165 | -48.302 | 0.214 | -2.53 | 3.278 | 34.327 |
-|[OC 0488](https://ucc.ar/_clusters/oc0488/)| 52 | 128.156 | -48.307 | 0.257 | -2.509 | 3.308 | 33.15 |
+|[OC 0487](https://ucc.ar/_clusters/oc0487/)| 95 | 128.165 | -48.302 | 0.214 | -2.53 | 3.278 | 34.327 |
+|[OC 0488](https://ucc.ar/_clusters/oc0488/)| 61 | 128.156 | -48.307 | 0.257 | -2.509 | 3.308 | 33.15 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=128.164,-48.303" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=128.164%20-48.303&output=json&radius=5&userEntry=ruprecht63" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Ruprecht 63
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.35, d_pc=3773.27, logt=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

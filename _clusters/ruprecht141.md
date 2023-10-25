@@ -52,13 +52,6 @@ title:  Ruprecht 141
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 277.845 | -12.298 | -- | -- | -- | -- |
 | **UCC** |277.838 | -12.328 | 0.309 | -1.582 | -3.902 | 20.693 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch J1830.8-1215](https://ucc.ar/_clusters/teutschj183081215/)| 30 | 277.829 | -12.273 | 0.279 | -1.639 | -3.76 | -- |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=277.838,-12.328" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.838%20-12.328&output=json&radius=5&userEntry=ruprecht141" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -76,4 +69,4 @@ title:  Ruprecht 141
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.95, distance=3381.0, log_age=6.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -61,8 +61,8 @@ title:  Ruprecht 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0371](https://ucc.ar/_clusters/oc0371/)| 78 | 102.246 | -10.526 | 0.217 | -0.209 | 0.11 | 47.807 |
-|[OC 0372](https://ucc.ar/_clusters/oc0372/)| 69 | 102.244 | -10.527 | 0.212 | -0.209 | 0.108 | 46.421 |
+|[OC 0371](https://ucc.ar/_clusters/oc0371/)| 98 | 102.246 | -10.526 | 0.217 | -0.209 | 0.11 | 47.807 |
+|[OC 0372](https://ucc.ar/_clusters/oc0372/)| 94 | 102.244 | -10.527 | 0.212 | -0.209 | 0.108 | 46.421 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=102.244,-10.525" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=102.244%20-10.525&output=json&radius=5&userEntry=ruprecht4" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Ruprecht 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.45, d_pc=3911.52, logt=8.76` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

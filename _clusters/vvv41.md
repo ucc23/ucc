@@ -51,6 +51,13 @@ title:  VVV 41
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 221.61 | -59.388 | -- | -- | -- | -- |
 | **UCC** |221.723 | -59.449 | 0.223 | -6.264 | -3.891 | -35.18 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[FSR 1689](https://ucc.ar/_clusters/fsr1689/)| 49 | 221.735 | -59.488 | 0.23 | -6.233 | -3.841 | -38.634 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=221.723,-59.449" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=221.723%20-59.449&output=json&radius=5&userEntry=vvv41" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  VVV 41
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

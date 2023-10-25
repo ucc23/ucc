@@ -60,7 +60,7 @@ title:  Sigma Orionis
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 205](https://ucc.ar/_clusters/ubc205/)| 95 | 84.698 | -2.605 | 2.478 | 1.551 | -0.582 | 25.162 |
+|[UBC 205](https://ucc.ar/_clusters/ubc205/)| 84 | 84.698 | -2.605 | 2.478 | 1.551 | -0.582 | 25.162 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=84.675,-2.606" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=84.675%20-2.606&output=json&radius=5&userEntry=sigmaorionis" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Sigma Orionis
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.9, d_pc=396.08, logt=6.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

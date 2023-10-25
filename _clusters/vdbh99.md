@@ -57,6 +57,13 @@ title:  VDBH 99
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 159.554 | -59.109 | 2.224 | -14.477 | 0.98 | 5.823 |
 | **UCC** |159.663 | -59.229 | 2.232 | -14.526 | 0.907 | 8.475 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[HSC 2356](https://ucc.ar/_clusters/hsc2356/)| 60 | 159.572 | -58.975 | 2.223 | -14.491 | 0.831 | 8.071 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=159.663,-59.229" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=159.663%20-59.229&output=json&radius=5&userEntry=vdbh99" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -80,4 +87,4 @@ title:  VDBH 99
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.11, d_pc=440.21, logt=7.65` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

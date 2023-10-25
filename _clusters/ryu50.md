@@ -56,7 +56,7 @@ title:  Ryu 50
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2785](https://ucc.ar/_clusters/cwnu2785/)| 97 | 244.876 | -46.586 | 0.47 | -1.463 | -1.578 | -- |
+|[CWNU 2785](https://ucc.ar/_clusters/cwnu2785/)| 56 | 244.876 | -46.586 | 0.47 | -1.463 | -1.578 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=244.877,-46.584" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=244.877%20-46.584&output=json&radius=5&userEntry=ryu50" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Ryu 50
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

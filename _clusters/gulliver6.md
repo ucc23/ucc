@@ -58,7 +58,7 @@ title:  Gulliver 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 17 b](https://ucc.ar/_clusters/ubc17b/)| 82 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
+|[UBC 17 b](https://ucc.ar/_clusters/ubc17b/)| 87 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.265,-1.659" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.265%20-1.659&output=json&radius=5&userEntry=gulliver6" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Gulliver 6
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logt=7.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  CWWDL 3299
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 478](https://ucc.ar/_clusters/ubc478/)| 53 | 119.394 | -44.678 | 0.354 | -2.6 | 5.938 | 44.927 |
+|[UBC 478](https://ucc.ar/_clusters/ubc478/)| 80 | 119.394 | -44.678 | 0.354 | -2.6 | 5.938 | 44.927 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=119.381,-44.667" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=119.381%20-44.667&output=json&radius=5&userEntry=cwwdl3299" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 3299
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.85, Z=0.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

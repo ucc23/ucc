@@ -62,7 +62,7 @@ title:  ASCC 32
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14294](https://ucc.ar/_clusters/cwwdl14294/)| 75 | 105.781 | -26.483 | 1.256 | -3.242 | 3.506 | 32.69 |
+|[CWWDL 14294](https://ucc.ar/_clusters/cwwdl14294/)| 89 | 105.781 | -26.483 | 1.256 | -3.242 | 3.506 | 32.69 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.758,-26.456" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.758%20-26.456&output=json&radius=5&userEntry=ascc32" target="_blank">Simbad</a></p>
 
@@ -86,4 +86,4 @@ title:  ASCC 32
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.14, d_pc=778.59, logt=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

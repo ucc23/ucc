@@ -60,7 +60,7 @@ title:  Ruprecht 48
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0438](https://ucc.ar/_clusters/oc0438/)| 61 | 120.685 | -32.048 | 0.266 | -2.458 | 2.862 | -- |
+|[OC 0438](https://ucc.ar/_clusters/oc0438/)| 75 | 120.685 | -32.048 | 0.266 | -2.458 | 2.862 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=120.673,-32.039" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.673%20-32.039&output=json&radius=5&userEntry=ruprecht48" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Ruprecht 48
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.23, d_pc=3436.24, logt=8.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

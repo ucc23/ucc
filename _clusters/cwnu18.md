@@ -61,7 +61,7 @@ title:  CWNU 18
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0367](https://ucc.ar/_clusters/oc0367/)| 60 | 89.469 | -14.227 | 1.511 | -2.018 | 1.467 | 28.255 |
+|[OC 0367](https://ucc.ar/_clusters/oc0367/)| 48 | 89.469 | -14.227 | 1.511 | -2.018 | 1.467 | 28.255 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=89.456,-14.092" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=89.456%20-14.092&output=json&radius=5&userEntry=cwnu18" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  CWNU 18
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.2, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

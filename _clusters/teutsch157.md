@@ -57,7 +57,7 @@ title:  Teutsch 157
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HXWHB 15](https://ucc.ar/_clusters/hxwhb15/)| 38 | 317.61 | 46.784 | 0.156 | -3.339 | -3.604 | -76.831 |
+|[HXWHB 15](https://ucc.ar/_clusters/hxwhb15/)| 50 | 317.61 | 46.784 | 0.156 | -3.339 | -3.604 | -76.831 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.566,46.747" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.566%2046.747&output=json&radius=5&userEntry=teutsch157" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 157
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.64, d_pc=5333.09, logt=7.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

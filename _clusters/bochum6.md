@@ -52,6 +52,7 @@ title:  Bochum 6
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 112.992 | -19.416 | 0.249 | -2.28 | 2.308 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 113.01 | -19.421 | 0.253 | -2.284 | 2.265 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 113.002 | -19.416 | 0.267 | -2.257 | 2.284 | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 112.901 | -19.394 | 0.349 | -2.332 | 3.454 | -- |
 | **UCC** |113.003 | -19.418 | 0.253 | -2.244 | 2.281 | 77.091 |
 
 
@@ -59,7 +60,7 @@ title:  Bochum 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[DBSB 9](https://ucc.ar/_clusters/dbsb9/)| 76 | 112.99 | -19.415 | 0.253 | -2.244 | 2.281 | 77.091 |
+|[DBSB 9](https://ucc.ar/_clusters/dbsb9/)| 90 | 112.99 | -19.415 | 0.253 | -2.244 | 2.281 | 77.091 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=113.003,-19.418" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=113.003%20-19.418&output=json&radius=5&userEntry=bochum6" target="_blank">Simbad</a></p>
 
@@ -78,6 +79,7 @@ title:  Bochum 6
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.21, Dmod=12.13, logt=9.13` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.59, DMNN=12.97, AgeNN=6.81` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.95, Dist=3146.0, logage=7.1, [Fe/H]=-0.1` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.8, m-M=12.2, logA=7.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

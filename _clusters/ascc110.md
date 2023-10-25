@@ -53,6 +53,7 @@ title:  ASCC 110
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 300.742 | 33.528 | 0.497 | 0.271 | -3.132 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 300.772 | 33.549 | 0.495 | 0.278 | -3.134 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 300.725 | 33.527 | 0.49 | 0.298 | -3.159 | -5.627 |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 300.577 | 33.736 | 0.726 | -0.792 | -2.556 | -24.91 |
 | **UCC** |300.72 | 33.525 | 0.508 | 0.292 | -3.159 | -2.15 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.72,33.525" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.72%2033.525&output=json&radius=5&userEntry=ascc110" target="_blank">Simbad</a></p>
@@ -73,6 +74,7 @@ title:  ASCC 110
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.75, DMNN=11.47, AgeNN=8.9` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.23, Dist=1583.0, logage=8.79, [Fe/H]=0.14` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.33, d_pc=1892.11, logt=8.55` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=0.95, m-M=10.7, logA=7.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

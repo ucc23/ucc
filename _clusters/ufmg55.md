@@ -53,6 +53,13 @@ title:  UFMG 55
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 197.036 | -61.25 | 0.312 | -4.514 | -0.963 | -40.479 |
 | **UCC** |196.968 | -61.212 | 0.293 | -4.581 | -0.929 | -42.979 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0593](https://ucc.ar/_clusters/oc0593/)| 34 | 197.06 | -61.24 | 0.305 | -4.489 | -0.987 | -47.466 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=196.968,-61.212" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=196.968%20-61.212&output=json&radius=5&userEntry=ufmg55" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -72,4 +79,4 @@ title:  UFMG 55
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.21, d_pc=3009.62, logt=7.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

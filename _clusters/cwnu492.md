@@ -57,8 +57,8 @@ title:  CWNU 492
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0056](https://ucc.ar/_clusters/oc0056/)| 78 | 278.983 | -2.099 | 0.796 | -2.189 | -3.089 | -32.334 |
-|[UPK 34](https://ucc.ar/_clusters/upk34/)| 84 | 279.011 | -2.135 | 0.754 | -2.189 | -3.14 | -12.959 |
+|[OC 0056](https://ucc.ar/_clusters/oc0056/)| 69 | 278.983 | -2.099 | 0.796 | -2.189 | -3.089 | -32.334 |
+|[UPK 34](https://ucc.ar/_clusters/upk34/)| 67 | 279.011 | -2.135 | 0.754 | -2.189 | -3.14 | -12.959 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=278.991,-2.105" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=278.991%20-2.105&output=json&radius=5&userEntry=cwnu492" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  CWNU 492
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=4.1, logt=6.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  Stock 15
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[ESO 130 08](https://ucc.ar/_clusters/eso13008/)| 82 | 182.606 | -59.473 | 0.729 | -5.93 | -0.825 | -15.884 |
+|[ESO 130 08](https://ucc.ar/_clusters/eso13008/)| 93 | 182.606 | -59.473 | 0.729 | -5.93 | -0.825 | -15.884 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=182.617,-59.475" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=182.617%20-59.475&output=json&radius=5&userEntry=stock15" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Stock 15
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.93, d_pc=1309.56, logt=8.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

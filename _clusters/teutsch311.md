@@ -57,7 +57,7 @@ title:  Teutsch 311
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1113](https://ucc.ar/_clusters/ubc1113/)| 87 | 311.667 | 43.771 | 0.277 | -2.322 | -3.089 | -13.581 |
+|[UBC 1113](https://ucc.ar/_clusters/ubc1113/)| 90 | 311.667 | 43.771 | 0.277 | -2.322 | -3.089 | -13.581 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=311.665,43.765" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=311.665%2043.765&output=json&radius=5&userEntry=teutsch311" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 311
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.77, d_pc=3304.24, logt=7.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

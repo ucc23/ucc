@@ -60,7 +60,7 @@ title:  Platais 9
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14691](https://ucc.ar/_clusters/cwwdl14691/)| 79 | 138.802 | -43.804 | 5.391 | -24.208 | 13.202 | 16.17 |
+|[CWWDL 14691](https://ucc.ar/_clusters/cwwdl14691/)| 93 | 138.802 | -43.804 | 5.391 | -24.208 | 13.202 | 16.17 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=138.845,-43.804" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=138.845%20-43.804&output=json&radius=5&userEntry=platais9" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Platais 9
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.09, d_pc=185.26, logt=7.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

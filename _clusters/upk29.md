@@ -61,7 +61,7 @@ title:  UPK 29
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14441](https://ucc.ar/_clusters/cwwdl14441/)| 93 | 278.59 | -5.468 | 1.481 | 0.487 | 2.778 | 23.539 |
+|[CWWDL 14441](https://ucc.ar/_clusters/cwwdl14441/)| 99 | 278.59 | -5.468 | 1.481 | 0.487 | 2.778 | 23.539 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=278.591,-5.469" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=278.591%20-5.469&output=json&radius=5&userEntry=upk29" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 29
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.88, d_pc=655.76, logt=8.38` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

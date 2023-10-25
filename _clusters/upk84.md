@@ -60,9 +60,9 @@ title:  UPK 84
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Alessi 116](https://ucc.ar/_clusters/alessi116/)| 90 | 310.227 | 20.199 | 1.078 | -6.293 | -9.287 | 24.259 |
-|[CWWDL 14281](https://ucc.ar/_clusters/cwwdl14281/)| 82 | 310.194 | 20.199 | 1.078 | -6.292 | -9.291 | 24.225 |
-|[UBC 131](https://ucc.ar/_clusters/ubc131/)| 87 | 310.23 | 20.203 | 1.081 | -6.293 | -9.291 | 24.143 |
+|[Alessi 116](https://ucc.ar/_clusters/alessi116/)| 95 | 310.227 | 20.199 | 1.078 | -6.293 | -9.287 | 24.259 |
+|[CWWDL 14281](https://ucc.ar/_clusters/cwwdl14281/)| 92 | 310.194 | 20.199 | 1.078 | -6.292 | -9.291 | 24.225 |
+|[UBC 131](https://ucc.ar/_clusters/ubc131/)| 94 | 310.23 | 20.203 | 1.081 | -6.293 | -9.291 | 24.143 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.234,20.191" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.234%2020.191&output=json&radius=5&userEntry=upk84" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 84
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.3, logt=9.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

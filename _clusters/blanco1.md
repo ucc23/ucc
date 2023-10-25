@@ -64,7 +64,7 @@ title:  Blanco 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/)| 82 | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 |
+|[CWWDL 14677](https://ucc.ar/_clusters/cwwdl14677/)| 83 | 1.05 | -30.012 | 4.224 | 18.708 | 2.609 | 5.513 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=1.07,-29.988" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=1.07%20-29.988&output=json&radius=5&userEntry=blanco1" target="_blank">Simbad</a></p>
 
@@ -89,4 +89,4 @@ title:  Blanco 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.06, d_pc=234.39, logt=8.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

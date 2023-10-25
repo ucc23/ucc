@@ -56,7 +56,7 @@ title:  CWWDL 3090
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1323](https://ucc.ar/_clusters/ubc1323/)| 45 | 101.955 | 11.424 | 0.218 | -0.269 | -0.585 | -- |
+|[UBC 1323](https://ucc.ar/_clusters/ubc1323/)| 64 | 101.955 | 11.424 | 0.218 | -0.269 | -0.585 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=101.944,11.414" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=101.944%2011.414&output=json&radius=5&userEntry=cwwdl3090" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 3090
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.64, Z=0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

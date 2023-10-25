@@ -59,8 +59,8 @@ title:  Toepler 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0098](https://ucc.ar/_clusters/oc0098/)| 71 | 300.318 | 33.612 | 0.267 | -2.348 | -5.105 | -3.053 |
-|[OC 0099](https://ucc.ar/_clusters/oc0099/)| 54 | 300.318 | 33.612 | 0.274 | -2.345 | -5.081 | -2.721 |
+|[OC 0098](https://ucc.ar/_clusters/oc0098/)| 86 | 300.318 | 33.612 | 0.267 | -2.348 | -5.105 | -3.053 |
+|[OC 0099](https://ucc.ar/_clusters/oc0099/)| 82 | 300.318 | 33.612 | 0.274 | -2.345 | -5.081 | -2.721 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.319,33.608" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.319%2033.608&output=json&radius=5&userEntry=toepler1" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Toepler 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.36, d_pc=3272.03, logt=8.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

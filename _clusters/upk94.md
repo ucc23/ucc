@@ -59,7 +59,7 @@ title:  UPK 94
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14333](https://ucc.ar/_clusters/cwwdl14333/)| 88 | 304.77 | 27.598 | 1.019 | 2.052 | 1.013 | -13.135 |
+|[CWWDL 14333](https://ucc.ar/_clusters/cwwdl14333/)| 100 | 304.77 | 27.598 | 1.019 | 2.052 | 1.013 | -13.135 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.775,27.597" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.775%2027.597&output=json&radius=5&userEntry=upk94" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UPK 94
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.96, d_pc=938.66, logt=8.43` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  CWWDL 2050
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1331](https://ucc.ar/_clusters/ubc1331/)| 43 | 102.099 | 4.002 | 0.258 | -0.498 | -0.81 | 86.984 |
+|[UBC 1331](https://ucc.ar/_clusters/ubc1331/)| 37 | 102.099 | 4.002 | 0.258 | -0.498 | -0.81 | 86.984 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=102.099,4.016" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=102.099%204.016&output=json&radius=5&userEntry=cwwdl2050" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 2050
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.76, Z=0.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  MF 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1471](https://ucc.ar/_clusters/ubc1471/)| 93 | 148.295 | -55.021 | 0.397 | -5.775 | 3.442 | 7.552 |
+|[UBC 1471](https://ucc.ar/_clusters/ubc1471/)| 99 | 148.295 | -55.021 | 0.397 | -5.775 | 3.442 | 7.552 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=148.305,-55.022" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=148.305%20-55.022&output=json&radius=5&userEntry=mf1" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  MF 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.75, d_pc=2340.87, logt=7.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

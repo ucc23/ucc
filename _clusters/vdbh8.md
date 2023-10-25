@@ -61,8 +61,8 @@ title:  VDBH 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0434](https://ucc.ar/_clusters/oc0434/)| 60 | 116.372 | -32.837 | 0.238 | -2.183 | 3.315 | 46.158 |
-|[OC 0435](https://ucc.ar/_clusters/oc0435/)| 44 | 116.381 | -32.868 | 0.316 | -2.169 | 3.266 | -- |
+|[OC 0434](https://ucc.ar/_clusters/oc0434/)| 77 | 116.372 | -32.837 | 0.238 | -2.183 | 3.315 | 46.158 |
+|[OC 0435](https://ucc.ar/_clusters/oc0435/)| 36 | 116.381 | -32.868 | 0.316 | -2.169 | 3.266 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=116.371,-32.842" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=116.371%20-32.842&output=json&radius=5&userEntry=vdbh8" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  VDBH 8
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.54, d_pc=3339.98, logt=7.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

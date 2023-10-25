@@ -56,7 +56,7 @@ title:  CWWDL 8833
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1396](https://ucc.ar/_clusters/ubc1396/)| 31 | 118.503 | -26.761 | 0.216 | -2.461 | 3.219 | -- |
+|[UBC 1396](https://ucc.ar/_clusters/ubc1396/)| 79 | 118.503 | -26.761 | 0.216 | -2.461 | 3.219 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=118.5,-26.763" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=118.5%20-26.763&output=json&radius=5&userEntry=cwwdl8833" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 8833
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.67, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -60,7 +60,7 @@ title:  Czernik 39
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 118](https://ucc.ar/_clusters/teutsch118/)| 74 | 286.923 | 4.34 | 0.275 | -1.571 | -4.725 | 34.552 |
+|[Teutsch 118](https://ucc.ar/_clusters/teutsch118/)| 95 | 286.923 | 4.34 | 0.275 | -1.571 | -4.725 | 34.552 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=286.924,4.338" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.924%204.338&output=json&radius=5&userEntry=czernik39" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Czernik 39
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.94, Dist=3156.0, logage=6.98, [Fe/H]=0.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,8 +56,8 @@ title:  UFMG 84
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VDB 113](https://ucc.ar/_clusters/vdb113/)| 59 | 272.18 | -21.441 | 0.674 | -0.766 | -1.383 | -44.731 |
-|[UBC 1005](https://ucc.ar/_clusters/ubc1005/)| 54 | 272.186 | -21.437 | 0.676 | -0.741 | -1.382 | -22.069 |
+|[VDB 113](https://ucc.ar/_clusters/vdb113/)| 80 | 272.18 | -21.441 | 0.674 | -0.766 | -1.383 | -44.731 |
+|[UBC 1005](https://ucc.ar/_clusters/ubc1005/)| 84 | 272.186 | -21.437 | 0.676 | -0.741 | -1.382 | -22.069 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=272.175,-21.441" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.175%20-21.441&output=json&radius=5&userEntry=ufmg84" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  UFMG 84
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.85, Dmod=10.7, logt=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -59,8 +59,8 @@ title:  COIN-Gaia 27
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 78](https://ucc.ar/_clusters/ubc78/)| 57 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
-|[Streicher 52](https://ucc.ar/_clusters/streicher52/)| 73 | 85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
+|[UBC 78](https://ucc.ar/_clusters/ubc78/)| 69 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
+|[Streicher 52](https://ucc.ar/_clusters/streicher52/)| 75 | 85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.762,13.731" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.762%2013.731&output=json&radius=5&userEntry=coingaia27" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  COIN-Gaia 27
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.1, logt=8.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

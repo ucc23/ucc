@@ -56,7 +56,7 @@ title:  Teutsch 88
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Czernik 20](https://ucc.ar/_clusters/czernik20/)| 69 | 80.131 | 39.533 | 0.264 | 0.587 | -1.586 | 29.316 |
+|[Czernik 20](https://ucc.ar/_clusters/czernik20/)| 73 | 80.131 | 39.533 | 0.264 | 0.587 | -1.586 | 29.316 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=80.125,39.544" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.125%2039.544&output=json&radius=5&userEntry=teutsch88" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 88
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

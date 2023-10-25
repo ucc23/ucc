@@ -57,8 +57,8 @@ title:  HXHWL 17
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14381](https://ucc.ar/_clusters/cwwdl14381/)| 74 | 109.28 | -12.003 | 0.917 | -2.109 | -0.118 | 43.84 |
-|[H21OC 17](https://ucc.ar/_clusters/h21oc17/)| 54 | 109.261 | -11.987 | 0.902 | -2.11 | -0.118 | 41.805 |
+|[CWWDL 14381](https://ucc.ar/_clusters/cwwdl14381/)| 78 | 109.28 | -12.003 | 0.917 | -2.109 | -0.118 | 43.84 |
+|[H21OC 17](https://ucc.ar/_clusters/h21oc17/)| 60 | 109.261 | -11.987 | 0.902 | -2.11 | -0.118 | 41.805 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=109.273,-11.99" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=109.273%20-11.99&output=json&radius=5&userEntry=hxhwl17" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  HXHWL 17
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.41, d_pc=1059.64, logt=8.47` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

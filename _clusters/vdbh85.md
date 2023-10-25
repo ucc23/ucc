@@ -60,7 +60,7 @@ title:  VDBH 85
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0520](https://ucc.ar/_clusters/oc0520/)| 72 | 150.468 | -49.563 | 0.156 | -5.678 | 4.651 | 61.462 |
+|[OC 0520](https://ucc.ar/_clusters/oc0520/)| 93 | 150.468 | -49.563 | 0.156 | -5.678 | 4.651 | 61.462 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=150.467,-49.563" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=150.467%20-49.563&output=json&radius=5&userEntry=vdbh85" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  VDBH 85
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.61, d_pc=6071.24, logt=9.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

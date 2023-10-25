@@ -52,6 +52,13 @@ title:  Alessi 80B
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 268.132 | -38.671 | 0.791 | 2.891 | -1.749 | -16.556 |
 | **UCC** |268.125 | -38.685 | 0.816 | 2.901 | -1.802 | -15.297 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Sco_OB5](https://ucc.ar/_clusters/scoob5/)| 96 | 268.125 | -38.69 | 0.816 | 2.9 | -1.806 | -15.297 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=268.125,-38.685" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.125%20-38.685&output=json&radius=5&userEntry=alessi80b" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +76,4 @@ title:  Alessi 80B
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.64, d_pc=1177.26, logt=7.47` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

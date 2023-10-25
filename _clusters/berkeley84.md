@@ -58,7 +58,7 @@ title:  Berkeley 84
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1089](https://ucc.ar/_clusters/ubc1089/)| 91 | 301.182 | 33.957 | 0.353 | -2.009 | -5.547 | 11.22 |
+|[UBC 1089](https://ucc.ar/_clusters/ubc1089/)| 95 | 301.182 | 33.957 | 0.353 | -2.009 | -5.547 | 11.22 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.184,33.957" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.184%2033.957&output=json&radius=5&userEntry=berkeley84" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Berkeley 84
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.98, d_pc=2542.31, logt=7.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

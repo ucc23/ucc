@@ -56,8 +56,8 @@ title:  CWWDL 3347
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Patchick 12](https://ucc.ar/_clusters/patchick12/)| 89 | 31.126 | 54.369 | 0.365 | -2.285 | -0.259 | -38.081 |
-|[UBC 44](https://ucc.ar/_clusters/ubc44/)| 72 | 31.122 | 54.359 | 0.369 | -2.257 | -0.241 | -38.32 |
+|[Patchick 12](https://ucc.ar/_clusters/patchick12/)| 97 | 31.126 | 54.369 | 0.365 | -2.285 | -0.259 | -38.081 |
+|[UBC 44](https://ucc.ar/_clusters/ubc44/)| 81 | 31.122 | 54.359 | 0.369 | -2.257 | -0.241 | -38.32 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=31.126,54.368" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=31.126%2054.368&output=json&radius=5&userEntry=cwwdl3347" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWWDL 3347
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.48, Z=0.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

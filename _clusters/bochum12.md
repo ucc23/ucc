@@ -55,13 +55,6 @@ title:  Bochum 12
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 164.34 | -61.725 | -- | -3.45 | -2.36 | -- |
 | **UCC** |164.354 | -61.728 | 0.213 | -6.272 | 2.375 | -- |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0554](https://ucc.ar/_clusters/oc0554/)| 49 | 164.366 | -61.728 | 0.359 | -7.288 | 1.741 | 22.407 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=164.354,-61.728" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=164.354%20-61.728&output=json&radius=5&userEntry=bochum12" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -79,4 +72,4 @@ title:  Bochum 12
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.23, distance=2485.0, log_age=8.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

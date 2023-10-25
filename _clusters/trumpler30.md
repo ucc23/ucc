@@ -61,7 +61,7 @@ title:  Trumpler 30
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 330](https://ucc.ar/_clusters/ubc330/)| 74 | 269.175 | -35.311 | 0.7 | 1.162 | -2.228 | -18.665 |
+|[UBC 330](https://ucc.ar/_clusters/ubc330/)| 88 | 269.175 | -35.311 | 0.7 | 1.162 | -2.228 | -18.665 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=269.177,-35.303" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.177%20-35.303&output=json&radius=5&userEntry=trumpler30" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  Trumpler 30
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.91, d_pc=1358.75, logt=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

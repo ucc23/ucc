@@ -60,7 +60,7 @@ title:  SAI 91
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0495](https://ucc.ar/_clusters/oc0495/)| 83 | 129.228 | -50.045 | 0.266 | -4.068 | 4.262 | 55.393 |
+|[OC 0495](https://ucc.ar/_clusters/oc0495/)| 99 | 129.228 | -50.045 | 0.266 | -4.068 | 4.262 | 55.393 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=129.227,-50.046" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=129.227%20-50.046&output=json&radius=5&userEntry=sai91" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  SAI 91
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.38, d_pc=3437.59, logt=8.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

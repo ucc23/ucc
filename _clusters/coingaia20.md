@@ -60,7 +60,7 @@ title:  COIN-Gaia 20
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 66](https://ucc.ar/_clusters/ubc66/)| 72 | 78.659 | 31.68 | 0.923 | 0.477 | -1.518 | 2.399 |
+|[UBC 66](https://ucc.ar/_clusters/ubc66/)| 73 | 78.659 | 31.68 | 0.923 | 0.477 | -1.518 | 2.399 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=78.639,31.702" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.639%2031.702&output=json&radius=5&userEntry=coingaia20" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  COIN-Gaia 20
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.71, d_pc=1028.59, logt=7.87` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

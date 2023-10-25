@@ -54,6 +54,13 @@ title:  Basel 13
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 318.307 | 46.551 | 0.259 | -2.417 | -3.663 | -41.07 |
 | **UCC** |318.287 | 46.546 | 0.245 | -2.418 | -3.651 | -41.079 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3881](https://ucc.ar/_clusters/cwnu3881/)| 77 | 318.321 | 46.547 | 0.246 | -2.405 | -3.648 | -41.079 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=318.287,46.546" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=318.287%2046.546&output=json&radius=5&userEntry=basel13" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -73,4 +80,4 @@ title:  Basel 13
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.92, d_pc=3612.07, logt=8.45` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

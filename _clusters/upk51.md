@@ -61,7 +61,7 @@ title:  UPK 51
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14526](https://ucc.ar/_clusters/cwwdl14526/)| 85 | 314.179 | -6.676 | 1.753 | 5.121 | 1.981 | -16.041 |
+|[CWWDL 14526](https://ucc.ar/_clusters/cwwdl14526/)| 93 | 314.179 | -6.676 | 1.753 | 5.121 | 1.981 | -16.041 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=314.135,-6.676" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=314.135%20-6.676&output=json&radius=5&userEntry=upk51" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 51
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=574.49, logt=8.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -60,8 +60,8 @@ title:  Gulliver 21
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14307](https://ucc.ar/_clusters/cwwdl14307/)| 47 | 107.09 | -25.361 | 1.547 | -1.902 | 4.186 | 41.462 |
-|[CWWDL 14306](https://ucc.ar/_clusters/cwwdl14306/)| 85 | 106.856 | -25.504 | 1.541 | -1.875 | 4.245 | 39.485 |
+|[CWWDL 14307](https://ucc.ar/_clusters/cwwdl14307/)| 60 | 107.09 | -25.361 | 1.547 | -1.902 | 4.186 | 41.462 |
+|[CWWDL 14306](https://ucc.ar/_clusters/cwwdl14306/)| 96 | 106.856 | -25.504 | 1.541 | -1.875 | 4.245 | 39.485 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.852,-25.491" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.852%20-25.491&output=json&radius=5&userEntry=gulliver21" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  Gulliver 21
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.11, d_pc=636.18, logt=8.45` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,7 +58,7 @@ title:  ASCC 94
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 342](https://ucc.ar/_clusters/ubc342/)| 51 | 273.904 | -14.947 | 0.608 | -0.154 | -1.131 | -24.941 |
+|[UBC 342](https://ucc.ar/_clusters/ubc342/)| 55 | 273.904 | -14.947 | 0.608 | -0.154 | -1.131 | -24.941 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.889,-14.946" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.889%20-14.946&output=json&radius=5&userEntry=ascc94" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  ASCC 94
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.94, d_pc=1552.29, logt=6.93` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

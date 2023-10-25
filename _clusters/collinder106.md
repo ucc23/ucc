@@ -55,6 +55,13 @@ title:  Collinder 106
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 99.295 | 6.05 | 0.666 | -1.623 | 0.524 | 25.925 |
 | **UCC** |99.294 | 6.038 | 0.655 | -1.601 | 0.526 | 26.407 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[FSR 1008](https://ucc.ar/_clusters/fsr1008/)| 60 | 99.314 | 6.068 | 0.66 | -1.623 | 0.54 | 26.713 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=99.294,6.038" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.294%206.038&output=json&radius=5&userEntry=collinder106" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -76,4 +83,4 @@ title:  Collinder 106
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.77, d_pc=1429.14, logt=7.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

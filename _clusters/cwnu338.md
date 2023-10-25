@@ -58,7 +58,7 @@ title:  CWNU 338
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0451](https://ucc.ar/_clusters/oc0451/)| 63 | 124.556 | -39.275 | 1.618 | -5.237 | 5.476 | 24.594 |
+|[OC 0451](https://ucc.ar/_clusters/oc0451/)| 78 | 124.556 | -39.275 | 1.618 | -5.237 | 5.476 | 24.594 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=124.448,-39.335" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.448%20-39.335&output=json&radius=5&userEntry=cwnu338" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWNU 338
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.32, d_pc=604.38, logt=7.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

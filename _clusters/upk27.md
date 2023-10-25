@@ -61,7 +61,7 @@ title:  UPK 27
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 348](https://ucc.ar/_clusters/ubc348/)| 90 | 275.044 | -5.172 | 1.086 | 2.361 | -2.192 | -29.501 |
+|[UBC 348](https://ucc.ar/_clusters/ubc348/)| 92 | 275.044 | -5.172 | 1.086 | 2.361 | -2.192 | -29.501 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=275.044,-5.169" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=275.044%20-5.169&output=json&radius=5&userEntry=upk27" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 27
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.09, d_pc=885.25, logt=8.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

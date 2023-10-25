@@ -57,7 +57,7 @@ title:  UBC 17 b
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 6](https://ucc.ar/_clusters/gulliver6/)| 82 | 83.265 | -1.659 | 2.402 | 0.035 | -0.228 | 28.062 |
+|[Gulliver 6](https://ucc.ar/_clusters/gulliver6/)| 87 | 83.265 | -1.659 | 2.402 | 0.035 | -0.228 | 28.062 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.19,-1.655" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.19%20-1.655&output=json&radius=5&userEntry=ubc17b" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  UBC 17 b
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.05, DMNN=8.05, AgeNN=7.06` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

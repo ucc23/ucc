@@ -57,8 +57,8 @@ title:  UBC 53
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3753](https://ucc.ar/_clusters/cwwdl3753/)| 74 | 59.829 | 47.395 | 0.591 | 0.604 | -2.986 | -14.324 |
-|[Teutsch 56](https://ucc.ar/_clusters/teutsch56/)| 83 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
+|[CWWDL 3753](https://ucc.ar/_clusters/cwwdl3753/)| 85 | 59.829 | 47.395 | 0.591 | 0.604 | -2.986 | -14.324 |
+|[Teutsch 56](https://ucc.ar/_clusters/teutsch56/)| 89 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.831,47.395" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.831%2047.395&output=json&radius=5&userEntry=ubc53" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UBC 53
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.67, DMNN=11.14, AgeNN=8.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

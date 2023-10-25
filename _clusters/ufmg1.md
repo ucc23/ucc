@@ -58,10 +58,10 @@ title:  UFMG 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 306](https://ucc.ar/_clusters/ubc306/)| 80 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
-|[CWWDL 5648](https://ucc.ar/_clusters/cwwdl5648/)| 71 | 236.572 | -56.802 | 0.377 | -1.684 | -3.227 | -44.323 |
-|[FoF 1180](https://ucc.ar/_clusters/fof1180/)| 74 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
-|[OC 0633](https://ucc.ar/_clusters/oc0633/)| 73 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
+|[UBC 306](https://ucc.ar/_clusters/ubc306/)| 84 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
+|[CWWDL 5648](https://ucc.ar/_clusters/cwwdl5648/)| 100 | 236.572 | -56.802 | 0.377 | -1.684 | -3.227 | -44.323 |
+|[FoF 1180](https://ucc.ar/_clusters/fof1180/)| 98 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
+|[OC 0633](https://ucc.ar/_clusters/oc0633/)| 99 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=236.573,-56.801" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=236.573%20-56.801&output=json&radius=5&userEntry=ufmg1" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UFMG 1
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.38, Dist=1902.0, logage=8.41, [Fe/H]=0.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

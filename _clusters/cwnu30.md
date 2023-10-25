@@ -56,8 +56,8 @@ title:  CWNU 30
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1088](https://ucc.ar/_clusters/ubc1088/)| 75 | 305.891 | 31.078 | 0.544 | -2.14 | -5.16 | 64.938 |
-|[CWNU 64](https://ucc.ar/_clusters/cwnu64/)| 49 | 305.907 | 31.063 | 0.552 | -2.136 | -5.163 | -- |
+|[UBC 1088](https://ucc.ar/_clusters/ubc1088/)| 78 | 305.891 | 31.078 | 0.544 | -2.14 | -5.16 | 64.938 |
+|[CWNU 64](https://ucc.ar/_clusters/cwnu64/)| 89 | 305.907 | 31.063 | 0.552 | -2.136 | -5.163 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.908,31.062" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.908%2031.062&output=json&radius=5&userEntry=cwnu30" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWNU 30
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.55, dm=11.4, logt=8.7, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

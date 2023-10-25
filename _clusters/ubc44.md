@@ -57,8 +57,8 @@ title:  UBC 44
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3347](https://ucc.ar/_clusters/cwwdl3347/)| 72 | 31.126 | 54.368 | 0.362 | -2.283 | -0.262 | -38.081 |
-|[Patchick 12](https://ucc.ar/_clusters/patchick12/)| 74 | 31.126 | 54.369 | 0.365 | -2.285 | -0.259 | -38.081 |
+|[CWWDL 3347](https://ucc.ar/_clusters/cwwdl3347/)| 81 | 31.126 | 54.368 | 0.362 | -2.283 | -0.262 | -38.081 |
+|[Patchick 12](https://ucc.ar/_clusters/patchick12/)| 83 | 31.126 | 54.369 | 0.365 | -2.285 | -0.259 | -38.081 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=31.122,54.359" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=31.122%2054.359&output=json&radius=5&userEntry=ubc44" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UBC 44
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.51, DMNN=12.19, AgeNN=8.91` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

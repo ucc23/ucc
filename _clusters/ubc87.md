@@ -58,7 +58,7 @@ title:  UBC 87
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 11945](https://ucc.ar/_clusters/cwwdl11945/)| 36 | 60.532 | 56.41 | 0.425 | 0.767 | -1.343 | -- |
+|[CWWDL 11945](https://ucc.ar/_clusters/cwwdl11945/)| 57 | 60.532 | 56.41 | 0.425 | 0.767 | -1.343 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=60.515,56.419" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=60.515%2056.419&output=json&radius=5&userEntry=ubc87" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  UBC 87
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.84, d_pc=2317.8, logt=8.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

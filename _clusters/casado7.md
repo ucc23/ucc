@@ -57,8 +57,8 @@ title:  Casado 7
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1593](https://ucc.ar/_clusters/ubc1593/)| 80 | 267.027 | -29.018 | 0.564 | 0.583 | -1.401 | -- |
-|[CWWDL 7654](https://ucc.ar/_clusters/cwwdl7654/)| 78 | 267.023 | -29.018 | 0.57 | 0.59 | -1.404 | -- |
+|[UBC 1593](https://ucc.ar/_clusters/ubc1593/)| 90 | 267.027 | -29.018 | 0.564 | 0.583 | -1.401 | -- |
+|[CWWDL 7654](https://ucc.ar/_clusters/cwwdl7654/)| 92 | 267.023 | -29.018 | 0.57 | 0.59 | -1.404 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.023,-29.019" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.023%20-29.019&output=json&radius=5&userEntry=casado7" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Casado 7
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.86, d_pc=1636.91, logt=8.17` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

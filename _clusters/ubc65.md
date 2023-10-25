@@ -56,7 +56,7 @@ title:  UBC 65
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 19](https://ucc.ar/_clusters/coingaia19/)| 80 | 82.192 | 34.292 | 0.791 | -1.524 | -4.664 | 7.126 |
+|[COIN-Gaia 19](https://ucc.ar/_clusters/coingaia19/)| 81 | 82.192 | 34.292 | 0.791 | -1.524 | -4.664 | 7.126 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=82.175,34.285" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=82.175%2034.285&output=json&radius=5&userEntry=ubc65" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  UBC 65
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

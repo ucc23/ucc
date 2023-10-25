@@ -56,7 +56,7 @@ title:  HXHWL 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1190](https://ucc.ar/_clusters/ubc1190/)| 77 | 358.917 | 60.847 | 0.362 | -1.773 | -1.067 | -79.027 |
+|[UBC 1190](https://ucc.ar/_clusters/ubc1190/)| 94 | 358.917 | 60.847 | 0.362 | -1.773 | -1.067 | -79.027 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=358.917,60.858" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=358.917%2060.858&output=json&radius=5&userEntry=hxhwl4" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  HXHWL 4
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=2.2, dm=12.0, logt=7.82, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

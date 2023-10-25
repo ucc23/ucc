@@ -56,7 +56,7 @@ title:  OCSN 13
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0083](https://ucc.ar/_clusters/oc0083/)| 57 | 291.703 | 21.17 | 1.995 | 1.519 | -6.674 | -8.918 |
+|[OC 0083](https://ucc.ar/_clusters/oc0083/)| 79 | 291.703 | 21.17 | 1.995 | 1.519 | -6.674 | -8.918 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=291.691,21.21" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=291.691%2021.21&output=json&radius=5&userEntry=ocsn13" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  OCSN 13
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.15, dm=8.87, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

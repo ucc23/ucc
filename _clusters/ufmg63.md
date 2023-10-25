@@ -57,7 +57,7 @@ title:  UFMG 63
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0002](https://ucc.ar/_clusters/oc0002/)| 81 | 263.393 | -24.999 | 0.808 | 1.211 | -0.25 | -12.001 |
+|[OC 0002](https://ucc.ar/_clusters/oc0002/)| 95 | 263.393 | -24.999 | 0.808 | 1.211 | -0.25 | -12.001 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=263.397,-25.003" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=263.397%20-25.003&output=json&radius=5&userEntry=ufmg63" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UFMG 63
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.83, d_pc=1185.03, logt=8.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  UFMG 94
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0700](https://ucc.ar/_clusters/oc0700/)| 85 | 267.941 | -33.403 | 0.775 | 0.422 | -2.868 | -10.698 |
+|[OC 0700](https://ucc.ar/_clusters/oc0700/)| 99 | 267.941 | -33.403 | 0.775 | 0.422 | -2.868 | -10.698 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.941,-33.403" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.941%20-33.403&output=json&radius=5&userEntry=ufmg94" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  UFMG 94
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.7, Dmod=10.3, logt=8.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

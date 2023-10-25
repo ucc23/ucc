@@ -60,7 +60,7 @@ title:  CWWDL 635
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 1139](https://ucc.ar/_clusters/lisc1139/)| 37 | 111.389 | -20.816 | 0.326 | -2.27 | 3.158 | -- |
+|[LISC 1139](https://ucc.ar/_clusters/lisc1139/)| 50 | 111.389 | -20.816 | 0.326 | -2.27 | 3.158 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.348,-20.758" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.348%20-20.758&output=json&radius=5&userEntry=cwwdl635" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWWDL 635
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.71, Z=0.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,8 +57,8 @@ title:  Teutsch 117
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1027](https://ucc.ar/_clusters/ubc1027/)| 86 | 279.289 | -10.238 | 0.244 | -1.459 | -4.475 | 80.054 |
-|[OC 0039](https://ucc.ar/_clusters/oc0039/)| 44 | 279.287 | -10.236 | 0.246 | -1.443 | -4.504 | 80.847 |
+|[UBC 1027](https://ucc.ar/_clusters/ubc1027/)| 85 | 279.289 | -10.238 | 0.244 | -1.459 | -4.475 | 80.054 |
+|[OC 0039](https://ucc.ar/_clusters/oc0039/)| 86 | 279.287 | -10.236 | 0.246 | -1.443 | -4.504 | 80.847 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.292,-10.234" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.292%20-10.234&output=json&radius=5&userEntry=teutsch117" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Teutsch 117
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.02, d_pc=3346.95, logt=8.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

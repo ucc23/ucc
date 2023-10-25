@@ -62,7 +62,7 @@ title:  Berkeley 30
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0350](https://ucc.ar/_clusters/oc0350/)| 40 | 104.44 | 3.23 | 0.213 | -0.145 | -0.318 | 48.192 |
+|[OC 0350](https://ucc.ar/_clusters/oc0350/)| 44 | 104.44 | 3.23 | 0.213 | -0.145 | -0.318 | 48.192 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.438,3.224" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.438%203.224&output=json&radius=5&userEntry=berkeley30" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Berkeley 30
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.32, d_pc=4462.35, logt=8.66` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

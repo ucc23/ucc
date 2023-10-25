@@ -56,7 +56,8 @@ title:  CWNU 453
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0566](https://ucc.ar/_clusters/oc0566/)| 86 | 172.158 | -63.003 | 0.409 | -6.349 | 1.24 | -9.854 |
+|[OC 0566](https://ucc.ar/_clusters/oc0566/)| 97 | 172.158 | -63.003 | 0.409 | -6.349 | 1.24 | -9.854 |
+|[DBSB 68](https://ucc.ar/_clusters/dbsb68/)| 52 | 172.169 | -63.029 | 0.397 | -6.336 | 1.21 | -13.4 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=172.146,-63.002" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=172.146%20-63.002&output=json&radius=5&userEntry=cwnu453" target="_blank">Simbad</a></p>
 
@@ -75,4 +76,4 @@ title:  CWNU 453
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.65, dm=12.45, logt=6.1, Z=0.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

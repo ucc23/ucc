@@ -56,13 +56,6 @@ title:  HXHWL 31
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 314.988 | 45.335 | 0.508 | -2.488 | -4.545 | -- |
 | **UCC** |314.889 | 45.329 | 0.429 | -2.827 | -4.24 | -- |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1119](https://ucc.ar/_clusters/ubc1119/)| 60 | 314.984 | 45.343 | 0.492 | -2.489 | -4.543 | -- |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=314.889,45.329" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=314.889%2045.329&output=json&radius=5&userEntry=hxhwl31" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -81,4 +74,4 @@ title:  HXHWL 31
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.79, d_pc=1905.85, logt=7.95` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

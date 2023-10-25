@@ -58,7 +58,7 @@ title:  Ruprecht 118
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 313](https://ucc.ar/_clusters/ubc313/)| 56 | 246.109 | -51.914 | 0.357 | -3.176 | -4.341 | -- |
+|[UBC 313](https://ucc.ar/_clusters/ubc313/)| 74 | 246.109 | -51.914 | 0.357 | -3.176 | -4.341 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=246.111,-51.923" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=246.111%20-51.923&output=json&radius=5&userEntry=ruprecht118" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Ruprecht 118
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.32, d_pc=2562.43, logt=8.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

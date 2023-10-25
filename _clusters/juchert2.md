@@ -57,7 +57,7 @@ title:  Juchert 2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1518](https://ucc.ar/_clusters/cwnu1518/)| 90 | 287.357 | 10.33 | 0.257 | -1.368 | -3.66 | 74.062 |
+|[CWNU 1518](https://ucc.ar/_clusters/cwnu1518/)| 95 | 287.357 | 10.33 | 0.257 | -1.368 | -3.66 | 74.062 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=287.358,10.334" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=287.358%2010.334&output=json&radius=5&userEntry=juchert2" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Juchert 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.92, d_pc=3366.14, logt=7.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

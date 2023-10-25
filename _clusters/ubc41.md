@@ -54,6 +54,13 @@ title:  UBC 41
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 23.252 | 59.782 | 0.406 | -0.75 | -0.827 | -46.968 |
 | **UCC** |23.199 | 59.78 | 0.405 | -0.763 | -0.815 | -52.543 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 13366](https://ucc.ar/_clusters/cwwdl13366/)| 75 | 23.255 | 59.784 | 0.402 | -0.764 | -0.816 | -38.283 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=23.199,59.78" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=23.199%2059.78&output=json&radius=5&userEntry=ubc41" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -73,4 +80,4 @@ title:  UBC 41
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.26, d_pc=2250.41, logt=7.92` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

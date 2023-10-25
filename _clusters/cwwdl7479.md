@@ -56,7 +56,7 @@ title:  CWWDL 7479
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3250](https://ucc.ar/_clusters/lisc3250/)| 69 | 216.175 | -61.05 | 0.49 | -3.755 | -2.136 | -64.97 |
+|[LISC 3250](https://ucc.ar/_clusters/lisc3250/)| 97 | 216.175 | -61.05 | 0.49 | -3.755 | -2.136 | -64.97 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=216.175,-61.05" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=216.175%20-61.05&output=json&radius=5&userEntry=cwwdl7479" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 7479
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.25, Z=0.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

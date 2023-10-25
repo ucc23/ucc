@@ -62,7 +62,7 @@ title:  Trumpler 27
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0697](https://ucc.ar/_clusters/oc0697/)| 53 | 264.08 | -33.498 | 0.401 | -0.188 | -1.291 | -60.316 |
+|[OC 0697](https://ucc.ar/_clusters/oc0697/)| 70 | 264.08 | -33.498 | 0.401 | -0.188 | -1.291 | -60.316 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=264.089,-33.514" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.089%20-33.514&output=json&radius=5&userEntry=trumpler27" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Trumpler 27
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.19, Dmod=10.41, logt=7.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

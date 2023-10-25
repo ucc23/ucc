@@ -53,6 +53,13 @@ title:  Teutsch 79
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 200.923 | -63.673 | 0.134 | -6.33 | -1.004 | -13.45 |
 | **UCC** |200.909 | -63.665 | 0.143 | -6.366 | -1.036 | -15.482 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3267](https://ucc.ar/_clusters/cwnu3267/)| 92 | 200.899 | -63.664 | 0.145 | -6.369 | -1.042 | -15.812 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=200.909,-63.665" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=200.909%20-63.665&output=json&radius=5&userEntry=teutsch79" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -71,4 +78,4 @@ title:  Teutsch 79
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.63, d_pc=5883.91, logt=8.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

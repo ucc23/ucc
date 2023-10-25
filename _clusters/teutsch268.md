@@ -57,7 +57,7 @@ title:  Teutsch 268
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1015](https://ucc.ar/_clusters/ubc1015/)| 90 | 276.742 | -14.108 | 0.297 | -0.768 | -2.116 | -2.763 |
+|[UBC 1015](https://ucc.ar/_clusters/ubc1015/)| 94 | 276.742 | -14.108 | 0.297 | -0.768 | -2.116 | -2.763 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.737,-14.111" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.737%20-14.111&output=json&radius=5&userEntry=teutsch268" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 268
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.57, d_pc=2908.74, logt=8.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

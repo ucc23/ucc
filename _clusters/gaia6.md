@@ -57,8 +57,8 @@ title:  Gaia 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1395](https://ucc.ar/_clusters/ubc1395/)| 88 | 122.117 | -23.701 | 0.236 | -2.21 | 4.053 | 82.279 |
-|[CWWDL 3100](https://ucc.ar/_clusters/cwwdl3100/)| 83 | 122.116 | -23.702 | 0.235 | -2.211 | 4.042 | 60.916 |
+|[UBC 1395](https://ucc.ar/_clusters/ubc1395/)| 93 | 122.117 | -23.701 | 0.236 | -2.21 | 4.053 | 82.279 |
+|[CWWDL 3100](https://ucc.ar/_clusters/cwwdl3100/)| 95 | 122.116 | -23.702 | 0.235 | -2.211 | 4.042 | 60.916 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=122.115,-23.701" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=122.115%20-23.701&output=json&radius=5&userEntry=gaia6" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Gaia 6
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.4, d_pc=3694.52, logt=9.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

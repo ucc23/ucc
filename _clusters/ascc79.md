@@ -61,7 +61,7 @@ title:  ASCC 79
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14129](https://ucc.ar/_clusters/cwwdl14129/)| 28 | 229.546 | -61.018 | 1.191 | -3.178 | -4.073 | -7.801 |
+|[CWWDL 14129](https://ucc.ar/_clusters/cwwdl14129/)| 31 | 229.546 | -61.018 | 1.191 | -3.178 | -4.073 | -7.801 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=229.891,-60.947" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=229.891%20-60.947&output=json&radius=5&userEntry=ascc79" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  ASCC 79
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.63, d_pc=816.38, logt=6.74` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

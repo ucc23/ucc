@@ -56,7 +56,7 @@ title:  CWWDL 1736
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 349](https://ucc.ar/_clusters/ubc349/)| 63 | 280.068 | -7.034 | 0.407 | -0.541 | -1.675 | 24.036 |
+|[UBC 349](https://ucc.ar/_clusters/ubc349/)| 52 | 280.068 | -7.034 | 0.407 | -0.541 | -1.675 | 24.036 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=280.056,-7.02" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=280.056%20-7.02&output=json&radius=5&userEntry=cwwdl1736" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 1736
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.88, Z=0.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

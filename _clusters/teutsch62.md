@@ -56,7 +56,7 @@ title:  Teutsch 62
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0431](https://ucc.ar/_clusters/oc0431/)| 94 | 117.953 | -30.631 | 0.116 | -1.392 | 1.863 | 92.502 |
+|[OC 0431](https://ucc.ar/_clusters/oc0431/)| 95 | 117.953 | -30.631 | 0.116 | -1.392 | 1.863 | 92.502 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=117.952,-30.63" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=117.952%20-30.63&output=json&radius=5&userEntry=teutsch62" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 62
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

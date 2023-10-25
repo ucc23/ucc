@@ -56,7 +56,7 @@ title:  CWNU 142
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1542](https://ucc.ar/_clusters/ubc1542/)| 87 | 240.108 | -51.208 | 0.407 | -1.22 | -2.152 | -6.419 |
+|[UBC 1542](https://ucc.ar/_clusters/ubc1542/)| 95 | 240.108 | -51.208 | 0.407 | -1.22 | -2.152 | -6.419 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=240.107,-51.203" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=240.107%20-51.203&output=json&radius=5&userEntry=cwnu142" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 142
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=3.1, dm=12.35, logt=8.5, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

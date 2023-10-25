@@ -55,6 +55,13 @@ title:  Lynga 14
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 253.766 | -45.236 | 0.36 | -0.427 | -1.996 | -61.17 |
 | **UCC** |253.773 | -45.165 | 0.367 | -0.403 | -1.949 | -- |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0670](https://ucc.ar/_clusters/oc0670/)| 52 | 253.762 | -45.24 | 0.368 | -0.425 | -2.007 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=253.773,-45.165" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=253.773%20-45.165&output=json&radius=5&userEntry=lynga14" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -74,4 +81,4 @@ title:  Lynga 14
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.45, d_pc=2500.74, logt=6.82` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

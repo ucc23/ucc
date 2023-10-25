@@ -56,8 +56,8 @@ title:  UBC 50
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 38](https://ucc.ar/_clusters/coingaia38/)| 63 | 51.477 | 51.108 | 0.811 | 1.99 | -6.91 | -9.53 |
-|[CWWDL 14112](https://ucc.ar/_clusters/cwwdl14112/)| 28 | 51.53 | 51.125 | 0.861 | 2.002 | -6.909 | -9.53 |
+|[COIN-Gaia 38](https://ucc.ar/_clusters/coingaia38/)| 42 | 51.477 | 51.108 | 0.811 | 1.99 | -6.91 | -9.53 |
+|[CWWDL 14112](https://ucc.ar/_clusters/cwwdl14112/)| 51 | 51.53 | 51.125 | 0.861 | 2.002 | -6.909 | -9.53 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=51.483,51.059" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=51.483%2051.059&output=json&radius=5&userEntry=ubc50" target="_blank">Simbad</a></p>
 
@@ -70,4 +70,4 @@ title:  UBC 50
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

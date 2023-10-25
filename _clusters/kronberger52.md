@@ -60,7 +60,7 @@ title:  Kronberger 52
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0092](https://ucc.ar/_clusters/oc0092/)| 45 | 299.536 | 30.875 | 0.127 | -2.606 | -4.929 | -12.488 |
+|[OC 0092](https://ucc.ar/_clusters/oc0092/)| 55 | 299.536 | 30.875 | 0.127 | -2.606 | -4.929 | -12.488 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=299.539,30.88" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=299.539%2030.88&output=json&radius=5&userEntry=kronberger52" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Kronberger 52
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.88, d_pc=6204.7, logt=8.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

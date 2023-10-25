@@ -55,6 +55,13 @@ title:  CWWDL 2007
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 37.616 | 59.758 | 0.368 | -0.078 | -0.528 | -33.839 |
 | **UCC** |37.54 | 59.767 | 0.355 | -0.06 | -0.507 | -- |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Ferrero 38](https://ucc.ar/_clusters/ferrero38/)| 40 | 37.64 | 59.768 | 0.342 | 0.017 | -0.482 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.54,59.767" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.54%2059.767&output=json&radius=5&userEntry=cwwdl2007" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -72,4 +79,4 @@ title:  CWWDL 2007
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.3, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

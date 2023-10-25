@@ -59,8 +59,8 @@ title:  COIN-Gaia 7
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 4617](https://ucc.ar/_clusters/cwwdl4617/)| 37 | 33.762 | 58.463 | 0.688 | -1.037 | -1.689 | -- |
-|[UBC 45](https://ucc.ar/_clusters/ubc45/)| 55 | 33.721 | 58.463 | 0.683 | -1.016 | -1.695 | -- |
+|[CWWDL 4617](https://ucc.ar/_clusters/cwwdl4617/)| 59 | 33.762 | 58.463 | 0.688 | -1.037 | -1.689 | -- |
+|[UBC 45](https://ucc.ar/_clusters/ubc45/)| 56 | 33.721 | 58.463 | 0.683 | -1.016 | -1.695 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=33.799,58.463" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=33.799%2058.463&output=json&radius=5&userEntry=coingaia7" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  COIN-Gaia 7
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.57, d_pc=1414.01, logt=8.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

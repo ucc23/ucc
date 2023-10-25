@@ -58,8 +58,8 @@ title:  COIN-Gaia 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Steine 12](https://ucc.ar/_clusters/steine12/)| 88 | 11.809 | 66.726 | 1.55 | -5.034 | -3.153 | -13.825 |
-|[UBC 34](https://ucc.ar/_clusters/ubc34/)| 90 | 11.828 | 66.707 | 1.544 | -5.04 | -3.151 | -12.229 |
+|[Steine 12](https://ucc.ar/_clusters/steine12/)| 99 | 11.809 | 66.726 | 1.55 | -5.034 | -3.153 | -13.825 |
+|[UBC 34](https://ucc.ar/_clusters/ubc34/)| 95 | 11.828 | 66.707 | 1.544 | -5.04 | -3.151 | -12.229 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=11.82,66.727" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=11.82%2066.727&output=json&radius=5&userEntry=coingaia1" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  COIN-Gaia 1
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.8, logt=8.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

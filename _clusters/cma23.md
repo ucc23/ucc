@@ -56,7 +56,7 @@ title:  CMa23
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1363](https://ucc.ar/_clusters/ubc1363/)| 49 | 106.739 | -12.302 | 0.602 | -1.067 | -0.299 | -- |
+|[UBC 1363](https://ucc.ar/_clusters/ubc1363/)| 56 | 106.739 | -12.302 | 0.602 | -1.067 | -0.299 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.696,-12.301" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.696%20-12.301&output=json&radius=5&userEntry=cma23" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CMa23
 | [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `Av=1.20;1.20, d_pc=1374;1522, logt=8.12;8.18, FeH=-0.16;0.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

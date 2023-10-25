@@ -56,7 +56,7 @@ title:  CWNU 115
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1224](https://ucc.ar/_clusters/ubc1224/)| 83 | 26.353 | 59.785 | 0.267 | 0.08 | -0.846 | -72.504 |
+|[UBC 1224](https://ucc.ar/_clusters/ubc1224/)| 91 | 26.353 | 59.785 | 0.267 | 0.08 | -0.846 | -72.504 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=26.341,59.782" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=26.341%2059.782&output=json&radius=5&userEntry=cwnu115" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 115
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.3, dm=13.25, logt=7.7, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

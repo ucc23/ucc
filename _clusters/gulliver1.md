@@ -57,7 +57,7 @@ title:  Gulliver 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[ASCC 61](https://ucc.ar/_clusters/ascc61/)| 50 | 161.568 | -57.013 | 0.336 | -7.971 | 3.609 | -20.986 |
+|[ASCC 61](https://ucc.ar/_clusters/ascc61/)| 62 | 161.568 | -57.013 | 0.336 | -7.971 | 3.609 | -20.986 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=161.58,-57.048" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=161.58%20-57.048&output=json&radius=5&userEntry=gulliver1" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Gulliver 1
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.81, Dist=2721.0, logage=9.12, [Fe/H]=0.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

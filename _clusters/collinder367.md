@@ -56,8 +56,8 @@ title:  Collinder 367
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1222](https://ucc.ar/_clusters/cwnu1222/)| 74 | 272.442 | -23.632 | 0.776 | 1.9 | -1.489 | -10.518 |
-|[OC 0010](https://ucc.ar/_clusters/oc0010/)| 89 | 272.444 | -23.634 | 0.777 | 1.908 | -1.496 | -10.518 |
+|[CWNU 1222](https://ucc.ar/_clusters/cwnu1222/)| 95 | 272.442 | -23.632 | 0.776 | 1.9 | -1.489 | -10.518 |
+|[OC 0010](https://ucc.ar/_clusters/oc0010/)| 96 | 272.444 | -23.634 | 0.777 | 1.908 | -1.496 | -10.518 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=272.442,-23.639" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.442%20-23.639&output=json&radius=5&userEntry=collinder367" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Collinder 367
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.66, d_pc=1218.86, logt=6.63` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

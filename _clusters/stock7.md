@@ -57,6 +57,13 @@ title:  Stock 7
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 37.424 | 60.655 | 1.461 | -3.533 | 0.429 | -8.369 |
 | **UCC** |37.433 | 60.604 | 1.47 | -3.539 | 0.463 | -8.655 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Markarian 6](https://ucc.ar/_clusters/markarian6/)| 56 | 37.437 | 60.712 | 1.471 | -3.601 | 0.51 | -7.816 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.433,60.604" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.433%2060.604&output=json&radius=5&userEntry=stock7" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -79,4 +86,4 @@ title:  Stock 7
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.69, d_pc=669.07, logt=7.75` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

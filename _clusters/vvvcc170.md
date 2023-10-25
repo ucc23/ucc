@@ -51,13 +51,6 @@ title:  VVV CC170
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 270.261 | -42.049 | -- | -- | -- | -- |
 | **UCC** |270.285 | -42.028 | 0.273 | -1.439 | -0.284 | -- |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VVV 169](https://ucc.ar/_clusters/vvv169/)| 41 | 270.29 | -42.059 | 0.176 | -2.999 | -3.492 | -- |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.285,-42.028" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.285%20-42.028&output=json&radius=5&userEntry=vvvcc170" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +62,4 @@ title:  VVV CC170
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

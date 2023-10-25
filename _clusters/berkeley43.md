@@ -56,6 +56,13 @@ title:  Berkeley 43
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 288.88 | 11.269 | 0.239 | -1.119 | -3.696 | 40.458 |
 | **UCC** |288.885 | 11.273 | 0.189 | -1.104 | -3.707 | 29.925 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0071](https://ucc.ar/_clusters/oc0071/)| 40 | 288.867 | 11.276 | 0.262 | -1.114 | -3.737 | 33.01 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.885,11.273" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.885%2011.273&output=json&radius=5&userEntry=berkeley43" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -76,4 +83,4 @@ title:  Berkeley 43
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.25, d_pc=3432.7, logt=7.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

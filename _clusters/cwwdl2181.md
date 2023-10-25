@@ -56,7 +56,7 @@ title:  CWWDL 2181
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 258](https://ucc.ar/_clusters/ubc258/)| 55 | 158.985 | -57.595 | 0.386 | -7.225 | 3.673 | 12.72 |
+|[UBC 258](https://ucc.ar/_clusters/ubc258/)| 67 | 158.985 | -57.595 | 0.386 | -7.225 | 3.673 | 12.72 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=159.031,-57.63" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=159.031%20-57.63&output=json&radius=5&userEntry=cwwdl2181" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 2181
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.8, Z=0.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

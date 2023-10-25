@@ -61,7 +61,7 @@ title:  Alessi 190
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14469](https://ucc.ar/_clusters/cwwdl14469/)| 41 | 238.767 | -47.629 | 1.748 | -6.599 | -4.056 | -19.884 |
+|[CWWDL 14469](https://ucc.ar/_clusters/cwwdl14469/)| 39 | 238.767 | -47.629 | 1.748 | -6.599 | -4.056 | -19.884 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=238.601,-47.783" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=238.601%20-47.783&output=json&radius=5&userEntry=alessi190" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Alessi 190
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.77, d_pc=553.93, logt=8.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

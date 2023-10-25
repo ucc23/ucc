@@ -57,7 +57,7 @@ title:  Teutsch 211
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HXHWL 3](https://ucc.ar/_clusters/hxhwl3/)| 85 | 115.288 | -21.881 | 0.579 | -1.344 | 1.268 | 44.288 |
+|[HXHWL 3](https://ucc.ar/_clusters/hxhwl3/)| 97 | 115.288 | -21.881 | 0.579 | -1.344 | 1.268 | 44.288 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=115.286,-21.881" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=115.286%20-21.881&output=json&radius=5&userEntry=teutsch211" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 211
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.16, d_pc=1639.53, logt=8.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

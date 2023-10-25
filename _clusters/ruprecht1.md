@@ -57,6 +57,13 @@ title:  Ruprecht 1
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 99.099 | -14.167 | 0.641 | -0.293 | -0.901 | 9.39 |
 | **UCC** |99.083 | -14.165 | 0.636 | -0.303 | -0.906 | 11.577 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[FSR 1179](https://ucc.ar/_clusters/fsr1179/)| 52 | 99.131 | -14.199 | 0.654 | -0.265 | -0.914 | 8.946 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=99.083,-14.165" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.083%20-14.165&output=json&radius=5&userEntry=ruprecht1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -79,4 +86,4 @@ title:  Ruprecht 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.26, d_pc=1461.52, logt=8.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,8 +56,8 @@ title:  QC 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1104](https://ucc.ar/_clusters/ubc1104/)| 57 | 305.122 | 39.878 | 0.777 | -2.281 | -3.507 | -1.698 |
-|[CWWDL 11620](https://ucc.ar/_clusters/cwwdl11620/)| 82 | 305.114 | 39.878 | 0.778 | -2.291 | -3.508 | -4.602 |
+|[UBC 1104](https://ucc.ar/_clusters/ubc1104/)| 74 | 305.122 | 39.878 | 0.777 | -2.281 | -3.507 | -1.698 |
+|[CWWDL 11620](https://ucc.ar/_clusters/cwwdl11620/)| 99 | 305.114 | 39.878 | 0.778 | -2.291 | -3.508 | -4.602 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.114,39.877" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.114%2039.877&output=json&radius=5&userEntry=qc1" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  QC 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.83, d_pc=1243.92, logt=6.77` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

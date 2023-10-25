@@ -56,8 +56,8 @@ title:  HXHWL 39
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 39](https://ucc.ar/_clusters/h21oc39/)| 70 | 9.11 | 68.835 | 0.982 | -1.513 | -0.63 | -16.4 |
-|[CWWDL 14487](https://ucc.ar/_clusters/cwwdl14487/)| 34 | 9.266 | 68.83 | 0.977 | -1.522 | -0.711 | -12.657 |
+|[H21OC 39](https://ucc.ar/_clusters/h21oc39/)| 84 | 9.11 | 68.835 | 0.982 | -1.513 | -0.63 | -16.4 |
+|[CWWDL 14487](https://ucc.ar/_clusters/cwwdl14487/)| 53 | 9.266 | 68.83 | 0.977 | -1.522 | -0.711 | -12.657 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=9.169,68.816" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=9.169%2068.816&output=json&radius=5&userEntry=hxhwl39" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  HXHWL 39
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.9, dm=9.5, logt=7.94, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

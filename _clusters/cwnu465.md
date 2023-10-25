@@ -56,8 +56,8 @@ title:  CWNU 465
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1280](https://ucc.ar/_clusters/ubc1280/)| 74 | 83.643 | 37.219 | 0.408 | 0.923 | -2.48 | 25.959 |
-|[CWWDL 12514](https://ucc.ar/_clusters/cwwdl12514/)| 83 | 83.656 | 37.221 | 0.407 | 0.909 | -2.488 | 26.187 |
+|[UBC 1280](https://ucc.ar/_clusters/ubc1280/)| 79 | 83.643 | 37.219 | 0.408 | 0.923 | -2.48 | 25.959 |
+|[CWWDL 12514](https://ucc.ar/_clusters/cwwdl12514/)| 93 | 83.656 | 37.221 | 0.407 | 0.909 | -2.488 | 26.187 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.653,37.219" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.653%2037.219&output=json&radius=5&userEntry=cwnu465" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWNU 465
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=3.0, dm=13.4, logt=6.7, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

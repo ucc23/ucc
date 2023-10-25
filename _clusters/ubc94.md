@@ -59,7 +59,7 @@ title:  UBC 94
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14162](https://ucc.ar/_clusters/cwwdl14162/)| 79 | 269.625 | -24.639 | 0.747 | -1.644 | -4.492 | -20.897 |
+|[CWWDL 14162](https://ucc.ar/_clusters/cwwdl14162/)| 85 | 269.625 | -24.639 | 0.747 | -1.644 | -4.492 | -20.897 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=269.641,-24.641" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.641%20-24.641&output=json&radius=5&userEntry=ubc94" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  UBC 94
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.64, d_pc=1266.35, logt=8.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

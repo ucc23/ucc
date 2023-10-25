@@ -56,7 +56,7 @@ title:  Bochum 8
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VDBH 90](https://ucc.ar/_clusters/vdbh90/)| 94 | 153.064 | -58.069 | 0.373 | -5.403 | 2.337 | 27.488 |
+|[VDBH 90](https://ucc.ar/_clusters/vdbh90/)| 96 | 153.064 | -58.069 | 0.373 | -5.403 | 2.337 | 27.488 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=153.06,-58.069" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=153.06%20-58.069&output=json&radius=5&userEntry=bochum8" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Bochum 8
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.53, Dmod=12.05, logt=7.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

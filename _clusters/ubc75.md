@@ -56,9 +56,9 @@ title:  UBC 75
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 0988](https://ucc.ar/_clusters/lisc0988/)| 83 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
-|[COIN-Gaia 26](https://ucc.ar/_clusters/coingaia26/)| 85 | 83.765 | 15.721 | 0.699 | 0.258 | -2.402 | 12.201 |
-|[CWWDL 3284](https://ucc.ar/_clusters/cwwdl3284/)| 82 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
+|[LISC 0988](https://ucc.ar/_clusters/lisc0988/)| 98 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
+|[COIN-Gaia 26](https://ucc.ar/_clusters/coingaia26/)| 98 | 83.765 | 15.721 | 0.699 | 0.258 | -2.402 | 12.201 |
+|[CWWDL 3284](https://ucc.ar/_clusters/cwwdl3284/)| 97 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.764,15.722" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.764%2015.722&output=json&radius=5&userEntry=ubc75" target="_blank">Simbad</a></p>
 
@@ -71,4 +71,4 @@ title:  UBC 75
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

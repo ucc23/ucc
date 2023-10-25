@@ -59,8 +59,8 @@ title:  UBC 97
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3356](https://ucc.ar/_clusters/lisc3356/)| 82 | 274.787 | -15.751 | 0.72 | -0.868 | -1.205 | -27.241 |
-|[CWWDL 14165](https://ucc.ar/_clusters/cwwdl14165/)| 80 | 274.79 | -15.751 | 0.721 | -0.864 | -1.2 | -27.241 |
+|[LISC 3356](https://ucc.ar/_clusters/lisc3356/)| 98 | 274.787 | -15.751 | 0.72 | -0.868 | -1.205 | -27.241 |
+|[CWWDL 14165](https://ucc.ar/_clusters/cwwdl14165/)| 95 | 274.79 | -15.751 | 0.721 | -0.864 | -1.2 | -27.241 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=274.785,-15.747" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=274.785%20-15.747&output=json&radius=5&userEntry=ubc97" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UBC 97
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.23, d_pc=1320.46, logt=8.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

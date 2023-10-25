@@ -57,7 +57,7 @@ title:  Alessi 170
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 215](https://ucc.ar/_clusters/ubc215/)| 82 | 100.435 | -5.245 | 0.701 | -0.116 | -3.118 | 0.153 |
+|[UBC 215](https://ucc.ar/_clusters/ubc215/)| 90 | 100.435 | -5.245 | 0.701 | -0.116 | -3.118 | 0.153 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.451,-5.248" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.451%20-5.248&output=json&radius=5&userEntry=alessi170" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Alessi 170
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.74, d_pc=1354.75, logt=8.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

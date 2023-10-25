@@ -56,7 +56,7 @@ title:  Bica 497
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica 498](https://ucc.ar/_clusters/bica498/)| 38 | 225.769 | -59.787 | 0.296 | -6.166 | -3.994 | -46.865 |
+|[Bica 498](https://ucc.ar/_clusters/bica498/)| 37 | 225.769 | -59.787 | 0.296 | -6.166 | -3.994 | -46.865 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=225.849,-59.856" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=225.849%20-59.856&output=json&radius=5&userEntry=bica497" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Bica 497
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

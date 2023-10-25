@@ -56,13 +56,6 @@ title:  Teutsch 328
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 335.837 | 56.612 | -- | -- | -- | -- |
 | **UCC** |335.833 | 56.627 | 0.16 | -2.18 | -1.815 | -93.221 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 33](https://ucc.ar/_clusters/ocsn33/)| 37 | 335.317 | 56.65 | 4.132 | 16.81 | 4.758 | -14.492 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=335.833,56.627" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=335.833%2056.627&output=json&radius=5&userEntry=teutsch328" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -80,4 +73,4 @@ title:  Teutsch 328
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.52, Dmod=11.47, logt=9.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

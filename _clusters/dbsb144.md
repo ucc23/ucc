@@ -57,7 +57,7 @@ title:  DBSB 144
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 539](https://ucc.ar/_clusters/ubc539/)| 38 | 243.088 | -51.487 | 0.444 | -1.689 | -1.915 | -43.241 |
+|[UBC 539](https://ucc.ar/_clusters/ubc539/)| 70 | 243.088 | -51.487 | 0.444 | -1.689 | -1.915 | -43.241 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=243.054,-51.466" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=243.054%20-51.466&output=json&radius=5&userEntry=dbsb144" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  DBSB 144
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.77, d_pc=2054.45, logt=7.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

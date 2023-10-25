@@ -56,7 +56,7 @@ title:  BDSB 46
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Majaess 225](https://ucc.ar/_clusters/majaess225/)| 74 | 354.776 | 61.939 | 0.324 | -3.475 | -1.67 | -- |
+|[Majaess 225](https://ucc.ar/_clusters/majaess225/)| 83 | 354.776 | 61.939 | 0.324 | -3.475 | -1.67 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=354.785,61.948" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=354.785%2061.948&output=json&radius=5&userEntry=bdsb46" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  BDSB 46
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.76, distance=2000.0, log_age=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

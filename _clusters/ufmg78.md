@@ -57,7 +57,7 @@ title:  UFMG 78
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1003](https://ucc.ar/_clusters/ubc1003/)| 80 | 268.599 | -24.89 | 0.399 | -0.602 | -3.106 | -10.981 |
+|[UBC 1003](https://ucc.ar/_clusters/ubc1003/)| 92 | 268.599 | -24.89 | 0.399 | -0.602 | -3.106 | -10.981 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=268.605,-24.894" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.605%20-24.894&output=json&radius=5&userEntry=ufmg78" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UFMG 78
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.23, d_pc=2280.54, logt=7.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

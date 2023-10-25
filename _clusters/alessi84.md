@@ -57,7 +57,7 @@ title:  Alessi 84
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1128](https://ucc.ar/_clusters/cwnu1128/)| 77 | 110.816 | 55.118 | 5.036 | -2.891 | -31.344 | 11.092 |
+|[CWNU 1128](https://ucc.ar/_clusters/cwnu1128/)| 83 | 110.816 | 55.118 | 5.036 | -2.891 | -31.344 | 11.092 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=110.737,55.283" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.737%2055.283&output=json&radius=5&userEntry=alessi84" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Alessi 84
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.07, d_pc=198.3, logt=8.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

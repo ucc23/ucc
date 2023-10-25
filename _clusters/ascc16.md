@@ -59,7 +59,7 @@ title:  ASCC 16
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Briceno 1](https://ucc.ar/_clusters/briceno1/)| 81 | 81.199 | 1.637 | 2.879 | 1.362 | -0.062 | 18.198 |
+|[Briceno 1](https://ucc.ar/_clusters/briceno1/)| 88 | 81.199 | 1.637 | 2.879 | 1.362 | -0.062 | 18.198 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.208,1.607" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.208%201.607&output=json&radius=5&userEntry=ascc16" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  ASCC 16
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

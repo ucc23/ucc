@@ -56,7 +56,7 @@ title:  UBC 37
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 30](https://ucc.ar/_clusters/coingaia30/)| 89 | 21.124 | 70.572 | 1.372 | -6.159 | 2.032 | -21.472 |
+|[COIN-Gaia 30](https://ucc.ar/_clusters/coingaia30/)| 94 | 21.124 | 70.572 | 1.372 | -6.159 | 2.032 | -21.472 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=21.116,70.56" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=21.116%2070.56&output=json&radius=5&userEntry=ubc37" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  UBC 37
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

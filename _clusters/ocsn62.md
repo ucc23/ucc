@@ -56,9 +56,9 @@ title:  OCSN 62
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2382](https://ucc.ar/_clusters/fof2382/)| 31 | 86.428 | 0.123 | 2.439 | -0.907 | -0.802 | -17.121 |
-|[OC 0341](https://ucc.ar/_clusters/oc0341/)| 88 | 86.681 | 0.118 | 2.395 | -0.457 | -0.683 | -0.055 |
-|[NGC 2068](https://ucc.ar/_clusters/ngc2068/)| 91 | 86.668 | 0.109 | 2.396 | -0.336 | -0.695 | -0.055 |
+|[FoF 2382](https://ucc.ar/_clusters/fof2382/)| 27 | 86.428 | 0.123 | 2.439 | -0.907 | -0.802 | -17.121 |
+|[OC 0341](https://ucc.ar/_clusters/oc0341/)| 85 | 86.681 | 0.118 | 2.395 | -0.457 | -0.683 | -0.055 |
+|[NGC 2068](https://ucc.ar/_clusters/ngc2068/)| 96 | 86.668 | 0.109 | 2.396 | -0.336 | -0.695 | -0.055 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=86.668,0.109" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=86.668%200.109&output=json&radius=5&userEntry=ocsn62" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  OCSN 62
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.79, dm=10.19, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

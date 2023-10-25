@@ -51,6 +51,7 @@ title:  Ruprecht 92
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 163.38 | -61.7 | -- | -3.22 | 2.78 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 163.44 | -61.75 | -- | -4.346 | -3.437 | -15.3 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 163.451 | -61.74 | -- | -- | -- | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 163.452 | -61.747 | 0.184 | -6.016 | 2.214 | -- |
 | **UCC** |163.456 | -61.748 | 0.186 | -6.02 | 2.196 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=163.456,-61.748" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=163.456%20-61.748&output=json&radius=5&userEntry=ruprecht92" target="_blank">Simbad</a></p>
@@ -69,6 +70,7 @@ title:  Ruprecht 92
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.4, distance=2211.0, log_age=7.65, metallicity=0.2` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.43, Dmod=11.94, logt=7.87` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.15, m-M=13.35, logA=7.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

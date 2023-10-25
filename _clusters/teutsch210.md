@@ -57,7 +57,7 @@ title:  Teutsch 210
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1382](https://ucc.ar/_clusters/ubc1382/)| 97 | 114.529 | -21.561 | 0.322 | -1.988 | 2.079 | -- |
+|[UBC 1382](https://ucc.ar/_clusters/ubc1382/)| 94 | 114.529 | -21.561 | 0.322 | -1.988 | 2.079 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=114.53,-21.557" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=114.53%20-21.557&output=json&radius=5&userEntry=teutsch210" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 210
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.9, d_pc=2753.42, logt=8.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -60,8 +60,8 @@ title:  UBC 10 a
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 167](https://ucc.ar/_clusters/ubc167/)| 73 | 324.753 | 62.321 | 1.087 | -2.043 | -3.127 | -17.91 |
-|[UPK 172](https://ucc.ar/_clusters/upk172/)| 56 | 324.85 | 62.352 | 1.09 | -2.0 | -3.144 | -16.97 |
+|[UBC 167](https://ucc.ar/_clusters/ubc167/)| 66 | 324.753 | 62.321 | 1.087 | -2.043 | -3.127 | -17.91 |
+|[UPK 172](https://ucc.ar/_clusters/upk172/)| 55 | 324.85 | 62.352 | 1.09 | -2.0 | -3.144 | -16.97 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=324.811,62.319" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=324.811%2062.319&output=json&radius=5&userEntry=ubc10a" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UBC 10 a
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.12, d_pc=867.49, logt=7.66` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

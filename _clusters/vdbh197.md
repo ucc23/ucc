@@ -56,7 +56,7 @@ title:  VDBH 197
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Westerlund 1](https://ucc.ar/_clusters/westerlund1/)| 67 | 251.756 | -45.853 | 0.222 | -2.191 | -3.681 | -29.101 |
+|[Westerlund 1](https://ucc.ar/_clusters/westerlund1/)| 39 | 251.756 | -45.853 | 0.222 | -2.191 | -3.681 | -29.101 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=251.746,-45.86" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=251.746%20-45.86&output=json&radius=5&userEntry=vdbh197" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  VDBH 197
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.0, distance=2069.0, log_age=8.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

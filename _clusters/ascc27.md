@@ -53,6 +53,13 @@ title:  ASCC 27
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 103.512 | -4.512 | 0.281 | -0.705 | 0.625 | -- |
 | **UCC** |103.502 | -4.504 | 0.285 | -0.694 | 0.618 | 62.418 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3207](https://ucc.ar/_clusters/cwnu3207/)| 61 | 103.511 | -4.558 | 0.281 | -0.706 | 0.626 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.502,-4.504" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.502%20-4.504&output=json&radius=5&userEntry=ascc27" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -71,4 +78,4 @@ title:  ASCC 27
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.29, d_pc=3093.0, logt=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

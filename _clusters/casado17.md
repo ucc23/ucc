@@ -60,7 +60,7 @@ title:  Casado 17
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1201](https://ucc.ar/_clusters/ubc1201/)| 42 | 3.846 | 63.554 | 0.472 | -3.216 | -1.093 | -- |
+|[UBC 1201](https://ucc.ar/_clusters/ubc1201/)| 55 | 3.846 | 63.554 | 0.472 | -3.216 | -1.093 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=3.776,63.554" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.776%2063.554&output=json&radius=5&userEntry=casado17" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Casado 17
 | [Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | `d_kpc=2.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -60,7 +60,7 @@ title:  VDBH 111
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0561](https://ucc.ar/_clusters/oc0561/)| 73 | 167.313 | -63.834 | 0.365 | -8.168 | 3.004 | 4.671 |
+|[OC 0561](https://ucc.ar/_clusters/oc0561/)| 100 | 167.313 | -63.834 | 0.365 | -8.168 | 3.004 | 4.671 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=167.313,-63.833" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=167.313%20-63.833&output=json&radius=5&userEntry=vdbh111" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  VDBH 111
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.06, d_pc=2462.93, logt=8.43` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

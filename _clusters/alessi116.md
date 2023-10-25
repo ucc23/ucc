@@ -57,9 +57,9 @@ title:  Alessi 116
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14281](https://ucc.ar/_clusters/cwwdl14281/)| 87 | 310.194 | 20.199 | 1.078 | -6.292 | -9.291 | 24.225 |
-|[UBC 131](https://ucc.ar/_clusters/ubc131/)| 93 | 310.23 | 20.203 | 1.081 | -6.293 | -9.291 | 24.143 |
-|[UPK 84](https://ucc.ar/_clusters/upk84/)| 90 | 310.234 | 20.191 | 1.079 | -6.298 | -9.296 | 24.259 |
+|[CWWDL 14281](https://ucc.ar/_clusters/cwwdl14281/)| 95 | 310.194 | 20.199 | 1.078 | -6.292 | -9.291 | 24.225 |
+|[UBC 131](https://ucc.ar/_clusters/ubc131/)| 95 | 310.23 | 20.203 | 1.081 | -6.293 | -9.291 | 24.143 |
+|[UPK 84](https://ucc.ar/_clusters/upk84/)| 95 | 310.234 | 20.191 | 1.079 | -6.298 | -9.296 | 24.259 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.227,20.199" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.227%2020.199&output=json&radius=5&userEntry=alessi116" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Alessi 116
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.13, d_pc=902.02, logt=9.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -61,7 +61,7 @@ title:  XDOCC-2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2673](https://ucc.ar/_clusters/cwnu2673/)| 67 | 84.071 | 34.3 | 0.748 | 0.254 | -2.386 | 35.349 |
+|[CWNU 2673](https://ucc.ar/_clusters/cwnu2673/)| 81 | 84.071 | 34.3 | 0.748 | 0.254 | -2.386 | 35.349 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=84.071,34.304" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=84.071%2034.304&output=json&radius=5&userEntry=xdocc2" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  XDOCC-2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.51, d_pc=1247.31, logt=7.54` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

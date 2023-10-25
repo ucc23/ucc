@@ -49,6 +49,7 @@ title:  BDSB 124
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 280.802 | -3.626 | 0.291 | -1.457 | -3.826 | 82.43 |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 280.8 | -3.644 | 0.284 | -1.473 | -3.809 | 38.92 |
 | **UCC** |280.787 | -3.624 | 0.292 | -1.43 | -3.838 | 63.679 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=280.787,-3.624" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=280.787%20-3.624&output=json&radius=5&userEntry=bdsb124" target="_blank">Simbad</a></p>
@@ -66,6 +67,7 @@ title:  BDSB 124
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.03, d_pc=3062.0, logt=7.94` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=5.2, m-M=12.15, logA=8.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

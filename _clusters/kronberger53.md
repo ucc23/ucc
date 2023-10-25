@@ -57,7 +57,7 @@ title:  Kronberger 53
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0091](https://ucc.ar/_clusters/oc0091/)| 83 | 299.639 | 30.806 | 0.191 | -3.63 | -6.024 | 5.043 |
+|[OC 0091](https://ucc.ar/_clusters/oc0091/)| 99 | 299.639 | 30.806 | 0.191 | -3.63 | -6.024 | 5.043 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=299.639,30.805" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=299.639%2030.805&output=json&radius=5&userEntry=kronberger53" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Kronberger 53
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.39, d_pc=4540.39, logt=7.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

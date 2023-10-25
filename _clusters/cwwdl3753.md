@@ -56,8 +56,8 @@ title:  CWWDL 3753
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 53](https://ucc.ar/_clusters/ubc53/)| 74 | 59.831 | 47.395 | 0.609 | 0.607 | -2.967 | -14.324 |
-|[Teutsch 56](https://ucc.ar/_clusters/teutsch56/)| 83 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
+|[UBC 53](https://ucc.ar/_clusters/ubc53/)| 85 | 59.831 | 47.395 | 0.609 | 0.607 | -2.967 | -14.324 |
+|[Teutsch 56](https://ucc.ar/_clusters/teutsch56/)| 92 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.829,47.395" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.829%2047.395&output=json&radius=5&userEntry=cwwdl3753" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWWDL 3753
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.46, Z=0.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

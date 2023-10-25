@@ -58,7 +58,7 @@ title:  Havlen-Moffat 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0682](https://ucc.ar/_clusters/oc0682/)| 28 | 259.745 | -38.819 | 0.225 | -1.214 | -2.549 | -11.208 |
+|[OC 0682](https://ucc.ar/_clusters/oc0682/)| 47 | 259.745 | -38.819 | 0.225 | -1.214 | -2.549 | -11.208 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=259.768,-38.821" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=259.768%20-38.821&output=json&radius=5&userEntry=havlenmoffat1" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Havlen-Moffat 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.78, d_pc=3451.32, logt=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

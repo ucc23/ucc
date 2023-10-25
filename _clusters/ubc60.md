@@ -56,7 +56,7 @@ title:  UBC 60
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 11](https://ucc.ar/_clusters/coingaia11/)| 74 | 68.141 | 39.514 | 1.514 | 3.46 | -5.737 | -6.273 |
+|[COIN-Gaia 11](https://ucc.ar/_clusters/coingaia11/)| 96 | 68.141 | 39.514 | 1.514 | 3.46 | -5.737 | -6.273 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=68.103,39.516" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=68.103%2039.516&output=json&radius=5&userEntry=ubc60" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  UBC 60
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

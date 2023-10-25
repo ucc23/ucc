@@ -58,7 +58,7 @@ title:  ASCC 61
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 1](https://ucc.ar/_clusters/gulliver1/)| 50 | 161.58 | -57.048 | 0.331 | -7.966 | 3.612 | -20.892 |
+|[Gulliver 1](https://ucc.ar/_clusters/gulliver1/)| 62 | 161.58 | -57.048 | 0.331 | -7.966 | 3.612 | -20.892 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=161.568,-57.013" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=161.568%20-57.013&output=json&radius=5&userEntry=ascc61" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  ASCC 61
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.5, d_pc=2719.72, logt=9.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

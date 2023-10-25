@@ -60,8 +60,8 @@ title:  Pismis 2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0455](https://ucc.ar/_clusters/oc0455/)| 47 | 124.469 | -41.668 | 0.267 | -4.621 | 5.44 | 60.177 |
-|[OC 0456](https://ucc.ar/_clusters/oc0456/)| 45 | 124.471 | -41.67 | 0.278 | -4.616 | 5.438 | 60.177 |
+|[OC 0455](https://ucc.ar/_clusters/oc0455/)| 41 | 124.469 | -41.668 | 0.267 | -4.621 | 5.44 | 60.177 |
+|[OC 0456](https://ucc.ar/_clusters/oc0456/)| 38 | 124.471 | -41.67 | 0.278 | -4.616 | 5.438 | 60.177 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=124.465,-41.664" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.465%20-41.664&output=json&radius=5&userEntry=pismis2" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  Pismis 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.66, d_pc=3519.55, logt=8.75` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

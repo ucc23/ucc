@@ -61,7 +61,7 @@ title:  CWNU 87
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 4624](https://ucc.ar/_clusters/cwwdl4624/)| 71 | 22.632 | 59.635 | 0.324 | -1.177 | -0.692 | -52.7 |
+|[CWWDL 4624](https://ucc.ar/_clusters/cwwdl4624/)| 95 | 22.632 | 59.635 | 0.324 | -1.177 | -0.692 | -52.7 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=22.633,59.638" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=22.633%2059.638&output=json&radius=5&userEntry=cwnu87" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  CWNU 87
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.38, d_pc=2828.02, logt=8.31` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

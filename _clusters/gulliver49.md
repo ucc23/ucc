@@ -52,6 +52,13 @@ title:  Gulliver 49
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 350.683 | 61.964 | 0.591 | -3.975 | -3.067 | -35.6 |
 | **UCC** |350.716 | 61.985 | 0.589 | -3.989 | -3.073 | -32.818 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[LP 14](https://ucc.ar/_clusters/lp14/)| 47 | 350.586 | 61.964 | 0.582 | -3.948 | -3.161 | -21.841 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=350.716,61.985" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=350.716%2061.985&output=json&radius=5&userEntry=gulliver49" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -70,4 +77,4 @@ title:  Gulliver 49
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.82, d_pc=1607.36, logt=8.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

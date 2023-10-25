@@ -58,13 +58,6 @@ title:  Dolidze 1
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 302.364 | 36.493 | 0.333 | -2.583 | -5.074 | 8.857 |
 | **UCC** |302.392 | 36.516 | 0.29 | -2.711 | -4.933 | -27.856 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 367](https://ucc.ar/_clusters/ubc367/)| 38 | 302.355 | 36.489 | 0.343 | -2.579 | -5.076 | 8.865 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.392,36.516" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.392%2036.516&output=json&radius=5&userEntry=dolidze1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -85,4 +78,4 @@ title:  Dolidze 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.79, d_pc=2702.37, logt=7.49` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -61,8 +61,8 @@ title:  Teutsch 201
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14340](https://ucc.ar/_clusters/cwwdl14340/)| 84 | 103.342 | -5.646 | 1.275 | -0.778 | -2.537 | 22.627 |
-|[UPK 433](https://ucc.ar/_clusters/upk433/)| 78 | 103.38 | -5.662 | 1.275 | -0.778 | -2.527 | 23.64 |
+|[CWWDL 14340](https://ucc.ar/_clusters/cwwdl14340/)| 89 | 103.342 | -5.646 | 1.275 | -0.778 | -2.537 | 22.627 |
+|[UPK 433](https://ucc.ar/_clusters/upk433/)| 86 | 103.38 | -5.662 | 1.275 | -0.778 | -2.527 | 23.64 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.328,-5.662" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.328%20-5.662&output=json&radius=5&userEntry=teutsch201" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Teutsch 201
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=767.24, logt=8.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

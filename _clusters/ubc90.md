@@ -57,8 +57,8 @@ title:  UBC 90
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 2663](https://ucc.ar/_clusters/cwwdl2663/)| 64 | 97.201 | 14.92 | 0.346 | 1.235 | -1.374 | 49.323 |
-|[Teutsch 20](https://ucc.ar/_clusters/teutsch20/)| 84 | 97.201 | 14.919 | 0.346 | 1.238 | -1.374 | 49.323 |
+|[CWWDL 2663](https://ucc.ar/_clusters/cwwdl2663/)| 92 | 97.201 | 14.92 | 0.346 | 1.235 | -1.374 | 49.323 |
+|[Teutsch 20](https://ucc.ar/_clusters/teutsch20/)| 92 | 97.201 | 14.919 | 0.346 | 1.238 | -1.374 | 49.323 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=97.194,14.924" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=97.194%2014.924&output=json&radius=5&userEntry=ubc90" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UBC 90
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.14, DMNN=12.32, AgeNN=8.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

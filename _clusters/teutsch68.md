@@ -56,7 +56,7 @@ title:  Teutsch 68
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 27](https://ucc.ar/_clusters/gulliver27/)| 93 | 146.08 | -54.108 | 0.333 | -4.65 | 3.446 | 17.293 |
+|[Gulliver 27](https://ucc.ar/_clusters/gulliver27/)| 96 | 146.08 | -54.108 | 0.333 | -4.65 | 3.446 | 17.293 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=146.079,-54.108" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=146.079%20-54.108&output=json&radius=5&userEntry=teutsch68" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 68
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,7 @@ title:  UFMG 11
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1543](https://ucc.ar/_clusters/ubc1543/)| 56 | 243.504 | -52.958 | 0.309 | -2.082 | -1.88 | -25.516 |
+|[UBC 1543](https://ucc.ar/_clusters/ubc1543/)| 92 | 243.504 | -52.958 | 0.309 | -2.082 | -1.88 | -25.516 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=243.504,-52.954" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=243.504%20-52.954&output=json&radius=5&userEntry=ufmg11" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  UFMG 11
 | [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | `E(B-V)=0.67, m-M=11.95, logt=8.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

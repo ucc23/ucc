@@ -59,7 +59,7 @@ title:  FoF 5
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 274](https://ucc.ar/_clusters/ubc274/)| 91 | 156.319 | -72.567 | 0.522 | -6.876 | 1.447 | -23.291 |
+|[UBC 274](https://ucc.ar/_clusters/ubc274/)| 94 | 156.319 | -72.567 | 0.522 | -6.876 | 1.447 | -23.291 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=156.316,-72.56" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=156.316%20-72.56&output=json&radius=5&userEntry=fof5" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  FoF 5
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=1804.19, logt=9.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

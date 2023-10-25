@@ -62,7 +62,7 @@ title:  VDBH 79
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2646](https://ucc.ar/_clusters/cwnu2646/)| 85 | 146.163 | -53.279 | 0.304 | -4.547 | 3.33 | -- |
+|[CWNU 2646](https://ucc.ar/_clusters/cwnu2646/)| 93 | 146.163 | -53.279 | 0.304 | -4.547 | 3.33 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=146.158,-53.28" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=146.158%20-53.28&output=json&radius=5&userEntry=vdbh79" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  VDBH 79
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.14, d_pc=3036.65, logt=7.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

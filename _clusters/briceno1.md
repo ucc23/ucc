@@ -57,7 +57,7 @@ title:  Briceno 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[ASCC 16](https://ucc.ar/_clusters/ascc16/)| 81 | 81.208 | 1.607 | 2.872 | 1.366 | -0.094 | 18.367 |
+|[ASCC 16](https://ucc.ar/_clusters/ascc16/)| 88 | 81.208 | 1.607 | 2.872 | 1.366 | -0.094 | 18.367 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.199,1.637" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.199%201.637&output=json&radius=5&userEntry=briceno1" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Briceno 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.18, d_pc=342.1, logt=6.91` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

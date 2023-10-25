@@ -61,9 +61,10 @@ title:  Ruprecht 83
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0525](https://ucc.ar/_clusters/oc0525/)| 40 | 147.299 | -54.588 | 0.181 | -4.549 | 2.862 | -- |
-|[OC 0526](https://ucc.ar/_clusters/oc0526/)| 66 | 147.318 | -54.604 | 0.256 | -4.618 | 2.887 | 25.151 |
-|[OC 0527](https://ucc.ar/_clusters/oc0527/)| 56 | 147.317 | -54.604 | 0.257 | -4.618 | 2.891 | 25.151 |
+|[OC 0525](https://ucc.ar/_clusters/oc0525/)| 32 | 147.299 | -54.588 | 0.181 | -4.549 | 2.862 | -- |
+|[OC 0526](https://ucc.ar/_clusters/oc0526/)| 97 | 147.318 | -54.604 | 0.256 | -4.618 | 2.887 | 25.151 |
+|[OC 0527](https://ucc.ar/_clusters/oc0527/)| 96 | 147.317 | -54.604 | 0.257 | -4.618 | 2.891 | 25.151 |
+|[OC 0528](https://ucc.ar/_clusters/oc0528/)| 93 | 147.317 | -54.605 | 0.256 | -4.621 | 2.898 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=147.322,-54.605" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=147.322%20-54.605&output=json&radius=5&userEntry=ruprecht83" target="_blank">Simbad</a></p>
 
@@ -86,4 +87,4 @@ title:  Ruprecht 83
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.98, d_pc=3508.79, logt=8.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,8 +58,8 @@ title:  ASCC 72
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1517](https://ucc.ar/_clusters/ubc1517/)| 80 | 193.765 | -61.063 | 0.308 | -5.212 | -0.347 | -- |
-|[CWNU 231](https://ucc.ar/_clusters/cwnu231/)| 68 | 193.766 | -61.059 | 0.316 | -5.221 | -0.349 | 13.848 |
+|[UBC 1517](https://ucc.ar/_clusters/ubc1517/)| 82 | 193.765 | -61.063 | 0.308 | -5.212 | -0.347 | -- |
+|[CWNU 231](https://ucc.ar/_clusters/cwnu231/)| 86 | 193.766 | -61.059 | 0.316 | -5.221 | -0.349 | 13.848 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=193.779,-61.054" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=193.779%20-61.054&output=json&radius=5&userEntry=ascc72" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  ASCC 72
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.92, d_pc=2878.76, logt=8.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

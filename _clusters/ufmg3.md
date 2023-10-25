@@ -58,8 +58,9 @@ title:  UFMG 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 1182](https://ucc.ar/_clusters/fof1182/)| 66 | 238.115 | -55.419 | 0.49 | -1.065 | -2.243 | -22.35 |
-|[UBC 309](https://ucc.ar/_clusters/ubc309/)| 89 | 238.144 | -55.418 | 0.483 | -1.008 | -2.228 | -26.348 |
+|[OC 0636](https://ucc.ar/_clusters/oc0636/)| 34 | 238.064 | -55.419 | 0.508 | -1.109 | -2.228 | -21.971 |
+|[FoF 1182](https://ucc.ar/_clusters/fof1182/)| 76 | 238.115 | -55.419 | 0.49 | -1.065 | -2.243 | -22.35 |
+|[UBC 309](https://ucc.ar/_clusters/ubc309/)| 85 | 238.144 | -55.418 | 0.483 | -1.008 | -2.228 | -26.348 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=238.129,-55.415" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=238.129%20-55.415&output=json&radius=5&userEntry=ufmg3" target="_blank">Simbad</a></p>
 
@@ -80,4 +81,4 @@ title:  UFMG 3
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.66, Dist=1897.0, logage=7.39, [Fe/H]=0.19` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

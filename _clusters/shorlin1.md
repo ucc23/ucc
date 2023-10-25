@@ -57,7 +57,7 @@ title:  Shorlin 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0559](https://ucc.ar/_clusters/oc0559/)| 70 | 166.45 | -61.228 | 0.108 | -5.91 | 2.202 | 151.959 |
+|[OC 0559](https://ucc.ar/_clusters/oc0559/)| 90 | 166.45 | -61.228 | 0.108 | -5.91 | 2.202 | 151.959 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=166.448,-61.226" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=166.448%20-61.226&output=json&radius=5&userEntry=shorlin1" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Shorlin 1
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.81, distance=5594.0, log_age=6.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

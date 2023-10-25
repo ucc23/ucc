@@ -60,7 +60,7 @@ title:  UPK 62
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14474](https://ucc.ar/_clusters/cwwdl14474/)| 77 | 289.708 | 20.833 | 1.112 | -0.423 | -5.423 | 1.067 |
+|[CWWDL 14474](https://ucc.ar/_clusters/cwwdl14474/)| 94 | 289.708 | 20.833 | 1.112 | -0.423 | -5.423 | 1.067 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=289.708,20.823" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=289.708%2020.823&output=json&radius=5&userEntry=upk62" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UPK 62
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.24, d_pc=874.83, logt=8.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

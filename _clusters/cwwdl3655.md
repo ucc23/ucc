@@ -55,13 +55,6 @@ title:  CWWDL 3655
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 138.946 | -54.294 | 0.245 | -3.519 | 3.406 | 43.977 |
 | **UCC** |138.941 | -54.297 | 0.25 | -3.558 | 3.418 | 86.35 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 190](https://ucc.ar/_clusters/cwwdl190/)| 28 | 138.844 | -54.279 | 0.221 | -3.671 | 3.33 | 86.35 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=138.941,-54.297" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=138.941%20-54.297&output=json&radius=5&userEntry=cwwdl3655" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -79,4 +72,4 @@ title:  CWWDL 3655
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.58, Z=0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

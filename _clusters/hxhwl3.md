@@ -56,7 +56,7 @@ title:  HXHWL 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 211](https://ucc.ar/_clusters/teutsch211/)| 85 | 115.286 | -21.881 | 0.58 | -1.345 | 1.265 | 44.288 |
+|[Teutsch 211](https://ucc.ar/_clusters/teutsch211/)| 97 | 115.286 | -21.881 | 0.58 | -1.345 | 1.265 | 44.288 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=115.288,-21.881" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=115.288%20-21.881&output=json&radius=5&userEntry=hxhwl3" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  HXHWL 3
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.6, dm=11.4, logt=8.36, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

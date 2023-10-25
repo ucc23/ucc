@@ -54,13 +54,6 @@ title:  Mamajek 2
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 264.36 | -8.016 | 4.879 | -10.069 | -19.5 | -16.534 |
 | **UCC** |264.711 | -7.817 | 4.907 | -10.364 | -20.283 | -16.942 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14696](https://ucc.ar/_clusters/cwwdl14696/)| 31 | 264.297 | -7.938 | 5.118 | -11.182 | -21.006 | -17.797 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=264.711,-7.817" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.711%20-7.817&output=json&radius=5&userEntry=mamajek2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -80,4 +73,4 @@ title:  Mamajek 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.75, d_pc=204.38, logt=7.99` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

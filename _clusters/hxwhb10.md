@@ -61,7 +61,7 @@ title:  HXWHB 10
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1283](https://ucc.ar/_clusters/ubc1283/)| 50 | 81.904 | 33.285 | 0.418 | 1.288 | -2.781 | 6.359 |
+|[UBC 1283](https://ucc.ar/_clusters/ubc1283/)| 40 | 81.904 | 33.285 | 0.418 | 1.288 | -2.781 | 6.359 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.925,33.285" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.925%2033.285&output=json&radius=5&userEntry=hxwhb10" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  HXWHB 10
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.94, d_pc=2302.83, logt=8.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

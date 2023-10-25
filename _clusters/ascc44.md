@@ -59,7 +59,7 @@ title:  ASCC 44
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 480](https://ucc.ar/_clusters/ubc480/)| 41 | 120.245 | -50.707 | 2.121 | -5.371 | 5.712 | 11.069 |
+|[UBC 480](https://ucc.ar/_clusters/ubc480/)| 42 | 120.245 | -50.707 | 2.121 | -5.371 | 5.712 | 11.069 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=120.117,-50.546" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.117%20-50.546&output=json&radius=5&userEntry=ascc44" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  ASCC 44
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.56, d_pc=485.51, logt=7.31` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

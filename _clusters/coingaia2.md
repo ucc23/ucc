@@ -58,9 +58,9 @@ title:  COIN-Gaia 2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3306](https://ucc.ar/_clusters/cwwdl3306/)| 28 | 15.013 | 55.363 | 0.794 | -4.432 | -2.153 | -33.91 |
-|[Alessi-Teutsch 21](https://ucc.ar/_clusters/alessiteutsch21/)| 32 | 15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
-|[UBC 35](https://ucc.ar/_clusters/ubc35/)| 65 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
+|[CWWDL 3306](https://ucc.ar/_clusters/cwwdl3306/)| 42 | 15.013 | 55.363 | 0.794 | -4.432 | -2.153 | -33.91 |
+|[Alessi-Teutsch 21](https://ucc.ar/_clusters/alessiteutsch21/)| 63 | 15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
+|[UBC 35](https://ucc.ar/_clusters/ubc35/)| 48 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=15.051,55.411" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.051%2055.411&output=json&radius=5&userEntry=coingaia2" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  COIN-Gaia 2
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1173.0, logt=8.86` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

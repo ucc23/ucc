@@ -58,8 +58,7 @@ title:  Gaia 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0384](https://ucc.ar/_clusters/oc0384/)| 49 | 101.493 | -16.72 | 0.124 | -0.053 | 1.251 | 56.844 |
-|[OC 0385](https://ucc.ar/_clusters/oc0385/)| 37 | 101.465 | -16.735 | 0.255 | -0.033 | 1.235 | 56.918 |
+|[OC 0384](https://ucc.ar/_clusters/oc0384/)| 31 | 101.493 | -16.72 | 0.124 | -0.053 | 1.251 | 56.844 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=101.476,-16.733" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=101.476%20-16.733&output=json&radius=5&userEntry=gaia1" target="_blank">Simbad</a></p>
 
@@ -79,4 +78,4 @@ title:  Gaia 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.69, d_pc=4832.05, logt=9.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

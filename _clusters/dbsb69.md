@@ -51,13 +51,6 @@ title:  DBSB 69
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 173.452 | -63.285 | -- | -1.96 | -0.81 | -- |
 | **UCC** |173.476 | -63.279 | 0.34 | -6.22 | 0.929 | -24.439 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 2447](https://ucc.ar/_clusters/hsc2447/)| 25 | 173.371 | -63.371 | 2.162 | -12.156 | 0.863 | -5.923 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=173.476,-63.279" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=173.476%20-63.279&output=json&radius=5&userEntry=dbsb69" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -75,4 +68,4 @@ title:  DBSB 69
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.23, distance=2273.0, log_age=6.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

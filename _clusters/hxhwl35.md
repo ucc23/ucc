@@ -61,7 +61,7 @@ title:  HXHWL 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1266](https://ucc.ar/_clusters/ubc1266/)| 46 | 71.991 | 44.029 | 0.488 | 1.39 | -2.162 | -- |
+|[UBC 1266](https://ucc.ar/_clusters/ubc1266/)| 70 | 71.991 | 44.029 | 0.488 | 1.39 | -2.162 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=71.994,44.029" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=71.994%2044.029&output=json&radius=5&userEntry=hxhwl35" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  HXHWL 35
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.02, d_pc=1859.38, logt=8.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

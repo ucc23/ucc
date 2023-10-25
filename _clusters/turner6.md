@@ -57,7 +57,7 @@ title:  Turner 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 106](https://ucc.ar/_clusters/teutsch106/)| 63 | 164.837 | -59.549 | 0.128 | -6.035 | 2.114 | 50.292 |
+|[Teutsch 106](https://ucc.ar/_clusters/teutsch106/)| 90 | 164.837 | -59.549 | 0.128 | -6.035 | 2.114 | 50.292 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=164.831,-59.549" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=164.831%20-59.549&output=json&radius=5&userEntry=turner6" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Turner 6
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.79, d_pc=6630.27, logt=8.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

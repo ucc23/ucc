@@ -58,7 +58,7 @@ title:  Riddle 6
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 385](https://ucc.ar/_clusters/ubc385/)| 79 | 317.934 | 60.007 | 1.175 | -2.531 | -3.505 | -24.645 |
+|[UBC 385](https://ucc.ar/_clusters/ubc385/)| 84 | 317.934 | 60.007 | 1.175 | -2.531 | -3.505 | -24.645 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.963,60.004" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.963%2060.004&output=json&radius=5&userEntry=riddle6" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Riddle 6
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.37, d_pc=833.47, logt=6.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

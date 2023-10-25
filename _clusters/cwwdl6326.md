@@ -56,7 +56,7 @@ title:  CWWDL 6326
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 302](https://ucc.ar/_clusters/cwnu302/)| 68 | 104.645 | -3.023 | 0.44 | -1.265 | 0.497 | -- |
+|[CWNU 302](https://ucc.ar/_clusters/cwnu302/)| 88 | 104.645 | -3.023 | 0.44 | -1.265 | 0.497 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.645,-3.023" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.645%20-3.023&output=json&radius=5&userEntry=cwwdl6326" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 6326
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.26, Z=0.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

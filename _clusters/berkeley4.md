@@ -65,8 +65,8 @@ title:  Berkeley 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0229](https://ucc.ar/_clusters/oc0229/)| 69 | 11.301 | 64.383 | 0.297 | -2.439 | -0.358 | -- |
-|[OC 0230](https://ucc.ar/_clusters/oc0230/)| 38 | 11.295 | 64.382 | 0.306 | -2.464 | -0.359 | -- |
+|[OC 0229](https://ucc.ar/_clusters/oc0229/)| 87 | 11.301 | 64.383 | 0.297 | -2.439 | -0.358 | -- |
+|[OC 0230](https://ucc.ar/_clusters/oc0230/)| 78 | 11.295 | 64.382 | 0.306 | -2.464 | -0.359 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=11.299,64.386" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=11.299%2064.386&output=json&radius=5&userEntry=berkeley4" target="_blank">Simbad</a></p>
 
@@ -89,4 +89,4 @@ title:  Berkeley 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.44, d_pc=2969.82, logt=7.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

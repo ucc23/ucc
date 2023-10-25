@@ -56,7 +56,7 @@ title:  Kharchenko 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1853](https://ucc.ar/_clusters/cwnu1853/)| 79 | 275.744 | -14.652 | 0.336 | -0.793 | -2.539 | -3.886 |
+|[CWNU 1853](https://ucc.ar/_clusters/cwnu1853/)| 73 | 275.744 | -14.652 | 0.336 | -0.793 | -2.539 | -3.886 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=275.754,-14.643" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=275.754%20-14.643&output=json&radius=5&userEntry=kharchenko3" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Kharchenko 3
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.81, d_pc=2642.67, logt=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

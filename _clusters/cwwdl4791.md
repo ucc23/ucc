@@ -56,7 +56,7 @@ title:  CWWDL 4791
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 235](https://ucc.ar/_clusters/ubc235/)| 70 | 117.35 | -29.353 | 0.566 | -4.202 | 2.811 | 31.327 |
+|[UBC 235](https://ucc.ar/_clusters/ubc235/)| 81 | 117.35 | -29.353 | 0.566 | -4.202 | 2.811 | 31.327 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=117.335,-29.353" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=117.335%20-29.353&output=json&radius=5&userEntry=cwwdl4791" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 4791
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.53, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

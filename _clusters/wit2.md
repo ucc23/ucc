@@ -57,7 +57,7 @@ title:  Wit 2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2501](https://ucc.ar/_clusters/cwnu2501/)| 43 | 105.329 | -3.119 | 0.455 | -1.273 | 0.641 | 74.077 |
+|[CWNU 2501](https://ucc.ar/_clusters/cwnu2501/)| 56 | 105.329 | -3.119 | 0.455 | -1.273 | 0.641 | 74.077 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.336,-3.093" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.336%20-3.093&output=json&radius=5&userEntry=wit2" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Wit 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.66, d_pc=2073.07, logt=7.91` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

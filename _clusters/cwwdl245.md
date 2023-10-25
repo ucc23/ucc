@@ -56,7 +56,7 @@ title:  CWWDL 245
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1550](https://ucc.ar/_clusters/cwnu1550/)| 84 | 94.475 | 9.677 | 0.305 | -1.02 | -0.066 | 51.376 |
+|[CWNU 1550](https://ucc.ar/_clusters/cwnu1550/)| 85 | 94.475 | 9.677 | 0.305 | -1.02 | -0.066 | 51.376 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=94.468,9.676" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=94.468%209.676&output=json&radius=5&userEntry=cwwdl245" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 245
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.4, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  UFMG 74
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0012](https://ucc.ar/_clusters/oc0012/)| 81 | 269.737 | -20.589 | 0.318 | -0.443 | -1.816 | 14.069 |
+|[OC 0012](https://ucc.ar/_clusters/oc0012/)| 96 | 269.737 | -20.589 | 0.318 | -0.443 | -1.816 | 14.069 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=269.737,-20.586" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.737%20-20.586&output=json&radius=5&userEntry=ufmg74" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UFMG 74
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.45, d_pc=2722.33, logt=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

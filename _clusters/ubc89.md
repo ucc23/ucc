@@ -56,8 +56,8 @@ title:  UBC 89
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Saloranta 10](https://ucc.ar/_clusters/saloranta10/)| 74 | 81.227 | 37.558 | 0.896 | 0.281 | -4.304 | 8.916 |
-|[COIN-Gaia 17](https://ucc.ar/_clusters/coingaia17/)| 89 | 81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
+|[Saloranta 10](https://ucc.ar/_clusters/saloranta10/)| 90 | 81.227 | 37.558 | 0.896 | 0.281 | -4.304 | 8.916 |
+|[COIN-Gaia 17](https://ucc.ar/_clusters/coingaia17/)| 92 | 81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.23,37.561" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.23%2037.561&output=json&radius=5&userEntry=ubc89" target="_blank">Simbad</a></p>
 
@@ -70,4 +70,4 @@ title:  UBC 89
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

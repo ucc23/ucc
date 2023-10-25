@@ -51,13 +51,6 @@ title:  Ryu 18
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 239.807 | -50.281 | -- | -- | -- | -- |
 | **UCC** |239.805 | -50.285 | 0.298 | -3.96 | -3.975 | -18.065 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UPK 626](https://ucc.ar/_clusters/upk626/)| 36 | 239.819 | -50.362 | 1.965 | -7.419 | -5.709 | -17.019 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=239.805,-50.285" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=239.805%20-50.285&output=json&radius=5&userEntry=ryu18" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +62,4 @@ title:  Ryu 18
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,6 +57,13 @@ title:  Melotte 66
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 111.583 | -47.693 | 0.195 | -1.435 | 2.775 | 21.411 |
 | **UCC** |111.582 | -47.679 | 0.174 | -1.442 | 2.771 | 21.595 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0462](https://ucc.ar/_clusters/oc0462/)| 28 | 111.565 | -47.697 | 0.242 | -1.415 | 2.793 | 22.096 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.582,-47.679" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.582%20-47.679&output=json&radius=5&userEntry=melotte66" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -78,4 +85,4 @@ title:  Melotte 66
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.21, d_pc=4515.96, logt=9.39` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  Teutsch 196
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 431](https://ucc.ar/_clusters/ubc431/)| 50 | 75.235 | 41.231 | 0.202 | 0.388 | -1.148 | -30.397 |
+|[UBC 431](https://ucc.ar/_clusters/ubc431/)| 61 | 75.235 | 41.231 | 0.202 | 0.388 | -1.148 | -30.397 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=75.22,41.222" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=75.22%2041.222&output=json&radius=5&userEntry=teutsch196" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 196
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.43, d_pc=4124.4, logt=8.53` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

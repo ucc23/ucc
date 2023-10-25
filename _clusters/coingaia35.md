@@ -58,7 +58,7 @@ title:  COIN-Gaia 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 2008](https://ucc.ar/_clusters/cwwdl2008/)| 53 | 33.477 | 60.031 | 0.376 | -0.541 | -0.418 | -- |
+|[CWWDL 2008](https://ucc.ar/_clusters/cwwdl2008/)| 54 | 33.477 | 60.031 | 0.376 | -0.541 | -0.418 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=33.444,60.038" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=33.444%2060.038&output=json&radius=5&userEntry=coingaia35" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  COIN-Gaia 35
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.77, d_pc=2508.72, logt=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

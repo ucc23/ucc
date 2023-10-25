@@ -56,7 +56,7 @@ title:  UPK 19
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 32](https://ucc.ar/_clusters/ubc32/)| 62 | 279.214 | -14.141 | 3.544 | -1.783 | -9.286 | -22.154 |
+|[UBC 32](https://ucc.ar/_clusters/ubc32/)| 77 | 279.214 | -14.141 | 3.544 | -1.783 | -9.286 | -22.154 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.286,-14.114" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.286%20-14.114&output=json&radius=5&userEntry=upk19" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  UPK 19
 | [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | `d_pc=289.0, log(age)=8.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

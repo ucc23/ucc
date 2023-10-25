@@ -56,7 +56,7 @@ title:  Casado 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 2004](https://ucc.ar/_clusters/hsc2004/)| 38 | 121.138 | -31.51 | 0.881 | -5.008 | 5.011 | 34.697 |
+|[HSC 2004](https://ucc.ar/_clusters/hsc2004/)| 74 | 121.138 | -31.51 | 0.881 | -5.008 | 5.011 | 34.697 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=121.145,-31.513" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=121.145%20-31.513&output=json&radius=5&userEntry=casado3" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Casado 3
 | [Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | `d_kpc=1.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

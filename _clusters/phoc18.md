@@ -57,8 +57,8 @@ title:  PHOC 18
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UFMG 86](https://ucc.ar/_clusters/ufmg86/)| 87 | 261.58 | -37.775 | 0.438 | 0.584 | -0.988 | -18.497 |
-|[CWWDL 1647](https://ucc.ar/_clusters/cwwdl1647/)| 75 | 261.58 | -37.775 | 0.438 | 0.583 | -0.988 | -18.497 |
+|[UFMG 86](https://ucc.ar/_clusters/ufmg86/)| 96 | 261.58 | -37.775 | 0.438 | 0.584 | -0.988 | -18.497 |
+|[CWWDL 1647](https://ucc.ar/_clusters/cwwdl1647/)| 99 | 261.58 | -37.775 | 0.438 | 0.583 | -0.988 | -18.497 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=261.58,-37.776" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=261.58%20-37.776&output=json&radius=5&userEntry=phoc18" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  PHOC 18
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.41, d_pc=2128.35, logt=7.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -62,7 +62,7 @@ title:  Trumpler 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0305](https://ucc.ar/_clusters/oc0305/)| 43 | 91.188 | 24.097 | 0.468 | 0.968 | -3.04 | -- |
+|[OC 0305](https://ucc.ar/_clusters/oc0305/)| 89 | 91.188 | 24.097 | 0.468 | 0.968 | -3.04 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.188,24.105" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.188%2024.105&output=json&radius=5&userEntry=trumpler4" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Trumpler 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.41, d_pc=1935.57, logt=7.87` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -57,7 +57,7 @@ title:  Teutsch 63
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1766](https://ucc.ar/_clusters/cwnu1766/)| 83 | 122.539 | -39.375 | 0.249 | -1.818 | 3.251 | 40.246 |
+|[CWNU 1766](https://ucc.ar/_clusters/cwnu1766/)| 79 | 122.539 | -39.375 | 0.249 | -1.818 | 3.251 | 40.246 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=122.536,-39.374" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=122.536%20-39.374&output=json&radius=5&userEntry=teutsch63" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 63
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.45, d_pc=3557.98, logt=8.99` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

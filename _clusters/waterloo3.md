@@ -57,7 +57,7 @@ title:  Waterloo 3
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 465](https://ucc.ar/_clusters/ubc465/)| 63 | 118.779 | -25.357 | 0.22 | -2.34 | 2.649 | -- |
+|[UBC 465](https://ucc.ar/_clusters/ubc465/)| 62 | 118.779 | -25.357 | 0.22 | -2.34 | 2.649 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=118.767,-25.349" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=118.767%20-25.349&output=json&radius=5&userEntry=waterloo3" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Waterloo 3
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.43, d_pc=4365.35, logt=8.45` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

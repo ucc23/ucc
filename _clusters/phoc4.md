@@ -56,9 +56,9 @@ title:  PHOC 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CMa01](https://ucc.ar/_clusters/cma01/)| 54 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
-|[H21OC 54](https://ucc.ar/_clusters/h21oc54/)| 27 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
-|[HXHWL 54](https://ucc.ar/_clusters/hxhwl54/)| 33 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
+|[CMa01](https://ucc.ar/_clusters/cma01/)| 76 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
+|[H21OC 54](https://ucc.ar/_clusters/h21oc54/)| 66 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
+|[HXHWL 54](https://ucc.ar/_clusters/hxhwl54/)| 59 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.856,-7.667" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.856%20-7.667&output=json&radius=5&userEntry=phoc4" target="_blank">Simbad</a></p>
 
@@ -71,4 +71,4 @@ title:  PHOC 4
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

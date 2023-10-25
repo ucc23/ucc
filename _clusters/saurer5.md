@@ -53,6 +53,13 @@ title:  Saurer 5
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 294.883 | 25.642 | -- | -- | -- | -- |
 | **UCC** |294.872 | 25.636 | 0.124 | -2.075 | -4.222 | -59.57 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU_3858](https://ucc.ar/_clusters/cwnu3858/)| 53 | 294.869 | 25.643 | 0.081 | -2.13 | -4.256 | -45.199 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=294.872,25.636" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=294.872%2025.636&output=json&radius=5&userEntry=saurer5" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -71,4 +78,4 @@ title:  Saurer 5
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.68, Dmod=11.62, logt=8.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

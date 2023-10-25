@@ -53,13 +53,6 @@ title:  CWNU 182
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 135.849 | -43.87 | 1.064 | -8.974 | 5.719 | 25.923 |
 | **UCC** |135.836 | -43.88 | 1.039 | -8.688 | 5.781 | 20.786 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FSR 1442](https://ucc.ar/_clusters/fsr1442/)| 40 | 135.78 | -43.93 | 0.17 | -3.358 | 2.794 | 17.381 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=135.836,-43.88" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=135.836%20-43.88&output=json&radius=5&userEntry=cwnu182" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -79,4 +72,4 @@ title:  CWNU 182
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.43, d_pc=913.52, logt=8.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

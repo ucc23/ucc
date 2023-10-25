@@ -58,7 +58,7 @@ title:  Collinder 89
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14038](https://ucc.ar/_clusters/cwwdl14038/)| 51 | 94.77 | 23.158 | 0.52 | 0.458 | -1.577 | -6.656 |
+|[CWWDL 14038](https://ucc.ar/_clusters/cwwdl14038/)| 59 | 94.77 | 23.158 | 0.52 | 0.458 | -1.577 | -6.656 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=94.728,23.201" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=94.728%2023.201&output=json&radius=5&userEntry=collinder89" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Collinder 89
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.32, d_pc=1809.39, logt=7.31` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

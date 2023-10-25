@@ -61,7 +61,7 @@ title:  Hogg 22
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 547](https://ucc.ar/_clusters/ubc547/)| 55 | 251.681 | -47.107 | 0.353 | -0.767 | -1.976 | -29.252 |
+|[UBC 547](https://ucc.ar/_clusters/ubc547/)| 80 | 251.681 | -47.107 | 0.353 | -0.767 | -1.976 | -29.252 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=251.68,-47.086" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=251.68%20-47.086&output=json&radius=5&userEntry=hogg22" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Hogg 22
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.07, d_pc=2534.07, logt=6.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

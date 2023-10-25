@@ -57,8 +57,8 @@ title:  HXHWL 60
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14076](https://ucc.ar/_clusters/cwwdl14076/)| 80 | 106.842 | 4.27 | 0.479 | -0.353 | -1.65 | 27.54 |
-|[UBC 1337](https://ucc.ar/_clusters/ubc1337/)| 97 | 106.845 | 4.259 | 0.478 | -0.353 | -1.65 | 29.821 |
+|[CWWDL 14076](https://ucc.ar/_clusters/cwwdl14076/)| 94 | 106.842 | 4.27 | 0.479 | -0.353 | -1.65 | 27.54 |
+|[UBC 1337](https://ucc.ar/_clusters/ubc1337/)| 99 | 106.845 | 4.259 | 0.478 | -0.353 | -1.65 | 29.821 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.842,4.26" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.842%204.26&output=json&radius=5&userEntry=hxhwl60" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  HXHWL 60
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.48, d_pc=1906.96, logt=8.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

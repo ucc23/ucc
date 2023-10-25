@@ -56,8 +56,8 @@ title:  UBC 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 2](https://ucc.ar/_clusters/coingaia2/)| 65 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
-|[Alessi-Teutsch 21](https://ucc.ar/_clusters/alessiteutsch21/)| 64 | 15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
+|[COIN-Gaia 2](https://ucc.ar/_clusters/coingaia2/)| 48 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
+|[Alessi-Teutsch 21](https://ucc.ar/_clusters/alessiteutsch21/)| 81 | 15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=15.056,55.442" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.056%2055.442&output=json&radius=5&userEntry=ubc35" target="_blank">Simbad</a></p>
 
@@ -70,4 +70,4 @@ title:  UBC 35
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

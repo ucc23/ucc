@@ -57,7 +57,7 @@ title:  DBSB 70
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1238](https://ucc.ar/_clusters/cwnu1238/)| 81 | 177.099 | -62.337 | 0.93 | -8.366 | 0.845 | -5.669 |
+|[CWNU 1238](https://ucc.ar/_clusters/cwnu1238/)| 85 | 177.099 | -62.337 | 0.93 | -8.366 | 0.845 | -5.669 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.055,-62.337" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.055%20-62.337&output=json&radius=5&userEntry=dbsb70" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  DBSB 70
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.79, d_pc=1025.84, logt=7.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

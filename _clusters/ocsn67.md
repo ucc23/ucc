@@ -56,7 +56,7 @@ title:  OCSN 67
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1648](https://ucc.ar/_clusters/hsc1648/)| 62 | 78.804 | -6.606 | 3.464 | 1.769 | -2.954 | 15.076 |
+|[HSC 1648](https://ucc.ar/_clusters/hsc1648/)| 79 | 78.804 | -6.606 | 3.464 | 1.769 | -2.954 | 15.076 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=78.905,-6.543" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.905%20-6.543&output=json&radius=5&userEntry=ocsn67" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  OCSN 67
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.13, dm=7.31, logt=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

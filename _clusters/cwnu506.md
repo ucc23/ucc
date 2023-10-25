@@ -60,9 +60,9 @@ title:  CWNU 506
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 44](https://ucc.ar/_clusters/cwnu44/)| 42 | 277.279 | -12.721 | 0.447 | 0.583 | -1.657 | -15.693 |
-|[UBC 1020](https://ucc.ar/_clusters/ubc1020/)| 48 | 277.275 | -12.732 | 0.457 | 0.583 | -1.65 | -25.936 |
-|[OC 0032](https://ucc.ar/_clusters/oc0032/)| 82 | 277.261 | -12.725 | 0.46 | 0.621 | -1.662 | 9.518 |
+|[CWNU 44](https://ucc.ar/_clusters/cwnu44/)| 72 | 277.279 | -12.721 | 0.447 | 0.583 | -1.657 | -15.693 |
+|[UBC 1020](https://ucc.ar/_clusters/ubc1020/)| 86 | 277.275 | -12.732 | 0.457 | 0.583 | -1.65 | -25.936 |
+|[OC 0032](https://ucc.ar/_clusters/oc0032/)| 84 | 277.261 | -12.725 | 0.46 | 0.621 | -1.662 | 9.518 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=277.271,-12.722" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.271%20-12.722&output=json&radius=5&userEntry=cwnu506" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  CWNU 506
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.6, dm=12.0, logt=8.7, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

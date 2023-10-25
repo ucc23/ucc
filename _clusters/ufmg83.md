@@ -61,8 +61,8 @@ title:  UFMG 83
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 1671](https://ucc.ar/_clusters/cwwdl1671/)| 38 | 268.11 | -28.209 | 0.306 | -0.036 | -1.911 | -14.584 |
-|[UBC 1002](https://ucc.ar/_clusters/ubc1002/)| 55 | 268.116 | -28.197 | 0.274 | 0.014 | -1.932 | -8.924 |
+|[CWWDL 1671](https://ucc.ar/_clusters/cwwdl1671/)| 49 | 268.11 | -28.209 | 0.306 | -0.036 | -1.911 | -14.584 |
+|[UBC 1002](https://ucc.ar/_clusters/ubc1002/)| 56 | 268.116 | -28.197 | 0.274 | 0.014 | -1.932 | -8.924 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=268.112,-28.177" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.112%20-28.177&output=json&radius=5&userEntry=ufmg83" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  UFMG 83
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.22, d_pc=3041.44, logt=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

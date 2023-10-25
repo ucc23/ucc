@@ -56,9 +56,9 @@ title:  CWWDL 9706
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UFMG 75](https://ucc.ar/_clusters/ufmg75/)| 71 | 270.233 | -20.218 | 0.369 | 0.193 | -0.095 | 20.493 |
-|[OC 0016](https://ucc.ar/_clusters/oc0016/)| 80 | 270.232 | -20.224 | 0.388 | 0.206 | -0.156 | 15.491 |
-|[Ryu 183](https://ucc.ar/_clusters/ryu183/)| 82 | 270.241 | -20.211 | 0.384 | 0.195 | -0.143 | -- |
+|[UFMG 75](https://ucc.ar/_clusters/ufmg75/)| 84 | 270.233 | -20.218 | 0.369 | 0.193 | -0.095 | 20.493 |
+|[OC 0016](https://ucc.ar/_clusters/oc0016/)| 83 | 270.232 | -20.224 | 0.388 | 0.206 | -0.156 | 15.491 |
+|[Ryu 183](https://ucc.ar/_clusters/ryu183/)| 83 | 270.241 | -20.211 | 0.384 | 0.195 | -0.143 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.238,-20.221" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.238%20-20.221&output=json&radius=5&userEntry=cwwdl9706" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWWDL 9706
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.52, Z=-0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

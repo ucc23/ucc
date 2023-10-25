@@ -53,6 +53,7 @@ title:  Ruprecht 55
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 123.078 | -32.565 | -- | -- | -- | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 123.113 | -32.581 | 0.187 | -2.316 | 2.921 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 123.072 | -32.576 | 0.144 | -2.429 | 3.165 | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 123.049 | -32.499 | 0.145 | -2.42 | 3.223 | 102.2 |
 | **UCC** |123.065 | -32.557 | 0.138 | -2.395 | 3.202 | 105.717 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=123.065,-32.557" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=123.065%20-32.557&output=json&radius=5&userEntry=ruprecht55" target="_blank">Simbad</a></p>
@@ -72,6 +73,7 @@ title:  Ruprecht 55
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.6, distance=3640.0, log_age=6.97` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.55, Dmod=13.43, logt=6.88` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.64, Dist=4238.0, logage=7.33, [Fe/H]=-0.23` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.55, m-M=13.5, logA=7.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,7 +58,7 @@ title:  Dutra-Bica 51
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0701](https://ucc.ar/_clusters/oc0701/)| 78 | 267.413 | -31.262 | 0.728 | -1.126 | -2.12 | -5.214 |
+|[OC 0701](https://ucc.ar/_clusters/oc0701/)| 96 | 267.413 | -31.262 | 0.728 | -1.126 | -2.12 | -5.214 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.415,-31.263" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.415%20-31.263&output=json&radius=5&userEntry=dutrabica51" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Dutra-Bica 51
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.81, d_pc=1308.2, logt=6.82` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

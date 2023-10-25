@@ -57,7 +57,7 @@ title:  CWNU 408
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1442](https://ucc.ar/_clusters/ubc1442/)| 92 | 126.206 | -44.276 | 0.432 | -4.592 | 4.5 | 38.707 |
+|[UBC 1442](https://ucc.ar/_clusters/ubc1442/)| 95 | 126.206 | -44.276 | 0.432 | -4.592 | 4.5 | 38.707 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=126.206,-44.281" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=126.206%20-44.281&output=json&radius=5&userEntry=cwnu408" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 408
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.26, d_pc=2147.32, logt=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

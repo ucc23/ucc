@@ -61,7 +61,7 @@ title:  UBC 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14676](https://ucc.ar/_clusters/cwwdl14676/)| 90 | 287.876 | 56.778 | 3.081 | -2.503 | 3.704 | -23.268 |
+|[CWWDL 14676](https://ucc.ar/_clusters/cwwdl14676/)| 94 | 287.876 | 56.778 | 3.081 | -2.503 | 3.704 | -23.268 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=287.967,56.757" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=287.967%2056.757&output=json&radius=5&userEntry=ubc1" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  UBC 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.06, d_pc=322.42, logt=8.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

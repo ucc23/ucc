@@ -57,7 +57,7 @@ title:  HXHWL 45
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 45](https://ucc.ar/_clusters/h21oc45/)| 86 | 350.317 | 58.366 | 0.997 | -0.369 | -0.916 | -21.892 |
+|[H21OC 45](https://ucc.ar/_clusters/h21oc45/)| 91 | 350.317 | 58.366 | 0.997 | -0.369 | -0.916 | -21.892 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=350.317,58.364" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=350.317%2058.364&output=json&radius=5&userEntry=hxhwl45" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 45
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.13, d_pc=974.91, logt=7.83` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

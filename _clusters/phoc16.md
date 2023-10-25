@@ -52,6 +52,14 @@ title:  PHOC 16
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 111.05 | -20.208 | 0.327 | -2.722 | 3.108 | -- |
 | **UCC** |111.051 | -20.212 | 0.337 | -2.728 | 3.123 | -- |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 630](https://ucc.ar/_clusters/cwwdl630/)| 56 | 111.051 | -20.224 | 0.332 | -2.746 | 3.219 | -- |
+|[FoF 733](https://ucc.ar/_clusters/fof733/)| 64 | 111.05 | -20.217 | 0.332 | -2.747 | 3.219 | -- |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.051,-20.212" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.051%20-20.212&output=json&radius=5&userEntry=phoc16" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +77,4 @@ title:  PHOC 16
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.02, d_pc=2724.46, logt=8.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,8 +58,8 @@ title:  Gulliver 56
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 73](https://ucc.ar/_clusters/ubc73/)| 49 | 95.376 | 26.93 | 0.434 | 0.426 | -3.182 | 13.271 |
-|[OC 0304](https://ucc.ar/_clusters/oc0304/)| 30 | 95.384 | 26.916 | 0.428 | 0.38 | -3.166 | 29.641 |
+|[UBC 73](https://ucc.ar/_clusters/ubc73/)| 32 | 95.376 | 26.93 | 0.434 | 0.426 | -3.182 | 13.271 |
+|[OC 0304](https://ucc.ar/_clusters/oc0304/)| 26 | 95.384 | 26.916 | 0.428 | 0.38 | -3.166 | 29.641 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.424,26.936" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.424%2026.936&output=json&radius=5&userEntry=gulliver56" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  Gulliver 56
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.38, d_pc=2064.28, logt=8.79` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

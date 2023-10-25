@@ -57,8 +57,8 @@ title:  UBC 19
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Alessi Teutsch10](https://ucc.ar/_clusters/alessiteutsch10/)| 44 | 56.32 | 29.735 | 2.519 | 2.529 | -5.297 | 19.757 |
-|[OC 0278](https://ucc.ar/_clusters/oc0278/)| 33 | 56.362 | 29.761 | 2.514 | 2.512 | -5.344 | 34.266 |
+|[Alessi Teutsch10](https://ucc.ar/_clusters/alessiteutsch10/)| 48 | 56.32 | 29.735 | 2.519 | 2.529 | -5.297 | 19.757 |
+|[OC 0278](https://ucc.ar/_clusters/oc0278/)| 47 | 56.362 | 29.761 | 2.514 | 2.512 | -5.344 | 34.266 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=56.398,29.848" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.398%2029.848&output=json&radius=5&userEntry=ubc19" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UBC 19
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.7, DMNN=8.1, AgeNN=6.84` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

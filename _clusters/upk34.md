@@ -56,8 +56,8 @@ title:  UPK 34
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0056](https://ucc.ar/_clusters/oc0056/)| 71 | 278.983 | -2.099 | 0.796 | -2.189 | -3.089 | -32.334 |
-|[CWNU 492](https://ucc.ar/_clusters/cwnu492/)| 84 | 278.991 | -2.105 | 0.792 | -2.195 | -3.127 | -25.712 |
+|[OC 0056](https://ucc.ar/_clusters/oc0056/)| 39 | 278.983 | -2.099 | 0.796 | -2.189 | -3.089 | -32.334 |
+|[CWNU 492](https://ucc.ar/_clusters/cwnu492/)| 67 | 278.991 | -2.105 | 0.792 | -2.195 | -3.127 | -25.712 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.011,-2.135" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.011%20-2.135&output=json&radius=5&userEntry=upk34" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  UPK 34
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.36, d_pc=839.58, logt=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

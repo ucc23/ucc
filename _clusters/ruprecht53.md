@@ -58,7 +58,7 @@ title:  Ruprecht 53
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1026](https://ucc.ar/_clusters/cwnu1026/)| 73 | 122.753 | -27.032 | 0.969 | -2.859 | 1.017 | 11.154 |
+|[CWNU 1026](https://ucc.ar/_clusters/cwnu1026/)| 88 | 122.753 | -27.032 | 0.969 | -2.859 | 1.017 | 11.154 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=122.752,-27.032" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=122.752%20-27.032&output=json&radius=5&userEntry=ruprecht53" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Ruprecht 53
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.09, d_pc=992.67, logt=8.54` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

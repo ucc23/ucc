@@ -51,6 +51,13 @@ title:  Teutsch 202
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 103.638 | -7.864 | -- | -- | -- | -- |
 | **UCC** |103.606 | -7.788 | 0.19 | -0.774 | 1.335 | 105.512 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 1973](https://ucc.ar/_clusters/cwnu1973/)| 55 | 103.547 | -7.754 | 0.204 | -0.768 | 1.346 | 67.456 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.606,-7.788" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.606%20-7.788&output=json&radius=5&userEntry=teutsch202" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -62,4 +69,4 @@ title:  Teutsch 202
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

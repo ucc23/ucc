@@ -60,8 +60,7 @@ title:  Berkeley 36
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0387](https://ucc.ar/_clusters/oc0387/)| 66 | 109.098 | -13.199 | 0.286 | -1.677 | 0.904 | 62.61 |
-|[OC 0388](https://ucc.ar/_clusters/oc0388/)| 27 | 109.102 | -13.206 | 0.157 | -1.829 | 1.023 | 61.663 |
+|[OC 0387](https://ucc.ar/_clusters/oc0387/)| 76 | 109.098 | -13.199 | 0.286 | -1.677 | 0.904 | 62.61 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=109.098,-13.204" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=109.098%20-13.204&output=json&radius=5&userEntry=berkeley36" target="_blank">Simbad</a></p>
 
@@ -83,4 +82,4 @@ title:  Berkeley 36
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.95, d_pc=3839.62, logt=9.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

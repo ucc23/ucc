@@ -56,8 +56,8 @@ title:  CWWDL 970
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 341](https://ucc.ar/_clusters/ubc341/)| 63 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
-|[Dolidze 52a](https://ucc.ar/_clusters/dolidze52a/)| 81 | 276.468 | -17.072 | 0.486 | -0.223 | -1.565 | -14.982 |
+|[UBC 341](https://ucc.ar/_clusters/ubc341/)| 80 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
+|[Dolidze 52a](https://ucc.ar/_clusters/dolidze52a/)| 97 | 276.468 | -17.072 | 0.486 | -0.223 | -1.565 | -14.982 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.465,-17.071" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.465%20-17.071&output=json&radius=5&userEntry=cwwdl970" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWWDL 970
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.78, Z=0.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

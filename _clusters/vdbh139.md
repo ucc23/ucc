@@ -61,7 +61,7 @@ title:  VDBH 139
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0585](https://ucc.ar/_clusters/oc0585/)| 69 | 190.909 | -63.101 | 0.287 | -6.038 | -0.457 | -16.759 |
+|[OC 0585](https://ucc.ar/_clusters/oc0585/)| 96 | 190.909 | -63.101 | 0.287 | -6.038 | -0.457 | -16.759 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=190.908,-63.102" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=190.908%20-63.102&output=json&radius=5&userEntry=vdbh139" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  VDBH 139
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.07, d_pc=3165.37, logt=6.96` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

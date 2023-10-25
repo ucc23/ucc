@@ -57,7 +57,7 @@ title:  CWNU 296
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13480](https://ucc.ar/_clusters/cwwdl13480/)| 51 | 277.26 | -14.238 | 0.521 | 0.13 | -0.935 | -- |
+|[CWWDL 13480](https://ucc.ar/_clusters/cwwdl13480/)| 50 | 277.26 | -14.238 | 0.521 | 0.13 | -0.935 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=277.235,-14.247" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.235%20-14.247&output=json&radius=5&userEntry=cwnu296" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWNU 296
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.78, d_pc=1795.32, logt=7.84` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

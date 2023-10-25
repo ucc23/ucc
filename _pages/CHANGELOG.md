@@ -4,6 +4,17 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
+### 25/10/2023
+
+#### Fixed [Issue 1](https://github.com/ucc23/ucc/issues/1)
+
+Added [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) database.
+
+#### Fixed [Issue 28](https://github.com/ucc23/ucc/issues/28)
+
+The duplicate probabilities using membership data are now properly estimated.
+
+
 ### 20/10/2023
 
 #### Fixed [Issue 24](https://github.com/ucc23/ucc/issues/24)

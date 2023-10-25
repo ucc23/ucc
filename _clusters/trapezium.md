@@ -58,7 +58,7 @@ title:  Trapezium
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0345](https://ucc.ar/_clusters/oc0345/)| 75 | 83.79 | -5.476 | 2.566 | 1.147 | 0.168 | 8.405 |
+|[OC 0345](https://ucc.ar/_clusters/oc0345/)| 74 | 83.79 | -5.476 | 2.566 | 1.147 | 0.168 | 8.405 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.823,-5.417" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.823%20-5.417&output=json&radius=5&userEntry=trapezium" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Trapezium
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.25, Dist=381.0, logage=6.78, [Fe/H]=-0.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

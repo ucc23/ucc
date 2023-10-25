@@ -56,8 +56,8 @@ title:  Kronberger 36
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 137](https://ucc.ar/_clusters/ubc137/)| 90 | 301.144 | 35.239 | 0.388 | -2.425 | -3.998 | -- |
-|[CWWDL 2845](https://ucc.ar/_clusters/cwwdl2845/)| 78 | 301.144 | 35.239 | 0.386 | -2.412 | -3.998 | 0.194 |
+|[UBC 137](https://ucc.ar/_clusters/ubc137/)| 93 | 301.144 | 35.239 | 0.388 | -2.425 | -3.998 | -- |
+|[CWWDL 2845](https://ucc.ar/_clusters/cwwdl2845/)| 100 | 301.144 | 35.239 | 0.386 | -2.412 | -3.998 | 0.194 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.144,35.239" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.144%2035.239&output=json&radius=5&userEntry=kronberger36" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Kronberger 36
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.35, d_pc=2432.96, logt=8.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

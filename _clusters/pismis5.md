@@ -61,7 +61,7 @@ title:  Pismis 5
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0460](https://ucc.ar/_clusters/oc0460/)| 47 | 129.264 | -39.68 | 1.083 | -5.488 | 4.275 | 13.258 |
+|[OC 0460](https://ucc.ar/_clusters/oc0460/)| 51 | 129.264 | -39.68 | 1.083 | -5.488 | 4.275 | 13.258 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=129.422,-39.578" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=129.422%20-39.578&output=json&radius=5&userEntry=pismis5" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Pismis 5
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.59, d_pc=913.23, logt=6.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

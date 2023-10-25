@@ -60,7 +60,7 @@ title:  COIN-Gaia 24
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13537](https://ucc.ar/_clusters/cwwdl13537/)| 91 | 90.689 | 23.184 | 0.987 | 2.508 | -2.962 | -0.939 |
+|[CWWDL 13537](https://ucc.ar/_clusters/cwwdl13537/)| 100 | 90.689 | 23.184 | 0.987 | 2.508 | -2.962 | -0.939 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=90.689,23.184" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=90.689%2023.184&output=json&radius=5&userEntry=coingaia24" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  COIN-Gaia 24
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.78, d_pc=966.71, logt=8.0` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

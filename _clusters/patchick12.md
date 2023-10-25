@@ -56,8 +56,8 @@ title:  Patchick 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3347](https://ucc.ar/_clusters/cwwdl3347/)| 89 | 31.126 | 54.368 | 0.362 | -2.283 | -0.262 | -38.081 |
-|[UBC 44](https://ucc.ar/_clusters/ubc44/)| 74 | 31.122 | 54.359 | 0.369 | -2.257 | -0.241 | -38.32 |
+|[CWWDL 3347](https://ucc.ar/_clusters/cwwdl3347/)| 97 | 31.126 | 54.368 | 0.362 | -2.283 | -0.262 | -38.081 |
+|[UBC 44](https://ucc.ar/_clusters/ubc44/)| 83 | 31.122 | 54.359 | 0.369 | -2.257 | -0.241 | -38.32 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=31.126,54.369" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=31.126%2054.369&output=json&radius=5&userEntry=patchick12" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Patchick 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.42, d_pc=2514.13, logt=9.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

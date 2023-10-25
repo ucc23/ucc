@@ -58,9 +58,9 @@ title:  UBC 49
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3058](https://ucc.ar/_clusters/lisc3058/)| 62 | 60.217 | 59.19 | 0.385 | -1.823 | -1.381 | -14.679 |
-|[OC 0269](https://ucc.ar/_clusters/oc0269/)| 39 | 60.232 | 59.193 | 0.389 | -1.824 | -1.403 | -14.679 |
-|[CWWDL 3133](https://ucc.ar/_clusters/cwwdl3133/)| 36 | 60.227 | 59.193 | 0.388 | -1.822 | -1.403 | -15.42 |
+|[LISC 3058](https://ucc.ar/_clusters/lisc3058/)| 61 | 60.217 | 59.19 | 0.385 | -1.823 | -1.381 | -14.679 |
+|[OC 0269](https://ucc.ar/_clusters/oc0269/)| 55 | 60.232 | 59.193 | 0.389 | -1.824 | -1.403 | -14.679 |
+|[CWWDL 3133](https://ucc.ar/_clusters/cwwdl3133/)| 59 | 60.227 | 59.193 | 0.388 | -1.822 | -1.403 | -15.42 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=60.197,59.195" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=60.197%2059.195&output=json&radius=5&userEntry=ubc49" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  UBC 49
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.25, d_pc=2393.72, logt=9.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

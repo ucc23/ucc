@@ -58,7 +58,7 @@ title:  Pismis 22
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LS 313](https://ucc.ar/_clusters/ls313/)| 85 | 243.533 | -51.865 | 0.202 | -3.756 | -4.269 | -1.831 |
+|[LS 313](https://ucc.ar/_clusters/ls313/)| 70 | 243.533 | -51.865 | 0.202 | -3.756 | -4.269 | -1.831 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=243.543,-51.869" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=243.543%20-51.869&output=json&radius=5&userEntry=pismis22" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Pismis 22
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.45, d_pc=4267.68, logt=7.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

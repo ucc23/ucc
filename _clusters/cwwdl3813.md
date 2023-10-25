@@ -60,7 +60,7 @@ title:  CWWDL 3813
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1848](https://ucc.ar/_clusters/hsc1848/)| 65 | 109.576 | -20.053 | 0.328 | -2.068 | 3.285 | -- |
+|[HSC 1848](https://ucc.ar/_clusters/hsc1848/)| 63 | 109.576 | -20.053 | 0.328 | -2.068 | 3.285 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=109.572,-20.051" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=109.572%20-20.051&output=json&radius=5&userEntry=cwwdl3813" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWWDL 3813
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.85, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

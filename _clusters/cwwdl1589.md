@@ -56,9 +56,9 @@ title:  CWWDL 1589
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 273](https://ucc.ar/_clusters/fof273/)| 72 | 245.729 | -50.18 | 0.391 | -2.352 | -4.133 | -71.371 |
-|[CWWDL 13867](https://ucc.ar/_clusters/cwwdl13867/)| 25 | 245.721 | -50.189 | 0.406 | -2.372 | -4.209 | -71.213 |
-|[UBC 543](https://ucc.ar/_clusters/ubc543/)| 69 | 245.734 | -50.171 | 0.4 | -2.358 | -4.121 | -71.213 |
+|[FoF 273](https://ucc.ar/_clusters/fof273/)| 99 | 245.729 | -50.18 | 0.391 | -2.352 | -4.133 | -71.371 |
+|[CWWDL 13867](https://ucc.ar/_clusters/cwwdl13867/)| 65 | 245.721 | -50.189 | 0.406 | -2.372 | -4.209 | -71.213 |
+|[UBC 543](https://ucc.ar/_clusters/ubc543/)| 84 | 245.734 | -50.171 | 0.4 | -2.358 | -4.121 | -71.213 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=245.728,-50.179" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=245.728%20-50.179&output=json&radius=5&userEntry=cwwdl1589" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CWWDL 1589
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.21, Z=-0.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

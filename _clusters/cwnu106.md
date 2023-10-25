@@ -56,7 +56,7 @@ title:  CWNU 106
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0126](https://ucc.ar/_clusters/oc0126/)| 88 | 304.446 | 42.147 | 0.585 | -1.665 | -3.169 | -23.169 |
+|[OC 0126](https://ucc.ar/_clusters/oc0126/)| 92 | 304.446 | 42.147 | 0.585 | -1.665 | -3.169 | -23.169 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.427,42.139" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.427%2042.139&output=json&radius=5&userEntry=cwnu106" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWNU 106
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.7, dm=11.35, logt=8.8, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

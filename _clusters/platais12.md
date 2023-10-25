@@ -60,8 +60,8 @@ title:  Platais 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14613](https://ucc.ar/_clusters/cwwdl14613/)| 82 | 207.921 | -63.55 | 2.236 | -8.312 | -5.455 | -11.908 |
-|[OCSN 90](https://ucc.ar/_clusters/ocsn90/)| 84 | 207.947 | -63.547 | 2.236 | -8.312 | -5.455 | -11.991 |
+|[CWWDL 14613](https://ucc.ar/_clusters/cwwdl14613/)| 90 | 207.921 | -63.55 | 2.236 | -8.312 | -5.455 | -11.908 |
+|[OCSN 90](https://ucc.ar/_clusters/ocsn90/)| 93 | 207.947 | -63.547 | 2.236 | -8.312 | -5.455 | -11.991 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=207.962,-63.519" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=207.962%20-63.519&output=json&radius=5&userEntry=platais12" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  Platais 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.23, d_pc=444.32, logt=8.17` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

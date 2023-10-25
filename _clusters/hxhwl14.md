@@ -57,7 +57,7 @@ title:  HXHWL 14
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1526](https://ucc.ar/_clusters/ubc1526/)| 89 | 215.304 | -58.156 | 0.503 | -2.645 | -2.658 | -11.308 |
+|[UBC 1526](https://ucc.ar/_clusters/ubc1526/)| 93 | 215.304 | -58.156 | 0.503 | -2.645 | -2.658 | -11.308 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=215.304,-58.161" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.304%20-58.161&output=json&radius=5&userEntry=hxhwl14" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 14
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.88, d_pc=1872.88, logt=7.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

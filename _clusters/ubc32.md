@@ -61,7 +61,7 @@ title:  UBC 32
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UPK 19](https://ucc.ar/_clusters/upk19/)| 62 | 279.286 | -14.114 | 3.552 | -1.765 | -9.302 | -22.154 |
+|[UPK 19](https://ucc.ar/_clusters/upk19/)| 77 | 279.286 | -14.114 | 3.552 | -1.765 | -9.302 | -22.154 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.214,-14.141" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.214%20-14.141&output=json&radius=5&userEntry=ubc32" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  UBC 32
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.03, d_pc=282.08, logt=7.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

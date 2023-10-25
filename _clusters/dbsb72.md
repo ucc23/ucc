@@ -53,6 +53,7 @@ title:  DBSB 72
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 176.487 | -65.555 | -- | -6.28 | 3.72 | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 176.484 | -65.551 | 0.272 | -5.783 | 1.107 | -- |
 | **UCC** |176.513 | -65.535 | 0.149 | -6.109 | 1.292 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=176.513,-65.535" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=176.513%20-65.535&output=json&radius=5&userEntry=dbsb72" target="_blank">Simbad</a></p>
@@ -70,6 +71,7 @@ title:  DBSB 72
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.29, distance=4494.0, log_age=6.1` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=3.1, m-M=13.3, logA=6.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

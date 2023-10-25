@@ -58,8 +58,8 @@ title:  CWNU 95
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0623](https://ucc.ar/_clusters/oc0623/)| 86 | 223.292 | -54.098 | 0.909 | -2.796 | -2.317 | -17.204 |
-|[CWWDL 14468](https://ucc.ar/_clusters/cwwdl14468/)| 84 | 223.292 | -54.099 | 0.909 | -2.796 | -2.31 | -17.204 |
+|[OC 0623](https://ucc.ar/_clusters/oc0623/)| 95 | 223.292 | -54.098 | 0.909 | -2.796 | -2.317 | -17.204 |
+|[CWWDL 14468](https://ucc.ar/_clusters/cwwdl14468/)| 95 | 223.292 | -54.099 | 0.909 | -2.796 | -2.31 | -17.204 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=223.294,-54.1" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=223.294%20-54.1&output=json&radius=5&userEntry=cwnu95" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  CWNU 95
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.08, d_pc=1045.29, logt=7.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

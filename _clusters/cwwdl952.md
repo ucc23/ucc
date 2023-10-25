@@ -56,8 +56,8 @@ title:  CWWDL 952
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UFMG 91](https://ucc.ar/_clusters/ufmg91/)| 66 | 264.865 | -35.083 | 0.322 | 0.281 | -3.658 | -44.081 |
-|[OC 0693](https://ucc.ar/_clusters/oc0693/)| 86 | 264.868 | -35.084 | 0.314 | 0.257 | -3.682 | -51.515 |
+|[UFMG 91](https://ucc.ar/_clusters/ufmg91/)| 90 | 264.865 | -35.083 | 0.322 | 0.281 | -3.658 | -44.081 |
+|[OC 0693](https://ucc.ar/_clusters/oc0693/)| 90 | 264.868 | -35.084 | 0.314 | 0.257 | -3.682 | -51.515 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=264.868,-35.082" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.868%20-35.082&output=json&radius=5&userEntry=cwwdl952" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  CWWDL 952
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.45, Z=0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

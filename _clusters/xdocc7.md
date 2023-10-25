@@ -56,7 +56,7 @@ title:  XDOCC-7
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Carraro 1](https://ucc.ar/_clusters/carraro1/)| 45 | 159.231 | -58.732 | 0.384 | -7.369 | 3.418 | -26.485 |
+|[HSC 2356](https://ucc.ar/_clusters/hsc2356/)| 42 | 159.572 | -58.975 | 2.223 | -14.491 | 0.831 | 8.071 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=159.425,-58.738" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=159.425%20-58.738&output=json&radius=5&userEntry=xdocc7" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  XDOCC-7
 | [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.58, Dist=460.09, logAge=7.86` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

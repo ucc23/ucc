@@ -55,13 +55,6 @@ title:  Trumpler 20
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 189.888 | -60.633 | 0.271 | -7.11 | 0.193 | -40.333 |
 | **UCC** |189.887 | -60.627 | 0.279 | -7.108 | 0.199 | -40.238 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0583](https://ucc.ar/_clusters/oc0583/)| 27 | 189.951 | -60.674 | 0.211 | -7.134 | 0.163 | -40.612 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=189.887,-60.627" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=189.887%20-60.627&output=json&radius=5&userEntry=trumpler20" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -82,4 +75,4 @@ title:  Trumpler 20
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.28, d_pc=3279.39, logt=9.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

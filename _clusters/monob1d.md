@@ -56,7 +56,7 @@ title:  Mon OB1-D
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LP 44](https://ucc.ar/_clusters/lp44/)| 85 | 100.266 | 9.567 | 1.379 | -2.306 | -3.683 | 18.529 |
+|[LP 44](https://ucc.ar/_clusters/lp44/)| 90 | 100.266 | 9.567 | 1.379 | -2.306 | -3.683 | 18.529 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.265,9.549" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.265%209.549&output=json&radius=5&userEntry=monob1d" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  Mon OB1-D
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.44, d_pc=706.46, logt=6.76` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

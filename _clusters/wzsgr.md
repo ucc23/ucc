@@ -55,14 +55,6 @@ title:  WZ Sgr
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 273.48 | -19.051 | -- | -- | -- | -- |
 | **UCC** |273.488 | -19.047 | 0.351 | -0.61 | -1.434 | -- |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1009](https://ucc.ar/_clusters/ubc1009/)| 34 | 273.479 | -19.028 | 0.317 | -0.351 | -1.19 | 9.181 |
-|[OC 0020](https://ucc.ar/_clusters/oc0020/)| 43 | 273.464 | -19.016 | 0.538 | 0.264 | -1.623 | 0.582 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.488,-19.047" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.488%20-19.047&output=json&radius=5&userEntry=wzsgr" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -80,4 +72,4 @@ title:  WZ Sgr
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.48, Dmod=11.12, logt=7.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

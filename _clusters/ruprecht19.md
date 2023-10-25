@@ -61,7 +61,7 @@ title:  Ruprecht 19
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14123](https://ucc.ar/_clusters/cwwdl14123/)| 46 | 111.508 | -21.829 | 0.688 | -2.571 | 3.86 | 26.609 |
+|[CWWDL 14123](https://ucc.ar/_clusters/cwwdl14123/)| 81 | 111.508 | -21.829 | 0.688 | -2.571 | 3.86 | 26.609 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.48,-21.837" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.48%20-21.837&output=json&radius=5&userEntry=ruprecht19" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Ruprecht 19
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.15, d_pc=1375.64, logt=8.13` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

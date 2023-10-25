@@ -58,7 +58,7 @@ title:  UFMG 39
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0615](https://ucc.ar/_clusters/oc0615/)| 69 | 218.998 | -57.889 | 0.659 | -3.401 | -1.587 | -29.591 |
+|[OC 0615](https://ucc.ar/_clusters/oc0615/)| 92 | 218.998 | -57.889 | 0.659 | -3.401 | -1.587 | -29.591 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=218.998,-57.886" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=218.998%20-57.886&output=json&radius=5&userEntry=ufmg39" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  UFMG 39
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.52, d_pc=1452.26, logt=8.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

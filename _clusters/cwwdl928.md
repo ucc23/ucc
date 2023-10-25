@@ -60,10 +60,10 @@ title:  CWWDL 928
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 929](https://ucc.ar/_clusters/cwwdl929/)| 49 | 244.707 | -52.886 | 0.233 | -2.6 | -4.014 | -23.78 |
-|[FoF 861](https://ucc.ar/_clusters/fof861/)| 52 | 244.705 | -52.885 | 0.244 | -2.6 | -4.002 | -24.735 |
-|[OC 0647](https://ucc.ar/_clusters/oc0647/)| 54 | 244.71 | -52.886 | 0.234 | -2.591 | -4.019 | -23.78 |
-|[OC 0648](https://ucc.ar/_clusters/oc0648/)| 78 | 244.703 | -52.889 | 0.25 | -2.608 | -3.979 | -24.64 |
+|[CWWDL 929](https://ucc.ar/_clusters/cwwdl929/)| 85 | 244.707 | -52.886 | 0.233 | -2.6 | -4.014 | -23.78 |
+|[FoF 861](https://ucc.ar/_clusters/fof861/)| 80 | 244.705 | -52.885 | 0.244 | -2.6 | -4.002 | -24.735 |
+|[OC 0647](https://ucc.ar/_clusters/oc0647/)| 86 | 244.71 | -52.886 | 0.234 | -2.591 | -4.019 | -23.78 |
+|[OC 0648](https://ucc.ar/_clusters/oc0648/)| 81 | 244.703 | -52.889 | 0.25 | -2.608 | -3.979 | -24.64 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=244.711,-52.889" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=244.711%20-52.889&output=json&radius=5&userEntry=cwwdl928" target="_blank">Simbad</a></p>
 
@@ -82,4 +82,4 @@ title:  CWWDL 928
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.91, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

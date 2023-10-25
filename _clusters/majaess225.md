@@ -49,6 +49,7 @@ title:  Majaess 225
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 354.786 | 61.92 | 0.319 | -3.442 | -1.678 | -- |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 354.733 | 62.056 | 0.322 | -3.389 | -1.682 | -- |
 | **UCC** |354.776 | 61.939 | 0.324 | -3.475 | -1.67 | -- |
 
 
@@ -56,7 +57,7 @@ title:  Majaess 225
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[BDSB 46](https://ucc.ar/_clusters/bdsb46/)| 74 | 354.785 | 61.948 | 0.328 | -3.485 | -1.648 | -- |
+|[BDSB 46](https://ucc.ar/_clusters/bdsb46/)| 83 | 354.785 | 61.948 | 0.328 | -3.485 | -1.648 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=354.776,61.939" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=354.776%2061.939&output=json&radius=5&userEntry=majaess225" target="_blank">Simbad</a></p>
 
@@ -73,6 +74,7 @@ title:  Majaess 225
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.93, d_pc=2877.71, logt=7.45` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=3.35, m-M=12.3, logA=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

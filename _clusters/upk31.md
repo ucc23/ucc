@@ -60,7 +60,7 @@ title:  UPK 31
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14601](https://ucc.ar/_clusters/cwwdl14601/)| 83 | 285.927 | -8.456 | 1.842 | -0.296 | 1.153 | -16.701 |
+|[CWWDL 14601](https://ucc.ar/_clusters/cwwdl14601/)| 93 | 285.927 | -8.456 | 1.842 | -0.296 | 1.153 | -16.701 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=285.919,-8.458" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=285.919%20-8.458&output=json&radius=5&userEntry=upk31" target="_blank">Simbad</a></p>
 
@@ -83,4 +83,4 @@ title:  UPK 31
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.64, d_pc=535.75, logt=8.63` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

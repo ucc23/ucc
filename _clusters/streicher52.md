@@ -57,8 +57,8 @@ title:  Streicher 52
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 27](https://ucc.ar/_clusters/coingaia27/)| 73 | 85.762 | 13.731 | 0.923 | 0.678 | -3.594 | 10.88 |
-|[UBC 78](https://ucc.ar/_clusters/ubc78/)| 70 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
+|[COIN-Gaia 27](https://ucc.ar/_clusters/coingaia27/)| 75 | 85.762 | 13.731 | 0.923 | 0.678 | -3.594 | 10.88 |
+|[UBC 78](https://ucc.ar/_clusters/ubc78/)| 81 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.721,13.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.721%2013.712&output=json&radius=5&userEntry=streicher52" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Streicher 52
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.49, d_pc=1038.04, logt=8.56` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

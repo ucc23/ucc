@@ -56,7 +56,7 @@ title:  Teutsch 301
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 17](https://ucc.ar/_clusters/gulliver17/)| 91 | 302.662 | 35.865 | 0.549 | -1.099 | -3.123 | -0.427 |
+|[Gulliver 17](https://ucc.ar/_clusters/gulliver17/)| 94 | 302.662 | 35.865 | 0.549 | -1.099 | -3.123 | -0.427 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.658,35.867" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.658%2035.867&output=json&radius=5&userEntry=teutsch301" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 301
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

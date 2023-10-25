@@ -61,7 +61,7 @@ title:  UPK 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 98](https://ucc.ar/_clusters/ubc98/)| 85 | 288.906 | -22.114 | 1.509 | 0.607 | -6.679 | 4.416 |
+|[UBC 98](https://ucc.ar/_clusters/ubc98/)| 88 | 288.906 | -22.114 | 1.509 | 0.607 | -6.679 | 4.416 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.885,-22.128" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.885%20-22.128&output=json&radius=5&userEntry=upk12" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  UPK 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.25, d_pc=650.91, logt=8.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

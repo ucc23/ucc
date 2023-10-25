@@ -56,9 +56,9 @@ title:  HXHWL 32
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14378](https://ucc.ar/_clusters/cwwdl14378/)| 91 | 105.655 | -7.72 | 0.876 | -1.588 | -3.485 | 10.79 |
-|[H21OC 32](https://ucc.ar/_clusters/h21oc32/)| 91 | 105.667 | -7.719 | 0.876 | -1.588 | -3.484 | 10.79 |
-|[CMa 02](https://ucc.ar/_clusters/cma02/)| 94 | 105.655 | -7.737 | 0.876 | -1.588 | -3.485 | 10.79 |
+|[CWWDL 14378](https://ucc.ar/_clusters/cwwdl14378/)| 100 | 105.655 | -7.72 | 0.876 | -1.588 | -3.485 | 10.79 |
+|[H21OC 32](https://ucc.ar/_clusters/h21oc32/)| 97 | 105.667 | -7.719 | 0.876 | -1.588 | -3.484 | 10.79 |
+|[CMa 02](https://ucc.ar/_clusters/cma02/)| 99 | 105.655 | -7.737 | 0.876 | -1.588 | -3.485 | 10.79 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=105.655,-7.72" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=105.655%20-7.72&output=json&radius=5&userEntry=hxhwl32" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 32
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.8, dm=10.5, logt=8.54, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

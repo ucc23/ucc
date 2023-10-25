@@ -57,8 +57,8 @@ title:  UFMG 92
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1567](https://ucc.ar/_clusters/ubc1567/)| 92 | 269.021 | -29.503 | 0.382 | -0.078 | -0.48 | 20.849 |
-|[CWWDL 4491](https://ucc.ar/_clusters/cwwdl4491/)| 76 | 269.02 | -29.508 | 0.381 | -0.087 | -0.493 | -18.645 |
+|[UBC 1567](https://ucc.ar/_clusters/ubc1567/)| 99 | 269.021 | -29.503 | 0.382 | -0.078 | -0.48 | 20.849 |
+|[CWWDL 4491](https://ucc.ar/_clusters/cwwdl4491/)| 90 | 269.02 | -29.508 | 0.381 | -0.087 | -0.493 | -18.645 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=269.021,-29.508" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.021%20-29.508&output=json&radius=5&userEntry=ufmg92" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  UFMG 92
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.31, d_pc=2326.14, logt=7.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

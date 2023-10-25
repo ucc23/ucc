@@ -56,7 +56,7 @@ title:  CWWDL 3023
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 584](https://ucc.ar/_clusters/ubc584/)| 31 | 304.206 | 41.967 | 0.539 | -3.658 | -4.134 | -14.958 |
+|[UBC 584](https://ucc.ar/_clusters/ubc584/)| 25 | 304.206 | 41.967 | 0.539 | -3.658 | -4.134 | -14.958 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.193,41.894" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.193%2041.894&output=json&radius=5&userEntry=cwwdl3023" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 3023
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.6, Z=-0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

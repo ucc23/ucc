@@ -56,8 +56,8 @@ title:  CWWDL 4657
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1254](https://ucc.ar/_clusters/ubc1254/)| 37 | 56.338 | 50.702 | 0.38 | 0.786 | -1.287 | -43.465 |
-|[CWNU 17](https://ucc.ar/_clusters/cwnu17/)| 31 | 56.339 | 50.733 | 0.342 | 0.791 | -1.253 | -17.947 |
+|[UBC 1254](https://ucc.ar/_clusters/ubc1254/)| 26 | 56.338 | 50.702 | 0.38 | 0.786 | -1.287 | -43.465 |
+|[CWNU 17](https://ucc.ar/_clusters/cwnu17/)| 41 | 56.339 | 50.733 | 0.342 | 0.791 | -1.253 | -17.947 |
 |[OC 0274](https://ucc.ar/_clusters/oc0274/)| 28 | 56.31 | 50.742 | 0.375 | 0.783 | -1.287 | -43.465 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=56.31,50.767" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.31%2050.767&output=json&radius=5&userEntry=cwwdl4657" target="_blank">Simbad</a></p>
@@ -77,4 +77,4 @@ title:  CWWDL 4657
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.15, Z=-0.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

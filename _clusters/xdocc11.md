@@ -56,8 +56,7 @@ title:  XDOCC-11
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LP 53A](https://ucc.ar/_clusters/lp53a/)| 48 | 317.693 | 47.695 | 0.238 | -3.481 | -4.147 | -88.975 |
-|[UBC 380](https://ucc.ar/_clusters/ubc380/)| 65 | 317.735 | 47.704 | 0.451 | -0.991 | -1.785 | -22.297 |
+|[UBC 380](https://ucc.ar/_clusters/ubc380/)| 87 | 317.735 | 47.704 | 0.451 | -0.991 | -1.785 | -22.297 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.726,47.7" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.726%2047.7&output=json&radius=5&userEntry=xdocc11" target="_blank">Simbad</a></p>
 
@@ -76,4 +75,4 @@ title:  XDOCC-11
 | [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=1.37, Dist=1761.9, logAge=8.13` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

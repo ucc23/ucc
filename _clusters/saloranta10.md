@@ -57,8 +57,8 @@ title:  Saloranta 10
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 89](https://ucc.ar/_clusters/ubc89/)| 74 | 81.23 | 37.561 | 0.893 | 0.31 | -4.296 | 5.376 |
-|[COIN-Gaia 17](https://ucc.ar/_clusters/coingaia17/)| 83 | 81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
+|[UBC 89](https://ucc.ar/_clusters/ubc89/)| 90 | 81.23 | 37.561 | 0.893 | 0.31 | -4.296 | 5.376 |
+|[COIN-Gaia 17](https://ucc.ar/_clusters/coingaia17/)| 96 | 81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.227,37.558" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.227%2037.558&output=json&radius=5&userEntry=saloranta10" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Saloranta 10
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.11, d_pc=1066.97, logt=8.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

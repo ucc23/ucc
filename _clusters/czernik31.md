@@ -61,7 +61,7 @@ title:  Czernik 31
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0404](https://ucc.ar/_clusters/oc0404/)| 56 | 114.237 | -20.523 | 0.303 | -1.965 | 3.064 | 98.513 |
+|[OC 0404](https://ucc.ar/_clusters/oc0404/)| 99 | 114.237 | -20.523 | 0.303 | -1.965 | 3.064 | 98.513 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=114.237,-20.524" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=114.237%20-20.524&output=json&radius=5&userEntry=czernik31" target="_blank">Simbad</a></p>
 
@@ -84,4 +84,4 @@ title:  Czernik 31
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.3, d_pc=2958.8, logt=8.19` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

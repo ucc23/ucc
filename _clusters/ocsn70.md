@@ -57,7 +57,7 @@ title:  OCSN 70
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0356](https://ucc.ar/_clusters/oc0356/)| 77 | 85.359 | -9.502 | 2.262 | 0.531 | -1.214 | 17.232 |
+|[OC 0356](https://ucc.ar/_clusters/oc0356/)| 90 | 85.359 | -9.502 | 2.262 | 0.531 | -1.214 | 17.232 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.36,-9.468" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.36%20-9.468&output=json&radius=5&userEntry=ocsn70" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  OCSN 70
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.64, dm=9.98, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

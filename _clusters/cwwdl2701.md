@@ -56,7 +56,7 @@ title:  CWWDL 2701
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2661](https://ucc.ar/_clusters/cwnu2661/)| 51 | 122.51 | -29.847 | 0.204 | -2.801 | 2.63 | 58.825 |
+|[CWNU 2661](https://ucc.ar/_clusters/cwnu2661/)| 72 | 122.51 | -29.847 | 0.204 | -2.801 | 2.63 | 58.825 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=122.512,-29.844" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=122.512%20-29.844&output=json&radius=5&userEntry=cwwdl2701" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  CWWDL 2701
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.06, Z=0.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -51,13 +51,6 @@ title:  Bica 27
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 267.684 | -26.303 | -- | -- | -- | -- |
 | **UCC** |267.714 | -26.283 | 0.418 | -0.302 | -2.346 | 12.601 |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[DB 42](https://ucc.ar/_clusters/db42/)| 38 | 267.724 | -26.314 | 0.479 | -0.586 | -1.973 | 12.601 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.714,-26.283" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.714%20-26.283&output=json&radius=5&userEntry=bica27" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -69,4 +62,4 @@ title:  Bica 27
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,9 +56,9 @@ title:  CMa01
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 54](https://ucc.ar/_clusters/h21oc54/)| 37 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
-|[PHOC 4](https://ucc.ar/_clusters/phoc4/)| 54 | 106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
-|[HXHWL 54](https://ucc.ar/_clusters/hxhwl54/)| 56 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
+|[H21OC 54](https://ucc.ar/_clusters/h21oc54/)| 60 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
+|[PHOC 4](https://ucc.ar/_clusters/phoc4/)| 76 | 106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
+|[HXHWL 54](https://ucc.ar/_clusters/hxhwl54/)| 57 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.81,-7.684" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.81%20-7.684&output=json&radius=5&userEntry=cma01" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  CMa01
 | [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `Av=0.42;0.43, d_pc=1059;1015, logt=8.24;8.3, FeH=0.07;0.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

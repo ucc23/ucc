@@ -60,9 +60,9 @@ title:  COIN-Gaia 26
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 0988](https://ucc.ar/_clusters/lisc0988/)| 94 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
-|[CWWDL 3284](https://ucc.ar/_clusters/cwwdl3284/)| 93 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
-|[UBC 75](https://ucc.ar/_clusters/ubc75/)| 85 | 83.764 | 15.722 | 0.701 | 0.257 | -2.403 | 13.424 |
+|[LISC 0988](https://ucc.ar/_clusters/lisc0988/)| 99 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
+|[CWWDL 3284](https://ucc.ar/_clusters/cwwdl3284/)| 98 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
+|[UBC 75](https://ucc.ar/_clusters/ubc75/)| 98 | 83.764 | 15.722 | 0.701 | 0.257 | -2.403 | 13.424 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.765,15.721" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.765%2015.721&output=json&radius=5&userEntry=coingaia26" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  COIN-Gaia 26
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.45, d_pc=1329.46, logt=8.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,7 +58,7 @@ title:  Gulliver 17
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 301](https://ucc.ar/_clusters/teutsch301/)| 91 | 302.658 | 35.867 | 0.546 | -1.086 | -3.122 | 7.212 |
+|[Teutsch 301](https://ucc.ar/_clusters/teutsch301/)| 94 | 302.658 | 35.867 | 0.546 | -1.086 | -3.122 | 7.212 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.662,35.865" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.662%2035.865&output=json&radius=5&userEntry=gulliver17" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  Gulliver 17
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.1, d_pc=1729.86, logt=7.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

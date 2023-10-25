@@ -56,8 +56,8 @@ title:  XDOCC-5
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1995](https://ucc.ar/_clusters/hsc1995/)| 85 | 121.755 | -29.888 | 0.601 | -3.617 | 3.606 | 36.741 |
-|[OC 0433](https://ucc.ar/_clusters/oc0433/)| 76 | 121.755 | -29.888 | 0.601 | -3.619 | 3.604 | 36.741 |
+|[HSC 1995](https://ucc.ar/_clusters/hsc1995/)| 96 | 121.755 | -29.888 | 0.601 | -3.617 | 3.606 | 36.741 |
+|[OC 0433](https://ucc.ar/_clusters/oc0433/)| 96 | 121.755 | -29.888 | 0.601 | -3.619 | 3.604 | 36.741 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=121.757,-29.887" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=121.757%20-29.887&output=json&radius=5&userEntry=xdocc5" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  XDOCC-5
 | [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.24, Dist=1575.75, logAge=8.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

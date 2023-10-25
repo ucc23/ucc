@@ -60,7 +60,7 @@ title:  Teutsch 179
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14675](https://ucc.ar/_clusters/cwwdl14675/)| 91 | 276.588 | 26.413 | 2.879 | 0.568 | -5.374 | -19.35 |
+|[CWWDL 14675](https://ucc.ar/_clusters/cwwdl14675/)| 98 | 276.588 | 26.413 | 2.879 | 0.568 | -5.374 | -19.35 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.582,26.413" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.582%2026.413&output=json&radius=5&userEntry=teutsch179" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Teutsch 179
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.21, d_pc=341.57, logt=7.49` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -59,7 +59,7 @@ title:  Dolidze 35
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2630](https://ucc.ar/_clusters/cwnu2630/)| 30 | 291.356 | 11.629 | 0.401 | -2.076 | -4.244 | 58.55 |
+|[CWNU 2630](https://ucc.ar/_clusters/cwnu2630/)| 55 | 291.356 | 11.629 | 0.401 | -2.076 | -4.244 | 58.55 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=291.347,11.65" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=291.347%2011.65&output=json&radius=5&userEntry=dolidze35" target="_blank">Simbad</a></p>
 
@@ -81,4 +81,4 @@ title:  Dolidze 35
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.25, d_pc=2281.41, logt=7.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

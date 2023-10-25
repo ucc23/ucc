@@ -56,8 +56,8 @@ title:  UFMG 86
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 18](https://ucc.ar/_clusters/phoc18/)| 87 | 261.58 | -37.776 | 0.438 | 0.584 | -0.989 | -18.497 |
-|[CWWDL 1647](https://ucc.ar/_clusters/cwwdl1647/)| 77 | 261.58 | -37.775 | 0.438 | 0.583 | -0.988 | -18.497 |
+|[PHOC 18](https://ucc.ar/_clusters/phoc18/)| 96 | 261.58 | -37.776 | 0.438 | 0.584 | -0.989 | -18.497 |
+|[CWWDL 1647](https://ucc.ar/_clusters/cwwdl1647/)| 95 | 261.58 | -37.775 | 0.438 | 0.583 | -0.988 | -18.497 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=261.58,-37.775" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=261.58%20-37.775&output=json&radius=5&userEntry=ufmg86" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  UFMG 86
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=1.15, Dmod=10.8, logt=8.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

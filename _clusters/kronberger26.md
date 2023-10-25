@@ -52,6 +52,7 @@ title:  Kronberger 26
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 77.077 | 49.871 | -- | -- | -- | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 77.072 | 49.865 | 0.107 | 0.601 | -0.556 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 77.072 | 49.865 | 0.197 | 0.485 | -0.542 | -12.153 |
+|[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 77.07 | 49.862 | 0.19 | 0.477 | -0.513 | -15.73 |
 | **UCC** |77.079 | 49.865 | 0.195 | 0.455 | -0.52 | -15.734 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=77.079,49.865" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=77.079%2049.865&output=json&radius=5&userEntry=kronberger26" target="_blank">Simbad</a></p>
@@ -71,6 +72,7 @@ title:  Kronberger 26
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.18, distance=3900.0, log_age=8.9` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.54, Dist=4451.0, logage=8.41, [Fe/H]=-0.2` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.16, d_pc=4407.32, logt=8.63` |
+| [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.45, m-M=13.5, logA=8.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

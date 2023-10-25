@@ -57,8 +57,8 @@ title:  UBC 72
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2143](https://ucc.ar/_clusters/fof2143/)| 93 | 90.975 | 26.638 | 0.531 | 0.302 | -0.031 | 29.57 |
-|[CWWDL 2646](https://ucc.ar/_clusters/cwwdl2646/)| 80 | 90.984 | 26.641 | 0.531 | 0.295 | -0.034 | 29.794 |
+|[FoF 2143](https://ucc.ar/_clusters/fof2143/)| 96 | 90.975 | 26.638 | 0.531 | 0.302 | -0.031 | 29.57 |
+|[CWWDL 2646](https://ucc.ar/_clusters/cwwdl2646/)| 95 | 90.984 | 26.641 | 0.531 | 0.295 | -0.034 | 29.794 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=90.986,26.638" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=90.986%2026.638&output=json&radius=5&userEntry=ubc72" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  UBC 72
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.97, DMNN=11.41, AgeNN=8.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

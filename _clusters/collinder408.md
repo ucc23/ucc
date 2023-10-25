@@ -62,7 +62,7 @@ title:  Collinder 408
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 362](https://ucc.ar/_clusters/ubc362/)| 94 | 298.328 | 18.353 | 0.444 | -1.75 | -4.496 | 7.347 |
+|[UBC 362](https://ucc.ar/_clusters/ubc362/)| 100 | 298.328 | 18.353 | 0.444 | -1.75 | -4.496 | 7.347 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=298.32,18.353" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.32%2018.353&output=json&radius=5&userEntry=collinder408" target="_blank">Simbad</a></p>
 
@@ -85,4 +85,4 @@ title:  Collinder 408
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.77, d_pc=2144.54, logt=8.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

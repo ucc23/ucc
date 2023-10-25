@@ -57,7 +57,7 @@ title:  PHOC 22
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 472](https://ucc.ar/_clusters/cwwdl472/)| 83 | 144.082 | -56.583 | 0.363 | -5.56 | 5.247 | 15.206 |
+|[CWWDL 472](https://ucc.ar/_clusters/cwwdl472/)| 89 | 144.082 | -56.583 | 0.363 | -5.56 | 5.247 | 15.206 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=144.053,-56.583" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=144.053%20-56.583&output=json&radius=5&userEntry=phoc22" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  PHOC 22
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.64, d_pc=2508.42, logt=8.75` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

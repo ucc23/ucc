@@ -57,7 +57,7 @@ title:  HXHWL 49
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1277](https://ucc.ar/_clusters/ubc1277/)| 75 | 77.716 | 36.358 | 0.638 | 1.101 | -4.048 | -- |
+|[UBC 1277](https://ucc.ar/_clusters/ubc1277/)| 86 | 77.716 | 36.358 | 0.638 | 1.101 | -4.048 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=77.708,36.369" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=77.708%2036.369&output=json&radius=5&userEntry=hxhwl49" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  HXHWL 49
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.04, d_pc=1466.59, logt=8.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

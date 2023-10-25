@@ -58,7 +58,7 @@ title:  Gulliver 22
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1428](https://ucc.ar/_clusters/hsc1428/)| 55 | 84.81 | 26.341 | 1.404 | -1.54 | -4.68 | 19.696 |
+|[HSC 1428](https://ucc.ar/_clusters/hsc1428/)| 78 | 84.81 | 26.341 | 1.404 | -1.54 | -4.68 | 19.696 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=84.842,26.362" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=84.842%2026.362&output=json&radius=5&userEntry=gulliver22" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Gulliver 22
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.75, d_pc=733.14, logt=7.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

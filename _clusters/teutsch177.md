@@ -57,7 +57,7 @@ title:  Teutsch 177
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 216](https://ucc.ar/_clusters/ubc216/)| 76 | 100.389 | -5.769 | 0.84 | -0.075 | -0.863 | 10.742 |
+|[UBC 216](https://ucc.ar/_clusters/ubc216/)| 84 | 100.389 | -5.769 | 0.84 | -0.075 | -0.863 | 10.742 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=100.393,-5.781" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=100.393%20-5.781&output=json&radius=5&userEntry=teutsch177" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  Teutsch 177
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.73, d_pc=1133.65, logt=8.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -56,7 +56,8 @@ title:  CWWDL 1713
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 178](https://ucc.ar/_clusters/hsc178/)| 86 | 274.407 | -16.364 | 0.324 | -0.539 | -1.035 | 41.029 |
+|[CWNU_3264](https://ucc.ar/_clusters/cwnu3264/)| 98 | 274.408 | -16.365 | 0.322 | -0.544 | -1.034 | 40.275 |
+|[HSC 178](https://ucc.ar/_clusters/hsc178/)| 97 | 274.407 | -16.364 | 0.324 | -0.539 | -1.035 | 41.029 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=274.408,-16.365" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=274.408%20-16.365&output=json&radius=5&userEntry=cwwdl1713" target="_blank">Simbad</a></p>
 
@@ -75,4 +76,4 @@ title:  CWWDL 1713
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.52, Z=-0.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

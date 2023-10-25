@@ -57,8 +57,8 @@ title:  PHOC 41
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gaia 8](https://ucc.ar/_clusters/gaia8/)| 92 | 282.531 | 33.388 | 3.458 | 1.809 | -3.87 | -18.689 |
-|[CWWL 3595](https://ucc.ar/_clusters/cwwl3595/)| 90 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
+|[Gaia 8](https://ucc.ar/_clusters/gaia8/)| 100 | 282.531 | 33.388 | 3.458 | 1.809 | -3.87 | -18.689 |
+|[CWWL 3595](https://ucc.ar/_clusters/cwwl3595/)| 98 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.524,33.388" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.524%2033.388&output=json&radius=5&userEntry=phoc41" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  PHOC 41
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.55, logt=7.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

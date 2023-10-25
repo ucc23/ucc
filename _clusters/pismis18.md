@@ -55,6 +55,13 @@ title:  Pismis 18
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 204.227 | -62.091 | 0.347 | -5.692 | -2.269 | -27.593 |
 | **UCC** |204.227 | -62.092 | 0.346 | -5.702 | -2.274 | -28.233 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[ESO 132 14](https://ucc.ar/_clusters/eso13214/)| 56 | 204.19 | -62.152 | 0.355 | -5.706 | -2.29 | -26.014 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=204.227,-62.092" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=204.227%20-62.092&output=json&radius=5&userEntry=pismis18" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -75,4 +82,4 @@ title:  Pismis 18
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.4, d_pc=2598.11, logt=8.51` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

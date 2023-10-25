@@ -55,13 +55,6 @@ title:  Kronberger 29
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 301.833 | 35.585 | -- | -- | -- | -- |
 | **UCC** |301.836 | 35.589 | 0.25 | -2.747 | -5.135 | -- |
 
-
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
-
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0102](https://ucc.ar/_clusters/oc0102/)| 79 | 301.831 | 35.579 | 0.537 | -3.296 | -6.981 | -27.24 |
-
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.836,35.589" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.836%2035.589&output=json&radius=5&userEntry=kronberger29" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -73,4 +66,4 @@ title:  Kronberger 29
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

@@ -58,7 +58,7 @@ title:  Casado 15
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 8368](https://ucc.ar/_clusters/cwwdl8368/)| 70 | 3.257 | 62.473 | 0.322 | -2.117 | -0.939 | -- |
-|[OC 0220](https://ucc.ar/_clusters/oc0220/)| 81 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
+|[OC 0220](https://ucc.ar/_clusters/oc0220/)| 100 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=3.263,62.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.263%2062.473&output=json&radius=5&userEntry=casado15" target="_blank">Simbad</a></p>
 
@@ -78,4 +78,4 @@ title:  Casado 15
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.99, d_pc=2946.29, logt=7.93` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>

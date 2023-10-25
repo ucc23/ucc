@@ -60,7 +60,7 @@ title:  CWWDL 9197
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2487](https://ucc.ar/_clusters/cwnu2487/)| 40 | 165.699 | -59.793 | 0.381 | -6.166 | 1.387 | -- |
+|[CWNU 2487](https://ucc.ar/_clusters/cwnu2487/)| 54 | 165.699 | -59.793 | 0.381 | -6.166 | 1.387 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=165.706,-59.77" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=165.706%20-59.77&output=json&radius=5&userEntry=cwwdl9197" target="_blank">Simbad</a></p>
 
@@ -79,4 +79,4 @@ title:  CWWDL 9197
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.23, Z=0.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
