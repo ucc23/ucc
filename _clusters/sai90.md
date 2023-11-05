@@ -50,7 +50,7 @@ title:  SAI 90
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 127.023 | -41.77 | -- | -3.79 | 6.32 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 126.997 | -41.767 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 127.026 | -41.754 | 0.418 | -4.822 | 4.335 | 14.297 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 127.026 | -41.754 | 0.418 | -4.822 | 4.335 | 14.297 |
 | **UCC** |127.022 | -41.75 | 0.412 | -4.85 | 4.324 | 69.809 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=127.022,-41.75" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=127.022%20-41.75&output=json&radius=5&userEntry=sai90" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  SAI 90
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.04, distance=3112.0, log_age=9.11` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.72, d_pc=2207.84, logt=7.13` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.72, MOD50=11.72, logAge50=7.13` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

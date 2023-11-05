@@ -49,10 +49,10 @@ title:  PHOC 34
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 86.05 | 30.07 | 0.512 | 1.504 | -2.227 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 85.962 | 30.091 | 0.551 | 1.447 | -2.214 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 85.962 | 30.091 | 0.551 | 1.447 | -2.214 | -- |
 | **UCC** |85.989 | 30.079 | 0.546 | 1.503 | -2.185 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.989,30.079" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.989%2030.079&output=json&radius=5&userEntry=phoc34" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.989,+30.079" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.989%2030.079&output=json&radius=5&userEntry=phoc34" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -66,7 +66,7 @@ title:  PHOC 34
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.76, d_pc=1707.29, logt=8.33` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.76, MOD50=11.15, logAge50=8.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

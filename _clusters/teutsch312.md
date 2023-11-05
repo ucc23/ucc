@@ -49,10 +49,10 @@ title:  Teutsch 312
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 315.431 | 29.651 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 315.437 | 29.651 | 1.157 | 0.994 | -4.745 | -9.22 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 315.437 | 29.651 | 1.157 | 0.994 | -4.745 | -9.22 |
 | **UCC** |315.434 | 29.616 | 1.178 | 0.98 | -4.811 | -9.925 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=315.434,29.616" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=315.434%2029.616&output=json&radius=5&userEntry=teutsch312" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=315.434,+29.616" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=315.434%2029.616&output=json&radius=5&userEntry=teutsch312" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -66,7 +66,7 @@ title:  Teutsch 312
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.19, d_pc=840.56, logt=7.46` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.19, MOD50=9.61, logAge50=7.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  Desvoivres 2
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 99.999 | 6.0 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 99.98 | 6.037 | 0.641 | -1.518 | 0.944 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 99.98 | 6.037 | 0.641 | -1.518 | 0.944 | -- |
 | **UCC** |99.957 | 6.062 | 0.649 | -1.542 | 0.959 | -- |
 
 
@@ -57,9 +57,9 @@ title:  Desvoivres 2
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3776](https://ucc.ar/_clusters/cwnu3776/)| 96 | 99.967 | 6.058 | 0.648 | -1.537 | 0.959 | -- |
+|[CWNU 3776](https://ucc.ar/_clusters/cwnu3776/)| 96 | 99.967 | 6.058 | 0.648 | -1.537 | 0.959 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=99.957,6.062" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.957%206.062&output=json&radius=5&userEntry=desvoivres2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=99.957,+6.062" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.957%206.062&output=json&radius=5&userEntry=desvoivres2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Desvoivres 2
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.28, d_pc=1429.01, logt=7.92` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.28, MOD50=10.79, logAge50=7.92` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -51,7 +51,7 @@ title:  LISC-III 3434
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | 94.823 | 30.189 | 0.924 | 0.853 | -4.916 | -- |
 | **UCC** |94.805 | 30.319 | 0.859 | 0.828 | -4.797 | 1.395 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=94.805,30.319" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=94.805%2030.319&output=json&radius=5&userEntry=lisciii3434" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=94.805,+30.319" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=94.805%2030.319&output=json&radius=5&userEntry=lisciii3434" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -68,4 +68,4 @@ title:  LISC-III 3434
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | `Evi=1.0, dm=12.39, Z=0.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -56,7 +56,7 @@ title:  Teutsch 69
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3313](https://ucc.ar/_clusters/cwnu3313/)| 73 | 151.388 | -61.042 | 0.087 | -3.644 | 2.333 | -- |
+|[CWNU 3313](https://ucc.ar/_clusters/cwnu3313/)| 73 | 151.388 | -61.042 | 0.087 | -3.644 | 2.333 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=151.383,-61.042" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=151.383%20-61.042&output=json&radius=5&userEntry=teutsch69" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 69
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

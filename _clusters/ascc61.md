@@ -50,7 +50,7 @@ title:  ASCC 61
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 161.542 | -56.84 | -- | -2.76 | 3.12 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 161.536 | -56.858 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 161.59 | -57.045 | 0.333 | -7.962 | 3.608 | -19.789 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 161.59 | -57.045 | 0.333 | -7.962 | 3.608 | -19.789 |
 | **UCC** |161.568 | -57.013 | 0.336 | -7.971 | 3.609 | -20.986 |
 
 
@@ -75,7 +75,7 @@ title:  ASCC 61
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.22, distance=1702.0, log_age=7.67` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.5, d_pc=2719.72, logt=9.08` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.5, MOD50=12.24, logAge50=9.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

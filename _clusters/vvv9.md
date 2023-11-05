@@ -56,7 +56,7 @@ title:  VVV 9
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_4369](https://ucc.ar/_clusters/cwnu4369/)| 56 | 179.021 | -63.316 | 0.108 | -5.814 | 1.034 | 101.285 |
+|[CWNU 4369](https://ucc.ar/_clusters/cwnu4369/)| 56 | 179.021 | -63.316 | 0.108 | -5.814 | 1.034 | 101.285 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=179.018,-63.315" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=179.018%20-63.315&output=json&radius=5&userEntry=vvv9" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  VVV 9
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

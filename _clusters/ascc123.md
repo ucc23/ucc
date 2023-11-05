@@ -54,7 +54,14 @@ title:  ASCC 123
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 340.612 | 54.11 | 4.308 | 12.345 | -1.525 | -- |
 | **UCC** |340.275 | 54.027 | 4.301 | 12.233 | -1.49 | -5.564 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=340.275,54.027" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=340.275%2054.027&output=json&radius=5&userEntry=ascc123" target="_blank">Simbad</a></p>
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 117](https://ucc.ar/_clusters/theia117/)| 68 | 340.367 | 53.905 | 4.332 | 12.328 | -1.628 | -3.954 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=340.275,+54.027" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=340.275%2054.027&output=json&radius=5&userEntry=ascc123" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,7 +77,7 @@ title:  ASCC 123
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.0, DMNN=6.81, AgeNN=7.65` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.31, Dist=233.0, logage=7.79, [Fe/H]=-0.01` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.5, logt=7.7` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.5, logAge=7.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

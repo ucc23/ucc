@@ -52,7 +52,7 @@ title:  HSC 27
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 267.273 | -26.63 | 0.969 | 0.122 | -5.789 | -32.39 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 267.273 | -26.63 | 0.969 | 0.122 | -5.789 | -32.39 |
 | **UCC** |267.242 | -26.619 | 0.968 | -0.08 | -5.736 | -10.726 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.242,-26.619" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.242%20-26.619&output=json&radius=5&userEntry=hsc27" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  HSC 27
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.84, d_pc=1011.38, logt=8.7` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.84, MOD50=9.98, logAge50=8.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

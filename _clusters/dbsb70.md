@@ -49,7 +49,7 @@ title:  DBSB 70
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 177.135 | -62.285 | -- | -7.65 | -2.9 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 177.13 | -62.317 | 0.923 | -8.321 | 0.949 | -6.259 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 177.13 | -62.317 | 0.923 | -8.321 | 0.949 | -6.259 |
 | **UCC** |177.055 | -62.337 | 0.918 | -8.353 | 0.893 | 1.461 |
 
 
@@ -74,7 +74,7 @@ title:  DBSB 70
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.54, distance=1274.0, log_age=7.7` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.79, d_pc=1025.84, logt=7.69` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.79, MOD50=10.02, logAge50=7.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

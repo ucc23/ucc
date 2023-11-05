@@ -58,7 +58,7 @@ title:  UBC 43
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[COIN-Gaia 6](https://ucc.ar/_clusters/coingaia6/)| 90 | 28.1 | 58.642 | 0.296 | -2.355 | -0.466 | -42.396 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.103,58.634" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.103%2058.634&output=json&radius=5&userEntry=ubc43" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.103,+58.634" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.103%2058.634&output=json&radius=5&userEntry=ubc43" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  UBC 43
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

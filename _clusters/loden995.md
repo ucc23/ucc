@@ -50,7 +50,7 @@ title:  Loden 995
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 208.575 | -64.95 | -- | -4.7 | 0.05 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 207.846 | -64.844 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 208.941 | -64.949 | 0.959 | -6.328 | -3.994 | -6.863 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 208.941 | -64.949 | 0.959 | -6.328 | -3.994 | -6.863 |
 | **UCC** |208.891 | -64.958 | 0.96 | -6.346 | -4.031 | -7.331 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=208.891,-64.958" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=208.891%20-64.958&output=json&radius=5&userEntry=loden995" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  Loden 995
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.46, distance=1481.0, log_age=8.62, metallicity=-0.13` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.79, d_pc=996.21, logt=8.59` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.79, MOD50=9.98, logAge50=8.59` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

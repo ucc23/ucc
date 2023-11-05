@@ -49,7 +49,7 @@ title:  UFMG 92
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | 269.039 | -29.494 | 0.39 | -0.094 | -0.458 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 269.019 | -29.511 | 0.39 | -0.096 | -0.484 | -1.412 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 269.019 | -29.511 | 0.39 | -0.096 | -0.484 | -1.412 |
 | **UCC** |269.021 | -29.508 | 0.382 | -0.081 | -0.48 | -18.645 |
 
 
@@ -75,7 +75,7 @@ title:  UFMG 92
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.7, Dmod=10.95, logt=8.35` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.31, d_pc=2326.14, logt=7.61` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.31, MOD50=11.89, logAge50=7.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

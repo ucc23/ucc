@@ -51,7 +51,7 @@ title:  Teutsch 14a
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 270.872 | -22.117 | -- | 5.5 | -5.09 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 270.877 | -22.119 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 270.873 | -22.12 | 0.343 | -0.369 | -1.611 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 270.878 | -22.126 | 0.3 | -0.351 | -1.636 | 75.048 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 270.878 | -22.126 | 0.3 | -0.351 | -1.636 | 75.048 |
 | **UCC** |270.872 | -22.129 | 0.315 | -0.356 | -1.663 | 20.874 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=270.872,-22.129" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.872%20-22.129&output=json&radius=5&userEntry=teutsch14a" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Teutsch 14a
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.5, distance=2106.0, log_age=8.48` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.85, d_pc=2794.49, logt=7.71` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.85, MOD50=12.26, logAge50=7.71` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

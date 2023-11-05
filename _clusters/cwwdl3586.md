@@ -56,6 +56,7 @@ title:  CWWDL 3586
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 1079](https://ucc.ar/_clusters/theia1079/)| 88 | 124.407 | -42.583 | 0.661 | -4.768 | 5.141 | 27.369 |
 |[UBC 479](https://ucc.ar/_clusters/ubc479/)| 64 | 124.505 | -42.595 | 0.66 | -4.772 | 5.139 | 29.033 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=124.437,-42.582" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.437%20-42.582&output=json&radius=5&userEntry=cwwdl3586" target="_blank">Simbad</a></p>
@@ -75,4 +76,4 @@ title:  CWWDL 3586
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=6.26, Z=0.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

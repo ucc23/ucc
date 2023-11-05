@@ -53,7 +53,7 @@ title:  Trumpler 29
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 265.347 | -40.158 | 0.673 | 0.489 | -2.308 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 265.359 | -40.169 | 0.673 | 0.478 | -2.315 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 265.345 | -40.108 | 0.668 | 0.447 | -2.358 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 265.355 | -40.147 | 0.683 | 0.448 | -2.347 | -34.763 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 265.355 | -40.147 | 0.683 | 0.448 | -2.347 | -34.763 |
 | **UCC** |265.354 | -40.149 | 0.683 | 0.452 | -2.35 | -25.159 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=265.354,-40.149" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=265.354%20-40.149&output=json&radius=5&userEntry=trumpler29" target="_blank">Simbad</a></p>
@@ -73,8 +73,8 @@ title:  Trumpler 29
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=1096.0, log_age=8.69` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.72, DMNN=10.86, AgeNN=7.71` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.93, Dist=1353.0, logage=7.73, [Fe/H]=0.19` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1450.0, logt=7.72` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.71, d_pc=1384.74, logt=8.12` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1450.0, logAgeNN=7.72` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.71, MOD50=10.69, logAge50=8.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -53,7 +53,7 @@ title:  Saurer 6
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 297.755 | 32.244 | 0.073 | -2.548 | -4.057 | -80.41 |
 | **UCC** |297.756 | 32.241 | 0.08 | -2.539 | -4.048 | -85.376 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=297.756,32.241" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=297.756%2032.241&output=json&radius=5&userEntry=saurer6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=297.756,+32.241" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=297.756%2032.241&output=json&radius=5&userEntry=saurer6" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,4 +71,4 @@ title:  Saurer 6
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=2.9, m-M=14.7, logA=9.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

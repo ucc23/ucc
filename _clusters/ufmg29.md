@@ -52,6 +52,13 @@ title:  UFMG 29
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 258.818 | -36.582 | 0.584 | -0.978 | 0.522 | -- |
 | **UCC** |258.814 | -36.581 | 0.637 | -1.027 | 0.525 | -37.041 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 1777](https://ucc.ar/_clusters/theia1777/)| 96 | 258.814 | -36.581 | 0.637 | -1.027 | 0.524 | -37.041 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=258.814,-36.581" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=258.814%20-36.581&output=json&radius=5&userEntry=ufmg29" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -70,4 +77,4 @@ title:  UFMG 29
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.35, Dist=1564.0, logage=8.35, [Fe/H]=0.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

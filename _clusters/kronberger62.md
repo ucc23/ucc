@@ -55,7 +55,7 @@ title:  Kronberger 62
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 298.435 | 35.426 | -- | -- | -- | -- |
 | **UCC** |298.413 | 35.425 | 0.102 | -2.371 | -3.973 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=298.413,35.425" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.413%2035.425&output=json&radius=5&userEntry=kronberger62" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=298.413,+35.425" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.413%2035.425&output=json&radius=5&userEntry=kronberger62" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -66,4 +66,4 @@ title:  Kronberger 62
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

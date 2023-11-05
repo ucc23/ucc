@@ -49,7 +49,7 @@ title:  DBSB 36
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 139.2 | -47.945 | -- | -5.36 | 6.99 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 139.188 | -47.95 | 0.583 | -5.128 | 4.203 | 93.615 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 139.188 | -47.95 | 0.583 | -5.128 | 4.203 | 93.615 |
 | **UCC** |139.202 | -47.959 | 0.574 | -5.178 | 4.236 | 93.608 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=139.202,-47.959" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=139.202%20-47.959&output=json&radius=5&userEntry=dbsb36" target="_blank">Simbad</a></p>
@@ -67,7 +67,7 @@ title:  DBSB 36
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.27, distance=748.0, log_age=7.5` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.24, d_pc=1562.91, logt=7.99` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=5.24, MOD50=11.03, logAge50=7.99` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

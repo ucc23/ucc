@@ -50,7 +50,7 @@ title:  Collinder 333
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 262.905 | -34.01 | -- | 0.71 | -2.25 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 262.869 | -34.023 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 262.788 | -33.998 | 0.398 | 0.023 | -1.103 | 64.058 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 262.788 | -33.998 | 0.398 | 0.023 | -1.103 | 64.058 |
 | **UCC** |262.866 | -34.003 | 0.386 | 0.043 | -1.092 | -40.35 |
 
 
@@ -75,7 +75,7 @@ title:  Collinder 333
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.06, distance=1051.0, log_age=8.15` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.7, d_pc=2295.58, logt=6.67` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.7, MOD50=11.85, logAge50=6.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

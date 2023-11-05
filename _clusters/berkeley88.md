@@ -56,9 +56,9 @@ title:  Berkeley 88
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3863](https://ucc.ar/_clusters/cwnu3863/)| 94 | 305.301 | 48.141 | 0.141 | -3.936 | -4.629 | -68.738 |
+|[CWNU 3863](https://ucc.ar/_clusters/cwnu3863/)| 94 | 305.301 | 48.141 | 0.141 | -3.936 | -4.629 | -68.738 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.305,48.143" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.305%2048.143&output=json&radius=5&userEntry=berkeley88" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.305,+48.143" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.305%2048.143&output=json&radius=5&userEntry=berkeley88" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  Berkeley 88
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.21, distance=5038.0, log_age=8.81` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

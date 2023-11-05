@@ -49,7 +49,7 @@ title:  HXHWL 37
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 277.881 | -11.485 | 0.92 | -0.06 | -3.05 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 277.94 | -11.46 | 0.893 | -0.012 | -3.076 | 23.337 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 277.94 | -11.46 | 0.893 | -0.012 | -3.076 | 23.337 |
 | **UCC** |277.877 | -11.521 | 0.912 | -0.004 | -3.093 | 19.004 |
 
 
@@ -73,8 +73,8 @@ title:  HXHWL 37
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.4, dm=9.9, logt=8.82, Z=0.02` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.89, d_pc=1075.16, logt=8.24` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.4, m-M=9.9, logAge=8.82, Z=0.02` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.89, MOD50=10.13, logAge50=8.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

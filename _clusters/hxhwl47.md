@@ -49,7 +49,7 @@ title:  HXHWL 47
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 239.039 | -55.236 | 0.57 | -3.95 | -5.16 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 239.027 | -55.25 | 0.587 | -3.994 | -5.164 | -50.058 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 239.027 | -55.25 | 0.587 | -3.994 | -5.164 | -50.058 |
 | **UCC** |239.046 | -55.207 | 0.581 | -3.988 | -5.148 | -49.324 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=239.046,-55.207" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=239.046%20-55.207&output=json&radius=5&userEntry=hxhwl47" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  HXHWL 47
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=2.0, dm=10.6, logt=8.78, Z=0.02` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.5, d_pc=1607.21, logt=8.32` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=2.0, m-M=10.6, logAge=8.78, Z=0.02` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.5, MOD50=11.03, logAge50=8.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

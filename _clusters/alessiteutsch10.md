@@ -49,7 +49,7 @@ title:  Alessi Teutsch10
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 56.115 | 29.667 | -- | 1.991 | -5.918 | 26.07 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
 | **UCC** |56.32 | 29.735 | 2.519 | 2.529 | -5.297 | 19.757 |
 
 
@@ -60,7 +60,7 @@ title:  Alessi Teutsch10
 |[UBC 19](https://ucc.ar/_clusters/ubc19/)| 48 | 56.398 | 29.848 | 2.468 | 2.668 | -5.235 | 16.344 |
 |[OC 0278](https://ucc.ar/_clusters/oc0278/)| 89 | 56.362 | 29.761 | 2.514 | 2.512 | -5.344 | 34.266 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=56.32,29.735" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.32%2029.735&output=json&radius=5&userEntry=alessiteutsch10" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=56.32,+29.735" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.32%2029.735&output=json&radius=5&userEntry=alessiteutsch10" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,7 +75,7 @@ title:  Alessi Teutsch10
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.42, Dmod=12.74, logt=9.36` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.66, d_pc=392.6, logt=6.53` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.66, MOD50=7.92, logAge50=6.53` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

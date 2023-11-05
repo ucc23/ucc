@@ -55,7 +55,7 @@ title:  Dolidze 56
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 331.027 | 59.9 | -- | -2.78 | -1.0 | -- |
 | **UCC** |331.03 | 59.903 | 0.159 | -2.339 | -1.688 | -81.314 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=331.03,59.903" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=331.03%2059.903&output=json&radius=5&userEntry=dolidze56" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=331.03,+59.903" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=331.03%2059.903&output=json&radius=5&userEntry=dolidze56" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,4 +72,4 @@ title:  Dolidze 56
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.0, distance=7000.0, log_age=8.95` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

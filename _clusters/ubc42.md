@@ -60,7 +60,7 @@ title:  UBC 42
 |[CWWDL 594](https://ucc.ar/_clusters/cwwdl594/)| 38 | 26.116 | 58.763 | 0.486 | -0.978 | -1.124 | -33.425 |
 |[OC 0239](https://ucc.ar/_clusters/oc0239/)| 43 | 26.12 | 58.763 | 0.488 | -0.976 | -1.123 | -33.425 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=26.132,58.732" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=26.132%2058.732&output=json&radius=5&userEntry=ubc42" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=26.132,+58.732" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=26.132%2058.732&output=json&radius=5&userEntry=ubc42" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,4 +71,4 @@ title:  UBC 42
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  Ruprecht 166
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 201.403 | -63.449 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 201.399 | -63.459 | 0.119 | -6.948 | -1.136 | -33.78 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 201.399 | -63.459 | 0.119 | -6.948 | -1.136 | -33.78 |
 | **UCC** |201.424 | -63.454 | 0.124 | -6.952 | -1.147 | -34.096 |
 
 
@@ -73,7 +73,7 @@ title:  Ruprecht 166
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.1, d_pc=6319.38, logt=7.05` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.1, MOD50=14.42, logAge50=7.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

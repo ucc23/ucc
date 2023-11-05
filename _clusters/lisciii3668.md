@@ -48,8 +48,8 @@ title:  LISC-III 3668
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 120.112 | -44.189 | 1.702 | -6.251 | 7.335 | 25.371 |
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | 120.166 | -45.397 | 1.794 | -6.223 | 7.063 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 120.112 | -44.189 | 1.702 | -6.251 | 7.335 | 25.371 |
 | **UCC** |120.13 | -44.293 | 1.731 | -6.225 | 7.3 | 28.807 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=120.13,-44.293" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.13%20-44.293&output=json&radius=5&userEntry=lisciii3668" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  LISC-III 3668
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.16, d_pc=573.62, logt=7.46` |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | `Evi=0.01, dm=8.9, Z=0.02` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.16, MOD50=8.76, logAge50=7.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

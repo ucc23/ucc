@@ -51,7 +51,7 @@ title:  Ivanov 8
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 124.791 | -35.65 | -- | -3.0 | 4.02 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 124.79 | -35.648 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 124.794 | -35.658 | 0.088 | -2.375 | 3.543 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 124.788 | -35.654 | 0.182 | -2.325 | 3.617 | 80.653 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 124.788 | -35.654 | 0.182 | -2.325 | 3.617 | 80.653 |
 | **UCC** |124.787 | -35.657 | 0.157 | -2.375 | 3.567 | 85.584 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=124.787,-35.657" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.787%20-35.657&output=json&radius=5&userEntry=ivanov8" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Ivanov 8
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.48, distance=1194.0, log_age=7.8` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.75, d_pc=4507.13, logt=8.77` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.75, MOD50=13.38, logAge50=8.77` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

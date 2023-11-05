@@ -51,7 +51,7 @@ title:  Ruprecht 78
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 142.26 | -53.71 | -- | -10.0 | 5.4 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 142.29 | -53.699 | -- | -9.771 | -1.719 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 142.282 | -53.696 | 0.097 | -3.892 | 3.252 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 142.28 | -53.699 | 0.118 | -3.838 | 3.333 | 77.819 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 142.28 | -53.699 | 0.118 | -3.838 | 3.333 | 77.819 |
 | **UCC** |142.28 | -53.696 | 0.123 | -3.877 | 3.31 | 50.541 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=142.28,-53.696" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=142.28%20-53.696&output=json&radius=5&userEntry=ruprecht78" target="_blank">Simbad</a></p>
@@ -70,7 +70,7 @@ title:  Ruprecht 78
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.44, distance=1706.0, log_age=7.25` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.35, Dmod=11.19, logt=8.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.39, d_pc=6598.22, logt=7.33` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.39, MOD50=14.51, logAge50=7.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

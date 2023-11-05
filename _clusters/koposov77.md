@@ -52,7 +52,7 @@ title:  Koposov 77
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 85.96 | 21.712 | -- | -- | -- | -- |
 | **UCC** |85.994 | 21.704 | 0.183 | 0.53 | -0.606 | 17.222 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.994,21.704" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.994%2021.704&output=json&radius=5&userEntry=koposov77" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.994,+21.704" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.994%2021.704&output=json&radius=5&userEntry=koposov77" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  Koposov 77
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.57, distance=1750.0, log_age=9.45` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

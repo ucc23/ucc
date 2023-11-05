@@ -59,6 +59,7 @@ title:  Gulliver 6
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 17 b](https://ucc.ar/_clusters/ubc17b/)| 87 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
+|[Theia 13](https://ucc.ar/_clusters/theia13/)| 92 | 83.225 | -1.662 | 2.405 | 0.047 | -0.225 | 28.049 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.265,-1.659" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.265%20-1.659&output=json&radius=5&userEntry=gulliver6" target="_blank">Simbad</a></p>
 
@@ -76,7 +77,7 @@ title:  Gulliver 6
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.25, DMNN=8.03, AgeNN=7.22` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.39, Dist=413.0, logage=7.13, [Fe/H]=-0.1` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logt=7.15` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logAge=7.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

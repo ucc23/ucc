@@ -49,7 +49,7 @@ title:  CWNU 101
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 278.872 | -9.788 | 0.93 | -0.26 | -5.57 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 278.873 | -9.783 | 0.952 | -0.302 | -5.573 | 16.127 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 278.873 | -9.783 | 0.952 | -0.302 | -5.573 | 16.127 |
 | **UCC** |278.875 | -9.786 | 0.948 | -0.273 | -5.559 | -0.965 |
 
 
@@ -73,8 +73,8 @@ title:  CWNU 101
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.4, dm=10.25, logt=6.5, Z=0.03` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.72, d_pc=1024.03, logt=7.69` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.4, m-M=10.25, logAge=6.5, Z=0.03` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.72, MOD50=10.07, logAge50=7.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -52,7 +52,7 @@ title:  Trumpler 16
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 161.253 | -59.7 | 0.389 | -6.864 | 2.509 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 161.25 | -59.694 | 0.39 | -6.903 | 2.521 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 161.236 | -59.708 | 0.416 | -6.88 | 2.556 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 161.265 | -59.697 | 0.402 | -6.908 | 2.606 | -2.885 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 161.265 | -59.697 | 0.402 | -6.908 | 2.606 | -2.885 |
 | **UCC** |161.242 | -59.718 | 0.399 | -6.923 | 2.6 | 12.555 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=161.242,-59.718" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=161.242%20-59.718&output=json&radius=5&userEntry=trumpler16" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Trumpler 16
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.54, Dmod=12.27, logt=6.78` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.16, DMNN=11.62, AgeNN=7.13` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.51, Dist=2077.0, logage=6.68, [Fe/H]=0.35` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.67, d_pc=2296.98, logt=6.79` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.67, MOD50=11.89, logAge50=6.79` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

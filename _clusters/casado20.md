@@ -49,7 +49,7 @@ title:  Casado 20
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | 348.043 | 56.826 | 0.52 | -3.3 | -2.6 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 348.06 | 56.818 | 0.517 | -3.283 | -2.675 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 348.06 | 56.818 | 0.517 | -3.283 | -2.675 | -- |
 | **UCC** |348.059 | 56.81 | 0.511 | -3.294 | -2.679 | -- |
 
 
@@ -59,7 +59,7 @@ title:  Casado 20
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OC 0199](https://ucc.ar/_clusters/oc0199/)| 95 | 348.066 | 56.809 | 0.51 | -3.295 | -2.674 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=348.059,56.81" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.059%2056.81&output=json&radius=5&userEntry=casado20" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=348.059,+56.81" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.059%2056.81&output=json&radius=5&userEntry=casado20" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Casado 20
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | `d_kpc=1.8` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.01, d_pc=1865.22, logt=8.54` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.01, MOD50=11.33, logAge50=8.54` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -52,7 +52,7 @@ title:  Trumpler 12
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 151.618 | -60.289 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 151.621 | -60.29 | 0.253 | -6.913 | 4.463 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 151.622 | -60.29 | 0.255 | -6.916 | 4.467 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 151.624 | -60.295 | 0.273 | -6.891 | 4.471 | 24.729 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 151.624 | -60.295 | 0.273 | -6.891 | 4.471 | 24.729 |
 | **UCC** |151.622 | -60.296 | 0.258 | -6.909 | 4.454 | 22.76 |
 
 
@@ -79,7 +79,7 @@ title:  Trumpler 12
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.05, distance=1435.0, log_age=9.21` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.49, DMNN=12.6, AgeNN=8.82` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.59, Dist=3208.0, logage=8.92, [Fe/H]=0.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.4, d_pc=3280.52, logt=8.94` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.4, MOD50=12.56, logAge50=8.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

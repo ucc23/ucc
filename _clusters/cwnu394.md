@@ -58,9 +58,10 @@ title:  CWNU 394
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[LISC 3420](https://ucc.ar/_clusters/lisc3420/)| 86 | 348.124 | 57.458 | 0.903 | 0.277 | -1.368 | -23.662 |
+|[Theia 2526](https://ucc.ar/_clusters/theia2526/)| 89 | 348.124 | 57.464 | 0.907 | 0.277 | -1.368 | -23.662 |
 |[CWWDL 14366](https://ucc.ar/_clusters/cwwdl14366/)| 66 | 348.154 | 57.496 | 0.914 | 0.239 | -1.363 | -24.808 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=348.12,57.485" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.12%2057.485&output=json&radius=5&userEntry=cwnu394" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=348.12,+57.485" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.12%2057.485&output=json&radius=5&userEntry=cwnu394" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,8 +75,8 @@ title:  CWNU 394
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.55, dm=10.25, logt=7.8, Z=0.04` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.25, logt=7.9` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.55, m-M=10.25, logAge=7.8, Z=0.04` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.25, logAge=7.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

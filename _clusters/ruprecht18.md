@@ -52,7 +52,7 @@ title:  Ruprecht 18
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 111.165 | -26.217 | -- | -3.694 | 1.445 | 31.0 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 111.16 | -26.213 | 0.364 | -0.487 | 1.127 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 111.152 | -26.224 | 0.369 | -0.493 | 1.107 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 111.164 | -26.207 | 0.382 | -0.465 | 1.165 | 36.134 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 111.164 | -26.207 | 0.382 | -0.465 | 1.165 | 36.134 |
 | **UCC** |111.154 | -26.216 | 0.37 | -0.462 | 1.156 | 38.632 |
 
 
@@ -80,7 +80,7 @@ title:  Ruprecht 18
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.7, Dmod=10.36, logt=7.54` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.43, DMNN=12.12, AgeNN=8.11` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.95, Dist=2259.0, logage=8.11, [Fe/H]=0.12` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.84, d_pc=2409.04, logt=8.21` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.84, MOD50=11.9, logAge50=8.21` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

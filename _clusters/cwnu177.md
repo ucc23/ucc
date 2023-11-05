@@ -62,7 +62,7 @@ title:  CWNU 177
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1202](https://ucc.ar/_clusters/ubc1202/)| 52 | 6.618 | 52.818 | 0.566 | -2.004 | -1.268 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=6.691,52.766" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=6.691%2052.766&output=json&radius=5&userEntry=cwnu177" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=6.691,+52.766" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=6.691%2052.766&output=json&radius=5&userEntry=cwnu177" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,7 +76,7 @@ title:  CWNU 177
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.65, dm=11.0, logt=7.7, Z=0.01` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.65, m-M=11.0, logAge=7.7, Z=0.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

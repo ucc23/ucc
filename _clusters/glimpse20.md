@@ -51,7 +51,7 @@ title:  GLIMPSE 20
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 288.104 | 9.965 | -- | -- | -- | -- |
 | **UCC** |288.103 | 9.949 | 0.215 | -2.792 | -5.518 | 38.943 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.103,9.949" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.103%209.949&output=json&radius=5&userEntry=glimpse20" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=288.103,+9.949" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=288.103%209.949&output=json&radius=5&userEntry=glimpse20" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -62,4 +62,4 @@ title:  GLIMPSE 20
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

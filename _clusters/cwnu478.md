@@ -51,7 +51,14 @@ title:  CWNU 478
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 309.937 | 38.521 | 0.76 | -0.23 | -0.74 | -4.0 |
 | **UCC** |309.866 | 38.523 | 0.769 | -0.213 | -0.768 | -2.881 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=309.866,38.523" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=309.866%2038.523&output=json&radius=5&userEntry=cwnu478" target="_blank">Simbad</a></p>
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 3202](https://ucc.ar/_clusters/theia3202/)| 74 | 309.9 | 38.522 | 0.762 | -0.18 | -0.688 | -2.711 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=309.866,+38.523" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=309.866%2038.523&output=json&radius=5&userEntry=cwnu478" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -65,7 +72,7 @@ title:  CWNU 478
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.4, dm=10.2, logt=8.9, Z=0.04` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.4, m-M=10.2, logAge=8.9, Z=0.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

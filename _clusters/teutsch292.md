@@ -49,7 +49,7 @@ title:  Teutsch 292
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 299.616 | 33.134 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 299.615 | 33.151 | 0.8 | -0.752 | -2.06 | -19.795 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 299.615 | 33.151 | 0.8 | -0.752 | -2.06 | -19.795 |
 | **UCC** |299.625 | 33.15 | 0.784 | -0.732 | -2.053 | -18.433 |
 
 
@@ -60,7 +60,7 @@ title:  Teutsch 292
 |[UBC 1083](https://ucc.ar/_clusters/ubc1083/)| 91 | 299.634 | 33.154 | 0.792 | -0.733 | -2.049 | -19.974 |
 |[CWWDL 14204](https://ucc.ar/_clusters/cwwdl14204/)| 97 | 299.628 | 33.152 | 0.785 | -0.736 | -2.049 | -18.433 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=299.625,33.15" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=299.625%2033.15&output=json&radius=5&userEntry=teutsch292" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=299.625,+33.15" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=299.625%2033.15&output=json&radius=5&userEntry=teutsch292" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Teutsch 292
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.69, d_pc=1214.79, logt=8.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.69, MOD50=10.41, logAge50=8.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -51,8 +51,8 @@ title:  Trumpler 34
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 279.95 | -8.415 | -- | -4.14 | -7.01 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 279.951 | -8.428 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 279.935 | -8.439 | 0.305 | -0.933 | -3.448 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 279.957 | -8.429 | 0.329 | -1.053 | -3.543 | 41.794 |
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 279.859 | -8.426 | 0.273 | -0.829 | -2.999 | 45.17 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 279.957 | -8.429 | 0.329 | -1.053 | -3.543 | 41.794 |
 | **UCC** |279.943 | -8.435 | 0.329 | -1.076 | -3.542 | 20.988 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.943,-8.435" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.943%20-8.435&output=json&radius=5&userEntry=trumpler34" target="_blank">Simbad</a></p>
@@ -70,8 +70,8 @@ title:  Trumpler 34
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.81, distance=1342.0, log_age=8.59` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.81, d_pc=2750.41, logt=7.81` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=4.55, m-M=12.4, logA=8.1` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.81, MOD50=12.22, logAge50=7.81` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

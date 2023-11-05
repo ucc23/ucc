@@ -56,7 +56,7 @@ title:  Dolidze 45
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 317.7 | 37.534 | -- | -0.684 | -0.667 | -- |
 | **UCC** |317.718 | 37.541 | 0.151 | -2.34 | -3.584 | -68.652 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.718,37.541" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.718%2037.541&output=json&radius=5&userEntry=dolidze45" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.718,+37.541" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.718%2037.541&output=json&radius=5&userEntry=dolidze45" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,4 +74,4 @@ title:  Dolidze 45
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.13, Dmod=11.49, logt=9.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

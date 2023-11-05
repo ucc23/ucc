@@ -48,8 +48,8 @@ title:  OCSN 59
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 76.844 | -3.336 | 2.584 | 1.197 | -0.859 | 17.392 |
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 77.03 | -3.25 | 2.61 | 1.26 | -0.8 | 15.41 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 76.844 | -3.336 | 2.584 | 1.197 | -0.859 | 17.392 |
 | **UCC** |76.865 | -3.325 | 2.574 | 1.009 | -1.061 | 16.911 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=76.865,-3.325" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=76.865%20-3.325&output=json&radius=5&userEntry=ocsn59" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  OCSN 59
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.45, d_pc=380.74, logt=6.77` |
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.1, dm=8.17, logt=6.9` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.45, MOD50=7.9, logAge50=6.77` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

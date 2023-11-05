@@ -50,7 +50,7 @@ title:  UFMG 41
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | 235.14 | -55.729 | 0.503 | -1.026 | -1.897 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 235.135 | -55.75 | 0.506 | -1.017 | -1.895 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 235.117 | -55.754 | 0.548 | -1.043 | -1.845 | -28.67 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 235.117 | -55.754 | 0.548 | -1.043 | -1.845 | -28.67 |
 | **UCC** |235.125 | -55.754 | 0.536 | -1.055 | -1.827 | -25.028 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=235.125,-55.754" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=235.125%20-55.754&output=json&radius=5&userEntry=ufmg41" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  UFMG 41
 | :---         |     :---:      |
 | [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | `E(B-V)=1.26, m-M=10.8, logt=8.2` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.15, Dist=1767.0, logage=7.86, [Fe/H]=0.19` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.37, d_pc=1717.83, logt=7.95` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.37, MOD50=11.18, logAge50=7.95` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

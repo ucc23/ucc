@@ -50,7 +50,7 @@ title:  Teutsch 79
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 200.915 | -63.638 | -- | -7.04 | -1.5 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 200.901 | -63.669 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 200.923 | -63.673 | 0.134 | -6.33 | -1.004 | -13.45 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 200.923 | -63.673 | 0.134 | -6.33 | -1.004 | -13.45 |
 | **UCC** |200.909 | -63.665 | 0.143 | -6.366 | -1.036 | -15.482 |
 
 
@@ -58,7 +58,7 @@ title:  Teutsch 79
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3267](https://ucc.ar/_clusters/cwnu3267/)| 92 | 200.899 | -63.664 | 0.145 | -6.369 | -1.042 | -15.812 |
+|[CWNU 3267](https://ucc.ar/_clusters/cwnu3267/)| 92 | 200.899 | -63.664 | 0.145 | -6.369 | -1.042 | -15.812 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=200.909,-63.665" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=200.909%20-63.665&output=json&radius=5&userEntry=teutsch79" target="_blank">Simbad</a></p>
 
@@ -75,7 +75,7 @@ title:  Teutsch 79
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.1, distance=1461.0, log_age=8.78` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.63, d_pc=5883.91, logt=8.11` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.63, MOD50=14.42, logAge50=8.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

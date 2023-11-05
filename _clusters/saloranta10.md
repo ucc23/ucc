@@ -49,7 +49,7 @@ title:  Saloranta 10
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 81.22 | 37.542 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 81.215 | 37.566 | 0.896 | 0.301 | -4.312 | 4.217 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 81.215 | 37.566 | 0.896 | 0.301 | -4.312 | 4.217 |
 | **UCC** |81.227 | 37.558 | 0.896 | 0.281 | -4.304 | 8.916 |
 
 
@@ -60,7 +60,7 @@ title:  Saloranta 10
 |[UBC 89](https://ucc.ar/_clusters/ubc89/)| 90 | 81.23 | 37.561 | 0.893 | 0.31 | -4.296 | 5.376 |
 |[COIN-Gaia 17](https://ucc.ar/_clusters/coingaia17/)| 96 | 81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.227,37.558" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.227%2037.558&output=json&radius=5&userEntry=saloranta10" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.227,+37.558" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.227%2037.558&output=json&radius=5&userEntry=saloranta10" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Saloranta 10
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.11, d_pc=1066.97, logt=8.16` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.11, MOD50=10.11, logAge50=8.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

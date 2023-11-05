@@ -51,6 +51,13 @@ title:  UFMG 85
 |[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | 262.055 | -37.86 | 0.824 | 3.249 | -1.938 | -- |
 | **UCC** |262.031 | -37.85 | 0.805 | 3.194 | -1.949 | -59.981 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 2517](https://ucc.ar/_clusters/theia2517/)| 90 | 262.035 | -37.856 | 0.805 | 3.195 | -1.954 | -59.981 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=262.031,-37.85" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=262.031%20-37.85&output=json&radius=5&userEntry=ufmg85" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -68,4 +75,4 @@ title:  UFMG 85
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.55, Dmod=10.65, logt=7.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

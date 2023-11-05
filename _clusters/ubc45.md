@@ -59,7 +59,7 @@ title:  UBC 45
 |[COIN-Gaia 7](https://ucc.ar/_clusters/coingaia7/)| 56 | 33.799 | 58.463 | 0.673 | -1.045 | -1.671 | -- |
 |[CWWDL 4617](https://ucc.ar/_clusters/cwwdl4617/)| 81 | 33.762 | 58.463 | 0.688 | -1.037 | -1.689 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=33.721,58.463" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=33.721%2058.463&output=json&radius=5&userEntry=ubc45" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=33.721,+58.463" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=33.721%2058.463&output=json&radius=5&userEntry=ubc45" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  UBC 45
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

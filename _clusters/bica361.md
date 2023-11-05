@@ -56,7 +56,7 @@ title:  Bica 361
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3312](https://ucc.ar/_clusters/cwnu3312/)| 89 | 110.758 | -16.674 | 0.178 | -0.792 | 1.026 | 87.635 |
+|[CWNU 3312](https://ucc.ar/_clusters/cwnu3312/)| 89 | 110.758 | -16.674 | 0.178 | -0.792 | 1.026 | 87.635 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=110.75,-16.677" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.75%20-16.677&output=json&radius=5&userEntry=bica361" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Bica 361
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

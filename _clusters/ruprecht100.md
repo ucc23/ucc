@@ -51,7 +51,7 @@ title:  Ruprecht 100
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 181.44 | -62.617 | -- | -7.22 | 1.13 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 181.52 | -62.624 | 0.253 | -8.255 | 0.898 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 181.506 | -62.628 | 0.253 | -8.254 | 0.906 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 181.521 | -62.623 | 0.279 | -8.247 | 0.956 | -20.528 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 181.521 | -62.623 | 0.279 | -8.247 | 0.956 | -20.528 |
 | **UCC** |181.529 | -62.623 | 0.281 | -8.279 | 0.941 | -11.457 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=181.529,-62.623" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=181.529%20-62.623&output=json&radius=5&userEntry=ruprecht100" target="_blank">Simbad</a></p>
@@ -71,7 +71,7 @@ title:  Ruprecht 100
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.73, distance=2589.0, log_age=8.6` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.56, DMNN=12.64, AgeNN=8.31` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.47, Dist=2784.0, logage=8.75, [Fe/H]=0.06` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.86, d_pc=3210.54, logt=8.37` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.86, MOD50=12.52, logAge50=8.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -55,7 +55,7 @@ title:  HXWHB 1
 |[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | 51.78 | 45.14 | 0.61 | 0.18 | -2.46 | -- |
 | **UCC** |51.74 | 45.178 | 0.537 | 0.17 | -2.291 | 19.459 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=51.74,45.178" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=51.74%2045.178&output=json&radius=5&userEntry=hxwhb1" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=51.74,+45.178" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=51.74%2045.178&output=json&radius=5&userEntry=hxwhb1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,4 +72,4 @@ title:  HXWHB 1
 | [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | `AG=0.7, d_pc=1645.3, logt=9.08` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

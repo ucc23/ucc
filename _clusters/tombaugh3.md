@@ -54,10 +54,10 @@ title:  Tombaugh 3
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 28.094 | 61.857 | 0.175 | -1.439 | 1.126 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 28.096 | 61.858 | 0.172 | -1.45 | 1.144 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 28.095 | 61.86 | 0.203 | -1.445 | 1.145 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 28.086 | 61.855 | 0.192 | -1.461 | 1.076 | -40.382 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 28.086 | 61.855 | 0.192 | -1.461 | 1.076 | -40.382 |
 | **UCC** |28.09 | 61.857 | 0.199 | -1.462 | 1.061 | -40.187 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.09,61.857" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.09%2061.857&output=json&radius=5&userEntry=tombaugh3" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.09,+61.857" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.09%2061.857&output=json&radius=5&userEntry=tombaugh3" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,7 +75,7 @@ title:  Tombaugh 3
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.87, Dmod=12.51, logt=8.92` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.47, DMNN=13.62, AgeNN=9.12` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.85, Dist=5371.0, logage=9.01, [Fe/H]=0.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.85, d_pc=4418.92, logt=8.89` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.85, MOD50=13.22, logAge50=8.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

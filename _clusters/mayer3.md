@@ -50,7 +50,7 @@ title:  Mayer 3
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 112.53 | -18.535 | -- | -0.158 | 4.371 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 112.523 | -18.553 | 0.209 | -1.892 | 2.336 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 112.525 | -18.546 | 0.224 | -1.865 | 2.353 | 44.488 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 112.525 | -18.546 | 0.224 | -1.865 | 2.353 | 44.488 |
 | **UCC** |112.519 | -18.561 | 0.269 | -1.89 | 2.359 | 62.343 |
 
 
@@ -75,7 +75,7 @@ title:  Mayer 3
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.52, Dmod=11.84, logt=9.15` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.71, d_pc=3777.09, logt=6.97` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.71, MOD50=13.11, logAge50=6.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

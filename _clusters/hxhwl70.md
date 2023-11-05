@@ -51,6 +51,13 @@ title:  HXHWL 70
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 118.435 | -39.471 | 0.82 | -4.06 | 4.59 | -- |
 | **UCC** |118.361 | -39.456 | 0.817 | -3.991 | 4.629 | 37.327 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 3768](https://ucc.ar/_clusters/theia3768/)| 59 | 118.312 | -39.57 | 0.816 | -3.951 | 4.65 | 39.423 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=118.361,-39.456" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=118.361%20-39.456&output=json&radius=5&userEntry=hxhwl70" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -65,7 +72,7 @@ title:  HXHWL 70
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.6, dm=10.3, logt=7.98, Z=0.03` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.6, m-M=10.3, logAge=7.98, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

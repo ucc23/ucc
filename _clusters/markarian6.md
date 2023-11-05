@@ -58,7 +58,7 @@ title:  Markarian 6
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Stock 7](https://ucc.ar/_clusters/stock7/)| 56 | 37.433 | 60.604 | 1.47 | -3.539 | 0.463 | -8.655 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.437,60.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.437%2060.712&output=json&radius=5&userEntry=markarian6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.437,+60.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.437%2060.712&output=json&radius=5&userEntry=markarian6" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  Markarian 6
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.55, Dmod=8.87, logt=7.21` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

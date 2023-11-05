@@ -48,7 +48,7 @@ title:  COIN-Gaia 36
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 36.341 | 59.935 | 0.452 | -0.985 | -0.545 | -77.451 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 36.341 | 59.935 | 0.452 | -0.985 | -0.545 | -77.451 |
 | **UCC** |36.297 | 59.928 | 0.453 | -1.004 | -0.585 | -- |
 
 
@@ -59,7 +59,7 @@ title:  COIN-Gaia 36
 |[UBC 1236](https://ucc.ar/_clusters/ubc1236/)| 63 | 36.279 | 59.939 | 0.448 | -1.001 | -0.566 | -90.859 |
 |[CWWDL 2011](https://ucc.ar/_clusters/cwwdl2011/)| 51 | 36.375 | 59.868 | 0.465 | -0.97 | -0.595 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=36.297,59.928" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=36.297%2059.928&output=json&radius=5&userEntry=coingaia36" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=36.297,+59.928" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=36.297%2059.928&output=json&radius=5&userEntry=coingaia36" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  COIN-Gaia 36
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.74, d_pc=2100.29, logt=7.67` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.74, MOD50=11.59, logAge50=7.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

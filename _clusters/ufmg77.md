@@ -57,6 +57,7 @@ title:  UFMG 77
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 14393](https://ucc.ar/_clusters/cwwdl14393/)| 56 | 262.763 | -33.49 | 0.876 | 2.513 | -1.929 | -2.059 |
+|[Theia 1645](https://ucc.ar/_clusters/theia1645/)| 53 | 262.742 | -33.485 | 0.886 | 2.516 | -1.913 | -7.239 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=262.803,-33.461" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=262.803%20-33.461&output=json&radius=5&userEntry=ufmg77" target="_blank">Simbad</a></p>
 
@@ -75,4 +76,4 @@ title:  UFMG 77
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.68, Dmod=10.15, logt=7.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

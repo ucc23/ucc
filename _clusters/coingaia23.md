@@ -52,7 +52,7 @@ title:  COIN-Gaia 23
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 87.483 | 27.02 | 1.039 | -0.327 | -0.954 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 87.462 | 26.998 | 1.058 | -0.32 | -1.013 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 87.467 | 26.968 | 1.055 | -0.332 | -1.011 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
 | **UCC** |87.447 | 26.999 | 1.056 | -0.332 | -1.001 | -3.588 |
 
 
@@ -63,7 +63,7 @@ title:  COIN-Gaia 23
 |[Majaess 65](https://ucc.ar/_clusters/majaess65/)| 65 | 87.429 | 27.035 | 1.034 | -0.332 | -1.044 | -3.175 |
 |[CWWDL 14154](https://ucc.ar/_clusters/cwwdl14154/)| 98 | 87.449 | 26.999 | 1.057 | -0.329 | -1.0 | -3.588 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.447,26.999" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.447%2026.999&output=json&radius=5&userEntry=coingaia23" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.447,+26.999" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.447%2026.999&output=json&radius=5&userEntry=coingaia23" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -79,9 +79,9 @@ title:  COIN-Gaia 23
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.86, AgeNN=8.11` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.8, Dist=912.0, logage=7.76, [Fe/H]=-0.01` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=918.0, logt=8.14` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.8, logt=7.9` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.46, d_pc=915.68, logt=7.82` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=918.0, logAgeNN=8.14` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.8, logAge=7.9` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.46, MOD50=9.78, logAge50=7.82` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

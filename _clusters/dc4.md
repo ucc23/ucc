@@ -57,7 +57,7 @@ title:  DC 4
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3590](https://ucc.ar/_clusters/cwnu3590/)| 91 | 103.513 | -13.568 | 0.113 | -0.357 | 0.767 | 99.517 |
+|[CWNU 3590](https://ucc.ar/_clusters/cwnu3590/)| 91 | 103.513 | -13.568 | 0.113 | -0.357 | 0.767 | 99.517 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.516,-13.564" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.516%20-13.564&output=json&radius=5&userEntry=dc4" target="_blank">Simbad</a></p>
 
@@ -76,4 +76,4 @@ title:  DC 4
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.58, distance=2304.0, log_age=8.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

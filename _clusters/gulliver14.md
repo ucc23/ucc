@@ -51,7 +51,7 @@ title:  Gulliver 14
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 259.928 | -36.785 | 0.745 | -3.719 | -4.792 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 259.915 | -36.763 | 0.741 | -3.733 | -4.779 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 259.956 | -36.702 | 0.748 | -3.751 | -4.795 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 259.946 | -36.708 | 0.763 | -3.759 | -4.756 | -16.263 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 259.946 | -36.708 | 0.763 | -3.759 | -4.756 | -16.263 |
 | **UCC** |259.926 | -36.74 | 0.761 | -3.76 | -4.79 | -15.77 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=259.926,-36.74" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=259.926%20-36.74&output=json&radius=5&userEntry=gulliver14" target="_blank">Simbad</a></p>
@@ -70,8 +70,8 @@ title:  Gulliver 14
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.63, DMNN=10.48, AgeNN=8.78` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.0, Dist=1262.0, logage=8.54, [Fe/H]=0.17` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1204.0, logt=8.82` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.93, d_pc=1253.43, logt=8.6` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1204.0, logAgeNN=8.82` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.93, MOD50=10.47, logAge50=8.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

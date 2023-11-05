@@ -49,7 +49,7 @@ title:  CWNU 482
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 272.603 | -22.361 | 0.67 | -0.55 | -1.54 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 272.482 | -22.283 | 0.656 | -0.522 | -1.54 | 12.143 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 272.482 | -22.283 | 0.656 | -0.522 | -1.54 | 12.143 |
 | **UCC** |272.54 | -22.376 | 0.658 | -0.521 | -1.566 | 61.37 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=272.54,-22.376" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.54%20-22.376&output=json&radius=5&userEntry=cwnu482" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  CWNU 482
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.95, dm=11.0, logt=8.2, Z=0.04` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.93, d_pc=1439.52, logt=7.37` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.95, m-M=11.0, logAge=8.2, Z=0.04` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.93, MOD50=10.82, logAge50=7.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

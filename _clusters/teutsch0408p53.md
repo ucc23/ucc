@@ -51,7 +51,7 @@ title:  Teutsch 0408+53
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 62.037 | 53.144 | -- | -- | -- | -- |
 | **UCC** |62.06 | 53.122 | 0.195 | 0.244 | -0.744 | -51.019 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.06,53.122" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.06%2053.122&output=json&radius=5&userEntry=teutsch0408p53" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.06,+53.122" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.06%2053.122&output=json&radius=5&userEntry=teutsch0408p53" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -62,4 +62,4 @@ title:  Teutsch 0408+53
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

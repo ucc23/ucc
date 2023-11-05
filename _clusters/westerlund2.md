@@ -50,7 +50,7 @@ title:  Westerlund 2
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 156.015 | -57.767 | -- | -7.5 | 4.22 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 156.01 | -57.758 | 0.209 | -5.246 | 2.895 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 156.003 | -57.756 | 0.192 | -5.352 | 2.879 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 156.003 | -57.756 | 0.192 | -5.352 | 2.879 | -- |
 | **UCC** |156.013 | -57.762 | 0.204 | -5.373 | 2.895 | 26.583 |
 
 
@@ -75,7 +75,7 @@ title:  Westerlund 2
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.75, Dmod=11.42, logt=7.32` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.52, d_pc=4532.72, logt=7.88` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.52, MOD50=13.67, logAge50=7.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

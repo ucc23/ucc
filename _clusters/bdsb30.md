@@ -50,10 +50,10 @@ title:  BDSB 30
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 333.671 | 61.44 | -- | -2.03 | -4.47 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 333.667 | 61.433 | 1.109 | -1.579 | -3.005 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 333.663 | 61.444 | 1.126 | -1.399 | -2.868 | -15.021 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 333.663 | 61.444 | 1.126 | -1.399 | -2.868 | -15.021 |
 | **UCC** |333.663 | 61.445 | 1.117 | -1.523 | -2.994 | -16.154 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=333.663,61.445" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=333.663%2061.445&output=json&radius=5&userEntry=bdsb30" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=333.663,+61.445" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=333.663%2061.445&output=json&radius=5&userEntry=bdsb30" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -68,7 +68,7 @@ title:  BDSB 30
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.44, distance=1490.0, log_age=6.55` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.08, d_pc=869.08, logt=6.92` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.08, MOD50=9.71, logAge50=6.92` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

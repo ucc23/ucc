@@ -48,8 +48,8 @@ title:  OCSN 27
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 321.607 | 47.633 | 2.407 | 3.257 | -2.506 | -16.306 |
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 321.68 | 47.54 | 2.41 | 3.3 | -2.53 | -15.23 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 321.607 | 47.633 | 2.407 | 3.257 | -2.506 | -16.306 |
 | **UCC** |321.733 | 47.739 | 2.417 | 3.345 | -2.471 | -15.269 |
 
 
@@ -59,7 +59,7 @@ title:  OCSN 27
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 14619](https://ucc.ar/_clusters/cwwdl14619/)| 98 | 321.737 | 47.741 | 2.416 | 3.347 | -2.481 | -15.563 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=321.733,47.739" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=321.733%2047.739&output=json&radius=5&userEntry=ocsn27" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=321.733,+47.739" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=321.733%2047.739&output=json&radius=5&userEntry=ocsn27" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,8 +73,8 @@ title:  OCSN 27
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.15, d_pc=413.1, logt=7.17` |
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.11, dm=8.47, logt=7.35` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.15, MOD50=8.06, logAge50=7.17` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

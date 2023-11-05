@@ -61,7 +61,7 @@ title:  COIN-Gaia 22
 |[UBC 70](https://ucc.ar/_clusters/ubc70/)| 94 | 91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
 |[Kronberger 6](https://ucc.ar/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.065,31.6" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.065%2031.6&output=json&radius=5&userEntry=coingaia22" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.065,+31.6" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.065%2031.6&output=json&radius=5&userEntry=coingaia22" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -79,4 +79,4 @@ title:  COIN-Gaia 22
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.34, Dist=1808.0, logage=8.32, [Fe/H]=-0.06` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

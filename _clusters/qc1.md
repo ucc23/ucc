@@ -48,7 +48,7 @@ title:  QC 1
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 305.104 | 39.869 | 0.786 | -2.284 | -3.547 | 0.618 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 305.104 | 39.869 | 0.786 | -2.284 | -3.547 | 0.618 |
 | **UCC** |305.114 | 39.877 | 0.778 | -2.291 | -3.509 | -1.698 |
 
 
@@ -59,7 +59,7 @@ title:  QC 1
 |[UBC 1104](https://ucc.ar/_clusters/ubc1104/)| 74 | 305.122 | 39.878 | 0.777 | -2.281 | -3.507 | -1.698 |
 |[CWWDL 11620](https://ucc.ar/_clusters/cwwdl11620/)| 99 | 305.114 | 39.878 | 0.778 | -2.291 | -3.508 | -4.602 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.114,39.877" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.114%2039.877&output=json&radius=5&userEntry=qc1" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.114,+39.877" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.114%2039.877&output=json&radius=5&userEntry=qc1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  QC 1
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.83, d_pc=1243.92, logt=6.77` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.83, MOD50=10.46, logAge50=6.77` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

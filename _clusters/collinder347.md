@@ -48,8 +48,8 @@ title:  Collinder 347
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 266.586 | -29.344 | 0.347 | 0.324 | -1.75 | 8.86 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
 | **UCC** |266.576 | -29.333 | 0.339 | 0.319 | -1.794 | -24.721 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=266.576,-29.333" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=266.576%20-29.333&output=json&radius=5&userEntry=collinder347" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  Collinder 347
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.27, d_pc=2649.59, logt=6.79` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=4.45, m-M=12.05, logA=6.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.27, MOD50=12.22, logAge50=6.79` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

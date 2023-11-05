@@ -52,8 +52,8 @@ title:  Markarian 38
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 273.825 | -19.001 | -- | -1.76 | -2.12 | -3.2 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 273.819 | -18.997 | 0.567 | 0.845 | -2.277 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 273.816 | -19.006 | 0.563 | 0.852 | -2.262 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 273.815 | -18.994 | 0.559 | 0.837 | -2.322 | 15.911 |
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 273.922 | -19.051 | 0.41 | -0.374 | -0.682 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 273.815 | -18.994 | 0.559 | 0.837 | -2.322 | 15.911 |
 | **UCC** |273.826 | -19.002 | 0.576 | 0.811 | -2.32 | 41.474 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.826,-19.002" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.826%20-19.002&output=json&radius=5&userEntry=markarian38" target="_blank">Simbad</a></p>
@@ -74,8 +74,8 @@ title:  Markarian 38
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.37, Dmod=10.95, logt=6.89` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.84, DMNN=11.28, AgeNN=7.2` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.16, Dist=1770.0, logage=7.01, [Fe/H]=0.06` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.98, d_pc=1654.93, logt=7.23` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.7, m-M=11.8, logA=8.9` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.98, MOD50=11.12, logAge50=7.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

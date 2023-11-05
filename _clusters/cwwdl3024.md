@@ -58,7 +58,7 @@ title:  CWWDL 3024
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1117](https://ucc.ar/_clusters/ubc1117/)| 62 | 311.451 | 46.756 | 0.357 | -2.661 | -4.144 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=311.486,46.765" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=311.486%2046.765&output=json&radius=5&userEntry=cwwdl3024" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=311.486,+46.765" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=311.486%2046.765&output=json&radius=5&userEntry=cwwdl3024" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  CWWDL 3024
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.78, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

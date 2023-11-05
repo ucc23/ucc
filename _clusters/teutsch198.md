@@ -49,7 +49,7 @@ title:  Teutsch 198
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 98.007 | 16.095 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 98.012 | 16.096 | 0.14 | -0.009 | -0.964 | 60.743 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 98.012 | 16.096 | 0.14 | -0.009 | -0.964 | 60.743 |
 | **UCC** |98.014 | 16.094 | 0.149 | -0.003 | -0.977 | 55.124 |
 
 
@@ -57,9 +57,9 @@ title:  Teutsch 198
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3139](https://ucc.ar/_clusters/cwnu3139/)| 93 | 98.013 | 16.094 | 0.155 | -0.006 | -0.981 | 55.124 |
+|[CWNU 3139](https://ucc.ar/_clusters/cwnu3139/)| 93 | 98.013 | 16.094 | 0.155 | -0.006 | -0.981 | 55.124 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=98.014,16.094" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.014%2016.094&output=json&radius=5&userEntry=teutsch198" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=98.014,+16.094" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.014%2016.094&output=json&radius=5&userEntry=teutsch198" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Teutsch 198
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.82, d_pc=5159.9, logt=8.7` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.82, MOD50=13.76, logAge50=8.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

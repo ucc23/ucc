@@ -53,7 +53,7 @@ title:  Hogg 22
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 251.64 | -47.089 | -- | -- | -- | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 251.66 | -47.078 | 0.343 | -0.75 | -2.013 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 251.662 | -47.073 | 0.357 | -0.734 | -1.953 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 251.651 | -47.089 | 0.353 | -0.785 | -2.027 | -41.606 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 251.651 | -47.089 | 0.353 | -0.785 | -2.027 | -41.606 |
 | **UCC** |251.68 | -47.086 | 0.352 | -0.749 | -1.969 | -7.776 |
 
 
@@ -80,7 +80,7 @@ title:  Hogg 22
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.82, distance=2799.0, log_age=6.8` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.65, Dmod=10.56, logt=6.79` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.1, Dist=2354.0, logage=7.08, [Fe/H]=0.12` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.07, d_pc=2534.07, logt=6.89` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.07, MOD50=12.05, logAge50=6.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

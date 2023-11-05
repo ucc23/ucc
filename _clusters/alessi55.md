@@ -52,7 +52,7 @@ title:  Alessi 55
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 104.572 | 0.868 | -- | -- | -- | -- |
 | **UCC** |104.612 | 0.885 | 0.231 | -0.913 | -0.052 | 71.427 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.612,0.885" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.612%200.885&output=json&radius=5&userEntry=alessi55" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.612,+0.885" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.612%200.885&output=json&radius=5&userEntry=alessi55" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  Alessi 55
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.56, distance=1753.0, log_age=8.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

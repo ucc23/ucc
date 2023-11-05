@@ -51,7 +51,7 @@ title:  Ruprecht 115
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 243.24 | -52.427 | -- | -3.73 | -6.26 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 243.215 | -52.393 | 0.366 | -4.333 | -4.546 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 243.214 | -52.392 | 0.382 | -4.371 | -4.569 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 243.214 | -52.397 | 0.39 | -4.313 | -4.587 | -39.897 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 243.214 | -52.397 | 0.39 | -4.313 | -4.587 | -39.897 |
 | **UCC** |243.229 | -52.392 | 0.367 | -4.365 | -4.607 | -41.317 |
 
 
@@ -77,7 +77,7 @@ title:  Ruprecht 115
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.94, distance=1948.0, log_age=9.13` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.25, DMNN=11.86, AgeNN=8.37` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.96, d_pc=2348.14, logt=8.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.96, MOD50=11.86, logAge50=8.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

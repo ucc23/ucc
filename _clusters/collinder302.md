@@ -48,7 +48,7 @@ title:  Collinder 302
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 246.525 | -26.233 | 2.362 | -12.145 | -18.708 | 12.414 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 245.888 | -26.523 | 2.362 | -12.145 | -18.708 | 12.414 |
 | **UCC** |245.918 | -26.521 | 1.997 | -12.272 | -18.728 | -23.56 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=245.918,-26.521" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=245.918%20-26.521&output=json&radius=5&userEntry=collinder302" target="_blank">Simbad</a></p>
@@ -65,7 +65,7 @@ title:  Collinder 302
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.02, d_pc=409.8, logt=9.73` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.02, MOD50=7.95, logAge50=9.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  Teutsch 92
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 90.562 | 26.138 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 90.559 | 26.151 | 0.258 | 0.151 | -1.016 | 43.832 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 90.559 | 26.151 | 0.258 | 0.151 | -1.016 | 43.832 |
 | **UCC** |90.559 | 26.147 | 0.258 | 0.144 | -0.959 | -22.444 |
 
 
@@ -60,7 +60,7 @@ title:  Teutsch 92
 |[UBC 1301](https://ucc.ar/_clusters/ubc1301/)| 83 | 90.568 | 26.152 | 0.251 | 0.161 | -0.977 | -- |
 |[CWWDL 2647](https://ucc.ar/_clusters/cwwdl2647/)| 43 | 90.562 | 26.134 | 0.254 | 0.197 | -1.154 | 47.268 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=90.559,26.147" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=90.559%2026.147&output=json&radius=5&userEntry=teutsch92" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=90.559,+26.147" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=90.559%2026.147&output=json&radius=5&userEntry=teutsch92" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Teutsch 92
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.08, d_pc=3362.18, logt=8.68` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.08, MOD50=12.66, logAge50=8.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

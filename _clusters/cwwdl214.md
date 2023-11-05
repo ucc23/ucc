@@ -56,6 +56,7 @@ title:  CWWDL 214
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 6242](https://ucc.ar/_clusters/theia6242/)| 80 | 149.023 | -60.183 | 0.336 | -5.875 | 5.223 | 0.659 |
 |[FoF 676](https://ucc.ar/_clusters/fof676/)| 93 | 149.024 | -60.186 | 0.333 | -5.875 | 5.226 | 1.812 |
 |[OC 0534](https://ucc.ar/_clusters/oc0534/)| 76 | 149.011 | -60.197 | 0.35 | -5.866 | 5.235 | 2.816 |
 
@@ -76,4 +77,4 @@ title:  CWWDL 214
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.48, Z=-0.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

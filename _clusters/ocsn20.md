@@ -58,7 +58,7 @@ title:  OCSN 20
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[NGC 6882](https://ucc.ar/_clusters/ngc6882/)| 73 | 302.828 | 26.617 | 2.076 | 1.692 | -9.261 | -20.098 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.9,26.741" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.9%2026.741&output=json&radius=5&userEntry=ocsn20" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.9,+26.741" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.9%2026.741&output=json&radius=5&userEntry=ocsn20" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  OCSN 20
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.11, dm=8.57, logt=7.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

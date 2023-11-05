@@ -56,9 +56,10 @@ title:  HXHWL 73
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 7938](https://ucc.ar/_clusters/theia7938/)| 89 | 62.689 | 57.13 | 0.71 | 0.953 | -1.084 | -23.19 |
 |[CWWDL 12760](https://ucc.ar/_clusters/cwwdl12760/)| 89 | 62.663 | 57.144 | 0.726 | 0.955 | -1.085 | -23.19 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.68,57.144" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.68%2057.144&output=json&radius=5&userEntry=hxhwl73" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.68,+57.144" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.68%2057.144&output=json&radius=5&userEntry=hxhwl73" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,7 +73,7 @@ title:  HXHWL 73
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=2.1, dm=10.4, logt=7.82, Z=0.02` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=2.1, m-M=10.4, logAge=7.82, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

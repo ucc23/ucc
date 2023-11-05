@@ -58,7 +58,7 @@ title:  UBC 58
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[COIN-Gaia 10](https://ucc.ar/_clusters/coingaia10/)| 65 | 68.418 | 40.5 | 0.959 | 1.942 | -3.447 | -2.985 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=68.432,40.492" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=68.432%2040.492&output=json&radius=5&userEntry=ubc58" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=68.432,+40.492" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=68.432%2040.492&output=json&radius=5&userEntry=ubc58" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  UBC 58
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

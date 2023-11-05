@@ -59,7 +59,7 @@ title:  CWWDL 566
 |[UBC 145](https://ucc.ar/_clusters/ubc145/)| 83 | 316.062 | 42.073 | 0.48 | -2.435 | -4.313 | 0.881 |
 |[FoF 876](https://ucc.ar/_clusters/fof876/)| 84 | 316.053 | 42.054 | 0.48 | -2.432 | -4.323 | -16.219 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=316.051,42.072" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=316.051%2042.072&output=json&radius=5&userEntry=cwwdl566" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=316.051,+42.072" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=316.051%2042.072&output=json&radius=5&userEntry=cwwdl566" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  CWWDL 566
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.46, Z=0.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

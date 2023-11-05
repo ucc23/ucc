@@ -57,7 +57,7 @@ title:  Collinder 466
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3057](https://ucc.ar/_clusters/cwnu3057/)| 57 | 106.789 | -10.782 | 0.144 | -0.593 | 1.337 | 97.056 |
+|[CWNU 3057](https://ucc.ar/_clusters/cwnu3057/)| 57 | 106.789 | -10.782 | 0.144 | -0.593 | 1.337 | 97.056 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.751,-10.759" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.751%20-10.759&output=json&radius=5&userEntry=collinder466" target="_blank">Simbad</a></p>
 
@@ -77,4 +77,4 @@ title:  Collinder 466
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.3, Dmod=12.15, logt=8.93` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

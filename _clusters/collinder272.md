@@ -54,7 +54,7 @@ title:  Collinder 272
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 202.586 | -61.319 | 0.414 | -3.441 | -1.798 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 202.577 | -61.321 | 0.425 | -3.449 | -1.804 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 202.554 | -61.3 | 0.451 | -3.451 | -1.821 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 202.575 | -61.33 | 0.451 | -3.48 | -1.77 | -43.042 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 202.575 | -61.33 | 0.451 | -3.48 | -1.77 | -43.042 |
 | **UCC** |202.617 | -61.344 | 0.445 | -3.478 | -1.828 | -17.542 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=202.617,-61.344" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=202.617%20-61.344&output=json&radius=5&userEntry=collinder272" target="_blank">Simbad</a></p>
@@ -75,7 +75,7 @@ title:  Collinder 272
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.47, Dmod=11.55, logt=7.23` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.29, DMNN=11.75, AgeNN=7.66` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.5, Dist=1885.0, logage=7.4, [Fe/H]=-0.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.36, d_pc=2072.89, logt=7.67` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.36, MOD50=11.58, logAge50=7.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

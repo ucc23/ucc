@@ -51,7 +51,7 @@ title:  Teutsch 315
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 318.83 | 43.536 | -- | -- | -- | -- |
 | **UCC** |318.787 | 43.513 | 0.208 | -3.542 | -4.696 | -79.912 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=318.787,43.513" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=318.787%2043.513&output=json&radius=5&userEntry=teutsch315" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=318.787,+43.513" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=318.787%2043.513&output=json&radius=5&userEntry=teutsch315" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -62,4 +62,4 @@ title:  Teutsch 315
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -48,7 +48,7 @@ title:  Gaia 8
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
 | **UCC** |282.531 | 33.388 | 3.458 | 1.809 | -3.87 | -18.689 |
 
 
@@ -59,7 +59,7 @@ title:  Gaia 8
 |[PHOC 41](https://ucc.ar/_clusters/phoc41/)| 100 | 282.524 | 33.388 | 3.458 | 1.802 | -3.87 | -18.689 |
 |[CWWL 3595](https://ucc.ar/_clusters/cwwl3595/)| 99 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.531,33.388" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.531%2033.388&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.531,+33.388" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.531%2033.388&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Gaia 8
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.18, d_pc=289.24, logt=7.32` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.18, MOD50=7.3, logAge50=7.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

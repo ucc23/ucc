@@ -52,7 +52,7 @@ title:  Pismis 12
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 139.984 | -45.114 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 140.007 | -45.131 | 0.431 | -6.748 | 4.833 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 140.006 | -45.13 | 0.436 | -6.726 | 4.833 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 140.006 | -45.128 | 0.446 | -6.726 | 4.897 | 32.353 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 140.006 | -45.128 | 0.446 | -6.726 | 4.897 | 32.353 |
 | **UCC** |140.006 | -45.131 | 0.432 | -6.731 | 4.902 | 31.629 |
 
 
@@ -79,7 +79,7 @@ title:  Pismis 12
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.52, distance=2221.0, log_age=9.21` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.41, DMNN=11.62, AgeNN=9.09` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.0, Dist=2114.0, logage=9.09, [Fe/H]=-0.15` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.71, d_pc=2093.66, logt=9.1` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.71, MOD50=11.59, logAge50=9.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

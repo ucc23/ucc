@@ -51,7 +51,7 @@ title:  Pismis 17
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 165.27 | -59.817 | -- | -3.89 | 0.59 | -17.8 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 165.315 | -59.847 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 165.377 | -59.873 | 0.366 | -6.938 | 2.333 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 165.354 | -59.87 | 0.363 | -6.908 | 2.37 | -15.426 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 165.354 | -59.87 | 0.363 | -6.908 | 2.37 | -15.426 |
 | **UCC** |165.437 | -59.89 | 0.368 | -6.91 | 2.327 | 7.012 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=165.437,-59.89" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=165.437%20-59.89&output=json&radius=5&userEntry=pismis17" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Pismis 17
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.47, Dmod=12.72, logt=7.02` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.31, d_pc=2498.89, logt=7.57` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.31, MOD50=12.0, logAge50=7.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

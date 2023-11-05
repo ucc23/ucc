@@ -58,7 +58,7 @@ title:  CWWDL 3304
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Teutsch 182](https://ucc.ar/_clusters/teutsch182/)| 94 | 344.033 | 51.176 | 0.694 | -4.627 | -4.95 | -33.086 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=344.026,51.175" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=344.026%2051.175&output=json&radius=5&userEntry=cwwdl3304" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=344.026,+51.175" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=344.026%2051.175&output=json&radius=5&userEntry=cwwdl3304" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  CWWDL 3304
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.97, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-02</i></font>

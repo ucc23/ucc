@@ -58,8 +58,9 @@ title:  OCSN 46
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OC 0242](https://ucc.ar/_clusters/oc0242/)| 93 | 42.995 | 68.88 | 2.274 | 1.476 | -7.918 | -6.909 |
 |[FoF 2428](https://ucc.ar/_clusters/fof2428/)| 100 | 43.063 | 68.867 | 2.274 | 1.45 | -7.933 | -6.695 |
+|[Theia 123](https://ucc.ar/_clusters/theia123/)| 61 | 43.527 | 68.803 | 2.274 | 1.371 | -7.905 | -5.771 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=43.071,68.866" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=43.071%2068.866&output=json&radius=5&userEntry=ocsn46" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=43.071,+68.866" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=43.071%2068.866&output=json&radius=5&userEntry=ocsn46" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +77,4 @@ title:  OCSN 46
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.38, dm=9.22, logt=8.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

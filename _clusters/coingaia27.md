@@ -62,7 +62,7 @@ title:  COIN-Gaia 27
 |[UBC 78](https://ucc.ar/_clusters/ubc78/)| 69 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
 |[Streicher 52](https://ucc.ar/_clusters/streicher52/)| 75 | 85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.762,13.731" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.762%2013.731&output=json&radius=5&userEntry=coingaia27" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.762,+13.731" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.762%2013.731&output=json&radius=5&userEntry=coingaia27" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,8 +78,8 @@ title:  COIN-Gaia 27
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.18, DMNN=10.35, AgeNN=8.86` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.88, Dist=1062.0, logage=8.24, [Fe/H]=-0.21` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1134.0, logt=8.91` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.1, logt=8.35` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1134.0, logAgeNN=8.91` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.1, logAge=8.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -60,9 +60,9 @@ title:  BDSB 23
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_4047](https://ucc.ar/_clusters/cwnu4047/)| 32 | 320.096 | 55.469 | 0.132 | -2.508 | -2.615 | -62.793 |
+|[CWNU 4047](https://ucc.ar/_clusters/cwnu4047/)| 32 | 320.096 | 55.469 | 0.132 | -2.508 | -2.615 | -62.793 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=320.094,55.468" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=320.094%2055.468&output=json&radius=5&userEntry=bdsb23" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=320.094,+55.468" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=320.094%2055.468&output=json&radius=5&userEntry=bdsb23" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -79,4 +79,4 @@ title:  BDSB 23
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.25, distance=5883.0, log_age=8.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

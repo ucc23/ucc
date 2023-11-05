@@ -51,7 +51,7 @@ title:  FoF 5
 |[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L/abstract) | 156.145 | -72.508 | 0.506 | -6.873 | 1.425 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 156.138 | -72.51 | 0.51 | -6.89 | 1.462 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 156.06 | -72.511 | 0.515 | -6.887 | 1.468 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
 | **UCC** |156.316 | -72.56 | 0.522 | -6.877 | 1.452 | -23.34 |
 
 
@@ -78,7 +78,7 @@ title:  FoF 5
 | [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L/abstract) | `Age=3.16, Z=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.27, DMNN=11.32, AgeNN=9.43` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.33, Dist=1781.0, logage=9.41, [Fe/H]=0.0` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.12, d_pc=1804.19, logt=9.37` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.12, MOD50=11.28, logAge50=9.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

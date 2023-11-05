@@ -50,7 +50,7 @@ title:  Danks 2
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 198.225 | -62.667 | -- | -12.51 | -1.98 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 198.222 | -62.681 | 0.129 | -7.016 | -0.336 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 198.223 | -62.68 | 0.14 | -7.146 | -0.619 | -36.519 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 198.223 | -62.68 | 0.14 | -7.146 | -0.619 | -36.519 |
 | **UCC** |198.236 | -62.685 | 0.135 | -7.056 | -0.397 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=198.236,-62.685" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=198.236%20-62.685&output=json&radius=5&userEntry=danks2" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  Danks 2
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.35, distance=2231.0, log_age=6.3` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.15, d_pc=5154.32, logt=8.34` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=6.15, MOD50=13.75, logAge50=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  PHOC 26
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 96.08 | 7.505 | 0.469 | -0.942 | -0.225 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 96.074 | 7.503 | 0.475 | -0.927 | -0.28 | 46.49 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 96.074 | 7.503 | 0.475 | -0.927 | -0.28 | 46.49 |
 | **UCC** |96.075 | 7.501 | 0.48 | -0.91 | -0.28 | 46.024 |
 
 
@@ -60,7 +60,7 @@ title:  PHOC 26
 |[HXHWL 50](https://ucc.ar/_clusters/hxhwl50/)| 100 | 96.075 | 7.501 | 0.48 | -0.908 | -0.28 | 46.024 |
 |[CWWDL 255](https://ucc.ar/_clusters/cwwdl255/)| 86 | 96.075 | 7.497 | 0.491 | -0.915 | -0.269 | 46.488 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.075,7.501" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.075%207.501&output=json&radius=5&userEntry=phoc26" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.075,+7.501" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.075%207.501&output=json&radius=5&userEntry=phoc26" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  PHOC 26
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.48, d_pc=1880.08, logt=8.64` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.48, MOD50=11.35, logAge50=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

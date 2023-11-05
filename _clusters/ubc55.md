@@ -58,7 +58,7 @@ title:  UBC 55
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[FSR 0686](https://ucc.ar/_clusters/fsr0686/)| 83 | 66.401 | 46.134 | 1.1 | -1.085 | -2.614 | -13.09 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=66.37,46.086" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=66.37%2046.086&output=json&radius=5&userEntry=ubc55" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=66.37,+46.086" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=66.37%2046.086&output=json&radius=5&userEntry=ubc55" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  UBC 55
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.38, DMNN=9.76, AgeNN=7.53` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

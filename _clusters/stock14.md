@@ -53,7 +53,7 @@ title:  Stock 14
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 175.925 | -62.537 | 0.385 | -6.388 | 0.714 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 175.931 | -62.527 | 0.387 | -6.384 | 0.711 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 175.924 | -62.543 | 0.417 | -6.414 | 0.711 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 175.925 | -62.533 | 0.383 | -6.428 | 0.747 | -9.011 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 175.925 | -62.533 | 0.383 | -6.428 | 0.747 | -9.011 |
 | **UCC** |175.886 | -62.545 | 0.394 | -6.407 | 0.739 | -25.477 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=175.886,-62.545" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=175.886%20-62.545&output=json&radius=5&userEntry=stock14" target="_blank">Simbad</a></p>
@@ -74,7 +74,7 @@ title:  Stock 14
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.23, Dmod=11.66, logt=7.06` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.4, DMNN=11.9, AgeNN=7.56` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.94, Dist=2286.0, logage=7.15, [Fe/H]=0.12` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.65, d_pc=2340.3, logt=7.18` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.65, MOD50=11.84, logAge50=7.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

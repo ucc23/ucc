@@ -50,7 +50,7 @@ title:  UFMG 22
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | 263.19 | -37.635 | 0.358 | -0.412 | -2.61 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 263.199 | -37.644 | 0.364 | -0.397 | -2.605 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 263.2 | -37.612 | 0.403 | -0.333 | -2.646 | 33.779 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 263.2 | -37.612 | 0.403 | -0.333 | -2.646 | 33.779 |
 | **UCC** |263.205 | -37.62 | 0.392 | -0.336 | -2.672 | 1.465 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=263.205,-37.62" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=263.205%20-37.62&output=json&radius=5&userEntry=ufmg22" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  UFMG 22
 | :---         |     :---:      |
 | [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | `E(B-V)=0.92, m-M=10.9, logt=9.0` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.23, Dist=2327.0, logage=7.08, [Fe/H]=0.26` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.66, d_pc=2306.45, logt=7.34` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.66, MOD50=11.83, logAge50=7.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

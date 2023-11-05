@@ -51,11 +51,11 @@ title:  Dolidze 25
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 101.28 | 0.24 | -- | 0.7 | -2.31 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 101.28 | 0.24 | -- | -0.031 | -1.217 | 77.4 |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 101.269 | 0.266 | 0.209 | -0.267 | 0.231 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 101.267 | 0.228 | 0.201 | -0.328 | 0.263 | 53.822 |
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 101.194 | 0.318 | 0.198 | -0.364 | 0.256 | 57.96 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 101.267 | 0.228 | 0.201 | -0.328 | 0.263 | 53.822 |
 | **UCC** |101.268 | 0.255 | 0.208 | -0.359 | 0.266 | 66.554 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=101.268,0.255" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=101.268%200.255&output=json&radius=5&userEntry=dolidze25" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=101.268,+0.255" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=101.268%200.255&output=json&radius=5&userEntry=dolidze25" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,8 +71,8 @@ title:  Dolidze 25
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.67, distance=2800.0, log_age=6.75` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.68, Dmod=13.72, logt=7.14` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.64, d_pc=4103.14, logt=7.89` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=2.25, m-M=12.95, logA=7.3` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.64, MOD50=13.23, logAge50=7.89` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -56,7 +56,7 @@ title:  Ruprecht 173
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 310.532 | 35.536 | -- | -- | -- | -- |
 | **UCC** |310.484 | 35.555 | 0.204 | -4.336 | -5.344 | -33.83 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.484,35.555" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.484%2035.555&output=json&radius=5&userEntry=ruprecht173" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.484,+35.555" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.484%2035.555&output=json&radius=5&userEntry=ruprecht173" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,4 +73,4 @@ title:  Ruprecht 173
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.73, distance=1791.0, log_age=8.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

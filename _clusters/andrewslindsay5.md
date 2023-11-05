@@ -50,7 +50,7 @@ title:  Andrews-Lindsay 5
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 281.085 | -4.93 | -- | 2.59 | -6.33 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 281.079 | -4.931 | 0.137 | -0.901 | -3.562 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 281.078 | -4.93 | 0.213 | -0.916 | -3.656 | 71.902 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 281.078 | -4.93 | 0.213 | -0.916 | -3.656 | 71.902 |
 | **UCC** |281.08 | -4.931 | 0.195 | -0.901 | -3.596 | 55.718 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=281.08,-4.931" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=281.08%20-4.931&output=json&radius=5&userEntry=andrewslindsay5" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  Andrews-Lindsay 5
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=2.42, distance=2289.0, log_age=6.0` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.42, d_pc=3857.79, logt=8.04` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.42, MOD50=13.04, logAge50=8.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

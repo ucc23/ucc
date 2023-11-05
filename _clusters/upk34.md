@@ -48,7 +48,7 @@ title:  UPK 34
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 278.662 | -1.846 | 1.127 | -2.197 | -3.064 | -38.409 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 278.662 | -1.846 | 1.127 | -2.197 | -3.064 | -38.409 |
 | **UCC** |279.011 | -2.135 | 0.754 | -2.189 | -3.14 | -12.959 |
 
 
@@ -73,7 +73,7 @@ title:  UPK 34
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.36, d_pc=839.58, logt=8.34` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=5.36, MOD50=9.6, logAge50=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

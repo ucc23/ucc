@@ -52,7 +52,7 @@ title:  Teutsch 55
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 37.245 | 62.094 | -- | -0.961 | -2.646 | -- |
 | **UCC** |37.313 | 62.092 | 0.399 | -1.125 | -0.168 | -54.17 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.313,62.092" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.313%2062.092&output=json&radius=5&userEntry=teutsch55" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=37.313,+62.092" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.313%2062.092&output=json&radius=5&userEntry=teutsch55" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  Teutsch 55
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.47, Dmod=10.36, logt=6.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

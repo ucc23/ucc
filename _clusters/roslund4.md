@@ -51,10 +51,10 @@ title:  Roslund 4
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 301.23 | 29.217 | -- | -5.016 | -5.668 | -15.7 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 301.199 | 29.196 | 0.423 | -2.166 | -5.057 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 301.212 | 29.188 | 0.46 | -2.168 | -5.089 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 301.214 | 29.191 | 0.433 | -2.231 | -5.17 | 55.191 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 301.214 | 29.191 | 0.433 | -2.231 | -5.17 | 55.191 |
 | **UCC** |301.189 | 29.194 | 0.435 | -2.186 | -5.123 | 55.283 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.189,29.194" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.189%2029.194&output=json&radius=5&userEntry=roslund4" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.189,+29.194" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.189%2029.194&output=json&radius=5&userEntry=roslund4" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,7 +70,7 @@ title:  Roslund 4
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.96, Dmod=12.0, logt=7.53` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.33, DMNN=11.57, AgeNN=7.23` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.3, d_pc=2139.59, logt=6.99` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.3, MOD50=11.66, logAge50=6.99` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

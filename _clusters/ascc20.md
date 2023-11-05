@@ -49,7 +49,7 @@ title:  ASCC 20
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 82.189 | 1.64 | -- | 0.59 | 0.33 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 82.194 | 1.721 | 2.73 | -0.569 | 0.759 | 27.886 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 82.194 | 1.721 | 2.73 | -0.569 | 0.759 | 27.886 |
 | **UCC** |82.057 | 1.65 | 2.755 | -0.564 | 0.777 | 28.556 |
 
 
@@ -59,7 +59,7 @@ title:  ASCC 20
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OCSN 57](https://ucc.ar/_clusters/ocsn57/)| 91 | 82.001 | 1.641 | 2.755 | -0.538 | 0.78 | 28.734 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=82.057,1.65" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=82.057%201.65&output=json&radius=5&userEntry=ascc20" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=82.057,+1.65" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=82.057%201.65&output=json&radius=5&userEntry=ascc20" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  ASCC 20
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.06, distance=394.0, log_age=7.0` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.11, d_pc=361.21, logt=7.1` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.11, MOD50=7.76, logAge50=7.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -58,7 +58,7 @@ title:  CWWDL 2552
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 2007](https://ucc.ar/_clusters/cwnu2007/)| 98 | 333.323 | 56.478 | 0.325 | -2.85 | -2.341 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=333.322,56.475" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=333.322%2056.475&output=json&radius=5&userEntry=cwwdl2552" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=333.322,+56.475" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=333.322%2056.475&output=json&radius=5&userEntry=cwwdl2552" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  CWWDL 2552
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.88, Z=0.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

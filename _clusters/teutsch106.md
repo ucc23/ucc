@@ -51,7 +51,7 @@ title:  Teutsch 106
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 164.855 | -59.535 | -- | -0.78 | -3.42 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 164.85 | -59.542 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 164.836 | -59.557 | 0.1 | -5.909 | 2.115 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 164.847 | -59.549 | 0.186 | -6.004 | 2.12 | 12.452 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 164.847 | -59.549 | 0.186 | -6.004 | 2.12 | 12.452 |
 | **UCC** |164.837 | -59.549 | 0.128 | -6.035 | 2.114 | 50.292 |
 
 
@@ -77,7 +77,7 @@ title:  Teutsch 106
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.98, distance=6702.0, log_age=8.78` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.74, DMNN=14.28, AgeNN=9.48` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.03, d_pc=4978.2, logt=8.55` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.03, MOD50=13.61, logAge50=8.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

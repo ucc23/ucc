@@ -49,7 +49,7 @@ title:  Streicher 52
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 85.757 | 13.704 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 85.791 | 13.709 | 0.914 | 0.678 | -3.587 | 16.061 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 85.791 | 13.709 | 0.914 | 0.678 | -3.587 | 16.061 |
 | **UCC** |85.721 | 13.712 | 0.926 | 0.684 | -3.591 | 12.493 |
 
 
@@ -60,7 +60,7 @@ title:  Streicher 52
 |[COIN-Gaia 27](https://ucc.ar/_clusters/coingaia27/)| 75 | 85.762 | 13.731 | 0.923 | 0.678 | -3.594 | 10.88 |
 |[UBC 78](https://ucc.ar/_clusters/ubc78/)| 81 | 85.752 | 13.715 | 0.924 | 0.686 | -3.586 | 10.05 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.721,13.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.721%2013.712&output=json&radius=5&userEntry=streicher52" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=85.721,+13.712" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=85.721%2013.712&output=json&radius=5&userEntry=streicher52" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Streicher 52
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.49, d_pc=1038.04, logt=8.56` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.49, MOD50=10.04, logAge50=8.56` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

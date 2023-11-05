@@ -57,6 +57,7 @@ title:  CWNU 351
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 2501](https://ucc.ar/_clusters/theia2501/)| 95 | 245.249 | -40.844 | 0.896 | -2.802 | -3.439 | -12.057 |
 |[OC 0667](https://ucc.ar/_clusters/oc0667/)| 71 | 245.256 | -40.838 | 0.908 | -2.828 | -3.389 | -15.377 |
 |[LISC 3483](https://ucc.ar/_clusters/lisc3483/)| 60 | 245.252 | -40.833 | 0.921 | -2.846 | -3.387 | -15.377 |
 
@@ -74,8 +75,8 @@ title:  CWNU 351
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.9, dm=10.5, logt=8.4, Z=0.04` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.85, logt=7.55` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.9, m-M=10.5, logAge=8.4, Z=0.04` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.85, logAge=7.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

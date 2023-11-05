@@ -54,7 +54,7 @@ title:  Trumpler 24
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 254.25 | -40.668 | -- | -2.641 | -5.822 | -3.45 |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 253.986 | -40.474 | 0.835 | 0.372 | -1.8 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 254.182 | -40.473 | 2.386 | -3.104 | -7.202 | -14.22 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 254.182 | -40.473 | 2.386 | -3.104 | -7.202 | -14.22 |
 | **UCC** |253.788 | -40.609 | 2.395 | -3.015 | -7.221 | -14.813 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=253.788,-40.609" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=253.788%20-40.609&output=json&radius=5&userEntry=trumpler24" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Trumpler 24
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.43, Dmod=10.28, logt=7.14` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.6, d_pc=414.23, logt=8.34` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.6, MOD50=8.03, logAge50=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

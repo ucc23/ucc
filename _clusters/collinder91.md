@@ -53,7 +53,7 @@ title:  Collinder 91
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 95.385 | 2.317 | -- | -- | -- | -- |
 | **UCC** |95.473 | 2.367 | 0.142 | 0.278 | 0.147 | 78.061 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.473,2.367" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.473%202.367&output=json&radius=5&userEntry=collinder91" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.473,+2.367" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.473%202.367&output=json&radius=5&userEntry=collinder91" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,4 +71,4 @@ title:  Collinder 91
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.41, Dmod=12.23, logt=9.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

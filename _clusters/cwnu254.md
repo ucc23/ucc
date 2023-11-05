@@ -57,9 +57,10 @@ title:  CWNU 254
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 172](https://ucc.ar/_clusters/theia172/)| 59 | 110.253 | 4.058 | 2.159 | -6.505 | -5.354 | 13.454 |
 |[CWWDL 14655](https://ucc.ar/_clusters/cwwdl14655/)| 84 | 110.317 | 3.934 | 2.156 | -6.542 | -5.278 | 13.454 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=110.286,3.852" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.286%203.852&output=json&radius=5&userEntry=cwnu254" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=110.286,+3.852" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.286%203.852&output=json&radius=5&userEntry=cwnu254" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,8 +74,8 @@ title:  CWNU 254
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.35, dm=8.6, logt=7.8, Z=0.02` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.1, logt=7.85` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.35, m-M=8.6, logAge=7.8, Z=0.02` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.1, logAge=7.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

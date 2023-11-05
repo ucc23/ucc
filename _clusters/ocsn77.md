@@ -48,8 +48,8 @@ title:  OCSN 77
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 112.661 | -12.54 | 1.825 | -5.767 | -1.022 | 15.407 |
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 112.66 | -12.82 | 1.88 | -5.79 | -0.99 | 15.22 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 112.661 | -12.54 | 1.825 | -5.767 | -1.022 | 15.407 |
 | **UCC** |112.722 | -12.756 | 1.877 | -5.809 | -1.0 | 15.8 |
 
 
@@ -73,8 +73,8 @@ title:  OCSN 77
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.13, d_pc=531.04, logt=8.12` |
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.13, dm=8.97, logt=8.0` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.13, MOD50=8.56, logAge50=8.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

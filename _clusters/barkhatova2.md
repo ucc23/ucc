@@ -56,7 +56,7 @@ title:  Barkhatova 2
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 325.905 | 51.071 | -- | -1.976 | -3.402 | -- |
 | **UCC** |325.908 | 51.069 | 0.241 | -3.765 | -4.06 | -43.383 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=325.908,51.069" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=325.908%2051.069&output=json&radius=5&userEntry=barkhatova2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=325.908,+51.069" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=325.908%2051.069&output=json&radius=5&userEntry=barkhatova2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,4 +74,4 @@ title:  Barkhatova 2
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.69, Dmod=10.92, logt=6.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

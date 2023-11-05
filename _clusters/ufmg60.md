@@ -58,6 +58,7 @@ title:  UFMG 60
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[LISC 3170](https://ucc.ar/_clusters/lisc3170/)| 82 | 214.646 | -62.657 | 0.468 | -3.914 | -2.539 | -- |
+|[Theia 2819](https://ucc.ar/_clusters/theia2819/)| 78 | 214.648 | -62.657 | 0.471 | -3.912 | -2.536 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=214.654,-62.655" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=214.654%20-62.655&output=json&radius=5&userEntry=ufmg60" target="_blank">Simbad</a></p>
 
@@ -77,4 +78,4 @@ title:  UFMG 60
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.97, Dist=2199.0, logage=8.42, [Fe/H]=0.06` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

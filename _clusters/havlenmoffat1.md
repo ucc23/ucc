@@ -50,7 +50,7 @@ title:  Havlen-Moffat 1
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 259.725 | -38.817 | -- | 0.08 | 0.0 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 259.752 | -38.817 | 0.211 | -1.047 | -2.552 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 259.761 | -38.816 | 0.255 | -1.131 | -2.619 | -76.506 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 259.761 | -38.816 | 0.255 | -1.131 | -2.619 | -76.506 |
 | **UCC** |259.768 | -38.821 | 0.234 | -1.046 | -2.581 | -17.2 |
 
 
@@ -75,7 +75,7 @@ title:  Havlen-Moffat 1
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.77, distance=4854.0, log_age=6.95` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.78, d_pc=3451.32, logt=7.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.78, MOD50=12.82, logAge50=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

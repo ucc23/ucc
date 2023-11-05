@@ -49,7 +49,7 @@ title:  PHOC 10
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 266.642 | -30.389 | 0.765 | -0.225 | -1.589 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 266.647 | -30.353 | 0.767 | -0.203 | -1.616 | 43.269 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 266.647 | -30.353 | 0.767 | -0.203 | -1.616 | 43.269 |
 | **UCC** |266.633 | -30.394 | 0.761 | -0.199 | -1.575 | 41.188 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=266.633,-30.394" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=266.633%20-30.394&output=json&radius=5&userEntry=phoc10" target="_blank">Simbad</a></p>
@@ -66,7 +66,7 @@ title:  PHOC 10
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.56, d_pc=1237.1, logt=7.67` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.56, MOD50=10.46, logAge50=7.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

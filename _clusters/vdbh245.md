@@ -51,7 +51,7 @@ title:  VDBH 245
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 266.552 | -29.705 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 266.561 | -29.7 | 0.336 | -0.497 | -2.194 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 266.56 | -29.699 | 0.344 | -0.515 | -2.15 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 266.564 | -29.706 | 0.322 | -0.453 | -2.26 | 117.594 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 266.564 | -29.706 | 0.322 | -0.453 | -2.26 | 117.594 |
 | **UCC** |266.563 | -29.702 | 0.334 | -0.465 | -2.248 | 3.305 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=266.563,-29.702" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=266.563%20-29.702&output=json&radius=5&userEntry=vdbh245" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  VDBH 245
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=4.69, Dist=2637.0, logage=7.11, [Fe/H]=0.12` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.22, d_pc=2692.43, logt=6.84` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=6.22, MOD50=12.23, logAge50=6.84` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

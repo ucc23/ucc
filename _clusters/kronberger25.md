@@ -51,7 +51,7 @@ title:  Kronberger 25
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 275.668 | -14.732 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 275.667 | -14.727 | 0.268 | -0.343 | -1.827 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 275.668 | -14.723 | 0.258 | -0.385 | -1.83 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 275.667 | -14.724 | 0.281 | -0.328 | -1.904 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 275.667 | -14.724 | 0.281 | -0.328 | -1.904 | -- |
 | **UCC** |275.667 | -14.715 | 0.295 | -0.328 | -1.901 | -240.386 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=275.667,-14.715" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=275.667%20-14.715&output=json&radius=5&userEntry=kronberger25" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Kronberger 25
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.82, Dist=3449.0, logage=6.81, [Fe/H]=0.23` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.26, d_pc=3052.92, logt=6.76` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.26, MOD50=12.65, logAge50=6.76` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

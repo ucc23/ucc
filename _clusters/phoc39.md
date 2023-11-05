@@ -58,6 +58,7 @@ title:  PHOC 39
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWL 3567](https://ucc.ar/_clusters/cwwl3567/)| 97 | 277.909 | -3.936 | 2.587 | 2.018 | -8.995 | -8.064 |
+|[Theia 23](https://ucc.ar/_clusters/theia23/)| 94 | 277.906 | -3.938 | 2.592 | 2.018 | -8.995 | -8.033 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=277.907,-3.932" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.907%20-3.932&output=json&radius=5&userEntry=phoc39" target="_blank">Simbad</a></p>
 
@@ -73,7 +74,7 @@ title:  PHOC 39
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=3.0, logt=7.25` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=3.0, logAge=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

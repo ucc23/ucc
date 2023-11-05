@@ -49,7 +49,7 @@ title:  Alessi 116
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 310.292 | 20.065 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 310.244 | 20.07 | 1.067 | -6.267 | -9.232 | 23.622 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 310.244 | 20.07 | 1.067 | -6.267 | -9.232 | 23.622 |
 | **UCC** |310.227 | 20.199 | 1.078 | -6.293 | -9.287 | 24.259 |
 
 
@@ -61,7 +61,7 @@ title:  Alessi 116
 |[UBC 131](https://ucc.ar/_clusters/ubc131/)| 95 | 310.23 | 20.203 | 1.081 | -6.293 | -9.291 | 24.143 |
 |[UPK 84](https://ucc.ar/_clusters/upk84/)| 95 | 310.234 | 20.191 | 1.079 | -6.298 | -9.296 | 24.259 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.227,20.199" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.227%2020.199&output=json&radius=5&userEntry=alessi116" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=310.227,+20.199" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=310.227%2020.199&output=json&radius=5&userEntry=alessi116" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,7 +75,7 @@ title:  Alessi 116
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.13, d_pc=902.02, logt=9.04` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.13, MOD50=9.71, logAge50=9.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

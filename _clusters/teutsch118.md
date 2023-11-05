@@ -49,7 +49,7 @@ title:  Teutsch 118
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 286.932 | 4.348 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 286.924 | 4.344 | 0.281 | -1.587 | -4.683 | 35.109 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 286.924 | 4.344 | 0.281 | -1.587 | -4.683 | 35.109 |
 | **UCC** |286.923 | 4.34 | 0.275 | -1.571 | -4.725 | 34.552 |
 
 
@@ -59,7 +59,7 @@ title:  Teutsch 118
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Czernik 39](https://ucc.ar/_clusters/czernik39/)| 95 | 286.924 | 4.338 | 0.273 | -1.574 | -4.728 | 31.558 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=286.923,4.34" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.923%204.34&output=json&radius=5&userEntry=teutsch118" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=286.923,+4.34" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.923%204.34&output=json&radius=5&userEntry=teutsch118" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Teutsch 118
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.2, d_pc=3172.35, logt=8.09` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.2, MOD50=12.47, logAge50=8.09` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -51,6 +51,13 @@ title:  CWNU 357
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 220.514 | -58.398 | 0.97 | -2.08 | -1.79 | -- |
 | **UCC** |220.497 | -58.411 | 0.975 | -2.086 | -1.768 | -1.92 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 3263](https://ucc.ar/_clusters/theia3263/)| 77 | 220.498 | -58.433 | 0.978 | -2.088 | -1.758 | -0.029 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=220.497,-58.411" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=220.497%20-58.411&output=json&radius=5&userEntry=cwnu357" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -65,7 +72,7 @@ title:  CWNU 357
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.8, dm=9.9, logt=8.0, Z=0.02` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=0.8, m-M=9.9, logAge=8.0, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -50,7 +50,7 @@ title:  Riddle 6
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 317.95 | 59.965 | -- | -2.73 | -4.72 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 317.931 | 59.968 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 317.968 | 59.983 | 1.178 | -2.497 | -3.505 | -22.366 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 317.968 | 59.983 | 1.178 | -2.497 | -3.505 | -22.366 |
 | **UCC** |317.963 | 60.004 | 1.176 | -2.535 | -3.5 | -20.55 |
 
 
@@ -60,7 +60,7 @@ title:  Riddle 6
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 385](https://ucc.ar/_clusters/ubc385/)| 84 | 317.934 | 60.007 | 1.175 | -2.531 | -3.505 | -24.645 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.963,60.004" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.963%2060.004&output=json&radius=5&userEntry=riddle6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.963,+60.004" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.963%2060.004&output=json&radius=5&userEntry=riddle6" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,7 +75,7 @@ title:  Riddle 6
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.33, distance=1198.0, log_age=7.1` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.37, d_pc=833.47, logt=6.98` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.37, MOD50=9.55, logAge50=6.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

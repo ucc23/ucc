@@ -50,7 +50,7 @@ title:  Gulliver 12
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 181.174 | -61.308 | 0.559 | -5.948 | -0.41 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 181.192 | -61.31 | 0.559 | -5.947 | -0.421 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 181.17 | -61.312 | 0.581 | -5.943 | -0.373 | -8.07 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 181.17 | -61.312 | 0.581 | -5.943 | -0.373 | -8.07 |
 | **UCC** |181.19 | -61.316 | 0.58 | -5.968 | -0.379 | 6.873 |
 
 
@@ -76,7 +76,7 @@ title:  Gulliver 12
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.58, DMNN=11.18, AgeNN=8.33` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.93, Dist=1617.0, logage=7.96, [Fe/H]=0.09` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.63, d_pc=1621.55, logt=8.04` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.63, MOD50=11.03, logAge50=8.04` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

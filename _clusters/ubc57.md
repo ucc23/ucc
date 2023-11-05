@@ -51,7 +51,7 @@ title:  UBC 57
 |[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 62.962 | 42.722 | 0.481 | 3.191 | -2.243 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 62.981 | 42.723 | 0.48 | 3.234 | -2.274 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 62.967 | 42.731 | 0.467 | 3.149 | -2.23 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 62.976 | 42.721 | 0.525 | 3.099 | -2.287 | 5.121 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 62.976 | 42.721 | 0.525 | 3.099 | -2.287 | 5.121 |
 | **UCC** |62.971 | 42.727 | 0.507 | 3.078 | -2.271 | 5.85 |
 
 
@@ -61,7 +61,7 @@ title:  UBC 57
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 3349](https://ucc.ar/_clusters/cwwdl3349/)| 81 | 62.975 | 42.723 | 0.521 | 3.106 | -2.233 | 5.85 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.971,42.727" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.971%2042.727&output=json&radius=5&userEntry=ubc57" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.971,+42.727" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.971%2042.727&output=json&radius=5&userEntry=ubc57" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -77,7 +77,7 @@ title:  UBC 57
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.11, DMNN=11.6, AgeNN=9.18` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.52, Dist=1602.0, logage=9.24, [Fe/H]=-0.15` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.1, d_pc=1762.5, logt=9.14` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.1, MOD50=11.24, logAge50=9.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

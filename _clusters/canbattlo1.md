@@ -48,7 +48,7 @@ title:  Can-Battlo 1
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 68.556 | 45.457 | 0.337 | -0.266 | -1.08 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 68.556 | 45.457 | 0.337 | -0.266 | -1.08 | -- |
 | **UCC** |68.558 | 45.45 | 0.311 | -0.255 | -1.083 | -9.233 |
 
 
@@ -58,7 +58,7 @@ title:  Can-Battlo 1
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 1607](https://ucc.ar/_clusters/cwnu1607/)| 92 | 68.556 | 45.451 | 0.312 | -0.253 | -1.077 | -9.233 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=68.558,45.45" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=68.558%2045.45&output=json&radius=5&userEntry=canbattlo1" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=68.558,+45.45" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=68.558%2045.45&output=json&radius=5&userEntry=canbattlo1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,7 +72,7 @@ title:  Can-Battlo 1
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.75, d_pc=2874.59, logt=7.96` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.75, MOD50=12.3, logAge50=7.96` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

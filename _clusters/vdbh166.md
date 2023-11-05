@@ -54,7 +54,7 @@ title:  VDBH 166
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 222.716 | -52.271 | 0.564 | -1.808 | -2.317 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 222.694 | -52.285 | 0.562 | -1.794 | -2.279 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 222.705 | -52.27 | 0.597 | -1.826 | -2.274 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 222.688 | -52.273 | 0.546 | -1.836 | -2.293 | 5.295 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 222.688 | -52.273 | 0.546 | -1.836 | -2.293 | 5.295 |
 | **UCC** |222.672 | -52.276 | 0.552 | -1.77 | -2.298 | -5.842 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=222.672,-52.276" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=222.672%20-52.276&output=json&radius=5&userEntry=vdbh166" target="_blank">Simbad</a></p>
@@ -75,7 +75,7 @@ title:  VDBH 166
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.5, Dmod=10.99, logt=7.72` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.21, DMNN=11.22, AgeNN=8.42` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.78, Dist=1619.0, logage=7.5, [Fe/H]=-0.02` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.59, d_pc=1692.71, logt=7.9` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.59, MOD50=11.15, logAge50=7.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

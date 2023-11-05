@@ -56,7 +56,7 @@ title:  ASCC 17
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 81.3 | 30.173 | -- | -- | -- | -- |
 | **UCC** |81.327 | 30.177 | 0.253 | 0.226 | -1.754 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.327,30.177" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.327%2030.177&output=json&radius=5&userEntry=ascc17" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.327,+30.177" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.327%2030.177&output=json&radius=5&userEntry=ascc17" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,4 +73,4 @@ title:  ASCC 17
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.37, distance=1850.0, log_age=7.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

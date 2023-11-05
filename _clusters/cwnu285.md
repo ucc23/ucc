@@ -57,6 +57,7 @@ title:  CWNU 285
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 2341](https://ucc.ar/_clusters/theia2341/)| 88 | 255.62 | -42.883 | 0.938 | 0.491 | -2.454 | 6.555 |
 |[CWWDL 14391](https://ucc.ar/_clusters/cwwdl14391/)| 96 | 255.615 | -42.886 | 0.939 | 0.491 | -2.45 | 6.555 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=255.596,-42.887" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=255.596%20-42.887&output=json&radius=5&userEntry=cwnu285" target="_blank">Simbad</a></p>
@@ -73,8 +74,8 @@ title:  CWNU 285
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.1, dm=9.55, logt=8.7, Z=0.0` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.8, logt=7.5` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.1, m-M=9.55, logAge=8.7, Z=0.0` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.8, logAge=7.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

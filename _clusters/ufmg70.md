@@ -49,7 +49,7 @@ title:  UFMG 70
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | 264.2 | -29.872 | 0.529 | 1.446 | 0.568 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 264.279 | -29.906 | 0.524 | 1.349 | 0.587 | -16.354 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 264.279 | -29.906 | 0.524 | 1.349 | 0.587 | -16.354 |
 | **UCC** |264.203 | -29.88 | 0.528 | 1.398 | 0.602 | -20.571 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=264.203,-29.88" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=264.203%20-29.88&output=json&radius=5&userEntry=ufmg70" target="_blank">Simbad</a></p>
@@ -67,7 +67,7 @@ title:  UFMG 70
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.75, Dmod=10.6, logt=8.9` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.95, d_pc=1782.84, logt=7.66` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.95, MOD50=11.27, logAge50=7.66` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

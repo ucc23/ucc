@@ -51,7 +51,7 @@ title:  UBC 17 a
 |[Castro-Ginard et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..59C/abstract) | 83.383 | -1.584 | 2.748 | 1.593 | -1.207 | 18.96 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 83.422 | -1.671 | 2.753 | 1.582 | -1.2 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.33 | -1.606 | 2.753 | 1.557 | -1.218 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 84.776 | -1.932 | 2.771 | 1.801 | -1.299 | 11.737 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 84.776 | -1.932 | 2.771 | 1.801 | -1.299 | 11.737 |
 | **UCC** |83.771 | -1.66 | 2.777 | 1.641 | -1.237 | 17.4 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.771,-1.66" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.771%20-1.66&output=json&radius=5&userEntry=ubc17a" target="_blank">Simbad</a></p>
@@ -70,7 +70,7 @@ title:  UBC 17 a
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.8, DMNN=7.73, AgeNN=7.27` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.51, Dist=355.0, logage=7.05, [Fe/H]=-0.23` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.24, d_pc=356.76, logt=6.66` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.24, MOD50=7.71, logAge50=6.66` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

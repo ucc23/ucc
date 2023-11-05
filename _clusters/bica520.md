@@ -56,7 +56,7 @@ title:  Bica 520
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_4271](https://ucc.ar/_clusters/cwnu4271/)| 53 | 256.817 | -40.763 | 0.269 | -1.318 | -2.672 | -21.065 |
+|[CWNU 4271](https://ucc.ar/_clusters/cwnu4271/)| 53 | 256.817 | -40.763 | 0.269 | -1.318 | -2.672 | -21.065 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=256.846,-40.74" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=256.846%20-40.74&output=json&radius=5&userEntry=bica520" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Bica 520
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

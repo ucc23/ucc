@@ -56,9 +56,9 @@ title:  Steine 31
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3825](https://ucc.ar/_clusters/cwnu3825/)| 80 | 295.576 | 19.66 | 0.074 | -3.034 | -5.701 | 21.083 |
+|[CWNU 3825](https://ucc.ar/_clusters/cwnu3825/)| 80 | 295.576 | 19.66 | 0.074 | -3.034 | -5.701 | 21.083 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.565,19.658" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.565%2019.658&output=json&radius=5&userEntry=steine31" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.565,+19.658" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.565%2019.658&output=json&radius=5&userEntry=steine31" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  Steine 31
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

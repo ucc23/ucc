@@ -61,7 +61,7 @@ title:  ASCC 16
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Briceno 1](https://ucc.ar/_clusters/briceno1/)| 88 | 81.199 | 1.637 | 2.879 | 1.362 | -0.062 | 18.198 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.208,1.607" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.208%201.607&output=json&radius=5&userEntry=ascc16" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.208,+1.607" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.208%201.607&output=json&radius=5&userEntry=ascc16" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,7 +78,7 @@ title:  ASCC 16
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.02, distance=397.0, log_age=7.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.2, DMNN=7.69, AgeNN=7.13` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.22, Dist=348.0, logage=7.09, [Fe/H]=-0.06` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logt=6.9` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.05, logAge=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

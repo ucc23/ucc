@@ -56,7 +56,7 @@ title:  Biurakan 1
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 301.875 | 35.713 | -- | -0.391 | -0.929 | -8.0 |
 | **UCC** |301.89 | 35.717 | 0.192 | -3.253 | -5.236 | -29.866 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.89,35.717" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.89%2035.717&output=json&radius=5&userEntry=biurakan1" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.89,+35.717" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.89%2035.717&output=json&radius=5&userEntry=biurakan1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,4 +74,4 @@ title:  Biurakan 1
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.26, Dmod=12.63, logt=8.92` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

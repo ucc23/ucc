@@ -52,7 +52,7 @@ title:  Pismis 11
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 138.974 | -50.006 | 0.335 | -5.397 | 3.926 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 138.973 | -50.01 | 0.329 | -5.386 | 3.915 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 138.969 | -50.006 | 0.379 | -5.372 | 3.902 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 138.973 | -50.007 | 0.372 | -5.336 | 4.012 | 91.648 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 138.973 | -50.007 | 0.372 | -5.336 | 4.012 | 91.648 |
 | **UCC** |138.974 | -50.001 | 0.376 | -5.336 | 4.004 | 88.893 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=138.974,-50.001" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=138.974%20-50.001&output=json&radius=5&userEntry=pismis11" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Pismis 11
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.27, distance=4767.0, log_age=6.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=3.7, DMNN=12.24, AgeNN=6.52` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.3, Dist=2340.0, logage=6.78, [Fe/H]=0.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.18, d_pc=2476.97, logt=6.82` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.18, MOD50=11.98, logAge50=6.82` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

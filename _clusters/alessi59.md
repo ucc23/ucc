@@ -55,7 +55,7 @@ title:  Alessi 59
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 103.071 | 2.197 | 0.199 | -0.604 | 0.22 | -- |
 | **UCC** |103.068 | 2.196 | 0.233 | -0.522 | 0.169 | 75.066 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.068,2.196" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.068%202.196&output=json&radius=5&userEntry=alessi59" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.068,+2.196" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.068%202.196&output=json&radius=5&userEntry=alessi59" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,4 +74,4 @@ title:  Alessi 59
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.62, Dist=4387.0, logage=8.76, [Fe/H]=-0.09` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

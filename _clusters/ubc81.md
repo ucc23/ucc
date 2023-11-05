@@ -59,7 +59,7 @@ title:  UBC 81
 |[COIN-Gaia 28](https://ucc.ar/_clusters/coingaia28/)| 93 | 96.332 | 11.163 | 0.585 | -1.119 | -0.968 | 29.717 |
 |[CWWDL 6296](https://ucc.ar/_clusters/cwwdl6296/)| 93 | 96.332 | 11.163 | 0.585 | -1.118 | -0.968 | 29.717 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.329,11.163" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.329%2011.163&output=json&radius=5&userEntry=ubc81" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.329,+11.163" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.329%2011.163&output=json&radius=5&userEntry=ubc81" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  UBC 81
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

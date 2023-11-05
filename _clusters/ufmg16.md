@@ -52,6 +52,13 @@ title:  UFMG 16
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 245.084 | -44.862 | 0.737 | 0.494 | -2.352 | -- |
 | **UCC** |245.07 | -44.87 | 0.759 | 0.492 | -2.254 | -37.705 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 1907](https://ucc.ar/_clusters/theia1907/)| 64 | 245.061 | -44.896 | 0.765 | 0.492 | -2.254 | -26.604 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=245.07,-44.87" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=245.07%20-44.87&output=json&radius=5&userEntry=ufmg16" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -70,4 +77,4 @@ title:  UFMG 16
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.63, Dist=1249.0, logage=7.92, [Fe/H]=0.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

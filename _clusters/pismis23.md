@@ -50,7 +50,7 @@ title:  Pismis 23
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 245.991 | -48.895 | -- | -7.45 | 1.19 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 245.99 | -48.891 | 0.166 | -2.679 | -3.209 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 245.992 | -48.893 | 0.181 | -2.718 | -3.334 | -38.085 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 245.992 | -48.893 | 0.181 | -2.718 | -3.334 | -38.085 |
 | **UCC** |245.978 | -48.891 | 0.217 | -2.664 | -3.221 | -68.591 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=245.978,-48.891" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=245.978%20-48.891&output=json&radius=5&userEntry=pismis23" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  Pismis 23
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.46, distance=2820.0, log_age=8.56` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.44, d_pc=4427.26, logt=8.71` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=5.44, MOD50=13.38, logAge50=8.71` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

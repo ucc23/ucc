@@ -49,7 +49,7 @@ title:  DBSB 101
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 242.631 | -49.014 | 0.52 | -1.822 | -2.193 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 242.617 | -49.04 | 0.538 | -1.979 | -2.173 | 1.419 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 242.617 | -49.04 | 0.538 | -1.979 | -2.173 | 1.419 |
 | **UCC** |242.578 | -49.057 | 0.524 | -2.076 | -2.148 | -26.232 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=242.578,-49.057" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=242.578%20-49.057&output=json&radius=5&userEntry=dbsb101" target="_blank">Simbad</a></p>
@@ -67,7 +67,7 @@ title:  DBSB 101
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=3.07, DMNN=11.36, AgeNN=7.05` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.26, d_pc=1769.32, logt=6.62` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.26, MOD50=11.26, logAge50=6.62` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

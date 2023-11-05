@@ -50,7 +50,7 @@ title:  UFMG 39
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | 219.01 | -57.865 | 0.626 | -3.421 | -1.616 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 218.995 | -57.865 | 0.624 | -3.422 | -1.627 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 219.02 | -57.874 | 0.651 | -3.451 | -1.585 | -29.556 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 219.02 | -57.874 | 0.651 | -3.451 | -1.585 | -29.556 |
 | **UCC** |218.998 | -57.886 | 0.656 | -3.401 | -1.587 | -29.591 |
 
 
@@ -76,7 +76,7 @@ title:  UFMG 39
 | :---         |     :---:      |
 | [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | `E(B-V)=0.5, m-M=10.5, logt=8.75` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.73, Dist=1503.0, logage=8.37, [Fe/H]=0.01` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.52, d_pc=1452.26, logt=8.46` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.52, MOD50=10.81, logAge50=8.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -48,7 +48,7 @@ title:  Collinder 367
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 272.456 | -23.652 | 0.783 | 1.893 | -1.515 | -22.582 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 272.456 | -23.652 | 0.783 | 1.893 | -1.515 | -22.582 |
 | **UCC** |272.442 | -23.639 | 0.776 | 1.893 | -1.514 | -18.354 |
 
 
@@ -73,7 +73,7 @@ title:  Collinder 367
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.66, d_pc=1218.86, logt=6.63` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.66, MOD50=10.44, logAge50=6.63` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

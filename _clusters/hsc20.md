@@ -48,7 +48,7 @@ title:  HSC 20
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 265.566 | -26.111 | 0.326 | 0.536 | -0.207 | -0.682 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 265.566 | -26.111 | 0.326 | 0.536 | -0.207 | -0.682 |
 | **UCC** |265.56 | -26.102 | 0.338 | 0.54 | -0.19 | -0.692 |
 
 
@@ -56,7 +56,7 @@ title:  HSC 20
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3240](https://ucc.ar/_clusters/cwnu3240/)| 94 | 265.563 | -26.097 | 0.332 | 0.54 | -0.191 | -0.692 |
+|[CWNU 3240](https://ucc.ar/_clusters/cwnu3240/)| 94 | 265.563 | -26.097 | 0.332 | 0.54 | -0.191 | -0.692 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=265.56,-26.102" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=265.56%20-26.102&output=json&radius=5&userEntry=hsc20" target="_blank">Simbad</a></p>
 
@@ -72,7 +72,7 @@ title:  HSC 20
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.88, d_pc=2739.7, logt=8.23` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.88, MOD50=12.25, logAge50=8.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

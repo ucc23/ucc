@@ -52,7 +52,7 @@ title:  Teutsch 80
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 223.369 | -60.482 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 223.361 | -60.478 | 0.349 | -5.553 | -3.581 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 223.367 | -60.485 | 0.34 | -5.543 | -3.603 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 223.359 | -60.474 | 0.339 | -5.586 | -3.678 | -14.6 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 223.359 | -60.474 | 0.339 | -5.586 | -3.678 | -14.6 |
 | **UCC** |223.359 | -60.481 | 0.345 | -5.589 | -3.652 | -22.417 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=223.359,-60.481" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=223.359%20-60.481&output=json&radius=5&userEntry=teutsch80" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Teutsch 80
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.69, distance=2352.0, log_age=7.75` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=4.0, DMNN=11.93, AgeNN=8.35` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.85, Dist=2157.0, logage=8.8, [Fe/H]=0.23` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.15, d_pc=2604.52, logt=7.96` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=5.15, MOD50=12.11, logAge50=7.96` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

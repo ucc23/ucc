@@ -51,7 +51,7 @@ title:  Toepler 1
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 300.322 | 33.615 | -- | -2.77 | -0.5 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 300.318 | 33.615 | 0.252 | -2.349 | -5.081 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 300.319 | 33.615 | 0.252 | -2.355 | -5.079 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 300.323 | 33.613 | 0.279 | -2.349 | -5.07 | -4.262 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 300.323 | 33.613 | 0.279 | -2.349 | -5.07 | -4.262 |
 | **UCC** |300.319 | 33.608 | 0.257 | -2.344 | -5.087 | -3.384 |
 
 
@@ -62,7 +62,7 @@ title:  Toepler 1
 |[OC 0098](https://ucc.ar/_clusters/oc0098/)| 86 | 300.318 | 33.612 | 0.267 | -2.348 | -5.105 | -3.053 |
 |[OC 0099](https://ucc.ar/_clusters/oc0099/)| 82 | 300.318 | 33.612 | 0.274 | -2.345 | -5.081 | -2.721 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.319,33.608" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.319%2033.608&output=json&radius=5&userEntry=toepler1" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.319,+33.608" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.319%2033.608&output=json&radius=5&userEntry=toepler1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -79,7 +79,7 @@ title:  Toepler 1
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.62, distance=2088.0, log_age=8.65` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.93, DMNN=12.69, AgeNN=7.81` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.22, Dist=3111.0, logage=7.79, [Fe/H]=0.14` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.36, d_pc=3272.03, logt=8.07` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.36, MOD50=12.54, logAge50=8.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

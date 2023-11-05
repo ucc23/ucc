@@ -50,7 +50,7 @@ title:  Ruprecht 118
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 246.18 | -51.94 | -- | -2.49 | -4.09 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 246.145 | -51.954 | 0.285 | -3.152 | -4.345 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 246.123 | -51.918 | 0.356 | -3.168 | -4.316 | -58.131 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 246.123 | -51.918 | 0.356 | -3.168 | -4.316 | -58.131 |
 | **UCC** |246.111 | -51.923 | 0.347 | -3.176 | -4.327 | -49.954 |
 
 
@@ -76,7 +76,7 @@ title:  Ruprecht 118
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.15, distance=974.0, log_age=8.94` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.14, Dist=2224.0, logage=8.43, [Fe/H]=0.39` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.32, d_pc=2562.43, logt=8.12` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.32, MOD50=12.01, logAge50=8.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

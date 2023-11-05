@@ -59,7 +59,7 @@ title:  UBC 34
 |[Steine 12](https://ucc.ar/_clusters/steine12/)| 94 | 11.809 | 66.726 | 1.55 | -5.034 | -3.153 | -13.825 |
 |[COIN-Gaia 1](https://ucc.ar/_clusters/coingaia1/)| 95 | 11.82 | 66.727 | 1.55 | -5.033 | -3.153 | -13.683 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=11.828,66.707" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=11.828%2066.707&output=json&radius=5&userEntry=ubc34" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=11.828,+66.707" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=11.828%2066.707&output=json&radius=5&userEntry=ubc34" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  UBC 34
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

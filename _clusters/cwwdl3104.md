@@ -56,6 +56,7 @@ title:  CWWDL 3104
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 6978](https://ucc.ar/_clusters/theia6978/)| 92 | 133.919 | -38.572 | 0.243 | -4.978 | 3.857 | 50.399 |
 |[UBC 1438](https://ucc.ar/_clusters/ubc1438/)| 85 | 133.923 | -38.573 | 0.235 | -5.001 | 3.856 | 48.509 |
 |[LISC 0901](https://ucc.ar/_clusters/lisc0901/)| 92 | 133.919 | -38.571 | 0.244 | -4.978 | 3.855 | 50.399 |
 
@@ -76,4 +77,4 @@ title:  CWWDL 3104
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.03, Z=-0.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

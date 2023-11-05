@@ -49,7 +49,7 @@ title:  Alessi 191
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 282.117 | 22.054 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 282.135 | 22.061 | 0.979 | -1.049 | 3.03 | -8.989 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 282.135 | 22.061 | 0.979 | -1.049 | 3.03 | -8.989 |
 | **UCC** |282.116 | 22.031 | 0.966 | -1.016 | 3.011 | -9.257 |
 
 
@@ -59,7 +59,7 @@ title:  Alessi 191
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 577](https://ucc.ar/_clusters/ubc577/)| 71 | 282.116 | 22.059 | 0.992 | -1.012 | 2.991 | -9.141 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.116,22.031" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.116%2022.031&output=json&radius=5&userEntry=alessi191" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=282.116,+22.031" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.116%2022.031&output=json&radius=5&userEntry=alessi191" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Alessi 191
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.45, d_pc=983.02, logt=8.98` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.45, MOD50=9.96, logAge50=8.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

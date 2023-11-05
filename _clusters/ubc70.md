@@ -60,7 +60,7 @@ title:  UBC 70
 |[COIN-Gaia 22](https://ucc.ar/_clusters/coingaia22/)| 94 | 91.065 | 31.6 | 0.505 | -0.764 | -3.284 | 12.872 |
 |[Kronberger 6](https://ucc.ar/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.059,31.603" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.059%2031.603&output=json&radius=5&userEntry=ubc70" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.059,+31.603" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.059%2031.603&output=json&radius=5&userEntry=ubc70" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,4 +71,4 @@ title:  UBC 70
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

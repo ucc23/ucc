@@ -49,7 +49,7 @@ title:  Casado 13
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | 10.315 | 63.579 | 0.26 | -1.7 | -0.3 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
 | **UCC** |10.286 | 63.593 | 0.232 | -1.725 | -0.459 | -67.244 |
 
 
@@ -59,7 +59,7 @@ title:  Casado 13
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 2044](https://ucc.ar/_clusters/cwnu2044/)| 97 | 10.287 | 63.593 | 0.232 | -1.725 | -0.461 | -67.244 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=10.286,63.593" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=10.286%2063.593&output=json&radius=5&userEntry=casado13" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=10.286,+63.593" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=10.286%2063.593&output=json&radius=5&userEntry=casado13" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Casado 13
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C/abstract) | `d_kpc=3.4` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.02, d_pc=3764.74, logt=7.51` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.02, MOD50=12.87, logAge50=7.51` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

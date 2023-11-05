@@ -49,7 +49,7 @@ title:  Teutsch 176
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 58.203 | 45.955 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 58.21 | 45.975 | 1.035 | -1.439 | -3.031 | -6.335 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 58.21 | 45.975 | 1.035 | -1.439 | -3.031 | -6.335 |
 | **UCC** |58.169 | 45.967 | 1.025 | -1.426 | -3.024 | -10.819 |
 
 
@@ -60,7 +60,7 @@ title:  Teutsch 176
 |[UBC 88](https://ucc.ar/_clusters/ubc88/)| 88 | 58.157 | 45.97 | 1.032 | -1.441 | -3.018 | -11.172 |
 |[UPK 322](https://ucc.ar/_clusters/upk322/)| 99 | 58.169 | 45.963 | 1.025 | -1.429 | -3.028 | -10.819 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=58.169,45.967" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=58.169%2045.967&output=json&radius=5&userEntry=teutsch176" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=58.169,+45.967" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=58.169%2045.967&output=json&radius=5&userEntry=teutsch176" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Teutsch 176
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.08, d_pc=938.32, logt=7.92` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.08, MOD50=9.82, logAge50=7.92` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

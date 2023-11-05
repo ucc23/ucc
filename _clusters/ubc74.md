@@ -60,7 +60,7 @@ title:  UBC 74
 |[FoF 1973](https://ucc.ar/_clusters/fof1973/)| 78 | 95.461 | 22.408 | 0.351 | 1.002 | -2.597 | 30.69 |
 |[CWWDL 2960](https://ucc.ar/_clusters/cwwdl2960/)| 83 | 95.46 | 22.405 | 0.35 | 1.0 | -2.598 | 28.411 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.461,22.405" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.461%2022.405&output=json&radius=5&userEntry=ubc74" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.461,+22.405" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.461%2022.405&output=json&radius=5&userEntry=ubc74" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -77,4 +77,4 @@ title:  UBC 74
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.38, DMNN=12.05, AgeNN=8.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

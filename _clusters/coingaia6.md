@@ -50,7 +50,7 @@ title:  COIN-Gaia 6
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 28.101 | 58.636 | 0.277 | -2.355 | -0.49 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 28.082 | 58.625 | 0.272 | -2.382 | -0.484 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 28.138 | 58.635 | 0.299 | -2.346 | -0.483 | -42.596 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 28.138 | 58.635 | 0.299 | -2.346 | -0.483 | -42.596 |
 | **UCC** |28.1 | 58.642 | 0.296 | -2.355 | -0.466 | -42.396 |
 
 
@@ -60,7 +60,7 @@ title:  COIN-Gaia 6
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 43](https://ucc.ar/_clusters/ubc43/)| 90 | 28.103 | 58.634 | 0.293 | -2.355 | -0.469 | -65.111 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.1,58.642" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.1%2058.642&output=json&radius=5&userEntry=coingaia6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=28.1,+58.642" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.1%2058.642&output=json&radius=5&userEntry=coingaia6" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,7 +76,7 @@ title:  COIN-Gaia 6
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.18, DMNN=12.57, AgeNN=8.68` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.56, Dist=2899.0, logage=8.77, [Fe/H]=-0.13` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.15, d_pc=3078.71, logt=8.73` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.15, MOD50=12.42, logAge50=8.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

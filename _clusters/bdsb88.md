@@ -56,7 +56,7 @@ title:  BDSB 88
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3207](https://ucc.ar/_clusters/cwnu3207/)| 55 | 103.511 | -4.558 | 0.281 | -0.706 | 0.626 | -- |
+|[CWNU 3207](https://ucc.ar/_clusters/cwnu3207/)| 55 | 103.511 | -4.558 | 0.281 | -0.706 | 0.626 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.568,-4.559" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.568%20-4.559&output=json&radius=5&userEntry=bdsb88" target="_blank">Simbad</a></p>
 
@@ -75,4 +75,4 @@ title:  BDSB 88
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.42, distance=1791.0, log_age=7.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

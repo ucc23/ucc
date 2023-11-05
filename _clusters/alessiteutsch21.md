@@ -49,7 +49,7 @@ title:  Alessi-Teutsch 21
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 15.073 | 55.38 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 15.098 | 55.406 | 0.76 | -4.438 | -2.065 | -33.137 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 15.098 | 55.406 | 0.76 | -4.438 | -2.065 | -33.137 |
 | **UCC** |15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
 
 
@@ -60,7 +60,7 @@ title:  Alessi-Teutsch 21
 |[COIN-Gaia 2](https://ucc.ar/_clusters/coingaia2/)| 63 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
 |[UBC 35](https://ucc.ar/_clusters/ubc35/)| 81 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=15.055,55.455" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.055%2055.455&output=json&radius=5&userEntry=alessiteutsch21" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=15.055,+55.455" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.055%2055.455&output=json&radius=5&userEntry=alessiteutsch21" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -74,7 +74,7 @@ title:  Alessi-Teutsch 21
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.81, d_pc=1232.9, logt=8.57` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.81, MOD50=10.43, logAge50=8.57` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

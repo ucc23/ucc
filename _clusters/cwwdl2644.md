@@ -57,9 +57,9 @@ title:  CWWDL 2644
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[HSC 1310](https://ucc.ar/_clusters/hsc1310/)| 99 | 78.928 | 39.642 | 0.216 | 0.607 | -0.676 | -- |
-|[CWNU_3519](https://ucc.ar/_clusters/cwnu3519/)| 99 | 78.928 | 39.642 | 0.216 | 0.607 | -0.676 | -- |
+|[CWNU 3519](https://ucc.ar/_clusters/cwnu3519/)| 99 | 78.928 | 39.642 | 0.216 | 0.607 | -0.676 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=78.928,39.641" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.928%2039.641&output=json&radius=5&userEntry=cwwdl2644" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=78.928,+39.641" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=78.928%2039.641&output=json&radius=5&userEntry=cwwdl2644" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  CWWDL 2644
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=7.7, Z=0.07` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -51,7 +51,7 @@ title:  VDBH 84
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 150.338 | -58.215 | -- | -4.35 | 5.32 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 150.331 | -58.218 | 0.2 | -4.848 | 3.289 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 150.34 | -58.217 | 0.184 | -4.827 | 3.285 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 150.331 | -58.224 | 0.23 | -4.877 | 3.329 | 18.373 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 150.331 | -58.224 | 0.23 | -4.877 | 3.329 | 18.373 |
 | **UCC** |150.33 | -58.22 | 0.234 | -4.853 | 3.317 | 18.383 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=150.33,-58.22" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=150.33%20-58.22&output=json&radius=5&userEntry=vdbh84" target="_blank">Simbad</a></p>
@@ -71,7 +71,7 @@ title:  VDBH 84
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=1282.0, log_age=7.7` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.09, DMNN=13.24, AgeNN=8.13` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.69, Dist=2404.0, logage=9.05, [Fe/H]=0.2` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.75, d_pc=3803.05, logt=8.21` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.75, MOD50=12.9, logAge50=8.21` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

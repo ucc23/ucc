@@ -69,7 +69,7 @@ title:  CMa08
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `Av=1.01;0.99, d_pc=1138;1005, logt=7.26;7.26, FeH=0.05;0.05` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `AVPs=1.01;0.99, DPs=1138;1005.0, Ages=18.0;18, [Fe/H]s=0.05;0.05` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-02</i></font>

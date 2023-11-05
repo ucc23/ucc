@@ -48,7 +48,7 @@ title:  HSC 97
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 271.286 | -23.803 | 0.326 | -0.024 | -1.464 | 85.582 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 271.286 | -23.803 | 0.326 | -0.024 | -1.464 | 85.582 |
 | **UCC** |271.282 | -23.814 | 0.322 | -0.005 | -1.461 | 25.363 |
 
 
@@ -72,7 +72,7 @@ title:  HSC 97
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.54, d_pc=2701.09, logt=8.18` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.54, MOD50=12.24, logAge50=8.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

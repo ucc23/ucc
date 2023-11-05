@@ -52,7 +52,7 @@ title:  Bochum 13
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 259.35 | -35.551 | -- | 0.643 | -5.067 | -2.5 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 259.333 | -35.529 | 0.567 | -0.286 | -1.284 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 259.324 | -35.535 | 0.57 | -0.282 | -1.276 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 259.333 | -35.534 | 0.57 | -0.255 | -1.295 | -28.177 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 259.333 | -35.534 | 0.57 | -0.255 | -1.295 | -28.177 |
 | **UCC** |259.328 | -35.528 | 0.575 | -0.282 | -1.225 | -65.937 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=259.328,-35.528" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=259.328%20-35.528&output=json&radius=5&userEntry=bochum13" target="_blank">Simbad</a></p>
@@ -73,7 +73,7 @@ title:  Bochum 13
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.83, Dmod=10.21, logt=6.99` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.63, DMNN=11.11, AgeNN=6.95` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.5, Dist=1611.0, logage=6.96, [Fe/H]=0.3` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.94, d_pc=1633.56, logt=6.7` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.94, MOD50=11.08, logAge50=6.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

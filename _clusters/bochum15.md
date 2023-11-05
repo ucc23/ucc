@@ -49,7 +49,7 @@ title:  Bochum 15
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 115.035 | -33.569 | -- | -3.737 | 4.906 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 115.072 | -33.551 | 0.257 | -2.23 | 3.044 | 64.423 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 115.072 | -33.551 | 0.257 | -2.23 | 3.044 | 64.423 |
 | **UCC** |115.048 | -33.557 | 0.257 | -2.258 | 3.04 | -- |
 
 
@@ -57,7 +57,7 @@ title:  Bochum 15
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3351](https://ucc.ar/_clusters/cwnu3351/)| 78 | 115.067 | -33.555 | 0.259 | -2.26 | 3.042 | -- |
+|[CWNU 3351](https://ucc.ar/_clusters/cwnu3351/)| 78 | 115.067 | -33.555 | 0.259 | -2.26 | 3.042 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=115.048,-33.557" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=115.048%20-33.557&output=json&radius=5&userEntry=bochum15" target="_blank">Simbad</a></p>
 
@@ -74,7 +74,7 @@ title:  Bochum 15
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.57, Dmod=12.24, logt=6.76` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.58, d_pc=3389.98, logt=7.77` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.58, MOD50=12.83, logAge50=7.77` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -52,7 +52,7 @@ title:  Lynga 6
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 241.215 | -51.934 | -- | -1.088 | -3.541 | -59.4 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 241.218 | -51.96 | 0.383 | -1.866 | -2.757 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 241.198 | -51.96 | 0.4 | -1.867 | -2.732 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 241.221 | -51.965 | 0.376 | -1.909 | -2.747 | -33.494 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 241.221 | -51.965 | 0.376 | -1.909 | -2.747 | -33.494 |
 | **UCC** |241.215 | -51.962 | 0.375 | -1.914 | -2.75 | -39.746 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=241.215,-51.962" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=241.215%20-51.962&output=json&radius=5&userEntry=lynga6" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Lynga 6
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.27, distance=1771.0, log_age=7.45` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=1.23, Dmod=11.02, logt=7.49` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=3.51, DMNN=11.92, AgeNN=6.49` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=4.24, d_pc=2415.62, logt=7.49` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=4.24, MOD50=11.94, logAge50=7.49` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

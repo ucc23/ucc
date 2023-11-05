@@ -50,7 +50,7 @@ title:  UBC 93
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 268.575 | -25.399 | 0.334 | -0.923 | -1.875 | -- |
 |[Castro-Ginard et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract) | 268.573 | -25.39 | 0.339 | -0.931 | -1.884 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 268.577 | -25.404 | 0.315 | -0.819 | -1.949 | -7.495 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 268.577 | -25.404 | 0.315 | -0.819 | -1.949 | -7.495 |
 | **UCC** |268.575 | -25.401 | 0.316 | -0.858 | -1.931 | -10.041 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=268.575,-25.401" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.575%20-25.401&output=json&radius=5&userEntry=ubc93" target="_blank">Simbad</a></p>
@@ -68,7 +68,7 @@ title:  UBC 93
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.69, DMNN=11.93, AgeNN=8.91` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.98, d_pc=2781.84, logt=8.23` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.98, MOD50=12.33, logAge50=8.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

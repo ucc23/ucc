@@ -50,7 +50,7 @@ title:  ASCC 27
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 103.485 | -4.39 | -- | -1.84 | -2.6 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 103.469 | -4.393 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 103.512 | -4.512 | 0.281 | -0.705 | 0.625 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 103.512 | -4.512 | 0.281 | -0.705 | 0.625 | -- |
 | **UCC** |103.502 | -4.504 | 0.285 | -0.694 | 0.618 | 62.418 |
 
 
@@ -58,7 +58,7 @@ title:  ASCC 27
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3207](https://ucc.ar/_clusters/cwnu3207/)| 61 | 103.511 | -4.558 | 0.281 | -0.706 | 0.626 | -- |
+|[CWNU 3207](https://ucc.ar/_clusters/cwnu3207/)| 61 | 103.511 | -4.558 | 0.281 | -0.706 | 0.626 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=103.502,-4.504" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=103.502%20-4.504&output=json&radius=5&userEntry=ascc27" target="_blank">Simbad</a></p>
 
@@ -75,7 +75,7 @@ title:  ASCC 27
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.09, distance=1159.0, log_age=8.7` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.29, d_pc=3093.0, logt=7.73` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.29, MOD50=12.42, logAge50=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

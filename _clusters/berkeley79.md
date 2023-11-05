@@ -54,7 +54,7 @@ title:  Berkeley 79
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 281.25 | -1.146 | 0.402 | -0.118 | -1.554 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 281.242 | -1.151 | 0.405 | -0.122 | -1.549 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 281.241 | -1.147 | 0.427 | -0.125 | -1.542 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 281.249 | -1.141 | 0.399 | -0.065 | -1.569 | 61.937 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 281.249 | -1.141 | 0.399 | -0.065 | -1.569 | 61.937 |
 | **UCC** |281.249 | -1.145 | 0.389 | -0.083 | -1.564 | 16.218 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=281.249,-1.145" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=281.249%20-1.145&output=json&radius=5&userEntry=berkeley79" target="_blank">Simbad</a></p>
@@ -75,7 +75,7 @@ title:  Berkeley 79
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.67, Dmod=11.63, logt=8.64` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.68, DMNN=11.78, AgeNN=8.24` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.0, Dist=2190.0, logage=6.97, [Fe/H]=0.02` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.42, d_pc=2351.34, logt=7.93` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.42, MOD50=11.86, logAge50=7.93` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

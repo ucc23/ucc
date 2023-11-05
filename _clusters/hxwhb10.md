@@ -53,7 +53,7 @@ title:  HXWHB 10
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | 81.94 | 33.28 | 0.32 | 1.32 | -2.93 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 81.93 | 33.283 | 0.387 | 1.258 | -2.836 | 5.788 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 81.93 | 33.283 | 0.387 | 1.258 | -2.836 | 5.788 |
 | **UCC** |81.925 | 33.285 | 0.391 | 1.271 | -2.858 | 18.467 |
 
 
@@ -63,7 +63,7 @@ title:  HXWHB 10
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1283](https://ucc.ar/_clusters/ubc1283/)| 40 | 81.904 | 33.285 | 0.418 | 1.288 | -2.781 | 6.359 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.925,33.285" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.925%2033.285&output=json&radius=5&userEntry=hxwhb10" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.925,+33.285" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.925%2033.285&output=json&radius=5&userEntry=hxwhb10" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,7 +78,7 @@ title:  HXWHB 10
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | `AG=1.28, d_pc=3092.5, logt=8.5` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.94, d_pc=2302.83, logt=8.61` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.94, MOD50=11.78, logAge50=8.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

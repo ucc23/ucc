@@ -58,7 +58,7 @@ title:  HXWHB 14
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 372](https://ucc.ar/_clusters/ubc372/)| 96 | 302.378 | 38.296 | 0.281 | -2.603 | -4.875 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.38,38.291" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.38%2038.291&output=json&radius=5&userEntry=hxwhb14" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.38,+38.291" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.38%2038.291&output=json&radius=5&userEntry=hxwhb14" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  HXWHB 14
 | [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | `AG=2.66, d_pc=3669.9, logt=6.96` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

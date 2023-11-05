@@ -49,7 +49,7 @@ title:  PHOC 35
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 289.441 | 8.696 | 0.585 | -2.929 | -5.278 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 289.434 | 8.72 | 0.591 | -2.89 | -5.263 | 49.363 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 289.434 | 8.72 | 0.591 | -2.89 | -5.263 | 49.363 |
 | **UCC** |289.415 | 8.686 | 0.614 | -2.926 | -5.299 | 54.933 |
 
 
@@ -59,7 +59,7 @@ title:  PHOC 35
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 13493](https://ucc.ar/_clusters/cwwdl13493/)| 65 | 289.451 | 8.711 | 0.606 | -2.978 | -5.276 | 45.599 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=289.415,8.686" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=289.415%208.686&output=json&radius=5&userEntry=phoc35" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=289.415,+8.686" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=289.415%208.686&output=json&radius=5&userEntry=phoc35" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  PHOC 35
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.35, d_pc=1578.52, logt=8.83` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.35, MOD50=10.99, logAge50=8.83` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

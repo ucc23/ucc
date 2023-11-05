@@ -48,8 +48,8 @@ title:  OCSN 91
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 229.683 | -37.652 | 7.48 | -18.971 | -26.97 | 5.166 |
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 229.69 | -37.72 | 7.43 | -18.94 | -26.82 | 6.01 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 229.683 | -37.652 | 7.48 | -18.971 | -26.97 | 5.166 |
 | **UCC** |229.745 | -37.675 | 7.466 | -18.886 | -26.904 | 3.927 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=229.745,-37.675" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=229.745%20-37.675&output=json&radius=5&userEntry=ocsn91" target="_blank">Simbad</a></p>
@@ -66,8 +66,8 @@ title:  OCSN 91
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.69, d_pc=132.58, logt=9.32` |
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.02, dm=5.67, logt=7.2` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.69, MOD50=5.58, logAge50=9.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

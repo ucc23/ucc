@@ -59,7 +59,7 @@ title:  UBC 62
 |[COIN-Gaia 15](https://ucc.ar/_clusters/coingaia15/)| 70 | 76.083 | 35.832 | 0.803 | 0.347 | -3.792 | 0.747 |
 |[CWWDL 14371](https://ucc.ar/_clusters/cwwdl14371/)| 59 | 76.123 | 35.795 | 0.821 | 0.239 | -3.887 | 13.946 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=76.098,35.835" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=76.098%2035.835&output=json&radius=5&userEntry=ubc62" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=76.098,+35.835" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=76.098%2035.835&output=json&radius=5&userEntry=ubc62" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -70,4 +70,4 @@ title:  UBC 62
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

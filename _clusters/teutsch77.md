@@ -61,7 +61,7 @@ title:  Teutsch 77
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3029](https://ucc.ar/_clusters/cwnu3029/)| 39 | 178.31 | -62.609 | 0.145 | -6.498 | 1.147 | -12.737 |
+|[CWNU 3029](https://ucc.ar/_clusters/cwnu3029/)| 39 | 178.31 | -62.609 | 0.145 | -6.498 | 1.147 | -12.737 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=178.337,-62.606" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=178.337%20-62.606&output=json&radius=5&userEntry=teutsch77" target="_blank">Simbad</a></p>
 
@@ -80,4 +80,4 @@ title:  Teutsch 77
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.42, distance=1920.0, log_age=7.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

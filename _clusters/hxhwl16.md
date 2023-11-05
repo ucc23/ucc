@@ -58,6 +58,7 @@ title:  HXHWL 16
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 14104](https://ucc.ar/_clusters/cwwdl14104/)| 99 | 173.131 | -68.102 | 0.689 | -8.814 | 0.747 | -2.347 |
 |[LISC 3316](https://ucc.ar/_clusters/lisc3316/)| 98 | 173.134 | -68.103 | 0.689 | -8.814 | 0.75 | -2.347 |
+|[Theia 2982](https://ucc.ar/_clusters/theia2982/)| 96 | 173.134 | -68.103 | 0.692 | -8.814 | 0.744 | -0.563 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=173.118,-68.105" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=173.118%20-68.105&output=json&radius=5&userEntry=hxhwl16" target="_blank">Simbad</a></p>
 
@@ -73,7 +74,7 @@ title:  HXHWL 16
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.1, dm=10.8, logt=7.94, Z=0.02` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.1, m-M=10.8, logAge=7.94, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

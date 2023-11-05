@@ -52,7 +52,7 @@ title:  VDBH 189
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 245.178 | -48.538 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 245.17 | -48.523 | 0.359 | -2.559 | -2.415 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 245.171 | -48.519 | 0.358 | -2.564 | -2.41 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 245.177 | -48.524 | 0.399 | -2.554 | -2.442 | -36.958 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 245.177 | -48.524 | 0.399 | -2.554 | -2.442 | -36.958 |
 | **UCC** |245.181 | -48.521 | 0.375 | -2.555 | -2.453 | -49.451 |
 
 
@@ -79,7 +79,7 @@ title:  VDBH 189
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.17, distance=1704.0, log_age=8.82` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.5, DMNN=12.01, AgeNN=8.8` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.98, Dist=2316.0, logage=7.79, [Fe/H]=0.52` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.34, d_pc=2321.7, logt=8.46` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.34, MOD50=11.83, logAge50=8.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

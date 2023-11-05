@@ -50,7 +50,7 @@ title:  Gulliver 15
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 272.599 | -16.723 | 0.506 | -1.06 | -1.638 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 272.603 | -16.715 | 0.484 | -1.071 | -1.621 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 272.598 | -16.723 | 0.497 | -1.014 | -1.658 | 12.34 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 272.598 | -16.723 | 0.497 | -1.014 | -1.658 | 12.34 |
 | **UCC** |272.597 | -16.716 | 0.521 | -1.027 | -1.645 | -13.388 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=272.597,-16.716" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.597%20-16.716&output=json&radius=5&userEntry=gulliver15" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Gulliver 15
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.08, DMNN=11.55, AgeNN=7.93` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.49, Dist=1880.0, logage=7.07, [Fe/H]=-0.04` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.8, d_pc=1795.67, logt=7.97` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.8, MOD50=11.25, logAge50=7.97` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

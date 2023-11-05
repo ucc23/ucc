@@ -53,7 +53,7 @@ title:  XDOCC-2
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 84.049 | 34.298 | 0.801 | 0.285 | -2.295 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 84.033 | 34.291 | 0.756 | 0.264 | -2.356 | 4.086 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 84.033 | 34.291 | 0.756 | 0.264 | -2.356 | 4.086 |
 | **UCC** |84.071 | 34.304 | 0.757 | 0.26 | -2.367 | 35.349 |
 
 
@@ -63,7 +63,7 @@ title:  XDOCC-2
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 2673](https://ucc.ar/_clusters/cwnu2673/)| 81 | 84.071 | 34.3 | 0.748 | 0.254 | -2.386 | 35.349 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=84.071,34.304" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=84.071%2034.304&output=json&radius=5&userEntry=xdocc2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=84.071,+34.304" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=84.071%2034.304&output=json&radius=5&userEntry=xdocc2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,7 +78,7 @@ title:  XDOCC-2
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.57, Dist=1330.62, logAge=7.54` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.51, d_pc=1247.31, logt=7.54` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.51, MOD50=10.48, logAge50=7.54` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  Teutsch 247
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 239.618 | -53.655 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 239.619 | -53.657 | 0.371 | -3.87 | -4.33 | 42.346 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 239.619 | -53.657 | 0.371 | -3.87 | -4.33 | 42.346 |
 | **UCC** |239.634 | -53.655 | 0.369 | -3.867 | -4.333 | -15.79 |
 
 
@@ -74,7 +74,7 @@ title:  Teutsch 247
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.72, d_pc=2495.7, logt=7.76` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.72, MOD50=11.99, logAge50=7.76` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -59,7 +59,7 @@ title:  CWWDL 2957
 |[CWNU 1295](https://ucc.ar/_clusters/cwnu1295/)| 76 | 92.081 | 28.069 | 0.245 | -0.23 | -1.7 | -- |
 |[LISC 2967](https://ucc.ar/_clusters/lisc2967/)| 78 | 92.081 | 28.069 | 0.276 | -0.189 | -1.669 | 4.423 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=92.082,28.071" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=92.082%2028.071&output=json&radius=5&userEntry=cwwdl2957" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=92.082,+28.071" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=92.082%2028.071&output=json&radius=5&userEntry=cwwdl2957" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  CWWDL 2957
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.09, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

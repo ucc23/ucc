@@ -53,10 +53,10 @@ title:  UPK 85
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 304.901 | 23.662 | 1.127 | 2.12 | -1.61 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 304.933 | 24.03 | 1.089 | 2.064 | -1.596 | -0.619 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 304.933 | 24.03 | 1.089 | 2.064 | -1.596 | -0.619 |
 | **UCC** |304.921 | 23.839 | 1.057 | 1.991 | -1.646 | -1.343 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.921,23.839" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.921%2023.839&output=json&radius=5&userEntry=upk85" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.921,+23.839" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.921%2023.839&output=json&radius=5&userEntry=upk85" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -71,7 +71,7 @@ title:  UPK 85
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | `d_pc=887.0, log(age)=7.6` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.57, d_pc=889.4, logt=8.14` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.57, MOD50=9.72, logAge50=8.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

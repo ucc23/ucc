@@ -56,9 +56,9 @@ title:  Teutsch 129
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3555](https://ucc.ar/_clusters/cwnu3555/)| 93 | 338.704 | 64.377 | 0.11 | -1.883 | -0.932 | -52.03 |
+|[CWNU 3555](https://ucc.ar/_clusters/cwnu3555/)| 93 | 338.704 | 64.377 | 0.11 | -1.883 | -0.932 | -52.03 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=338.699,64.38" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=338.699%2064.38&output=json&radius=5&userEntry=teutsch129" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=338.699,+64.38" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=338.699%2064.38&output=json&radius=5&userEntry=teutsch129" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  Teutsch 129
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

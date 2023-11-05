@@ -4,20 +4,36 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
-### 25/10/2023
+## Version [231105](https://doi.org/10.5281/zenodo.10072846)
 
-#### Fixed [Issue 1](https://github.com/ucc23/ucc/issues/1)
+- Fixed [Issue 32](https://github.com/ucc23/ucc/issues/32)
+
+The original [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) database used only included the five
+new OCs. The new database used contains the 15 OCs listed in Table 2 of the article.
+
+- Fixed [Issue 31](https://github.com/ucc23/ucc/issues/31)
+
+Updated [Hunt & Reffert](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) database to include `Theia` objects labeled as OCs.
+
+- Fixed [Issue 30](https://github.com/ucc23/ucc/issues/30)
+
+Add `+`  sign to the declination for the CDS search coordinates.
+
+
+## Version [231025](https://doi.org/10.5281/zenodo.10042028)
+
+- Fixed [Issue 1](https://github.com/ucc23/ucc/issues/1)
 
 Added [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) database.
 
-#### Fixed [Issue 28](https://github.com/ucc23/ucc/issues/28)
+- Fixed [Issue 28](https://github.com/ucc23/ucc/issues/28)
 
 The duplicate probabilities using membership data are now properly estimated.
 
 
-### 20/10/2023
+## Version [231020](https://zenodo.org/records/10028579)
 
-#### Fixed [Issue 24](https://github.com/ucc23/ucc/issues/24)
+- Fixed [Issue 24](https://github.com/ucc23/ucc/issues/24)
 
 The original table JAEHNIG21 (taken from the PDF) only contained the 11 newly
 discovered candidate OCs. The new table from CDS contains info on the 431 OCs.
@@ -28,18 +44,18 @@ discovered candidate OCs. The new table from CDS contains info on the 431 OCs.
 - NGC 2451 --> NGC 2451B (correct OC given the coordinates)
 - Removed Berkeley 42 --> GC NGC 6749
 
-#### Fixed [Issue 18](https://github.com/ucc23/ucc/issues/18), [Issue 25](https://github.com/ucc23/ucc/issues/25)
+- Fixed [Issue 18](https://github.com/ucc23/ucc/issues/18)
 
-Issue 18:
 Melotte 20: added Collinder 39 to KHARCHENKO12
 
-Issue 25:
+- Fixed [Issue 25](https://github.com/ucc23/ucc/issues/25)
+
 Changed the name of 91 OCs in LOKTIN17 to add a space before the numbering
 
 
-### 17/10/2023
+## Version [231017](https://zenodo.org/records/10015787)
 
-#### Fixed [Issue 23](https://github.com/ucc23/ucc/issues/23)
+- Fixed [Issue 23](https://github.com/ucc23/ucc/issues/23)
 
 1. Removed entries for Trapezium-FG (DIAS21), NGC1976 (LOKTIN17), and
    OC 0345 (HAO22) from the (old) UCC database
@@ -47,13 +63,13 @@ Changed the name of 91 OCs in LOKTIN17 to add a space before the numbering
 3. DIAS21: Trapezium-FG --> Trapezium, Ori Trapezium
 4. Re-generate entries for: Trapezium and OC 0345
 
-#### Fixed [Issue 17](https://github.com/ucc23/ucc/issues/17)
+- Fixed [Issue 17](https://github.com/ucc23/ucc/issues/17)
 
 1. Removed entries for NGC 2421 and NGC 2215 from the (old) UCC database
 2. In LOKTIN17: Melotte 67 & Melotte 45 --> Messier 67 & Messier 45
 3. Re-generate entries for: NGC 2421, NGC 2682, NGC 2215, Pleiades (Melotte 22)
 
 
-### 10/08/2023
+## Version [230810](https://zenodo.org/records/8250524)
 
 Initial release of the catalogue, accompanied with the article published in MNRAS.

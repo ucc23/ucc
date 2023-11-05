@@ -56,7 +56,7 @@ title:  Messineo 1
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_4204](https://ucc.ar/_clusters/cwnu4204/)| 88 | 273.35 | -17.897 | 0.337 | -0.714 | -1.988 | 66.997 |
+|[CWNU 4204](https://ucc.ar/_clusters/cwnu4204/)| 88 | 273.35 | -17.897 | 0.337 | -0.714 | -1.988 | 66.997 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=273.345,-17.891" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=273.345%20-17.891&output=json&radius=5&userEntry=messineo1" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Messineo 1
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

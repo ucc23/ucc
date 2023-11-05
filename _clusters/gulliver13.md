@@ -2,7 +2,7 @@
 layout: post
 title:  Gulliver 13
 ---
-
+<h3><span style="color: #808080;"><i>(CMa03)</i></span></h3>
 <div style="display: flex; justify-content: space-between;">
  <div style="text-align: center;">
  <!-- Left block -->
@@ -50,8 +50,9 @@ title:  Gulliver 13
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 104.858 | -13.254 | 0.62 | -2.941 | 0.281 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 104.874 | -13.247 | 0.617 | -2.935 | 0.301 | -- |
+|[Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | 104.86 | -13.25 | 0.63 | -2.92 | 0.31 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 104.852 | -13.249 | 0.623 | -2.919 | 0.296 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 104.877 | -13.249 | 0.617 | -2.941 | 0.302 | 52.009 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 104.877 | -13.249 | 0.617 | -2.941 | 0.302 | 52.009 |
 | **UCC** |104.86 | -13.256 | 0.626 | -2.935 | 0.294 | 57.841 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.86,-13.256" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.86%20-13.256&output=json&radius=5&userEntry=gulliver13" target="_blank">Simbad</a></p>
@@ -70,8 +71,9 @@ title:  Gulliver 13
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.78, DMNN=10.9, AgeNN=9.0` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.68, Dist=1501.0, logage=8.77, [Fe/H]=-0.05` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=1466.0, logt=9.03` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.33, d_pc=1480.76, logt=8.78` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `AVPs=1.71;1.18, DPs=1531;1542.0, Ages=536.0;650, [Fe/H]s=-0.12;0.3` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1466.0, logAgeNN=9.03` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.33, MOD50=10.85, logAge50=8.78` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-02</i></font>

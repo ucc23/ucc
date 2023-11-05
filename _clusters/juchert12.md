@@ -56,7 +56,7 @@ title:  Juchert 12
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3282](https://ucc.ar/_clusters/cwnu3282/)| 85 | 110.236 | -22.86 | 0.136 | -0.417 | 1.199 | 73.376 |
+|[CWNU 3282](https://ucc.ar/_clusters/cwnu3282/)| 85 | 110.236 | -22.86 | 0.136 | -0.417 | 1.199 | 73.376 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=110.238,-22.855" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.238%20-22.855&output=json&radius=5&userEntry=juchert12" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Juchert 12
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

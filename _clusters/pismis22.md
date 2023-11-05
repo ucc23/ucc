@@ -50,7 +50,7 @@ title:  Pismis 22
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 243.555 | -51.865 | -- | -10.73 | -3.63 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 243.552 | -51.869 | 0.102 | -3.882 | -4.263 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 243.543 | -51.873 | 0.183 | -3.797 | -4.259 | 26.919 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 243.543 | -51.873 | 0.183 | -3.797 | -4.259 | 26.919 |
 | **UCC** |243.543 | -51.869 | 0.184 | -3.814 | -4.281 | -25.77 |
 
 
@@ -75,7 +75,7 @@ title:  Pismis 22
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.93, distance=2023.0, log_age=8.2` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.45, d_pc=4267.68, logt=7.7` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=6.45, MOD50=13.43, logAge50=7.7` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

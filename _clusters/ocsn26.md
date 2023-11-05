@@ -51,7 +51,14 @@ title:  OCSN 26
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 338.68 | 29.92 | 3.13 | -8.08 | -4.44 | 6.06 |
 | **UCC** |338.677 | 29.957 | 3.08 | -7.826 | -4.325 | 4.776 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=338.677,29.957" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=338.677%2029.957&output=json&radius=5&userEntry=ocsn26" target="_blank">Simbad</a></p>
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 1188](https://ucc.ar/_clusters/theia1188/)| 99 | 338.687 | 29.959 | 3.082 | -7.829 | -4.322 | 4.797 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=338.677,+29.957" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=338.677%2029.957&output=json&radius=5&userEntry=ocsn26" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -68,4 +75,4 @@ title:  OCSN 26
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.09, dm=7.57, logt=8.95` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

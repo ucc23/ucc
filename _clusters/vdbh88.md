@@ -55,7 +55,7 @@ title:  VDBH 88
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 151.567 | -51.595 | -- | -9.15 | 8.65 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 151.575 | -51.61 | -- | -- | -- | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 151.621 | -51.556 | 0.386 | -6.086 | 3.602 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 151.615 | -51.555 | 0.534 | -6.18 | 3.638 | 22.364 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 151.615 | -51.555 | 0.534 | -6.18 | 3.638 | 22.364 |
 | **UCC** |151.606 | -51.544 | 0.515 | -6.216 | 3.654 | 17.262 |
 
 
@@ -81,7 +81,7 @@ title:  VDBH 88
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.54, distance=5823.0, log_age=9.1` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.61, Dist=2011.0, logage=8.77, [Fe/H]=-0.14` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.44, d_pc=1744.33, logt=8.67` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.44, MOD50=11.24, logAge50=8.67` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

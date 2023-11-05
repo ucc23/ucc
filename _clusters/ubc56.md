@@ -52,7 +52,7 @@ title:  UBC 56
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 69.874 | 47.534 | 1.118 | 1.594 | -4.008 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 69.86 | 47.534 | 1.159 | 1.506 | -4.077 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 69.89 | 47.486 | 1.146 | 1.5 | -4.073 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 69.868 | 47.564 | 1.135 | 1.51 | -4.07 | -5.254 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 69.868 | 47.564 | 1.135 | 1.51 | -4.07 | -5.254 |
 | **UCC** |69.86 | 47.542 | 1.139 | 1.485 | -4.075 | -4.846 |
 
 
@@ -63,7 +63,7 @@ title:  UBC 56
 |[CWWDL 14173](https://ucc.ar/_clusters/cwwdl14173/)| 91 | 69.874 | 47.539 | 1.139 | 1.486 | -4.073 | -4.846 |
 |[FoF 2230](https://ucc.ar/_clusters/fof2230/)| 92 | 69.874 | 47.539 | 1.138 | 1.486 | -4.074 | -4.846 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=69.86,47.542" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=69.86%2047.542&output=json&radius=5&userEntry=ubc56" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=69.86,+47.542" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=69.86%2047.542&output=json&radius=5&userEntry=ubc56" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -78,9 +78,9 @@ title:  UBC 56
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.59, DMNN=9.75, AgeNN=8.78` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `d_pc=867.0, logt=8.79` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.4, logt=7.75` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.99, d_pc=847.26, logt=8.44` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=867.0, logAgeNN=8.79` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.4, logAge=7.75` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.99, MOD50=9.59, logAge50=8.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

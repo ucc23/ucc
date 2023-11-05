@@ -58,7 +58,7 @@ title:  CWWDL 2418
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[PHOC 14](https://ucc.ar/_clusters/phoc14/)| 93 | 295.896 | 24.443 | 0.417 | -3.509 | -6.602 | 105.138 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.899,24.439" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.899%2024.439&output=json&radius=5&userEntry=cwwdl2418" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.899,+24.439" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.899%2024.439&output=json&radius=5&userEntry=cwwdl2418" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  CWWDL 2418
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.78, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

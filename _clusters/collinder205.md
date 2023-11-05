@@ -52,7 +52,7 @@ title:  Collinder 205
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 135.119 | -48.984 | 0.483 | -4.797 | 3.918 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 135.091 | -48.985 | 0.455 | -4.67 | 3.934 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 135.128 | -48.983 | 0.53 | -4.814 | 3.935 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 135.124 | -48.987 | 0.543 | -4.795 | 4.006 | 55.066 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 135.124 | -48.987 | 0.543 | -4.795 | 4.006 | 55.066 |
 | **UCC** |135.103 | -48.979 | 0.519 | -4.792 | 4.04 | 33.817 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=135.103,-48.979" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=135.103%20-48.979&output=json&radius=5&userEntry=collinder205" target="_blank">Simbad</a></p>
@@ -72,7 +72,7 @@ title:  Collinder 205
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.87, distance=1458.0, log_age=7.03` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.3, DMNN=11.9, AgeNN=6.66` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.51, Dist=1400.0, logage=6.95, [Fe/H]=-0.17` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.71, d_pc=1767.62, logt=6.52` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.71, MOD50=11.24, logAge50=6.52` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

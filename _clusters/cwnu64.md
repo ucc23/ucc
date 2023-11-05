@@ -58,8 +58,9 @@ title:  CWNU 64
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1088](https://ucc.ar/_clusters/ubc1088/)| 74 | 305.891 | 31.078 | 0.544 | -2.14 | -5.16 | 64.938 |
 |[CWNU 30](https://ucc.ar/_clusters/cwnu30/)| 89 | 305.908 | 31.062 | 0.551 | -2.15 | -5.155 | -18.549 |
+|[Theia 4509](https://ucc.ar/_clusters/theia4509/)| 89 | 305.908 | 31.062 | 0.551 | -2.15 | -5.155 | -18.549 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.907,31.063" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.907%2031.063&output=json&radius=5&userEntry=cwnu64" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=305.907,+31.063" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=305.907%2031.063&output=json&radius=5&userEntry=cwnu64" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +74,7 @@ title:  CWNU 64
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.7, dm=10.95, logt=8.8, Z=0.01` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.7, m-M=10.95, logAge=8.8, Z=0.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

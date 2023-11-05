@@ -48,7 +48,7 @@ title:  Teutsch 56
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 59.821 | 47.384 | 0.595 | 0.606 | -2.975 | -21.027 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 59.821 | 47.384 | 0.595 | 0.606 | -2.975 | -21.027 |
 | **UCC** |59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
 
 
@@ -59,7 +59,7 @@ title:  Teutsch 56
 |[UBC 53](https://ucc.ar/_clusters/ubc53/)| 89 | 59.831 | 47.395 | 0.609 | 0.607 | -2.967 | -14.324 |
 |[CWWDL 3753](https://ucc.ar/_clusters/cwwdl3753/)| 92 | 59.829 | 47.395 | 0.591 | 0.604 | -2.986 | -14.324 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.833,47.395" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.833%2047.395&output=json&radius=5&userEntry=teutsch56" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.833,+47.395" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.833%2047.395&output=json&radius=5&userEntry=teutsch56" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Teutsch 56
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.63, d_pc=1518.79, logt=8.74` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.63, MOD50=10.88, logAge50=8.74` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

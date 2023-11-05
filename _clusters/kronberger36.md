@@ -48,7 +48,7 @@ title:  Kronberger 36
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 301.139 | 35.236 | 0.379 | -2.424 | -4.014 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 301.139 | 35.236 | 0.379 | -2.424 | -4.014 | -- |
 | **UCC** |301.144 | 35.239 | 0.386 | -2.414 | -3.999 | -6.857 |
 
 
@@ -59,7 +59,7 @@ title:  Kronberger 36
 |[UBC 137](https://ucc.ar/_clusters/ubc137/)| 93 | 301.144 | 35.239 | 0.388 | -2.425 | -3.998 | -- |
 |[CWWDL 2845](https://ucc.ar/_clusters/cwwdl2845/)| 100 | 301.144 | 35.239 | 0.386 | -2.412 | -3.998 | 0.194 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.144,35.239" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.144%2035.239&output=json&radius=5&userEntry=kronberger36" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=301.144,+35.239" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.144%2035.239&output=json&radius=5&userEntry=kronberger36" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  Kronberger 36
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.35, d_pc=2432.96, logt=8.32` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.35, MOD50=11.9, logAge50=8.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

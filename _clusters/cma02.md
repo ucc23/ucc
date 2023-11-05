@@ -49,7 +49,7 @@ title:  CMa 02
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | 105.68 | -7.74 | 0.87 | -1.59 | -3.45 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 105.682 | -7.757 | 0.873 | -1.576 | -3.467 | 5.707 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 105.682 | -7.757 | 0.873 | -1.576 | -3.467 | 5.707 |
 | **UCC** |105.655 | -7.737 | 0.876 | -1.588 | -3.485 | 10.79 |
 
 
@@ -75,8 +75,8 @@ title:  CMa 02
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `Av=0.99;1.25, d_pc=1071;1020, logt=8.14;8.1, FeH=-0.15;-0.48` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.5, d_pc=1082.8, logt=8.38` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract) | `AVPs=0.99;1.25, DPs=1071;1020.0, Ages=137.0;125, [Fe/H]s=-0.15;-0.48` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.5, MOD50=10.12, logAge50=8.38` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-02</i></font>

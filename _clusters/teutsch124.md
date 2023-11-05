@@ -51,7 +51,7 @@ title:  Teutsch 124
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 304.587 | 31.21 | -- | -2.85 | -5.33 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 304.59 | 31.206 | -- | -1.052 | -1.64 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 304.592 | 31.213 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 304.576 | 31.21 | 0.079 | -3.07 | -4.538 | -34.417 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 304.576 | 31.21 | 0.079 | -3.07 | -4.538 | -34.417 |
 | **UCC** |304.587 | 31.215 | 0.082 | -3.064 | -4.508 | -34.582 |
 
 
@@ -59,9 +59,9 @@ title:  Teutsch 124
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3031](https://ucc.ar/_clusters/cwnu3031/)| 86 | 304.582 | 31.213 | 0.095 | -3.065 | -4.5 | -34.582 |
+|[CWNU 3031](https://ucc.ar/_clusters/cwnu3031/)| 86 | 304.582 | 31.213 | 0.095 | -3.065 | -4.5 | -34.582 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.587,31.215" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.587%2031.215&output=json&radius=5&userEntry=teutsch124" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=304.587,+31.215" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.587%2031.215&output=json&radius=5&userEntry=teutsch124" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -77,7 +77,7 @@ title:  Teutsch 124
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.82, distance=2103.0, log_age=9.39` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.59, Dmod=11.91, logt=8.98` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=5.19, d_pc=8254.27, logt=8.69` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=5.19, MOD50=15.06, logAge50=8.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

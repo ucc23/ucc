@@ -62,7 +62,7 @@ title:  CWWDL 578
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 395](https://ucc.ar/_clusters/ubc395/)| 54 | 345.61 | 57.198 | 0.406 | -2.858 | -2.643 | -41.667 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=345.678,57.213" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=345.678%2057.213&output=json&radius=5&userEntry=cwwdl578" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=345.678,+57.213" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=345.678%2057.213&output=json&radius=5&userEntry=cwwdl578" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -79,4 +79,4 @@ title:  CWWDL 578
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.0, Z=-0.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

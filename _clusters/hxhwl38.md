@@ -51,7 +51,14 @@ title:  HXHWL 38
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 87.549 | 31.665 | 0.71 | 0.49 | -3.81 | -- |
 | **UCC** |87.496 | 31.705 | 0.713 | 0.448 | -3.786 | -18.48 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.496,31.705" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.496%2031.705&output=json&radius=5&userEntry=hxhwl38" target="_blank">Simbad</a></p>
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 3796](https://ucc.ar/_clusters/theia3796/)| 94 | 87.487 | 31.707 | 0.71 | 0.444 | -3.791 | -18.48 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.496,+31.705" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.496%2031.705&output=json&radius=5&userEntry=hxhwl38" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -65,7 +72,7 @@ title:  HXHWL 38
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.7, dm=10.8, logt=8.46, Z=0.03` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.7, m-M=10.8, logAge=8.46, Z=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

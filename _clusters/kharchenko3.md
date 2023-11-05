@@ -48,7 +48,7 @@ title:  Kharchenko 3
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 275.746 | -14.651 | 0.337 | -0.815 | -2.478 | -30.294 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 275.746 | -14.651 | 0.337 | -0.815 | -2.478 | -30.294 |
 | **UCC** |275.754 | -14.643 | 0.354 | -0.795 | -2.518 | -3.886 |
 
 
@@ -72,7 +72,7 @@ title:  Kharchenko 3
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.81, d_pc=2642.67, logt=7.73` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.81, MOD50=12.11, logAge50=7.73` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

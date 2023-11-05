@@ -50,7 +50,7 @@ title:  COIN-Gaia 40
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 81.874 | 33.526 | 0.47 | 0.393 | -2.762 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 81.868 | 33.498 | 0.47 | 0.391 | -2.729 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 81.892 | 33.515 | 0.455 | 0.34 | -2.779 | 54.256 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 81.892 | 33.515 | 0.455 | 0.34 | -2.779 | 54.256 |
 | **UCC** |81.894 | 33.529 | 0.468 | 0.335 | -2.79 | 54.239 |
 
 
@@ -60,7 +60,7 @@ title:  COIN-Gaia 40
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 67](https://ucc.ar/_clusters/ubc67/)| 66 | 81.928 | 33.529 | 0.469 | 0.372 | -2.75 | 83.389 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.894,33.529" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.894%2033.529&output=json&radius=5&userEntry=coingaia40" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.894,+33.529" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.894%2033.529&output=json&radius=5&userEntry=coingaia40" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,7 +75,7 @@ title:  COIN-Gaia 40
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.17, Dist=1917.0, logage=8.16, [Fe/H]=-0.13` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.81, d_pc=2019.12, logt=8.33` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.81, MOD50=11.52, logAge50=8.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

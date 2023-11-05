@@ -56,7 +56,7 @@ title:  Teutsch 67
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3634](https://ucc.ar/_clusters/cwnu3634/)| 70 | 143.459 | -57.097 | 0.065 | -2.429 | 1.937 | 96.953 |
+|[CWNU 3634](https://ucc.ar/_clusters/cwnu3634/)| 70 | 143.459 | -57.097 | 0.065 | -2.429 | 1.937 | 96.953 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=143.455,-57.101" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=143.455%20-57.101&output=json&radius=5&userEntry=teutsch67" target="_blank">Simbad</a></p>
 
@@ -69,4 +69,4 @@ title:  Teutsch 67
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  Loden 467
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 176.375 | -62.433 | -- | -6.9 | -0.9 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 176.369 | -62.444 | 0.2 | -6.505 | 0.998 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 176.369 | -62.444 | 0.2 | -6.505 | 0.998 | -- |
 | **UCC** |176.386 | -62.431 | 0.213 | -6.538 | 1.002 | -- |
 
 
@@ -57,7 +57,7 @@ title:  Loden 467
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU_3744](https://ucc.ar/_clusters/cwnu3744/)| 95 | 176.386 | -62.424 | 0.213 | -6.536 | 0.998 | -- |
+|[CWNU 3744](https://ucc.ar/_clusters/cwnu3744/)| 95 | 176.386 | -62.424 | 0.213 | -6.536 | 0.998 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=176.386,-62.431" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=176.386%20-62.431&output=json&radius=5&userEntry=loden467" target="_blank">Simbad</a></p>
 
@@ -74,7 +74,7 @@ title:  Loden 467
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.62, distance=2569.0, log_age=6.6` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.42, d_pc=4242.96, logt=7.6` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.42, MOD50=13.19, logAge50=7.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -63,7 +63,7 @@ title:  CWWDL 8368
 |[Casado 15](https://ucc.ar/_clusters/casado15/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
 |[OC 0220](https://ucc.ar/_clusters/oc0220/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=3.257,62.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.257%2062.473&output=json&radius=5&userEntry=cwwdl8368" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=3.257,+62.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.257%2062.473&output=json&radius=5&userEntry=cwwdl8368" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -80,4 +80,4 @@ title:  CWWDL 8368
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=8.15, Z=-0.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -49,7 +49,7 @@ title:  HD 226540 Group
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 298.809 | 33.508 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 298.791 | 33.5 | 0.369 | -2.027 | -5.837 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 298.791 | 33.5 | 0.369 | -2.027 | -5.837 | -- |
 | **UCC** |298.796 | 33.508 | 0.365 | -2.029 | -5.835 | -12.035 |
 
 
@@ -59,7 +59,7 @@ title:  HD 226540 Group
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OC 0096](https://ucc.ar/_clusters/oc0096/)| 99 | 298.796 | 33.508 | 0.364 | -2.029 | -5.835 | -12.035 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=298.796,33.508" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.796%2033.508&output=json&radius=5&userEntry=hd226540group" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=298.796,+33.508" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.796%2033.508&output=json&radius=5&userEntry=hd226540group" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  HD 226540 Group
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.96, d_pc=2530.53, logt=7.64` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.96, MOD50=12.0, logAge50=7.64` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -58,7 +58,7 @@ title:  UBC 67
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[COIN-Gaia 40](https://ucc.ar/_clusters/coingaia40/)| 66 | 81.894 | 33.529 | 0.468 | 0.335 | -2.79 | 54.239 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.928,33.529" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.928%2033.529&output=json&radius=5&userEntry=ubc67" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=81.928,+33.529" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.928%2033.529&output=json&radius=5&userEntry=ubc67" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -69,4 +69,4 @@ title:  UBC 67
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

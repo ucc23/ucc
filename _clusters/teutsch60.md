@@ -48,7 +48,7 @@ title:  Teutsch 60
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 102.849 | -1.802 | 0.402 | -0.922 | 3.003 | 89.338 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 102.849 | -1.802 | 0.402 | -0.922 | 3.003 | 89.338 |
 | **UCC** |102.837 | -1.807 | 0.403 | -0.927 | 2.996 | 89.492 |
 
 
@@ -73,7 +73,7 @@ title:  Teutsch 60
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.92, d_pc=2266.91, logt=9.11` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.92, MOD50=11.78, logAge50=9.11` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

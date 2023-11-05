@@ -59,7 +59,7 @@ title:  CWWDL 3021
 |[FoF 1771](https://ucc.ar/_clusters/fof1771/)| 85 | 307.378 | 44.64 | 0.449 | -2.074 | -2.805 | -23.433 |
 |[OC 0133](https://ucc.ar/_clusters/oc0133/)| 88 | 307.362 | 44.642 | 0.446 | -2.087 | -2.8 | -23.433 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=307.369,44.64" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=307.369%2044.64&output=json&radius=5&userEntry=cwwdl3021" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=307.369,+44.64" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=307.369%2044.64&output=json&radius=5&userEntry=cwwdl3021" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -76,4 +76,4 @@ title:  CWWDL 3021
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.3, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

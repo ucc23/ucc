@@ -58,7 +58,7 @@ title:  CWWDL 2573
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[FoF 1821](https://ucc.ar/_clusters/fof1821/)| 100 | 347.621 | 60.953 | 0.326 | -4.443 | -1.782 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=347.62,60.951" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=347.62%2060.951&output=json&radius=5&userEntry=cwwdl2573" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=347.62,+60.951" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=347.62%2060.951&output=json&radius=5&userEntry=cwwdl2573" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -75,4 +75,4 @@ title:  CWWDL 2573
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logt=5.3, Z=0.12` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

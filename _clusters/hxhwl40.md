@@ -58,7 +58,7 @@ title:  HXHWL 40
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[PHOC 11](https://ucc.ar/_clusters/phoc11/)| 87 | 303.358 | 32.137 | 0.447 | -3.801 | -5.315 | -13.219 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=303.358,32.136" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=303.358%2032.136&output=json&radius=5&userEntry=hxhwl40" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=303.358,+32.136" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=303.358%2032.136&output=json&radius=5&userEntry=hxhwl40" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -72,7 +72,7 @@ title:  HXHWL 40
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=3.9, dm=11.1, logt=8.24, Z=0.02` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=3.9, m-M=11.1, logAge=8.24, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

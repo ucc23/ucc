@@ -48,7 +48,7 @@ title:  DBSB 19
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 128.899 | -40.61 | 1.061 | -5.854 | 3.321 | 24.863 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 128.899 | -40.61 | 1.061 | -5.854 | 3.321 | 24.863 |
 | **UCC** |128.907 | -40.622 | 1.055 | -5.861 | 3.315 | 21.914 |
 
 
@@ -72,7 +72,7 @@ title:  DBSB 19
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=3.0, d_pc=911.04, logt=6.72` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=3.0, MOD50=9.78, logAge50=6.72` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

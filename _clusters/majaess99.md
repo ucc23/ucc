@@ -48,7 +48,7 @@ title:  Majaess 99
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 125.489 | -42.084 | 0.66 | -4.344 | 5.232 | 10.996 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 125.489 | -42.084 | 0.66 | -4.344 | 5.232 | 10.996 |
 | **UCC** |125.467 | -42.061 | 0.659 | -4.34 | 5.108 | 46.89 |
 
 
@@ -72,7 +72,7 @@ title:  Majaess 99
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=1.8, d_pc=1445.72, logt=6.81` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.8, MOD50=10.81, logAge50=6.81` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -53,7 +53,7 @@ title:  CWNU 117
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 341.204 | 57.538 | 0.64 | -3.95 | -2.97 | -26.3 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 341.148 | 57.53 | 0.637 | -3.947 | -2.968 | -24.987 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 341.148 | 57.53 | 0.637 | -3.947 | -2.968 | -24.987 |
 | **UCC** |341.162 | 57.537 | 0.639 | -3.948 | -3.004 | -24.995 |
 
 
@@ -63,7 +63,7 @@ title:  CWNU 117
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[OC 0187](https://ucc.ar/_clusters/oc0187/)| 83 | 341.217 | 57.521 | 0.639 | -3.959 | -2.97 | -24.995 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=341.162,57.537" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=341.162%2057.537&output=json&radius=5&userEntry=cwnu117" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=341.162,+57.537" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=341.162%2057.537&output=json&radius=5&userEntry=cwnu117" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -77,8 +77,8 @@ title:  CWNU 117
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.15, dm=10.85, logt=8.1, Z=0.01` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.94, d_pc=1496.51, logt=8.19` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.15, m-M=10.85, logAge=8.1, Z=0.01` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.94, MOD50=10.9, logAge50=8.19` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

@@ -51,7 +51,14 @@ title:  PHOC 23
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 62.375 | 51.849 | 0.558 | 1.555 | -0.815 | -- |
 | **UCC** |62.36 | 51.844 | 0.595 | 1.596 | -0.877 | -18.295 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.36,51.844" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.36%2051.844&output=json&radius=5&userEntry=phoc23" target="_blank">Simbad</a></p>
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 2192](https://ucc.ar/_clusters/theia2192/)| 83 | 62.361 | 51.848 | 0.597 | 1.598 | -0.872 | -18.295 |
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=62.36,+51.844" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=62.36%2051.844&output=json&radius=5&userEntry=phoc23" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -62,4 +69,4 @@ title:  PHOC 23
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

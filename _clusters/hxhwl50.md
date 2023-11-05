@@ -59,7 +59,7 @@ title:  HXHWL 50
 |[PHOC 26](https://ucc.ar/_clusters/phoc26/)| 100 | 96.075 | 7.501 | 0.48 | -0.91 | -0.28 | 46.024 |
 |[CWWDL 255](https://ucc.ar/_clusters/cwwdl255/)| 86 | 96.075 | 7.497 | 0.491 | -0.915 | -0.269 | 46.488 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.075,7.501" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.075%207.501&output=json&radius=5&userEntry=hxhwl50" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=96.075,+7.501" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=96.075%207.501&output=json&radius=5&userEntry=hxhwl50" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
@@ -73,7 +73,7 @@ title:  HXHWL 50
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.0, dm=11.7, logt=8.16, Z=0.02` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.0, m-M=11.7, logAge=8.16, Z=0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

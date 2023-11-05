@@ -51,7 +51,7 @@ title:  Mamajek 1
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 130.484 | -79.008 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 130.637 | -78.963 | 10.13 | -29.834 | 26.99 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 130.568 | -78.946 | 10.141 | -29.451 | 27.134 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 130.564 | -78.973 | 10.178 | -30.186 | 26.756 | 16.388 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 130.564 | -78.973 | 10.178 | -30.186 | 26.756 | 16.388 |
 | **UCC** |132.568 | -78.545 | 9.769 | -27.95 | 27.008 | 16.146 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=132.568,-78.545" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=132.568%20-78.545&output=json&radius=5&userEntry=mamajek1" target="_blank">Simbad</a></p>
@@ -69,7 +69,7 @@ title:  Mamajek 1
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.12, Dist=98.0, logage=7.19, [Fe/H]=-0.1` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=0.34, d_pc=98.23, logt=6.65` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.34, MOD50=4.98, logAge50=6.65` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

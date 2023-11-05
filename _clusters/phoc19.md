@@ -49,7 +49,7 @@ title:  PHOC 19
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 246.293 | -49.742 | 0.355 | -1.324 | -3.091 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 246.298 | -49.74 | 0.362 | -1.404 | -3.116 | -36.384 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 246.298 | -49.74 | 0.362 | -1.404 | -3.116 | -36.384 |
 | **UCC** |246.309 | -49.74 | 0.368 | -1.378 | -3.13 | -35.056 |
 
 
@@ -73,7 +73,7 @@ title:  PHOC 19
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=2.99, d_pc=2494.51, logt=7.61` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.99, MOD50=11.98, logAge50=7.61` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-25</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

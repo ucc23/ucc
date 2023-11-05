@@ -51,7 +51,7 @@ title:  Lynga 3
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 229.208 | -58.34 | -- | -2.39 | 0.01 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 229.194 | -58.373 | 0.108 | -4.853 | -3.727 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 229.193 | -58.365 | 0.117 | -4.858 | -3.756 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | 229.197 | -58.375 | 0.161 | -4.914 | -3.809 | -4.838 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 229.197 | -58.375 | 0.161 | -4.914 | -3.809 | -4.838 |
 | **UCC** |229.19 | -58.376 | 0.14 | -4.887 | -3.782 | -27.427 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=229.19,-58.376" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=229.19%20-58.376&output=json&radius=5&userEntry=lynga3" target="_blank">Simbad</a></p>
@@ -70,7 +70,7 @@ title:  Lynga 3
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.56, distance=4164.0, log_age=8.91` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=4.69, Dist=6922.0, logage=6.71, [Fe/H]=0.07` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230313424H/abstract) | `Av=6.26, d_pc=5056.45, logt=6.87` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=6.26, MOD50=13.8, logAge50=6.87` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>

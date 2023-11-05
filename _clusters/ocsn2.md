@@ -51,6 +51,13 @@ title:  OCSN 2
 |[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 257.35 | -17.54 | 4.78 | -5.68 | -11.25 | -20.12 |
 | **UCC** |257.234 | -18.007 | 4.77 | -5.573 | -11.375 | -16.185 |
 
+
+### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+
+| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 70](https://ucc.ar/_clusters/theia70/)| 73 | 257.133 | -18.17 | 4.796 | -5.731 | -11.547 | -31.082 |
+
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=257.234,-18.007" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=257.234%20-18.007&output=json&radius=5&userEntry=ocsn2" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
@@ -68,4 +75,4 @@ title:  OCSN 2
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.0, dm=6.41, logt=7.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>
