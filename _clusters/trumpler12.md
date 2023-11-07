@@ -2,18 +2,38 @@
 layout: post
 title:  Trumpler 12
 ---
-<h3><span style="color: #808080;"><i>(Collinder 217; OCL 803; VDBH 89; vdBergh-Hagen 89; ESO 127 07; FSR 1537; MWSC 1763)</i></span></h3>
-<div style="display: flex; justify-content: space-between;">
- <div style="text-align: center;">
- <!-- Left block -->
- <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
- <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
- <script type="text/javascript">
-   let aladin;
-   A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.107, target: "151.622 -60.296"});
-   });
- </script>
+<h3><span style="color: #808080;"><i>(Collinder 217; OCL 803; VDBH 89; vdBergh-Hagen 89; ESO 127 07; FSR 1537; MWSC 1763)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="text-align: center;">
+<!-- WEBP image -->
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/trumpler12_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+
+<!-- Div to contain Aladin Lite viewer -->
+<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+
+<!-- Aladin Lite script (will be loaded after the image is clicked) -->
+<script type="text/javascript">
+// Function to load Aladin Lite after image click and hide the image
+function loadAladinLiteAndHideImage() {
+    // Dynamically load the Aladin Lite script
+    let aladinScript = document.createElement('script');
+    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
+    aladinScript.charset = "utf-8";
+    aladinScript.onload = function () {
+        A.init.then(() => {
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.107, target: "151.622 -60.296"});
+            // Remove the image
+            document.getElementById('myImage').remove();
+            // Hide the image
+            //document.getElementById('myImage').style.visibility = "hidden";
+            // Show the Aladin Lite viewer
+            document.getElementById('aladin-lite-div').style.display = 'block';
+        });
+     };
+    document.head.appendChild(aladinScript);
+}
+// Event listener for image click
+document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
+</script>
 </div>
 <!-- Left block -->
 
@@ -82,4 +102,4 @@ title:  Trumpler 12
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.4, MOD50=12.56, logAge50=8.94` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>

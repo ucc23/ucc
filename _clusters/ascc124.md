@@ -2,18 +2,38 @@
 layout: post
 title:  ASCC 124
 ---
-<h3><span style="color: #808080;"><i>(Alessi 37; MWSC 3663)</i></span></h3>
-<div style="display: flex; justify-content: space-between;">
- <div style="text-align: center;">
- <!-- Left block -->
- <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
- <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
- <script type="text/javascript">
-   let aladin;
-   A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.727, target: "341.947 46.324"});
-   });
- </script>
+<h3><span style="color: #808080;"><i>(Alessi 37; MWSC 3663)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="text-align: center;">
+<!-- WEBP image -->
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/ascc124_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+
+<!-- Div to contain Aladin Lite viewer -->
+<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+
+<!-- Aladin Lite script (will be loaded after the image is clicked) -->
+<script type="text/javascript">
+// Function to load Aladin Lite after image click and hide the image
+function loadAladinLiteAndHideImage() {
+    // Dynamically load the Aladin Lite script
+    let aladinScript = document.createElement('script');
+    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
+    aladinScript.charset = "utf-8";
+    aladinScript.onload = function () {
+        A.init.then(() => {
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.727, target: "341.947 46.324"});
+            // Remove the image
+            document.getElementById('myImage').remove();
+            // Hide the image
+            //document.getElementById('myImage').style.visibility = "hidden";
+            // Show the Aladin Lite viewer
+            document.getElementById('aladin-lite-div').style.display = 'block';
+        });
+     };
+    document.head.appendChild(aladinScript);
+}
+// Event listener for image click
+document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
+</script>
 </div>
 <!-- Left block -->
 
@@ -81,4 +101,4 @@ title:  ASCC 124
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.41, MOD50=9.21, logAge50=8.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>

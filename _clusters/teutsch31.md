@@ -2,18 +2,38 @@
 layout: post
 title:  Teutsch 31
 ---
-<h3><span style="color: #808080;"><i>(DSH J1052.8-5927; MWSC 1864)</i></span></h3>
-<div style="display: flex; justify-content: space-between;">
- <div style="text-align: center;">
- <!-- Left block -->
- <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
- <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
- <script type="text/javascript">
-   let aladin;
-   A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.223, target: "163.206 -59.457"});
-   });
- </script>
+<h3><span style="color: #808080;"><i>(DSH J1052.8-5927; MWSC 1864)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="text-align: center;">
+<!-- WEBP image -->
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/teutsch31_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+
+<!-- Div to contain Aladin Lite viewer -->
+<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+
+<!-- Aladin Lite script (will be loaded after the image is clicked) -->
+<script type="text/javascript">
+// Function to load Aladin Lite after image click and hide the image
+function loadAladinLiteAndHideImage() {
+    // Dynamically load the Aladin Lite script
+    let aladinScript = document.createElement('script');
+    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
+    aladinScript.charset = "utf-8";
+    aladinScript.onload = function () {
+        A.init.then(() => {
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.223, target: "163.206 -59.457"});
+            // Remove the image
+            document.getElementById('myImage').remove();
+            // Hide the image
+            //document.getElementById('myImage').style.visibility = "hidden";
+            // Show the Aladin Lite viewer
+            document.getElementById('aladin-lite-div').style.display = 'block';
+        });
+     };
+    document.head.appendChild(aladinScript);
+}
+// Event listener for image click
+document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
+</script>
 </div>
 <!-- Left block -->
 
@@ -71,4 +91,4 @@ title:  Teutsch 31
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.35, DMNN=13.84, AgeNN=9.22` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>

@@ -2,18 +2,38 @@
 layout: post
 title:  OCSN 3
 ---
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="text-align: center;">
+<!-- WEBP image -->
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/ocsn3_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
 
-<div style="display: flex; justify-content: space-between;">
- <div style="text-align: center;">
- <!-- Left block -->
- <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
- <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
- <script type="text/javascript">
-   let aladin;
-   A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:3.123, target: "276.368 -20.617"});
-   });
- </script>
+<!-- Div to contain Aladin Lite viewer -->
+<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+
+<!-- Aladin Lite script (will be loaded after the image is clicked) -->
+<script type="text/javascript">
+// Function to load Aladin Lite after image click and hide the image
+function loadAladinLiteAndHideImage() {
+    // Dynamically load the Aladin Lite script
+    let aladinScript = document.createElement('script');
+    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
+    aladinScript.charset = "utf-8";
+    aladinScript.onload = function () {
+        A.init.then(() => {
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:3.123, target: "276.368 -20.617"});
+            // Remove the image
+            document.getElementById('myImage').remove();
+            // Hide the image
+            //document.getElementById('myImage').style.visibility = "hidden";
+            // Show the Aladin Lite viewer
+            document.getElementById('aladin-lite-div').style.display = 'block';
+        });
+     };
+    document.head.appendChild(aladinScript);
+}
+// Event listener for image click
+document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
+</script>
 </div>
 <!-- Left block -->
 
@@ -66,8 +86,8 @@ title:  OCSN 3
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `Ebv=0.21, dm=6.56, logt=8.45` |
+| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `E(B-V)=0.21, m-M=6.56, logt=8.45` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.15, MOD50=5.85, logAge50=8.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-01</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>

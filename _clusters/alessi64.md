@@ -2,18 +2,38 @@
 layout: post
 title:  Alessi 64
 ---
-<h3><span style="color: #808080;"><i>(FSR 1123; DSH J0551.6-1214; MWSC 681)</i></span></h3>
-<div style="display: flex; justify-content: space-between;">
- <div style="text-align: center;">
- <!-- Left block -->
- <div id="aladin-lite-div" style="width:355px;height:250px;"></div>
- <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
- <script type="text/javascript">
-   let aladin;
-   A.init.then(() => {
-      aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.297, target: "87.912 -12.249"});
-   });
- </script>
+<h3><span style="color: #808080;"><i>(FSR 1123; DSH J0551.6-1214; MWSC 681)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="text-align: center;">
+<!-- WEBP image -->
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/alessi64_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+
+<!-- Div to contain Aladin Lite viewer -->
+<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+
+<!-- Aladin Lite script (will be loaded after the image is clicked) -->
+<script type="text/javascript">
+// Function to load Aladin Lite after image click and hide the image
+function loadAladinLiteAndHideImage() {
+    // Dynamically load the Aladin Lite script
+    let aladinScript = document.createElement('script');
+    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
+    aladinScript.charset = "utf-8";
+    aladinScript.onload = function () {
+        A.init.then(() => {
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.297, target: "87.912 -12.249"});
+            // Remove the image
+            document.getElementById('myImage').remove();
+            // Hide the image
+            //document.getElementById('myImage').style.visibility = "hidden";
+            // Show the Aladin Lite viewer
+            document.getElementById('aladin-lite-div').style.display = 'block';
+        });
+     };
+    document.head.appendChild(aladinScript);
+}
+// Event listener for image click
+document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
+</script>
 </div>
 <!-- Left block -->
 
@@ -69,4 +89,4 @@ title:  Alessi 64
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.0, distance=2268.0, log_age=8.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-10-20</i></font>
+<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
