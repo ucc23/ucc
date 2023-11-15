@@ -20,19 +20,18 @@ If you used the UCC and/or the `fastMP` tool in your work, please reference the
 
 {% raw %}
 ```
-@ARTICLE{2023MNRAS.tmp.2728P,
+@ARTICLE{2023MNRAS.526.4107P,
        author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
-        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous database of stellar clusters}",
+        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
       journal = {\mnras},
-     keywords = {(Galaxy:) open clusters and associations: general, catalogues, methods: data analysis, Astrophysics - Astrophysics of Galaxies},
+     keywords = {methods: data analysis, catalogues, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies},
          year = 2023,
-        month = sep,
+        month = dec,
+       volume = {526},
+       number = {3},
+        pages = {4107-4119},
           doi = {10.1093/mnras/stad2826},
-archivePrefix = {arXiv},
-       eprint = {2308.04546},
- primaryClass = {astro-ph.GA},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2728P},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P}
 }
 ```
 {% endraw %}
