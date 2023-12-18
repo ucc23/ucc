@@ -59,7 +59,7 @@ need to add a `g` before the `(lon, lat)` values:
 
 ## Where is the full database?
 
-The latest version of the UCC can be found in its [Zenodo repository](https://zenodo.org/record/8250524) in
+The latest version of the UCC can be found in its [Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.8250523) in
 compressed `csv` format.
 
 The compressed `parquet` file with the latest version of the estimated
