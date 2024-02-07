@@ -4,6 +4,17 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
+## Version [240208](https://doi.org/10.5281/zenodo.10632525)
+
+- Fixed [Issue 12](https://github.com/ucc23/ucc/issues/12)
+
+Added new OC Casado-Hendy 1.
+
+- Fixed [Issue 41](https://github.com/ucc23/ucc/issues/41)
+
+Added [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract).
+
+
 ## Version [231105](https://doi.org/10.5281/zenodo.10072846)
 
 - Fixed [Issue 32](https://github.com/ucc23/ucc/issues/32)

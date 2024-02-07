@@ -612,6 +612,7 @@ permalink: /Q1P_table/
 | [CWWL 3567](https://ucc.ar/_clusters/cwwl3567/) | 27.19 | 2.61 | 277.91 | -3.91 | 2.587 | 1.0 | 0.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWWL 3595](https://ucc.ar/_clusters/cwwl3595/) | 63.25 | 14.75 | 282.58 | 33.41 | 3.458 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Casado 82](https://ucc.ar/_clusters/casado82/) | 72.59 | 2.59 | 300.9 | 36.02 | 0.487 | 0.93 | 0.53 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Casado-Hendy 1](https://ucc.ar/_clusters/casadohendy1/) | 73.3 | 1.17 | 302.85 | 35.85 | 0.485 | 0.81 | 0.53 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Cmg 451](https://ucc.ar/_clusters/cmg451/) | 0.26 | 0.75 | 265.83 | -28.32 | 0.376 | 0.46 | 0.55 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Cmg 469](https://ucc.ar/_clusters/cmg469/) | 3.66 | -0.06 | 268.58 | -25.83 | 0.251 | 0.73 | 0.45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Cmg 582](https://ucc.ar/_clusters/cmg582/) | 64.96 | -0.04 | 298.82 | 28.14 | 0.244 | 0.43 | 0.31 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |

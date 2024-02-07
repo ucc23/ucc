@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Casado 82
+title:  Casado-Hendy 1
 ---
 <div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
-<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/casado82_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/casadohendy1_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
 
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
@@ -20,7 +20,7 @@ function loadAladinLiteAndHideImage() {
     aladinScript.charset = "utf-8";
     aladinScript.onload = function () {
         A.init.then(() => {
-            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.167, target: "300.926 36.013"});
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.083, target: "302.845 35.848"});
             // Remove the image
             document.getElementById('myImage').remove();
             // Hide the image
@@ -40,7 +40,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <table style="text-align: center; width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
-    <td colspan="5"><h3>UCC G072.5+02.5</h3></td>
+    <td colspan="5"><h3>UCC G073.3+01.1</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
@@ -52,49 +52,47 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.93</td>
+    <td>0.81</td>
     <td>0.53</td>
     <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>33</td>
-    <td>5.0</td>
+    <td>22</td>
+    <td>2.5</td>
   </tr>
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Casado%2082%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=casado82" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Casado-Hendy%201%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=casadohendy1" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 300.898 | 36.022 | 0.494 | -3.203 | -6.256 | -22.376 |
-|[Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | 300.91 | 36.04 | 0.493 | -3.24 | -6.24 | -22.0 |
-| **UCC** |300.926 | 36.013 | 0.487 | -3.207 | -6.259 | -6.769 |
+|[Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | 302.85 | 35.85 | 0.49 | -3.19 | -6.31 | -24.0 |
+| **UCC** |302.845 | 35.848 | 0.485 | -3.205 | -6.308 | -8.439 |
 
 
 ### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 11610](https://ucc.ar/_clusters/cwwdl11610/)| 97 | 300.922 | 36.015 | 0.489 | -3.205 | -6.259 | -6.769 |
+|[NGC 6883](https://ucc.ar/_clusters/ngc6883/)| 43 | 302.875 | 35.858 | 0.482 | -3.139 | -6.234 | -14.501 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=300.926,+36.013" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=300.926%2036.013&output=json&radius=5&userEntry=casado82" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.845,+35.848" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.845%2035.848&output=json&radius=5&userEntry=casadohendy1" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/casado82.webp)
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/casadohendy1.webp)
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1P/blob/master/notebooks/casado82.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1P/blob/master/notebooks/casadohendy1.ipynb" target="_blank">Colab</a></p>
 
 
 ### Fundamental parameters in literature (not exhaustive)
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.35, MOD50=11.42, logAge50=6.77` |
-| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | `Av=1.55, d_kpc=2.0, Age_Myr=5.8, Z=0.01` |
+| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | `Av=1.55, d_kpc=1.99, Age_Myr=5.9, Z=0.02` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2024-02-02</i></font>
