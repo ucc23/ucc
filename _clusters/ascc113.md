@@ -70,6 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 318.007 | 38.61 | -- | 0.4 | -4.95 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 317.992 | 38.599 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 317.933 | 38.638 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 317.933 | 38.638 | 1.762 | 0.8 | -3.679 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 318.093 | 38.586 | 1.762 | 0.798 | -3.688 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 317.926 | 38.543 | 1.768 | 0.826 | -3.708 | -- |
@@ -99,6 +100,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=501.0, log_age=7.93` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.09, Dist=8.61, logA=8.63, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.13, DMNN=8.75, AgeNN=8.46` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.28, Dist=559.0, logage=8.46, [Fe/H]=-0.05` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=557.0, logAgeNN=8.48` |
@@ -106,4 +108,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.11, MOD50=8.65, logAge50=8.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

@@ -71,6 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 105.124 | -20.565 | -- | -0.99 | 3.97 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 105.12 | -20.567 | -- | -0.4 | 0.901 | 81.1 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 105.123 | -20.561 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 105.126 | -20.569 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 105.126 | -20.569 | 0.371 | -2.564 | 3.833 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 105.131 | -20.576 | 0.371 | -2.574 | 3.83 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 105.122 | -20.578 | 0.403 | -2.569 | 3.831 | -- |
@@ -93,9 +94,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.28, distance=2642.0, log_age=9.06` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.37, Dmod=13.39, logt=8.86` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.79, Dist=12.19, logA=8.99, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.66, DMNN=12.04, AgeNN=9.1` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.91, Dist=2255.0, logage=9.11, [Fe/H]=-0.12` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.4, MOD50=11.81, logAge50=9.1` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

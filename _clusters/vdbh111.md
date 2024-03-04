@@ -70,6 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 167.28 | -63.83 | -- | -9.28 | 2.1 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 167.28 | -63.836 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 167.32 | -63.834 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 167.32 | -63.834 | 0.339 | -8.176 | 2.941 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 167.314 | -63.831 | 0.332 | -8.164 | 2.935 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 167.317 | -63.83 | 0.367 | -8.152 | 2.968 | -66.434 |
@@ -97,9 +98,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.42, distance=2634.0, log_age=8.35` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=1.09, Dist=12.06, logA=8.44, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.28, DMNN=12.27, AgeNN=8.29` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.44, Dist=2484.0, logage=8.51, [Fe/H]=0.07` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.06, MOD50=11.94, logAge50=8.43` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

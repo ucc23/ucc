@@ -71,6 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 115.32 | -16.29 | -- | -2.84 | 3.71 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 115.32 | -16.29 | -- | -4.716 | 2.892 | 33.5 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 115.313 | -16.247 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 115.315 | -16.279 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 115.315 | -16.279 | 0.867 | -4.272 | 3.242 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 115.303 | -16.28 | 0.864 | -4.286 | 3.262 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 115.293 | -16.294 | 0.912 | -4.219 | 3.367 | -- |
@@ -94,6 +95,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.42, distance=1490.0, log_age=8.15, metallicity=-0.1` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.08, Dmod=12.93, logt=8.81` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.59, Dist=10.36, logA=8.61, Fe/H=0.15` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.43, DMNN=10.26, AgeNN=8.65` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.54, Dist=1112.0, logage=8.79, [Fe/H]=0.05` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1096.0, logAgeNN=8.69` |
@@ -101,4 +103,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.26, MOD50=10.14, logAge50=8.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

@@ -70,6 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 269.228 | -35.27 | -- | 1.35 | -1.91 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 269.205 | -35.259 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 269.182 | -35.298 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 269.182 | -35.298 | 0.707 | 1.243 | -2.189 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 269.178 | -35.302 | 0.707 | 1.246 | -2.184 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 269.176 | -35.296 | 0.679 | 1.155 | -2.24 | -- |
@@ -98,10 +99,11 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.48, distance=1982.0, log_age=8.35` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.93, Dist=10.5, logA=8.57, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.81, DMNN=10.65, AgeNN=8.64` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.61, Dist=1222.0, logage=8.77, [Fe/H]=0.32` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1300.0, logAgeNN=8.69` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.91, MOD50=10.68, logAge50=8.34` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

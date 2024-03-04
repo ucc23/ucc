@@ -71,6 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 71.565 | 55.255 | -- | -0.91 | -0.75 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 71.505 | 55.207 | -- | 1.62 | -3.654 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 71.561 | 55.234 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 71.602 | 55.199 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 71.602 | 55.199 | 1.589 | -0.904 | -1.046 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 71.627 | 55.234 | 1.582 | -0.896 | -1.055 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 71.606 | 55.2 | 1.624 | -0.944 | -1.091 | -- |
@@ -93,6 +94,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.15, distance=520.0, log_age=8.7` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.31, Dmod=8.79, logt=7.53` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.48, Dist=8.85, logA=8.76, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.52, DMNN=9.09, AgeNN=8.55` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.81, Dist=611.0, logage=8.6, [Fe/H]=0.06` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=647.0, logAgeNN=8.58` |
@@ -100,4 +102,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.57, MOD50=8.84, logAge50=8.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

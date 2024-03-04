@@ -71,6 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 210.0 | -62.15 | -- | -8.45 | -0.44 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 210.015 | -62.15 | -- | -8.917 | -5.437 | -24.3 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 209.99 | -62.155 | -- | -- | -- | -- |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 209.994 | -62.152 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 209.994 | -62.152 | 0.422 | -5.303 | -2.274 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 209.977 | -62.154 | 0.424 | -5.308 | -2.267 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 210.006 | -62.149 | 0.452 | -5.235 | -2.258 | -- |
@@ -93,9 +94,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=1312.0, log_age=8.39` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.46, Dmod=11.75, logt=8.08` |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=1.51, Dist=11.76, logA=7.93, Fe/H=0.02` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.94, DMNN=11.75, AgeNN=8.22` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.6, Dist=1959.0, logage=8.06, [Fe/H]=0.21` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.74, MOD50=11.57, logAge50=7.62` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

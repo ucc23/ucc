@@ -72,6 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | 82.179 | 3.527 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 82.179 | 3.527 | 2.866 | 1.404 | -0.632 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 82.142 | 3.477 | 2.893 | 1.381 | -0.61 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 82.212 | 3.607 | 2.902 | 1.532 | -0.576 | 10.168 |
@@ -98,9 +99,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
+| [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract) | `AV=0.12, Dist=7.42, logA=7.03, Fe/H=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.1, DMNN=7.66, AgeNN=6.95` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.24, Dist=343.0, logage=7.1, [Fe/H]=-0.01` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.14, MOD50=7.61, logAge50=6.84` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-04</i></font>

@@ -68,6 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract) | 92.234 | 26.264 | -- | -- | -- | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 92.231 | 26.26 | -- | 0.68 | -1.49 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 92.235 | 26.265 | -- | 0.278 | -0.791 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 92.232 | 26.266 | -- | -- | -- | -- |
@@ -90,6 +91,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
+| [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract) | `E(B-V)=0.34, Distance=3200.0, Age=8.5` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.33, distance=2982.0, log_age=8.05` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.22, Dmod=12.07, logt=8.2` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.53, DMNN=13.56, AgeNN=7.21` |
@@ -97,4 +99,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.16, MOD50=13.22, logAge50=8.32` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-02</i></font>

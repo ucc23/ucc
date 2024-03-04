@@ -2,7 +2,7 @@
 layout: post
 title:  Koposov 43
 ---
-<h3><span style="color: #808080;"><i>(FSR 0828; MWSC 687; MWSC 688)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(FSR 0828; MWSC 687; MWSC 688; FSR 0848)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/koposov43_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -68,6 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract) | 88.061 | 29.919 | -- | -- | -- | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 88.073 | 29.897 | -- | 0.53 | -5.24 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 88.065 | 29.919 | -- | -0.094 | -1.196 | 26.6 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 88.058 | 29.918 | -- | -- | -- | -- |
@@ -90,6 +91,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
+| [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract) | `E(B-V)=0.38, Distance=2800.0, Age=9.3` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.65, distance=3000.0, log_age=9.12` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.71, Dmod=13.14, logt=7.8` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.41, DMNN=13.34, AgeNN=9.45` |
@@ -97,4 +99,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.5, MOD50=12.96, logAge50=8.98` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-03-02</i></font>
