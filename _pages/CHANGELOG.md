@@ -6,8 +6,8 @@ permalink: /changelog/
 
 ## Version [240304](https://doi.org/10.5281/zenodo.10779488)
 
-Added [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract).
-Added [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract).
+- Added [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract).
+- Added [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract).
 
 
 ## Version [240207](https://doi.org/10.5281/zenodo.10632525)
