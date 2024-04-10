@@ -19,8 +19,6 @@ body {
 }
 </style>
 
-<script src="{{ site.baseurl }}/assets/euclidean-search.js" defer></script>
-
   <div class="search-container">
     <input type="search" id="search"  placeholder="Search by name or coordinates..." data-search>
   </div>
@@ -34,7 +32,7 @@ body {
     </div>
   </template>
 
+<!-- Load search bar -->
+<script src="{{ site.baseurl }}/assets/euclidean-search.js" defer></script>
 <!-- Focus on search bar on load -->
-<script>
-      document.getElementById("search").focus();
-</script>
+<script>document.getElementById("search").focus();</script>
