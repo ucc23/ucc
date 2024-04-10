@@ -1,6 +1,6 @@
 <div align="left">
   <br>
-  <img src="/images/UCC_icon.png" alt="UCC" width="200"/>
+  <img src="/images/UCC_icon.webp" alt="UCC" width="200"/>
   <br>
 </div>
 
