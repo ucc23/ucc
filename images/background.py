@@ -11,12 +11,12 @@ the bottom left and trim the blank space to the right. This generates an
 image with the proper dimensions for the ucc.ar site.
 """
 
-df = pd.read_csv("../../updt_UCC/UCC_versions/UCC_cat_230810.csv")
+df = pd.read_csv("../../updt_UCC/zenodo/UCC_cat_240304.csv")
 
 sizes = 1 * (1 / np.clip(df['plx'].values, .1, 20))
 
 # Galactic coordinates.
-eq = SkyCoord(ra=df['RA_ICRS']*u.degree, dec=df['DE_ICRS']*u.degree, frame='icrs')
+eq = SkyCoord(ra=df['RA_ICRS'].values*u.degree, dec=df['DE_ICRS'].values*u.degree, frame='icrs')
 lb = eq.transform_to('galactic')
 lon = lb.l.wrap_at(180 * u.deg).radian * u.radian
 lat = lb.b.radian * u.radian
@@ -32,5 +32,4 @@ ax.scatter(i_lon, lat, s=sizes, lw=.2, facecolor='none', ec='grey', zorder=5)
 ax.set_xticklabels([])
 ax.set_yticklabels([])
 
-# fig.savefig('background.webp', dpi=150)
-fig.savefig('background.png', dpi=300)
+fig.savefig('background.webp', dpi=150, bbox_inches="tight")
