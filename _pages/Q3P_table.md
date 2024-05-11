@@ -1439,6 +1439,7 @@ permalink: /Q3P_table/
 | [NGC 2658](https://ucc.ar/_clusters/ngc2658/) | 254.56 | 6.07 | 130.87 | -32.66 | 0.218 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2664](https://ucc.ar/_clusters/ngc2664/) | 214.37 | 31.35 | 131.84 | 12.6 | 0.17 | 0.72 | 0.41 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [NGC 2671](https://ucc.ar/_clusters/ngc2671/) | 262.16 | 0.79 | 131.56 | -41.89 | 0.695 | 1.0 | 0.75 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 2678](https://ucc.ar/_clusters/ngc2678/) | 216.03 | 31.42 | 132.51 | 11.34 | 1.145 | 0.94 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2682](https://ucc.ar/_clusters/ngc2682/) | 215.69 | 31.92 | 132.85 | 11.81 | 1.151 | 1.0 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2818A](https://ucc.ar/_clusters/ngc2818a/) | 262.0 | 8.6 | 139.04 | -36.63 | 0.302 | 1.0 | 0.94 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2818](https://ucc.ar/_clusters/ngc2818/) | 262.0 | 8.61 | 139.04 | -36.62 | 0.301 | 1.0 | 0.92 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |

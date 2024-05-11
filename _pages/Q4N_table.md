@@ -2542,6 +2542,7 @@ permalink: /Q4N_table/
 | [VVV 8](https://ucc.ar/_clusters/vvv8/) | 296.83 | -1.73 | 178.87 | -63.94 | 0.137 | 0.14 | 0.36 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVV 9](https://ucc.ar/_clusters/vvv9/) | 296.76 | -1.11 | 179.01 | -63.32 | 0.076 | 0.9 | 0.64 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV CC170](https://ucc.ar/_clusters/vvvcc170/) | 350.18 | -9.28 | 270.26 | -42.05 | 0.273 | 0.74 | 0.49 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [VVV CL006](https://ucc.ar/_clusters/vvvcl006/) | 295.75 | -0.21 | 177.3 | -62.21 | 0.22 | 0.6 | 0.76 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [Westerlund 1](https://ucc.ar/_clusters/westerlund1/) | 339.55 | -0.4 | 251.76 | -45.85 | 0.222 | 1.0 | 0.75 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Westerlund 2](https://ucc.ar/_clusters/westerlund2/) | 284.27 | -0.33 | 156.01 | -57.76 | 0.204 | 1.0 | 0.68 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Whitman 1](https://ucc.ar/_clusters/whitman1/) | 286.52 | -7.02 | 152.1 | -64.56 | 0.253 | 0.44 | 0.26 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |

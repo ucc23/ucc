@@ -4,6 +4,11 @@ title: CHANGELOG
 permalink: /changelog/
 ---
 
+## Version [240511](https://doi.org/10.5281/zenodo.10779488)
+
+- Added [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract).
+
+
 ## Version [240304](https://doi.org/10.5281/zenodo.10779488)
 
 - Added [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract).

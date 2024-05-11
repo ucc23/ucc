@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  OC 0572
+title:  VVV CL006
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(VVV 006)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
-<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/oc0572_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
+<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vvvcl006_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
 
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
@@ -20,7 +20,7 @@ function loadAladinLiteAndHideImage() {
     aladinScript.charset = "utf-8";
     aladinScript.onload = function () {
         A.init.then(() => {
-            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.15, target: "177.332 -62.224"});
+            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:0.08, target: "177.316 -62.23"});
             // Remove the image
             document.getElementById('myImage').remove();
             // Hide the image
@@ -40,7 +40,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <table style="text-align: center; width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
-    <td colspan="5"><h3>UCC G295.7-00.2</h3></td>
+    <td colspan="5"><h3>UCC G295.7-00.2c</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
@@ -52,49 +52,49 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.75</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>441</td>
-    <td>4.5</td>
+    <td>0.6</td>
+    <td>0.76</td>
+    <td><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td>52</td>
+    <td>2.4</td>
   </tr>
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OC%200572%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=oc0572" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22VVV%20CL006%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=vvvcl006" target="_blank">Simbad</a></p>
 
 
 ### Position in UCC and published works (not exhaustive)
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hao et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A...4H/abstract) | 177.305 | -62.227 | 0.223 | -7.729 | 1.353 | -- |
-| **UCC** |177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
+|[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | 177.3 | -62.208 | -- | -7.74 | 1.28 | -14.1 |
+| **UCC** |177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
 
 
 ### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VVV CL006](https://ucc.ar/_clusters/vvvcl006/)| 59 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
-|[Teutsch 230](https://ucc.ar/_clusters/teutsch230/)| 92 | 177.332 | -62.227 | 0.236 | -7.732 | 1.344 | -12.765 |
-|[SAI 116](https://ucc.ar/_clusters/sai116/)| 99 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
+|[OC 0572](https://ucc.ar/_clusters/oc0572/)| 59 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
+|[Teutsch 230](https://ucc.ar/_clusters/teutsch230/)| 56 | 177.332 | -62.227 | 0.236 | -7.732 | 1.344 | -12.765 |
+|[SAI 116](https://ucc.ar/_clusters/sai116/)| 60 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.332,-62.224" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.332%20-62.224&output=json&radius=5&userEntry=oc0572" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.316,-62.23" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.316%20-62.23&output=json&radius=5&userEntry=vvvcl006" target="_blank">Simbad</a></p>
 
 ### Plots for selected probable members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/oc0572.webp)
+![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vvvcl006.webp)
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4N/blob/master/notebooks/oc0572.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4N/blob/master/notebooks/vvvcl006.ipynb" target="_blank">Colab</a></p>
 
 
 ### Fundamental parameters in literature (not exhaustive)
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hao et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...660A...4H/abstract) | `AG=4.04, age=8.2, Z=0.02` |
+| [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | `Fe/H=0.16` |
 
 <br>
 <font color="b3b1b1"><i>Last modified: 2024-05-11</i></font>

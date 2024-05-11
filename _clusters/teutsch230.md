@@ -76,6 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[VVV CL006](https://ucc.ar/_clusters/vvvcl006/)| 56 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
 |[OC 0572](https://ucc.ar/_clusters/oc0572/)| 92 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
 |[SAI 116](https://ucc.ar/_clusters/sai116/)| 93 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
 
@@ -90,4 +91,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-05-11</i></font>

@@ -69,6 +69,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 132.864 | 11.393 | -- | -- | -- | -- |
+|[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | 132.863 | 11.395 | -- | -11.05 | -2.83 | 34.2 |
 | **UCC** |132.871 | 11.502 | 1.154 | -10.989 | -2.866 | 33.822 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=132.871,+11.502" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=132.871%2011.502&output=json&radius=5&userEntry=chupina3" target="_blank">Simbad</a></p>
@@ -81,5 +82,11 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q3P/blob/master/notebooks/chupina3.ipynb" target="_blank">Colab</a></p>
 
 
+### Fundamental parameters in literature (not exhaustive)
+
+| Reference |  Fundamental parameters |
+| :---         |     :---:      |
+| [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | `Fe/H=0.01` |
+
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-05-11</i></font>
