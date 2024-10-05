@@ -9,9 +9,10 @@ permalink: /faq/
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 - [How do I use the search bar?](#how-do-i-use-the-search-bar)
 - [Where is the full database?](#where-is-the-full-database)
-- [Is the fastMP tool publicly available?](#is-the-fastmp-tool-publicly-available)
 - [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
 - [Probable duplicates](#probable-duplicates)
+- [How are member stars selected?](#how-are-member-stars-selected)
+
 
 ## How can I cite the UCC?
 
@@ -73,12 +74,6 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 {% endraw %}
 
 
-## Is the fastMP tool publicly available?
-
-Yes, the code repository for fastMP is [here](https://github.com/Gabriel-p/fastMP). Instructions
-on how to install will be provided shortly.
-
-
 ## What are the C1, C2, and C3 parameters?
 
 The C1, C2, and C3 parameters are the `C_phot`, `C_dens`, and the combined
@@ -117,3 +112,10 @@ else parallax is nan
 where `parallax` is the associated parallax of the OC, and `xy_r, plx_r, pm_r`
 are the parallax-based thresholds for each component (in arcmin, mas, and
 mas/yr; respectively).
+
+
+## How are member stars selected?
+
+Membership is obtained through the `fastMP` method described in Section 3 of
+[Perren et al. (2023) ](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract). The `fastMP` membership estimation method has been
+incorporated into the [`ASteCA` package](https://github.com/asteca/ASteCA). See details [here](https://asteca.readthedocs.io/en/latest/basic/membership.html).

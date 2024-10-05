@@ -31,6 +31,7 @@ url: https://ucc.ar
 # then add in the baseurl here, like this: "/repository-name"
 #baseurl: "/ucc_reverie-light"
 
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -62,6 +63,7 @@ plugins:
   # - jekyll-seo-tag
   - jekyll-paginate
 
+
 include: ['_pages', '_clusters']
 
 paginate: 6
@@ -74,3 +76,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  # - _clusters # Un-comment to exclude for faster processing in a local build

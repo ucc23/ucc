@@ -28,10 +28,3 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
-
-
-Local build (see [Jekyll docs](https://jekyllrb.com/docs/)):
-
-```
-$ bundle exec jekyll serve --incremental
-```
