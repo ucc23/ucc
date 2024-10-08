@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Database
+title: 
 permalink: /database/
 ---
+
+![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
 ### Databases used in the UCC
 
