@@ -1,8 +1,12 @@
 ---
 layout: page
-title: CHANGELOG
+title: 
 permalink: /changelog/
 ---
+
+If you find any problems with the site or have suggestions on how to improve it,
+you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
+
 
 ## Version [240511](https://doi.org/10.5281/zenodo.10779488)
 

@@ -1,23 +1,20 @@
 ---
 layout: page
-title: FAQ
+title: 
 permalink: /faq/
 ---
 
-# Table of contents
-
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
-- [How do I use the search bar?](#how-do-i-use-the-search-bar)
-- [Where is the full database?](#where-is-the-full-database)
-- [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
-- [Probable duplicates](#probable-duplicates)
+- [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
+- [How do I use the search bar?](#how-do-i-use-the-search-bar)
+- [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
+- [How are probable duplicates identified?](#how-are-probable-duplicates-identified)
 
 
 ## How can I cite the UCC?
 
-If you used the UCC and/or the `fastMP` tool in your work, please reference the
-[article](https://doi.org/10.1093/mnras/stad2826):
+If you used the UCC please reference its original [article](https://doi.org/10.1093/mnras/stad2826):
 
 {% raw %}
 ```
@@ -36,6 +33,27 @@ If you used the UCC and/or the `fastMP` tool in your work, please reference the
 }
 ```
 {% endraw %}
+
+
+## What objects are included in the UCC?
+
+The UCC lists any object that was catalogued as an open cluster in the literature. This
+object might be classified differently in other articles (e.g.: moving group,
+association, etc.) but it will remain listed in the UCC because at least one article
+at some point indicated that it was an open cluster.
+
+The UCC is regularly updated to include new research. If your article is not listed
+in the [database]({% link _pages/DATABASE.md %}), you can
+[contact me](mailto:gabrielperren@gmail.com) with the details and I will add it as soon as possible.
+
+
+
+## How are member stars selected?
+
+Membership is obtained through the `fastMP` method described in Section 3 of
+[Perren et al. (2023) ](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract). The `fastMP` membership estimation method has been
+incorporated into the [`ASteCA` package](https://github.com/asteca/ASteCA). See details [here](https://asteca.readthedocs.io/en/latest/basic/membership.html).
+
 
 ## How do I use the search bar?
 
@@ -58,22 +76,6 @@ need to add a `g` before the `(lon, lat)` values:
 ![Galactic coordinates based search](/images/search_g.png "Galactic coordinates based search")
 
 
-## Where is the full database?
-
-The latest version of the UCC can be found in its [Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.8250523) in
-compressed `csv` format.
-
-The compressed `parquet` file with the latest version of the estimated
-members for the complete UCC can also be downloaded from the same Zenodo
-repository. To extract the data simply use the [pandas](https://pandas.pydata.org/) Python package:
-
-{% raw %}
-```
-df = pd.read_parquet('UCC_members.parquet.gz')
-```
-{% endraw %}
-
-
 ## What are the C1, C2, and C3 parameters?
 
 The C1, C2, and C3 parameters are the `C_phot`, `C_dens`, and the combined
@@ -81,9 +83,9 @@ class respectively, described in Sect. 4.3 of the [Perren et al. (2023) ](https:
 article where the UCC was initially introduced.
 
 
-## Probable duplicates
+## How are probable duplicates identified?
 
-The probable duplicates are obtained using the parallax based rules described
+The probable duplicates are identified using the parallax based rules described
 in Sect. 4.1 of [Perren et al. (2023) ](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract). These are:
 
 {% raw %}
@@ -112,10 +114,3 @@ else parallax is nan
 where `parallax` is the associated parallax of the OC, and `xy_r, plx_r, pm_r`
 are the parallax-based thresholds for each component (in arcmin, mas, and
 mas/yr; respectively).
-
-
-## How are member stars selected?
-
-Membership is obtained through the `fastMP` method described in Section 3 of
-[Perren et al. (2023) ](https://ui.adsabs.harvard.edu/abs/2023arXiv230804546P/abstract). The `fastMP` membership estimation method has been
-incorporated into the [`ASteCA` package](https://github.com/asteca/ASteCA). See details [here](https://asteca.readthedocs.io/en/latest/basic/membership.html).

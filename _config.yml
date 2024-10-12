@@ -57,17 +57,17 @@ sass:
   style: :compressed
 
 # Use the following plug-ins
-plugins:
+# plugins:
   # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   # - jekyll-seo-tag
-  - jekyll-paginate
+  # - jekyll-paginate
 
 
 include: ['_pages', '_clusters']
 
-paginate: 6
-paginate_path: /page:num/
+# paginate: 6
+# paginate_path: /page:num/
 
 # Exclude these files from your production _site
 exclude:
@@ -76,4 +76,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  # - _clusters # Un-comment to exclude for faster processing in a local build
+  - _clusters # Un-comment to exclude for faster processing in a local build

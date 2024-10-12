@@ -4,9 +4,38 @@ title:
 permalink: /database/
 ---
 
+The latest full version of the UCC catalogue can be found in its
+[Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.8250523) in compressed `csv` format.
+
+The compressed `parquet` file with the estimated members for the UCC can also be
+downloaded from the same repository. To extract the data simply use the
+[pandas](https://pandas.pydata.org/) Python package:
+
+{% raw %}
+```
+df = pd.read_parquet('UCC_members.parquet.gz')
+```
+{% endraw %}
+
+
+&nbsp;
+
+---
+
+&nbsp;
+
+- [Catalogues in the UCC](#catalogues-in-the-ucc)
+- [C3 classification](#c3-classification)
+- [OCs per quadrants](#ocs-per-quadrants)
+
+
+
+
+### Catalogues in the UCC
+
 ![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
-### Databases used in the UCC
+<!-- Begin table 1 -->
 
 | Name | N | Name | N |
 | ---- | :-: | ---- | :-: |
@@ -30,7 +59,28 @@ permalink: /database/
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...20C/abstract) | 46 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | 82 |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 1179 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 2056 |
 
-### Quadrants
+<!-- End table 1 -->
+
+
+### C3 classification
+
+![C3 classification](/images/classif_bar.webp "C3 classification")
+
+<!-- Begin table 2 -->
+
+| C3 |  N  | C3 |  N  | C3 |  N  | C3 |  N  |
+|----| :-: |----| :-: |----| :-: |----| :-: |
+| <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | [2316](https://ucc.ar/AA_table/) | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | [3262](https://ucc.ar/AB_table/) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | [443](https://ucc.ar/BA_table/) | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | [1244](https://ucc.ar/AC_table/) |
+| <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | [245](https://ucc.ar/CA_table/) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1324](https://ucc.ar/BB_table/) | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | [24](https://ucc.ar/AD_table/) | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> | [105](https://ucc.ar/DA_table/) |
+| <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | [1475](https://ucc.ar/BC_table/) | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1001](https://ucc.ar/CB_table/) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> | [85](https://ucc.ar/BD_table/) | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | [670](https://ucc.ar/DB_table/) |
+| <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | [1868](https://ucc.ar/CC_table/) | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | [184](https://ucc.ar/CD_table/) | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | [1717](https://ucc.ar/DC_table/) | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | [216](https://ucc.ar/DD_table/) |
+
+<!-- End table 2 -->
+
+
+### OCs per quadrants
+
+<!-- Begin table 3 -->
 
 | Region  | lon range  | lat range  |   N |
 |---------|------------|------------| :-: |
@@ -42,3 +92,5 @@ permalink: /database/
 | [Q3N: 3rd quadrant, negative latitude](https://ucc.ar/Q3N_table/) | [180, 270) | (0, -90]   | 2539 |
 | [Q4P: 4th quadrant, positive latitude](https://ucc.ar/Q4P_table/) | [270, 360) | [0, 90]    | 1815 |
 | [Q4N: 4th quadrant, negative latitude](https://ucc.ar/Q4N_table/) | [270, 360) | (0, -90]   | 2541 |
+
+<!-- End table 3 -->
