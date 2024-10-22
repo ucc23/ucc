@@ -2,6 +2,10 @@
 <html lang="en">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <head>
+
+    <!-- Umami -->
+    <head><script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
 
@@ -20,7 +24,7 @@
             <!-- <a href="{{ site.baseurl }}/"><img src="/images/UCC_icon.webp" width="65" height="65" alt="{{ site.title }}" /></a> -->
 
             <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <h1 class="site-name"><a data-umami-event="ucc_base" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p>
             </div>
 
@@ -42,13 +46,9 @@
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
-            <!-- <a href="https://github.com/ucc23/ucc" target="_blank"><i class="fa fa-github" style="font-size:30px"></i></a> -->
-            <!-- <a href="https://github.com/ucc23/ucc" target="_blank"><i class="fa-brands fa-github fa-lg"></i></a> -->
-            <a href="https://github.com/ucc23/ucc" target="_blank"><img alt="Github repo" src="/images/github_b.svg" width="30" height="30"></a>
+            <a data-umami-event="github" href="https://github.com/ucc23/ucc" target="_blank"><img alt="Github repo" src="/images/github_b.svg" width="30" height="30"></a>
             <i class="little-spacer"></i>
-            <!-- <a href="mailto:gabrielperren@gmail.com" target="_blank"><i class="fa fa-envelope" style="font-size:30px"></i></a> -->
-            <!-- <a href="mailto:gabrielperren@gmail.com" target="_blank"><i class="fa-solid fa-envelope fa-lg"></i></a> -->
-            <a href="mailto:gabrielperren@gmail.com" target="_blank"><img alt="Send email" src="/images/envelope-solid_b.svg" width="30" height="30"></a>
+            <a data-umami-event="mailto" href="mailto:gabrielperren@gmail.com" target="_blank"><img alt="Send email" src="/images/envelope-solid_b.svg" width="30" height="30"></a>
           </footer>
         </div>
       </div>
