@@ -66,9 +66,6 @@ sass:
 
 include: ['_pages', '_clusters']
 
-# paginate: 6
-# paginate_path: /page:num/
-
 # Exclude these files from your production _site
 exclude:
   - Gemfile

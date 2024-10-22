@@ -132,9 +132,14 @@ fetch("clusters.json")
       const body_2 = card_2.querySelector("[data-body_2]")
       const body_3 = card_3.querySelector("[data-body_3]")
 
-      card_1.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
-      card_2.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
-      card_3.querySelector("a").setAttribute("href", "https://ucc.ar/_clusters/" + user.F.split(';')[0])
+      const name0 = user.F.split(';')[0]
+      card_1.querySelector("a").setAttribute("href", "./_clusters/" + name0)
+      card_2.querySelector("a").setAttribute("href", "./_clusters/" + name0)
+      card_3.querySelector("a").setAttribute("href", "./_clusters/" + name0)
+
+      card_1.querySelector("a").setAttribute("data-umami-event", name0)
+      card_2.querySelector("a").setAttribute("data-umami-event", name0)
+      card_3.querySelector("a").setAttribute("data-umami-event", name0)
 
       header_1.textContent = user.N
       header_2.textContent = user.N
