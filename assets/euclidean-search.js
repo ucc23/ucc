@@ -137,9 +137,9 @@ fetch("clusters.json")
       card_2.querySelector("a").setAttribute("href", "./_clusters/" + name0)
       card_3.querySelector("a").setAttribute("href", "./_clusters/" + name0)
 
-      card_1.querySelector("a").setAttribute("data-umami-event", name0)
-      card_2.querySelector("a").setAttribute("data-umami-event", name0)
-      card_3.querySelector("a").setAttribute("data-umami-event", name0)
+      // card_1.querySelector("a").setAttribute("data-umami-event", name0)
+      // card_2.querySelector("a").setAttribute("data-umami-event", name0)
+      // card_3.querySelector("a").setAttribute("data-umami-event", name0)
 
       header_1.textContent = user.N
       header_2.textContent = user.N
