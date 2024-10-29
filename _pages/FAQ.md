@@ -14,7 +14,8 @@ permalink: /faq/
 
 ## How can I cite the UCC?
 
-If you used the UCC please reference its original [article](https://doi.org/10.1093/mnras/stad2826):
+If you used the UCC please reference its original
+<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">article</a>:
 
 {% raw %}
 ```

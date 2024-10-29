@@ -5,7 +5,8 @@ permalink: /database/
 ---
 
 The latest full version of the UCC catalogue can be found in its
-[Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.8250523) in compressed `csv` format.
+<a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>
+in compressed `csv` format.
 
 The compressed `parquet` file with the estimated members for the UCC can also be
 downloaded from the same repository. To extract the data simply use the
@@ -60,6 +61,10 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 1179 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | 2056 |
 
 <!-- End table 1 -->
+
+The modifications and corrections made to each database before including it in the UCC
+can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
+
 
 
 ### C3 classification
