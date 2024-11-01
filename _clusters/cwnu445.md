@@ -69,7 +69,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 228.406 | -59.187 | 0.56 | -2.7 | -2.79 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 228.337 | -59.157 | 0.557 | -2.655 | -2.772 | -13.246 |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 228.338 | -59.157 | 0.557 | -2.655 | -2.772 | -13.246 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 228.331 | -59.164 | 0.557 | -- | -- | -- |
 | **UCC** |228.369 | -59.177 | 0.557 | -2.622 | -2.78 | -13.232 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=228.369,-59.177" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=228.369%20-59.177&output=json&radius=5&userEntry=cwnu445" target="_blank">Simbad</a></p>
@@ -86,8 +87,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.05, m-M=11.95, logAge=6.9, Z=0.04` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.57, MOD50=11.16, logAge50=7.62` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=2.05, m-M=11.95, logAge=6.9, Z=0.038` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.575, MOD50=11.157, logAge50=7.624` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=2.75, dMod50=10.8, logAge50=7.32, [Fe/H]50=0.03` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>

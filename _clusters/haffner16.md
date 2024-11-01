@@ -75,6 +75,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 117.587 | -25.465 | 0.3 | -2.818 | 2.995 | -- |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 117.585 | -25.456 | 0.312 | -2.799 | 3.008 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 117.585 | -25.456 | 0.294 | -2.78 | 3.026 | 76.329 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 117.589 | -25.465 | 0.293 | -- | -- | -- |
 | **UCC** |117.586 | -25.459 | 0.286 | -2.781 | 3.037 | 83.616 |
 
 
@@ -98,11 +99,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=2654.0, log_age=7.3, metallicity=-0.11` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.17, Dmod=12.5, logt=7.08` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=2654, log_age=7.3, metallicity=-0.111` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.175, Dmod=12.502, logt=7.078` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.38, DMNN=12.56, AgeNN=7.92` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.75, Dist=2862.0, logage=7.51, [Fe/H]=-0.16` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.35, MOD50=12.33, logAge50=8.0` |
+| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.75, Dist=2862, logage=7.513, [Fe/H]=-0.16` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.351, MOD50=12.329, logAge50=7.997` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=0.51, dMod50=12.24, logAge50=7.84, [Fe/H]50=-0.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>

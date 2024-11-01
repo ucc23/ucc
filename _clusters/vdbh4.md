@@ -87,8 +87,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract) | `E(B-V)=0.34, dm=14.55, logt=9.1, FeH=-0.29, Mass=1800.0, bfr=0.64` |
+| [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract) | `E(B-V)=0.34, dm=14.55, logt=9.1, FeH=-0.29, Mass=1800, bfr=0.64` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | `A0=1.75, m-M=15.0, logA=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-02-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>

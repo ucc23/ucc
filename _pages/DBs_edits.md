@@ -413,8 +413,10 @@ groups. In version **231105** the Theia entries labeled as OCs were re-incorpora
 Some ~160 HSC clusters have center values that do not align with the medians of
 their members. Changed these centers to the members' medians.
 
+Rounded float values in several columns.
+
 Removed Teutsch 182 because it is listed along with UBC 6 and these are the same OC
-according to BICA19. Also Teutsch 182 has wrong center coordinates
+according to BICA19. Also Teutsch 182 has wrong center coordinates.
 
 Changes to names:
 
@@ -560,3 +562,113 @@ the 'Ruprecht_123_v0' entry as the RA value of the other entry was more similar
 to the values listed in the UCC. The final number of entries is 2056.
 
 There are 20 'LP_XXX' OCs that were renamed 'FoF_XXX', removing leading zeros.
+
+
+### CAVALLO24
+
+[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract); _Parameter Estimation for Open Clusters using an
+Artificial Neural Network with a QuadTree-based Feature Extractor_
+
+The [ViZier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/167/12) table lists 6413 entries. Removed all entries classified as 'g'
+(globular clusters, 116 entries) or 'm' (moving group, 145 entries). Entries with
+no `kind` info: Can-Battlo 1, UBC 92, UBC 93, UBC 94, UBC 95, UBC 96, UBC 97.
+
+The DB contains now 6152 entries.
+
+Removed entries pointing to a GC:
+
+- Palomar 2, 8, 10, 11, 12
+- Pismis 26 (Ton 2),
+- IC 1276 (Palomar 7), 
+- 1636-283 (ESO 452-11)
+- Lynga 7 (BH 184)
+- HSC 2890 and HSC 134 (located very close to Gran 3 and 4)
+
+The DB contains now 6141 entries.
+
+Changes to `Cluster` column:
+
+- Replaced `_` with empty spaces
+- Changed `vdbergh` for `VDB`
+
+Fixed names:
+
+- ESO 429-429 --> ESO 429-02 (according to CDS coords)
+- CMa 2 --> CMa 02
+- AH03 J0748+26.9 --> AH03 J0748-26.9
+- Juchert J0644.8+0925 --> Juchert J0644.8-0925
+- Teutsch J0718.0+1642 --> Teutsch J0718.0-1642
+- Teutsch J0924.3+5313 --> Teutsch J0924.3-5313
+- Teutsch J1037.3+6034 --> Teutsch J1037.3-6034
+- Teutsch J1209.3+6120 --> Teutsch J1209.3-6120
+
+This DB contains ~900 entries with large differences (>10 arcmin) in its `(ra, dec)`
+center coordinates compared to the UCC's values (and/or large relative parallax
+differences): 390 HSC, 208 Theia, 90 CWNU, 50 UPK, 26 OCSN, and others.
+
+The author explains that their values com from the "_mean values of the member's
+coordinates_".
+
+
+
+#### The Teutsch 182 / UBC 6 cluster
+
+This catalogue inherits the HUNT23 objects, thus it includes Teutsch 182 classified
+as an open cluster. This object was removed from HUNT23 because it is the same cluster
+as UBC 6 according to BICA19. The coordinates I could find for these clusters are:
+
+- [BDCCT](http://www.astro.iag.usp.br/ocdb/file/BDCCT_Catalog_Alessi.txt) (_Bruno's Dirty Compilation of Clusterlike Things_, 2013)
+  ```
+  Teutsch 182
+  (ra, dec)  = (22 56 20, +51 05 53) -> (344.083, 51.098)
+  (lon, lat) = (105.167, -7.760)
+  ```
+
+- BICA19
+  ```
+  Teutsch 182 / UBC 6
+  (ra, dec)  = (22 55 47  +59 11 05) -> (343.9458, 59.18472)
+  (lon, lat) = (105.13, -7.63)
+  ```
+  Note that the (ra, dec) values do not match the (lon, lat) values.
+
+- CASTRO18
+  ```
+  UBC 6
+  (ra, dec)  = (343.9518, +51.199)
+  (lon, lat) = (105.137, -7.633)
+  ```
+
+- CG2020
+  ```
+  UBC 6
+  (ra, dec)  = (344.010, +51.187)
+  (lon, lat) = (105.165, -7.660)
+  ```
+
+- HUNT23
+  ```
+  Teutsch 182
+  (ra, dec)  = (343.7939, +59.225)
+  UBC 6
+  (ra, dec)  = (344.0718, +51.1448)
+  ```
+  Where the Teutsch 182 values appear to be inherited from BICA19
+
+**Summary:**
+
+According to the 2013 BDCCT catalog, the UBC 6 coordinates in later catalogues
+correspond to Teutsch 182.
+
+BICA19 lists wrong (ra, dec) coordinates for Teutsch 182 and UBC 6, but correct
+galactic coordinates, which it classifies as the same cluster.
+
+HUNT23 apparently inherits the coordinates for Teutsch 182 from BICA19, and the
+coordinates for UBC 6 from newer catalogues.
+
+Hence, **we remove the Teutsch 182 entry from the catalog** because the UBC 6 entry
+contains the correct coordinates and matches the fundamental parameter values listed
+in other DBs.
+
+
+

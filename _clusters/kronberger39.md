@@ -91,8 +91,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.0, distance=4372.0, log_age=6.0` |
-| [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract) | `E(B-V)=0.78, dm=15.57, logt=9.45, FeH=-0.11, Mass=13000.0, bfr=0.75` |
+| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.999, distance=4372, log_age=6.0` |
+| [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract) | `E(B-V)=0.78, dm=15.57, logt=9.45, FeH=-0.11, Mass=13000, bfr=0.75` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-02-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>

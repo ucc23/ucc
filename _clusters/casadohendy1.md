@@ -92,7 +92,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | `Av=1.55, d_kpc=1.99, Age_Myr=5.9, Z=0.02` |
+| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | `Av=1.55, d_kpc=1.99, Age_Myr=5.9, Z=0.017` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-02-02</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>

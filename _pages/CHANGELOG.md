@@ -8,7 +8,12 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
 
 
-## Version [240511](https://doi.org/10.5281/zenodo.10779488)
+## Version [241101](https://zenodo.org/records/14025432)
+
+- Added [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract).
+
+
+## Version [240511](https://zenodo.org/records/11179393)
 
 - Added [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract).
 

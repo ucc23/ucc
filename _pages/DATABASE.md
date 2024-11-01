@@ -59,6 +59,7 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | [101](/tables/QIN23_table.md) | [Li & Mao (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265....3L/abstract) | [35](/tables/LI23_table.md) |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...20C/abstract) | [46](/tables/CHI23_2_table.md) | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | [82](/tables/CHI23_table.md) |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | [1179](/tables/CHI23_3_table.md) | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract) | [2056](/tables/HE23_1_table.md) |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | [6140](/tables/CAVALLO24_table.md) |
 
 <!-- End table 1 -->
 
