@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 277.358 | -4.987 | 1.134 | 0.81 | -2.49 | -- |
+|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 277.358 | -4.987 | -- | 0.81 | -2.49 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 277.352 | -4.974 | 1.109 | 0.772 | -2.511 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 277.359 | -4.984 | 1.1 | 0.778 | -2.504 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 277.346 | -4.977 | 1.089 | 0.871 | -2.558 | -- |
@@ -108,4 +108,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=3.74, dMod50=9.99, logAge50=7.46, [Fe/H]50=0.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-02</i></font>

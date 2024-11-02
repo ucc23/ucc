@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 279.354 | -14.204 | 3.46 | -1.81 | -9.33 | -- |
+|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 279.354 | -14.204 | -- | -1.81 | -9.33 | -- |
 | **UCC** |279.286 | -14.114 | 3.552 | -1.765 | -9.302 | -22.154 |
 
 
@@ -95,4 +95,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | `d_pc=289, log(age)=8.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-02</i></font>

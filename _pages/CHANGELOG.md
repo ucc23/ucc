@@ -7,6 +7,12 @@ permalink: /changelog/
 If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
 
+## Version [241102](https://zenodo.org/records/14028837)
+
+- Added NGC 5999 in FERREIRA19 that was not included in the initial release
+- Removed `plx` column that I added to SIM19 in the initial version of the UCC and it's
+  not part of the original dataset
+
 
 ## Version [241101](https://zenodo.org/records/14025432)
 

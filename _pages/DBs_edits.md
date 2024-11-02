@@ -655,6 +655,14 @@ as UBC 6 according to BICA19. The coordinates I could find for these clusters ar
   ```
   Where the Teutsch 182 values appear to be inherited from BICA19
 
+- CAVALLO24
+  ```
+  Teutsch_182
+  (ra, dec) = (344.9286, +58.8156)
+  UBC 6
+  (ra, dec) = (343.9912, +51.1776)
+  ```
+
 **Summary:**
 
 According to the 2013 BDCCT catalog, the UBC 6 coordinates in later catalogues
