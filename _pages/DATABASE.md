@@ -6,7 +6,10 @@ permalink: /database/
 
 The latest full version of the UCC catalogue can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>
-in compressed `csv` format.
+in compressed `csv` format. It currently contains <!-- NT1 -->16179<!-- NT2 --> objects
+and is updated regularly.
+
+![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
 The compressed `parquet` file with the estimated members for the UCC can also be
 downloaded from the same repository. To extract the data simply use the
@@ -25,16 +28,24 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 
 &nbsp;
 
+
+Below are tables that group the OCs in the UCC by various criteria.
+
 - [Catalogues in the UCC](#catalogues-in-the-ucc)
 - [C3 classification](#c3-classification)
 - [OCs per quadrants](#ocs-per-quadrants)
+- [Duplicated OCs](#duplicated-ocs)
 
+&nbsp;
 
 
 
 ### Catalogues in the UCC
 
-![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
+This table contains all the catalogues used to generate the UCC. The modifications and
+corrections made to each database before including it in the UCC
+can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
+
 
 <!-- Begin table 1 -->
 
@@ -63,14 +74,12 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 
 <!-- End table 1 -->
 
-The modifications and corrections made to each database before including it in the UCC
-can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
 
 
 ### C3 classification
 
-![C3 classification](/images/classif_bar.webp "C3 classification")
+This table shows the OCs in the UCC grouped by their [C3 class](/faq/#what-are-the-c1-c2-and-c3-parameters).
 
 <!-- Begin table 2 -->
 
@@ -84,7 +93,15 @@ can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 <!-- End table 2 -->
 
 
+![C3 classification](/images/classif_bar.webp "C3 classification")
+
+
+
 ### OCs per quadrants
+
+This table groups the OCs in the UCC by their position in the Galactic quadrants,
+given by their `(lon, lat)` coordinates.
+
 
 <!-- Begin table 3 -->
 
@@ -100,3 +117,22 @@ can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 | Q4N: 4th quadrant, negative latitude | [270, 360) | (0, -90]   | [2541](/tables/Q4N_table.md) |
 
 <!-- End table 3 -->
+
+
+### Duplicated OCs
+
+This table groups the OCs in the UCC by the number of probable duplicates assigned,
+as explained [here](/faq/#how-are-probable-duplicates-identified).
+
+
+<!-- Begin table 4 -->
+
+| Probable duplicates |   N  |
+|---------------------| :--: |
+|      N_dup = 1      | [3234](/tables/Nd1_table.md) |
+|      N_dup = 2      | [778](/tables/Nd2_table.md) |
+|      N_dup = 3      | [186](/tables/Nd3_table.md) |
+|      N_dup = 4      | [25](/tables/Nd4_table.md) |
+|     N_dup >= 5      | [6](/tables/Nd5_table.md) |
+
+<!-- End table 4 -->
