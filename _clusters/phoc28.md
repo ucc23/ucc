@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 137.953 | -52.243 | 0.301 | -4.07 | 3.891 | -- |
+|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 137.953 | -52.243 | 0.301 | -4.07 | 3.891 | -- |
 | **UCC** |137.969 | -52.229 | 0.331 | -4.073 | 3.939 | 23.664 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 248](https://ucc.ar/_clusters/ubc248/)| 86 | 137.929 | -52.227 | 0.331 | -4.065 | 3.942 | 23.664 |
+|[UBC 248](/_clusters/ubc248/)| 86 | 137.929 | -52.227 | 0.331 | -4.065 | 3.942 | 23.664 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=137.969,-52.229" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=137.969%20-52.229&output=json&radius=5&userEntry=phoc28" target="_blank">Simbad</a></p>
 
@@ -89,4 +89,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

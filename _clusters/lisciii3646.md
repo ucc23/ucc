@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | 87.951 | 2.195 | 2.442 | -1.294 | -1.902 | -- |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | 87.951 | 2.195 | 2.442 | -1.294 | -1.902 | -- |
 | **UCC** |87.602 | 2.439 | 2.472 | -1.148 | -1.918 | 8.98 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.602,+2.439" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.602%202.439&output=json&radius=5&userEntry=lisciii3646" target="_blank">Simbad</a></p>
@@ -89,7 +89,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | `E(V-I)=0.2, m-M=7.09, Z=0.004, fbin=0.52` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | `E(V-I)=0.2, m-M=7.09, Z=0.004, fbin=0.52` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 27.471 | 53.882 | 0.33 | -0.818 | -1.591 | -97.287 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 27.471 | 53.882 | 0.33 | -0.818 | -1.591 | -97.287 |
 | **UCC** |27.486 | 53.905 | 0.33 | -0.825 | -1.624 | -69.766 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 188](https://ucc.ar/_clusters/ubc188/)| 77 | 27.463 | 53.901 | 0.33 | -0.819 | -1.668 | -48.166 |
+|[UBC 188](/_clusters/ubc188/)| 77 | 27.463 | 53.901 | 0.33 | -0.819 | -1.668 | -48.166 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=27.486,+53.905" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=27.486%2053.905&output=json&radius=5&userEntry=cwwdl3307" target="_blank">Simbad</a></p>
 
@@ -92,7 +92,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=5.78, Z=0.44` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=5.78, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

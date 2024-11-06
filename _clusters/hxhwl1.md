@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 328.462 | 46.885 | 0.67 | 1.28 | -2.34 | -- |
+|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 328.462 | 46.885 | 0.67 | 1.28 | -2.34 | -- |
 | **UCC** |328.56 | 46.908 | 0.671 | 1.221 | -2.358 | -13.972 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 4165](https://ucc.ar/_clusters/theia4165/)| 85 | 328.566 | 46.931 | 0.668 | 1.237 | -2.362 | -11.421 |
+|[Theia 4165](/_clusters/theia4165/)| 85 | 328.566 | 46.931 | 0.668 | 1.237 | -2.362 | -11.421 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=328.56,+46.908" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=328.56%2046.908&output=json&radius=5&userEntry=hxhwl1" target="_blank">Simbad</a></p>
 
@@ -92,7 +92,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.0, m-M=10.9, logAge=8.4, Z=0.016` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=1.0, m-M=10.9, logAge=8.4, Z=0.016` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

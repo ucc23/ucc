@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 168.256 | -60.792 | -- | -- | -- | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 168.256 | -60.792 | -- | -- | -- | -- |
 | **UCC** |168.257 | -60.789 | 0.378 | -6.104 | 1.053 | 25.011 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[NGC 3590](https://ucc.ar/_clusters/ngc3590/)| 95 | 168.263 | -60.789 | 0.38 | -6.104 | 1.046 | 26.821 |
+|[NGC 3590](/_clusters/ngc3590/)| 95 | 168.263 | -60.789 | 0.38 | -6.104 | 1.046 | 26.821 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=168.257,-60.789" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=168.257%20-60.789&output=json&radius=5&userEntry=dbsb61" target="_blank">Simbad</a></p>
 
@@ -89,4 +89,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

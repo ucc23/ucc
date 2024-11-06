@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 330.854 | 55.65 | 0.626 | -2.022 | -3.251 | -19.178 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 330.854 | 55.65 | 0.626 | -2.022 | -3.251 | -19.178 |
 | **UCC** |330.821 | 55.632 | 0.635 | -1.974 | -3.253 | -27.253 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 163](https://ucc.ar/_clusters/ubc163/)| 77 | 330.84 | 55.649 | 0.629 | -1.938 | -3.271 | -27.426 |
-|[CWWDL 14170](https://ucc.ar/_clusters/cwwdl14170/)| 80 | 330.842 | 55.639 | 0.641 | -1.989 | -3.278 | -27.253 |
+|[CWWDL 14170](/_clusters/cwwdl14170/)| 80 | 330.842 | 55.639 | 0.641 | -1.989 | -3.278 | -27.253 |
+|[UBC 163](/_clusters/ubc163/)| 77 | 330.84 | 55.649 | 0.629 | -1.938 | -3.271 | -27.426 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=330.821,+55.632" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=330.821%2055.632&output=json&radius=5&userEntry=cwwdl8237" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.64, Z=-0.28` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.64, Z=-0.28` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

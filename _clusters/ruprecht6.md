@@ -69,7 +69,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 103.98 | -13.28 | -- | 0.66 | 1.21 | -- |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 104.021 | -13.254 | -- | -- | -- | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 104.021 | -13.254 | -- | -- | -- | -- |
 | **UCC** |104.009 | -13.257 | 0.151 | -0.081 | 1.126 | 79.084 |
 
 
@@ -77,7 +77,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 3109](https://ucc.ar/_clusters/cwnu3109/)| 95 | 104.016 | -13.254 | 0.151 | -0.091 | 1.123 | 79.084 |
+|[CWNU 3109](/_clusters/cwnu3109/)| 95 | 104.016 | -13.254 | 0.151 | -0.091 | 1.123 | 79.084 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=104.009,-13.257" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.009%20-13.257&output=json&radius=5&userEntry=ruprecht6" target="_blank">Simbad</a></p>
 
@@ -96,4 +96,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.431, distance=5919, log_age=9.3, metallicity=-0.38` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,9 +68,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | 295.222 | 22.456 | -- | -0.11 | -3.33 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 295.211 | 22.481 | 1.755 | -0.062 | -3.422 | -23.731 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 295.247 | 22.541 | 1.76 | -- | -- | -- |
+|[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S) | 295.222 | 22.456 | -- | -0.11 | -3.33 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 295.211 | 22.481 | 1.755 | -0.062 | -3.422 | -23.731 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 295.247 | 22.541 | 1.76 | -- | -- | -- |
 | **UCC** |295.155 | 22.482 | 1.757 | -0.078 | -3.443 | -22.438 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=295.155,+22.482" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=295.155%2022.482&output=json&radius=5&userEntry=upk74" target="_blank">Simbad</a></p>
@@ -87,9 +87,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S/abstract) | `d_pc=571, log(age)=7.95` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.278, MOD50=8.654, logAge50=8.225` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=1.28, dMod50=8.77, logAge50=8.2, [Fe/H]50=-0.68` |
+| [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S) | `d_pc=571, log(age)=7.95` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.278, MOD50=8.654, logAge50=8.225` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.28, dMod50=8.77, logAge50=8.2, [Fe/H]50=-0.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-02</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ferreira et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5508F/abstract) | 236.616 | -56.808 | -- | -1.634 | -3.22 | -- |
+|[Ferreira et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5508F) | 236.616 | -56.808 | -- | -1.634 | -3.22 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 236.593 | -56.792 | 0.36 | -1.63 | -3.196 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 236.587 | -56.796 | 0.375 | -1.632 | -3.207 | -- |
 | **UCC** |236.573 | -56.801 | 0.377 | -1.683 | -3.226 | -44.323 |
@@ -78,10 +78,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 306](https://ucc.ar/_clusters/ubc306/)| 84 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
-|[CWWDL 5648](https://ucc.ar/_clusters/cwwdl5648/)| 100 | 236.572 | -56.802 | 0.377 | -1.684 | -3.227 | -44.323 |
-|[FoF 1180](https://ucc.ar/_clusters/fof1180/)| 98 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
-|[OC 0633](https://ucc.ar/_clusters/oc0633/)| 99 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
+|[CWWDL 5648](/_clusters/cwwdl5648/)| 100 | 236.572 | -56.802 | 0.377 | -1.684 | -3.227 | -44.323 |
+|[OC 0633](/_clusters/oc0633/)| 99 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
+|[FoF 1180](/_clusters/fof1180/)| 98 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
+|[UBC 306](/_clusters/ubc306/)| 84 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=236.573,-56.801" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=236.573%20-56.801&output=json&radius=5&userEntry=ufmg1" target="_blank">Simbad</a></p>
 
@@ -97,9 +97,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Ferreira et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5508F/abstract) | `E(B-V)=0.75, m-M=11.0, logt=8.9, [Fe/H]=-0.2` |
+| [Ferreira et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5508F) | `E(B-V)=0.75, m-M=11.0, logt=8.9, [Fe/H]=-0.2` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.38, DMNN=11.9, AgeNN=8.43` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.385, Dist=1902, logage=8.412, [Fe/H]=0.003` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

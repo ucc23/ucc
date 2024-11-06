@@ -70,10 +70,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 83.771 | 15.721 | 0.688 | 0.267 | -2.376 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.807 | 15.714 | 0.686 | 0.263 | -2.403 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 83.758 | 15.732 | 0.702 | 0.257 | -2.4 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 83.768 | 15.682 | 0.799 | 0.257 | -2.38 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 83.773 | 15.707 | 0.699 | 0.263 | -2.404 | 15.182 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 83.796 | 15.714 | 0.705 | -- | -- | -- |
+|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 83.758 | 15.732 | 0.702 | 0.257 | -2.4 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 83.768 | 15.682 | 0.799 | 0.257 | -2.38 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 83.773 | 15.707 | 0.699 | 0.263 | -2.404 | 15.182 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 83.796 | 15.714 | 0.705 | -- | -- | -- |
 | **UCC** |83.765 | 15.721 | 0.699 | 0.258 | -2.402 | 12.201 |
 
 
@@ -81,9 +81,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 0988](https://ucc.ar/_clusters/lisc0988/)| 99 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
-|[CWWDL 3284](https://ucc.ar/_clusters/cwwdl3284/)| 98 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
-|[UBC 75](https://ucc.ar/_clusters/ubc75/)| 98 | 83.764 | 15.722 | 0.701 | 0.257 | -2.403 | 13.424 |
+|[LISC 0988](/_clusters/lisc0988/)| 99 | 83.764 | 15.722 | 0.699 | 0.259 | -2.4 | 12.201 |
+|[CWWDL 3284](/_clusters/cwwdl3284/)| 98 | 83.767 | 15.722 | 0.7 | 0.257 | -2.403 | 12.201 |
+|[UBC 75](/_clusters/ubc75/)| 98 | 83.764 | 15.722 | 0.701 | 0.257 | -2.403 | 13.424 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=83.765,+15.721" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.765%2015.721&output=json&radius=5&userEntry=coingaia26" target="_blank">Simbad</a></p>
 
@@ -101,10 +101,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.32, DMNN=10.8, AgeNN=8.23` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.741, Dist=1314, logage=8.196, [Fe/H]=-0.017` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1389, logAgeNN=8.27` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.75, logAge=7.85` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.453, MOD50=10.608, logAge50=8.244` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=1.38, dMod50=10.8, logAge50=8.56, [Fe/H]50=0.43` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=1389, logAgeNN=8.27` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.75, logAge=7.85` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.453, MOD50=10.608, logAge50=8.244` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.38, dMod50=10.8, logAge50=8.56, [Fe/H]50=0.43` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

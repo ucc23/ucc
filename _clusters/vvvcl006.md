@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | 177.3 | -62.208 | -- | -7.74 | 1.28 | -14.1 |
+|[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | 177.3 | -62.208 | -- | -7.74 | 1.28 | -14.1 |
 | **UCC** |177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0572](https://ucc.ar/_clusters/oc0572/)| 59 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
-|[Teutsch 230](https://ucc.ar/_clusters/teutsch230/)| 56 | 177.332 | -62.227 | 0.236 | -7.732 | 1.344 | -12.765 |
-|[SAI 116](https://ucc.ar/_clusters/sai116/)| 60 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
+|[SAI 116](/_clusters/sai116/)| 60 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
+|[OC 0572](/_clusters/oc0572/)| 59 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
+|[Teutsch 230](/_clusters/teutsch230/)| 56 | 177.332 | -62.227 | 0.236 | -7.732 | 1.344 | -12.765 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.316,-62.23" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.316%20-62.23&output=json&radius=5&userEntry=vvvcl006" target="_blank">Simbad</a></p>
 
@@ -94,7 +94,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract) | `Fe/H=0.16` |
+| [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | `Fe/H=0.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-05-11</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

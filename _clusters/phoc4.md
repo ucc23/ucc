@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 106.795 | -7.691 | 0.909 | -3.797 | 1.099 | -- |
+|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 106.795 | -7.691 | 0.909 | -3.797 | 1.099 | -- |
 | **UCC** |106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
 
 
@@ -76,10 +76,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CMa01](https://ucc.ar/_clusters/cma01/)| 76 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
-|[H21OC 54](https://ucc.ar/_clusters/h21oc54/)| 66 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
-|[HXHWL 54](https://ucc.ar/_clusters/hxhwl54/)| 59 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
-|[Theia 2649](https://ucc.ar/_clusters/theia2649/)| 91 | 106.862 | -7.667 | 0.922 | -3.942 | 1.22 | 29.306 |
+|[Theia 2649](/_clusters/theia2649/)| 91 | 106.862 | -7.667 | 0.922 | -3.942 | 1.22 | 29.306 |
+|[CMa01](/_clusters/cma01/)| 76 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
+|[H21OC 54](/_clusters/h21oc54/)| 66 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
+|[HXHWL 54](/_clusters/hxhwl54/)| 59 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=106.856,-7.667" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.856%20-7.667&output=json&radius=5&userEntry=phoc4" target="_blank">Simbad</a></p>
 
@@ -92,4 +92,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

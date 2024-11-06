@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 147.112 | -58.664 | 0.235 | -5.315 | 3.586 | 11.187 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 147.112 | -58.664 | 0.235 | -5.315 | 3.586 | 11.187 |
 | **UCC** |147.16 | -58.668 | 0.216 | -5.181 | 3.594 | -- |
 
 
@@ -80,8 +80,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 3358](https://ucc.ar/_clusters/cwnu3358/)| 89 | 147.166 | -58.668 | 0.216 | -5.218 | 3.594 | 20.3 |
-|[HSC 2294](https://ucc.ar/_clusters/hsc2294/)| 90 | 147.173 | -58.668 | 0.216 | -5.213 | 3.594 | 20.3 |
+|[HSC 2294](/_clusters/hsc2294/)| 90 | 147.173 | -58.668 | 0.216 | -5.213 | 3.594 | 20.3 |
+|[CWNU 3358](/_clusters/cwnu3358/)| 89 | 147.166 | -58.668 | 0.216 | -5.218 | 3.594 | 20.3 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=147.16,-58.668" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=147.16%20-58.668&output=json&radius=5&userEntry=cwwdl208" target="_blank">Simbad</a></p>
 
@@ -97,7 +97,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.97, Z=0.3` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.97, Z=0.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

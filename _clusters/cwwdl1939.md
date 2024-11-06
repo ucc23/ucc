@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 327.794 | 52.99 | 0.441 | -4.148 | -4.54 | -43.163 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 327.794 | 52.99 | 0.441 | -4.148 | -4.54 | -43.163 |
 | **UCC** |327.773 | 52.973 | 0.463 | -4.139 | -4.546 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 162](https://ucc.ar/_clusters/ubc162/)| 65 | 327.769 | 52.987 | 0.436 | -4.12 | -4.534 | -- |
-|[LISC 3205](https://ucc.ar/_clusters/lisc3205/)| 99 | 327.769 | 52.973 | 0.463 | -4.142 | -4.546 | -- |
+|[LISC 3205](/_clusters/lisc3205/)| 99 | 327.769 | 52.973 | 0.463 | -4.142 | -4.546 | -- |
+|[UBC 162](/_clusters/ubc162/)| 65 | 327.769 | 52.987 | 0.436 | -4.12 | -4.534 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=327.773,+52.973" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=327.773%2052.973&output=json&radius=5&userEntry=cwwdl1939" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.04, Z=0.2` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.04, Z=0.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 111.339 | -20.748 | 0.33 | -2.128 | 3.123 | -- |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 111.339 | -20.748 | 0.33 | -2.128 | 3.123 | -- |
 | **UCC** |111.348 | -20.758 | 0.338 | -2.231 | 3.153 | -- |
 
 
@@ -80,7 +80,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 1139](https://ucc.ar/_clusters/lisc1139/)| 50 | 111.389 | -20.816 | 0.326 | -2.27 | 3.158 | -- |
+|[LISC 1139](/_clusters/lisc1139/)| 50 | 111.389 | -20.816 | 0.326 | -2.27 | 3.158 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.348,-20.758" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.348%20-20.758&output=json&radius=5&userEntry=cwwdl635" target="_blank">Simbad</a></p>
 
@@ -96,7 +96,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=6.71, Z=0.2` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=6.71, Z=0.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | 43.04 | 68.85 | 2.28 | 1.44 | -7.95 | -6.5 |
+|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 43.04 | 68.85 | 2.28 | 1.44 | -7.95 | -6.5 |
 | **UCC** |43.071 | 68.866 | 2.274 | 1.447 | -7.934 | -6.695 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0242](https://ucc.ar/_clusters/oc0242/)| 93 | 42.995 | 68.88 | 2.274 | 1.476 | -7.918 | -6.909 |
-|[FoF 2428](https://ucc.ar/_clusters/fof2428/)| 100 | 43.063 | 68.867 | 2.274 | 1.45 | -7.933 | -6.695 |
-|[Theia 123](https://ucc.ar/_clusters/theia123/)| 61 | 43.527 | 68.803 | 2.274 | 1.371 | -7.905 | -5.771 |
+|[FoF 2428](/_clusters/fof2428/)| 100 | 43.063 | 68.867 | 2.274 | 1.45 | -7.933 | -6.695 |
+|[OC 0242](/_clusters/oc0242/)| 93 | 42.995 | 68.88 | 2.274 | 1.476 | -7.918 | -6.909 |
+|[Theia 123](/_clusters/theia123/)| 61 | 43.527 | 68.803 | 2.274 | 1.371 | -7.905 | -5.771 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=43.071,+68.866" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=43.071%2068.866&output=json&radius=5&userEntry=ocsn46" target="_blank">Simbad</a></p>
 
@@ -94,7 +94,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract) | `E(B-V)=0.38, m-M=9.22, logt=8.8` |
+| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.38, m-M=9.22, logt=8.8` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

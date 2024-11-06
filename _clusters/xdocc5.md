@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | 121.754 | -29.901 | 0.598 | -3.656 | 3.562 | -- |
+|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 121.754 | -29.901 | 0.598 | -3.656 | 3.562 | -- |
 | **UCC** |121.757 | -29.887 | 0.601 | -3.617 | 3.606 | 36.741 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1995](https://ucc.ar/_clusters/hsc1995/)| 96 | 121.755 | -29.888 | 0.601 | -3.617 | 3.606 | 36.741 |
-|[OC 0433](https://ucc.ar/_clusters/oc0433/)| 96 | 121.755 | -29.888 | 0.601 | -3.619 | 3.604 | 36.741 |
+|[HSC 1995](/_clusters/hsc1995/)| 96 | 121.755 | -29.888 | 0.601 | -3.617 | 3.606 | 36.741 |
+|[OC 0433](/_clusters/oc0433/)| 96 | 121.755 | -29.888 | 0.601 | -3.619 | 3.604 | 36.741 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=121.757,-29.887" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=121.757%20-29.887&output=json&radius=5&userEntry=xdocc5" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract) | `Avmag=0.244, Dist=1575.75, logAge=8.182` |
+| [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | `Avmag=0.244, Dist=1575.75, logAge=8.182` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 26.127 | 58.744 | 0.506 | -1.007 | -1.155 | -33.425 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 26.127 | 58.744 | 0.506 | -1.007 | -1.155 | -33.425 |
 | **UCC** |26.116 | 58.763 | 0.486 | -0.978 | -1.124 | -33.425 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 4](https://ucc.ar/_clusters/coingaia4/)| 60 | 26.133 | 58.751 | 0.463 | -0.933 | -1.102 | -- |
-|[OC 0239](https://ucc.ar/_clusters/oc0239/)| 87 | 26.12 | 58.763 | 0.488 | -0.976 | -1.123 | -33.425 |
-|[UBC 42](https://ucc.ar/_clusters/ubc42/)| 38 | 26.132 | 58.732 | 0.46 | -0.935 | -1.101 | -- |
+|[OC 0239](/_clusters/oc0239/)| 87 | 26.12 | 58.763 | 0.488 | -0.976 | -1.123 | -33.425 |
+|[COIN-Gaia 4](/_clusters/coingaia4/)| 60 | 26.133 | 58.751 | 0.463 | -0.933 | -1.102 | -- |
+|[UBC 42](/_clusters/ubc42/)| 38 | 26.132 | 58.732 | 0.46 | -0.935 | -1.101 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=26.116,+58.763" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=26.116%2058.763&output=json&radius=5&userEntry=cwwdl594" target="_blank">Simbad</a></p>
 
@@ -94,7 +94,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.43, Z=0.23` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.43, Z=0.23` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

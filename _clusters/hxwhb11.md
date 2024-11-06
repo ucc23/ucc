@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | 127.86 | -47.99 | 0.57 | -4.34 | 4.61 | -- |
+|[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H) | 127.86 | -47.99 | 0.57 | -4.34 | 4.61 | -- |
 | **UCC** |127.86 | -47.964 | 0.583 | -4.428 | 4.52 | -3.388 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=127.86,-47.964" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=127.86%20-47.964&output=json&radius=5&userEntry=hxwhb11" target="_blank">Simbad</a></p>
@@ -89,7 +89,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | `AG=0.8, d_pc=1751.9, logt=8.74` |
+| [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H) | `AG=0.8, d_pc=1751.9, logt=8.74` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>

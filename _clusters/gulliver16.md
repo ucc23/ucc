@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Schoenball 1](https://ucc.ar/_clusters/schoenball1/)| 92 | 23.433 | 60.761 | 0.201 | -1.263 | -0.673 | -54.325 |
+|[Schoenball 1](/_clusters/schoenball1/)| 92 | 23.433 | 60.761 | 0.201 | -1.263 | -0.673 | -54.325 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=23.438,+60.761" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=23.438%2060.761&output=json&radius=5&userEntry=gulliver16" target="_blank">Simbad</a></p>
 
@@ -95,4 +95,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.39, DMNN=13.45, AgeNN=8.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

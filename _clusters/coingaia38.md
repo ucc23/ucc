@@ -70,10 +70,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 51.472 | 51.072 | 0.793 | 2.032 | -6.785 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 51.448 | 51.085 | 0.792 | 2.059 | -6.789 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 51.456 | 51.073 | 0.846 | 2.003 | -6.862 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 51.464 | 51.07 | 0.849 | 1.993 | -6.856 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 51.471 | 51.076 | 0.846 | 2.018 | -6.829 | -3.002 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 51.47 | 51.076 | 0.848 | -- | -- | -- |
+|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 51.456 | 51.073 | 0.846 | 2.003 | -6.862 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 51.464 | 51.07 | 0.849 | 1.993 | -6.856 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 51.471 | 51.076 | 0.846 | 2.018 | -6.829 | -3.002 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 51.47 | 51.076 | 0.848 | -- | -- | -- |
 | **UCC** |51.477 | 51.108 | 0.811 | 1.99 | -6.91 | -9.53 |
 
 
@@ -81,8 +81,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 50](https://ucc.ar/_clusters/ubc50/)| 42 | 51.483 | 51.059 | 0.846 | 2.006 | -6.858 | -9.13 |
-|[CWWDL 14112](https://ucc.ar/_clusters/cwwdl14112/)| 56 | 51.53 | 51.125 | 0.861 | 2.002 | -6.909 | -9.53 |
+|[CWWDL 14112](/_clusters/cwwdl14112/)| 56 | 51.53 | 51.125 | 0.861 | 2.002 | -6.909 | -9.53 |
+|[UBC 50](/_clusters/ubc50/)| 42 | 51.483 | 51.059 | 0.846 | 2.006 | -6.858 | -9.13 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=51.477,+51.108" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=51.477%2051.108&output=json&radius=5&userEntry=coingaia38" target="_blank">Simbad</a></p>
 
@@ -100,10 +100,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.56, DMNN=10.53, AgeNN=8.43` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.146, Dist=1133, logage=8.197, [Fe/H]=0.245` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1237, logAgeNN=8.44` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.45, logAge=8.45` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.057, MOD50=10.287, logAge50=8.535` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=2.18, dMod50=10.46, logAge50=8.48, [Fe/H]50=0.25` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=1237, logAgeNN=8.44` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=2.45, logAge=8.45` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.057, MOD50=10.287, logAge50=8.535` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.18, dMod50=10.46, logAge50=8.48, [Fe/H]50=0.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

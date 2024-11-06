@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 234.996 | -58.491 | 0.54 | -2.17 | -3.52 | -- |
+|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 234.996 | -58.491 | 0.54 | -2.17 | -3.52 | -- |
 | **UCC** |235.024 | -58.473 | 0.564 | -2.165 | -3.538 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13341](https://ucc.ar/_clusters/cwwdl13341/)| 93 | 235.025 | -58.477 | 0.561 | -2.163 | -3.538 | -- |
-|[Theia 2227](https://ucc.ar/_clusters/theia2227/)| 97 | 235.025 | -58.473 | 0.562 | -2.163 | -3.538 | -- |
+|[Theia 2227](/_clusters/theia2227/)| 97 | 235.025 | -58.473 | 0.562 | -2.163 | -3.538 | -- |
+|[CWWDL 13341](/_clusters/cwwdl13341/)| 93 | 235.025 | -58.477 | 0.561 | -2.163 | -3.538 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=235.024,-58.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=235.024%20-58.473&output=json&radius=5&userEntry=hxhwl67" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=1.8, m-M=10.7, logAge=8.38, Z=0.028` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=1.8, m-M=10.7, logAge=8.38, Z=0.028` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

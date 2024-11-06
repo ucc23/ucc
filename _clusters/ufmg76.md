@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | 261.175 | -34.69 | 0.571 | -1.181 | -3.022 | -- |
+|[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | 261.175 | -34.69 | 0.571 | -1.181 | -3.022 | -- |
 | **UCC** |261.156 | -34.667 | 0.559 | -1.26 | -3.156 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13876](https://ucc.ar/_clusters/cwwdl13876/)| 40 | 261.154 | -34.702 | 0.603 | -1.293 | -3.186 | -29.299 |
-|[PHOC 17](https://ucc.ar/_clusters/phoc17/)| 61 | 261.179 | -34.673 | 0.598 | -1.261 | -3.125 | -1.583 |
+|[PHOC 17](/_clusters/phoc17/)| 61 | 261.179 | -34.673 | 0.598 | -1.261 | -3.125 | -1.583 |
+|[CWWDL 13876](/_clusters/cwwdl13876/)| 40 | 261.154 | -34.702 | 0.603 | -1.293 | -3.186 | -29.299 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=261.156,-34.667" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=261.156%20-34.667&output=json&radius=5&userEntry=ufmg76" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=1.9, Dmod=10.7, logt=6.9` |
+| [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | `E(B-V)=1.9, Dmod=10.7, logt=6.9` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 111.072 | -20.244 | 0.319 | -2.421 | 3.047 | 74.355 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 111.072 | -20.244 | 0.319 | -2.421 | 3.047 | 74.355 |
 | **UCC** |111.051 | -20.224 | 0.332 | -2.746 | 3.219 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 16](https://ucc.ar/_clusters/phoc16/)| 56 | 111.051 | -20.212 | 0.337 | -2.728 | 3.123 | -- |
-|[FoF 733](https://ucc.ar/_clusters/fof733/)| 93 | 111.05 | -20.217 | 0.332 | -2.747 | 3.219 | -- |
+|[FoF 733](/_clusters/fof733/)| 93 | 111.05 | -20.217 | 0.332 | -2.747 | 3.219 | -- |
+|[PHOC 16](/_clusters/phoc16/)| 56 | 111.051 | -20.212 | 0.337 | -2.728 | 3.123 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.051,-20.224" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.051%20-20.224&output=json&radius=5&userEntry=cwwdl630" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=6.65, Z=-0.58` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=6.65, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

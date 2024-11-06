@@ -69,8 +69,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 165.9 | -77.34 | -- | -6.5 | 8.89 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 167.117 | -77.499 | 5.261 | -22.555 | 0.438 | 15.556 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 167.21 | -76.927 | 5.268 | -- | -- | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 167.117 | -77.499 | 5.261 | -22.555 | 0.438 | 15.556 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 167.21 | -76.927 | 5.268 | -- | -- | -- |
 | **UCC** |166.992 | -77.485 | 5.296 | -23.07 | 0.65 | 14.701 |
 
 
@@ -78,8 +78,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2435](https://ucc.ar/_clusters/fof2435/)| 47 | 167.427 | -77.265 | 5.255 | -22.418 | 0.286 | 23.297 |
-|[OC 0579](https://ucc.ar/_clusters/oc0579/)| 90 | 167.077 | -77.56 | 5.283 | -23.075 | 0.558 | 13.923 |
+|[OC 0579](/_clusters/oc0579/)| 90 | 167.077 | -77.56 | 5.283 | -23.075 | 0.558 | 13.923 |
+|[FoF 2435](/_clusters/fof2435/)| 47 | 167.427 | -77.265 | 5.255 | -22.418 | 0.286 | 23.297 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=166.992,-77.485" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=166.992%20-77.485&output=json&radius=5&userEntry=chamaleoni" target="_blank">Simbad</a></p>
 
@@ -96,8 +96,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=380, log_age=6.0` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.158, MOD50=6.41, logAge50=6.753` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=2.89, dMod50=6.55, logAge50=6.88, [Fe/H]50=0.37` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.158, MOD50=6.41, logAge50=6.753` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.89, dMod50=6.55, logAge50=6.88, [Fe/H]50=0.37` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

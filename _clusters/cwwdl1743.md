@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 279.728 | -6.421 | 0.384 | -0.961 | -1.248 | 78.367 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 279.728 | -6.421 | 0.384 | -0.961 | -1.248 | 78.367 |
 | **UCC** |279.735 | -6.431 | 0.38 | -1.022 | -1.242 | 44.786 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 271](https://ucc.ar/_clusters/teutsch271/)| 100 | 279.735 | -6.431 | 0.38 | -1.022 | -1.244 | 44.786 |
-|[UBC 1035](https://ucc.ar/_clusters/ubc1035/)| 92 | 279.74 | -6.428 | 0.378 | -1.027 | -1.241 | 46.691 |
+|[Teutsch 271](/_clusters/teutsch271/)| 100 | 279.735 | -6.431 | 0.38 | -1.022 | -1.244 | 44.786 |
+|[UBC 1035](/_clusters/ubc1035/)| 92 | 279.74 | -6.428 | 0.378 | -1.027 | -1.241 | 46.691 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=279.735,-6.431" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.735%20-6.431&output=json&radius=5&userEntry=cwwdl1743" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.94, Z=0.35` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.94, Z=0.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

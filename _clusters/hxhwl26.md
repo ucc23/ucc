@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 111.646 | -26.584 | 0.8 | -4.29 | 3.85 | -- |
+|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 111.646 | -26.584 | 0.8 | -4.29 | 3.85 | -- |
 | **UCC** |111.607 | -26.528 | 0.795 | -4.28 | 3.862 | 38.577 |
 
 
@@ -80,8 +80,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 26](https://ucc.ar/_clusters/h21oc26/)| 64 | 111.539 | -26.585 | 0.815 | -4.266 | 3.903 | 37.343 |
-|[CWWDL 14101](https://ucc.ar/_clusters/cwwdl14101/)| 100 | 111.607 | -26.528 | 0.795 | -4.28 | 3.862 | 38.577 |
+|[CWWDL 14101](/_clusters/cwwdl14101/)| 100 | 111.607 | -26.528 | 0.795 | -4.28 | 3.862 | 38.577 |
+|[H21OC 26](/_clusters/h21oc26/)| 64 | 111.539 | -26.585 | 0.815 | -4.266 | 3.903 | 37.343 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=111.607,-26.528" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.607%20-26.528&output=json&radius=5&userEntry=hxhwl26" target="_blank">Simbad</a></p>
 
@@ -97,7 +97,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.1, m-M=10.5, logAge=7.44, Z=0.026` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=0.1, m-M=10.5, logAge=7.44, Z=0.026` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

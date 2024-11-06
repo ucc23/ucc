@@ -69,7 +69,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 267.433 | -28.761 | 0.42 | -0.587 | -1.126 | -- |
-|[Castro-Ginard et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract) | 267.422 | -28.759 | 0.422 | -0.587 | -1.125 | -- |
+|[Castro-Ginard et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C) | 267.422 | -28.759 | 0.422 | -0.587 | -1.125 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 267.454 | -28.744 | 0.422 | -0.585 | -1.136 | -- |
 | **UCC** |267.446 | -28.747 | 0.41 | -0.617 | -1.139 | -36.777 |
 
@@ -78,7 +78,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Collinder 351](https://ucc.ar/_clusters/collinder351/)| 48 | 267.434 | -28.776 | 0.423 | -0.499 | -1.151 | -- |
+|[Collinder 351](/_clusters/collinder351/)| 48 | 267.434 | -28.776 | 0.423 | -0.499 | -1.151 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=267.446,-28.747" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=267.446%20-28.747&output=json&radius=5&userEntry=ubc91" target="_blank">Simbad</a></p>
 
@@ -98,4 +98,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.875, Dist=2056, logage=7.798, [Fe/H]=0.347` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

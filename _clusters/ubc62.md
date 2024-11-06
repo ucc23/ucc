@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 76.108 | 35.825 | 0.827 | 0.355 | -3.75 | -- |
+|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 76.108 | 35.825 | 0.827 | 0.355 | -3.75 | -- |
 | **UCC** |76.098 | 35.835 | 0.807 | 0.306 | -3.845 | 1.374 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 15](https://ucc.ar/_clusters/coingaia15/)| 70 | 76.083 | 35.832 | 0.803 | 0.347 | -3.792 | 0.747 |
-|[CWWDL 14371](https://ucc.ar/_clusters/cwwdl14371/)| 59 | 76.123 | 35.795 | 0.821 | 0.239 | -3.887 | 13.946 |
+|[COIN-Gaia 15](/_clusters/coingaia15/)| 70 | 76.083 | 35.832 | 0.803 | 0.347 | -3.792 | 0.747 |
+|[CWWDL 14371](/_clusters/cwwdl14371/)| 59 | 76.123 | 35.795 | 0.821 | 0.239 | -3.887 | 13.946 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=76.098,+35.835" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=76.098%2035.835&output=json&radius=5&userEntry=ubc62" target="_blank">Simbad</a></p>
 
@@ -90,4 +90,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

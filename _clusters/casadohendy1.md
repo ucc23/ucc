@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | 302.85 | 35.85 | 0.49 | -3.19 | -6.31 | -24.0 |
+|[Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C) | 302.85 | 35.85 | 0.49 | -3.19 | -6.31 | -24.0 |
 | **UCC** |302.845 | 35.848 | 0.485 | -3.205 | -6.308 | -8.439 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[NGC 6883](https://ucc.ar/_clusters/ngc6883/)| 43 | 302.875 | 35.858 | 0.482 | -3.139 | -6.234 | -14.501 |
+|[NGC 6883](/_clusters/ngc6883/)| 43 | 302.875 | 35.858 | 0.482 | -3.139 | -6.234 | -14.501 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=302.845,+35.848" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=302.845%2035.848&output=json&radius=5&userEntry=casadohendy1" target="_blank">Simbad</a></p>
 
@@ -92,7 +92,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C/abstract) | `Av=1.55, d_kpc=1.99, Age_Myr=5.9, Z=0.017` |
+| [Casado & Hendy (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1399C) | `Av=1.55, d_kpc=1.99, Age_Myr=5.9, Z=0.017` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 2960](https://ucc.ar/_clusters/cwnu2960/)| 50 | 131.737 | -43.876 | 0.487 | -5.436 | 4.886 | -- |
+|[CWNU 2960](/_clusters/cwnu2960/)| 50 | 131.737 | -43.876 | 0.487 | -5.436 | 4.886 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=131.654,-43.863" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=131.654%20-43.863&output=json&radius=5&userEntry=dbsb27" target="_blank">Simbad</a></p>
 
@@ -95,4 +95,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.332, distance=2479, log_age=8.01` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

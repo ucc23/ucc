@@ -7,6 +7,13 @@ permalink: /changelog/
 If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
 
+
+## Version [241106](https://zenodo.org/records/14047628)
+
+- Added [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D).
+
+
+
 ## Version [241102](https://zenodo.org/records/14028837)
 
 - Added NGC 5999 in FERREIRA19 that was not included in the initial release

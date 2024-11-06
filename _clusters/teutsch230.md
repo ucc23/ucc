@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 177.315 | -62.233 | -- | -- | -- | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 177.315 | -62.233 | -- | -- | -- | -- |
 | **UCC** |177.332 | -62.227 | 0.236 | -7.732 | 1.344 | -12.765 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VVV CL006](https://ucc.ar/_clusters/vvvcl006/)| 56 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
-|[OC 0572](https://ucc.ar/_clusters/oc0572/)| 92 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
-|[SAI 116](https://ucc.ar/_clusters/sai116/)| 93 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
+|[SAI 116](/_clusters/sai116/)| 93 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
+|[OC 0572](/_clusters/oc0572/)| 92 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
+|[VVV CL006](/_clusters/vvvcl006/)| 56 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=177.332,-62.227" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=177.332%20-62.227&output=json&radius=5&userEntry=teutsch230" target="_blank">Simbad</a></p>
 
@@ -91,4 +91,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-05-11</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

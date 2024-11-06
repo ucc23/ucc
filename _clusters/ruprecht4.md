@@ -69,12 +69,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 102.24 | -10.51 | -- | 1.79 | 2.17 | -- |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | 102.24 | -10.51 | -- | 0.562 | 0.347 | 47.5 |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 102.248 | -10.514 | -- | -- | -- | -- |
+|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 102.24 | -10.51 | -- | 0.562 | 0.347 | 47.5 |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 102.248 | -10.514 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 102.248 | -10.524 | 0.214 | -0.197 | 0.096 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 102.243 | -10.529 | 0.209 | -0.205 | 0.126 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 102.245 | -10.53 | 0.211 | -0.215 | 0.098 | 46.518 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 102.235 | -10.52 | 0.213 | -- | -- | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 102.245 | -10.53 | 0.211 | -0.215 | 0.098 | 46.518 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 102.235 | -10.52 | 0.213 | -- | -- | -- |
 | **UCC** |102.244 | -10.525 | 0.215 | -0.209 | 0.108 | 47.807 |
 
 
@@ -82,8 +82,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0371](https://ucc.ar/_clusters/oc0371/)| 98 | 102.246 | -10.526 | 0.217 | -0.209 | 0.11 | 47.807 |
-|[OC 0372](https://ucc.ar/_clusters/oc0372/)| 94 | 102.244 | -10.527 | 0.212 | -0.209 | 0.108 | 46.421 |
+|[OC 0371](/_clusters/oc0371/)| 98 | 102.246 | -10.526 | 0.217 | -0.209 | 0.11 | 47.807 |
+|[OC 0372](/_clusters/oc0372/)| 94 | 102.244 | -10.527 | 0.212 | -0.209 | 0.108 | 46.421 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=102.244,-10.525" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=102.244%20-10.525&output=json&radius=5&userEntry=ruprecht4" target="_blank">Simbad</a></p>
 
@@ -100,11 +100,11 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.458, distance=4591, log_age=9.005, metallicity=-0.09` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L/abstract) | `E(B-V)=0.559, Dmod=13.823, logt=8.8` |
+| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.559, Dmod=13.823, logt=8.8` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.24, DMNN=13.06, AgeNN=8.93` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.673, Dist=3598, logage=8.808, [Fe/H]=-0.1` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.455, MOD50=12.936, logAge50=8.759` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=1.55, dMod50=12.51, logAge50=8.99, [Fe/H]50=-0.24` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.455, MOD50=12.936, logAge50=8.759` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.55, dMod50=12.51, logAge50=8.99, [Fe/H]50=-0.24` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

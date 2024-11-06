@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 281.832 | -5.24 | 0.478 | 0.17 | -2.24 | 4.069 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 281.832 | -5.24 | 0.478 | 0.17 | -2.24 | 4.069 |
 | **UCC** |281.832 | -5.243 | 0.475 | 0.295 | -2.231 | 5.023 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 1235](https://ucc.ar/_clusters/fof1235/)| 37 | 281.849 | -5.261 | 0.477 | 0.432 | -2.152 | 13.429 |
-|[UBC 109](https://ucc.ar/_clusters/ubc109/)| 43 | 281.844 | -5.258 | 0.475 | 0.431 | -2.152 | 13.459 |
+|[UBC 109](/_clusters/ubc109/)| 43 | 281.844 | -5.258 | 0.475 | 0.431 | -2.152 | 13.459 |
+|[FoF 1235](/_clusters/fof1235/)| 37 | 281.849 | -5.261 | 0.477 | 0.432 | -2.152 | 13.429 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=281.832,-5.243" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=281.832%20-5.243&output=json&radius=5&userEntry=cwwdl980" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=8.06, Z=-0.58` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=8.06, Z=-0.58` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

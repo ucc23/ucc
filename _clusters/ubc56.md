@@ -68,12 +68,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 69.877 | 47.527 | 1.112 | 1.618 | -4.007 | -- |
+|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 69.877 | 47.527 | 1.112 | 1.618 | -4.007 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 69.874 | 47.534 | 1.118 | 1.594 | -4.008 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 69.86 | 47.534 | 1.159 | 1.506 | -4.077 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 69.89 | 47.486 | 1.146 | 1.5 | -4.073 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 69.868 | 47.564 | 1.135 | 1.51 | -4.07 | -5.254 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 69.829 | 47.504 | 1.134 | -- | -- | -- |
+|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 69.86 | 47.534 | 1.159 | 1.506 | -4.077 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 69.89 | 47.486 | 1.146 | 1.5 | -4.073 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 69.868 | 47.564 | 1.135 | 1.51 | -4.07 | -5.254 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 69.829 | 47.504 | 1.134 | -- | -- | -- |
 | **UCC** |69.86 | 47.542 | 1.139 | 1.485 | -4.075 | -4.846 |
 
 
@@ -81,8 +81,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14173](https://ucc.ar/_clusters/cwwdl14173/)| 91 | 69.874 | 47.539 | 1.139 | 1.486 | -4.073 | -4.846 |
-|[FoF 2230](https://ucc.ar/_clusters/fof2230/)| 92 | 69.874 | 47.539 | 1.138 | 1.486 | -4.074 | -4.846 |
+|[FoF 2230](/_clusters/fof2230/)| 92 | 69.874 | 47.539 | 1.138 | 1.486 | -4.074 | -4.846 |
+|[CWWDL 14173](/_clusters/cwwdl14173/)| 91 | 69.874 | 47.539 | 1.139 | 1.486 | -4.073 | -4.846 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=69.86,+47.542" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=69.86%2047.542&output=json&radius=5&userEntry=ubc56" target="_blank">Simbad</a></p>
 
@@ -99,10 +99,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.59, DMNN=9.75, AgeNN=8.78` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=867, logAgeNN=8.79` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=2.4, logAge=7.75` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.993, MOD50=9.591, logAge50=8.437` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=1.87, dMod50=9.88, logAge50=8.6, [Fe/H]50=0.59` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=867, logAgeNN=8.79` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=2.4, logAge=7.75` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.993, MOD50=9.591, logAge50=8.437` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.87, dMod50=9.88, logAge50=8.6, [Fe/H]50=0.59` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

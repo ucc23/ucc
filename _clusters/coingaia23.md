@@ -70,10 +70,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 87.449 | 27.008 | 1.032 | -0.318 | -0.928 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 87.483 | 27.02 | 1.039 | -0.327 | -0.954 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | 87.462 | 26.998 | 1.058 | -0.32 | -1.013 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 87.467 | 26.968 | 1.055 | -0.332 | -1.011 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 87.457 | 27.036 | 1.058 | -- | -- | -- |
+|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 87.462 | 26.998 | 1.058 | -0.32 | -1.013 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 87.467 | 26.968 | 1.055 | -0.332 | -1.011 | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 87.457 | 27.036 | 1.058 | -- | -- | -- |
 | **UCC** |87.447 | 26.999 | 1.056 | -0.332 | -1.001 | -3.588 |
 
 
@@ -81,8 +81,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Majaess 65](https://ucc.ar/_clusters/majaess65/)| 65 | 87.429 | 27.035 | 1.034 | -0.332 | -1.044 | -3.175 |
-|[CWWDL 14154](https://ucc.ar/_clusters/cwwdl14154/)| 98 | 87.449 | 26.999 | 1.057 | -0.329 | -1.0 | -3.588 |
+|[CWWDL 14154](/_clusters/cwwdl14154/)| 98 | 87.449 | 26.999 | 1.057 | -0.329 | -1.0 | -3.588 |
+|[Majaess 65](/_clusters/majaess65/)| 65 | 87.429 | 27.035 | 1.034 | -0.332 | -1.044 | -3.175 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.447,+26.999" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.447%2026.999&output=json&radius=5&userEntry=coingaia23" target="_blank">Simbad</a></p>
 
@@ -100,10 +100,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.86, AgeNN=8.11` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.803, Dist=912, logage=7.757, [Fe/H]=-0.009` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=918, logAgeNN=8.14` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=0.8, logAge=7.9` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=0.458, MOD50=9.784, logAge50=7.825` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=0.64, dMod50=9.85, logAge50=7.95, [Fe/H]50=0.33` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=918, logAgeNN=8.14` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.8, logAge=7.9` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.458, MOD50=9.784, logAge50=7.825` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.64, dMod50=9.85, logAge50=7.95, [Fe/H]50=0.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

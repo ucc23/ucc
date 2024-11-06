@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract) | 276.999 | -15.421 | 0.859 | -2.663 | -3.576 | -- |
+|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 276.999 | -15.421 | 0.859 | -2.663 | -3.576 | -- |
 | **UCC** |277.012 | -15.351 | 0.873 | -2.679 | -3.59 | 16.412 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 14359](https://ucc.ar/_clusters/cwwdl14359/)| 82 | 277.03 | -15.389 | 0.876 | -2.669 | -3.61 | 12.939 |
-|[HXHWL 57](https://ucc.ar/_clusters/hxhwl57/)| 93 | 277.017 | -15.336 | 0.878 | -2.679 | -3.586 | 16.97 |
-|[Theia 2510](https://ucc.ar/_clusters/theia2510/)| 80 | 277.017 | -15.326 | 0.871 | -2.662 | -3.541 | 12.939 |
+|[HXHWL 57](/_clusters/hxhwl57/)| 93 | 277.017 | -15.336 | 0.878 | -2.679 | -3.586 | 16.97 |
+|[CWWDL 14359](/_clusters/cwwdl14359/)| 82 | 277.03 | -15.389 | 0.876 | -2.669 | -3.61 | 12.939 |
+|[Theia 2510](/_clusters/theia2510/)| 80 | 277.017 | -15.326 | 0.871 | -2.662 | -3.541 | 12.939 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=277.012,-15.351" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=277.012%20-15.351&output=json&radius=5&userEntry=phoc20" target="_blank">Simbad</a></p>
 
@@ -91,4 +91,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

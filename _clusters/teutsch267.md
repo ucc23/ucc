@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 276.527 | -13.95 | -- | -- | -- | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 276.527 | -13.95 | -- | -- | -- | -- |
 | **UCC** |276.532 | -13.962 | 0.352 | 0.436 | -2.021 | 15.05 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 266](https://ucc.ar/_clusters/teutsch266/)| 78 | 276.528 | -13.964 | 0.352 | 0.386 | -2.018 | -- |
-|[CWNU 1659](https://ucc.ar/_clusters/cwnu1659/)| 45 | 276.534 | -13.959 | 0.383 | 0.344 | -2.03 | -30.631 |
+|[Teutsch 266](/_clusters/teutsch266/)| 78 | 276.528 | -13.964 | 0.352 | 0.386 | -2.018 | -- |
+|[CWNU 1659](/_clusters/cwnu1659/)| 45 | 276.534 | -13.959 | 0.383 | 0.344 | -2.03 | -30.631 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.532,-13.962" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.532%20-13.962&output=json&radius=5&userEntry=teutsch267" target="_blank">Simbad</a></p>
 
@@ -90,4 +90,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

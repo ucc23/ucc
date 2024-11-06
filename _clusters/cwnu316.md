@@ -68,8 +68,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 260.778 | -44.378 | 0.88 | 2.09 | -3.27 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | 260.777 | -44.375 | 0.877 | 2.095 | -3.261 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 260.778 | -44.378 | 0.88 | 2.09 | -3.27 | -- |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 260.777 | -44.375 | 0.877 | 2.095 | -3.261 | -- |
 | **UCC** |260.785 | -44.374 | 0.876 | 2.083 | -3.27 | -13.005 |
 
 
@@ -77,8 +77,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0675](https://ucc.ar/_clusters/oc0675/)| 100 | 260.785 | -44.374 | 0.876 | 2.083 | -3.27 | -13.005 |
-|[CWWDL 14110](https://ucc.ar/_clusters/cwwdl14110/)| 97 | 260.786 | -44.373 | 0.877 | 2.08 | -3.269 | -13.005 |
+|[OC 0675](/_clusters/oc0675/)| 100 | 260.785 | -44.374 | 0.876 | 2.083 | -3.27 | -13.005 |
+|[CWWDL 14110](/_clusters/cwwdl14110/)| 97 | 260.786 | -44.373 | 0.877 | 2.08 | -3.269 | -13.005 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=260.785,-44.374" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=260.785%20-44.374&output=json&radius=5&userEntry=cwnu316" target="_blank">Simbad</a></p>
 
@@ -94,8 +94,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.1, m-M=10.5, logAge=7.4, Z=0.032` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract) | `A0=1.45, logAge=7.3` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=1.1, m-M=10.5, logAge=7.4, Z=0.032` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.45, logAge=7.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

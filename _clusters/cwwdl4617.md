@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 33.754 | 58.462 | 0.677 | -1.085 | -1.655 | -- |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 33.754 | 58.462 | 0.677 | -1.085 | -1.655 | -- |
 | **UCC** |33.762 | 58.463 | 0.688 | -1.037 | -1.689 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 7](https://ucc.ar/_clusters/coingaia7/)| 59 | 33.799 | 58.463 | 0.673 | -1.045 | -1.671 | -- |
-|[UBC 45](https://ucc.ar/_clusters/ubc45/)| 81 | 33.721 | 58.463 | 0.683 | -1.016 | -1.695 | -- |
+|[UBC 45](/_clusters/ubc45/)| 81 | 33.721 | 58.463 | 0.683 | -1.016 | -1.695 | -- |
+|[COIN-Gaia 7](/_clusters/coingaia7/)| 59 | 33.799 | 58.463 | 0.673 | -1.045 | -1.671 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=33.762,+58.463" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=33.762%2058.463&output=json&radius=5&userEntry=cwwdl4617" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.58, Z=-0.4` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.58, Z=-0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

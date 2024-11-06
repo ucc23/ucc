@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | 283.458 | -4.638 | 0.43 | -0.65 | -1.12 | 26.7 |
+|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 283.458 | -4.638 | 0.43 | -0.65 | -1.12 | 26.7 |
 | **UCC** |283.462 | -4.649 | 0.425 | -0.642 | -1.123 | 20.259 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13354](https://ucc.ar/_clusters/cwwdl13354/)| 87 | 283.468 | -4.646 | 0.427 | -0.639 | -1.121 | 20.373 |
-|[UBC 1044](https://ucc.ar/_clusters/ubc1044/)| 95 | 283.46 | -4.65 | 0.427 | -0.64 | -1.121 | 20.259 |
+|[UBC 1044](/_clusters/ubc1044/)| 95 | 283.46 | -4.65 | 0.427 | -0.64 | -1.121 | 20.259 |
+|[CWWDL 13354](/_clusters/cwwdl13354/)| 87 | 283.468 | -4.646 | 0.427 | -0.639 | -1.121 | 20.373 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=283.462,-4.649" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=283.462%20-4.649&output=json&radius=5&userEntry=cwnu63" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H/abstract) | `AG=1.9, m-M=11.5, logAge=8.1, Z=0.032` |
+| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=1.9, m-M=11.5, logAge=8.1, Z=0.032` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

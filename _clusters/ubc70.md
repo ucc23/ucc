@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 91.057 | 31.606 | 0.484 | -0.722 | -3.265 | -- |
+|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 91.057 | 31.606 | 0.484 | -0.722 | -3.265 | -- |
 | **UCC** |91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 12517](https://ucc.ar/_clusters/cwwdl12517/)| 95 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
-|[COIN-Gaia 22](https://ucc.ar/_clusters/coingaia22/)| 94 | 91.065 | 31.6 | 0.505 | -0.764 | -3.284 | 12.872 |
-|[Kronberger 6](https://ucc.ar/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
+|[CWWDL 12517](/_clusters/cwwdl12517/)| 95 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
+|[COIN-Gaia 22](/_clusters/coingaia22/)| 94 | 91.065 | 31.6 | 0.505 | -0.764 | -3.284 | 12.872 |
+|[Kronberger 6](/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.059,+31.603" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.059%2031.603&output=json&radius=5&userEntry=ubc70" target="_blank">Simbad</a></p>
 
@@ -91,4 +91,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

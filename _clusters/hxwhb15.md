@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | 317.62 | 46.81 | 0.14 | -3.31 | -3.63 | -- |
+|[Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H) | 317.62 | 46.81 | 0.14 | -3.31 | -3.63 | -- |
 | **UCC** |317.61 | 46.784 | 0.156 | -3.339 | -3.604 | -76.831 |
 
 
@@ -76,7 +76,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Teutsch 157](https://ucc.ar/_clusters/teutsch157/)| 50 | 317.566 | 46.747 | 0.177 | -3.336 | -3.616 | -76.831 |
+|[Teutsch 157](/_clusters/teutsch157/)| 50 | 317.566 | 46.747 | 0.177 | -3.336 | -3.616 | -76.831 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=317.61,+46.784" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=317.61%2046.784&output=json&radius=5&userEntry=hxwhb15" target="_blank">Simbad</a></p>
 
@@ -92,7 +92,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract) | `AG=3.14, d_pc=7294.2, logt=6.84` |
+| [Hao et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H) | `AG=3.14, d_pc=7294.2, logt=6.84` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

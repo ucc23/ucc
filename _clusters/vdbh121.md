@@ -78,7 +78,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[IC 2944](https://ucc.ar/_clusters/ic2944/)| 31 | 174.506 | -63.336 | 0.386 | -6.126 | 0.652 | -2.566 |
+|[IC 2944](/_clusters/ic2944/)| 31 | 174.506 | -63.336 | 0.386 | -6.126 | 0.652 | -2.566 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=174.565,-63.366" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=174.565%20-63.366&output=json&radius=5&userEntry=vdbh121" target="_blank">Simbad</a></p>
 
@@ -99,4 +99,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.281, Dist=2250, logage=6.864, [Fe/H]=-0.089` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

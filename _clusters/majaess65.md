@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 23](https://ucc.ar/_clusters/coingaia23/)| 65 | 87.447 | 26.999 | 1.056 | -0.332 | -1.001 | -3.588 |
-|[CWWDL 14154](https://ucc.ar/_clusters/cwwdl14154/)| 64 | 87.449 | 26.999 | 1.057 | -0.329 | -1.0 | -3.588 |
+|[COIN-Gaia 23](/_clusters/coingaia23/)| 65 | 87.447 | 26.999 | 1.056 | -0.332 | -1.001 | -3.588 |
+|[CWWDL 14154](/_clusters/cwwdl14154/)| 64 | 87.449 | 26.999 | 1.057 | -0.329 | -1.0 | -3.588 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=87.429,+27.035" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=87.429%2027.035&output=json&radius=5&userEntry=majaess65" target="_blank">Simbad</a></p>
 
@@ -96,4 +96,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.768, Dist=944, logage=8.207, [Fe/H]=0.006` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

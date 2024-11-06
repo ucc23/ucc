@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 117.008 | -31.883 | 0.254 | -2.301 | 3.149 | 73.115 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 117.008 | -31.883 | 0.254 | -2.301 | 3.149 | 73.115 |
 | **UCC** |117.005 | -31.891 | 0.246 | -2.228 | 3.123 | -- |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1992](https://ucc.ar/_clusters/hsc1992/)| 87 | 116.973 | -31.887 | 0.246 | -2.228 | 3.129 | -- |
-|[CWNU 3620](https://ucc.ar/_clusters/cwnu3620/)| 75 | 116.973 | -31.887 | 0.25 | -2.235 | 3.129 | -- |
+|[HSC 1992](/_clusters/hsc1992/)| 87 | 116.973 | -31.887 | 0.246 | -2.228 | 3.129 | -- |
+|[CWNU 3620](/_clusters/cwnu3620/)| 75 | 116.973 | -31.887 | 0.25 | -2.235 | 3.129 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=117.005,-31.891" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=117.005%20-31.891&output=json&radius=5&userEntry=cwwdl348" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.76, Z=0.44` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.76, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

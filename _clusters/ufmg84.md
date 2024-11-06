@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | 272.195 | -21.482 | 0.604 | -0.625 | -1.42 | -- |
+|[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | 272.195 | -21.482 | 0.604 | -0.625 | -1.42 | -- |
 | **UCC** |272.175 | -21.441 | 0.663 | -0.699 | -1.396 | -20.923 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VDB 113](https://ucc.ar/_clusters/vdb113/)| 80 | 272.18 | -21.441 | 0.674 | -0.766 | -1.383 | -44.731 |
-|[UBC 1005](https://ucc.ar/_clusters/ubc1005/)| 84 | 272.186 | -21.437 | 0.676 | -0.741 | -1.382 | -22.069 |
+|[UBC 1005](/_clusters/ubc1005/)| 84 | 272.186 | -21.437 | 0.676 | -0.741 | -1.382 | -22.069 |
+|[VDB 113](/_clusters/vdb113/)| 80 | 272.18 | -21.441 | 0.674 | -0.766 | -1.383 | -44.731 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=272.175,-21.441" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.175%20-21.441&output=json&radius=5&userEntry=ufmg84" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F/abstract) | `E(B-V)=0.85, Dmod=10.7, logt=7.25` |
+| [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | `E(B-V)=0.85, Dmod=10.7, logt=7.25` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 276.46 | -17.079 | 0.496 | -0.228 | -1.538 | -24.224 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 276.46 | -17.079 | 0.496 | -0.228 | -1.538 | -24.224 |
 | **UCC** |276.465 | -17.071 | 0.487 | -0.223 | -1.565 | -14.982 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 341](https://ucc.ar/_clusters/ubc341/)| 80 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
-|[Dolidze 52a](https://ucc.ar/_clusters/dolidze52a/)| 97 | 276.468 | -17.072 | 0.486 | -0.223 | -1.565 | -14.982 |
+|[Dolidze 52a](/_clusters/dolidze52a/)| 97 | 276.468 | -17.072 | 0.486 | -0.223 | -1.565 | -14.982 |
+|[UBC 341](/_clusters/ubc341/)| 80 | 276.49 | -17.078 | 0.495 | -0.228 | -1.567 | -44.651 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.465,-17.071" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.465%20-17.071&output=json&radius=5&userEntry=cwwdl970" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=5.78, Z=0.35` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=5.78, Z=0.35` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 97.782 | 15.088 | 0.299 | -0.147 | -1.062 | 43.057 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 97.782 | 15.088 | 0.299 | -0.147 | -1.062 | 43.057 |
 | **UCC** |97.793 | 15.054 | 0.33 | -0.161 | -1.068 | 43.905 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0326](https://ucc.ar/_clusters/oc0326/)| 92 | 97.793 | 15.059 | 0.331 | -0.16 | -1.07 | 43.795 |
-|[UBC 203](https://ucc.ar/_clusters/ubc203/)| 50 | 97.779 | 15.093 | 0.274 | -0.128 | -1.091 | 46.289 |
+|[OC 0326](/_clusters/oc0326/)| 92 | 97.793 | 15.059 | 0.331 | -0.16 | -1.07 | 43.795 |
+|[UBC 203](/_clusters/ubc203/)| 50 | 97.779 | 15.093 | 0.274 | -0.128 | -1.091 | 46.289 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=97.793,+15.054" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=97.793%2015.054&output=json&radius=5&userEntry=cwwdl2661" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=8.03, Z=-0.4` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=8.03, Z=-0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

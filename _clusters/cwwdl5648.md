@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 236.579 | -56.805 | 0.379 | -1.702 | -3.22 | -0.75 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 236.579 | -56.805 | 0.379 | -1.702 | -3.22 | -0.75 |
 | **UCC** |236.572 | -56.802 | 0.377 | -1.684 | -3.227 | -44.323 |
 
 
@@ -76,10 +76,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 306](https://ucc.ar/_clusters/ubc306/)| 84 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
-|[FoF 1180](https://ucc.ar/_clusters/fof1180/)| 98 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
-|[OC 0633](https://ucc.ar/_clusters/oc0633/)| 99 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
-|[UFMG 1](https://ucc.ar/_clusters/ufmg1/)| 100 | 236.573 | -56.801 | 0.377 | -1.683 | -3.226 | -44.323 |
+|[UFMG 1](/_clusters/ufmg1/)| 100 | 236.573 | -56.801 | 0.377 | -1.683 | -3.226 | -44.323 |
+|[OC 0633](/_clusters/oc0633/)| 99 | 236.571 | -56.801 | 0.376 | -1.683 | -3.227 | -44.323 |
+|[FoF 1180](/_clusters/fof1180/)| 98 | 236.574 | -56.802 | 0.376 | -1.683 | -3.221 | -44.323 |
+|[UBC 306](/_clusters/ubc306/)| 84 | 236.6 | -56.797 | 0.375 | -1.668 | -3.219 | -46.741 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=236.572,-56.802" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=236.572%20-56.802&output=json&radius=5&userEntry=cwwdl5648" target="_blank">Simbad</a></p>
 
@@ -95,7 +95,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.82, Z=0.44` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.82, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

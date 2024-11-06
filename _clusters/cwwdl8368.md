@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 3.153 | 62.467 | 0.326 | -2.125 | -0.941 | -- |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 3.153 | 62.467 | 0.326 | -2.125 | -0.941 | -- |
 | **UCC** |3.257 | 62.473 | 0.322 | -2.117 | -0.939 | -- |
 
 
@@ -80,8 +80,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Casado 15](https://ucc.ar/_clusters/casado15/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
-|[OC 0220](https://ucc.ar/_clusters/oc0220/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
+|[Casado 15](/_clusters/casado15/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
+|[OC 0220](/_clusters/oc0220/)| 70 | 3.263 | 62.473 | 0.313 | -2.062 | -0.947 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=3.257,+62.473" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.257%2062.473&output=json&radius=5&userEntry=cwwdl8368" target="_blank">Simbad</a></p>
 
@@ -97,7 +97,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=8.15, Z=-0.88` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=8.15, Z=-0.88` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

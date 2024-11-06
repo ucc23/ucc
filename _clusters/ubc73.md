@@ -77,8 +77,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gulliver 56](https://ucc.ar/_clusters/gulliver56/)| 32 | 95.424 | 26.936 | 0.488 | 0.447 | -3.144 | 121.796 |
-|[OC 0304](https://ucc.ar/_clusters/oc0304/)| 62 | 95.384 | 26.916 | 0.428 | 0.38 | -3.166 | 29.641 |
+|[OC 0304](/_clusters/oc0304/)| 62 | 95.384 | 26.916 | 0.428 | 0.38 | -3.166 | 29.641 |
+|[Gulliver 56](/_clusters/gulliver56/)| 32 | 95.424 | 26.936 | 0.488 | 0.447 | -3.144 | 121.796 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=95.376,+26.93" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.376%2026.93&output=json&radius=5&userEntry=ubc73" target="_blank">Simbad</a></p>
 
@@ -98,4 +98,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.127, Dist=2031, logage=8.338, [Fe/H]=-0.185` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 90.985 | 26.645 | 0.519 | 0.359 | -0.008 | -- |
+|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 90.985 | 26.645 | 0.519 | 0.359 | -0.008 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 90.986 | 26.651 | 0.52 | 0.342 | -0.005 | -- |
 | **UCC** |90.986 | 26.638 | 0.529 | 0.31 | -0.03 | 29.57 |
 
@@ -77,8 +77,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2143](https://ucc.ar/_clusters/fof2143/)| 96 | 90.975 | 26.638 | 0.531 | 0.302 | -0.031 | 29.57 |
-|[CWWDL 2646](https://ucc.ar/_clusters/cwwdl2646/)| 95 | 90.984 | 26.641 | 0.531 | 0.295 | -0.034 | 29.794 |
+|[FoF 2143](/_clusters/fof2143/)| 96 | 90.975 | 26.638 | 0.531 | 0.302 | -0.031 | 29.57 |
+|[CWWDL 2646](/_clusters/cwwdl2646/)| 95 | 90.984 | 26.641 | 0.531 | 0.295 | -0.034 | 29.794 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=90.986,+26.638" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=90.986%2026.638&output=json&radius=5&userEntry=ubc72" target="_blank">Simbad</a></p>
 
@@ -97,4 +97,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.97, DMNN=11.41, AgeNN=8.69` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

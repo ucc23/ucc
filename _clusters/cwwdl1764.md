@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 280.829 | -3.816 | 0.468 | -0.623 | -2.161 | 6.728 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 280.829 | -3.816 | 0.468 | -0.623 | -2.161 | 6.728 |
 | **UCC** |280.82 | -3.751 | 0.46 | -0.626 | -2.185 | 22.267 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0051](https://ucc.ar/_clusters/oc0051/)| 67 | 280.855 | -3.739 | 0.46 | -0.577 | -2.216 | -- |
-|[UBC 353](https://ucc.ar/_clusters/ubc353/)| 67 | 280.825 | -3.729 | 0.474 | -0.632 | -2.194 | -- |
+|[OC 0051](/_clusters/oc0051/)| 67 | 280.855 | -3.739 | 0.46 | -0.577 | -2.216 | -- |
+|[UBC 353](/_clusters/ubc353/)| 67 | 280.825 | -3.729 | 0.474 | -0.632 | -2.194 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=280.82,-3.751" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=280.82%20-3.751&output=json&radius=5&userEntry=cwwdl1764" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=8.24, Z=-0.4` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=8.24, Z=-0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

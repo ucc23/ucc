@@ -77,9 +77,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 12517](https://ucc.ar/_clusters/cwwdl12517/)| 94 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
-|[UBC 70](https://ucc.ar/_clusters/ubc70/)| 94 | 91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
-|[Kronberger 6](https://ucc.ar/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
+|[CWWDL 12517](/_clusters/cwwdl12517/)| 94 | 91.057 | 31.602 | 0.502 | -0.754 | -3.279 | 13.458 |
+|[Kronberger 6](/_clusters/kronberger6/)| 94 | 91.06 | 31.601 | 0.503 | -0.753 | -3.278 | 13.458 |
+|[UBC 70](/_clusters/ubc70/)| 94 | 91.059 | 31.603 | 0.499 | -0.763 | -3.286 | 13.458 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=91.065,+31.6" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=91.065%2031.6&output=json&radius=5&userEntry=coingaia22" target="_blank">Simbad</a></p>
 
@@ -99,4 +99,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.343, Dist=1808, logage=8.32, [Fe/H]=-0.062` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

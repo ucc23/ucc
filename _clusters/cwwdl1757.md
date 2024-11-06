@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 281.912 | -3.807 | 0.467 | -0.63 | -1.907 | 12.017 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 281.912 | -3.807 | 0.467 | -0.63 | -1.907 | 12.017 |
 | **UCC** |281.919 | -3.819 | 0.438 | -0.643 | -1.873 | 6.355 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 355](https://ucc.ar/_clusters/ubc355/)| 98 | 281.918 | -3.819 | 0.439 | -0.643 | -1.876 | -1.117 |
-|[OC 0053](https://ucc.ar/_clusters/oc0053/)| 81 | 281.919 | -3.819 | 0.457 | -0.656 | -1.878 | -5.882 |
+|[UBC 355](/_clusters/ubc355/)| 98 | 281.918 | -3.819 | 0.439 | -0.643 | -1.876 | -1.117 |
+|[OC 0053](/_clusters/oc0053/)| 81 | 281.919 | -3.819 | 0.457 | -0.656 | -1.878 | -5.882 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=281.919,-3.819" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=281.919%20-3.819&output=json&radius=5&userEntry=cwwdl1757" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.82, Z=0.44` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.82, Z=0.44` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

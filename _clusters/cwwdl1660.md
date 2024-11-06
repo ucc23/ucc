@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 266.571 | -29.176 | 0.499 | 1.589 | -0.817 | -40.634 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 266.571 | -29.176 | 0.499 | 1.589 | -0.817 | -40.634 |
 | **UCC** |266.537 | -29.186 | 0.47 | 1.704 | -0.862 | -34.271 |
 
 
@@ -76,9 +76,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 335](https://ucc.ar/_clusters/ubc335/)| 45 | 266.571 | -29.168 | 0.484 | 1.752 | -0.794 | -25.994 |
-|[OC 0704](https://ucc.ar/_clusters/oc0704/)| 43 | 266.579 | -29.166 | 0.483 | 1.72 | -0.795 | -34.924 |
-|[FoF 1624](https://ucc.ar/_clusters/fof1624/)| 43 | 266.579 | -29.168 | 0.483 | 1.72 | -0.795 | -34.924 |
+|[UBC 335](/_clusters/ubc335/)| 45 | 266.571 | -29.168 | 0.484 | 1.752 | -0.794 | -25.994 |
+|[FoF 1624](/_clusters/fof1624/)| 43 | 266.579 | -29.168 | 0.483 | 1.72 | -0.795 | -34.924 |
+|[OC 0704](/_clusters/oc0704/)| 43 | 266.579 | -29.166 | 0.483 | 1.72 | -0.795 | -34.924 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=266.537,-29.186" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=266.537%20-29.186&output=json&radius=5&userEntry=cwwdl1660" target="_blank">Simbad</a></p>
 
@@ -94,7 +94,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.76, Z=0.27` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.76, Z=0.27` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

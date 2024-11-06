@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | 214.63 | -62.679 | 0.428 | -3.852 | -2.519 | -- |
+|[Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F) | 214.63 | -62.679 | 0.428 | -3.852 | -2.519 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 214.64 | -62.658 | 0.427 | -3.85 | -2.521 | -- |
 | **UCC** |214.654 | -62.655 | 0.464 | -3.875 | -2.528 | -4.997 |
 
@@ -77,8 +77,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3170](https://ucc.ar/_clusters/lisc3170/)| 82 | 214.646 | -62.657 | 0.468 | -3.914 | -2.539 | -- |
-|[Theia 2819](https://ucc.ar/_clusters/theia2819/)| 78 | 214.648 | -62.657 | 0.471 | -3.912 | -2.536 | -- |
+|[LISC 3170](/_clusters/lisc3170/)| 82 | 214.646 | -62.657 | 0.468 | -3.914 | -2.539 | -- |
+|[Theia 2819](/_clusters/theia2819/)| 78 | 214.648 | -62.657 | 0.471 | -3.912 | -2.536 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=214.654,-62.655" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=214.654%20-62.655&output=json&radius=5&userEntry=ufmg60" target="_blank">Simbad</a></p>
 
@@ -94,8 +94,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F/abstract) | `E(B-V)=0.9, m-M=11.8, logt=7.65` |
+| [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F) | `E(B-V)=0.9, m-M=11.8, logt=7.65` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.967, Dist=2199, logage=8.42, [Fe/H]=0.057` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

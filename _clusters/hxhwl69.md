@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | 101.199 | -24.279 | 0.94 | -1.52 | 2.45 | -- |
+|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 101.199 | -24.279 | 0.94 | -1.52 | 2.45 | -- |
 | **UCC** |101.144 | -24.329 | 0.96 | -1.522 | 2.453 | 36.399 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 3740](https://ucc.ar/_clusters/theia3740/)| 65 | 101.189 | -24.271 | 0.961 | -1.522 | 2.463 | 36.011 |
-|[H21OC 69](https://ucc.ar/_clusters/h21oc69/)| 94 | 101.136 | -24.341 | 0.96 | -1.522 | 2.458 | 36.798 |
+|[H21OC 69](/_clusters/h21oc69/)| 94 | 101.136 | -24.341 | 0.96 | -1.522 | 2.458 | 36.798 |
+|[Theia 3740](/_clusters/theia3740/)| 65 | 101.189 | -24.271 | 0.961 | -1.522 | 2.463 | 36.011 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=101.144,-24.329" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=101.144%20-24.329&output=json&radius=5&userEntry=hxhwl69" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H/abstract) | `AG=0.4, m-M=10.1, logAge=8.6, Z=0.018` |
+| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=0.4, m-M=10.1, logAge=8.6, Z=0.018` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

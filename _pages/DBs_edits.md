@@ -499,6 +499,25 @@ Clusters CWWDL_3274 and CWWDL_3247 are very close.
 ## Added after publication
 
 
+### DAMBIS99
+
+[Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D); _Space-age distribution of young open clusters and observational
+selection_
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/PAZh/25/10) table lists 202 clusters.
+
+Removed entries pointing to a GC: Lynga 7.
+
+Changed names:
+
+- NGC 1976 -> Trapezium
+- van den Bergh 1 -> VDB 1
+- vdB-Hagen 99 -> VDBH 99
+
+Coordinates given by Vizier to Markarian 38 & 50 are wrong, fixed both.
+
+
+
 ### KOPOSOV08
 
 [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract); _Automated search for Galactic star clusters in large

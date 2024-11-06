@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | 98.223 | 2.442 | 0.632 | -2.079 | -0.41 | -- |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | 98.223 | 2.442 | 0.632 | -2.079 | -0.41 | -- |
 | **UCC** |98.259 | 2.447 | 0.625 | -2.362 | -0.506 | -29.384 |
 
 
@@ -80,9 +80,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1330](https://ucc.ar/_clusters/ubc1330/)| 67 | 98.283 | 2.475 | 0.622 | -2.329 | -0.552 | 19.107 |
-|[CWWDL 3775](https://ucc.ar/_clusters/cwwdl3775/)| 74 | 98.281 | 2.46 | 0.624 | -2.342 | -0.558 | -17.716 |
-|[CWNU 239](https://ucc.ar/_clusters/cwnu239/)| 73 | 98.281 | 2.462 | 0.624 | -2.341 | -0.559 | -17.716 |
+|[CWWDL 3775](/_clusters/cwwdl3775/)| 74 | 98.281 | 2.46 | 0.624 | -2.342 | -0.558 | -17.716 |
+|[CWNU 239](/_clusters/cwnu239/)| 73 | 98.281 | 2.462 | 0.624 | -2.341 | -0.559 | -17.716 |
+|[UBC 1330](/_clusters/ubc1330/)| 67 | 98.283 | 2.475 | 0.622 | -2.329 | -0.552 | 19.107 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=98.259,+2.447" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.259%202.447&output=json&radius=5&userEntry=lisciii1682" target="_blank">Simbad</a></p>
 
@@ -98,7 +98,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C/abstract) | `E(V-I)=0.93, m-M=10.75, Z=0.004, fbin=0.55` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | `E(V-I)=0.93, m-M=10.75, Z=0.004, fbin=0.55` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

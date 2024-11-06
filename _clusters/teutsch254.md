@@ -68,9 +68,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B/abstract) | 251.414 | -44.442 | -- | -- | -- | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 251.41 | -44.444 | 0.348 | -0.673 | -1.063 | -49.081 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 251.394 | -44.446 | 0.346 | -- | -- | -- |
+|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 251.414 | -44.442 | -- | -- | -- | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 251.41 | -44.444 | 0.348 | -0.673 | -1.063 | -49.081 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 251.394 | -44.446 | 0.346 | -- | -- | -- |
 | **UCC** |251.404 | -44.44 | 0.353 | -0.669 | -1.018 | -46.84 |
 
 
@@ -78,8 +78,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 320](https://ucc.ar/_clusters/ubc320/)| 91 | 251.403 | -44.446 | 0.354 | -0.673 | -1.014 | -47.051 |
-|[CWWDL 2283](https://ucc.ar/_clusters/cwwdl2283/)| 97 | 251.404 | -44.444 | 0.354 | -0.669 | -1.019 | -46.794 |
+|[CWWDL 2283](/_clusters/cwwdl2283/)| 97 | 251.404 | -44.444 | 0.354 | -0.669 | -1.019 | -46.794 |
+|[UBC 320](/_clusters/ubc320/)| 91 | 251.403 | -44.446 | 0.354 | -0.673 | -1.014 | -47.051 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=251.404,-44.44" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=251.404%20-44.44&output=json&radius=5&userEntry=teutsch254" target="_blank">Simbad</a></p>
 
@@ -95,8 +95,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=2.691, MOD50=12.0, logAge50=8.119` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=2.93, dMod50=11.36, logAge50=8.2, [Fe/H]50=-0.6` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.691, MOD50=12.0, logAge50=8.119` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.93, dMod50=11.36, logAge50=8.2, [Fe/H]50=-0.6` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

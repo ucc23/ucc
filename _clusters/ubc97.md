@@ -69,10 +69,10 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 274.782 | -15.722 | 0.736 | -0.872 | -1.161 | -- |
-|[Castro-Ginard et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract) | 274.779 | -15.726 | 0.733 | -0.871 | -1.146 | -- |
+|[Castro-Ginard et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C) | 274.779 | -15.726 | 0.733 | -0.871 | -1.146 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 274.785 | -15.743 | 0.728 | -0.873 | -1.15 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | 274.814 | -15.734 | 0.718 | -0.835 | -1.212 | -18.173 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | 274.797 | -15.748 | 0.718 | -- | -- | -- |
+|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 274.814 | -15.734 | 0.718 | -0.835 | -1.212 | -18.173 |
+|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 274.797 | -15.748 | 0.718 | -- | -- | -- |
 | **UCC** |274.785 | -15.747 | 0.721 | -0.868 | -1.207 | -27.241 |
 
 
@@ -80,8 +80,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 3356](https://ucc.ar/_clusters/lisc3356/)| 98 | 274.787 | -15.751 | 0.72 | -0.868 | -1.205 | -27.241 |
-|[CWWDL 14165](https://ucc.ar/_clusters/cwwdl14165/)| 95 | 274.79 | -15.751 | 0.721 | -0.864 | -1.2 | -27.241 |
+|[LISC 3356](/_clusters/lisc3356/)| 98 | 274.787 | -15.751 | 0.72 | -0.868 | -1.205 | -27.241 |
+|[CWWDL 14165](/_clusters/cwwdl14165/)| 95 | 274.79 | -15.751 | 0.721 | -0.864 | -1.2 | -27.241 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=274.785,-15.747" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=274.785%20-15.747&output=json&radius=5&userEntry=ubc97" target="_blank">Simbad</a></p>
 
@@ -99,9 +99,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         |     :---:      |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.16, DMNN=10.69, AgeNN=8.08` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.518, Dist=1348, logage=7.705, [Fe/H]=-0.019` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract) | `Dist=1325, logAgeNN=8.14` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract) | `AV50=1.234, MOD50=10.588, logAge50=8.0` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) | `AV50=1.89, dMod50=10.11, logAge50=8.21, [Fe/H]50=-0.75` |
+| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=1325, logAgeNN=8.14` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.234, MOD50=10.588, logAge50=8.0` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.89, dMod50=10.11, logAge50=8.21, [Fe/H]50=-0.75` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-10-31</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

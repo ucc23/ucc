@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C/abstract) | 59.821 | 47.401 | 0.598 | 0.671 | -2.92 | -- |
+|[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 59.821 | 47.401 | 0.598 | 0.671 | -2.92 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
 | **UCC** |59.831 | 47.395 | 0.609 | 0.607 | -2.967 | -14.324 |
 
@@ -77,8 +77,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3753](https://ucc.ar/_clusters/cwwdl3753/)| 85 | 59.829 | 47.395 | 0.591 | 0.604 | -2.986 | -14.324 |
-|[Teutsch 56](https://ucc.ar/_clusters/teutsch56/)| 89 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
+|[Teutsch 56](/_clusters/teutsch56/)| 89 | 59.833 | 47.395 | 0.603 | 0.595 | -2.986 | -14.207 |
+|[CWWDL 3753](/_clusters/cwwdl3753/)| 85 | 59.829 | 47.395 | 0.591 | 0.604 | -2.986 | -14.324 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.831,+47.395" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.831%2047.395&output=json&radius=5&userEntry=ubc53" target="_blank">Simbad</a></p>
 
@@ -97,4 +97,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.67, DMNN=11.14, AgeNN=8.68` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>

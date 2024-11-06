@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | 180.143 | -60.497 | 0.293 | -6.41 | 0.73 | -14.675 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 180.143 | -60.497 | 0.293 | -6.41 | 0.73 | -14.675 |
 | **UCC** |180.173 | -60.509 | 0.309 | -6.347 | 0.686 | -19.822 |
 
 
@@ -76,8 +76,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0576](https://ucc.ar/_clusters/oc0576/)| 98 | 180.173 | -60.509 | 0.308 | -6.343 | 0.686 | -19.822 |
-|[UBC 282](https://ucc.ar/_clusters/ubc282/)| 94 | 180.158 | -60.491 | 0.305 | -6.346 | 0.686 | -- |
+|[OC 0576](/_clusters/oc0576/)| 98 | 180.173 | -60.509 | 0.308 | -6.343 | 0.686 | -19.822 |
+|[UBC 282](/_clusters/ubc282/)| 94 | 180.158 | -60.491 | 0.305 | -6.346 | 0.686 | -- |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=180.173,-60.509" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=180.173%20-60.509&output=json&radius=5&userEntry=cwwdl2764" target="_blank">Simbad</a></p>
 
@@ -93,7 +93,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Fundamental parameters |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C/abstract) | `logAge=7.73, Z=0.42` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.73, Z=0.42` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2023-11-07</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>
