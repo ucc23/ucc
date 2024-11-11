@@ -10,6 +10,7 @@ permalink: /faq/
 - [How do I use the search bar?](#how-do-i-use-the-search-bar)
 - [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
 - [How are probable duplicates identified?](#how-are-probable-duplicates-identified)
+- [Where can I see the latest changes?](#where-can-i-see-the-latest-changes)
 
 
 ## How can I cite the UCC?
@@ -115,3 +116,9 @@ else parallax is nan
 where `parallax` is the associated parallax of the OC, and `xy_r, plx_r, pm_r`
 are the parallax-based thresholds for each component (in arcmin, mas, and
 mas/yr; respectively).
+
+
+## Where can I see the latest changes?
+
+The latest changes to the UCC can be seen in the
+<a data-umami-event="changelog" href="/../changelog">Changelog</a>.
