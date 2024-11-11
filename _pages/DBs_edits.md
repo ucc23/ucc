@@ -310,8 +310,15 @@ Data from Table 1 in the article lists 20 'Casado_' clusters.
 [Jaehnig et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J/abstract); _Membership Lists for 431 Open Clusters in Gaia DR2 Using
 Extreme Deconvolution Gaussian Mixture Models_
 
-Data from Table 1 in the article lists 11 'XDOCC-' clusters. Changed 'XDOCC-0Y' to
-'XDOCC-Y' to match HUNT23.
+Changes to names:
+
+* NGC 1976 --> Trapezium
+* NGC 2451 --> NGC 2451B
+* Changed 'XDOCC-0Y' to 'XDOCC-Y' to match HUNT23
+
+Removed entries pointing to a GC:
+
+* Berkeley 42 --> NGC 6749
 
 
 ### 19. SANTOS21
