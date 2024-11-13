@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <head>
 
     <!-- Umami -->
-    <head><script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
+    <head>
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <!-- <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ 
+    site.description }}</title> -->
+    <title>{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <!--<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />-->
   </head>
 
   <body>
@@ -21,7 +22,6 @@
         <div class="container">
           <header class="masthead clearfix">
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" width="65" height="65" alt="{{ site.title }}" /></a>
-            <!-- <a href="{{ site.baseurl }}/"><img src="/images/UCC_icon.webp" width="65" height="65" alt="{{ site.title }}" /></a> -->
 
             <div class="site-info">
               <h1 class="site-name"><a data-umami-event="ucc_base" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -30,7 +30,7 @@
 
             <nav>
               <a data-umami-event="database" href="{{ site.baseurl }}/database">DATABASE</a>
-              <a data-umami-event="changelog" href="{{ site.baseurl }}/aitoff">MAP</a>
+              <a data-umami-event="map" href="{{ site.baseurl }}/aitoff">MAP</a>
               <a data-umami-event="faq" href="{{ site.baseurl }}/faq">FAQ</a>
             </nav>
           </header>
