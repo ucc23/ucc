@@ -1,5 +1,5 @@
 // Set up dimensions and projection
-const width = 800, height = 400;
+const width = 740, height = 400;
 
 const projection = d3.geoAitoff()
     .rotate([0, 0]) 
@@ -26,7 +26,8 @@ const svg = d3.select("#plot")
 
 // Define a graticule generator for the grid lines
 const graticule = d3.geoGraticule()
-    .step([15, 15]); // Step size for grid lines: 15° intervals
+    .step([29.99, 15]); // Step size for grid lines: 30 LON, 15 LAT
+    // If I use 30 exactly in LON the last grid line for 180 is not drawn
 
 // Draw the graticule (grid) on the projection
 svg.append("path")
@@ -47,9 +48,9 @@ const tooltip = d3.select("#plot")
     .style("border", "1px solid #333")
     .style("border-radius", "4px");
 
-// Label RA (Right Ascension) along the top edge
+// Label LON along middle
 for (let lon = 0; lon < 360; lon += 30) {  // Label every 30 degrees
-    const [x, y] = projection([lon, 0]);  // Projection at declination 0 (equator)
+    const [x, y] = projection([lon, 0]);  // Projection at latitude 0 (equator)
     svg.append("text")
         .attr("x", x)
         .attr("y", y - 10)
@@ -59,19 +60,26 @@ for (let lon = 0; lon < 360; lon += 30) {  // Label every 30 degrees
         .text(`${lon}°`);
 }
 
-// Label Dec (Declination) along both sides
+// Label LAT
 for (let lat = -90; lat <= 90; lat += 30) {  // Label every 30 degrees
-    const [x1, y1] = projection([0, lat]);   // Projection at RA 0
-    const [x2, y2] = projection([180, lat]); // Projection at RA 180 (opposite side)
+    const [x, y] = projection([181, lat]); // Projection at left side
 
     svg.append("text")
-        .attr("x", x2 + 15)  // Right side
-        .attr("y", y2 + 3)
+        .attr("x", x - 25)  // Left side
+        .attr("y", y + 3)
         .attr("text-anchor", "start")
         .attr("fill", "#333")
         .style("font-size", "10px")
         .text(`${lat}°`);
 }
+
+// Append title text element
+const title = svg.append("text")
+    .attr("x", width / 2)
+    .attr("y", 20) // Position at the top of the plot
+    .attr("text-anchor", "middle")
+    .attr("font-size", "16px")
+    .attr("fill", "black");
 
 // Function to load and display data with specified L range
 function loadAndDisplayData(minD, maxD) {
@@ -85,7 +93,7 @@ function loadAndDisplayData(minD, maxD) {
 
             // Filter and map data to include only entries within [minD, maxD]
             const points = data
-                .filter(d => d.P >= minD && d.P <= maxD) // Use specified minD and maxD
+                .filter(d => d.P >= minD && d.P <= maxD) // Filter using specified minD and maxD
                 .map(d => {
                     const name0 = d.F.split(';')[0];
                     return {
@@ -97,7 +105,13 @@ function loadAndDisplayData(minD, maxD) {
                         membs: d.M,
                         coordinates: projection([d.L, d.B])
                     };
-                });
+                })
+                .sort((a, b) => b.dist - a.dist) // Sort by 'dist' in descending order
+                .slice(0, 1000) // Select top 1000 entries with largest 'dist'
+                .sort((a, b) => b.membs - a.membs); // Sort by 'membs' in descending order
+
+            // Update title with number of points
+            title.text(`N=${points.length}`);
 
             // Find the min and max distance for color normalization
             const minDist = d3.min(points, d => d.dist);
