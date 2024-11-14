@@ -1,9 +1,14 @@
 // Set up dimensions and projection
-const width = 740, height = 400;
+// const width = 740;
+const plotDiv = document.getElementById("plot");
+// const width = plotDiv.clientWidth; 
+const width = plotDiv.offsetWidth;  // Get the width of the div
+
+const height = width/2;
 
 const projection = d3.geoAitoff()
     .rotate([0, 0]) 
-    .scale(100)
+    .scale(height / 4)
     .translate([width / 2, height / 2]);
 
 const zoom = d3.zoom()
@@ -82,7 +87,7 @@ const title = svg.append("text")
     .attr("fill", "black");
 
 // Function to load and display data with specified L range
-function loadAndDisplayData(minD, maxD) {
+function loadAndDisplayData(minD, maxD, maxN) {
     // Fetch and decompress the gzipped JSON file
     fetch("/../clusters.json.gz")
         .then(response => response.arrayBuffer())
@@ -107,7 +112,7 @@ function loadAndDisplayData(minD, maxD) {
                     };
                 })
                 .sort((a, b) => b.dist - a.dist) // Sort by 'dist' in descending order
-                .slice(0, 1000) // Select top 1000 entries with largest 'dist'
+                .slice(0, maxN) // Select top maxN entries with largest 'dist'
                 .sort((a, b) => b.membs - a.membs); // Sort by 'membs' in descending order
 
             // Update title with number of points
@@ -171,11 +176,20 @@ loadAndDisplayData(0, 500);
 document.getElementById("minD").addEventListener("input", () => {
     const minD = parseFloat(document.getElementById("minD").value);
     const maxD = parseFloat(document.getElementById("maxD").value);
-    loadAndDisplayData(minD, maxD);  // Update plot with new minD and maxD
+    const maxN = parseFloat(document.getElementById("maxN").value);
+    loadAndDisplayData(minD, maxD, maxN);  // Update plot with new values
 });
 
 document.getElementById("maxD").addEventListener("input", () => {
     const minD = parseFloat(document.getElementById("minD").value);
     const maxD = parseFloat(document.getElementById("maxD").value);
-    loadAndDisplayData(minD, maxD);  // Update plot with new minD and maxD
+    const maxN = parseFloat(document.getElementById("maxN").value);
+    loadAndDisplayData(minD, maxD, maxN);  // Update plot with new values
+});
+
+document.getElementById("maxN").addEventListener("input", () => {
+    const minD = parseFloat(document.getElementById("minD").value);
+    const maxD = parseFloat(document.getElementById("maxD").value);
+    const maxN = parseFloat(document.getElementById("maxN").value);
+    loadAndDisplayData(minD, maxD, maxN);  // Update plot with new values
 });

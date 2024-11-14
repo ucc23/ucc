@@ -4,10 +4,11 @@ title:
 permalink: /database/
 ---
 
+The UCC currently contains <!-- NT1 -->16179<!-- NT2 --> objects compiled
+from <!-- ND1 -->40<!-- ND2 --> databases, and it is regularly updated.
 The latest full version of the UCC catalogue can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>
-in compressed `csv` format. It currently contains <!-- NT1 -->16179<!-- NT2 --> objects
-and is updated regularly.
+in compressed `csv` format.
 
 ![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
