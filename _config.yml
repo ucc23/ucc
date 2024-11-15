@@ -59,8 +59,8 @@ sass:
   style: :compressed
 
 # Use the following plug-ins
-# plugins:
-  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   # - jekyll-seo-tag
   # - jekyll-paginate
