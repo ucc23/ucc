@@ -1,7 +1,5 @@
 // Set up dimensions and projection
-// const width = 740;
 const plotDiv = document.getElementById("plot");
-// const width = plotDiv.clientWidth; 
 const width = plotDiv.offsetWidth;  // Get the width of the div
 
 const height = width/2;
