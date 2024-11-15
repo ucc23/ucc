@@ -75,4 +75,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  # - _clusters # Un-comment to exclude for faster processing in a local build
+  # Un-comment to exclude for faster processing in a local build
+  # - _clusters
+  # - _pages/tables
