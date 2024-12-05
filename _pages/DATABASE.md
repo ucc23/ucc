@@ -33,9 +33,10 @@ df = pd.read_parquet('UCC_members.parquet.gz')
 Below are tables that group the OCs in the UCC by various criteria.
 
 - [Catalogues in the UCC](#catalogues-in-the-ucc)
+- [Number of members](#number-of-members)
 - [C3 classification](#c3-classification)
-- [OCs per quadrants](#ocs-per-quadrants)
 - [Duplicated OCs](#duplicated-ocs)
+- [OCs per quadrants](#ocs-per-quadrants)
 
 &nbsp;
 
@@ -76,6 +77,23 @@ can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 <!-- End table 1 -->
 
 
+### Number of members
+
+This table groups the OCs in the UCC in ranges of their _estimated number of members_
+parameter `N_50`. This number is obtained identifying as members those stars with
+`P>50%`, where `P` is the membership probability assigned by the [fastMP](https://asteca.readthedocs.io/en/latest/apidocs/asteca/asteca.membership.html#asteca.membership.Membership.fastmp) method.
+
+<!-- Begin table 5 -->
+
+| N_50 |   N  | N_50 |   N  |
+| :--: | :--: | :--: | :--: |
+| == 0 | [3531](/N50_0_table) | (0, 25] | [1674](/N50_25_table) |
+| (25, 50] | [4958](/N50_50_table) | (50, 75] | [1979](/N50_75_table) |
+| (75, 100] | [1147](/N50_100_table) | (100, 250] | [1979](/N50_250_table) |
+| (250, 500] | [595](/N50_500_table) | (500, 1000] | [225](/N50_1000_table) |
+| (1000, 2000] | [76](/N50_2000_table) | > 2000 | [15](/N50_inf_table) |
+
+<!-- End table 5 -->
 
 
 ### C3 classification
@@ -98,11 +116,29 @@ This table shows the OCs in the UCC grouped by their [C3 class](/faq/#what-are-t
 
 
 
+### Duplicated OCs
+
+This table groups the OCs in the UCC by the number of probable duplicates assigned,
+as explained [here](/faq/#how-are-probable-duplicates-identified).
+
+<!-- Begin table 4 -->
+
+| Probable duplicates |   N  |
+|---------------------| :--: |
+|      N_dup = 1      | [3234](/Nd1_table) |
+|      N_dup = 2      | [778](/Nd2_table) |
+|      N_dup = 3      | [186](/Nd3_table) |
+|      N_dup = 4      | [25](/Nd4_table) |
+|     N_dup >= 5      | [6](/Nd5_table) |
+
+<!-- End table 4 -->
+
+
+
 ### OCs per quadrants
 
 This table groups the OCs in the UCC by their position in the Galactic quadrants,
 given by their `(lon, lat)` coordinates.
-
 
 <!-- Begin table 3 -->
 
@@ -118,22 +154,3 @@ given by their `(lon, lat)` coordinates.
 | Q4N: 4th quadrant, negative latitude | [270, 360) | (0, -90]   | [2541](/Q4N_table) |
 
 <!-- End table 3 -->
-
-
-### Duplicated OCs
-
-This table groups the OCs in the UCC by the number of probable duplicates assigned,
-as explained [here](/faq/#how-are-probable-duplicates-identified).
-
-
-<!-- Begin table 4 -->
-
-| Probable duplicates |   N  |
-|---------------------| :--: |
-|      N_dup = 1      | [3234](/Nd1_table) |
-|      N_dup = 2      | [778](/Nd2_table) |
-|      N_dup = 3      | [186](/Nd3_table) |
-|      N_dup = 4      | [25](/Nd4_table) |
-|     N_dup >= 5      | [6](/Nd5_table) |
-
-<!-- End table 4 -->
