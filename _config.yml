@@ -79,3 +79,4 @@ exclude:
   - CNAME
   # Un-comment to exclude for faster processing in a local build
   # - _clusters
+  # - _pages/tables
