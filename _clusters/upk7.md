@@ -61,12 +61,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UPK%207%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=upk7" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UPK%207%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=upk7" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S) | 276.772 | -17.371 | -- | -0.28 | -5.87 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 276.781 | -17.401 | 1.26 | -0.294 | -5.865 | -- |
@@ -77,27 +77,53 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 276.789 | -17.327 | 1.25 | -- | -- | -- |
 | **UCC** |276.796 | -17.33 | 1.249 | -0.347 | -5.801 | -6.315 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=276.796,-17.33" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.796%20-17.33&output=json&radius=5&userEntry=upk7" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=276.796,-17.33" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=276.796%20-17.33&output=json&radius=5&userEntry=upk7" target="_blank">Simbad</a></p>
 
-### Plots for selected probable members
+### Estimated members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7.webp)
+<div class="carousel">
+<input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide2">
+<input type="radio" name="radio-btn" id="slide3">
+<div class="slides">
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7.webp" alt="UPK 7 UCC">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7_HUNT23.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7_HUNT23.webp" alt="UPK 7 HUNT23">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7_CANTAT20.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/upk7_CANTAT20.webp" alt="UPK 7 CANTAT20">
+</a>
+</div>
+</div>
+<div class="indicators">
+<label for="slide1">1</label>
+<label for="slide2">2</label>
+<label for="slide3">3</label>
+</div>
+</div>
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q1N/blob/master/notebooks/upk7.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
-### Fundamental parameters in literature (not exhaustive)
+### Fundamental parameters
 
-| Reference |  Fundamental parameters |
+| Reference |  Values |
 | :---         |     :---:      |
 | [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S) | `d_pc=769, log(age)=8.4` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.89, DMNN=9.47, AgeNN=8.46` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.066, Dist=768, logage=8.106, [Fe/H]=0.084` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=765, logAgeNN=8.48` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.45, logAge=8.45` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.141, MOD50=9.398, logAge50=8.009` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.141, diffAV50=1.025, MOD50=9.398, logAge50=8.009` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.0, dMod50=9.18, logAge50=8.72, [Fe/H]50=-0.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

@@ -61,12 +61,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22King%207%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=king7" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22King%207%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=king7" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 59.778 | 51.782 | -- | -2.56 | 1.26 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 59.775 | 51.782 | -- | -1.688 | 1.318 | -- |
@@ -78,27 +78,53 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 59.783 | 51.783 | 0.3 | -- | -- | -- |
 | **UCC** |59.791 | 51.785 | 0.316 | 1.12 | -1.19 | -9.85 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=59.791,+51.785" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.791%2051.785&output=json&radius=5&userEntry=king7" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=59.791,+51.785" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=59.791%2051.785&output=json&radius=5&userEntry=king7" target="_blank">Simbad</a></p>
 
-### Plots for selected probable members
+### Estimated members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7.webp)
+<div class="carousel">
+<input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide2">
+<input type="radio" name="radio-btn" id="slide3">
+<div class="slides">
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7.webp" alt="King 7 UCC">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7_HUNT23.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7_HUNT23.webp" alt="King 7 HUNT23">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7_CANTAT20.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/king7_CANTAT20.webp" alt="King 7 CANTAT20">
+</a>
+</div>
+</div>
+<div class="indicators">
+<label for="slide1">1</label>
+<label for="slide2">2</label>
+<label for="slide3">3</label>
+</div>
+</div>
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q2N/blob/master/notebooks/king7.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
-### Fundamental parameters in literature (not exhaustive)
+### Fundamental parameters
 
-| Reference |  Fundamental parameters |
+| Reference |  Values |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.249, distance=2628, log_age=8.85` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=1.092, Dmod=11.149, logt=8.63` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=3.18, DMNN=12.51, AgeNN=8.35` |
 | [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | `Fe/H=-0.13` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.548, Dist=2594, logage=8.511, [Fe/H]=-0.039` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.185, MOD50=12.309, logAge50=8.28` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.185, diffAV50=2.621, MOD50=12.309, logAge50=8.28` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=4.25, dMod50=12.61, logAge50=8.22, [Fe/H]50=0.16` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

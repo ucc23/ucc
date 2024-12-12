@@ -61,38 +61,38 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22DBSB%20115%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=dbsb115" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22DBSB%20115%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=dbsb115" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 254.812 | -40.12 | -- | -5.6 | -3.21 | -- |
 | **UCC** |254.745 | -40.178 | 0.579 | -0.248 | -1.382 | -15.633 |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=254.745,-40.178" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=254.745%20-40.178&output=json&radius=5&userEntry=dbsb115" target="_blank">Simbad</a></p>
 
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+### Estimated members
 
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 4046](/_clusters/cwnu4046/)| 60 | 254.735 | -40.204 | 0.565 | -0.209 | -1.378 | -14.97 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=254.745,-40.178" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=254.745%20-40.178&output=json&radius=5&userEntry=dbsb115" target="_blank">Simbad</a></p>
-
-### Plots for selected probable members
-
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4P/main/plots/dbsb115.webp)
+![DBSB 115](https://raw.githubusercontent.com/ucc23/Q4P/main/plots/dbsb115.webp)
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4P/blob/master/notebooks/dbsb115.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
-### Fundamental parameters in literature (not exhaustive)
+### Fundamental parameters
 
-| Reference |  Fundamental parameters |
+| Reference |  Values |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.249, distance=2628, log_age=7.38` |
 
+### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
+
+| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 4046](/_clusters/cwnu4046/)| 60 | 254.735 | -40.204 | 0.565 | -0.209 | -1.378 | -14.97 |
+
+
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

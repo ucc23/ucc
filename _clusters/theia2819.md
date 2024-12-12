@@ -61,41 +61,60 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Theia%202819%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=theia2819" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Theia%202819%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=theia2819" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 214.683 | -62.665 | 0.457 | -3.91 | -2.55 | -- |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 214.601 | -62.643 | 0.457 | -- | -- | -- |
 | **UCC** |214.648 | -62.657 | 0.471 | -3.912 | -2.536 | -- |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=214.648,-62.657" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=214.648%20-62.657&output=json&radius=5&userEntry=theia2819" target="_blank">Simbad</a></p>
 
-### Probable <a href="https://ucc.ar/faq#probable-duplicates" title="See FAQ for definition of proximity">duplicates</a> and clusters in proximity
+### Estimated members
 
-| Cluster | P (%) | RA    | DEC   | plx   | pmRA  | pmDE  | Rv    |
+<div class="carousel">
+<input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide2">
+<div class="slides">
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/theia2819.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/theia2819.webp" alt="Theia 2819 UCC">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/theia2819_HUNT23.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/theia2819_HUNT23.webp" alt="Theia 2819 HUNT23">
+</a>
+</div>
+</div>
+<div class="indicators">
+<label for="slide1">1</label>
+<label for="slide2">2</label>
+</div>
+</div>
+
+
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
+
+
+### Fundamental parameters
+
+| Reference |  Values |
+| :---         |     :---:      |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.066, diffAV50=2.234, MOD50=11.506, logAge50=7.567` |
+| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.77, dMod50=11.53, logAge50=8.32, [Fe/H]50=0.49` |
+
+### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
+
+| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[LISC 3170](/_clusters/lisc3170/)| 95 | 214.646 | -62.657 | 0.468 | -3.914 | -2.539 | -- |
 |[UFMG 60](/_clusters/ufmg60/)| 78 | 214.654 | -62.655 | 0.464 | -3.875 | -2.528 | -4.997 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=214.648,-62.657" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=214.648%20-62.657&output=json&radius=5&userEntry=theia2819" target="_blank">Simbad</a></p>
-
-### Plots for selected probable members
-
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/theia2819.webp)
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4N/blob/master/notebooks/theia2819.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters in literature (not exhaustive)
-
-| Reference |  Fundamental parameters |
-| :---         |     :---:      |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.066, MOD50=11.506, logAge50=7.567` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.77, dMod50=11.53, logAge50=8.32, [Fe/H]50=0.49` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-06</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

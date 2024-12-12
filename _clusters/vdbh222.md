@@ -61,12 +61,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22VDBH%20222%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=vdbh222" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22VDBH%20222%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=vdbh222" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 259.688 | -38.295 | -- | -1.31 | -2.92 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 259.689 | -38.288 | -- | -- | -- | -- |
@@ -75,23 +75,49 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 259.657 | -38.433 | 0.428 | -- | -- | -- |
 | **UCC** |259.693 | -38.287 | 0.134 | -1.844 | -3.167 | -112.763 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=259.693,-38.287" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=259.693%20-38.287&output=json&radius=5&userEntry=vdbh222" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=259.693,-38.287" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=259.693%20-38.287&output=json&radius=5&userEntry=vdbh222" target="_blank">Simbad</a></p>
 
-### Plots for selected probable members
+### Estimated members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222.webp)
+<div class="carousel">
+<input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide2">
+<input type="radio" name="radio-btn" id="slide3">
+<div class="slides">
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222.webp" alt="VDBH 222 UCC">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222_HUNT23.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222_HUNT23.webp" alt="VDBH 222 HUNT23">
+</a>
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222_CANTAT20.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh222_CANTAT20.webp" alt="VDBH 222 CANTAT20">
+</a>
+</div>
+</div>
+<div class="indicators">
+<label for="slide1">1</label>
+<label for="slide2">2</label>
+<label for="slide3">3</label>
+</div>
+</div>
 
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q4N/blob/master/notebooks/vdbh222.ipynb" target="_blank">Colab</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
-### Fundamental parameters in literature (not exhaustive)
+### Fundamental parameters
 
-| Reference |  Fundamental parameters |
+| Reference |  Values |
 | :---         |     :---:      |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.666, distance=7813, log_age=7.9` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.849, MOD50=11.685, logAge50=7.158` |
+| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.849, diffAV50=2.305, MOD50=11.685, logAge50=7.158` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.96, dMod50=10.98, logAge50=7.01, [Fe/H]50=-0.48` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

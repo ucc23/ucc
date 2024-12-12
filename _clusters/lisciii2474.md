@@ -65,31 +65,31 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22LISC-III%202474%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=lisciii2474" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22LISC-III%202474%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=lisciii2474" target="_blank">Simbad</a></p>
 
 
-### Position in UCC and published works (not exhaustive)
+### Positions
 
-| Reference    | RA    | DEC   | plx  | pmRA  | pmDE   |  Rv  |
+| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | 98.104 | 32.897 | 0.461 | 0.217 | -2.256 | -- |
 | **UCC** |98.11 | 32.913 | 0.419 | 0.264 | -2.158 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a href="https://cdsportal.u-strasbg.fr/?target=98.11,+32.913" target="_blank">CDS</a> | <a href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.11%2032.913&output=json&radius=5&userEntry=lisciii2474" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=98.11,+32.913" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=98.11%2032.913&output=json&radius=5&userEntry=lisciii2474" target="_blank">Simbad</a></p>
 
-### Plots for selected probable members
+### Estimated members
 
-![CLUSTER](https://raw.githubusercontent.com/ucc23/Q3P/main/plots/lisciii2474.webp)
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a href="https://colab.research.google.com/github/UCC23/Q3P/blob/master/notebooks/lisciii2474.ipynb" target="_blank">Colab</a></p>
+![LISC-III 2474](https://raw.githubusercontent.com/ucc23/Q3P/main/plots/lisciii2474.webp)
 
 
-### Fundamental parameters in literature (not exhaustive)
+> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
-| Reference |  Fundamental parameters |
+
+### Fundamental parameters
+
+| Reference |  Values |
 | :---         |     :---:      |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C) | `E(V-I)=0.3286, m-M=12.4138, Z=0.008, fbin=0.5` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-11-05</i></font>
+<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>

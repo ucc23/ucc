@@ -4,33 +4,15 @@ title:
 permalink: /database/
 ---
 
-The UCC currently contains <!-- NT1 -->16179<!-- NT2 --> objects compiled
-from <!-- ND1 -->40<!-- ND2 --> databases, and it is regularly updated.
-The latest full version of the UCC catalogue can be found in its
-<a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>
-in compressed `csv` format.
-
 ![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
-The compressed `parquet` file with the estimated members for the UCC can also be
-downloaded from the same repository. To extract the data simply use the
-[pandas](https://pandas.pydata.org/) Python package:
+The UCC currently contains **<!-- NT1 -->16179<!-- NT2 -->** objects compiled
+from **<!-- ND1 -->40<!-- ND2 -->** databases and is regularly updated.
+The latest version of the UCC catalogue can be found in its
+<a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>.
 
-{% raw %}
-```
-df = pd.read_parquet('UCC_members.parquet.gz')
-```
-{% endraw %}
-
-
-&nbsp;
-
----
-
-&nbsp;
-
-
-Below are tables that group the OCs in the UCC by various criteria.
+Below, we group the OCs in the UCC according to various criteria to facilitate easy
+exploration.
 
 - [Catalogues in the UCC](#catalogues-in-the-ucc)
 - [Number of members](#number-of-members)
@@ -40,6 +22,9 @@ Below are tables that group the OCs in the UCC by various criteria.
 
 &nbsp;
 
+---
+
+&nbsp;
 
 
 ### Catalogues in the UCC

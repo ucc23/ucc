@@ -4,6 +4,7 @@ title:
 permalink: /faq/
 ---
 
+- [What is the UCC?](#what-is-the-ucc)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
@@ -13,10 +14,19 @@ permalink: /faq/
 - [Where can I see the latest changes?](#where-can-i-see-the-latest-changes)
 
 
+## What is the UCC?
+
+The acronym **UCC** stands for `Unified Cluster Catalogue`. It is the largest catalogue
+of [open clusters](https://en.wikipedia.org/wiki/Open_cluster) in existence. It consists of comprehensive and homogeneous data
+for an ever expanding number of entries, taken from the latest published articles
+combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
+
+
 ## How can I cite the UCC?
 
-If you used the UCC please reference its original
-<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">article</a>:
+If you found the UCC useful for your research, please reference its original article
+<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
+et al. (2023)</a>:
 
 {% raw %}
 ```

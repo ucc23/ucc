@@ -92,6 +92,15 @@ Removed entries pointing to a GC:
 * berkeley42 (NGC 6749)
 * lynga7 (BH 184)
 
+The article says that: "_also includes our 48 newly discovered and
+hitherto unknown poor open clusters_" but the CDS table lists 54 named 'LP_XX'
+were XX goes from 01 to 55 (LP 03 is not present in the Vizier table). The last six
+entries are named '50A, 51A, 52A, 53A, 54A, 55A' so these are probably from a previous
+article.
+
+These entries share naming convention (LP) with 
+Liu & Pang (2019) presented their new OCs with no formal ID assigned (only numbers)
+
 
 ### 3. CASTRO18
 
@@ -183,9 +192,12 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/627/A35)
 
 [Liu & Pang 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L/abstract); _A Catalog of Newly Identified Star Clusters in Gaia DR2_
 
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/245/32) table contains 76 clusters with no acronym given. Added 'FoF_' to
-match HUNT23.
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/245/32) table contains 76 clusters with no acronym given. Neither Table 1 nor
+3 in Vizier assign and ID to the entries, only numbers. They do describe the ID columns
+"Friend of Friend identifier". Also, in the article Table 1 lists the ID column as
+'FoF ID'.
 
+Added 'FoF_' to the entries' IDs. This also matches the HUNT23 denomination.
 
 
 ### 8. FERREIRA19
@@ -326,8 +338,10 @@ Removed entries pointing to a GC:
 [Santos-Silva et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S/abstract); _Canis Major OB1 stellar group contents revealed by
 Gaia_
 
-Data from Table 1 in the article lists 5 'CMa-' clusters. This table lists two values
-for each fundamental parameter.
+Data from Table 2 in the article lists 15 'CMa-' clusters (Vizier has no entries for
+the tables). This table lists two values for each fundamental parameter.
+
+Contains two 'FOF' clusters.
 
 
 ### 20. TARRICQ22
@@ -368,13 +382,13 @@ Replaced '---' with '' for RV values.
 Clusters within 1.2 kpc of the Sun_
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/262/7) table contains 270 new 'CWNU_' clusters. Removed Theia entries.
-Changed 'LP_' to 'FoF_' to match HUNT23, LIUPANG19, TARRICQ22
 
 Changes to names:
 
 * ESO_489-01 --> ESO_489_01
 * vdBergh  --> VDB per CDS recommendation
 * Sigma_Ori --> Sigma_Orionis
+* Changed 'LP_' to 'FoF_'
 
 
 ### 24. HAO22
@@ -578,7 +592,6 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/663/A131
 
 [He et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H/abstract); _Survey for Distant Stellar Aggregates in the Galactic Disk:
 Detecting 2000 Star Clusters and Candidates, along with the Dwarf Galaxy IC 10_
- 
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/267/34) table lists 2085 clusters, 28 of which are flagged as 'GCC'
 (GC candidate). These were removed leaving 2057 entries.
