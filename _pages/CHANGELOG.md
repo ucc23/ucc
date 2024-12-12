@@ -9,16 +9,6 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 
 
 
-## Version [2412XX]()
-
-- Added 'LP' as the primary denomination to the 'FoF' [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L)
-  clusters (can not use LP)
-
-- Added [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) and [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) plots
-- Column name change: `plx` -> `Plx` in the UCC full catalogue
-- Added `BH 121` as an alternative name for `VDBH 121`
-
-
 ## Version [241106](https://zenodo.org/records/14047628)
 
 - Added [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D).
