@@ -70,7 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Castro-Ginard et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..35C) | 16.47 | 59.638 | 0.466 | -1.213 | -0.462 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 16.487 | 59.632 | 0.471 | -1.166 | -0.406 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 16.456 | 59.635 | 0.405 | -1.183 | -0.472 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 16.456 | 59.635 | 0.405 | -1.183 | -0.472 | -50.455 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 16.463 | 59.63 | 0.476 | -1.201 | -0.489 | -51.507 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 16.38 | 59.636 | 0.478 | -- | -- | -- |
 | **UCC** |16.485 | 59.668 | 0.474 | -1.163 | -0.414 | -38.459 |
@@ -128,4 +128,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

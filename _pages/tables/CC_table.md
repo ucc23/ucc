@@ -1707,6 +1707,7 @@ permalink: /CC_table/
 | [S284](/_clusters/s284/) | 211.13 | -1.31 | 100.88 | 1.01 | 0.2 | 25 | 4.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [S285](/_clusters/s285/) | 213.73 | 0.6 | 103.76 | -0.44 | 0.159 | 9 | 7.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 1](/_clusters/sai1/) | 116.18 | -10.58 | 2.1 | 51.72 | 0.198 | 45 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 38](/_clusters/sai38/) | 159.35 | 2.58 | 74.02 | 47.39 | 0.259 | 39 | 1.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 49](/_clusters/sai49/) | 159.51 | 8.59 | 81.61 | 50.79 | 0.233 | 0 | 3.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 90](/_clusters/sai90/) | 260.02 | -1.83 | 127.02 | -41.77 | 0.412 | 50 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Saloranta 19](/_clusters/saloranta19/) | 98.03 | -2.56 | 329.98 | 51.82 | 0.154 | 0 | 1.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |

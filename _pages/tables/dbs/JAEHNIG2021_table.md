@@ -428,14 +428,14 @@ permalink: /JAEHNIG2021_table/
 | [VDBH 166](/_clusters/vdbh166/) | 320.78 | 6.41 | 222.72 | -52.27 | 0.552 | 42 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 66](/_clusters/vdbh66/) | 276.0 | -3.01 | 141.31 | -54.72 | 0.128 | 448 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 369 | 18.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC-10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC-1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.757 | 0 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-4](/_clusters/xdocc4/) | 241.56 | 2.1 | 118.83 | -24.17 | 0.299 | 22 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-5](/_clusters/xdocc5/) | 247.81 | 1.29 | 121.75 | -29.9 | 0.601 | 44 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.264 | 43 | 13.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC-8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.733 | 60 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.799 | 31 | 30.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.757 | 0 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 4](/_clusters/xdocc4/) | 241.56 | 2.1 | 118.83 | -24.17 | 0.299 | 22 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 5](/_clusters/xdocc5/) | 247.81 | 1.29 | 121.75 | -29.9 | 0.601 | 44 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.264 | 43 | 13.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.733 | 60 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.799 | 31 | 30.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |

@@ -2,7 +2,7 @@
 layout: post
 title:  VDB 92
 ---
-<h3><span style="color: #808080;"><i>(vdBergh 92; VdB 92; CMa06)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(vdBergh 92; CMa 06)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/vdb92_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -70,7 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 105.975 | -11.533 | -- | -1.737 | 2.196 | 17.5 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 106.038 | -11.475 | 0.842 | -4.54 | 1.618 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 106.043 | -11.488 | 0.834 | -4.539 | 1.607 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 106.043 | -11.488 | 0.834 | -4.539 | 1.607 | 27.58 |
 |[Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | 106.11 | -11.45 | 0.85 | -4.2 | 1.52 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 106.186 | -11.333 | 0.866 | -3.997 | 1.506 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 106.037 | -11.442 | 0.875 | -4.385 | 1.583 | 22.272 |
@@ -126,4 +126,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.16, dMod50=10.25, logAge50=6.54, [Fe/H]50=-0.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

@@ -2,7 +2,7 @@
 layout: post
 title:  Dol-Dzim 4
 ---
-<h3><span style="color: #808080;"><i>(Dol Dzim 4)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/doldzim4_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -90,4 +90,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | `Fe/H=-0.47` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

@@ -1878,5 +1878,5 @@ permalink: /Q1N_table/
 | [VVV 162](/_clusters/vvv162/) | 8.91 | -1.12 | 272.42 | -21.79 | 0.354 | 24 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 163](/_clusters/vvv163/) | 10.34 | -1.47 | 273.49 | -20.7 | 0.309 | 27 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [WZ Sgr](/_clusters/wzsgr/) | 11.78 | -0.67 | 273.48 | -19.05 | 0.351 | 0 | 2.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC-8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.733 | 60 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.733 | 60 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

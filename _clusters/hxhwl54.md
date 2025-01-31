@@ -94,8 +94,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[H21OC 54](/_clusters/h21oc54/)| 77 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
 |[Theia 2649](/_clusters/theia2649/)| 67 | 106.862 | -7.667 | 0.922 | -3.942 | 1.22 | 29.306 |
 |[PHOC 4](/_clusters/phoc4/)| 59 | 106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
-|[CMa01](/_clusters/cma01/)| 57 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
+|[CMa 01](/_clusters/cma01/)| 57 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

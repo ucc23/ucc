@@ -41,7 +41,7 @@ permalink: /AC_table/
 | [Bica 361](/_clusters/bica361/) | 231.33 | -0.83 | 110.72 | -16.71 | 0.182 | 68 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Bica 588](/_clusters/bica588/) | 353.04 | 0.06 | 261.93 | -34.77 | 0.585 | 63 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Bica 6](/_clusters/bica6/) | 166.98 | -1.0 | 76.58 | 39.16 | 0.226 | 228 | 9.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CMa08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CMa 08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [COIN-Gaia 37](/_clusters/coingaia37/) | 139.33 | -0.34 | 45.38 | 58.33 | 0.999 | 45 | 22.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1029](/_clusters/cwnu1029/) | 140.27 | 1.78 | 49.03 | 59.69 | 0.892 | 62 | 12.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 102](/_clusters/cwnu102/) | 256.54 | 2.39 | 128.77 | -36.47 | 1.043 | 35 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -874,6 +874,8 @@ permalink: /AC_table/
 | [Koposov 52](/_clusters/koposov52/) | 182.74 | 0.48 | 88.46 | 26.83 | 0.222 | 479 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Koposov 63](/_clusters/koposov63/) | 186.51 | 2.52 | 92.5 | 24.57 | 0.208 | 216 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Koposov 77](/_clusters/koposov77/) | 185.96 | -4.11 | 85.96 | 21.71 | 0.183 | 28 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [Koposov 7](/_clusters/koposov7/) | 173.51 | 2.79 | 85.18 | 35.92 | 0.597 | 84 | 8.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [Koposov 82](/_clusters/koposov82/) | 190.14 | 1.04 | 92.98 | 20.67 | 0.489 | 245 | 7.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Kronberger 56](/_clusters/kronberger56/) | 74.7 | -2.57 | 307.6 | 34.88 | 0.166 | 56 | 6.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Kronberger 59](/_clusters/kronberger59/) | 79.33 | -0.02 | 308.46 | 40.12 | 0.582 | 151 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Kronberger 85](/_clusters/kronberger85/) | 250.97 | -2.84 | 119.59 | -34.77 | 0.118 | 151 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1130,7 +1132,10 @@ permalink: /AC_table/
 | [SAI 105](/_clusters/sai105/) | 270.98 | -1.28 | 137.6 | -49.92 | 0.097 | 280 | 10.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 112](/_clusters/sai112/) | 284.7 | -1.64 | 155.35 | -59.09 | 0.146 | 34 | 1.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 14](/_clusters/sai14/) | 126.9 | 0.02 | 21.5 | 62.62 | 0.227 | 204 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 23](/_clusters/sai23/) | 137.4 | 1.29 | 43.52 | 60.66 | 0.395 | 602 | 4.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 39](/_clusters/sai39/) | 159.14 | 3.27 | 74.63 | 47.98 | 0.234 | 48 | 1.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 41](/_clusters/sai41/) | 167.68 | -1.32 | 76.8 | 38.42 | 0.194 | 129 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 51](/_clusters/sai51/) | 174.42 | -0.41 | 82.51 | 33.43 | 0.397 | 88 | 2.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 88](/_clusters/sai88/) | 258.52 | -4.22 | 123.24 | -41.88 | 0.162 | 122 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 99](/_clusters/sai99/) | 264.72 | 1.49 | 134.52 | -43.41 | 0.36 | 401 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Santa 42](/_clusters/santa42/) | 127.13 | 1.9 | 22.63 | 64.45 | 0.284 | 65 | 9.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1248,5 +1253,5 @@ permalink: /AC_table/
 | [VVV 120](/_clusters/vvv120/) | 352.17 | -1.64 | 263.09 | -36.43 | 0.08 | 1 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVV 164](/_clusters/vvv164/) | 353.13 | 0.92 | 261.13 | -34.22 | 0.589 | 85 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Wit 4](/_clusters/wit4/) | 82.33 | 3.02 | 307.55 | 44.34 | 0.133 | 230 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |

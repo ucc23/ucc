@@ -1537,6 +1537,9 @@ permalink: /Q4P_table/
 | [Ryu 97](/_clusters/ryu97/) | 344.84 | 1.41 | 254.45 | -40.61 | 0.602 | 50 | 2.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ryu406](/_clusters/ryu406/) | 348.26 | 0.0 | 258.59 | -38.73 | 0.244 | 26 | 2.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 109](/_clusters/sai109/) | 275.41 | 1.75 | 145.9 | -50.8 | 0.134 | 385 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 114](/_clusters/sai114/) | 287.74 | 0.16 | 162.23 | -59.05 | 0.236 | 609 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 119](/_clusters/sai119/) | 309.07 | 0.17 | 206.06 | -62.07 | 0.309 | 23 | 0.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [SAI 120](/_clusters/sai120/) | 310.82 | 0.17 | 209.68 | -61.67 | 0.271 | 309 | 1.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 122](/_clusters/sai122/) | 318.95 | 0.0 | 225.05 | -58.81 | 0.301 | 535 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 123](/_clusters/sai123/) | 331.71 | 1.0 | 242.08 | -50.53 | 0.304 | 509 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Saurer 3](/_clusters/saurer3/) | 285.08 | 3.01 | 160.35 | -55.29 | 0.169 | 251 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

@@ -114,7 +114,7 @@ permalink: /N50_0_table/
 | [Biurakan 1](/_clusters/biurakan1/) | 72.76 | 1.75 | 301.89 | 35.71 | 0.192 | 0 | 1.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Bochum 12](/_clusters/bochum12/) | 289.85 | -1.78 | 164.34 | -61.72 | 0.213 | 0 | 2.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 9](/_clusters/bochum9/) | 286.78 | -1.58 | 158.93 | -60.13 | 0.253 | 0 | 2.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CMa08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CMa 08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [COIN-Gaia 29](/_clusters/coingaia29/) | 124.13 | 0.8 | 15.55 | 63.65 | 0.331 | 0 | 1.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [COIN-Gaia 39](/_clusters/coingaia39/) | 160.72 | -2.66 | 69.61 | 42.95 | 0.956 | 0 | 5.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1004](/_clusters/cwnu1004/) | 336.16 | 8.45 | 239.71 | -42.02 | 6.272 | 0 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -3536,4 +3536,4 @@ permalink: /N50_0_table/
 | [WZ Sgr](/_clusters/wzsgr/) | 11.78 | -0.67 | 273.48 | -19.05 | 0.351 | 0 | 2.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Waterloo 6](/_clusters/waterloo6/) | 264.85 | -2.66 | 130.1 | -46.13 | 0.24 | 0 | 2.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Whitman 1](/_clusters/whitman1/) | 286.52 | -7.02 | 152.1 | -64.56 | 0.253 | 0 | 3.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.757 | 0 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.757 | 0 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

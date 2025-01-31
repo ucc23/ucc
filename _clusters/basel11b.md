@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Basel 11B
+title:  Basel 11b
 ---
-<h3><span style="color: #808080;"><i>(Basel 11b; OCL 469.1; FSR 0877; MWSC 696)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(OCL 469.1; FSR 0877; MWSC 696)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -61,7 +61,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Basel%2011B%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=basel11b" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Basel%2011b%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=basel11b" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -74,7 +74,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | 89.547 | 21.965 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 89.547 | 21.965 | 0.534 | 1.046 | -4.137 | -- |
 |[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | 89.562 | 21.99 | -- | 1.08 | -4.22 | 3.2 |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 89.543 | 21.968 | 0.512 | 1.048 | -4.156 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 89.543 | 21.968 | 0.512 | 1.048 | -4.156 | 3.651 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 89.55 | 21.974 | 0.564 | 1.024 | -4.132 | 3.805 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 89.532 | 21.959 | 0.562 | -- | -- | -- |
 | **UCC** |89.549 | 21.966 | 0.551 | 1.016 | -4.129 | 2.421 |
@@ -90,17 +90,17 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <div class="slides">
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b.webp" alt="Basel 11B UCC">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b.webp" alt="Basel 11b UCC">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_HUNT23.webp" alt="Basel 11B HUNT23">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_HUNT23.webp" alt="Basel 11b HUNT23">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_CANTAT20.webp" alt="Basel 11B CANTAT20">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/basel11b_CANTAT20.webp" alt="Basel 11b CANTAT20">
 </a>
 </div>
 </div>
@@ -129,4 +129,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.81, dMod50=11.15, logAge50=8.51, [Fe/H]50=0.15` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

@@ -114,9 +114,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[PHOC 4](/_clusters/phoc4/)| 91 | 106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
 |[H21OC 54](/_clusters/h21oc54/)| 73 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
-|[CMa01](/_clusters/cma01/)| 68 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
+|[CMa 01](/_clusters/cma01/)| 68 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
 |[HXHWL 54](/_clusters/hxhwl54/)| 67 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

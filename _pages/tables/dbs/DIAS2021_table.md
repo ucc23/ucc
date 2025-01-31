@@ -89,8 +89,8 @@ permalink: /DIAS2021_table/
 | [BDSB 93](/_clusters/bdsb93/) | 220.89 | -2.46 | 104.3 | -8.2 | 0.742 | 122 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [BDSB 96](/_clusters/bdsb96/) | 225.48 | -2.56 | 106.33 | -12.33 | 0.86 | 245 | 9.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Barkhatova 1](/_clusters/barkhatova1/) | 86.21 | 0.82 | 313.4 | 46.04 | 0.486 | 84 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Basel 11A](/_clusters/basel11a/) | 228.28 | -0.77 | 109.3 | -13.99 | 0.714 | 171 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Basel 11B](/_clusters/basel11b/) | 187.44 | -1.12 | 89.55 | 21.96 | 0.551 | 185 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Basel 11a](/_clusters/basel11a/) | 228.28 | -0.77 | 109.3 | -13.99 | 0.714 | 171 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Basel 11b](/_clusters/basel11b/) | 187.44 | -1.12 | 89.55 | 21.96 | 0.551 | 185 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Basel 17](/_clusters/basel17/) | 290.27 | 1.32 | 167.65 | -59.05 | 0.451 | 43 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Basel 18](/_clusters/basel18/) | 307.15 | 0.27 | 201.97 | -62.31 | 0.542 | 67 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Basel 1](/_clusters/basel1/) | 27.33 | -1.95 | 282.04 | -5.88 | 0.523 | 103 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -1285,12 +1285,12 @@ permalink: /DIAS2021_table/
 | [UBC 162](/_clusters/ubc162/) | 97.68 | -0.81 | 327.75 | 52.98 | 0.436 | 31 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 166](/_clusters/ubc166/) | 101.53 | -2.1 | 334.26 | 54.23 | 0.268 | 20 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 169](/_clusters/ubc169/) | 103.61 | -8.79 | 342.63 | 49.49 | 0.689 | 71 | 12.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [UBC 17 a](/_clusters/ubc17a/) | 205.33 | -18.02 | 83.42 | -1.67 | 2.777 | 143 | 50.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 172](/_clusters/ubc172/) | 106.21 | -4.67 | 343.4 | 54.34 | 0.388 | 90 | 9.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 175](/_clusters/ubc175/) | 106.79 | -4.87 | 344.45 | 54.4 | 0.739 | 170 | 15.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 177](/_clusters/ubc177/) | 110.49 | 7.44 | 339.66 | 67.04 | 0.867 | 103 | 26.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 178](/_clusters/ubc178/) | 111.31 | 2.92 | 346.2 | 63.36 | 1.162 | 722 | 19.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 179](/_clusters/ubc179/) | 112.03 | -1.48 | 350.98 | 59.52 | 0.819 | 29 | 9.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [UBC 17a](/_clusters/ubc17a/) | 205.33 | -18.02 | 83.42 | -1.67 | 2.777 | 143 | 50.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 182](/_clusters/ubc182/) | 117.55 | -10.21 | 4.18 | 52.3 | 0.599 | 154 | 11.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 188](/_clusters/ubc188/) | 131.56 | -7.99 | 27.47 | 53.9 | 0.33 | 59 | 14.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 191](/_clusters/ubc191/) | 135.71 | -2.4 | 37.51 | 58.0 | 0.4 | 0 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |

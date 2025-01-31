@@ -113,8 +113,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1363](/_clusters/ubc1363/)| 72 | 106.739 | -12.302 | 0.602 | -1.067 | -0.299 | -- |
-|[CMa23](/_clusters/cma23/)| 62 | 106.696 | -12.301 | 0.611 | -1.026 | -0.287 | 18.255 |
+|[CMa 23](/_clusters/cma23/)| 62 | 106.696 | -12.301 | 0.611 | -1.026 | -0.287 | 18.255 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

@@ -2,7 +2,7 @@
 layout: post
 title:  ASCC 47
 ---
-<h3><span style="color: #808080;"><i>(AT 7; Alessi-Teutsch 7; MWSC 1500; Alessi Teutsch7)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(AT 7; Alessi-Teutsch 7; MWSC 1500)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ascc47_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -93,4 +93,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.35, logAge=7.85` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

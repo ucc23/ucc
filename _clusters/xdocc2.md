@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  XDOCC-2
+title:  XDOCC 2
 ---
-<h3><span style="color: #808080;"><i>(XDOCC 2)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -65,7 +65,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
    <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-2%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC%202%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc2" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -87,12 +87,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <div class="slides">
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2.webp" alt="XDOCC-2 UCC">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2.webp" alt="XDOCC 2 UCC">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2_HUNT23.webp" alt="XDOCC-2 HUNT23">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/xdocc2_HUNT23.webp" alt="XDOCC 2 HUNT23">
 </a>
 </div>
 </div>
@@ -122,4 +122,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

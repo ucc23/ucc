@@ -112,9 +112,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 17 b](/_clusters/ubc17b/)| 93 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
+|[UBC 17b](/_clusters/ubc17b/)| 93 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
 |[Gulliver 6](/_clusters/gulliver6/)| 92 | 83.265 | -1.659 | 2.402 | 0.035 | -0.228 | 28.062 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

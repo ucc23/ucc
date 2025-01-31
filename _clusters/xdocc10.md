@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  XDOCC-10
+title:  XDOCC 10
 ---
 <div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
@@ -61,7 +61,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-10%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc10" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC%2010%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc10" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -75,7 +75,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 ### Estimated members
 
-![XDOCC-10](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc10.webp)
+![XDOCC 10](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc10.webp)
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -88,4 +88,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | `Avmag=3.973, Dist=1994.89, logAge=7.364` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

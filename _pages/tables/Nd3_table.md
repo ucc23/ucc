@@ -22,6 +22,7 @@ permalink: /Nd3_table/
 | [CWNU 278](/_clusters/cwnu278/) | 305.26 | -1.49 | 198.23 | -64.26 | 0.46 | 125 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 30](/_clusters/cwnu30/) | 70.76 | -3.62 | 305.91 | 31.06 | 0.551 | 43 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 351](/_clusters/cwnu351/) | 340.04 | 6.48 | 245.25 | -40.83 | 0.899 | 28 | 9.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 3691](/_clusters/cwnu3691/) | 133.85 | 1.17 | 36.65 | 62.0 | 0.437 | 460 | 15.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 394](/_clusters/cwnu394/) | 109.97 | -2.83 | 348.19 | 57.53 | 0.916 | 27 | 17.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 419](/_clusters/cwnu419/) | 109.84 | -1.3 | 346.86 | 58.91 | 0.661 | 41 | 10.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 44](/_clusters/cwnu44/) | 19.08 | -0.9 | 277.26 | -12.72 | 0.447 | 138 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -95,6 +96,7 @@ permalink: /Nd3_table/
 | [HXHWL 46](/_clusters/hxhwl46/) | 68.6 | 2.65 | 298.32 | 32.65 | 0.478 | 53 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HXHWL 57](/_clusters/hxhwl57/) | 16.64 | -1.92 | 277.02 | -15.36 | 0.878 | 25 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HXHWL 61](/_clusters/hxhwl61/) | 221.76 | -4.65 | 102.72 | -9.97 | 0.473 | 93 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [IRAS 02232+6138](/_clusters/iras02232p6138/) | 133.85 | 1.15 | 36.64 | 61.99 | 0.478 | 216 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Kronberger 6](/_clusters/kronberger6/) | 179.73 | 4.83 | 91.08 | 31.61 | 0.503 | 224 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [LISC 0901](/_clusters/lisc0901/) | 260.75 | 4.3 | 133.94 | -38.57 | 0.244 | 356 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [LISC 0988](/_clusters/lisc0988/) | 189.97 | -9.01 | 83.75 | 15.75 | 0.699 | 136 | 7.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -106,6 +108,7 @@ permalink: /Nd3_table/
 | [LISC 3420](/_clusters/lisc3420/) | 109.9 | -2.88 | 348.11 | 57.47 | 0.903 | 0 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [LISC 3483](/_clusters/lisc3483/) | 340.08 | 6.49 | 245.28 | -40.79 | 0.921 | 32 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [LISC-III 1682](/_clusters/lisciii1682/) | 208.64 | -3.01 | 98.22 | 2.44 | 0.625 | 0 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [MWSC0 192](/_clusters/mwsc0192/) | 133.85 | 1.15 | 36.65 | 61.99 | 0.477 | 250 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 2068](/_clusters/ngc2068/) | 205.26 | -14.31 | 86.66 | 0.14 | 2.396 | 140 | 10.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 7092](/_clusters/ngc7092/) | 92.25 | -2.35 | 322.89 | 48.25 | 3.364 | 294 | 50.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 7235](/_clusters/ngc7235/) | 102.69 | 0.79 | 333.08 | 57.27 | 0.287 | 0 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -138,6 +141,7 @@ permalink: /Nd3_table/
 | [PHOC 20](/_clusters/phoc20/) | 16.57 | -1.93 | 277.0 | -15.42 | 0.873 | 25 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ryu 183](/_clusters/ryu183/) | 9.32 | 1.43 | 270.26 | -20.18 | 0.384 | 0 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [SAI 116](/_clusters/sai116/) | 295.76 | -0.22 | 177.32 | -62.23 | 0.23 | 420 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 19](/_clusters/sai19/) | 133.85 | 1.15 | 36.63 | 61.99 | 0.477 | 360 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Teutsch 230](/_clusters/teutsch230/) | 295.76 | -0.23 | 177.32 | -62.23 | 0.236 | 370 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Teutsch 59a](/_clusters/teutsch59a/) | 212.88 | -2.09 | 100.98 | -0.91 | 0.354 | 39 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Teutsch 59b](/_clusters/teutsch59b/) | 212.85 | -2.1 | 100.95 | -0.88 | 0.354 | 49 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

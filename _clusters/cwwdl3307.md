@@ -92,7 +92,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 188](/_clusters/ubc188/)| 77 | 27.463 | 53.901 | 0.33 | -0.819 | -1.668 | -48.166 |
+|[SAI 15](/_clusters/sai15/)| 71 | 27.469 | 53.899 | 0.341 | -0.786 | -1.623 | -107.41 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

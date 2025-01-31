@@ -2,7 +2,7 @@
 layout: post
 title:  ASCC 86
 ---
-<h3><span style="color: #808080;"><i>(AT 12; Alessi-Teutsch 12; Alessi J1701.7-5857; MWSC 2513; Alessi Teutsch 12)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(AT 12; Alessi-Teutsch 12; Alessi J1701.7-5857; MWSC 2513)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ascc86_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -71,7 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 255.438 | -58.957 | -- | -- | -- | -- |
 |[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | 255.421 | -58.981 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 255.421 | -58.981 | 1.632 | -2.134 | -8.952 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 255.415 | -59.026 | 1.628 | -2.169 | -8.946 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 255.415 | -59.026 | 1.628 | -2.169 | -8.946 | -11.236 |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 255.35 | -58.985 | 1.643 | -2.289 | -8.961 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 255.411 | -59.008 | 1.644 | -2.313 | -8.985 | -5.207 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 255.353 | -59.036 | 1.647 | -- | -- | -- |
@@ -125,4 +125,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.42, dMod50=8.91, logAge50=8.04, [Fe/H]50=0.46` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

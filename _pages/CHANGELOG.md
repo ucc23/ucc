@@ -8,6 +8,12 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
 
 
+## Version [250131](https://doi.org/10.5281/zenodo.14782856)
+
+- Added [Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G/).
+- Added [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C).
+- Added `Rv` parameter to Dias (2021) entries
+
 
 ## Version [241106](https://zenodo.org/records/14047628)
 

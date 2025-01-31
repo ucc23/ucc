@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  UBC 17 a
+title:  UBC 17a
 ---
-<h3><span style="color: #808080;"><i>(UBC 17a)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -61,7 +61,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UBC%2017%20a%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ubc17a" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UBC%2017a%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ubc17a" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -70,7 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Castro-Ginard et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..59C) | 83.383 | -1.584 | 2.748 | 1.593 | -1.207 | 18.96 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 83.422 | -1.671 | 2.753 | 1.582 | -1.2 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.33 | -1.606 | 2.753 | 1.557 | -1.218 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.33 | -1.606 | 2.753 | 1.557 | -1.218 | 22.119 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 84.776 | -1.932 | 2.771 | 1.801 | -1.299 | 11.737 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 84.463 | -1.821 | 2.771 | -- | -- | -- |
 | **UCC** |83.771 | -1.66 | 2.777 | 1.641 | -1.237 | 17.4 |
@@ -86,17 +86,17 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <div class="slides">
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a.webp" alt="UBC 17 a UCC">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a.webp" alt="UBC 17a UCC">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_HUNT23.webp" alt="UBC 17 a HUNT23">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_HUNT23.webp" alt="UBC 17a HUNT23">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_CANTAT20.webp" alt="UBC 17 a CANTAT20">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ubc17a_CANTAT20.webp" alt="UBC 17a CANTAT20">
 </a>
 </div>
 </div>
@@ -121,4 +121,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.68, dMod50=7.76, logAge50=6.55, [Fe/H]50=-0.02` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

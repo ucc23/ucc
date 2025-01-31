@@ -1891,5 +1891,5 @@ permalink: /Q1P_table/
 | [VVV 157](/_clusters/vvv157/) | 10.07 | 1.02 | 271.03 | -19.73 | 0.337 | 19 | 5.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 160](/_clusters/vvv160/) | 10.15 | 0.3 | 271.74 | -20.01 | 0.335 | 21 | 6.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Wit 4](/_clusters/wit4/) | 82.33 | 3.02 | 307.55 | 44.34 | 0.133 | 230 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.799 | 31 | 30.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.799 | 31 | 30.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |

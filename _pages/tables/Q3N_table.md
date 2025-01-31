@@ -51,8 +51,8 @@ permalink: /Q3N_table/
 | [BDSB 91](/_clusters/bdsb91/) | 219.47 | -10.55 | 96.32 | -10.55 | 1.083 | 91 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [BDSB 93](/_clusters/bdsb93/) | 220.89 | -2.46 | 104.3 | -8.2 | 0.742 | 122 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [BDSB 96](/_clusters/bdsb96/) | 225.48 | -2.56 | 106.33 | -12.33 | 0.86 | 245 | 9.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [Basel 11A](/_clusters/basel11a/) | 228.28 | -0.77 | 109.3 | -13.99 | 0.714 | 171 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Basel 11B](/_clusters/basel11b/) | 187.44 | -1.12 | 89.55 | 21.96 | 0.551 | 185 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Basel 11a](/_clusters/basel11a/) | 228.28 | -0.77 | 109.3 | -13.99 | 0.714 | 171 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Basel 11b](/_clusters/basel11b/) | 187.44 | -1.12 | 89.55 | 21.96 | 0.551 | 185 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Basel 8](/_clusters/basel8/) | 203.85 | -0.16 | 98.55 | 8.01 | 0.649 | 73 | 9.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 20](/_clusters/berkeley20/) | 203.49 | -17.38 | 83.15 | 0.18 | 0.127 | 369 | 2.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [Berkeley 21](/_clusters/berkeley21/) | 186.82 | -2.49 | 87.93 | 21.81 | 0.167 | 760 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -75,9 +75,9 @@ permalink: /Q3N_table/
 | [Bochum 7](/_clusters/bochum7/) | 265.19 | -1.97 | 131.19 | -45.98 | 0.141 | 23 | 3.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Briceno 1](/_clusters/briceno1/) | 201.01 | -18.4 | 81.12 | 1.75 | 2.879 | 533 | 32.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CMa 02](/_clusters/cma02/) | 221.11 | -1.04 | 105.68 | -7.75 | 0.876 | 85 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CMa05](/_clusters/cma05/) | 224.02 | -2.93 | 105.32 | -11.2 | 0.774 | 30 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CMa08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CMa23](/_clusters/cma23/) | 225.64 | -2.29 | 106.66 | -12.35 | 0.611 | 33 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CMa 05](/_clusters/cma05/) | 224.02 | -2.93 | 105.32 | -11.2 | 0.774 | 30 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| [CMa 08](/_clusters/cma08/) | 225.95 | -1.6 | 107.43 | -12.3 | 0.83 | 0 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CMa 23](/_clusters/cma23/) | 225.64 | -2.29 | 106.66 | -12.35 | 0.611 | 33 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [COIN-Gaia 23](/_clusters/coingaia23/) | 182.13 | -0.21 | 87.45 | 27.01 | 1.056 | 45 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [COIN-Gaia 25](/_clusters/coingaia25/) | 189.9 | -0.21 | 91.69 | 20.28 | 1.23 | 123 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [COIN-Gaia 26](/_clusters/coingaia26/) | 190.01 | -9.01 | 83.77 | 15.72 | 0.699 | 135 | 7.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -2177,6 +2177,7 @@ permalink: /Q3N_table/
 | [S284](/_clusters/s284/) | 211.13 | -1.31 | 100.88 | 1.01 | 0.2 | 25 | 4.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [S289](/_clusters/s289/) | 218.73 | -4.6 | 101.38 | -7.25 | 0.107 | 29 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [S305](/_clusters/s305/) | 233.73 | -0.2 | 112.5 | -18.52 | 0.23 | 43 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 54](/_clusters/sai54/) | 184.82 | -3.81 | 85.59 | 22.83 | 0.736 | 47 | 1.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 69](/_clusters/sai69/) | 222.8 | -6.66 | 101.36 | -11.79 | 0.152 | 33 | 2.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 81](/_clusters/sai81/) | 244.58 | -0.54 | 118.04 | -28.12 | 0.226 | 199 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [SAI 82](/_clusters/sai82/) | 248.83 | -3.04 | 118.06 | -33.04 | 0.216 | 69 | 6.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
@@ -2185,6 +2186,7 @@ permalink: /Q3N_table/
 | [SAI 88](/_clusters/sai88/) | 258.52 | -4.22 | 123.24 | -41.88 | 0.162 | 122 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 90](/_clusters/sai90/) | 260.02 | -1.83 | 127.02 | -41.77 | 0.412 | 50 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 91](/_clusters/sai91/) | 267.63 | -5.48 | 129.24 | -50.04 | 0.266 | 262 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 92](/_clusters/sai92/) | 264.89 | -2.88 | 129.89 | -46.3 | 0.544 | 475 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 94](/_clusters/sai94/) | 265.43 | -2.18 | 131.17 | -46.29 | 0.223 | 109 | 3.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Saurer 2](/_clusters/saurer2/) | 258.0 | -1.01 | 126.37 | -39.64 | 0.174 | 490 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Sh2 287C](/_clusters/sh2287c/) | 218.02 | -0.31 | 104.9 | -4.67 | 0.452 | 0 | 2.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -2410,8 +2412,8 @@ permalink: /Q3N_table/
 | [UBC 1619](/_clusters/ubc1619/) | 260.43 | -8.21 | 119.95 | -45.6 | 0.621 | 37 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 1620](/_clusters/ubc1620/) | 264.44 | -0.7 | 131.93 | -44.59 | 0.496 | 0 | 6.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 1621](/_clusters/ubc1621/) | 268.1 | -3.51 | 132.09 | -49.21 | 0.582 | 48 | 31.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [UBC 17 a](/_clusters/ubc17a/) | 205.33 | -18.02 | 83.42 | -1.67 | 2.777 | 143 | 50.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [UBC 17 b](/_clusters/ubc17b/) | 205.14 | -18.18 | 83.2 | -1.58 | 2.401 | 437 | 27.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [UBC 17a](/_clusters/ubc17a/) | 205.33 | -18.02 | 83.42 | -1.67 | 2.777 | 143 | 50.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [UBC 17b](/_clusters/ubc17b/) | 205.14 | -18.18 | 83.2 | -1.58 | 2.401 | 437 | 27.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 200](/_clusters/ubc200/) | 184.76 | -13.5 | 76.91 | 17.58 | 0.374 | 62 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 201](/_clusters/ubc201/) | 194.46 | -0.92 | 93.36 | 15.94 | 0.602 | 21 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 202](/_clusters/ubc202/) | 195.62 | -18.08 | 78.8 | 6.33 | 1.228 | 140 | 21.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -2542,6 +2544,6 @@ permalink: /Q3N_table/
 | [VDBH 8](/_clusters/vdbh8/) | 247.95 | -4.16 | 116.38 | -32.85 | 0.263 | 634 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Waterloo 6](/_clusters/waterloo6/) | 264.85 | -2.66 | 130.1 | -46.13 | 0.24 | 0 | 2.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Wit 1](/_clusters/wit1/) | 219.13 | -0.68 | 105.09 | -5.83 | 0.176 | 53 | 6.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [XDOCC-6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [XDOCC 6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.742 | 122 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [ZHBJZ 1](/_clusters/zhbjz1/) | 218.58 | -1.67 | 103.95 | -5.79 | 3.487 | 239 | 45.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |

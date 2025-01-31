@@ -111,9 +111,9 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Alessi Teutsch10](/_clusters/alessiteutsch10/)| 48 | 56.32 | 29.735 | 2.519 | 2.529 | -5.297 | 19.757 |
+|[Alessi-Teutsch 10](/_clusters/alessiteutsch10/)| 48 | 56.32 | 29.735 | 2.519 | 2.529 | -5.297 | 19.757 |
 |[OC 0278](/_clusters/oc0278/)| 47 | 56.362 | 29.761 | 2.514 | 2.512 | -5.344 | 34.266 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

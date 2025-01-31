@@ -2,7 +2,7 @@
 layout: post
 title:  VDBH 121
 ---
-<h3><span style="color: #808080;"><i>(vdBergh-Hagen 121; BH 121)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(vdBergh-Hagen 121)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/vdbh121_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -118,4 +118,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

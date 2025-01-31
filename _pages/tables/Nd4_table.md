@@ -6,7 +6,7 @@ permalink: /Nd4_table/
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
 | ---- | - | - | -- | --- | --- | --  | --  |-- |
-| [CMa01](/_clusters/cma01/) | 221.54 | -0.01 | 106.8 | -7.66 | 0.922 | 35 | 9.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CMa 01](/_clusters/cma01/) | 221.54 | -0.01 | 106.8 | -7.66 | 0.922 | 35 | 9.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 184](/_clusters/cwnu184/) | 275.74 | 2.31 | 146.87 | -50.59 | 0.641 | 43 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWWDL 13969](/_clusters/cwwdl13969/) | 275.72 | 2.34 | 146.89 | -50.55 | 0.648 | 45 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWWDL 14184](/_clusters/cwwdl14184/) | 275.72 | 2.32 | 146.86 | -50.57 | 0.648 | 44 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

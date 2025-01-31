@@ -2,7 +2,7 @@
 layout: post
 title:  VDBH 4
 ---
-<h3><span style="color: #808080;"><i>(vdBergh-Hagen 4; ESO 368 06; MWSC 1288; vdBergh_Hagen_4)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(vdBergh-Hagen 4; ESO 368 06; MWSC 1288)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/vdbh4_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -91,4 +91,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H) | `A0=1.75, m-M=15.0, logA=7.2` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

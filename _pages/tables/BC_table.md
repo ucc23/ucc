@@ -1331,11 +1331,13 @@ permalink: /BC_table/
 | [SAI 101](/_clusters/sai101/) | 264.54 | 1.72 | 134.6 | -43.12 | 1.127 | 42 | 6.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 104](/_clusters/sai104/) | 270.14 | -0.62 | 137.47 | -48.86 | 0.35 | 117 | 9.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 143](/_clusters/sai143/) | 91.31 | 1.48 | 317.72 | 50.3 | 0.194 | 26 | 8.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 18](/_clusters/sai18/) | 133.64 | 0.15 | 35.48 | 61.12 | 0.304 | 148 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 27](/_clusters/sai27/) | 135.01 | 9.38 | 47.86 | 68.9 | 0.214 | 43 | 8.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 2](/_clusters/sai2/) | 120.56 | 13.54 | 3.13 | 76.23 | 0.141 | 40 | 7.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 30](/_clusters/sai30/) | 128.54 | 21.25 | 55.06 | 82.21 | 0.249 | 0 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 31](/_clusters/sai31/) | 144.47 | 3.63 | 57.82 | 58.77 | 0.174 | 55 | 5.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 36](/_clusters/sai36/) | 159.3 | -6.87 | 64.21 | 41.07 | 0.151 | 53 | 5.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [SAI 50](/_clusters/sai50/) | 172.94 | 0.23 | 82.16 | 35.02 | 0.418 | 83 | 3.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 82](/_clusters/sai82/) | 248.83 | -3.04 | 118.06 | -33.04 | 0.216 | 69 | 6.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Saloranta 3](/_clusters/saloranta3/) | 58.54 | -10.66 | 304.87 | 17.08 | 0.256 | 43 | 4.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Saloranta 7](/_clusters/saloranta7/) | 92.28 | 14.36 | 300.73 | 58.74 | 0.184 | 0 | 3.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |

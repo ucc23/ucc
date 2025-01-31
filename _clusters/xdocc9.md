@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  XDOCC-9
+title:  XDOCC 9
 ---
-<h3><span style="color: #808080;"><i>(XDOCC 9)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -61,7 +61,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC-9%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc9" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22XDOCC%209%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=xdocc9" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -83,12 +83,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <div class="slides">
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9.webp" alt="XDOCC-9 UCC">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9.webp" alt="XDOCC 9 UCC">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9_HUNT23.webp" alt="XDOCC-9 HUNT23">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/xdocc9_HUNT23.webp" alt="XDOCC 9 HUNT23">
 </a>
 </div>
 </div>
@@ -111,4 +111,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=8.78, logAge50=8.26, [Fe/H]50=0.33` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

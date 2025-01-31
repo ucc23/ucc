@@ -71,7 +71,7 @@ permalink: /DC_table/
 | [Bochum 5](/_clusters/bochum5/) | 232.48 | 0.8 | 112.78 | -16.94 | 0.277 | 42 | 9.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Bochum 9](/_clusters/bochum9/) | 286.78 | -1.58 | 158.93 | -60.13 | 0.253 | 0 | 2.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CBJC 4](/_clusters/cbjc4/) | 85.26 | -0.61 | 314.07 | 44.39 | 0.2 | 19 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CMa05](/_clusters/cma05/) | 224.02 | -2.93 | 105.32 | -11.2 | 0.774 | 30 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| [CMa 05](/_clusters/cma05/) | 224.02 | -2.93 | 105.32 | -11.2 | 0.774 | 30 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1002](/_clusters/cwnu1002/) | 104.66 | 5.76 | 330.44 | 62.45 | 0.79 | 12 | 10.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1005](/_clusters/cwnu1005/) | 77.76 | -0.53 | 307.79 | 38.55 | 0.862 | 0 | 7.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 1035](/_clusters/cwnu1035/) | 77.42 | 1.48 | 305.43 | 39.44 | 0.965 | 26 | 21.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |

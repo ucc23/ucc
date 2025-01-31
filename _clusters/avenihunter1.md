@@ -2,7 +2,7 @@
 layout: post
 title:  Aveni-Hunter 1
 ---
-<h3><span style="color: #808080;"><i>(Aveni Hunter1; Aveni Hunter 1)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/avenihunter1_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -71,7 +71,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 354.293 | 48.55 | -- | -0.05 | -3.6 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 354.45 | 48.561 | -- | -2.23 | -3.11 | -54.3 |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 354.175 | 48.205 | 2.348 | -0.184 | -2.087 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 354.189 | 48.146 | 2.33 | -0.07 | -2.196 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 354.189 | 48.146 | 2.33 | -0.07 | -2.196 | -15.908 |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 354.513 | 47.691 | 2.347 | 0.0 | -2.596 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 354.263 | 48.49 | 2.361 | 0.038 | -2.741 | -10.223 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 354.354 | 47.162 | 2.374 | -- | -- | -- |
@@ -126,4 +126,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.83, dMod50=8.17, logAge50=6.74, [Fe/H]50=-0.14` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

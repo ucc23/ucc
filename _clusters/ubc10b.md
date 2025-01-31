@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  UBC 10 b
+title:  UBC 10b
 ---
-<h3><span style="color: #808080;"><i>(UBC 10b)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -61,7 +61,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 </table>
 </div>
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UBC%2010%20b%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ubc10b" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UBC%2010b%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ubc10b" target="_blank">Simbad</a></p>
 
 
 ### Positions
@@ -87,17 +87,17 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 <div class="slides">
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b.webp" alt="UBC 10 b UCC">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b.webp" alt="UBC 10b UCC">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_HUNT23.webp" alt="UBC 10 b HUNT23">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_HUNT23.webp" alt="UBC 10b HUNT23">
 </a>
 </div>
 <div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_CANTAT20.webp" alt="UBC 10 b CANTAT20">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/ubc10b_CANTAT20.webp" alt="UBC 10b CANTAT20">
 </a>
 </div>
 </div>
@@ -123,4 +123,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.53, dMod50=9.95, logAge50=7.07, [Fe/H]50=0.18` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

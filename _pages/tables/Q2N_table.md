@@ -37,7 +37,7 @@ permalink: /Q2N_table/
 | [Alessi 22](/_clusters/alessi22/) | 109.01 | -24.94 | 357.17 | 36.23 | 2.821 | 0 | 61.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Alessi 94](/_clusters/alessi94/) | 117.73 | -16.05 | 5.58 | 46.53 | 1.766 | 73 | 32.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 96](/_clusters/alessi96/) | 167.82 | -2.7 | 75.51 | 37.48 | 3.034 | 231 | 39.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Alessi Teutsch10](/_clusters/alessiteutsch10/) | 162.22 | -19.64 | 56.22 | 29.7 | 2.519 | 28 | 8.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Alessi-Teutsch 10](/_clusters/alessiteutsch10/) | 162.22 | -19.64 | 56.22 | 29.7 | 2.519 | 28 | 8.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi-Teutsch 21](/_clusters/alessiteutsch21/) | 124.21 | -7.46 | 15.09 | 55.39 | 0.769 | 42 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Aveni-Hunter 1](/_clusters/avenihunter1/) | 110.28 | -12.82 | 354.18 | 48.2 | 2.364 | 146 | 33.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [BDSB 37](/_clusters/bdsb37/) | 109.09 | -0.35 | 344.78 | 59.47 | 0.327 | 66 | 9.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -1428,8 +1428,10 @@ permalink: /Q2N_table/
 | [Renou 20](/_clusters/renou20/) | 156.53 | -12.38 | 56.75 | 38.78 | 0.092 | 0 | 3.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Riddle 4](/_clusters/riddle4/) | 132.23 | -1.23 | 31.86 | 60.26 | 0.343 | 115 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 148](/_clusters/ruprecht148/) | 160.36 | -0.4 | 71.64 | 44.71 | 0.27 | 161 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 10](/_clusters/sai10/) | 121.25 | -21.22 | 10.76 | 41.62 | -0.013 | 406 | 9.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 12](/_clusters/sai12/) | 125.31 | -17.21 | 16.11 | 45.6 | 0.244 | 0 | 3.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 149](/_clusters/sai149/) | 114.02 | -1.05 | 354.51 | 60.54 | 0.289 | 110 | 4.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 15](/_clusters/sai15/) | 131.56 | -7.98 | 27.47 | 53.91 | 0.341 | 98 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 17](/_clusters/sai17/) | 134.17 | -1.72 | 35.22 | 59.19 | 0.196 | 112 | 1.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 1](/_clusters/sai1/) | 116.18 | -10.58 | 2.1 | 51.72 | 0.198 | 45 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 25](/_clusters/sai25/) | 139.69 | -1.31 | 45.11 | 57.31 | 0.388 | 24 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -1437,6 +1439,7 @@ permalink: /Q2N_table/
 | [SAI 36](/_clusters/sai36/) | 159.3 | -6.87 | 64.21 | 41.07 | 0.151 | 53 | 5.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 41](/_clusters/sai41/) | 167.68 | -1.32 | 76.8 | 38.42 | 0.194 | 129 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 46](/_clusters/sai46/) | 170.68 | -0.44 | 79.91 | 36.5 | 0.22 | 260 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 51](/_clusters/sai51/) | 174.42 | -0.41 | 82.51 | 33.43 | 0.397 | 88 | 2.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [SAI 6](/_clusters/sai6/) | 120.05 | -2.06 | 6.97 | 60.68 | 0.156 | 0 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Saloranta 19](/_clusters/saloranta19/) | 98.03 | -2.56 | 329.98 | 51.82 | 0.154 | 0 | 1.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Saloranta 21](/_clusters/saloranta21/) | 107.98 | -3.29 | 345.17 | 56.33 | 0.125 | 37 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -1797,5 +1800,5 @@ permalink: /Q2N_table/
 | [UPK 333](/_clusters/upk333/) | 155.9 | -5.9 | 61.77 | 44.09 | 1.398 | 45 | 20.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UPK 367](/_clusters/upk367/) | 176.45 | -33.27 | 56.1 | 11.09 | 6.748 | 41 | 153.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UPK 369](/_clusters/upk369/) | 177.39 | -1.27 | 83.56 | 30.48 | 1.356 | 28 | 19.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Zanin 6](/_clusters/zanin6/) | 99.97 | -16.16 | 342.94 | 41.31 | 2.409 | 80 | 45.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |

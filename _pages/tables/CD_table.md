@@ -174,6 +174,7 @@ permalink: /CD_table/
 | [Ryu 684](/_clusters/ryu684/) | 12.2 | 4.69 | 268.79 | -16.06 | 0.361 | 0 | 1.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 717](/_clusters/ryu717/) | 14.67 | 3.01 | 271.56 | -14.75 | 0.4 | 39 | 2.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 905](/_clusters/ryu905/) | 28.9 | 2.29 | 278.98 | -2.54 | 0.318 | 0 | 1.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [SAI 152](/_clusters/sai152/) | 117.31 | 3.14 | 359.27 | 65.41 | 0.361 | 49 | 7.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Steine J1904.3+1920](/_clusters/steinej19043p1920/) | 51.63 | 5.95 | 286.09 | 19.33 | 0.196 | 0 | 2.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Steine J2101.7+4420](/_clusters/steinej21017p4420/) | 85.85 | -1.38 | 315.43 | 44.33 | 0.169 | 0 | 2.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Teutsch 119](/_clusters/teutsch119/) | 39.19 | -3.21 | 288.58 | 4.09 | 0.214 | 0 | 2.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |

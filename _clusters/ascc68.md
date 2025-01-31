@@ -2,7 +2,7 @@
 layout: post
 title:  ASCC 68
 ---
-<h3><span style="color: #808080;"><i>(AT 8; Alessi-Teutsch 8; MWSC 1993; Alessi Teutsch8; Alessi Teutsch 8)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(AT 8; Alessi-Teutsch 8; MWSC 1993)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ascc68_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -72,7 +72,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 180.735 | -60.924 | -- | -3.579 | -1.817 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 180.73 | -60.928 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 180.649 | -60.935 | 0.967 | -6.625 | 1.63 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 180.649 | -60.948 | 0.971 | -6.629 | 1.636 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 180.649 | -60.948 | 0.971 | -6.629 | 1.636 | -15.38 |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 180.671 | -60.902 | 0.982 | -6.647 | 1.667 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 180.662 | -60.938 | 0.991 | -6.64 | 1.681 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 180.703 | -60.953 | 0.989 | -6.645 | 1.672 | -23.68 |
@@ -129,4 +129,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.47, dMod50=9.96, logAge50=8.57, [Fe/H]50=0.4` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

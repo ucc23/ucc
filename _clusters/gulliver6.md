@@ -69,7 +69,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 83.278 | -1.652 | 2.367 | -0.007 | -0.207 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.275 | -1.659 | 2.35 | -0.048 | -0.235 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.275 | -1.659 | 2.35 | -0.048 | -0.235 | 32.044 |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 84.519 | -0.6 | 2.608 | -1.307 | -0.53 | -- |
 | **UCC** |83.265 | -1.659 | 2.402 | 0.035 | -0.228 | 28.062 |
 
@@ -115,8 +115,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Theia 13](/_clusters/theia13/)| 92 | 83.225 | -1.662 | 2.405 | 0.047 | -0.225 | 28.049 |
-|[UBC 17 b](/_clusters/ubc17b/)| 87 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
+|[UBC 17b](/_clusters/ubc17b/)| 87 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

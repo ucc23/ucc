@@ -2,7 +2,7 @@
 layout: post
 title:  FoF 5
 ---
-<h3><span style="color: #808080;"><i>(LP 05)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/fof5_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -70,7 +70,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 156.145 | -72.508 | 0.506 | -6.873 | 1.425 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 156.138 | -72.51 | 0.51 | -6.89 | 1.462 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 156.06 | -72.511 | 0.515 | -6.887 | 1.468 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 156.06 | -72.511 | 0.515 | -6.887 | 1.468 | -22.954 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 156.008 | -72.5 | 0.524 | -- | -- | -- |
 | **UCC** |156.316 | -72.56 | 0.522 | -6.877 | 1.452 | -23.34 |
@@ -129,4 +129,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

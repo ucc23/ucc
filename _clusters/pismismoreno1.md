@@ -2,7 +2,7 @@
 layout: post
 title:  Pismis-Moreno 1
 ---
-<h3><span style="color: #808080;"><i>(Pismis Moreno1; Pismis Moreno 1)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 <!-- WEBP image -->
 <img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pismismoreno1_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
@@ -126,4 +126,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.68, dMod50=9.87, logAge50=6.8, [Fe/H]50=0.26` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-01-31</i></font>

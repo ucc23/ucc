@@ -448,4 +448,4 @@ permalink: /BA_table/
 | [VDBH 79](/_clusters/vdbh79/) | 277.08 | -0.08 | 146.03 | -53.28 | 0.305 | 0 | 1.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 92](/_clusters/vdbh92/) | 282.99 | 0.43 | 154.78 | -56.42 | 0.374 | 75 | 3.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [VVV CL006](/_clusters/vvvcl006/) | 295.75 | -0.21 | 177.3 | -62.21 | 0.22 | 52 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC-7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.264 | 43 | 13.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [XDOCC 7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.264 | 43 | 13.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |

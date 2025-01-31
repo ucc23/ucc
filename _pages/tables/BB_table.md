@@ -1114,6 +1114,7 @@ permalink: /BB_table/
 | [Ryu 888](/_clusters/ryu888/) | 28.02 | -3.5 | 283.74 | -5.96 | 0.17 | 41 | 2.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 12](/_clusters/sai12/) | 125.31 | -17.21 | 16.11 | 45.6 | 0.244 | 0 | 3.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 149](/_clusters/sai149/) | 114.02 | -1.05 | 354.51 | 60.54 | 0.289 | 110 | 4.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [SAI 22](/_clusters/sai22/) | 136.81 | 1.08 | 42.24 | 60.74 | 0.457 | 40 | 2.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 25](/_clusters/sai25/) | 139.69 | -1.31 | 45.11 | 57.31 | 0.388 | 24 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [SAI 83](/_clusters/sai83/) | 248.53 | -2.59 | 118.34 | -32.56 | 0.265 | 43 | 2.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Skiff J0458+43.0](/_clusters/skiffj0458p430/) | 162.98 | 0.15 | 74.55 | 43.04 | 0.333 | 102 | 4.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -1329,4 +1330,4 @@ permalink: /BB_table/
 | [VVV 173](/_clusters/vvv173/) | 350.8 | -9.68 | 271.12 | -41.7 | 0.152 | 30 | 4.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 89](/_clusters/vvv89/) | 342.3 | 0.33 | 253.44 | -43.27 | 0.399 | 139 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Wit 2](/_clusters/wit2/) | 216.83 | 0.79 | 105.35 | -3.11 | 0.441 | 32 | 3.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [XDOCC-1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
