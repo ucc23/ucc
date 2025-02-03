@@ -87,8 +87,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[SAI 116](/_clusters/sai116/)| 93 | 177.332 | -62.225 | 0.23 | -7.737 | 1.343 | -13.413 |
 |[OC 0572](/_clusters/oc0572/)| 92 | 177.332 | -62.224 | 0.23 | -7.737 | 1.345 | -11.568 |
-|[VVV CL006](/_clusters/vvvcl006/)| 56 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
+|[VVV 006](/_clusters/vvv006/)| 56 | 177.316 | -62.23 | 0.22 | -7.847 | 1.304 | -6.832 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

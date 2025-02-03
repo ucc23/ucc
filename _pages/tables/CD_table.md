@@ -191,3 +191,12 @@ permalink: /CD_table/
 | [Theia 710](/_clusters/theia710/) | 108.61 | 4.5 | 339.21 | 63.57 | 2.446 | 0 | 30.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 856](/_clusters/theia856/) | 171.97 | 5.85 | 87.47 | 38.82 | 1.221 | 0 | 9.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 962](/_clusters/theia962/) | 128.02 | 6.1 | 26.73 | 68.42 | 1.347 | 0 | 10.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 16](/_clusters/vvv16/) | 300.98 | 1.12 | 188.75 | -61.69 | 0.292 | 14 | 1.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 17](/_clusters/vvv17/) | 301.14 | -0.23 | 188.9 | -63.04 | 0.211 | 18 | 1.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 19](/_clusters/vvv19/) | 304.8 | 1.4 | 196.78 | -61.42 | 0.379 | 21 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 22](/_clusters/vvv22/) | 305.36 | 0.15 | 198.15 | -62.62 | 0.226 | 41 | 6.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 23](/_clusters/vvv23/) | 305.44 | 0.21 | 198.3 | -62.56 | 0.249 | 70 | 2.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 30](/_clusters/vvv30/) | 309.18 | -0.03 | 206.37 | -62.24 | 0.389 | 29 | 2.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 48](/_clusters/vvv48/) | 320.27 | -1.27 | 228.5 | -59.25 | 0.377 | 38 | 6.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 62](/_clusters/vvv62/) | 331.17 | -0.46 | 243.03 | -51.97 | 0.324 | 35 | 1.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 68](/_clusters/vvv68/) | 333.29 | -0.37 | 245.37 | -50.44 | 0.348 | 12 | 1.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |

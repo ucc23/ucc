@@ -9,11 +9,11 @@ permalink: /BOSSINI2019_table/
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
 | ---- | - | - | -- | --- | --- | --  | --  |-- |
+| [ASCC 10](/_clusters/ascc10/) | 155.72 | -17.77 | 51.87 | 34.98 | 1.498 | 140 | 26.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [ASCC 101](/_clusters/ascc101/) | 68.03 | 11.61 | 288.4 | 36.37 | 2.516 | 190 | 32.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 103](/_clusters/ascc103/) | 69.57 | 7.22 | 294.09 | 35.74 | 2.007 | 288 | 30.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 105](/_clusters/ascc105/) | 62.82 | 2.06 | 295.55 | 27.37 | 1.781 | 148 | 21.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 108](/_clusters/ascc108/) | 74.38 | 6.07 | 298.31 | 39.35 | 0.846 | 135 | 15.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [ASCC 10](/_clusters/ascc10/) | 155.72 | -17.77 | 51.87 | 34.98 | 1.498 | 140 | 26.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [ASCC 112](/_clusters/ascc112/) | 87.44 | 9.27 | 304.13 | 52.05 | 1.539 | 254 | 19.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 113](/_clusters/ascc113/) | 82.88 | -6.59 | 317.93 | 38.64 | 1.766 | 379 | 30.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 114](/_clusters/ascc114/) | 97.08 | 1.03 | 324.99 | 54.0 | 1.068 | 226 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -35,16 +35,16 @@ permalink: /BOSSINI2019_table/
 | [ASCC 71](/_clusters/ascc71/) | 299.94 | -4.82 | 185.03 | -67.51 | 0.782 | 123 | 9.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [ASCC 86](/_clusters/ascc86/) | 330.64 | -10.34 | 255.42 | -58.98 | 1.646 | 79 | 22.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ASCC 89](/_clusters/ascc89/) | 328.98 | -14.57 | 260.76 | -62.69 | 2.072 | 181 | 18.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Alessi 1](/_clusters/alessi1/) | 123.25 | -13.33 | 13.34 | 49.54 | 1.41 | 95 | 15.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 10](/_clusters/alessi10/) | 31.6 | -21.06 | 301.23 | -10.56 | 2.256 | 235 | 26.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 12](/_clusters/alessi12/) | 67.49 | -11.41 | 310.88 | 23.87 | 1.837 | 618 | 40.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 19](/_clusters/alessi19/) | 40.4 | 12.71 | 274.74 | 12.31 | 1.694 | 105 | 25.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Alessi 1](/_clusters/alessi1/) | 123.25 | -13.33 | 13.34 | 49.54 | 1.41 | 95 | 15.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Alessi 21](/_clusters/alessi21/) | 223.46 | -0.01 | 107.69 | -9.36 | 1.748 | 328 | 28.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 2](/_clusters/alessi2/) | 152.33 | 6.37 | 71.6 | 55.2 | 1.622 | 232 | 26.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Alessi 21](/_clusters/alessi21/) | 223.46 | -0.01 | 107.69 | -9.36 | 1.748 | 328 | 28.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Alessi 5](/_clusters/alessi5/) | 288.06 | -1.97 | 160.82 | -61.08 | 2.51 | 649 | 24.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Alessi 6](/_clusters/alessi6/) | 313.64 | -5.54 | 220.06 | -66.13 | 1.126 | 260 | 14.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Alessi 60](/_clusters/alessi60/) | 215.19 | 1.94 | 105.62 | -1.12 | 0.336 | 166 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Alessi 62](/_clusters/alessi62/) | 52.82 | 8.68 | 284.03 | 21.6 | 1.617 | 289 | 21.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Alessi 6](/_clusters/alessi6/) | 313.64 | -5.54 | 220.06 | -66.13 | 1.126 | 260 | 14.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Alessi 8](/_clusters/alessi8/) | 326.5 | 4.26 | 232.41 | -51.23 | 1.491 | 55 | 14.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Basel 11b](/_clusters/basel11b/) | 187.44 | -1.12 | 89.55 | 21.96 | 0.551 | 185 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Basel 4](/_clusters/basel4/) | 179.3 | 1.27 | 87.24 | 30.19 | 0.299 | 187 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -106,8 +106,8 @@ permalink: /BOSSINI2019_table/
 | [Melotte 102](/_clusters/melotte102/) | 289.56 | -4.96 | 160.61 | -64.43 | 6.606 | 504 | 83.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 104](/_clusters/melotte104/) | 292.4 | -1.78 | 169.37 | -62.72 | 0.74 | 1368 | 9.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 179](/_clusters/melotte179/) | 30.51 | 17.05 | 266.55 | 5.62 | 2.895 | 369 | 32.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 20](/_clusters/melotte20/) | 147.36 | -6.4 | 51.62 | 48.98 | 5.74 | 842 | 92.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 210](/_clusters/melotte210/) | 36.32 | 5.33 | 279.65 | 5.44 | 2.105 | 242 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 22](/_clusters/melotte22/) | 166.46 | -23.61 | 56.6 | 24.11 | 7.36 | 1682 | 94.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 71](/_clusters/melotte71/) | 228.95 | 4.51 | 114.38 | -12.06 | 0.437 | 1551 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -128,8 +128,8 @@ permalink: /BOSSINI2019_table/
 | [NGC 2168](/_clusters/ngc2168/) | 186.61 | 2.23 | 92.27 | 24.34 | 1.152 | 1722 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2184](/_clusters/ngc2184/) | 209.59 | -10.85 | 91.69 | -2.0 | 1.737 | 164 | 17.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2215](/_clusters/ngc2215/) | 215.99 | -10.1 | 95.2 | -7.28 | 1.032 | 235 | 13.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [NGC 2251](/_clusters/ngc2251/) | 203.61 | 0.11 | 98.68 | 8.34 | 0.682 | 183 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 225](/_clusters/ngc225/) | 121.96 | -1.08 | 10.8 | 61.77 | 1.44 | 190 | 20.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 2251](/_clusters/ngc2251/) | 203.61 | 0.11 | 98.68 | 8.34 | 0.682 | 183 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 2281](/_clusters/ngc2281/) | 174.93 | 16.89 | 102.09 | 41.06 | 1.91 | 1033 | 32.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2287](/_clusters/ngc2287/) | 230.98 | -10.43 | 101.5 | -20.72 | 1.353 | 1273 | 22.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2302](/_clusters/ngc2302/) | 219.3 | -3.12 | 102.98 | -7.09 | 0.821 | 157 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -229,12 +229,12 @@ permalink: /BOSSINI2019_table/
 | [Pozzo 1](/_clusters/pozzo1/) | 262.8 | -7.69 | 122.37 | -47.34 | 2.929 | 124 | 17.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Roslund 3](/_clusters/roslund3/) | 58.84 | -4.68 | 299.7 | 20.51 | 0.574 | 223 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Roslund 6](/_clusters/roslund6/) | 78.49 | 0.58 | 307.18 | 39.8 | 2.809 | 92 | 38.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Ruprecht 1](/_clusters/ruprecht1/) | 223.96 | -9.69 | 99.08 | -14.16 | 0.636 | 233 | 11.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 108](/_clusters/ruprecht108/) | 308.22 | 3.95 | 203.0 | -58.51 | 1.013 | 55 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 115](/_clusters/ruprecht115/) | 330.96 | -0.84 | 243.22 | -52.39 | 0.367 | 80 | 3.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 151](/_clusters/ruprecht151/) | 233.08 | 3.24 | 115.32 | -16.28 | 0.9 | 42 | 8.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 161](/_clusters/ruprecht161/) | 284.7 | -4.25 | 152.4 | -61.26 | 1.11 | 78 | 14.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 176](/_clusters/ruprecht176/) | 331.9 | -0.27 | 243.68 | -51.33 | 0.364 | 214 | 3.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Ruprecht 1](/_clusters/ruprecht1/) | 223.96 | -9.69 | 99.08 | -14.16 | 0.636 | 233 | 11.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 29](/_clusters/ruprecht29/) | 240.11 | -0.79 | 115.28 | -24.38 | 0.435 | 68 | 3.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 34](/_clusters/ruprecht34/) | 237.2 | 2.15 | 116.48 | -20.39 | 0.347 | 168 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Ruprecht 44](/_clusters/ruprecht44/) | 245.72 | 0.49 | 119.71 | -28.56 | 0.18 | 167 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -246,21 +246,21 @@ permalink: /BOSSINI2019_table/
 | [Ruprecht 84](/_clusters/ruprecht84/) | 285.32 | -8.83 | 147.28 | -65.26 | 0.52 | 185 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 98](/_clusters/ruprecht98/) | 297.33 | -2.28 | 179.72 | -64.58 | 2.1 | 149 | 34.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Stephenson 1](/_clusters/stephenson1/) | 66.91 | 15.37 | 283.57 | 36.9 | 2.793 | 483 | 41.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Stock 1](/_clusters/stock1/) | 60.29 | 2.08 | 294.15 | 25.16 | 2.457 | 219 | 35.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 10](/_clusters/stock10/) | 171.71 | 3.56 | 84.81 | 37.85 | 2.785 | 412 | 41.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 12](/_clusters/stock12/) | 111.46 | -8.49 | 353.92 | 52.68 | 2.283 | 225 | 28.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Stock 1](/_clusters/stock1/) | 60.29 | 2.08 | 294.15 | 25.16 | 2.457 | 219 | 35.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 23](/_clusters/stock23/) | 139.93 | 2.38 | 49.08 | 60.38 | 1.636 | 33 | 15.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Teutsch 61](/_clusters/teutsch61/) | 235.38 | 0.14 | 113.66 | -19.79 | 0.33 | 112 | 3.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Trumpler 1](/_clusters/trumpler1/) | 128.22 | -1.13 | 23.92 | 61.28 | 0.351 | 303 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 10](/_clusters/trumpler10/) | 262.87 | 0.58 | 131.94 | -42.57 | 2.298 | 754 | 39.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 11](/_clusters/trumpler11/) | 284.46 | -4.87 | 151.25 | -61.62 | 0.261 | 140 | 3.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 12](/_clusters/trumpler12/) | 283.82 | -3.69 | 151.62 | -60.29 | 0.258 | 232 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 18](/_clusters/trumpler18/) | 290.96 | -0.13 | 167.83 | -60.66 | 0.655 | 217 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Trumpler 1](/_clusters/trumpler1/) | 128.22 | -1.13 | 23.92 | 61.28 | 0.351 | 303 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Trumpler 2](/_clusters/trumpler2/) | 137.39 | -3.98 | 39.23 | 55.9 | 1.45 | 430 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 21](/_clusters/trumpler21/) | 307.58 | -0.28 | 203.07 | -62.79 | 0.735 | 196 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Trumpler 22](/_clusters/trumpler22/) | 314.66 | -0.59 | 217.78 | -61.17 | 0.405 | 317 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 26](/_clusters/trumpler26/) | 357.53 | 2.86 | 262.13 | -29.49 | 0.635 | 160 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 29](/_clusters/trumpler29/) | 349.97 | -5.13 | 265.35 | -40.16 | 0.683 | 254 | 8.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Trumpler 2](/_clusters/trumpler2/) | 137.39 | -3.98 | 39.23 | 55.9 | 1.45 | 430 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 30](/_clusters/trumpler30/) | 355.72 | -5.26 | 269.18 | -35.3 | 0.7 | 172 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 4](/_clusters/trumpler4/) | 186.34 | 1.24 | 91.18 | 24.09 | 0.46 | 56 | 3.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Trumpler 7](/_clusters/trumpler7/) | 238.22 | -3.33 | 111.85 | -23.95 | 0.576 | 302 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

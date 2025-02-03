@@ -69,10 +69,10 @@ permalink: /LIUPANG2019_table/
 | [FoF 321](/_clusters/fof321/) | 57.82 | -1.7 | 296.39 | 21.15 | 0.433 | 244 | 4.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [FoF 386](/_clusters/fof386/) | 250.13 | 0.93 | 122.87 | -32.05 | 0.26 | 41 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [FoF 403](/_clusters/fof403/) | 286.74 | 0.72 | 161.02 | -58.1 | 0.377 | 258 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [FoF 589](/_clusters/fof589/) | 237.71 | 5.5 | 119.81 | -19.13 | 0.296 | 204 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [FoF 58](/_clusters/fof58/) | 264.97 | -2.88 | 129.96 | -46.36 | 0.536 | 0 | 1.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [FoF 597](/_clusters/fof597/) | 40.36 | 4.63 | 282.1 | 8.71 | 0.435 | 275 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [FoF 5](/_clusters/fof5/) | 292.32 | -12.74 | 156.14 | -72.51 | 0.522 | 232 | 12.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [FoF 58](/_clusters/fof58/) | 264.97 | -2.88 | 129.96 | -46.36 | 0.536 | 0 | 1.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [FoF 589](/_clusters/fof589/) | 237.71 | 5.5 | 119.81 | -19.13 | 0.296 | 204 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [FoF 597](/_clusters/fof597/) | 40.36 | 4.63 | 282.1 | 8.71 | 0.435 | 275 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [FoF 658](/_clusters/fof658/) | 212.54 | -8.31 | 95.27 | -3.43 | 0.653 | 284 | 11.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [FoF 699](/_clusters/fof699/) | 273.72 | -3.38 | 138.16 | -53.35 | 0.26 | 0 | 3.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [FoF 826](/_clusters/fof826/) | 289.77 | -1.61 | 164.33 | -61.53 | 0.307 | 0 | 3.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |

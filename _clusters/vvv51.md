@@ -68,6 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B) | 230.162 | -56.86 | -- | -- | -- | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 230.16 | -56.859 | -- | -- | -- | -- |
 | **UCC** |230.145 | -56.857 | 0.197 | -5.626 | -3.692 | -62.307 |
 
@@ -82,4 +83,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

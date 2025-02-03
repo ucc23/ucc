@@ -68,6 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B) | 250.35 | -48.943 | -- | -- | -- | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 250.346 | -48.945 | -- | -- | -- | -- |
 | **UCC** |250.347 | -48.93 | 0.796 | 1.343 | -4.228 | -21.35 |
 
@@ -81,5 +82,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
+### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
+
+| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[VVV 83](/_clusters/vvv83/)| 28 | 250.307 | -48.891 | 0.785 | 1.025 | -4.171 | -26.879 |
+
+
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

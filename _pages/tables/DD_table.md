@@ -104,8 +104,8 @@ permalink: /DD_table/
 | [HSC 1535](/_clusters/hsc1535/) | 193.78 | -17.09 | 78.72 | 8.34 | 1.12 | 0 | 12.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1546](/_clusters/hsc1546/) | 196.34 | -59.63 | 43.02 | -15.36 | 1.631 | 62 | 42.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1688](/_clusters/hsc1688/) | 213.99 | 2.68 | 105.73 | 0.28 | 0.481 | 0 | 4.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
-| [HSC 1714](/_clusters/hsc1714/) | 215.42 | -26.98 | 79.41 | -13.96 | 4.479 | 0 | 51.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 171](/_clusters/hsc171/) | 13.66 | -15.46 | 288.65 | -23.87 | 2.586 | 0 | 29.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [HSC 1714](/_clusters/hsc1714/) | 215.42 | -26.98 | 79.41 | -13.96 | 4.479 | 0 | 51.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1762](/_clusters/hsc1762/) | 223.69 | 0.24 | 108.03 | -9.45 | 0.61 | 0 | 5.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1869](/_clusters/hsc1869/) | 235.33 | -2.07 | 111.57 | -20.81 | 0.427 | 0 | 4.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1919](/_clusters/hsc1919/) | 240.3 | -3.52 | 112.75 | -25.87 | 0.305 | 0 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
@@ -222,3 +222,17 @@ permalink: /DD_table/
 | [Theia 925](/_clusters/theia925/) | 177.95 | 10.4 | 96.03 | 35.74 | 2.331 | 0 | 23.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Turner 11](/_clusters/turner11/) | 76.87 | -4.26 | 310.85 | 35.59 | 0.367 | 0 | 2.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [VDBH 58](/_clusters/vdbh58/) | 275.62 | -5.62 | 137.55 | -56.26 | 0.205 | 0 | 2.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 13](/_clusters/vvv13/) | 300.34 | -0.22 | 187.15 | -62.97 | 0.346 | 17 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 18](/_clusters/vvv18/) | 302.16 | 0.07 | 191.17 | -62.8 | 0.286 | 26 | 3.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 26](/_clusters/vvv26/) | 307.38 | -0.94 | 202.86 | -63.46 | 0.184 | 13 | 1.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 33](/_clusters/vvv33/) | 311.48 | 0.4 | 210.86 | -61.27 | 0.343 | 19 | 4.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 55](/_clusters/vvv55/) | 326.61 | 0.8 | 235.9 | -53.96 | 0.437 | 37 | 4.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 56](/_clusters/vvv56/) | 327.26 | -0.5 | 238.16 | -54.58 | 0.443 | 24 | 5.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 61](/_clusters/vvv61/) | 331.06 | -0.43 | 242.87 | -52.03 | 0.248 | 20 | 1.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 63](/_clusters/vvv63/) | 331.38 | -0.36 | 243.18 | -51.75 | 0.375 | 14 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 7](/_clusters/vvv7/) | 296.75 | -2.16 | 178.46 | -64.34 | 0.307 | 16 | 3.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 73](/_clusters/vvv73/) | 335.89 | 0.13 | 247.6 | -48.22 | 0.429 | 20 | 2.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 76](/_clusters/vvv76/) | 336.7 | 0.11 | 248.45 | -47.65 | 0.348 | 23 | 1.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 92](/_clusters/vvv92/) | 342.36 | 0.11 | 253.73 | -43.36 | 0.483 | 12 | 2.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 97](/_clusters/vvv97/) | 345.89 | -1.11 | 257.94 | -41.3 | 0.368 | 13 | 1.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 98](/_clusters/vvv98/) | 347.9 | 0.05 | 258.27 | -39.0 | 0.218 | 21 | 0.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |

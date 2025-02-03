@@ -28,8 +28,8 @@ permalink: /BD_table/
 | [FSR 1647](/_clusters/fsr1647/) | 306.73 | -11.49 | 206.43 | -73.96 | 0.242 | 0 | 3.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [FSR 1766](/_clusters/fsr1766/) | 352.22 | -2.12 | 263.63 | -36.65 | 0.114 | 0 | 2.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1022](/_clusters/hsc1022/) | 127.27 | -2.85 | 21.48 | 59.73 | 1.134 | 0 | 9.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
-| [HSC 1039](/_clusters/hsc1039/) | 129.02 | 1.37 | 26.64 | 63.59 | 0.888 | 0 | 7.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 103](/_clusters/hsc103/) | 7.21 | 1.34 | 269.21 | -22.05 | 9.963 | 0 | 162.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [HSC 1039](/_clusters/hsc1039/) | 129.02 | 1.37 | 26.64 | 63.59 | 0.888 | 0 | 7.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1074](/_clusters/hsc1074/) | 131.79 | 5.35 | 35.61 | 66.64 | 1.14 | 0 | 14.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1105](/_clusters/hsc1105/) | 135.37 | 4.22 | 42.42 | 64.2 | 0.881 | 0 | 7.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HSC 1226](/_clusters/hsc1226/) | 155.66 | 4.37 | 72.59 | 51.37 | 1.315 | 0 | 13.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
@@ -91,3 +91,6 @@ permalink: /BD_table/
 | [Theia 7082](/_clusters/theia7082/) | 169.61 | 4.29 | 84.18 | 40.02 | 0.72 | 0 | 6.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 775](/_clusters/theia775/) | 115.7 | 0.85 | 356.87 | 62.82 | 1.182 | 0 | 9.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 990](/_clusters/theia990/) | 99.09 | 4.02 | 324.11 | 57.57 | 1.099 | 0 | 10.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 46](/_clusters/vvv46/) | 320.33 | -0.18 | 227.53 | -58.28 | 0.323 | 144 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 52](/_clusters/vvv52/) | 322.4 | 0.2 | 230.43 | -56.88 | 0.325 | 10 | 2.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 96](/_clusters/vvv96/) | 345.87 | -1.1 | 257.92 | -41.32 | 0.344 | 17 | 0.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |

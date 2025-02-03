@@ -119,5 +119,12 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.816, diffAV50=2.861, MOD50=12.985, logAge50=7.13` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=4.49, dMod50=12.13, logAge50=7.21, [Fe/H]50=0.82` |
 
+### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
+
+| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[VVV 28](/_clusters/vvv28/)| 66 | 205.072 | -61.734 | 0.255 | -5.888 | -1.771 | -25.475 |
+
+
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

@@ -92,7 +92,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 2704](/_clusters/cwnu2704/)| 85 | 185.033 | -62.853 | 0.289 | -6.458 | -0.109 | -- |
+|[VVV 12](/_clusters/vvv12/)| 69 | 185.048 | -62.862 | 0.287 | -6.458 | -0.109 | -9.681 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

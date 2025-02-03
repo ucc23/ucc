@@ -28,9 +28,9 @@ permalink: /DONOR2020_table/
 | [Berkeley 66](/_clusters/berkeley66/) | 139.43 | 0.18 | 46.03 | 58.73 | 0.206 | 380 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Berkeley 71](/_clusters/berkeley71/) | 176.63 | 0.89 | 85.23 | 32.27 | 0.246 | 366 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 79](/_clusters/berkeley79/) | 31.18 | 0.91 | 281.25 | -1.15 | 0.389 | 222 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Berkeley 9](/_clusters/berkeley9/) | 146.07 | -2.82 | 53.17 | 52.65 | 0.548 | 368 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 91](/_clusters/berkeley91/) | 90.02 | 0.29 | 317.71 | 48.54 | 0.226 | 352 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 98](/_clusters/berkeley98/) | 103.87 | -5.63 | 340.66 | 52.41 | 0.237 | 148 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Berkeley 9](/_clusters/berkeley9/) | 146.07 | -2.82 | 53.17 | 52.65 | 0.548 | 368 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Briceno 1](/_clusters/briceno1/) | 201.01 | -18.4 | 81.12 | 1.75 | 2.879 | 533 | 32.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Chupina 1](/_clusters/chupina1/) | 215.4 | 31.69 | 132.53 | 11.94 | 1.151 | 311 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Chupina 3](/_clusters/chupina3/) | 216.15 | 31.76 | 132.86 | 11.39 | 1.154 | 99 | 9.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -136,4 +136,4 @@ permalink: /DONOR2020_table/
 | [Trumpler 3](/_clusters/trumpler3/) | 138.01 | 4.54 | 48.0 | 63.22 | 1.471 | 627 | 17.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 5](/_clusters/trumpler5/) | 202.81 | 1.02 | 99.13 | 9.46 | 0.291 | 2677 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 211](/_clusters/vdbh211/) | 344.95 | 0.46 | 255.54 | -41.11 | 0.561 | 203 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVV CL006](/_clusters/vvvcl006/) | 295.75 | -0.21 | 177.3 | -62.21 | 0.22 | 52 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 006](/_clusters/vvv006/) | 295.75 | -0.21 | 177.3 | -62.21 | 0.22 | 52 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |

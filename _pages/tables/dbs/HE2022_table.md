@@ -9,6 +9,8 @@ permalink: /HE2022_table/
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
 | ---- | - | - | -- | --- | --- | --  | --  |-- |
+| [CWNU 1](/_clusters/cwnu1/) | 346.15 | -2.13 | 259.26 | -41.69 | 0.603 | 113 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 10](/_clusters/cwnu10/) | 192.78 | 2.09 | 95.3 | 18.85 | 0.997 | 46 | 14.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 100](/_clusters/cwnu100/) | 220.27 | 4.76 | 110.46 | -4.33 | 1.894 | 57 | 35.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 101](/_clusters/cwnu101/) | 22.41 | -0.95 | 278.87 | -9.79 | 0.948 | 104 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 102](/_clusters/cwnu102/) | 256.54 | 2.39 | 128.77 | -36.47 | 1.043 | 35 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -19,7 +21,7 @@ permalink: /HE2022_table/
 | [CWNU 107](/_clusters/cwnu107/) | 223.45 | -18.16 | 90.87 | -17.25 | 3.489 | 124 | 69.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 108](/_clusters/cwnu108/) | 113.24 | -3.73 | 354.51 | 57.75 | 0.717 | 45 | 7.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 109](/_clusters/cwnu109/) | 113.65 | 0.94 | 352.54 | 62.34 | 0.582 | 118 | 7.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 10](/_clusters/cwnu10/) | 192.78 | 2.09 | 95.3 | 18.85 | 0.997 | 46 | 14.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 11](/_clusters/cwnu11/) | 191.29 | -1.83 | 90.92 | 18.27 | 1.084 | 29 | 12.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 110](/_clusters/cwnu110/) | 231.79 | 2.36 | 113.86 | -15.59 | 0.735 | 42 | 9.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 111](/_clusters/cwnu111/) | 128.79 | 5.65 | 28.47 | 67.81 | 0.623 | 23 | 9.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 112](/_clusters/cwnu112/) | 71.37 | 0.67 | 302.08 | 33.96 | 0.428 | 20 | 4.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -30,7 +32,7 @@ permalink: /HE2022_table/
 | [CWNU 117](/_clusters/cwnu117/) | 106.55 | -1.25 | 341.18 | 57.53 | 0.639 | 0 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 118](/_clusters/cwnu118/) | 76.7 | -2.44 | 308.93 | 36.57 | 0.307 | 64 | 1.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 119](/_clusters/cwnu119/) | 140.47 | -0.14 | 47.45 | 57.94 | 1.37 | 35 | 30.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 11](/_clusters/cwnu11/) | 191.29 | -1.83 | 90.92 | 18.27 | 1.084 | 29 | 12.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 12](/_clusters/cwnu12/) | 260.62 | -4.46 | 124.54 | -43.76 | 0.705 | 33 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 120](/_clusters/cwnu120/) | 42.17 | -2.0 | 288.89 | 7.29 | 0.573 | 41 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 121](/_clusters/cwnu121/) | 307.22 | -4.04 | 203.67 | -66.56 | 0.75 | 23 | 10.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 122](/_clusters/cwnu122/) | 52.21 | -1.14 | 292.97 | 16.54 | 0.464 | 107 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -41,7 +43,7 @@ permalink: /HE2022_table/
 | [CWNU 127](/_clusters/cwnu127/) | 180.79 | -1.48 | 85.44 | 27.49 | 0.753 | 43 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 128](/_clusters/cwnu128/) | 250.47 | -4.37 | 117.68 | -35.13 | 0.711 | 93 | 12.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 129](/_clusters/cwnu129/) | 249.76 | -4.1 | 117.53 | -34.38 | 0.705 | 35 | 10.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 12](/_clusters/cwnu12/) | 260.62 | -4.46 | 124.54 | -43.76 | 0.705 | 33 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 13](/_clusters/cwnu13/) | 89.19 | -0.3 | 317.51 | 47.53 | 0.492 | 73 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 130](/_clusters/cwnu130/) | 214.65 | -2.74 | 101.2 | -2.78 | 0.455 | 38 | 5.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 131](/_clusters/cwnu131/) | 214.11 | 2.87 | 105.95 | 0.26 | 0.464 | 71 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 132](/_clusters/cwnu132/) | 16.68 | -1.32 | 276.5 | -15.04 | 0.537 | 83 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -52,7 +54,7 @@ permalink: /HE2022_table/
 | [CWNU 137](/_clusters/cwnu137/) | 104.07 | -12.63 | 345.73 | 46.23 | 0.992 | 38 | 28.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 138](/_clusters/cwnu138/) | 234.88 | 17.72 | 128.98 | -10.26 | 0.608 | 74 | 18.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 139](/_clusters/cwnu139/) | 72.06 | -1.38 | 304.59 | 33.4 | 0.695 | 0 | 4.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 13](/_clusters/cwnu13/) | 89.19 | -0.3 | 317.51 | 47.53 | 0.492 | 73 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 14](/_clusters/cwnu14/) | 124.04 | -9.12 | 14.71 | 53.73 | 1.567 | 39 | 37.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 140](/_clusters/cwnu140/) | 240.29 | 1.13 | 117.21 | -23.58 | 0.4 | 79 | 6.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 141](/_clusters/cwnu141/) | 332.65 | -3.23 | 247.96 | -52.88 | 0.577 | 68 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 142](/_clusters/cwnu142/) | 330.33 | 1.34 | 240.09 | -51.2 | 0.401 | 73 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -63,7 +65,7 @@ permalink: /HE2022_table/
 | [CWNU 147](/_clusters/cwnu147/) | 300.68 | 4.71 | 188.61 | -58.09 | 1.228 | 75 | 18.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 148](/_clusters/cwnu148/) | 115.18 | -4.23 | 358.25 | 57.76 | 0.603 | 38 | 10.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 149](/_clusters/cwnu149/) | 143.48 | 4.67 | 57.6 | 60.19 | 1.563 | 70 | 44.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 14](/_clusters/cwnu14/) | 124.04 | -9.12 | 14.71 | 53.73 | 1.567 | 39 | 37.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 15](/_clusters/cwnu15/) | 182.89 | -0.61 | 87.5 | 26.15 | 0.872 | 34 | 21.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 150](/_clusters/cwnu150/) | 255.61 | -5.51 | 119.76 | -40.11 | 0.575 | 28 | 9.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 151](/_clusters/cwnu151/) | 356.16 | -2.39 | 266.46 | -33.46 | 0.57 | 35 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 152](/_clusters/cwnu152/) | 72.11 | -2.63 | 305.85 | 32.73 | 0.939 | 36 | 12.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -74,7 +76,7 @@ permalink: /HE2022_table/
 | [CWNU 157](/_clusters/cwnu157/) | 236.18 | 17.31 | 129.33 | -11.52 | 0.925 | 0 | 9.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [CWNU 158](/_clusters/cwnu158/) | 206.94 | -0.21 | 99.93 | 5.24 | 0.636 | 40 | 7.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 159](/_clusters/cwnu159/) | 204.19 | -2.01 | 97.05 | 6.84 | 0.387 | 74 | 7.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 15](/_clusters/cwnu15/) | 182.89 | -0.61 | 87.5 | 26.15 | 0.872 | 34 | 21.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 16](/_clusters/cwnu16/) | 140.71 | -10.36 | 39.95 | 48.74 | 0.954 | 89 | 24.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 160](/_clusters/cwnu160/) | 246.96 | 17.42 | 135.67 | -19.8 | 0.413 | 64 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 161](/_clusters/cwnu161/) | 105.28 | -3.77 | 341.27 | 54.71 | 0.878 | 41 | 16.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 162](/_clusters/cwnu162/) | 100.92 | 3.17 | 327.75 | 58.11 | 0.76 | 35 | 14.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -85,7 +87,7 @@ permalink: /HE2022_table/
 | [CWNU 167](/_clusters/cwnu167/) | 76.84 | -1.12 | 307.7 | 37.46 | 0.557 | 185 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 168](/_clusters/cwnu168/) | 184.32 | -8.59 | 80.96 | 20.69 | 1.204 | 38 | 33.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 169](/_clusters/cwnu169/) | 244.68 | -3.39 | 115.28 | -29.64 | 0.466 | 39 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 16](/_clusters/cwnu16/) | 140.71 | -10.36 | 39.95 | 48.74 | 0.954 | 89 | 24.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 17](/_clusters/cwnu17/) | 148.79 | -3.2 | 56.33 | 50.73 | 0.342 | 165 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 170](/_clusters/cwnu170/) | 355.1 | 3.82 | 259.62 | -30.95 | 0.924 | 40 | 4.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 171](/_clusters/cwnu171/) | 256.41 | -11.5 | 113.22 | -43.71 | 3.199 | 144 | 72.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 172](/_clusters/cwnu172/) | 217.42 | 4.83 | 109.2 | -1.77 | 0.979 | 40 | 16.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -96,7 +98,7 @@ permalink: /HE2022_table/
 | [CWNU 177](/_clusters/cwnu177/) | 119.08 | -9.94 | 6.58 | 52.74 | 0.545 | 0 | 4.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 178](/_clusters/cwnu178/) | 172.72 | 5.18 | 87.22 | 37.83 | 0.364 | 36 | 8.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 179](/_clusters/cwnu179/) | 10.31 | 1.36 | 270.84 | -19.35 | 0.652 | 84 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 17](/_clusters/cwnu17/) | 148.79 | -3.2 | 56.33 | 50.73 | 0.342 | 165 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 18](/_clusters/cwnu18/) | 219.8 | -18.09 | 89.47 | -14.05 | 1.499 | 0 | 5.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 180](/_clusters/cwnu180/) | 77.45 | -0.74 | 307.78 | 38.17 | 0.964 | 29 | 15.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 181](/_clusters/cwnu181/) | 41.08 | -2.99 | 289.26 | 5.87 | 0.871 | 23 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 182](/_clusters/cwnu182/) | 265.73 | 1.89 | 135.85 | -43.9 | 1.039 | 62 | 18.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -107,7 +109,7 @@ permalink: /HE2022_table/
 | [CWNU 187](/_clusters/cwnu187/) | 101.91 | -8.4 | 340.08 | 49.04 | 1.187 | 44 | 28.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 188](/_clusters/cwnu188/) | 267.77 | -0.04 | 135.73 | -46.71 | 0.88 | 33 | 11.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 189](/_clusters/cwnu189/) | 215.19 | -9.87 | 95.06 | -6.47 | 0.516 | 34 | 6.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 18](/_clusters/cwnu18/) | 219.8 | -18.09 | 89.47 | -14.05 | 1.499 | 0 | 5.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 19](/_clusters/cwnu19/) | 322.73 | 2.76 | 228.53 | -54.53 | 0.494 | 48 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 190](/_clusters/cwnu190/) | 226.81 | -4.5 | 105.18 | -14.4 | 0.63 | 41 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 191](/_clusters/cwnu191/) | 11.04 | -1.72 | 274.08 | -20.21 | 0.521 | 58 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 192](/_clusters/cwnu192/) | 214.52 | 4.24 | 107.35 | 0.52 | 0.289 | 56 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -118,8 +120,8 @@ permalink: /HE2022_table/
 | [CWNU 197](/_clusters/cwnu197/) | 179.08 | 2.79 | 88.63 | 31.16 | 0.538 | 45 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 198](/_clusters/cwnu198/) | 255.57 | -3.13 | 122.34 | -38.82 | 0.723 | 48 | 11.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 199](/_clusters/cwnu199/) | 117.61 | -14.32 | 5.11 | 48.23 | 1.16 | 58 | 28.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 19](/_clusters/cwnu19/) | 322.73 | 2.76 | 228.53 | -54.53 | 0.494 | 48 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 1](/_clusters/cwnu1/) | 346.15 | -2.13 | 259.26 | -41.69 | 0.603 | 113 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 2](/_clusters/cwnu2/) | 283.47 | -11.34 | 139.91 | -65.84 | 1.2 | 89 | 36.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 20](/_clusters/cwnu20/) | 240.52 | -16.16 | 99.85 | -31.52 | 1.473 | 0 | 15.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 200](/_clusters/cwnu200/) | 178.01 | 11.2 | 96.95 | 36.04 | 0.816 | 46 | 6.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 201](/_clusters/cwnu201/) | 218.81 | -11.27 | 95.38 | -10.28 | 0.999 | 92 | 30.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 202](/_clusters/cwnu202/) | 72.54 | -0.0 | 303.54 | 34.57 | 0.625 | 35 | 12.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -130,7 +132,7 @@ permalink: /HE2022_table/
 | [CWNU 207](/_clusters/cwnu207/) | 267.87 | -0.16 | 135.7 | -46.86 | 1.181 | 48 | 13.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 208](/_clusters/cwnu208/) | 267.92 | 1.82 | 137.86 | -45.57 | 1.316 | 44 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 209](/_clusters/cwnu209/) | 104.19 | -1.52 | 337.65 | 56.14 | 0.723 | 26 | 7.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 20](/_clusters/cwnu20/) | 240.52 | -16.16 | 99.85 | -31.52 | 1.473 | 0 | 15.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 21](/_clusters/cwnu21/) | 321.72 | -0.98 | 230.58 | -58.24 | 0.618 | 111 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 210](/_clusters/cwnu210/) | 166.59 | -2.3 | 74.96 | 38.69 | 0.532 | 38 | 4.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 211](/_clusters/cwnu211/) | 91.07 | -11.26 | 329.78 | 40.71 | 1.504 | 73 | 36.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 212](/_clusters/cwnu212/) | 246.38 | 1.03 | 120.63 | -28.84 | 0.667 | 35 | 9.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -141,7 +143,7 @@ permalink: /HE2022_table/
 | [CWNU 217](/_clusters/cwnu217/) | 335.79 | -1.6 | 249.43 | -49.47 | 0.856 | 21 | 14.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 218](/_clusters/cwnu218/) | 329.45 | -3.87 | 244.93 | -55.62 | 0.714 | 68 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 219](/_clusters/cwnu219/) | 115.32 | 0.79 | 356.09 | 62.67 | 0.367 | 40 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 21](/_clusters/cwnu21/) | 321.72 | -0.98 | 230.58 | -58.24 | 0.618 | 111 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 22](/_clusters/cwnu22/) | 164.9 | 1.08 | 77.13 | 42.09 | 0.773 | 37 | 24.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 220](/_clusters/cwnu220/) | 333.43 | 0.15 | 244.94 | -49.97 | 0.38 | 102 | 3.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 221](/_clusters/cwnu221/) | 209.2 | -15.02 | 87.8 | -3.57 | 1.827 | 0 | 13.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 222](/_clusters/cwnu222/) | 219.7 | -4.42 | 101.99 | -8.03 | 0.61 | 92 | 14.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -152,7 +154,7 @@ permalink: /HE2022_table/
 | [CWNU 227](/_clusters/cwnu227/) | 94.3 | -1.19 | 324.0 | 50.49 | 0.535 | 72 | 5.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 228](/_clusters/cwnu228/) | 252.07 | 2.87 | 126.06 | -32.57 | 0.578 | 49 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 229](/_clusters/cwnu229/) | 346.87 | -5.61 | 263.72 | -43.03 | 0.932 | 25 | 9.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 22](/_clusters/cwnu22/) | 164.9 | 1.08 | 77.13 | 42.09 | 0.773 | 37 | 24.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 23](/_clusters/cwnu23/) | 109.21 | 2.01 | 342.92 | 61.65 | 0.275 | 32 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 230](/_clusters/cwnu230/) | 15.19 | 4.9 | 270.13 | -13.37 | 0.991 | 30 | 10.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 231](/_clusters/cwnu231/) | 303.38 | 1.81 | 193.8 | -61.06 | 0.316 | 105 | 2.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 232](/_clusters/cwnu232/) | 210.39 | -10.64 | 92.23 | -2.6 | 2.041 | 38 | 40.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -163,7 +165,7 @@ permalink: /HE2022_table/
 | [CWNU 237](/_clusters/cwnu237/) | 96.66 | -11.69 | 336.12 | 43.56 | 1.625 | 0 | 11.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 238](/_clusters/cwnu238/) | 211.76 | -4.18 | 98.61 | -0.86 | 1.257 | 45 | 10.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 239](/_clusters/cwnu239/) | 208.65 | -2.96 | 98.27 | 2.45 | 0.624 | 105 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 23](/_clusters/cwnu23/) | 109.21 | 2.01 | 342.92 | 61.65 | 0.275 | 32 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 24](/_clusters/cwnu24/) | 196.09 | -0.68 | 94.38 | 14.62 | 0.42 | 90 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 240](/_clusters/cwnu240/) | 211.99 | 0.12 | 102.54 | 0.89 | 0.755 | 33 | 12.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 241](/_clusters/cwnu241/) | 106.59 | -1.92 | 341.82 | 56.96 | 0.35 | 33 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 242](/_clusters/cwnu242/) | 266.49 | -4.0 | 130.01 | -48.24 | 0.457 | 63 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -174,7 +176,7 @@ permalink: /HE2022_table/
 | [CWNU 247](/_clusters/cwnu247/) | 311.85 | -1.65 | 212.9 | -63.13 | 0.519 | 67 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 248](/_clusters/cwnu248/) | 74.93 | 1.52 | 303.61 | 37.4 | 0.373 | 66 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 249](/_clusters/cwnu249/) | 328.14 | -1.65 | 240.61 | -54.89 | 0.861 | 22 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 24](/_clusters/cwnu24/) | 196.09 | -0.68 | 94.38 | 14.62 | 0.42 | 90 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 25](/_clusters/cwnu25/) | 249.88 | 12.5 | 133.39 | -25.06 | 1.031 | 24 | 18.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 250](/_clusters/cwnu250/) | 211.03 | -6.56 | 96.16 | -1.3 | 0.52 | 44 | 12.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 251](/_clusters/cwnu251/) | 218.88 | -4.04 | 101.96 | -7.13 | 0.403 | 30 | 4.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 252](/_clusters/cwnu252/) | 299.32 | 1.58 | 185.39 | -61.08 | 0.787 | 27 | 7.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -185,7 +187,7 @@ permalink: /HE2022_table/
 | [CWNU 257](/_clusters/cwnu257/) | 203.07 | -8.96 | 90.36 | 4.56 | 0.718 | 49 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 258](/_clusters/cwnu258/) | 263.04 | -13.03 | 115.51 | -50.18 | 1.371 | 37 | 28.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 259](/_clusters/cwnu259/) | 51.21 | -2.41 | 293.62 | 15.05 | 1.135 | 0 | 9.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 25](/_clusters/cwnu25/) | 249.88 | 12.5 | 133.39 | -25.06 | 1.031 | 24 | 18.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 26](/_clusters/cwnu26/) | 196.58 | -1.52 | 93.86 | 13.78 | 0.435 | 19 | 7.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 260](/_clusters/cwnu260/) | 263.19 | -11.68 | 117.46 | -49.69 | 1.319 | 36 | 26.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 261](/_clusters/cwnu261/) | 311.81 | -2.76 | 213.6 | -64.2 | 1.089 | 94 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 262](/_clusters/cwnu262/) | 35.01 | 2.54 | 281.55 | 3.01 | 1.558 | 36 | 15.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -196,7 +198,7 @@ permalink: /HE2022_table/
 | [CWNU 267](/_clusters/cwnu267/) | 338.64 | -3.44 | 254.38 | -48.48 | 0.545 | 29 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 268](/_clusters/cwnu268/) | 247.62 | -1.21 | 119.17 | -31.07 | 0.328 | 32 | 3.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 269](/_clusters/cwnu269/) | 246.38 | -0.44 | 119.19 | -29.61 | 0.345 | 38 | 2.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 26](/_clusters/cwnu26/) | 196.58 | -1.52 | 93.86 | 13.78 | 0.435 | 19 | 7.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 27](/_clusters/cwnu27/) | 304.82 | 5.76 | 196.32 | -57.06 | 0.837 | 0 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 270](/_clusters/cwnu270/) | 263.27 | -17.68 | 108.88 | -52.3 | 1.66 | 93 | 42.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 271](/_clusters/cwnu271/) | 74.53 | -0.19 | 305.09 | 36.11 | 0.558 | 0 | 4.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 272](/_clusters/cwnu272/) | 118.71 | -3.15 | 4.54 | 59.44 | 0.417 | 65 | 6.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -207,7 +209,7 @@ permalink: /HE2022_table/
 | [CWNU 277](/_clusters/cwnu277/) | 302.61 | 2.3 | 192.21 | -60.57 | 0.465 | 74 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 278](/_clusters/cwnu278/) | 305.26 | -1.49 | 198.23 | -64.26 | 0.46 | 125 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 279](/_clusters/cwnu279/) | 215.28 | -0.11 | 103.83 | -2.14 | 0.553 | 27 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 27](/_clusters/cwnu27/) | 304.82 | 5.76 | 196.32 | -57.06 | 0.837 | 0 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 28](/_clusters/cwnu28/) | 26.46 | -0.55 | 280.39 | -6.01 | 0.355 | 69 | 3.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 280](/_clusters/cwnu280/) | 226.55 | 1.93 | 110.91 | -11.19 | 0.31 | 40 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 281](/_clusters/cwnu281/) | 228.93 | -4.65 | 106.03 | -16.35 | 0.731 | 69 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 282](/_clusters/cwnu282/) | 330.82 | -2.9 | 245.44 | -53.97 | 0.771 | 44 | 10.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -218,7 +220,7 @@ permalink: /HE2022_table/
 | [CWNU 287](/_clusters/cwnu287/) | 282.97 | 0.96 | 155.27 | -55.97 | 2.282 | 79 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 288](/_clusters/cwnu288/) | 212.47 | -4.72 | 98.45 | -1.74 | 0.465 | 157 | 10.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 289](/_clusters/cwnu289/) | 245.99 | 8.9 | 127.71 | -24.15 | 1.431 | 0 | 14.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
-| [CWNU 28](/_clusters/cwnu28/) | 26.46 | -0.55 | 280.39 | -6.01 | 0.355 | 69 | 3.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 29](/_clusters/cwnu29/) | 287.16 | -17.51 | 133.02 | -72.56 | 1.504 | 93 | 46.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 290](/_clusters/cwnu290/) | 242.02 | 6.76 | 123.38 | -22.09 | 0.893 | 44 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 291](/_clusters/cwnu291/) | 357.21 | 9.92 | 255.4 | -25.68 | 1.021 | 25 | 18.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 292](/_clusters/cwnu292/) | 272.26 | -0.36 | 140.02 | -50.21 | 0.498 | 126 | 8.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -229,8 +231,8 @@ permalink: /HE2022_table/
 | [CWNU 297](/_clusters/cwnu297/) | 108.79 | -8.85 | 350.04 | 51.5 | 0.437 | 75 | 9.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 298](/_clusters/cwnu298/) | 252.84 | -3.54 | 120.06 | -36.73 | 0.419 | 78 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 299](/_clusters/cwnu299/) | 180.83 | 2.66 | 89.52 | 29.58 | 0.608 | 0 | 4.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 29](/_clusters/cwnu29/) | 287.16 | -17.51 | 133.02 | -72.56 | 1.504 | 93 | 46.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 2](/_clusters/cwnu2/) | 283.47 | -11.34 | 139.91 | -65.84 | 1.2 | 89 | 36.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 3](/_clusters/cwnu3/) | 131.46 | 3.08 | 33.07 | 64.61 | 1.283 | 42 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 30](/_clusters/cwnu30/) | 70.76 | -3.62 | 305.91 | 31.06 | 0.551 | 43 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 300](/_clusters/cwnu300/) | 182.35 | -2.22 | 85.66 | 25.77 | 0.769 | 83 | 13.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 301](/_clusters/cwnu301/) | 251.14 | 3.18 | 125.73 | -31.62 | 0.763 | 42 | 10.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 302](/_clusters/cwnu302/) | 216.44 | 0.19 | 104.63 | -3.03 | 0.44 | 28 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -241,7 +243,7 @@ permalink: /HE2022_table/
 | [CWNU 307](/_clusters/cwnu307/) | 48.1 | 5.12 | 285.21 | 15.82 | 0.465 | 42 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 308](/_clusters/cwnu308/) | 310.93 | -2.42 | 211.45 | -64.13 | 0.631 | 16 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 309](/_clusters/cwnu309/) | 99.12 | 7.49 | 319.49 | 60.08 | 0.599 | 162 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 30](/_clusters/cwnu30/) | 70.76 | -3.62 | 305.91 | 31.06 | 0.551 | 43 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 31](/_clusters/cwnu31/) | 314.92 | 0.14 | 217.73 | -60.4 | 0.435 | 35 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 310](/_clusters/cwnu310/) | 211.28 | 1.02 | 103.01 | 1.93 | 0.616 | 35 | 4.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 311](/_clusters/cwnu311/) | 94.14 | -11.4 | 333.1 | 42.41 | 1.547 | 31 | 35.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 312](/_clusters/cwnu312/) | 101.97 | 0.28 | 332.53 | 56.44 | 0.762 | 33 | 8.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -252,7 +254,7 @@ permalink: /HE2022_table/
 | [CWNU 317](/_clusters/cwnu317/) | 345.3 | 2.07 | 254.15 | -39.84 | 0.689 | 36 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 318](/_clusters/cwnu318/) | 314.96 | -1.51 | 219.11 | -61.91 | 0.518 | 32 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 319](/_clusters/cwnu319/) | 67.0 | 1.76 | 298.26 | 30.82 | 0.252 | 89 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 31](/_clusters/cwnu31/) | 314.92 | 0.14 | 217.73 | -60.4 | 0.435 | 35 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 32](/_clusters/cwnu32/) | 350.44 | -2.25 | 262.54 | -38.21 | 0.548 | 35 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 320](/_clusters/cwnu320/) | 237.46 | -4.93 | 109.91 | -24.03 | 0.788 | 252 | 16.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 321](/_clusters/cwnu321/) | 235.54 | -0.32 | 113.31 | -20.16 | 0.338 | 33 | 2.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 322](/_clusters/cwnu322/) | 271.69 | -7.04 | 131.21 | -54.21 | 0.685 | 0 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
@@ -263,7 +265,7 @@ permalink: /HE2022_table/
 | [CWNU 327](/_clusters/cwnu327/) | 221.43 | -3.97 | 103.18 | -9.37 | 1.245 | 0 | 11.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 328](/_clusters/cwnu328/) | 19.17 | -4.81 | 280.88 | -14.43 | 0.601 | 60 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 329](/_clusters/cwnu329/) | 223.39 | -0.42 | 107.3 | -9.49 | 0.35 | 0 | 3.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 32](/_clusters/cwnu32/) | 350.44 | -2.25 | 262.54 | -38.21 | 0.548 | 35 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 33](/_clusters/cwnu33/) | 182.28 | -13.28 | 75.64 | 19.69 | 0.734 | 45 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 330](/_clusters/cwnu330/) | 225.37 | -1.98 | 106.81 | -11.97 | 0.372 | 57 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 331](/_clusters/cwnu331/) | 257.08 | -2.17 | 124.45 | -39.54 | 0.818 | 40 | 10.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 332](/_clusters/cwnu332/) | 225.56 | -3.15 | 105.83 | -12.67 | 0.767 | 36 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -274,7 +276,7 @@ permalink: /HE2022_table/
 | [CWNU 337](/_clusters/cwnu337/) | 23.33 | -0.79 | 279.16 | -8.9 | 0.532 | 32 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 338](/_clusters/cwnu338/) | 256.89 | -2.01 | 124.47 | -39.3 | 1.588 | 68 | 14.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 339](/_clusters/cwnu339/) | 260.58 | -3.25 | 125.89 | -43.04 | 0.642 | 36 | 11.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 33](/_clusters/cwnu33/) | 182.28 | -13.28 | 75.64 | 19.69 | 0.734 | 45 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 34](/_clusters/cwnu34/) | 235.8 | -8.0 | 106.1 | -23.95 | 1.291 | 48 | 25.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 340](/_clusters/cwnu340/) | 238.29 | -8.53 | 106.77 | -26.4 | 1.032 | 31 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 341](/_clusters/cwnu341/) | 231.94 | -0.71 | 111.14 | -17.19 | 0.345 | 120 | 4.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 342](/_clusters/cwnu342/) | 247.88 | -16.33 | 102.89 | -38.13 | 1.591 | 54 | 53.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -285,7 +287,7 @@ permalink: /HE2022_table/
 | [CWNU 347](/_clusters/cwnu347/) | 66.22 | 5.86 | 293.62 | 32.17 | 2.409 | 34 | 19.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 348](/_clusters/cwnu348/) | 105.41 | 8.37 | 328.13 | 64.96 | 0.877 | 80 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 349](/_clusters/cwnu349/) | 85.89 | 6.29 | 306.67 | 49.12 | 0.584 | 92 | 11.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 34](/_clusters/cwnu34/) | 235.8 | -8.0 | 106.1 | -23.95 | 1.291 | 48 | 25.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 35](/_clusters/cwnu35/) | 223.6 | -16.06 | 92.94 | -16.53 | 1.564 | 52 | 42.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 350](/_clusters/cwnu350/) | 161.45 | 3.02 | 76.41 | 46.0 | 0.906 | 33 | 17.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 351](/_clusters/cwnu351/) | 340.04 | 6.48 | 245.25 | -40.83 | 0.899 | 28 | 9.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 352](/_clusters/cwnu352/) | 318.83 | 1.42 | 223.59 | -57.61 | 0.893 | 80 | 12.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -296,7 +298,7 @@ permalink: /HE2022_table/
 | [CWNU 357](/_clusters/cwnu357/) | 317.01 | 1.42 | 220.51 | -58.4 | 0.975 | 54 | 14.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 358](/_clusters/cwnu358/) | 157.59 | 3.1 | 72.97 | 49.08 | 0.564 | 24 | 3.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 359](/_clusters/cwnu359/) | 61.81 | -1.13 | 298.05 | 24.88 | 0.642 | 93 | 10.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 35](/_clusters/cwnu35/) | 223.6 | -16.06 | 92.94 | -16.53 | 1.564 | 52 | 42.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 36](/_clusters/cwnu36/) | 222.65 | -2.46 | 105.11 | -9.77 | 0.64 | 0 | 3.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 360](/_clusters/cwnu360/) | 324.12 | -1.24 | 234.53 | -57.09 | 0.382 | 36 | 4.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 361](/_clusters/cwnu361/) | 158.16 | -5.55 | 64.35 | 42.8 | 1.019 | 33 | 11.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 362](/_clusters/cwnu362/) | 225.09 | -4.96 | 103.96 | -13.07 | 0.45 | 35 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -307,7 +309,7 @@ permalink: /HE2022_table/
 | [CWNU 367](/_clusters/cwnu367/) | 17.64 | 1.81 | 274.11 | -12.72 | 0.673 | 43 | 9.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 368](/_clusters/cwnu368/) | 155.39 | 2.41 | 69.95 | 50.3 | 0.376 | 39 | 3.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 369](/_clusters/cwnu369/) | 110.32 | 0.75 | 346.12 | 60.98 | 0.601 | 0 | 4.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 36](/_clusters/cwnu36/) | 222.65 | -2.46 | 105.11 | -9.77 | 0.64 | 0 | 3.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 37](/_clusters/cwnu37/) | 19.03 | -0.33 | 276.72 | -12.5 | 0.459 | 116 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 370](/_clusters/cwnu370/) | 64.26 | -0.04 | 298.41 | 27.54 | 0.476 | 30 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 371](/_clusters/cwnu371/) | 229.25 | 3.77 | 113.87 | -12.68 | 0.377 | 38 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 372](/_clusters/cwnu372/) | 219.63 | -6.54 | 100.05 | -8.92 | 0.73 | 124 | 22.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
@@ -318,7 +320,7 @@ permalink: /HE2022_table/
 | [CWNU 377](/_clusters/cwnu377/) | 128.87 | 6.61 | 29.3 | 68.72 | 0.993 | 0 | 15.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 378](/_clusters/cwnu378/) | 125.76 | -1.85 | 18.68 | 60.89 | 1.158 | 30 | 30.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 379](/_clusters/cwnu379/) | 312.23 | -2.18 | 214.08 | -63.51 | 0.407 | 28 | 4.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 37](/_clusters/cwnu37/) | 19.03 | -0.33 | 276.72 | -12.5 | 0.459 | 116 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 38](/_clusters/cwnu38/) | 123.31 | -6.92 | 13.54 | 55.95 | 0.895 | 36 | 21.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 380](/_clusters/cwnu380/) | 95.89 | 6.73 | 316.37 | 57.21 | 0.825 | 45 | 10.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 381](/_clusters/cwnu381/) | 161.68 | -0.65 | 72.56 | 43.54 | 0.434 | 65 | 4.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 382](/_clusters/cwnu382/) | 305.71 | 6.29 | 197.86 | -56.47 | 1.036 | 46 | 10.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -329,7 +331,7 @@ permalink: /HE2022_table/
 | [CWNU 387](/_clusters/cwnu387/) | 31.13 | 1.27 | 280.91 | -1.02 | 0.449 | 68 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 388](/_clusters/cwnu388/) | 90.45 | 9.1 | 307.13 | 54.44 | 0.924 | 39 | 19.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 389](/_clusters/cwnu389/) | 126.78 | -1.83 | 20.75 | 60.81 | 1.124 | 24 | 16.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 38](/_clusters/cwnu38/) | 123.31 | -6.92 | 13.54 | 55.95 | 0.895 | 36 | 21.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 39](/_clusters/cwnu39/) | 187.62 | 2.11 | 92.69 | 23.39 | 0.497 | 34 | 8.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 390](/_clusters/cwnu390/) | 163.66 | -6.22 | 68.72 | 38.39 | 0.601 | 42 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 391](/_clusters/cwnu391/) | 130.63 | -4.45 | 27.27 | 57.56 | 0.314 | 31 | 13.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 392](/_clusters/cwnu392/) | 350.42 | -2.2 | 262.47 | -38.2 | 0.601 | 26 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -340,8 +342,8 @@ permalink: /HE2022_table/
 | [CWNU 397](/_clusters/cwnu397/) | 19.27 | -1.97 | 278.32 | -13.05 | 0.39 | 65 | 3.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 398](/_clusters/cwnu398/) | 220.89 | -3.94 | 102.96 | -8.87 | 1.333 | 0 | 10.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [CWNU 399](/_clusters/cwnu399/) | 260.37 | -3.83 | 125.08 | -43.2 | 0.824 | 44 | 10.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 39](/_clusters/cwnu39/) | 187.62 | 2.11 | 92.69 | 23.39 | 0.497 | 34 | 8.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 3](/_clusters/cwnu3/) | 131.46 | 3.08 | 33.07 | 64.61 | 1.283 | 42 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 4](/_clusters/cwnu4/) | 348.55 | -0.99 | 259.85 | -39.07 | 0.581 | 85 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 40](/_clusters/cwnu40/) | 88.27 | -0.31 | 316.6 | 46.85 | 0.737 | 0 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 400](/_clusters/cwnu400/) | 21.35 | -0.94 | 278.37 | -10.73 | 0.481 | 116 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 401](/_clusters/cwnu401/) | 220.42 | -0.57 | 105.78 | -6.92 | 0.417 | 30 | 2.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 402](/_clusters/cwnu402/) | 152.01 | -8.63 | 55.19 | 44.47 | 1.267 | 0 | 16.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
@@ -352,7 +354,7 @@ permalink: /HE2022_table/
 | [CWNU 407](/_clusters/cwnu407/) | 25.7 | 0.03 | 279.52 | -6.42 | 0.464 | 58 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 408](/_clusters/cwnu408/) | 261.75 | -3.78 | 126.22 | -44.3 | 0.432 | 90 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 409](/_clusters/cwnu409/) | 147.95 | 8.28 | 69.01 | 59.73 | 0.956 | 40 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 40](/_clusters/cwnu40/) | 88.27 | -0.31 | 316.6 | 46.85 | 0.737 | 0 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 41](/_clusters/cwnu41/) | 313.23 | -10.81 | 225.55 | -71.02 | 1.343 | 38 | 25.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 410](/_clusters/cwnu410/) | 222.11 | -11.44 | 96.65 | -13.27 | 2.343 | 68 | 46.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 411](/_clusters/cwnu411/) | 80.56 | 2.61 | 306.6 | 42.66 | 0.505 | 37 | 8.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 412](/_clusters/cwnu412/) | 58.42 | -0.75 | 295.83 | 22.14 | 0.382 | 64 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -363,7 +365,7 @@ permalink: /HE2022_table/
 | [CWNU 417](/_clusters/cwnu417/) | 253.05 | 7.24 | 130.87 | -30.76 | 1.363 | 48 | 20.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 418](/_clusters/cwnu418/) | 202.49 | -1.88 | 96.37 | 8.41 | 1.081 | 0 | 7.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 419](/_clusters/cwnu419/) | 109.84 | -1.3 | 346.86 | 58.91 | 0.661 | 41 | 10.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 41](/_clusters/cwnu41/) | 313.23 | -10.81 | 225.55 | -71.02 | 1.343 | 38 | 25.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 42](/_clusters/cwnu42/) | 88.48 | -1.68 | 318.26 | 46.08 | 0.409 | 47 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 420](/_clusters/cwnu420/) | 309.78 | 5.53 | 205.34 | -56.68 | 0.583 | 40 | 6.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 421](/_clusters/cwnu421/) | 90.21 | 5.72 | 311.44 | 52.22 | 0.517 | 24 | 7.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 422](/_clusters/cwnu422/) | 88.66 | 5.16 | 310.63 | 50.66 | 0.527 | 36 | 7.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
@@ -374,7 +376,7 @@ permalink: /HE2022_table/
 | [CWNU 427](/_clusters/cwnu427/) | 68.81 | -1.56 | 302.64 | 30.6 | 0.791 | 39 | 15.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 428](/_clusters/cwnu428/) | 110.46 | -2.33 | 348.7 | 58.18 | 0.504 | 67 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 429](/_clusters/cwnu429/) | 140.0 | 12.09 | 62.96 | 68.04 | 1.095 | 69 | 30.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 42](/_clusters/cwnu42/) | 88.48 | -1.68 | 318.26 | 46.08 | 0.409 | 47 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 43](/_clusters/cwnu43/) | 21.36 | -0.65 | 278.11 | -10.58 | 0.486 | 33 | 4.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 430](/_clusters/cwnu430/) | 260.39 | -3.44 | 125.54 | -42.99 | 0.676 | 19 | 3.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 431](/_clusters/cwnu431/) | 23.05 | -2.69 | 280.74 | -10.02 | 0.466 | 37 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 432](/_clusters/cwnu432/) | 25.91 | -0.58 | 280.16 | -6.51 | 0.336 | 170 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -385,7 +387,7 @@ permalink: /HE2022_table/
 | [CWNU 437](/_clusters/cwnu437/) | 260.39 | -4.2 | 124.66 | -43.42 | 0.868 | 0 | 7.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 438](/_clusters/cwnu438/) | 137.6 | 11.12 | 56.42 | 68.87 | 1.284 | 40 | 31.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 439](/_clusters/cwnu439/) | 81.34 | 3.01 | 306.76 | 43.52 | 0.565 | 77 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 43](/_clusters/cwnu43/) | 21.36 | -0.65 | 278.11 | -10.58 | 0.486 | 33 | 4.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 44](/_clusters/cwnu44/) | 19.08 | -0.9 | 277.26 | -12.72 | 0.447 | 138 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 440](/_clusters/cwnu440/) | 58.48 | -0.46 | 295.58 | 22.34 | 0.859 | 33 | 12.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 441](/_clusters/cwnu441/) | 131.78 | -4.28 | 29.43 | 57.45 | 0.407 | 40 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 442](/_clusters/cwnu442/) | 165.64 | -14.46 | 63.09 | 31.29 | 2.824 | 104 | 51.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -396,7 +398,7 @@ permalink: /HE2022_table/
 | [CWNU 447](/_clusters/cwnu447/) | 108.8 | -1.53 | 345.19 | 58.28 | 0.972 | 42 | 14.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 448](/_clusters/cwnu448/) | 17.56 | -8.7 | 283.77 | -17.59 | 0.924 | 0 | 7.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 449](/_clusters/cwnu449/) | 161.07 | 1.95 | 74.87 | 45.65 | 1.344 | 47 | 17.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 44](/_clusters/cwnu44/) | 19.08 | -0.9 | 277.26 | -12.72 | 0.447 | 138 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 45](/_clusters/cwnu45/) | 240.17 | -8.26 | 107.97 | -27.95 | 1.645 | 106 | 32.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 450](/_clusters/cwnu450/) | 303.76 | 6.99 | 194.33 | -55.87 | 2.057 | 33 | 27.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 451](/_clusters/cwnu451/) | 199.83 | 2.18 | 98.78 | 12.65 | 0.534 | 35 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 452](/_clusters/cwnu452/) | 247.28 | 19.79 | 137.83 | -18.54 | 0.8 | 0 | 10.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
@@ -407,7 +409,7 @@ permalink: /HE2022_table/
 | [CWNU 457](/_clusters/cwnu457/) | 115.76 | 5.14 | 354.33 | 66.98 | 0.487 | 37 | 7.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 458](/_clusters/cwnu458/) | 321.3 | 1.44 | 227.56 | -56.4 | 0.491 | 70 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 459](/_clusters/cwnu459/) | 111.2 | 0.41 | 348.05 | 61.0 | 0.337 | 62 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 45](/_clusters/cwnu45/) | 240.17 | -8.26 | 107.97 | -27.95 | 1.645 | 106 | 32.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 46](/_clusters/cwnu46/) | 67.36 | -1.4 | 301.58 | 29.46 | 0.728 | 43 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 460](/_clusters/cwnu460/) | 82.22 | 2.18 | 308.4 | 43.75 | 0.886 | 39 | 9.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 461](/_clusters/cwnu461/) | 157.46 | 0.81 | 70.22 | 47.7 | 0.374 | 127 | 4.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 462](/_clusters/cwnu462/) | 111.32 | 19.71 | 315.3 | 77.03 | 2.616 | 149 | 65.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -418,7 +420,7 @@ permalink: /HE2022_table/
 | [CWNU 467](/_clusters/cwnu467/) | 304.67 | 1.04 | 196.53 | -61.78 | 0.524 | 0 | 4.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 468](/_clusters/cwnu468/) | 73.89 | -2.17 | 306.62 | 34.45 | 0.543 | 92 | 9.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 469](/_clusters/cwnu469/) | 76.17 | -0.41 | 306.49 | 37.33 | 0.486 | 109 | 14.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 46](/_clusters/cwnu46/) | 67.36 | -1.4 | 301.58 | 29.46 | 0.728 | 43 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 47](/_clusters/cwnu47/) | 62.52 | -4.38 | 301.49 | 23.79 | 0.52 | 28 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 470](/_clusters/cwnu470/) | 171.71 | 2.18 | 83.34 | 37.11 | 0.585 | 40 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 471](/_clusters/cwnu471/) | 77.48 | -0.77 | 307.82 | 38.18 | 0.777 | 0 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 472](/_clusters/cwnu472/) | 217.6 | -9.28 | 96.66 | -8.34 | 0.63 | 26 | 13.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
@@ -429,7 +431,7 @@ permalink: /HE2022_table/
 | [CWNU 477](/_clusters/cwnu477/) | 14.51 | 1.32 | 273.02 | -15.7 | 0.668 | 34 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 478](/_clusters/cwnu478/) | 78.74 | -1.89 | 309.94 | 38.52 | 0.769 | 42 | 12.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 479](/_clusters/cwnu479/) | 118.23 | -9.98 | 5.22 | 52.61 | 0.545 | 0 | 9.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 47](/_clusters/cwnu47/) | 62.52 | -4.38 | 301.49 | 23.79 | 0.52 | 28 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 48](/_clusters/cwnu48/) | 233.35 | -12.73 | 100.29 | -23.79 | 0.898 | 39 | 21.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 480](/_clusters/cwnu480/) | 303.23 | 0.87 | 193.49 | -62.0 | 0.419 | 109 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 481](/_clusters/cwnu481/) | 140.63 | 2.4 | 50.29 | 60.02 | 0.412 | 28 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 482](/_clusters/cwnu482/) | 8.49 | -1.48 | 272.54 | -22.32 | 0.658 | 20 | 5.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -440,7 +442,7 @@ permalink: /HE2022_table/
 | [CWNU 487](/_clusters/cwnu487/) | 141.98 | 1.95 | 52.03 | 58.9 | 0.92 | 41 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 488](/_clusters/cwnu488/) | 4.59 | -0.55 | 269.57 | -25.27 | 0.395 | 38 | 3.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 489](/_clusters/cwnu489/) | 140.59 | 2.46 | 50.3 | 60.09 | 0.345 | 48 | 5.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 48](/_clusters/cwnu48/) | 233.35 | -12.73 | 100.29 | -23.79 | 0.898 | 39 | 21.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 49](/_clusters/cwnu49/) | 233.25 | 1.01 | 113.37 | -17.52 | 0.376 | 115 | 5.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 490](/_clusters/cwnu490/) | 302.91 | 2.2 | 192.82 | -60.67 | 0.503 | 27 | 8.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 491](/_clusters/cwnu491/) | 120.57 | 2.67 | 7.18 | 65.44 | 0.908 | 20 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 492](/_clusters/cwnu492/) | 29.37 | 2.89 | 278.66 | -1.85 | 0.792 | 847 | 27.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -451,8 +453,8 @@ permalink: /HE2022_table/
 | [CWNU 497](/_clusters/cwnu497/) | 28.49 | -0.5 | 281.27 | -4.18 | 0.449 | 32 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 498](/_clusters/cwnu498/) | 109.79 | 1.09 | 344.83 | 61.07 | 0.439 | 48 | 8.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 499](/_clusters/cwnu499/) | 160.58 | 2.18 | 74.68 | 46.18 | 0.352 | 35 | 8.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 49](/_clusters/cwnu49/) | 233.25 | 1.01 | 113.37 | -17.52 | 0.376 | 115 | 5.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 4](/_clusters/cwnu4/) | 348.55 | -0.99 | 259.85 | -39.07 | 0.581 | 85 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 5](/_clusters/cwnu5/) | 177.44 | -10.47 | 75.06 | 25.17 | 2.164 | 41 | 39.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 50](/_clusters/cwnu50/) | 354.11 | -1.62 | 264.35 | -34.79 | 0.415 | 68 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 500](/_clusters/cwnu500/) | 68.83 | -3.1 | 304.14 | 29.76 | 0.536 | 82 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 501](/_clusters/cwnu501/) | 227.73 | -8.27 | 102.09 | -16.89 | 0.969 | 41 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 502](/_clusters/cwnu502/) | 110.24 | -0.33 | 346.83 | 59.95 | 0.339 | 82 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -463,7 +465,7 @@ permalink: /HE2022_table/
 | [CWNU 507](/_clusters/cwnu507/) | 306.92 | 14.76 | 198.62 | -47.93 | 1.095 | 0 | 8.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 508](/_clusters/cwnu508/) | 107.89 | 3.91 | 338.49 | 62.7 | 0.957 | 0 | 8.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 509](/_clusters/cwnu509/) | 250.74 | 12.45 | 133.93 | -25.75 | 1.048 | 32 | 23.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 50](/_clusters/cwnu50/) | 354.11 | -1.62 | 264.35 | -34.79 | 0.415 | 68 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 51](/_clusters/cwnu51/) | 83.01 | 4.01 | 306.98 | 45.46 | 0.329 | 77 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 510](/_clusters/cwnu510/) | 70.82 | 13.37 | 287.82 | 39.58 | 2.843 | 72 | 39.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 511](/_clusters/cwnu511/) | 63.31 | -4.32 | 301.91 | 24.49 | 0.668 | 0 | 5.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 512](/_clusters/cwnu512/) | 120.32 | 6.11 | 5.65 | 68.84 | 1.037 | 0 | 10.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
@@ -474,7 +476,7 @@ permalink: /HE2022_table/
 | [CWNU 517](/_clusters/cwnu517/) | 68.44 | 2.74 | 298.13 | 32.55 | 0.397 | 29 | 3.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 518](/_clusters/cwnu518/) | 163.59 | -0.42 | 74.44 | 42.21 | 1.005 | 72 | 17.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 519](/_clusters/cwnu519/) | 94.79 | 7.62 | 313.82 | 56.96 | 3.066 | 175 | 69.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 51](/_clusters/cwnu51/) | 83.01 | 4.01 | 306.98 | 45.46 | 0.329 | 77 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 52](/_clusters/cwnu52/) | 175.04 | -11.83 | 72.27 | 26.21 | 1.617 | 95 | 48.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 520](/_clusters/cwnu520/) | 196.63 | 1.56 | 96.69 | 15.19 | 0.817 | 36 | 14.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 521](/_clusters/cwnu521/) | 93.6 | 9.16 | 310.26 | 56.99 | 1.075 | 31 | 19.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 522](/_clusters/cwnu522/) | 192.39 | -19.67 | 75.81 | 8.08 | 2.664 | 61 | 27.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -485,7 +487,7 @@ permalink: /HE2022_table/
 | [CWNU 527](/_clusters/cwnu527/) | 215.29 | -3.21 | 101.08 | -3.56 | 0.395 | 87 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 528](/_clusters/cwnu528/) | 247.38 | -10.64 | 109.14 | -35.37 | 2.423 | 47 | 46.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 529](/_clusters/cwnu529/) | 261.8 | -12.98 | 114.73 | -49.08 | 1.562 | 36 | 31.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 52](/_clusters/cwnu52/) | 175.04 | -11.83 | 72.27 | 26.21 | 1.617 | 95 | 48.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 53](/_clusters/cwnu53/) | 122.68 | 2.64 | 12.26 | 65.51 | 0.374 | 30 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 530](/_clusters/cwnu530/) | 113.95 | -10.42 | 358.59 | 51.46 | 0.591 | 49 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 531](/_clusters/cwnu531/) | 255.28 | -15.38 | 107.68 | -44.34 | 1.33 | 38 | 27.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 532](/_clusters/cwnu532/) | 217.86 | -19.51 | 87.37 | -12.96 | 2.596 | 34 | 51.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
@@ -496,16 +498,15 @@ permalink: /HE2022_table/
 | [CWNU 537](/_clusters/cwnu537/) | 48.9 | 15.59 | 275.58 | 21.0 | 3.196 | 0 | 56.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 538](/_clusters/cwnu538/) | 246.77 | -2.35 | 117.52 | -30.92 | 0.635 | 47 | 17.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 539](/_clusters/cwnu539/) | 247.6 | -15.43 | 103.81 | -37.54 | 2.197 | 49 | 50.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 53](/_clusters/cwnu53/) | 122.68 | 2.64 | 12.26 | 65.51 | 0.374 | 30 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 54](/_clusters/cwnu54/) | 268.21 | -12.34 | 120.41 | -54.3 | 1.32 | 0 | 14.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 540](/_clusters/cwnu540/) | 79.05 | 5.47 | 302.21 | 43.0 | 3.03 | 84 | 49.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 541](/_clusters/cwnu541/) | 118.47 | 10.43 | 357.87 | 72.78 | 0.887 | 23 | 24.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 54](/_clusters/cwnu54/) | 268.21 | -12.34 | 120.41 | -54.3 | 1.32 | 0 | 14.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 55](/_clusters/cwnu55/) | 126.26 | 2.71 | 20.87 | 65.37 | 0.807 | 46 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 56](/_clusters/cwnu56/) | 113.52 | 8.47 | 345.58 | 69.33 | 0.786 | 51 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 57](/_clusters/cwnu57/) | 261.74 | 1.67 | 132.12 | -41.0 | 0.862 | 29 | 14.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 58](/_clusters/cwnu58/) | 108.41 | 1.38 | 342.03 | 60.72 | 1.141 | 47 | 23.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 59](/_clusters/cwnu59/) | 265.19 | -4.44 | 128.33 | -47.48 | 0.718 | 96 | 12.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 5](/_clusters/cwnu5/) | 177.44 | -10.47 | 75.06 | 25.17 | 2.164 | 41 | 39.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 6](/_clusters/cwnu6/) | 322.57 | 0.9 | 230.02 | -56.2 | 0.585 | 33 | 6.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 60](/_clusters/cwnu60/) | 37.72 | -6.12 | 290.49 | 1.45 | 0.815 | 0 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 61](/_clusters/cwnu61/) | 290.68 | -12.11 | 153.05 | -71.09 | 1.838 | 39 | 25.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 62](/_clusters/cwnu62/) | 345.11 | -0.52 | 256.7 | -41.58 | 0.642 | 40 | 5.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -516,7 +517,7 @@ permalink: /HE2022_table/
 | [CWNU 67](/_clusters/cwnu67/) | 70.04 | -0.16 | 302.05 | 32.38 | 0.584 | 85 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 68](/_clusters/cwnu68/) | 234.25 | -4.07 | 109.14 | -20.8 | 0.437 | 31 | 11.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 69](/_clusters/cwnu69/) | 113.63 | 0.67 | 352.67 | 62.07 | 0.387 | 33 | 4.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 6](/_clusters/cwnu6/) | 322.57 | 0.9 | 230.02 | -56.2 | 0.585 | 33 | 6.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 7](/_clusters/cwnu7/) | 325.14 | -4.63 | 240.06 | -59.1 | 0.743 | 37 | 7.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 70](/_clusters/cwnu70/) | 21.7 | -0.3 | 277.95 | -10.12 | 0.438 | 73 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 71](/_clusters/cwnu71/) | 125.62 | -5.19 | 17.85 | 57.57 | 0.411 | 112 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 72](/_clusters/cwnu72/) | 257.69 | -2.71 | 124.31 | -40.36 | 0.671 | 82 | 13.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -527,7 +528,7 @@ permalink: /HE2022_table/
 | [CWNU 77](/_clusters/cwnu77/) | 132.86 | 11.09 | 44.99 | 71.44 | 1.172 | 0 | 11.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 78](/_clusters/cwnu78/) | 149.09 | 0.47 | 60.5 | 53.38 | 0.924 | 0 | 7.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 79](/_clusters/cwnu79/) | 234.78 | 0.3 | 113.5 | -19.2 | 0.344 | 45 | 6.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 7](/_clusters/cwnu7/) | 325.14 | -4.63 | 240.06 | -59.1 | 0.743 | 37 | 7.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [CWNU 8](/_clusters/cwnu8/) | 232.63 | -3.19 | 109.17 | -18.95 | 1.064 | 27 | 21.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 80](/_clusters/cwnu80/) | 198.26 | -2.42 | 93.87 | 11.88 | 1.297 | 32 | 16.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 81](/_clusters/cwnu81/) | 201.82 | 1.24 | 98.86 | 10.45 | 0.929 | 27 | 16.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 82](/_clusters/cwnu82/) | 195.94 | -0.41 | 94.56 | 14.88 | 0.386 | 110 | 6.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -538,7 +539,7 @@ permalink: /HE2022_table/
 | [CWNU 87](/_clusters/cwnu87/) | 127.85 | -2.86 | 22.61 | 59.64 | 0.324 | 0 | 4.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 88](/_clusters/cwnu88/) | 276.26 | -10.39 | 131.42 | -59.83 | 1.838 | 45 | 25.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 89](/_clusters/cwnu89/) | 272.61 | -6.28 | 133.22 | -54.44 | 0.799 | 30 | 11.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [CWNU 8](/_clusters/cwnu8/) | 232.63 | -3.19 | 109.17 | -18.95 | 1.064 | 27 | 21.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+| [CWNU 9](/_clusters/cwnu9/) | 218.16 | -7.66 | 98.37 | -8.11 | 0.984 | 144 | 22.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 90](/_clusters/cwnu90/) | 126.14 | 5.1 | 21.33 | 67.76 | 0.957 | 25 | 13.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 91](/_clusters/cwnu91/) | 232.67 | -8.31 | 104.32 | -21.31 | 1.215 | 154 | 20.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 92](/_clusters/cwnu92/) | 113.56 | 0.86 | 352.41 | 62.23 | 0.882 | 57 | 10.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -549,4 +550,3 @@ permalink: /HE2022_table/
 | [CWNU 97](/_clusters/cwnu97/) | 192.76 | -3.68 | 89.99 | 16.08 | 0.735 | 18 | 11.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 98](/_clusters/cwnu98/) | 21.0 | 1.54 | 275.97 | -9.88 | 0.677 | 30 | 7.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 99](/_clusters/cwnu99/) | 132.08 | 5.36 | 36.31 | 66.55 | 0.299 | 168 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [CWNU 9](/_clusters/cwnu9/) | 218.16 | -7.66 | 98.37 | -8.11 | 0.984 | 144 | 22.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

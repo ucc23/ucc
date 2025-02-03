@@ -93,7 +93,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 13634](/_clusters/cwwdl13634/)| 99 | 259.841 | -39.065 | 0.58 | 0.985 | -1.132 | -- |
 |[OC 0681](/_clusters/oc0681/)| 99 | 259.837 | -39.064 | 0.58 | 0.984 | -1.132 | -- |
+|[VVV 100](/_clusters/vvv100/)| 94 | 259.832 | -39.059 | 0.578 | 0.987 | -1.133 | -- |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-03</i></font>

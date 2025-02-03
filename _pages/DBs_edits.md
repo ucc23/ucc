@@ -778,20 +778,10 @@ koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
 Since KOPOSOV2008 is previous to this article, I assume the RA coordinate is incorrect
 here.
 
-Merged the 'Name' and 'OtherName' columns into a single 'Name' column:
+Merged the 'Name' and 'OtherName' columns into a single 'Name' column.
 
-```
-import pandas as pd
-import csv
 
-df = pd.read_csv("GLUSHKOVA2010.csv")
-# Merge columns, skipping NaN values
-df['Name'] = df.apply(lambda row: ','.join(filter(pd.notna, [row['Name'], row['OtherName']])), axis=1)
-df = df.drop(columns=['OtherName'])
-df.to_csv(
-    "GLUSHKOVA2010_2.csv",
-    na_rep="nan",
-    index=False,
-    quoting=csv.QUOTE_NONNUMERIC,
-)
-```
+### BORISSOVA2011
+
+- Converted 'RAJ2000, DEJ2000' in hms columns into degree values
+- Added 'VVV-CL' naming with leading zeroes

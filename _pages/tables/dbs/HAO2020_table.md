@@ -9,6 +9,7 @@ permalink: /HAO2020_table/
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
 | ---- | - | - | -- | --- | --- | --  | --  |-- |
+| [HXWHB 1](/_clusters/hxwhb1/) | 149.63 | -9.51 | 51.78 | 45.14 | 0.537 | 0 | 5.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HXWHB 10](/_clusters/hxwhb10/) | 174.28 | -0.89 | 81.94 | 33.28 | 0.391 | 0 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HXWHB 11](/_clusters/hxwhb11/) | 265.42 | -5.0 | 127.86 | -47.99 | 0.583 | 0 | 5.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HXWHB 12](/_clusters/hxwhb12/) | 289.9 | 1.5 | 167.12 | -58.74 | 0.534 | 0 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
@@ -16,7 +17,6 @@ permalink: /HAO2020_table/
 | [HXWHB 14](/_clusters/hxwhb14/) | 75.14 | 2.82 | 302.38 | 38.29 | 0.279 | 99 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HXWHB 15](/_clusters/hxwhb15/) | 88.71 | -0.85 | 317.62 | 46.81 | 0.156 | 104 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [HXWHB 16](/_clusters/hxwhb16/) | 88.68 | -1.57 | 318.35 | 46.29 | 0.536 | 0 | 6.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [HXWHB 1](/_clusters/hxwhb1/) | 149.63 | -9.51 | 51.78 | 45.14 | 0.537 | 0 | 5.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HXWHB 2](/_clusters/hxwhb2/) | 173.44 | -2.16 | 80.11 | 33.26 | 0.601 | 0 | 4.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HXWHB 3](/_clusters/hxwhb3/) | 173.33 | -2.05 | 80.14 | 33.41 | 1.083 | 0 | 13.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [HXWHB 4](/_clusters/hxwhb4/) | 173.04 | -1.74 | 80.25 | 33.83 | 0.534 | 38 | 9.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |

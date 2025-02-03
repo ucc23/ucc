@@ -19,9 +19,9 @@ permalink: /CASADO2021_table/
 | [Casado 17](/_clusters/casado17/) | 118.9 | 0.97 | 3.78 | 63.56 | 0.464 | 0 | 1.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado 18](/_clusters/casado18/) | 113.88 | 0.35 | 353.38 | 61.84 | 0.373 | 0 | 2.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Casado 19](/_clusters/casado19/) | 108.93 | -2.02 | 345.81 | 57.88 | 0.272 | 40 | 6.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Casado 2](/_clusters/casado2/) | 288.62 | -0.26 | 163.41 | -59.82 | 0.365 | 26 | 11.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado 20](/_clusters/casado20/) | 109.63 | -3.47 | 348.05 | 56.82 | 0.511 | 33 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado 21](/_clusters/casado21/) | 107.77 | 0.26 | 341.91 | 59.44 | 0.378 | 30 | 3.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Casado 2](/_clusters/casado2/) | 288.62 | -0.26 | 163.41 | -59.82 | 0.365 | 26 | 11.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado 3](/_clusters/casado3/) | 248.9 | -0.01 | 121.16 | -31.52 | 0.879 | 34 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Casado 4](/_clusters/casado4/) | 256.09 | -0.19 | 125.81 | -37.61 | 0.803 | 70 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Casado 5](/_clusters/casado5/) | 251.2 | -3.15 | 119.42 | -35.13 | 0.786 | 86 | 15.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |

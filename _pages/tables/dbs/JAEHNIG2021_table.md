@@ -34,9 +34,9 @@ permalink: /JAEHNIG2021_table/
 | [Berkeley 65](/_clusters/berkeley65/) | 135.85 | 0.26 | 39.77 | 60.4 | 0.45 | 115 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 66](/_clusters/berkeley66/) | 139.43 | 0.18 | 46.03 | 58.73 | 0.206 | 380 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Berkeley 69](/_clusters/berkeley69/) | 174.44 | -1.85 | 81.09 | 32.61 | 0.252 | 125 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Berkeley 7](/_clusters/berkeley7/) | 130.14 | 0.38 | 28.55 | 62.37 | 0.342 | 137 | 3.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 70](/_clusters/berkeley70/) | 166.87 | 3.63 | 81.46 | 41.95 | 0.222 | 822 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 79](/_clusters/berkeley79/) | 31.18 | 0.91 | 281.25 | -1.15 | 0.389 | 222 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Berkeley 7](/_clusters/berkeley7/) | 130.14 | 0.38 | 28.55 | 62.37 | 0.342 | 137 | 3.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 81](/_clusters/berkeley81/) | 33.7 | -2.48 | 285.42 | -0.45 | 0.242 | 325 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Berkeley 82](/_clusters/berkeley82/) | 46.85 | 1.61 | 287.85 | 13.11 | 0.709 | 227 | 7.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Berkeley 86](/_clusters/berkeley86/) | 76.65 | 1.28 | 305.08 | 38.69 | 0.565 | 89 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -45,9 +45,9 @@ permalink: /JAEHNIG2021_table/
 | [Berkeley 99](/_clusters/berkeley99/) | 115.92 | 10.15 | 350.26 | 71.78 | 0.175 | 448 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Biurakan 2](/_clusters/biurakan2/) | 72.75 | 1.36 | 302.28 | 35.49 | 0.545 | 129 | 8.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Blanco 1](/_clusters/blanco1/) | 15.09 | -79.09 | 0.85 | -29.96 | 4.221 | 547 | 105.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Bochum 1](/_clusters/bochum1/) | 192.41 | 3.38 | 96.32 | 19.78 | 0.204 | 37 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 10](/_clusters/bochum10/) | 287.02 | -0.31 | 160.56 | -59.13 | 0.387 | 52 | 6.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 14](/_clusters/bochum14/) | 6.38 | -0.5 | 270.5 | -23.69 | 0.301 | 179 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Bochum 1](/_clusters/bochum1/) | 192.41 | 3.38 | 96.32 | 19.78 | 0.204 | 37 | 5.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 2](/_clusters/bochum2/) | 212.3 | -0.41 | 102.21 | 0.38 | 0.19 | 82 | 9.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 6](/_clusters/bochum6/) | 234.74 | -0.22 | 112.99 | -19.42 | 0.253 | 159 | 5.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Bochum 7](/_clusters/bochum7/) | 265.19 | -1.97 | 131.19 | -45.98 | 0.141 | 23 | 3.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
@@ -72,12 +72,12 @@ permalink: /JAEHNIG2021_table/
 | [Dolidze 25](/_clusters/dolidze25/) | 212.0 | -1.3 | 101.28 | 0.24 | 0.208 | 178 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Dolidze 47b](/_clusters/dolidze47b/) | 134.3 | -2.61 | 34.88 | 58.3 | 0.435 | 117 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Feinstein 1](/_clusters/feinstein1/) | 290.03 | 0.39 | 166.48 | -59.82 | 0.386 | 38 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Haffner 1](/_clusters/haffner1/) | 232.34 | -7.31 | 105.13 | -20.57 | 0.389 | 862 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Haffner 16](/_clusters/haffner16/) | 242.09 | 0.47 | 117.59 | -25.46 | 0.286 | 250 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Haffner 18](/_clusters/haffner18/) | 243.16 | 0.45 | 118.17 | -26.39 | 0.206 | 165 | 3.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Haffner 19](/_clusters/haffner19/) | 243.07 | 0.53 | 118.19 | -26.27 | 0.201 | 179 | 3.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Haffner 1](/_clusters/haffner1/) | 232.34 | -7.31 | 105.13 | -20.57 | 0.389 | 862 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Haffner 21](/_clusters/haffner21/) | 244.85 | 1.64 | 120.29 | -27.21 | 0.29 | 113 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Haffner 2](/_clusters/haffner2/) | 232.84 | -6.88 | 105.77 | -20.82 | 0.114 | 1602 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Haffner 21](/_clusters/haffner21/) | 244.85 | 1.64 | 120.29 | -27.21 | 0.29 | 113 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Haffner 6](/_clusters/haffner6/) | 227.86 | 0.23 | 110.0 | -13.15 | 0.2 | 674 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Haffner 8](/_clusters/haffner8/) | 227.48 | 1.29 | 110.78 | -12.31 | 0.328 | 369 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Hogg 10](/_clusters/hogg10/) | 290.79 | 0.09 | 167.66 | -60.38 | 0.382 | 32 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -116,8 +116,8 @@ permalink: /JAEHNIG2021_table/
 | [Melotte 111](/_clusters/melotte111/) | 224.93 | 83.69 | 186.01 | 25.65 | 11.614 | 100 | 371.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 169](/_clusters/melotte169/) | 340.1 | -7.9 | 261.21 | -49.92 | 1.064 | 775 | 12.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 179](/_clusters/melotte179/) | 30.51 | 17.05 | 266.55 | 5.62 | 2.895 | 369 | 32.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 20](/_clusters/melotte20/) | 147.36 | -6.4 | 51.62 | 48.98 | 5.74 | 842 | 92.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 210](/_clusters/melotte210/) | 36.32 | 5.33 | 279.65 | 5.44 | 2.105 | 242 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 22](/_clusters/melotte22/) | 166.46 | -23.61 | 56.6 | 24.11 | 7.36 | 1682 | 94.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 24](/_clusters/melotte24/) | 147.51 | 5.66 | 64.74 | 58.25 | 0.255 | 1400 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -125,8 +125,8 @@ permalink: /JAEHNIG2021_table/
 | [Melotte 71](/_clusters/melotte71/) | 228.95 | 4.51 | 114.38 | -12.06 | 0.437 | 1551 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 97](/_clusters/melotte97/) | 277.81 | -4.44 | 141.86 | -57.0 | 0.733 | 496 | 10.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 1027](/_clusters/ngc1027/) | 135.75 | 1.55 | 40.68 | 61.62 | 0.885 | 640 | 11.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [NGC 1039](/_clusters/ngc1039/) | 143.68 | -15.65 | 40.53 | 42.72 | 2.003 | 913 | 19.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 103](/_clusters/ngc103/) | 119.79 | -1.39 | 6.31 | 61.33 | 0.282 | 528 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 1039](/_clusters/ngc1039/) | 143.68 | -15.65 | 40.53 | 42.72 | 2.003 | 913 | 19.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 1193](/_clusters/ngc1193/) | 146.81 | -12.16 | 46.49 | 44.38 | 0.197 | 1072 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 1220](/_clusters/ngc1220/) | 143.04 | -3.96 | 47.92 | 53.34 | 0.328 | 191 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 1245](/_clusters/ngc1245/) | 146.66 | -8.93 | 48.69 | 47.24 | 0.307 | 592 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -173,9 +173,9 @@ permalink: /JAEHNIG2021_table/
 | [NGC 2236](/_clusters/ngc2236/) | 204.37 | -1.69 | 97.42 | 6.83 | 0.337 | 902 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 2243](/_clusters/ngc2243/) | 239.48 | -18.01 | 97.4 | -31.28 | 0.229 | 1429 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2244](/_clusters/ngc2244/) | 206.36 | -2.03 | 98.04 | 4.91 | 0.645 | 1155 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [NGC 225](/_clusters/ngc225/) | 121.96 | -1.08 | 10.8 | 61.77 | 1.44 | 190 | 20.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2251](/_clusters/ngc2251/) | 203.61 | 0.11 | 98.68 | 8.34 | 0.682 | 183 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 2259](/_clusters/ngc2259/) | 201.78 | 2.12 | 99.63 | 10.88 | 0.269 | 178 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [NGC 225](/_clusters/ngc225/) | 121.96 | -1.08 | 10.8 | 61.77 | 1.44 | 190 | 20.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2264](/_clusters/ngc2264/) | 202.94 | 2.17 | 100.22 | 9.88 | 1.39 | 612 | 10.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2266](/_clusters/ngc2266/) | 187.79 | 10.3 | 100.83 | 26.98 | 0.253 | 645 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 2269](/_clusters/ngc2269/) | 207.88 | 0.3 | 100.82 | 4.63 | 0.423 | 138 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -319,9 +319,9 @@ permalink: /JAEHNIG2021_table/
 | [NGC 6604](/_clusters/ngc6604/) | 18.25 | 1.69 | 274.51 | -12.24 | 0.467 | 99 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6611](/_clusters/ngc6611/) | 16.96 | 0.81 | 274.69 | -13.79 | 0.55 | 1126 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6613](/_clusters/ngc6613/) | 14.19 | -1.0 | 274.99 | -17.09 | 0.627 | 146 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 663](/_clusters/ngc663/) | 129.49 | -0.96 | 26.59 | 61.21 | 0.34 | 1168 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6631](/_clusters/ngc6631/) | 19.48 | -0.17 | 276.79 | -12.03 | 0.346 | 42 | 2.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6633](/_clusters/ngc6633/) | 36.12 | 8.35 | 276.85 | 6.62 | 2.536 | 470 | 27.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [NGC 663](/_clusters/ngc663/) | 129.49 | -0.96 | 26.59 | 61.21 | 0.34 | 1168 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6649](/_clusters/ngc6649/) | 21.64 | -0.78 | 278.36 | -10.4 | 0.475 | 1084 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6664](/_clusters/ngc6664/) | 23.94 | -0.44 | 279.12 | -8.19 | 0.454 | 209 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6694](/_clusters/ngc6694/) | 23.87 | -2.91 | 281.32 | -9.39 | 0.508 | 459 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -370,9 +370,9 @@ permalink: /JAEHNIG2021_table/
 | [Pismis 11](/_clusters/pismis11/) | 271.65 | -0.7 | 138.97 | -50.01 | 0.376 | 173 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Pismis 16](/_clusters/pismis16/) | 277.83 | 0.68 | 147.81 | -53.17 | 0.369 | 41 | 4.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Pismis 18](/_clusters/pismis18/) | 308.23 | 0.31 | 204.23 | -62.09 | 0.346 | 435 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Pismis 2](/_clusters/pismis2/) | 258.86 | -3.34 | 124.48 | -41.67 | 0.213 | 204 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Pismis 20](/_clusters/pismis20/) | 320.51 | -1.21 | 228.85 | -59.07 | 0.306 | 292 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Pismis 24](/_clusters/pismis24/) | 353.1 | 0.64 | 261.39 | -34.4 | 0.567 | 192 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Pismis 2](/_clusters/pismis2/) | 258.86 | -3.34 | 124.48 | -41.67 | 0.213 | 204 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Pismis 3](/_clusters/pismis3/) | 257.85 | 0.5 | 127.83 | -38.64 | 0.417 | 1462 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Pismis 4](/_clusters/pismis4/) | 262.92 | -2.35 | 128.79 | -44.41 | 1.448 | 231 | 24.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Pismis 7](/_clusters/pismis7/) | 259.05 | 2.0 | 130.29 | -38.7 | 0.172 | 250 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -390,17 +390,18 @@ permalink: /JAEHNIG2021_table/
 | [Ruprecht 75](/_clusters/ruprecht75/) | 276.79 | -4.48 | 140.49 | -56.31 | 0.211 | 75 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 79](/_clusters/ruprecht79/) | 277.1 | -0.81 | 145.26 | -53.85 | 0.251 | 597 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 98](/_clusters/ruprecht98/) | 297.33 | -2.28 | 179.72 | -64.58 | 2.1 | 149 | 34.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [Stock 1](/_clusters/stock1/) | 60.29 | 2.08 | 294.15 | 25.16 | 2.457 | 219 | 35.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 13](/_clusters/stock13/) | 290.5 | 1.59 | 168.25 | -58.88 | 0.323 | 19 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Stock 14](/_clusters/stock14/) | 295.21 | -0.68 | 175.92 | -62.54 | 0.394 | 97 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 16](/_clusters/stock16/) | 306.14 | 0.07 | 199.86 | -62.62 | 0.262 | 11 | 5.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [Stock 1](/_clusters/stock1/) | 60.29 | 2.08 | 294.15 | 25.16 | 2.457 | 219 | 35.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Stock 24](/_clusters/stock24/) | 121.56 | -0.87 | 9.94 | 61.97 | 0.307 | 243 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Stock 2](/_clusters/stock2/) | 133.41 | -1.63 | 33.86 | 59.52 | 2.669 | 1669 | 42.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Stock 24](/_clusters/stock24/) | 121.56 | -0.87 | 9.94 | 61.97 | 0.307 | 243 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Stock 7](/_clusters/stock7/) | 134.7 | 0.02 | 37.43 | 60.63 | 1.47 | 184 | 15.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Stock 8](/_clusters/stock8/) | 173.32 | -0.22 | 81.96 | 34.45 | 0.463 | 326 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Taurus Moving Cluster](/_clusters/taurusmovingcluster/) | 179.63 | -21.12 | 67.45 | 16.95 | 21.208 | 414 | 232.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Tombaugh 3](/_clusters/tombaugh3/) | 130.05 | -0.17 | 28.09 | 61.86 | 0.199 | 2394 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trapezium](/_clusters/trapezium/) | 209.02 | -19.38 | 83.83 | -5.4 | 2.541 | 55 | 9.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| [Trumpler 1](/_clusters/trumpler1/) | 128.22 | -1.13 | 23.92 | 61.28 | 0.351 | 303 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 10](/_clusters/trumpler10/) | 262.87 | 0.58 | 131.94 | -42.57 | 2.298 | 754 | 39.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 11](/_clusters/trumpler11/) | 284.46 | -4.87 | 151.25 | -61.62 | 0.261 | 140 | 3.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 14](/_clusters/trumpler14/) | 287.41 | -0.58 | 160.99 | -59.55 | 0.389 | 892 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -408,12 +409,11 @@ permalink: /JAEHNIG2021_table/
 | [Trumpler 16](/_clusters/trumpler16/) | 287.6 | -0.65 | 161.25 | -59.7 | 0.399 | 544 | 4.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 17](/_clusters/trumpler17/) | 288.69 | 0.42 | 164.11 | -59.23 | 0.381 | 376 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 18](/_clusters/trumpler18/) | 290.96 | -0.13 | 167.83 | -60.66 | 0.655 | 217 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Trumpler 1](/_clusters/trumpler1/) | 128.22 | -1.13 | 23.92 | 61.28 | 0.351 | 303 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Trumpler 2](/_clusters/trumpler2/) | 137.39 | -3.98 | 39.23 | 55.9 | 1.45 | 430 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 21](/_clusters/trumpler21/) | 307.58 | -0.28 | 203.07 | -62.79 | 0.735 | 196 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Trumpler 24](/_clusters/trumpler24/) | 344.76 | 1.58 | 254.22 | -40.57 | 2.395 | 0 | 23.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Trumpler 27](/_clusters/trumpler27/) | 355.06 | -0.75 | 264.09 | -33.52 | 0.406 | 0 | 1.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 28](/_clusters/trumpler28/) | 356.01 | -0.28 | 264.23 | -32.47 | 0.671 | 91 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [Trumpler 2](/_clusters/trumpler2/) | 137.39 | -3.98 | 39.23 | 55.9 | 1.45 | 430 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 36](/_clusters/trumpler36/) | 77.7 | 4.18 | 302.7 | 41.18 | 0.135 | 1287 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 37](/_clusters/trumpler37/) | 99.38 | 3.86 | 324.71 | 57.63 | 1.637 | 46 | 28.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Trumpler 4](/_clusters/trumpler4/) | 186.34 | 1.24 | 91.18 | 24.09 | 0.46 | 56 | 3.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
@@ -428,9 +428,9 @@ permalink: /JAEHNIG2021_table/
 | [VDBH 166](/_clusters/vdbh166/) | 320.78 | 6.41 | 222.72 | -52.27 | 0.552 | 42 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 66](/_clusters/vdbh66/) | 276.0 | -3.01 | 141.31 | -54.72 | 0.128 | 448 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 369 | 18.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.25 | 36 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.757 | 0 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.87 | 73 | 16.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 4](/_clusters/xdocc4/) | 241.56 | 2.1 | 118.83 | -24.17 | 0.299 | 22 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

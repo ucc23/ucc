@@ -28,8 +28,8 @@ permalink: /DA_table/
 | [CWNU 2546](/_clusters/cwnu2546/) | 254.36 | -0.08 | 124.7 | -36.13 | 0.265 | 33 | 3.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 2704](/_clusters/cwnu2704/) | 299.38 | -0.21 | 185.06 | -62.86 | 0.289 | 43 | 3.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 2746](/_clusters/cwnu2746/) | 103.8 | 0.84 | 334.75 | 57.94 | 0.251 | 31 | 3.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
-| [CWNU 3112](/_clusters/cwnu3112/) | 294.88 | 1.87 | 176.62 | -59.98 | 0.145 | 21 | 1.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 31](/_clusters/cwnu31/) | 314.92 | 0.14 | 217.73 | -60.4 | 0.435 | 35 | 3.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [CWNU 3112](/_clusters/cwnu3112/) | 294.88 | 1.87 | 176.62 | -59.98 | 0.145 | 21 | 1.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 3486](/_clusters/cwnu3486/) | 289.38 | -1.31 | 163.87 | -61.09 | 0.134 | 16 | 1.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 3737](/_clusters/cwnu3737/) | 101.91 | 0.72 | 331.98 | 56.76 | 0.228 | 27 | 3.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWNU 3815](/_clusters/cwnu3815/) | 274.86 | -2.03 | 141.1 | -53.22 | 0.177 | 27 | 1.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
@@ -110,4 +110,5 @@ permalink: /DA_table/
 | [UBC 590](/_clusters/ubc590/) | 87.58 | 1.59 | 313.82 | 47.58 | 0.25 | 27 | 9.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 662](/_clusters/ubc662/) | 296.33 | 0.62 | 178.9 | -61.53 | 0.195 | 20 | 2.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UPK 230](/_clusters/upk230/) | 116.89 | 9.83 | 353.46 | 71.79 | 1.867 | 41 | 22.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 24](/_clusters/vvv24/) | 306.05 | -0.04 | 199.69 | -62.74 | 0.476 | 21 | 0.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [VVV 40](/_clusters/vvv40/) | 316.95 | 0.57 | 221.09 | -59.19 | 0.412 | 34 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |

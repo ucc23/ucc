@@ -56,8 +56,8 @@ permalink: /CHEN2003_table/
 | [Melotte 111](/_clusters/melotte111/) | 224.93 | 83.69 | 186.01 | 25.65 | 11.614 | 100 | 371.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 169](/_clusters/melotte169/) | 340.1 | -7.9 | 261.21 | -49.92 | 1.064 | 775 | 12.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 179](/_clusters/melotte179/) | 30.51 | 17.05 | 266.55 | 5.62 | 2.895 | 369 | 32.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 20](/_clusters/melotte20/) | 147.36 | -6.4 | 51.62 | 48.98 | 5.74 | 842 | 92.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Melotte 204](/_clusters/melotte204/) | 13.7 | -4.42 | 277.94 | -19.11 | 1.513 | 525 | 16.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 210](/_clusters/melotte210/) | 36.32 | 5.33 | 279.65 | 5.44 | 2.105 | 242 | 17.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 22](/_clusters/melotte22/) | 166.46 | -23.61 | 56.6 | 24.11 | 7.36 | 1682 | 94.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Melotte 66](/_clusters/melotte66/) | 259.57 | -14.27 | 111.57 | -47.68 | 0.174 | 1158 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -178,8 +178,8 @@ permalink: /CHEN2003_table/
 | [NGC 6604](/_clusters/ngc6604/) | 18.25 | 1.69 | 274.51 | -12.24 | 0.467 | 99 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6611](/_clusters/ngc6611/) | 16.96 | 0.81 | 274.69 | -13.79 | 0.55 | 1126 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6613](/_clusters/ngc6613/) | 14.19 | -1.0 | 274.99 | -17.09 | 0.627 | 146 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [NGC 6633](/_clusters/ngc6633/) | 36.12 | 8.35 | 276.85 | 6.62 | 2.536 | 470 | 27.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 663](/_clusters/ngc663/) | 129.49 | -0.96 | 26.59 | 61.21 | 0.34 | 1168 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [NGC 6633](/_clusters/ngc6633/) | 36.12 | 8.35 | 276.85 | 6.62 | 2.536 | 470 | 27.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6664](/_clusters/ngc6664/) | 23.94 | -0.44 | 279.12 | -8.19 | 0.454 | 209 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6694](/_clusters/ngc6694/) | 23.87 | -2.91 | 281.32 | -9.39 | 0.508 | 459 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [NGC 6705](/_clusters/ngc6705/) | 27.3 | -2.77 | 282.77 | -6.27 | 0.411 | 1244 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
@@ -221,7 +221,7 @@ permalink: /CHEN2003_table/
 | [Stock 7](/_clusters/stock7/) | 134.7 | 0.02 | 37.43 | 60.63 | 1.47 | 184 | 15.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Taurus Moving Cluster](/_clusters/taurusmovingcluster/) | 179.63 | -21.12 | 67.45 | 16.95 | 21.208 | 414 | 232.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 10](/_clusters/trumpler10/) | 262.87 | 0.58 | 131.94 | -42.57 | 2.298 | 754 | 39.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [Trumpler 24](/_clusters/trumpler24/) | 344.76 | 1.58 | 254.22 | -40.57 | 2.395 | 0 | 23.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Trumpler 2](/_clusters/trumpler2/) | 137.39 | -3.98 | 39.23 | 55.9 | 1.45 | 430 | 20.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [Trumpler 24](/_clusters/trumpler24/) | 344.76 | 1.58 | 254.22 | -40.57 | 2.395 | 0 | 23.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [Trumpler 37](/_clusters/trumpler37/) | 99.38 | 3.86 | 324.71 | 57.63 | 1.637 | 46 | 28.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 136](/_clusters/vdbh136/) | 301.7 | -5.54 | 189.52 | -68.38 | 0.326 | 2942 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
