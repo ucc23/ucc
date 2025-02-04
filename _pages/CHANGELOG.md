@@ -5,19 +5,20 @@ permalink: /changelog/
 ---
 
 If you find any problems with the site or have suggestions on how to improve it,
-you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues).
+you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
-## Version [250XYY]()
+## Version [250204](https://doi.org/10.5281/zenodo.14801947)
 
-- Added [Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B/).
+- Added [Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B)
+- Added [Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B/)
 
 
 
 ## Version [250131](https://doi.org/10.5281/zenodo.14782856)
 
-- Added [Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G/).
-- Added [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C).
+- Added [Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G/)
+- Added [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C)
 - Added `Rv` parameter to Dias (2021) entries
 
 
@@ -40,24 +41,24 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 
 ## Version [240511](https://zenodo.org/records/11179393)
 
-- Added [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract).
+- Added [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract)
 
 
 ## Version [240304](https://doi.org/10.5281/zenodo.10779488)
 
-- Added [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract).
-- Added [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract).
+- Added [Koposov et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..771K/abstract)
+- Added [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B/abstract)
 
 
 ## Version [240207](https://doi.org/10.5281/zenodo.10632525)
 
 - Fixed [Issue 12](https://github.com/ucc23/ucc/issues/12)
 
-Added new OC Casado-Hendy 1.
+Added new OC Casado-Hendy 1
 
 - Fixed [Issue 41](https://github.com/ucc23/ucc/issues/41)
 
-Added [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract).
+Added [Perren et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.131P/abstract)
 
 
 ## Version [231105](https://doi.org/10.5281/zenodo.10072846)

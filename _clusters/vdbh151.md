@@ -123,7 +123,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[VVV 28](/_clusters/vvv28/)| 66 | 205.072 | -61.734 | 0.255 | -5.888 | -1.771 | -25.475 |
+|[VVV 028](/_clusters/vvv028/)| 66 | 205.072 | -61.734 | 0.255 | -5.888 | -1.771 | -25.475 |
 
 
 <br>

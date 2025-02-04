@@ -68,7 +68,7 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | 185.04 | -62.854 | 0.289 | -6.477 | -0.116 | -4.101 |
+|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | 185.04 | -62.854 | 0.289 | -6.477 | -0.116 | -4.101 |
 | **UCC** |185.014 | -62.844 | 0.293 | -6.477 | -0.11 | 13.958 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=185.014,-62.844" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=185.014%20-62.844&output=json&radius=5&userEntry=cwwdl1492" target="_blank">Simbad</a></p>
@@ -85,14 +85,14 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 
 | Reference |  Values |
 | :---         |     :---:      |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230310380C) | `logAge=7.79, Z=0.4` |
+| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | `logAge=7.79, Z=0.4` |
 
 ### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
 
 | Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 2704](/_clusters/cwnu2704/)| 85 | 185.033 | -62.853 | 0.289 | -6.458 | -0.109 | -- |
-|[VVV 12](/_clusters/vvv12/)| 69 | 185.048 | -62.862 | 0.287 | -6.458 | -0.109 | -9.681 |
+|[VVV 012](/_clusters/vvv012/)| 69 | 185.048 | -62.862 | 0.287 | -6.458 | -0.109 | -9.681 |
 
 
 <br>

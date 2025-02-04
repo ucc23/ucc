@@ -778,10 +778,19 @@ koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
 Since KOPOSOV2008 is previous to this article, I assume the RA coordinate is incorrect
 here.
 
-Merged the 'Name' and 'OtherName' columns into a single 'Name' column.
+Merged the `Name` and `OtherName` columns into a single `Name` column.
 
 
 ### BORISSOVA2011
 
-- Converted 'RAJ2000, DEJ2000' in hms columns into degree values
+- Converted `RAJ2000, DEJ2000` in hms columns into degree values
 - Added 'VVV-CL' naming with leading zeroes
+
+
+
+### BORISSOVA2011
+
+- Combined the tables `tablea1` and `tableb1`
+
+The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` values.
+The inverted parallaxes differ substantially from the distance values.

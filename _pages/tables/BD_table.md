@@ -91,6 +91,14 @@ permalink: /BD_table/
 | [Theia 7082](/_clusters/theia7082/) | 169.61 | 4.29 | 84.18 | 40.02 | 0.72 | 0 | 6.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 775](/_clusters/theia775/) | 115.7 | 0.85 | 356.87 | 62.82 | 1.182 | 0 | 9.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 990](/_clusters/theia990/) | 99.09 | 4.02 | 324.11 | 57.57 | 1.099 | 0 | 10.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
-| [VVV 46](/_clusters/vvv46/) | 320.33 | -0.18 | 227.53 | -58.28 | 0.323 | 144 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
-| [VVV 52](/_clusters/vvv52/) | 322.4 | 0.2 | 230.43 | -56.88 | 0.325 | 10 | 2.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
-| [VVV 96](/_clusters/vvv96/) | 345.87 | -1.1 | 257.92 | -41.32 | 0.344 | 17 | 0.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 046](/_clusters/vvv046/) | 320.33 | -0.18 | 227.53 | -58.28 | 0.323 | 144 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 052](/_clusters/vvv052/) | 322.4 | 0.2 | 230.43 | -56.88 | 0.325 | 10 | 2.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVV 096](/_clusters/vvv096/) | 345.87 | -1.1 | 257.92 | -41.32 | 0.344 | 17 | 0.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL019](/_clusters/vvvxcl019/) | 315.89 | 2.28 | 217.91 | -58.05 | 0.191 | 17 | 0.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL041](/_clusters/vvvxcl041/) | 338.98 | 2.75 | 247.9 | -44.17 | 0.054 | 47 | 0.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL042](/_clusters/vvvxcl042/) | 338.55 | 2.12 | 248.13 | -44.92 | 0.149 | 6 | 4.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL044](/_clusters/vvvxcl044/) | 335.96 | -2.43 | 250.56 | -49.89 | 0.157 | 45 | 1.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL050](/_clusters/vvvxcl050/) | 337.7 | -2.46 | 252.33 | -48.59 | 0.267 | 40 | 0.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL056](/_clusters/vvvxcl056/) | 345.92 | -2.51 | 259.5 | -42.09 | 0.248 | 19 | 1.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL085](/_clusters/vvvxcl085/) | 14.63 | 0.3 | 274.01 | -16.09 | 0.355 | 65 | 6.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL115](/_clusters/vvvxcl115/) | 20.12 | 0.38 | 276.59 | -11.2 | 0.235 | 92 | 1.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |

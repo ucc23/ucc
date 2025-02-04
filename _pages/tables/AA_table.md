@@ -2320,7 +2320,9 @@ permalink: /AA_table/
 | [VDBH 87](/_clusters/vdbh87/) | 280.72 | 0.12 | 151.15 | -55.39 | 0.411 | 265 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 90](/_clusters/vdbh90/) | 283.14 | -1.45 | 153.06 | -58.07 | 0.373 | 351 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 369 | 18.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVV 5](/_clusters/vvv5/) | 294.95 | -1.74 | 174.75 | -63.48 | 0.401 | 719 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 005](/_clusters/vvv005/) | 294.95 | -1.74 | 174.75 | -63.48 | 0.401 | 719 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVVX CL048](/_clusters/vvvxcl048/) | 343.05 | 2.61 | 251.72 | -41.23 | 0.897 | 50 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVVX CL094](/_clusters/vvvxcl094/) | 18.69 | 1.97 | 274.48 | -11.73 | 0.493 | 194 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Waterloo 7](/_clusters/waterloo7/) | 230.28 | 0.62 | 111.53 | -15.09 | 0.27 | 60 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.449 | 39 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ZHBJZ 1](/_clusters/zhbjz1/) | 218.58 | -1.67 | 103.95 | -5.79 | 3.487 | 239 | 45.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |

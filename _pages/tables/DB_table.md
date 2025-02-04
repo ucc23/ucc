@@ -667,12 +667,12 @@ permalink: /DB_table/
 | [UBC 483](/_clusters/ubc483/) | 267.42 | -1.53 | 133.74 | -47.42 | 0.518 | 18 | 9.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 633](/_clusters/ubc633/) | 231.17 | 1.56 | 112.82 | -15.43 | 0.17 | 16 | 12.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 645](/_clusters/ubc645/) | 252.06 | 0.64 | 123.86 | -33.81 | 0.16 | 0 | 5.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVV 071](/_clusters/vvv071/) | 333.63 | -0.21 | 245.57 | -50.08 | 0.372 | 48 | 10.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVV 081](/_clusters/vvv081/) | 337.76 | -0.28 | 249.93 | -47.12 | 0.431 | 27 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 124](/_clusters/vvv124/) | 358.41 | 1.33 | 264.15 | -29.58 | 0.197 | 0 | 2.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 127](/_clusters/vvv127/) | 359.58 | 1.51 | 264.69 | -28.5 | 0.085 | 11 | 7.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 153](/_clusters/vvv153/) | 3.95 | 0.32 | 268.38 | -25.38 | 0.295 | 28 | 4.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 161](/_clusters/vvv161/) | 4.82 | -2.85 | 271.92 | -26.2 | 0.282 | 0 | 3.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 162](/_clusters/vvv162/) | 8.91 | -1.12 | 272.42 | -21.79 | 0.354 | 24 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVV 71](/_clusters/vvv71/) | 333.63 | -0.21 | 245.57 | -50.08 | 0.372 | 48 | 10.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVV 81](/_clusters/vvv81/) | 337.76 | -0.28 | 249.93 | -47.12 | 0.431 | 27 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.5 | 26 | 7.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.799 | 31 | 30.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |

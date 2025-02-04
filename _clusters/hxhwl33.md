@@ -117,7 +117,8 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 |[H21OC 33](/_clusters/h21oc33/)| 96 | 251.697 | -41.201 | 0.903 | 1.428 | -2.994 | -6.307 |
 |[CWWDL 14192](/_clusters/cwwdl14192/)| 89 | 251.697 | -41.2 | 0.904 | 1.421 | -2.99 | -9.521 |
 |[UBC 1561](/_clusters/ubc1561/)| 85 | 251.685 | -41.201 | 0.903 | 1.418 | -2.976 | -10.846 |
+|[VVVX CL048](/_clusters/vvvxcl048/)| 80 | 251.685 | -41.221 | 0.897 | 1.461 | -2.997 | -9.521 |
 
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-02-04</i></font>

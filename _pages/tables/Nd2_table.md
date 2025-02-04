@@ -788,6 +788,6 @@ permalink: /Nd2_table/
 | [VDBH 11](/_clusters/vdbh11/) | 245.89 | -1.74 | 117.62 | -29.85 | 0.211 | 179 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 56](/_clusters/vdbh56/) | 264.47 | 1.55 | 134.35 | -43.18 | 1.101 | 306 | 14.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 8](/_clusters/vdbh8/) | 247.95 | -4.16 | 116.38 | -32.85 | 0.263 | 634 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVV 12](/_clusters/vvv12/) | 299.38 | -0.23 | 185.06 | -62.88 | 0.287 | 82 | 1.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVV 40](/_clusters/vvv40/) | 316.95 | 0.57 | 221.09 | -59.19 | 0.412 | 34 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 012](/_clusters/vvv012/) | 299.38 | -0.23 | 185.06 | -62.88 | 0.287 | 82 | 1.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [VVV 040](/_clusters/vvv040/) | 316.95 | 0.57 | 221.09 | -59.19 | 0.412 | 34 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 5](/_clusters/xdocc5/) | 247.81 | 1.29 | 121.75 | -29.9 | 0.601 | 44 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

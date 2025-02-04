@@ -5,7 +5,7 @@ permalink: /CHI2023_1_table/
 ---
 
 &nbsp;
-# [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230208926C)
+# [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023RAA....23f5008C)
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
 | ---- | - | - | -- | --- | --- | --  | --  |-- |

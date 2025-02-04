@@ -110,5 +110,5 @@ permalink: /DA_table/
 | [UBC 590](/_clusters/ubc590/) | 87.58 | 1.59 | 313.82 | 47.58 | 0.25 | 27 | 9.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 662](/_clusters/ubc662/) | 296.33 | 0.62 | 178.9 | -61.53 | 0.195 | 20 | 2.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UPK 230](/_clusters/upk230/) | 116.89 | 9.83 | 353.46 | 71.79 | 1.867 | 41 | 22.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVV 24](/_clusters/vvv24/) | 306.05 | -0.04 | 199.69 | -62.74 | 0.476 | 21 | 0.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVV 40](/_clusters/vvv40/) | 316.95 | 0.57 | 221.09 | -59.19 | 0.412 | 34 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 024](/_clusters/vvv024/) | 306.05 | -0.04 | 199.69 | -62.74 | 0.476 | 21 | 0.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVV 040](/_clusters/vvv040/) | 316.95 | 0.57 | 221.09 | -59.19 | 0.412 | 34 | 2.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |

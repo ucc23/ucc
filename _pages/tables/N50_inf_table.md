@@ -21,3 +21,6 @@ permalink: /N50_inf_table/
 | [Tombaugh 3](/_clusters/tombaugh3/) | 130.05 | -0.17 | 28.09 | 61.86 | 0.199 | 2394 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 5](/_clusters/trumpler5/) | 202.81 | 1.02 | 99.13 | 9.46 | 0.291 | 2677 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 136](/_clusters/vdbh136/) | 301.7 | -5.54 | 189.52 | -68.38 | 0.326 | 2942 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVVX CL099](/_clusters/vvvxcl099/) | 16.95 | 0.78 | 274.71 | -13.82 | 0.564 | 2196 | 6.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVVX CL100](/_clusters/vvvxcl100/) | 16.92 | 0.75 | 274.72 | -13.86 | 0.565 | 2167 | 7.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVVX CL101](/_clusters/vvvxcl101/) | 17.02 | 0.69 | 274.83 | -13.79 | 0.557 | 2134 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |

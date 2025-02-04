@@ -605,3 +605,6 @@ permalink: /N50_500_table/
 | [VDBH 87](/_clusters/vdbh87/) | 280.72 | 0.12 | 151.15 | -55.39 | 0.411 | 265 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 90](/_clusters/vdbh90/) | 283.14 | -1.45 | 153.06 | -58.07 | 0.373 | 351 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 369 | 18.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+| [VVVX CL092](/_clusters/vvvxcl092/) | 13.91 | -0.48 | 274.36 | -17.09 | 0.58 | 332 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
+| [VVVX CL097](/_clusters/vvvxcl097/) | 14.21 | -0.53 | 274.56 | -16.85 | 0.613 | 299 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVVX CL104](/_clusters/vvvxcl104/) | 15.36 | -0.42 | 275.03 | -15.78 | 0.422 | 269 | 3.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |

@@ -30,3 +30,4 @@ permalink: /AD_table/
 | [Ryu 809](/_clusters/ryu809/) | 21.24 | 2.28 | 275.42 | -9.33 | 0.137 | 70 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 3862](/_clusters/theia3862/) | 133.6 | -3.34 | 33.17 | 57.84 | 1.1 | 0 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 828](/_clusters/theia828/) | 11.26 | -5.37 | 277.65 | -21.71 | 2.642 | 0 | 18.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
+| [VVVX CL023](/_clusters/vvvxcl023/) | 317.24 | 2.36 | 220.17 | -57.44 | 0.247 | 17 | 1.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |

@@ -1001,9 +1001,10 @@ permalink: /CB_table/
 | [UPK 596](/_clusters/upk596/) | 313.12 | -11.39 | 226.14 | -71.58 | 1.416 | 31 | 28.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UPK 64](/_clusters/upk64/) | 54.76 | 11.9 | 281.75 | 24.7 | 2.359 | 36 | 57.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 75](/_clusters/vdbh75/) | 276.98 | -2.01 | 143.74 | -54.66 | 0.399 | 35 | 7.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVV 082](/_clusters/vvv082/) | 337.01 | -1.16 | 250.16 | -48.27 | 0.296 | 117 | 7.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 103](/_clusters/vvv103/) | 295.48 | 0.07 | 176.89 | -61.87 | 0.137 | 0 | 2.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 151](/_clusters/vvv151/) | 0.02 | -1.43 | 267.82 | -29.66 | 0.174 | 0 | 3.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 152](/_clusters/vvv152/) | 6.27 | 1.79 | 268.28 | -22.64 | 0.135 | 14 | 9.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 157](/_clusters/vvv157/) | 10.07 | 1.02 | 271.03 | -19.73 | 0.337 | 19 | 5.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVV 82](/_clusters/vvv82/) | 337.01 | -1.16 | 250.16 | -48.27 | 0.296 | 117 | 7.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+| [VVVX CL096](/_clusters/vvvxcl096/) | 18.34 | 1.77 | 274.49 | -12.12 | 0.501 | 18 | 2.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Waterloo 8](/_clusters/waterloo8/) | 231.39 | 1.13 | 112.54 | -15.83 | 0.228 | 51 | 9.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
