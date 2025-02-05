@@ -539,6 +539,28 @@ Changed names:
 Coordinates given by Vizier to Markarian 38 & 50 are wrong, fixed both.
 
 
+### CHEN2003
+
+[Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C); _On the Galactic Disk Metallicity Distribution from Open
+Clusters. I. New Catalogs and Abundance Gradient_
+
+There are two tables listed in [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/125/1397), Table 1 (119 rows) and 2 (144 rows),
+with different columns and number of rows. I combined these tables into a single one
+using the median for repeated `(GLON, GLAT)`  values and appending `[Fe/H]` values
+when repeated (some are very different).
+
+vdB 1 --> VDB 1
+
+Added columns `(RA, DEC)`. Merged two entries that were present in both tables under
+different names: 'Melotte 111, Coma Ber' and 'Melotte 22, Pleiades'. The final table
+contains 216 entries.
+
+Fixed the following `(GLON, GLAT)` coordinates manually because I suspect they are
+incorrectly uploaded to Vizier:
+
+Collinder 197: 261.7 +08.9 --> 261.7 +0.89
+IC 1848      : 137.2 +00.1 --> 137.2 +1.00
+
 
 ### KOPOSOV2008
 
@@ -556,6 +578,61 @@ Table 1 in the article lists 11 Koposov clusters and these are used here.
 
 The remaining 4 clusters are listed in Table 2 as "new infrared embedded clusters"
 with central coordinates only.
+
+
+### GLUSHKOVA2010
+
+[Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G/); _Automated search for star clusters in large multiband
+surveys: II. Discovery and investigation of open clusters in the galactic plane_
+
+"_We have found and verified 153 new clusters (...). Color excesses E(B-V ),
+distance moduli and ages were determined for 130 new and 14 yet-unstudied known
+clusters_"
+
+"_All clusters from Table 1 having the other name according to Kronberger et
+al. (2006) or Froebrich et al. (2007), are listed neither in the database of open
+clusters (WEBDA) by Paunzen, Mermilliod (2009), nor in the catalog by Dias et
+al. (2002). That is why we consider them as a new clusters._"
+
+Table 1: 130 entries (new clusters)
+Table 2: 23 entries (new embedded clusters)
+Table 3: 14 entries (yet-unstudied clusters)
+
+Total of 167 entries in the three tables.
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=V/132) page lists 194 objects. Tables 1, 2 and 3 entries are present in Vizier
+in its entirety. There are 27 extra entries in the Vizier table
+
+The cluster 'koposov41;fsr0839' presents RA coordinates that are substantially different
+from those listed in the UCC for 'FSR 0839'.
+
+Koposov 41, FSR 839 (KOPOSOV2008): `(90.9917, 30.26139)`; converted from Table 2 in article
+FSR 0839 (UCC)                   : `(90.958 , 30.236)`
+koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
+
+Since KOPOSOV2008 is previous to this article, I assume the RA coordinate is incorrect
+here.
+
+Merged the `Name` and `OtherName` columns into a single `Name` column.
+
+
+### BORISSOVA2011
+
+[Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B); _New Galactic star clusters discovered in the VVV survey_
+
+- Converted `RAJ2000, DEJ2000` in hms columns into degree values
+- Added 'VVV-CL' naming with leading zeroes
+
+
+### BORISSOVA2018
+
+[Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B); _New Galactic star clusters discovered in the disc area
+of the VVVX survey_
+
+- Combined the tables `tablea1` and `tableb1`
+
+The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` values.
+The inverted parallaxes differ substantially from the distance values.
 
 
 ### BOSSINI2019
@@ -653,7 +730,6 @@ The author explains that their values com from the "_mean values of the member's
 coordinates_".
 
 
-
 #### The Teutsch 182 / UBC 6 cluster
 
 This catalogue inherits the HUNT23 objects, thus it includes Teutsch 182 classified
@@ -720,77 +796,3 @@ coordinates for UBC 6 from newer catalogues.
 Hence, **we remove the Teutsch 182 entry from the catalog** because the UBC 6 entry
 contains the correct coordinates and matches the fundamental parameter values listed
 in other DBs.
-
-
-### CHEN2003
-
-[Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C); _On the Galactic Disk Metallicity Distribution from Open
-Clusters. I. New Catalogs and Abundance Gradient_
-
-There are two tables listed in [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/125/1397), Table 1 (119 rows) and 2 (144 rows),
-with different columns and number of rows. I combined these tables into a single one
-using the median for repeated `(GLON, GLAT)`  values and appending `[Fe/H]` values
-when repeated (some are very different).
-
-vdB 1 --> VDB 1
-
-Added columns `(RA, DEC)`. Merged two entries that were present in both tables under
-different names: 'Melotte 111, Coma Ber' and 'Melotte 22, Pleiades'. The final table
-contains 216 entries.
-
-Fixed the following `(GLON, GLAT)` coordinates manually because I suspect they are
-incorrectly uploaded to Vizier:
-
-Collinder 197: 261.7 +08.9 --> 261.7 +0.89
-IC 1848      : 137.2 +00.1 --> 137.2 +1.00
-
-
-### GLUSHKOVA2010
-
-[Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G/); _Automated search for star clusters in large multiband
-surveys: II. Discovery and investigation of open clusters in the galactic plane_
-
-"_We have found and verified 153 new clusters (...). Color excesses E(B-V ),
-distance moduli and ages were determined for 130 new and 14 yet-unstudied known
-clusters_"
-
-"_All clusters from Table 1 having the other name according to Kronberger et
-al. (2006) or Froebrich et al. (2007), are listed neither in the database of open
-clusters (WEBDA) by Paunzen, Mermilliod (2009), nor in the catalog by Dias et
-al. (2002). That is why we consider them as a new clusters._"
-
-Table 1: 130 entries (new clusters)
-Table 2: 23 entries (new embedded clusters)
-Table 3: 14 entries (yet-unstudied clusters)
-
-Total of 167 entries in the three tables.
-
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=V/132) page lists 194 objects. Tables 1, 2 and 3 entries are present in Vizier
-in its entirety. There are 27 extra entries in the Vizier table
-
-The cluster 'koposov41;fsr0839' presents RA coordinates that are substantially different
-from those listed in the UCC for 'FSR 0839'.
-
-Koposov 41, FSR 839 (KOPOSOV2008): `(90.9917, 30.26139)`; converted from Table 2 in article
-FSR 0839 (UCC)                   : `(90.958 , 30.236)`
-koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
-
-Since KOPOSOV2008 is previous to this article, I assume the RA coordinate is incorrect
-here.
-
-Merged the `Name` and `OtherName` columns into a single `Name` column.
-
-
-### BORISSOVA2011
-
-- Converted `RAJ2000, DEJ2000` in hms columns into degree values
-- Added 'VVV-CL' naming with leading zeroes
-
-
-
-### BORISSOVA2011
-
-- Combined the tables `tablea1` and `tableb1`
-
-The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` values.
-The inverted parallaxes differ substantially from the distance values.
