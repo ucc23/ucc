@@ -432,8 +432,10 @@ The [Vizier](https://vizier.cfa.harvard.edu/viz-bin/VizieR?-source=J/A%2BA/673/A
 In the initial UCC version all the Theia entries were removed along with the moving
 groups. In version **231105** the Theia entries labeled as OCs were re-incorporated.
 
-Some ~160 HSC clusters have center values that do not align with the medians of
-their members. Changed these centers to the members' medians.
+A total of 157 HSC clusters have center values that do not align with the medians of
+their members. Changed these centers to the members' medians. In **25/02/06**
+the original (RA; DEC; GLON; GLAT) values were re-included in HUNT2023.csv (no changes
+required to the main UCC catalogue so new version was generated).
 
 Rounded float values in several columns.
 
