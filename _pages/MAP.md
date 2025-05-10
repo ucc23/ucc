@@ -16,7 +16,7 @@ from the latest version of the UCC.
     <br>
     <!-- Load Aitoff plot -->
     <div id="plot"></div>
-    <script defer src="{{ site.baseurl }}/assets/aitoff_plot.js"></script>
+    <script defer src="{{ site.baseurl }}/scripts/aitoff_plot.js"></script>
     <center>
     <div id="controls">
         <div class="control-group">
