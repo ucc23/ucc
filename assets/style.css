@@ -117,10 +117,13 @@ q:before {
     content: "";
     content: none;
 }
+
 table {
-    border-collapse: collapse;
+    border-collapse: collapse; /* Ensure borders are collapsed */
     border-spacing: 0;
+    margin: 0 auto; /* Center the table horizontally */
 }
+
 *,
 :after,
 :before {
