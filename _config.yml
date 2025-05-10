@@ -68,7 +68,7 @@ plugins:
 relative_links:
   enabled:     false
 
-include: ['_pages', '_clusters']
+include: ['_pages', '_clusters', '_tables']
 
 # Exclude these files from your production _site
 exclude:
@@ -79,4 +79,4 @@ exclude:
   - CNAME
   # Un-comment to exclude for faster processing in a local build
   # - _clusters
-  # - _pages/tables
+  # - _tables

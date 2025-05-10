@@ -4,14 +4,17 @@ title:
 permalink: /database/
 ---
 
-![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
-
-The UCC currently contains **<!-- NT1 -->16385<!-- NT2 -->** objects compiled
-from **<!-- ND1 -->44<!-- ND2 -->** databases and is regularly updated.
-The latest version of the UCC catalogue can be found in its
+The UCC currently hosts **<!-- NT1 -->16385<!-- NT2 -->** objects compiled
+from **<!-- ND1 -->44<!-- ND2 -->** databases. The catalogue is
+<a data-umami-event="changelog" href="/../changelog">regularly updated</a> and
+the latest version can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>.
-The latest changes to the UCC can be seen in the
-<a data-umami-event="changelog" href="/../changelog">Changelog</a>.
+
+If you found the UCC useful in your research, please consider 
+<a data-umami-event="cite_faq" href="https://ucc.ar/faq/#how-can-i-cite-the-ucc">citing it</a>.
+
+
+![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
 Below, we group the OCs in the UCC according to various criteria to facilitate easy
 exploration.
