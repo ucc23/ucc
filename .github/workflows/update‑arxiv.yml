@@ -53,7 +53,6 @@ jobs:
       # 5) Move the old arxiv.json file if it exists
       - name: Archive old arxiv.json
         run: |
-          mkdir -p arxiv_data
           if [ -f arxiv.json ]; then
             mv arxiv.json "arxiv_data/arxiv_$(date +'%Y-%m-%d').json"
           fi
