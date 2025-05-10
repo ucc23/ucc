@@ -8,7 +8,7 @@ async function fetchPapers() {
 
     // Determine the path based on the environment
     const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-    const filePath = isLocal ? '/arxiv.json' : '/arxiv-clusters/arxiv.json';
+    const filePath = isLocal ? '/arxiv.json' : '/ucc/arxiv.json';
     // Fetch the file
     const res = await fetch(filePath);
 

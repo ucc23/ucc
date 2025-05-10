@@ -933,3 +933,31 @@ input[type="radio"] {
     background: #555;
     color: #fff;
 }
+
+
+
+#papers {
+  list-style: none;
+  padding: 0;
+}
+li.paper {
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+.paper a.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+/*  color: #333;*/
+}
+.paper .meta {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+.paper .abstract {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #333;
+}
