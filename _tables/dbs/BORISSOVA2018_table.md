@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /BORISSOVA2018_table/
+permalink: /tables/dbs/BORISSOVA2018_table/
 ---
 
 &nbsp;

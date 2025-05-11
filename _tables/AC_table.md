@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AC classification
-permalink: /AC_table/
+permalink: /tables/AC_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

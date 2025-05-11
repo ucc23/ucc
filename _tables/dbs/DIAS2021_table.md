@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /DIAS2021_table/
+permalink: /tables/dbs/DIAS2021_table/
 ---
 
 &nbsp;

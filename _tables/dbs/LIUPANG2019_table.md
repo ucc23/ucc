@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /LIUPANG2019_table/
+permalink: /tables/dbs/LIUPANG2019_table/
 ---
 
 &nbsp;

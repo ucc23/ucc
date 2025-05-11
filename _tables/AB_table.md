@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AB classification
-permalink: /AB_table/
+permalink: /tables/AB_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

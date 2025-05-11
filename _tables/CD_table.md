@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CD classification
-permalink: /CD_table/
+permalink: /tables/CD_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

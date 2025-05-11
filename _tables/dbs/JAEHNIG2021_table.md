@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /JAEHNIG2021_table/
+permalink: /tables/dbs/JAEHNIG2021_table/
 ---
 
 &nbsp;

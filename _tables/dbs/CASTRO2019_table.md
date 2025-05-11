@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CASTRO2019_table/
+permalink: /tables/dbs/CASTRO2019_table/
 ---
 
 &nbsp;

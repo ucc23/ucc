@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /HAO2022_table/
+permalink: /tables/dbs/HAO2022_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /HUNT2023_table/
+permalink: /tables/dbs/HUNT2023_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /BORISSOVA2011_table/
+permalink: /tables/dbs/BORISSOVA2011_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BB classification
-permalink: /BB_table/
+permalink: /tables/BB_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

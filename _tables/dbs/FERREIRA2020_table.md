@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /FERREIRA2020_table/
+permalink: /tables/dbs/FERREIRA2020_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /HE2022_1_table/
+permalink: /tables/dbs/HE2022_1_table/
 ---
 
 &nbsp;

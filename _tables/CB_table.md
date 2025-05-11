@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CB classification
-permalink: /CB_table/
+permalink: /tables/CB_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nd1 duplicates
-permalink: /Nd1_table/
+permalink: /tables/Nd1_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

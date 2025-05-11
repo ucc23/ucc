@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DD classification
-permalink: /DD_table/
+permalink: /tables/DD_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

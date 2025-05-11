@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /KHARCHENKO2012_table/
+permalink: /tables/dbs/KHARCHENKO2012_table/
 ---
 
 &nbsp;

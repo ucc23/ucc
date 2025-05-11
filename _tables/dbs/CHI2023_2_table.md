@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CHI2023_2_table/
+permalink: /tables/dbs/CHI2023_2_table/
 ---
 
 &nbsp;

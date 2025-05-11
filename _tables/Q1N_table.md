@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1st quadrant, negative latitude
-permalink: /Q1N_table/
+permalink: /tables/Q1N_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

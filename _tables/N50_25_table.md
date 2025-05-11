@@ -1,7 +1,7 @@
 ---
 layout: page
 title: N50 members (0, 25]
-permalink: /N50_25_table/
+permalink: /tables/N50_25_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BD classification
-permalink: /BD_table/
+permalink: /tables/BD_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

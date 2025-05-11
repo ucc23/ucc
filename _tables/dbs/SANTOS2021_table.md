@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /SANTOS2021_table/
+permalink: /tables/dbs/SANTOS2021_table/
 ---
 
 &nbsp;

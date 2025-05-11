@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BC classification
-permalink: /BC_table/
+permalink: /tables/BC_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CAVALLO2024_table/
+permalink: /tables/dbs/CAVALLO2024_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /TARRICQ2022_table/
+permalink: /tables/dbs/TARRICQ2022_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /GLUSHKOVA2010_table/
+permalink: /tables/dbs/GLUSHKOVA2010_table/
 ---
 
 &nbsp;

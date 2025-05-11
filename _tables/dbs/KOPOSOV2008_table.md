@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /KOPOSOV2008_table/
+permalink: /tables/dbs/KOPOSOV2008_table/
 ---
 
 &nbsp;

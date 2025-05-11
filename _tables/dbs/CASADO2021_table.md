@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CASADO2021_table/
+permalink: /tables/dbs/CASADO2021_table/
 ---
 
 &nbsp;

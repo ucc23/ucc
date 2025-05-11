@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AD classification
-permalink: /AD_table/
+permalink: /tables/AD_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

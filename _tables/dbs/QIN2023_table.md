@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /QIN2023_table/
+permalink: /tables/dbs/QIN2023_table/
 ---
 
 &nbsp;

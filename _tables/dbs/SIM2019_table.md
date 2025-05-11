@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /SIM2019_table/
+permalink: /tables/dbs/SIM2019_table/
 ---
 
 &nbsp;

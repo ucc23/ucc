@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CC classification
-permalink: /CC_table/
+permalink: /tables/CC_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

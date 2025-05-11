@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CANTAT2020_table/
+permalink: /tables/dbs/CANTAT2020_table/
 ---
 
 &nbsp;

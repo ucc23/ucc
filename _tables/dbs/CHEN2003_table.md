@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CHEN2003_table/
+permalink: /tables/dbs/CHEN2003_table/
 ---
 
 &nbsp;

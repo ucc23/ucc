@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /DONOR2020_table/
+permalink: /tables/dbs/DONOR2020_table/
 ---
 
 &nbsp;

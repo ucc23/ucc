@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /DAMBIS1999_table/
+permalink: /tables/dbs/DAMBIS1999_table/
 ---
 
 &nbsp;

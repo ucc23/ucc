@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /CASADOHENDY2023_table/
+permalink: /tables/dbs/CASADOHENDY2023_table/
 ---
 
 &nbsp;

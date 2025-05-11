@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DB classification
-permalink: /DB_table/
+permalink: /tables/DB_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

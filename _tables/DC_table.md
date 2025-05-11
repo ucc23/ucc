@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DC classification
-permalink: /DC_table/
+permalink: /tables/DC_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /BOSSINI2019_table/
+permalink: /tables/dbs/BOSSINI2019_table/
 ---
 
 &nbsp;

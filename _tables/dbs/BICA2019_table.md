@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /BICA2019_table/
+permalink: /tables/dbs/BICA2019_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /PERREN2022_table/
+permalink: /tables/dbs/PERREN2022_table/
 ---
 
 &nbsp;

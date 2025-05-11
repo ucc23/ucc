@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /LI2022_table/
+permalink: /tables/dbs/LI2022_table/
 ---
 
 &nbsp;

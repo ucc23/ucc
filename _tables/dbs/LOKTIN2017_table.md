@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /LOKTIN2017_table/
+permalink: /tables/dbs/LOKTIN2017_table/
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2nd quadrant, positive latitude
-permalink: /Q2P_table/
+permalink: /tables/Q2P_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |

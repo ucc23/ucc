@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AA classification
-permalink: /AA_table/
+permalink: /tables/AA_table/
 ---
 
 | Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
