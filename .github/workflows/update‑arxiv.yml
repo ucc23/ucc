@@ -50,37 +50,30 @@ jobs:
           echo "Checking node-fetch version"
           npm list node-fetch
 
-      # # 5) Move the old arxiv.json file if it exists
-      # - name: Archive old arxiv.json
-      #   run: |
-      #     if [ -f arxiv.json ]; then
-      #       mv arxiv.json "arxiv_data/arxiv_$(date +'%Y-%m-%d').json"
-      #     fi
-
-      # 6) Run the fetch script & fail early if it errors
+      # 5) Run the fetch script & fail early if it errors
       - name: Run fetch-arxiv script
         run: |
           echo "running scripts/fetch-arxiv.js"
           node ./scripts/fetch-arxiv.js
         shell: bash
 
-      # # 7) Debug: show the folder tree so we know arxiv.json is there
+      # # Debug: show the folder tree so we know arxiv.json is there
       # - name: List repository contents
       #   run: ls -R .
 
-      # 8) Debug: print the first few lines of the JSON (or note if missing)
-      - name: Show arxiv.json
-        if: always()
-        run: |
-          if [ -f arxiv.json ]; then
-            echo "--- arxiv.json exists, head of file: ---"
-            head -n 20 arxiv.json
-          else
-            echo "⚠️ arxiv.json not found!"
-            exit 1
-          fi
+      # # Debug: print the first few lines of the JSON (or note if missing)
+      # - name: Show arxiv.json
+      #   if: always()
+      #   run: |
+      #     if [ -f arxiv.json ]; then
+      #       echo "--- arxiv.json exists, head of file: ---"
+      #       head -n 20 arxiv.json
+      #     else
+      #       echo "⚠️ arxiv.json not found!"
+      #       exit 1
+      #     fi
 
-      # 9) Detect whether arxiv.json changed
+      # 6) Detect whether arxiv.json changed
       - name: Check for changes in data
         id: check-changes
         run: |
@@ -92,7 +85,7 @@ jobs:
             echo "changes=true"  >> "$GITHUB_OUTPUT"
           fi
 
-      # 10) Commit & push only when JSON changed
+      # 7) Commit & push only when JSON changed
       - name: Commit and push if changes
         if: steps.check-changes.outputs.changes == 'true'
         env:
