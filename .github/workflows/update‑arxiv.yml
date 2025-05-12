@@ -22,7 +22,7 @@ jobs:
     steps:
       # 1) Get all branches + history so that future commits will work
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -50,12 +50,12 @@ jobs:
           echo "Checking node-fetch version"
           npm list node-fetch
 
-      # 5) Move the old arxiv.json file if it exists
-      - name: Archive old arxiv.json
-        run: |
-          if [ -f arxiv.json ]; then
-            mv arxiv.json "arxiv_data/arxiv_$(date +'%Y-%m-%d').json"
-          fi
+      # # 5) Move the old arxiv.json file if it exists
+      # - name: Archive old arxiv.json
+      #   run: |
+      #     if [ -f arxiv.json ]; then
+      #       mv arxiv.json "arxiv_data/arxiv_$(date +'%Y-%m-%d').json"
+      #     fi
 
       # 6) Run the fetch script & fail early if it errors
       - name: Run fetch-arxiv script
@@ -64,9 +64,9 @@ jobs:
           node ./scripts/fetch-arxiv.js
         shell: bash
 
-      # 7) Debug: show the folder tree so we know arxiv.json is there
-      - name: List repository contents
-        run: ls -R .
+      # # 7) Debug: show the folder tree so we know arxiv.json is there
+      # - name: List repository contents
+      #   run: ls -R .
 
       # 8) Debug: print the first few lines of the JSON (or note if missing)
       - name: Show arxiv.json
@@ -100,6 +100,5 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add arxiv_data/
-          git commit -m "ci: update arXiv data" arxiv.json arxiv_data/
+          git commit -m "ci: update arXiv.json" arxiv.json
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main

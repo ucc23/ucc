@@ -6,21 +6,32 @@ const ARXIV_URL = 'https://export.arxiv.org/api/query?search_query=cat:astro-ph*
 const keywords = ['open cluster', 'star cluster', 'stellar cluster'];
 
 async function main() {
-  // Fetch XML data
+  // Load existing entries from arxiv.json, if the file exists
+  let existingEntries = [];
+  try {
+    const data = await fs.readFile('arxiv.json', 'utf-8');
+    existingEntries = JSON.parse(data);
+  } catch (err) {
+    if (err.code !== 'ENOENT') throw err; // Ignore if file doesn't exist
+  }
+
+  // Calculate the date 14 days back
+  const date14DaysBack = new Date();
+  date14DaysBack.setDate(date14DaysBack.getDate() - 14);
+  const date14DaysBackStr = date14DaysBack.toISOString().split('T')[0];
+
+  // Filter out entries older than 14 days from the existing data
+  existingEntries = existingEntries.filter(entry => entry.published >= date14DaysBackStr);
+
+  // Fetch XML data from arXiv
   const res = await fetch(ARXIV_URL);
   const xml = await res.text();
   const obj = await parseStringPromise(xml, { explicitArray: false });
   const entries = Array.isArray(obj.feed.entry) ? obj.feed.entry : [obj.feed.entry];
 
-  // Calculate yesterday's date
-  const yesterday = new Date();
-  yesterday.setDate(yesterday.getDate() - 1);
-  const yesterdayStr = yesterday.toISOString().split('T')[0]; // Format as YYYY-MM-DD
-
-  // Filter entries by published date and keywords
-  const scoredEntries = entries
-    // Filter out entries older than the day before
-    .filter(entry => entry.published.startsWith(yesterdayStr))
+  // Filter and score new entries
+  const newEntries = entries
+    .filter(entry => entry.published >= date14DaysBackStr) // Include only recent entries
     .map(entry => {
       const title = entry.title.toLowerCase();
       const summary = entry.summary.toLowerCase();
@@ -36,12 +47,19 @@ async function main() {
     })
     .filter(entry => entry.score > 0); // Exclude entries with score=0
 
-  // Sort entries by score in descending order
-  const sortedEntries = scoredEntries.sort((a, b) => b.score - a.score);
+  // Merge and deduplicate entries
+  const allEntries = [...existingEntries, ...newEntries];
+  const uniqueEntries = Array.from(new Map(allEntries.map(entry => [entry.id, entry])).values());
+
+  // Remove entries with the title 'No articles found'
+  const filteredEntries = uniqueEntries.filter(entry => entry.title.toLowerCase() !== 'no articles found');
+
+  // Sort entries by published date (descending)
+  filteredEntries.sort((a, b) => new Date(b.published) - new Date(a.published));
 
   // If no entries are to be saved, save a placeholder entry
-  const entriesToSave = sortedEntries.length > 0
-    ? sortedEntries
+  const entriesToSave = filteredEntries.length > 0
+    ? filteredEntries
     : [{
         title: 'No articles found',
         id: '#',
@@ -50,7 +68,7 @@ async function main() {
         summary: 'No articles matching the filters were found in the current submissions.',
       }];
 
-  // Save filtered entries to JSON file
+  // Save the updated entries to arxiv.json
   await fs.writeFile(
     'arxiv.json',
     JSON.stringify(entriesToSave, null, 2),

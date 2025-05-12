@@ -1,13 +1,63 @@
 [
   {
-    "title": "No articles found",
-    "id": "#",
+    "id": "http://arxiv.org/abs/2505.05006v1",
+    "updated": "2025-05-08T07:22:32Z",
+    "published": "2025-05-08T07:22:32Z",
+    "title": "850 SRG/eROSITA X-ray sources associated with Pleiades stars",
+    "summary": "  Using data from the SRG/eROSITA all-sky X-ray survey and the GAIA-based\ncatalog of 2,209 members of the Pleiades open star cluster, we found 850 X-ray\nsources associated with the cluster stars. Over 650 of them were detected in\nX-rays for the first time. At the distance of the Pleiades, the nominal\nsensitivity of eROSITA corresponds to a luminosity of $L_X \\sim 1.6 \\cdot\n10^{28}$ erg/s in the 0.3-2.3 keV band. The eROSITA sources associated with\nPleiades stars have a total luminosity of $L_{X,tot} \\sim 1.3 \\cdot 10^{32}$\nerg/s , a million times greater than the X-ray luminosity of the quiet Sun.\nStrong X-ray variability, more than 10 times, was recorded for 27 sources. Most\nof them are known as eruptive optical variables of the dM class. The value of\n$R_X=log(L_X/L_{bol})$ increases with decreasing effective temperature of the\nstar from $R_X\\approx -5$ to $R_X\\approx -2$. The distribution of stars over\n$R_X$ is bimodal, with the left peak at $R_X\\sim-4.3$ being formed by stars of\nFGK classes, and the right peak at $R_X\\sim-3.1$ being mainly populated by\nM-stars. The relation between $R_X$ and the Rossby number $Ro$ depends on the\nspectral class. For K- and M- stars, at low Rossby numbers $R_X\\sim -3$ and\ndepends weakly on $Ro$. At $Ro \\gt 0.25$, a rapid drop in $R_X$ is observed for\nK stars, while in our sample there are no M stars with large Rossby number.\nMost of F- and G- stars appear to have smaller $R_X\\sim -4.5$, however, our\nsample size is insufficient for a more detailed characterization of their\n$R_X-Ro$ dependence.\n",
     "author": [
       {
-        "name": " "
+        "name": "I. M. Khamitov"
+      },
+      {
+        "name": "I. F. Bikmaev"
+      },
+      {
+        "name": "M. R. Gilfanov"
+      },
+      {
+        "name": "R. A. Sunyaev"
+      },
+      {
+        "name": "P. S. Medvedev"
       }
     ],
-    "updated": "2025-05-12",
-    "summary": "No articles matching the filters were found in the current submissions."
+    "arxiv:comment": {
+      "_": "16 pages, 12 figures, 3 tables",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.05006v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.05006v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.HE",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": {
+      "$": {
+        "term": "astro-ph.HE",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "score": 1
   }
 ]
