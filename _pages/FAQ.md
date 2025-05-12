@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: FAQ
 permalink: /faq/
 ---
 
@@ -19,6 +19,8 @@ The acronym **UCC** stands for `Unified Cluster Catalogue`. It is the largest ca
 of [open clusters](https://en.wikipedia.org/wiki/Open_cluster) in existence. It consists of comprehensive and homogeneous data
 for an ever expanding number of entries, taken from the latest published articles
 combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
+
+![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
 
 
 ## How can I cite the UCC?
