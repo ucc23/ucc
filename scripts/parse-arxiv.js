@@ -2,15 +2,15 @@ async function fetchPapers() {
   try {
 
     // For local build
-    // const res = await fetch('/arxiv.json');
+    const res = await fetch('/arxiv.json');
     // For live build
     // const res = await fetch('/arxiv-clusters/arxiv.json');
 
-    // Determine the path based on the environment
-    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-    const filePath = isLocal ? '/arxiv.json' : '/ucc/arxiv.json';
-    // Fetch the file
-    const res = await fetch(filePath);
+    // // Determine the path based on the environment
+    // const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    // const filePath = isLocal ? '/arxiv.json' : '/arxiv.json';
+    // // Fetch the file
+    // const res = await fetch(filePath);
 
     const data = await res.json();
     const entries = Array.isArray(data) ? data : [data];
@@ -28,7 +28,7 @@ async function fetchPapers() {
 
       li.innerHTML = `
         <a class="title" href="${link}" target="_blank">${title}</a>
-        <div class="meta">${authors} — ${updated}</div>
+        <div class="meta">${authors} — ${updated} — Score: ${entry.score}</div>
         <p class="abstract">${abstract}</p>
       `;
 

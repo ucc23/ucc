@@ -65,6 +65,7 @@ async function main() {
         id: '#',
         author: [{ name: ' ' }],
         updated: new Date().toISOString().split('T')[0],
+        score: 0,
         summary: 'No articles matching the filters were found in the current submissions.',
       }];
 
