@@ -1,6 +1,7 @@
 async function fetchPapers() {
   try {
-    const res = await fetch('/arxiv.json');
+    // const res = await fetch('/arxiv.json');
+    const res = await fetch("https://raw.githubusercontent.com/ucc23/ucc/refs/heads/main/arxiv.json");
 
     const data = await res.json();
     const entries = Array.isArray(data) ? data : [data];
