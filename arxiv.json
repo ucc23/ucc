@@ -1,5 +1,267 @@
 [
   {
+    "id": "http://arxiv.org/abs/2505.07491v1",
+    "updated": "2025-05-12T12:21:38Z",
+    "published": "2025-05-12T12:21:38Z",
+    "title": "Rapid formation of a very massive star >50000 $M_\\odot$ and subsequently\n  an IMBH from runaway collisions. Direct N-body and Monte Carlo simulations of\n  dense star clusters",
+    "summary": "  Context. We present simulations of a massive young star cluster using\n\\textsc{Nbody6++GPU} and \\textsc{MOCCA}. The cluster is initially more compact\nthan previously published models, with one million stars, a total mass of $5.86\n\\times 10^5~\\mathrm{M}_{\\odot}$, and a half-mass radius of $0.1~\\mathrm{pc}$.\n  Aims. We analyse the formation and growth of a very massive star (VMS)\nthrough successive stellar collisions and investigate the subsequent formation\nof an intermediate-mass black hole (IMBH) in the core of a dense star cluster.\n  Methods. We use both direct \\textit{N}-body and Monte Carlo simulations,\nincorporating updated stellar evolution prescriptions (SSE/BSE) tailored to\nmassive stars and VMSs. These include revised treatments of stellar radii,\nrejuvenation, and mass loss during collisions. While the prescriptions\nrepresent reasonable extrapolations into the VMS regime, the internal structure\nand thermal state of VMSs formed through stellar collisions remain uncertain,\nand future work may require further refinement.\n  Results. We find that runaway stellar collisions in the cluster core produce\na VMS exceeding $5 \\times 10^4~\\mathrm{M}_{\\odot}$ within 5 Myr, which\nsubsequently collapses into an IMBH.\n  Conclusions. Our model suggests that dense stellar environments may enable\nthe formation of very massive stars and massive black hole seeds through\nrunaway stellar collisions. These results provide a potential pathway for early\nblack hole growth in star clusters and offer theoretical context for\ninterpreting recent JWST observations of young, compact clusters at high\nredshift.\n",
+    "author": [
+      {
+        "name": "Marcelo C. Vergara"
+      },
+      {
+        "name": "Abbas Askar"
+      },
+      {
+        "name": "Albrecht W. H. Kamlah"
+      },
+      {
+        "name": "Rainer Spurzem"
+      },
+      {
+        "name": "Francesco Flammini Dotti"
+      },
+      {
+        "name": "Dominik R. G. Schleicher"
+      },
+      {
+        "name": "Manuel Arca Sedda"
+      },
+      {
+        "name": "Arkadiusz Hypki"
+      },
+      {
+        "name": "Mirek Giersz"
+      },
+      {
+        "name": "Jarrod Hurley"
+      },
+      {
+        "name": "Peter Berczik"
+      },
+      {
+        "name": "Andres Escala"
+      },
+      {
+        "name": "Nils Hoyer"
+      },
+      {
+        "name": "Nadine Neumayer"
+      },
+      {
+        "name": "Xiaoying Pang"
+      },
+      {
+        "name": "Ataru Tanikawa"
+      },
+      {
+        "name": "Renyue Cen"
+      },
+      {
+        "name": "Thorsten Naab"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "18 pages, 11 figures",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.07491v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.07491v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": [
+      {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      }
+    ],
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.06346v1",
+    "updated": "2025-05-09T18:00:02Z",
+    "published": "2025-05-09T18:00:02Z",
+    "title": "SIEGE IV: compact star clusters in cosmological simulations with high\n  star formation efficiency and sub-parsec resolution",
+    "summary": "  The formation of compact high-redshift star-forming clumps, the physical\nprocesses driving their evolution and their potential connection to present-day\nGlobular Clusters are key open questions in galaxy formation. In this work, we\naim to shed light on these aspects using the SImulating the Environment where\nGlobular clusters Emerged (SIEGE) project, a suite of cosmological zoom-in\nsimulations with sub-parsec resolution specifically designed to investigate the\nphysical conditions behind the origin of compact stellar systems in\nhigh-redshift environments. The simulation object of this study focuses on a\ndwarf galaxy with a virial mass of a few $10^9$ $M_\\odot$ at $z=6.14$, where\nthe spatial resolution reaches 0.3 pc $h^{-1}$. Individual stars are formed\ndirectly by sampling the initial mass function with a 100\\% star formation\nefficiency, a setup designed to explore the impact of a high star formation\nefficiency under high-redshift conditions. The simulation reveals the emergence\nof numerous stellar clumps with sizes of 1-3 pc, stellar surface densities up\nto almost $10^4$ $M_\\odot$ pc$^{-2}$, and masses predominantly spanning from\n$10^3$ $M_\\odot$ to several $10^4$ $M_\\odot$, with a few reaching $10^5$\n$M_\\odot$ and up to $10^6$ $M_\\odot$. All clumps form during intense, short\nbursts of star formation lasting less than a Myr, often with negligible dark\nmatter content (dark-to-stellar mass ratios below 1 within three times their\neffective radii). We measure a clear correlation between mass and size, and a\nclump mass function described by a power-law with a slope of -2. Star formation\nconditions in the simulation behave similarly to those of a feedback-free\nstarburst scenario, where dense clumps form due to inefficient stellar feedback\nover small timescales. Notably, some clumps exhibit properties closely\nresembling those of present-day globular clusters.\n",
+    "author": [
+      {
+        "name": "R. Pascale"
+      },
+      {
+        "name": "F. Calura"
+      },
+      {
+        "name": "E. Vesperini"
+      },
+      {
+        "name": "J. Rosdahl"
+      },
+      {
+        "name": "C. Nipoti"
+      },
+      {
+        "name": "E. Giunchi"
+      },
+      {
+        "name": "E. Lacchin"
+      },
+      {
+        "name": "A. Lupi"
+      },
+      {
+        "name": "M. Messa"
+      },
+      {
+        "name": "M. Meneghetti"
+      },
+      {
+        "name": "A. Ragagnin"
+      },
+      {
+        "name": "E. Vanzella"
+      },
+      {
+        "name": "A. Zanella"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "18 pages, 8 figures, accepted for publication in A&A",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.06346v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.06346v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": {
+      "$": {
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.06344v1",
+    "updated": "2025-05-09T18:00:01Z",
+    "published": "2025-05-09T18:00:01Z",
+    "title": "Disruptions of stars and binary systems on chaotic orbits in the\n  axisymmetric Milky Way center",
+    "summary": "  Non-spherical potentials allow a wide range of trajectories, both regular and\nchaotic, whose periapse distances can vary orbit to orbit. In particular\nchaotic trajectories can bring a system arbitrarily close to the central\nmassive black hole leading to a disruption. In this paper, we work with an\nobservationally benchmarked model of the innermost 200 pc of the Milky Way and\nshow that low z-angular momentum trajectories are commonly chaotic. We compute\nthe timescales and properties of close pericenter passages, and compare the\nimplied collisionless disruption rate to the well-studied collisional rate from\n2-body scatterings. We find that the relative collisionless rate can dominate\nby orders of magnitude. Our calculations are relevant for a wide range of\ndisruption phenomena, including the production of hypervelocity stars (HVSs)\nand tidal disruption events (TDEs). Most of these disruptions involve stars\ncome from the Nuclear Stellar Cluster, with a pericenter distribution that\nstrongly favours shallow encounters, and a preference for high inclination\ninteractions. The latter implies that unbound disrupted material - whether\nejected stars or stellar debris - would be preferentially directed towards the\ngalactic poles. Many of our conclusions apply generally to any galaxy with a\nnon-spherical galactic centre potential and central massive black hole.\n",
+    "author": [
+      {
+        "name": "Zephyr Penoyre"
+      },
+      {
+        "name": "Elena Maria Rossi"
+      },
+      {
+        "name": "Nicholas C. Stone"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "27 pages, 18 figures, 1 appendix",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.06344v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.06344v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": [
+      {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      }
+    ],
+    "score": 1
+  },
+  {
     "id": "http://arxiv.org/abs/2505.05006v1",
     "updated": "2025-05-08T07:22:32Z",
     "published": "2025-05-08T07:22:32Z",
