@@ -59,5 +59,68 @@
       }
     },
     "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.04794v1",
+    "updated": "2025-05-07T20:46:12Z",
+    "published": "2025-05-07T20:46:12Z",
+    "title": "Constraining the environment of compact binary mergers with self-lensing\n  signatures",
+    "summary": "  Gravitational waves (GWs) from coalescing binary black holes (BBHs) can come\nfrom different environments. GWs interact gravitationally with astrophysical\nobjects, which makes it possible to use gravitational lensing by nearby objects\n(self-lensing) to learn about their environments. We quantify the probability\nof self-lensing through the optical depth $\\tau$ for the main channels of\ndetectable GWs at frequencies $f_{\\rm GW}\\sim (1-10^3)\\,{\\rm Hz}$. We then\nanalyze the detectability of the lensing effect (imprint). In star clusters,\nthe probability of self-lensing by stellar-mass black holes (BHs) is low\n($\\tau\\simeq10^{-7}$), even when taking into account nearby BHs in resonant\ninteractions ($\\tau\\simeq 10^{-5}$). Additionally, the lensing imprint of a\nstellar-mass lens (diffraction and interference) is too marginal to be\ndetectable by the LIGO-Virgo-KAGRA detectors and most Einstein Telescope\nsignals. For a massive BH lens in the center of a cluster, the probability can\nreach $\\tau\\simeq 10^{-4}$ either via von Zeipel-Lidov-Kozai induced mergers of\nBBHs orbiting a central massive BH or BBHs formed as GW captures in\nsingle-single interactions in the Bahcall-Wolf cusp of a nuclear cluster,\nlikely eccentric. For self-lensing by a supermassive BH for BBHs in the\nmigration trap of an AGN (active galactic nucleus) disk, $\\tau \\simeq 10^{-2}$.\nThe imprint of these massive lenses are two images that are easily detectable\nalready in current detectors. Moreover, AGN disk merger signals have a distinct\nlinear $h_+$ polarization. The probability depends on the extent of the\ndetectability through the threshold impact parameter $y_{\\rm max}$, which can\nincrease for future detectors. We conclude that constraining the environment of\nBBHs is possible by combining self-lensing imprints with other waveform\nsignatures such as eccentricity and polarization.\n",
+    "author": [
+      {
+        "name": "Helena Ubach"
+      },
+      {
+        "name": "Mark Gieles"
+      },
+      {
+        "name": "Jordi Miralda-Escudé"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "Comments welcome",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.04794v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.04794v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.HE",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": [
+      {
+        "$": {
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.CO",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      }
+    ],
+    "score": 1
   }
 ]
