@@ -1,5 +1,77 @@
 [
   {
+    "id": "http://arxiv.org/abs/2505.08184v1",
+    "updated": "2025-05-13T02:47:40Z",
+    "published": "2025-05-13T02:47:40Z",
+    "title": "Insights into the 3D layered structure of nearby open clusters through\n  N-body simulations",
+    "summary": "  Context. Open clusters (OCs) are important for understanding star formation,\ndynamics, and evolution. Previous studies have indicated a relationship between\ncluster structure and member star properties, but the formation mechanism of\nthe layered structure of OCs remains unclear. Aims. We study the\nthree-dimensional spatial distribution of 279 nearby OCs to understand the\nformation mechanism of the layered structure. Methods. We analyzed the spatial\ndistribution of member stars within each OC and correlated the presence of a\nlayered structure with the number of member stars. Additionally, we performd\nN-body simulations to model the evolution of OCSN 125. We assessd the\ncorrelation between the binary fraction, the most massive star, and the radius\nof the layered structure in each simulated OC. Results. Our analysis reveals\nthat OCs with fewer member stars tend to lack a layered structure. The results\nfrom N-body simulations indicate that the presence of a layered structure is\nstrongly influenced by dynamical factors, particularly the most massive star\nand the binary fraction. Massive stars drive mass loss through supernova\nexplosions and stellar winds, which weaken the spatial layering. Furthermore,\nclusters with higher binary fractions exhibit a weaker layered structure,\nlikely due to energy equipartition, dynamical friction, and perturbations\ncaused by binary systems. These factors contribute to delaying core collapse\nand slowing the emergence of a layered structure. Conclusions. Our findings\nsuggest that dynamical interactions, including the effects of the most massive\nstars and binary fraction, play a critical role in the formation and disruption\nof the layered structure in OCs.\n",
+    "author": [
+      {
+        "name": "Lang Kaixiang"
+      },
+      {
+        "name": "Zhang Yu"
+      },
+      {
+        "name": "Niu Hubiao"
+      },
+      {
+        "name": "Jayanand Maurya"
+      },
+      {
+        "name": "Liu Jinzhong"
+      },
+      {
+        "name": "Liu Guimei"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "10 pages, 6 figures; Accepted by A&A",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.08184v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.08184v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": [
+      {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      }
+    ],
+    "score": 3
+  },
+  {
     "id": "http://arxiv.org/abs/2505.07491v1",
     "updated": "2025-05-12T12:21:38Z",
     "published": "2025-05-12T12:21:38Z",
