@@ -1,5 +1,187 @@
 [
   {
+    "id": "http://arxiv.org/abs/2505.08955v1",
+    "updated": "2025-05-13T20:40:47Z",
+    "published": "2025-05-13T20:40:47Z",
+    "title": "Characterisation of B-type stars in four young Galactic open clusters.\n  I. Stellar content and binary properties",
+    "summary": "  Multiplicity among massive stars represents a major uncertainty in stellar\nevolution theory, because the extra physical processes that it introduces\nsignificantly impacts each star's structure. While multiplicity of O-type stars\nis fairly well constrained, for B-type stars it is not. B-type stars are more\ncommon and have longer lifetimes, thus providing an opportunity to characterize\nmultiplicity at different ages. Moreover, young open clusters are advantageous\nfor studying coeval and chemically homogeneous environments. Using a\nmulti-epoch spectroscopic campaign with the HERMES spectrograph we determine\nmultiplicity properties and rotation rates of 74 B-type stars in four Galactic\nopen clusters: $h$ and $\\chi$ Persei, NGC 457, NGC 581, and NGC 1960. We\nmeasure radial velocities with a cross-correlation method and determine\ntentative orbital solutions for 26 of the 28 identified binaries. We detect\nseveral Be stars, five of them being members of binary systems. We correct the\nobserved binary fractions for observational biases and determine an average\nintrinsic binary fraction of 79$_{-16}^{+19}\\%$. The consistency in binary\nfraction among the four clusters, which are between 15 and 30 Myr, suggests a\nreasonably homogenous binary fraction across this age range. We used TLUSTY\natmosphere models to determine the projected rotational velocities, with an\naverage value of 240 km s$^{-1}$ for both single and binary systems. Whereas,\nthe Be stars show higher velocities between 200 and 360 km s$^{-1}$.\n",
+    "author": [
+      {
+        "name": "Federica Nardini"
+      },
+      {
+        "name": "Julia Bodensteiner"
+      },
+      {
+        "name": "Hugues Sana"
+      },
+      {
+        "name": "Laurent Mahy"
+      },
+      {
+        "name": "Kunal Deshmukh"
+      },
+      {
+        "name": "Dominic M. Bowman"
+      }
+    ],
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.08955v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.08955v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.SR",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": {
+      "$": {
+        "term": "astro-ph.SR",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.08874v1",
+    "updated": "2025-05-13T18:01:34Z",
+    "published": "2025-05-13T18:01:34Z",
+    "title": "FEAST: JWST uncovers the emerging timescales of young star clusters in\n  M83",
+    "summary": "  We present JWST NIRCam observations of the emerging young star clusters\n(eYSCs) detected in the nearby spiral galaxy M83. The NIRcam mosaic encompasses\nthe nuclear starburst, the bar, and the inner spiral arms. The eYSCs, detected\nin Pa$\\alpha$ and Br$\\alpha$ maps, have been largely missed in previous optical\ncampaigns of young star clusters (YSCs). We distinguish between eYSCI, if they\nalso have compact 3.3~$\\mu$m PAH emission associated to them, and eYSCII, if\nthey only appear as compact Pa$\\alpha$ emitters. We find that the variations in\nthe 3.3~$\\mu$m PAH feature are consistent with an evolutionary sequence where\neYSCI evolve into eYSCII and then optical YSCs. This sequence is clear in the\nF300M-F335M (tracing the excess in the \\PAHlambda\\ feature) and the F115W-F187N\n(tracing the excess in Pa$\\alpha$) colors which become increasingly bluer as\nclusters emerge. The central starburst stands out as the region where the most\nmassive eYSCs are currently forming in the galaxy. We estimate that only about\n20~\\% of the eYSCs will remain detectable as compact YSCs. Combining eYSCs and\nYSCs ($\\leq$10 Myr) we recover an average clearing timescale of 6~Myr in which\nclusters transition from embedded to fully exposed. We see evidence of shorter\nemergence timescales ($\\sim$5~Myr) for more massive ($>5\\times10^3$ \\msun)\nclusters, while star clusters of $\\sim 10^3$ \\msun\\ about 7~Myr. We estimate\nthat eYSCs remain associated to the \\PAHlambda\\ emission 3--4~Myr. Larger\nsamples of eYSC and YSC populations will provide stronger statistics to further\ntest environmental and cluster mass dependencies on the emergence timescale.\n",
+    "author": [
+      {
+        "name": "Alice Knutas"
+      },
+      {
+        "name": "Angela Adamo"
+      },
+      {
+        "name": "Alex Pedrini"
+      },
+      {
+        "name": "Sean T. Linden"
+      },
+      {
+        "name": "Varun Bajaj"
+      },
+      {
+        "name": "Jenna E. Ryon"
+      },
+      {
+        "name": "Benjamin Gregg"
+      },
+      {
+        "name": "Ahmad A. Ali"
+      },
+      {
+        "name": "Eric P. Andersson"
+      },
+      {
+        "name": "Arjan Bik"
+      },
+      {
+        "name": "Giacomo Bortolini"
+      },
+      {
+        "name": "Anne S. M. Buckner"
+      },
+      {
+        "name": "Daniela Calzetti"
+      },
+      {
+        "name": "Ana Duarte-Cabral"
+      },
+      {
+        "name": "Bruce G. Elmegreen"
+      },
+      {
+        "name": "Helena Faustino Vieira"
+      },
+      {
+        "name": "John S. Gallagher"
+      },
+      {
+        "name": "Kathryn Grasha"
+      },
+      {
+        "name": "Kelsey Johnson"
+      },
+      {
+        "name": "Thomas S. -Y. Lai"
+      },
+      {
+        "name": "Drew Lapeer"
+      },
+      {
+        "name": "Matteo Messa"
+      },
+      {
+        "name": "Göran Östlin"
+      },
+      {
+        "name": "Elena Sabbi"
+      },
+      {
+        "name": "Linda J. Smith"
+      },
+      {
+        "name": "Monica Tosi"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "Submitted to ApJ. Comments welcome",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.08874v1",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.08874v1",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": {
+      "$": {
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "score": 3
+  },
+  {
     "id": "http://arxiv.org/abs/2505.08184v1",
     "updated": "2025-05-13T02:47:40Z",
     "published": "2025-05-13T02:47:40Z",
