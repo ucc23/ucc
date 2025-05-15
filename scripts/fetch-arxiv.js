@@ -2,7 +2,7 @@ import { promises as fs } from 'fs';
 import fetch from 'node-fetch';
 import { parseStringPromise } from 'xml2js';
 
-const ARXIV_URL = 'https://export.arxiv.org/api/query?search_query=cat:astro-ph*&sortBy=submittedDate&sortOrder=descending&max_results=100';
+const ARXIV_URL = 'https://export.arxiv.org/api/query?search_query=cat:astro-ph.GA*&sortBy=submittedDate&sortOrder=descending&max_results=200';
 const keywords = ['open cluster', 'star cluster', 'stellar cluster'];
 
 async function main() {
@@ -15,13 +15,13 @@ async function main() {
     if (err.code !== 'ENOENT') throw err; // Ignore if file doesn't exist
   }
 
-  // Calculate the date 14 days back
-  const date14DaysBack = new Date();
-  date14DaysBack.setDate(date14DaysBack.getDate() - 14);
-  const date14DaysBackStr = date14DaysBack.toISOString().split('T')[0];
+  // Calculate the date 7 days back
+  const date7DaysBack = new Date();
+  date7DaysBack.setDate(date7DaysBack.getDate() - 7);
+  const date7DaysBackStr = date7DaysBack.toISOString().split('T')[0];
 
-  // Filter out entries older than 14 days from the existing data
-  existingEntries = existingEntries.filter(entry => entry.published >= date14DaysBackStr);
+  // Filter out entries older than 7 days from the existing data
+  existingEntries = existingEntries.filter(entry => entry.published >= date7DaysBackStr);
 
   // Fetch XML data from arXiv
   const res = await fetch(ARXIV_URL);
@@ -31,7 +31,7 @@ async function main() {
 
   // Filter and score new entries
   const newEntries = entries
-    .filter(entry => entry.published >= date14DaysBackStr) // Include only recent entries
+    .filter(entry => entry.published >= date7DaysBackStr) // Include only recent entries
     .map(entry => {
       const title = entry.title.toLowerCase();
       const summary = entry.summary.toLowerCase();

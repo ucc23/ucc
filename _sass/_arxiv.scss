@@ -1,0 +1,52 @@
+
+/*radio buttons for arxiv sorting*/
+#arxivsort {
+  display: flex;
+  gap: 15px;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  width: fit-content;
+}
+
+/* Specific styles for inputs inside #arxivsort */
+#arxivsort input {
+    width: auto;
+    margin: 0;
+    display: inline-block;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: inherit;
+    box-sizing: content-box;
+}
+
+/*arXiv articles display*/
+#papers {
+  list-style: none;
+  padding: 0;
+}
+li.paper {
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+.paper a.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+/*  color: #333;*/
+}
+.paper .meta {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+.paper .abstract {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #333;
+  text-align: justify;
+}

@@ -1,0 +1,21 @@
+
+.wrapper-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: $lightGray;
+}
+
+footer {
+  padding: 10px 0;
+  text-align: center;
+}
+
+
+// Space used in footer
+.little-spacer {
+    display: inline-block;
+    width: 12px;
+    height: 1px;
+}

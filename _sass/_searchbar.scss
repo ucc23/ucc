@@ -1,0 +1,82 @@
+
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+input {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 18px;
+    background-color: #fff;
+}
+.user-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.25rem;
+    margin-top: 1rem;
+}
+.card {
+    border: 0 solid #000;
+    background-color: transparent;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.card > .header {
+    margin-bottom: 0.25rem;
+}
+.card > .body_1 {
+    font-size: 1rem;
+    color: #777;
+    font-weight: 700;
+}
+.card > .body_2 {
+    font-size: 1rem;
+    color: #777;
+    font-weight: 700;
+}
+.card > .body_3 {
+    font-size: 1rem;
+    color: #777;
+    font-weight: 700;
+}
+#controls {
+    display: flex;
+    gap: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: fit-content;
+}
+.control-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#controls label {
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+#controls input[type="number"] {
+    width: 80px;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+}
+.control-group:not(:last-child) {
+    padding-right: 15px;
+}
+.control-group:nth-child(2) {
+    border-right: 1px solid #ccc;
+}

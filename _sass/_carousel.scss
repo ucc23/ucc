@@ -1,0 +1,64 @@
+
+
+/*Images carousel*/
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+input[type="radio"][name="radio-btn"] {
+    display: none;
+}
+.slide {
+    min-width: 100%;
+}
+.slide img {
+    width: 100%;
+    display: block;
+}
+.indicators {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.indicators label {
+    font-size: 16px;
+    color: #555;
+    padding: 5px 10px;
+    cursor: pointer;
+    background: #ddd;
+    margin: 0 5px;
+    border-radius: 3px;
+}
+#slide1:checked ~ .slides {
+    transform: translateX(0);
+}
+#slide2:checked ~ .slides {
+    transform: translateX(-100%);
+}
+#slide3:checked ~ .slides {
+    transform: translateX(-200%);
+}
+#slide4:checked ~ .slides {
+    transform: translateX(-300%);
+}
+#slide5:checked ~ .slides {
+    transform: translateX(-400%);
+}
+#slide6:checked ~ .slides {
+    transform: translateX(-500%);
+}
+#slide1:checked ~ .indicators label:first-child,
+#slide2:checked ~ .indicators label:nth-child(2),
+#slide3:checked ~ .indicators label:nth-child(3),
+#slide4:checked ~ .indicators label:nth-child(4),
+#slide5:checked ~ .indicators label:nth-child(5),
+#slide6:checked ~ .indicators label:nth-child(6) {
+    background: #555;
+    color: #fff;
+}
