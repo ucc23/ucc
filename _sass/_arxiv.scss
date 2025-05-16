@@ -23,6 +23,33 @@
     box-sizing: content-box;
 }
 
+
+/*hover text display*/
+.hover-text {
+    color: teal;
+    position: relative;
+    cursor: pointer;
+}
+.hover-text::after {
+    content: attr(data-hover);
+    visibility: hidden;
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    top: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: auto;
+}
+.hover-text:hover::after {
+    visibility: visible;
+}
+
+
 /*arXiv articles display*/
 #papers {
   list-style: none;
@@ -37,7 +64,6 @@ li.paper {
   font-size: 1.1rem;
   font-weight: bold;
   text-decoration: none;
-/*  color: #333;*/
 }
 .paper .authors {
   font-size: 0.9rem;
