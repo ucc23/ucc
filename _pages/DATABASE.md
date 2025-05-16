@@ -11,13 +11,16 @@ can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523">Zenodo repository</a>.
 The UCC currently hosts the following data:
 
-
 |  Data type        |   N  |
 | :--:         | :--: |
 | Databases    | **<!-- ND1 -->44<!-- ND2 -->** |
 | Clusters     | **<!-- NT1 -->16385<!-- NT2 -->** |
 | Member stars | **<!-- NM1 -->1360082<!-- NM2 -->** |
 
+<p class="standout">
+If you found the UCC useful in your research, please consider 
+<a data-umami-event="cite_faq" href="https://ucc.ar/faq/#how-can-i-cite-the-ucc">citing it</a>.
+</p>
 
 
 ### Explore the database
@@ -42,8 +45,3 @@ interactive map of the sky with all the clusters in the UCC.
         </div>
     </div>
 </div>
-
-<p class="standout">
-If you found the UCC useful in your research, please consider 
-<a data-umami-event="cite_faq" href="https://ucc.ar/faq/#how-can-i-cite-the-ucc">citing it</a>.
-</p>

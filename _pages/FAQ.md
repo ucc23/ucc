@@ -5,12 +5,12 @@ permalink: /faq/
 ---
 
 - [What is the UCC?](#what-is-the-ucc)
-- [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
 - [How do I use the search bar?](#how-do-i-use-the-search-bar)
 - [What are the C1, C2, and C3 parameters?](#what-are-the-c1-c2-and-c3-parameters)
 - [How are probable duplicates identified?](#how-are-probable-duplicates-identified)
+- [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 
 
 ## What is the UCC?
@@ -21,31 +21,6 @@ for an ever expanding number of entries, taken from the latest published article
 combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
 
 ![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
-
-
-## How can I cite the UCC?
-
-If you found the UCC useful for your research, please reference its original article
-<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
-et al. (2023)</a>:
-
-{% raw %}
-```
-@ARTICLE{2023MNRAS.526.4107P,
-       author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
-        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
-      journal = {\mnras},
-     keywords = {methods: data analysis, catalogues, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies},
-         year = 2023,
-        month = dec,
-       volume = {526},
-       number = {3},
-        pages = {4107-4119},
-          doi = {10.1093/mnras/stad2826},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P}
-}
-```
-{% endraw %}
 
 
 ## What objects are included in the UCC?
@@ -127,3 +102,28 @@ else parallax is nan
 where `parallax` is the associated parallax of the OC, and `xy_r, plx_r, pm_r`
 are the parallax-based thresholds for each component (in arcmin, mas, and
 mas/yr; respectively).
+
+
+## How can I cite the UCC?
+
+If you found the UCC useful for your research, please reference its original article
+<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
+et al. (2023)</a>:
+
+{% raw %}
+```
+@ARTICLE{2023MNRAS.526.4107P,
+       author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
+        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
+      journal = {\mnras},
+     keywords = {methods: data analysis, catalogues, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = dec,
+       volume = {526},
+       number = {3},
+        pages = {4107-4119},
+          doi = {10.1093/mnras/stad2826},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P}
+}
+```
+{% endraw %}
