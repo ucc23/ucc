@@ -3,7 +3,14 @@ import fetch from 'node-fetch';
 import { parseStringPromise } from 'xml2js';
 
 const ARXIV_URL = 'https://export.arxiv.org/api/query?search_query=cat:astro-ph.GA*&sortBy=submittedDate&sortOrder=descending&max_results=200';
-const keywords = ['open cluster', 'star cluster', 'stellar cluster'];
+
+// Keywords to filter and score entries
+const keywords = [
+  { term: 'open cluster', weight: 1.5 },
+  { term: 'star cluster', weight: 1 },
+  { term: 'stellar cluster', weight: 0.5 },
+];
+
 
 async function main() {
   // Load existing entries from arxiv.json, if the file exists
@@ -38,9 +45,9 @@ async function main() {
 
       // Calculate the score
       let score = 0;
-      keywords.forEach(keyword => {
-        if (title.includes(keyword)) score += 2;
-        if (summary.includes(keyword)) score += 1;
+      keywords.forEach(({ term, weight }) => {
+        if (title.includes(term)) score += 2 * weight;
+        if (summary.includes(term)) score += 1 * weight;
       });
 
       return { ...entry, score };
