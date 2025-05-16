@@ -254,6 +254,78 @@
     "score": 3
   },
   {
+    "id": "http://arxiv.org/abs/2505.08184v2",
+    "updated": "2025-05-15T09:09:41Z",
+    "published": "2025-05-13T02:47:40Z",
+    "title": "Insights into the 3D layered structure of nearby open clusters through\n  N-body simulations",
+    "summary": "  Context. Open clusters (OCs) are important for understanding star formation,\ndynamics, and evolution. Previous studies have indicated a relationship between\ncluster structure and member star properties, but the formation mechanism of\nthe layered structure of OCs remains unclear. Aims. We study the\nthree-dimensional spatial distribution of 279 nearby OCs to understand the\nformation mechanism of the layered structure. Methods. We analyzed the spatial\ndistribution of member stars within each OC and correlated the presence of a\nlayered structure with the number of member stars. Additionally, we performd\nN-body simulations to model the evolution of OCSN 125. We assessd the\ncorrelation between the binary fraction, the most massive star, and the radius\nof the layered structure in each simulated OC. Results. Our analysis reveals\nthat OCs with fewer member stars tend to lack a layered structure. The results\nfrom N-body simulations indicate that the presence of a layered structure is\nstrongly influenced by dynamical factors, particularly the most massive star\nand the binary fraction. Massive stars drive mass loss through supernova\nexplosions and stellar winds, which weaken the spatial layering. Furthermore,\nclusters with higher binary fractions exhibit a weaker layered structure,\nlikely due to energy equipartition, dynamical friction, and perturbations\ncaused by binary systems. These factors contribute to delaying core collapse\nand slowing the emergence of a layered structure. Conclusions. Our findings\nsuggest that dynamical interactions, including the effects of the most massive\nstars and binary fraction, play a critical role in the formation and disruption\nof the layered structure in OCs.\n",
+    "author": [
+      {
+        "name": "Kaixiang Lang"
+      },
+      {
+        "name": "Yu Zhang"
+      },
+      {
+        "name": "Hubiao Niu"
+      },
+      {
+        "name": "Jayanand Maurya"
+      },
+      {
+        "name": "Jinzhong Liu"
+      },
+      {
+        "name": "Guimei Liu"
+      }
+    ],
+    "arxiv:comment": {
+      "_": "10 pages, 6 figures; Accepted by A&A",
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "link": [
+      {
+        "$": {
+          "href": "http://arxiv.org/abs/2505.08184v2",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      },
+      {
+        "$": {
+          "title": "pdf",
+          "href": "http://arxiv.org/pdf/2505.08184v2",
+          "rel": "related",
+          "type": "application/pdf"
+        }
+      }
+    ],
+    "arxiv:primary_category": {
+      "$": {
+        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+        "term": "astro-ph.GA",
+        "scheme": "http://arxiv.org/schemas/atom"
+      }
+    },
+    "category": [
+      {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      {
+        "$": {
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      }
+    ],
+    "score": 3
+  },
+  {
     "id": "http://arxiv.org/abs/2505.07491v1",
     "updated": "2025-05-12T12:21:38Z",
     "published": "2025-05-12T12:21:38Z",
@@ -509,130 +581,6 @@
       {
         "$": {
           "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      }
-    ],
-    "score": 1
-  },
-  {
-    "id": "http://arxiv.org/abs/2505.05006v1",
-    "updated": "2025-05-08T07:22:32Z",
-    "published": "2025-05-08T07:22:32Z",
-    "title": "850 SRG/eROSITA X-ray sources associated with Pleiades stars",
-    "summary": "  Using data from the SRG/eROSITA all-sky X-ray survey and the GAIA-based\ncatalog of 2,209 members of the Pleiades open star cluster, we found 850 X-ray\nsources associated with the cluster stars. Over 650 of them were detected in\nX-rays for the first time. At the distance of the Pleiades, the nominal\nsensitivity of eROSITA corresponds to a luminosity of $L_X \\sim 1.6 \\cdot\n10^{28}$ erg/s in the 0.3-2.3 keV band. The eROSITA sources associated with\nPleiades stars have a total luminosity of $L_{X,tot} \\sim 1.3 \\cdot 10^{32}$\nerg/s , a million times greater than the X-ray luminosity of the quiet Sun.\nStrong X-ray variability, more than 10 times, was recorded for 27 sources. Most\nof them are known as eruptive optical variables of the dM class. The value of\n$R_X=log(L_X/L_{bol})$ increases with decreasing effective temperature of the\nstar from $R_X\\approx -5$ to $R_X\\approx -2$. The distribution of stars over\n$R_X$ is bimodal, with the left peak at $R_X\\sim-4.3$ being formed by stars of\nFGK classes, and the right peak at $R_X\\sim-3.1$ being mainly populated by\nM-stars. The relation between $R_X$ and the Rossby number $Ro$ depends on the\nspectral class. For K- and M- stars, at low Rossby numbers $R_X\\sim -3$ and\ndepends weakly on $Ro$. At $Ro \\gt 0.25$, a rapid drop in $R_X$ is observed for\nK stars, while in our sample there are no M stars with large Rossby number.\nMost of F- and G- stars appear to have smaller $R_X\\sim -4.5$, however, our\nsample size is insufficient for a more detailed characterization of their\n$R_X-Ro$ dependence.\n",
-    "author": [
-      {
-        "name": "I. M. Khamitov"
-      },
-      {
-        "name": "I. F. Bikmaev"
-      },
-      {
-        "name": "M. R. Gilfanov"
-      },
-      {
-        "name": "R. A. Sunyaev"
-      },
-      {
-        "name": "P. S. Medvedev"
-      }
-    ],
-    "arxiv:comment": {
-      "_": "16 pages, 12 figures, 3 tables",
-      "$": {
-        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-      }
-    },
-    "link": [
-      {
-        "$": {
-          "href": "http://arxiv.org/abs/2505.05006v1",
-          "rel": "alternate",
-          "type": "text/html"
-        }
-      },
-      {
-        "$": {
-          "title": "pdf",
-          "href": "http://arxiv.org/pdf/2505.05006v1",
-          "rel": "related",
-          "type": "application/pdf"
-        }
-      }
-    ],
-    "arxiv:primary_category": {
-      "$": {
-        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-        "term": "astro-ph.HE",
-        "scheme": "http://arxiv.org/schemas/atom"
-      }
-    },
-    "category": {
-      "$": {
-        "term": "astro-ph.HE",
-        "scheme": "http://arxiv.org/schemas/atom"
-      }
-    },
-    "score": 1
-  },
-  {
-    "id": "http://arxiv.org/abs/2505.04794v1",
-    "updated": "2025-05-07T20:46:12Z",
-    "published": "2025-05-07T20:46:12Z",
-    "title": "Constraining the environment of compact binary mergers with self-lensing\n  signatures",
-    "summary": "  Gravitational waves (GWs) from coalescing binary black holes (BBHs) can come\nfrom different environments. GWs interact gravitationally with astrophysical\nobjects, which makes it possible to use gravitational lensing by nearby objects\n(self-lensing) to learn about their environments. We quantify the probability\nof self-lensing through the optical depth $\\tau$ for the main channels of\ndetectable GWs at frequencies $f_{\\rm GW}\\sim (1-10^3)\\,{\\rm Hz}$. We then\nanalyze the detectability of the lensing effect (imprint). In star clusters,\nthe probability of self-lensing by stellar-mass black holes (BHs) is low\n($\\tau\\simeq10^{-7}$), even when taking into account nearby BHs in resonant\ninteractions ($\\tau\\simeq 10^{-5}$). Additionally, the lensing imprint of a\nstellar-mass lens (diffraction and interference) is too marginal to be\ndetectable by the LIGO-Virgo-KAGRA detectors and most Einstein Telescope\nsignals. For a massive BH lens in the center of a cluster, the probability can\nreach $\\tau\\simeq 10^{-4}$ either via von Zeipel-Lidov-Kozai induced mergers of\nBBHs orbiting a central massive BH or BBHs formed as GW captures in\nsingle-single interactions in the Bahcall-Wolf cusp of a nuclear cluster,\nlikely eccentric. For self-lensing by a supermassive BH for BBHs in the\nmigration trap of an AGN (active galactic nucleus) disk, $\\tau \\simeq 10^{-2}$.\nThe imprint of these massive lenses are two images that are easily detectable\nalready in current detectors. Moreover, AGN disk merger signals have a distinct\nlinear $h_+$ polarization. The probability depends on the extent of the\ndetectability through the threshold impact parameter $y_{\\rm max}$, which can\nincrease for future detectors. We conclude that constraining the environment of\nBBHs is possible by combining self-lensing imprints with other waveform\nsignatures such as eccentricity and polarization.\n",
-    "author": [
-      {
-        "name": "Helena Ubach"
-      },
-      {
-        "name": "Mark Gieles"
-      },
-      {
-        "name": "Jordi Miralda-Escudé"
-      }
-    ],
-    "arxiv:comment": {
-      "_": "Comments welcome",
-      "$": {
-        "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-      }
-    },
-    "link": [
-      {
-        "$": {
-          "href": "http://arxiv.org/abs/2505.04794v1",
-          "rel": "alternate",
-          "type": "text/html"
-        }
-      },
-      {
-        "$": {
-          "title": "pdf",
-          "href": "http://arxiv.org/pdf/2505.04794v1",
-          "rel": "related",
-          "type": "application/pdf"
-        }
-      }
-    ],
-    "arxiv:primary_category": {
-      "$": {
-        "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-        "term": "astro-ph.HE",
-        "scheme": "http://arxiv.org/schemas/atom"
-      }
-    },
-    "category": [
-      {
-        "$": {
-          "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      {
-        "$": {
-          "term": "astro-ph.CO",
           "scheme": "http://arxiv.org/schemas/atom"
         }
       }
