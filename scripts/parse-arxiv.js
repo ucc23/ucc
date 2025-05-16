@@ -2,7 +2,6 @@ async function fetchPapers() {
   try {
     // Fetch latest version
     const res = await fetch("https://raw.githubusercontent.com/ucc23/ucc/refs/heads/main/arxiv.json");
-
     const data = await res.json();
     let entries = Array.isArray(data) ? data : [data];
 
@@ -22,10 +21,17 @@ async function fetchPapers() {
         const updated = entry.updated ? new Date(entry.updated).toLocaleDateString() : 'N/A';
         const abstract = entry.summary?.trim() || '';
 
+        // Generate truncated abstract
+        const truncatedAbstract = abstract.substring(0, 200);
+
         li.innerHTML = `
           <a class="title" href="${link}" target="_blank">${title}</a>
-          <div class="meta">${authors} <br>${updated} — Score: ${entry.score}</div>
-          <p class="abstract">${abstract}</p>
+          <div class="authors">${authors}</div>
+          <div class="meta">${updated} — Score: ${entry.score}</div>
+          <div class="abstract" data-full="${abstract}" data-truncated="${truncatedAbstract}">
+            ${truncatedAbstract}...
+          </div>
+          <span class="toggle-button" onclick="toggleAbstract(this)">Expand</span>
         `;
 
         list.appendChild(li);
@@ -55,7 +61,20 @@ async function fetchPapers() {
   }
 }
 
+// Add the toggleAbstract function for the dropdown functionality
+function toggleAbstract(button) {
+  const abstractDiv = button.previousElementSibling;
+  const isExpanded = abstractDiv.classList.toggle('expanded');
+
+  if (isExpanded) {
+    abstractDiv.textContent = abstractDiv.getAttribute('data-full');
+    button.textContent = 'Hide';
+  } else {
+    abstractDiv.textContent = abstractDiv.getAttribute('data-truncated') + '...';
+    button.textContent = 'Expand';
+  }
+}
+
 window.addEventListener('DOMContentLoaded', () => {
   fetchPapers();
 });
-

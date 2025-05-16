@@ -39,14 +39,39 @@ li.paper {
   text-decoration: none;
 /*  color: #333;*/
 }
-.paper .meta {
+.paper .authors {
   font-size: 0.9rem;
   color: #555;
   margin-top: 0.25rem;
 }
+.paper .meta {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.25rem;
+  font-weight: bold;
+}
+
+
 .paper .abstract {
+  white-space: normal;
+  overflow: hidden;
+  text-align: justify;
   margin-top: 0.5rem;
   font-style: italic;
   color: #333;
-  text-align: justify;
 }
+
+.paper .abstract.expanded {
+  white-space: normal;
+}
+
+.paper .toggle-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #007BFF;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+
