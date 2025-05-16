@@ -24,8 +24,8 @@ to show only those related to open clusters.
     </center>
     <br>
     <!-- Load articles -->
-<!--     <ul id="papers"></ul>
-    <script defer src="{{ site.baseurl }}/scripts/parse-arxiv.js"></script> -->
+    <ul id="papers"></ul>
+    <script defer src="{{ site.baseurl }}/scripts/parse-arxiv.js"></script>
   </body>
 </html>
 
