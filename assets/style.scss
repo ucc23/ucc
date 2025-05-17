@@ -12,7 +12,8 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+// Removed to avoid ' font render blocking' issue
+//@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {
   font-size: 100%;
@@ -446,7 +447,8 @@ body:after {
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
+  // Removed, it made the word 'cluster' look weird
+  //font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
 }
 
