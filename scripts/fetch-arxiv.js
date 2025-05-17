@@ -31,6 +31,7 @@ async function main() {
   existingEntries = existingEntries.filter(entry => entry.published >= date7DaysBackStr);
 
   // Fetch XML data from arXiv
+  const fetchTimestamp = new Date().toISOString(); // Capture the fetch timestamp
   const res = await fetch(ARXIV_URL);
   const xml = await res.text();
   const obj = await parseStringPromise(xml, { explicitArray: false });
@@ -76,10 +77,16 @@ async function main() {
         summary: 'No articles matching the filters were found in the current submissions.',
       }];
 
+  // Add the fetch timestamp to the JSON object
+  const outputData = {
+    fetched_at: fetchTimestamp,
+    entries: entriesToSave,
+  };
+
   // Save the updated entries to arxiv.json
   await fs.writeFile(
     'arxiv.json',
-    JSON.stringify(entriesToSave, null, 2),
+    JSON.stringify(outputData, null, 2),
     'utf-8'
   );
 }
