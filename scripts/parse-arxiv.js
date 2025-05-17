@@ -3,10 +3,25 @@ async function fetchPapers() {
     // Fetch latest version
     const res = await fetch("https://raw.githubusercontent.com/ucc23/ucc/refs/heads/main/arxiv.json");
     const data = await res.json();
-    let entries = Array.isArray(data) ? data : [data];
+
+    // Extract fetched_at value
+    const fetchedAt = data.fetched_at ? new Date(data.fetched_at) : null;
+
+    // Extract entries from the JSON
+    const entries = Array.isArray(data.entries) ? data.entries : [];
 
     const list = document.getElementById('papers');
     const sortOptions = document.getElementById('arxivsort');
+
+    // Display fetched_at value
+    if (fetchedAt) {
+      const fetchedAtElement = document.getElementById('fetched-at');
+      if (fetchedAtElement) {
+        fetchedAtElement.textContent = `Last updated: ${fetchedAt.toLocaleString()}`;
+      } else {
+        console.log(`Fetched at: ${fetchedAt.toISOString()}`);
+      }
+    }
 
     // Function to render sorted entries
     function renderEntries(sortedEntries) {

@@ -9,7 +9,7 @@ A list of [arXiv's astro-ph.GA](https://arxiv.org/list/astro-ph.GA/new) submissi
 adding a score associated to certain keywords like 'open cluster'.">filtered</span>
 to show only those related to open clusters.
 
-
+<div id="fetched-at" class="fetched-at"></div>
 
 ---
 
@@ -22,7 +22,6 @@ to show only those related to open clusters.
       <label><input type="radio" name="sort" value="score"> Score</label>
     </div>
     </center>
-    <br>
     <!-- Load articles -->
     <ul id="papers"></ul>
     <script defer src="{{ site.baseurl }}/scripts/parse-arxiv.js"></script>

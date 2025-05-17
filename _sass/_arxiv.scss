@@ -1,29 +1,4 @@
 
-/*radio buttons for arxiv sorting*/
-#arxivsort {
-  display: flex;
-  gap: 15px;
-  font-size: 14px;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #f9f9f9;
-  width: fit-content;
-}
-
-/* Specific styles for inputs inside #arxivsort */
-#arxivsort input {
-    width: auto;
-    margin: 0;
-    display: inline-block;
-    padding: 0;
-    border: none;
-    background: none;
-    font-size: inherit;
-    box-sizing: content-box;
-}
-
-
 /*hover text display*/
 .hover-text {
     color: teal;
@@ -48,6 +23,39 @@
 .hover-text:hover::after {
     visibility: visible;
 }
+
+
+/*Last fetched date and time*/
+.fetched-at {
+  font-style: italic;
+  font-size: 14px
+}
+
+
+
+/*radio buttons for arxiv sorting*/
+#arxivsort {
+  display: flex;
+  gap: 15px;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  width: fit-content;
+}
+/* Specific styles for inputs inside #arxivsort */
+#arxivsort input {
+    width: auto;
+    margin: 0;
+    display: inline-block;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: inherit;
+    box-sizing: content-box;
+}
+
 
 
 /*arXiv articles display*/
@@ -76,8 +84,6 @@ li.paper {
   margin-top: 0.25rem;
   font-weight: bold;
 }
-
-
 .paper .abstract {
   white-space: normal;
   overflow: hidden;
@@ -86,11 +92,9 @@ li.paper {
   font-style: italic;
   color: #333;
 }
-
 .paper .abstract.expanded {
   white-space: normal;
 }
-
 .paper .toggle-button {
   display: inline-block;
   margin-top: 0.5rem;
