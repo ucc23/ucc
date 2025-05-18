@@ -13,14 +13,10 @@ const keywords = [
 
 
 async function main() {
-  // Load existing entries from arxiv.json, if the file exists
+  // Load existing entries from arxiv.json, assume it exists
   let existingEntries = [];
-  try {
-    const data = await fs.readFile('arxiv.json', 'utf-8');
-    existingEntries = JSON.parse(data);
-  } catch (err) {
-    if (err.code !== 'ENOENT') throw err; // Ignore if file doesn't exist
-  }
+  const data = await fs.readFile('arxiv.json', 'utf-8');
+  existingEntries = JSON.parse(data);
 
   // Calculate the date 7 days back
   const date7DaysBack = new Date();
@@ -28,7 +24,7 @@ async function main() {
   const date7DaysBackStr = date7DaysBack.toISOString().split('T')[0];
 
   // Filter out entries older than 7 days from the existing data
-  existingEntries = existingEntries.filter(entry => entry.published >= date7DaysBackStr);
+  existingEntries = existingEntries.entries.filter(entry => entry.published >= date7DaysBackStr);
 
   // Fetch XML data from arXiv
   const fetchTimestamp = new Date().toISOString(); // Capture the fetch timestamp
