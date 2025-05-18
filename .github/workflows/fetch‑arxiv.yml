@@ -1,4 +1,4 @@
-name: Generate arxiv JSON file
+name: Fetch arxiv JSON file
 
 run-name: Fetching arxiv data
 
