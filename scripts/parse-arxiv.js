@@ -2,6 +2,8 @@ async function fetchPapers() {
   try {
     // Fetch latest version
     const res = await fetch("https://raw.githubusercontent.com/ucc23/ucc/refs/heads/main/arxiv.json");
+    // Fetch local version for testing
+    // const res = await fetch("../arxiv.json");
     const data = await res.json();
 
     // Extract fetched_at value
@@ -32,7 +34,12 @@ async function fetchPapers() {
 
         const title = entry.title.trim();
         const link = entry.id?.trim() || '#';
-        const authors = entry.author ? entry.author.map(a => a.name).join(', ') : 'N/A';
+
+        // Normalize authors to an array of names
+        const authors = Array.isArray(entry.author)
+          ? entry.author.map(a => a.name).join(', ')
+          : entry.author?.name || 'N/A';
+
         const updated = entry.updated ? new Date(entry.updated).toLocaleDateString() : 'N/A';
         const abstract = entry.summary?.trim() || '';
 
