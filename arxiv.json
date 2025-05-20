@@ -1,6 +1,261 @@
 {
-  "fetched_at": "2025-05-20T01:21:16.991Z",
+  "fetched_at": "2025-05-20T06:24:57.864Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.12802v1",
+      "updated": "2025-05-19T07:32:03Z",
+      "published": "2025-05-19T07:32:03Z",
+      "title": "Low-Metallicity Star Formation Survey in Sh2-284 (LZ-STAR). II. The\n  inital mass function",
+      "summary": "  To fully understand the star formation process, we are compelled to study it\nin a variety of environments. Of particular interest are how star formation and\nthe resulting initial mass function (IMF) vary as a function of metallicity. We\nhave observed an embedded young cluster in Sh2-284 (hereafter S284), the HII\nregion associated with the open cluster Dolidze 25 using JWST/NIRCam with the\naim to study star formation in a metal-poor, i.e., about 1/3 of solar,\nenvironment. In particular, we aim to measure the peak of the IMF. Using JWST\nNIRCam photometry, we identified the embedded cluster S284-EC1 and resolved its\nlow-mass content. By comparison with pre-main sequence evolutionary tracks we\ndetermine the mass and extinction for the individual cluster members.\nExtinction limited samples are created based on the distribution of extinction\nand the completeness of the data. For the region with a completeness of 50% or\nhigher, we have fitted a log-normal distribution to the IMF. Adopting a\nfiducial age of 1 Myr of the members, the peak of the IMF is found to be at mc\n= 0.16+-0.02Msun, which is significantly smaller than the peak mass measured in\nlocal young clusters, such as mc = 0.26+0.11-0.07 Msun in the Orion Nebula\nCluster (Gennaro & Robberto 2020), or the local Galactic disk value of mc =\n0.25 Msun (Chabrier 2005). We have found evidence for IMF variation as a\nfunction of metallicity, i.e., the peak of the IMF shifts to lower masses as\none goes from solar to 1/3 solar metallicity. However, we caution that the\nresult is sensitive to the assumed age of the stellar population, i.e., with\npeak mass rising if an age older than 1 Myr is adopted. This study further\nmotivates the need for expanded samples of low-metallicity regions and their\ncontent to enable more comprehensive measures of the IMF in such environments.\n",
+      "author": [
+        {
+          "name": "M. Andersen"
+        },
+        {
+          "name": "A. Brizawasi"
+        },
+        {
+          "name": "Y. Cheng"
+        },
+        {
+          "name": "J. C. Tan"
+        },
+        {
+          "name": "R. Fedriani"
+        },
+        {
+          "name": "J. J. Armstrong"
+        },
+        {
+          "name": "M. Robberto"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to A&A, comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12802v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12802v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.12505v1",
+      "updated": "2025-05-18T17:46:27Z",
+      "published": "2025-05-18T17:46:27Z",
+      "title": "Connecting JWST discovered N/O-enhanced galaxies to globular clusters:\n  Evidence from chemical imprints",
+      "summary": "  Recent JWST observations have revealed a growing population of galaxies at\n$z>4$ with elevated nitrogen-to-oxygen ratios. These \"N/O-enhanced\" galaxies\n(NOEGs) exhibit near- to super-solar N/O at sub-solar O/H, clearly deviating\nfrom the well-established scaling relation between N/O and O/H observed in\nlocal galaxies. The origin of this abundance anomaly is unclear. Interestingly,\nlocal globular clusters also exhibit anomalous light-element abundances, whose\norigin remains debated. In this work, we compare the chemical abundance\npatterns of 22 known NOEGs at $0\\lesssim z\\lesssim 12$ -- primarily discovered\nwith JWST -- to those observed in local globular clusters. We find striking\nsimilarities in the abundances of C, N, O, Fe, and He between the two\npopulations. The similar abundance patterns support the scenario in which\nglobular cluster stars formed within proto-cluster environments -- similar to\nthose traced by NOEGs -- that were self-enriched. Indeed, the enhancement in\nN/O in early galaxies appears to be only found in dense stellar environments\nwith $\\Sigma _{\\star}\\gtrsim 10^{2.5}~M_\\odot~{\\rm pc^{-2}}$, as expected for\nthe progenitors of globular clusters in the Milky Way, and similar to those of\nstar clusters identified in strongly lensed high-redshift galaxies.\nFurthermore, we find a tentative positive correlation between N/O ratios and\nstellar mass among NOEGs. The apparent high occurrence rate of NOEGs at high\nredshift is consistent with the picture of cluster-dominated star formation\nduring the early stages of galaxy evolution. Measuring chemical abundances\nacross diverse stellar environments in high-redshift galaxies will be crucial\nfor elucidating the connection between NOEGs and globular clusters.\n",
+      "author": [
+        {
+          "name": "Xihan Ji"
+        },
+        {
+          "name": "Vasily Belokurov"
+        },
+        {
+          "name": "Roberto Maiolino"
+        },
+        {
+          "name": "Stephanie Monty"
+        },
+        {
+          "name": "Yuki Isobe"
+        },
+        {
+          "name": "Andrey Kravtsov"
+        },
+        {
+          "name": "William McClymont"
+        },
+        {
+          "name": "Hannah Übler"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "25 pages, 9 figures, submitted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12505v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12505v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.12397v1",
+      "updated": "2025-05-18T12:51:53Z",
+      "published": "2025-05-18T12:51:53Z",
+      "title": "Unveiling the Ionized and Neutral ISM at z > 10 : The Origin of [O III]\n  /[C II] Ratios from a Sub-parsec Resolution Radiative Transfer Simulation",
+      "summary": "  Recent multi-wavelength observations by JWST and ALMA are unveiling both\nionized and neutral ISM components in high-redshift ($z>6$) galaxies. In this\nwork, we investigate the origin of rest-frame far-infrared [OIII]88 $\\mu$m and\n[CII]158 $\\mu$m emission by performing zoom-in cosmological simulations of\ndwarf-galaxy progenitors at $z=9-13$. Our simulations incorporate on-the-fly\nradiative transfer at sub-pc ($\\sim$ 0.1 pc) resolution, allowing us to resolve\nthe multi-phase ISM. We compute emission lines on a cell-by-cell basis, taking\ninto account local temperature, density, metallicity, radiation field strength,\ncolumn density, and spectral hardness of radiation bins. We find that [OIII]\npredominantly arises from centrally located ionizing bubbles with temperatures\nof $\\sim (1-5)\\times 10^4\\,\\mathrm{K}$ and high ionization parameters of $\\log\nU_{\\mathrm{ion}} \\simeq -1.5$. In contrast, [CII] is produced in the\nsurrounding dense neutral regions at $\\sim 5\\times 10^3\\,\\mathrm{K}$, which are\nheated by strong FUV radiation from the central stellar clusters. This spatial\narrangement leads to large local variations in [OIII]/[CII], ranging from\n$\\sim$ 100 to 0.01. Our galaxy reproduces the global ratio\n[OIII]/[CII]$\\sim5-30$, consistent with recent ALMA detections at $z>6$ without\ninvoking enhanced O/C abundance ratios. We further derive that [OIII]/[CII]\nlinearly scales with the mass and density ratios of ionized to neutral gas,\n$M_{\\rm HII}/M_{\\rm HI}$ and $n_{\\rm HII}/n_{\\rm HI}$ and show that the\n[OIII]/[CII] ratio typically changes from 5.7 to 0.3 from high-z to low-z. For\nfuture synergies of JWST and ALMA, we derived $M_{\\rm HII}/M_{\\rm HI}$ for\nobserved $z >6$ galaxies using ${\\rm H}\\beta$ and [CII] and show the validity\nof our scaling relations.\n",
+      "author": [
+        {
+          "name": "Yurina Nakazato"
+        },
+        {
+          "name": "Kazuyuki Sugimura"
+        },
+        {
+          "name": "Akio K. Inoue"
+        },
+        {
+          "name": "Massimo Ricotti"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 15 figures, submitted to ApJ, Comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12397v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12397v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.11609v1",
+      "updated": "2025-05-16T18:16:30Z",
+      "published": "2025-05-16T18:16:30Z",
+      "title": "Ultraviolet variability in Solar-type members of the M67 open cluster",
+      "summary": "  Solar-type members of the rich, nearly Solar-age and Solar-metallicity M67\nopen cluster are systematically investigated for ultraviolet variability. We\nutilize archival Galaxy Evolution Explorer (GALEX) data which features several\nimaging observation epochs spanning 5 years. Stars in or suspected of being in\nbinary systems are avoided as well as stars that are blended in GALEX data,\nleading to a sample of 66 Solar-type stars. We assess variability over a\nvariety of timescales that probe flares and longer-term trends that could be\ndue to rotation and activity cycles. We do not find conclusive evidence for\nvariability and determine that Solar-type members of M67 do not display >30%\nnear-ultraviolet variability over timescales ranging from days to years.\nFurthermore, within 50-second cadence lightcurves generated for each of the\nimaging epochs we find no near-ultraviolet flares that are >~2x the quiescent\nstellar near-ultraviolet emission level; the implied ultraviolet flare rate\nderived from this study is in mild tension with that derived for stars observed\nby GALEX in the primary Kepler field. This M67 GALEX study presents one of the\nmost comprehensive ultraviolet datasets currently available for probing\ncontinuum emission variability for old Sun-like stars; the planned NASA UVEX\nmission has the potential to dramatically expand upon this work.\n",
+      "author": [
+        {
+          "name": "Carl Melis"
+        },
+        {
+          "name": "Ekamjot Kaire"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in ApJ. 29 pages including 4 main text\n  figures, 3 tables (one quite long), and one appendix featuring 2 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.11609v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.11609v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
     {
       "id": "http://arxiv.org/abs/2505.11357v1",
       "updated": "2025-05-16T15:23:58Z",
