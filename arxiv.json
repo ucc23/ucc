@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-19T18:23:38.614Z",
+  "fetched_at": "2025-05-20T01:21:16.991Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.11357v1",
@@ -671,120 +671,6 @@
         }
       ],
       "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.07491v1",
-      "updated": "2025-05-12T12:21:38Z",
-      "published": "2025-05-12T12:21:38Z",
-      "title": "Rapid formation of a very massive star >50000 $M_\\odot$ and subsequently\n  an IMBH from runaway collisions. Direct N-body and Monte Carlo simulations of\n  dense star clusters",
-      "summary": "  Context. We present simulations of a massive young star cluster using\n\\textsc{Nbody6++GPU} and \\textsc{MOCCA}. The cluster is initially more compact\nthan previously published models, with one million stars, a total mass of $5.86\n\\times 10^5~\\mathrm{M}_{\\odot}$, and a half-mass radius of $0.1~\\mathrm{pc}$.\n  Aims. We analyse the formation and growth of a very massive star (VMS)\nthrough successive stellar collisions and investigate the subsequent formation\nof an intermediate-mass black hole (IMBH) in the core of a dense star cluster.\n  Methods. We use both direct \\textit{N}-body and Monte Carlo simulations,\nincorporating updated stellar evolution prescriptions (SSE/BSE) tailored to\nmassive stars and VMSs. These include revised treatments of stellar radii,\nrejuvenation, and mass loss during collisions. While the prescriptions\nrepresent reasonable extrapolations into the VMS regime, the internal structure\nand thermal state of VMSs formed through stellar collisions remain uncertain,\nand future work may require further refinement.\n  Results. We find that runaway stellar collisions in the cluster core produce\na VMS exceeding $5 \\times 10^4~\\mathrm{M}_{\\odot}$ within 5 Myr, which\nsubsequently collapses into an IMBH.\n  Conclusions. Our model suggests that dense stellar environments may enable\nthe formation of very massive stars and massive black hole seeds through\nrunaway stellar collisions. These results provide a potential pathway for early\nblack hole growth in star clusters and offer theoretical context for\ninterpreting recent JWST observations of young, compact clusters at high\nredshift.\n",
-      "author": [
-        {
-          "name": "Marcelo C. Vergara"
-        },
-        {
-          "name": "Abbas Askar"
-        },
-        {
-          "name": "Albrecht W. H. Kamlah"
-        },
-        {
-          "name": "Rainer Spurzem"
-        },
-        {
-          "name": "Francesco Flammini Dotti"
-        },
-        {
-          "name": "Dominik R. G. Schleicher"
-        },
-        {
-          "name": "Manuel Arca Sedda"
-        },
-        {
-          "name": "Arkadiusz Hypki"
-        },
-        {
-          "name": "Mirek Giersz"
-        },
-        {
-          "name": "Jarrod Hurley"
-        },
-        {
-          "name": "Peter Berczik"
-        },
-        {
-          "name": "Andres Escala"
-        },
-        {
-          "name": "Nils Hoyer"
-        },
-        {
-          "name": "Nadine Neumayer"
-        },
-        {
-          "name": "Xiaoying Pang"
-        },
-        {
-          "name": "Ataru Tanikawa"
-        },
-        {
-          "name": "Renyue Cen"
-        },
-        {
-          "name": "Thorsten Naab"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "18 pages, 11 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.07491v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.07491v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 3
     }
   ]
 }
