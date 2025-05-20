@@ -18,7 +18,7 @@ body {
 </style>
 
   <div class="search-container">
-    <input type="search" id="search"  placeholder="Search by name or coordinates..." data-search>
+    <input type="search" id="search"  placeholder="Search by name or coordinates..." data-search autofocus>
   </div>
   <div class="user-cards" data-user-cards-container></div>
   <template data-user-template>
@@ -31,27 +31,21 @@ body {
   </template>
 
 <!-- Focus on search bar on load -->
-<script>document.getElementById("search").focus();</script>
-
-<!-- Function to open the first search result on 'Enter' -->
-<script>
-  document.getElementById("search").addEventListener("keydown", function(event) {
-    if (event.key === "Enter") {
-      event.preventDefault(); // Prevent form submission or default behavior
-
-      // Select the first result's anchor link within 'user-cards' container
-      const firstResult = document.querySelector(".user-cards .card a");
-
-      // Open the first result if it exists
-      if (firstResult) {
-        window.location.href = firstResult.getAttribute("href");
-      }
-    }
-  });
-</script>
+<!-- <script>document.getElementById("search").focus();</script> -->
 
 <!-- Load search bar -->
 <script defer src="{{ site.baseurl }}/scripts/euclidean-search.js"></script>
 
 <!-- Compression library used to access the compressed JSON file -->
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/1.0.11/pako.min.js"></script>
+
+<!-- Function to open the first search result on 'Enter' -->
+<script defer>
+  document.getElementById("search").onkeydown = e => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      const a = document.querySelector(".user-cards .card a");
+      if (a) location.href = a.href;
+    }
+  };
+</script>
