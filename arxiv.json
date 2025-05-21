@@ -1,6 +1,153 @@
 {
-  "fetched_at": "2025-05-21T01:20:51.516Z",
+  "fetched_at": "2025-05-21T06:24:46.382Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.14034v1",
+      "updated": "2025-05-20T07:31:15Z",
+      "published": "2025-05-20T07:31:15Z",
+      "title": "Selected open cluster sample for validating atmospheric parameters:\n  Application to Gaia and other surveys",
+      "summary": "  Reliable stellar atmospheric parameters are essential for probing stellar\nstructure and evolution, and for stellar population studies. However, various\ndeviations appear in comparisons with different ground-based spectroscopic\nsurveys. We aim to select high-quality open cluster members and employ the\natmospheric parameters provided by the theoretical isochrones of open clusters\nas a benchmark to assess the quality of stellar atmospheric parameters from\nGaia DR3 and other ground-based spectroscopic surveys, such as LAMOST DR11,\nAPOGEE DR17, and GALAH DR4. We selected 130 open clusters with well-defined\nmain sequences within 500 pc of the solar neighborhood as a benchmark sample to\nestimate the reference atmospheric parameters of the members from the best-fit\nisochrones of those clusters. By comparing the atmospheric parameters provided\nby different spectroscopic surveys to the theoretical parameters, we found that\nthe atmospheric parameter deviation and the corresponding dispersions exhibit\ndifferent variations. The atmospheric parameter deviations of F, G, and K-type\nstars are smaller than those of B, A, and M-type stars for most surveys. For\nmost samples, the dispersion of Teff decreases as temperature decreases,\nwhereas the dispersion of logg shows the opposite trend.\n",
+      "author": [
+        {
+          "name": "Tong Tang"
+        },
+        {
+          "name": "Songmei Qin"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Yueyue Jiang"
+        },
+        {
+          "name": "Li Chen"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 11 figures, 4 tables. Accepted for publication in Astronomy\n  & Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14034v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14034v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.13666v1",
+      "updated": "2025-05-19T19:11:06Z",
+      "published": "2025-05-19T19:11:06Z",
+      "title": "Oort Cloud Ecology. III. The Sun left the parent star cluster shortly\n  after the giant planets formed",
+      "summary": "  The Sun was born in a clustered environment with 10,000 other stars. Being an\nisolated star today, the Sun must have left the nest. We do not directly know\nwhen that happened, how violent the ejection was, or how far the Solar siblings\nhave drifted apart. The mass of the fragile outer Opic-Oort cloud, (between\n$r_{\\rm inner} \\sim 30,000$\\,au and $200\\,000$au from the Sun) and the orbital\ndistribution of planetesimals in the inner Hills-Oort cloud (between $\\sim\n1000$\\,au and $\\sim 30\\,000$ au) are sensitive to the dynamical processes\ninvolving the Sun in the parent cluster. We aim at understanding the extend to\nwhich observing the Oort cloud constrains the Sun's birth environment. This is\nachieved by a combination of theoretical arguments and N-body simulations. We\nshow that the current mass of the Opic-Oort cloud (between 0.2 and $2.0$ Earth\nmasses) is best explained if the Sun left the nest within $\\sim 20$\\,Myr after\nthe giant planets formed and migrated. As a consequence, the possible dynamical\nencounter with another star carving the Kuiper belt, the Sun's abduction of\nSedna, and other perturbations induced by nearby stars then must have happened\nshortly after the giant planets in the Solar system formed, but before the Sun\nleft the parent cluster. Signatures of the time spend in the parent cluster\nmust still be visible in the outer parts of the Solar system today. The\nstrongest constraints will be the discovery of a population of relatively\nlow-eccentricity ($e < 0.9$) inner Oort-cloud (but $500 < a < 10^4$\\,au)\nobjects.\n",
+      "author": [
+        {
+          "name": "Simon Portegies Zwart",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Shuo Huang",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.13666v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.13666v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2505.12802v1",
       "updated": "2025-05-19T07:32:03Z",
