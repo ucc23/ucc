@@ -16,20 +16,20 @@ from the latest version of the UCC.
     <br>
     <!-- Load Aitoff plot -->
     <div id="plot"></div>
-    <script defer src="{{ site.baseurl }}/scripts/aitoff_plot.js"></script>
+    <script defer src="{{ site.baseurl }}/scripts/map_search.js"></script>
     <center>
     <div id="controls">
         <div class="control-group">
           <label for="minD">dmin [pc]</label>
-          <input type="number" id="minD" value="0" step="50" aria-label="Min dist">
+          <input type="number" id="minD" value="0" min=0 step="50" aria-label="Min dist">
         </div>
         <div class="control-group">
           <label for="maxD">dmax [pc]</label>
-          <input type="number" id="maxD" value="500" step="50" aria-label="Max dist">
+          <input type="number" id="maxD" value="500" min=0 step="50" aria-label="Max dist">
         </div>
         <div class="control-group">
           <label for="maxN">N<sub>max</sub></label>
-          <input type="number" id="maxN" value="1000" step="100" aria-label="Max N">
+          <input type="number" id="maxN" value="1000" min=0 step="100" aria-label="Max N">
         </div>
     </div>
     </center>
