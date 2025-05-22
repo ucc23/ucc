@@ -57,7 +57,7 @@ searchInput.addEventListener("input", (event) => {
         const element = userCardTemplate.content.cloneNode(true).children[0];
         const header = element.querySelector("[data-header]");
         const body = element.querySelector(`[data-body_${user.matchType}]`);
-        const href = `./_clusters/${user.F.split(",")[0]}`;
+        const href = `./_clusters/${user.F.split(";")[0]}`;
         element.querySelector("a").setAttribute("href", href);
         header.textContent = user.N;
         //
