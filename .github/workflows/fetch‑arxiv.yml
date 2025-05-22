@@ -77,7 +77,7 @@ jobs:
       - name: Check for changes in data
         id: check-changes
         run: |
-          git add arxiv.json
+          git add assets/arxiv.json
           # git diff --cached returns non-zero if there are staged changes
           if git diff --cached --quiet; then
             echo "changes=false" >> "$GITHUB_OUTPUT"
@@ -93,5 +93,5 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git commit -m "ci: update arXiv.json" arxiv.json
+          git commit -m "ci: update arXiv.json" assets/arxiv.json
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
