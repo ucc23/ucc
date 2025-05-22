@@ -3,7 +3,7 @@ const userCardContainer = document.querySelector("[data-user-cards-container]");
 const searchInput = document.querySelector("[data-search]");
 
 // Fetch and decompress data
-fetch("clusters.json.gz")
+fetch("assets/clusters.json.gz")
     .then(response => response.arrayBuffer())
     .then(buffer => {
         // Decompress and parse JSON file
