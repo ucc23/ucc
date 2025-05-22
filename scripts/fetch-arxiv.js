@@ -15,7 +15,7 @@ const keywords = [
 async function main() {
   // Load existing entries from arxiv.json, assume it exists
   let existingEntries = [];
-  const data = await fs.readFile('arxiv.json', 'utf-8');
+  const data = await fs.readFile('assets/arxiv.json', 'utf-8');
   existingEntries = JSON.parse(data);
 
   // Calculate the date 7 days back
@@ -81,7 +81,7 @@ async function main() {
 
   // Save the updated entries to arxiv.json
   await fs.writeFile(
-    'arxiv.json',
+    'assets/arxiv.json',
     JSON.stringify(outputData, null, 2),
     'utf-8'
   );

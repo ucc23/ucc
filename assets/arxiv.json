@@ -1,0 +1,783 @@
+{
+  "fetched_at": "2025-05-22T12:35:33.604Z",
+  "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.14788v1",
+      "updated": "2025-05-20T18:00:08Z",
+      "published": "2025-05-20T18:00:08Z",
+      "title": "Global properties, fractality, and mass segregation in single, paired,\n  and grouped open clusters",
+      "summary": "  We investigate the structural and dynamical properties of Open Clusters (OCs)\nclassified as single, in pairs, or in groups. By analysing their mass, size,\nage, fractality, and mass segregation, we aim to identify systematic\ndifferences among these categories and evaluate the role of the Galactic\nenvironment in their evolution. Our sample comprises 420 single OCs, 415 in\npairs, and 317 in groups. To characterise their structure, we apply the\nQ-parameter, which distinguishes fractal from radial distributions. We also\ncompute the local density ratio to quantify mass segregation and explore its\ndependence on environment. Grouped OCs tend to be the youngest, followed by\nthose in pairs, while single OCs generally exhibit older ages. Although sizes\nare comparable, OCs in pairs and groups tend to be less concentrated.\nStructurally, grouped OCs show the highest fractality, which decreases with age\nas clusters evolve towards more radial configurations. Mass segregation is\ndetected in ~80% of OCs, with a slightly higher incidence in single clusters.\nSome older single OCs show inverse segregation, with massive stars at larger\nradii. Spatially, single OCs are more dispersed, whereas paired and grouped\nones are concentrated in spiral arms and star-forming regions. OC evolution\nappears to be shaped by both internal dynamics and environmental influences.\nSingle OCs tend to exhibit signs of more advanced dynamical evolution, whereas\nthose in pairs and groups may retain features reflecting their formation\nenvironment. Substructures and high fractality in younger clusters suggest that\nearly interactions play a key role in their long-term development. More massive\nOCs evolve towards radial configurations, while less massive ones may retain\nfractal properties for longer. These findings highlight the interplay between\nintrinsic properties and external conditions in shaping OC evolution.\n",
+      "author": [
+        {
+          "name": "Valeria Coenda"
+        },
+        {
+          "name": "Gustavo Baume"
+        },
+        {
+          "name": "Tali Palma"
+        },
+        {
+          "name": "Carlos Feinstein"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14788v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14788v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.14783v1",
+      "updated": "2025-05-20T18:00:03Z",
+      "published": "2025-05-20T18:00:03Z",
+      "title": "Fornax dwarf spheroidal in MOND: its formation and the survival of its\n  globular clusters",
+      "summary": "  The Fornax dwarf spheroidal galaxy has five massive globular clusters (GCs).\nThey are often used for testing different dark matter and modified gravity\ntheories, because it is difficult to reconcile their old stellar ages with the\nshort time they need to settle in the center of the galaxy due to dynamical\nfriction. Using high resolution $N$-body simulations with the Phantom of Ramses\ncode, we investigate whether the GCs of Fornax can be reconciled with the\nmodified Newtonian dynamics (MOND), namely its QUMOND formulation.\nObservational data interpreted in MOND indicate that Fornax is a tidal dwarf\ngalaxy formed at redshift $z=0.9$ in a flyby of the Milky Way (MW) and\nAndromeda galaxies, and that its GCs were initially massive star clusters in\nthe disk of the MW. This helps us to set up and interpret the simulations. In\nthe simulations, a point-mass GC orbits Fornax, and they both orbit the MW.\nWhen we ran multiple simulations with varying initial conditions for the GC, we\nfound a 20% probability of Fornax being observed with five unsunk GCs. The\nunsunk GCs have the observed radial distribution. Moreover, we found: 1) In\nMOND, Fornax has an orbit around the MW such that the pericenters coincide with\nthe observed peaks in the star formation history of Fornax; 2) The simulations\nreproduce the observed ``diffuse stellar halo'' of Fornax; 3) The simulations\npredict that Fornax has a stellar stream, which could be detectable in the\nexisting data. 4) An extra simulation shows that if Fornax was initially a\nrotating disky tidal dwarf galaxy, the gravitational influence of the MW would\nbe able to transform it into a nonrotating spheroidal. 5) Sometimes Phantom of\nRamses does not conserve angular momentum. This makes the GC sink too fast if\nit is simulated as an $N$-body object.\n",
+      "author": [
+        {
+          "name": "Michal Bílek"
+        },
+        {
+          "name": "Hongsheng Zhao"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 14 figures, 5 tables, 4 appendices. Accepted for\n  publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14783v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14783v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.14034v1",
+      "updated": "2025-05-20T07:31:15Z",
+      "published": "2025-05-20T07:31:15Z",
+      "title": "Selected open cluster sample for validating atmospheric parameters:\n  Application to Gaia and other surveys",
+      "summary": "  Reliable stellar atmospheric parameters are essential for probing stellar\nstructure and evolution, and for stellar population studies. However, various\ndeviations appear in comparisons with different ground-based spectroscopic\nsurveys. We aim to select high-quality open cluster members and employ the\natmospheric parameters provided by the theoretical isochrones of open clusters\nas a benchmark to assess the quality of stellar atmospheric parameters from\nGaia DR3 and other ground-based spectroscopic surveys, such as LAMOST DR11,\nAPOGEE DR17, and GALAH DR4. We selected 130 open clusters with well-defined\nmain sequences within 500 pc of the solar neighborhood as a benchmark sample to\nestimate the reference atmospheric parameters of the members from the best-fit\nisochrones of those clusters. By comparing the atmospheric parameters provided\nby different spectroscopic surveys to the theoretical parameters, we found that\nthe atmospheric parameter deviation and the corresponding dispersions exhibit\ndifferent variations. The atmospheric parameter deviations of F, G, and K-type\nstars are smaller than those of B, A, and M-type stars for most surveys. For\nmost samples, the dispersion of Teff decreases as temperature decreases,\nwhereas the dispersion of logg shows the opposite trend.\n",
+      "author": [
+        {
+          "name": "Tong Tang"
+        },
+        {
+          "name": "Songmei Qin"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Yueyue Jiang"
+        },
+        {
+          "name": "Li Chen"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 11 figures, 4 tables. Accepted for publication in Astronomy\n  & Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14034v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14034v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.13666v1",
+      "updated": "2025-05-19T19:11:06Z",
+      "published": "2025-05-19T19:11:06Z",
+      "title": "Oort Cloud Ecology. III. The Sun left the parent star cluster shortly\n  after the giant planets formed",
+      "summary": "  The Sun was born in a clustered environment with 10,000 other stars. Being an\nisolated star today, the Sun must have left the nest. We do not directly know\nwhen that happened, how violent the ejection was, or how far the Solar siblings\nhave drifted apart. The mass of the fragile outer Opic-Oort cloud, (between\n$r_{\\rm inner} \\sim 30,000$\\,au and $200\\,000$au from the Sun) and the orbital\ndistribution of planetesimals in the inner Hills-Oort cloud (between $\\sim\n1000$\\,au and $\\sim 30\\,000$ au) are sensitive to the dynamical processes\ninvolving the Sun in the parent cluster. We aim at understanding the extend to\nwhich observing the Oort cloud constrains the Sun's birth environment. This is\nachieved by a combination of theoretical arguments and N-body simulations. We\nshow that the current mass of the Opic-Oort cloud (between 0.2 and $2.0$ Earth\nmasses) is best explained if the Sun left the nest within $\\sim 20$\\,Myr after\nthe giant planets formed and migrated. As a consequence, the possible dynamical\nencounter with another star carving the Kuiper belt, the Sun's abduction of\nSedna, and other perturbations induced by nearby stars then must have happened\nshortly after the giant planets in the Solar system formed, but before the Sun\nleft the parent cluster. Signatures of the time spend in the parent cluster\nmust still be visible in the outer parts of the Solar system today. The\nstrongest constraints will be the discovery of a population of relatively\nlow-eccentricity ($e < 0.9$) inner Oort-cloud (but $500 < a < 10^4$\\,au)\nobjects.\n",
+      "author": [
+        {
+          "name": "Simon Portegies Zwart",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Shuo Huang",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.13666v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.13666v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.12802v1",
+      "updated": "2025-05-19T07:32:03Z",
+      "published": "2025-05-19T07:32:03Z",
+      "title": "Low-Metallicity Star Formation Survey in Sh2-284 (LZ-STAR). II. The\n  inital mass function",
+      "summary": "  To fully understand the star formation process, we are compelled to study it\nin a variety of environments. Of particular interest are how star formation and\nthe resulting initial mass function (IMF) vary as a function of metallicity. We\nhave observed an embedded young cluster in Sh2-284 (hereafter S284), the HII\nregion associated with the open cluster Dolidze 25 using JWST/NIRCam with the\naim to study star formation in a metal-poor, i.e., about 1/3 of solar,\nenvironment. In particular, we aim to measure the peak of the IMF. Using JWST\nNIRCam photometry, we identified the embedded cluster S284-EC1 and resolved its\nlow-mass content. By comparison with pre-main sequence evolutionary tracks we\ndetermine the mass and extinction for the individual cluster members.\nExtinction limited samples are created based on the distribution of extinction\nand the completeness of the data. For the region with a completeness of 50% or\nhigher, we have fitted a log-normal distribution to the IMF. Adopting a\nfiducial age of 1 Myr of the members, the peak of the IMF is found to be at mc\n= 0.16+-0.02Msun, which is significantly smaller than the peak mass measured in\nlocal young clusters, such as mc = 0.26+0.11-0.07 Msun in the Orion Nebula\nCluster (Gennaro & Robberto 2020), or the local Galactic disk value of mc =\n0.25 Msun (Chabrier 2005). We have found evidence for IMF variation as a\nfunction of metallicity, i.e., the peak of the IMF shifts to lower masses as\none goes from solar to 1/3 solar metallicity. However, we caution that the\nresult is sensitive to the assumed age of the stellar population, i.e., with\npeak mass rising if an age older than 1 Myr is adopted. This study further\nmotivates the need for expanded samples of low-metallicity regions and their\ncontent to enable more comprehensive measures of the IMF in such environments.\n",
+      "author": [
+        {
+          "name": "M. Andersen"
+        },
+        {
+          "name": "A. Brizawasi"
+        },
+        {
+          "name": "Y. Cheng"
+        },
+        {
+          "name": "J. C. Tan"
+        },
+        {
+          "name": "R. Fedriani"
+        },
+        {
+          "name": "J. J. Armstrong"
+        },
+        {
+          "name": "M. Robberto"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to A&A, comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12802v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12802v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.12505v1",
+      "updated": "2025-05-18T17:46:27Z",
+      "published": "2025-05-18T17:46:27Z",
+      "title": "Connecting JWST discovered N/O-enhanced galaxies to globular clusters:\n  Evidence from chemical imprints",
+      "summary": "  Recent JWST observations have revealed a growing population of galaxies at\n$z>4$ with elevated nitrogen-to-oxygen ratios. These \"N/O-enhanced\" galaxies\n(NOEGs) exhibit near- to super-solar N/O at sub-solar O/H, clearly deviating\nfrom the well-established scaling relation between N/O and O/H observed in\nlocal galaxies. The origin of this abundance anomaly is unclear. Interestingly,\nlocal globular clusters also exhibit anomalous light-element abundances, whose\norigin remains debated. In this work, we compare the chemical abundance\npatterns of 22 known NOEGs at $0\\lesssim z\\lesssim 12$ -- primarily discovered\nwith JWST -- to those observed in local globular clusters. We find striking\nsimilarities in the abundances of C, N, O, Fe, and He between the two\npopulations. The similar abundance patterns support the scenario in which\nglobular cluster stars formed within proto-cluster environments -- similar to\nthose traced by NOEGs -- that were self-enriched. Indeed, the enhancement in\nN/O in early galaxies appears to be only found in dense stellar environments\nwith $\\Sigma _{\\star}\\gtrsim 10^{2.5}~M_\\odot~{\\rm pc^{-2}}$, as expected for\nthe progenitors of globular clusters in the Milky Way, and similar to those of\nstar clusters identified in strongly lensed high-redshift galaxies.\nFurthermore, we find a tentative positive correlation between N/O ratios and\nstellar mass among NOEGs. The apparent high occurrence rate of NOEGs at high\nredshift is consistent with the picture of cluster-dominated star formation\nduring the early stages of galaxy evolution. Measuring chemical abundances\nacross diverse stellar environments in high-redshift galaxies will be crucial\nfor elucidating the connection between NOEGs and globular clusters.\n",
+      "author": [
+        {
+          "name": "Xihan Ji"
+        },
+        {
+          "name": "Vasily Belokurov"
+        },
+        {
+          "name": "Roberto Maiolino"
+        },
+        {
+          "name": "Stephanie Monty"
+        },
+        {
+          "name": "Yuki Isobe"
+        },
+        {
+          "name": "Andrey Kravtsov"
+        },
+        {
+          "name": "William McClymont"
+        },
+        {
+          "name": "Hannah Übler"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "25 pages, 9 figures, submitted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12505v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12505v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.12397v1",
+      "updated": "2025-05-18T12:51:53Z",
+      "published": "2025-05-18T12:51:53Z",
+      "title": "Unveiling the Ionized and Neutral ISM at z > 10 : The Origin of [O III]\n  /[C II] Ratios from a Sub-parsec Resolution Radiative Transfer Simulation",
+      "summary": "  Recent multi-wavelength observations by JWST and ALMA are unveiling both\nionized and neutral ISM components in high-redshift ($z>6$) galaxies. In this\nwork, we investigate the origin of rest-frame far-infrared [OIII]88 $\\mu$m and\n[CII]158 $\\mu$m emission by performing zoom-in cosmological simulations of\ndwarf-galaxy progenitors at $z=9-13$. Our simulations incorporate on-the-fly\nradiative transfer at sub-pc ($\\sim$ 0.1 pc) resolution, allowing us to resolve\nthe multi-phase ISM. We compute emission lines on a cell-by-cell basis, taking\ninto account local temperature, density, metallicity, radiation field strength,\ncolumn density, and spectral hardness of radiation bins. We find that [OIII]\npredominantly arises from centrally located ionizing bubbles with temperatures\nof $\\sim (1-5)\\times 10^4\\,\\mathrm{K}$ and high ionization parameters of $\\log\nU_{\\mathrm{ion}} \\simeq -1.5$. In contrast, [CII] is produced in the\nsurrounding dense neutral regions at $\\sim 5\\times 10^3\\,\\mathrm{K}$, which are\nheated by strong FUV radiation from the central stellar clusters. This spatial\narrangement leads to large local variations in [OIII]/[CII], ranging from\n$\\sim$ 100 to 0.01. Our galaxy reproduces the global ratio\n[OIII]/[CII]$\\sim5-30$, consistent with recent ALMA detections at $z>6$ without\ninvoking enhanced O/C abundance ratios. We further derive that [OIII]/[CII]\nlinearly scales with the mass and density ratios of ionized to neutral gas,\n$M_{\\rm HII}/M_{\\rm HI}$ and $n_{\\rm HII}/n_{\\rm HI}$ and show that the\n[OIII]/[CII] ratio typically changes from 5.7 to 0.3 from high-z to low-z. For\nfuture synergies of JWST and ALMA, we derived $M_{\\rm HII}/M_{\\rm HI}$ for\nobserved $z >6$ galaxies using ${\\rm H}\\beta$ and [CII] and show the validity\nof our scaling relations.\n",
+      "author": [
+        {
+          "name": "Yurina Nakazato"
+        },
+        {
+          "name": "Kazuyuki Sugimura"
+        },
+        {
+          "name": "Akio K. Inoue"
+        },
+        {
+          "name": "Massimo Ricotti"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 15 figures, submitted to ApJ, Comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.12397v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.12397v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.11609v1",
+      "updated": "2025-05-16T18:16:30Z",
+      "published": "2025-05-16T18:16:30Z",
+      "title": "Ultraviolet variability in Solar-type members of the M67 open cluster",
+      "summary": "  Solar-type members of the rich, nearly Solar-age and Solar-metallicity M67\nopen cluster are systematically investigated for ultraviolet variability. We\nutilize archival Galaxy Evolution Explorer (GALEX) data which features several\nimaging observation epochs spanning 5 years. Stars in or suspected of being in\nbinary systems are avoided as well as stars that are blended in GALEX data,\nleading to a sample of 66 Solar-type stars. We assess variability over a\nvariety of timescales that probe flares and longer-term trends that could be\ndue to rotation and activity cycles. We do not find conclusive evidence for\nvariability and determine that Solar-type members of M67 do not display >30%\nnear-ultraviolet variability over timescales ranging from days to years.\nFurthermore, within 50-second cadence lightcurves generated for each of the\nimaging epochs we find no near-ultraviolet flares that are >~2x the quiescent\nstellar near-ultraviolet emission level; the implied ultraviolet flare rate\nderived from this study is in mild tension with that derived for stars observed\nby GALEX in the primary Kepler field. This M67 GALEX study presents one of the\nmost comprehensive ultraviolet datasets currently available for probing\ncontinuum emission variability for old Sun-like stars; the planned NASA UVEX\nmission has the potential to dramatically expand upon this work.\n",
+      "author": [
+        {
+          "name": "Carl Melis"
+        },
+        {
+          "name": "Ekamjot Kaire"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in ApJ. 29 pages including 4 main text\n  figures, 3 tables (one quite long), and one appendix featuring 2 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.11609v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.11609v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.11357v1",
+      "updated": "2025-05-16T15:23:58Z",
+      "published": "2025-05-16T15:23:58Z",
+      "title": "The systemic recoil velocity distribution and the scale height of\n  isolated millisecond pulsar systems: Implications on neutron star retention\n  fractions in star clusters",
+      "summary": "  The systemic recoil velocity ($v_\\mathrm{sys}$) distribution of millisecond\npulsars (MSPs) is essential for understanding the MSP formation and estimating\nthe retention fractions of MSPs in star clusters, which can potentially be\ndetermined with astrometric studies that take into account MSPs' long-term\ndynamic evolution and the scarcity of radial velocity measurements. We compiled\n65 isolated (or field) MSP systems (including lone MSPs) that are well\nastrometrically determined, and calculated their transverse peculiar (or space)\nvelocities $\\boldsymbol{v}_\\perp$ and Galactic heights $z$. We find that the\nobserved Galactic-longitude components $v_\\mathrm{l}$ of $\\boldsymbol{v}_\\perp$\ncan be well described by a linear combination of three normal distributions.\nAssuming that 1) $v_\\mathrm{l}$ are statistically stable over time (the\n\"stable-$v_\\mathrm{l}$\" assumption), and 2) $\\boldsymbol{v}_\\mathrm{sys}$\ndirections are uniformly distributed (the\n\"isotropic-$\\boldsymbol{v}_\\mathrm{sys}$\" assumption), the MSP $v_\\mathrm{sys}$\ndistribution can be approximated by a linear combination of three Maxwellian\ncomponents. Our dynamical population synthesis analysis based on the derived\n$v_\\mathrm{sys}$ distribution verified the \"stable-$v_\\mathrm{l}$\" assumption\nin the parameter space of this work, and estimated the initial and the current\nGalaxy-wide scale heights of isolated MSP systems to be about 0.32 kpc and 0.66\nkpc, respectively. According to the MSP $v_\\mathrm{sys}$ distribution,\n$\\sim13$% of all the MSPs born in a globular cluster (GC) with the nominal 50\n$\\mathrm{km~s^{-1}}$ central escape velocity can be retained. Therefore, the\n$v_\\mathrm{sys}$ distribution of isolated MSP systems may account for the high\nnumber of MSPs discovered in GCs, which implies that MSPs in star clusters may\nfollow the same formation channel(s) as isolated MSP systems.\n",
+      "author": {
+        "name": "Hao Ding"
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.11357v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.11357v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.10323v1",
+      "updated": "2025-05-15T14:07:25Z",
+      "published": "2025-05-15T14:07:25Z",
+      "title": "Structural parameters, chronological age and dynamical age of the LMC\n  globular cluster NGC 1754",
+      "summary": "  In the context of a new systematic study of the properties of the most\ncompact and massive star clusters in the Large Magellanic Cloud (LMC), here we\npresent the determination of the chronological age, the structural parameters,\nand the dynamical age of NGC 1754. We used high-resolution images taken with\nthe WFC3/HST instrument, both in optical and near-ultraviolet filters. The high\nquality of the images made it possible to construct the star density profile\nfrom resolved star counts, and to fit the observed profile with an appropriate\nKing model to obtain the structural parameters (e.g. core, half-mass, and tidal\nradii). Our findings confirm that NGC 1754 is a very compact globular cluster\nwith a core radius of only 0.84 pc. The analysis of the same dataset allowed us\nto confirm a very old age ($t=12.8\\pm0.4$ Gyr) for this system, thus further\nconsolidating the indication that the process of globular cluster formation\nstarted at the same cosmic time both in the LMC and in the Milky Way,\nindependently of the characteristics of the host environment. We have also used\nthe empirical method called ``dynamical clock'' to estimate the dynamical age\nof the system. This consists of quantifying the degree of central segregation\nof blue straggler stars (BSSs) using the $A^+_{rh}$ parameter, which is defined\nas the area enclosed between the cumulative radial distribution of BSSs and\nthat of a reference (lighter) population. This method yielded a value of\n$A^+_{rh}=0.31\\pm0.07$, which is the highest measured so far for LMC clusters,\npointing to an advanced dynamical age for the cluster, possibly on the verge of\ncore collapse. The results presented here for NGC 1754 confirm that the natural\ndynamical evolution of globular clusters plays a role in shaping the age-core\nradius distributions observed in the LMC.\n",
+      "author": [
+        {
+          "name": "Camilla Giusti"
+        },
+        {
+          "name": "Mario Cadelano"
+        },
+        {
+          "name": "Francesco R. Ferraro"
+        },
+        {
+          "name": "Barbara Lanzoni"
+        },
+        {
+          "name": "Cristina Pallanca"
+        },
+        {
+          "name": "Enrico Vesperini"
+        },
+        {
+          "name": "Emanuele Dalessandro"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.10323v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.10323v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.10173v1",
+      "updated": "2025-05-15T11:05:04Z",
+      "published": "2025-05-15T11:05:04Z",
+      "title": "Star formation efficiency and scaling relations in parsec-scale\n  cluster-forming clumps",
+      "summary": "  Numerical simulations predict that clumps ($\\sim$1 pc) should form stars at\nhigh efficiency to produce bound star clusters. We conducted a statistical\nstudy of 17 nearby cluster-forming clumps to examine the star formation rate\nand gas mass surface density relations (i.e. $\\Sigma_{\\rm{SFR}}$ vs.\n$\\Sigma_{\\rm{gas}}$) at the clump scale. Using near-infrared point sources and\nHerschel dust continuum analysis, we obtained the radius, age, and stellar mass\nfor most clusters in the ranges 0.5$-$1.6 pc, 0.5$-$1.5 Myr, 40$-$500\nM$_\\odot$, respectively, and also found that they are associated with\n$\\Sigma_{\\rm{gas}}$ values ranging from 80$-$600 M$_\\odot$ pc$^{-2}$. We\nobtained the best-fit scaling relations as $\\Sigma_{\\rm{SFR}}$ $\\propto$\n$\\Sigma_{\\rm{gas}}^{1.46}$ and $\\Sigma_{\\rm{SFR}}$ $\\propto$\n$(\\Sigma_{\\rm{gas}}/t_{\\rm{ff}})^{0.80}$ for the studied sample of clumps.\nComparing our results with existing scaling relations at cloud and\nextragalactic scales, we found that while the power-law exponent obtained in\nthis work is similar to those found at these scales, the star formation rate\nsurface densities are relatively higher for similar gas mass surface densities.\nFrom this work, we obtained instantaneous median star formation efficiency\n(SFE) and efficiency per free-fall time ($\\epsilon_{\\rm{ff}}$) of $\\sim$20% and\n$\\sim$13%, respectively, for the studied clumps. We discuss the cause of the\nobtained high SFE and $\\epsilon_{\\rm{ff}}$ in the studied clumps and also\ndiscuss the results in the context of bound cluster formation within molecular\nclouds. We conclude that our results do not favour a universal scaling law with\na constant value of $\\epsilon_{\\rm{ff}}$ in star-forming systems across\ndifferent scales.\n",
+      "author": [
+        {
+          "name": "V. Rawat",
+          "arxiv:affiliation": [
+            {
+              "_": "Physical Research Laboratory, Ahmedabad, India",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Indian Institute of Technology Gandhinagar, India",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "M. R. Samal",
+          "arxiv:affiliation": {
+            "_": "Physical Research Laboratory, Ahmedabad, India",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Zavagno",
+          "arxiv:affiliation": [
+            {
+              "_": "Aix Marseille Univ, CNRS, CNES, LAM Marseille, France",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Institut Universitaire de France, France",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sami Dib",
+          "arxiv:affiliation": {
+            "_": "Max-Planck-Institut für Astronomie, Heidelberg, Germany",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Davide Elia",
+          "arxiv:affiliation": {
+            "_": "Istituto di Astrofisica e Planetologia Spaziali, INAF, Roma, Italy",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. Jose",
+          "arxiv:affiliation": {
+            "_": "Indian Institute of Science Education and Research",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. K. Ojha",
+          "arxiv:affiliation": {
+            "_": "Department of Astronomy and Astrophysics, Tata Institute of Fundamental Research, Mumbai, India",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. Srivastav1",
+          "arxiv:affiliation": [
+            {
+              "_": "Physical Research Laboratory, Ahmedabad, India",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Indian Institute of Technology Gandhinagar, India",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 14 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.10173v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.10173v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    }
+  ]
+}
