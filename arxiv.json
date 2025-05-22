@@ -1,6 +1,124 @@
 {
-  "fetched_at": "2025-05-21T18:23:49.031Z",
+  "fetched_at": "2025-05-22T06:24:43.615Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.14788v1",
+      "updated": "2025-05-20T18:00:08Z",
+      "published": "2025-05-20T18:00:08Z",
+      "title": "Global properties, fractality, and mass segregation in single, paired,\n  and grouped open clusters",
+      "summary": "  We investigate the structural and dynamical properties of Open Clusters (OCs)\nclassified as single, in pairs, or in groups. By analysing their mass, size,\nage, fractality, and mass segregation, we aim to identify systematic\ndifferences among these categories and evaluate the role of the Galactic\nenvironment in their evolution. Our sample comprises 420 single OCs, 415 in\npairs, and 317 in groups. To characterise their structure, we apply the\nQ-parameter, which distinguishes fractal from radial distributions. We also\ncompute the local density ratio to quantify mass segregation and explore its\ndependence on environment. Grouped OCs tend to be the youngest, followed by\nthose in pairs, while single OCs generally exhibit older ages. Although sizes\nare comparable, OCs in pairs and groups tend to be less concentrated.\nStructurally, grouped OCs show the highest fractality, which decreases with age\nas clusters evolve towards more radial configurations. Mass segregation is\ndetected in ~80% of OCs, with a slightly higher incidence in single clusters.\nSome older single OCs show inverse segregation, with massive stars at larger\nradii. Spatially, single OCs are more dispersed, whereas paired and grouped\nones are concentrated in spiral arms and star-forming regions. OC evolution\nappears to be shaped by both internal dynamics and environmental influences.\nSingle OCs tend to exhibit signs of more advanced dynamical evolution, whereas\nthose in pairs and groups may retain features reflecting their formation\nenvironment. Substructures and high fractality in younger clusters suggest that\nearly interactions play a key role in their long-term development. More massive\nOCs evolve towards radial configurations, while less massive ones may retain\nfractal properties for longer. These findings highlight the interplay between\nintrinsic properties and external conditions in shaping OC evolution.\n",
+      "author": [
+        {
+          "name": "Valeria Coenda"
+        },
+        {
+          "name": "Gustavo Baume"
+        },
+        {
+          "name": "Tali Palma"
+        },
+        {
+          "name": "Carlos Feinstein"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14788v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14788v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.14783v1",
+      "updated": "2025-05-20T18:00:03Z",
+      "published": "2025-05-20T18:00:03Z",
+      "title": "Fornax dwarf spheroidal in MOND: its formation and the survival of its\n  globular clusters",
+      "summary": "  The Fornax dwarf spheroidal galaxy has five massive globular clusters (GCs).\nThey are often used for testing different dark matter and modified gravity\ntheories, because it is difficult to reconcile their old stellar ages with the\nshort time they need to settle in the center of the galaxy due to dynamical\nfriction. Using high resolution $N$-body simulations with the Phantom of Ramses\ncode, we investigate whether the GCs of Fornax can be reconciled with the\nmodified Newtonian dynamics (MOND), namely its QUMOND formulation.\nObservational data interpreted in MOND indicate that Fornax is a tidal dwarf\ngalaxy formed at redshift $z=0.9$ in a flyby of the Milky Way (MW) and\nAndromeda galaxies, and that its GCs were initially massive star clusters in\nthe disk of the MW. This helps us to set up and interpret the simulations. In\nthe simulations, a point-mass GC orbits Fornax, and they both orbit the MW.\nWhen we ran multiple simulations with varying initial conditions for the GC, we\nfound a 20% probability of Fornax being observed with five unsunk GCs. The\nunsunk GCs have the observed radial distribution. Moreover, we found: 1) In\nMOND, Fornax has an orbit around the MW such that the pericenters coincide with\nthe observed peaks in the star formation history of Fornax; 2) The simulations\nreproduce the observed ``diffuse stellar halo'' of Fornax; 3) The simulations\npredict that Fornax has a stellar stream, which could be detectable in the\nexisting data. 4) An extra simulation shows that if Fornax was initially a\nrotating disky tidal dwarf galaxy, the gravitational influence of the MW would\nbe able to transform it into a nonrotating spheroidal. 5) Sometimes Phantom of\nRamses does not conserve angular momentum. This makes the GC sink too fast if\nit is simulated as an $N$-body object.\n",
+      "author": [
+        {
+          "name": "Michal Bílek"
+        },
+        {
+          "name": "Hongsheng Zhao"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 14 figures, 5 tables, 4 appendices. Accepted for\n  publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.14783v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.14783v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2505.14034v1",
       "updated": "2025-05-20T07:31:15Z",
@@ -660,93 +778,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.09722v1",
-      "updated": "2025-05-14T18:28:43Z",
-      "published": "2025-05-14T18:28:43Z",
-      "title": "High-Resolution Infrared Spectroscopy of the Dust-Obscured Metal-Poor\n  Open Cluster Trumpler 5",
-      "summary": "  Trumpler 5 is a moderately old, dust-obscured metal-poor open cluster. In\nthis study, high-resolution near-infrared spectroscopic data of seven giant\nstars from the Trumpler 5 cluster were analyzed to derive chemical abundances\nfor 20 elements and $^{12}C/^{13}C$ ratios. Color-magnitude diagram (CMD)\nanalysis of BV and Gaia photometry has also been performed for a comprehensive\nstudy of the cluster. Thanks to the methodology employed, some targets are\nstudied for the first time. Additionally, it provides a detailed\ncolor-magnitude diagram analysis using photometric and spectroscopic data. We\ngathered high-resolution spectra for seven Trumpler 5 red giants in the\nnear-infrared H and K wavelength domains, using the Immersion Grating INfrared\nSpectrometer (IGRINS). We introduced a method to initially estimate the stellar\nsurface gravity (log g) by using calibrated equivalent widths of the Ti II line\nat 15873 {\\AA} from a large sample. We performed standard spectroscopic\nanalyses to refine the model atmospheric parameters of our targets and\ndetermined the chemical abundances primarily through spectrum synthesis. We\nalso performed color-magnitude diagram analyses to extract differential\nreddening correction to compare cluster parameters both with and without\ncorrections. We derived stellar parameters for seven members of Trumpler 5 with\nour method and the results are consistent with both the literature and other\nmethods. We also inferred elemental abundances for more than 20 species, along\nwith the $^{12}C/^{13}C$ ratios. The elemental abundances are in good agreement\nwith the literature values for similar targets. Through CMD analysis, we found\nthe reddening value, E(B-V)$\\simeq$0.76 and estimated the age of the cluster to\nbe approximately 2.50 Gyr.\n",
-      "author": [
-        {
-          "name": "S. Özdemir"
-        },
-        {
-          "name": "M. Afşar"
-        },
-        {
-          "name": "C. Sneden"
-        },
-        {
-          "name": "D. A. VandenBerg"
-        },
-        {
-          "name": "P. A. Denissenkov"
-        },
-        {
-          "name": "A. P. Milone"
-        },
-        {
-          "name": "Z. Bozkurt"
-        },
-        {
-          "name": "H. Oh"
-        },
-        {
-          "name": "K. Sokal"
-        },
-        {
-          "name": "G. N. Mace"
-        },
-        {
-          "name": "D. T. Jaffe"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "Accepted for publication in A&A",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.09722v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.09722v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 4.5
     }
   ]
 }
