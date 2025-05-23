@@ -1,6 +1,145 @@
 {
-  "fetched_at": "2025-05-22T18:23:32.784Z",
+  "fetched_at": "2025-05-23T12:33:45.081Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.15924v1",
+      "updated": "2025-05-21T18:24:30Z",
+      "published": "2025-05-21T18:24:30Z",
+      "title": "Chemical Abundances in the Milky Way's Nuclear Stellar Disc",
+      "summary": "  The Nuclear Stellar Disc (NSD) is a rotating, disc-like structure in the\nGalactic Center, believed to have a distinct star formation. However, its\nformation history and evolutionary links to other structures in the Galactic\nCenter remain uncertain. This study aims to present the first comprehensive\nchemical census of the NSD by deriving abundance trends for 18 elements in 9 M\ngiants in the metallicity range of -1.0 <[Fe/H]< 0.5. By comparing these trends\nwith those of other Galactic populations we seek to understand the chemical\nrelationships between these structures. We obtained high-resolution H- and\nK-band spectra of NSD stars using the IGRINS spectrometer mounted on the Gemini\nSouth telescope. The giants were analyzed consistently with stars from a\ncomparison populations to minimize systematic uncertainties. The abundance\ntrends of NSD stars exhibit similarities with those of the inner-bulge and\nNuclear Star Cluster (NSC) populations across a broad range of elements with\ndifferent chemical evolution histories. The trends for 17 elements align\nclosely with the local thick-disc behaviour at subsolar metallicities. At\nsuper-solar metallicities, most elements follow the NSC and inner-bulge trends.\nSodium is the only element exhibiting a distinct trend, with enhanced\nabundances in the NSD and NSC compared to both thin-disc and inner-bulge stars.\nThe chemical similarity suggests that the NSD likely shares an evolutionary\nhistory with the NSC and possibly the inner-disc sequence. Further studies are\nrequired to determine potential evolutionary links to Liller 1 and metal-rich\nglobular clusters. We find no evidence of typical globular cluster abundance\nsignatures in our NSD stars with subsolar metallicities. Our study demonstrates\nthe feasibility of obtaining high-quality abundance data even in highly\ndust-obscured regions of the Milky Way, paving the way for future surveys.\n",
+      "author": [
+        {
+          "name": "N. Ryde"
+        },
+        {
+          "name": "G. Nandakumar"
+        },
+        {
+          "name": "R. Albarracin"
+        },
+        {
+          "name": "M. Schultheis"
+        },
+        {
+          "name": "A. Rojas-Arriagada"
+        },
+        {
+          "name": "M. Zoccali"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "15 pages, 10 figures, Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.15924v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.15924v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.15910v1",
+      "updated": "2025-05-21T18:03:48Z",
+      "published": "2025-05-21T18:03:48Z",
+      "title": "GAMA 526784: the progenitor of a globular cluster-rich ultra-diffuse\n  galaxy? I. Star clusters, stellar body and ionised gas properties",
+      "summary": "  Context. Ultra-diffuse galaxies (UDGs) are an intriguing population of\ngalaxies. Despite their dwarf-like stellar masses and low surface brightness,\nthey have large half-light radii and exhibit a diverse range of globular\ncluster (GC) populations. Some UDGs host many GCs while others have none,\nraising questions about the conditions under which star clusters (SC) form in\ndwarfs. GAMA526784, an isolated UDG with both an old stellar body and an\nextended star-forming (SF) front, including many young SCs, provides an\nexceptional case to explore the link between UDG evolution and star cluster\nformation. Aims. This study investigates the stellar populations, SCs, ionised\ngas, and kinematics of GAMA526784, focusing on its potential to form massive\nGCs and its connection to broader UDG formation scenarios. Methods. Imaging\nfrom HST and Subaru/HSC, alongside MUSE spectroscopy, were used to analyse the\ngalaxy's morphology, chemical composition, and kinematics. A combination of SED\nfitting and full spectral fitting was applied. Results. GAMA526784's central\nstellar body exhibits a low-metallicity ([M/H] ~ -1.0 dex) and an old age (~9.9\nGyr). The outskirts are much younger (~0.9 Gyr), but slightly more metal-poor\n([M/H] ~ -1.2 dex). The stellar kinematics show low velocity dispersions (~10\nkm/s) and a coherent rotational field, while the ionised gas exhibits higher\ndispersions (~50 km/s), a misaligned rotation axis (~20 deg) and localised SF,\nwhat could be suggestive of a recent interaction. The young SCs span ages of\n8-11 Myr and masses of log(M*/Mo)~5.0, while the old GCs have ~9 Gyr and\nstellar masses of log(M*/Mo)~5.5. Conclusions. GAMA526784's properties point to\ninteractions that triggered localised SF, leading to the formation of young\nSCs. Future observations of its molecular and neutral gas will help assess its\nenvironment, and the trigger of this SF episode.\n",
+      "author": [
+        {
+          "name": "Maria Luisa Buzzo"
+        },
+        {
+          "name": "Michael Hilker"
+        },
+        {
+          "name": "Anita Zanella"
+        },
+        {
+          "name": "Katja Fahrion"
+        },
+        {
+          "name": "Richard M. McDermid"
+        },
+        {
+          "name": "Remco van der Burg"
+        },
+        {
+          "name": "Marco Mirabile"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A. 12 pages, 10 figures, 2 appendices",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.15910v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.15910v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 3
+    },
     {
       "id": "http://arxiv.org/abs/2505.14788v1",
       "updated": "2025-05-20T18:00:08Z",
@@ -569,215 +708,6 @@
         }
       ],
       "score": 3
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.10323v1",
-      "updated": "2025-05-15T14:07:25Z",
-      "published": "2025-05-15T14:07:25Z",
-      "title": "Structural parameters, chronological age and dynamical age of the LMC\n  globular cluster NGC 1754",
-      "summary": "  In the context of a new systematic study of the properties of the most\ncompact and massive star clusters in the Large Magellanic Cloud (LMC), here we\npresent the determination of the chronological age, the structural parameters,\nand the dynamical age of NGC 1754. We used high-resolution images taken with\nthe WFC3/HST instrument, both in optical and near-ultraviolet filters. The high\nquality of the images made it possible to construct the star density profile\nfrom resolved star counts, and to fit the observed profile with an appropriate\nKing model to obtain the structural parameters (e.g. core, half-mass, and tidal\nradii). Our findings confirm that NGC 1754 is a very compact globular cluster\nwith a core radius of only 0.84 pc. The analysis of the same dataset allowed us\nto confirm a very old age ($t=12.8\\pm0.4$ Gyr) for this system, thus further\nconsolidating the indication that the process of globular cluster formation\nstarted at the same cosmic time both in the LMC and in the Milky Way,\nindependently of the characteristics of the host environment. We have also used\nthe empirical method called ``dynamical clock'' to estimate the dynamical age\nof the system. This consists of quantifying the degree of central segregation\nof blue straggler stars (BSSs) using the $A^+_{rh}$ parameter, which is defined\nas the area enclosed between the cumulative radial distribution of BSSs and\nthat of a reference (lighter) population. This method yielded a value of\n$A^+_{rh}=0.31\\pm0.07$, which is the highest measured so far for LMC clusters,\npointing to an advanced dynamical age for the cluster, possibly on the verge of\ncore collapse. The results presented here for NGC 1754 confirm that the natural\ndynamical evolution of globular clusters plays a role in shaping the age-core\nradius distributions observed in the LMC.\n",
-      "author": [
-        {
-          "name": "Camilla Giusti"
-        },
-        {
-          "name": "Mario Cadelano"
-        },
-        {
-          "name": "Francesco R. Ferraro"
-        },
-        {
-          "name": "Barbara Lanzoni"
-        },
-        {
-          "name": "Cristina Pallanca"
-        },
-        {
-          "name": "Enrico Vesperini"
-        },
-        {
-          "name": "Emanuele Dalessandro"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "Accepted for publication in A&A",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.10323v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.10323v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.10173v1",
-      "updated": "2025-05-15T11:05:04Z",
-      "published": "2025-05-15T11:05:04Z",
-      "title": "Star formation efficiency and scaling relations in parsec-scale\n  cluster-forming clumps",
-      "summary": "  Numerical simulations predict that clumps ($\\sim$1 pc) should form stars at\nhigh efficiency to produce bound star clusters. We conducted a statistical\nstudy of 17 nearby cluster-forming clumps to examine the star formation rate\nand gas mass surface density relations (i.e. $\\Sigma_{\\rm{SFR}}$ vs.\n$\\Sigma_{\\rm{gas}}$) at the clump scale. Using near-infrared point sources and\nHerschel dust continuum analysis, we obtained the radius, age, and stellar mass\nfor most clusters in the ranges 0.5$-$1.6 pc, 0.5$-$1.5 Myr, 40$-$500\nM$_\\odot$, respectively, and also found that they are associated with\n$\\Sigma_{\\rm{gas}}$ values ranging from 80$-$600 M$_\\odot$ pc$^{-2}$. We\nobtained the best-fit scaling relations as $\\Sigma_{\\rm{SFR}}$ $\\propto$\n$\\Sigma_{\\rm{gas}}^{1.46}$ and $\\Sigma_{\\rm{SFR}}$ $\\propto$\n$(\\Sigma_{\\rm{gas}}/t_{\\rm{ff}})^{0.80}$ for the studied sample of clumps.\nComparing our results with existing scaling relations at cloud and\nextragalactic scales, we found that while the power-law exponent obtained in\nthis work is similar to those found at these scales, the star formation rate\nsurface densities are relatively higher for similar gas mass surface densities.\nFrom this work, we obtained instantaneous median star formation efficiency\n(SFE) and efficiency per free-fall time ($\\epsilon_{\\rm{ff}}$) of $\\sim$20% and\n$\\sim$13%, respectively, for the studied clumps. We discuss the cause of the\nobtained high SFE and $\\epsilon_{\\rm{ff}}$ in the studied clumps and also\ndiscuss the results in the context of bound cluster formation within molecular\nclouds. We conclude that our results do not favour a universal scaling law with\na constant value of $\\epsilon_{\\rm{ff}}$ in star-forming systems across\ndifferent scales.\n",
-      "author": [
-        {
-          "name": "V. Rawat",
-          "arxiv:affiliation": [
-            {
-              "_": "Physical Research Laboratory, Ahmedabad, India",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            },
-            {
-              "_": "Indian Institute of Technology Gandhinagar, India",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            }
-          ]
-        },
-        {
-          "name": "M. R. Samal",
-          "arxiv:affiliation": {
-            "_": "Physical Research Laboratory, Ahmedabad, India",
-            "$": {
-              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-            }
-          }
-        },
-        {
-          "name": "A. Zavagno",
-          "arxiv:affiliation": [
-            {
-              "_": "Aix Marseille Univ, CNRS, CNES, LAM Marseille, France",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            },
-            {
-              "_": "Institut Universitaire de France, France",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Sami Dib",
-          "arxiv:affiliation": {
-            "_": "Max-Planck-Institut für Astronomie, Heidelberg, Germany",
-            "$": {
-              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-            }
-          }
-        },
-        {
-          "name": "Davide Elia",
-          "arxiv:affiliation": {
-            "_": "Istituto di Astrofisica e Planetologia Spaziali, INAF, Roma, Italy",
-            "$": {
-              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-            }
-          }
-        },
-        {
-          "name": "J. Jose",
-          "arxiv:affiliation": {
-            "_": "Indian Institute of Science Education and Research",
-            "$": {
-              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-            }
-          }
-        },
-        {
-          "name": "D. K. Ojha",
-          "arxiv:affiliation": {
-            "_": "Department of Astronomy and Astrophysics, Tata Institute of Fundamental Research, Mumbai, India",
-            "$": {
-              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-            }
-          }
-        },
-        {
-          "name": "K. Srivastav1",
-          "arxiv:affiliation": [
-            {
-              "_": "Physical Research Laboratory, Ahmedabad, India",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            },
-            {
-              "_": "Indian Institute of Technology Gandhinagar, India",
-              "$": {
-                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-              }
-            }
-          ]
-        }
-      ],
-      "arxiv:comment": {
-        "_": "19 pages, 14 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.10173v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.10173v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
     }
   ]
 }
