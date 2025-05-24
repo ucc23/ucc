@@ -10,6 +10,7 @@ body {
   background-attachment: fixed;
   background-position: center 85%;
 }
+/*Remove background image when the height of the screen is 700px or less*/
 @media only screen and (max-height: 700px) {
       body {
         background:none;
@@ -30,8 +31,6 @@ body {
     </div>
   </template>
 
-<!-- Focus on search bar on load -->
-<!-- <script>document.getElementById("search").focus();</script> -->
 
 <!-- Load search bar -->
 <script defer src="{{ site.baseurl }}/scripts/euclidean-search.js"></script>
