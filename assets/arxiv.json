@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-23T18:21:56.853Z",
+  "fetched_at": "2025-05-24T01:17:29.743Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.15924v1",
@@ -599,115 +599,6 @@
         }
       },
       "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.11609v1",
-      "updated": "2025-05-16T18:16:30Z",
-      "published": "2025-05-16T18:16:30Z",
-      "title": "Ultraviolet variability in Solar-type members of the M67 open cluster",
-      "summary": "  Solar-type members of the rich, nearly Solar-age and Solar-metallicity M67\nopen cluster are systematically investigated for ultraviolet variability. We\nutilize archival Galaxy Evolution Explorer (GALEX) data which features several\nimaging observation epochs spanning 5 years. Stars in or suspected of being in\nbinary systems are avoided as well as stars that are blended in GALEX data,\nleading to a sample of 66 Solar-type stars. We assess variability over a\nvariety of timescales that probe flares and longer-term trends that could be\ndue to rotation and activity cycles. We do not find conclusive evidence for\nvariability and determine that Solar-type members of M67 do not display >30%\nnear-ultraviolet variability over timescales ranging from days to years.\nFurthermore, within 50-second cadence lightcurves generated for each of the\nimaging epochs we find no near-ultraviolet flares that are >~2x the quiescent\nstellar near-ultraviolet emission level; the implied ultraviolet flare rate\nderived from this study is in mild tension with that derived for stars observed\nby GALEX in the primary Kepler field. This M67 GALEX study presents one of the\nmost comprehensive ultraviolet datasets currently available for probing\ncontinuum emission variability for old Sun-like stars; the planned NASA UVEX\nmission has the potential to dramatically expand upon this work.\n",
-      "author": [
-        {
-          "name": "Carl Melis"
-        },
-        {
-          "name": "Ekamjot Kaire"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "Accepted for publication in ApJ. 29 pages including 4 main text\n  figures, 3 tables (one quite long), and one appendix featuring 2 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.11609v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.11609v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.11357v1",
-      "updated": "2025-05-16T15:23:58Z",
-      "published": "2025-05-16T15:23:58Z",
-      "title": "The systemic recoil velocity distribution and the scale height of\n  isolated millisecond pulsar systems: Implications on neutron star retention\n  fractions in star clusters",
-      "summary": "  The systemic recoil velocity ($v_\\mathrm{sys}$) distribution of millisecond\npulsars (MSPs) is essential for understanding the MSP formation and estimating\nthe retention fractions of MSPs in star clusters, which can potentially be\ndetermined with astrometric studies that take into account MSPs' long-term\ndynamic evolution and the scarcity of radial velocity measurements. We compiled\n65 isolated (or field) MSP systems (including lone MSPs) that are well\nastrometrically determined, and calculated their transverse peculiar (or space)\nvelocities $\\boldsymbol{v}_\\perp$ and Galactic heights $z$. We find that the\nobserved Galactic-longitude components $v_\\mathrm{l}$ of $\\boldsymbol{v}_\\perp$\ncan be well described by a linear combination of three normal distributions.\nAssuming that 1) $v_\\mathrm{l}$ are statistically stable over time (the\n\"stable-$v_\\mathrm{l}$\" assumption), and 2) $\\boldsymbol{v}_\\mathrm{sys}$\ndirections are uniformly distributed (the\n\"isotropic-$\\boldsymbol{v}_\\mathrm{sys}$\" assumption), the MSP $v_\\mathrm{sys}$\ndistribution can be approximated by a linear combination of three Maxwellian\ncomponents. Our dynamical population synthesis analysis based on the derived\n$v_\\mathrm{sys}$ distribution verified the \"stable-$v_\\mathrm{l}$\" assumption\nin the parameter space of this work, and estimated the initial and the current\nGalaxy-wide scale heights of isolated MSP systems to be about 0.32 kpc and 0.66\nkpc, respectively. According to the MSP $v_\\mathrm{sys}$ distribution,\n$\\sim13$% of all the MSPs born in a globular cluster (GC) with the nominal 50\n$\\mathrm{km~s^{-1}}$ central escape velocity can be retained. Therefore, the\n$v_\\mathrm{sys}$ distribution of isolated MSP systems may account for the high\nnumber of MSPs discovered in GCs, which implies that MSPs in star clusters may\nfollow the same formation channel(s) as isolated MSP systems.\n",
-      "author": {
-        "name": "Hao Ding"
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.11357v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.11357v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 3
     }
   ]
 }
