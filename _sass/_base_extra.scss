@@ -1,30 +1,6 @@
 
-// Global Styles
-html {
-  font-size: 100%;
-  height: 100%;
-}
-
-body {
-  background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
-  line-height: 1.7;
-  font-weight: 400;
-  font-size: 18px;
-  height: 100%;
-}
-
-// Container
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
-
 // Typography
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: inherit;
   color: $darkerGray;
   font-weight: bold;
@@ -35,13 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 
   @include mobile {
     line-height: 1.4;
-  }
-}
-
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
   }
 }
 
@@ -142,86 +111,6 @@ p > img {
   background: $lightGray;
 }
 
-// Gallagher's hack: http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-// Layout Sections
-// Masthead
-.wrapper-masthead {
-  margin-bottom: 25px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 62px;
-  height: 62px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-    width: 62px;
-    height: 62px;
-    object-fit: cover;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-  text-align: left;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
 
 // Main Content
 .posts > .post {
@@ -272,18 +161,6 @@ body:after {
   position: absolute;
   left: 0;
   content: '';
-}
-
-#bar {
-  background: #000;
-  height: 7px;
-  background-size: cover;
-  background-position: left 60%;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  overflow: hidden;
-  z-index: 1000;
 }
 
 .post h1, .page h1 {
