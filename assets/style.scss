@@ -3,11 +3,15 @@
 
 @import "reset";
 @import "variables";
+@import "highlights";
 
 @import "base";
+@import "topnav";
+@import "footer";
 @import "svg-icons";
 
 @import "databases";
+@import "tables";
 @import "carousel";
 @import "map";
 @import "arxiv";
