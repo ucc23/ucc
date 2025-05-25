@@ -4,36 +4,20 @@ title:  OCSN 63
 ---
 <div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
-<!-- WEBP image -->
-<img id="myImage" src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ocsn63_aladin.webp" alt="Clickable Image" style="width:355px;height:250px; cursor: pointer;">
 
+<!-- Static image + data attributes for FOV and target -->
+<img id="aladin_img"
+     data-umami-event="aladin_load"
+     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/ocsn63_aladin.webp"
+     alt="Click to load Aladin Lite" 
+     style="width:355px;height:250px; cursor: pointer;"
+     data-fov="2.103" 
+     data-target="93.637 3.212"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script type="text/javascript">
-// Function to load Aladin Lite after image click and hide the image
-function loadAladinLiteAndHideImage() {
-    // Dynamically load the Aladin Lite script
-    let aladinScript = document.createElement('script');
-    aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
-    aladinScript.charset = "utf-8";
-    aladinScript.onload = function () {
-        A.init.then(() => {
-            let aladin = A.aladin('#aladin-lite-div', {survey:"P/DSS2/color", fov:2.103, target: "93.637 3.212"});
-            // Remove the image
-            document.getElementById('myImage').remove();
-            // Hide the image
-            //document.getElementById('myImage').style.visibility = "hidden";
-            // Show the Aladin Lite viewer
-            document.getElementById('aladin-lite-div').style.display = 'block';
-        });
-     };
-    document.head.appendChild(aladinScript);
-}
-// Event listener for image click
-document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHideImage);
-</script>
+<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
+
 </div>
 <!-- Left block -->
 
@@ -88,4 +72,4 @@ document.getElementById('myImage').addEventListener('click', loadAladinLiteAndHi
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.07, m-M=7.85, logt=7.3` |
 
 <br>
-<font color="b3b1b1"><i>Last modified: 2024-12-10</i></font>
+<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
