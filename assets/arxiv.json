@@ -1,6 +1,204 @@
 {
-  "fetched_at": "2025-05-26T01:22:13.483Z",
+  "fetched_at": "2025-05-26T06:25:49.055Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.17780v1",
+      "updated": "2025-05-23T11:49:01Z",
+      "published": "2025-05-23T11:49:01Z",
+      "title": "Stellar-mass black holes in young massive and open stellar clusters --\n  VI. Role of external galactic field",
+      "summary": "  Young massive clusters (YMC) and open clusters (OC) are widely considered as\npotential environments for assembling merging binary stellar-remnant black\nholes (BBH) via dynamical interactions. However, such moderate mass systems are\nsusceptible to being disrupted by the external tidal field of their host\ngalaxies, potentially limiting their effectiveness as GW sources. In this\nstudy, I investigate the formation of BBH mergers in tidally dissolving star\nclusters. This is achieved with a newly computed grid consisting of 95\nevolutionary model star clusters, where the clusters are subjected to a varying\nextent of tidal stripping. The cluster evolutions are computed with the direct\nN-body integrator NBODY7 that includes, among others, treatments for\npost-Newtonian (PN) effects in compact-binary members, mass loss due to stellar\nevolution, formation of stellar remnants, and tidal stripping. It is found that\neven strong tidal stripping does not quench the formation of a black hole (BH)\ncore inside a cluster or the formation of dynamical BBH mergers in the system.\nThe overall properties of BBH mergers, e.g., the form of the distribution of\nmerger delay time, primary mass, and mass ratio, and the redshift evolution of\nmerger rate are not significantly altered by the extent of tidal stripping of\nthe parent cluster population. Furthermore, even strongly tidally stripped\nclusters are capable of dynamically forming Gaia-BH-like detached\nBH--main-sequence-star binaries that escape into the galactic field.\nLimitations of the present study and potential future improvements are\ndiscussed.\n",
+      "author": {
+        "name": "Sambaran Banerjee"
+      },
+      "arxiv:comment": {
+        "_": "21 pages, 13 figures. Submitted. Comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.17780v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.17780v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.17246v1",
+      "updated": "2025-05-22T19:48:37Z",
+      "published": "2025-05-22T19:48:37Z",
+      "title": "Oort Cloud Formation and Evolution in Star Clusters",
+      "summary": "  It is unknown if an Oort cloud reaches its maximum mass within its star's\nbirth cluster or millions of years later. Complicating the Oort cloud evolution\nprocess is the fact that comets can be stripped from orbit due to perturbations\nfrom passing stars. We explore how a star's cluster escape time (t$_{ \\rm\nesc}$) and the time its Oort cloud reaches maximum mass (t$_{ \\rm max}$) affect\nthe Oort cloud's ability to survive via $N$-body simulations. In a 14\nM$_\\odot$/pc$^3$ cluster, we identify 50 stars of 1 M$_\\odot$ with a range of\nt$_{ \\rm esc}$ to host Oort clouds, each with 1000 comets at t$_{ \\rm max}$.\nFor each host, we consider Oort clouds that reach maximum mass 0, 50, and 250\nMyr after the cluster's formation. Each Oort cloud's evolution is simulated in\nthe cluster from t$_{ \\rm max}$ to t$_{ \\rm esc}$. Only a fraction of comets\ntend to remain in orbit, with this amount depending on t$_{ \\rm max}$ and t$_{\n\\rm esc}$. We observe that 12%, 22%, and 32% of Oort clouds with a t$_{ \\rm\nmax}$ of 0, 50 and 250 Myr retain >50% of their comets at t$_{ \\rm esc}$,\nrespectively. We find that the fraction of comets stripped has the\nrelationship, $\\rm f=m\\log_{10}(\\frac{t_{ \\rm esc}-t_{ \\rm max}}{Myr})$ where m\n= 0.32$\\pm$0.04, indicating that the longer the Oort cloud remains in the\ncluster, the more comets are stripped, with this fraction increasing\nlogarithmically at approximately the same rate for each t$_{ \\rm max}$.\n",
+      "author": [
+        {
+          "name": "Justine C. Obidowski"
+        },
+        {
+          "name": "Jeremy J. Webb"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        },
+        {
+          "name": "Maxwell X. Cai"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/add92c",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/add92c",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.17246v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.17246v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 7 figures, 1 table, accepted for publication in The\n  Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.17183v1",
+      "updated": "2025-05-22T18:00:01Z",
+      "published": "2025-05-22T18:00:01Z",
+      "title": "Caught in the act: detections of recoiling supermassive black holes from\n  simulations",
+      "summary": "  We study the detectability of supermassive black holes (SMBHs) with masses of\n$M_{\\bullet}\\gtrsim 10^{9}\\,\\mathrm{M}_\\odot$ displaced by gravitational wave\nrecoil kicks $(v_{\\rm kick}=0\\mathrm{-}2000\\,\\mathrm{km\\,s}^{-1})$ in\nsimulations of merging massive $(M_{\\star}>10^{11}\\,\\mathrm{M}_\\odot)$\nearly-type galaxies. The used KETJU code combines the GADGET-4 fast multiple\ngravity solver with accurate regularised integration and post-Newtonian\ncorrections (up to PN3.5) around SMBHs. The ejected SMBHs carry clusters of\nbound stellar material (black hole recoil clusters, BRCs) with masses in the\nrange of $10^6 \\lesssim M_{\\text{BRC}} \\lesssim 10^7\\,\\mathrm{M}_\\odot$ and\nsizes of several $10\\,\\mathrm{pc}$. For recoil velocities up to $60\\%$ of the\ngalaxy escape velocity, the BRCs are detectable in mock photometric images at a\nEuclid-like resolution up to redshift $z \\sim 1.0$. By Monte Carlo sampling the\nobservability for different recoil directions and magnitudes, we predict that\nin $\\sim20\\%$ of instances the BRCs are photometrically detectable, most likely\nfor kicks with SMBH apocentres less than the galaxy effective radius. BRCs\noccupy distinct regions in the stellar mass/velocity dispersion vs. size\nrelations of known star clusters and galaxies. An enhanced velocity dispersion\nin excess of $\\sigma \\sim 600\\,\\mathrm{km\\,s}^{-1}$ coinciding with the SMBH\nposition provides the best evidence for an SMBH-hosting stellar system,\neffectively distinguishing BRCs from other faint stellar systems. BRCs are\npromising candidates to observe the aftermath of the yet-undetected mergers of\nthe most massive SMBHs and we estimate that up to 8000 BRCs might be observable\nbelow $z\\lesssim 0.6$ with large-scale photometric surveys such as Euclid and\nupcoming high-resolution imaging and spectroscopy with the Extremely Large\nTelescope.\n",
+      "author": [
+        {
+          "name": "Alexander Rawlings"
+        },
+        {
+          "name": "Peter H. Johansson"
+        },
+        {
+          "name": "Thorsten Naab"
+        },
+        {
+          "name": "Antti Rantala"
+        },
+        {
+          "name": "Jens Thomas"
+        },
+        {
+          "name": "Bianca Neureiter"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.17183v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.17183v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2505.15924v1",
       "updated": "2025-05-21T18:24:30Z",
