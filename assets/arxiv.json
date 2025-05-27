@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2025-05-27T01:19:30.540Z",
+  "fetched_at": "2025-05-27T06:24:26.419Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.19321v1",
+      "updated": "2025-05-25T21:12:22Z",
+      "published": "2025-05-25T21:12:22Z",
+      "title": "Formation of supermassive stars in the first stellar clusters:\n  Dependence on the gas temperature",
+      "summary": "  The origin of supermassive black holes is an open question that has been\nexplored considering gas- and collision-based formation channels to explain the\nhigh number of quasars observed in the early Universe. According to numerical\nsimulations, supermassive stars can be formed in atomic cooling halos when\nprotostars reach accretion rates greater than $\\sim\n10^{-2}~\\mathrm{M_{\\odot}~yr^{-1}}$ and fragmentation is inhibited on parsec\nscales. It remains uncertain, however, whether fragmentation on smaller scales\nleads to the formation of a star cluster instead of a supermassive star in the\npresence of possible cooling mechanisms. We explored the formation of a central\nmassive object through collisions and the accretion of Population III stars in\na primordial gas cloud in a gravitationally unstable system by varying the gas\ntemperature and the degree of gravitational instability. We performed\nmultiphysics simulations in the AMUSE framework with a hydrodynamical gas\ntreatment through Smoothed-particle hydrodynamics and $N$-body dynamics for the\nprotostars represented through sink particles. Our results show that central\nmassive objects with masses $\\sim 10^4~\\mathrm{M_{\\odot}}$ can be formed by\naccretion and collisions at different temperatures and that the most massive\nobject can reach efficiencies of $\\sim 0.61$ for atomic cooling conditions and\n$\\sim 0.95$ for more unstable conditions. We observe a quasi-disk formation for\nwarmer temperatures and a higher contribution through collisions to the mass of\na central massive object. Our results show that the embedded cluster is in a\nsupercompetitive accretion regime in which it obtains mass by accretion that is\nregulated by self-gravity. Our results suggest that in more unstable conditions\nwith lower gas temperatures, a more massive supermassive black hole seed can\nform.\n",
+      "author": [
+        {
+          "name": "P. A. Solar"
+        },
+        {
+          "name": "B. Reinoso"
+        },
+        {
+          "name": "D. R. G. Schleicher"
+        },
+        {
+          "name": "R. S. Klessen"
+        },
+        {
+          "name": "Robi Banerjee"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 18 figures, submitted to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.19321v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.19321v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2505.17780v1",
       "updated": "2025-05-23T11:49:01Z",
