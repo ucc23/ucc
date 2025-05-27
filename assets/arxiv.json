@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-27T06:24:26.419Z",
+  "fetched_at": "2025-05-27T12:35:24.402Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.19321v1",
@@ -61,6 +61,66 @@
         }
       },
       "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.18378v1",
+      "updated": "2025-05-23T21:10:31Z",
+      "published": "2025-05-23T21:10:31Z",
+      "title": "Metallicities of old open clusters: a new Galactic map",
+      "summary": "  Old open clusters can constrain the chemical evolution of the Galactic disc\nthrough their metallicity gradients and age-metallicity relation but they\nsuffer from low statistics. This work aims to determine precise and homogeneous\nmetallicities for a number of old ($\\geq$ 500 Myr) clusters from all-sky\ncatalogues of stellar parameters leveraging Gaia spectrophotometry. Our purpose\nwas to revisit the metallicity distribution of the oldest open clusters as a\nfunction of their Galactic position and age with improved statistics. Our\nsample includes ~600 old open clusters with a typical precision of 0.05 dex in\nmetallicity. We identified metal-poor or metal-rich clusters never studied\nbefore, as well as moving groups as the remnants of dissolving clusters.\nGalactic maps show a smooth decrease of metallicity from inside to outside the\ndisc. Metal-rich and metal-poor clusters exist at all ages but dominate\nrespectively in the inner and the outer disc, with different scale heights.The\nradial metallicity gradient was found to have a knee shape with a steep value\nof -0.084$\\pm$0.004 dex/kpc in the inner side and -0.018$\\pm$0.004 dex/kpc\noutside the knee. The inner radial gradient flattens with age. Vertically, the\nmetallicity gradient is -0.415$\\pm$0.030 dex/kpc. The large scatter in the\ndistribution of metallicity versus age is well explained by the superposition\nof OC populations standing at different Galactocentric distances, each with its\nown mean metallicity and small dispersion, less than 0.08 dex in radius bins of\n1 kpc.Our results are consistent with a negative radial metallicity gradient of\ninterstellar matter that was present in the disc when the clusters formed. The\nlow metallicity dispersion in each radius bin reflects weak radial mixing.\n",
+      "author": [
+        {
+          "name": "Qingshun Hu"
+        },
+        {
+          "name": "Caroline Soubiran"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 12 figures, 4 tables, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.18378v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.18378v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
     },
     {
       "id": "http://arxiv.org/abs/2505.17780v1",
