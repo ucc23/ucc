@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-28T18:22:24.721Z",
+  "fetched_at": "2025-05-28T21:32:17.834Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.21463v1",
@@ -147,7 +147,7 @@
           "scheme": "http://arxiv.org/schemas/atom"
         }
       },
-      "score": 1
+      "score": 2
     },
     {
       "id": "http://arxiv.org/abs/2505.20432v1",
@@ -222,7 +222,7 @@
           }
         }
       ],
-      "score": 4.5
+      "score": 8.5
     },
     {
       "id": "http://arxiv.org/abs/2505.19321v1",
@@ -283,7 +283,7 @@
           "scheme": "http://arxiv.org/schemas/atom"
         }
       },
-      "score": 2
+      "score": 2.5
     },
     {
       "id": "http://arxiv.org/abs/2505.18378v1",
@@ -343,7 +343,7 @@
           }
         }
       ],
-      "score": 4.5
+      "score": 9
     },
     {
       "id": "http://arxiv.org/abs/2505.17780v1",
@@ -398,7 +398,7 @@
           }
         }
       ],
-      "score": 3.5
+      "score": 5
     },
     {
       "id": "http://arxiv.org/abs/2505.17246v1",
@@ -483,7 +483,7 @@
           }
         }
       ],
-      "score": 2
+      "score": 3
     },
     {
       "id": "http://arxiv.org/abs/2505.17183v1",
@@ -523,6 +523,124 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2505.17183v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.16075v1",
+      "updated": "2025-05-21T23:21:19Z",
+      "published": "2025-05-21T23:21:19Z",
+      "title": "Spectroscopic study of globular and fuzzy clusters in Lenticular galaxy\n  NGC 1023",
+      "summary": "  We here report the results from spectroscopic observations of a sample of 26\nglobular cluster (GC) and 21 faint fuzzy (FF) candidates in the lenticular\ngalaxy NGC 1023 using the 10.4-m Gran Telescopio Canarias. Using the\nrecessional velocities and stellar absorption features, we determine that 18\nand 9 of the observed candidates are bona fide GCs and FFs, respectively. The\nmajority of the rejected FF candidates are background emission line galaxies\nfor which we determine their redshifts. We used the spectroscopic data to\ndetermine velocity, age, metallicity and extinction of all bona fide clusters.\nWe find that FFs are clearly younger (age = 7-9 Gyr) than GCs (age > 10 Gyr).\nBoth kind of clusters in this galaxy are metal-rich ([Fe/H] = -0.58 $\\pm$\n0.33). The ages and metallicities of individual FFs reported here are the first\nsuch measurements in any galaxy and agree with the previously-reported\nmeasurement on stacked spectrum. The kinematical analysis reaffirms that the\nFFs belong to the disk of the galaxy, suggesting that their progenitors are\nmost likely massive, compact disk clusters that have been able to survive for\nlong timescales. We propose that the fuzzy appearance of FFs as compared to the\nGCs is a consequence of the dynamical evolution of their progenitor super star\nclusters in the disks of low-mass galaxies.\n",
+      "author": [
+        {
+          "name": "Miguel A. López-Santamaría",
+          "arxiv:affiliation": {
+            "_": "Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Y. D. Mayya",
+          "arxiv:affiliation": {
+            "_": "Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Luis Lomelí-Núñez",
+          "arxiv:affiliation": {
+            "_": "Universidade Federal do Rio de Janeiro, RJ, Brazil",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "L. Rodríguez-Merino",
+          "arxiv:affiliation": {
+            "_": "Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Jairo A. Alzate",
+          "arxiv:affiliation": {
+            "_": "Centro de Estudios de Física del Cosmos de Aragón, Teruel, Spain",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Arianna Cortesi",
+          "arxiv:affiliation": {
+            "_": "Universidade Federal do Rio de Janeiro, RJ, Brazil",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "P. A. Ovando",
+          "arxiv:affiliation": {
+            "_": "Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Rosa-González",
+          "arxiv:affiliation": {
+            "_": "Instituto Nacional de Astrofísica, Óptica y Electrónica, Puebla, Mexico",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "24 pages, 13 figures and 7 tables. Accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.16075v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.16075v1",
             "rel": "related",
             "type": "application/pdf"
           }
@@ -680,7 +798,7 @@
           "scheme": "http://arxiv.org/schemas/atom"
         }
       },
-      "score": 3
+      "score": 5
     }
   ]
 }
