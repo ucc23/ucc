@@ -37,14 +37,15 @@ async function main() {
   const newEntries = entries
     .filter(entry => entry.published >= date7DaysBackStr) // Include only recent entries
     .map(entry => {
-      const title = entry.title.toLowerCase();
-      const summary = entry.summary.toLowerCase();
+      let title = entry.title.toLowerCase().replace(/\n/g, ' ');
+      let summary = entry.summary.toLowerCase().replace(/\n/g, ' ');
 
       // Calculate the score
       let score = 0;
       keywords.forEach(({ term, weight }) => {
-        if (title.includes(term)) score += 2 * weight;
-        if (summary.includes(term)) score += 1 * weight;
+        const titleCount = (title.match(new RegExp(term, 'g')) || []).length;
+        const summaryCount = (summary.match(new RegExp(term, 'g')) || []).length;
+        score += titleCount *weight * 3 + summaryCount * weight;
       });
 
       return { ...entry, score };
