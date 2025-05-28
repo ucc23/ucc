@@ -56,7 +56,7 @@ can be seen <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
 This table groups the OCs in the UCC in ranges of their _estimated number of members_
 parameter `N_50`. This number is obtained identifying as members those stars with
-`P>50%`, where `P` is the membership probability assigned by the [fastMP](https://asteca.readthedocs.io/en/latest/apidocs/asteca/asteca.membership.html#asteca.membership.Membership.fastmp) method.
+`P>50%`, where `P` is the membership probability assigned by the [fastMP](https://asteca.readthedocs.io/en/latest/build/api/asteca.Membership.html#asteca.Membership.fastmp) method.
 
 <!-- Begin table 5 -->
 
