@@ -1,6 +1,133 @@
 {
-  "fetched_at": "2025-05-30T01:18:55.186Z",
+  "fetched_at": "2025-05-30T06:24:15.552Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.23739v1",
+      "updated": "2025-05-29T17:58:03Z",
+      "published": "2025-05-29T17:58:03Z",
+      "title": "Hydrodynamic simulations of black hole evolution in AGN discs I: orbital\n  alignment of highly inclined satellites",
+      "summary": "  The frequency of compact object interactions in AGN discs is naturally tied\nto the number of objects embedded within it. We investigate the evolution of\nblack holes in the nuclear stellar cluster on inclined orbits to the AGN disc\nby performing adiabatic hydrodynamical simulations of isolated black hole disc\ncrossings over a range of disc densities and inclinations\n$i\\in[2^\\circ,15^\\circ]$. We find radiation dominates the pressure in the wake\nthat forms around the BH across the full inclination and disc density range. We\nidentify no well defined steady state wake morphology due to the thin geometry\nof the disc and the vertical exponential density drop off, where the wake\nmorphology depends on the vertical depth of the transit within the disc. The\ninclination damping $\\Delta i$ relative the pre-transit inclination behaves as\na power law in $\\sin(i)$ and the ambient Hill mass $m_\\text{H,0}$ as $\\Delta\ni/i \\propto m_{\\rm H,0}^{0.4} \\sin(i)^{-2.7}$. The drag on the BH is dominated\nby the gravity of the wake for the majority of our inclination range until\naccretion effects become comparable at $\\sin(i)\\gtrsim30H_0/R_0$, where\n$H_0/R_0$ is the disc aspect ratio. At low inclinations\n($\\sin(i)\\lesssim3H_0/R_0$) the wake morphology becomes more spherical, leading\nto a regime change in the inclination damping behaviour. Our results suggest\nthat the inclination damping timescale is shorter than expected from only\nepisodic Bondi-Hoyle-Lyttelton accretion events during each transit, implying\ninclined objects may captured by the AGN disc earlier in its lifetime than\npreviously thought.\n",
+      "author": [
+        {
+          "name": "Connar Rowan"
+        },
+        {
+          "name": "Henry Whitehead"
+        },
+        {
+          "name": "Gaia Fabj"
+        },
+        {
+          "name": "Philip Kirkeberg"
+        },
+        {
+          "name": "Martin E. Pessah"
+        },
+        {
+          "name": "Bence Kocsis"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 9 figures, submitted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.23739v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.23739v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.22717v1",
+      "updated": "2025-05-28T18:00:01Z",
+      "published": "2025-05-28T18:00:01Z",
+      "title": "Stellar Mass Segregation in Dark Matter Halos",
+      "summary": "  We study the effect of stellar mass segregation driven by collisional\nrelaxation within the potential well of a smooth dark matter halo. This effect\nis of particular relevance for old stellar systems with short crossing times,\nwhere small collisional perturbations accumulate over many dynamical time\nscales. We run collisional $N$-body simulations tailored to the ambiguous\nstellar systems Ursa Major 3/Unions 1, Delve 1 and Eridanus 3, modelling their\nstellar populations as two-component systems of high- and low-mass stars,\nrespectively. For Ursa Major 3/Unions 1 (Delve 1), assuming a\ndynamical-to-stellar mass ratio of 10, we find that after 10 Gyr of evolution,\nthe radial extent of its low-mass stars will be twice as large (40 per cent\nlarger) than that of its high-mass stars. We show that weak tides do not alter\nthis relative separation of half-light radii, whereas for the case of strong\ntidal fields, mass segregation facilitates the tidal stripping of low-mass\nstars. We further find that as the population of high-mass stars contracts and\ncools, the number of dynamically formed binaries within that population\nincreases. Our results call for caution when using stellar mass segregation as\na criterion to separate star clusters from dwarf galaxies, and suggest that\nmass segregation increases the abundance of massive binaries in the central\nregions of dark matter-dominated dwarf galaxies.\n",
+      "author": [
+        {
+          "name": "Raphaël Errani"
+        },
+        {
+          "name": "Jorge Peñarrubia"
+        },
+        {
+          "name": "Matthew G. Walker"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "submitted to ApJ, comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.22717v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.22717v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2505.21463v1",
       "updated": "2025-05-27T17:34:40Z",
