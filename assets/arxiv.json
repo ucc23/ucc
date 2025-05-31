@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-05-30T18:23:11.162Z",
+  "fetched_at": "2025-05-31T01:18:54.562Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.23739v1",
@@ -411,121 +411,6 @@
         }
       },
       "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.18378v1",
-      "updated": "2025-05-23T21:10:31Z",
-      "published": "2025-05-23T21:10:31Z",
-      "title": "Metallicities of old open clusters: a new Galactic map",
-      "summary": "  Old open clusters can constrain the chemical evolution of the Galactic disc\nthrough their metallicity gradients and age-metallicity relation but they\nsuffer from low statistics. This work aims to determine precise and homogeneous\nmetallicities for a number of old ($\\geq$ 500 Myr) clusters from all-sky\ncatalogues of stellar parameters leveraging Gaia spectrophotometry. Our purpose\nwas to revisit the metallicity distribution of the oldest open clusters as a\nfunction of their Galactic position and age with improved statistics. Our\nsample includes ~600 old open clusters with a typical precision of 0.05 dex in\nmetallicity. We identified metal-poor or metal-rich clusters never studied\nbefore, as well as moving groups as the remnants of dissolving clusters.\nGalactic maps show a smooth decrease of metallicity from inside to outside the\ndisc. Metal-rich and metal-poor clusters exist at all ages but dominate\nrespectively in the inner and the outer disc, with different scale heights.The\nradial metallicity gradient was found to have a knee shape with a steep value\nof -0.084$\\pm$0.004 dex/kpc in the inner side and -0.018$\\pm$0.004 dex/kpc\noutside the knee. The inner radial gradient flattens with age. Vertically, the\nmetallicity gradient is -0.415$\\pm$0.030 dex/kpc. The large scatter in the\ndistribution of metallicity versus age is well explained by the superposition\nof OC populations standing at different Galactocentric distances, each with its\nown mean metallicity and small dispersion, less than 0.08 dex in radius bins of\n1 kpc.Our results are consistent with a negative radial metallicity gradient of\ninterstellar matter that was present in the disc when the clusters formed. The\nlow metallicity dispersion in each radius bin reflects weak radial mixing.\n",
-      "author": [
-        {
-          "name": "Qingshun Hu"
-        },
-        {
-          "name": "Caroline Soubiran"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "16 pages, 12 figures, 4 tables, accepted for publication in A&A",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.18378v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.18378v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 9
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.17780v1",
-      "updated": "2025-05-23T11:49:01Z",
-      "published": "2025-05-23T11:49:01Z",
-      "title": "Stellar-mass black holes in young massive and open stellar clusters --\n  VI. Role of external galactic field",
-      "summary": "  Young massive clusters (YMC) and open clusters (OC) are widely considered as\npotential environments for assembling merging binary stellar-remnant black\nholes (BBH) via dynamical interactions. However, such moderate mass systems are\nsusceptible to being disrupted by the external tidal field of their host\ngalaxies, potentially limiting their effectiveness as GW sources. In this\nstudy, I investigate the formation of BBH mergers in tidally dissolving star\nclusters. This is achieved with a newly computed grid consisting of 95\nevolutionary model star clusters, where the clusters are subjected to a varying\nextent of tidal stripping. The cluster evolutions are computed with the direct\nN-body integrator NBODY7 that includes, among others, treatments for\npost-Newtonian (PN) effects in compact-binary members, mass loss due to stellar\nevolution, formation of stellar remnants, and tidal stripping. It is found that\neven strong tidal stripping does not quench the formation of a black hole (BH)\ncore inside a cluster or the formation of dynamical BBH mergers in the system.\nThe overall properties of BBH mergers, e.g., the form of the distribution of\nmerger delay time, primary mass, and mass ratio, and the redshift evolution of\nmerger rate are not significantly altered by the extent of tidal stripping of\nthe parent cluster population. Furthermore, even strongly tidally stripped\nclusters are capable of dynamically forming Gaia-BH-like detached\nBH--main-sequence-star binaries that escape into the galactic field.\nLimitations of the present study and potential future improvements are\ndiscussed.\n",
-      "author": {
-        "name": "Sambaran Banerjee"
-      },
-      "arxiv:comment": {
-        "_": "21 pages, 13 figures. Submitted. Comments are welcome",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.17780v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.17780v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 5
     }
   ]
 }
