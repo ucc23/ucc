@@ -1,6 +1,241 @@
 {
-  "fetched_at": "2025-06-02T01:24:09.466Z",
+  "fetched_at": "2025-06-02T06:26:40.926Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2505.24240v1",
+      "updated": "2025-05-30T06:00:12Z",
+      "published": "2025-05-30T06:00:12Z",
+      "title": "Long-term investigation of an open cluster Berkeley 65",
+      "summary": "  We present a decade-long investigation of a poorly studied cluster, Berkeley\n65 (Be 65), using deep optical data from the telescopes of ARIES, Nainital\nObservatory. We estimate its radius ($R_{cluster}$ = 1.6$^{'}$, aspect ratio of\n$\\sim$1.1), distance (2.0 $\\pm$ 0.1 kpc) and age ($\\sim$160 Myrs). A clear\nturn-off point at $\\sim$1.7 M$_\\odot$ in the mass function suggests the escape\nof low-mass stars, and the lower photometric mass compared to the dynamical\nmass indicates ongoing disruption due to external forces. Our long-baseline\noptical photometric data also identifies 64 periodic and 16 non-periodic stars\nin this region. We have presented the light curves and the classification of\nthose variables. The periodic stars have periods ranging from $\\sim$0.05 days\nto $\\sim$3.00 days and amplitude ranges from $\\sim$8 mmag to $\\sim$700 mmag.\nThe nonperiodic stars show variation from $\\sim$30 mmag to $\\sim$500 mmag. The\nperiodic stars include main-sequence pulsating variables such as Slow Pulsating\nB-type, $\\delta$ Scuti, RR Lyrae, and $\\gamma$ Doradus. We report a detached\nbinary system and rotating variables similar to BY Draconis-type stars\nexhibiting variable brightness caused by starspots, chromospheric activity, and\nmagnetic field-related phenomena.\n",
+      "author": [
+        {
+          "name": "Tarak Chand"
+        },
+        {
+          "name": "Saurabh Sharma"
+        },
+        {
+          "name": "Koshvendra Singh"
+        },
+        {
+          "name": "Jeewan Pandey"
+        },
+        {
+          "name": "Aayushi Verma"
+        },
+        {
+          "name": "Harmeen Kaur"
+        },
+        {
+          "name": " Mamta"
+        },
+        {
+          "name": "Manojit Chakraborty"
+        },
+        {
+          "name": "Devendra K. Ojha"
+        },
+        {
+          "name": "Ajay Kumar Singh"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "28 pages, 10 figures, 2 tables, accepted in Frontiers in Astronomy\n  and Space Sciences",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.24240v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.24240v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.24093v1",
+      "updated": "2025-05-30T00:42:50Z",
+      "published": "2025-05-30T00:42:50Z",
+      "title": "Very-wide-orbit planets from dynamical instabilities during the stellar\n  birth cluster phase",
+      "summary": "  Gas giant planets have been detected on eccentric orbits several hundreds of\nastronomical units in size around other stars. It has been proposed that even\nthe Sun hosts a wide-orbit planet of 5-10 Earth masses, often called Planet\nNine, which influences the dynamics of distant Trans-Neptunian objects.\nHowever, the formation mechanism of such planets remains uncertain. Here we use\nnumerical simulations to show that very wide-orbit planets are a natural\nbyproduct of dynamical instabilities that occur in planetary systems while\ntheir host stars are still embedded in natal stellar clusters. A planet is\nfirst brought to an eccentric orbit with an apoastron of several hundred au by\nrepeated gravitational scattering by other planets, then perturbations from\nnearby stellar flybys stabilise the orbit by decoupling the planet from the\ninteraction with the inner system. In our Solar System, the two main events\nlikely conducive to planetary scattering were the growth of Uranus and Neptune,\nand the giant planets instability. We estimate a 5-10% likelihood of creating a\nvery wide-orbit planet if either happened while the Sun was still in its birth\ncluster, rising to 40% if both were. In our simulated exoplanetary systems, the\ntrapping efficiency is 1-5\\%. Our results imply that planets on wide, eccentric\norbits occur at least $10^{-3}$ per star.\n",
+      "author": [
+        {
+          "name": "André Izidoro"
+        },
+        {
+          "name": "Sean N. Raymond"
+        },
+        {
+          "name": "Nathan A. Kaib"
+        },
+        {
+          "name": "Alessandro Morbidelli"
+        },
+        {
+          "name": "Andrea Isella"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1038/s41550-025-02556-0",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1038/s41550-025-02556-0",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.24093v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.24093v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Published in Nature Astronomy on May 27, 2025. Authors' version\n  including Methods and Supplementary Information. Associated animations\n  available at https://youtu.be/GLPJQIGE8xg and https://youtu.be/Sr_0X_JaaZE",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.23889v1",
+      "updated": "2025-05-29T18:00:00Z",
+      "published": "2025-05-29T18:00:00Z",
+      "title": "Gas meets Kozai: the influence of a gas-rich accretion disc on\n  hierarchical triples undergoing von Zeipel-Lidov-Kozai oscillations",
+      "summary": "  Active galactic nuclei (AGNs) consist of a central supermassive black hole\n(SMBH) embedded in a region with both high gas and stellar densities: the gas\nis present as a thin accretion disc that fuels the central SMBH, while the\nstars form a dense, roughly isotropic nuclear star cluster. The binaries\npresent in such a cluster could be considered naturally as triples, with the\nSMBH as a third object, and their dynamics also depend on the interaction with\nthe gas-rich disc. In this paper, we study the evolution of such a binary on an\ninclined orbit with respect to the disc. The binary experiences both\neccentricity excitation via the von Zeipel-Lidov-Kozai (ZLK) effect and drag\nforces from each time it penetrates the disc. We find that, as the outer\norbital inclination decreases, the evolution of inner orbital separation can\ntransition from a regime of gradual hardening to a regime of rapid softening.\nAs such binaries grow wider, their minimum pericentre distances (during ZLK\noscillations) decrease. We show that a simple geometric condition, modulated by\nthe complex ZLK evolution, dictates whether a binary expands or contracts due\nto the interactions with the AGN disc. Our results suggest that the interaction\nwith gas-rich accretion disc could enhance the rate of stellar mergers and\nformation of gravitational wave sources, as well as other transients. The\ntreatment introduced here is general and could apply, with the proper\nmodifications, to hierarchical triples in other gas-rich systems.\n",
+      "author": [
+        {
+          "name": "Yubo Su"
+        },
+        {
+          "name": "Connar Rowan"
+        },
+        {
+          "name": "Mor Rozner"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 8 figures. Submitted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2505.23889v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2505.23889v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2505.23739v1",
       "updated": "2025-05-29T17:58:03Z",
