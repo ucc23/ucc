@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-02T12:35:29.843Z",
+  "fetched_at": "2025-06-03T01:22:09.689Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2505.24240v1",
@@ -510,81 +510,6 @@
         }
       },
       "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.20432v1",
-      "updated": "2025-05-26T18:26:57Z",
-      "published": "2025-05-26T18:26:57Z",
-      "title": "Evolution of star clusters with initial bulk rotation via N-body\n  simulations",
-      "summary": "  Young star clusters can inherit bulk rotation from the molecular clouds from\nwhich they have formed. This rotation can affect the long-term evolution of a\nstar cluster and its constituent stellar populations. In this study, we aim to\ncharacterize the effects of different degrees of initial rotation on star\nclusters with primordial binaries. The simulations are performed using\nNBODY6++GPU. We find that initial rotation strongly affects the early evolution\nof star clusters. Rapidly rotating clusters show angular momentum transport\nfrom the inner parts to the outskirts, resulting in a core collapse. Angular\nmomentum transport is accompanied by a highly elongated bar-like structure\nmorphology. The effects of bulk rotation are reduced on the timescale of\ntwo-body relaxation. Rotating and non-rotating clusters experience changes in\nthe direction of angular momentum near the dissolution and early evolution due\nto the tidal field, respectively. We present synthetic observations of\nsimulated clusters for comparison with future observations in filters of Gaia,\nCSST, and HST. This work shows the effects of bulk rotation on systems with\nprimordial binaries and could be used for the identification of rotation\nsignatures in observed open clusters.\n",
-      "author": [
-        {
-          "name": "Abylay Bissekenov"
-        },
-        {
-          "name": "Xiaoying Pang"
-        },
-        {
-          "name": "Albrecht Kamlah"
-        },
-        {
-          "name": "M. B. N. Kouwenhoven"
-        },
-        {
-          "name": "Rainer Spurzem"
-        },
-        {
-          "name": "Bekdaulet Shukirgaliyev"
-        },
-        {
-          "name": "Mirek Giersz"
-        },
-        {
-          "name": "Abbas Askar"
-        },
-        {
-          "name": "Peter Berczik"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.20432v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.20432v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 8.5
     }
   ]
 }
