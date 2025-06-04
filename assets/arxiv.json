@@ -1,6 +1,178 @@
 {
-  "fetched_at": "2025-06-04T01:21:52.640Z",
+  "fetched_at": "2025-06-04T06:25:12.351Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.02253v1",
+      "updated": "2025-06-02T20:58:41Z",
+      "published": "2025-06-02T20:58:41Z",
+      "title": "Stability of a cluster-disrupted mean-motion resonance (chain) in HR\n  8799 and PDS 70",
+      "summary": "  HR~8799 is a planetary system with four planets potentially in a mean-motion\nresonance chain. It is unclear from the observations if they are in mean-motion\nresonance. Similarly, PDS~70 has two observed planets also potentially in\nmean-motion resonance. We simulate HR~8799 and PDS~70 under external\nperturbations to study their responds if in resonance or mean-motion resonance.\nWe integrate the equations of motion for HR~8799 and PDS~70 starting with\neither in resonance or in mean-motion resonance and study their in isolation\nand in a star cluster. In the star cluster, we take the effects of passing\nstars into account. The dynamics of the star cluster is resolved using the\nLonely Planets module in AMUSE. HR~8799 and PDS~70 in mean-motion resonance are\nstable, whereas in non-resonance they dissolve in $0.303\\pm0.042$Myr and\n$1.26\\pm0.25$Myr, respectively. In a cluster, the non-resonant HR~8799 is\nslightly more stable than in isolation, but still dissolves in\n$0.300\\pm0.043$Myr, whereas the resonant planetary system remains stable for at\nleast $0.71$Myr. In contrast, a non-resonant PDS~70 system is approximately\nequally stable in a cluster compared to isolation, and dissolves in\n$1.03\\pm0.20$Myr, whereas the resonant PDS~70 system remains stable for at\nleast $0.83$Myr. Considering the more stable solutions of mean-motion resonance\nfor HR~8799, we argue that the planetary system was born in mean-motion\nresonance and that the mean-motion resonance was preserved. If HR~8799 was not\nborn in resonance, the probability that it survived until the present day is\nnegligible. Similarly, we argue that PDS~70 was probably born in mean-motion\nresonance and that its state was preserved. We also find that it is almost\npossible for planetary systems with a broken mean-motion resonance chain to\nsurvive longer in a perturbing cluster environment compared to isolation.\n",
+      "author": [
+        {
+          "name": "Brent Maas",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Shuo Huang",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Simon Portegies Zwart",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.02253v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.02253v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.02123v1",
+      "updated": "2025-06-02T18:00:18Z",
+      "published": "2025-06-02T18:00:18Z",
+      "title": "CLUES III: Do User Choices Impact The Results of SED Fitting? Tests of\n  'Off-The-Shelf' Stellar Population and Dust Extinction Models in the CLUES\n  Sample",
+      "summary": "  The simple stellar population models produced by stellar population and\nspectral synthesis (SPS) codes are used as spectral templates in a variety of\nastrophysical contexts. In this paper, we test the predictions of four commonly\nused stellar population synthesis codes (YGGDRASIL, BPASS, FSPS, and a modified\nform of GALAXEV which we call GALAXEVneb) by using them as spectral templates\nfor photometric SED fitting with a sample of 18 young stellar clusters. All\nclusters have existing HST COS FUV spectroscopy that provide constraints on\ntheir ages as well as broadband photometry from HST ACS and WFC3. We use model\nspectra that account for both nebular and stellar emission, and additionally\ntest four extinction curves at different values of $R_V$. We find that for\nindividual clusters, choice of extinction curve and SPS model can introduce\nsignificant scatter into the results of SED fitting. Model choice can introduce\nscatter of 34.8 Myr in age, a factor of 9.5 in mass, and 0.40mag in extinction.\nExtinction curve choice can introduce scatter of up to a factor of 32.3 Myr in\nage, a factor of 10.4 in mass, and 0.41mag in extinction. We caution that\nbecause of this scatter, one-to-one comparisons between the properties of\nindividual objects derived using different SED fitting setups may not be\nmeaningful. However, our results also suggest that SPS model and extinction\ncurve choice do not introduce major systematic differences into SED fitting\nresults when the entire cluster population is considered. The distribution of\ncluster properties for a large enough sample is relatively robust to user\nchoice of SPS code and extinction curve.\n",
+      "author": [
+        {
+          "name": "Andrew Mizener"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Aida Wofford"
+        },
+        {
+          "name": "Matthew J. Hayes"
+        },
+        {
+          "name": "John Chisholm"
+        },
+        {
+          "name": "Michele Fumagalli"
+        },
+        {
+          "name": "Svea Hernandez"
+        },
+        {
+          "name": "Matteo Maria Messa"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Mattia Sirressi"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "41 pages, 17 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.02123v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.02123v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2505.24240v1",
       "updated": "2025-05-30T06:00:12Z",
