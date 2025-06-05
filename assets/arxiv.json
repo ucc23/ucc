@@ -1,6 +1,208 @@
 {
-  "fetched_at": "2025-06-05T01:21:03.475Z",
+  "fetched_at": "2025-06-05T06:26:01.392Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.04229v1",
+      "updated": "2025-06-04T17:59:59Z",
+      "published": "2025-06-04T17:59:59Z",
+      "title": "Stellar distributions around supermassive black holes in gas-rich\n  nuclear star clusters",
+      "summary": "  We study the stellar distribution around supermassive black holes (SMBHs) in\ngas-rich nuclear star clusters (NSCs). NSCs could contain vast amounts of gas,\nwhich contribute significantly to shaping the stellar distribution, typically\naltering the stellar density cusp from the usual Bahcall \\& Wolf 1976 solution\nand consequently affecting the dynamics in the NSC. The dense gaseous\nenvironment in NSCs gives rise to dynamical phenomena that are otherwise rare\nin other gas-free environments. Here we extend the derivation introduced in\nBahcall \\& Wolf 1976 to include an additional energy dissipation term\nassociated with gas drag. We examine the effect of different forms of gas drag\non the stellar density distribution. Finally, we discuss implications on the\nrates of tidal disruption events and other transients triggered by stellar\ninteractions in gas-rich galactic nuclei.\n",
+      "author": [
+        {
+          "name": "Mor Rozner"
+        },
+        {
+          "name": "Enrico Ramirez-Ruiz"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.04229v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.04229v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.04004v1",
+      "updated": "2025-06-04T14:32:01Z",
+      "published": "2025-06-04T14:32:01Z",
+      "title": "Lonely Little Red Dots: Challenges to the AGN-nature of little red dots\n  through their clustering and spectral energy distributions",
+      "summary": "  Observations with the James Webb Space Telescope (JWST) reveal a previously\nunseen population of compact red objects, known as ``little red dots`` (LRDs).\nWe study a new photometrically selected sample of 124 LRDs in the redshift\nrange $z$ $\\sim$ 3 - 10 selected from NIRCam coverage of the CEERS, NEP-TDF,\nJADES and JEMS surveys. For JADES, the NEP-TDF and CEERS, we compare SED models\nwith and without AGN components and analyse the impact of an AGN component on\nthe goodness of fit using the Bayesian information criterion (BIC). We find\nthat whilst the $\\chi^{2}$ of the majority of models containing AGN components\nis improved compared to models without AGN components, we show that the BIC\nsuggests models without AGN are a more appropriate fit to LRD SEDs, especially\nwhen MIRI data is available. We also measure LRD clustering in the CEERS field,\nJADES field, and NEP-TDF, where we compare the spatial distribution of LRDs and\ngalaxies with Kolmogorov-Smirnov tests of equality of distribution. We find\nthat the neighbourhood of LRDs tends to be less dense compared to galaxies at\nall selections and masses and at similar redshifts. We further measure upper\nlimit estimates for the halo masses of LRDs using abundance matching. Whilst\nthe population of LRDs could be a mixture of several different inherent\npopulations, as a whole it does appear that these systems are mostly hosting\ncompact galaxies or star clusters in formation.\n",
+      "author": [
+        {
+          "name": "María de las Mercedes Carranza Escudero"
+        },
+        {
+          "name": "Christopher J. Conselice"
+        },
+        {
+          "name": "Nathan Adams"
+        },
+        {
+          "name": "Thomas Harvey"
+        },
+        {
+          "name": "Duncan Austin"
+        },
+        {
+          "name": "Peter Behroozi"
+        },
+        {
+          "name": "Leonardo Ferreira"
+        },
+        {
+          "name": "Katherine Ormerod"
+        },
+        {
+          "name": "Qiao Duan"
+        },
+        {
+          "name": "James Trussler"
+        },
+        {
+          "name": "Qiong Li"
+        },
+        {
+          "name": "Lewi Westcott"
+        },
+        {
+          "name": "Rogier A. Windhorst"
+        },
+        {
+          "name": "Dan Coe"
+        },
+        {
+          "name": "Seth H. Cohen"
+        },
+        {
+          "name": "Cheng Cheng"
+        },
+        {
+          "name": "Simon P. Driver"
+        },
+        {
+          "name": "Brenda Frye"
+        },
+        {
+          "name": "Lukas J. Furtak"
+        },
+        {
+          "name": "Norman A. Grogin"
+        },
+        {
+          "name": "Nimish P. Hathi"
+        },
+        {
+          "name": "Rolf A. Jansen"
+        },
+        {
+          "name": "Anton M. Koekemoer"
+        },
+        {
+          "name": "Madeline A. Marshall"
+        },
+        {
+          "name": "Rosalia O'Brien"
+        },
+        {
+          "name": "Norbert Pirzkal"
+        },
+        {
+          "name": "Maria Polletta"
+        },
+        {
+          "name": "Aaron Robotham"
+        },
+        {
+          "name": "Michael J. Rutkowski"
+        },
+        {
+          "name": "Jake Summers"
+        },
+        {
+          "name": "Stephen M. Wilkins"
+        },
+        {
+          "name": "Christopher N. A. Willmer"
+        },
+        {
+          "name": "Haojing Yan"
+        },
+        {
+          "name": "Adi Zitrin"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "24 pages, 17 figures, submitted to ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.04004v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.04004v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2506.02253v1",
       "updated": "2025-06-02T20:58:41Z",
