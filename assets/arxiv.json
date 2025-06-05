@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-04T18:23:56.426Z",
+  "fetched_at": "2025-06-05T01:21:03.475Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.02253v1",
@@ -479,61 +479,6 @@
         }
       ],
       "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.22717v1",
-      "updated": "2025-05-28T18:00:01Z",
-      "published": "2025-05-28T18:00:01Z",
-      "title": "Stellar Mass Segregation in Dark Matter Halos",
-      "summary": "  We study the effect of stellar mass segregation driven by collisional\nrelaxation within the potential well of a smooth dark matter halo. This effect\nis of particular relevance for old stellar systems with short crossing times,\nwhere small collisional perturbations accumulate over many dynamical time\nscales. We run collisional $N$-body simulations tailored to the ambiguous\nstellar systems Ursa Major 3/Unions 1, Delve 1 and Eridanus 3, modelling their\nstellar populations as two-component systems of high- and low-mass stars,\nrespectively. For Ursa Major 3/Unions 1 (Delve 1), assuming a\ndynamical-to-stellar mass ratio of 10, we find that after 10 Gyr of evolution,\nthe radial extent of its low-mass stars will be twice as large (40 per cent\nlarger) than that of its high-mass stars. We show that weak tides do not alter\nthis relative separation of half-light radii, whereas for the case of strong\ntidal fields, mass segregation facilitates the tidal stripping of low-mass\nstars. We further find that as the population of high-mass stars contracts and\ncools, the number of dynamically formed binaries within that population\nincreases. Our results call for caution when using stellar mass segregation as\na criterion to separate star clusters from dwarf galaxies, and suggest that\nmass segregation increases the abundance of massive binaries in the central\nregions of dark matter-dominated dwarf galaxies.\n",
-      "author": [
-        {
-          "name": "Raphaël Errani"
-        },
-        {
-          "name": "Jorge Peñarrubia"
-        },
-        {
-          "name": "Matthew G. Walker"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "submitted to ApJ, comments welcome",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.22717v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.22717v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
     }
   ]
 }
