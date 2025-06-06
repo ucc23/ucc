@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-05T12:35:36.624Z",
+  "fetched_at": "2025-06-06T01:20:50.832Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.04229v1",
@@ -413,13 +413,20 @@
           "name": "Ajay Kumar Singh"
         }
       ],
-      "arxiv:comment": {
-        "_": "28 pages, 10 figures, 2 tables, accepted in Frontiers in Astronomy\n  and Space Sciences",
+      "arxiv:doi": {
+        "_": "10.3389/fspas.2025.1608196",
         "$": {
           "xmlns:arxiv": "http://arxiv.org/schemas/atom"
         }
       },
       "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3389/fspas.2025.1608196",
+            "rel": "related"
+          }
+        },
         {
           "$": {
             "href": "http://arxiv.org/abs/2505.24240v1",
@@ -436,6 +443,12 @@
           }
         }
       ],
+      "arxiv:comment": {
+        "_": "28 pages, 10 figures, 2 tables, accepted in Frontiers in Astronomy\n  and Space Sciences",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
       "arxiv:primary_category": {
         "$": {
           "xmlns:arxiv": "http://arxiv.org/schemas/atom",
@@ -541,141 +554,6 @@
         {
           "$": {
             "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.23889v1",
-      "updated": "2025-05-29T18:00:00Z",
-      "published": "2025-05-29T18:00:00Z",
-      "title": "Gas meets Kozai: the influence of a gas-rich accretion disc on\n  hierarchical triples undergoing von Zeipel-Lidov-Kozai oscillations",
-      "summary": "  Active galactic nuclei (AGNs) consist of a central supermassive black hole\n(SMBH) embedded in a region with both high gas and stellar densities: the gas\nis present as a thin accretion disc that fuels the central SMBH, while the\nstars form a dense, roughly isotropic nuclear star cluster. The binaries\npresent in such a cluster could be considered naturally as triples, with the\nSMBH as a third object, and their dynamics also depend on the interaction with\nthe gas-rich disc. In this paper, we study the evolution of such a binary on an\ninclined orbit with respect to the disc. The binary experiences both\neccentricity excitation via the von Zeipel-Lidov-Kozai (ZLK) effect and drag\nforces from each time it penetrates the disc. We find that, as the outer\norbital inclination decreases, the evolution of inner orbital separation can\ntransition from a regime of gradual hardening to a regime of rapid softening.\nAs such binaries grow wider, their minimum pericentre distances (during ZLK\noscillations) decrease. We show that a simple geometric condition, modulated by\nthe complex ZLK evolution, dictates whether a binary expands or contracts due\nto the interactions with the AGN disc. Our results suggest that the interaction\nwith gas-rich accretion disc could enhance the rate of stellar mergers and\nformation of gravitational wave sources, as well as other transients. The\ntreatment introduced here is general and could apply, with the proper\nmodifications, to hierarchical triples in other gas-rich systems.\n",
-      "author": [
-        {
-          "name": "Yubo Su"
-        },
-        {
-          "name": "Connar Rowan"
-        },
-        {
-          "name": "Mor Rozner"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "14 pages, 8 figures. Submitted to MNRAS",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.23889v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.23889v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2505.23739v1",
-      "updated": "2025-05-29T17:58:03Z",
-      "published": "2025-05-29T17:58:03Z",
-      "title": "Hydrodynamic simulations of black hole evolution in AGN discs I: orbital\n  alignment of highly inclined satellites",
-      "summary": "  The frequency of compact object interactions in AGN discs is naturally tied\nto the number of objects embedded within it. We investigate the evolution of\nblack holes in the nuclear stellar cluster on inclined orbits to the AGN disc\nby performing adiabatic hydrodynamical simulations of isolated black hole disc\ncrossings over a range of disc densities and inclinations\n$i\\in[2^\\circ,15^\\circ]$. We find radiation dominates the pressure in the wake\nthat forms around the BH across the full inclination and disc density range. We\nidentify no well defined steady state wake morphology due to the thin geometry\nof the disc and the vertical exponential density drop off, where the wake\nmorphology depends on the vertical depth of the transit within the disc. The\ninclination damping $\\Delta i$ relative the pre-transit inclination behaves as\na power law in $\\sin(i)$ and the ambient Hill mass $m_\\text{H,0}$ as $\\Delta\ni/i \\propto m_{\\rm H,0}^{0.4} \\sin(i)^{-2.7}$. The drag on the BH is dominated\nby the gravity of the wake for the majority of our inclination range until\naccretion effects become comparable at $\\sin(i)\\gtrsim30H_0/R_0$, where\n$H_0/R_0$ is the disc aspect ratio. At low inclinations\n($\\sin(i)\\lesssim3H_0/R_0$) the wake morphology becomes more spherical, leading\nto a regime change in the inclination damping behaviour. Our results suggest\nthat the inclination damping timescale is shorter than expected from only\nepisodic Bondi-Hoyle-Lyttelton accretion events during each transit, implying\ninclined objects may captured by the AGN disc earlier in its lifetime than\npreviously thought.\n",
-      "author": [
-        {
-          "name": "Connar Rowan"
-        },
-        {
-          "name": "Henry Whitehead"
-        },
-        {
-          "name": "Gaia Fabj"
-        },
-        {
-          "name": "Philip Kirkeberg"
-        },
-        {
-          "name": "Martin E. Pessah"
-        },
-        {
-          "name": "Bence Kocsis"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "13 pages, 9 figures, submitted to MNRAS",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2505.23739v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2505.23739v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
             "scheme": "http://arxiv.org/schemas/atom"
           }
         }
