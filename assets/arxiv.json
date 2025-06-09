@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2025-06-09T01:25:41.941Z",
+  "fetched_at": "2025-06-09T13:55:48.078Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.06014v1",
+      "updated": "2025-06-06T12:01:39Z",
+      "published": "2025-06-06T12:01:39Z",
+      "title": "Dynamical mass distribution and velocity structure of the Galactic\n  centre",
+      "summary": "  The inner ~200 pc region of the Milky Way contains a nuclear stellar disc and\na nuclear star cluster that are embedded in the larger Galactic bar. These\nstellar systems overlap spatially, which makes it challenging to separate stars\nthat belong to the nuclear stellar systems, to deduce their internal dynamics,\nand to derive the central Galactic potential. Discrete stellar kinematics probe\nthe mass distribution of a stellar system, and chemical tracers such as stellar\nmetallicity can further separate multiple stellar populations that can have\ndistinct kinematic properties. We took advantage of the information provided by\ndiscrete stellar kinematics and the metallicity in the Galactic centre using\ndiscrete chemo-dynamical modelling. We fitted axisymmetric Jeans models to\ndiscrete data of 4,600 stars. We fitted the stars as either one population plus\na background component or as two populations plus a background that represents\nthe bar. We tested the robustness of the inferred gravitational potential\nagainst a varying mass of the supermassive black hole, including dark matter,\nor a radially varying mass-to-light ratio. We obtained robust results on the\nfit with a single population and a background component. We obtained a\nsupermassive black hole mass of (4.35$\\pm 0.24) \\times 10^6$ M$_\\odot$, and we\nfind that a dark matter component and radial variation in the mass-to-light\nratio are negligible. We derived the enclosed mass profile of the inner ~60 pc\nand found a lower mass than reported in the literature in the region of ~5-30\npc. In our two-population fit, we found a high-[M/H] population that\ncontributes more than 90% to the total stellar density. The properties of the\nhigh-[M/H] population are consistent with in situ formation after gas inflow\nfrom the Galactic disc via the bar. The distinct kinematic properties of the\nlow-[M/H] population indicate a different origin. [abridged]\n",
+      "author": [
+        {
+          "name": "A. Feldmeier-Krause"
+        },
+        {
+          "name": "T. Veršič"
+        },
+        {
+          "name": "G. van de Ven"
+        },
+        {
+          "name": "E. Gallego-Cano"
+        },
+        {
+          "name": "N. Neumayer"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "15 pages (+ 5 pages Appendix), 10 (+ 5) figures, accepted A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.06014v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.06014v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2506.04778v1",
       "updated": "2025-06-05T09:08:53Z",
