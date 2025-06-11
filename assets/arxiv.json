@@ -1,6 +1,311 @@
 {
-  "fetched_at": "2025-06-11T01:22:39.307Z",
+  "fetched_at": "2025-06-11T06:25:26.868Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.08801v1",
+      "updated": "2025-06-10T13:47:58Z",
+      "published": "2025-06-10T13:47:58Z",
+      "title": "Using gravitational waves and multi-messenger Astronomy to\n  reverse-engineer the properties of galactic nuclei",
+      "summary": "  Active galactic nuclei (AGN) are powered by accretion disks onto supermassive\nblack holes in the the centers of galaxies. AGN are believed to play important\nroles in the evolution of both supermassive black holes and their host galaxies\nover cosmic time. AGN and the nuclear star clusters (NSCs) that interact with\nthem remain unresolved with present and planned telescopes. As a result, the\nproperties of AGN and NSCs are highly uncertain. Here we review how binary\nblack hole (BBH) mergers can occur in AGN disks and how both the gravitational\nwave (GW) and electromagnetic wave (EM) properties of such mergers allow us to\nreverse-engineer the properties of AGN disks and NSCs over cosmic time. We\npoint out that the feature in the BBH mass spectrum around $\\sim 35M_{\\odot}$\nis an excellent probe of hierarchical merger models. Likewise constraints on\nthe spins of upper-mass gap BH ($\\gtrsim 50M_{\\odot}$) test the AGN channel.\nThe effective spin ($\\chi_{\\rm eff}$) distribution, including asymmetry,\nislands of structure and magnitudes are excellent tests of AGN model\npredictions. We also argue, that the rate of AGN-driven BBH mergers as a\nfunction of redshift should scale slightly shallower than the AGN number\ndensity, at least out to redshifts of $\\sim 2$, and should turnover at the same\nredshift as the AGN number density. Finally, we emphasize a determination of an\nAGN fraction of observed BBH mergers ($f_{\\rm BBH,AGN}$), \\emph{regardless of\nthe actual value}, allows us to infer the average properties of AGN disks and\nNSCs out to high redshift.\n",
+      "author": [
+        {
+          "name": "K. E. Saavik Ford"
+        },
+        {
+          "name": "Barry McKernan"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "26 pagese, 12 figures, Invited review submitted to Special Edition of\n  Classical & Quantum Gravity. Comments welcome!",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.08801v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.08801v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.08674v1",
+      "updated": "2025-06-10T10:33:47Z",
+      "published": "2025-06-10T10:33:47Z",
+      "title": "Deriving physical parameters of unresolved star clusters. VIII. Limits\n  of aperture photometry for star cluster studies",
+      "summary": "  Recently, it has been noticed that the discrepancies in the integrated colour\nindices (CIs) between star clusters and models are mostly due to the projection\nof bright stars in the apertures. In order to reduce this problem, the method\nof adaptive aperture photometry has been proposed. This method has been applied\nto star clusters from the M 31 Panchromatic Hubble Andromeda Treasury (PHAT)\nsurvey, and studies show that the adaptive aperture photometry performs better\nthan the conventional approach. The aim of this study is to determine the best\nachievable limits on the accuracy and applicability of the aperture photometry\nmethod for studying star clusters in the local Universe. We computed a large\nnetwork of artificial 3D star clusters spanning the parameter space of the M 31\nclusters. We then simulated images of these clusters by projecting each onto a\n2D plane from 100 directions. Star cluster images were generated in six\npassbands to match the PHAT survey. To investigate the limiting accuracy of\naperture photometry and the limits of its applicability to star cluster\nstudies, we measured the simulated images and performed parameter determination\ntests. We demonstrate that star clusters with and without post-main-sequence\nstars have significant photometric differences. We show that in order to obtain\nreliable physical parameters of star clusters, the CIs must be measured using\nan aperture with a radius larger than the cluster's half-light radius.\nFurthermore, we demonstrate that the parameter determination of young clusters\n(~10 Myr) is problematic regardless of the aperture size used. Therefore, it is\nadvisable to determine the parameters of these clusters using colour-magnitude\ndiagram fitting methods, when possible. We also show that the randomness of the\nviewing angle can lead to a CI uncertainty of up to 0.1 mag, depending on\ncluster parameters and aperture size.\n",
+      "author": [
+        {
+          "name": "Karolis Daugevičius"
+        },
+        {
+          "name": "Eimantas Kriščiūnas"
+        },
+        {
+          "name": "Erikas Cicėnas"
+        },
+        {
+          "name": "Rima Stonkutė"
+        },
+        {
+          "name": "Vladas Vansevičius"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1051/0004-6361/202449680",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1051/0004-6361/202449680",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.08674v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.08674v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 15 figures, published in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "Astronomy & Astrophysics, 688, A131 (2024)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 14
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.08587v1",
+      "updated": "2025-06-10T08:55:52Z",
+      "published": "2025-06-10T08:55:52Z",
+      "title": "Chandra X-ray Measurement of Heavy Element Abundances of Wolf-Rayet\n  Stars in the Galactic Center",
+      "summary": "  Elemental abundances hold important information about the star formation\nhistory in the Galactic Center. The thermal X-ray spectra of certain stars can\nprovide a robust probe of elemental abundances, mainly through the presence of\nK-shell emission lines. In this work, based on deep archival {\\it Chandra}\nobservations, we obtain X-ray measurements of five heavy elements (Si, S, Ar,\nCa and Fe) for three sources in the Arches cluster, one source in the\nQuintuplet cluster, as well as a field source known as Edd 1, which are all\nprobable WR stars exhibiting a high quality X-ray spectrum. A two-temperature,\nnon-equilibrium ionization plasma model is employed for the spectral fit,\ntaking into account light element compositions characteristic of WR star winds,\nwhich is substantially depleted in hydrogen but enriched in nitrogen and/or\ncarbon. It is found that the Arches and Quintuplet WR stars share similar\nabundances of Si, S, and Ar, while exhibiting distinct Ca and Fe abundances,\nwhich may be understood as due to dust depletion of the latter two elements in\nQuintuplet. The observed near-solar or sub-solar metallicity of the WR star\nwinds can be naturally understood as the result of nucleosynthesis and internal\nmixing of the parent star, which have a supersolar initial metallicity as\nexpected for the Galactic center in general. Implications of our findings on\nthe origin of the young star clusters and isolated massive stars in the\nGalactic center, as well as the elemental composition of the accretion flow\nonto Sgr A*, are addressed.\n",
+      "author": [
+        {
+          "name": "Ziqian Hua"
+        },
+        {
+          "name": "Zhiyuan Li"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 7 figures, Accepted for publication in MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.08587v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.08587v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.08241v1",
+      "updated": "2025-06-09T21:19:04Z",
+      "published": "2025-06-09T21:19:04Z",
+      "title": "Precise Age For The Binary HD 21278 In The Young Alpha Persei Cluster",
+      "summary": "  We present a study of the double-lined spectroscopic binary HD 21278 that\ncontains one of the brightest main sequence stars in the young $\\alpha$ Persei\nopen cluster. We analyzed new spectra and reanalyzed archived spectra to\nmeasure precise new radial velocity curves for the binary. We also obtained\ninterferometric data using the CHARA Array at Mount Wilson to measure the sky\npositions of the two stars and the inclination of the $\\sim$ 2 milliarcsecond\norbit. We determine that the two stars have masses of $5.381 \\pm 0.084\nM_{\\odot}$ and $3.353 \\pm 0.064 M_{\\odot}$. From isochrone fits, we find the\ncluster's age to be $49 \\pm 7$ Myr (using PARSEC models) or $49.5 \\pm 6$ Myr\n(MIST models). Finally, we revisit the massive white dwarfs that are candidate\nescapees from the $\\alpha$ Persei cluster to try to better characterize the\nmassive end of the white dwarf initial-final mass relation. The implied\nprogenitor masses challenge the idea that Chandrasekhar-mass white dwarfs are\nmade by single stars with masses near $8 \\msun$.\n",
+      "author": [
+        {
+          "name": "Christopher A. Danner"
+        },
+        {
+          "name": "Eric L. Sandquist"
+        },
+        {
+          "name": "Gail H. Schaefer"
+        },
+        {
+          "name": "Luigi R. Bedin"
+        },
+        {
+          "name": "Christopher D. Farrington"
+        },
+        {
+          "name": "Cyprien Lanthermann"
+        },
+        {
+          "name": "Stefan Kraus"
+        },
+        {
+          "name": "Robert Klement"
+        },
+        {
+          "name": "Narsireddy Anugu"
+        },
+        {
+          "name": "John D. Monnier"
+        },
+        {
+          "name": "Jerome A. Orosz"
+        },
+        {
+          "name": "Isabelle Codron"
+        },
+        {
+          "name": "Tyler Gardner"
+        },
+        {
+          "name": "Mayra Gutierrez"
+        },
+        {
+          "name": "Benjamin R. Setterholm"
+        },
+        {
+          "name": "Jeremy Jones"
+        },
+        {
+          "name": "Becky Flores"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "31 pages, 19 figures, Accepted for publication in the Astrophysical\n  Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.08241v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.08241v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2506.07457v1",
       "updated": "2025-06-09T06:05:41Z",
