@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-12T18:24:11.908Z",
+  "fetched_at": "2025-06-13T01:22:24.417Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.09927v1",
@@ -570,69 +570,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.04778v1",
-      "updated": "2025-06-05T09:08:53Z",
-      "published": "2025-06-05T09:08:53Z",
-      "title": "Wind-fed Supermassive Black Hole Accretion by the Nuclear Star Cluster:\n  the Case of M31*",
-      "summary": "  The central supermassive black hole (SMBH) of the Andromeda galaxy, known as\nM31*, exhibits dim electromagnetic emission and is inferred to have an\nextremely low accretion rate for its remarkable mass ($\\sim10^8~\\rm~M_\\odot$).\nIn this work, we use three-dimensional hydrodynamical simulations to explore a\npreviously untested scenario, in which M31* is fed by the collective stellar\nmass-loss from its surrounding nuclear star cluster, manifested as a famous\neccentric disk of predominantly old stellar populations. The stellar mass-loss\nis assumed to be dominated by the slow and cold winds from 100 asymptotic\ngiant-branch stars, which follow well-constrained Keplerian orbits around M31*\nand together provide a mass injection rate of\n$\\sim4\\times10^{-5}\\rm~M_\\odot~yr^{-1}$. The simulations achieve a quasi-steady\nstate on a Myr timescale, at which point a quasi-Keplerian, cool\n($T\\sim10^3-10^4~\\rm K$) gas disk extending several parsecs is established.\nThis disk is continuously supplied by the stellar winds and itself feeds the\ncentral SMBH. At the end of the simulations at 2 Myr, an accretion rate of\n$\\sim2\\times10^{-5}\\rm~M_\\odot~yr^{-1}$ is found but could vary by a factor of\nfew depending on whether the subdominant gravity of the NSC or a moderate\nglobal inflow is included. The predicted X-ray luminosity of $\\sim10^{36}~\\rm\nerg~s^{-1}$, dominated by the hot ($T\\sim10^7-10^8~\\rm K$) plasma within 0.2\nparsec of the SMBH, is well consistent with Chandra observations. We conclude\nthat the feeding mechanism of M31* is successfully identified, which has\nimportant implications for the working of dormant SMBHs prevalent in the local\nuniverse.\n",
-      "author": [
-        {
-          "name": "Zhao Su"
-        },
-        {
-          "name": "Zhiyuan Li"
-        },
-        {
-          "name": "Zongnan Li"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "15 pages, 5 figures. Accepted by ApJ",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.04778v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.04778v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 4
     }
   ]
 }
