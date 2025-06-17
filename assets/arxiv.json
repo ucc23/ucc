@@ -1,6 +1,136 @@
 {
-  "fetched_at": "2025-06-17T01:22:43.597Z",
+  "fetched_at": "2025-06-17T06:25:33.770Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.13636v1",
+      "updated": "2025-06-16T16:01:02Z",
+      "published": "2025-06-16T16:01:02Z",
+      "title": "KRIOS: A new basis-expansion $N$-body code for collisional stellar\n  dynamics",
+      "summary": "  The gravitational $N$-body problem is a nearly universal problem in\nastrophysics which, despite its deceptive simplicity, still presents a\nsignificant computational challenge. For collisional systems such as dense star\nclusters, the need to resolve individual encounters between $N$ stars makes the\ndirect summation of forces - with quadratic complexity - almost infeasible for\nsystems with $N\\gtrsim 10^6$ particles over many relaxation times. At the same\ntime, the most common Monte Carlo $N$-body algorithm - that of H\\'enon -\nassumes the cluster to be spherically symmetric. This greatly limits the study\nof many important features of star clusters, including triaxiality, rotation,\nand the production of tidal debris. In this paper, we present a new hybrid\ncode, KRIOS, that combines 3D collisionless relaxation using an adaptive\nself-consistent field method with a collisional dynamics part handled via\nH\\'enon's method. We demonstrate that KRIOS can accurately model the long-term\nevolution of clusters and provide its complete phase-space information over\nmany relaxation times. As a test of our new code, we present detailed\ncomparisons to two well-known results from stellar dynamics: (i) the\ncollisional evolution of an isotropic Plummer sphere to core collapse, and (ii)\nthe emergence of the radial-orbit instability in radially anisotropic star\nclusters, including its non-spherical effects.\n",
+      "author": [
+        {
+          "name": "Kerwann Tep"
+        },
+        {
+          "name": "Brian T. Cook"
+        },
+        {
+          "name": "Carl L. Rodriguez"
+        },
+        {
+          "name": "Jiya Jolly"
+        },
+        {
+          "name": "Eddie Sawin"
+        },
+        {
+          "name": "Michael S. Petersen"
+        },
+        {
+          "name": "Christoph Gaffud"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "21 pages, 12 figures, submitted to ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.13636v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.13636v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.12987v1",
+      "updated": "2025-06-15T23:00:11Z",
+      "published": "2025-06-15T23:00:11Z",
+      "title": "Stellar initial mass function in the 100-pc solar neighbourhood",
+      "summary": "  The stellar initial mass function (IMF) is one of the most important\nastrophysical distribution function, and is defined as the mass distribution\nfor stars formed in a single star-formation event and when they just enter the\nmain-sequence stage. The measurement of IMF is challenging even in the solar\nneighbourhood where IMF can be extracted by star-counting. This is because the\ndefinition of the IMF should be handled cautiously, and there are multiple\ncorrections should be made from observation to a well-founded measurement. We\npresent a new parametrisation of the stellar IMF in the 100-pc solar\nneighbourhood, leveraging the astrometric and photometric data from\n\\textsl{Gaia} DR3: we model the colour-magnitude diagram of the field star\npopulation while accounting for observational uncertainties, Malmquist bias,\nLutz-Kelker bias, the effect of varying mass-luminosity relation caused by\nmixture of different metallicity, and the effect of unresolved binaries. In\nparticular, we synthesise the binaries with a process imitating the dynamical\nevolution observed in star clusters to model their present-day mass-ratio\ndistribution. We derive a stellar IMF consistent with canonical IMFs but with\nsignificantly reduced uncertainties: $\\alpha_1=0.81^{+0.06}_{-0.05}$,\n$\\alpha_2=2.12^{+0.04}_{-0.04}$, and a break point at\n$m_{\\mathrm{break}}=0.41^{+0.01}_{-0.01}$ $\\mathrm{M_{\\odot}}$. Our model also\nconstrains the binary fraction to $\\sim$25\\% and the \\textsl{Gaia} DR3 angular\nresolution to $1.31^{+0.24}_{-0.29}$ arcsec. We also provide the\n$\\xi$-parameter for our IMF to be $0.5075_{-0.0051}^{+0.0112}$ for the users to\ncompare our result with other work.\n",
+      "author": [
+        {
+          "name": "Yu-Ting Wang"
+        },
+        {
+          "name": "Chao Liu"
+        },
+        {
+          "name": "Jiadong Li"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.12987v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.12987v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2506.11664v1",
       "updated": "2025-06-13T10:50:19Z",
