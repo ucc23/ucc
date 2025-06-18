@@ -1,6 +1,131 @@
 {
-  "fetched_at": "2025-06-18T01:21:54.698Z",
+  "fetched_at": "2025-06-18T06:25:42.519Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.14137v1",
+      "updated": "2025-06-17T03:00:14Z",
+      "published": "2025-06-17T03:00:14Z",
+      "title": "Structure and Magnetic Field of Bright-rimmed Cloud IC 1396E/SFO 38",
+      "summary": "  We carried out polarimetric observations of the bright-rimmed cloud IC\n1396E/SFO 38 with SCUBA-2/POL-2 to study the effect of ultraviolet (UV) light\non its structure and magnetic field. This bright-rimmed cloud appears optically\nto be one single cloud illuminated by the UV light from the excited star of IC\n1396, however our Stokes I image and 13CO(J=3-2) archival data suggest that\nthis cloud is not a simple, single structure, but appears to be composed of two\nparts on first glance; a head part with wings and a tail, and a north-west\nextension part.Since molecular clouds are generally filamentary and it seems\nlikely that the initial structures of bright-rimmed clouds are expected to be\nalso generally elongated, we examined the possibility that the structure was\ncreated from a single elongated cloud by the UV impact. We compared the cloud\nstructure with a simulation study that investigated the evolution of prolate\nclouds exposed to the UV radiation from various directions and found that this\napparent two-part structure could be reproduced in a situation where a single\nfilamentary cloud is obliquely illuminated by UV light. The magnetic field\ndirections of the cloud are different from the ambient field direction,\ndemonstrating the field reconfiguration due to the UV impact. The distortion or\npinch of the magnetic field is seen toward the cloud head, where an\nintermediate-mass star cluster is located, suggesting gravitational\ncontraction. We roughly estimated the magnetic strength and stability in three\nparts of the cloud and found that the cloud head is most likely to be\nsupercritical.\n",
+      "author": [
+        {
+          "name": "Koji Sugitani"
+        },
+        {
+          "name": "Jan G. A. Wouterloot"
+        },
+        {
+          "name": "Harriet Parsons"
+        },
+        {
+          "name": "Sarah Graves"
+        },
+        {
+          "name": "Takayoshi Kusune"
+        },
+        {
+          "name": "Archana Soam"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 10 figures, to be submitted to PASJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.14137v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.14137v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.13951v1",
+      "updated": "2025-06-16T19:44:46Z",
+      "published": "2025-06-16T19:44:46Z",
+      "title": "Multiple machine-learning as a powerful tool for the star clusters\n  analysis",
+      "summary": "  This work proposes a multiple machine learning method (MMLM) aiming to\nimprove the accuracy and robustness in the analysis of star clusters. The MMLM\nperformance is evaluated by applying it to the reanalysis of the old binary\ncluster candidate - NGC 1605a and NGC 1605b - found by Camargo (2021)\n(hereafter C21). The binary cluster candidate is analyzed by employing a set of\nwell established machine learning algorithms applied to the Gaia-EDR3 data.\nMembership probabilities and open clusters (OCs) parameters are determined by\nusing the clustering algorithms pyUPMASK, ASteCA, Kmeans, GMM, and HDBSCAN. In\naddition, a KNN smoothing algorithm is implemented to enhances the\nvisualization of features like overdensities in the 5D space and intrinsic\nstellar sequences on the color-magnitude diagrams (CMDs). The method validates\nthe clusters' parameters previously derived, however, suggests that their\nprobable members-stars are distributed over a wider overlapping area. Finally,\na combination of the elbow method, t-SNE, kmeans, and GMM algorithms group the\nnormalized data into 6 clusters, following C21. In short, these results confirm\nNGC1605a and NGC1605b as genuine OCs and reinforce the previous suggestion that\nthey form an old binary cluster in an advanced stage of merging after a tidal\ncapture during a close encounter. Thus, MMLM has proven to be a powerful tool\nthat helps to obtain more accurate and reliable clusters parameters and its\napplication in future studies may contribute to a better characterization of\nthe Galaxy's star cluster system.\n",
+      "author": {
+        "name": "Denilso Camargo"
+      },
+      "arxiv:comment": {
+        "_": "Accepted for publication in The Astronomical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.13951v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.13951v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6.5
+    },
     {
       "id": "http://arxiv.org/abs/2506.13636v1",
       "updated": "2025-06-16T16:01:02Z",
