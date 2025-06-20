@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-19T18:23:03.302Z",
+  "fetched_at": "2025-06-20T01:21:51.277Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.14137v1",
@@ -325,75 +325,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.10512v1",
-      "updated": "2025-06-12T09:19:44Z",
-      "published": "2025-06-12T09:19:44Z",
-      "title": "Open clusters in the outer disc studied with MEGARA@GTC Auner 1 and\n  Berkeley 102",
-      "summary": "  Open clusters offer crucial insights into stellar nucleosynthesis and the\nchemical evolution of the Galactic disc, as their ages and distances can be\ndetermined with higher accuracy compared to field stars. In this study, we\ninvestigate the outermost regions of the Milky Way disc using two previously\nunstudied open clusters -Auner 1 and Berkeley 102- located at Galactocentric\ndistances of approximately 14 kpc in largely uncharted areas of the Galaxy. We\nobtained medium-resolution spectra (R > 18,700) using the MEGARA integral-field\nunit (IFU) spectrograph on the 10.4 m Gran Telescopio Canarias (GTC), targeting\nred giant member stars in both clusters. From these spectra, we derived radial\nvelocities, stellar atmospheric parameters, and chemical abundances for six\nelements: Fe, Ca, Co, Ni, Ba, and Eu. Additionally, we provide updated\nestimates of the clusters' ages and distances. Both clusters are old (3.2 +-\n0.7 Ga), distant (d ~ 8 kpc), and lie below the Galactic plane (Z Gal ~ -0.7\nkpc), with moderate extinction (AV ~ 1.3 mag). We find that Auner 1 has a\nmetallicity of [Fe/H] = -0.30 +- 0.09 and Berkeley 102 of [Fe/H] = -0.35 +-\n0.06, consistent with other clusters at similar Galactocentric radii and\nindicating minimal azimuthal variation in metallicity. The [X/Fe] abundance\nratios align with expected trends, although [Ca/Fe] is slightly higher in both\nclusters, and [Eu/Fe] is notably enhanced in Berkeley 102 ([Eu/Fe] = 0.64 +-\n0.05). Our findings highlight the effectiveness of GTC/MEGARA in IFU mode for\nGalactic archaeology and emphasize the need for further medium-to-high\nresolution spectroscopic studies of remote open clusters to refine models of\nthe outer Galactic disc's chemical evolution.\n",
-      "author": [
-        {
-          "name": "J. Carbajo-Hijarrubia"
-        },
-        {
-          "name": "R. Carrera"
-        },
-        {
-          "name": "F. Anders"
-        },
-        {
-          "name": "C. Jordi"
-        },
-        {
-          "name": "L. Casamiquela"
-        },
-        {
-          "name": "L. Balaguer-Núñez"
-        },
-        {
-          "name": "A. Gil de Paz"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.10512v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.10512v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 9
     }
   ]
 }
