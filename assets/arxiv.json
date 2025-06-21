@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-20T12:35:37.087Z",
+  "fetched_at": "2025-06-21T01:21:01.818Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.14137v1",
@@ -254,76 +254,6 @@
           }
         }
       ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.11664v1",
-      "updated": "2025-06-13T10:50:19Z",
-      "published": "2025-06-13T10:50:19Z",
-      "title": "From FFB Starbursts at Cosmic Dawn to Quenching at Cosmic Morning: Hi-z\n  Galaxy Bimodality",
-      "summary": "  We propose a mass-dependent bimodality in the early evolution of galaxies.\nThe massive track connects the super-bright galaxies at cosmic dawn ($z>8$) to\nthe super-massive quiescent galaxies and black holes (BHs) at cosmic morning\n($z=4-7$). The dark-matter halos $>10^{10.5}M_\\odot$ at $z=10$ are expected to\nundergo feedback-free starbursts (FFB) with high star-formation efficiency in\ndense star clusters within compact galaxies. The less massive halos avoid FFB\nand form stars gradually under stellar feedback, leading to the peak\nstar-forming galaxies at cosmic noon ($z=1-3$). The FFB and non-FFB halos\noriginate from $>4\\sigma$ and $2-3\\sigma$ density peaks, respectively. The\npost-FFB galaxies quench their star formation soon after the FFB phase and\nremain quiescent due to (a) gas depletion by the FFB starbursts and outflows,\n(b) compaction events driven by angular-momentum loss in colliding streams\nwithin the high-sigma-peak FFB halos, (c) turbulent circum-galactic medium\n(CGM) that suppresses feeding by cold streams, and (d) BH feedback, being a key\nfor complete quenching. BH feedback is enhanced by FFB-driven BH seeding and\ngrowth. It seems capable of disrupting the streams by generating CGM turbulence\nor photo-heating, but this remains an open challenge. The cosmic-morning\nquiescent galaxies are expected to be massive, compact, showing signatures of\ncompaction, outflows and AGN, with a comoving number density $\\sim 10^{-5} {\\rm\nMpc}^{-3}$, comparable to the super-bright galaxies at cosmic dawn and the AGN\nat cosmic morning. Their UV luminosity function should peak about $M_{\\rm uv}\n\\sim -22$ and contribute $\\sim 10\\%$ of the galaxies there.\n",
-      "author": [
-        {
-          "name": "Avishai Dekel"
-        },
-        {
-          "name": "Nir Mandelker"
-        },
-        {
-          "name": "Zhaozhou Li"
-        },
-        {
-          "name": "Zhiyuan Yao"
-        },
-        {
-          "name": "Bocheng Zhu"
-        },
-        {
-          "name": "Sharon Lapiner"
-        },
-        {
-          "name": "Dhruba Dutta Chowdhury"
-        },
-        {
-          "name": "Omri Ginzburg"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "21 pages, 13 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.11664v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.11664v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
       "score": 1
     }
   ]
