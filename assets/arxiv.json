@@ -1,6 +1,109 @@
 {
-  "fetched_at": "2025-06-24T01:23:07.718Z",
+  "fetched_at": "2025-06-24T06:26:40.803Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.18708v1",
+      "updated": "2025-06-23T14:47:47Z",
+      "published": "2025-06-23T14:47:47Z",
+      "title": "The completeness of the open cluster census towards the Galactic\n  anticentre",
+      "summary": "  Open clusters have long been used as tracers of Galactic structure. However,\nwithout a selection function to describe the completeness of the cluster\ncensus, it is difficult to quantitatively interpret their distribution. We\ncreate a method to empirically determine the selection function of a Galactic\ncluster catalogue. We test it by investigating the completeness of the cluster\ncensus in the outer Milky Way, where old and young clusters exhibit different\nspatial distributions. We develop a method to generate realistic mock clusters\nas a function of their parameters, in addition to accounting for Gaia's\nselection function and astrometric errors. We then inject mock clusters into\nGaia DR3 data, and attempt to recover them in a blind search using HDBSCAN. We\nfind that the main parameters influencing cluster detectability are mass,\nextinction, and distance. Age also plays an important role, making older\nclusters harder to detect due to their fainter luminosity function. High proper\nmotions also improve detectability. After correcting for these selection\neffects, we find that old clusters are $2.97\\pm0.11$ times more common at a\nGalactocentric radius of 13~kpc than in the solar neighbourhood -- despite\npositive detection biases in their favour, such as hotter orbits or a higher\nscale height. The larger fraction of older clusters in the outer Galaxy cannot\nbe explained by an observational bias, and must be a physical property of the\nMilky Way: young outer-disc clusters are not forming in the outer Galaxy, or at\nleast not with sufficient masses to be identified as clusters in Gaia DR3. We\npredict that in this region, more old clusters than young ones remain to be\ndiscovered. The current presence of old, massive outer-disc clusters could be\nexplained by radial heating and migration, or alternatively by a lower cluster\ndestruction rate in the anticentre.\n",
+      "author": [
+        {
+          "name": "Emily L. Hunt"
+        },
+        {
+          "name": "Tristan Cantat-Gaudin"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Lorenzo Spina"
+        },
+        {
+          "name": "Lorenzo Cavallo"
+        },
+        {
+          "name": "Alfred Castro-Ginard"
+        },
+        {
+          "name": "Vasily Belokurov"
+        },
+        {
+          "name": "Anthony G. A. Brown"
+        },
+        {
+          "name": "Andrew R. Casey"
+        },
+        {
+          "name": "Ronald Drimmel"
+        },
+        {
+          "name": "Morgan Fouesneau"
+        },
+        {
+          "name": "Sabine Reffert"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1051/0004-6361/202452614",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1051/0004-6361/202452614",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.18708v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.18708v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 13 figures. Accepted in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2506.16624v1",
       "updated": "2025-06-19T21:50:32Z",
