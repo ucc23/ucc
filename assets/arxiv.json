@@ -1,6 +1,72 @@
 {
-  "fetched_at": "2025-06-25T01:23:29.085Z",
+  "fetched_at": "2025-06-25T06:26:36.234Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.19788v1",
+      "updated": "2025-06-24T16:53:13Z",
+      "published": "2025-06-24T16:53:13Z",
+      "title": "Line ratio identification of external photoevaporation",
+      "summary": "  External photoevaporation of protoplanetary discs, by massive O stars in\nstellar clusters, is thought to be a significant process in the evolution of a\ndisc. It has been shown to result in significant mass loss and disc truncation,\nultimately reducing the lifetime of the discs, and possibly affecting potential\nplanet populations. It is a well-studied process in the Orion Nebula Cluster\n(ONC) where the cometary morphology of proplyds is spatially resolvable due to\nits proximity to Earth. However, we need to study external photoevaporation in\nadditional stellar clusters to better understand its prevalence and\nsignificance more globally. Unfortunately, more massive stellar clusters where\nthe majority of stars form are much farther away than the ONC. In these more\ndistant clusters the proplyds are spatially unresolvable with current\nfacilities, hence the cometary morphology is not a useful identification of\nexternal photoevaporation. Therefore, in order to identify and interpret\nexternal photoevaporation, the only observations we have are of spatially\nunresolved emission lines. To resolve this issue we have used the CLOUDY code\nto develop an approximate general model of the emission lines emanating from\nthe hot ionized wind of a proplyd. We have used the model to determine which\nline ratios are most sensitive to the distance from an OB star, and found that\nthe most sensitive line ratios vary by multiple orders of magnitude over an FUV\nfield of between 10$^3$ G$_0$ to 10$^6$ G$_0$. By identifying spatial gradients\nof line ratios in stellar clusters, we can identify regions of ongoing external\nphotoevaporation.\n",
+      "author": [
+        {
+          "name": "Tyger Peake"
+        },
+        {
+          "name": "Thomas J. Haworth"
+        },
+        {
+          "name": "Mari-Liis Aru"
+        },
+        {
+          "name": "William J. Henney"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.19788v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.19788v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2506.18708v1",
       "updated": "2025-06-23T14:47:47Z",
