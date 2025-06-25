@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-06-24T18:24:25.258Z",
+  "fetched_at": "2025-06-25T01:23:29.085Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2506.18708v1",
@@ -258,70 +258,6 @@
         }
       },
       "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.14137v1",
-      "updated": "2025-06-17T03:00:14Z",
-      "published": "2025-06-17T03:00:14Z",
-      "title": "Structure and Magnetic Field of Bright-rimmed Cloud IC 1396E/SFO 38",
-      "summary": "  We carried out polarimetric observations of the bright-rimmed cloud IC\n1396E/SFO 38 with SCUBA-2/POL-2 to study the effect of ultraviolet (UV) light\non its structure and magnetic field. This bright-rimmed cloud appears optically\nto be one single cloud illuminated by the UV light from the excited star of IC\n1396, however our Stokes I image and 13CO(J=3-2) archival data suggest that\nthis cloud is not a simple, single structure, but appears to be composed of two\nparts on first glance; a head part with wings and a tail, and a north-west\nextension part.Since molecular clouds are generally filamentary and it seems\nlikely that the initial structures of bright-rimmed clouds are expected to be\nalso generally elongated, we examined the possibility that the structure was\ncreated from a single elongated cloud by the UV impact. We compared the cloud\nstructure with a simulation study that investigated the evolution of prolate\nclouds exposed to the UV radiation from various directions and found that this\napparent two-part structure could be reproduced in a situation where a single\nfilamentary cloud is obliquely illuminated by UV light. The magnetic field\ndirections of the cloud are different from the ambient field direction,\ndemonstrating the field reconfiguration due to the UV impact. The distortion or\npinch of the magnetic field is seen toward the cloud head, where an\nintermediate-mass star cluster is located, suggesting gravitational\ncontraction. We roughly estimated the magnetic strength and stability in three\nparts of the cloud and found that the cloud head is most likely to be\nsupercritical.\n",
-      "author": [
-        {
-          "name": "Koji Sugitani"
-        },
-        {
-          "name": "Jan G. A. Wouterloot"
-        },
-        {
-          "name": "Harriet Parsons"
-        },
-        {
-          "name": "Sarah Graves"
-        },
-        {
-          "name": "Takayoshi Kusune"
-        },
-        {
-          "name": "Archana Soam"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "14 pages, 10 figures, to be submitted to PASJ",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.14137v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.14137v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
     }
   ]
 }
