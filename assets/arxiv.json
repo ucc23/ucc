@@ -1,6 +1,154 @@
 {
-  "fetched_at": "2025-06-26T01:22:20.182Z",
+  "fetched_at": "2025-06-26T06:26:35.819Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.19994v1",
+      "updated": "2025-06-24T20:28:05Z",
+      "published": "2025-06-24T20:28:05Z",
+      "title": "GAMA 526784: the progenitor of a globular cluster-rich ultra-diffuse\n  galaxy? II. Molecular gas, neutral gas and environment",
+      "summary": "  Aims. We investigate the gas reservoirs, star formation (SF) properties, and\nenvironment of the ultra-diffuse galaxy GAMA526784 to understand its formation\nhistory, the efficiency of molecular gas conversion into stars, and the\npossible role of an interacting companion in shaping its morphology. Methods.\nWe analyse low and high-resolution CO observations to constrain the molecular\ngas content, compare with HI data, and examine the SF efficiency of GAMA526784.\nThe potential influence of a newly identified nearby dwarf galaxy is assessed\nusing photometric and spatial information. Results. GAMA526784 exhibits a\nregular HI reservoir (M_HI/M* = 2.88) but only upper limits on its molecular\ngas mass (M_H2(5sigma)/M* < 0.23). The HI reservoir and CO non-detection can be\nexplained by several mechanisms: (1) predominance of CO-dark H2, invisible to\nCO observations but contributing to SF; (2) a time delay in HI-to-H2 conversion\nfollowing a recent interaction; or (3) elevated turbulence inhibiting gas\ncollapse. An identified companion, found at a projected distance of 48 kpc,\nshows similar colours and lies in the direction of young star clusters in\nGAMA526784, indicating a possible association. We hypothesise this companion\nmay have triggered the formation of star clusters in GAMA526784 through a\nhigh-velocity encounter. Conclusions. Our findings suggest GAMA526784 may have\nundergone an interaction that influenced its gas reservoirs and SF activity.\nThe presence of a nearby companion agrees with predictions of a high-speed\nencounter, potentially offering a rare example of such an interaction in\nprogress. We suggest this encounter may have shaped the system's recent\nevolution. Future observations, particularly targeting molecular gas tracers\nbeyond CO and resolved HI maps, will be crucial in determining the extent of\nGAMA526784's cold gas reservoir and the nature of its recent star formation.\n",
+      "author": [
+        {
+          "name": "Maria Luisa Buzzo"
+        },
+        {
+          "name": "Anita Zanella"
+        },
+        {
+          "name": "Michael Hilker"
+        },
+        {
+          "name": "Kristine Spekkens"
+        },
+        {
+          "name": "Laura Hunter"
+        },
+        {
+          "name": "Laurella C. Marin"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A. 8 pages, 4 figures, 1 table, 2\n  appendices",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.19994v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.19994v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.19936v1",
+      "updated": "2025-06-24T18:22:57Z",
+      "published": "2025-06-24T18:22:57Z",
+      "title": "Open Cluster Members in the APOGEE DR17. I. Dynamics and Star Members",
+      "summary": "  Context. Open clusters are groups of stars formed from the same cloud of gas\nand cosmic dust. They play an important role in studying stars' formation and\nevolution and understanding galaxies' structure and dynamics. Aims. The main\nobjective of this work is to identify stars that belong to open clusters using\nastrometric data from Gaia EDR3 and spectroscopic data from APOGEE DR17.\nFurthermore, we investigate the metallicity gradients and orbital properties of\nthe open clusters in our sample. Methods. By applying the HDBSCAN clustering\nalgorithm to this data, we identified observed stars in our galaxy with similar\ndynamics, chemical compositions, and ages. The orbits of the open clusters were\nalso calculated using the GravPot16 code. Results. We found 1987 stars\nbelonging to 49 open clusters, and 941 of these stars have probabilities above\n80 % of belonging to open clusters. Our metallicity gradient presents a\ntwo-slope shape for two measures of different Galactic center distances, the\nprojected Galactocentric distance, and the guiding center radius to the\nGalactic Center, as already reported in previous work. However, when we\nseparate the open clusters by age, we observe no significant difference in the\nmetallicity gradient slope beyond a certain distance from the Galactic center.\nOur results show a shallower gradient for clusters younger than 2 Gyr than\nthose older than 2 Gyr. All our OCs dynamically assemble the Disk-like\npopulation very well, and they are in prograde orbits, which is typical for\ndisk-like populations. Some OCs resonate with the Galactic bar at the Lagrange\npoints L4 and L5.\n",
+      "author": [
+        {
+          "name": "R. Guerço"
+        },
+        {
+          "name": "D. Souto"
+        },
+        {
+          "name": "J. G. Fernández-Trincado"
+        },
+        {
+          "name": "S. Daflon"
+        },
+        {
+          "name": "K. Cunha"
+        },
+        {
+          "name": "J. V. Sales-Silva"
+        },
+        {
+          "name": "V. Loaiza-Tacuri"
+        },
+        {
+          "name": "V. V. Smith"
+        },
+        {
+          "name": "M. Ortigoza-Urdaneta"
+        },
+        {
+          "name": "M. P. Roriz"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 11 figures, 3 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.19936v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.19936v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 15
+    },
     {
       "id": "http://arxiv.org/abs/2506.19788v1",
       "updated": "2025-06-24T16:53:13Z",
