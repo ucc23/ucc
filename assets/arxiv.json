@@ -1,6 +1,322 @@
 {
-  "fetched_at": "2025-06-27T01:23:22.079Z",
+  "fetched_at": "2025-06-27T06:26:19.706Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.21519v1",
+      "updated": "2025-06-26T17:40:14Z",
+      "published": "2025-06-26T17:40:14Z",
+      "title": "Hunting for UVdim stars in Galactic Open clusters. Clues from\n  ultraviolet photometry",
+      "summary": "  Split main-sequences (MSs) and extended main-sequence turn-offs (eMSTOs) have\nbeen observed in nearly all Magellanic Clouds clusters younger than 2 Gyr. More\nrecently, Hubble Space Telescope (HST) ultraviolet photometry uncovered a\npuzzling new population of UV-absorbed stars, dubbed UVdim, in five Magellanic\nClouds clusters aged between 40 and 200 Myr, as well as in one 1.5 Gyr-old\ncluster. These UVdim stars predominantly lie on the blue MS, which is composed\nof slow rotators, and their distinct UV properties are believed to stem from\ndusty circumstellar disks. Although eMSTOs are common in both Magellanic Clouds\nand Galactic open clusters (OCs) of comparable ages, UVdim stars have not yet\nbeen investigated in Galactic OCs. In this work, we fill that gap by combining\nSwift/UVOT, SkyMapper, and Gaia photometry to extend the search for UVdim stars\nto 35 Galactic OCs younger than 2 Gyr. By constructing colour-colour diagrams\nanalogous to those employed with HST WFC3/UVIS, we find no evidence of\nUVdim-like stars in most Galactic open clusters and identify possible UVdim\ncandidates in only five systems. The rarity of UVdim stars in young OCs\nsuggests a potential difference between Magellanic Cloud clusters and their\nMilky Way counterparts, although the underlying reason remains unclear.\n",
+      "author": [
+        {
+          "name": "G. Cordoni"
+        },
+        {
+          "name": "A. P. Milone"
+        },
+        {
+          "name": "L. Casagrande"
+        },
+        {
+          "name": "L. Venuti"
+        },
+        {
+          "name": "E. P. Lagioia"
+        },
+        {
+          "name": "F. Muratore"
+        },
+        {
+          "name": "A. F. Marino"
+        },
+        {
+          "name": "G. S. Da Costa"
+        },
+        {
+          "name": "F. Dell'Agli"
+        },
+        {
+          "name": "F. D'Antona"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to MNRAS, 11 pages, 8 figures. Comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.21519v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.21519v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.21321v1",
+      "updated": "2025-06-26T14:36:18Z",
+      "published": "2025-06-26T14:36:18Z",
+      "title": "An H$α$ Cloud in the HI Tail: Recent Star Formation in the\n  Outskirts of NGC 4258 Revealed by Nanshan 1-m Telescope",
+      "summary": "  We present first-light deep H$\\alpha$ imaging taken with the Nanshan 1-meter\nwide-field telescope on the local galaxy NGC 4258, alongside archival data from\nHubble Space telescope (HST), Westerbork Synthesis Radio Telescope, and The\nDark Energy Camera Legacy Survey. The H$\\alpha$ image shows ongoing star\nformation not only inside the galaxy but also in an HI cloud in the eastern HI\ntail, which is roughly 16 kpc away from the main galaxy. The HST images reveal\nseveral ultra-blue compact objects ($\\rm F555W - F814W <-0.5 mag,\\, FWHM\\sim\n0.2''$) in the H$\\alpha$ bright region, aligned with the HI tail, suggesting\nthe presence of young open cluster candidate in the HI tail. Our results\nsuggest that wide field H$\\alpha$ imaging is a valuable tool for investigating\nrecent star formation in the extended regions of NGC 4258. Furthermore, the\nstar formation in diffuse HI tails could highlight an potential aspect of\ngalaxy stellar halo formation, warranting further investigation of the impact\nof star formation in halos on galaxy evolution.\n",
+      "author": [
+        {
+          "name": "Cheng Cheng"
+        },
+        {
+          "name": "Jia-Sheng Huang"
+        },
+        {
+          "name": "Peng Wei"
+        },
+        {
+          "name": "Ali Esamdin"
+        },
+        {
+          "name": "Guojie Feng"
+        },
+        {
+          "name": "Zhi-Xiang Zhang"
+        },
+        {
+          "name": "Haojing Yan"
+        },
+        {
+          "name": "Wei Du"
+        },
+        {
+          "name": "Pei Zuo"
+        },
+        {
+          "name": "Zi-Jian Li"
+        },
+        {
+          "name": "Gustavo Orellana"
+        },
+        {
+          "name": "Letian Wang"
+        },
+        {
+          "name": "Yong Wang"
+        },
+        {
+          "name": "Abdusamatjan Iskandar"
+        },
+        {
+          "name": "Shahidin Yaqup"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "15 pages, 6 figures, AJ accepted",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.21321v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.21321v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.20889v1",
+      "updated": "2025-06-25T23:44:09Z",
+      "published": "2025-06-25T23:44:09Z",
+      "title": "Stellar Dynamics in Open Clusters Increases the Binary Fraction and Mass\n  Ratios: Evidence from Photometric Binaries in 35 Open Clusters",
+      "summary": "  Using the Bayesian Analysis of Stellar Evolution-9 (BASE-9) code and Gaia\nDR3, Pan-STARRS, and 2MASS data, we identify photometric binaries in 35 open\nclusters (OCs) and constrain their masses. We find a strong correlation between\nthe binary fraction and cluster dynamical age and an even stronger correlation\nbetween core binary fraction and cluster dynamical age. We find the binary\nmass-ratio (q) distribution of dynamically young OCs is statistically distinct\nfrom that of the old OCs. On average, dynamically young OCs display multi-modal\nq distributions rising toward unity and toward our detection limit of q=0.5\nwhile more dynamically evolved clusters display more uniform q distributions\noften with a peak near q=1. Interestingly, the uniform q distribution with a\npeak near q=1 is consistent with binaries in the field. We also observe a\nsimilar transition from multi-modal to unimodal q distributions when comparing\nlow mass to high mass OCs in our sample. Lastly, we find a correlation between\nthe median q of the binary population in a cluster and the cluster dynamical\nage. We interpret these results as an indication that dynamical encounters tend\nto increase the fraction of high-mass-ratio binaries within a given cluster --\nparticularly within the cluster's core where stellar dynamics are likely more\nimportant. This may be the result of stellar exchanges that tend to produce\nbinaries with larger q and/or the preferential disruption or evaporation of\nlower q binaries.\n",
+      "author": [
+        {
+          "name": "Anna C. Childs"
+        },
+        {
+          "name": "Aaron M. Geller"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 12 figures, and 1 table. Accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.20889v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.20889v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 10.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.20794v1",
+      "updated": "2025-06-25T19:34:27Z",
+      "published": "2025-06-25T19:34:27Z",
+      "title": "Inferring the efficiency of convective-envelope overshooting in Red\n  Giant Branch stars",
+      "summary": "  The understanding of mixing processes in stars is crucial for improving our\nknowledge of the chemical abundances in stellar photospheres and of their\nvariation with evolutionary phase. This is fundamental for many astrophysical\nissues on all scales, ranging from stellar evolution to the chemical\ncomposition, formation and evolution of stellar clusters and galaxies. Among\nthese processes, convective-envelope overshooting is in dire need of a\nsystematic calibration and comparison with predictions from multi-dimensional\nhydrodynamical simulations. The Red Giant Branch bump (RGBb) is an ideal\ncalibrator of overshooting processes, since its luminosity depends on the\nmaximum depth reached by the convective envelope after the first dredge-up.\nIndeed, a more efficient overshooting produces a discontinuity in the Hydrogen\nmass fraction profile deeper in the stellar interior and consequently a less\nluminous RGBb. In this work, we calibrated the overshooting efficiency by\ncomparing the RGBb location predicted by stellar models with observations of\nstellar clusters with HST and Gaia photometry, as well as solar-like\noscillating giants in the Kepler field. We explored the metallicity range\nbetween -2.02 dex and +0.35 dex and found overshooting efficiencies ranging\nfrom $0.009^{+0.015}_{-0.016}$ to $0.062^{+0.017}_{-0.015}$. In particular, we\nfound that the overshooting efficiency decreases linearly with [M/H], with a\nslope of $(-0.010\\pm0.006)$ dex$^{-1}$. We suggest a possible explanation for\nthis trend, linking it to the efficiency of turbulent entrainment at different\nmetallicities.\n",
+      "author": [
+        {
+          "name": "Lorenzo Briganti"
+        },
+        {
+          "name": "Marco Tailo"
+        },
+        {
+          "name": "Edoardo Ceccarelli"
+        },
+        {
+          "name": "Andrea Miglio"
+        },
+        {
+          "name": "Massimiliano Matteuzzi"
+        },
+        {
+          "name": "Alessio Mucciarelli"
+        },
+        {
+          "name": "Alessandro Mazzi"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Saniya Khan"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 15 figures; 1 appendix page, 2 appendix figures; Accepted\n  for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.20794v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.20794v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2506.19994v1",
       "updated": "2025-06-24T20:28:05Z",
