@@ -1,6 +1,274 @@
 {
-  "fetched_at": "2025-07-01T01:41:06.460Z",
+  "fetched_at": "2025-07-01T06:26:49.871Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2506.24010v1",
+      "updated": "2025-06-30T16:14:09Z",
+      "published": "2025-06-30T16:14:09Z",
+      "title": "Anchoring Stellar Age Indicators: A Cross-Calibration of [C/N] and\n  Gyrochronology Ages via the Age-Velocity-Dispersion Relation",
+      "summary": "  Determining stellar ages is challenging, as it depends on other stellar\nparameters in a non-linear way and often relies on stellar evolution models to\ninfer the underlying relation between these parameters and age. This complexity\nincreases when comparing different age-dating methods, as they rely on distinct\nindicators and are often applicable to non-overlapping regions of the\ncolor-magnitude diagram. Moreover, many empirical calibration methods rely on\npre-determined ages, often from open clusters or asteroseismology, which only\ncover a limited parameter space. Fortunately, the age-velocity-dispersion\nrelation (AVR), in which the velocity dispersion increases with age, is a\nuniversal feature among stars of all evolutionary stages. In this paper, we 1)\nexplore the parameter space in which [C/N] and gyrochronology are applicable,\nextending beyond the domains probed by asteroseismology and open clusters, and\n2) assess whether the traditionally assumed [C/N] and gyrochronology relations\nyield ages on a consistent physical scale, after calibrating both using the\nsame AVR. We find gyrochronology can be applied to all partially convective\nstars after they have converged onto the slow rotating sequence and before they\nexperience weakened magnetic braking; [C/N] can be used to infer ages for all\ngiants with metallicity > -0.8 dex and [C/N] < -0.05 dex, and can be used as an\nage-indicator down to [Fe/H] of -1 dex if only selecting the low-$\\alpha$ disk.\nLastly, ages obtained from [C/N] and gyrochronology agree within uncertainty\nafter accounting for systematic offsets.\n",
+      "author": [
+        {
+          "name": "Yuxi Lu"
+        },
+        {
+          "name": "Marc H. Pinsonneault"
+        },
+        {
+          "name": "Yuan-Sen Ting"
+        },
+        {
+          "name": "Phil R. Van-Lane"
+        },
+        {
+          "name": "John D Roberts"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "Alexander Stone-Martinez"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.24010v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.24010v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.23105v1",
+      "updated": "2025-06-29T06:10:36Z",
+      "published": "2025-06-29T06:10:36Z",
+      "title": "How Do Ionizing Photons Escape from Star-Forming Galaxies?",
+      "summary": "  The Epoch of Reionization marks the last major phase transition in the early\nUniverse, during which the majority of neutral hydrogen once filling the\nintergalactic medium was ionized by the first galaxies. The James Webb Space\nTelescope is now identifying promising galaxy candidates capable of producing\nsufficient ionizing photons to drive this transformation. However, the fraction\nof these photons that escape into intergalactic space--the escape\nfraction--remains highly uncertain. Stellar feedback is thought to play a\ncritical role in carving low-density channels that allow ionizing radiation to\nescape, but the dominant mechanisms, their operation, and their connection to\nobservable signatures are not well understood. Local analogs of high-redshift\ngalaxies offer a powerful alternative for studying these processes, since\nionizing radiation is unobservable at high redshift due to intergalactic\nabsorption. However, current UV space-based instrumentation lacks the spatial\nresolution and sensitivity required to fully address this problem. The core\nchallenge lies in the multiscale nature of LyC escape: ionizing photons are\ngenerated on scales of 1-100 pc in super star clusters but must traverse the\ncircumgalactic medium which can extend beyond 100 kpc. A UV integral field unit\n(IFU) spectrograph capable of resolving galaxies across these scales is\nnecessary--and uniquely achievable with the proposed Habitable Worlds\nObservatory. In this article, we outline the scientific motivation,\nobservables, and observational capabilities needed to make progress on these\nfundamental questions.\n",
+      "author": [
+        {
+          "name": "Cody Carr"
+        },
+        {
+          "name": "Renyue Cen"
+        },
+        {
+          "name": "Sophia Flury"
+        },
+        {
+          "name": "Sally Oey"
+        },
+        {
+          "name": "Stephan McCandliss"
+        },
+        {
+          "name": "Allison Strom"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "9 pages, 3 figures, Towards the Habitable Worlds Observatory:\n  Visionary Science and Transformational Technology July 2025 conference\n  proceedings",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.23105v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.23105v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.23096v1",
+      "updated": "2025-06-29T05:49:07Z",
+      "published": "2025-06-29T05:49:07Z",
+      "title": "The most massive star clusters in molecular clouds: Insights from the\n  integrated cloud-wide initial mass function (ICIMF) theory",
+      "summary": "  The combination of the high-resolution ALMA, JWST and HST observations\nprovides unprecedented insights into the connection between individual\nmolecular clouds and their internal stellar populations in nearby galaxies. The\nmolecular clouds in five nearby galaxies were identified based on the\nintegrated intensity maps of CO (2$-$1) emission from ALMA observations. We\nused the JWST 21 $\\mu$m data to estimate the star formation rate (SFR) surface\ndensity of the clouds and calculate the masses of the embedded stellar\npopulations in the clouds. After matching the star cluster and stellar\nassociation catalogs derived from the HST observations with the identified\nmolecular clouds, we found clear correlations between the physical parameters\nof molecular clouds and their internal stellar populations. Based on the masses\nof the total stellar populations and their corresponding clouds, we obtained a\ntypical value of the cloud-scale star formation efficiency (SFE),\n$\\approx$1.4\\%. The mass of the most massive cluster ($M_{\\rm cluster, max}$)\nin a cloud is positively proportional to the mass ($M_{\\rm cloud}$), the column\ndensity, the SFR sand the SFR surface density of the cloud. The observed\n$M_{\\rm cluster, max}$-$M_{\\rm cloud}$ relation can be interpreted\ntheoretically on the basis of the integrated cloud-wide IMF (ICIMF) theory,\nwhich provides a quantitative framework for understanding the correlations\nbetween molecular clouds and their internal stellar populations.\n",
+      "author": [
+        {
+          "name": "J. W. Zhou"
+        },
+        {
+          "name": "Pavel Kroupa"
+        },
+        {
+          "name": "Sami Dib"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.23096v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.23096v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2506.22673v1",
+      "updated": "2025-06-27T22:54:05Z",
+      "published": "2025-06-27T22:54:05Z",
+      "title": "Double Compact Binary Merger Rate Density in Open Star Clusters: Black\n  Holes, Neutron Stars, and White Dwarfs",
+      "summary": "  Studying compact-object binary mergers in star clusters is crucial for\nunderstanding stellar evolution and dynamical interactions in galaxies. Open\nclusters in particular are more abundant over cosmic time than globular\nclusters, however, previous research on low-mass clusters with $\\lesssim\n10^3~\\textrm{M}_{\\odot}$ has focused on binary black holes (BBHs) or black\nhole-neutron star (BH-NS) binaries. Binary mergers of other compact objects,\nsuch as white dwarfs (WDs), are also crucial as progenitors of transient\nphenomena such as Type Ia supernovae and Fast Radio Bursts. We present\nsimulations of three types of open clusters with masses of $10^2$, $10^3$, and\n$10^4~\\mathrm{M}_{\\odot}$. In massive clusters with $\\gtrsim\n10^4~\\textrm{M}_{\\odot}$, BBHs are dynamically formed, however, less massive\ncompact binaries such as WD-WD and WD-NS are perturbed inside the star\nclusters, causing them to evolve into other objects. We further find BH-NS\nmergers only in $10^3~\\textrm{M}_{\\odot}$ clusters. Considering star clusters\nwith a typical open cluster mass, we observe that WD-WD merger rates slightly\nincrease for $10^3~\\textrm{M}_{\\odot}$ clusters but decrease for\n$10^2~\\textrm{M}_{\\odot}$ clusters. Since the host clusters are tidally\ndisrupted, most of them merge outside of the clusters. Our WD-WD merger results\nhave further implications for two classes of transients. Super-Chandrasekhar\nWD-WD mergers are present in our simulations, demonstrating potential sources\nof Fast Radio Bursts at a rate of 70-780 Gpc$^{-3}$yr$^{-1}$, higher than the\nrate estimated for globular clusters. Additionally, we find that Carbon-Oxygen\nWD-WD mergers in our open clusters (34-640 $\\textrm{Gpc}^{-3}$yr$^{-1}$) only\naccount for 0.14-2.6% of the observed Type Ia supernova rate in our local\nUniverse.\n",
+      "author": [
+        {
+          "name": "Savannah Cary"
+        },
+        {
+          "name": "Michiko Fujii"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Ataru Tanikawa"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, 7 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2506.22673v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2506.22673v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 12
+    },
     {
       "id": "http://arxiv.org/abs/2506.21519v1",
       "updated": "2025-06-26T17:40:14Z",
