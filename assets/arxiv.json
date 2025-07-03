@@ -1,6 +1,268 @@
 {
-  "fetched_at": "2025-07-03T01:23:01.366Z",
+  "fetched_at": "2025-07-03T06:26:41.378Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.01312v1",
+      "updated": "2025-07-02T02:56:24Z",
+      "published": "2025-07-02T02:56:24Z",
+      "title": "Spatially Resolving the Fundamental Elements of Reionization in Galaxies",
+      "summary": "  Cosmic reionization marks a critical epoch when the first galaxies ionized\nthe intergalactic medium through the escape of Lyman continuum (LyC) radiation.\nYoung, massive star clusters are believed to be the primary LyC sources, yet\nthe physical mechanisms enabling LyC escape remain poorly understood. Most\nexisting studies rely on spatially integrated observations, which lack the\nresolution to resolve internal galaxy structure and pinpoint where and how LyC\nphotons escape. To address this, we propose a science case for the Habitable\nWorlds Observatory (HWO) that enables spatially resolved spectroscopy of\nLyC-emitting star clusters and their environments in low-redshift galaxies.\nThis requires a UV integral field unit (IFU) with coverage down to ~ 900\nAngstrom and a spatial resolution of 10-100 pc-capabilities essential for\ndirectly detecting LyC escape and mapping the surrounding interstellar medium.\nWith such instrumentation, we will map cluster-scale LyC escape fractions,\ncharacterize the physical conditions of the surrounding interstellar medium,\nand directly observe feedback-driven outflows that facilitate LyC leakage.\nThese observations will enable novel calibrations of indirect LyC indicators at\nunprecedented spatial resolution and establish direct connections between local\nLyC processes and those in high-redshift, clumpy star-forming galaxies. In the\nlong run, this program will build the physical framework needed to understand\nhow galaxies reionized the early universe and shaped its subsequent evolution.\n",
+      "author": [
+        {
+          "name": "Xinfeng Xu"
+        },
+        {
+          "name": "Stephan McCandliss"
+        },
+        {
+          "name": "Allison Strom"
+        },
+        {
+          "name": "Yumi Choi"
+        },
+        {
+          "name": "Annalisa Citro"
+        },
+        {
+          "name": "Håkon Dahle"
+        },
+        {
+          "name": "Matthew J. Hayes"
+        },
+        {
+          "name": "Anne Jaskot"
+        },
+        {
+          "name": "Logan Jones"
+        },
+        {
+          "name": "Gagandeep Kaur"
+        },
+        {
+          "name": "Themiya Nanayakkara"
+        },
+        {
+          "name": "Alexandra Le Reste"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "7 pages, 3 figures, 1 table, to be submitted to 2025 Astronomical\n  Society of the Pacific (ASP)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.01312v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.01312v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.00815v1",
+      "updated": "2025-07-01T14:46:35Z",
+      "published": "2025-07-01T14:46:35Z",
+      "title": "The Evolution of Substructure during Star Cluster Assembly",
+      "summary": "  Star cluster formation and assembly occurs inside filamentary and turbulent\nmolecular clouds, which imprints both spatial and kinematic substructure on the\nyoung cluster. In this paper, we quantify the amount and evolution of this\nsubstructure in simulations of star cluster formation that include radiation\nmagnetohydrodynamical evolution of the gas, coupled with detailed stellar\ndynamics, binary formation and evolution, and stellar feedback. We find that\nboth spatial and kinematic substructure are present at early times. Both are\nerased as the cluster assembles through the formation of new stars as well as\nthe merger of sub-clusters. Spatial substructure is erased over a timescale of\napproximately 2.5 times the initial free-fall time of the cloud. Kinematic\nsubstructure persists for longer, and is still present to the end of our\nsimulations. We also explored our simulations for evidence of early dynamical\nmass segregation, and conclude that the presence of a population of binary\nstars can accelerate and enhance the mass segregation process.\n",
+      "author": [
+        {
+          "name": "Edwin Laverde-Villarreal"
+        },
+        {
+          "name": "Alison Sills"
+        },
+        {
+          "name": "Claude Cournoyer-Cloutier"
+        },
+        {
+          "name": "Veronica Arias Callejas"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted by The Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.00815v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.00815v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.00800v1",
+      "updated": "2025-07-01T14:34:19Z",
+      "published": "2025-07-01T14:34:19Z",
+      "title": "The Gaia-ESO Survey: Projected Rotational Velocities of B stars in the\n  Carina Nebula",
+      "summary": "  The Carina Nebula is an active star-forming region with several open clusters\nrich in massive OB stars, thus making it an optimal target for studying stellar\nproperties such as rotation for large samples of these early-type stars. We\nstudied a sample of early-type stars probable members of the 8 open clusters in\nthe Carina Complex. The observational data consist of high-resolution spectra\nfrom the Gaia-ESO public Spectroscopic Survey. Astrometric and photometric data\nfrom Gaia EDR3 and radial velocities measured from the observed spectra are\nused to confirm the cluster members. The projected rotational velocities of 330\nearly-type stars of Carina are derived from the widths of \\ion{He}{i} lines at\n4388 and 4471 \\AA. The reported \\Vsini\\ values are the first estimates for 222\nearly-type stars. The \\Vsini\\ distribution for the Carina clusters peaks at\n$\\sim$100-150 \\kms, consistent with the distributions for B stars in Galactic\nclusters. \\Vsini\\ estimates for stars members of the clusters Trumpler 15,\nCollinder 228, Collinder 232, and Bochum 11 are presented for the first time in\nthe literature. For a subsample of stars with earlier spectral types from B0 to\nB3, we find a bimodal distribution, with a third, small peak towards the upper\nvalues of \\Vsini. When the full sample is split according to the parent\ncluster, we find that the oldest cluster in our sample, NGC 3293, presents a\nhigher concentration of rapidly rotating stars. In contrast, Collinder 228\npresents a larger number of stars with lower \\Vsini.\n",
+      "author": [
+        {
+          "name": "W. Santos"
+        },
+        {
+          "name": "S. Daflon"
+        },
+        {
+          "name": "J. V. Sales Silva"
+        },
+        {
+          "name": "K. Cunha"
+        },
+        {
+          "name": "R. Blomme"
+        },
+        {
+          "name": "T. Morel"
+        },
+        {
+          "name": "A. Herrero"
+        },
+        {
+          "name": "J. Maiz Apellániz"
+        },
+        {
+          "name": "L. Mahy"
+        },
+        {
+          "name": "S. R. Berlanas"
+        },
+        {
+          "name": "T. Bensby"
+        },
+        {
+          "name": "A. Bragaglia"
+        },
+        {
+          "name": "F. Damiani"
+        },
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "G. Gilmore"
+        },
+        {
+          "name": "V. Kalari"
+        },
+        {
+          "name": "A. Lanzafame"
+        },
+        {
+          "name": "S. Randich"
+        },
+        {
+          "name": "S. Van Eck"
+        },
+        {
+          "name": "S. Zaggia"
+        },
+        {
+          "name": "L. O. Kerber"
+        },
+        {
+          "name": "O. J Katime Santrich"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.00800v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.00800v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3
+    },
     {
       "id": "http://arxiv.org/abs/2506.24010v1",
       "updated": "2025-06-30T16:14:09Z",
