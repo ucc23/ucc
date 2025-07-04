@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2025-07-04T01:22:36.701Z",
+  "fetched_at": "2025-07-04T06:26:37.934Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.02780v1",
+      "updated": "2025-07-03T16:43:11Z",
+      "published": "2025-07-03T16:43:11Z",
+      "title": "Massive Interacting Binaries Enhance Feedback in Star-Forming Regions",
+      "summary": "  We present a new framework to incorporate feedback from massive interacting\nbinaries in simulations of star cluster formation. Our new feedback model adds\nbinary stellar evolution to the cluster formation code Torch, and couples it in\nAMUSE to the pre-existing modules for collisional stellar dynamics,\nmagnetohydrodynamics, and mechanical and radiative feedback. Our model accounts\nfor the effects of mass transfer on the stars' mass loss rates, their radiation\nspectra, and the timing of core-collapse supernovae. It also injects mass lost\nthrough non-conservative mass transfer and common envelope ejection into the\ninterstellar medium. We demonstrate the use of our feedback model through\nsimulations of isolated binaries in a gaseous medium, and of embedded clusters\nof massive binaries. Feedback from interacting binaries efficiently couples\nwith the surrounding interstellar medium. It increases the size of HII regions,\nincreases the kinetic and thermal energy of the gas, and increases the pressure\nwithin HII regions compared to models that use single star stellar evolution.\nThose differences arise from the ionizing radiation, which increases by three\norders of magnitude, resulting in HII regions that expand due to thermal\npressure rather than radiation pressure. The effects of stellar dynamics and\nthe gravitational potential of the background gas cause the evolution of\nindividual binaries to deviate from the predictions made by secular evolution,\nimpacting the subsequent feedback from the binary. We conclude that massive\ninteracting binaries are an important source of feedback in cluster-forming\nregions, and must be considered when studying the emerging timescales of young\nstar clusters.\n",
+      "author": [
+        {
+          "name": "Claude Cournoyer-Cloutier"
+        },
+        {
+          "name": "Eric P. Andersson"
+        },
+        {
+          "name": "Sabrina M. Appel"
+        },
+        {
+          "name": "Natalia Lahén"
+        },
+        {
+          "name": "Brooke Polak"
+        },
+        {
+          "name": "Antti Rantala"
+        },
+        {
+          "name": "Silvia Toonen"
+        },
+        {
+          "name": "Alison Sills"
+        },
+        {
+          "name": "Steven Rieder"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        },
+        {
+          "name": "William E. Harris"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in the Astrophysical Journal. 28 pages\n  (including references), 12 figures, 2 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.02780v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.02780v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2507.01312v1",
       "updated": "2025-07-02T02:56:24Z",
