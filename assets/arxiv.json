@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-04T18:23:07.629Z",
+  "fetched_at": "2025-07-05T01:19:57.725Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.02780v1",
@@ -548,78 +548,6 @@
         }
       },
       "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.22673v1",
-      "updated": "2025-06-27T22:54:05Z",
-      "published": "2025-06-27T22:54:05Z",
-      "title": "Double Compact Binary Merger Rate Density in Open Star Clusters: Black\n  Holes, Neutron Stars, and White Dwarfs",
-      "summary": "  Studying compact-object binary mergers in star clusters is crucial for\nunderstanding stellar evolution and dynamical interactions in galaxies. Open\nclusters in particular are more abundant over cosmic time than globular\nclusters, however, previous research on low-mass clusters with $\\lesssim\n10^3~\\textrm{M}_{\\odot}$ has focused on binary black holes (BBHs) or black\nhole-neutron star (BH-NS) binaries. Binary mergers of other compact objects,\nsuch as white dwarfs (WDs), are also crucial as progenitors of transient\nphenomena such as Type Ia supernovae and Fast Radio Bursts. We present\nsimulations of three types of open clusters with masses of $10^2$, $10^3$, and\n$10^4~\\mathrm{M}_{\\odot}$. In massive clusters with $\\gtrsim\n10^4~\\textrm{M}_{\\odot}$, BBHs are dynamically formed, however, less massive\ncompact binaries such as WD-WD and WD-NS are perturbed inside the star\nclusters, causing them to evolve into other objects. We further find BH-NS\nmergers only in $10^3~\\textrm{M}_{\\odot}$ clusters. Considering star clusters\nwith a typical open cluster mass, we observe that WD-WD merger rates slightly\nincrease for $10^3~\\textrm{M}_{\\odot}$ clusters but decrease for\n$10^2~\\textrm{M}_{\\odot}$ clusters. Since the host clusters are tidally\ndisrupted, most of them merge outside of the clusters. Our WD-WD merger results\nhave further implications for two classes of transients. Super-Chandrasekhar\nWD-WD mergers are present in our simulations, demonstrating potential sources\nof Fast Radio Bursts at a rate of 70-780 Gpc$^{-3}$yr$^{-1}$, higher than the\nrate estimated for globular clusters. Additionally, we find that Carbon-Oxygen\nWD-WD mergers in our open clusters (34-640 $\\textrm{Gpc}^{-3}$yr$^{-1}$) only\naccount for 0.14-2.6% of the observed Type Ia supernova rate in our local\nUniverse.\n",
-      "author": [
-        {
-          "name": "Savannah Cary"
-        },
-        {
-          "name": "Michiko Fujii"
-        },
-        {
-          "name": "Long Wang"
-        },
-        {
-          "name": "Ataru Tanikawa"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "14 pages, 7 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.22673v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.22673v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 12
     }
   ]
 }
