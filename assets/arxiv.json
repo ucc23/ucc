@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-07T18:24:56.186Z",
+  "fetched_at": "2025-07-08T01:23:27.316Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.02780v1",
@@ -325,75 +325,6 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2507.00800v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 3
-    },
-    {
-      "id": "http://arxiv.org/abs/2506.24010v1",
-      "updated": "2025-06-30T16:14:09Z",
-      "published": "2025-06-30T16:14:09Z",
-      "title": "Anchoring Stellar Age Indicators: A Cross-Calibration of [C/N] and\n  Gyrochronology Ages via the Age-Velocity-Dispersion Relation",
-      "summary": "  Determining stellar ages is challenging, as it depends on other stellar\nparameters in a non-linear way and often relies on stellar evolution models to\ninfer the underlying relation between these parameters and age. This complexity\nincreases when comparing different age-dating methods, as they rely on distinct\nindicators and are often applicable to non-overlapping regions of the\ncolor-magnitude diagram. Moreover, many empirical calibration methods rely on\npre-determined ages, often from open clusters or asteroseismology, which only\ncover a limited parameter space. Fortunately, the age-velocity-dispersion\nrelation (AVR), in which the velocity dispersion increases with age, is a\nuniversal feature among stars of all evolutionary stages. In this paper, we 1)\nexplore the parameter space in which [C/N] and gyrochronology are applicable,\nextending beyond the domains probed by asteroseismology and open clusters, and\n2) assess whether the traditionally assumed [C/N] and gyrochronology relations\nyield ages on a consistent physical scale, after calibrating both using the\nsame AVR. We find gyrochronology can be applied to all partially convective\nstars after they have converged onto the slow rotating sequence and before they\nexperience weakened magnetic braking; [C/N] can be used to infer ages for all\ngiants with metallicity > -0.8 dex and [C/N] < -0.05 dex, and can be used as an\nage-indicator down to [Fe/H] of -1 dex if only selecting the low-$\\alpha$ disk.\nLastly, ages obtained from [C/N] and gyrochronology agree within uncertainty\nafter accounting for systematic offsets.\n",
-      "author": [
-        {
-          "name": "Yuxi Lu"
-        },
-        {
-          "name": "Marc H. Pinsonneault"
-        },
-        {
-          "name": "Yuan-Sen Ting"
-        },
-        {
-          "name": "Phil R. Van-Lane"
-        },
-        {
-          "name": "John D Roberts"
-        },
-        {
-          "name": "Jamie Tayar"
-        },
-        {
-          "name": "Alexander Stone-Martinez"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2506.24010v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2506.24010v1",
             "rel": "related",
             "type": "application/pdf"
           }
