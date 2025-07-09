@@ -1,6 +1,134 @@
 {
-  "fetched_at": "2025-07-09T01:24:31.993Z",
+  "fetched_at": "2025-07-09T06:26:43.687Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.05483v1",
+      "updated": "2025-07-07T21:14:46Z",
+      "published": "2025-07-07T21:14:46Z",
+      "title": "Is Earendel a Star Cluster?: Metal Poor Globular Cluster Progenitors at\n  $z\\sim6$",
+      "summary": "  The strongly-lensed $z\\sim 6$ Sunrise galaxy offers an incredible opportunity\nto investigate star formation in the early universe on parsec or smaller\nscales. The highly magnified object Earendel within the Sunrise was previously\nidentified as a candidate star or binary due to size constraints placed by the\nlensing magnification, however recent works have suggested this constraint may\nbe relaxed to even the size of star clusters. Here, we explore the hypothesis\nthat Earendel may actually be a star cluster, and simultaneously evaluate other\nstar clusters within the host galaxy. Leveraging deep, archival James Webb\nSpace Telescope NIRSpec PRISM spectroscopy, we determine a spectroscopic\nredshift for the Sunrise galaxy $z=5.926 \\pm 0.013$, and we fit simple stellar\npopulation (SSP) models from three premier libraries to evaluate the physical\nparameters of Earendel and another distinct star cluster in the Sunrise dubbed\n`$1b$'. We find the rest-UV through optical continuum of Earendel to be\nwell-described by an SSP, nearly equivalently to $1b$ which is confidently a\nstar cluster. We infer they have intermediate ages $t_{\\rm age}\\sim\n30$--$150\\,$Myr, are metal poor ($Z_\\star\\lesssim10\\%\\,Z_\\odot$), and are\nconsistent with the formation age-metallicity trend seen in local globular\nclusters. Such intermediate age clusters are seldom probed spectroscopically in\nthe high redshift universe, and we explore the extent to which these clusters\ncan be characterized via the spectroscopic continuum.\n",
+      "author": [
+        {
+          "name": "Massimo Pascale"
+        },
+        {
+          "name": "Liang Dai"
+        },
+        {
+          "name": "Brenda L. Frye"
+        },
+        {
+          "name": "Aliza G. Beverage"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 6 figures; Accepted to ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.05483v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.05483v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 8
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.05384v1",
+      "updated": "2025-07-07T18:13:23Z",
+      "published": "2025-07-07T18:13:23Z",
+      "title": "A Comprehensive Study of Czernik 41 and NGC 1342 Using CCD UBV and Gaia\n  DR3 Data",
+      "summary": "  In this study, the structural, astrophysical, kinematic, and Galactic orbital\nparameters of the open clusters Czernik 41 and NGC 1342, as well as their\ndynamical evolution, are investigated using CCD UBV photometry and Gaia data.\nBy applying the UPMASK algorithm to Gaia astrometric data for the estimation of\ncluster membership probabilities, we have determined that 382 stars in Czernik\n41 and 111 stars in NGC 1342 exhibit the highest statistical likelihood of\nbeing cluster members. Fundamental parameters (including reddening,\nmetallicity, distance, and age) were derived using both classical methods,\nwhere parameters are determined separately, and Markov Chain Monte Carlo (MCMC)\nmethods, where parameters are estimated simultaneously. The results obtained\nfrom both approaches are in agreement, confirming the reliability of the\nderived parameters and demonstrating their robustness against potential\ndegeneracies. The distances to Czernik 41 and NGC 1342 were determined as\n2485$\\pm$151 pc and 645$\\pm$42 pc, respectively, while their ages were\nestimated to be 69$\\pm$10 Myr and 1000$\\pm$50 Myr. The metallicity values\n([Fe/H]) were found to be 0.07$\\pm$0.09 dex for Czernik 41 and -0.14$\\pm$0.07\ndex for NGC 1342. The stellar mass functions for both clusters were derived,\nyielding slopes of $\\Gamma$=1.67$\\pm$0.23 for Czernik 41 and $\\Gamma$\n=1.56$\\pm$0.41 for NGC 1342. Kinematic orbit analysis indicates that Czernik 41\noriginated within the Solar circle, whereas NGC 1342 formed outside it.\n",
+      "author": [
+        {
+          "name": "B. Tanik Ozturk"
+        },
+        {
+          "name": "S. Bilir"
+        },
+        {
+          "name": "T. Yontan"
+        },
+        {
+          "name": "O. Plevne"
+        },
+        {
+          "name": "T. Ak"
+        },
+        {
+          "name": "S. Ak"
+        },
+        {
+          "name": "R. Canbay"
+        },
+        {
+          "name": "T. Banks"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "29 pages, including 17 figures, 8 tables accepted for publication in\n  the Astronomical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.05384v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.05384v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2507.05016v1",
       "updated": "2025-07-07T13:56:44Z",
