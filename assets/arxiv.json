@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-09T18:25:15.464Z",
+  "fetched_at": "2025-07-10T01:24:31.032Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.05483v1",
@@ -547,88 +547,6 @@
           }
         }
       ],
-      "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.01312v1",
-      "updated": "2025-07-02T02:56:24Z",
-      "published": "2025-07-02T02:56:24Z",
-      "title": "Spatially Resolving the Fundamental Elements of Reionization in Galaxies",
-      "summary": "  Cosmic reionization marks a critical epoch when the first galaxies ionized\nthe intergalactic medium through the escape of Lyman continuum (LyC) radiation.\nYoung, massive star clusters are believed to be the primary LyC sources, yet\nthe physical mechanisms enabling LyC escape remain poorly understood. Most\nexisting studies rely on spatially integrated observations, which lack the\nresolution to resolve internal galaxy structure and pinpoint where and how LyC\nphotons escape. To address this, we propose a science case for the Habitable\nWorlds Observatory (HWO) that enables spatially resolved spectroscopy of\nLyC-emitting star clusters and their environments in low-redshift galaxies.\nThis requires a UV integral field unit (IFU) with coverage down to ~ 900\nAngstrom and a spatial resolution of 10-100 pc-capabilities essential for\ndirectly detecting LyC escape and mapping the surrounding interstellar medium.\nWith such instrumentation, we will map cluster-scale LyC escape fractions,\ncharacterize the physical conditions of the surrounding interstellar medium,\nand directly observe feedback-driven outflows that facilitate LyC leakage.\nThese observations will enable novel calibrations of indirect LyC indicators at\nunprecedented spatial resolution and establish direct connections between local\nLyC processes and those in high-redshift, clumpy star-forming galaxies. In the\nlong run, this program will build the physical framework needed to understand\nhow galaxies reionized the early universe and shaped its subsequent evolution.\n",
-      "author": [
-        {
-          "name": "Xinfeng Xu"
-        },
-        {
-          "name": "Stephan McCandliss"
-        },
-        {
-          "name": "Allison Strom"
-        },
-        {
-          "name": "Yumi Choi"
-        },
-        {
-          "name": "Annalisa Citro"
-        },
-        {
-          "name": "Håkon Dahle"
-        },
-        {
-          "name": "Matthew J. Hayes"
-        },
-        {
-          "name": "Anne Jaskot"
-        },
-        {
-          "name": "Logan Jones"
-        },
-        {
-          "name": "Gagandeep Kaur"
-        },
-        {
-          "name": "Themiya Nanayakkara"
-        },
-        {
-          "name": "Alexandra Le Reste"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "7 pages, 3 figures, 1 table, to be submitted to 2025 Astronomical\n  Society of the Pacific (ASP)",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.01312v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.01312v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
       "score": 2
     }
   ]
