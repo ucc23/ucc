@@ -1,6 +1,175 @@
 {
-  "fetched_at": "2025-07-14T01:38:40.573Z",
+  "fetched_at": "2025-07-14T06:28:32.905Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.08651v1",
+      "updated": "2025-07-11T14:54:27Z",
+      "published": "2025-07-11T14:54:27Z",
+      "title": "Chemical abundances and small-scale gas kinematics in the local\n  star-forming galaxy NGC 2366",
+      "summary": "  We present a detailed spectroscopic study of ionised gas in the nearby\n(~3.3Mpc) dwarf galaxy NGC 2366, a local analogue of Green Pea galaxies, based\non observations with the SCORPIO-2 instrument at the Russian 6-m BTA telescope.\nUsing scanning Fabry-Perot interferometry and long-slit spectroscopy, we\nexamine the gas kinematics, excitation mechanisms, and chemical abundances\nacross the disc of NGC 2366, including its prominent starburst region Mrk 71\nand the companion region NGC 2363. We identified 20 regions with locally\nelevated Ha velocity dispersion, only four of which correspond to known\nhigh-energy sources. We argue that one of the remaining objects can be a\npreviously unidentified Wolf-Rayet star and two - supernova remnants. For 15\nHII regions, we measure electron temperatures, oxygen and nitrogen abundances\nvia the `direct' Te method, with 12 + log(O/H) ranging from 7.6 to 8.0 in most\nof the regions. We show that Mrk 71 has higher oxygen abundance compared to the\nother \\HII regions in the galaxy, contrary to the previous indirect estimates\nsuggesting flat gradient throughout the galaxy. Together with the localized\nspatial variations of metallicity in the area, it is indicative of metal\nenrichment by the outflow from the super star cluster in the centre of Mrk 71.\n",
+      "author": [
+        {
+          "name": "Anastasiya D. Yarovova"
+        },
+        {
+          "name": "Ivan S. Gerasimov"
+        },
+        {
+          "name": "Oleg V. Egorov"
+        },
+        {
+          "name": "Alexei V. Moiseev"
+        },
+        {
+          "name": "Konstantin I. Vasiliev"
+        },
+        {
+          "name": "Tatiana A. Lozinskaya"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "accepted to MNRAS; 20 pages, 11 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.08651v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.08651v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.08122v1",
+      "updated": "2025-07-10T19:16:04Z",
+      "published": "2025-07-10T19:16:04Z",
+      "title": "The Blue Lurker WOCS 14020: A Long-Period Post-Common-Envelope Binary in\n  M67 Originating from a Merger in a Triple System",
+      "summary": "  We present Hubble Space Telescope far-ultraviolet (FUV) spectra of a\nblue-lurker$-$white-dwarf (BL-WD) binary system in the 4 Gyr open cluster M67.\nWe fit the FUV spectrum of the WD, determining it is a C/O WD with a mass of\n$0.72^{+0.05}_{-0.04}$ M$_\\odot$ and a cooling age of $\\sim400$ Myr. This\nrequires a WD progenitor of $\\sim3$ M$_\\odot$, significantly larger than the\ncurrent cluster turnoff mass of 1.3 M$_\\odot$. We suggest the WD progenitor\nstar formed several hundred Myr ago via the merger of two stars near the\nturnoff of the cluster. In this scenario, the original progenitor system was a\nhierarchical triple consisting of a close, near-equal-mass inner binary, with a\ntertiary companion with an orbit of a few thousand days. The WD is descended\nfrom the merged inner binary, and the original tertiary is now the observed BL.\nThe likely formation scenario involves a common envelope while the WD\nprogenitor is on the AGB, and thus the observed orbital period of 359 days\nrequires an efficient common envelope ejection. The rapid rotation of the BL\nindicates it accreted some material during its evolution, perhaps via a wind\nprior to the common envelope. This system will likely undergo a second common\nenvelope in the future, and thus could result in a short-period double WD\nbinary or merger of a 0.72 M$_\\odot$ C/O WD and a 0.38 $M_\\odot$ Helium WD,\nmaking this a potential progenitor of an interesting transient such as a\nsub-Chandrasekhar Type Ia supernova.\n",
+      "author": [
+        {
+          "name": "Emily M. Leiner"
+        },
+        {
+          "name": "Natalie M. Gosnell"
+        },
+        {
+          "name": "Aaron M. Geller"
+        },
+        {
+          "name": "Meng Sun"
+        },
+        {
+          "name": "Robert D. Mathieu"
+        },
+        {
+          "name": "Alison Sills"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/2041-8213/ad9d0c",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/2041-8213/ad9d0c",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.08122v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.08122v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 3 figures. Published in ApJL, January 2025",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "ApJL, 979, L1 (2025)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2507.07264v1",
       "updated": "2025-07-09T20:18:27Z",
