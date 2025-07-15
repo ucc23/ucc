@@ -1,6 +1,133 @@
 {
-  "fetched_at": "2025-07-15T01:38:45.869Z",
+  "fetched_at": "2025-07-15T06:28:16.091Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.10551v1",
+      "updated": "2025-07-14T17:59:59Z",
+      "published": "2025-07-14T17:59:59Z",
+      "title": "Angular-momentum pairs in spherical systems: applications to the\n  Galactic centre",
+      "summary": "  Consider a system of point masses in a spherical potential. In such systems\nobjects execute planar orbits covering two-dimensional rings or annuli,\nrepresented by the angular-momentum vectors, which slowly reorient due to the\npersistent weak gravitational interaction between different rings. This\nprocess, called vector resonant relaxation, is much faster than other processes\nwhich change the size/shape of the rings. The interaction is stron9gest between\nobjects with closely aligned angular-momentum vectors. In this paper, we show\nthat nearly parallel angular-momentum vectors may form stable bound pairs in\nangular-momentum space. We examine the stability of such pairs against an\nexternal massive perturber, and determine the critical separation analogous to\nthe Hill radius or tidal radius in the three-body problem, where the\nangular-momentum pairs are marginally disrupted, as a function of the\nperturber's mass, the orbital inclination, and the radial distance.\nAngular-momentum pairs or multiples closer than the critical inclination will\nremain bound and evolve together in angular-momentum-direction space under any\nexternal influence, such as anisotropic density fluctuations, or massive\nperturbers. This study has applications in various astrophysical contexts,\nincluding galactic nuclei, in particular the Milky Way's Galactic centre,\nglobular clusters, or planetary systems. In nuclear star clusters with a\ncentral super-massive black hole, we apply this criterion to the disc of young,\nmassive stars, and show that clusters in angular-momentum space may be used to\nconstrain the presence of intermediate-mass black holes or the mass of the\nnearby gaseous torus.\n",
+      "author": [
+        {
+          "name": "Taras Panamarev"
+        },
+        {
+          "name": "Yonadav Barry Ginat"
+        },
+        {
+          "name": "Bence Kocsis"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 9 figures. Submitted",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.10551v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.10551v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.09674v1",
+      "updated": "2025-07-13T15:15:51Z",
+      "published": "2025-07-13T15:15:51Z",
+      "title": "Dynamical traction and black hole orbital migration",
+      "summary": "  We investigate the circumstances which allow a black hole to remain put at\nthe galactic centre when the stellar core is anisotropic. We use N-body\ncalculations to study the response of stellar orbit families embedded in a\nlarger, isotropic isochrone (H\\'enon) background potential. When the BH orbits\nin an odd f[E,Lz] velocity distribution function, they transfer angular\nmomentum to it. We call this dynamical traction: it takes place whenever the\nkinetic energy drawn from f[E,Lz] has an excess of streaming motion over its\n(isotropic) v-dispersion. For a dynamically cold disc, the outcome depends on\nboth the orbit of the BH and that of a Jeans-unstable stellar sub-structures.\nWhen the stellar clumps have much binding energy, a BH may scatter off of them\nafter they formed. In the process the BH may be dislodged from the centre and\nmigrate outward due to dynamical traction. When the stellar clumps are less\nbound, they may still migrate to the centre where they either dissolve or merge\nwith the BH. The final configuration is similar to a nuclear star cluster which\nmay yet be moving at ~10 km/s wrt the barycentre.\n  The angular momentum transferred to a BH by dynamical traction delays the\nmigration to the galactic centre by several hundred million years. The\nefficiency of angular momentum transfer is a strong function of the fragmented\n(cold) state of the stellar space density. In a dynamically cold environment, a\nBH is removed from the central region through a two-stage orbital migration\ninstability. A criterion against this instability is proposed in the form of a\nthreshold in isotropic velocity dispersion compared to streaming motion. For a\nBH to settle at the heart of a galaxy on time-scales of ~ 300 Myr or less\nrequires that a large fraction of Lz be dissipated, or, alternatively, that the\nBH grows in situ in an isotropic environment devoid of sub-structures.\n",
+      "author": [
+        {
+          "name": "C. M. Boily"
+        },
+        {
+          "name": "T. L. François"
+        },
+        {
+          "name": "J. Freundlich"
+        },
+        {
+          "name": "F. Combes"
+        },
+        {
+          "name": "A. -L. Melchior"
+        },
+        {
+          "name": "Y. Hénin"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 4 appendices, to appear in A & A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.09674v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.09674v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2507.08651v1",
       "updated": "2025-07-11T14:54:27Z",
