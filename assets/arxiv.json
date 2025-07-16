@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-15T18:26:46.925Z",
+  "fetched_at": "2025-07-16T01:26:26.613Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.10551v1",
@@ -406,6 +406,117 @@
       "score": 10.5
     },
     {
+      "id": "http://arxiv.org/abs/2507.07264v2",
+      "updated": "2025-07-15T16:22:58Z",
+      "published": "2025-07-09T20:18:27Z",
+      "title": "The Open Cluster Chemical Abundances and Mapping Survey: VIII. Galactic\n  Chemical Gradient and Azimuthal Analysis from SDSS/MWM DR19",
+      "summary": "  The Open Cluster Chemical Abundances and Mapping (OCCAM) survey seeks to\ncurate a large, comprehensive, uniform dataset of open clusters and member\nstars to constrain key Galactic parameters. This eighth entry from the OCCAM\nsurvey, based on the newly released SDSS-V/MWM Data Release 19 (DR19), has\nestablished a sample of 164 high quality open clusters that are used to\nconstrain the radial and azimuthal gradients of the Milky Way. The DR19 cluster\nsample [Fe/H] abundances are roughly consistent with measurements from other\nlarge-scale spectroscopic surveys. However, the gradients we calculate deviate\nconsiderably for some elements. We find an overall linear Galactic radial\n[Fe/H] gradient of $-0.075 \\pm 0.006$ dex kpc$^{-1}$ using the cluster's\ncurrent Galactocentric Radius ($R_{GC}$) and a gradient of $-0.068 \\pm 0.005$\ndex kpc$^-1$ with respect to the cluster's guiding center radius. We do not\nfind strong evidence for significant evolution of the differential element\ngradients ([X/Fe]) investigated here (O, Mg, Si, S, Ca, Ti, Cr, Mn, Fe, Co, Ni,\nNa, Al, K, Ce, Nd). For the first time using the OCCAM sample we have\nsufficient numbers of clusters to investigate Galactic azimuthal variations. In\nthis work, we do find evidence of azimuthal variations in the measured radial\nabundance gradient in the Galactic disk using our open cluster sample.\n",
+      "author": [
+        {
+          "name": "Jonah M. Otto"
+        },
+        {
+          "name": "Peter M Frinchaboy"
+        },
+        {
+          "name": "Natalie R. Myers"
+        },
+        {
+          "name": "James W. Johnson"
+        },
+        {
+          "name": "John Donor"
+        },
+        {
+          "name": "Ahabar Hossain"
+        },
+        {
+          "name": "Szabolcs Mészáros"
+        },
+        {
+          "name": "Halley Walace"
+        },
+        {
+          "name": "Katia Cunha"
+        },
+        {
+          "name": "Binod Bhattarai"
+        },
+        {
+          "name": "Gail Zasowski"
+        },
+        {
+          "name": "Sarah R. Loebman"
+        },
+        {
+          "name": "Alessa I. Wiggins"
+        },
+        {
+          "name": "Adrian M. Price-Whelan"
+        },
+        {
+          "name": "Taylor Spoo"
+        },
+        {
+          "name": "Diogo Souto"
+        },
+        {
+          "name": "Dmitry Bizyaev"
+        },
+        {
+          "name": "Kaike Pan"
+        },
+        {
+          "name": "Andrew K. Saydjari"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "28 pages, 18 figures, 7 tables, submitted to AAS journals",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.07264v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.07264v2",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 10.5
+    },
+    {
       "id": "http://arxiv.org/abs/2507.07183v1",
       "updated": "2025-07-09T18:00:07Z",
       "published": "2025-07-09T18:00:07Z",
@@ -476,99 +587,6 @@
         }
       ],
       "score": 8
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.06311v1",
-      "updated": "2025-07-08T18:02:41Z",
-      "published": "2025-07-08T18:02:41Z",
-      "title": "Dating N loud AGNs at high redshift: GS3073 as a snapshot of wCen like\n  evolution of a nuclear star cluster",
-      "summary": "  In this paper we address two major questions raised by recent James Webb\nSpace Telescope observations of the young Universe, namely: 1) what are the\nseed initial masses, and how rapidly have supermassive black holes (BHs) with\nmasses of 1e6-1e8Msun grown in active galactic nuclei (AGN) hosted by very\nyoung galaxies? 2) What are the plausible explanations for the super solar\nabundances of nitrogen in a fraction of young galaxies at high redshift, both\nwith and without evidence of a massive central black hole? We focus mainly on\nthe system GS3073. This system shows an exceptionally large\nlog(N/O)=+0.42(+0.13/-0.10) in the gas close to the AGN. We show here that this\nabundance is consistent with the composition of gas ejected from massive\nasymptotic giant branch stars. Moreover, this system shows chemical properties\nmatching those expected at a specific point of the evolution of the abundances\nin the extreme populations of the former nuclear star cluster wCentauri (wCen).\nThis analogy, along with the N/O, C/O and Fe/O abundances in GS3073, lead to an\nestimate of an age range of 270-440 Myr for this object, much smaller than the\nredshift (z=5.5) age of about 1 Gyr. We also adopt the same criteria to\nestimate an age for GNz11. These two determinations constrain the BH mass\nversus age relation: accretion on the BH must proceed at intermittent\nsuperEddington rates in the first phases, and at a much lower rate after the\nfirst half gigayear of life of the Universe. The intermittency of accretion is\nalso a fundamental requirement to allow the formation of the extreme (N rich, O\ndepleted, He rich) populations today observed in wCen for a large range of\nmetallicities.\n",
-      "author": [
-        {
-          "name": "F. D'Antona"
-        },
-        {
-          "name": "P. Ventura"
-        },
-        {
-          "name": "A. F. Marino"
-        },
-        {
-          "name": "A. P. Milone"
-        },
-        {
-          "name": "E. Vesperini"
-        },
-        {
-          "name": "F. Calura"
-        },
-        {
-          "name": "M. Tailo"
-        },
-        {
-          "name": "R. Valiante"
-        },
-        {
-          "name": "V. Caloi"
-        },
-        {
-          "name": "A. D'Ercole"
-        },
-        {
-          "name": "F. Dell'Agli"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "12 pages, 5 figures, Astronomy and Astrophysics accepted",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.06311v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.06311v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.CO",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.CO",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 4
     }
   ]
 }
