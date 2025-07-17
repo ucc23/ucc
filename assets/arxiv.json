@@ -1,6 +1,145 @@
 {
-  "fetched_at": "2025-07-17T01:27:37.897Z",
+  "fetched_at": "2025-07-17T06:27:24.133Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.11684v1",
+      "updated": "2025-07-15T19:39:06Z",
+      "published": "2025-07-15T19:39:06Z",
+      "title": "The evolution of a supermassive binary black hole in an non-spherical\n  nuclear star cluster",
+      "summary": "  (abridged) We consider a secular orbital evolution of a supermassive binary\nblack hole (SBBH) with unequal masses $M_p$ and $M_s < M_p$ in a central part\nof a non-spherical nuclear star cluster (NSC). When the mass of NSC inside the\norbit is smaller than $M_{s}$ dynamical friction becomes inefficient. The\nsubsequent orbital evolution of SBBH is largely governed by perturbing tidal\npotential of NSC arising from its non-sphericity. When the perturbing potential\nis mainly determined by quadrupole harmonics with azimuthal number $|m|=2$ the\nsecular dynamics of the SBBH does not conserve any components of the angular\nmomentum and can lead to the formation of highly eccentric orbits. Such orbits\ncan experience an efficient circularization due to emission of gravitational\nwaves (GW). In this Paper we consider this situation in some detail. We study\nanalytically and numerically the orbital evolution taking into account the\nimportant effect of Einstein apsidal precession and estimate the largest\npossible value of $e$, which can be obtained. We then estimate a possibility of\nfast orbital circularization through emission of gravitation waves on a highly\neccentric orbit, with circularization timescale of the order of the orbital\nperiod. We find that our mechanism could result in such events on a time scale\nof the order of or smaller than a few Gyr. It is stressed that for particular\nvalues of the model parameters such events may sometimes be distinguished from\nthe ones expected in more standard scenarios, since in our case the\neccentricity may remain substantial all the way down to the final merger. It is\nalso noted that our results can be applied to other astrophysical settings,\ne.g. to study the orbital evolution of a binary star or a proto planetary\nsystem inside a massive deformed gas cloud.\n",
+      "author": [
+        {
+          "name": "Pavel B. Ivanov"
+        },
+        {
+          "name": "Alexander G. Polnarev"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1103/mb3k-z5b9",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1103/mb3k-z5b9",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.11684v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.11684v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "to be published in PRD",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.11609v1",
+      "updated": "2025-07-15T18:00:01Z",
+      "published": "2025-07-15T18:00:01Z",
+      "title": "Stephenson 2 DFK 52: Discovery of an exotic red supergiant in the\n  massive stellar cluster RSGC2",
+      "summary": "  Atacama Large Millimeter/submillimeter Array (ALMA) observations at 1.3mm\nhave recently revealed surprising complexity in the circumstellar environment\nof DFK 52, a red supergiant (RSG) located in the Stephenson 2 massive open\ncluster. We provide an initial characterisation of the star's mass-loss\nproperties by studying its circumstellar emission in continuum, $^{12}$CO,\n$^{13}$CO, and SiO rotational lines. We find that DFK 52 is surrounded by an\nextremely large outflow (up to 50,000 au in radius) that shows complex\nmorphologies in both its molecular and dust emission. The size of the\ncircumstellar medium is unprecedented, even when compared with other known\nextreme RSGs, and its lower luminosity indicates that its mass ejection\nmechanism may be unique among this population. The molecular emission can be\npartially reproduced by a two-component model consisting of a fast (27 km/s)\ndetached equatorial component with $M{\\sim}0.05$ $M_{\\odot}$ and a slow (10\nkm/s) spherical envelope with $\\dot{M}\\sim3\\times10^{-6}$ $M_{\\odot}$\nyr$^{-1}$. This suggests that DFK 52 underwent a dramatic mass-loss event\n$\\sim$4000 years ago, but has since transitioned into having a slower more\nsymmetric mass loss. We conservatively estimate a total mass of $0.1-1$\n$M_{\\odot}$ in the complex extended regions of the outflow. The uncertain\nnature of the dramatic mass loss warrants extensive follow-up of this likely\nsupernova progenitor.\n",
+      "author": [
+        {
+          "name": "Mark A. Siebert"
+        },
+        {
+          "name": "Elvire De Beck"
+        },
+        {
+          "name": "Guillermo Quintana-Lacaci"
+        },
+        {
+          "name": "Wouter Vlemmings"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "7 pages, 6 figures (with appendices). Accepted for publication as a\n  Letter to the Editor in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.11609v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.11609v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 3
+    },
     {
       "id": "http://arxiv.org/abs/2507.10551v1",
       "updated": "2025-07-14T17:59:59Z",
