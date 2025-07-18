@@ -1,6 +1,378 @@
 {
-  "fetched_at": "2025-07-18T01:27:08.165Z",
+  "fetched_at": "2025-07-18T06:27:28.686Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.13349v1",
+      "updated": "2025-07-17T17:59:55Z",
+      "published": "2025-07-17T17:59:55Z",
+      "title": "The Star Formation History and Evolution of the Ultra-Diffuse M81\n  Satellite, F8D1",
+      "summary": "  We present deep HST imaging of one of the nearest ultra-diffuse galaxies\n(UDGs) outside of the Local Group: F8D1, a satellite of M81 known to be tidally\ndisrupting. UDGs are an enigmatic and diverse population, with evolutionary\npathways ranging from tidal processing to bursty feedback and high initial\nangular momentum. To determine F8D1's evolutionary drivers, we resolve stars in\nF8D1's central $\\sim$1 kpc and in a parallel field $\\sim$6 kpc along its major\naxis to deep photometric limits, reaching below the Red Clump. We also image\neight shallower fields along F8D1's major and minor axes. We calculate the star\nformation history (SFH) in the two deep fields, finding that while currently\nquiescent, both regions experienced a substantial burst $\\sim$2 Gyr ago and a\nsmaller burst $\\sim$500 Myr ago, which likely formed F8D1's nuclear star\ncluster. In the shallow fields, using the ratio of evolved Asymptotic Giant\nBranch and Red Giant Branch stars out to $\\sim$13 kpc along F8D1's known\nstellar stream, we confirm that F8D1 was globally star-forming until at least 2\nGyr ago. We estimate a total progenitor stellar mass, including the stream, of\n$\\sim$1.3$\\times$10$^8\\ M_{\\odot}$, with an average [M/H] $\\sim$ $-$0.8. We\ncompare F8D1's properties to those of Local Group galaxies with similar initial\nstellar mass. We find that F8D1 is consistent with a progenitor star-forming\ngalaxy similar to NGC 6822, which is in the midst of a transition to a\nSagittarius-like system. Notably, this evolutionary sequence can be\naccomplished through tidal processing alone, in galaxies that have experienced\nsufficiently bursty feedback to create cored profiles.\n",
+      "author": [
+        {
+          "name": "Adam Smercina"
+        },
+        {
+          "name": "Eric F. Bell"
+        },
+        {
+          "name": "Benjamin F. Williams"
+        },
+        {
+          "name": "Benjamin N. Velguth"
+        },
+        {
+          "name": "Sarah Pearson"
+        },
+        {
+          "name": "Jeremy Bailin"
+        },
+        {
+          "name": "Tsang Keung Chan"
+        },
+        {
+          "name": "Julianne J. Dalcanton"
+        },
+        {
+          "name": "Roelof S. de Jong"
+        },
+        {
+          "name": "Richard D'Souza"
+        },
+        {
+          "name": "Andrew Dolphin"
+        },
+        {
+          "name": "Puragra Guhathakurta"
+        },
+        {
+          "name": "Kristen B. W. McQuinn"
+        },
+        {
+          "name": "Antonela Monachesi"
+        },
+        {
+          "name": "Colin T. Slater"
+        },
+        {
+          "name": "Elisa Toloba"
+        },
+        {
+          "name": "Daniel R. Weisz"
+        },
+        {
+          "name": "Andrew Wetzel"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "27 pages, 14 figures, 5 tables; submitted to The Astrophysical\n  Journal; comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.13349v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.13349v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.13232v1",
+      "updated": "2025-07-17T15:42:28Z",
+      "published": "2025-07-17T15:42:28Z",
+      "title": "Unraveling the Feedback-Regulated Star Formation Activities around the\n  Expanding Galactic MIR Bubble [HKS2019] E71",
+      "summary": "  We explore the physical environment of the Galactic mid-infrared (MIR) bubble\n[HKS2019] E71 (hereafter E71) through a multi-wavelength approach. E71 is\nlocated at the edge of a filamentary structure, as traced in Herschel images\n(250-500 $\\mu$m), Herschel column density map, and molecular maps in the\nvelocity range [-20,-14] km/s. It hosts a stellar cluster (radius~1.26 pc,\ndistance~1.81+/-0.15 kpc) associated with radio continuum emission, including a\ncentrally positioned B1.5-type massive star (hereafter 'm2'), along with an\nenhanced population of evolved low-mass stars and young stellar objects. MIR\nimages and molecular line maps reveal a PDR surrounding 'm2', exhibiting an\narc-like structure along the edges of E71. Regularly spaced molecular and dust\ncondensations are identified along this structure. The position-velocity map of\n12CO emission suggests an expansion of molecular gas concentrated at the\nperiphery of E71. Near-infrared spectroscopic observations with TANSPEC confirm\nthe presence of the accretion process in a massive young stellar object (MYSO)\nlocated near the edge of the bubble. High-resolution uGMRT radio continuum maps\nuncover substructures in the ionized emission, both toward the MYSO and the\ncenter of E71. These findings support that 'm2' has shaped an arc-like\nmorphology through its feedback processes. The pressure exerted by 'm2' and the\nvelocity structure of the 12/13CO(1-0) emission suggest that the stellar\nfeedback has likely driven out molecular material, leading to the formation of\nthe expanding E71 bubble. Our overall investigation infers that the \"collect\nand collapse\" process might be a possible mechanism that can describe the\nongoing star formation activities around the E71 bubble.\n",
+      "author": [
+        {
+          "name": "Aayushi Verma"
+        },
+        {
+          "name": "Saurabh Sharma"
+        },
+        {
+          "name": "Lokesh K. Dewangan"
+        },
+        {
+          "name": "Tarak Chand"
+        },
+        {
+          "name": "Ariful Hoque"
+        },
+        {
+          "name": "Devendra K. Ojha"
+        },
+        {
+          "name": "Harmeen Kaur"
+        },
+        {
+          "name": "Ram Kesh Yadav"
+        },
+        {
+          "name": " Mamta"
+        },
+        {
+          "name": "Manojit Chakraborty"
+        },
+        {
+          "name": "Archana Gupta"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "28 pages, 15 figures, and 5 tables; Accepted for publication in The\n  Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.13232v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.13232v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.13069v1",
+      "updated": "2025-07-17T12:36:03Z",
+      "published": "2025-07-17T12:36:03Z",
+      "title": "A kinematic and structural study of young open clusters in the Milky Way\n  Galaxy using Gaia DR3 catalogue",
+      "summary": "  We aim to identify the cluster members, estimate cluster properties, study\nthe dynamical state of the clusters as a function of mass, trace the existence\nof dynamical effects in massive stars, and check for spatial patterns of\nmembers in young clusters. We studied 14 young open clusters located within 1\nkpc using the data from Gaia DR3 with the membership estimated using the GMM\nmethod. The cluster parameters such as age, distance, metallicity, and\nextinction were estimated by fitting PARSEC isochrones to the CMDs. These\nclusters are found to have ages between 6-90 Myr, located between 334-910 pc,\ncovering a mass range, of 0.13 to 13.77 solar mass. In five of these clusters,\nstars from F to M spectral type show increasing velocity dispersion, a\nsignature for dynamical relaxation. We detect high proper motion for B and\nA-type stars, possible walkaway stars in the other five clusters, Alessi\nTeutsch 5, ASCC 16, ASCC 21, IC 2395, and NGC 6405. We demonstrate the\nexistence of mass-dependent velocity dispersion in young clusters suggestive of\ndynamical relaxation. The typical range of transverse velocity dispersion is\nfound to be 0.40 - 0.70 km/s for young clusters.\n",
+      "author": [
+        {
+          "name": "Harsha K. H."
+        },
+        {
+          "name": "Annapurni Subramaniam"
+        },
+        {
+          "name": "S. R. Dhanush"
+        },
+        {
+          "name": "Hariharan D. S"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.13069v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.13069v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.13009v1",
+      "updated": "2025-07-17T11:29:19Z",
+      "published": "2025-07-17T11:29:19Z",
+      "title": "Hadronic acceleration in the young star cluster NGC 6611 inside the M16\n  region unveiled by Fermi-LAT: constraints on the acceleration efficiency",
+      "summary": "  Context. Young Massive Star Clusters, long considered as potentially\nimportant sources of galactic cosmic rays, have recently emerged as gamma-ray\nemitters up to very high energies. Aims. In order to quantify the contribution\nof this source class to the pool of Galactic CRs, we need to estimate the\ntypical acceleration efficiency of these systems. Methods. We search for\nemission in the GeV band, as most of the energy is emitted in this band. We\nperform an analysis of Fermi-LAT data collected towards the M16 region, a\nstar-forming region also known as the Eagle Nebula, which hosts the Young\nMassive Star Cluster NGC 6611. We model the acceleration at the stellar wind\ntermination shock and the propagation through the wind-blown bubble to derive\nthe energetics of the process and interpret the GeV observations. Results. We\nfind significant GeV emission in correspondence of a molecular cloud associated\nto the Young Massive Star Cluster NGC 6611. We interpret this as hadronic\nemission associated to particle accelerated at the cluster wind termination\nshock and propagated through the low-density wind-excavated bubble to the\ncloud. Our modeling allows us to put firm constraints on the acceleration\nefficiency in NGC 6611, assessing it between $\\sim$ 1 % and $\\sim$ 4 %.\n",
+      "author": [
+        {
+          "name": "Giada Peron"
+        },
+        {
+          "name": "Stefano Menchiari"
+        },
+        {
+          "name": "Giovanni Morlino"
+        },
+        {
+          "name": "Elena Amato"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Prepared for submission to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.13009v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.13009v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.12702v1",
+      "updated": "2025-07-17T00:33:07Z",
+      "published": "2025-07-17T00:33:07Z",
+      "title": "Bar-driven Streaming Motions Mimic a Massive Bulge in the Inner Milky\n  Way",
+      "summary": "  The circular speed curve of the Milky Way provides a key constraint on its\nmass distribution, reflecting the axisymmetric component of the gravitational\npotential. This is especially critical in the inner Galaxy ($R \\lesssim 4$\nkpc), where non-axisymmetric structures such as the stellar bar and nuclear\nstellar disk strongly influence dynamics. However, significant discrepancies\nremain between circular speed curves inferred from stellar dynamical modeling\nand those derived from the terminal-velocity method applied to gas kinematics.\nTo investigate this, we perform three-dimensional hydrodynamic simulations\nincluding cooling, heating, star formation, and feedback, under a realistic\ngravitational potential derived from stellar dynamical models calibrated to\nobservational data. This potential includes the Galactic bar, stellar disks,\ndark matter halo, nuclear stellar disk, and nuclear star cluster. We generate\nsynthetic longitude-velocity ($l$-$v$) diagrams and apply the terminal-velocity\nmethod to derive circular speeds. The simulated gas reproduces the observed\nterminal-velocity envelope, including a steep inner rise. We find this feature\narises from bar-driven non-circular motions, which cause the terminal-velocity\nmethod to overestimate circular speeds by up to a factor of 2 at $R \\sim 0.4$\nkpc, and enclosed mass by up to a factor of 4. These results suggest that inner\ngas-based rotation curves can significantly overestimate central mass\nconcentrations. The steep inner rise in gas-derived circular speeds does not\nrequire a massive classical bulge but can be explained by bar-induced streaming\nmotions. Rather than proposing a new mechanism, our study provides a clear,\nMilky Way-specific demonstration of this effect, emphasizing the importance of\ndynamical modeling that explicitly includes non-circular motions for accurate\nmass inference in the inner Milky Way.\n",
+      "author": {
+        "name": "Junichi Baba",
+        "arxiv:affiliation": {
+          "_": "Kagoshima U./NAOJ",
+          "$": {
+            "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+          }
+        }
+      },
+      "arxiv:comment": {
+        "_": "accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.12702v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.12702v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2507.11684v1",
       "updated": "2025-07-15T19:39:06Z",
