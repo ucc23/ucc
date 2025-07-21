@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-20T18:23:44.958Z",
+  "fetched_at": "2025-07-21T01:41:35.384Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.13349v1",
@@ -172,12 +172,20 @@
           "scheme": "http://arxiv.org/schemas/atom"
         }
       },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
         }
-      },
+      ],
       "score": 0.5
     },
     {
@@ -573,70 +581,6 @@
           }
         }
       ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.09674v1",
-      "updated": "2025-07-13T15:15:51Z",
-      "published": "2025-07-13T15:15:51Z",
-      "title": "Dynamical traction and black hole orbital migration",
-      "summary": "  We investigate the circumstances which allow a black hole to remain put at\nthe galactic centre when the stellar core is anisotropic. We use N-body\ncalculations to study the response of stellar orbit families embedded in a\nlarger, isotropic isochrone (H\\'enon) background potential. When the BH orbits\nin an odd f[E,Lz] velocity distribution function, they transfer angular\nmomentum to it. We call this dynamical traction: it takes place whenever the\nkinetic energy drawn from f[E,Lz] has an excess of streaming motion over its\n(isotropic) v-dispersion. For a dynamically cold disc, the outcome depends on\nboth the orbit of the BH and that of a Jeans-unstable stellar sub-structures.\nWhen the stellar clumps have much binding energy, a BH may scatter off of them\nafter they formed. In the process the BH may be dislodged from the centre and\nmigrate outward due to dynamical traction. When the stellar clumps are less\nbound, they may still migrate to the centre where they either dissolve or merge\nwith the BH. The final configuration is similar to a nuclear star cluster which\nmay yet be moving at ~10 km/s wrt the barycentre.\n  The angular momentum transferred to a BH by dynamical traction delays the\nmigration to the galactic centre by several hundred million years. The\nefficiency of angular momentum transfer is a strong function of the fragmented\n(cold) state of the stellar space density. In a dynamically cold environment, a\nBH is removed from the central region through a two-stage orbital migration\ninstability. A criterion against this instability is proposed in the form of a\nthreshold in isotropic velocity dispersion compared to streaming motion. For a\nBH to settle at the heart of a galaxy on time-scales of ~ 300 Myr or less\nrequires that a large fraction of Lz be dissipated, or, alternatively, that the\nBH grows in situ in an isotropic environment devoid of sub-structures.\n",
-      "author": [
-        {
-          "name": "C. M. Boily"
-        },
-        {
-          "name": "T. L. François"
-        },
-        {
-          "name": "J. Freundlich"
-        },
-        {
-          "name": "F. Combes"
-        },
-        {
-          "name": "A. -L. Melchior"
-        },
-        {
-          "name": "Y. Hénin"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "20 pages, 4 appendices, to appear in A & A",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.09674v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.09674v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
       "score": 1
     }
   ]
