@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-21T18:27:23.400Z",
+  "fetched_at": "2025-07-22T01:27:41.384Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.13904v1",
@@ -641,69 +641,6 @@
         }
       ],
       "score": 3
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.10551v1",
-      "updated": "2025-07-14T17:59:59Z",
-      "published": "2025-07-14T17:59:59Z",
-      "title": "Angular-momentum pairs in spherical systems: applications to the\n  Galactic centre",
-      "summary": "  Consider a system of point masses in a spherical potential. In such systems\nobjects execute planar orbits covering two-dimensional rings or annuli,\nrepresented by the angular-momentum vectors, which slowly reorient due to the\npersistent weak gravitational interaction between different rings. This\nprocess, called vector resonant relaxation, is much faster than other processes\nwhich change the size/shape of the rings. The interaction is stron9gest between\nobjects with closely aligned angular-momentum vectors. In this paper, we show\nthat nearly parallel angular-momentum vectors may form stable bound pairs in\nangular-momentum space. We examine the stability of such pairs against an\nexternal massive perturber, and determine the critical separation analogous to\nthe Hill radius or tidal radius in the three-body problem, where the\nangular-momentum pairs are marginally disrupted, as a function of the\nperturber's mass, the orbital inclination, and the radial distance.\nAngular-momentum pairs or multiples closer than the critical inclination will\nremain bound and evolve together in angular-momentum-direction space under any\nexternal influence, such as anisotropic density fluctuations, or massive\nperturbers. This study has applications in various astrophysical contexts,\nincluding galactic nuclei, in particular the Milky Way's Galactic centre,\nglobular clusters, or planetary systems. In nuclear star clusters with a\ncentral super-massive black hole, we apply this criterion to the disc of young,\nmassive stars, and show that clusters in angular-momentum space may be used to\nconstrain the presence of intermediate-mass black holes or the mass of the\nnearby gaseous torus.\n",
-      "author": [
-        {
-          "name": "Taras Panamarev"
-        },
-        {
-          "name": "Yonadav Barry Ginat"
-        },
-        {
-          "name": "Bence Kocsis"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "23 pages, 9 figures. Submitted",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.10551v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.10551v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.IM",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1
     }
   ]
 }
