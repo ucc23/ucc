@@ -1,6 +1,254 @@
 {
-  "fetched_at": "2025-07-22T01:27:41.384Z",
+  "fetched_at": "2025-07-22T06:27:36.839Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.15122v1",
+      "updated": "2025-07-20T21:05:01Z",
+      "published": "2025-07-20T21:05:01Z",
+      "title": "Stellar Population Astrophysics (SPA) with the TNG: NLTE atmospheric\n  parameters and abundances of giant stars in 33 Open Clusters",
+      "summary": "  Open clusters serve as important tools for accurately studying the chemical\nevolution of the Milky Way. By combining precise chemical data from\nhigh-resolution spectra with information on their distances and ages, we can\neffectively uncover the processes that have shaped our Galaxy. This study aims\nto derive NLTE atmospheric parameters and chemical abundances for approximately\none hundred giant stars across 33 open clusters with near-solar metallicity.\nThe clusters span a wide range of ages, enabling an assessment of the presence\nand extent of any age-related abundance gradients. In the Stellar Population\nAstrophysics (SPA) project, we acquired new high-resolution spectra of open\nclusters using the HARPS-N echelle spectrograph at the Telescopio Nazionale\nGalileo. We chemically characterized nine open clusters for the first time and\nreanalyzed previously studied SPA clusters, resulting in a consistent and\nhomogeneous sample. We determined NLTE atmospheric parameters using the\nequivalent width method and derived NLTE chemical abundances through spectral\nsynthesis for various elements, including alpha elements (Mg, Si, and Ti),\nlight odd-Z elements (Na, Al), iron-peak elements (Mn, Co, and Ni), and\nneutron-capture elements (Sr, Y, and Eu). Our findings are compared with the\nexisting literature, revealing good agreement. We examine the trends of [X/Fe]\nversus age, confirming previous observations and the enrichment patterns\npredicted by nucleosynthesis processes. Positive correlations with age are\npresent for Mg, Si, Ti, Al, Mn, Co, Ni, and Sr, while Na and Y and Eu show a\nnegative trend. This study emphasizes the significance of NLTE corrections and\nreinforces the utility of open clusters as tracers of Galactic chemical\nevolution. Furthermore, we provide a benchmark sample of NLTE abundances for\nupcoming open cluster surveys within large-scale projects such as 4MOST and\nWEAVE.\n",
+      "author": [
+        {
+          "name": "M. Dal Ponte"
+        },
+        {
+          "name": "V. D'Orazi"
+        },
+        {
+          "name": "A. Bragaglia"
+        },
+        {
+          "name": "A. R. Casey"
+        },
+        {
+          "name": "N. Storm"
+        },
+        {
+          "name": "L. Spina"
+        },
+        {
+          "name": "J. Alonso-Santiago"
+        },
+        {
+          "name": "G. Andreuzzi"
+        },
+        {
+          "name": "A. Frasca"
+        },
+        {
+          "name": "J. Kos"
+        },
+        {
+          "name": "S. Lucatello"
+        },
+        {
+          "name": "D. Romano"
+        },
+        {
+          "name": "A. Vallenari"
+        },
+        {
+          "name": "N. Vernekar"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 12 figures, Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.15122v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.15122v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 13.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.14933v1",
+      "updated": "2025-07-20T12:08:48Z",
+      "published": "2025-07-20T12:08:48Z",
+      "title": "Simple model of violent relaxation of a spherical stellar system",
+      "summary": "  A spherical system with arbitrary mean velocities in the radial and\ntransverse directions, but with zero dispersion of radial velocities, is\nconsidered as a model describing the violent relaxation of star clusters and\ngalaxies. The model allows to reduce the infinite chain of Jeans' equations of\nmoments to just three hydrodynamic equations. The found system of equations is\nconsistent with the law of conservation of energy and the virial equation. This\npart of the work is devoted to a general description of the model, then the\ncalculation results will be presented.\n",
+      "author": {
+        "name": "V. Yu. Terebizh"
+      },
+      "arxiv:comment": {
+        "_": "9 pages, No figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.14933v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.14933v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "A.0",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.14433v1",
+      "updated": "2025-07-19T02:02:34Z",
+      "published": "2025-07-19T02:02:34Z",
+      "title": "The impact of stellar rotations and binaries on the shape of upper main\n  sequence near turn off in open cluster NGC\\,6067",
+      "summary": "  We present the analysis of the extended Main Sequence Turn-Off (eMSTO) in the\nopen cluster NGC\\,6067. We derive the projected rotational velocity,\n\\textit{v}sin\\textit{i}, of the stars belonging to the eMSTO region of the main\nsequence (MS) utilizing \\textit{Gaia}-ESO spectra. Our results reveal a\npositive correlation between \\textit{v}sin\\textit{i} and the color of eMSTO\nstars, where fast-rotating stars predominantly occupy the red part of the MS\nwhile slow-rotating ones prefer a bluer side of the MS. The gravity-darkening\neffect might be a reason for this correlation. We find that most of the close\nbinaries present in the eMSTO population would be slow-rotating due to the\ntidal-locking phenomenon. We identify four double-lined spectroscopic binaries\n(SB2) featuring slow-rotating companions, further supporting this tidal-locking\nhypothesis. However, the spatial distribution and the cumulative radial\ndistribution indicate a higher concentration of red eMSTO stars in the\ncluster's central region than their bluer counterparts. This suggests that\ntidal locking is less likely to be the cause of the observed spread in rotation\nrates among eMSTO stars. Instead, we propose that star-disk interactions during\nthe pre-main-sequence phase might have played a crucial role in spreading the\nrotation rates of stars, leading to the eMSTO phenomenon in NGC\\,6067.\n",
+      "author": [
+        {
+          "name": "Jayanand Maurya"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Sebastian Kamann"
+        },
+        {
+          "name": "Hubiao Niu"
+        },
+        {
+          "name": "Yves Frémat"
+        },
+        {
+          "name": "Kaixiang Lang"
+        },
+        {
+          "name": "Y. C. Joshi"
+        },
+        {
+          "name": "M. R. Samal"
+        },
+        {
+          "name": "Peter De Cat"
+        },
+        {
+          "name": "Ali Esamdin"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/adef40",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/adef40",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.14433v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.14433v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 4 tables, 15 figures, accepted for publication in The\n  Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2507.13904v1",
       "updated": "2025-07-18T13:34:25Z",
