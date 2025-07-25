@@ -1,6 +1,130 @@
 {
-  "fetched_at": "2025-07-25T01:27:25.433Z",
+  "fetched_at": "2025-07-25T06:28:11.276Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.18547v1",
+      "updated": "2025-07-24T16:12:41Z",
+      "published": "2025-07-24T16:12:41Z",
+      "title": "An S-shaped filament formed due to Cloud-Cloud Collision in molecular\n  cloud G178.28-00.61",
+      "summary": "  We present compelling observational evidence supporting G178.28-00.61 as an\nearly-stage candidate for Cloud-Cloud Collision (CCC), with indications of the\nformation of an S-shaped filament, evenly-separated dense cores, and young star\nclusters. The observations of CO molecular line emission demonstrate the\nexistence of two interacting molecular clouds with systemic velocities of 0.8\nkm/s and -1.2 km/s, respectively. The convergence zone of these two clouds\nreveals an S-shaped filament in the JCMT 850 micron continuum image, suggesting\ncloud interaction. In line with expectations from CCC simulations, broad\nbridging features are discernible in the position-velocity diagrams. An\nelevated concentration of identified Class I and II young stellar objects along\nthe filament at the intersection area further supports the hypothesis of a\ncollision-induced origin. This observation could be explained by a recent MHD\nmodel of CCC (Kong et al. 2024), which predicts a similar morphology, scale,\ndensity, and unbound status, as well as the orientation of the polarization.\n",
+      "author": [
+        {
+          "name": "Tianwei Zhang"
+        },
+        {
+          "name": "Tie Liu"
+        },
+        {
+          "name": "Yuefang Wu"
+        },
+        {
+          "name": "Linjing Feng"
+        },
+        {
+          "name": "Sihan Jiao"
+        },
+        {
+          "name": "Derek Ward-Thompson"
+        },
+        {
+          "name": "Alessio Traficante"
+        },
+        {
+          "name": "Helen J Fraser"
+        },
+        {
+          "name": "James Di Francesco"
+        },
+        {
+          "name": "Doug Johnstone"
+        },
+        {
+          "name": "Paul F. Goldsmith"
+        },
+        {
+          "name": "Yasuo Doi"
+        },
+        {
+          "name": "Xunchuan Liu"
+        },
+        {
+          "name": "Chang Won Lee"
+        },
+        {
+          "name": "Fengwei Xu"
+        },
+        {
+          "name": "Ram K. Yadav"
+        },
+        {
+          "name": "Glenn J White"
+        },
+        {
+          "name": "Leonardo Bronfman"
+        },
+        {
+          "name": "Yi-Jehng Kuan"
+        },
+        {
+          "name": "Kee-Tae Kim"
+        },
+        {
+          "name": "Donghui Quan"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4365/adf203",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4365/adf203",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.18547v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.18547v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2507.16146v1",
       "updated": "2025-07-22T01:49:05Z",
