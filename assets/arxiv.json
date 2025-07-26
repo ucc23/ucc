@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-25T18:26:22.387Z",
+  "fetched_at": "2025-07-26T01:25:29.804Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.18547v1",
@@ -661,73 +661,6 @@
         }
       ],
       "score": 6
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.13904v1",
-      "updated": "2025-07-18T13:34:25Z",
-      "published": "2025-07-18T13:34:25Z",
-      "title": "The dynamical evolution of the stellar clumps in the Sparkler galaxy",
-      "summary": "  Recent JWST observations detected stellar clumps around the z=1.4\ngravitationally lensed Sparkler galaxy (of stellar mass $M_*\\sim\n10^9\\,\\mathrm{M_\\odot}$), with ages and metallicities compatible with globular\nclusters (GCs). However, most of their masses ($>10^6\\,\\mathrm{M_\\odot}$) and\nsizes (>30 pc) are about 10 times those of GCs in the local Universe. To assess\nwhether these clumps can evolve into GCs, we performed N-body simulations of\ntheir dynamical evolution from z=1.4 to z=0 (9.23 Gyr), under the effect of\ndynamical friction and tidal stripping. Dynamical friction is studied\nperforming multiple runs of a clump system in a Sparkler-like spherical halo of\nmass $M_{200}\\simeq 5\\times 10^{11}\\,\\mathrm{M_\\odot}$ (from the\nstellar-to-halo mass relation). For the tidal stripping, we simulated resolved\nclumps, orbiting in an external, static gravitational potential including the\nsame halo as in the dynamical friction simulations and also a Sparkler-like\nstellar disk. Dynamical friction causes the clumps with mass\n$>10^7\\,\\mathrm{M_\\odot}$ to sink into the galaxy central regions, possibly\ncontributing to the bulge growth. In absence of tidal stripping, the mass\ndistribution of the surviving clumps (40%) peaks at $5\\times\n10^6\\,\\mathrm{M_\\odot}$, implying the presence of uncommonly over-massive\nclumps at z=0. Tidal shocks by the stellar disk strip considerable mass from\nlow-mass clumps, even though their sizes remain larger than those of\npresent-day GCs. When the surviving clumps are corrected for tidal stripping,\ntheir mass distribution peak shifts to $2\\times 10^6\\,\\mathrm{M_\\odot}$,\ncompatible with massive GCs. Our simulations suggest that a fraction of the\nSparkler clumps is expected to fall into the central regions, where they might\nbecome bulge fossil fragments or contribute to form a nuclear star cluster. The\nremaining clumps are too large in size to be progenitors of GCs.\n",
-      "author": [
-        {
-          "name": "Eric Giunchi"
-        },
-        {
-          "name": "Federico Marinacci"
-        },
-        {
-          "name": "Carlo Nipoti"
-        },
-        {
-          "name": "Adélaïde Claeyssens"
-        },
-        {
-          "name": "Raffaele Pascale"
-        },
-        {
-          "name": "Francesco Calura"
-        },
-        {
-          "name": "Antonio Ragagnin"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "Submitted to A&A; 16 pages, 4 pages of Appendix, 16 figures, 6 tables",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.13904v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.13904v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
     }
   ]
 }
