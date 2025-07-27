@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-26T18:24:18.533Z",
+  "fetched_at": "2025-07-27T01:44:05.197Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.18547v1",
@@ -564,103 +564,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.14433v1",
-      "updated": "2025-07-19T02:02:34Z",
-      "published": "2025-07-19T02:02:34Z",
-      "title": "The impact of stellar rotations and binaries on the shape of upper main\n  sequence near turn off in open cluster NGC\\,6067",
-      "summary": "  We present the analysis of the extended Main Sequence Turn-Off (eMSTO) in the\nopen cluster NGC\\,6067. We derive the projected rotational velocity,\n\\textit{v}sin\\textit{i}, of the stars belonging to the eMSTO region of the main\nsequence (MS) utilizing \\textit{Gaia}-ESO spectra. Our results reveal a\npositive correlation between \\textit{v}sin\\textit{i} and the color of eMSTO\nstars, where fast-rotating stars predominantly occupy the red part of the MS\nwhile slow-rotating ones prefer a bluer side of the MS. The gravity-darkening\neffect might be a reason for this correlation. We find that most of the close\nbinaries present in the eMSTO population would be slow-rotating due to the\ntidal-locking phenomenon. We identify four double-lined spectroscopic binaries\n(SB2) featuring slow-rotating companions, further supporting this tidal-locking\nhypothesis. However, the spatial distribution and the cumulative radial\ndistribution indicate a higher concentration of red eMSTO stars in the\ncluster's central region than their bluer counterparts. This suggests that\ntidal locking is less likely to be the cause of the observed spread in rotation\nrates among eMSTO stars. Instead, we propose that star-disk interactions during\nthe pre-main-sequence phase might have played a crucial role in spreading the\nrotation rates of stars, leading to the eMSTO phenomenon in NGC\\,6067.\n",
-      "author": [
-        {
-          "name": "Jayanand Maurya"
-        },
-        {
-          "name": "Yu Zhang"
-        },
-        {
-          "name": "Sebastian Kamann"
-        },
-        {
-          "name": "Hubiao Niu"
-        },
-        {
-          "name": "Yves Frémat"
-        },
-        {
-          "name": "Kaixiang Lang"
-        },
-        {
-          "name": "Y. C. Joshi"
-        },
-        {
-          "name": "M. R. Samal"
-        },
-        {
-          "name": "Peter De Cat"
-        },
-        {
-          "name": "Ali Esamdin"
-        }
-      ],
-      "arxiv:doi": {
-        "_": "10.3847/1538-4357/adef40",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "title": "doi",
-            "href": "http://dx.doi.org/10.3847/1538-4357/adef40",
-            "rel": "related"
-          }
-        },
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.14433v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.14433v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:comment": {
-        "_": "19 pages, 4 tables, 15 figures, accepted for publication in The\n  Astrophysical Journal",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 6
     }
   ]
 }
