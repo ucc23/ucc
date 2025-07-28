@@ -1,6 +1,416 @@
 {
-  "fetched_at": "2025-07-28T01:42:36.461Z",
+  "fetched_at": "2025-07-28T06:29:40.456Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2507.19312v1",
+      "updated": "2025-07-25T14:26:52Z",
+      "published": "2025-07-25T14:26:52Z",
+      "title": "A hidden link in the LMC star cluster formation history",
+      "summary": "  The age distribution function of star clusters in the Large Magellanic Cloud\n(LMC) is known to present a feature called the cluster age gap, a period of\ntime from ~ 4 to 11 Gyr ago with a remarkable small number of clusters\nidentified. In this work we performed an in-depth analysis of three recently\ncatalogued age gap cluster candidates with the aim of confirming their physical\nnature. We used GEMINI@GMOS g,i photometry centred on the objects to build\ncolour-magnitude diagrams from which we recognised their main features. We also\nperformed an automatic search of stellar overdensities using Gaussian mixture\nmodel techniques and analysed the corresponding colour-magnitude diagrams\nsimilarly as performed for the aforementioned candidates. The present GEMINI\ndata sets would seem to discard any strong evidence of these object being real\nclusters, and rather support the possibility of the result of stellar density\nvariations of the LMC field star distribution. These three objects, in addition\nto other 17 new identified candidates, are placed in the LMC outermost disc in\na limited region toward the southwest from the LMC centre. They had embraced\nthe possibility to answer the long-time conundrum about the absence of LMC age\ngap clusters. From an statistical approach, combined with the knowledge of the\nexpected LMC age-metallicity relationship, and recent simulations of the\ninteraction between the LMC and the Milky Way, we provide not only evidence\nagainst the physical nature of the studied objects, but also an interpretation\non the lack of identification of more LMC age gap clusters.\n",
+      "author": {
+        "name": "Andrés E. Piatti"
+      },
+      "arxiv:comment": {
+        "_": "8 pages, 5 figures. Accepted for publication in MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.19312v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.19312v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.18721v1",
+      "updated": "2025-07-24T18:10:16Z",
+      "published": "2025-07-24T18:10:16Z",
+      "title": "A generalized semi-analytic model for the combined outflow from a\n  cluster of stars with strong stellar winds",
+      "summary": "  We derive semi-analytic solutions for the thermally driven cumulative outflow\nfrom a dense stellar cluster that consists of a large number of stars with\nstrong stellar winds, under the key assumption that their mass and energy\ndeposition can be treated as a continuous source of thermalized wind material.\nOur approach provides explicit analytic forms for the flow critical radius and\nsound speed, which then allows for full solution by inward/outward integration\nfrom this critical radius. Application to previous models that assume either a\npower-law or exponential mass deposition allows a direct comparison of their\nvelocity solutions. We then obtain solutions for new models that have mass\ndepositions with a gaussian or the empirically motivated forms derived by\nPlummer and Elson. Comparisons show that, when cast in terms of the radius\nscaled by the critical radius, the overall velocity laws are all quite similar,\nasymptotically approaching the energy-averaged stellar wind speed $V_w$, and\nanchored to passing through a common critical/sonic speed $v_c = V_w/2$. By\nderiving associated variations in outflow density and temperature, we obtain\nscaling forms for the expected X-ray emission, and show that radiative cooling\ngenerally represents only a small correction to the assumed cooling from\nadiabatic expansion. An initial analysis of incomplete wind thermalization\nsuggests this should likewise have modest effect on the overall outflow in\ndense clusters. The simplified semi-analytic method presented here can be\nreadily applied to alternative mass depositions and so form a basis for\ninterpreting results from detailed numerical simulations of outflows from young\nstellar clusters.\n",
+      "author": {
+        "name": "Stan Owocki"
+      },
+      "arxiv:comment": {
+        "_": "10 pages, 5 figures, accepted by MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.18721v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.18721v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.18705v1",
+      "updated": "2025-07-24T18:00:05Z",
+      "published": "2025-07-24T18:00:05Z",
+      "title": "JWST Spectroscopic Confirmation of the Cosmic Gems Arc at z=9.625 --\n  Insights into the small scale structure of a post-burst system",
+      "summary": "  We present JWST/NIRSpec integral field spectroscopy of the Cosmic Gems arc,\nstrongly magnified by the galaxy cluster SPT-CL J0615$-$5746. Six-hour\nintegration using NIRSpec prism spectroscopy (resolution $\\rm R\\simeq 30-300$),\ncovering the spectral range $0.8-5.3~\\mu m$, reveals a pronounced $\\rm\nLy\\alpha$-continuum break at $\\lambda \\simeq 1.3~\\mu m$, and weak optical $\\rm\nH\\beta$ and $\\rm [OIII]\\lambda4959$ emission lines at $z=9.625\\pm0.002$,\nlocated in the reddest part of the spectrum ($\\lambda > 5.1~\\mu m$). No\nadditional ultraviolet or optical emission lines are reliably detected. A weak\nBalmer break is measured alongside a very blue ultraviolet slope ($\\beta\n\\leq-2.5$, $\\rm F_{\\lambda} \\sim \\lambda^{\\beta}$). Spectral fitting with $\\tt\nBagpipes$ suggests the Cosmic Gems galaxy is in a post-starburst phase, making\nit the highest-redshift system currently observed in a mini-quenched state.\nSpatially resolved spectroscopy at tens pc scales shows relatively uniform\nfeatures across subcomponents of the arc. These findings align well with\nphysical properties previously derived from JWST/NIRCam photometry of the\nstellar clusters, now corroborated by spectroscopic evidence. In particular,\nfive observed star clusters exhibit ages of $\\rm 7-30~Myr$. An updated lens\nmodel constrains the intrinsic sizes and masses of these clusters, confirming\nthey are extremely compact and denser than typical star clusters in local\nstar-forming galaxies. Additionally, four compact stellar systems consistent\nwith star clusters ($\\lesssim10$ pc) are identified along the extended tail of\nthe arc. A sub-parsec line-emitting HII region straddling the critical line,\nlacking a NIRCam counterpart, is also serendipitously detected.\n",
+      "author": [
+        {
+          "name": "M. Messa"
+        },
+        {
+          "name": "E. Vanzella"
+        },
+        {
+          "name": "F. Loiacono"
+        },
+        {
+          "name": "A. Adamo"
+        },
+        {
+          "name": "M. Oguri"
+        },
+        {
+          "name": "K. Sharon"
+        },
+        {
+          "name": "L. D. Bradley"
+        },
+        {
+          "name": "L. Christensen"
+        },
+        {
+          "name": "A. Claeyssens"
+        },
+        {
+          "name": "J. Richard"
+        },
+        {
+          "name": " Abdurro'uf"
+        },
+        {
+          "name": "F. E. Bauer"
+        },
+        {
+          "name": "P. Bergamini"
+        },
+        {
+          "name": "A. Bolamperti"
+        },
+        {
+          "name": "M. Bradač"
+        },
+        {
+          "name": "F. Calura"
+        },
+        {
+          "name": "D. Coe"
+        },
+        {
+          "name": "J. M. Diego"
+        },
+        {
+          "name": "C. Grillo"
+        },
+        {
+          "name": "T. Y-Y. Hsiao"
+        },
+        {
+          "name": "A. K. Inoue"
+        },
+        {
+          "name": "S. Fujimoto"
+        },
+        {
+          "name": "M. Lombardi"
+        },
+        {
+          "name": "M. Meneghetti"
+        },
+        {
+          "name": "T. Resseguier"
+        },
+        {
+          "name": "M. Ricotti"
+        },
+        {
+          "name": "P. Rosati"
+        },
+        {
+          "name": "B. Welch"
+        },
+        {
+          "name": "R. A. Windhorst"
+        },
+        {
+          "name": "X. Xu"
+        },
+        {
+          "name": "E. Zackrisson"
+        },
+        {
+          "name": "A. Zanella"
+        },
+        {
+          "name": "A. Zitrin"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "21 pages (15 figures, 3 tables). Submitted to A&A; see also the\n  companion work Vanzella et al. 2025. Comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.18705v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.18705v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 3.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2507.18699v1",
+      "updated": "2025-07-24T18:00:03Z",
+      "published": "2025-07-24T18:00:03Z",
+      "title": "The z = 9.625 Cosmic Gems Galaxy was a \"Compact Blue Monster\" Propelled\n  by Massive Star Clusters",
+      "summary": "  The recent discovery of five massive stellar clusters at z=9.625 in the\nCosmic Gems has raised the question about the formation mechanism of star\nclusters in the first half Gyr after the Big-Bang. We infer the total stellar\nmass in clusters by normalizing and integrating the stellar cluster mass\nfunction (SCMF, dn(M)/dM ~ (n$_0$) $M^\\beta$), assuming three different slopes\n$\\beta$ = -1.5, -2.0 and -2.5 and different lower-mass limits between $10^2$\nand $10^5$ Msun. The total integrated cluster stellar mass is compared to the\nstellar mass inferred from the counter-image of the Cosmic Gems, which provides\nthe best, modestly magnified ($\\mu$ = 1.84$\\pm$0.05) representation of the\nentire galaxy. The delensed stellar mass of the Cosmic Gems galaxy is estimated\nas 3.5$_{-1.8}^{+3.3}$ x$10^7$ Msun, with an effective radius of Reff =\n103$_{-15}^{+13}$ parsec and a stellar surface mass density of $\\Sigma$mass =\n520$_{-225}^{+340}$ Msun pc$^{-2}$. Accounting for normalization uncertainties\n- including different lensing magnification scenarios for the arc - a modified\nSCMF, combined with a significantly high star cluster formation efficiency\n(approaching 100%), appears to be a necessary condition to explain the\nrelatively short formation timescale of both the star clusters and the\ncounter-image, without exceeding the galaxy's stellar mass. By extrapolating\nthe physical properties at the peak of the burst we find that in its recent\npast (<~ 30 Myr) the Cosmic Gems galaxy has likely experienced a specific star\nformation rate (sSFR) exceeding 25 Gyr$^{-1}$ and luminosity approaching the\n``blue monster'' regime (M$_{UV}$ < -20). Our study provides insights into the\nextreme clustered nature of star formation in early galaxies and shed light\ninto the formation of bound star clusters that might survive to z = 0 as\nglobular clusters, older than 13 Gyr.\n",
+      "author": [
+        {
+          "name": "E. Vanzella"
+        },
+        {
+          "name": "M. Messa"
+        },
+        {
+          "name": "A. Adamo"
+        },
+        {
+          "name": "F. Loiacono"
+        },
+        {
+          "name": "M. Oguri"
+        },
+        {
+          "name": "K. Sharon"
+        },
+        {
+          "name": "L. D. Bradley"
+        },
+        {
+          "name": "P. Bergamini"
+        },
+        {
+          "name": "M. Meneghetti"
+        },
+        {
+          "name": "A. Claeyssens"
+        },
+        {
+          "name": "B. Welch"
+        },
+        {
+          "name": "M. Bradac"
+        },
+        {
+          "name": "A. Zanella"
+        },
+        {
+          "name": "A. Bolamperti"
+        },
+        {
+          "name": "F. Calura"
+        },
+        {
+          "name": "T. Y-Y. Hsiao"
+        },
+        {
+          "name": "E. Zackrisson"
+        },
+        {
+          "name": "M. Ricotti"
+        },
+        {
+          "name": "L. Christensen"
+        },
+        {
+          "name": "J. M. Diego"
+        },
+        {
+          "name": "F. E. Bauer"
+        },
+        {
+          "name": "X. Xu"
+        },
+        {
+          "name": "S. Fujimoto"
+        },
+        {
+          "name": "C. Grillo"
+        },
+        {
+          "name": "M. Lombardi"
+        },
+        {
+          "name": "P. Rosati"
+        },
+        {
+          "name": "T. Resseguier"
+        },
+        {
+          "name": "A. Zitrin"
+        },
+        {
+          "name": "A. Bik"
+        },
+        {
+          "name": "J. Richard"
+        },
+        {
+          "name": " Abdurro'uf"
+        },
+        {
+          "name": "R. Bhatawdekar"
+        },
+        {
+          "name": "D. Coe"
+        },
+        {
+          "name": "B. Frye"
+        },
+        {
+          "name": "A. K. Inoue Y. Jimenez-Teja"
+        },
+        {
+          "name": "C. Norman"
+        },
+        {
+          "name": "J. R. Rigby"
+        },
+        {
+          "name": "M. Trenti"
+        },
+        {
+          "name": "T. Hashimoto"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 8 figures, A&A submitted; see also the companion work Messa\n  et al. 2025b. Comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2507.18699v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2507.18699v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 8
+    },
     {
       "id": "http://arxiv.org/abs/2507.18547v1",
       "updated": "2025-07-24T16:12:41Z",
