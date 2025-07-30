@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-07-29T18:28:15.418Z",
+  "fetched_at": "2025-07-30T01:38:59.874Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.19312v1",
@@ -534,115 +534,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.16146v1",
-      "updated": "2025-07-22T01:49:05Z",
-      "published": "2025-07-22T01:49:05Z",
-      "title": "The VISCACHA survey XIV. Chemical evolution history of the SMC: The\n  Southern Bridge Clusters",
-      "summary": "  The chemical evolution history of the Small Magellanic Cloud (SMC) is complex\nand is best understood through a comprehensive analysis of star clusters across\nits various regions. The VISCACHA survey aims to fully explain the chemical\nevolution of SMC star clusters by analyzing different sub-regions adopted from\nan existing framework. The west halo (WH) region, which contains the oldest and\nmost metal-poor stellar populations, exhibits a clear age-metallicity relation\n(AMR) with minimal dispersion. This region shows a significant dip of ~0.5 dex\nin metallicity approximately 6 Gyr ago. This was likely caused by a major\nmerger event that subsequently accelerated the star formation rate. Clusters in\nthe Southern Bridge (SB) and Northern Bridge regions of the SMC may have\nexperienced distinct chemical enrichment histories, as suggested by our\nprevious works but with limited data coverage. Furthermore, the AMR of\nwing/bridge (W/B) shows no sign of enrichment caused by the aforementioned\nmerger event, but exhibits signatures of the recent collisions between the\nclouds contemporaneous with the epochs of the Magellanic Stream and Bridge\nformations.\n  In this study, we present an updated AMR for the SB region based on a sample\nthat includes approximately 67% of its known clusters. Contrary to the\nexpectation of a very unique chemical evolution history, these SB clusters show\na trend similar to the one of the WH clusters. The chemical evolution models\nthat best fit the AMR trend of the SB clusters show excellent agreement with\nthe major merger model proposed for the WH clusters. Building on this, we\nsuggest a new unified chemical evolution model for both the WH and SB clusters,\nwhich can be explained by a major merger at ~6 Gyr followed by episodic\nchemical enrichment over time.\n",
-      "author": [
-        {
-          "name": "Sasi Saroon"
-        },
-        {
-          "name": "B. Dias"
-        },
-        {
-          "name": "T. Tsujimotto"
-        },
-        {
-          "name": "F. Maia"
-        },
-        {
-          "name": "B. P. L. Ferreira"
-        },
-        {
-          "name": "R. A. P. Oliveira"
-        },
-        {
-          "name": "M. C. Parisi"
-        },
-        {
-          "name": "A. Pérez-Villegas"
-        },
-        {
-          "name": "D. Minniti"
-        },
-        {
-          "name": "B. J. De Bortoli"
-        },
-        {
-          "name": "E. Bica"
-        },
-        {
-          "name": "P. Westera"
-        },
-        {
-          "name": "O. J. Katime Santrich"
-        },
-        {
-          "name": "D. Geisler"
-        },
-        {
-          "name": "David Sanmartim"
-        },
-        {
-          "name": "Bruno Correa Quint"
-        },
-        {
-          "name": "Luciano Fraga"
-        },
-        {
-          "name": "J. F. C. Santos Jr."
-        },
-        {
-          "name": "E. R. Garro"
-        },
-        {
-          "name": "Jose G. Fernandez-Trincado"
-        },
-        {
-          "name": "O. O. Casmir"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "18 pages, 9 figures, Accepted for publication in A&A journal",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.16146v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.16146v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 2
     }
   ]
 }
