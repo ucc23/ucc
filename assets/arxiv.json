@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-01T18:26:47.615Z",
+  "fetched_at": "2025-08-02T01:25:15.522Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2507.23112v1",
@@ -199,53 +199,6 @@
         }
       },
       "score": 5
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.19312v1",
-      "updated": "2025-07-25T14:26:52Z",
-      "published": "2025-07-25T14:26:52Z",
-      "title": "A hidden link in the LMC star cluster formation history",
-      "summary": "  The age distribution function of star clusters in the Large Magellanic Cloud\n(LMC) is known to present a feature called the cluster age gap, a period of\ntime from ~ 4 to 11 Gyr ago with a remarkable small number of clusters\nidentified. In this work we performed an in-depth analysis of three recently\ncatalogued age gap cluster candidates with the aim of confirming their physical\nnature. We used GEMINI@GMOS g,i photometry centred on the objects to build\ncolour-magnitude diagrams from which we recognised their main features. We also\nperformed an automatic search of stellar overdensities using Gaussian mixture\nmodel techniques and analysed the corresponding colour-magnitude diagrams\nsimilarly as performed for the aforementioned candidates. The present GEMINI\ndata sets would seem to discard any strong evidence of these object being real\nclusters, and rather support the possibility of the result of stellar density\nvariations of the LMC field star distribution. These three objects, in addition\nto other 17 new identified candidates, are placed in the LMC outermost disc in\na limited region toward the southwest from the LMC centre. They had embraced\nthe possibility to answer the long-time conundrum about the absence of LMC age\ngap clusters. From an statistical approach, combined with the knowledge of the\nexpected LMC age-metallicity relationship, and recent simulations of the\ninteraction between the LMC and the Milky Way, we provide not only evidence\nagainst the physical nature of the studied objects, but also an interpretation\non the lack of identification of more LMC age gap clusters.\n",
-      "author": {
-        "name": "Andrés E. Piatti"
-      },
-      "arxiv:comment": {
-        "_": "8 pages, 5 figures. Accepted for publication in MNRAS",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.19312v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.19312v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 4
     }
   ]
 }
