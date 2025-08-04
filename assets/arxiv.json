@@ -1,6 +1,93 @@
 {
-  "fetched_at": "2025-08-04T01:45:47.397Z",
+  "fetched_at": "2025-08-04T06:34:33.908Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.00736v1",
+      "updated": "2025-08-01T16:06:13Z",
+      "published": "2025-08-01T16:06:13Z",
+      "title": "A normalizing flow approach for the inference of star cluster properties\n  from unresolved broadband photometry I: Comparison to spectral energy\n  distribution fitting",
+      "summary": "  Estimating properties of star clusters from unresolved broadband photometry\nis a challenging problem that is classically tackled by spectral energy\ndistribution (SED) fitting methods that are based on simple stellar population\n(SSP) models. However, because of their exponential scaling, grid-based methods\nsuffer from computational limitations. In addition, stochastic latent variables\nin the model can make the computation of the likelihood function intractable.\nThese limitations can be overcome by modern generative deep learning methods\nthat offer flexible and powerful tools for modeling high-dimensional posterior\ndistributions and fast inference from learned data. We present a normalizing\nflow approach for the inference of cluster age, mass, and reddening from Hubble\nSpace Telescope (HST) broadband photometry. In particular, we explore our\nnetwork's behavior on an inference problem that has been analyzed in previous\nworks. We used the SED modeling code CIGALE to create a dataset of synthetic\nphotometric observations for $5 \\times 10^6$ mock star clusters. Subsequently,\nthis data set was used to train a coupling-based flow in the form of a\nconditional invertible neural network (cINN) to predict posterior probability\ndistributions for cluster age, mass, and reddening from photometric\nobservations. We predicted cluster parameters for the 'Physics at High Angular\nresolution in Nearby GalaxieS' (PHANGS) Data Release 3 catalog. To evaluate the\ncapabilities of the network, we compared our results to the publicly available\nPHANGS estimates and found that the estimates agree reasonably well. We\ndemonstrate that normalizing flow methods can be a viable tool for the\ninference of cluster parameters, and argue that this approach is especially\nuseful when latent variables make the computation of the likelihood intractable\nand in scenarios that require efficient density estimation.\n",
+      "author": [
+        {
+          "name": "Daniel Walter"
+        },
+        {
+          "name": "Victor F. Ksoll"
+        },
+        {
+          "name": "Ralf S. Klessen"
+        },
+        {
+          "name": "Mederic Boquien"
+        },
+        {
+          "name": "Aida Wofford"
+        },
+        {
+          "name": "Francesco Belfiore"
+        },
+        {
+          "name": "Daniel A. Dale"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "David A. Thilker"
+        },
+        {
+          "name": "Leonardo Ubeda"
+        },
+        {
+          "name": "Thomas G. Williams"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 10 figures, submitted to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.00736v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.00736v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
     {
       "id": "http://arxiv.org/abs/2507.23112v1",
       "updated": "2025-07-30T21:32:02Z",
