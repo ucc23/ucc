@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-05T06:30:00.035Z",
+  "fetched_at": "2025-08-05T12:40:18.073Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.02393v1",
@@ -93,6 +93,153 @@
         }
       ],
       "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.00978v1",
+      "updated": "2025-08-01T18:00:00Z",
+      "published": "2025-08-01T18:00:00Z",
+      "title": "Mapping the Distant and Metal-Poor Milky Way with SDSS-V",
+      "summary": "  The fifth-generation Sloan Digital Sky Survey (SDSS-V) is conducting the\nfirst all-sky low-resolution spectroscopic survey of the Milky Way's stellar\nhalo. We describe the stellar parameter pipeline for the SDSS-V halo survey,\nwhich simultaneously models spectra, broadband photometry, and parallaxes to\nderive stellar parameters, metallicities, alpha abundances, and distances. The\nresulting BOSS-MINESweeper catalog is validated across a wide range of stellar\nparameters and metallicities using star clusters and a comparison to\nhigh-resolution spectroscopic surveys. We demonstrate several scientific\ncapabilities of this dataset: identifying the most chemically peculiar stars in\nour Galaxy, discovering and mapping distant halo substructures, and measuring\nthe all--sky dynamics of the Milky Way on the largest scales. The\nBOSS-MINESweeper catalog for SDSS DR19 is publicly available and will be\nupdated for future data releases.\n",
+      "author": [
+        {
+          "name": "Vedant Chandra"
+        },
+        {
+          "name": "Phillip A. Cargile"
+        },
+        {
+          "name": "Alexander P. Ji"
+        },
+        {
+          "name": "Charlie Conroy"
+        },
+        {
+          "name": "Hans-Walter Rix"
+        },
+        {
+          "name": "Emily Cunningham"
+        },
+        {
+          "name": "Bruno Dias"
+        },
+        {
+          "name": "Chervin Laporte"
+        },
+        {
+          "name": "William Cerny"
+        },
+        {
+          "name": "Guilherme Limberg"
+        },
+        {
+          "name": "Avrajit Bandyopadhyay"
+        },
+        {
+          "name": "Ana Bonaca"
+        },
+        {
+          "name": "Andrew R. Casey"
+        },
+        {
+          "name": "John Donor"
+        },
+        {
+          "name": "Jose G. Fernandez-Trincado"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        },
+        {
+          "name": "Pramod Gupta"
+        },
+        {
+          "name": "Keith Hawkins"
+        },
+        {
+          "name": "Jennifer A. Johnson"
+        },
+        {
+          "name": "Juna A. Kollmeier"
+        },
+        {
+          "name": "Madeline Lucey"
+        },
+        {
+          "name": "Ilija Medan"
+        },
+        {
+          "name": "Szabolcs Meszaros"
+        },
+        {
+          "name": "Sean Morrison"
+        },
+        {
+          "name": "Jose Sanchez-Gallego"
+        },
+        {
+          "name": "Andrew K. Saydjari"
+        },
+        {
+          "name": "Conor Sayres"
+        },
+        {
+          "name": "Kevin C. Schlaufman"
+        },
+        {
+          "name": "Keivan G. Stassun"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "Zachary Way"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "31 pages, 19 figures; Submitted to AAS Journals;",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.00978v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.00978v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
     },
     {
       "id": "http://arxiv.org/abs/2508.00736v1",
