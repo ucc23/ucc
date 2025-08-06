@@ -1,6 +1,76 @@
 {
-  "fetched_at": "2025-08-06T01:39:35.990Z",
+  "fetched_at": "2025-08-06T06:30:05.876Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.03322v1",
+      "updated": "2025-08-05T11:03:14Z",
+      "published": "2025-08-05T11:03:14Z",
+      "title": "Spatial mixing of stellar populations in globular clusters via\n  binary-single star scattering",
+      "summary": "  The majority of Galactic globular star clusters (GCs) have been reported to\ncontain at least two populations of stars (we use P1 for the primordial and P2\nfor the chemically-enriched population). Recent observational studies found\nthat dynamically-old GCs have P1 and P2 spatially mixed due to relaxation\nprocesses. However, in dynamically-young GCs, where P2 is expected to be more\ncentrally concentrated from birth, the spatial distributions of P1 and P2 are\nsometimes very different from system to system. This suggests that more complex\ndynamical processes specific to certain GCs might have shaped those\ndistributions. We aim to investigate the discrepancies between the spatial\nconcentration of P1 and P2 stars in dynamically-young GCs. Our focus is to\nevaluate whether massive binary stars (e.g. BHs) can cause the expansion of the\nP2 stars through binary-single interactions in the core, and whether they can\nmix or even radially invert the P1 and P2 distributions. We use a set of\ntheoretical and empirical arguments to evaluate the effectiveness of\nbinary-single star scattering. We then construct a set of direct N-body models\nwith massive primordial binaries to verify our estimates further and gain more\ninsights into the dynamical processes in GCs. We find that binary-single star\nscatterings can push the central P2 stars outwards within a few relaxation\ntimes. While we do not produce radial inversion of P1 and P2 for any initial\nconditions we tested, this mechanism systematically produces clusters where P1\nand P2 look fully mixed even in projection. The mixing is enhanced 1) in denser\nGCs, 2) in GCs containing more binary stars, and 3) when the mass ratio between\nthe binary components and the cluster members is higher. Binary-single star\ninteractions seem able to explain the observable properties of some\ndynamically-young GCs (e.g. NGC4590 or NGC5904) where P1 and P2 are fully\nradially mixed.\n",
+      "author": [
+        {
+          "name": "Václav Pavlík"
+        },
+        {
+          "name": "Melvyn B. Davies"
+        },
+        {
+          "name": "Ellen I. Leitinger"
+        },
+        {
+          "name": "Holger Baumgardt"
+        },
+        {
+          "name": "Alexey Bobrick"
+        },
+        {
+          "name": "Ivan Cabrera-Ziri"
+        },
+        {
+          "name": "Michael Hilker"
+        },
+        {
+          "name": "Andrew J. Winter"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 10 figures, submitted to A&A, comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.03322v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.03322v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.02393v1",
       "updated": "2025-08-04T13:18:13Z",
