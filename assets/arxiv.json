@@ -1,6 +1,82 @@
 {
-  "fetched_at": "2025-08-07T01:39:32.728Z",
+  "fetched_at": "2025-08-07T06:29:35.554Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.03912v1",
+      "updated": "2025-08-05T20:58:54Z",
+      "published": "2025-08-05T20:58:54Z",
+      "title": "When Stars Mimic Monsters: Luminous Blue Variables in SBS 0335-052 E",
+      "summary": "  Recent studies have claimed the detection of an active massive black hole\n(BH) in the low-metallicity blue compact dwarf galaxy SBS 0335-052 E based on\nnear-infrared (NIR) time variability and broad H$\\alpha$ wings. This\ninterpretation remains questionable given the observed broad wings in forbidden\n[O III] emission. Based on spectroscopic properties derived from our KCWI/KCRM\nintegral-field observation of super star clusters 1 and 2 (SSCs 1$\\&$2), we\npropose instead that these BH signatures originate from a luminous blue\nvariable (LBV) outburst in a binary system like $\\eta$ Carinae. First, the [Fe\nII] emission-line ratio and detected O I 8446 pumped emission require\nhigh-density gas ($n_e \\sim 10^6$ $\\rm{cm^{-3}}$). This dense gas resides in\nthe circumstellar medium (CSM) formed by pre-outburst stellar winds. Subsequent\nshock interaction between the LBV outburst ejecta and CSM efficiently produces\nwarm dust and the corresponding NIR excess. Second, SSCs 1$\\&$2 are\nnitrogen-enriched relative to other SSCs. This enrichment arises from ejections\nof CNO-cycled material by multiple LBV outbursts. Third, we detect asymmetric\nbroad H$\\alpha$ wings extending from $\\sim -5\\,000$ to $\\sim 10\\,000\\\n\\rm{km\\,s^{-1}}$. This asymmetry results from electron scattering in the\nexpanding, optically thick CSM. The proposed CSM shock interaction naturally\nexplains the luminosities of [Fe V] and ultra-luminous X-ray emission.\nContrarily, [Fe II] and [Fe IV] emission originates primarily from gas\nphotoionized by the cool primary LBV and hot secondary stars, respectively. Our\nresults highlight how the shock interaction of massive stars with high-density\nCSM mimics active massive BH signatures in low-metallicity dwarf galaxies.\n",
+      "author": [
+        {
+          "name": "Zixuan Peng"
+        },
+        {
+          "name": "Crystal L. Martin"
+        },
+        {
+          "name": "Jiamu Huang"
+        },
+        {
+          "name": "Nikolaus Z. Prusinski"
+        },
+        {
+          "name": "Chenliang Huang"
+        },
+        {
+          "name": "Zhuyun Zhuang"
+        },
+        {
+          "name": "Yuan Li"
+        },
+        {
+          "name": "Tin Long Sunny Wong"
+        },
+        {
+          "name": "Jiayang Yang"
+        },
+        {
+          "name": "Joseph F. Hennawi"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 11 figures, 2 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.03912v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.03912v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.03322v1",
       "updated": "2025-08-05T11:03:14Z",
