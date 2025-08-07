@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-06T18:27:15.268Z",
+  "fetched_at": "2025-08-07T01:39:32.728Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.03322v1",
@@ -397,69 +397,6 @@
         }
       ],
       "score": 5
-    },
-    {
-      "id": "http://arxiv.org/abs/2507.23112v1",
-      "updated": "2025-07-30T21:32:02Z",
-      "published": "2025-07-30T21:32:02Z",
-      "title": "How Massive Star Clusters Form and Evolve: A Near-IR Survey of the W51\n  Complex",
-      "summary": "  We present near-infrared JHKs and narrow-band H2(1-0) photometric\nobservations of the W51A region, obtained with GTC EMIR, aiming to characterize\nits young stellar population and provide mass estimates for individual cluster\nmembers and the proto-clusters. Our observations reveal over 3000 new sources,\nout of which 88 are located in the proto-clusters, W51 IRS2 and W51 Main. The\naverage extinction (AV), measured from the J-H color, of sources is 19 AV in\nW51 IRS2 and 14 AV in W51 Main. We document 17 new instances of H2 emission in\nthe region by utilizing observations from the H2(1-0) narrow-band filter.\nDespite limited completeness, we estimated masses for each cluster member and\nestimated the total cluster mass to be in the range of 900-4700 solar masses\nfor W51 IRS2 and 500-2700 solar masses for W51 Main, using an assumed age range\nof 1-3 Myr. We measured the initial mass function (IMF) in the proto-clusters\nassuming a range of ages from 1-3 Myr and found that the IMF slopes for both\nproto-clusters are consistent with the Salpeter IMF in the mass range greater\nthan or equal to 8 solar masses within 1 to 2 sigma.\n",
-      "author": [
-        {
-          "name": "Aden Dawson"
-        },
-        {
-          "name": "Adam Ginsburg"
-        },
-        {
-          "name": "Carlos Roman-Zuniga"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "36 pages, 16 figures, 7 tables",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2507.23112v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2507.23112v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 3
     }
   ]
 }
