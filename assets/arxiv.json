@@ -1,6 +1,441 @@
 {
-  "fetched_at": "2025-08-08T01:39:28.550Z",
+  "fetched_at": "2025-08-08T06:29:20.854Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.05296v1",
+      "updated": "2025-08-07T11:52:12Z",
+      "published": "2025-08-07T11:52:12Z",
+      "title": "DAWN. I. Simulating the formation and early evolution of stellar\n  clusters with Phantom N-Body",
+      "summary": "  Context. Simulating stellar dynamics in a molecular cloud environment is\nnumerically challenging due to the strong coupling between young stars and\ntheir surrounding gas, and the large range of length and time scales. Aims.\nThis paper is the first of a suite aimed at investigating the complex early\nstellar dynamics in star-forming regions. We present a new simulation framework\nwhich is the key to generating a larger set of simulations, enabling\nstatistical analysis. Methods. Methods originating from the stellar dynamics\ncommunity, including regularisation and slowdown methods (SDAR), have been\nadded to the hydrodynamical code Phantom to produce simulations of embedded\ncluster early dynamics. This is completed by a novel prescription of star\nformation to initialise stars with a low numerical cost, but in a way that is\nconsistent with the gas distribution. Finally, a prescription for H ii region\nexpansion has been added to model the gas removal. Results. We have run\ntestcase simulations following the dynamical evolution of stellar clusters from\nthe cloud collapse to a few Myr. Our new numerical methods fulfil their\nfunction by speeding up the calculation. The N-body dynamics with our novel\nimplementation never appear as a bottleneck. Our first simulations show that\nmassive stars largely impact the star formation process and shape the dynamics\nof the resulting cluster. Depending on the position of these massive stars and\nthe strength of their feedback, they can prematurely dismantle part of the\ncloud or trigger a second event of cloud collapse, preferentially forming\nlow-mass stars. This stochastic behaviour confirms the need for statistical\nstudies. Conclusions. Our new Phantom N-Body framework enables efficient\nsimulation of the formation and evolution of star clusters. It enables the\nstatistical analysis needed to build models of the dynamical evolution of\nembedded star clusters.\n",
+      "author": [
+        {
+          "name": "Yann Bernard"
+        },
+        {
+          "name": "Estelle Moraux"
+        },
+        {
+          "name": "Daniel J. Price"
+        },
+        {
+          "name": "Frédérique Motte"
+        },
+        {
+          "name": "Fabien Louvet"
+        },
+        {
+          "name": "Isabelle Joncour"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.05296v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.05296v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.04862v1",
+      "updated": "2025-08-06T20:20:37Z",
+      "published": "2025-08-06T20:20:37Z",
+      "title": "Polarization of reflected X-ray emission from Sgr A molecular complex:\n  multiple flares, multiple sources?",
+      "summary": "  Extended X-ray emission observed in the direction of several molecular clouds\nin the Central Molecular Zone (CMZ) of our Galaxy exhibits spectral and\ntemporal properties consistent with the `X-ray echo' scenario. It postulates\nthat the observed signal is a light-travel-time delayed reflection of a short\n($\\delta t<$1.5 yr) and bright ($L_{\\rm X}>10^{39}~{\\rm erg~s^{-1}}$) flare,\nmost probably produced a few hundred years ago by Sgr A*. This scenario also\npredicts a distinct polarization signature for the reflected X-ray continuum,\nwith the polarization vector being perpendicular to the direction towards the\nprimary source and polarization degree (PD) being determined by the scattering\nangle. We report the results of two deep observations of the currently\nbrightest (in reflected emission) molecular complex Sgr A taken with the\nImaging X-ray Polarimetry Explorer (IXPE) in 2022 and 2023. We confirm the\nprevious polarization measurement for a large region encompassing Sgr A complex\nwith higher significance, but also reveal an inconsistent polarization pattern\nfor the brightest reflection region in its center. X-ray polarization from this\nregion is almost perpendicular to the expected direction in the case of Sgr A*\nillumination and shows a smaller PD compared to the large region. This could\nindicate the simultaneous propagation of several illumination fronts throughout\nthe CMZ, with the origin of one of them not being Sgr A*. The primary source\ncould be associated with the Arches stellar cluster or a currently unknown\nsource located in the closer vicinity of the illuminated cloud, potentially\nlowering the required luminosity of the primary source. Although significantly\ndeeper observations with IXPE would be required to unequivocally distinguish\nbetween the scenarios, a combination of high-resolution imaging and\nmicro-calorimetric spectroscopy offers an additional promising path forward.\n",
+      "author": [
+        {
+          "name": "Ildar Khabibullin"
+        },
+        {
+          "name": "Eugene Churazov"
+        },
+        {
+          "name": "Riccardo Ferrazzoli"
+        },
+        {
+          "name": "Philip Kaaret"
+        },
+        {
+          "name": "Jeffery J. Kolodziejczak"
+        },
+        {
+          "name": "Frédéric Marin"
+        },
+        {
+          "name": "Rashid Sunyaev"
+        },
+        {
+          "name": "Jiri Svoboda"
+        },
+        {
+          "name": "Alexey Vikhlinin"
+        },
+        {
+          "name": "Thibault Barnouin"
+        },
+        {
+          "name": "Chien-Ting Chen"
+        },
+        {
+          "name": "Enrico Costa"
+        },
+        {
+          "name": "Laura Di Gesu"
+        },
+        {
+          "name": "Alessandro Di Marco"
+        },
+        {
+          "name": "Steven R. Ehlert"
+        },
+        {
+          "name": "William Forman"
+        },
+        {
+          "name": "Dawoon E. Kim"
+        },
+        {
+          "name": "Ralph Kraft"
+        },
+        {
+          "name": "W. Peter Maksym"
+        },
+        {
+          "name": "Giorgio Matt"
+        },
+        {
+          "name": "Juri Poutanen"
+        },
+        {
+          "name": "Paolo Soffitta"
+        },
+        {
+          "name": "Douglas A. Swartz"
+        },
+        {
+          "name": "Ivan Agudo"
+        },
+        {
+          "name": "Lucio Angelo Antonelli"
+        },
+        {
+          "name": "Luca Baldini"
+        },
+        {
+          "name": "Wayne H. Baumgartner"
+        },
+        {
+          "name": "Ronaldo Bellazzini"
+        },
+        {
+          "name": "Stefano Bianchi"
+        },
+        {
+          "name": "Stephen D. Bongiorno"
+        },
+        {
+          "name": "Raffaella Bonino"
+        },
+        {
+          "name": "Alessandro Brez"
+        },
+        {
+          "name": "Niccolo Bucciantini"
+        },
+        {
+          "name": "Fiamma Capitanio"
+        },
+        {
+          "name": "Simone Castellano"
+        },
+        {
+          "name": "Elisabetta Cavazzuti"
+        },
+        {
+          "name": "Stefano Ciprini"
+        },
+        {
+          "name": "Alessandra De Rosa"
+        },
+        {
+          "name": "Ettore Del Monte"
+        },
+        {
+          "name": "Niccolò Di Lalla"
+        },
+        {
+          "name": "Immacolata Donnarumma"
+        },
+        {
+          "name": "Victor Doroshenko"
+        },
+        {
+          "name": "Michal Dovciak"
+        },
+        {
+          "name": "Teruaki Enoto"
+        },
+        {
+          "name": "Yuri Evangelista"
+        },
+        {
+          "name": "Sergio Fabiani"
+        },
+        {
+          "name": "Javier A. Garcia"
+        },
+        {
+          "name": "Shuichi Gunji"
+        },
+        {
+          "name": "Kiyoshi Hayashida"
+        },
+        {
+          "name": "Jeremy Heyl"
+        },
+        {
+          "name": "Wataru Iwakiri"
+        },
+        {
+          "name": "Svetlana G. Jorstad"
+        },
+        {
+          "name": "Vladimir Karas"
+        },
+        {
+          "name": "Fabian Kislat"
+        },
+        {
+          "name": "Takao Kitaguchi"
+        },
+        {
+          "name": "Henric Krawczynski"
+        },
+        {
+          "name": "Fabio La Monaca"
+        },
+        {
+          "name": "Luca Latronico"
+        },
+        {
+          "name": "Ioannis Liodakis"
+        },
+        {
+          "name": "Simone Maldera"
+        },
+        {
+          "name": "Alberto Manfreda"
+        },
+        {
+          "name": "Alan P. Marscher"
+        },
+        {
+          "name": "Herman L. Marshall"
+        },
+        {
+          "name": "Francesco Massaro"
+        },
+        {
+          "name": "Ikuyuki Mitsuishi"
+        },
+        {
+          "name": "Tsunefumi Mizuno"
+        },
+        {
+          "name": "Fabio Muleri"
+        },
+        {
+          "name": "Michela Negro"
+        },
+        {
+          "name": "Chi-Yung Ng"
+        },
+        {
+          "name": "Stephen L. O'Dell"
+        },
+        {
+          "name": "Nicola Omodei"
+        },
+        {
+          "name": "Chiara Oppedisano"
+        },
+        {
+          "name": "Alessandro Papitto"
+        },
+        {
+          "name": "George G. Pavlov"
+        },
+        {
+          "name": "Abel Lawrence Peirson"
+        },
+        {
+          "name": "Melissa Pesce-Rollins"
+        },
+        {
+          "name": "Pierre-Olivier Petrucci"
+        },
+        {
+          "name": "Maura Pilia"
+        },
+        {
+          "name": "Andrea Possenti"
+        },
+        {
+          "name": "Simonetta Puccetti"
+        },
+        {
+          "name": "Brian D. Ramsey"
+        },
+        {
+          "name": "John Rankin"
+        },
+        {
+          "name": "Ajay Ratheesh"
+        },
+        {
+          "name": "Oliver J. Roberts"
+        },
+        {
+          "name": "Roger W. Romani"
+        },
+        {
+          "name": "Carmelo Sgro"
+        },
+        {
+          "name": "Patrick Slane"
+        },
+        {
+          "name": "Gloria Spandre"
+        },
+        {
+          "name": "Toru Tamagawa"
+        },
+        {
+          "name": "Fabrizio Tavecchio"
+        },
+        {
+          "name": "Roberto Taverna"
+        },
+        {
+          "name": "Yuzuru Tawara"
+        },
+        {
+          "name": "Allyn F. Tennant"
+        },
+        {
+          "name": "Nicholas E. Thomas"
+        },
+        {
+          "name": "Francesco Tombesi"
+        },
+        {
+          "name": "Alessio Trois"
+        },
+        {
+          "name": "Sergey S. Tsygankov"
+        },
+        {
+          "name": "Roberto Turolla"
+        },
+        {
+          "name": "Jacco Vink"
+        },
+        {
+          "name": "Martin C. Weisskopf"
+        },
+        {
+          "name": "Kinwah Wu"
+        },
+        {
+          "name": "Fei Xie"
+        },
+        {
+          "name": "Silvia Zane"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 13 figures. Submitted to A&A; comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.04862v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.04862v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2508.03912v1",
       "updated": "2025-08-05T20:58:54Z",
