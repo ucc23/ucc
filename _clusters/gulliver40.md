@@ -8,7 +8,7 @@ title:  Gulliver 40
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/gulliver40_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/gulliver40.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.13" 

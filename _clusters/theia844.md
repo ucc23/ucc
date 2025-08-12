@@ -8,7 +8,7 @@ title:  Theia 844
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/theia844_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/theia844.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="1.303" 

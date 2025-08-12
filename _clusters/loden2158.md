@@ -8,7 +8,7 @@ title:  Loden 2158
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/loden2158_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/aladin/loden2158.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.257" 

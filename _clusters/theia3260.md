@@ -8,7 +8,7 @@ title:  Theia 3260
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia3260_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/aladin/theia3260.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.397" 

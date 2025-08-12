@@ -8,7 +8,7 @@ title:  Bica 644
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/bica644_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/aladin/bica644.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.27" 

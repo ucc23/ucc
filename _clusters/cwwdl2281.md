@@ -8,7 +8,7 @@ title:  CWWDL 2281
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwwdl2281_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/cwwdl2281.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.11" 

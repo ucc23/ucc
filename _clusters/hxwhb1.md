@@ -8,7 +8,7 @@ title:  HXWHB 1
 <!-- Static image + data attributes for FOV and target -->
 <img id="aladin_img"
      data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/hxwhb1_aladin.webp"
+     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/aladin/hxwhb1.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
      data-fov="0.52" 
