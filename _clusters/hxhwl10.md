@@ -11,8 +11,8 @@ title:  HXHWL 10
      src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/hxhwl10_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.457" 
-     data-target="256.488 -48.389"/>
+     data-fov="0.497" 
+     data-target="256.473 -48.389"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  HXHWL 10
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G339.5-04.4</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.75</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>57</td>
-    <td>13.7</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">75</td>
+    <td style="text-align: center;">14.9</td>
   </tr>
 </table>
 </div>
@@ -55,24 +51,26 @@ title:  HXHWL 10
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 256.382 | -48.37 | 1.09 | -1.33 | -2.67 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 256.351 | -48.388 | 1.097 | -1.399 | -2.664 | 13.47 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 256.512 | -48.374 | 1.102 | -- | -- | -- |
-| **UCC** |256.488 | -48.389 | 1.104 | -1.403 | -2.656 | 17.537 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 256.351 | -48.388 | 1.097 | -1.399 | -2.664 | 13.47 |
+| **UCC** |256.473 | -48.389 | 1.104 | -1.401 | -2.656 | 16.883 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=256.488,-48.389" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=256.488%20-48.389&output=json&radius=5&userEntry=hxhwl10" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=256.473,-48.389" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=256.473%20-48.389&output=json&radius=5&userEntry=hxhwl10" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/hxhwl10.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/hxhwl10.webp" alt="HXHWL 10 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/hxhwl10.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/hxhwl10.webp" alt="HXHWL 10 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/hxhwl10_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/hxhwl10_HUNT23.webp" alt="HXHWL 10 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/hxhwl10.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/hxhwl10.webp" alt="HXHWL 10 HUNT23">
 </a>
 </div>
 </div>
@@ -89,17 +87,39 @@ title:  HXHWL 10
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=1.0, m-M=9.9, logAge=7.98, Z=0.027` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.801, diffAV50=0.456, MOD50=9.636, logAge50=8.271` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.15, dMod50=9.76, logAge50=7.95, [Fe/H]50=0.04` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=234.879` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[H21OC 10](/_clusters/h21oc10/)| 98 | 256.488 | -48.389 | 1.105 | -1.412 | -2.669 | 16.883 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=339.559%20&lat=-4.472&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="hxhwl10"
+         data-ra-center="256.37"
+         data-dec-center="-48.38"
+         data-rad-deg="14.9"
+         data-plx="1.104">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[H21OC 10](/_clusters/h21oc10/)| 90.7 | 256.434 | -48.404 | 1.105 | -1.413 | -2.671 | 14.508 |

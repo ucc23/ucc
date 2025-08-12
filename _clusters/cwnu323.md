@@ -11,8 +11,8 @@ title:  CWNU 323
      src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/cwnu323_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.923" 
-     data-target="124.413 -55.642"/>
+     data-fov="0.807" 
+     data-target="124.453 -55.642"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  CWNU 323
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G270.5-11.0</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.86</td>
-    <td>0.64</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>47</td>
-    <td>27.7</td>
+    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">39</td>
+    <td style="text-align: center;">24.2</td>
   </tr>
 </table>
 </div>
@@ -53,13 +49,16 @@ title:  CWNU 323
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 124.477 | -55.608 | 0.96 | -1.24 | 1.53 | -6.4 |
-| **UCC** |124.413 | -55.642 | 0.957 | -1.237 | 1.53 | -2.1 |
+| **UCC** |124.453 | -55.642 | 0.957 | -1.237 | 1.53 | -3.0 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=124.413,-55.642" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.413%20-55.642&output=json&radius=5&userEntry=cwnu323" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=124.453,-55.642" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=124.453%20-55.642&output=json&radius=5&userEntry=cwnu323" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![CWNU 323](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/cwnu323.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/cwnu323.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/cwnu323.webp" alt="CWNU 323 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -68,15 +67,36 @@ title:  CWNU 323
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=0.8, m-M=9.65, logAge=9.2, Z=0.008` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 7593](/_clusters/theia7593/)| 89 | 124.376 | -55.641 | 0.954 | -1.231 | 1.53 | -2.1 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=270.581%20&lat=-10.986&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="cwnu323"
+         data-ra-center="124.48"
+         data-dec-center="-55.61"
+         data-rad-deg="24.2"
+         data-plx="0.957">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 7593](/_clusters/theia7593/)| 64.1 | 124.322 | -55.64 | 0.957 | -1.237 | 1.532 | -2.55 |

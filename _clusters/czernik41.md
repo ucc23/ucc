@@ -11,8 +11,8 @@ title:  Czernik 41
      src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.213" 
-     data-target="297.759 25.285"/>
+     data-fov="0.157" 
+     data-target="297.758 25.285"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Czernik 41
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G062.0-00.6</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.85</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>686</td>
-    <td>6.4</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">504</td>
+    <td style="text-align: center;">4.7</td>
   </tr>
 </table>
 </div>
@@ -52,6 +48,7 @@ title:  Czernik 41
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 297.754 | 25.269 | -- | -2.49 | -2.6 | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 297.75 | 25.27 | -- | -1.34 | -3.3 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 297.75 | 25.27 | -- | -1.25 | -2.863 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 297.752 | 25.287 | -- | -- | -- | -- |
@@ -59,30 +56,32 @@ title:  Czernik 41
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 297.762 | 25.292 | 0.374 | -2.937 | -6.153 | -13.4 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 297.761 | 25.281 | 0.359 | -2.945 | -6.132 | 28.738 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 297.756 | 25.286 | 0.365 | -- | -- | -- |
-| **UCC** |297.759 | 25.285 | 0.368 | -2.955 | -6.166 | 2.274 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 297.761 | 25.281 | 0.359 | -2.945 | -6.132 | 28.738 |
+| **UCC** |297.758 | 25.285 | 0.37 | -2.953 | -6.165 | 7.943 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=297.759,+25.285" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=297.759%2025.285&output=json&radius=5&userEntry=czernik41" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=297.758,+25.285" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=297.758%2025.285&output=json&radius=5&userEntry=czernik41" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41.webp" alt="Czernik 41 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/czernik41.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/czernik41.webp" alt="Czernik 41 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41_HUNT23.webp" alt="Czernik 41 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/czernik41.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/czernik41.webp" alt="Czernik 41 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/czernik41_CANTAT20.webp" alt="Czernik 41 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/CANTAT20/czernik41.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/CANTAT20/czernik41.webp" alt="Czernik 41 CANTAT20">
 </a>
 </div>
 </div>
@@ -100,13 +99,36 @@ title:  Czernik 41
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=1.28, Dist=1360.0, Age=8.7` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.28, distance=1540, log_age=8.47` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=1.336, Dmod=12.409, logt=7.48` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=4.11, DMNN=12.03, AgeNN=7.11` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.835, Dist=2620, logage=6.805, [Fe/H]=0.002` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.981, diffAV50=3.03, MOD50=12.007, logAge50=7.43` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=4.74, dMod50=12.68, logAge50=7.27, [Fe/H]50=0.51` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=6448.62` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=62.019%20&lat=-0.694&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="czernik41"
+         data-ra-center="297.75"
+         data-dec-center="25.29"
+         data-rad-deg="4.7"
+         data-plx="0.37">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

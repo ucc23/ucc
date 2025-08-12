@@ -11,8 +11,8 @@ title:  Mamajek 3
      src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/mamajek3_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="4.243" 
-     data-target="80.862 6.787"/>
+     data-fov="4.18" 
+     data-target="80.508 6.866"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Mamajek 3
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G196.7-15.5</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.89</td>
-    <td>0.64</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>44</td>
-    <td>127.3</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">41</td>
+    <td style="text-align: center;">125.4</td>
   </tr>
 </table>
 </div>
@@ -52,26 +48,28 @@ title:  Mamajek 3
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 81.796 | 6.267 | -- | 8.4 | -32.3 | 18.0 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 81.552 | 6.736 | 10.052 | 9.714 | -32.736 | 16.108 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 80.888 | 7.107 | 10.018 | -- | -- | -- |
-| **UCC** |80.862 | 6.787 | 9.971 | 9.52 | -32.359 | 17.901 |
+| **UCC** |80.508 | 6.866 | 9.995 | 9.665 | -32.288 | 17.901 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=80.862,+6.787" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.862%206.787&output=json&radius=5&userEntry=mamajek3" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=80.508,+6.866" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.508%206.866&output=json&radius=5&userEntry=mamajek3" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/mamajek3.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/mamajek3.webp" alt="Mamajek 3 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/mamajek3.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/mamajek3.webp" alt="Mamajek 3 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/mamajek3_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/mamajek3_HUNT23.webp" alt="Mamajek 3 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/mamajek3.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/mamajek3.webp" alt="Mamajek 3 HUNT23">
 </a>
 </div>
 </div>
@@ -88,9 +86,31 @@ title:  Mamajek 3
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.06, Dist=92.0, Age=7.3` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.104, diffAV50=0.314, MOD50=5.016, logAge50=7.222` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.38, dMod50=4.82, logAge50=7.45, [Fe/H]50=0.36` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=196.39%20&lat=-15.78&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="mamajek3"
+         data-ra-center="81.55"
+         data-dec-center="6.74"
+         data-rad-deg="125.4"
+         data-plx="9.995">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

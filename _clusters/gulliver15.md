@@ -11,8 +11,8 @@ title:  Gulliver 15
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.217" 
-     data-target="272.597 -16.716"/>
+     data-fov="0.197" 
+     data-target="272.594 -16.722"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Gulliver 15
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G013.4+01.1</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.93</td>
-    <td>0.83</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>185</td>
-    <td>6.5</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">228</td>
+    <td style="text-align: center;">5.9</td>
   </tr>
 </table>
 </div>
@@ -56,30 +52,32 @@ title:  Gulliver 15
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 272.603 | -16.715 | 0.484 | -1.071 | -1.621 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 272.598 | -16.723 | 0.497 | -1.014 | -1.658 | 12.34 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 272.594 | -16.71 | 0.502 | -- | -- | -- |
-| **UCC** |272.597 | -16.716 | 0.521 | -1.027 | -1.645 | -13.388 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 272.598 | -16.723 | 0.497 | -1.014 | -1.658 | 12.34 |
+| **UCC** |272.594 | -16.722 | 0.519 | -1.032 | -1.645 | -13.388 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=272.597,-16.716" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.597%20-16.716&output=json&radius=5&userEntry=gulliver15" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=272.594,-16.722" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=272.594%20-16.722&output=json&radius=5&userEntry=gulliver15" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15.webp" alt="Gulliver 15 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gulliver15.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gulliver15.webp" alt="Gulliver 15 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15_HUNT23.webp" alt="Gulliver 15 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gulliver15.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gulliver15.webp" alt="Gulliver 15 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gulliver15_CANTAT20.webp" alt="Gulliver 15 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/gulliver15.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/gulliver15.webp" alt="Gulliver 15 CANTAT20">
 </a>
 </div>
 </div>
@@ -97,11 +95,33 @@ title:  Gulliver 15
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.08, DMNN=11.55, AgeNN=7.93` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.49, Dist=1880, logage=7.068, [Fe/H]=-0.044` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.795, diffAV50=2.658, MOD50=11.254, logAge50=7.969` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.7, dMod50=10.86, logAge50=8.73, [Fe/H]50=-0.16` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=1109.90` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=13.427%20&lat=1.19&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="gulliver15"
+         data-ra-center="272.6"
+         data-dec-center="-16.72"
+         data-rad-deg="5.9"
+         data-plx="0.519">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

@@ -2,7 +2,7 @@
 layout: post
 title:  Trumpler 5
 ---
-<h3><span style="color: #808080;"><i>(Collinder 105; OCL 494; FSR 0989; MWSC 933)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(Collinder 105; OCL 494; FSR 0989; MWSC 933; FoF 369)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 
 <!-- Static image + data attributes for FOV and target -->
@@ -11,8 +11,8 @@ title:  Trumpler 5
      src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.2" 
-     data-target="99.121 9.474"/>
+     data-fov="0.26" 
+     data-target="99.125 9.468"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Trumpler 5
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G202.8+01.0</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.83</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>2677</td>
-    <td>6.0</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">4578</td>
+    <td style="text-align: center;">7.8</td>
   </tr>
 </table>
 </div>
@@ -52,39 +48,43 @@ title:  Trumpler 5
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 99.175 | 9.433 | -- | 0.77 | 0.59 | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 99.12 | 9.47 | -- | -0.24 | -0.37 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 99.18 | 9.434 | -- | -0.127 | -0.371 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 99.119 | 9.455 | -- | -- | -- | -- |
+|[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 99.127 | 9.475 | 0.317 | -0.544 | 0.248 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 99.126 | 9.465 | 0.284 | -0.59 | 0.273 | -- |
 |[Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | 99.12 | 9.47 | -- | -0.58 | 0.23 | 50.5 |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 99.128 | 9.46 | 0.283 | -0.586 | 0.285 | 51.472 |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 99.129 | 9.472 | 0.312 | -0.606 | 0.29 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 99.127 | 9.459 | 0.302 | -0.618 | 0.269 | 51.318 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 99.126 | 9.472 | 0.301 | -- | -- | -- |
-| **UCC** |99.121 | 9.474 | 0.291 | -0.619 | 0.268 | 50.607 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 99.127 | 9.459 | 0.302 | -0.618 | 0.269 | 51.318 |
+| **UCC** |99.125 | 9.468 | 0.302 | -0.612 | 0.267 | 50.75 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=99.121,+9.474" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.121%209.474&output=json&radius=5&userEntry=trumpler5" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=99.125,+9.468" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.125%209.468&output=json&radius=5&userEntry=trumpler5" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5.webp" alt="Trumpler 5 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/trumpler5.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/trumpler5.webp" alt="Trumpler 5 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5_HUNT23.webp" alt="Trumpler 5 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/trumpler5.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/trumpler5.webp" alt="Trumpler 5 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/trumpler5_CANTAT20.webp" alt="Trumpler 5 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/trumpler5.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/trumpler5.webp" alt="Trumpler 5 CANTAT20">
 </a>
 </div>
 </div>
@@ -102,14 +102,46 @@ title:  Trumpler 5
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.62, Dist=2820.0, Age=9.6, [Fe/H]=-0.403` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.625, distance=2753, log_age=9.5, metallicity=-0.3` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.75, Dmod=13.341, logt=9.23` |
+| [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=1.66, Z=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.2, DMNN=12.42, AgeNN=9.63` |
 | [Donor et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D) | `Fe/H=-0.44` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.022, Dist=3260, logage=9.539, [Fe/H]=-0.372` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.714, diffAV50=2.167, MOD50=12.355, logAge50=9.337` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.79, dMod50=12.34, logAge50=9.52, [Fe/H]50=-0.08` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=24555.2` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=202.814%20&lat=1.025&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="trumpler5"
+         data-ra-center="99.13"
+         data-dec-center="9.46"
+         data-rad-deg="7.8"
+         data-plx="0.302">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0337](/_clusters/oc0337/)| 0.5 | 99.203 | 9.404 | 0.333 | -0.699 | 0.268 | 50.386 |
+|[OC 0336](/_clusters/oc0336/)| 0.5 | 99.103 | 9.524 | 0.475 | -0.542 | 0.214 | 40.261 |

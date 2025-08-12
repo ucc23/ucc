@@ -11,8 +11,8 @@ title:  UPK 65
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.533" 
-     data-target="286.532 23.337"/>
+     data-fov="0.547" 
+     data-target="286.456 23.29"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  UPK 65
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G055.4+07.3</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.83</td>
-    <td>0.77</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>42</td>
-    <td>16.0</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">63</td>
+    <td style="text-align: center;">16.4</td>
   </tr>
 </table>
 </div>
@@ -59,30 +55,33 @@ title:  UPK 65
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 286.515 | 23.271 | 1.291 | -1.836 | -3.647 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 286.525 | 23.297 | 1.317 | -1.832 | -3.667 | -17.892 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 286.534 | 23.34 | 1.311 | -- | -- | -- |
-| **UCC** |286.532 | 23.337 | 1.302 | -1.839 | -3.649 | -16.156 |
+|[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 286.491 | 23.266 | 1.281 | -1.823 | -3.649 | -- |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 286.525 | 23.297 | 1.317 | -1.832 | -3.667 | -17.892 |
+| **UCC** |286.456 | 23.29 | 1.312 | -1.843 | -3.625 | -16.156 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=286.532,+23.337" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.532%2023.337&output=json&radius=5&userEntry=upk65" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=286.456,+23.29" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.456%2023.29&output=json&radius=5&userEntry=upk65" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65.webp" alt="UPK 65 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/upk65.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/upk65.webp" alt="UPK 65 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65_HUNT23.webp" alt="UPK 65 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/upk65.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/upk65.webp" alt="UPK 65 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/upk65_CANTAT20.webp" alt="UPK 65 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/upk65.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/upk65.webp" alt="UPK 65 CANTAT20">
 </a>
 </div>
 </div>
@@ -100,7 +99,7 @@ title:  UPK 65
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Sim et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52..145S) | `d_pc=758, log(age)=8.9` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.8, DMNN=9.36, AgeNN=8.44` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.121, Dist=768, logage=8.331, [Fe/H]=0.123` |
@@ -108,6 +107,29 @@ title:  UPK 65
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.1, logAge=8.7` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.068, diffAV50=1.321, MOD50=9.314, logAge50=8.351` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.99, dMod50=9.51, logAge50=8.81, [Fe/H]50=0.4` |
+| [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.79965, MOD=9.36005, logAge=8.64933, Z=0.12298` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=94.9724` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=55.378%20&lat=7.376&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="upk65"
+         data-ra-center="286.51"
+         data-dec-center="23.34"
+         data-rad-deg="16.4"
+         data-plx="1.312">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

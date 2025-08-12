@@ -11,8 +11,8 @@ title:  SAI 90
      src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/sai90_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.193" 
-     data-target="127.022 -41.75"/>
+     data-fov="0.263" 
+     data-target="127.018 -41.751"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,28 +21,28 @@ title:  SAI 90
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G260.0-01.8</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.46</td>
-    <td>0.39</td>
-    <td><span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td>50</td>
-    <td>5.8</td>
+    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span></td>
+    <td style="text-align: center;">24</td>
+    <td style="text-align: center;">7.9</td>
   </tr>
 </table>
+</div>
+
+<div style="text-align: center;">
+   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
 </div>
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22SAI%2090%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=sai90" target="_blank">Simbad</a></p>
@@ -52,29 +52,32 @@ title:  SAI 90
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 126.996 | -41.769 | -- | -1.91 | 1.81 | -- |
 |[Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G) | 126.995 | -41.769 | -- | -- | -- | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 127.023 | -41.77 | -- | -3.79 | 6.32 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 126.997 | -41.767 | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 127.026 | -41.754 | 0.418 | -4.822 | 4.335 | 14.297 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 126.702 | -41.79 | 0.418 | -- | -- | -- |
-| **UCC** |127.022 | -41.75 | 0.412 | -4.85 | 4.324 | 69.809 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 127.026 | -41.754 | 0.418 | -4.822 | 4.335 | 14.297 |
+| **UCC** |127.018 | -41.751 | 0.415 | -4.849 | 4.336 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=127.022,-41.75" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=127.022%20-41.75&output=json&radius=5&userEntry=sai90" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=127.018,-41.751" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=127.018%20-41.751&output=json&radius=5&userEntry=sai90" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/sai90.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/sai90.webp" alt="SAI 90 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/sai90.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/sai90.webp" alt="SAI 90 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/sai90_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/sai90_HUNT23.webp" alt="SAI 90 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/sai90.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/sai90.webp" alt="SAI 90 HUNT23">
 </a>
 </div>
 </div>
@@ -91,11 +94,34 @@ title:  SAI 90
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=1.02, Dist=2740.0, Age=9.05` |
 | [Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G) | `E(B-V)=1.02, Dm=12.19, Age=9.05` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.041, distance=3112, log_age=9.105` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.721, diffAV50=2.692, MOD50=11.723, logAge50=7.126` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.99, dMod50=12.04, logAge50=7.58, [Fe/H]50=1.04` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=247.597` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=260.006%20&lat=-1.845&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="sai90"
+         data-ra-center="127.02"
+         data-dec-center="-41.77"
+         data-rad-deg="7.9"
+         data-plx="0.415">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

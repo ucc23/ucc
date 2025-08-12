@@ -11,8 +11,8 @@ title:  HSC 40
      src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/hsc40_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.137" 
-     data-target="268.959 -26.724"/>
+     data-fov="0.073" 
+     data-target="268.969 -26.721"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  HSC 40
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G003.0-00.8</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.83</td>
-    <td>0.79</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>111</td>
-    <td>4.1</td>
+    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">68</td>
+    <td style="text-align: center;">2.2</td>
   </tr>
 </table>
 </div>
@@ -54,24 +50,26 @@ title:  HSC 40
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 268.971 | -26.726 | 0.349 | -0.635 | -2.414 | -10.691 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 268.971 | -26.715 | 0.354 | -- | -- | -- |
-| **UCC** |268.959 | -26.724 | 0.343 | -0.659 | -2.469 | -17.299 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 268.971 | -26.726 | 0.349 | -0.635 | -2.414 | -10.691 |
+| **UCC** |268.969 | -26.721 | 0.333 | -0.649 | -2.453 | -17.655 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=268.959,-26.724" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.959%20-26.724&output=json&radius=5&userEntry=hsc40" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=268.969,-26.721" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=268.969%20-26.721&output=json&radius=5&userEntry=hsc40" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/hsc40.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/hsc40.webp" alt="HSC 40 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/hsc40.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/hsc40.webp" alt="HSC 40 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/hsc40_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/hsc40_HUNT23.webp" alt="HSC 40 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/hsc40.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/hsc40.webp" alt="HSC 40 HUNT23">
 </a>
 </div>
 </div>
@@ -88,16 +86,38 @@ title:  HSC 40
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.968, diffAV50=2.828, MOD50=12.058, logAge50=8.034` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=5.08, dMod50=12.46, logAge50=8.0, [Fe/H]50=-0.8` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=2245.77` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 3089](/_clusters/cwnu3089/)| 98 | 268.959 | -26.724 | 0.342 | -0.666 | -2.469 | -17.319 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=3.065%20&lat=-0.815&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="hsc40"
+         data-ra-center="268.97"
+         data-dec-center="-26.73"
+         data-rad-deg="2.2"
+         data-plx="0.333">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 3089](/_clusters/cwnu3089/)| 100.0 | 268.966 | -26.724 | 0.324 | -0.659 | -2.469 | -17.319 |

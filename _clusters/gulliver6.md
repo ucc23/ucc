@@ -2,7 +2,7 @@
 layout: post
 title:  Gulliver 6
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
+<h3><span style="color: #808080;"><i>(FoF 2374)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
 <div style="text-align: center;">
 
 <!-- Static image + data attributes for FOV and target -->
@@ -11,8 +11,8 @@ title:  Gulliver 6
      src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/gulliver6_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.92" 
-     data-target="83.265 -1.659"/>
+     data-fov="1.147" 
+     data-target="83.339 -1.629"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Gulliver 6
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G205.2-18.1</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>1.0</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>497</td>
-    <td>27.6</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">723</td>
+    <td style="text-align: center;">34.4</td>
   </tr>
 </table>
 </div>
@@ -52,27 +48,30 @@ title:  Gulliver 6
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 83.376 | -1.683 | 2.368 | -0.311 | -0.081 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 83.278 | -1.652 | 2.367 | -0.007 | -0.207 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 83.275 | -1.659 | 2.35 | -0.048 | -0.235 | 32.044 |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 84.519 | -0.6 | 2.608 | -1.307 | -0.53 | -- |
-| **UCC** |83.265 | -1.659 | 2.402 | 0.035 | -0.228 | 28.062 |
+|[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 83.401 | -1.699 | 2.361 | -0.107 | -0.133 | -- |
+| **UCC** |83.339 | -1.629 | 2.408 | -0.069 | -0.236 | 28.058 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=83.265,-1.659" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.265%20-1.659&output=json&radius=5&userEntry=gulliver6" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=83.339,-1.629" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.339%20-1.629&output=json&radius=5&userEntry=gulliver6" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/gulliver6.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/gulliver6.webp" alt="Gulliver 6 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/gulliver6.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/gulliver6.webp" alt="Gulliver 6 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/gulliver6_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/gulliver6_CANTAT20.webp" alt="Gulliver 6 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/CANTAT20/gulliver6.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/CANTAT20/gulliver6.webp" alt="Gulliver 6 CANTAT20">
 </a>
 </div>
 </div>
@@ -89,18 +88,44 @@ title:  Gulliver 6
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.014, Z=0.0` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.25, DMNN=8.03, AgeNN=7.22` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.386, Dist=413, logage=7.134, [Fe/H]=-0.1` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.05, logAge=7.15` |
+| [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.24875, MOD=7.91034, logAge=7.01528, Z=-0.0949` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 13](/_clusters/theia13/)| 92 | 83.225 | -1.662 | 2.405 | 0.047 | -0.225 | 28.049 |
-|[UBC 17b](/_clusters/ubc17b/)| 87 | 83.19 | -1.655 | 2.401 | 0.049 | -0.195 | 28.984 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=205.263%20&lat=-18.029&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="gulliver6"
+         data-ra-center="83.28"
+         data-dec-center="-1.65"
+         data-rad-deg="34.4"
+         data-plx="2.408">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OCSN 194](/_clusters/ocsn194/)| 91.6 | 83.315 | -1.637 | 2.419 | -0.056 | -0.249 | 28.062 |
+|[UBC 17b](/_clusters/ubc17b/)| 24.8 | 83.165 | -1.709 | 2.396 | 0.07 | -0.218 | 25.619 |
+|[Theia 13](/_clusters/theia13/)| 13.6 | 83.138 | -1.758 | 2.404 | 0.076 | -0.219 | 25.773 |
+|[OCSN 61](/_clusters/ocsn61/)| 12.3 | 84.063 | -0.592 | 2.558 | -1.029 | -0.633 | 29.898 |
+|[OCSN 65](/_clusters/ocsn65/)| 6.2 | 83.789 | -1.805 | 2.366 | -1.311 | 0.921 | 27.08 |

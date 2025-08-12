@@ -11,8 +11,8 @@ title:  Melotte 111
      src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="12.387" 
-     data-target="184.745 25.577"/>
+     data-fov="26.85" 
+     data-target="185.06 25.478"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Melotte 111
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G224.9+83.6</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.97</td>
-    <td>1.0</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>100</td>
-    <td>371.6</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">150</td>
+    <td style="text-align: center;">805.5</td>
   </tr>
 </table>
 </div>
@@ -52,6 +48,7 @@ title:  Melotte 111
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 |
 |[Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 185.985 | 26.3 | -- | -11.72 | -8.76 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 186.27 | 26.1 | -- | -6.78 | -3.41 | -1.0 |
@@ -63,30 +60,32 @@ title:  Melotte 111
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 185.59 | 25.839 | 11.665 | -12.106 | -8.951 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 186.718 | 25.899 | 11.698 | -- | -- | -- |
-| **UCC** |184.745 | 25.577 | 11.614 | -12.018 | -9.109 | 0.065 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
+| **UCC** |185.06 | 25.478 | 11.593 | -12.038 | -9.002 | 0.38 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=184.745,+25.577" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=184.745%2025.577&output=json&radius=5&userEntry=melotte111" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=185.06,+25.478" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=185.06%2025.478&output=json&radius=5&userEntry=melotte111" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111.webp" alt="Melotte 111 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/melotte111.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/melotte111.webp" alt="Melotte 111 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111_HUNT23.webp" alt="Melotte 111 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/melotte111.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/melotte111.webp" alt="Melotte 111 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/melotte111_CANTAT20.webp" alt="Melotte 111 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/melotte111.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/melotte111.webp" alt="Melotte 111 CANTAT20">
 </a>
 </div>
 </div>
@@ -104,7 +103,8 @@ title:  Melotte 111
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.013, Dist=96.0, Age=8.652, [Fe/H]=0.07` |
 | [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=96.0, Age=0.44, [Fe/H]=-0.05` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=87, log_age=8.84, metallicity=0.07` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.013, Dmod=4.881, logt=8.652` |
@@ -114,6 +114,28 @@ title:  Melotte 111
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.75` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.071, diffAV50=0.436, MOD50=4.708, logAge50=8.816` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.29, dMod50=4.71, logAge50=8.47, [Fe/H]50=0.2` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=48.8812` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=222.508%20&lat=82.671&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="melotte111"
+         data-ra-center="186.01"
+         data-dec-center="25.65"
+         data-rad-deg="805.5"
+         data-plx="11.593">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

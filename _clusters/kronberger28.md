@@ -11,8 +11,8 @@ title:  Kronberger 28
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger28_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.067" 
-     data-target="301.622 35.565"/>
+     data-fov="0.15" 
+     data-target="301.656 35.57"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,32 +21,28 @@ title:  Kronberger 28
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G072.5+01.8</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.11</td>
-    <td>0.31</td>
-    <td><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td>0</td>
-    <td>2.0</td>
+    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
+    <td style="text-align: center;">16</td>
+    <td style="text-align: center;">4.5</td>
   </tr>
 </table>
 </div>
 
 <div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
+   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
 </div>
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Kronberger%2028%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=kronberger28" target="_blank">Simbad</a></p>
@@ -56,27 +52,30 @@ title:  Kronberger 28
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 301.633 | 35.576 | -- | -2.11 | -5.43 | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 301.627 | 35.57 | -- | -2.11 | -5.43 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 301.632 | 35.57 | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 301.659 | 35.55 | 0.24 | -3.222 | -5.627 | -- |
-| **UCC** |301.622 | 35.565 | 0.245 | -3.178 | -5.608 | -- |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 301.659 | 35.55 | 0.24 | -3.222 | -5.627 | -- |
+| **UCC** |301.656 | 35.57 | 0.245 | -3.208 | -5.611 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=301.622,+35.565" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.622%2035.565&output=json&radius=5&userEntry=kronberger28" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=301.656,+35.57" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=301.656%2035.57&output=json&radius=5&userEntry=kronberger28" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger28.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger28.webp" alt="Kronberger 28 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/kronberger28.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/kronberger28.webp" alt="Kronberger 28 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger28_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/kronberger28_HUNT23.webp" alt="Kronberger 28 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/kronberger28.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/kronberger28.webp" alt="Kronberger 28 HUNT23">
 </a>
 </div>
 </div>
@@ -93,9 +92,32 @@ title:  Kronberger 28
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=2.26, Dist=550.0, Age=8.6` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.77, distance=2694, log_age=8.855` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.601, diffAV50=1.68, MOD50=12.882, logAge50=8.28` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=381.417` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=72.543%20&lat=1.862&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="kronberger28"
+         data-ra-center="301.63"
+         data-dec-center="35.57"
+         data-rad-deg="4.5"
+         data-plx="0.245">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

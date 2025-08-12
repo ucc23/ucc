@@ -11,8 +11,8 @@ title:  Stock 15
      src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/stock15_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.303" 
-     data-target="182.617 -59.475"/>
+     data-fov="0.273" 
+     data-target="182.617 -59.468"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Stock 15
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G297.7+02.9a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.71</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>372</td>
-    <td>9.1</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">355</td>
+    <td style="text-align: center;">8.2</td>
   </tr>
 </table>
 </div>
@@ -52,26 +48,29 @@ title:  Stock 15
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 182.625 | -59.483 | -- | -5.92 | -1.82 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 182.628 | -59.473 | 0.735 | -5.945 | -0.832 | -12.528 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 182.582 | -59.453 | 0.734 | -- | -- | -- |
-| **UCC** |182.617 | -59.475 | 0.725 | -5.931 | -0.821 | -14.565 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 182.628 | -59.473 | 0.735 | -5.945 | -0.832 | -12.528 |
+| **UCC** |182.617 | -59.468 | 0.726 | -5.932 | -0.821 | -15.224 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=182.617,-59.475" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=182.617%20-59.475&output=json&radius=5&userEntry=stock15" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=182.617,-59.468" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=182.617%20-59.468&output=json&radius=5&userEntry=stock15" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/stock15.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/stock15.webp" alt="Stock 15 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/stock15.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/stock15.webp" alt="Stock 15 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/stock15_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/stock15_HUNT23.webp" alt="Stock 15 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/stock15.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/stock15.webp" alt="Stock 15 HUNT23">
 </a>
 </div>
 </div>
@@ -88,16 +87,38 @@ title:  Stock 15
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.927, diffAV50=1.009, MOD50=10.571, logAge50=8.324` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.18, dMod50=10.66, logAge50=8.2, [Fe/H]50=0.18` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=978.424` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[ESO 130 08](/_clusters/eso13008/)| 93 | 182.606 | -59.473 | 0.729 | -5.93 | -0.825 | -15.884 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=297.738%20&lat=2.992&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="stock15"
+         data-ra-center="182.63"
+         data-dec-center="-59.47"
+         data-rad-deg="8.2"
+         data-plx="0.726">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[ESO 130 08](/_clusters/eso13008/)| 94.6 | 182.614 | -59.47 | 0.725 | -5.937 | -0.822 | -15.224 |

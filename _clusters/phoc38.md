@@ -11,8 +11,8 @@ title:  PHOC 38
      src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc38_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.127" 
-     data-target="284.421 -1.544"/>
+     data-fov="0.13" 
+     data-target="284.421 -1.543"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  PHOC 38
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G032.2-02.0</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.98</td>
-    <td>0.78</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>37</td>
-    <td>3.8</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">33</td>
+    <td style="text-align: center;">3.9</td>
   </tr>
 </table>
 </div>
@@ -55,24 +51,26 @@ title:  PHOC 38
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 284.418 | -1.563 | 0.41 | 0.356 | -0.746 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 284.39 | -1.553 | 0.396 | 0.329 | -0.868 | -- |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 284.409 | -1.545 | 0.405 | -- | -- | -- |
-| **UCC** |284.421 | -1.544 | 0.404 | 0.382 | -0.787 | -11.301 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 284.39 | -1.553 | 0.396 | 0.329 | -0.868 | -- |
+| **UCC** |284.421 | -1.543 | 0.407 | 0.385 | -0.79 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=284.421,-1.544" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=284.421%20-1.544&output=json&radius=5&userEntry=phoc38" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=284.421,-1.543" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=284.421%20-1.543&output=json&radius=5&userEntry=phoc38" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc38.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc38.webp" alt="PHOC 38 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/phoc38.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/phoc38.webp" alt="PHOC 38 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc38_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/phoc38_HUNT23.webp" alt="PHOC 38 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/phoc38.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/phoc38.webp" alt="PHOC 38 HUNT23">
 </a>
 </div>
 </div>
@@ -89,9 +87,31 @@ title:  PHOC 38
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.995, diffAV50=2.163, MOD50=11.759, logAge50=7.74` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.03, dMod50=12.01, logAge50=8.03, [Fe/H]50=0.79` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=521.107` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=32.275%20&lat=-2.087&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="phoc38"
+         data-ra-center="284.4"
+         data-dec-center="-1.56"
+         data-rad-deg="3.9"
+         data-plx="0.407">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

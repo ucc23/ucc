@@ -11,8 +11,8 @@ title:  Pfleiderer 4
      src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pfleiderer4_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.09" 
-     data-target="357.722 62.321"/>
+     data-fov="0.037" 
+     data-target="357.722 62.317"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Pfleiderer 4
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G115.9+00.2</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.99</td>
-    <td>0.45</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td>245</td>
-    <td>2.7</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">109</td>
+    <td style="text-align: center;">1.1</td>
   </tr>
 </table>
 </div>
@@ -52,29 +48,32 @@ title:  Pfleiderer 4
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 357.729 | 62.321 | -- | 2.84 | 5.67 | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 357.728 | 62.32 | -- | 1.6 | -5.53 | -- |
 |[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 357.72 | 62.316 | -- | 1.638 | -5.62 | -125.9 |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 357.713 | 62.319 | -- | -- | -- | -- |
 |[He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H) | 357.721 | 62.319 | 0.118 | -1.304 | -0.503 | -121.01 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 357.734 | 62.318 | 0.043 | -1.342 | -0.486 | -- |
-| **UCC** |357.722 | 62.321 | 0.129 | -1.333 | -0.509 | -70.857 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 357.734 | 62.318 | 0.043 | -1.342 | -0.486 | -- |
+| **UCC** |357.722 | 62.317 | 0.096 | -1.332 | -0.497 | -94.445 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=357.722,+62.321" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.722%2062.321&output=json&radius=5&userEntry=pfleiderer4" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=357.722,+62.317" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.722%2062.317&output=json&radius=5&userEntry=pfleiderer4" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pfleiderer4.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pfleiderer4.webp" alt="Pfleiderer 4 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/pfleiderer4.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/pfleiderer4.webp" alt="Pfleiderer 4 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pfleiderer4_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/pfleiderer4_HUNT23.webp" alt="Pfleiderer 4 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/HUNT23/pfleiderer4.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/HUNT23/pfleiderer4.webp" alt="Pfleiderer 4 HUNT23">
 </a>
 </div>
 </div>
@@ -91,11 +90,34 @@ title:  Pfleiderer 4
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.62, Dist=7900.0, Age=9.8` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.812, distance=7722, log_age=9.65` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.52, Dmod=12.367, logt=8.58` |
 | [He et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..267...34H) | `A0=2.95, m-M=14.25, logA=9.2` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.709, diffAV50=1.121, MOD50=15.591, logAge50=8.655` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=2188.08` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=115.964%20&lat=0.268&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="pfleiderer4"
+         data-ra-center="357.72"
+         data-dec-center="62.32"
+         data-rad-deg="1.1"
+         data-plx="0.096">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

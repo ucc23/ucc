@@ -11,8 +11,8 @@ title:  COIN-Gaia 29
      src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.06" 
-     data-target="15.553 63.652"/>
+     data-fov="0.253" 
+     data-target="15.518 63.65"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,32 +21,24 @@ title:  COIN-Gaia 29
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G124.1+00.8</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.86</td>
-    <td>0.78</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>0</td>
-    <td>1.8</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">84</td>
+    <td style="text-align: center;">7.6</td>
   </tr>
 </table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22COIN-Gaia%2029%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=coingaia29" target="_blank">Simbad</a></p>
@@ -59,30 +51,32 @@ title:  COIN-Gaia 29
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 15.548 | 63.648 | 0.313 | -2.654 | -0.317 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 15.575 | 63.651 | 0.344 | -2.56 | -0.417 | -- |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 15.546 | 63.493 | 0.343 | -- | -- | -- |
-| **UCC** |15.553 | 63.652 | 0.331 | -2.675 | -0.368 | -- |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 15.575 | 63.651 | 0.344 | -2.56 | -0.417 | -- |
+| **UCC** |15.518 | 63.65 | 0.335 | -2.665 | -0.35 | -27.025 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=15.553,+63.652" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.553%2063.652&output=json&radius=5&userEntry=coingaia29" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=15.518,+63.65" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.518%2063.65&output=json&radius=5&userEntry=coingaia29" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29.webp" alt="COIN-Gaia 29 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/coingaia29.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/coingaia29.webp" alt="COIN-Gaia 29 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29_HUNT23.webp" alt="COIN-Gaia 29 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/HUNT23/coingaia29.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/HUNT23/coingaia29.webp" alt="COIN-Gaia 29 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia29_CANTAT20.webp" alt="COIN-Gaia 29 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/CANTAT20/coingaia29.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/CANTAT20/coingaia29.webp" alt="COIN-Gaia 29 CANTAT20">
 </a>
 </div>
 </div>
@@ -100,9 +94,38 @@ title:  COIN-Gaia 29
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.245, diffAV50=1.818, MOD50=12.148, logAge50=7.456` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.37, dMod50=12.72, logAge50=7.32, [Fe/H]50=0.53` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=203.483` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=124.113%20&lat=0.802&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="coingaia29"
+         data-ra-center="15.55"
+         data-dec-center="63.65"
+         data-rad-deg="7.6"
+         data-plx="0.335">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 10539](/_clusters/cwwdl10539/)| 4.8 | 15.376 | 63.587 | 0.353 | -2.443 | -0.414 | -- |

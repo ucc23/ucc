@@ -11,8 +11,8 @@ title:  UFMG 34
      src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ufmg34_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.153" 
-     data-target="233.851 -57.668"/>
+     data-fov="0.11" 
+     data-target="233.848 -57.669"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  UFMG 34
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G323.4-01.4</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.56</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>280</td>
-    <td>4.6</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">203</td>
+    <td style="text-align: center;">3.3</td>
   </tr>
 </table>
 </div>
@@ -56,24 +52,26 @@ title:  UFMG 34
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 233.855 | -57.665 | 0.381 | -3.593 | -5.727 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 233.84 | -57.656 | 0.414 | -3.633 | -5.739 | -13.375 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 233.843 | -57.667 | 0.41 | -- | -- | -- |
-| **UCC** |233.851 | -57.668 | 0.41 | -3.63 | -5.744 | -7.757 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 233.84 | -57.656 | 0.414 | -3.633 | -5.739 | -13.375 |
+| **UCC** |233.848 | -57.669 | 0.404 | -3.629 | -5.736 | -7.757 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=233.851,-57.668" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=233.851%20-57.668&output=json&radius=5&userEntry=ufmg34" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=233.848,-57.669" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=233.848%20-57.669&output=json&radius=5&userEntry=ufmg34" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ufmg34.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ufmg34.webp" alt="UFMG 34 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/ufmg34.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/ufmg34.webp" alt="UFMG 34 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ufmg34_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/ufmg34_HUNT23.webp" alt="UFMG 34 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/ufmg34.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/ufmg34.webp" alt="UFMG 34 HUNT23">
 </a>
 </div>
 </div>
@@ -90,11 +88,33 @@ title:  UFMG 34
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Ferreira et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2021F) | `E(B-V)=0.95, m-M=10.7, logt=9.25` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.192, Dist=2164, logage=8.927, [Fe/H]=0.034` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.87, diffAV50=1.309, MOD50=11.806, logAge50=8.457` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.5, dMod50=11.32, logAge50=8.99, [Fe/H]50=0.23` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=1806.33` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=323.473%20&lat=-1.486&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="ufmg34"
+         data-ra-center="233.84"
+         data-dec-center="-57.66"
+         data-rad-deg="3.3"
+         data-plx="0.404">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

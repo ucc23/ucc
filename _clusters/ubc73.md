@@ -11,8 +11,8 @@ title:  UBC 73
      src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ubc73_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.383" 
-     data-target="95.376 26.93"/>
+     data-fov="0.17" 
+     data-target="95.384 26.925"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  UBC 73
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G185.6+05.9</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.98</td>
-    <td>0.8</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>154</td>
-    <td>11.5</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">97</td>
+    <td style="text-align: center;">5.1</td>
   </tr>
 </table>
 </div>
@@ -54,24 +50,25 @@ title:  UBC 73
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 95.381 | 26.913 | 0.448 | 0.455 | -3.21 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 95.377 | 26.921 | 0.434 | 0.427 | -3.206 | -- |
-| **UCC** |95.376 | 26.93 | 0.434 | 0.426 | -3.182 | 13.271 |
+| **UCC** |95.384 | 26.925 | 0.441 | 0.421 | -3.183 | 31.754 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=95.376,+26.93" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.376%2026.93&output=json&radius=5&userEntry=ubc73" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=95.384,+26.925" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=95.384%2026.925&output=json&radius=5&userEntry=ubc73" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ubc73.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ubc73.webp" alt="UBC 73 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/ubc73.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/ubc73.webp" alt="UBC 73 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ubc73_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/ubc73_CANTAT20.webp" alt="UBC 73 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/ubc73.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/ubc73.webp" alt="UBC 73 CANTAT20">
 </a>
 </div>
 </div>
@@ -88,17 +85,38 @@ title:  UBC 73
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.56, DMNN=11.66, AgeNN=8.59` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.127, Dist=2031, logage=8.338, [Fe/H]=-0.185` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0304](/_clusters/oc0304/)| 62 | 95.384 | 26.916 | 0.428 | 0.38 | -3.166 | 29.641 |
-|[Gulliver 56](/_clusters/gulliver56/)| 32 | 95.424 | 26.936 | 0.488 | 0.447 | -3.144 | 121.796 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=185.655%20&lat=5.926&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="ubc73"
+         data-ra-center="95.38"
+         data-dec-center="26.91"
+         data-rad-deg="5.1"
+         data-plx="0.441">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Gulliver 56](/_clusters/gulliver56/)| 99.0 | 95.383 | 26.924 | 0.439 | 0.444 | -3.195 | 31.754 |
+|[OC 0304](/_clusters/oc0304/)| 52.6 | 95.381 | 26.902 | 0.44 | 0.43 | -3.183 | 27.529 |

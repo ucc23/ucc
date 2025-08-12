@@ -11,8 +11,8 @@ title:  Gaia 2
      src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.06" 
-     data-target="28.127 53.036"/>
+     data-fov="0.047" 
+     data-target="28.128 53.036"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Gaia 2
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G132.1-08.7</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>0.52</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>105</td>
-    <td>1.8</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">76</td>
+    <td style="text-align: center;">1.4</td>
   </tr>
 </table>
 </div>
@@ -55,30 +51,32 @@ title:  Gaia 2
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 28.136 | 53.058 | 0.099 | -1.181 | 1.299 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 28.129 | 53.049 | 0.167 | -1.318 | 1.219 | -54.371 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 28.127 | 53.048 | 0.167 | -- | -- | -- |
-| **UCC** |28.127 | 53.036 | 0.157 | -1.312 | 1.233 | -54.356 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 28.129 | 53.049 | 0.167 | -1.318 | 1.219 | -54.371 |
+| **UCC** |28.128 | 53.036 | 0.156 | -1.31 | 1.237 | -52.818 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=28.127,+53.036" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.127%2053.036&output=json&radius=5&userEntry=gaia2" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=28.128,+53.036" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=28.128%2053.036&output=json&radius=5&userEntry=gaia2" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2.webp" alt="Gaia 2 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/gaia2.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/gaia2.webp" alt="Gaia 2 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2_HUNT23.webp" alt="Gaia 2 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/gaia2.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/gaia2.webp" alt="Gaia 2 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/gaia2_CANTAT20.webp" alt="Gaia 2 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/CANTAT20/gaia2.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/CANTAT20/gaia2.webp" alt="Gaia 2 CANTAT20">
 </a>
 </div>
 </div>
@@ -96,10 +94,32 @@ title:  Gaia 2
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.5, DMNN=13.65, AgeNN=9.9` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.609, diffAV50=1.127, MOD50=14.007, logAge50=9.473` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.95, dMod50=13.43, logAge50=10.08, [Fe/H]50=-0.6` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=458.873` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=132.149%20&lat=-8.739&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="gaia2"
+         data-ra-center="28.14"
+         data-dec-center="53.06"
+         data-rad-deg="1.4"
+         data-plx="0.156">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

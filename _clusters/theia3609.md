@@ -11,8 +11,8 @@ title:  Theia 3609
      src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/theia3609_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.22" 
-     data-target="211.369 -61.663"/>
+     data-fov="0.197" 
+     data-target="211.397 -61.643"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Theia 3609
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G311.6+00.0a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.59</td>
-    <td>0.66</td>
-    <td><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>28</td>
-    <td>6.6</td>
+    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">41</td>
+    <td style="text-align: center;">5.9</td>
   </tr>
 </table>
 </div>
@@ -54,24 +50,26 @@ title:  Theia 3609
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 211.372 | -61.649 | 0.363 | -5.161 | -2.217 | -37.888 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 211.459 | -61.644 | 0.364 | -- | -- | -- |
-| **UCC** |211.369 | -61.663 | 0.353 | -5.285 | -2.189 | -32.986 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 211.372 | -61.649 | 0.363 | -5.161 | -2.217 | -37.888 |
+| **UCC** |211.397 | -61.643 | 0.363 | -5.223 | -2.209 | -27.775 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=211.369,-61.663" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=211.369%20-61.663&output=json&radius=5&userEntry=theia3609" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=211.397,-61.643" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=211.397%20-61.643&output=json&radius=5&userEntry=theia3609" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/theia3609.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/theia3609.webp" alt="Theia 3609 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/theia3609.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/theia3609.webp" alt="Theia 3609 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/theia3609_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/theia3609_HUNT23.webp" alt="Theia 3609 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/theia3609.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/theia3609.webp" alt="Theia 3609 HUNT23">
 </a>
 </div>
 </div>
@@ -88,9 +86,31 @@ title:  Theia 3609
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.454, diffAV50=2.857, MOD50=12.027, logAge50=7.429` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.24, dMod50=13.53, logAge50=7.38, [Fe/H]50=0.86` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=601.067` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=311.616%20&lat=-0.031&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="theia3609"
+         data-ra-center="211.37"
+         data-dec-center="-61.65"
+         data-rad-deg="5.9"
+         data-plx="0.363">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

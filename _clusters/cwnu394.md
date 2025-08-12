@@ -11,8 +11,8 @@ title:  CWNU 394
      src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/cwnu394_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.597" 
-     data-target="348.12 57.485"/>
+     data-fov="0.577" 
+     data-target="348.155 57.483"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  CWNU 394
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G109.9-02.8a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.51</td>
-    <td>0.51</td>
-    <td><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>27</td>
-    <td>17.9</td>
+    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">48</td>
+    <td style="text-align: center;">17.3</td>
   </tr>
 </table>
 </div>
@@ -54,13 +50,16 @@ title:  CWNU 394
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 348.324 | 57.527 | 0.92 | 0.27 | -1.37 | -24.5 |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 348.051 | 57.538 | 0.913 | 0.225 | -1.33 | -- |
-| **UCC** |348.12 | 57.485 | 0.916 | 0.27 | -1.339 | -24.808 |
+| **UCC** |348.155 | 57.483 | 0.917 | 0.25 | -1.351 | -27.344 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=348.12,+57.485" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.12%2057.485&output=json&radius=5&userEntry=cwnu394" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=348.155,+57.483" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=348.155%2057.483&output=json&radius=5&userEntry=cwnu394" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![CWNU 394](https://raw.githubusercontent.com/ucc23/Q2N/main/plots/cwnu394.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/cwnu394.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/cwnu394.webp" alt="CWNU 394 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -69,18 +68,41 @@ title:  CWNU 394
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=1.55, m-M=10.25, logAge=7.8, Z=0.038` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=2.25, logAge=7.9` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 2526](/_clusters/theia2526/)| 89 | 348.124 | 57.464 | 0.907 | 0.277 | -1.368 | -23.662 |
-|[LISC 3420](/_clusters/lisc3420/)| 86 | 348.124 | 57.458 | 0.903 | 0.277 | -1.368 | -23.662 |
-|[CWWDL 14366](/_clusters/cwwdl14366/)| 66 | 348.154 | 57.496 | 0.914 | 0.239 | -1.363 | -24.808 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=109.961%20&lat=-2.872&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="cwnu394"
+         data-ra-center="348.19"
+         data-dec-center="57.53"
+         data-rad-deg="17.3"
+         data-plx="0.917">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 14366](/_clusters/cwwdl14366/)| 100.0 | 348.219 | 57.477 | 0.916 | 0.242 | -1.34 | -29.865 |
+|[LISC 3420](/_clusters/lisc3420/)| 54.2 | 348.104 | 57.473 | 0.908 | 0.261 | -1.367 | -31.891 |
+|[Theia 2526](/_clusters/theia2526/)| 52.1 | 348.12 | 57.481 | 0.907 | 0.267 | -1.365 | -31.891 |
+|[CWNU 415](/_clusters/cwnu415/)| 47.9 | 347.861 | 57.411 | 0.91 | 0.239 | -1.378 | -23.498 |
+|[CWNU 83](/_clusters/cwnu83/)| 20.8 | 347.509 | 57.004 | 0.913 | 0.192 | -1.402 | -19.276 |

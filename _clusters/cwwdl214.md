@@ -11,8 +11,8 @@ title:  CWWDL 214
      src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/cwwdl214_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.137" 
-     data-target="149.032 -60.186"/>
+     data-fov="0.067" 
+     data-target="149.032 -60.18"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  CWWDL 214
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G282.7-04.3</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.77</td>
-    <td>0.9</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>28</td>
-    <td>4.1</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">41</td>
+    <td style="text-align: center;">2.0</td>
   </tr>
 </table>
 </div>
@@ -53,13 +49,16 @@ title:  CWWDL 214
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | 149.032 | -60.164 | 0.328 | -5.951 | 5.182 | 0.093 |
-| **UCC** |149.032 | -60.186 | 0.333 | -5.875 | 5.233 | 1.812 |
+| **UCC** |149.032 | -60.18 | 0.33 | -5.892 | 5.212 | 1.812 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=149.032,-60.186" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=149.032%20-60.186&output=json&radius=5&userEntry=cwwdl214" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=149.032,-60.18" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=149.032%20-60.18&output=json&radius=5&userEntry=cwwdl214" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![CWWDL 214](https://raw.githubusercontent.com/ucc23/Q4N/main/plots/cwwdl214.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/cwwdl214.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/cwwdl214.webp" alt="CWWDL 214 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -68,17 +67,38 @@ title:  CWWDL 214
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | `logAge=8.48, Z=-0.28` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 676](/_clusters/fof676/)| 93 | 149.024 | -60.186 | 0.333 | -5.875 | 5.226 | 1.812 |
-|[Theia 6242](/_clusters/theia6242/)| 80 | 149.023 | -60.183 | 0.336 | -5.875 | 5.223 | 0.659 |
-|[OC 0534](/_clusters/oc0534/)| 76 | 149.011 | -60.197 | 0.35 | -5.866 | 5.235 | 2.816 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=282.722%20&lat=-4.371&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="cwwdl214"
+         data-ra-center="149.03"
+         data-dec-center="-60.16"
+         data-rad-deg="2.0"
+         data-plx="0.33">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 6242](/_clusters/theia6242/)| 100.0 | 149.03 | -60.18 | 0.334 | -5.875 | 5.223 | 0.659 |
+|[FoF 676](/_clusters/fof676/)| 100.0 | 149.033 | -60.182 | 0.332 | -5.877 | 5.221 | -0.082 |
+|[OC 0534](/_clusters/oc0534/)| 100.0 | 149.032 | -60.183 | 0.333 | -5.876 | 5.223 | 0.809 |

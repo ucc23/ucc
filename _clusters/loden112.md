@@ -11,8 +11,8 @@ title:  Loden 112
      src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/loden112_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.193" 
-     data-target="158.307 -56.716"/>
+     data-fov="0.153" 
+     data-target="158.256 -56.712"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Loden 112
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G284.7+01.1</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.47</td>
-    <td>0.66</td>
-    <td><span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>32</td>
-    <td>5.8</td>
+    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">40</td>
+    <td style="text-align: center;">4.6</td>
   </tr>
 </table>
 </div>
@@ -55,24 +51,26 @@ title:  Loden 112
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 158.085 | -56.695 | -- | -8.68 | 4.2 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 158.301 | -56.689 | 0.393 | -7.402 | 3.516 | -- |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 158.272 | -56.706 | 0.393 | -- | -- | -- |
-| **UCC** |158.307 | -56.716 | 0.39 | -7.4 | 3.508 | -- |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 158.301 | -56.689 | 0.393 | -7.402 | 3.516 | -- |
+| **UCC** |158.256 | -56.712 | 0.394 | -7.395 | 3.536 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=158.307,-56.716" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=158.307%20-56.716&output=json&radius=5&userEntry=loden112" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=158.256,-56.712" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=158.256%20-56.712&output=json&radius=5&userEntry=loden112" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/loden112.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/loden112.webp" alt="Loden 112 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/loden112.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/loden112.webp" alt="Loden 112 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/loden112_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/loden112_HUNT23.webp" alt="Loden 112 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/loden112.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/loden112.webp" alt="Loden 112 HUNT23">
 </a>
 </div>
 </div>
@@ -89,10 +87,32 @@ title:  Loden 112
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.791, distance=2430, log_age=6.96` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.749, diffAV50=1.174, MOD50=11.895, logAge50=7.365` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.14, dMod50=11.73, logAge50=7.49, [Fe/H]50=0.08` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=238.727` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=284.763%20&lat=1.196&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="loden112"
+         data-ra-center="158.19"
+         data-dec-center="-56.69"
+         data-rad-deg="4.6"
+         data-plx="0.394">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

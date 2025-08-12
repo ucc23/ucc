@@ -11,8 +11,8 @@ title:  LISC-III 3723
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/lisciii3723_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.613" 
-     data-target="304.215 47.022"/>
+     data-fov="2.637" 
+     data-target="304.164 46.647"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,32 +21,24 @@ title:  LISC-III 3723
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G083.1+06.4</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.57</td>
-    <td>0.71</td>
-    <td><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>0</td>
-    <td>18.4</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">381</td>
+    <td style="text-align: center;">79.1</td>
   </tr>
 </table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>no stars with <i>P>0.5</i> were found</span>
 </div>
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22LISC-III%203723%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=lisciii3723" target="_blank">Simbad</a></p>
@@ -57,13 +49,16 @@ title:  LISC-III 3723
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023RAA....23f5008C) | 304.23 | 46.964 | 2.903 | 3.468 | 1.766 | -- |
-| **UCC** |304.215 | 47.022 | 2.907 | 3.469 | 1.752 | -8.512 |
+| **UCC** |304.164 | 46.647 | 2.921 | 3.512 | 1.723 | -7.452 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=304.215,+47.022" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.215%2047.022&output=json&radius=5&userEntry=lisciii3723" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=304.164,+46.647" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=304.164%2046.647&output=json&radius=5&userEntry=lisciii3723" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![LISC-III 3723](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/lisciii3723.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/lisciii3723.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/lisciii3723.webp" alt="LISC-III 3723 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -72,8 +67,39 @@ title:  LISC-III 3723
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023RAA....23f5008C) | `E(V-I)=0.105, m-M=7.39, Z=0.008, fbin=0.48` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=82.771%20&lat=6.396&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="lisciii3723"
+         data-ra-center="304.23"
+         data-dec-center="46.96"
+         data-rad-deg="79.1"
+         data-plx="2.921">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[RSG 5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.595 | 2.958 | 3.623 | 1.553 | -7.389 |
+|[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.594 | 2.965 | 3.626 | 1.558 | -7.389 |
+|[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.131 | 48.625 | 2.863 | 3.161 | 1.974 | -7.704 |
+|[Theia 96](/_clusters/theia96/)| 23.6 | 305.279 | 48.772 | 2.841 | 3.002 | 1.965 | -7.956 |

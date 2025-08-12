@@ -11,8 +11,8 @@ title:  COIN-Gaia 17
      src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia17_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.317" 
-     data-target="81.236 37.563"/>
+     data-fov="0.293" 
+     data-target="81.23 37.571"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  COIN-Gaia 17
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G170.4+01.0a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.91</td>
-    <td>0.64</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>122</td>
-    <td>9.5</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">102</td>
+    <td style="text-align: center;">8.8</td>
   </tr>
 </table>
 </div>
@@ -56,24 +52,25 @@ title:  COIN-Gaia 17
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 81.22 | 37.538 | 0.902 | 0.387 | -4.281 | -- |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 81.22 | 37.563 | 0.889 | 0.289 | -4.281 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 81.2 | 37.568 | 0.908 | 0.275 | -4.301 | -- |
-| **UCC** |81.236 | 37.563 | 0.895 | 0.285 | -4.308 | 8.916 |
+| **UCC** |81.23 | 37.571 | 0.894 | 0.285 | -4.308 | 8.916 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=81.236,+37.563" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.236%2037.563&output=json&radius=5&userEntry=coingaia17" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=81.23,+37.571" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=81.23%2037.571&output=json&radius=5&userEntry=coingaia17" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia17.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia17.webp" alt="COIN-Gaia 17 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/coingaia17.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/coingaia17.webp" alt="COIN-Gaia 17 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia17_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/coingaia17_CANTAT20.webp" alt="COIN-Gaia 17 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/CANTAT20/coingaia17.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/CANTAT20/coingaia17.webp" alt="COIN-Gaia 17 CANTAT20">
 </a>
 </div>
 </div>
@@ -90,19 +87,40 @@ title:  COIN-Gaia 17
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.75, DMNN=10.17, AgeNN=8.6` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.477, Dist=1039, logage=7.934, [Fe/H]=-0.115` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=1049, logAgeNN=8.57` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.35, logAge=8.55` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Saloranta 10](/_clusters/saloranta10/)| 96 | 81.227 | 37.558 | 0.896 | 0.281 | -4.304 | 8.916 |
-|[UBC 89](/_clusters/ubc89/)| 92 | 81.23 | 37.561 | 0.893 | 0.31 | -4.296 | 5.376 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=170.401%20&lat=1.019&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="coingaia17"
+         data-ra-center="81.24"
+         data-dec-center="37.56"
+         data-rad-deg="8.8"
+         data-plx="0.894">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 89](/_clusters/ubc89/)| 94.1 | 81.23 | 37.574 | 0.897 | 0.285 | -4.303 | 14.411 |
+|[Saloranta 10](/_clusters/saloranta10/)| 90.2 | 81.227 | 37.576 | 0.9 | 0.28 | -4.309 | 14.411 |

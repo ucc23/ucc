@@ -8,6 +8,21 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [250811](https://doi.org/10.5281/zenodo.16817343)
+
+- Updated [Liu & Pang 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L),
+- Updated [He et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H)
+- Updated [Qin et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q)
+- Updated [Chi et al. 2023](https://ui.adsabs.harvard.edu/abs/2023RAA....23f5008C)
+- Added [Dias et al. 2022](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D)
+- Added [Angelo et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...624A...8A)
+- Added [Dias et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5726D)
+- Added [Piatti et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.6216P)
+- Added [Alfonso et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A)
+- Added [Hunt & Reffert 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H)
+
+
+
 ## Version [250204](https://doi.org/10.5281/zenodo.14801947)
 
 - Added [Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B)

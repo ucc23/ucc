@@ -33,10 +33,12 @@ body {
 
 
 <!-- Load search bar -->
-<script defer src="{{ site.baseurl }}/scripts/euclidean-search.js"></script>
+<script defer type="module" src="{{ site.baseurl }}/scripts/euclidean-search.js"></script>
 
 <!-- Compression library used to access the compressed JSON file -->
-<script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/1.0.11/pako.min.js"></script>
+<!-- https://cdnjs.com/libraries/pako -->
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
 <!-- Function to open the first search result on 'Enter' -->
 <script defer>

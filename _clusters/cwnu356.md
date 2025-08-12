@@ -11,8 +11,8 @@ title:  CWNU 356
      src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwnu356_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.113" 
-     data-target="215.016 -61.068"/>
+     data-fov="0.147" 
+     data-target="215.066 -61.074"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  CWNU 356
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G313.4+00.0</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.75</td>
-    <td>0.77</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>24</td>
-    <td>3.4</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">53</td>
+    <td style="text-align: center;">4.4</td>
   </tr>
 </table>
 </div>
@@ -55,24 +51,26 @@ title:  CWNU 356
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 215.061 | -61.073 | 0.57 | -3.71 | -2.9 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 215.058 | -61.081 | 0.584 | -3.673 | -2.888 | 6.953 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 215.094 | -61.057 | 0.585 | -- | -- | -- |
-| **UCC** |215.016 | -61.068 | 0.575 | -3.74 | -2.898 | -- |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 215.058 | -61.081 | 0.584 | -3.673 | -2.888 | 6.953 |
+| **UCC** |215.066 | -61.074 | 0.572 | -3.704 | -2.898 | 6.882 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=215.016,-61.068" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.016%20-61.068&output=json&radius=5&userEntry=cwnu356" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=215.066,-61.074" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.066%20-61.074&output=json&radius=5&userEntry=cwnu356" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwnu356.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwnu356.webp" alt="CWNU 356 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/cwnu356.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/cwnu356.webp" alt="CWNU 356 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwnu356_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/cwnu356_HUNT23.webp" alt="CWNU 356 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/cwnu356.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/cwnu356.webp" alt="CWNU 356 HUNT23">
 </a>
 </div>
 </div>
@@ -89,10 +87,32 @@ title:  CWNU 356
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=1.5, m-M=11.7, logAge=6.7, Z=0.03` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.488, diffAV50=1.201, MOD50=11.021, logAge50=6.798` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.21, dMod50=11.05, logAge50=7.23, [Fe/H]50=-0.03` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=302.342` |
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=313.462%20&lat=-0.03&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="cwnu356"
+         data-ra-center="215.06"
+         data-dec-center="-61.08"
+         data-rad-deg="4.4"
+         data-plx="0.572">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

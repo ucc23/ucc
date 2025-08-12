@@ -11,8 +11,8 @@ title:  Ruprecht 167
      src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.327" 
-     data-target="215.146 -58.861"/>
+     data-fov="0.233" 
+     data-target="215.163 -58.864"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Ruprecht 167
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G314.2+02.0</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.98</td>
-    <td>0.76</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>124</td>
-    <td>9.8</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">78</td>
+    <td style="text-align: center;">7.0</td>
   </tr>
 </table>
 </div>
@@ -52,36 +48,39 @@ title:  Ruprecht 167
 
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 214.546 | -58.967 | -- | -6.17 | -6.55 | -- |
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 214.593 | -58.988 | -- | -5.86 | -3.2 | -- |
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 214.587 | -58.94 | -- | -- | -- | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 215.15 | -58.858 | 0.613 | -8.205 | -4.838 | -- |
 |[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 215.155 | -58.864 | 0.609 | -8.184 | -4.838 | -28.847 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 215.106 | -58.871 | 0.614 | -8.231 | -4.784 | -32.472 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 215.141 | -58.856 | 0.617 | -- | -- | -- |
-| **UCC** |215.146 | -58.861 | 0.617 | -8.234 | -4.794 | -29.57 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 215.106 | -58.871 | 0.614 | -8.231 | -4.784 | -32.472 |
+| **UCC** |215.163 | -58.864 | 0.621 | -8.218 | -4.8 | -29.71 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=215.146,-58.861" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.146%20-58.861&output=json&radius=5&userEntry=ruprecht167" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=215.163,-58.864" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=215.163%20-58.864&output=json&radius=5&userEntry=ruprecht167" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <input type="radio" name="radio-btn" id="slide3">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167.webp" alt="Ruprecht 167 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/ruprecht167.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/ruprecht167.webp" alt="Ruprecht 167 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167_HUNT23.webp" alt="Ruprecht 167 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/ruprecht167.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/ruprecht167.webp" alt="Ruprecht 167 HUNT23">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167_CANTAT20.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/ruprecht167_CANTAT20.webp" alt="Ruprecht 167 CANTAT20">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/CANTAT20/ruprecht167.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/CANTAT20/ruprecht167.webp" alt="Ruprecht 167 CANTAT20">
 </a>
 </div>
 </div>
@@ -99,19 +98,35 @@ title:  Ruprecht 167
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
+| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.1, Dist=2000.0, Age=8.57` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.521, distance=1609, log_age=7.245` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.42, DMNN=11.09, AgeNN=8.73` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.635, Dist=1472, logage=8.531, [Fe/H]=0.192` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.625, diffAV50=1.52, MOD50=10.927, logAge50=8.484` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.35, dMod50=10.89, logAge50=8.83, [Fe/H]50=0.5` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=547.203` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica 494](/_clusters/bica494/)| 89 | 215.157 | -58.866 | 0.625 | -8.227 | -4.796 | -29.665 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=314.256%20&lat=2.025&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="ruprecht167"
+         data-ra-center="215.15"
+         data-dec-center="-58.86"
+         data-rad-deg="7.0"
+         data-plx="0.621">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

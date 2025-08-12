@@ -11,8 +11,8 @@ title:  VVVX CL061
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/vvvxcl061_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.24" 
-     data-target="269.488 -18.445"/>
+     data-fov="0.243" 
+     data-target="269.484 -18.566"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  VVVX CL061
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G010.3+02.9</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.28</td>
-    <td>0.15</td>
-    <td><span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span></td>
-    <td>34</td>
-    <td>7.2</td>
+    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
+    <td style="text-align: center;">46</td>
+    <td style="text-align: center;">7.3</td>
   </tr>
 </table>
 </div>
@@ -53,17 +49,41 @@ title:  VVVX CL061
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B) | 269.431 | -18.542 | -- | -- | -- | -- |
-| **UCC** |269.488 | -18.445 | 0.327 | -0.445 | -2.24 | -21.187 |
+| **UCC** |269.484 | -18.566 | 0.244 | -0.655 | -2.022 | 42.097 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=269.488,-18.445" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.488%20-18.445&output=json&radius=5&userEntry=vvvxcl061" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=269.484,-18.566" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=269.484%20-18.566&output=json&radius=5&userEntry=vvvxcl061" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![VVVX CL061](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/vvvxcl061.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/vvvxcl061.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/vvvxcl061.webp" alt="VVVX CL061 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
 
 
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=10.376%20&lat=2.857&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+
+
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="vvvxcl061"
+         data-ra-center="269.43"
+         data-dec-center="-18.54"
+         data-rad-deg="7.3"
+         data-plx="0.244">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>

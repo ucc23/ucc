@@ -11,8 +11,8 @@ title:  Theia 2649
      src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia2649_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.23" 
-     data-target="106.862 -7.667"/>
+     data-fov="0.34" 
+     data-target="106.85 -7.665"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Theia 2649
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G221.5+00.0d</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.94</td>
-    <td>0.51</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>35</td>
-    <td>6.9</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">59</td>
+    <td style="text-align: center;">10.2</td>
   </tr>
 </table>
 </div>
@@ -54,24 +50,26 @@ title:  Theia 2649
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 106.884 | -7.665 | 0.911 | -3.935 | 1.184 | 31.628 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 106.798 | -7.651 | 0.919 | -- | -- | -- |
-| **UCC** |106.862 | -7.667 | 0.922 | -3.942 | 1.22 | 29.306 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 106.884 | -7.665 | 0.911 | -3.935 | 1.184 | 31.628 |
+| **UCC** |106.85 | -7.665 | 0.924 | -3.942 | 1.206 | 32.252 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=106.862,-7.667" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.862%20-7.667&output=json&radius=5&userEntry=theia2649" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=106.85,-7.665" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.85%20-7.665&output=json&radius=5&userEntry=theia2649" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia2649.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia2649.webp" alt="Theia 2649 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/theia2649.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/theia2649.webp" alt="Theia 2649 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia2649_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/theia2649_HUNT23.webp" alt="Theia 2649 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/theia2649.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/theia2649.webp" alt="Theia 2649 HUNT23">
 </a>
 </div>
 </div>
@@ -88,19 +86,41 @@ title:  Theia 2649
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.177, diffAV50=0.471, MOD50=10.038, logAge50=8.125` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.4, dMod50=10.24, logAge50=7.93, [Fe/H]50=0.43` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=166.295` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 4](/_clusters/phoc4/)| 91 | 106.856 | -7.667 | 0.921 | -3.943 | 1.219 | 32.127 |
-|[H21OC 54](/_clusters/h21oc54/)| 73 | 106.876 | -7.667 | 0.926 | -3.969 | 1.22 | 32.127 |
-|[CMa 01](/_clusters/cma01/)| 68 | 106.81 | -7.684 | 0.922 | -3.939 | 1.208 | 31.311 |
-|[HXHWL 54](/_clusters/hxhwl54/)| 67 | 106.88 | -7.647 | 0.924 | -3.982 | 1.232 | 32.127 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=221.57%20&lat=0.028&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="theia2649"
+         data-ra-center="106.88"
+         data-dec-center="-7.67"
+         data-rad-deg="10.2"
+         data-plx="0.924">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[PHOC 4](/_clusters/phoc4/)| 98.3 | 106.821 | -7.65 | 0.925 | -3.936 | 1.184 | 33.547 |
+|[H21OC 54](/_clusters/h21oc54/)| 96.6 | 106.848 | -7.657 | 0.928 | -3.936 | 1.207 | 33.547 |
+|[HXHWL 54](/_clusters/hxhwl54/)| 93.2 | 106.853 | -7.663 | 0.925 | -3.94 | 1.207 | 32.376 |
+|[CMa 01](/_clusters/cma01/)| 88.1 | 106.81 | -7.667 | 0.926 | -3.933 | 1.185 | 32.252 |

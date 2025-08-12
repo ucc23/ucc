@@ -11,8 +11,8 @@ title:  HXHWL 61
      src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/hxhwl61_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.25" 
-     data-target="102.729 -9.982"/>
+     data-fov="0.23" 
+     data-target="102.728 -9.974"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  HXHWL 61
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G221.7-04.6b</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.92</td>
-    <td>0.61</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>93</td>
-    <td>7.5</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">106</td>
+    <td style="text-align: center;">6.9</td>
   </tr>
 </table>
 </div>
@@ -53,13 +49,16 @@ title:  HXHWL 61
 | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 102.718 | -9.968 | 0.5 | -1.28 | 1.25 | -- |
-| **UCC** |102.729 | -9.982 | 0.473 | -1.304 | 1.244 | 49.279 |
+| **UCC** |102.728 | -9.974 | 0.476 | -1.291 | 1.241 | -- |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=102.729,-9.982" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=102.729%20-9.982&output=json&radius=5&userEntry=hxhwl61" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=102.728,-9.974" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=102.728%20-9.974&output=json&radius=5&userEntry=hxhwl61" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![HXHWL 61](https://raw.githubusercontent.com/ucc23/Q3N/main/plots/hxhwl61.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/hxhwl61.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/hxhwl61.webp" alt="HXHWL 61 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -68,17 +67,38 @@ title:  HXHWL 61
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=1.4, m-M=11.6, logAge=8.28, Z=0.02` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13298](/_clusters/cwwdl13298/)| 91 | 102.729 | -9.978 | 0.469 | -1.306 | 1.243 | 49.279 |
-|[UBC 1354](/_clusters/ubc1354/)| 61 | 102.769 | -9.947 | 0.465 | -1.305 | 1.244 | 45.219 |
-|[Theia 2266](/_clusters/theia2266/)| 60 | 102.728 | -10.01 | 0.478 | -1.301 | 1.231 | -- |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=221.76%20&lat=-4.639&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="hxhwl61"
+         data-ra-center="102.72"
+         data-dec-center="-9.97"
+         data-rad-deg="6.9"
+         data-plx="0.476">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Theia 2266](/_clusters/theia2266/)| 74.5 | 102.728 | -9.986 | 0.478 | -1.297 | 1.241 | -- |
+|[UBC 1354](/_clusters/ubc1354/)| 60.4 | 102.726 | -9.982 | 0.48 | -1.296 | 1.242 | -- |
+|[CWWDL 13298](/_clusters/cwwdl13298/)| 44.3 | 102.73 | -9.982 | 0.473 | -1.305 | 1.242 | -- |

@@ -11,7 +11,7 @@ title:  Gaia 6
      src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/gaia6_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.11" 
+     data-fov="0.107" 
      data-target="122.115 -23.701"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
@@ -21,26 +21,22 @@ title:  Gaia 6
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G242.7+04.8a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.93</td>
-    <td>0.52</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>242</td>
-    <td>3.3</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">230</td>
+    <td style="text-align: center;">3.2</td>
   </tr>
 </table>
 </div>
@@ -55,7 +51,8 @@ title:  Gaia 6
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 122.103 | -23.707 | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 122.108 | -23.699 | 0.235 | -2.201 | 4.041 | 64.59 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 122.12 | -23.701 | 0.249 | -- | -- | -- |
-| **UCC** |122.115 | -23.701 | 0.238 | -2.211 | 4.047 | 53.866 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 122.108 | -23.699 | 0.235 | -2.201 | 4.041 | 64.59 |
+| **UCC** |122.115 | -23.701 | 0.236 | -2.209 | 4.042 | 54.42 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=122.115,-23.701" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=122.115%20-23.701&output=json&radius=5&userEntry=gaia6" target="_blank">Simbad</a></p>
 
@@ -63,16 +60,17 @@ title:  Gaia 6
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/gaia6.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/gaia6.webp" alt="Gaia 6 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/gaia6.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/gaia6.webp" alt="Gaia 6 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/gaia6_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/gaia6_HUNT23.webp" alt="Gaia 6 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/gaia6.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/gaia6.webp" alt="Gaia 6 HUNT23">
 </a>
 </div>
 </div>
@@ -89,17 +87,39 @@ title:  Gaia 6
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.402, diffAV50=0.603, MOD50=12.819, logAge50=9.302` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.54, dMod50=12.31, logAge50=9.17, [Fe/H]50=-0.97` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=605.075` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 3100](/_clusters/cwwdl3100/)| 95 | 122.116 | -23.702 | 0.235 | -2.211 | 4.042 | 60.916 |
-|[UBC 1395](/_clusters/ubc1395/)| 93 | 122.117 | -23.701 | 0.236 | -2.21 | 4.053 | 82.279 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=242.748%20&lat=4.905&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="gaia6"
+         data-ra-center="122.11"
+         data-dec-center="-23.7"
+         data-rad-deg="3.2"
+         data-plx="0.236">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1395](/_clusters/ubc1395/)| 65.7 | 122.115 | -23.701 | 0.234 | -2.208 | 4.054 | 53.866 |
+|[CWWDL 3100](/_clusters/cwwdl3100/)| 27.0 | 122.107 | -23.7 | 0.24 | -2.188 | 4.058 | 52.752 |

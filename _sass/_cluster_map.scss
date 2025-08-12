@@ -1,0 +1,39 @@
+
+#map_plot {
+    margin-top: -50px; /* Moves it up by 10px */
+}
+
+.search-box {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: nowrap;       /* stay on one line */
+    gap: 8px;
+}
+
+.search-box input {
+    flex: 1 1 auto;
+    min-width: 80px;
+    padding: 6px 8px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.search-box button {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #666;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    white-space: nowrap;    /* prevent text wrapping */
+}
+
+.search-box button:hover {
+    background-color: #555;
+}

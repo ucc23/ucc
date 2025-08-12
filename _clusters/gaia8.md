@@ -11,8 +11,8 @@ title:  Gaia 8
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gaia8_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.97" 
-     data-target="282.531 33.388"/>
+     data-fov="1.017" 
+     data-target="282.562 33.363"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Gaia 8
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G063.2+14.7</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>1.0</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>120</td>
-    <td>29.1</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">133</td>
+    <td style="text-align: center;">30.5</td>
   </tr>
 </table>
 </div>
@@ -54,24 +50,26 @@ title:  Gaia 8
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 282.474 | 33.019 | 3.437 | -- | -- | -- |
-| **UCC** |282.531 | 33.388 | 3.458 | 1.809 | -3.87 | -18.689 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
+| **UCC** |282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.531,+33.388" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.531%2033.388&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.562,+33.363" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.562%2033.363&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gaia8.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gaia8.webp" alt="Gaia 8 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gaia8.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gaia8.webp" alt="Gaia 8 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gaia8_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/gaia8_HUNT23.webp" alt="Gaia 8 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gaia8.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gaia8.webp" alt="Gaia 8 HUNT23">
 </a>
 </div>
 </div>
@@ -88,17 +86,41 @@ title:  Gaia 8
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.181, diffAV50=0.644, MOD50=7.298, logAge50=7.324` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=7.37, logAge50=7.15, [Fe/H]50=-0.26` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=73.3434` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 41](/_clusters/phoc41/)| 100 | 282.524 | 33.388 | 3.458 | 1.802 | -3.87 | -18.689 |
-|[CWWL 3595](/_clusters/cwwl3595/)| 99 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=63.212%20&lat=14.733&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="gaia8"
+         data-ra-center="282.54"
+         data-dec-center="33.39"
+         data-rad-deg="30.5"
+         data-plx="3.447">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[PHOC 41](/_clusters/phoc41/)| 91.0 | 282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
+|[OCSN 249](/_clusters/ocsn249/)| 77.4 | 282.52 | 33.391 | 3.462 | 1.822 | -3.874 | -18.828 |
+|[CWWL 3595](/_clusters/cwwl3595/)| 60.9 | 282.533 | 33.371 | 3.469 | 1.822 | -3.874 | -18.538 |
+|[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 |

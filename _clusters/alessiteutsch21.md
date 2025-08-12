@@ -11,8 +11,8 @@ title:  Alessi-Teutsch 21
      src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/alessiteutsch21_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.227" 
-     data-target="15.055 55.455"/>
+     data-fov="0.313" 
+     data-target="15.054 55.411"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  Alessi-Teutsch 21
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G124.2-07.4</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>0.95</td>
-    <td>0.71</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td>42</td>
-    <td>6.8</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
+    <td style="text-align: center;">229</td>
+    <td style="text-align: center;">9.4</td>
   </tr>
 </table>
 </div>
@@ -55,24 +51,26 @@ title:  Alessi-Teutsch 21
 |[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 15.073 | 55.38 | -- | -- | -- | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 15.098 | 55.406 | 0.76 | -4.438 | -2.065 | -33.137 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 15.054 | 55.402 | 0.769 | -- | -- | -- |
-| **UCC** |15.055 | 55.455 | 0.769 | -4.446 | -2.052 | -36.635 |
+|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 15.098 | 55.406 | 0.76 | -4.438 | -2.065 | -33.137 |
+| **UCC** |15.054 | 55.411 | 0.769 | -4.431 | -2.059 | -32.589 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=15.055,+55.455" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.055%2055.455&output=json&radius=5&userEntry=alessiteutsch21" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=15.054,+55.411" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=15.054%2055.411&output=json&radius=5&userEntry=alessiteutsch21" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
 <div class="carousel">
 <input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
 <input type="radio" name="radio-btn" id="slide2">
 <div class="slides">
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/alessiteutsch21.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/alessiteutsch21.webp" alt="Alessi-Teutsch 21 UCC">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/alessiteutsch21.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/alessiteutsch21.webp" alt="Alessi-Teutsch 21 UCC">
 </a>
 </div>
 <div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/alessiteutsch21_HUNT23.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/alessiteutsch21_HUNT23.webp" alt="Alessi-Teutsch 21 HUNT23">
+<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/alessiteutsch21.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/alessiteutsch21.webp" alt="Alessi-Teutsch 21 HUNT23">
 </a>
 </div>
 </div>
@@ -89,17 +87,40 @@ title:  Alessi-Teutsch 21
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.807, diffAV50=0.672, MOD50=10.427, logAge50=8.566` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.96, dMod50=10.54, logAge50=8.55, [Fe/H]50=0.2` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=519.491` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 35](/_clusters/ubc35/)| 81 | 15.056 | 55.442 | 0.76 | -4.475 | -1.986 | -31.743 |
-|[COIN-Gaia 2](/_clusters/coingaia2/)| 63 | 15.051 | 55.411 | 0.772 | -4.442 | -2.063 | -32.113 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=124.188%20&lat=-7.437&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="alessiteutsch21"
+         data-ra-center="15.09"
+         data-dec-center="55.39"
+         data-rad-deg="9.4"
+         data-plx="0.769">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 35](/_clusters/ubc35/)| 90.8 | 15.054 | 55.409 | 0.771 | -4.436 | -2.053 | -32.45 |
+|[COIN-Gaia 2](/_clusters/coingaia2/)| 80.8 | 15.054 | 55.409 | 0.773 | -4.438 | -2.055 | -32.253 |
+|[CWWDL 3306](/_clusters/cwwdl3306/)| 29.3 | 15.075 | 55.386 | 0.777 | -4.439 | -2.081 | -32.191 |

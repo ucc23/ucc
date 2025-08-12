@@ -1,5 +1,5 @@
 table {
-    padding: 0;
+  padding: 0;
   /* Added lines below to center */
   border-collapse: collapse; /* Ensure borders are collapsed */
   border-spacing: 0;
@@ -17,10 +17,15 @@ table tr:nth-child(2n) {
     background-color: #f8f8f8;
 }
 
+table tr:hover {
+    background-color: #ffe6a1;
+}
+
 table tr th {
     font-weight: bold;
     border: 1px solid #cccccc;
     text-align: left;
+    vertical-align: middle; /* Align vertically */
     margin: 0;
     padding: 6px 13px;
 }
@@ -28,6 +33,7 @@ table tr th {
 table tr td {
     border: 1px solid #cccccc;
     text-align: left;
+    vertical-align: middle; /* Align vertically */
     margin: 0;
     padding: 6px 13px;
 }
@@ -41,3 +47,12 @@ table tr th :last-child,
 table tr td :last-child {
     margin-bottom: 0;
 }
+
+.sorted-asc, .sorted-desc {
+    background-color: #e6f3ff !important; /* light blue highlight */
+}
+// .sort-indicator {
+//     margin-left: 5px;
+//     font-size: 0.8em;
+//     color: #555;
+// }

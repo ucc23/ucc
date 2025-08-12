@@ -11,8 +11,8 @@ title:  PHOC 41
      src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/phoc41_aladin.webp"
      alt="Click to load Aladin Lite" 
      style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.943" 
-     data-target="282.524 33.388"/>
+     data-fov="0.98" 
+     data-target="282.542 33.378"/>
 <!-- Div to contain Aladin Lite viewer -->
 <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
 <!-- Aladin Lite script (will be loaded after the image is clicked) -->
@@ -21,26 +21,22 @@ title:  PHOC 41
 </div>
 <!-- Left block -->
 
-<table style="text-align: center; width:355px;height:250px;">
+<table style="width:355px;height:250px;">
   <!-- Row 1 (title) -->
   <tr>
     <td colspan="5"><h3>UCC G063.2+14.7a</h3></td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Photometric class">C1</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Density class">C2</a></th>
-    <th><a href="https://ucc.ar/faq#what-are-the-c1-c2-and-c3-parameters" title="Combined class">C3</a></th>
-    <th><div title="Stars with membership probability >50%">N_50</div></th>
-    <th><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
+    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td>1.0</td>
-    <td>1.0</td>
-    <td><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td>122</td>
-    <td>28.3</td>
+    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
+    <td style="text-align: center;">122</td>
+    <td style="text-align: center;">29.4</td>
   </tr>
 </table>
 </div>
@@ -54,13 +50,16 @@ title:  PHOC 41
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 282.554 | 33.41 | 3.422 | 1.848 | -3.84 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 282.564 | 33.4 | 3.474 | 1.858 | -3.864 | -- |
-| **UCC** |282.524 | 33.388 | 3.458 | 1.802 | -3.87 | -18.689 |
+| **UCC** |282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
 
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.524,+33.388" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.524%2033.388&output=json&radius=5&userEntry=phoc41" target="_blank">Simbad</a></p>
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.542,+33.378" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.542%2033.378&output=json&radius=5&userEntry=phoc41" target="_blank">Simbad</a></p>
 
 ### Estimated members
 
-![PHOC 41](https://raw.githubusercontent.com/ucc23/Q1P/main/plots/phoc41.webp)
+<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/phoc41.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/phoc41.webp" alt="PHOC 41 UCC">
+</a>
+
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
@@ -69,16 +68,39 @@ title:  PHOC 41
 ### Fundamental parameters
 
 | Reference |  Values |
-| :---         |     :---:      |
+| :---      |  :---:  |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.55, logAge=7.6` |
 
-### Probable <a href="https://ucc.ar/faq#how-are-probable-duplicates-identified" title="See FAQ for definition of proximity">duplicates</a>
-
-| Cluster | P (%) | RA    | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Gaia 8](/_clusters/gaia8/)| 100 | 282.531 | 33.388 | 3.458 | 1.809 | -3.87 | -18.689 |
-|[CWWL 3595](/_clusters/cwwl3595/)| 98 | 282.531 | 33.392 | 3.458 | 1.809 | -3.87 | -18.689 |
+> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=63.221%20&lat=14.773&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
 
+### Cluster region
+
+<html lang="en">
+  <body>
+    <center>
+    <div id="plot-params"
+         data-oc-name="phoc41"
+         data-ra-center="282.56"
+         data-dec-center="33.41"
+         data-rad-deg="29.4"
+         data-plx="3.452">
+    </div>
+    <div id="plot-container">
+        <div id="plot"></div>
+    </div>
+    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+    </center>
+  </body>
+</html>
 <br>
-<font color="b3b1b1"><i>Last modified: 2025-05-25</i></font>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 |
+|[OCSN 249](/_clusters/ocsn249/)| 84.4 | 282.52 | 33.391 | 3.462 | 1.822 | -3.874 | -18.828 |
+|[CWWL 3595](/_clusters/cwwl3595/)| 66.4 | 282.533 | 33.371 | 3.469 | 1.822 | -3.874 | -18.538 |
+|[OCSN 16](/_clusters/ocsn16/)| 1.6 | 283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 |

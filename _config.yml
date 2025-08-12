@@ -69,10 +69,9 @@ relative_links:
   enabled:     false
 
 # Full site include
-include: ['_pages', '_clusters', '_tables']
+#include: ['_pages', '_clusters', '_tables']
+include: ['_pages', '_clusters2', '_tables']
 
-# # Partial include for testing
-# include: ['_pages', '_clusters2']
 
 # Exclude these files from your production _site
 exclude:
