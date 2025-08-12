@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-11T18:27:07.351Z",
+  "fetched_at": "2025-08-12T01:21:45.687Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.05296v1",
@@ -581,99 +581,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2508.02393v1",
-      "updated": "2025-08-04T13:18:13Z",
-      "published": "2025-08-04T13:18:13Z",
-      "title": "PARSEC V2.0: Rotating tracks and isochrones for seven addtional\n  metallicities in the range Z=0.0001-0.03",
-      "summary": "  PARSEC v2.0 rotating stellar tracks were previously presented for six values\nof metallicity from subsolar to solar values, with initial rotation rates\n($\\omega_\\mathrm{i}$, defined as the ratio of angular velocity and its critical\nvalue) spanning from the non-rotating case to very near the critical velocity\n(i.e. $\\omega_\\mathrm{i}=0.99$), and for initial masses covering the $\\sim 0.7\nM_\\odot$ to $14 M_\\odot$ interval. Furthermore, we provided the corresponding\nisochrones converted into several photometric systems, for different\ninclination angles between the line-of-sight and the rotation axes, from\n$0^\\circ$ (pole-on) to $90^\\circ$ (equator-on). In this work, we expand this\ndatabase with seven other sets of metallicity, including five sets of low\nmetallicity ($Z=0.0001-0.002$) and two sets of super-solar values (up to\n$Z=0.03$). Here, we present the new stellar tracks, comprising $\\sim$3\\,040\ntracks in total ($\\sim$5\\,500 including previous sets), along with the new\ncorresponding rotating isochrones. We also introduce the possibility of\ncreating isochrones, by interpolation, for values of rotating rates not\navailable in the initial set of tracks. We compare a selection of our new\nmodels with rotating stellar tracks from the Geneva Stellar Evolution Code, and\nwe assess the quality of our new tracks by fitting the colour-magnitude diagram\nof the open cluster NGC6067. We take advantage of the projected rotational\nvelocity of member stars measured by Gaia to validate our results and examine\nthe surface oxygen abundances in comparison with the observed data. All newly\ncomputed stellar tracks and isochrones are retrievable via our dedicated web\ndatabases and interfaces.\n",
-      "author": [
-        {
-          "name": "C. T. Nguyen"
-        },
-        {
-          "name": "G. Costa"
-        },
-        {
-          "name": "A. Bressan"
-        },
-        {
-          "name": "L. Girardi"
-        },
-        {
-          "name": "G. Cescutti"
-        },
-        {
-          "name": "A. J. Korn"
-        },
-        {
-          "name": "G. Volpato"
-        },
-        {
-          "name": "Y. Chen"
-        },
-        {
-          "name": "G. Pastorelli"
-        },
-        {
-          "name": "M. Trabucchi"
-        },
-        {
-          "name": "K. G. Shepherd"
-        },
-        {
-          "name": "G. Ettorre"
-        },
-        {
-          "name": "S. Zaggia"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "11 pages, 11 figures, accepted for publication in A&A journal",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2508.02393v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2508.02393v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1.5
     }
   ]
 }
