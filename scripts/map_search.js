@@ -1,5 +1,6 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 import { stringDifference } from './stringDifference.js';
+import { enableTableSorting } from './table-sorting.js';
 
 // Set up dimensions and projection
 const plotDiv = document.getElementById("map_plot");
@@ -140,8 +141,8 @@ function downloadCSV(points) {
 
 
 function getPoints(terms, maxN) {
-    // If maxN is not provided return empty array
-    if (!maxN || isNaN(parseFloat(maxN))) {
+    // If terms is empty or maxN invalid, return empty array
+    if (!terms || terms.trim() === "" || !maxN || isNaN(parseFloat(maxN))) {
         return [];
     }
 
@@ -149,6 +150,7 @@ function getPoints(terms, maxN) {
 
     let equatorial_s = false, galactic_s = false, normalizedQuery = null;
     let x = null, y = null;
+    const radius = 180;
     if (terms_in[0].match(/^\d/)) {
         equatorial_s = true; // RA/DEC search
         x = parseFloat(terms_in[0]);
@@ -160,7 +162,8 @@ function getPoints(terms, maxN) {
     } else {
         // Globally removes spaces, underscores, periods, and hyphens,
         // globally replaces '+' with 'p'
-        normalizedQuery = terms.replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
+        normalizedQuery = terms.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
+        const radius = 1;
     }
 
     let results = data
@@ -193,7 +196,7 @@ function getPoints(terms, maxN) {
             };
         })
         // Filter for euclidean search, string diff is always <1
-        // .filter(user => user.distance < 10)
+        .filter(d => d.dist_c < radius)
         .sort((a, b) => a.dist_c - b.dist_c)
         .slice(0, maxN);
 
@@ -201,138 +204,79 @@ function getPoints(terms, maxN) {
 }
 
 
-// Remember last column sorting
-let lastSort = { columnIndex: null, ascending: true };
 
-function enableTableSorting(table) {
-    const headers = table.querySelectorAll("th");
-
-    headers.forEach((header, columnIndex) => {
-        header.style.cursor = "pointer";
-
-        header.addEventListener("click", () => {
-            const tbody = table.querySelector("tbody");
-            const rows = Array.from(tbody.querySelectorAll("tr"));
-
-            // Toggle direction if same column, otherwise start ascending
-            let ascending;
-            if (lastSort.columnIndex === columnIndex) {
-                ascending = !lastSort.ascending;
-            } else {
-                ascending = true;
-            }
-            lastSort = { columnIndex, ascending };
-
-            // Remove old indicators
-            headers.forEach(th => {
-                th.classList.remove("sorted-asc", "sorted-desc");
-                const indicator = th.querySelector(".sort-indicator");
-                if (indicator) indicator.remove();
-            });
-
-            // Apply new indicator
-            header.classList.toggle("sorted-asc", ascending);
-            header.classList.toggle("sorted-desc", !ascending);
-            const arrow = document.createElement("span");
-            arrow.className = "sort-indicator";
-            arrow.textContent = ascending ? "▲" : "▼";
-            header.appendChild(arrow);
-
-            // Sort
-            rows.sort((a, b) => {
-                const cellA = a.cells[columnIndex].textContent.trim();
-                const cellB = b.cells[columnIndex].textContent.trim();
-                const numA = parseFloat(cellA.replace(/,/g, ""));
-                const numB = parseFloat(cellB.replace(/,/g, ""));
-                if (!isNaN(numA) && !isNaN(numB)) {
-                    return ascending ? numA - numB : numB - numA;
-                }
-                return ascending
-                    ? cellA.localeCompare(cellB)
-                    : cellB.localeCompare(cellA);
-            });
-
-            tbody.append(...rows);
-        });
-    });
-}
-
-
-// Map letters to colors
-const letterColors = {
-    A: "green",
-    B: "#FFC300",
-    C: "red",
-    D: "purple"
+// Pre-build C3 letter fragments
+const letterHTML = {
+    A: '<span class="c3-A">A</span>',
+    B: '<span class="c3-B">B</span>',
+    C: '<span class="c3-C">C</span>',
+    D: '<span class="c3-D">D</span>'
 };
 
+
 function buildTable(points, circles, sizeScale) {
-    // Clear old table
-    tableContainer.html("");
+    // Build header HTML
+    const tableHeader = `
+        <thead>
+            <tr>
+                <th class="left">ID</th>
+                <th class="center">RA</th>
+                <th class="center">DEC</th>
+                <th class="center">Dist (pc)</th>
+                <th class="center">N_50</th>
+                <th class="center">C3</th>
+            </tr>
+        </thead>`;
 
-    const table = tableContainer.append("table")
-        .attr("id", "resultsTable")
-        .style("border-collapse", "collapse")
-        .style("width", `${width}px`)
-        .style("border", "1px solid #ccc")
-        .style("background", "#fff");
-
-    // Table header
-    const header = table.append("thead").append("tr");
-    ["ID", "RA", "DEC", "Dist (pc)", "N_50", "C3"].forEach((col, i) => {
-        header.append("th")
-            .text(col)
-            .style("border", "1px solid #ccc")
-            .style("text-align", i === 0 ? "left" : "center")
-            .style("padding-left", i === 0 ? "12px" : null) // ~2 spaces
-            .style("background", "#f0f0f0");
-    });
-
-    // Body
-    const tbody = table.append("tbody");
+    // Build body HTML
+    let tableBody = "<tbody>";
     points.forEach((d, i) => {
-        const row = tbody.append("tr")
-            .style("cursor", "pointer")
-            .on("click", () => {
-                // Reset all circles
-                circles
-                    .attr("r", d => sizeScale(d.membs))
-                    .style("opacity", 0.25)
-                    .style("stroke", "black");
+        const c3HTML = d.c3.split("").map(l => letterHTML[l] || l).join("");
+        tableBody += `
+            <tr data-index="${i}">
+                <td class="left"><a href="https://ucc.ar/_clusters/${d.fname}" target="_blank">${d.name}</a></td>
+                <td class="center">${d.ra.toFixed(2)}</td>
+                <td class="center">${d.dec.toFixed(2)}</td>
+                <td class="center">${d.dist.toFixed(0)}</td>
+                <td class="center">${d.membs}</td>
+                <td class="center">${c3HTML}</td>
+            </tr>`;
+    });
+    tableBody += "</tbody>";
 
-                // Highlight selected circle
-                const circle = circles.filter((p, idx) => idx === i);
-                circle.raise() // Bring to front
-                    .attr("r", d => sizeScale(d.membs) * 1.) // Double size
-                    .style("opacity", 0.75)
-                    .style("stroke", "yellow")
-                    .style("stroke-width", 2);
-            });
+    // Inject table
+    tableContainer.html(`
+        <table id="resultsTable" class="results-table" style="width:${width}px">
+            ${tableHeader}
+            ${tableBody}
+        </table>
+    `);
 
-        // ID clickable link
-        row.append("td")
-            .append("a")
-            .attr("href", "https://ucc.ar/_clusters/" + d.fname)
-            .attr("target", "_blank")
-            .text(d.name)
-            .style("color", "blue");
+    const table = document.getElementById("resultsTable");
 
-        row.append("td").text(d.ra.toFixed(2)).style("border", "1px solid #ccc").style("text-align", "center");
-        row.append("td").text(d.dec.toFixed(2)).style("border", "1px solid #ccc").style("text-align", "center");
-        row.append("td").text(d.dist.toFixed(0)).style("border", "1px solid #ccc").style("text-align", "center");
-        row.append("td").text(d.membs).style("border", "1px solid #ccc").style("text-align", "center");
-        // c3 colored letters
-        const c3Cell = row.append("td").style("border", "1px solid #ccc").style("text-align", "center");
-        d.c3.split("").forEach(letter => {
-            c3Cell.append("span")
-                .text(letter)
-                .style("color", letterColors[letter] || "black")
-                .style("font-weight", "bold");
-        });
+    // Event delegation for row clicks
+    table.addEventListener("click", (e) => {
+        const row = e.target.closest("tr[data-index]");
+        if (row) {
+            const idx = +row.dataset.index;
+            const d = points[idx];
+            // Reset all circles
+            circles
+                .attr("r", p => sizeScale(p.membs))
+                .style("opacity", 0.25)
+                .style("stroke", "black");
+            // Highlight selected circle
+            const circle = circles.filter((p, i) => i === idx);
+            circle.raise()
+                .attr("r", p => sizeScale(p.membs) * 1.0)
+                .style("opacity", 0.75)
+                .style("stroke", "yellow")
+                .style("stroke-width", 2);
+        }
     });
 
     // Enable sorting
-    enableTableSorting(document.getElementById("resultsTable"));
+    enableTableSorting(table);
 }
 
 
