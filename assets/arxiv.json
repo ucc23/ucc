@@ -1,6 +1,210 @@
 {
-  "fetched_at": "2025-08-13T01:23:30.847Z",
+  "fetched_at": "2025-08-13T06:27:34.183Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.09127v1",
+      "updated": "2025-08-12T17:55:21Z",
+      "published": "2025-08-12T17:55:21Z",
+      "title": "Binary clusters in the Galactic disk I: Systematic identification and\n  classification using Gaia DR3",
+      "summary": "  Aims. We aim to identify and classify BCs using high-precision astrometric\nand kinematic data, and to investigate their physical properties, mutual\ngravitational interactions, and formation rates. Methods. We used a\ncomprehensive star cluster catalog that contains 4,084 high-quality clusters.\nBased on spatial and kinematic proximity, we identified 400 cluster pairs\ninvolving 686 unique clusters. These pairs were classified into three types:\nprimordial BCs, systems formed through tidal capture or resonant trapping, and\nhyperbolic encounter pairs. For each system, we calculated the tidal factor to\nquantify the strength of mutual tidal interaction. Additionally, we constructed\nmulti-cluster systems by identifying transitive connections among cluster\npairs. Results. Among the 400 identified cluster pairs, nearly 60.8% (243\npairs) are probably primordial BCs, exhibiting both similar ages and motions.\nThis supports a scenario where they formed together in the same giant molecular\ncloud. We find that 82.5% of the cluster pairs have strong mutual tidal forces.\nIn addition, 278 star clusters are identified as members of 82 multi-cluster\nsystems, including 27 newly reported groups. Cross-matching with the literature\nconfirms the recovery of previously reported systems and leads to the discovery\nof 268 new cluster pairs. In our sample, about 16.8% of star clusters are\ninvolved in some type of interaction with another cluster, and 9.94% of star\nclusters are likely born in primordial BCs. Conclusions. Our results provide a\ncomprehensive, homogeneously identified sample of Galactic BCs. The high\nfraction of primordial BCs and their mutual tidal interaction suggest that\ncluster formation in pairs is a main outcome of star formation. This work\noffers new observational constraints on the formation and dynamical evolution\nof multiple star cluster systems.\n",
+      "author": [
+        {
+          "name": "Guimei Liu"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Songmei Qin"
+        },
+        {
+          "name": "Yueyue Jiang"
+        },
+        {
+          "name": "Li Chen"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publications in A&A. 11 pages, 8 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.09127v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.09127v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.08666v1",
+      "updated": "2025-08-12T06:20:52Z",
+      "published": "2025-08-12T06:20:52Z",
+      "title": "Formation process of young stellar population in Messier 16 from a\n  kinematic perspective",
+      "summary": "  We present a kinematic study of young stars in Messier 16 (M16) using the\nGaia Data Release 3 and high-resolution spectra. A total of 345 stars are\nselected as genuine members using the published lists of X-ray, infrared\nsources, and early-type stars as well as the Gaia data. There is severe\ndifferential reddening across this region and the reddening law of the\nintracluster medium appears abnormal. The distance to M16, derived from the\nparallaxes of the members, is about 1.7 kpc. The ages of members, estimated by\ncomparing their color-magnitude diagram with theoretical isochrones, range from\n1 Myr to 4 Myr. This star-forming region is composed of an open cluster (NGC\n6611) and a distributed population. This cluster shows a clear pattern of\nexpansion and rotation. Some of the distributed population are spatially\nassociated with the gas pillars located at the ridge of H II bubble. In\nparticular, several stars moving away from the cluster are physically\nassociated with the northeastern pillar. In addition, their younger ages\nsupport the idea that the formation of these stars was triggered by the\nfeedback from massive stars in NGC 6611. On the other hand, the other stars do\nnot show systematic radial or stream motions; therefore, they likely formed\nthrough spontaneous star formation events. We discuss the formation of young\nstars in the context of cluster expansion, spontaneous star formation, and\nfeedback-driven star formation, and suggest that all of these mechanisms\npossibly contributed to their formation.\n",
+      "author": [
+        {
+          "name": "Beomdu Lim"
+        },
+        {
+          "name": "Hyeong-Sik Yun"
+        },
+        {
+          "name": "Hyun-Jeong Kim"
+        },
+        {
+          "name": "Yuna Lee"
+        },
+        {
+          "name": "Jae-Rim Koo"
+        },
+        {
+          "name": "Jongsuk Hong"
+        },
+        {
+          "name": "Heeyoung Oh"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 16 figures, Accepted for publication in AJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.08666v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.08666v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.08406v1",
+      "updated": "2025-08-11T18:55:11Z",
+      "published": "2025-08-11T18:55:11Z",
+      "title": "Hot Jupiter formation in dense stellar clusters: A Monte Carlo model\n  applied to 47 Tucanae",
+      "summary": "  We study the efficiency of high-e migration as a pathway for Hot Jupiter\nformation in the dense globular cluster 47 Tuc. Gravitational N-body\nsimulations are performed to investigate the orbital evolution of star-planet\nsystems due to dynamical stellar perturbations. Planetary systems that have\nbeen scattered into orbits of sufficiently high eccentricity can undergo tidal\ncircularisation, with Hot Jupiter formation being one possible stopping\ncondition. We also account for the possibility of (i) ionisation due to\nhigh-energy encounters, (ii) tidal disruption of the planet by tidal forces\ninside the Roche limit and (iii) Warm Jupiter formation. The orbital evolution\nof a population of cold Jupiter progenitors, with initial semi-major axes\nbetween 1-30 au, is simulated over 12 Gyr using a simplified dynamical model of\n47 Tuc. Our computational treatment of dynamical encounters yields an overall\nHJ occurrence rate of F_HJ = 5.9 x 10^-4 per cluster star (a 51 per cent\nenhancement relative to the analytic baseline). The probability of Hot Jupiter\nformation is highest in the core and falls off steeply beyond a few parsecs\nfrom the centre of the cluster, where the stellar density is too low to drive\nefficient eccentricity diffusion. The code can be found here:\nhttps://github.com/James-Wirth/HotJupiter.\n",
+      "author": [
+        {
+          "name": "J. A. Wirth"
+        },
+        {
+          "name": "C. J. Clarke"
+        },
+        {
+          "name": "A. J. Winter"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.08406v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.08406v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2508.05296v1",
       "updated": "2025-08-07T11:52:12Z",
