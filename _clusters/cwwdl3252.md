@@ -93,3 +93,10 @@ title:  CWWDL 3252
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[NGC 188](/_clusters/ngc188/)| 100.0 | 11.786 | 85.243 | 0.525 | -2.32 | -1.007 | -41.837 |

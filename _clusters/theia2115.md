@@ -120,4 +120,6 @@ title:  Theia 2115
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 256](/_clusters/cwnu256/)| 100.0 | 239.436 | -53.066 | 0.721 | -3.277 | -3.201 | -15.804 |
+|[CWWDL 13864](/_clusters/cwwdl13864/)| 100.0 | 239.436 | -53.066 | 0.722 | -3.281 | -3.201 | -15.804 |
 |[OC 0637](/_clusters/oc0637/)| 63.4 | 239.427 | -53.061 | 0.732 | -3.277 | -3.204 | -15.804 |

@@ -119,3 +119,10 @@ title:  Kronberger 13
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1059](/_clusters/ubc1059/)| 66.7 | 291.314 | 13.945 | 0.294 | -1.817 | -4.244 | 16.404 |

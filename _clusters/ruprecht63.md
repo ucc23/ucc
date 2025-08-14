@@ -140,5 +140,5 @@ title:  Ruprecht 63
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0488](/_clusters/oc0488/)| 9.7 | 128.176 | -48.296 | 0.236 | -2.519 | 3.265 | 33.457 |
 |[OC 0487](/_clusters/oc0487/)| 9.7 | 128.159 | -48.303 | 0.216 | -2.525 | 3.245 | 33.457 |
+|[OC 0488](/_clusters/oc0488/)| 9.7 | 128.176 | -48.296 | 0.236 | -2.519 | 3.265 | 33.457 |

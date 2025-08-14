@@ -118,4 +118,6 @@ title:  COIN-Gaia 22
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 70](/_clusters/ubc70/)| 96.8 | 91.064 | 31.602 | 0.508 | -0.764 | -3.292 | 12.071 |
+|[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.062 | 31.601 | 0.508 | -0.764 | -3.294 | 12.071 |
 |[CWWDL 12517](/_clusters/cwwdl12517/)| 78.4 | 91.066 | 31.599 | 0.508 | -0.768 | -3.294 | 12.071 |

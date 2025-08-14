@@ -119,6 +119,6 @@ title:  UBC 17b
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.315 | -1.637 | 2.419 | -0.056 | -0.249 | 28.062 |
 |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.339 | -1.629 | 2.408 | -0.069 | -0.236 | 28.058 |
+|[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.315 | -1.637 | 2.419 | -0.056 | -0.249 | 28.062 |
 |[Theia 13](/_clusters/theia13/)| 54.7 | 83.138 | -1.758 | 2.404 | 0.076 | -0.219 | 25.773 |

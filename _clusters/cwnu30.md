@@ -100,4 +100,5 @@ title:  CWNU 30
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[Theia 4509](/_clusters/theia4509/)| 98.1 | 305.899 | 31.062 | 0.551 | -2.135 | -5.152 | 4.01 |
+|[UBC 1088](/_clusters/ubc1088/)| 90.4 | 305.899 | 31.058 | 0.55 | -2.127 | -5.154 | 4.01 |
 |[CWNU 64](/_clusters/cwnu64/)| 44.2 | 305.896 | 31.084 | 0.544 | -2.11 | -5.155 | 26.569 |

@@ -114,3 +114,10 @@ title:  Theia 2460
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 1151](/_clusters/cwnu1151/)| 83.7 | 256.165 | -51.389 | 0.892 | -0.684 | -1.245 | 1.932 |

@@ -118,3 +118,10 @@ title:  Theia 8106
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0490](/_clusters/oc0490/)| 92.0 | 137.36 | -43.318 | 0.396 | -4.439 | 4.988 | -- |

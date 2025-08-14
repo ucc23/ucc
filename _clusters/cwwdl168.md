@@ -100,3 +100,4 @@ title:  CWWDL 168
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[CWNU 242](/_clusters/cwnu242/)| 100.0 | 129.99 | -48.231 | 0.454 | -4.991 | 5.067 | 23.009 |
+|[UBC 1450](/_clusters/ubc1450/)| 89.8 | 129.99 | -48.229 | 0.461 | -4.994 | 5.086 | 35.403 |

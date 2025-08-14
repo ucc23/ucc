@@ -99,6 +99,6 @@ title:  CWNU 278
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1522](/_clusters/ubc1522/)| 100.0 | 198.223 | -64.264 | 0.46 | -4.347 | -0.531 | -18.401 |
 |[LISC 3164](/_clusters/lisc3164/)| 100.0 | 198.232 | -64.262 | 0.463 | -4.337 | -0.537 | -18.401 |
+|[UBC 1522](/_clusters/ubc1522/)| 100.0 | 198.223 | -64.264 | 0.46 | -4.347 | -0.531 | -18.401 |
 |[CWWDL 5475](/_clusters/cwwdl5475/)| 92.3 | 198.218 | -64.265 | 0.459 | -4.355 | -0.522 | -18.401 |

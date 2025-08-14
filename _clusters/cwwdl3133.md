@@ -99,6 +99,6 @@ title:  CWWDL 3133
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 49](/_clusters/ubc49/)| 100.0 | 60.217 | 59.192 | 0.384 | -1.821 | -1.376 | -14.679 |
 |[LISC 3058](/_clusters/lisc3058/)| 100.0 | 60.213 | 59.193 | 0.384 | -1.821 | -1.381 | -14.679 |
+|[UBC 49](/_clusters/ubc49/)| 100.0 | 60.217 | 59.192 | 0.384 | -1.821 | -1.376 | -14.679 |
 |[OC 0269](/_clusters/oc0269/)| 78.3 | 60.228 | 59.203 | 0.378 | -1.825 | -1.38 | -14.679 |

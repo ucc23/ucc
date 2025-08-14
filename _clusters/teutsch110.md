@@ -115,3 +115,10 @@ title:  Teutsch 110
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 3456](/_clusters/cwnu3456/)| 98.2 | 201.638 | -64.103 | 0.148 | -6.952 | -1.369 | -44.119 |

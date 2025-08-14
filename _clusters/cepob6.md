@@ -99,5 +99,5 @@ title:  Cep OB6
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.079 | 56.534 | 4.135 | 16.791 | 4.81 | -13.98 |
 |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.467 | 56.638 | 4.139 | 16.9 | 4.725 | -14.536 |
+|[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.079 | 56.534 | 4.135 | 16.791 | 4.81 | -13.98 |

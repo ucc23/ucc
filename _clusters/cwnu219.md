@@ -99,4 +99,5 @@ title:  CWNU 219
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1189](/_clusters/ubc1189/)| 94.4 | 356.063 | 62.675 | 0.368 | -3.842 | -1.92 | -- |
 |[CWWDL 2585](/_clusters/cwwdl2585/)| 5.6 | 356.003 | 62.661 | 0.333 | -3.678 | -1.47 | -65.428 |

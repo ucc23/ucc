@@ -121,4 +121,6 @@ title:  Kronberger 6
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.065 | 31.602 | 0.508 | -0.764 | -3.295 | 12.071 |
+|[UBC 70](/_clusters/ubc70/)| 100.0 | 91.064 | 31.602 | 0.508 | -0.764 | -3.292 | 12.071 |
 |[CWWDL 12517](/_clusters/cwwdl12517/)| 84.5 | 91.066 | 31.599 | 0.508 | -0.768 | -3.294 | 12.071 |

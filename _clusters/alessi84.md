@@ -119,4 +119,5 @@ title:  Alessi 84
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OCSN 304](/_clusters/ocsn304/)| 100.0 | 110.724 | 55.284 | 5.043 | -2.844 | -31.222 | 10.763 |
 |[CWNU 1128](/_clusters/cwnu1128/)| 69.2 | 110.607 | 55.281 | 5.043 | -2.736 | -31.141 | 11.016 |

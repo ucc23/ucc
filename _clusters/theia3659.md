@@ -118,3 +118,10 @@ title:  Theia 3659
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 2043](/_clusters/cwnu2043/)| 84.0 | 328.451 | 51.601 | 0.368 | -3.714 | -2.325 | -- |

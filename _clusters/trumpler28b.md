@@ -100,5 +100,5 @@ title:  Trumpler 28b
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.268 | -32.495 | 0.292 | -0.514 | -2.195 | -19.959 |
-|[UBC 569](/_clusters/ubc569/)| 1.4 | 264.221 | -32.463 | 0.662 | -0.779 | -2.814 | -37.197 |
 |[Trumpler 28](/_clusters/trumpler28/)| 1.4 | 264.224 | -32.464 | 0.646 | -0.844 | -2.826 | -48.36 |
+|[UBC 569](/_clusters/ubc569/)| 1.4 | 264.221 | -32.463 | 0.662 | -0.779 | -2.814 | -37.197 |

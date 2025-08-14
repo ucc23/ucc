@@ -121,4 +121,5 @@ title:  Teutsch 247
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 1574](/_clusters/cwwdl1574/)| 95.7 | 239.63 | -53.658 | 0.37 | -3.872 | -4.332 | -27.638 |
 |[UBC 1540](/_clusters/ubc1540/)| 79.1 | 239.629 | -53.66 | 0.366 | -3.874 | -4.336 | 23.175 |

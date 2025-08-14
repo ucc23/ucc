@@ -111,3 +111,10 @@ title:  Shorlin 1
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0559](/_clusters/oc0559/)| 45.5 | 166.447 | -61.228 | 0.11 | -5.897 | 2.199 | 93.753 |

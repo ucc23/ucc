@@ -116,3 +116,10 @@ title:  PTB 9
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[NGC 7762](/_clusters/ngc7762/)| 98.1 | 357.452 | 68.038 | 1.031 | 1.482 | 3.975 | -44.727 |

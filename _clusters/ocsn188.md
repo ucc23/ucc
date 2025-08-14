@@ -99,7 +99,7 @@ title:  OCSN 188
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2435](/_clusters/fof2435/)| 100.0 | 167.163 | -77.196 | 5.246 | -22.533 | 0.282 | 13.924 |
 |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.162 | -77.197 | 5.246 | -22.533 | 0.286 | 13.923 |
+|[FoF 2435](/_clusters/fof2435/)| 100.0 | 167.163 | -77.196 | 5.246 | -22.533 | 0.282 | 13.924 |
 |[OC 0579](/_clusters/oc0579/)| 62.2 | 167.093 | -77.559 | 5.269 | -23.025 | 0.592 | 17.538 |
 |[CWWDL 14679](/_clusters/cwwdl14679/)| 16.3 | 167.445 | -76.546 | 5.201 | -22.067 | -0.249 | 14.708 |

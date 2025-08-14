@@ -114,3 +114,10 @@ title:  Theia 1907
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UFMG 16](/_clusters/ufmg16/)| 80.0 | 245.07 | -44.868 | 0.755 | 0.479 | -2.274 | -37.705 |

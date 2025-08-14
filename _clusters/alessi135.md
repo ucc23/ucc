@@ -93,6 +93,6 @@ title:  Alessi 135
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.452 | 27.036 | 1.044 | -0.331 | -1.012 | -0.048 |
 |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.452 | 27.025 | 1.053 | -0.328 | -1.006 | -0.012 |
+|[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.452 | 27.036 | 1.044 | -0.331 | -1.012 | -0.048 |
 |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.456 | 27.022 | 1.055 | -0.328 | -1.0 | -3.588 |

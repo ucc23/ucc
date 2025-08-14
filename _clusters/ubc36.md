@@ -126,3 +126,10 @@ title:  UBC 36
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 13365](/_clusters/cwwdl13365/)| 86.7 | 16.486 | 59.627 | 0.497 | -1.163 | -0.477 | -51.505 |

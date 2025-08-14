@@ -119,3 +119,10 @@ title:  ASCC 5
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 3665](/_clusters/cwnu3665/)| 100.0 | 14.461 | 55.848 | 0.544 | -2.403 | -1.886 | -11.127 |

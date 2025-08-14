@@ -100,5 +100,5 @@ title:  OCSN 46
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[FoF 2428](/_clusters/fof2428/)| 100.0 | 43.09 | 68.855 | 2.279 | 1.464 | -7.934 | -6.865 |
-|[Theia 123](/_clusters/theia123/)| 14.8 | 43.342 | 68.859 | 2.269 | 1.38 | -7.935 | -5.675 |
 |[OC 0242](/_clusters/oc0242/)| 14.8 | 42.421 | 68.984 | 2.279 | 1.556 | -7.983 | -7.131 |
+|[Theia 123](/_clusters/theia123/)| 14.8 | 43.342 | 68.859 | 2.269 | 1.38 | -7.935 | -5.675 |

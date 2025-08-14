@@ -100,5 +100,5 @@ title:  CWWDL 3104
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[LISC 0901](/_clusters/lisc0901/)| 100.0 | 133.923 | -38.572 | 0.238 | -4.983 | 3.86 | 53.527 |
-|[UBC 1438](/_clusters/ubc1438/)| 100.0 | 133.923 | -38.567 | 0.235 | -5.01 | 3.844 | 51.673 |
 |[Theia 6978](/_clusters/theia6978/)| 100.0 | 133.924 | -38.568 | 0.236 | -5.008 | 3.848 | 51.673 |
+|[UBC 1438](/_clusters/ubc1438/)| 100.0 | 133.923 | -38.567 | 0.235 | -5.01 | 3.844 | 51.673 |

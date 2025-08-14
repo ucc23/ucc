@@ -93,6 +93,6 @@ title:  PHOC 20
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 2510](/_clusters/theia2510/)| 100.0 | 277.012 | -15.363 | 0.868 | -2.662 | -3.569 | 12.939 |
 |[CWWDL 14359](/_clusters/cwwdl14359/)| 100.0 | 277.015 | -15.357 | 0.868 | -2.67 | -3.594 | 16.412 |
 |[HXHWL 57](/_clusters/hxhwl57/)| 100.0 | 276.993 | -15.353 | 0.865 | -2.67 | -3.569 | 12.939 |
+|[Theia 2510](/_clusters/theia2510/)| 100.0 | 277.012 | -15.363 | 0.868 | -2.662 | -3.569 | 12.939 |

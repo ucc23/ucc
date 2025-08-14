@@ -140,5 +140,5 @@ title:  Melotte 239
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0163](/_clusters/oc0163/)| 3.8 | 332.689 | 52.889 | 0.274 | -3.837 | -3.341 | -- |
 |[OC 0162](/_clusters/oc0162/)| 3.8 | 332.682 | 52.903 | 0.308 | -3.907 | -3.282 | -- |
+|[OC 0163](/_clusters/oc0163/)| 3.8 | 332.689 | 52.889 | 0.274 | -3.837 | -3.341 | -- |

@@ -131,3 +131,10 @@ title:  Lynga 14
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0670](/_clusters/oc0670/)| 80.8 | 253.763 | -45.235 | 0.36 | -0.405 | -2.002 | -- |

@@ -99,5 +99,5 @@ title:  CWWDL 970
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 341](/_clusters/ubc341/)| 100.0 | 276.467 | -17.074 | 0.485 | -0.222 | -1.534 | -27.469 |
 |[Dolidze 52a](/_clusters/dolidze52a/)| 100.0 | 276.465 | -17.076 | 0.485 | -0.222 | -1.558 | -27.469 |
+|[UBC 341](/_clusters/ubc341/)| 100.0 | 276.467 | -17.074 | 0.485 | -0.222 | -1.534 | -27.469 |

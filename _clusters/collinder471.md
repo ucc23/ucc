@@ -122,5 +122,5 @@ title:  Collinder 471
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 10](/_clusters/theia10/)| 100.0 | 333.126 | 73.246 | 2.927 | 5.398 | 1.582 | -16.149 |
 |[OCSN 38](/_clusters/ocsn38/)| 100.0 | 332.888 | 73.154 | 2.926 | 5.365 | 1.579 | -17.501 |
+|[Theia 10](/_clusters/theia10/)| 100.0 | 333.126 | 73.246 | 2.927 | 5.398 | 1.582 | -16.149 |

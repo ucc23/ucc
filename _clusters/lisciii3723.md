@@ -100,6 +100,6 @@ title:  LISC-III 3723
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[RSG 5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.595 | 2.958 | 3.623 | 1.553 | -7.389 |
-|[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.594 | 2.965 | 3.626 | 1.558 | -7.389 |
 |[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.131 | 48.625 | 2.863 | 3.161 | 1.974 | -7.704 |
+|[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.594 | 2.965 | 3.626 | 1.558 | -7.389 |
 |[Theia 96](/_clusters/theia96/)| 23.6 | 305.279 | 48.772 | 2.841 | 3.002 | 1.965 | -7.956 |

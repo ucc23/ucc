@@ -122,6 +122,6 @@ title:  UBC 7
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[Alessi 36](/_clusters/alessi36/)| 100.0 | 106.61 | -37.644 | 3.605 | -9.662 | 7.082 | 15.355 |
-|[OCSN 210](/_clusters/ocsn210/)| 100.0 | 106.612 | -37.666 | 3.603 | -9.677 | 7.085 | 15.355 |
 |[FoF 2385](/_clusters/fof2385/)| 100.0 | 106.807 | -37.695 | 3.591 | -9.723 | 7.004 | 15.661 |
+|[OCSN 210](/_clusters/ocsn210/)| 100.0 | 106.612 | -37.666 | 3.603 | -9.677 | 7.085 | 15.355 |
 |[Collinder 135](/_clusters/collinder135/)| 2.4 | 109.363 | -36.948 | 3.34 | -10.036 | 6.221 | 15.099 |

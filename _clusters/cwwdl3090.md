@@ -93,3 +93,10 @@ title:  CWWDL 3090
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1323](/_clusters/ubc1323/)| 93.5 | 101.944 | 11.413 | 0.217 | -0.262 | -0.587 | -- |

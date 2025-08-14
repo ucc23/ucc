@@ -139,5 +139,5 @@ title:  Berkeley 7
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 2006](/_clusters/cwwdl2006/)| 2.3 | 28.916 | 61.987 | 0.329 | -1.067 | -0.306 | -- |
-|[CWWDL 2619](/_clusters/cwwdl2619/)| 0.8 | 28.304 | 62.766 | 0.334 | -0.998 | -0.28 | -- |
 |[CWWDL 2617](/_clusters/cwwdl2617/)| 0.8 | 27.995 | 62.704 | 0.334 | -1.094 | -0.233 | -- |
+|[CWWDL 2619](/_clusters/cwwdl2619/)| 0.8 | 28.304 | 62.766 | 0.334 | -0.998 | -0.28 | -- |

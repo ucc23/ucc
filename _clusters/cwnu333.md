@@ -97,3 +97,10 @@ title:  CWNU 333
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0142](/_clusters/oc0142/)| 84.0 | 322.544 | 45.596 | 0.629 | -3.351 | -4.475 | -13.514 |

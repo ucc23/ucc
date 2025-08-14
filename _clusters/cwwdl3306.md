@@ -99,6 +99,6 @@ title:  CWWDL 3306
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[COIN-Gaia 2](/_clusters/coingaia2/)| 100.0 | 15.054 | 55.409 | 0.773 | -4.438 | -2.055 | -32.253 |
 |[Alessi-Teutsch 21](/_clusters/alessiteutsch21/)| 100.0 | 15.054 | 55.411 | 0.769 | -4.431 | -2.059 | -32.589 |
+|[COIN-Gaia 2](/_clusters/coingaia2/)| 100.0 | 15.054 | 55.409 | 0.773 | -4.438 | -2.055 | -32.253 |
 |[UBC 35](/_clusters/ubc35/)| 100.0 | 15.054 | 55.409 | 0.771 | -4.436 | -2.053 | -32.45 |

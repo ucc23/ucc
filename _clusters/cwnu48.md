@@ -103,6 +103,6 @@ title:  CWNU 48
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[HXHWL 69](/_clusters/hxhwl69/)| 32.0 | 101.15 | -24.303 | 0.961 | -1.522 | 2.455 | 36.011 |
 |[H21OC 69](/_clusters/h21oc69/)| 32.0 | 101.147 | -24.313 | 0.962 | -1.522 | 2.458 | 36.011 |
+|[HXHWL 69](/_clusters/hxhwl69/)| 32.0 | 101.15 | -24.303 | 0.961 | -1.522 | 2.455 | 36.011 |
 |[Theia 3740](/_clusters/theia3740/)| 24.0 | 101.174 | -24.292 | 0.962 | -1.522 | 2.461 | 36.399 |

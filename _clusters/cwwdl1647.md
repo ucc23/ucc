@@ -99,5 +99,5 @@ title:  CWWDL 1647
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UFMG 86](/_clusters/ufmg86/)| 100.0 | 261.58 | -37.794 | 0.443 | 0.586 | -0.984 | -8.601 |
 |[PHOC 18](/_clusters/phoc18/)| 100.0 | 261.587 | -37.785 | 0.439 | 0.593 | -0.982 | -8.601 |
+|[UFMG 86](/_clusters/ufmg86/)| 100.0 | 261.58 | -37.794 | 0.443 | 0.586 | -0.984 | -8.601 |

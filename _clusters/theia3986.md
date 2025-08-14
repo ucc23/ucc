@@ -120,6 +120,6 @@ title:  Theia 3986
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1141](/_clusters/ubc1141/)| 100.0 | 323.997 | 50.487 | 0.536 | -3.838 | -3.338 | -33.309 |
 |[CWNU 227](/_clusters/cwnu227/)| 100.0 | 323.998 | 50.487 | 0.537 | -3.841 | -3.341 | -33.309 |
+|[UBC 1141](/_clusters/ubc1141/)| 100.0 | 323.997 | 50.487 | 0.536 | -3.838 | -3.338 | -33.309 |
 |[CWWDL 6005](/_clusters/cwwdl6005/)| 87.3 | 323.995 | 50.492 | 0.535 | -3.827 | -3.336 | -2.883 |

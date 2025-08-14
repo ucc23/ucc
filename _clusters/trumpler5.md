@@ -143,5 +143,5 @@ title:  Trumpler 5
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0337](/_clusters/oc0337/)| 0.5 | 99.203 | 9.404 | 0.333 | -0.699 | 0.268 | 50.386 |
 |[OC 0336](/_clusters/oc0336/)| 0.5 | 99.103 | 9.524 | 0.475 | -0.542 | 0.214 | 40.261 |
+|[OC 0337](/_clusters/oc0337/)| 0.5 | 99.203 | 9.404 | 0.333 | -0.699 | 0.268 | 50.386 |

@@ -99,4 +99,5 @@ title:  CWWDL 7479
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[LISC 3250](/_clusters/lisc3250/)| 100.0 | 216.2 | -61.046 | 0.489 | -3.738 | -2.162 | -0.03 |
 |[UBC 296](/_clusters/ubc296/)| 97.9 | 216.205 | -61.044 | 0.484 | -3.729 | -2.194 | -0.03 |

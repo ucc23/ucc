@@ -99,5 +99,5 @@ title:  CWWDL 41
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 200](/_clusters/ubc200/)| 100.0 | 76.914 | 17.592 | 0.38 | 0.313 | -2.494 | 0.355 |
 |[FSR 0854](/_clusters/fsr0854/)| 100.0 | 76.912 | 17.59 | 0.379 | 0.305 | -2.494 | 0.355 |
+|[UBC 200](/_clusters/ubc200/)| 100.0 | 76.914 | 17.592 | 0.38 | 0.313 | -2.494 | 0.355 |

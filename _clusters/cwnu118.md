@@ -99,5 +99,5 @@ title:  CWNU 118
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1102](/_clusters/ubc1102/)| 100.0 | 308.922 | 36.57 | 0.317 | -2.098 | -4.995 | -23.183 |
 |[LISC 1351](/_clusters/lisc1351/)| 100.0 | 308.924 | 36.572 | 0.319 | -2.113 | -4.979 | -14.861 |
+|[UBC 1102](/_clusters/ubc1102/)| 100.0 | 308.922 | 36.57 | 0.317 | -2.098 | -4.995 | -23.183 |

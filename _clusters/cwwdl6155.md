@@ -104,5 +104,5 @@ title:  CWWDL 6155
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[NGC 581](/_clusters/ngc581/)| 40.0 | 23.341 | 60.661 | 0.362 | -1.397 | -0.581 | -38.143 |
-|[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.418 | 60.747 | 0.228 | -1.286 | -0.652 | -37.736 |
 |[Gulliver 16](/_clusters/gulliver16/)| 24.0 | 23.423 | 60.749 | 0.215 | -1.28 | -0.654 | -37.022 |
+|[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.418 | 60.747 | 0.228 | -1.286 | -0.652 | -37.736 |

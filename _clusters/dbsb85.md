@@ -100,5 +100,5 @@ title:  DBSB 85
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[HSC 2576](/_clusters/hsc2576/)| 25.7 | 199.65 | -62.571 | 0.487 | -4.3 | -1.74 | -29.392 |
-|[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.738 | 0.379 | -4.889 | -1.578 | -- |
 |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.681 | -62.538 | 0.487 | -4.163 | -1.808 | -37.017 |
+|[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.738 | 0.379 | -4.889 | -1.578 | -- |

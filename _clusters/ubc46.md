@@ -124,5 +124,5 @@ title:  UBC 46
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[CWWDL 3744](/_clusters/cwwdl3744/)| 12.0 | 33.129 | 57.563 | 0.381 | -0.799 | -1.067 | 13.372 |
-|[CWWDL 4607](/_clusters/cwwdl4607/)| 4.0 | 33.957 | 57.708 | 0.414 | -0.822 | -1.042 | 317.007 |
 |[CWWDL 13364](/_clusters/cwwdl13364/)| 4.0 | 34.045 | 57.805 | 0.431 | -0.838 | -1.049 | 317.007 |
+|[CWWDL 4607](/_clusters/cwwdl4607/)| 4.0 | 33.957 | 57.708 | 0.414 | -0.822 | -1.042 | 317.007 |

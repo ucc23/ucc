@@ -99,4 +99,5 @@ title:  CWWDL 1574
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Teutsch 247](/_clusters/teutsch247/)| 94.6 | 239.632 | -53.66 | 0.371 | -3.873 | -4.331 | -27.638 |
 |[UBC 1540](/_clusters/ubc1540/)| 78.2 | 239.629 | -53.66 | 0.366 | -3.874 | -4.336 | 23.175 |

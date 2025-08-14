@@ -93,3 +93,10 @@ title:  CWWDL 969
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 2719](/_clusters/cwnu2719/)| 100.0 | 274.598 | -19.361 | 0.491 | -0.694 | -0.049 | -22.418 |

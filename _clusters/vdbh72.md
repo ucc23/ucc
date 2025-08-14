@@ -136,5 +136,5 @@ title:  VDBH 72
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 491](/_clusters/ubc491/)| 28.2 | 142.86 | -53.018 | 0.222 | -4.463 | 3.34 | 49.908 |
 |[OC 0516](/_clusters/oc0516/)| 28.2 | 142.846 | -53.041 | 0.156 | -4.578 | 3.34 | 49.997 |
+|[UBC 491](/_clusters/ubc491/)| 28.2 | 142.86 | -53.018 | 0.222 | -4.463 | 3.34 | 49.908 |

@@ -93,3 +93,10 @@ title:  CWWDL 4995
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 1394](/_clusters/cwnu1394/)| 97.6 | 141.303 | -52.339 | 0.389 | -5.731 | 5.413 | 34.077 |

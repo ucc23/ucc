@@ -99,5 +99,5 @@ title:  CWWDL 2644
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1310](/_clusters/hsc1310/)| 92.3 | 78.927 | 39.639 | 0.227 | 0.61 | -0.676 | -- |
 |[CWNU 3519](/_clusters/cwnu3519/)| 92.3 | 78.929 | 39.638 | 0.23 | 0.614 | -0.676 | -- |
+|[HSC 1310](/_clusters/hsc1310/)| 92.3 | 78.927 | 39.639 | 0.227 | 0.61 | -0.676 | -- |

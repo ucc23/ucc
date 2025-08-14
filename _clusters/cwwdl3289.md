@@ -99,5 +99,5 @@ title:  CWWDL 3289
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 211](/_clusters/ubc211/)| 100.0 | 95.265 | -3.458 | 0.674 | -1.493 | 1.602 | 24.717 |
 |[FoF 658](/_clusters/fof658/)| 100.0 | 95.267 | -3.453 | 0.674 | -1.484 | 1.6 | 23.585 |
+|[UBC 211](/_clusters/ubc211/)| 100.0 | 95.265 | -3.458 | 0.674 | -1.493 | 1.602 | 24.717 |

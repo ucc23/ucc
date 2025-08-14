@@ -99,4 +99,5 @@ title:  CWNU 67
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1087](/_clusters/ubc1087/)| 85.5 | 302.049 | 32.378 | 0.587 | -0.304 | -1.824 | -- |
 |[CWWDL 8143](/_clusters/cwwdl8143/)| 68.1 | 302.049 | 32.377 | 0.587 | -0.307 | -1.833 | -- |

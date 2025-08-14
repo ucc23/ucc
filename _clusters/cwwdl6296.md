@@ -99,5 +99,5 @@ title:  CWWDL 6296
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 81](/_clusters/ubc81/)| 100.0 | 96.328 | 11.159 | 0.588 | -1.12 | -0.963 | 29.717 |
 |[COIN-Gaia 28](/_clusters/coingaia28/)| 100.0 | 96.329 | 11.158 | 0.592 | -1.125 | -0.962 | 29.717 |
+|[UBC 81](/_clusters/ubc81/)| 100.0 | 96.328 | 11.159 | 0.588 | -1.12 | -0.963 | 29.717 |

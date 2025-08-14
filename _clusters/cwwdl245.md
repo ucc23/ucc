@@ -99,4 +99,5 @@ title:  CWWDL 245
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 1550](/_clusters/cwnu1550/)| 94.6 | 94.473 | 9.678 | 0.304 | -1.015 | -0.048 | 43.727 |
 |[Theia 4212](/_clusters/theia4212/)| 89.2 | 94.473 | 9.68 | 0.302 | -1.015 | -0.066 | 43.727 |

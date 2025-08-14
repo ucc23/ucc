@@ -121,4 +121,5 @@ title:  Dolidze 52a
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 341](/_clusters/ubc341/)| 81.2 | 276.467 | -17.074 | 0.485 | -0.222 | -1.534 | -27.469 |
 |[CWWDL 970](/_clusters/cwwdl970/)| 46.4 | 276.467 | -17.072 | 0.497 | -0.243 | -1.562 | -27.469 |

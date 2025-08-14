@@ -104,4 +104,5 @@ title:  HXHWL 39
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[H21OC 39](/_clusters/h21oc39/)| 100.0 | 9.177 | 68.843 | 0.985 | -1.513 | -0.634 | -20.132 |
+|[CWWDL 14487](/_clusters/cwwdl14487/)| 92.0 | 9.185 | 68.831 | 0.989 | -1.515 | -0.625 | -16.4 |
 |[Theia 2175](/_clusters/theia2175/)| 80.0 | 8.723 | 68.844 | 0.98 | -1.531 | -0.652 | -18.208 |

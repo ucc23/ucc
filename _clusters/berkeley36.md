@@ -136,5 +136,5 @@ title:  Berkeley 36
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0388](/_clusters/oc0388/)| 2.1 | 109.119 | -13.185 | 0.159 | -1.748 | 0.982 | 60.369 |
 |[OC 0387](/_clusters/oc0387/)| 2.1 | 109.09 | -13.188 | 0.235 | -1.697 | 0.956 | 62.553 |
+|[OC 0388](/_clusters/oc0388/)| 2.1 | 109.119 | -13.185 | 0.159 | -1.748 | 0.982 | 60.369 |

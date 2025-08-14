@@ -99,5 +99,5 @@ title:  BDSB 125
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Ryu 912](/_clusters/ryu912/)| 1.8 | 281.323 | -2.801 | 0.189 | -1.536 | -3.856 | -- |
 |[CWNU 3930](/_clusters/cwnu3930/)| 1.8 | 281.313 | -2.796 | 0.215 | -1.524 | -3.854 | 47.298 |
+|[Ryu 912](/_clusters/ryu912/)| 1.8 | 281.323 | -2.801 | 0.189 | -1.536 | -3.856 | -- |

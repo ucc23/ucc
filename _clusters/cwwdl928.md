@@ -100,5 +100,6 @@ title:  CWWDL 928
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[FoF 861](/_clusters/fof861/)| 100.0 | 244.707 | -52.881 | 0.252 | -2.586 | -3.976 | -24.64 |
+|[CWWDL 929](/_clusters/cwwdl929/)| 81.4 | 244.703 | -52.884 | 0.238 | -2.614 | -3.97 | -24.64 |
 |[OC 0647](/_clusters/oc0647/)| 44.3 | 244.705 | -52.887 | 0.229 | -2.603 | -3.972 | -24.64 |
 |[OC 0648](/_clusters/oc0648/)| 30.0 | 244.705 | -52.877 | 0.259 | -2.552 | -3.913 | -23.779 |

@@ -123,4 +123,5 @@ title:  HXHWL 46
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[UBC 1079](/_clusters/ubc1079/)| 75.4 | 298.319 | 32.66 | 0.483 | -2.484 | -3.446 | 10.049 |
+|[CWWDL 11597](/_clusters/cwwdl11597/)| 73.7 | 298.302 | 32.652 | 0.474 | -2.458 | -3.457 | -1.288 |
 |[CWWDL 14020](/_clusters/cwwdl14020/)| 61.4 | 298.299 | 32.633 | 0.465 | -2.462 | -3.45 | 10.049 |

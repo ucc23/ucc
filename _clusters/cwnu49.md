@@ -93,3 +93,10 @@ title:  CWNU 49
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1374](/_clusters/ubc1374/)| 100.0 | 113.365 | -17.52 | 0.379 | -1.758 | 2.281 | -- |

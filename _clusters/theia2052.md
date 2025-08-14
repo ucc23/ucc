@@ -114,3 +114,10 @@ title:  Theia 2052
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1552](/_clusters/ubc1552/)| 88.0 | 250.939 | -47.094 | 0.353 | -2.964 | -4.219 | -- |

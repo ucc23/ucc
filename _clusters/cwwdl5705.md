@@ -99,4 +99,5 @@ title:  CWWDL 5705
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 404](/_clusters/cwnu404/)| 100.0 | 280.229 | -9.667 | 0.392 | 0.737 | -3.703 | -24.165 |
 |[UBC 1031](/_clusters/ubc1031/)| 100.0 | 280.229 | -9.667 | 0.394 | 0.738 | -3.702 | -24.165 |

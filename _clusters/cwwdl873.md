@@ -103,5 +103,5 @@ title:  CWWDL 873
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[LISC 1273](/_clusters/lisc1273/)| 4.0 | 177.92 | -63.311 | 0.255 | -5.539 | 0.719 | -- |
 |[CWNU 3992](/_clusters/cwnu3992/)| 4.0 | 177.92 | -63.304 | 0.25 | -5.524 | 0.722 | -20.26 |
+|[LISC 1273](/_clusters/lisc1273/)| 4.0 | 177.92 | -63.311 | 0.255 | -5.539 | 0.719 | -- |

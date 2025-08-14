@@ -120,6 +120,6 @@ title:  Theia 13
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.339 | -1.629 | 2.408 | -0.069 | -0.236 | 28.058 |
 |[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.315 | -1.637 | 2.419 | -0.056 | -0.249 | 28.062 |
 |[UBC 17b](/_clusters/ubc17b/)| 100.0 | 83.165 | -1.709 | 2.396 | 0.07 | -0.218 | 25.619 |
-|[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.339 | -1.629 | 2.408 | -0.069 | -0.236 | 28.058 |

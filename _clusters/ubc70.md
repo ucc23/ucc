@@ -93,4 +93,6 @@ title:  UBC 70
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.065 | 31.602 | 0.508 | -0.764 | -3.295 | 12.071 |
+|[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.062 | 31.601 | 0.508 | -0.764 | -3.294 | 12.071 |
 |[CWWDL 12517](/_clusters/cwwdl12517/)| 81.0 | 91.066 | 31.599 | 0.508 | -0.768 | -3.294 | 12.071 |

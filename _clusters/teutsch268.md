@@ -121,4 +121,5 @@ title:  Teutsch 268
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1015](/_clusters/ubc1015/)| 87.9 | 276.739 | -14.107 | 0.299 | -0.772 | -2.116 | -2.983 |
 |[Teutsch 267](/_clusters/teutsch267/)| 3.7 | 276.506 | -13.947 | 0.285 | -0.615 | -1.98 | 28.506 |

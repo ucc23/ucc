@@ -99,5 +99,5 @@ title:  CWWDL 3100
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1395](/_clusters/ubc1395/)| 100.0 | 122.115 | -23.701 | 0.234 | -2.208 | 4.054 | 53.866 |
 |[Gaia 6](/_clusters/gaia6/)| 100.0 | 122.115 | -23.701 | 0.236 | -2.209 | 4.042 | 54.42 |
+|[UBC 1395](/_clusters/ubc1395/)| 100.0 | 122.115 | -23.701 | 0.234 | -2.208 | 4.054 | 53.866 |

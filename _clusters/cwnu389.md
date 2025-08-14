@@ -103,5 +103,5 @@ title:  CWNU 389
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 200](/_clusters/theia200/)| 40.0 | 18.877 | 60.756 | 1.155 | 2.947 | -1.691 | -15.76 |
 |[CWNU 378](/_clusters/cwnu378/)| 40.0 | 19.008 | 60.833 | 1.147 | 2.941 | -1.683 | -14.021 |
+|[Theia 200](/_clusters/theia200/)| 40.0 | 18.877 | 60.756 | 1.155 | 2.947 | -1.691 | -15.76 |

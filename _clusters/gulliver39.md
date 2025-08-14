@@ -125,3 +125,10 @@ title:  Gulliver 39
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWWDL 2197](/_clusters/cwwdl2197/)| 62.4 | 163.705 | -58.052 | 0.359 | -4.47 | 1.25 | -12.491 |

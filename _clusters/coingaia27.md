@@ -124,5 +124,5 @@ title:  COIN-Gaia 27
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 78](/_clusters/ubc78/)| 100.0 | 85.768 | 13.73 | 0.919 | 0.665 | -3.591 | 12.493 |
 |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.719 | 0.918 | 0.666 | -3.586 | 10.88 |
+|[UBC 78](/_clusters/ubc78/)| 100.0 | 85.768 | 13.73 | 0.919 | 0.665 | -3.591 | 12.493 |

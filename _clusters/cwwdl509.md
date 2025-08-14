@@ -93,3 +93,10 @@ title:  CWWDL 509
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 510](/_clusters/ubc510/)| 61.5 | 163.225 | -62.747 | 0.21 | -5.66 | 2.124 | -- |

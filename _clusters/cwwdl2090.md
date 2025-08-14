@@ -100,3 +100,4 @@ title:  CWWDL 2090
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[PHOC 29](/_clusters/phoc29/)| 94.6 | 120.709 | -28.56 | 0.329 | -3.064 | 2.538 | -- |
+|[FoF 1431](/_clusters/fof1431/)| 62.2 | 120.707 | -28.556 | 0.329 | -3.025 | 2.528 | 74.348 |

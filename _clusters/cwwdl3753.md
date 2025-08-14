@@ -99,5 +99,5 @@ title:  CWWDL 3753
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 53](/_clusters/ubc53/)| 100.0 | 59.832 | 47.394 | 0.606 | 0.612 | -2.986 | -14.207 |
 |[Teutsch 56](/_clusters/teutsch56/)| 100.0 | 59.833 | 47.395 | 0.607 | 0.592 | -2.99 | -14.324 |
+|[UBC 53](/_clusters/ubc53/)| 100.0 | 59.832 | 47.394 | 0.606 | 0.612 | -2.986 | -14.207 |

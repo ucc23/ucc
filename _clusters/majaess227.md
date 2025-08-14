@@ -123,5 +123,5 @@ title:  Majaess 227
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1188](/_clusters/ubc1188/)| 84.0 | 356.86 | 60.499 | 0.469 | -2.663 | -2.023 | -27.35 |
 |[CWWDL 13504](/_clusters/cwwdl13504/)| 84.0 | 356.852 | 60.505 | 0.469 | -2.66 | -2.023 | -27.35 |
+|[UBC 1188](/_clusters/ubc1188/)| 84.0 | 356.86 | 60.499 | 0.469 | -2.663 | -2.023 | -27.35 |

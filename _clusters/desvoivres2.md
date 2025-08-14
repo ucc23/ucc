@@ -119,3 +119,10 @@ title:  Desvoivres 2
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 3776](/_clusters/cwnu3776/)| 92.0 | 99.975 | 6.047 | 0.66 | -1.53 | 0.969 | -- |

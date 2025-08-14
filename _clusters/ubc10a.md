@@ -139,5 +139,5 @@ title:  UBC 10a
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UPK 172](/_clusters/upk172/)| 100.0 | 324.809 | 62.332 | 1.088 | -2.024 | -3.117 | -16.97 |
 |[UBC 167](/_clusters/ubc167/)| 100.0 | 324.766 | 62.332 | 1.087 | -2.043 | -3.093 | -17.91 |
+|[UPK 172](/_clusters/upk172/)| 100.0 | 324.809 | 62.332 | 1.088 | -2.024 | -3.117 | -16.97 |

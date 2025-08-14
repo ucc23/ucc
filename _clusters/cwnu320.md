@@ -99,3 +99,10 @@ title:  CWNU 320
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[OC 0406](/_clusters/oc0406/)| 100.0 | 109.914 | -24.039 | 0.83 | -2.729 | 3.071 | 40.305 |

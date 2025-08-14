@@ -99,6 +99,6 @@ title:  CWWDL 214
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 6242](/_clusters/theia6242/)| 100.0 | 149.03 | -60.18 | 0.334 | -5.875 | 5.223 | 0.659 |
 |[FoF 676](/_clusters/fof676/)| 100.0 | 149.033 | -60.182 | 0.332 | -5.877 | 5.221 | -0.082 |
 |[OC 0534](/_clusters/oc0534/)| 100.0 | 149.032 | -60.183 | 0.333 | -5.876 | 5.223 | 0.809 |
+|[Theia 6242](/_clusters/theia6242/)| 100.0 | 149.03 | -60.18 | 0.334 | -5.875 | 5.223 | 0.659 |

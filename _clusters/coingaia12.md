@@ -131,3 +131,10 @@ title:  COIN-Gaia 12
   </body>
 </html>
 <br>
+
+
+#### Objects with shared members
+
+| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
+| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[LISC 3479](/_clusters/lisc3479/)| 94.8 | 79.179 | 41.746 | 1.031 | 2.516 | -4.706 | -9.394 |

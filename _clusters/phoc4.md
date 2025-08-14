@@ -94,6 +94,6 @@ title:  PHOC 4
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[H21OC 54](/_clusters/h21oc54/)| 80.5 | 106.848 | -7.657 | 0.928 | -3.936 | 1.207 | 33.547 |
-|[Theia 2649](/_clusters/theia2649/)| 70.7 | 106.85 | -7.665 | 0.924 | -3.942 | 1.206 | 32.252 |
 |[HXHWL 54](/_clusters/hxhwl54/)| 70.7 | 106.853 | -7.663 | 0.925 | -3.94 | 1.207 | 32.376 |
+|[Theia 2649](/_clusters/theia2649/)| 70.7 | 106.85 | -7.665 | 0.924 | -3.942 | 1.206 | 32.252 |
 |[CMa 01](/_clusters/cma01/)| 67.1 | 106.81 | -7.667 | 0.926 | -3.933 | 1.185 | 32.252 |

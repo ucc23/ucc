@@ -99,4 +99,5 @@ title:  CWNU 269
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[UBC 1413](/_clusters/ubc1413/)| 87.5 | 119.191 | -29.604 | 0.348 | -2.057 | 1.312 | -- |
 |[Theia 3992](/_clusters/theia3992/)| 82.5 | 119.189 | -29.603 | 0.347 | -2.057 | 1.316 | -- |

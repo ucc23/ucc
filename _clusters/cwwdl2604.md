@@ -103,5 +103,5 @@ title:  CWWDL 2604
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 10539](/_clusters/cwwdl10539/)| 8.0 | 15.376 | 63.587 | 0.353 | -2.443 | -0.414 | -- |
 |[CWWDL 10481](/_clusters/cwwdl10481/)| 8.0 | 15.264 | 63.266 | 0.336 | -2.192 | -0.415 | -112.338 |
+|[CWWDL 10539](/_clusters/cwwdl10539/)| 8.0 | 15.376 | 63.587 | 0.353 | -2.443 | -0.414 | -- |

@@ -120,6 +120,6 @@ title:  Theia 23
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 39](/_clusters/phoc39/)| 100.0 | 277.885 | -3.947 | 2.574 | 1.998 | -8.98 | -7.344 |
 |[OCSN 247](/_clusters/ocsn247/)| 100.0 | 277.887 | -3.947 | 2.595 | 2.012 | -9.016 | -8.033 |
+|[PHOC 39](/_clusters/phoc39/)| 100.0 | 277.885 | -3.947 | 2.574 | 1.998 | -8.98 | -7.344 |
 |[CWWL 3567](/_clusters/cwwl3567/)| 63.5 | 277.912 | -3.914 | 2.611 | 2.058 | -9.027 | -7.182 |

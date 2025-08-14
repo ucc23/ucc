@@ -99,6 +99,6 @@ title:  CWWDL 4776
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[CWNU 3133](/_clusters/cwnu3133/)| 3.7 | 116.487 | -26.7 | 0.328 | -2.08 | 2.284 | 53.545 |
 |[HSC 1946](/_clusters/hsc1946/)| 3.7 | 116.482 | -26.698 | 0.329 | -2.084 | 2.269 | 53.545 |
 |[UBC 1394](/_clusters/ubc1394/)| 3.7 | 116.464 | -26.601 | 0.29 | -2.239 | 2.808 | -- |
-|[CWNU 3133](/_clusters/cwnu3133/)| 3.7 | 116.487 | -26.7 | 0.328 | -2.08 | 2.284 | 53.545 |

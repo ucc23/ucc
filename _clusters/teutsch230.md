@@ -93,5 +93,6 @@ title:  Teutsch 230
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
+|[SAI 116](/_clusters/sai116/)| 95.2 | 177.322 | -62.229 | 0.225 | -7.735 | 1.352 | -15.515 |
 |[VVV 006](/_clusters/vvv006/)| 21.0 | 177.314 | -62.225 | 0.225 | -7.744 | 1.321 | -15.423 |
 |[OC 0572](/_clusters/oc0572/)| 17.5 | 177.315 | -62.226 | 0.225 | -7.737 | 1.357 | -15.423 |

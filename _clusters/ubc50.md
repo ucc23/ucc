@@ -94,3 +94,4 @@ title:  UBC 50
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
 |[COIN-Gaia 38](/_clusters/coingaia38/)| 94.9 | 51.471 | 51.075 | 0.847 | 1.998 | -6.865 | -9.13 |
+|[CWWDL 14112](/_clusters/cwwdl14112/)| 82.4 | 51.471 | 51.071 | 0.849 | 2.006 | -6.865 | -8.599 |

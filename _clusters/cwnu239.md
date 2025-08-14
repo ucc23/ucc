@@ -126,6 +126,6 @@ title:  CWNU 239
 
 | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
 | :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1330](/_clusters/ubc1330/)| 100.0 | 98.278 | 2.464 | 0.625 | -2.326 | -0.558 | -17.716 |
 |[CWWDL 3775](/_clusters/cwwdl3775/)| 100.0 | 98.274 | 2.462 | 0.63 | -2.323 | -0.527 | -24.694 |
 |[LISC-III 1682](/_clusters/lisciii1682/)| 100.0 | 98.265 | 2.466 | 0.63 | -2.295 | -0.526 | -17.716 |
+|[UBC 1330](/_clusters/ubc1330/)| 100.0 | 98.278 | 2.464 | 0.625 | -2.326 | -0.558 | -17.716 |
