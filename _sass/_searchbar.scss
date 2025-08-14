@@ -1,36 +1,54 @@
-
-#search-container {
-  text-align: center;
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#search-input {
-  width: 80%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
+#coordToggle {
+  width: 100px; /* fixed width */
+  height: 48px; /* match input height exactly */
+  font-size: 18px;
+  line-height: 1;
+  padding: 0; /* let height control vertical space */
+  // margin-left: 8px; /* space between bar and button */
+  margin-right: 8px; /* space between button and bar */
+  cursor: pointer;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  // border-radius: 4px; /* keep all corners rounded */
+  border-right: none; /* merge with input border */
+  border-radius: 4px 0 0 4px; /* round only left corners */
+  background: #5f8c65;
+  color: white;
+  transition: background-color 0.4s ease;
+}
+
+#coordToggle.flash {
+  background-color: #cce5ff;
+  color: black;
+}
+
+.search-container input {
+  flex: 1; /* take remaining space */
+  padding: 12px 20px;
+  line-height: 1;
+  border: 1px solid #ccc;
+  // border-radius: 4px 0 0 4px; /* round only left corners */
+  border-radius: 0 4px 4px 0; /* round only right corners */
   box-sizing: border-box;
   font-size: 18px;
-  background-color: #fff3ff;
+  background-color: #fff;
+  margin: 0;
+  display: block;
 }
 
 .search-wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
 }
-input {
-    width: 80%;
-    margin: 0 auto;
-    display: block;
-    padding: 12px 20px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-size: 18px;
-    background-color: #fff;
-}
+
+
+// Results shown
 .user-cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -47,17 +65,7 @@ input {
 .card > .header {
     margin-bottom: 0.25rem;
 }
-.card > .body_1 {
-    font-size: 1rem;
-    color: #777;
-    font-weight: 700;
-}
-.card > .body_2 {
-    font-size: 1rem;
-    color: #777;
-    font-weight: 700;
-}
-.card > .body_3 {
+.card > .body {
     font-size: 1rem;
     color: #777;
     font-weight: 700;

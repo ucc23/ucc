@@ -1,4 +1,5 @@
 table {
+  // width: 100%; /* Fill parent div */
   padding: 0;
   /* Added lines below to center */
   border-collapse: collapse; /* Ensure borders are collapsed */
@@ -14,7 +15,8 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-    background-color: #f8f8f8;
+    // background-color: #f0f0f0;
+    background-color: #fafafa;
 }
 
 table tr:hover {
@@ -28,6 +30,8 @@ table tr th {
     vertical-align: middle; /* Align vertically */
     margin: 0;
     padding: 6px 13px;
+    // padding: 2px 6px;
+    background: #f0f0f0;
 }
 
 table tr td {
@@ -36,6 +40,7 @@ table tr td {
     vertical-align: middle; /* Align vertically */
     margin: 0;
     padding: 6px 13px;
+    // padding: 2px 6px;
 }
 
 table tr th :first-child,
@@ -51,8 +56,3 @@ table tr td :last-child {
 .sorted-asc, .sorted-desc {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
-// .sort-indicator {
-//     margin-left: 5px;
-//     font-size: 0.8em;
-//     color: #555;
-// }

@@ -1,4 +1,5 @@
 import { loadCompressedCsv } from "./loadCSV.js";
+import { setupCoordToggle } from './toggleButton.js';
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
@@ -140,38 +141,31 @@ function downloadCSV(points) {
 }
 
 
-function getPoints(terms, maxN) {
-    // If terms is empty or maxN invalid, return empty array
-    if (!terms || terms.trim() === "" || !maxN || isNaN(parseFloat(maxN))) {
+function getPoints(search, coordsys, maxN) {
+    // If 'search' is empty or maxN invalid, return empty array
+    if (!search || search.trim() === "" || !maxN || isNaN(parseFloat(maxN))) {
         return [];
     }
 
-    const terms_in = terms.split(/[ \t,;]+/)
-
-    let equatorial_s = false, galactic_s = false, normalizedQuery = null;
-    let x = null, y = null;
-    const radius = 180;
-    if (terms_in[0].match(/^\d/)) {
-        equatorial_s = true; // RA/DEC search
-        x = parseFloat(terms_in[0]);
-        y = parseFloat(terms_in[1]);
-    } else if (terms_in[0] === "g") {
-        galactic_s = true; // GLON/GLAT search
-        x = parseFloat(terms_in[1]);
-        y = parseFloat(terms_in[2]);
+    let x = null, y = null, normalizedQuery = null;
+    let radius = 180;
+    if ((coordsys == 'equ') || (coordsys === "gal")){
+        const xy = search.split(/[ \t,;]+/)
+        // RA/DEC or GLON/GLAT search
+        x = parseFloat(xy[0]);
+        y = parseFloat(xy[1]);
     } else {
-        // Globally removes spaces, underscores, periods, and hyphens,
-        // globally replaces '+' with 'p'
-        normalizedQuery = terms.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
-        const radius = 1;
+        // Globally removes spaces, underscores, periods, and hyphens, globally replaces '+' with 'p'
+        normalizedQuery = search.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
+        radius = 1;
     }
 
     let results = data
         .map(d => {
             let dist_c = Infinity;
-            if (equatorial_s) {
+            if (coordsys == 'equ') {
                 dist_c = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
-            } else if (galactic_s) {
+            } else if (coordsys == "gal") {
                 dist_c = Math.hypot(x - d.GLON, y - d.GLAT);
             } else {
                 // Only search the string distance if the first three chars are present
@@ -196,7 +190,7 @@ function getPoints(terms, maxN) {
             };
         })
         // Filter for euclidean search, string diff is always <1
-        .filter(d => d.dist_c < radius)
+        .filter(d => d.dist_c <= radius)
         .sort((a, b) => a.dist_c - b.dist_c)
         .slice(0, maxN);
 
@@ -246,7 +240,7 @@ function buildTable(points, circles, sizeScale) {
 
     // Inject table
     tableContainer.html(`
-        <table id="resultsTable" class="results-table" style="width:${width}px">
+        <table id="resultsTable" class="results-table" style="width:${width}px"">
             ${tableHeader}
             ${tableBody}
         </table>
@@ -323,20 +317,27 @@ function displayData(points) {
 
 // Update the display with current input values
 function updateDisplay() {
-    const terms = document.getElementById("terms").value;
+    const search = document.getElementById("search").value;
     const maxN = parseFloat(document.getElementById("maxN").value);
 
-    const points = getPoints(terms, maxN);
+    const points = getPoints(search, window.coordsys, maxN);
     const { circles, sizeScale } = displayData(points);
     buildTable(points, circles, sizeScale);
 
 }
 
+// Search toggle button
+setupCoordToggle({
+  buttonId: 'coordToggle',
+  inputId: 'search'
+});
+
+
 // Add event listener for the Search button
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
 
 // Allow Enter key to trigger search from any input field
-["terms", "maxN"].forEach(id => {
+["search", "maxN"].forEach(id => {
     document.getElementById(id).addEventListener("keypress", (e) => {
         if (e.key === "Enter") updateDisplay();
     });
@@ -344,9 +345,9 @@ document.getElementById("searchButton").addEventListener("click", updateDisplay)
 
 // Function to download the data as CVS
 function getCSV() {
-    const terms = document.getElementById("terms").value;
+    const search = document.getElementById("search").value;
     const maxN = parseFloat(document.getElementById("maxN").value);
-    const points = getPoints(terms, maxN);
+    const points = getPoints(search, window.coordsys, maxN);
     downloadCSV(points);
 }
 

@@ -19,9 +19,9 @@ permalink: /search/
             </button>
         </div>
 
-
         <div class="search-box">
-            <input id="terms" type="text" autofocus autocomplete="off" placeholder="Search by name or coordinates..." title="See the FAQ to learn how this search bar works">
+            <button id="coordToggle">Name</button>
+            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by name...">
             <input id="maxN" type="number" min="0" placeholder="Max results" title="Maximum number of results">
             <button id="searchButton" type="button">Search</button>
         </div>

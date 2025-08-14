@@ -8,6 +8,11 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [250814](https://doi.org/10.5281/zenodo.16878238)
+
+- Fix missing OCs with shared members
+
+
 ## Version [250811](https://doi.org/10.5281/zenodo.16817343)
 
 - Updated [Liu & Pang 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L),
@@ -22,12 +27,10 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 - Added [Hunt & Reffert 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H)
 
 
-
 ## Version [250204](https://doi.org/10.5281/zenodo.14801947)
 
 - Added [Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B)
 - Added [Borissova et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B/)
-
 
 
 ## Version [250131](https://doi.org/10.5281/zenodo.14782856)

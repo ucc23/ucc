@@ -7,7 +7,6 @@ permalink: /faq/
 - [What is the UCC?](#what-is-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
-- [How do I use the search bar?](#how-do-i-use-the-search-bar)
 - [What is the C3 parameter?](#what-is-the-c3-parameter)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 
@@ -40,28 +39,6 @@ in the [database]({% link _pages/DATABASE.md %}), you can
 Membership is obtained through the `fastMP` method described in Sect. 3 of
 [Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract). The `fastMP` membership estimation method has been
 incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details [here](https://asteca.readthedocs.io/en/latest/contents/membership_mod.html)).
-
-
-## How do I use the search bar?
-
-The search bar, present both in the [main page](..) and in the [Search](../search) page,
-works in three different modes: _text, equatorial coordinates_,
-and _galactic coordinates_.
-
-To use the _text_ based search simply type in the name of the cluster and the
-objects with the closest matches will be listed:
-
-![Text based search](/images/search_t.png "Text based search")
-
-The _equatorial coordinates_ based search can be used simply typing the
-`(ra, dec)` values:
-
-![Equatorial coordinates based search](/images/search_e.png "Equatorial coordinates based search")
-
-The _galactic coordinates_ based search is similar to the equatorial, but you
-need to add a `g` before the `(lon, lat)` values:
-
-![Galactic coordinates based search](/images/search_g.png "Galactic coordinates based search")
 
 
 ## What is the C3 parameter?

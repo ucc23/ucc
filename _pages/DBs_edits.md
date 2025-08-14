@@ -637,7 +637,9 @@ names to match HUNT23. Added `(RA_ICRS,DE_ICRS)` columns.
 
 The table requested to the authors lists 1179 clusters. Added CWWDL following the
 convention by HUNT23 for DBs with no acronyms.
-Clusters CWWDL_3274 and CWWDL_3247 are very close.
+
+The (GLON, GLAT) column in their [Vizier table](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/ApJS/266/36/table3) does not appear to match the converted
+(RAICRS, DEICRS) values.
 
 
 ## He et al. 2023

@@ -9,6 +9,7 @@ exploration.
 
 - [Number of members](#number-of-members)
 - [C3 classification](#c3-classification)
+- [OCs with shared members](#ocs-with-shared-members)
 - [OCs per quadrants](#ocs-per-quadrants)
 
 
@@ -46,6 +47,24 @@ This table shows the OCs in the UCC grouped by their [C3 class](/faq/#what-is-th
 
 <!-- End table 2 -->
 
+
+### OCs with shared members
+
+This table groups the OCs in the UCC by the number of other OCs with which they share
+members. The percentage of shared members goes from <1% to 100% in some cases, which
+points to obvious duplicates.
+
+<!-- Begin table 4 -->
+
+| OCs with shared members |   N  |
+|---------------------| :--: |
+|      N_shared = 1      | [4010](/tables/Ns1_table) |
+|      N_shared = 2      | [1323](/tables/Ns2_table) |
+|      N_shared = 3      | [446](/tables/Ns3_table) |
+|      N_shared = 4      | [125](/tables/Ns4_table) |
+|     N_shared >= 5      | [63](/tables/Ns5_table) |
+
+<!-- End table 4 -->
 
 
 ### OCs per quadrants
