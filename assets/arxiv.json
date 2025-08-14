@@ -1,6 +1,184 @@
 {
-  "fetched_at": "2025-08-14T01:23:40.918Z",
+  "fetched_at": "2025-08-14T06:27:46.275Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.09845v1",
+      "updated": "2025-08-13T14:26:13Z",
+      "published": "2025-08-13T14:26:13Z",
+      "title": "On the Nature of the Protoplanetary Nebula OH\\,231.8+4.2",
+      "summary": "  Aims. OH 231.8+4.2 , also known as the Rotten Egg or Calabash nebula is a\nprotoplanetary nebula which is seen in the direction of the open cluster M 46.\nWhile an association of the nebula with the cluster has been suggested in the\npast, this has been never confirmed. Here, we present accurate trigonometric\nparallax and proper motion measurements using VLBI observations of masers in\nthe nebula and Gaia DR3 data for the cluster.\n  Methods. We observed 22 GHz H2O and 43 GHz SiO masers around OH 231.8+4.2\nusing the Very Long Baseline Array at 4 epochs over 1 year. We also calculated\nthe parallax and proper motion of the open star cluster M 46 using Gaia DR3\ndata.\n  Results. Based on astrometric monitoring for 1 year, we measured an annual\nparallax of OH 231.8+4.2 to be 0.65 +\\- 0.01 mas (stat.) +\\- 0.02 mas (syst.),\ncorresponding to a distance of 1.54 +\\- 0.05 kpc. This agrees well with the\nparallax of M 46 from the Gaia DR3 data, which is 0.639 +\\- 0.001 mas (stat.)\n+\\- 0.010 mas (syst.). We re-estimated the luminosity of OH 231.8+4.2 to be 1.4\nx 10^4 L_sol. However, there is a 15 km/s velocity difference between OH\n231.8+4.2 and M 46 which could be caused by a past merger event.\n",
+      "author": [
+        {
+          "name": "Andreas Brunthaler"
+        },
+        {
+          "name": "Yoon Kyung Choi"
+        },
+        {
+          "name": "Karl M. Menten"
+        },
+        {
+          "name": "Mark J. Reid"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "9 pages, 6 figures, proposed for acceptance to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.09845v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.09845v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.09251v1",
+      "updated": "2025-08-12T18:00:02Z",
+      "published": "2025-08-12T18:00:02Z",
+      "title": "The Interstellar Medium in IZw18 seen with JWST/MIRI: I. Highly Ionized\n  Gas",
+      "summary": "  We present JWST/MIRI spectra from the Medium-Resolution Spectrometer of\nIZw18, a nearby dwarf galaxy with a metallicity of $\\sim$3% Solar. Its\nproximity enables a detailed study of highly ionized gas that can be\ninterpreted in the context of newly discovered high-redshift dwarf galaxies. We\nderive aperture spectra centered on eleven regions of interest; the spectra\nshow very low extinction, A_V $\\lesssim 0.1$, consistent with optical\ndeterminations. The gas is highly ionized; we have detected 10 fine-structure\nlines, including [OIV] 25.9 micron with an ionization potential (IP) of $\\sim$\n55 eV, and [NeV] 14.3 micron with an IP of $\\sim$ 97 eV. The ionization state\nof IZw18 falls at the extreme upper end of all of the line ratios we analyzed,\nbut not coincident with galaxies containing an accreting massive black hole\n(active galactic nucleus). Comparison of the line ratios with state-of-the-art\nphotoionization and shock models suggests that the high ionization state in\nIZw18 is not due to shocks. Rather it can be attributed to metal-poor stellar\npopulations with a self-consistent contribution of X-ray binaries or\nultra-luminous X-ray sources. It could also be partially due to a small number\nof hot low-metallicity Wolf-Rayet stars ionizing the gas; a small fraction (a\nfew percent) of the ionization could come from an intermediate-mass black hole.\nOur spectroscopy also revealed four 14 micron continuum sources, $\\gtrsim\n30-100$ pc in diameter, three of which were not previously identified. Their\nproperties are consistent with HII regions ionized by young star clusters.\n",
+      "author": [
+        {
+          "name": "L. K. Hunt"
+        },
+        {
+          "name": "A. Aloisi"
+        },
+        {
+          "name": "M. G. Navarro"
+        },
+        {
+          "name": "R. J. Rickards Vaught"
+        },
+        {
+          "name": "B. T. Draine"
+        },
+        {
+          "name": "A. Adamo"
+        },
+        {
+          "name": "F. Annibali"
+        },
+        {
+          "name": "D. Calzetti"
+        },
+        {
+          "name": "S. Hernandez"
+        },
+        {
+          "name": "B. L. James"
+        },
+        {
+          "name": "M. Mingozzi"
+        },
+        {
+          "name": "R. Schneider"
+        },
+        {
+          "name": "M. Tosi"
+        },
+        {
+          "name": "B. Brandl"
+        },
+        {
+          "name": "M. G. del Valle-Espinosa"
+        },
+        {
+          "name": "F. Donnan"
+        },
+        {
+          "name": "A. S. Hirschauer"
+        },
+        {
+          "name": "M. Meixner"
+        },
+        {
+          "name": "D. Rigopoulou"
+        },
+        {
+          "name": "C. T. Richardson"
+        },
+        {
+          "name": "J. M. Levanti"
+        },
+        {
+          "name": "A. R. Basu-Zych"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "28 pages, 12 figures, 2 appendices; accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.09251v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.09251v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.09127v1",
       "updated": "2025-08-12T17:55:21Z",
