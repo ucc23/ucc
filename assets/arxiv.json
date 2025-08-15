@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-14T18:25:59.867Z",
+  "fetched_at": "2025-08-15T01:24:15.188Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.09845v1",
@@ -382,78 +382,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2508.05296v1",
-      "updated": "2025-08-07T11:52:12Z",
-      "published": "2025-08-07T11:52:12Z",
-      "title": "DAWN. I. Simulating the formation and early evolution of stellar\n  clusters with Phantom N-Body",
-      "summary": "  Context. Simulating stellar dynamics in a molecular cloud environment is\nnumerically challenging due to the strong coupling between young stars and\ntheir surrounding gas, and the large range of length and time scales. Aims.\nThis paper is the first of a suite aimed at investigating the complex early\nstellar dynamics in star-forming regions. We present a new simulation framework\nwhich is the key to generating a larger set of simulations, enabling\nstatistical analysis. Methods. Methods originating from the stellar dynamics\ncommunity, including regularisation and slowdown methods (SDAR), have been\nadded to the hydrodynamical code Phantom to produce simulations of embedded\ncluster early dynamics. This is completed by a novel prescription of star\nformation to initialise stars with a low numerical cost, but in a way that is\nconsistent with the gas distribution. Finally, a prescription for H ii region\nexpansion has been added to model the gas removal. Results. We have run\ntestcase simulations following the dynamical evolution of stellar clusters from\nthe cloud collapse to a few Myr. Our new numerical methods fulfil their\nfunction by speeding up the calculation. The N-body dynamics with our novel\nimplementation never appear as a bottleneck. Our first simulations show that\nmassive stars largely impact the star formation process and shape the dynamics\nof the resulting cluster. Depending on the position of these massive stars and\nthe strength of their feedback, they can prematurely dismantle part of the\ncloud or trigger a second event of cloud collapse, preferentially forming\nlow-mass stars. This stochastic behaviour confirms the need for statistical\nstudies. Conclusions. Our new Phantom N-Body framework enables efficient\nsimulation of the formation and evolution of star clusters. It enables the\nstatistical analysis needed to build models of the dynamical evolution of\nembedded star clusters.\n",
-      "author": [
-        {
-          "name": "Yann Bernard"
-        },
-        {
-          "name": "Estelle Moraux"
-        },
-        {
-          "name": "Daniel J. Price"
-        },
-        {
-          "name": "Frédérique Motte"
-        },
-        {
-          "name": "Fabien Louvet"
-        },
-        {
-          "name": "Isabelle Joncour"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2508.05296v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2508.05296v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.IM",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 2.5
     }
   ]
 }
