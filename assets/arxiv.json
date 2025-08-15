@@ -1,6 +1,226 @@
 {
-  "fetched_at": "2025-08-15T01:24:15.188Z",
+  "fetched_at": "2025-08-15T06:27:05.148Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.10895v1",
+      "updated": "2025-08-14T17:59:02Z",
+      "published": "2025-08-14T17:59:02Z",
+      "title": "Stars Born in the Wind: M82's Outflow and Halo Star Formation",
+      "summary": "  Starburst galaxies, like M82, launch kiloparsec-scale galactic outflows that\ninteract with the circumgalactic medium (CGM) in complex ways. Apart from\nenriching the CGM with metals and energy, these outflows may trigger star\nformation in the halo -- either by driving shocks into the CGM or transporting\ncold, star-forming gas. To investigate such processes, we analyze the star\nformation history (SFH) of the Southern Arcs -- arc-like stellar features\nlocated ~5 kpc from M82's star-forming disk along the minor axis -- using\nHubble Space Telescope Wide Field Camera 3 photometry. From resolved stellar\npopulations, we derive SFHs over the last ~500 Myr, finding that ~85% of the\nstellar mass formed between ~150 and ~70 Myr ago, followed by a brief pause,\nwith the remaining ~15% forming since ~30 Myr ago. The two stellar populations\nare co-spatial on scales of at least ~200 pc. The timing of the ~100 Myr burst\naligns with star formation in the M82 disk and the age distribution of its star\nclusters, suggesting a causal link between the disk starburst and halo star\nformation. We explore two mechanisms that could explain these observations. In\nthe first, shocks driven by the interaction between hot outflowing gas and\ncooler CGM material compress dense clouds, triggering collapse and star\nformation. In the second, stars form directly within massive, cool clouds\nassociated with the outflow. As these clouds move ballistically through the\nhalo, subsequent interactions with tidal debris may trigger additional star\nformation, producing the observed episodic structure.\n",
+      "author": [
+        {
+          "name": "Vaishnav V. Rao"
+        },
+        {
+          "name": "Adam Smercina"
+        },
+        {
+          "name": "Eric F. Bell"
+        },
+        {
+          "name": "Benjamin Williams"
+        },
+        {
+          "name": "Julianne J. Dalcanton"
+        },
+        {
+          "name": "Andrew Dolphin"
+        },
+        {
+          "name": "Adam Leroy"
+        },
+        {
+          "name": "Antonela Monachesi"
+        },
+        {
+          "name": "Jeremy Bailin"
+        },
+        {
+          "name": "Roelof S. de Jong"
+        },
+        {
+          "name": "Fabian Walter"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "22 pages; 11 figures; 1 table; accepted for publication in The\n  Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.10895v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.10895v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.10543v1",
+      "updated": "2025-08-14T11:32:25Z",
+      "published": "2025-08-14T11:32:25Z",
+      "title": "Dark Star Clusters or Ultra-Faint Dwarf galaxies? Revisiting UMa3/U1",
+      "summary": "  Owing to sparse spectroscopic observations, the classification of faint\nsatellites as either dark matter-dominated dwarf galaxies or self-gravitating\nstar clusters remains unresolved. The recently discovered Ursa Major III/UNIONS\n1 (UMa3/U1) object, with its measured velocity dispersion, provides a rare\nobservational anchor in this regime. Despite its cluster-like compactness, its\ninferred dynamical mass-to-light ratio (M_dyn/L) suggests a dark\nmatter-dominated nature, prompting interpretations of UMa3/U1 as a microgalaxy,\nthough current measurements remain inconclusive. Thousand-level M_dyn/L values\nare not unique to galaxies; self-gravitating dark star clusters (DSCs) can\nreach comparable levels via energy injection driven by a centrally segregated\nblack hole subsystem (BHSub), which accelerates the evaporation of luminous\nstars and leads to a super-virial appearance with elevated velocity dispersion.\nTo assess whether UMa3/U1 is a DSC, we conducted direct N-body simulations and\nidentified a model that successfully reproduces both its compact structure and\nelevated M_dyn/L, supporting a self-gravitating cluster origin. We find the\ncluster entered the DSC phase around 4 Gyr ago, with its luminous stars\nexpected to be depleted within the next 1 Gyr, followed by the gradual\ndisruption of the central BHSub over the subsequent Gyr. We broaden our\nanalysis by mapping DSC evolutionary tracks in the size versus total luminosity\n(L) and M_dyn/L-L spaces, showing that DSCs occupy a region overlapping with\nfaint, ambiguous satellites. In the M_dyn/L-L diagram, DSCs trace a\ntransitional channel bridging globular clusters and dwarf galaxies as they rise\nfrom M_dyn/L ~ 2 to 10^4 M_sun/L_sun.\n",
+      "author": [
+        {
+          "name": "Ali Rostami-Shirazi"
+        },
+        {
+          "name": "Hosein Haghi"
+        },
+        {
+          "name": "Akram Hasani Zonoozi"
+        },
+        {
+          "name": "Pavel Kroupa"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/2041-8213/adf320",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/2041-8213/adf320",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.10543v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.10543v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 4 figures, 1 table. Accepted for publication in APJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "The Astrophysical Journal Letters, Volume 989, year 2025, L14",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.10100v1",
+      "updated": "2025-08-13T18:00:04Z",
+      "published": "2025-08-13T18:00:04Z",
+      "title": "Globular clusters in M104: Tracing kinematics and metallicities from the\n  centre to the halo",
+      "summary": "  As ancient star clusters, globular clusters (GCs) are regarded as powerful\ntracers of galaxy evolution and assembly. Due to their brightness and compact\nsizes, GCs are employed to probe the kinematics and stellar population\nproperties of galaxies, from the central regions out into the halo where the\nunderlying stellar light becomes too faint for spectroscopic studies. In this\nwork, we present a comprehensive study of the GC system of M 104 (NGC 4594,\nalso known as the Sombrero galaxy) based on literature spectroscopic catalogues\nand newly collected data from Very Large Telescope (VLT) MUSE integral-field\nspectroscopy combined with multi-object spectroscopy from VLT FLAMES and OSIRIS\nat the Gran Telescopio de Canarias (GTC). We present a new catalogue of 499 GCs\nwith radial velocity measurements that span from the inner disc region out to\n$\\sim$ 70 kpc (24$^{\\prime}$). In addition to velocities, we measure\nmetallicities from the MUSE, OSIRIS, and FLAMES spectra of 190 GCs. Together\nwith literature values, we collected a sample of 278 metallicities. Comparing\nGCs observed with multiple instruments, we find a good agreement of velocity\nand metallicity measurements. Studying GC kinematics with a simple model\nconfirms a decreasing velocity dispersion profile and low rotation velocities.\nThe blue GCs appear to be more dispersion-dominated, while the red GCs follow\nthe kinematics of the stars more closely. We find a large scatter of GC\nmetallicities with distance from the centre and metal-rich GCs are found over\nall radii. We discuss that the GC metallicity distribution with a broad\nmetal-poor component likely reflects the complex assembly history of M 104.\n",
+      "author": [
+        {
+          "name": "Katja Fahrion"
+        },
+        {
+          "name": "Michael A. Beasley"
+        },
+        {
+          "name": "Eric Emsellem"
+        },
+        {
+          "name": "Anastasia Gvozdenko"
+        },
+        {
+          "name": "Oliver Müller"
+        },
+        {
+          "name": "Marina Rejkuba"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 10 figures. Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.10100v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.10100v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.09845v1",
       "updated": "2025-08-13T14:26:13Z",
