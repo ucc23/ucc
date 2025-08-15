@@ -1,12 +1,11 @@
 // Initialize lastSort to track sorting state
 let lastSort = { columnIndex: -1, ascending: true };
 
-/**
- * Enables table sorting functionality for a given table element
- * @param {HTMLTableElement} table - The table element to make sortable
- */
+// Enables table sorting functionality for a given table element
 function enableTableSorting(table) {
     if (!table) return;
+    
+    table.classList.add("sortable"); // Mark table as sortable
     
     const headers = table.querySelectorAll("thead tr th");
     if (!headers.length) return;

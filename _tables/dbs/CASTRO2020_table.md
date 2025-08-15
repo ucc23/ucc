@@ -579,3 +579,12 @@ permalink: /tables/dbs/CASTRO2020_table/
 | [UBC 97](/_clusters/ubc97/) | 15.3 | -0.18 | 274.78 | -15.72 | 0.721 | 91 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 98](/_clusters/ubc98/) | 15.38 | -14.93 | 288.83 | -22.14 | 1.52 | 65 | 12.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 99](/_clusters/ubc99/) | 16.18 | -7.52 | 282.02 | -18.3 | 1.059 | 100 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -48,3 +48,12 @@ permalink: /tables/BD_table/
 | [Ryu 842](/_clusters/ryu842/) | 24.3 | 1.48 | 277.58 | -6.99 | 0.208 | 15 | 2.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 898](/_clusters/ryu898/) | 28.52 | -1.85 | 282.5 | -4.77 | -0.054 | 25 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 907](/_clusters/ryu907/) | 29.23 | 5.57 | 276.22 | -0.74 | 0.214 | 18 | 2.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

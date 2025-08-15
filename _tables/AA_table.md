@@ -2286,3 +2286,12 @@ permalink: /tables/AA_table/
 | [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.501 | 23 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.247 | 33 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [ZHBJZ 1](/_clusters/zhbjz1/) | 218.58 | -1.67 | 103.95 | -5.79 | 3.487 | 243 | 47.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

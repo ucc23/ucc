@@ -55,3 +55,12 @@ permalink: /tables/dbs/CHI2023_table/
 | [CWWL 3567](/_clusters/cwwl3567/) | 27.19 | 2.61 | 277.91 | -3.91 | 2.611 | 73 | 16.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWWL 3595](/_clusters/cwwl3595/) | 63.25 | 14.75 | 282.58 | 33.41 | 3.469 | 81 | 23.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWWL 976](/_clusters/cwwl976/) | 186.34 | 12.72 | 102.65 | 29.27 | 0.247 | 24 | 4.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

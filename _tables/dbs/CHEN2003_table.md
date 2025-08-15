@@ -225,3 +225,12 @@ permalink: /tables/dbs/CHEN2003_table/
 | [Trumpler 24](/_clusters/trumpler24/) | 344.76 | 1.58 | 254.22 | -40.57 | 2.377 | 17 | 58.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Trumpler 37](/_clusters/trumpler37/) | 99.38 | 3.86 | 324.71 | 57.63 | 1.632 | 24 | 17.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 136](/_clusters/vdbh136/) | 301.7 | -5.54 | 189.52 | -68.38 | 0.343 | 4192 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

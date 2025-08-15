@@ -712,3 +712,12 @@ permalink: /tables/dbs/HAO2022_table/
 | [OC 0702](/_clusters/oc0702/) | 359.48 | -1.59 | 267.66 | -30.21 | 0.518 | 20 | 4.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [OC 0703](/_clusters/oc0703/) | 359.49 | -1.61 | 267.69 | -30.21 | 0.307 | 40 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [OC 0704](/_clusters/oc0704/) | 359.87 | -0.25 | 266.57 | -29.18 | 0.49 | 39 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

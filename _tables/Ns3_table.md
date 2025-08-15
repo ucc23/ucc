@@ -452,3 +452,12 @@ permalink: /tables/Ns3_table/
 | [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.501 | 23 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.86 | 39 | 15.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [ZHBJZ 1](/_clusters/zhbjz1/) | 218.58 | -1.67 | 103.95 | -5.79 | 3.487 | 243 | 47.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

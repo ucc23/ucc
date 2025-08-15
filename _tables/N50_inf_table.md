@@ -21,3 +21,12 @@ permalink: /tables/N50_inf_table/
 | [Stock 2](/_clusters/stock2/) | 133.41 | -1.63 | 33.86 | 59.52 | 2.669 | 2019 | 49.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 5](/_clusters/trumpler5/) | 202.81 | 1.02 | 99.13 | 9.46 | 0.302 | 4578 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 136](/_clusters/vdbh136/) | 301.7 | -5.54 | 189.52 | -68.38 | 0.343 | 4192 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

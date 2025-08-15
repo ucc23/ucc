@@ -50,3 +50,12 @@ permalink: /tables/dbs/HUNT2021_table/
 | [PHOC 7](/_clusters/phoc7/) | 47.25 | 4.1 | 285.75 | 14.6 | 0.495 | 23 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [PHOC 8](/_clusters/phoc8/) | 48.47 | 1.37 | 288.83 | 14.43 | 0.361 | 78 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [PHOC 9](/_clusters/phoc9/) | 166.07 | 2.49 | 79.59 | 41.96 | 0.197 | 153 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

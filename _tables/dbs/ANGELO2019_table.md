@@ -32,3 +32,12 @@ permalink: /tables/dbs/ANGELO2019_table/
 | [NGC 752](/_clusters/ngc752/) | 136.96 | -23.29 | 29.22 | 37.79 | 2.268 | 358 | 29.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Ruprecht 3](/_clusters/ruprecht3/) | 238.77 | -14.82 | 100.52 | -29.44 | 0.151 | 19 | 6.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Ruprecht 31](/_clusters/ruprecht31/) | 250.08 | -5.97 | 115.74 | -35.59 | 2.3 | 26 | 39.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -513,3 +513,12 @@ permalink: /tables/dbs/LIUPANG2019_table/
 | [VDBH 7](/_clusters/vdbh7/) | 243.99 | -2.08 | 116.18 | -28.38 | 0.246 | 273 | 3.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 90](/_clusters/vdbh90/) | 283.14 | -1.45 | 153.06 | -58.07 | 0.375 | 220 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

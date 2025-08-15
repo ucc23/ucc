@@ -1057,3 +1057,12 @@ permalink: /tables/dbs/LOKTIN2017_table/
 | [Waterloo 7](/_clusters/waterloo7/) | 230.28 | 0.62 | 111.53 | -15.09 | 0.274 | 52 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Waterloo 8](/_clusters/waterloo8/) | 231.39 | 1.13 | 112.54 | -15.83 | 0.16 | 11 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Westerlund 2](/_clusters/westerlund2/) | 284.27 | -0.33 | 156.01 | -57.76 | 0.197 | 217 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -1938,3 +1938,12 @@ permalink: /tables/dbs/DIAS2002_table/
 | [Wit 1](/_clusters/wit1/) | 219.13 | -0.68 | 105.09 | -5.83 | 0.3 | 16 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Wit 2](/_clusters/wit2/) | 216.83 | 0.79 | 105.35 | -3.11 | 0.434 | 93 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Wit 3](/_clusters/wit3/) | 224.41 | 2.63 | 110.51 | -8.98 | 0.274 | 19 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

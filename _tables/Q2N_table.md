@@ -1834,3 +1834,12 @@ permalink: /tables/Q2N_table/
 | [UPK 369](/_clusters/upk369/) | 177.39 | -1.27 | 83.56 | 30.48 | 1.363 | 23 | 17.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.253 | 41 | 16.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Zanin 6](/_clusters/zanin6/) | 99.97 | -16.16 | 342.94 | 41.31 | 2.684 | 24 | 39.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

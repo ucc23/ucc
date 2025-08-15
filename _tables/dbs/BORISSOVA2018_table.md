@@ -129,3 +129,12 @@ permalink: /tables/dbs/BORISSOVA2018_table/
 | [VVVX CL118](/_clusters/vvvxcl118/) | 19.31 | -0.66 | 277.15 | -12.41 | 0.346 | 16 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL119](/_clusters/vvvxcl119/) | 19.88 | -0.54 | 277.31 | -11.84 | 0.429 | 19 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL120](/_clusters/vvvxcl120/) | 19.6 | -0.9 | 277.51 | -12.26 | 0.366 | 14 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

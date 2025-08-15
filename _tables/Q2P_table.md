@@ -1945,3 +1945,12 @@ permalink: /tables/Q2P_table/
 | [Waterloo 1](/_clusters/waterloo1/) | 151.28 | 1.8 | 64.68 | 52.86 | 0.219 | 67 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Waterloo 2](/_clusters/waterloo2/) | 168.42 | 3.08 | 82.0 | 40.35 | 0.293 | 19 | 7.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 2](/_clusters/xdocc2/) | 174.39 | 1.13 | 84.04 | 34.3 | 0.753 | 52 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

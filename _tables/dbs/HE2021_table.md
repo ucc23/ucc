@@ -83,3 +83,12 @@ permalink: /tables/dbs/HE2021_table/
 | [HXHWL 74](/_clusters/hxhwl74/) | 216.75 | -0.83 | 103.86 | -3.78 | 0.418 | 56 | 3.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HXHWL 8](/_clusters/hxhwl8/) | 87.5 | -3.61 | 319.28 | 44.03 | 0.843 | 62 | 18.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HXHWL 9](/_clusters/hxhwl9/) | 241.77 | 0.14 | 117.09 | -25.35 | 0.404 | 33 | 6.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -2225,3 +2225,12 @@ permalink: /tables/DC_table/
 | [Wit 3](/_clusters/wit3/) | 224.41 | 2.63 | 110.51 | -8.98 | 0.274 | 19 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Wit 4](/_clusters/wit4/) | 82.33 | 3.02 | 307.55 | 44.34 | 0.225 | 17 | 4.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Zanin 6](/_clusters/zanin6/) | 99.97 | -16.16 | 342.94 | 41.31 | 2.684 | 24 | 39.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

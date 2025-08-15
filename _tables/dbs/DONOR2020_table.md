@@ -137,3 +137,12 @@ permalink: /tables/dbs/DONOR2020_table/
 | [Trumpler 5](/_clusters/trumpler5/) | 202.81 | 1.02 | 99.13 | 9.46 | 0.302 | 4578 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 211](/_clusters/vdbh211/) | 344.95 | 0.46 | 255.54 | -41.11 | 0.553 | 209 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 006](/_clusters/vvv006/) | 295.75 | -0.21 | 177.3 | -62.21 | 0.225 | 48 | 1.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

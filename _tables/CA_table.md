@@ -208,3 +208,12 @@ permalink: /tables/CA_table/
 | [UPK 74](/_clusters/upk74/) | 58.42 | -0.1 | 295.22 | 22.47 | 1.752 | 29 | 15.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [UPK 88](/_clusters/upk88/) | 64.73 | -11.79 | 309.48 | 21.46 | 3.415 | 26 | 48.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 203](/_clusters/vdbh203/) | 344.39 | 1.62 | 253.87 | -40.83 | 0.584 | 20 | 2.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

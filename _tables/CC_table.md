@@ -2152,3 +2152,12 @@ permalink: /tables/CC_table/
 | [Waterloo 2](/_clusters/waterloo2/) | 168.42 | 3.08 | 82.0 | 40.35 | 0.293 | 19 | 7.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Waterloo 6](/_clusters/waterloo6/) | 264.85 | -2.66 | 130.1 | -46.13 | 0.156 | 20 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [Whitman 1](/_clusters/whitman1/) | 286.52 | -7.02 | 152.1 | -64.56 | 0.233 | 14 | 6.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

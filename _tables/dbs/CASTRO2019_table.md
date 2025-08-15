@@ -62,3 +62,12 @@ permalink: /tables/dbs/CASTRO2019_table/
 | [UBC 88](/_clusters/ubc88/) | 152.73 | -6.15 | 58.17 | 45.97 | 1.032 | 135 | 10.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 89](/_clusters/ubc89/) | 170.4 | 1.03 | 81.22 | 37.57 | 0.897 | 98 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 90](/_clusters/ubc90/) | 197.11 | 1.88 | 97.21 | 14.92 | 0.346 | 86 | 1.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

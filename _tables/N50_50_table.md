@@ -3966,3 +3966,12 @@ permalink: /tables/N50_50_table/
 | [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.86 | 39 | 15.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.247 | 33 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.8 | 35 | 25.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -69,3 +69,12 @@ permalink: /tables/Ns5_table/
 | [UBC 1306](/_clusters/ubc1306/) | 188.91 | 3.41 | 94.6 | 22.88 | 0.527 | 58 | 13.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 208](/_clusters/ubc208/) | 209.51 | -19.65 | 83.8 | -5.93 | 2.6 | 393 | 17.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [UBC 323](/_clusters/ubc323/) | 344.51 | 1.64 | 253.94 | -40.73 | 0.59 | 365 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

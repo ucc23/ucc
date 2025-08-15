@@ -1401,3 +1401,12 @@ permalink: /tables/BC_table/
 | [VVVX CL105](/_clusters/vvvxcl105/) | 16.93 | 0.29 | 275.15 | -14.07 | 0.617 | 20 | 8.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL107](/_clusters/vvvxcl107/) | 12.89 | -1.98 | 275.25 | -18.7 | 0.169 | 10 | 8.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [Zeta Gemini](/_clusters/zetagemini/) | 195.74 | 11.9 | 106.02 | 20.57 | 0.268 | 19 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -550,3 +550,12 @@ permalink: /tables/dbs/HE2022_table/
 | [CWNU 97](/_clusters/cwnu97/) | 192.76 | -3.68 | 89.99 | 16.08 | 0.764 | 21 | 10.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 98](/_clusters/cwnu98/) | 21.0 | 1.54 | 275.97 | -9.88 | 0.667 | 30 | 7.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [CWNU 99](/_clusters/cwnu99/) | 132.08 | 5.36 | 36.31 | 66.55 | 0.308 | 45 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

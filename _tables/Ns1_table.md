@@ -4016,3 +4016,12 @@ permalink: /tables/Ns1_table/
 | [XDOCC 6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.738 | 139 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.725 | 113 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Zeta Gemini](/_clusters/zetagemini/) | 195.74 | 11.9 | 106.02 | 20.57 | 0.268 | 19 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

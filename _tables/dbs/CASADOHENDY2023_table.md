@@ -11,3 +11,12 @@ permalink: /tables/dbs/CASADOHENDY2023_table/
 | ---- | - | - | -- | --- | --- | --  | --  |-- |
 | [Casado 82](/_clusters/casado82/) | 72.59 | 2.59 | 300.9 | 36.02 | 0.493 | 23 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado-Hendy 1](/_clusters/casadohendy1/) | 73.3 | 1.17 | 302.85 | 35.85 | 0.486 | 46 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

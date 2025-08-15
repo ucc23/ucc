@@ -1750,3 +1750,12 @@ permalink: /tables/dbs/DIAS2021_table/
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Waterloo 1](/_clusters/waterloo1/) | 151.28 | 1.8 | 64.68 | 52.86 | 0.219 | 67 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Waterloo 7](/_clusters/waterloo7/) | 230.28 | 0.62 | 111.53 | -15.09 | 0.274 | 52 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

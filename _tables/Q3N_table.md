@@ -2598,3 +2598,12 @@ permalink: /tables/Q3N_table/
 | [XDOCC 3](/_clusters/xdocc3/) | 226.42 | -2.3 | 107.01 | -13.05 | 0.86 | 39 | 15.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 6](/_clusters/xdocc6/) | 266.79 | -3.46 | 130.93 | -48.15 | 0.738 | 139 | 7.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [ZHBJZ 1](/_clusters/zhbjz1/) | 218.58 | -1.67 | 103.95 | -5.79 | 3.487 | 243 | 47.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

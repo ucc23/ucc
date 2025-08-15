@@ -92,3 +92,12 @@ permalink: /tables/dbs/CHI2023_1_table/
 | [LISC-III 932](/_clusters/lisciii932/) | 204.16 | 5.73 | 104.01 | 10.4 | 0.217 | 15 | 6.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [LISC-III 933](/_clusters/lisciii933/) | 205.53 | 4.79 | 103.77 | 8.76 | 0.224 | 29 | 6.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [LISC-III 934](/_clusters/lisciii934/) | 206.5 | 3.7 | 103.23 | 7.4 | 0.232 | 17 | 7.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

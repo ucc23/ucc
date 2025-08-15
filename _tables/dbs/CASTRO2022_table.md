@@ -637,3 +637,12 @@ permalink: /tables/dbs/CASTRO2022_table/
 | [UBC 1626](/_clusters/ubc1626/) | 305.01 | -4.06 | 198.15 | -66.84 | 0.374 | 19 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 1627](/_clusters/ubc1627/) | 307.77 | 1.52 | 202.87 | -60.98 | 0.348 | 22 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UBC 1628](/_clusters/ubc1628/) | 319.82 | -4.21 | 230.94 | -61.98 | 0.518 | 19 | 4.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

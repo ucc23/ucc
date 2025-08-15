@@ -386,3 +386,12 @@ permalink: /tables/BA_table/
 | [UPK 77](/_clusters/upk77/) | 61.33 | 13.69 | 282.86 | 31.28 | 2.742 | 26 | 29.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 110](/_clusters/vdbh110/) | 290.82 | -1.12 | 166.77 | -61.51 | 0.1 | 45 | 1.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [VVV 100](/_clusters/vvv100/) | 348.53 | -0.97 | 259.81 | -39.08 | 0.58 | 39 | 2.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

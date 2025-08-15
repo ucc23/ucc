@@ -131,3 +131,12 @@ permalink: /tables/Ns4_table/
 | [VDBH 121](/_clusters/vdbh121/) | 294.89 | -1.66 | 174.66 | -63.39 | 0.398 | 492 | 6.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VVV 083](/_clusters/vvv083/) | 336.52 | -1.74 | 250.33 | -49.01 | 0.849 | 17 | 4.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL048](/_clusters/vvvxcl048/) | 343.05 | 2.61 | 251.72 | -41.23 | 0.897 | 49 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

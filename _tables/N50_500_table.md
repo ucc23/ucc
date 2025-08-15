@@ -419,3 +419,12 @@ permalink: /tables/N50_500_table/
 | [VDBH 85](/_clusters/vdbh85/) | 276.91 | 4.55 | 150.47 | -49.56 | 0.138 | 256 | 1.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 87](/_clusters/vdbh87/) | 280.72 | 0.12 | 151.15 | -55.39 | 0.428 | 294 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Westerlund 1](/_clusters/westerlund1/) | 339.55 | -0.4 | 251.76 | -45.85 | 0.208 | 305 | 1.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

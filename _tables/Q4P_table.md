@@ -1907,3 +1907,12 @@ permalink: /tables/Q4P_table/
 | [VVVX CL051](/_clusters/vvvxcl051/) | 344.59 | 2.59 | 253.04 | -40.06 | 0.147 | 14 | 7.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL052](/_clusters/vvvxcl052/) | 344.89 | 2.58 | 253.29 | -39.84 | 0.435 | 6 | 13.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVVX CL053](/_clusters/vvvxcl053/) | 347.91 | 2.5 | 255.79 | -37.52 | 0.272 | 10 | 5.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

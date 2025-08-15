@@ -89,3 +89,12 @@ permalink: /tables/dbs/DIAS2019_table/
 | [VDBH 5](/_clusters/vdbh5/) | 245.04 | -3.66 | 115.21 | -30.07 | 1.778 | 484 | 20.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 8](/_clusters/vdbh8/) | 247.95 | -4.16 | 116.38 | -32.85 | 0.26 | 392 | 2.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

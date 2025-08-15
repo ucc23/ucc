@@ -216,3 +216,12 @@ permalink: /tables/dbs/SIM2019_table/
 | [UPK 93](/_clusters/upk93/) | 67.21 | -0.21 | 300.32 | 29.97 | 1.422 | 56 | 15.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UPK 94](/_clusters/upk94/) | 67.36 | -4.76 | 304.78 | 27.62 | 1.036 | 44 | 12.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [UPK 99](/_clusters/upk99/) | 69.67 | -11.55 | 312.43 | 25.49 | 1.249 | 20 | 23.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

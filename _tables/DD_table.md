@@ -123,3 +123,12 @@ permalink: /tables/DD_table/
 | [Ryu 893](/_clusters/ryu893/) | 28.26 | 5.55 | 275.79 | -1.61 | 0.242 | 18 | 2.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [S1](/_clusters/s1/) | 130.05 | -0.96 | 27.71 | 61.09 | 0.34 | 19 | 6.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
 | [VVVX CL066](/_clusters/vvvxcl066/) | 10.19 | 0.2 | 271.86 | -20.03 | 0.452 | 19 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -70,3 +70,12 @@ permalink: /tables/dbs/LI2022_table/
 | [LISC 3483](/_clusters/lisc3483/) | 340.08 | 6.49 | 245.28 | -40.79 | 0.905 | 68 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [LISC 3530](/_clusters/lisc3530/) | 359.49 | -10.85 | 277.34 | -34.58 | 1.968 | 92 | 19.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [LISC 3534](/_clusters/lisc3534/) | 122.38 | -12.79 | 12.01 | 50.08 | 2.179 | 357 | 52.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

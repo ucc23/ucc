@@ -8621,3 +8621,12 @@ permalink: /tables/N50_25_table/
 | [XDOCC 4](/_clusters/xdocc4/) | 241.56 | 2.1 | 118.83 | -24.17 | 0.303 | 22 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Zanin 6](/_clusters/zanin6/) | 99.97 | -16.16 | 342.94 | 41.31 | 2.684 | 24 | 39.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Zeta Gemini](/_clusters/zetagemini/) | 195.74 | 11.9 | 106.02 | 20.57 | 0.268 | 19 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -105,3 +105,12 @@ permalink: /tables/dbs/BORISSOVA2011_table/
 | [VVV 098](/_clusters/vvv098/) | 347.9 | 0.05 | 258.27 | -39.0 | 0.236 | 14 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVV 099](/_clusters/vvv099/) | 348.73 | 0.32 | 258.61 | -38.17 | 0.501 | 17 | 4.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [VVV 100](/_clusters/vvv100/) | 348.53 | -0.97 | 259.81 | -39.08 | 0.58 | 39 | 2.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

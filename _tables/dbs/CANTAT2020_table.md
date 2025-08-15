@@ -2026,3 +2026,12 @@ permalink: /tables/dbs/CANTAT2020_table/
 | [Waterloo 7](/_clusters/waterloo7/) | 230.28 | 0.62 | 111.53 | -15.09 | 0.274 | 52 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Westerlund 1](/_clusters/westerlund1/) | 339.55 | -0.4 | 251.76 | -45.85 | 0.208 | 305 | 1.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Westerlund 2](/_clusters/westerlund2/) | 284.27 | -0.33 | 156.01 | -57.76 | 0.197 | 217 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

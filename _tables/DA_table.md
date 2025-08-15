@@ -92,3 +92,12 @@ permalink: /tables/DA_table/
 | [UBC 549](/_clusters/ubc549/) | 338.87 | -1.33 | 252.16 | -46.96 | 0.344 | 21 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 638](/_clusters/ubc638/) | 242.3 | 6.98 | 123.75 | -22.2 | 0.152 | 25 | 0.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [UPK 305](/_clusters/upk305/) | 145.8 | -18.77 | 41.13 | 39.03 | 2.457 | 24 | 35.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

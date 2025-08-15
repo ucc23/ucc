@@ -70,7 +70,7 @@ relative_links:
 
 # Full site include
 include: ['_pages', '_clusters', '_tables']
-# include: ['_pages', '_clusters2',] # '_tables']
+# include: ['_pages', '_clusters2', '_tables']
 
 
 # Exclude these files from your production _site

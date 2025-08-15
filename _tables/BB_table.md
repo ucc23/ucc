@@ -1546,3 +1546,12 @@ permalink: /tables/BB_table/
 | [VVVX CL042](/_clusters/vvvxcl042/) | 338.55 | 2.12 | 248.13 | -44.92 | 0.152 | 11 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVVX CL083](/_clusters/vvvxcl083/) | 11.42 | -1.38 | 273.96 | -19.7 | 0.717 | 37 | 9.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 1](/_clusters/xdocc1/) | 126.67 | -4.32 | 19.98 | 58.34 | 1.253 | 41 | 16.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -25,3 +25,12 @@ permalink: /tables/dbs/HAO2020_table/
 | [HXWHB 7](/_clusters/hxwhb7/) | 171.88 | -0.62 | 80.57 | 35.42 | 0.55 | 14 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [HXWHB 8](/_clusters/hxwhb8/) | 173.22 | -1.55 | 80.57 | 33.79 | 0.907 | 32 | 6.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [HXWHB 9](/_clusters/hxwhb9/) | 173.9 | -1.8 | 80.78 | 33.09 | 1.075 | 18 | 28.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

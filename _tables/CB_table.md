@@ -1183,3 +1183,12 @@ permalink: /tables/CB_table/
 | [VVVX CL090](/_clusters/vvvxcl090/) | 12.24 | -1.32 | 274.31 | -18.95 | 0.298 | 19 | 5.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VVVX CL096](/_clusters/vvvxcl096/) | 18.34 | 1.77 | 274.49 | -12.12 | 0.483 | 22 | 4.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [WZ Sgr](/_clusters/wzsgr/) | 11.78 | -0.67 | 273.48 | -19.05 | 0.328 | 21 | 6.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

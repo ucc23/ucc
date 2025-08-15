@@ -29,3 +29,12 @@ permalink: /tables/dbs/CASADO2021_table/
 | [Casado 7](/_clusters/casado7/) | 0.23 | -0.5 | 267.03 | -29.0 | 0.578 | 54 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Casado 8](/_clusters/casado8/) | 249.51 | 1.95 | 123.47 | -30.97 | 0.273 | 28 | 3.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Casado 9](/_clusters/casado9/) | 249.32 | -0.69 | 120.75 | -32.24 | 0.266 | 51 | 2.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

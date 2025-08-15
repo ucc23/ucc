@@ -32,3 +32,12 @@ permalink: /tables/dbs/CASTRO2018_table/
 | [UBC 4](/_clusters/ubc4/) | 161.46 | -12.74 | 61.0 | 35.35 | 1.681 | 26 | 24.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 7](/_clusters/ubc7/) | 248.74 | -13.35 | 106.79 | -37.73 | 3.592 | 123 | 24.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UBC 8](/_clusters/ubc8/) | 154.91 | 13.35 | 84.52 | 57.12 | 2.083 | 130 | 18.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

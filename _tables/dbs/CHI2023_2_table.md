@@ -1188,3 +1188,12 @@ permalink: /tables/dbs/CHI2023_2_table/
 | [CWWDL 9741](/_clusters/cwwdl9741/) | 20.39 | 0.36 | 276.74 | -10.98 | 0.731 | 59 | 4.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWWDL 980](/_clusters/cwwdl980/) | 27.8 | -1.48 | 281.83 | -5.24 | 0.479 | 112 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [CWWDL 9918](/_clusters/cwwdl9918/) | 49.62 | 0.71 | 290.0 | 15.14 | 0.63 | 78 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

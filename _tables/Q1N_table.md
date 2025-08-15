@@ -1929,3 +1929,12 @@ permalink: /tables/Q1N_table/
 | [WZ Sgr](/_clusters/wzsgr/) | 11.78 | -0.67 | 273.48 | -19.05 | 0.328 | 21 | 6.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 11](/_clusters/xdocc11/) | 89.43 | -0.28 | 317.73 | 47.72 | 0.454 | 54 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.725 | 113 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

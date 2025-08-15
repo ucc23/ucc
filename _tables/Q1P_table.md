@@ -1946,3 +1946,12 @@ permalink: /tables/Q1P_table/
 | [Wit 4](/_clusters/wit4/) | 82.33 | 3.02 | 307.55 | 44.34 | 0.225 | 17 | 4.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [XDOCC 10](/_clusters/xdocc10/) | 75.65 | 0.26 | 305.42 | 37.29 | 0.501 | 23 | 7.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.8 | 35 | 25.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

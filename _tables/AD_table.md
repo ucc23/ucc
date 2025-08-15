@@ -19,3 +19,12 @@ permalink: /tables/AD_table/
 | [Ryu 757](/_clusters/ryu757/) | 17.8 | 4.06 | 272.17 | -11.51 | 0.05 | 19 | 1.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 833](/_clusters/ryu833/) | 23.64 | 1.33 | 277.4 | -7.65 | 0.314 | 49 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Ryu 846](/_clusters/ryu846/) | 24.43 | 2.58 | 276.66 | -6.37 | 0.13 | 21 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

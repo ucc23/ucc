@@ -1665,3 +1665,12 @@ permalink: /tables/dbs/HE2023_table/
 | [CWNU 2924](/_clusters/cwnu2924/) | 309.76 | 11.71 | 203.42 | -50.6 | 0.34 | 18 | 8.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 2925](/_clusters/cwnu2925/) | 204.36 | -1.15 | 97.9 | 7.09 | 0.325 | 15 | 7.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [CWNU 2926](/_clusters/cwnu2926/) | 120.79 | 1.68 | 7.88 | 64.47 | 0.559 | 23 | 9.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

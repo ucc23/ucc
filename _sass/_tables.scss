@@ -56,3 +56,25 @@ table tr td :last-child {
 .sorted-asc, .sorted-desc {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
+
+
+/* Only affect sortable tables */
+table.sortable thead th {
+    cursor: pointer;
+    position: relative;
+}
+
+/* On hover: subtle underline + arrow flash */
+table.sortable thead th:hover {
+    background-color: #e6f3ff !important; /* light blue highlight */
+}
+
+// /* Small hint arrow when hovering */
+// table.sortable thead th:hover::after {
+//     content: "⇅";
+//     position: absolute;
+//     right: 6px;
+//     font-size: 0.8em;
+//     color: #888;
+//     opacity: 0.7;
+// }

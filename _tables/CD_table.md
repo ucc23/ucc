@@ -89,3 +89,12 @@ permalink: /tables/CD_table/
 | [Theia 6042](/_clusters/theia6042/) | 198.15 | 19.65 | 114.63 | 21.54 | 0.47 | 7 | 2.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 613](/_clusters/theia613/) | 273.92 | -15.96 | 119.42 | -60.89 | 2.732 | 22 | 18.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
 | [Theia 7082](/_clusters/theia7082/) | 169.61 | 4.29 | 84.18 | 40.02 | 0.724 | 23 | 15.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

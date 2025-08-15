@@ -203,3 +203,12 @@ permalink: /tables/dbs/GLUSHKOVA2010_table/
 | [Teutsch J0609.3+3113](/_clusters/teutschj06093p3113/) | 180.58 | 5.59 | 92.34 | 31.23 | 0.188 | 53 | 1.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> |
 | [Trumpler 19](/_clusters/trumpler19/) | 290.2 | 2.89 | 168.62 | -57.56 | 0.394 | 1079 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 131](/_clusters/vdbh131/) | 300.12 | -0.67 | 186.56 | -63.41 | 0.123 | 256 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -43,3 +43,12 @@ permalink: /tables/dbs/FERREIRA2021_table/
 | [UFMG 94](/_clusters/ufmg94/) | 356.86 | -3.43 | 267.96 | -33.39 | 0.776 | 56 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UFMG 95](/_clusters/ufmg95/) | 1.51 | -3.45 | 270.69 | -29.38 | 0.849 | 30 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UFMG 96](/_clusters/ufmg96/) | 358.38 | 1.01 | 264.44 | -29.77 | 0.421 | 81 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -20,3 +20,12 @@ permalink: /tables/N50_0_table/
 | [LISC 3697](/_clusters/lisc3697/) | 281.51 | -30.85 | 86.52 | -70.93 | 0.28 | 0 | 9.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [LISC 3701](/_clusters/lisc3701/) | 279.28 | -31.39 | 85.52 | -68.97 | 0.22 | 0 | 8.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
 | [LISC 3702](/_clusters/lisc3702/) | 281.02 | -30.58 | 87.46 | -70.54 | 0.255 | 0 | 10.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

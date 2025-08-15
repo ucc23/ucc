@@ -3317,3 +3317,12 @@ permalink: /tables/AB_table/
 | [XDOCC 4](/_clusters/xdocc4/) | 241.56 | 2.1 | 118.83 | -24.17 | 0.303 | 22 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 5](/_clusters/xdocc5/) | 247.81 | 1.29 | 121.75 | -29.9 | 0.6 | 54 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.725 | 113 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

@@ -3564,3 +3564,12 @@ permalink: /tables/dbs/BICA2019_table/
 | [Wit 1](/_clusters/wit1/) | 219.13 | -0.68 | 105.09 | -5.83 | 0.3 | 16 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Zanin 6](/_clusters/zanin6/) | 99.97 | -16.16 | 342.94 | 41.31 | 2.684 | 24 | 39.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
 | [Zeta Gemini](/_clusters/zetagemini/) | 195.74 | 11.9 | 106.02 | 20.57 | 0.268 | 19 | 8.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

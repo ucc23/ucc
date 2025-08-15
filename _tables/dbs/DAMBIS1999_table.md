@@ -210,3 +210,12 @@ permalink: /tables/dbs/DAMBIS1999_table/
 | [VDBH 166](/_clusters/vdbh166/) | 320.78 | 6.41 | 222.72 | -52.27 | 0.552 | 45 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 8](/_clusters/vdbh8/) | 247.95 | -4.16 | 116.38 | -32.85 | 0.26 | 392 | 2.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

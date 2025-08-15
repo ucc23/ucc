@@ -33,3 +33,12 @@ permalink: /tables/dbs/PERREN2022_table/
 | [Saurer 6](/_clusters/saurer6/) | 68.01 | 2.84 | 297.76 | 32.24 | 0.124 | 12 | 6.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
 | [VDBH 37](/_clusters/vdbh37/) | 262.34 | -1.79 | 128.95 | -43.61 | 0.25 | 228 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 4](/_clusters/vdbh4/) | 249.98 | -7.12 | 114.44 | -36.06 | 0.099 | 35 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

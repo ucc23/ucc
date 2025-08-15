@@ -2065,3 +2065,12 @@ permalink: /tables/dbs/HE2023_1_table/
 | [VDBH 131](/_clusters/vdbh131/) | 300.12 | -0.67 | 186.56 | -63.41 | 0.123 | 256 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 4](/_clusters/vdbh4/) | 249.98 | -7.12 | 114.44 | -36.06 | 0.099 | 35 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 63](/_clusters/vdbh63/) | 271.63 | 0.4 | 140.16 | -49.22 | 0.21 | 79 | 1.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

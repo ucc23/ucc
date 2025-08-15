@@ -20,3 +20,12 @@ permalink: /tables/dbs/KOPOSOV2008_table/
 | [Koposov 62](/_clusters/koposov62/) | 187.26 | 4.2 | 94.51 | 24.7 | 0.172 | 19 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Koposov 63](/_clusters/koposov63/) | 186.51 | 2.52 | 92.5 | 24.57 | 0.222 | 79 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [Koposov 77](/_clusters/koposov77/) | 185.96 | -4.11 | 85.96 | 21.71 | 0.146 | 14 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

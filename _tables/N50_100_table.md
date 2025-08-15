@@ -696,3 +696,12 @@ permalink: /tables/N50_100_table/
 | [VDBH 78](/_clusters/vdbh78/) | 279.19 | -2.62 | 145.95 | -56.57 | 0.121 | 88 | 0.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 92](/_clusters/vdbh92/) | 282.99 | 0.43 | 154.78 | -56.42 | 0.386 | 83 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [Wit 2](/_clusters/wit2/) | 216.83 | 0.79 | 105.35 | -3.11 | 0.434 | 93 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

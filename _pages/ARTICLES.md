@@ -65,3 +65,10 @@ are presented <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
 <!-- End table 1 -->
 
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

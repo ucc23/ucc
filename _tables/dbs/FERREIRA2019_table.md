@@ -13,3 +13,12 @@ permalink: /tables/dbs/FERREIRA2019_table/
 | [UFMG 1](/_clusters/ufmg1/) | 325.19 | -1.68 | 236.59 | -56.79 | 0.374 | 335 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UFMG 2](/_clusters/ufmg2/) | 326.14 | -1.37 | 237.58 | -55.96 | 0.374 | 754 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [UFMG 3](/_clusters/ufmg3/) | 326.71 | -1.14 | 238.12 | -55.42 | 0.486 | 404 | 5.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

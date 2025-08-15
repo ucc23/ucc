@@ -895,3 +895,12 @@ permalink: /tables/dbs/HE2022_1_table/
 | [VDBH 5](/_clusters/vdbh5/) | 245.04 | -3.66 | 115.21 | -30.07 | 1.778 | 484 | 20.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 56](/_clusters/vdbh56/) | 264.47 | 1.55 | 134.35 | -43.18 | 1.105 | 314 | 13.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

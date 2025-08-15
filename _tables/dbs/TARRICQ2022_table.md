@@ -476,3 +476,12 @@ permalink: /tables/dbs/TARRICQ2022_table/
 | [UPK 99](/_clusters/upk99/) | 69.67 | -11.55 | 312.43 | 25.49 | 1.249 | 20 | 23.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
 | [VDBH 133](/_clusters/vdbh133/) | 299.97 | 1.97 | 186.8 | -60.77 | 0.797 | 119 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

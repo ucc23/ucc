@@ -24,3 +24,12 @@ permalink: /tables/dbs/SANTOS2021_table/
 | [NGC 2343](/_clusters/ngc2343/) | 224.27 | -1.17 | 107.03 | -10.62 | 0.903 | 321 | 8.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [NGC 2353](/_clusters/ngc2353/) | 224.68 | 0.4 | 108.64 | -10.26 | 0.831 | 281 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [VDB 92](/_clusters/vdb92/) | 224.59 | -2.43 | 106.04 | -11.48 | 0.864 | 682 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

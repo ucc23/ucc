@@ -439,3 +439,12 @@ permalink: /tables/dbs/JAEHNIG2021_table/
 | [XDOCC 7](/_clusters/xdocc7/) | 286.33 | -0.22 | 159.48 | -58.72 | 2.247 | 33 | 8.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [XDOCC 8](/_clusters/xdocc8/) | 7.33 | -0.24 | 270.76 | -22.73 | 0.725 | 113 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
 | [XDOCC 9](/_clusters/xdocc9/) | 59.81 | 2.37 | 293.61 | 24.89 | 1.8 | 35 | 25.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

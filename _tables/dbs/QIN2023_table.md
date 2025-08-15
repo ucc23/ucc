@@ -333,3 +333,12 @@ permalink: /tables/dbs/QIN2023_table/
 | [VDBH 164](/_clusters/vdbh164/) | 314.32 | -6.23 | 222.31 | -66.46 | 2.377 | 456 | 25.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 23](/_clusters/vdbh23/) | 253.97 | -1.03 | 123.45 | -36.33 | 2.272 | 152 | 21.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
 | [VDBH 99](/_clusters/vdbh99/) | 286.59 | -0.59 | 159.55 | -59.17 | 2.232 | 861 | 25.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>
