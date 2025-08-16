@@ -1,66 +1,66 @@
-// Initialize lastSort to track sorting state
 let lastSort = { columnIndex: -1, ascending: true };
+const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 
-// Enables table sorting functionality for a given table element
 function enableTableSorting(table) {
     if (!table) return;
-    
-    table.classList.add("sortable"); // Mark table as sortable
-    
-    const headers = table.querySelectorAll("thead tr th");
-    if (!headers.length) return;
-    
-    let tbody = table.querySelector("tbody");
-    if (!tbody) return;
-    
-    Array.from(headers).forEach((header, columnIndex) => {
+    table.classList.add("sortable");
+
+    const headers = table.querySelectorAll("thead th");
+    const tbody = table.querySelector("tbody");
+    if (!headers.length || !tbody) return;
+
+    // Precompute sortable values for all cells
+    const rows = Array.from(tbody.rows);
+    const data = rows.map(row => {
+        const cells = Array.from(row.cells).map(cell => {
+            const text = cell.textContent.trim();
+            const num = parseFloat(text.replace(/,/g, ""));
+            return {
+                raw: cell,
+                value: isNaN(num) ? text : num,
+                isNum: !isNaN(num)
+            };
+        });
+        return { row, cells };
+    });
+
+    headers.forEach((header, columnIndex) => {
         header.addEventListener("click", () => {
-            const rows = Array.from(tbody.rows);
             let ascending = lastSort.columnIndex !== columnIndex || !lastSort.ascending;
             lastSort = { columnIndex, ascending };
-            
-            // Clear previous sorting indicators
+
+            // Clear indicators
             headers.forEach(h => {
                 h.classList.remove("sorted-asc", "sorted-desc");
-                const arrow = h.querySelector(".sort-indicator");
-                if (arrow) arrow.remove();
+                h.querySelector(".sort-indicator")?.remove();
             });
-            
-            // Add current sorting indicator
+
+            // Add indicator
             header.classList.add(ascending ? "sorted-asc" : "sorted-desc");
             const arrow = document.createElement("span");
             arrow.className = "sort-indicator";
             arrow.textContent = ascending ? "▲" : "▼";
             header.appendChild(arrow);
-            
-            // Sort the rows
-            const colValues = rows.map(row => {
-                const text = row.cells[columnIndex].textContent.trim();
-                const num = parseFloat(text.replace(/,/g, ""));
-                return {
-                    row,
-                    value: isNaN(num) ? text : num,
-                    isNum: !isNaN(num)
-                };
-            });
-            
-            colValues.sort((a, b) => {
-                if (a.isNum && b.isNum) {
-                    return ascending ? a.value - b.value : b.value - a.value;
+
+            // Sort in memory
+            data.sort((a, b) => {
+                const va = a.cells[columnIndex];
+                const vb = b.cells[columnIndex];
+                if (va.isNum && vb.isNum) {
+                    return ascending ? va.value - vb.value : vb.value - va.value;
                 }
                 return ascending
-                    ? String(a.value).localeCompare(String(b.value))
-                    : String(b.value).localeCompare(String(a.value));
+                    ? collator.compare(va.value, vb.value)
+                    : collator.compare(vb.value, va.value);
             });
-            
-            // Update the table with sorted rows
-            const frag = document.createDocumentFragment();
-            colValues.forEach(item => frag.appendChild(item.row));
-            tbody.appendChild(frag);
+
+            // Replace tbody fresh each time
+            const oldTbody = table.querySelector("tbody");
+            const newTbody = oldTbody.cloneNode(false);
+            data.forEach(item => newTbody.appendChild(item.row));
+            oldTbody.parentNode.replaceChild(newTbody, oldTbody);
         });
     });
 }
 
-// For ES6 modules (modern):
 export { enableTableSorting };
-
