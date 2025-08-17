@@ -59,10 +59,27 @@ title:  Theia 3623
 
 ### Estimated members
 
+<div class="carousel">
+<input type="radio" name="radio-btn" id="slide1" checked>
+<input type="radio" name="radio-btn" id="slide1">
+<input type="radio" name="radio-btn" id="slide2">
+<div class="slides">
+<div class="slide">
 <a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/theia3623.webp" target="_blank">
 <img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/theia3623.webp" alt="Theia 3623 UCC">
 </a>
-
+</div>
+<div class="slide">
+<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/theia3623.webp" target="_blank">
+<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/theia3623.webp" alt="Theia 3623 HUNT23">
+</a>
+</div>
+</div>
+<div class="indicators">
+<label for="slide1">1</label>
+<label for="slide2">2</label>
+</div>
+</div>
 
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
