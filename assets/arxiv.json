@@ -1,6 +1,228 @@
 {
-  "fetched_at": "2025-08-19T01:20:07.234Z",
+  "fetched_at": "2025-08-19T06:26:16.808Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.12866v1",
+      "updated": "2025-08-18T12:04:55Z",
+      "published": "2025-08-18T12:04:55Z",
+      "title": "A bird's eye view of stellar evolution through populations of variable\n  stars in Galactic open clusters",
+      "summary": "  Both star clusters and variable stars are sensitive laboratories of stellar\nastrophysics and evolution: cluster member stars provide context for\ninterpreting cluster populations, whereas variability reveals the nature of\nindividual stellar systems. The European Space Agency's Gaia mission has\nrevolutionized the census of star clusters in the Milky Way, while\nsimultaneously providing an unprecedented homogeneous all-sky catalog of\nvariable stars. Here, we leverage the third Gaia data release to obtain an\nempirical bird's eye view of stellar evolution based on 34760 variable stars\nresiding in 1192 Galactic open clusters (OCs) containing 173294 members\n(variable member fraction 20.0%). Using precise OC distances, dereddened\nmagnitudes, and consistently determined ages, we a) pinpointed regions of\npulsational instability across the color-absolute magnitude diagram (CaMD); b)\ntraced the occurrence rate of variables as a function of age, and c) considered\nthe evolution of rotation periods and photometric activity (gyrochronology).\nThe occurrence of pulsating stars can serve as a model- and\nreddening-independent age estimator. Our results underline that jointly\nconsidering stellar variability and OC membership enables a plethora of further\napplications, such as age dating or dereddening OCs based on expected CaMD\nlocations of variable stars. Upcoming Gaia data releases and the Vera C. Rubin\nObservatory will vastly increase the extent to which the details of variable\nstars in OCs can empirically unravel the astrophysics and evolution of stellar\npopulations.\n",
+      "author": [
+        {
+          "name": "Richard I. Anderson"
+        },
+        {
+          "name": "Emily L. Hunt"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1051/0004-6361/202555111",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1051/0004-6361/202555111",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.12866v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.12866v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "4 pages, 3 figures plus appendix",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "A&A 700, L13 (2025)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 8
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.12788v1",
+      "updated": "2025-08-18T10:04:17Z",
+      "published": "2025-08-18T10:04:17Z",
+      "title": "How many stars form in compact clusters in the local Milky Way?",
+      "summary": "  Two main models coexist for the environment in which stars form. The\nclustered model stipulates that the bulk of star formation occurs within dense\nembedded clusters, but only a minority of them survive the residual gas\nexpulsion phase caused by massive stellar feedback unbinding the clusters. On\nthe other hand, the hierarchical model predicts that star formation happens at\na range of scales and densities, where open clusters (OCs) only emerge from the\ndensest regions. We aim to exploit a recent catalog of compact OCs, corrected\nfor completeness, to obtain an updated estimation of the surface density star\nformation rate within OCs ($\\sum_{\\rm SFR,OC}$), which we compare with recent\nestimates of $\\sum_{\\rm SFR}$ to determine which model is more likely. We have\napplied two methods. The first one consisted of integrating over the power law\nthat was fit for the mass function of the youngest OCs using a MC sampling. The\nsecond one consisted of counting the total compact mass within these youngest\nOCs within 1 kpc, so that the result could be directly compared with local\nvalues of $\\sum_{\\rm SFR}$. We estimated new $\\sum_{\\rm SFR,OC}$ values between\n$736^{+159}_{-176}$ and $875^{+34}_{-35}$ M$_{\\odot}$ Myr$^{-1}$ kpc$^{-2}$,\ndepending on the methodology. These results are significantly higher than\nprevious $\\sum_{\\rm SFR,OC}$ estimates, which we attribute to the\nincompleteness of past catalogs, and are consistent with the majority ($\\geq$\n50 \\%) or even the vast majority ($\\geq$ 80 \\%) of the star formation occurring\nin initially compact clusters, through comparisons with $\\sum_{\\rm SFR}$ from\nthe recent literature. Our new $\\sum_{\\rm SFR,OC}$ values are consistent with\nclustered formation being the most dominant mode of star formation.\n",
+      "author": [
+        {
+          "name": "Alexis L. Quintana"
+        },
+        {
+          "name": "Emily L. Hunt"
+        },
+        {
+          "name": "Hanna Parul"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "4 pages, 1 figure, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.12788v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.12788v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.12167v1",
+      "updated": "2025-08-16T21:42:14Z",
+      "published": "2025-08-16T21:42:14Z",
+      "title": "Origin of High Dark Remnant Fractions in Milky Way Globular Clusters:\n  The Crucial Role of Initial Black Hole Retention",
+      "summary": "  Comparing the dynamical and stellar masses of Milky Way (MW) globular\nclusters (GCs) reveals a discrepancy exceeding a factor of two. Since this\nsubstantial invisible mass is concentrated in the cluster centre, it is\nattributed to stellar remnants. The majority of mass in remnants consists of\nwhite dwarfs (WDs). Allocating over half of a GC's current mass to WDs could\nsignificantly restrict the dynamical evolution scenarios governing stellar\nclusters. As the most massive stars in GCs, black holes (BHs) exert a\nsubstantial effect on the escape rate of lower mass stars, such as WDs. This\npaper aims to identify which scenarios of BH natal kicks can accurately\nreproduce the notable dark remnant fraction observed in MW GCs. We compare the\nobserved remnant fraction of MW GCs with a comprehensive grid of direct \\Nbody\nsimulations while adjusting the natal kick received by BHs. Our results reveal\nthat simulations employing low natal kicks to BHs are the only ones capable of\nmirroring the remnant fraction of MW GCs. According to the Spitzer instability,\nthe presence of a BH population prompts the formation of a BH sub-system\n(BHSub) at the centre of a star cluster. The BHSub serves as an energetic power\nplant, continually releasing kinetic energy through few-body encounters between\nsingle and binary BHs, and transferring the generated energy to the entire\nstellar population. This energy induces a significant difference in the\nejection rate of stellar remnants and luminous stars, ultimately increasing the\nfraction of dark remnants within the star cluster.\n",
+      "author": [
+        {
+          "name": "Ali Rostami-Shirazi"
+        },
+        {
+          "name": "Holger Baumgardt"
+        },
+        {
+          "name": "Akram Hasani Zonoozi"
+        },
+        {
+          "name": "Mojtaba Ghasemi"
+        },
+        {
+          "name": "Hosein Haghi"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1093/mnras/stae2644",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1093/mnras/stae2644",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.12167v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.12167v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 7 figures, 1 table. Accepted for publication in MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "Monthly Notices of the Royal Astronomical Society, Volume 536,\n  Issue 2, January 2025, Pages 1332-1343",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2.5
+    },
     {
       "id": "http://arxiv.org/abs/2508.10895v1",
       "updated": "2025-08-14T17:59:02Z",
