@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-08-18T18:26:35.516Z",
+  "fetched_at": "2025-08-19T01:20:07.234Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.10895v1",
@@ -534,63 +534,6 @@
         {
           "$": {
             "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2508.08406v1",
-      "updated": "2025-08-11T18:55:11Z",
-      "published": "2025-08-11T18:55:11Z",
-      "title": "Hot Jupiter formation in dense stellar clusters: A Monte Carlo model\n  applied to 47 Tucanae",
-      "summary": "  We study the efficiency of high-e migration as a pathway for Hot Jupiter\nformation in the dense globular cluster 47 Tuc. Gravitational N-body\nsimulations are performed to investigate the orbital evolution of star-planet\nsystems due to dynamical stellar perturbations. Planetary systems that have\nbeen scattered into orbits of sufficiently high eccentricity can undergo tidal\ncircularisation, with Hot Jupiter formation being one possible stopping\ncondition. We also account for the possibility of (i) ionisation due to\nhigh-energy encounters, (ii) tidal disruption of the planet by tidal forces\ninside the Roche limit and (iii) Warm Jupiter formation. The orbital evolution\nof a population of cold Jupiter progenitors, with initial semi-major axes\nbetween 1-30 au, is simulated over 12 Gyr using a simplified dynamical model of\n47 Tuc. Our computational treatment of dynamical encounters yields an overall\nHJ occurrence rate of F_HJ = 5.9 x 10^-4 per cluster star (a 51 per cent\nenhancement relative to the analytic baseline). The probability of Hot Jupiter\nformation is highest in the core and falls off steeply beyond a few parsecs\nfrom the centre of the cluster, where the stellar density is too low to drive\nefficient eccentricity diffusion. The code can be found here:\nhttps://github.com/James-Wirth/HotJupiter.\n",
-      "author": [
-        {
-          "name": "J. A. Wirth"
-        },
-        {
-          "name": "C. J. Clarke"
-        },
-        {
-          "name": "A. J. Winter"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2508.08406v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2508.08406v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.EP",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.EP",
             "scheme": "http://arxiv.org/schemas/atom"
           }
         },
