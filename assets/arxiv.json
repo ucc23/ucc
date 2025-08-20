@@ -1,6 +1,122 @@
 {
-  "fetched_at": "2025-08-20T01:18:11.183Z",
+  "fetched_at": "2025-08-20T06:26:27.918Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.13980v1",
+      "updated": "2025-08-19T16:14:23Z",
+      "published": "2025-08-19T16:14:23Z",
+      "title": "Fractality of open clusters in singles, pairs, and groups",
+      "summary": "  In this work, we investigate the global structural properties and fractality\nof 1,876 open clusters (OCs) in different environments, including 1,145\nsingles, 392 pairs, and 339 groups. We analyze cluster mass, age, size,\nconcentration, and fractal structure using the Q parameter and the fractal\ndimension fdim, and examine their correlations with key physical parameters.\nOur results reveal systematic environmental trends: clusters in groups are\ngenerally younger, less massive, slightly larger, and less centrally\nconcentrated than those in pairs or singles. Fractality is more pronounced in\nclusters within pairs and groups, with 44% of group clusters exhibiting fractal\nsubstructure compared to 38.5% for pairs and 33.2% for singles. Similarly,\nmedian fdim values increase from singles (1.13) to pairs (1.16) to groups\n(1.25), reflecting greater substructure in denser environments. These findings\nindicate that both intrinsic cluster properties and environmental context\nsignificantly influence cluster evolution. More massive clusters tend to evolve\ntoward centrally concentrated, radially symmetric configurations, while less\nmassive clusters retain fractal features for longer periods. Overall, our study\ndemonstrates that open clusters do not evolve in isolation: interactions with\nthe environment play a critical role in shaping their structural evolution and\ndynamical state.\n",
+      "author": {
+        "name": "Almat Akhmetali"
+      },
+      "arxiv:comment": {
+        "_": "10 pages, 7 figures, 1 table",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.13980v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.13980v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.13893v1",
+      "updated": "2025-08-19T14:57:10Z",
+      "published": "2025-08-19T14:57:10Z",
+      "title": "Binary stars in the Milky Way nuclear stellar cluster",
+      "summary": "  Intermediate-mass galaxies, including the Milky Way, typically host both a\nsupermassive black hole (SMBH) and a nuclear stellar cluster (NSC). Binaries in\nan NSC evolve via close encounters with surrounding stars and secular processes\nrelated to the SMBH. We study moderately soft and hard binaries\n($0.03$-$2.5\\,\\mathrm{au}$, $M \\lesssim 2\\,M_\\odot$) initially at\ngalactocentric radii 0.1 and 0.3 pc using three-body simulations including von\nZeipel-Lidov-Kozai oscillations and tidal dissipation over $\\sim 10$ Gyr.\nBinaries migrate both inward and outward as a consequence of kicks received in\nthe three-body encounters. Inward migration leads to destruction via mergers\nand evaporation, while outward migration is a pathway to retaining intact\nbinaries for $\\gtrsim 10$ Gyr. All surviving binaries are hard and circular,\nbut outcomes for binaries initially at the hard-soft boundary are stochastic.\nWe find that: (i) about $0.3$ percent of evaporated binaries fall into the\nSMBH's loss cone, (ii) at least $1$ percent of mergers occur late enough to\nappear as blue straggler stars (BSSs) on the main sequence or as recently\nevolved red giants, (iii) about $1$ percent of binaries initially at 0.1 pc\nmerge within the inner arcsec of the NSC, and (iv) less than about $80$ percent\nof field-star collisions with a binary star lead to a subsequent merger; a\nthree-body pile up, which are relatively common in the first 1-2 Gyr and could\nserve as a way to form more massive BSSs in the NSC. We predict that a small\nfraction of binaries originate closer to the SMBH than their present-day\norbits, and vice versa for evaporated binaries and BSSs. The mergers confined\nto the inner arcsec occur after $\\gtrsim 300$ Myr, too long to be directly\nrelated to the formation of the S-stars or G-objects, but suggest that the\ninner arcsec is contaminated with BSSs from earlier star formation events.\n",
+      "author": [
+        {
+          "name": "Arn Marklund"
+        },
+        {
+          "name": "Ross P. Church"
+        },
+        {
+          "name": "Alessandro A. Trani"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 21 figures, 3 tables (5 figures and 1 table in Appendices\n  A-E). Accepted to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.13893v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.13893v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2508.12866v1",
       "updated": "2025-08-18T12:04:55Z",
