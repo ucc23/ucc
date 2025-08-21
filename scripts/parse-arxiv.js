@@ -1,7 +1,7 @@
 async function fetchPapers() {
   try {
     // Fetch latest version
-    const res = await fetch("https://raw.githubusercontent.com/ucc23/ucc/refs/heads/main/assets/arxiv.json");
+    const res = await fetch("https://raw.githubusercontent.com/ucc23/arxiv/refs/heads/main/arxiv.json");
     // Fetch local version for testing
     // const res = await fetch("../arxiv.json");
     const data = await res.json();
