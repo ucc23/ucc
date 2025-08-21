@@ -160,20 +160,25 @@ function getPoints(search, coordsys, maxN) {
         radius = 1;
     }
 
-    let results = data
+    const results = data
         .map(d => {
-            let dist_c = Infinity;
+            let distance = Infinity;
             if (coordsys == 'equ') {
-                dist_c = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
+                distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
             } else if (coordsys == "gal") {
-                dist_c = Math.hypot(x - d.GLON, y - d.GLAT);
-            } else {
+                distance = Math.hypot(x - d.GLON, y - d.GLAT);
+            } else if (coordsys == 'allnames') {
                 // Only search the string distance if the first three chars are present
-                // in the fnames
                 if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
-                    dist_c = Math.min(...d.fnames.split(";").map(fname =>
+                    distance = Math.min(...d.fnames.split(";").map(fname =>
                         stringDifference(normalizedQuery, fname)
                     ));
+                }
+            } else {
+                // Only search the string distance if the first three chars are present
+                let normName = d.ID.toLowerCase().replace(/[\s_.\-]/g, "");
+                if (normName.includes(normalizedQuery.slice(0, 3))) {
+                        distance = stringDifference(normalizedQuery, normName)
                 }
             }
 
@@ -182,7 +187,7 @@ function getPoints(search, coordsys, maxN) {
                 ra: parseFloat(d.RA_ICRS),
                 dec: parseFloat(d.DE_ICRS),
                 fname: d.fnames.split(';')[0],
-                dist_c: dist_c,
+                distance: distance,
                 dist: parseFloat(d.dist_pc),
                 membs: parseFloat(d.N_50),
                 c3: d.C3,
@@ -190,8 +195,8 @@ function getPoints(search, coordsys, maxN) {
             };
         })
         // Filter for euclidean search, string diff is always <1
-        .filter(d => d.dist_c <= radius)
-        .sort((a, b) => a.dist_c - b.dist_c)
+        .filter(d => d.distance <= radius)
+        .sort((a, b) => a.distance - b.distance)
         .slice(0, maxN);
 
     return results;

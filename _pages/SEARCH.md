@@ -21,7 +21,7 @@ permalink: /search/
 
         <div class="search-box">
             <button id="coordToggle">Name</button>
-            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by name...">
+            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by primary name...">
             <input id="maxN" type="number" min="0" placeholder="Max results" title="Maximum number of results">
             <button id="searchButton" type="button">Search</button>
         </div>

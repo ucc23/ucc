@@ -6,10 +6,9 @@ const userCardTemplate = document.querySelector("[data-user-template]");
 const userCardContainer = document.querySelector("[data-user-cards-container]");
 const searchInput = document.querySelector("[data-search]");
 
-let users = [];
-
+let data = [];
 (async () => {
-    users = await loadCompressedCsv("assets/clusters.csv.gz", ["ID", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
+    data = await loadCompressedCsv("assets/clusters.csv.gz", ["ID", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
 })();
 
 
@@ -39,43 +38,49 @@ searchInput.addEventListener("input", (event) => {
         normalizedQuery = query.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
     }
 
-    const results = users
-        .map(user => {
+    const results = data
+        .map(d => {
             let distance = Infinity;
             if (coordsys == 'equ') {
-                distance = Math.hypot(x - user.RA_ICRS, y - user.DE_ICRS);
+                distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
             } else if (coordsys == "gal") {
-                distance = Math.hypot(x - user.GLON, y - user.GLAT);
-            } else {
+                distance = Math.hypot(x - d.GLON, y - d.GLAT);
+            } else if (coordsys == 'allnames') {
                 // Only search the string distance if the first three chars are present
                 // in the fnames
-                if (user.fnames.includes(normalizedQuery.slice(0, 3))) {
-                    distance = Math.min(...user.fnames.split(";").map(fname =>
+                if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
+                    distance = Math.min(...d.fnames.split(";").map(fname =>
                         stringDifference(normalizedQuery, fname)
                     ));
                 }
+            } else {
+                // Only search the string distance if the first three chars are present
+                let normName = d.ID.toLowerCase().replace(/[\s_.\-]/g, "");
+                if (normName.includes(normalizedQuery.slice(0, 3))) {
+                        distance = stringDifference(normalizedQuery, normName)
+                }
             }
-            return { ...user, distance};
+            return { ...d, distance};
         })
         // Filter for euclidean search, string diff is always <1
-        .filter(user => user.distance < 5)
+        .filter(d => d.distance < 5)
         .sort((a, b) => a.distance - b.distance)
         .slice(0, 9);
 
     // Append new results
-    results.forEach(user => {
+    results.forEach(d => {
         const element = userCardTemplate.content.cloneNode(true).children[0];
         const header = element.querySelector("[data-header]");
         const body = element.querySelector(`[data-body]`);
-        const href = `./_clusters/${user.fnames.split(";")[0]}`;
+        const href = `./_clusters/${d.fnames.split(";")[0]}`;
         element.querySelector("a").setAttribute("href", href);
-        header.textContent = user.ID;
+        header.textContent = d.ID;
         if (coordsys == 'equ') {
-            body.textContent = `E (${user.RA_ICRS}, ${user.DE_ICRS})`;
+            body.textContent = `E (${d.RA_ICRS}, ${d.DE_ICRS})`;
         } else if (coordsys == "gal") {
-            body.textContent = `G (${user.GLON}, ${user.GLAT})`;
+            body.textContent = `G (${d.GLON}, ${d.GLAT})`;
         } else {
-            body.textContent = user.fnames.split(";").slice(1, 3).join(", ");
+            body.textContent = d.fnames.split(";").slice(1, 3).join(", ");
         }
         userCardContainer.appendChild(element);
     });

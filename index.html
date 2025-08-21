@@ -20,7 +20,7 @@ body {
 
   <div class="search-container">
     <button id="coordToggle">Name</button>
-    <input type="search" id="search"  placeholder="Search by name..." data-search autofocus>
+    <input type="search" id="search"  placeholder="Search by primary name..." data-search autofocus>
   </div>
   <div class="user-cards" data-user-cards-container></div>
   <template data-user-template>
@@ -32,7 +32,7 @@ body {
 
 
 <!-- Load search bar -->
-<script defer type="module" src="{{ site.baseurl }}/scripts/euclidean-search.js"></script>
+<script defer type="module" src="{{ site.baseurl }}/scripts/main-search.js"></script>
 
 <!-- Compression library used to access the compressed JSON file -->
 <!-- https://cdnjs.com/libraries/pako -->

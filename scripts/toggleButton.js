@@ -5,9 +5,10 @@ export function setupCoordToggle({
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
 
-  const modes = ['name', 'equ', 'gal'];
+  const modes = ['name', 'allnames', 'equ', 'gal'];
   const placeholders = {
-    name: "Search by name...",
+    name: "Search by primary name...",
+    allnames: "Search across all names...",
     equ: "Search by RA, DEC (degrees)...",
     gal: "Search by LON, LAT (degrees)..."
   };
@@ -27,7 +28,8 @@ export function setupCoordToggle({
     // Update button text
     btn.textContent =
       window.coordsys === 'gal' ? 'Galactic' :
-      window.coordsys === 'equ' ? 'Equatorial' : 'Name';
+      window.coordsys === 'equ' ? 'Equatorial' :
+      window.coordsys === 'allnames' ? 'All names' : 'Name';
 
     // Update placeholder
     termsInput.placeholder = placeholders[window.coordsys];
