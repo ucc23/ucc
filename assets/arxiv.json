@@ -1,6 +1,131 @@
 {
-  "fetched_at": "2025-08-21T01:17:26.658Z",
+  "fetched_at": "2025-08-21T06:35:15.857Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.14701v1",
+      "updated": "2025-08-20T13:24:18Z",
+      "published": "2025-08-20T13:24:18Z",
+      "title": "Probing the farthest star clusters to the Small Magellanic Cloud",
+      "summary": "  The Small Magellanic Cloud (SMC) has been tidally shaped by the interaction\nwith the Large Magellanic Cloud (LMC). The scope of such an interaction has\nrecently been studied from different astrophysical properties of its star\ncluster population, which point to star clusters placed remarkably outside the\nknown extension of the galaxy. In this work we report results for three of the\nrecently identified most external SMC star clusters, OGLE-CL-SMC0133,\nOGLE-CL-SMC0237, and Lindsay~116, using deep GEMINI GMOS imaging. Once we\nconfidently cleaned their color-magnitude diagrams from field star\ncontamination, we estimated their fundamental parameters applying likelihood\ntechniques. We also derived their structural parameters from normalized star\nnumber density radial profiles. Based on {\\it Gaia} astrometric data,\ncomplemented with kinematics information available in the literature, we\ncomputed the 3D components of their space velocities. With similar ages (~ 2.2\nGyr) and moderately metal-poor overall abundances ([Fe/H] = -1.0 - -0.7 dex),\nOGLE-CL-SMC0237 is placed at 2.6 kpc from the SMC center and shares its disk\nrotation; OGLE-CL-SMC0133 is located at 7.6 kpc from the galaxy center and\nexhibits a kinematics marginally similar to the SMC rotation disk, while\nLindsay~116 placed at 15.7 kpc from the center of the SMC is facing strong\nperturbations of its orbital motion with respect to an ordered rotational\ntrajectory. Furthermore, its internal dynamical evolution would seem to be\naccelerated -- it seems kinematically older -- in comparison with star clusters\nin the outskirts of relatively isolated galaxies. These outcomes lead to\nconclude that Lindsay~116 is subject to LMC tides.\n",
+      "author": [
+        {
+          "name": "A. E. Piatti"
+        },
+        {
+          "name": "D. M. F. Illesca"
+        },
+        {
+          "name": "M. Chiarpotti"
+        },
+        {
+          "name": "R. Butrón"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "9 pages, 7 figures. Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.14701v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.14701v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 7
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.14308v1",
+      "updated": "2025-08-19T23:10:09Z",
+      "published": "2025-08-19T23:10:09Z",
+      "title": "Compact Objects in Globular Clusters",
+      "summary": "  It is now widely established that globular clusters host robust populations\nof white dwarfs, neutron stars, and black holes throughout their lifetimes.\nWithin clusters, dynamical processes enabled by stellar densities thousands to\nmillions of times larger than typical galactic environments facilitate\ninteractions involving these stellar remnants that give rise to an array of\nastrophysical phenomena. In particular, stellar clusters have emerged as an\nimportant formation site for X-ray sources, radio pulsars, and merging black\nhole binaries similar to those recently detected as gravitational wave sources\nby the LIGO/Virgo/KAGRA detectors. This article reviews our current\nunderstanding of compact objects in globular clusters, discussing current\nobservational evidence, ways these objects influence the dynamical evolution of\ntheir hosts, and future prospects.\n",
+      "author": {
+        "name": "Kyle Kremer"
+      },
+      "arxiv:comment": {
+        "_": "A chapter for the Encyclopedia of Astrophysics (edited by I. Mandel,\n  section editor J. Andrews); 13 pages with 5 figures and 1 table",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.14308v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.14308v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2508.13980v1",
       "updated": "2025-08-19T16:14:23Z",
