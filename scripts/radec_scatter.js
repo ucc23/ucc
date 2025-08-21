@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     const raCenter = parseFloat(plotParamsElem.getAttribute("data-ra-center"));
     const decCenter = parseFloat(plotParamsElem.getAttribute("data-dec-center"));
     const radArcmin = Math.max(.05, 2*parseFloat(plotParamsElem.getAttribute("data-rad-deg")) / 60);
-    const ocDistpc = 1000/parseFloat(plotParamsElem.getAttribute("data-plx"));
+    // Handle very small and/or negative plx values, use a max dist of 50 Kpc
+    const ocDistpc = 1000 / Math.max(0.02, parseFloat(plotParamsElem.getAttribute("data-plx")));;
 
     let Nmax = 100;
 
@@ -48,7 +49,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const ra_values = filteredPoints.map(point => point.RA_ICRS);
         const dec_values = filteredPoints.map(point => point.DE_ICRS);
         const rad_values = filteredPoints.map(point =>  Math.max(.05, 2*parseFloat(point.r_50) / 60));
-        const plx_values = filteredPoints.map(point => point.dist_pc);
+        const dpc_values = filteredPoints.map(point => parseFloat(point.dist_pc));
 
         const traces = [];
 
@@ -72,7 +73,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             mode: 'markers',
             type: 'scatter',
             marker: {
-                color: plx_values,
+                color: dpc_values,
                 colorscale: 'Viridis',
                 opacity: 0.25,
                 size: rad_values,
