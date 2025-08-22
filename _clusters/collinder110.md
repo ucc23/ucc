@@ -59,6 +59,7 @@ title:  Collinder 110
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 99.697 | 2.073 | 0.435 | -1.093 | -2.039 | 32.191 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 99.675 | 2.073 | 0.434 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 99.697 | 2.073 | 0.435 | -1.093 | -2.039 | 32.191 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 99.675 | 2.073 | -- | -- | -- | -- |
 | **UCC** |99.681 | 2.076 | 0.434 | -1.094 | -2.046 | 37.694 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=99.681,+2.076" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=99.681%202.076&output=json&radius=5&userEntry=collinder110" target="_blank">Simbad</a></p>
@@ -111,6 +112,7 @@ title:  Collinder 110
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.37, diffAV50=1.12, MOD50=11.624, logAge50=9.177` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.41, dMod50=11.67, logAge50=9.18, [Fe/H]50=0.26` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=8614.20` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.36, MA23g=-0.18, MZ23=-0.31, MK24=-0.22, MF24=-0.28` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=209.632%20&lat=-1.881&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

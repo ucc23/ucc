@@ -56,8 +56,8 @@ title:  Melotte 210
 |[Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | 279.649 | 5.435 | -- | -- | -- | -- |
 |[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 279.673 | 5.417 | 2.094 | 1.285 | -4.899 | -- |
 |[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 279.649 | 5.435 | 2.093 | 1.26 | -4.927 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 279.633 | 5.42 | 2.096 | 1.268 | -4.907 | -24.563 |
 |[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 279.646 | 5.427 | 2.126 | 1.257 | -4.901 | -- |
+|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 279.633 | 5.42 | 2.096 | 1.268 | -4.907 | -24.563 |
 |[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 279.634 | 5.477 | 2.097 | 1.233 | -4.954 | -- |
 |[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 279.66 | 5.435 | 2.109 | 1.278 | -4.95 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 279.627 | 5.437 | 2.108 | 1.284 | -4.968 | -24.879 |
@@ -65,6 +65,7 @@ title:  Melotte 210
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 279.658 | 5.417 | 2.107 | -- | -- | -- |
 |[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 279.649 | 5.43 | 2.074 | 1.263 | -4.96 | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 279.627 | 5.437 | 2.108 | 1.284 | -4.968 | -24.879 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 279.658 | 5.417 | -- | -- | -- | -- |
 | **UCC** |279.661 | 5.445 | 2.107 | 1.265 | -4.951 | -24.815 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=279.661,+5.445" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.661%205.445&output=json&radius=5&userEntry=melotte210" target="_blank">Simbad</a></p>
@@ -109,7 +110,7 @@ title:  Melotte 210
 | Reference |  Values |
 | :---      |  :---:  |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.192, Dist=484.0, Age=8.699, [Fe/H]=-0.01` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.192, HDis=484.0, Age=0.5, [Fe/H]=-0.06;-0.03` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.192, HDis=484, Age=0.5, [Fe/H]_1=-0.06, [Fe/H]_2=-0.03` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.208, distance=483, log_age=8.79, metallicity=-0.15` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.192, Dmod=8.406, logt=8.7` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.397, Dist=8.401, logA=8.987, Fe/H=0.0` |
@@ -120,9 +121,10 @@ title:  Melotte 210
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.6, logAge=8.95` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.36, diffAV50=0.642, MOD50=8.245, logAge50=8.923` |
 | [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.19, m-M=8.89, logt=8.95` |
+| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=993.862` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.89, dMod50=8.34, logAge50=8.81, [Fe/H]50=-0.01` |
 | [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.29349, MOD=8.52763, logAge=9.13034, Z=0.00924` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=993.862` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.22, MA23f=-0.13, MA23g=-0.11, MZ23=-0.1, MK24=-0.09, MF24=-0.09` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=36.339%20&lat=5.325&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

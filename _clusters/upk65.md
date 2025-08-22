@@ -57,6 +57,7 @@ title:  UPK 65
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 286.534 | 23.34 | 1.311 | -- | -- | -- |
 |[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 286.491 | 23.266 | 1.281 | -1.823 | -3.649 | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 286.525 | 23.297 | 1.317 | -1.832 | -3.667 | -17.892 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 286.534 | 23.34 | -- | -- | -- | -- |
 | **UCC** |286.456 | 23.29 | 1.312 | -1.843 | -3.625 | -16.156 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=286.456,+23.29" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=286.456%2023.29&output=json&radius=5&userEntry=upk65" target="_blank">Simbad</a></p>
@@ -109,6 +110,7 @@ title:  UPK 65
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.99, dMod50=9.51, logAge50=8.81, [Fe/H]50=0.4` |
 | [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.79965, MOD=9.36005, logAge=8.64933, Z=0.12298` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=94.9724` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.09, MA23f=-0.14, MZ23=0.02, MK24=-0.07, MF24=-0.1` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=55.378%20&lat=7.376&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

@@ -62,6 +62,7 @@ title:  Melotte 104
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 169.369 | -62.734 | 0.741 | -7.595 | 2.692 | -15.401 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 169.391 | -62.715 | 0.742 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 169.369 | -62.734 | 0.741 | -7.595 | 2.692 | -15.401 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 169.391 | -62.715 | -- | -- | -- | -- |
 | **UCC** |169.377 | -62.714 | 0.739 | -7.588 | 2.679 | -13.471 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=169.377,-62.714" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=169.377%20-62.714&output=json&radius=5&userEntry=melotte104" target="_blank">Simbad</a></p>
@@ -106,7 +107,7 @@ title:  Melotte 104
 | Reference |  Values |
 | :---      |  :---:  |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.341, Dist=1238.0, Age=8.542, [Fe/H]=0.01` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.341, HDis=1238.0, Age=0.34, [Fe/H]=-0.01` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.341, HDis=1238, Age=0.34, [Fe/H]_1=-0.01` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.416, distance=1224, log_age=8.65, metallicity=0.01` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.34, Dmod=10.484, logt=8.551` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.991, Dist=10.711, logA=8.55, Fe/H=0.02` |
@@ -117,6 +118,7 @@ title:  Melotte 104
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.954, diffAV50=0.531, MOD50=10.521, logAge50=8.636` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.07, dMod50=10.52, logAge50=8.81, [Fe/H]50=0.22` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=3884.56` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.19, MA23f=-0.23, MA23g=-0.04, MZ23=-0.3, MK24=-0.17, MF24=-0.22` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=292.401%20&lat=-1.777&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

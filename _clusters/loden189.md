@@ -53,6 +53,7 @@ title:  Loden 189
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 162.73 | -56.33 | 0.765 | -7.505 | 3.268 | 6.539 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 162.515 | -56.327 | 0.768 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 162.73 | -56.33 | 0.765 | -7.505 | 3.268 | 6.539 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 162.514 | -56.327 | -- | -- | -- | -- |
 | **UCC** |162.552 | -56.331 | 0.766 | -7.544 | 3.301 | 3.032 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=162.552,-56.331" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=162.552%20-56.331&output=json&radius=5&userEntry=loden189" target="_blank">Simbad</a></p>
@@ -94,6 +95,7 @@ title:  Loden 189
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.244, diffAV50=0.513, MOD50=10.514, logAge50=8.83` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.33, dMod50=10.43, logAge50=8.96, [Fe/H]50=0.02` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=78.6566` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.31, MA23f=-0.1, MZ23=-0.06, MK24=-0.15, MF24=-0.11` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=286.687%20&lat=2.668&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

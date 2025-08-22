@@ -56,6 +56,7 @@ title:  Pismis 18
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 204.227 | -62.091 | 0.347 | -5.692 | -2.269 | -27.593 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 204.213 | -62.095 | 0.347 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 204.227 | -62.091 | 0.347 | -5.692 | -2.269 | -27.593 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 204.213 | -62.095 | -- | -- | -- | -- |
 | **UCC** |204.23 | -62.091 | 0.347 | -5.695 | -2.27 | -28.578 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=204.23,-62.091" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=204.23%20-62.091&output=json&radius=5&userEntry=pismis18" target="_blank">Simbad</a></p>
@@ -106,6 +107,7 @@ title:  Pismis 18
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.398, diffAV50=1.217, MOD50=12.13, logAge50=8.509` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.03, dMod50=11.6, logAge50=9.0, [Fe/H]50=0.12` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=3542.80` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.25, MA23f=-0.25, MA23g=0.14, MZ23=-0.37, MK24=-0.18, MF24=-0.29` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=308.226%20&lat=0.311&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

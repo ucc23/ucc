@@ -55,6 +55,7 @@ title:  HSC 76
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 270.104 | -24.458 | 0.664 | 2.742 | -2.085 | 15.458 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 270.129 | -24.478 | 0.669 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 270.104 | -24.458 | 0.664 | 2.742 | -2.085 | 15.458 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 270.129 | -24.478 | -- | -- | -- | -- |
 | **UCC** |270.096 | -24.498 | 0.673 | 2.76 | -2.137 | 13.345 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=270.096,-24.498" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=270.096%20-24.498&output=json&radius=5&userEntry=hsc76" target="_blank">Simbad</a></p>
@@ -94,6 +95,7 @@ title:  HSC 76
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.138, diffAV50=1.848, MOD50=10.764, logAge50=8.83` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.8, dMod50=10.28, logAge50=8.75, [Fe/H]50=-0.83` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=112.500` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.28, MA23f=-0.06, MA23g=-0.03, MZ23=-0.18, MK24=-0.05, MF24=-0.13` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=5.525%20&lat=-0.568&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

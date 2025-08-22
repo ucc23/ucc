@@ -68,7 +68,7 @@ title:  CMa 23
 
 | Reference |  Values |
 | :---      |  :---:  |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPs=1.2;1.2, DPs=1374;1552.0, Ages=131.0;150, [Fe/H]s=-0.16;0.14` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPM=1.2, AVPf=1.2, DPM=1374, DPf=1552.0, AgeM=131.0, AgeF=150, [Fe/H]M=-0.16, [Fe/H]f=0.14` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=225.632%20&lat=-2.228&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

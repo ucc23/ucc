@@ -107,7 +107,7 @@ title:  Blanco 1
 | Reference |  Values |
 | :---      |  :---:  |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.01, Dist=269.0, Age=7.796, [Fe/H]=0.04` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.01, HDis=269.0, Age=0.06, [Fe/H]=0.23` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.01, HDis=269, Age=0.06, [Fe/H]_1=0.23` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.012, distance=250, log_age=7.75, metallicity=-0.188` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.01, Dmod=6.998, logt=7.796` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.031, Dist=6.876, logA=7.975, Fe/H=0.0` |

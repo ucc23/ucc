@@ -52,6 +52,7 @@ title:  Teutsch 4
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 69.583 | 43.299 | 0.221 | -0.396 | -1.543 | 2.71 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 69.57 | 43.288 | 0.226 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 69.583 | 43.299 | 0.221 | -0.396 | -1.543 | 2.71 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 69.57 | 43.288 | -- | -- | -- | -- |
 | **UCC** |69.576 | 43.292 | 0.223 | -0.398 | -1.54 | 4.693 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=69.576,+43.292" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=69.576%2043.292&output=json&radius=5&userEntry=teutsch4" target="_blank">Simbad</a></p>
@@ -91,6 +92,7 @@ title:  Teutsch 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.011, diffAV50=0.576, MOD50=12.956, logAge50=8.825` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.22, dMod50=12.69, logAge50=9.07, [Fe/H]50=-0.11` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=719.193` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.13, MA23f=-0.33, MA23g=-0.23, MZ23=-0.2, MK24=-0.27, MF24=-0.22` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=160.45%20&lat=-2.45&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

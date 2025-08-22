@@ -59,6 +59,7 @@ title:  Czernik 30
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 112.795 | -9.946 | 0.133 | -0.612 | -0.066 | 81.737 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 112.797 | -9.947 | 0.128 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 112.795 | -9.946 | 0.133 | -0.612 | -0.066 | 81.737 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 112.797 | -9.947 | -- | -- | -- | -- |
 | **UCC** |112.795 | -9.946 | 0.128 | -0.612 | -0.072 | 81.361 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=112.795,-9.946" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=112.795%20-9.946&output=json&radius=5&userEntry=czernik30" target="_blank">Simbad</a></p>
@@ -112,6 +113,7 @@ title:  Czernik 30
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.906, diffAV50=1.507, MOD50=13.974, logAge50=9.034` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.23, dMod50=13.51, logAge50=9.62, [Fe/H]50=-0.74` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=1037.37` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.33, MA23f=-0.53, MA23g=-0.42, MZ23=-0.67, MK24=-0.41, MF24=-0.49` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=226.339%20&lat=4.157&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

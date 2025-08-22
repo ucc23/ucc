@@ -52,6 +52,7 @@ title:  UFMG 37
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 230.153 | -57.755 | 0.744 | -5.482 | -5.315 | 3.343 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 230.198 | -57.765 | 0.746 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 230.153 | -57.755 | 0.744 | -5.482 | -5.315 | 3.343 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 230.198 | -57.765 | -- | -- | -- | -- |
 | **UCC** |230.178 | -57.754 | 0.751 | -5.485 | -5.313 | -10.606 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=230.178,-57.754" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=230.178%20-57.754&output=json&radius=5&userEntry=ufmg37" target="_blank">Simbad</a></p>
@@ -92,6 +93,7 @@ title:  UFMG 37
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.233, diffAV50=2.282, MOD50=10.546, logAge50=8.318` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.93, dMod50=9.93, logAge50=8.76, [Fe/H]50=-0.12` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=466.224` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.06, MA23f=-0.15, MA23g=0.22, MZ23=-0.24, MK24=-0.05, MF24=-0.32` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=321.8%20&lat=-0.454&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

@@ -58,6 +58,7 @@ title:  Ruprecht 84
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 147.276 | -65.261 | 0.505 | -6.961 | 4.078 | 3.246 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 147.239 | -65.272 | 0.51 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 147.276 | -65.261 | 0.505 | -6.961 | 4.078 | 3.246 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 147.239 | -65.272 | -- | -- | -- | -- |
 | **UCC** |147.285 | -65.271 | 0.517 | -6.941 | 4.024 | -3.092 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=147.285,-65.271" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=147.285%20-65.271&output=json&radius=5&userEntry=ruprecht84" target="_blank">Simbad</a></p>
@@ -110,6 +111,7 @@ title:  Ruprecht 84
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.438, diffAV50=1.075, MOD50=11.317, logAge50=8.694` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.46, dMod50=11.25, logAge50=8.82, [Fe/H]50=0.18` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=577.212` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.18, MA23f=-0.21, MZ23=-0.1, MK24=-0.18, MF24=-0.09` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=285.332%20&lat=-8.826&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

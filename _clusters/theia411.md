@@ -54,6 +54,7 @@ title:  Theia 411
 | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 155.234 | -60.684 | 1.434 | -9.83 | 6.31 | -2.751 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 155.311 | -60.691 | 1.432 | -- | -- | -- |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 155.311 | -60.691 | -- | -- | -- | -- |
 | **UCC** |155.207 | -60.749 | 1.409 | -9.91 | 6.263 | 0.248 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=155.207,-60.749" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=155.207%20-60.749&output=json&radius=5&userEntry=theia411" target="_blank">Simbad</a></p>
@@ -92,6 +93,7 @@ title:  Theia 411
 | :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.247, diffAV50=1.004, MOD50=9.111, logAge50=7.987` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.0, dMod50=9.27, logAge50=8.74, [Fe/H]50=0.71` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.26, MA23f=-0.15, MZ23=-0.27, MK24=-0.19, MF24=-0.12` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=285.508%20&lat=-2.987&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

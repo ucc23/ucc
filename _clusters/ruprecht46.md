@@ -74,7 +74,7 @@ title:  Ruprecht 46
 
 | Reference |  Values |
 | :---      |  :---:  |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.07, HDis=752.0, Age=3.98, [Fe/H]=-0.04` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.07, HDis=752, Age=3.98, [Fe/H]_1=-0.04` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.521, distance=1467, log_age=8.15` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=238.36%20&lat=5.908&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>

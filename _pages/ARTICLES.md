@@ -62,6 +62,7 @@ are presented <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 | [Hunt & Reffert](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 2024 | <a href="https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2024A%26A...686A..42H" target="_blank"> <img src="/images/vizier.png " alt="Vizier url"></a> | [5647](/tables/dbs/HUNT2024_table) |
 | [Alfonso et al.](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 2024 | <a href="https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2024A%26A...689A..18A" target="_blank"> <img src="/images/vizier.png " alt="Vizier url"></a> | [370](/tables/dbs/ALFONSO2024_table) |
 | [Cavallo et al.](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 2024 | <a href="https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2024AJ....167...12C" target="_blank"> <img src="/images/vizier.png " alt="Vizier url"></a> | [6140](/tables/dbs/CAVALLO2024_table) |
+| [Hu & Soubiran](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 2025 | <a href="https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2025A%26A...699A.246H" target="_blank"> <img src="/images/vizier.png " alt="Vizier url"></a> | [1113](/tables/dbs/HU2025_table) |
 
 <!-- End table 1 -->
 

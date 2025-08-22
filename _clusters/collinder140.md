@@ -110,7 +110,7 @@ title:  Collinder 140
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.026, DM0=7.71, log_age_=7.6` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=405.0, Age=7.548, [Fe/H]=-0.1` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.03, HDis=405.0, Age=0.03, [Fe/H]=-0.1` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.03, HDis=405, Age=0.03, [Fe/H]_1=-0.1` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.052, distance=386, log_age=7.7, metallicity=-0.1` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.03, Dmod=8.02, logt=7.548` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.105, Dist=7.809, logA=7.473, Fe/H=0.01` |

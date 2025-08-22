@@ -728,7 +728,7 @@ at all. HUNT23 recovers 0% of these clusters.
 
 Extracted data from PDF.
 
-XDOCC-0Y --> XDOCC-Y
+- XDOCC-0Y --> XDOCC-Y
 
 
 ## Qin et al. 2023
@@ -743,8 +743,8 @@ Tables (provided by Qin & Chen) lists 101 'OSCN_' clusters.
 
 [Exploring Galactic open clusters with Gaia: I. An examination in the first kiloparsec](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A/abstract)
 
-BH --> VDBH
-vdBergh --> VDB
+- BH --> VDBH
+- vdBergh --> VDB
 
 The coordinates for ASCC 123 are incorrect and appear to be those that correspond to
 the cluster Stock 12.
@@ -887,11 +887,21 @@ Rounded almost all columns to 5 digits.
 
 Renamed:
 
-LP --> FoF
-vdBergh --> VDB
-BH --> VDBH
-CMa_2 --> CMa_02
-ESO_429-429 --> ESO_429-02 (according to CDS coords)
-RSG_4 --> RSG_4,TRSG_4
+- LP --> FoF
+- vdBergh --> VDB
+- BH --> VDBH
+- CMa_2 --> CMa_02
+- ESO_429-429 --> ESO_429-02 (according to CDS coords)
+- RSG_4 --> RSG_4,TRSG_4
 
 Finally, 46 new entries are added by this database.
+
+
+## Hu & Soubiran 2025
+
+[Metallicities of old open clusters: A new Galactic map](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H)
+
+Renamed:
+
+- Teutsch_J1037.3+6034 --> Teutsch_J1037.3-6034
+- Teutsch_J1209.3+6120 --> Teutsch_J1209.3-6120

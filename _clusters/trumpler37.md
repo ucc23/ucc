@@ -60,6 +60,7 @@ title:  Trumpler 37
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 324.648 | 57.768 | 1.639 | -6.141 | -5.965 | -3.615 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 324.955 | 57.824 | 1.641 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 324.648 | 57.768 | 1.639 | -6.141 | -5.965 | -3.615 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 324.955 | 57.824 | -- | -- | -- | -- |
 | **UCC** |324.616 | 57.73 | 1.632 | -6.11 | -5.943 | -2.87 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=324.616,+57.73" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=324.616%2057.73&output=json&radius=5&userEntry=trumpler37" target="_blank">Simbad</a></p>
@@ -98,11 +99,12 @@ title:  Trumpler 37
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.46, DM0=9.55, log_age_=7.0` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.47, Dist=835.0, Age=7.054` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=835.0, Age=0.01` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=835, Age=0.01` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.474, Dmod=9.618, logt=7.05` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.523, diffAV50=2.275, MOD50=8.843, logAge50=8.455` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=9.03, logAge50=8.71, [Fe/H]50=0.32` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=61.8272` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.11, MA23f=-0.17, MA23g=-0.3, MZ23=-0.04, MK24=-0.14, MF24=-0.23` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=99.459%20&lat=3.979&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

@@ -110,7 +110,7 @@ title:  Melotte 204
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.484, DM0=8.62, log_age_=7.6` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.476, Dist=620.0, Age=7.965, [Fe/H]=0.17` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.476, HDis=620.0, Age=0.09, [Fe/H]=0.17;0.17` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.476, HDis=620, Age=0.09, [Fe/H]_1=0.17, [Fe/H]_2=0.17` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.479, distance=561, log_age=7.97, metallicity=-0.257` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.473, Dmod=8.969, logt=7.965` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=1.087, Dist=9.156, logA=7.984, Fe/H=0.0` |

@@ -56,6 +56,7 @@ title:  King 1
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 5.523 | 64.383 | 0.546 | -4.936 | -1.307 | -49.574 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 5.502 | 64.389 | 0.547 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 5.523 | 64.383 | 0.546 | -4.936 | -1.307 | -49.574 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 5.502 | 64.389 | -- | -- | -- | -- |
 | **UCC** |5.508 | 64.384 | 0.54 | -4.938 | -1.298 | -53.106 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=5.508,+64.384" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=5.508%2064.384&output=json&radius=5&userEntry=king1" target="_blank">Simbad</a></p>
@@ -106,6 +107,7 @@ title:  King 1
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.734, diffAV50=1.698, MOD50=11.195, logAge50=9.021` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.93, dMod50=11.22, logAge50=9.16, [Fe/H]50=-0.07` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=4379.42` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=0.15, MA23f=-0.25, MA23g=-0.07, MZ23=-0.27, MK24=-0.19, MF24=-0.22` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=119.757%20&lat=1.697&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

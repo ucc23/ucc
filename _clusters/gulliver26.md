@@ -53,6 +53,7 @@ title:  Gulliver 26
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 80.688 | 35.274 | 0.364 | 1.852 | -2.846 | 32.376 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 80.682 | 35.271 | 0.359 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 80.688 | 35.274 | 0.364 | 1.852 | -2.846 | 32.376 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 80.682 | 35.271 | -- | -- | -- | -- |
 | **UCC** |80.681 | 35.273 | 0.376 | 1.851 | -2.856 | 14.269 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=80.681,+35.273" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=80.681%2035.273&output=json&radius=5&userEntry=gulliver26" target="_blank">Simbad</a></p>
@@ -101,6 +102,7 @@ title:  Gulliver 26
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.884, diffAV50=1.283, MOD50=11.932, logAge50=8.597` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.53, dMod50=11.81, logAge50=8.89, [Fe/H]50=0.42` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=625.187` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.28, MA23f=-0.38, MA23g=-0.16, MZ23=-0.34, MK24=-0.15, MF24=-0.28` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=172.044%20&lat=-0.619&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

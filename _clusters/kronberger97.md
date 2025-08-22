@@ -55,6 +55,7 @@ title:  Kronberger 97
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 110.516 | 3.556 | 0.193 | -0.359 | 0.233 | 98.044 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 110.506 | 3.555 | 0.191 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 110.516 | 3.556 | 0.193 | -0.359 | 0.233 | 98.044 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 110.507 | 3.555 | -- | -- | -- | -- |
 | **UCC** |110.503 | 3.557 | 0.189 | -0.354 | 0.244 | 101.715 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=110.503,+3.557" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.503%203.557&output=json&radius=5&userEntry=kronberger97" target="_blank">Simbad</a></p>
@@ -104,6 +105,7 @@ title:  Kronberger 97
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.294, diffAV50=1.647, MOD50=13.291, logAge50=9.089` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.48, dMod50=12.67, logAge50=9.5, [Fe/H]50=-0.4` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=774.015` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.2, MA23f=-0.49, MA23g=-0.38, MZ23=-0.35, MK24=-0.38, MF24=-0.31` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=213.242%20&lat=8.422&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

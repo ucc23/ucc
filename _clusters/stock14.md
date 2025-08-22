@@ -105,7 +105,7 @@ title:  Stock 14
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.245, DM0=11.68, log_age_=7.05` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.21, Dist=2399.0, Age=7.3` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=2146.0, Age=0.01` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=2146, Age=0.01` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=2454, log_age=6.8` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.225, Dmod=11.658, logt=7.058` |
 | [Dias et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5726D) | `E(B-V)=0.28, Dist=1989, logAge=7.211, Z=0.008` |

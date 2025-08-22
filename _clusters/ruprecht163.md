@@ -56,6 +56,7 @@ title:  Ruprecht 163
 |[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 166.222 | -67.943 | -- | -12.26 | 6.7 | -- |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 166.172 | -67.998 | 1.042 | -5.825 | 0.139 | 16.195 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 165.791 | -67.617 | 1.043 | -- | -- | -- |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 165.791 | -67.617 | -- | -- | -- | -- |
 | **UCC** |166.198 | -67.922 | 1.061 | -5.848 | 0.066 | 13.785 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=166.198,-67.922" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=166.198%20-67.922&output=json&radius=5&userEntry=ruprecht163" target="_blank">Simbad</a></p>
@@ -96,6 +97,7 @@ title:  Ruprecht 163
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=3019, log_age=9.365` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.381, diffAV50=0.818, MOD50=9.798, logAge50=8.573` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.39, dMod50=9.91, logAge50=8.79, [Fe/H]50=0.13` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.08, MA23f=-0.11, MZ23=-0.14, MK24=-0.08, MF24=-0.07` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=293.086%20&lat=-7.168&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

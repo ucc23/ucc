@@ -54,6 +54,7 @@ title:  UBC 52
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 64.793 | 52.332 | 0.431 | -0.843 | 0.574 | -42.463 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 64.756 | 52.364 | 0.431 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 64.793 | 52.332 | 0.431 | -0.843 | 0.574 | -42.463 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 64.756 | 52.364 | -- | -- | -- | -- |
 | **UCC** |64.742 | 52.36 | 0.428 | -0.833 | 0.584 | -33.226 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=64.742,+52.36" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=64.742%2052.36&output=json&radius=5&userEntry=ubc52" target="_blank">Simbad</a></p>
@@ -102,6 +103,7 @@ title:  UBC 52
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.784, diffAV50=0.93, MOD50=11.653, logAge50=8.878` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.84, dMod50=11.71, logAge50=8.92, [Fe/H]50=0.42` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=280.678` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.2, MA23f=-0.3, MZ23=-0.21, MK24=-0.23, MF24=-0.24` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=151.646%20&lat=1.465&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

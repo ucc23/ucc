@@ -57,6 +57,7 @@ title:  Haffner 26
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 123.898 | -30.85 | 0.323 | -1.574 | 2.387 | 52.532 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 123.898 | -30.848 | 0.323 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 123.898 | -30.85 | 0.323 | -1.574 | 2.387 | 52.532 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 123.898 | -30.848 | -- | -- | -- | -- |
 | **UCC** |123.905 | -30.854 | 0.32 | -1.571 | 2.392 | 53.711 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=123.905,-30.854" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=123.905%20-30.854&output=json&radius=5&userEntry=haffner26" target="_blank">Simbad</a></p>
@@ -108,6 +109,7 @@ title:  Haffner 26
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.225, diffAV50=0.683, MOD50=12.186, logAge50=8.828` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.63, dMod50=12.1, logAge50=8.83, [Fe/H]50=-0.02` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=868.498` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.22, MA23f=-0.42, MA23g=-0.09, MZ23=-0.29, MK24=-0.27, MF24=-0.13` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=249.616%20&lat=2.322&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

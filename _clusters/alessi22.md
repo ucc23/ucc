@@ -51,6 +51,7 @@ title:  Alessi 22
 |[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 357.029 | 36.205 | -- | -3.6 | -10.5 | 7.2 |
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 357.172 | 36.229 | 2.804 | -4.364 | -12.792 | -5.507 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 357.648 | 36.101 | 2.802 | -- | -- | -- |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 357.648 | 36.101 | -- | -- | -- | -- |
 | **UCC** |357.196 | 36.24 | 2.808 | -4.409 | -13.067 | -7.161 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=357.196,+36.24" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.196%2036.24&output=json&radius=5&userEntry=alessi22" target="_blank">Simbad</a></p>
@@ -89,6 +90,7 @@ title:  Alessi 22
 | :---      |  :---:  |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.302, diffAV50=0.655, MOD50=7.678, logAge50=8.827` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.65, dMod50=7.69, logAge50=8.74, [Fe/H]50=-0.02` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.16, MA23f=-0.08, MZ23=0.07, MK24=-0.02, MF24=-0.06` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=109.027%20&lat=-24.989&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

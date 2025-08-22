@@ -106,7 +106,7 @@ title:  King 6
 | Reference |  Values |
 | :---      |  :---:  |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.5, Dist=871.0, Age=8.4, [Fe/H]=0.46` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.5, HDis=871.0, Age=0.25, [Fe/H]=0.46` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.5, HDis=871, Age=0.25, [Fe/H]_1=0.46` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.3, distance=632, log_age=8.975, metallicity=0.46` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.624, Dmod=9.414, logt=6.95` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=1.106, Dist=9.535, logA=8.582, Fe/H=0.46` |

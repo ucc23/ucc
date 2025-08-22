@@ -54,6 +54,7 @@ title:  UFMG 2
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 237.571 | -55.957 | 0.377 | -4.413 | -3.093 | -42.736 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 237.587 | -55.963 | 0.378 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 237.571 | -55.957 | 0.377 | -4.413 | -3.093 | -42.736 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 237.587 | -55.963 | -- | -- | -- | -- |
 | **UCC** |237.577 | -55.965 | 0.374 | -4.41 | -3.079 | -50.648 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=237.577,-55.965" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=237.577%20-55.965&output=json&radius=5&userEntry=ufmg2" target="_blank">Simbad</a></p>
@@ -103,6 +104,7 @@ title:  UFMG 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.124, diffAV50=2.166, MOD50=11.944, logAge50=8.363` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.94, dMod50=11.36, logAge50=8.89, [Fe/H]50=0.03` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=10408.7` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.11, MA23f=-0.15, MA23g=0.17, MZ23=0.1, MK24=-0.06, MF24=-0.15` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=326.132%20&lat=-1.369&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

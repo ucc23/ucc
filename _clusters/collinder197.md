@@ -106,7 +106,7 @@ title:  Collinder 197
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.604, DM0=10.13, log_age_=6.8` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.548, Dist=838.0, Age=7.128` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=838.0, Age=0.01` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=838, Age=0.01` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.548, Dmod=9.566, logt=7.128` |
 | [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.007, Z=0.5` |
 | [Dias et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5726D) | `E(B-V)=0.47, Dist=594, logAge=7.111, Z=0.003` |

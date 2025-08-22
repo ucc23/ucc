@@ -52,6 +52,7 @@ title:  PHOC 36
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 110.422 | -12.974 | 0.301 | -2.082 | 1.972 | 79.251 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 110.414 | -12.953 | 0.298 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 110.422 | -12.974 | 0.301 | -2.082 | 1.972 | 79.251 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 110.413 | -12.953 | -- | -- | -- | -- |
 | **UCC** |110.435 | -12.947 | 0.3 | -2.112 | 1.984 | 80.001 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=110.435,-12.947" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=110.435%20-12.947&output=json&radius=5&userEntry=phoc36" target="_blank">Simbad</a></p>
@@ -91,6 +92,7 @@ title:  PHOC 36
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.184, diffAV50=1.186, MOD50=12.456, logAge50=8.495` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.51, dMod50=11.85, logAge50=8.74, [Fe/H]50=-0.7` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=231.889` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.27, MA23f=-0.5, MZ23=-0.36, MK24=-0.32, MF24=-0.38` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=227.886%20&lat=0.701&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

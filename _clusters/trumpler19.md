@@ -57,6 +57,7 @@ title:  Trumpler 19
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 168.625 | -57.564 | 0.397 | -1.661 | -1.217 | -27.974 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 168.627 | -57.567 | 0.396 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 168.625 | -57.564 | 0.397 | -1.661 | -1.217 | -27.974 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 168.627 | -57.567 | -- | -- | -- | -- |
 | **UCC** |168.616 | -57.565 | 0.394 | -1.671 | -1.216 | -26.876 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=168.616,-57.565" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=168.616%20-57.565&output=json&radius=5&userEntry=trumpler19" target="_blank">Simbad</a></p>
@@ -108,6 +109,7 @@ title:  Trumpler 19
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.428, diffAV50=0.875, MOD50=11.86, logAge50=9.341` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.69, dMod50=11.72, logAge50=9.54, [Fe/H]50=0.0` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=3451.85` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.27, MA23f=-0.2, MA23g=0.01, MZ23=-0.13, MK24=-0.17, MF24=-0.1` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=290.194%20&lat=2.891&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

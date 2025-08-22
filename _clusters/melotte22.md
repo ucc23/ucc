@@ -111,7 +111,7 @@ title:  Melotte 22
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.04, DM0=5.47, log_age_=8.05` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=133.0, Age=8.131, [Fe/H]=-0.03` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.03, HDis=150.0, Age=0.13, [Fe/H]=-0.03` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.03, HDis=150, Age=0.13, [Fe/H]_1=-0.03` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.021, distance=130, log_age=8.15, metallicity=-0.036` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.03, Dmod=5.84, logt=8.131` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.14, Dist=5.667, logA=7.937, Fe/H=0.0` |

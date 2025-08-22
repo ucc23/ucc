@@ -55,6 +55,7 @@ title:  Hogg 4
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 149.427 | -54.632 | 0.243 | -5.035 | 4.472 | 23.941 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 149.404 | -54.61 | 0.241 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 149.427 | -54.632 | 0.243 | -5.035 | 4.472 | 23.941 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 149.404 | -54.61 | -- | -- | -- | -- |
 | **UCC** |149.415 | -54.616 | 0.238 | -5.034 | 4.476 | 26.492 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=149.415,-54.616" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=149.415%20-54.616&output=json&radius=5&userEntry=hogg4" target="_blank">Simbad</a></p>
@@ -104,6 +105,7 @@ title:  Hogg 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.845, diffAV50=1.701, MOD50=12.854, logAge50=8.915` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.82, dMod50=12.39, logAge50=9.09, [Fe/H]50=0.11` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=5452.58` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.15, MA23f=-0.33, MA23g=-0.13, MZ23=-0.26, MK24=-0.25, MF24=-0.21` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=279.463%20&lat=0.137&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

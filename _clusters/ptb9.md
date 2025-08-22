@@ -52,6 +52,7 @@ title:  PTB 9
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 357.495 | 68.031 | 1.033 | 1.482 | 3.963 | -44.265 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 357.449 | 68.04 | 1.033 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 357.495 | 68.031 | 1.033 | 1.482 | 3.963 | -44.265 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 357.449 | 68.04 | -- | -- | -- | -- |
 | **UCC** |357.454 | 68.038 | 1.032 | 1.484 | 3.98 | -44.716 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=357.454,+68.038" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=357.454%2068.038&output=json&radius=5&userEntry=ptb9" target="_blank">Simbad</a></p>
@@ -92,6 +93,7 @@ title:  PTB 9
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.55, diffAV50=1.045, MOD50=9.832, logAge50=8.94` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.89, dMod50=10.08, logAge50=8.91, [Fe/H]50=-0.03` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=2676.00` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=0.15, MA23f=-0.13, MA23g=-0.02, MZ23=0.17, MK24=-0.12, MF24=-0.11` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=117.2%20&lat=5.854&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

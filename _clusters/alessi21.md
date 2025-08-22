@@ -112,7 +112,7 @@ title:  Alessi 21
 | [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.05, Z=0.25` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.29, DMNN=8.85, AgeNN=7.82` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.37, Dist=571, logage=7.944, [Fe/H]=-0.006` |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPs=0.34;0.31, DPs=570;549.3, Ages=85.0;70, [Fe/H]s=0.0;0.07` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPM=0.34, AVPf=0.31, DPM=570, DPf=549.3, AgeM=85.0, AgeF=70, [Fe/H]M=0.0, [Fe/H]f=0.07` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=579, logAgeNN=7.84` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.4, logAge=7.65` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.154, diffAV50=0.747, MOD50=8.696, logAge50=7.9` |

@@ -106,7 +106,7 @@ title:  VDB 92
 | [Dias et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5726D) | `E(B-V)=0.3, Dist=1085, logAge=6.852, Z=0.034` |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.27, DMNN=10.38, AgeNN=6.89` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.984, Dist=1114, logage=6.749, [Fe/H]=0.025` |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPs=0.96;1.18, DPs=1099;1069.0, Ages=10.1;9, [Fe/H]s=-0.15;0.07` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPM=0.96, AVPf=1.18, DPM=1099, DPf=1069.0, AgeM=10.1, AgeF=9, [Fe/H]M=-0.15, [Fe/H]f=0.07` |
 | [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.4, logAge=6.75` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.109, diffAV50=2.382, MOD50=10.192, logAge50=6.643` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.16, dMod50=10.25, logAge50=6.54, [Fe/H]50=-0.15` |

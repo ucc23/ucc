@@ -55,6 +55,7 @@ title:  Gulliver 13
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 104.877 | -13.249 | 0.617 | -2.941 | 0.302 | 52.009 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 104.869 | -13.242 | 0.622 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 104.877 | -13.249 | 0.617 | -2.941 | 0.302 | 52.009 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 104.869 | -13.242 | -- | -- | -- | -- |
 | **UCC** |104.858 | -13.256 | 0.626 | -2.935 | 0.294 | 57.841 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=104.858,-13.256" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=104.858%20-13.256&output=json&radius=5&userEntry=gulliver13" target="_blank">Simbad</a></p>
@@ -100,11 +101,12 @@ title:  Gulliver 13
 | :---      |  :---:  |
 | [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.78, DMNN=10.9, AgeNN=9` |
 | [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.676, Dist=1501, logage=8.774, [Fe/H]=-0.05` |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPs=1.71;1.18, DPs=1531;1542.0, Ages=536.0;650, [Fe/H]s=-0.12;0.3` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPM=1.71, AVPf=1.18, DPM=1531, DPf=1542.0, AgeM=536.0, AgeF=650, [Fe/H]M=-0.12, [Fe/H]f=0.3` |
 | [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=1466, logAgeNN=9.03` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.331, diffAV50=2.225, MOD50=10.85, logAge50=8.778` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.09, dMod50=10.71, logAge50=9.02, [Fe/H]50=0.0` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=395.282` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.26, MA23g=-0.02, MZ23=-0.11, MK24=-0.16, MF24=-0.17` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=225.647%20&lat=-4.257&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

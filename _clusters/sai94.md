@@ -57,6 +57,7 @@ title:  SAI 94
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 131.18 | -46.286 | 0.228 | -4.203 | 4.516 | 53.444 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 131.178 | -46.291 | 0.229 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 131.18 | -46.286 | 0.228 | -4.203 | 4.516 | 53.444 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 131.178 | -46.291 | -- | -- | -- | -- |
 | **UCC** |131.175 | -46.292 | 0.224 | -4.207 | 4.517 | 51.994 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=131.175,-46.292" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=131.175%20-46.292&output=json&radius=5&userEntry=sai94" target="_blank">Simbad</a></p>
@@ -108,6 +109,7 @@ title:  SAI 94
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.883, diffAV50=1.599, MOD50=12.926, logAge50=8.883` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.55, dMod50=12.88, logAge50=9.04, [Fe/H]50=-0.73` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=810.823` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.34, MA23f=-0.37, MA23g=-0.32, MZ23=-0.62, MK24=-0.28, MF24=-0.33` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=265.433%20&lat=-2.17&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

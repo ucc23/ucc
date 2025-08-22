@@ -88,7 +88,7 @@ title:  CMa 02
 
 | Reference |  Values |
 | :---      |  :---:  |
-| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPs=0.99;1.25, DPs=1071;1020.0, Ages=137.0;125, [Fe/H]s=-0.15;-0.48` |
+| [Santos-Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1033S) | `AVPM=0.99, AVPf=1.25, DPM=1071, DPf=1020.0, AgeM=137.0, AgeF=125, [Fe/H]M=-0.15, [Fe/H]f=-0.48` |
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.505, diffAV50=0.424, MOD50=10.121, logAge50=8.379` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.34, dMod50=10.77, logAge50=8.58, [Fe/H]50=1.09` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=170.615` |

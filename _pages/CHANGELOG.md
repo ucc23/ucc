@@ -8,6 +8,11 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [250821](https://doi.org/10.5281/zenodo.16929261)
+
+- Add Hu & Soubiran (2025)
+
+
 ## Version [250814](https://doi.org/10.5281/zenodo.16878238)
 
 - Fix missing OCs with shared members

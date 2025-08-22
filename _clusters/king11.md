@@ -104,7 +104,7 @@ title:  King 11
 | Reference |  Values |
 | :---      |  :---:  |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=1.27, Dist=2892.0, Age=9.048, [Fe/H]=-0.27` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=1.27, HDis=2892.0, Age=1.11, [Fe/H]=-0.23` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=1.27, HDis=2892, Age=1.11, [Fe/H]_1=-0.23` |
 | [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.949, distance=2850, log_age=9.32, metallicity=-0.27` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=1.157, Dmod=11.981, logt=9.071` |
 | [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=2.09, Z=-0.5` |

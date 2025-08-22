@@ -54,6 +54,7 @@ title:  FoF 5
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 156.008 | -72.5 | 0.524 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 156.008 | -72.5 | -- | -- | -- | -- |
 | **UCC** |156.138 | -72.526 | 0.518 | -6.883 | 1.468 | -23.217 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=156.138,-72.526" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=156.138%20-72.526&output=json&radius=5&userEntry=fof5" target="_blank">Simbad</a></p>
@@ -103,6 +104,7 @@ title:  FoF 5
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.118, diffAV50=0.424, MOD50=11.282, logAge50=9.366` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.27, dMod50=11.32, logAge50=9.3, [Fe/H]50=0.28` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=337.232` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.25, MA23f=-0.17, MA23g=-0.07, MZ23=-0.16, MK24=-0.15, MF24=-0.08` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=292.329%20&lat=-12.742&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

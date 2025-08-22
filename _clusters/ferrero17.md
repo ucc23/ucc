@@ -56,6 +56,7 @@ title:  Ferrero 17
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 77.186 | 17.987 | 0.187 | 1.031 | -0.659 | -- |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 77.198 | 17.957 | 0.187 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 77.186 | 17.987 | 0.187 | 1.031 | -0.659 | -- |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 77.198 | 17.957 | -- | -- | -- | -- |
 | **UCC** |77.194 | 17.982 | 0.193 | 0.99 | -0.638 | 22.971 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=77.194,+17.982" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=77.194%2017.982&output=json&radius=5&userEntry=ferrero17" target="_blank">Simbad</a></p>
@@ -95,6 +96,7 @@ title:  Ferrero 17
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.401, diffAV50=1.126, MOD50=13.326, logAge50=9.477` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.45, dMod50=13.17, logAge50=9.23, [Fe/H]50=-0.22` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=283.137` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.47, MA23f=-0.57, MZ23=-0.54, MK24=-0.36, MF24=-0.31` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=184.574%20&lat=-13.054&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

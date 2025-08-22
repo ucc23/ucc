@@ -56,6 +56,7 @@ title:  DC 3
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 111.756 | -37.518 | 0.109 | -1.216 | 2.752 | 95.206 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 111.783 | -37.507 | 0.111 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 111.756 | -37.518 | 0.109 | -1.216 | 2.752 | 95.206 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 111.783 | -37.507 | -- | -- | -- | -- |
 | **UCC** |111.755 | -37.516 | 0.083 | -1.222 | 2.731 | 102.568 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=111.755,-37.516" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.755%20-37.516&output=json&radius=5&userEntry=dc3" target="_blank">Simbad</a></p>
@@ -99,6 +100,7 @@ title:  DC 3
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.699, diffAV50=1.789, MOD50=14.305, logAge50=9.212` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.96, dMod50=14.36, logAge50=9.64, [Fe/H]50=-0.34` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=358.543` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.34, MA23f=-0.62, MA23g=-0.55, MZ23=-0.7, MK24=-0.43, MF24=-0.5` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=250.277%20&lat=-9.703&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

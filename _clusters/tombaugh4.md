@@ -57,6 +57,7 @@ title:  Tombaugh 4
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 37.294 | 61.79 | 0.3 | -1.066 | -0.224 | -43.66 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 37.317 | 61.791 | 0.297 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 37.294 | 61.79 | 0.3 | -1.066 | -0.224 | -43.66 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 37.317 | 61.791 | -- | -- | -- | -- |
 | **UCC** |37.298 | 61.788 | 0.295 | -1.059 | -0.207 | -42.478 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=37.298,+61.788" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.298%2061.788&output=json&radius=5&userEntry=tombaugh4" target="_blank">Simbad</a></p>
@@ -108,6 +109,7 @@ title:  Tombaugh 4
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.536, diffAV50=2.293, MOD50=12.354, logAge50=8.834` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.7, dMod50=12.17, logAge50=8.96, [Fe/H]50=-0.11` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=2389.57` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.49, MA23f=-0.31, MA23g=-0.24, MZ23=-0.45, MK24=-0.28, MF24=-0.45` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=134.214%20&lat=1.076&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

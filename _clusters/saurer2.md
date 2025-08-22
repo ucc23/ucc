@@ -55,6 +55,7 @@ title:  Saurer 2
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 126.363 | -39.635 | 0.118 | -2.99 | 4.58 | 87.721 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 126.351 | -39.642 | 0.122 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 126.363 | -39.635 | 0.118 | -2.99 | 4.58 | 87.721 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 126.351 | -39.642 | -- | -- | -- | -- |
 | **UCC** |126.359 | -39.632 | 0.141 | -2.973 | 4.605 | 87.709 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=126.359,-39.632" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=126.359%20-39.632&output=json&radius=5&userEntry=saurer2" target="_blank">Simbad</a></p>
@@ -104,6 +105,7 @@ title:  Saurer 2
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=4.121, diffAV50=2.714, MOD50=13.983, logAge50=8.595` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.69, dMod50=14.09, logAge50=9.29, [Fe/H]50=-0.16` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=2392.62` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.45, MA23f=-0.35, MA23g=-0.29, MZ23=-0.57, MK24=-0.3, MF24=-0.17` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=257.992%20&lat=-1.006&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

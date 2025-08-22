@@ -56,6 +56,7 @@ title:  COIN-Gaia 12
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 79.149 | 41.77 | 1.005 | -- | -- | -- |
 |[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 79.171 | 41.778 | 0.982 | 2.498 | -4.705 | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 79.42 | 41.68 | 1.001 | 2.559 | -4.719 | -9.389 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 79.149 | 41.77 | -- | -- | -- | -- |
 | **UCC** |79.182 | 41.746 | 1.033 | 2.517 | -4.705 | -8.955 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=79.182,+41.746" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=79.182%2041.746&output=json&radius=5&userEntry=coingaia12" target="_blank">Simbad</a></p>
@@ -107,6 +108,7 @@ title:  COIN-Gaia 12
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.42, dMod50=10.02, logAge50=8.74, [Fe/H]50=0.35` |
 | [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.16026, MOD=9.89961, logAge=8.78096, Z=-0.0386` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=228.293` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.17, MA23f=-0.13, MZ23=-0.1, MK24=-0.07, MF24=-0.05` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=166.077%20&lat=2.11&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

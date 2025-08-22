@@ -52,6 +52,7 @@ title:  CWNU 7
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 240.093 | -59.104 | 0.759 | -2.686 | -1.015 | -14.689 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 240.062 | -59.107 | 0.759 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 240.093 | -59.104 | 0.759 | -2.686 | -1.015 | -14.689 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 240.061 | -59.107 | -- | -- | -- | -- |
 | **UCC** |240.032 | -59.103 | 0.755 | -2.697 | -1.042 | -30.976 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=240.032,-59.103" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=240.032%20-59.103&output=json&radius=5&userEntry=cwnu7" target="_blank">Simbad</a></p>
@@ -92,6 +93,7 @@ title:  CWNU 7
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.406, diffAV50=0.584, MOD50=10.476, logAge50=9.024` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.18, dMod50=10.57, logAge50=9.34, [Fe/H]50=0.44` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=90.0563` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.29, MA23f=-0.19, MZ23=-0.16, MK24=-0.15, MF24=-0.12` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=325.121%20&lat=-4.627&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

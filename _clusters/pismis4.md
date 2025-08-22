@@ -108,7 +108,7 @@ title:  Pismis 4
 | :---      |  :---:  |
 | [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.01, DM0=8.73, log_age_=7.6` |
 | [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.013, Dist=593.0, Age=7.533, [Fe/H]=-0.2` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=593.0, Age=0.03, [Fe/H]=-0.2` |
+| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=593, Age=0.03, [Fe/H]_1=-0.2` |
 | [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.012, Dmod=8.902, logt=7.533` |
 | [Bossini et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...623A.108B) | `AV=0.093, Dist=9.114, logA=7.905, Fe/H=-0.2` |
 | [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.041, Z=0.0` |

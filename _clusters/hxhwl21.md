@@ -52,6 +52,7 @@ title:  HXHWL 21
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 111.333 | -8.783 | 0.464 | -0.811 | -0.814 | 37.053 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 111.349 | -8.842 | 0.465 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 111.333 | -8.783 | 0.464 | -0.811 | -0.814 | 37.053 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 111.349 | -8.842 | -- | -- | -- | -- |
 | **UCC** |111.346 | -8.837 | 0.471 | -0.78 | -0.826 | 54.053 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=111.346,-8.837" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=111.346%20-8.837&output=json&radius=5&userEntry=hxhwl21" target="_blank">Simbad</a></p>
@@ -92,6 +93,7 @@ title:  HXHWL 21
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.183, diffAV50=0.603, MOD50=11.504, logAge50=8.904` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.47, dMod50=11.52, logAge50=8.8, [Fe/H]50=0.11` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=154.540` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.16, MA23f=-0.35, MA23g=-0.11, MZ23=-0.18, MK24=-0.21, MF24=-0.09` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=224.676%20&lat=3.435&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

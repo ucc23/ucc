@@ -55,6 +55,7 @@ title:  Berkeley 92
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 321.199 | 57.529 | 0.111 | -2.477 | -2.308 | -72.792 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 321.196 | 57.528 | 0.111 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 321.199 | 57.529 | 0.111 | -2.477 | -2.308 | -72.792 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 321.196 | 57.528 | -- | -- | -- | -- |
 | **UCC** |321.201 | 57.526 | 0.1 | -2.486 | -2.317 | -66.807 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=321.201,+57.526" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=321.201%2057.526&output=json&radius=5&userEntry=berkeley92" target="_blank">Simbad</a></p>
@@ -104,6 +105,7 @@ title:  Berkeley 92
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.116, diffAV50=2.235, MOD50=14.225, logAge50=8.672` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.34, dMod50=14.46, logAge50=9.27, [Fe/H]50=-0.26` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=1487.58` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.08, MA23f=-0.32, MA23g=-0.33, MZ23=-0.32, MK24=-0.28, MF24=-0.21` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=97.923%20&lat=5.064&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

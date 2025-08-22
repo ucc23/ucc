@@ -55,6 +55,7 @@ title:  VDBH 84
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 150.331 | -58.224 | 0.23 | -4.877 | 3.329 | 18.373 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 150.354 | -58.22 | 0.228 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 150.331 | -58.224 | 0.23 | -4.877 | 3.329 | 18.373 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 150.354 | -58.22 | -- | -- | -- | -- |
 | **UCC** |150.33 | -58.218 | 0.224 | -4.856 | 3.316 | 18.383 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=150.33,-58.218" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=150.33%20-58.218&output=json&radius=5&userEntry=vdbh84" target="_blank">Simbad</a></p>
@@ -105,6 +106,7 @@ title:  VDBH 84
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.753, diffAV50=2.241, MOD50=12.898, logAge50=8.208` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.58, dMod50=12.8, logAge50=8.78, [Fe/H]50=0.3` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=1070.70` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.38, MA23f=-0.4, MK24=-0.18, MF24=-0.5` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=282.057%20&lat=-2.418&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 

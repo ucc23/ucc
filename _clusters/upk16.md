@@ -55,6 +55,7 @@ title:  UPK 16
 |[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 287.366 | -19.069 | 1.214 | -0.38 | -5.149 | 0.968 |
 |[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 287.298 | -19.07 | 1.226 | -- | -- | -- |
 |[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 287.366 | -19.069 | 1.214 | -0.38 | -5.149 | 0.968 |
+|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 287.298 | -19.07 | -- | -- | -- | -- |
 | **UCC** |287.29 | -19.101 | 1.238 | -0.376 | -5.173 | 4.837 |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=287.29,-19.101" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=287.29%20-19.101&output=json&radius=5&userEntry=upk16" target="_blank">Simbad</a></p>
@@ -104,6 +105,7 @@ title:  UPK 16
 | [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.371, diffAV50=0.839, MOD50=9.469, logAge50=8.36` |
 | [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.0, dMod50=9.58, logAge50=8.79, [Fe/H]50=0.8` |
 | [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=140.649` |
+| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.13, MA23f=-0.16, MZ23=-0.1, MK24=-0.13, MF24=-0.08` |
 
 > <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=17.637%20&lat=-12.384&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
 
