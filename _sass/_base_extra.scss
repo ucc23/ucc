@@ -14,10 +14,16 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-h2 {
-  font-size: 24px;
+h2 {font-size: 24px;}
+
+h3 {font-size: 20px;}
+
+h4 {
+  font-size: 18px;
+  color: #222;
 }
 
+// For desktop screens (≥769px): Adds decorative horizontal lines before and after <h2> inside .post.
 @media (min-width: 769px){
     .post h2::before, .post h2::after {
         content: "";
@@ -30,18 +36,9 @@ h2 {
     }
 }
 
-h3 {
-  font-size: 20px;
-}
 
-h4 {
-  font-size: 18px;
-  color: #222;
-}
-
-p {
-  margin: 15px 0;
-}
+// Standard paragraph spacing (top and bottom 15px)
+p {margin: 15px 0;}
 
 // Links
 a {
@@ -100,7 +97,7 @@ p > img {
   max-width: none;
 }
 
-// Selection Styles
+// Selection Styles. Text selection highlight: black text on light gray background
 ::-moz-selection {
   color: $black;
   background: $lightGray;
@@ -123,9 +120,10 @@ p > img {
   border-bottom: none;
 }
 
+// Blockquotes: spaced out, padded, gray italic text, larger font, with a light purple background
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.8em 0em;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -163,6 +161,7 @@ body:after {
   content: '';
 }
 
+// Page/Post Titles
 .post h1, .page h1 {
   font-family: inherit;
   text-align: center;
