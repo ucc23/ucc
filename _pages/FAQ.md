@@ -4,6 +4,10 @@ title: FAQ
 permalink: /faq/
 ---
 
+Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions or any other questions not
+listed here.
+
+
 - [What is the UCC?](#what-is-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
@@ -29,7 +33,7 @@ association, etc.) but it will remain listed in the UCC because at least one art
 at some point indicated that it was an open cluster.
 
 The UCC is regularly updated to include new research. If your article is not listed
-in the [database]({% link _pages/DATABASE.md %}), you can
+in the [database]({% link _pages/ARTICLES.md %}), you can
 [contact me](mailto:gabrielperren@gmail.com) with the details and I will add it as soon as possible.
 
 
@@ -53,11 +57,15 @@ The C3 parameter is the combined class, described in Sect. 4.3 of
 
 If you found the UCC useful for your research, please reference its original article
 <a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
-et al. (2023)</a>:
+et al. (2023)</a>. You can use a phrase such as the following:
+
+_"This research has made use of the Unified Cluster Catalogue (UCC)~\cite{Perren_2023}"_
+
+BibTeX entry for the original article: 
 
 {% raw %}
 ```
-@ARTICLE{2023MNRAS.526.4107P,
+@ARTICLE{Perren_2023,
        author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
         title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
       journal = {\mnras},
