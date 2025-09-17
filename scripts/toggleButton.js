@@ -6,10 +6,10 @@ export function setupCoordToggle({
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
 
-  const modes = includeName ? ['name','allnames','equ','gal'] : ['allnames','equ','gal'];
+  const modes = includeName ? ['allnames','name','equ','gal'] : ['allnames','equ','gal'];
   const placeholders = {
-    name: "Search by primary name...",
     allnames: "Search across all names...",
+    name: "Search by primary name...",
     equ: "Search by RA, DEC (degrees)...",
     gal: "Search by LON, LAT (degrees)..."
   };

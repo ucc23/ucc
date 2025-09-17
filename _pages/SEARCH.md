@@ -20,8 +20,8 @@ permalink: /search/
         </div>
 
         <div class="search-box">
-            <button id="coordToggle">Name</button>
-            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by primary name...">
+            <button id="coordToggle">All names</button>
+            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search across all names...">
             <input id="maxN" type="number" min="0" value="100" step="100" placeholder="Maximum number of results" title="Maximum number of results">
             <select id="c3Filter" title="Filter by C3 value">
               <option value="">All C3</option>
