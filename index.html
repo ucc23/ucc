@@ -19,8 +19,8 @@ body {
 </style>
 
   <div class="search-container">
-    <button id="coordToggle">Name</button>
-    <input type="search" id="search"  placeholder="Search by primary name..." data-search autofocus>
+    <button id="coordToggle">All names</button>
+    <input type="search" id="search"  placeholder="Search across all names..." data-search autofocus>
   </div>
   <div class="user-cards" data-user-cards-container></div>
   <template data-user-template>
@@ -32,7 +32,7 @@ body {
 
 
 <!-- Load search bar -->
-<script defer type="module" src="{{ site.baseurl }}/scripts/main-search.js"></script>
+<script defer type="module" src="{{ site.baseurl }}/scripts/main_search.js"></script>
 
 <!-- Compression library used to access the compressed JSON file -->
 <!-- https://cdnjs.com/libraries/pako -->

@@ -1,11 +1,12 @@
 export function setupCoordToggle({
   buttonId = 'coordToggle',
-  inputId = 'search'
+  inputId = 'search',
+  includeName = true   // if true, start with 'name' mode
 } = {}) {
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
 
-  const modes = ['name', 'allnames', 'equ', 'gal'];
+  const modes = includeName ? ['name','allnames','equ','gal'] : ['allnames','equ','gal'];
   const placeholders = {
     name: "Search by primary name...",
     allnames: "Search across all names...",
@@ -13,15 +14,15 @@ export function setupCoordToggle({
     gal: "Search by LON, LAT (degrees)..."
   };
 
-  let index = 0; // start with 'name'
-  window.coordsys = modes[index]; // initial mode
+  let index = 0;
+  window.coordsys = modes[index];
 
   btn.addEventListener('click', () => {
     // Flash effect
     btn.classList.add('flash');
     setTimeout(() => btn.classList.remove('flash'), 100);
 
-    // Advance mode index
+    // Advance mode
     index = (index + 1) % modes.length;
     window.coordsys = modes[index];
 

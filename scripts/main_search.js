@@ -11,11 +11,8 @@ let data = [];
     data = await loadCompressedCsv("assets/clusters.csv.gz", ["ID", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
 })();
 
-
-setupCoordToggle({
-  buttonId: 'coordToggle',
-  inputId: 'search'
-});
+// Search toggle button
+setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: false });
 
 // Function to handle search input
 searchInput.addEventListener("input", (event) => {
@@ -45,19 +42,13 @@ searchInput.addEventListener("input", (event) => {
                 distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
             } else if (coordsys == "gal") {
                 distance = Math.hypot(x - d.GLON, y - d.GLAT);
-            } else if (coordsys == 'allnames') {
+            } else {
                 // Only search the string distance if the first three chars are present
                 // in the fnames
                 if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
                     distance = Math.min(...d.fnames.split(";").map(fname =>
                         stringDifference(normalizedQuery, fname)
                     ));
-                }
-            } else {
-                // Only search the string distance if the first three chars are present
-                let normName = d.ID.toLowerCase().replace(/[\s_.\-]/g, "");
-                if (normName.includes(normalizedQuery.slice(0, 3))) {
-                        distance = stringDifference(normalizedQuery, normName)
                 }
             }
             return { ...d, distance};

@@ -141,7 +141,7 @@ function downloadCSV(points) {
 }
 
 
-function getPoints(search, coordsys, maxN) {
+function getPoints(search, coordsys, maxN, c3Filter) {
     // If 'search' is empty or maxN invalid, return empty array
     if (!search || search.trim() === "" || !maxN || isNaN(parseFloat(maxN))) {
         return [];
@@ -160,7 +160,7 @@ function getPoints(search, coordsys, maxN) {
         radius = 1;
     }
 
-    const results = data
+    let results = data
         .map(d => {
             let distance = Infinity;
             if (coordsys == 'equ') {
@@ -194,12 +194,16 @@ function getPoints(search, coordsys, maxN) {
                 coordinates: projection([parseFloat(d.GLON), parseFloat(d.GLAT)])
             };
         })
-        // Filter for euclidean search, string diff is always <1
-        .filter(d => d.distance <= radius)
+        .filter(d => d.distance <= radius);
+
+    // Apply C3 filter if set
+    if (c3Filter) {
+        results = results.filter(d => d.c3 === c3Filter);
+    }
+
+    return results
         .sort((a, b) => a.distance - b.distance)
         .slice(0, maxN);
-
-    return results;
 }
 
 
@@ -324,25 +328,23 @@ function displayData(points) {
 function updateDisplay() {
     const search = document.getElementById("search").value;
     const maxN = parseFloat(document.getElementById("maxN").value);
+    const c3Filter = document.getElementById("c3Filter").value;
 
-    const points = getPoints(search, window.coordsys, maxN);
+    const points = getPoints(search, window.coordsys, maxN, c3Filter);
     const { circles, sizeScale } = displayData(points);
     buildTable(points, circles, sizeScale);
-
 }
 
+
 // Search toggle button
-setupCoordToggle({
-  buttonId: 'coordToggle',
-  inputId: 'search'
-});
+setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });
 
 
 // Add event listener for the Search button
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
 
 // Allow Enter key to trigger search from any input field
-["search", "maxN"].forEach(id => {
+["search", "maxN", "c3Filter"].forEach(id => {
     document.getElementById(id).addEventListener("keypress", (e) => {
         if (e.key === "Enter") updateDisplay();
     });
@@ -352,7 +354,8 @@ document.getElementById("searchButton").addEventListener("click", updateDisplay)
 function getCSV() {
     const search = document.getElementById("search").value;
     const maxN = parseFloat(document.getElementById("maxN").value);
-    const points = getPoints(search, window.coordsys, maxN);
+    const c3Filter = document.getElementById("c3Filter").value;
+    const points = getPoints(search, window.coordsys, maxN, c3Filter);
     downloadCSV(points);
 }
 
