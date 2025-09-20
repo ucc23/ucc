@@ -68,13 +68,3 @@ table.sortable thead th {
 table.sortable thead th:hover {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
-
-// /* Small hint arrow when hovering */
-// table.sortable thead th:hover::after {
-//     content: "⇅";
-//     position: absolute;
-//     right: 6px;
-//     font-size: 0.8em;
-//     color: #888;
-//     opacity: 0.7;
-// }
