@@ -163,11 +163,11 @@ function getPoints(search, coordsys, maxN, c3Filter) {
     let results = data
         .map(d => {
             let distance = Infinity;
-            if (coordsys == 'equ') {
+            if (coordsys === 'equ') {
                 distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
-            } else if (coordsys == "gal") {
+            } else if (coordsys === "gal") {
                 distance = Math.hypot(x - d.GLON, y - d.GLAT);
-            } else if (coordsys == 'allnames') {
+            } else if (coordsys === 'allnames') {
                 // Only search the string distance if the first three chars are present
                 if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
                     distance = Math.min(...d.fnames.split(";").map(fname =>
@@ -175,10 +175,20 @@ function getPoints(search, coordsys, maxN, c3Filter) {
                     ));
                 }
             } else {
-                // Only search the string distance if the first three chars are present
-                let normName = d.ID.toLowerCase().replace(/[\s_.\-]/g, "");
-                if (normName.includes(normalizedQuery.slice(0, 3))) {
-                        distance = stringDifference(normalizedQuery, normName)
+                // Normalize query
+                const normName = d.ID.toLowerCase().split(";")[0].replace(/[\s_.\-]/g, "");
+                const qlen = normalizedQuery.length;
+                // If 2 or fewer chars, only apply exact match
+                if (qlen <= 2) {
+                    if (normName.startsWith(normalizedQuery)) {
+                        distance = 0;
+                    }
+                // If more than 2 chars, apply fuzzy search
+                } else {
+                    // Only apply fuzzy search if the first three chars match
+                    if (normName.includes(normalizedQuery.slice(0, 3))) {
+                        distance = stringDifference(normalizedQuery, normName);
+                    }
                 }
             }
 
