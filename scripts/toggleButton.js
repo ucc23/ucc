@@ -5,13 +5,20 @@ export function setupCoordToggle({
 } = {}) {
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
+  const radiusInput = document.getElementById('radius');
 
-  const modes = includeName ? ['allnames','name','equ','gal'] : ['allnames','equ','gal'];
+  const modes = includeName ? ['names','equ','gal'] : ['names','equ','gal'];
+
   const placeholders = {
-    allnames: "Search across all names...",
-    name: "Search by primary name...",
-    equ: "Search by RA, DEC (degrees)...",
-    gal: "Search by LON, LAT (degrees)..."
+    names: "Search by name(s)...",
+    equ: "Search by RA, DEC...",
+    gal: "Search by LON, LAT..."
+  };
+
+  const radius_placeholders = {
+    names: "Radius [string]",
+    equ: "Radius [arcmin]",
+    gal: "Radius [arcmin]"
   };
 
   let index = 0;
@@ -29,10 +36,14 @@ export function setupCoordToggle({
     // Update button text
     btn.textContent =
       window.coordsys === 'gal' ? 'Galactic' :
-      window.coordsys === 'equ' ? 'Equatorial' :
-      window.coordsys === 'allnames' ? 'All names' : 'Name';
+      window.coordsys === 'equ' ? 'Equatorial' : 'Names';
+      // window.coordsys === 'names' ? 'All names' : 'Name';
 
-    // Update placeholder
+    // Update placeholders
     termsInput.placeholder = placeholders[window.coordsys];
+    if (radiusInput) {
+      radiusInput.placeholder = radius_placeholders[window.coordsys];
+    }
   });
+
 }

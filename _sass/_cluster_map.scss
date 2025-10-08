@@ -1,62 +1,112 @@
 
 #map_plot {
-    margin-top: -50px; /* Moves it up by 10px */
+    position: sticky;
+    margin-top: -50px; /* Moves it up */
+    top: 0;              /* sticks to top of the viewport */
+    z-index: 900;
+    background: white;
+    border-bottom: 5px solid #ccc;
 }
+
+
 
 .search-box {
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 12px;
-    max-width: 100%;
-    display: flex;
-    flex-wrap: nowrap;       /* stay on one line */
-    gap: 8px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  max-width: 100%;
 }
 
-.search-box input {
-    flex: 1 1 auto;
-    min-width: 80px;
-    padding: 6px 8px;
-    border: 1px solid #bbb;
-    border-radius: 4px;
-    font-size: 14px;
+/* --- GRID LAYOUT --- */
+.search-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;   /* main area + button column */
+  grid-template-rows: auto auto;     /* two rows for inputs */
+  gap: 8px;
+  align-items: start;
 }
 
+/* --- ROWS --- */
+.search-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+}
+
+/* --- INPUTS & SELECTS --- */
+.search-box input,
+.search-box select {
+  flex: 1 1 auto;
+  min-width: 80px;
+  padding: 6px 8px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 34px;
+  box-sizing: border-box;
+}
+
+/* --- BUTTONS --- */
 .search-box button {
-    padding: 6px 12px;
-    border: none;
-    border-radius: 4px;
-    background-color: #666;
-    color: white;
-    font-size: 14px;
-    cursor: pointer;
-    white-space: nowrap;    /* prevent text wrapping */
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #666;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+  height: 34px;
 }
 
 .search-box button:hover {
-    background-color: #555;
+  background-color: #555;
+}
+
+/* --- SEARCH BUTTON: right side, spans both rows --- */
+#searchButton {
+  grid-column: 2;          /* rightmost column */
+  grid-row: 1 / span 2;    /* span both rows */
+  align-self: stretch;     /* full height */
+  width: 90px;
+  height: auto;
+}
+
+/* --- WIDTHS --- */
+#search { flex: 0 0 245px; }
+#radius { flex: 0 0 157px; }
+#c3Filter { flex: 0 0 89px; }
+// #dist_min { flex: 0 0 168px; }
+#dist_min { flex: 0 0 88px; }
+#dist_max { flex: 0 0 88px; }
+#n50_min { flex: 0 0 88px; }
+#n50_max { flex: 0 0 88px; }
+#uti_min { flex: 0 0 88px; }
+#uti_max { flex: 0 0 88px; }
+
+
+.separator {
+  width: 1px;
+  height: 1.5em;
+  background-color: #ccc;
+  margin: 0 5px;
+  align-self: center;
 }
 
 
+#coordToggle {
+  width: 90px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #5f8c65;
+  border: 1px solid #ccc;
+}
 
-  #coordToggle {
-    width: 80px; /* adjust based on longest label */
-    text-align: center;
-    padding: 6px 0; /* vertical padding only to avoid width change */
-    font-size: 14px;
-    cursor: pointer;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background: #5f8c65;
-    transition: background-color 0.4s ease;
-  }
-  /* Flash color for click */
-  #coordToggle.flash {
-    background-color: #cce5ff; /* light blue highlight */
-  }
-
-
+/* --- FLASH EFFECT --- */
+#coordToggle.flash {
+  background-color: #cce5ff;
+}
 
 
 

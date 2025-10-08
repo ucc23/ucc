@@ -1,4 +1,5 @@
 import { loadCompressedCsv } from "./loadCSV.js";
+import { generalSearch } from "./search.js";
 import { stringDifference } from './stringDifference.js';
 import { setupCoordToggle } from './toggleButton.js';
 
@@ -8,7 +9,7 @@ const searchInput = document.querySelector("[data-search]");
 
 let data = [];
 (async () => {
-    data = await loadCompressedCsv("assets/clusters.csv.gz", ["ID", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
+    data = await loadCompressedCsv("assets/clusters.csv.gz", ["Name", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
 })();
 
 // Search toggle button
@@ -19,38 +20,26 @@ searchInput.addEventListener("input", (event) => {
     // Clear previous results
     userCardContainer.innerHTML = "";
 
-    const query = event.target.value;
+    const query = event.target.value.trim().toLowerCase();
 
     // Only process for strings with more than 3 characters
     if (query.length < 4) return;
 
-    let x = null, y = null, normalizedQuery = null;
-    if ((coordsys == 'equ') || (coordsys === "gal")){
-        const xy = query.split(/[ \t,;]+/)
-        // RA/DEC or GLON/GLAT search
-        x = parseFloat(xy[0]);
-        y = parseFloat(xy[1]);
-    } else {
-        // Globally removes spaces, underscores, periods, and hyphens, globally replaces '+' with 'p'
-        normalizedQuery = query.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
+    // Handle "random" query
+    if (query === "random") {
+        const element = userCardTemplate.content.cloneNode(true).children[0];
+        const header = element.querySelector("[data-header]");
+        const body = element.querySelector("[data-body]");
+        element.querySelector("a").setAttribute("href", "random");
+        header.textContent = "Random";
+        body.textContent = "Load a random cluster page";
+        userCardContainer.appendChild(element);
+        return;
     }
 
     const results = data
         .map(d => {
-            let distance = Infinity;
-            if (coordsys == 'equ') {
-                distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
-            } else if (coordsys == "gal") {
-                distance = Math.hypot(x - d.GLON, y - d.GLAT);
-            } else {
-                // Only search the string distance if the first three chars are present
-                // in the fnames
-                if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
-                    distance = Math.min(...d.fnames.split(";").map(fname =>
-                        stringDifference(normalizedQuery, fname)
-                    ));
-                }
-            }
+            const distance = generalSearch(d, coordsys, query);
             return { ...d, distance};
         })
         // Filter for euclidean search, string diff is always <1
@@ -65,7 +54,7 @@ searchInput.addEventListener("input", (event) => {
         const body = element.querySelector(`[data-body]`);
         const href = `./_clusters/${d.fnames.split(";")[0]}`;
         element.querySelector("a").setAttribute("href", href);
-        header.textContent = d.ID;
+        header.textContent = d.Name;
         if (coordsys == 'equ') {
             body.textContent = `E (${d.RA_ICRS}, ${d.DE_ICRS})`;
         } else if (coordsys == "gal") {

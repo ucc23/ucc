@@ -1,0 +1,32 @@
+---
+layout: none
+permalink: /random/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Umami -->
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
+
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <iframe id="clusterFrame" style="display:none;"></iframe>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="{{ '/scripts/random_clust_load.js' | relative_url }}"></script>
+</body>
+</html>

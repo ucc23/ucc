@@ -1,5 +1,6 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 import { setupCoordToggle } from './toggleButton.js';
+import { generalSearch } from "./search.js";
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
@@ -101,22 +102,25 @@ const tableContainer = d3.select("#table_results")
 // Declare 'data' in the global scope
 let data = [];
 (async () => {
-    data = await loadCompressedCsv("../assets/clusters.csv.gz", ["ID", "fnames", "RA_ICRS", "DE_ICRS", "GLON", "GLAT", "dist_pc", "N_50", "C3"]);
+    data = await loadCompressedCsv("../assets/clusters.csv.gz", ["Name", "fnames", "RA_ICRS", "DE_ICRS", "GLON", "GLAT", "dist_pc", "N_50", "C3", "UTI"]);
     updateDisplay();
 })();
 
 // Convert data to CSV format
 function convertToCSV(points) {
-    const headers = ["Name", "RA", "DEC", "Dist_pc", "N_50", "C3"];
+    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI"];
     const csvContent = [
         headers.join(","), // Header row
         ...points.map(d => [
             `"${d.name}"`,
-            d.ra.toFixed(2),
-            d.dec.toFixed(2),
-            d.dist.toFixed(0),
+            d.ra,
+            d.dec,
+            d.lon,
+            d.lat,
+            d.dist_pc.toFixed(0),
             d.membs,
-            d.c3
+            d.c3,
+            d.uti
         ].join(","))
     ].join("\n");
     
@@ -141,70 +145,67 @@ function downloadCSV(points) {
 }
 
 
-function getPoints(search, coordsys, maxN, c3Filter) {
-    // If 'search' is empty or maxN invalid, return empty array
-    if (!search || search.trim() === "" || !maxN || isNaN(parseFloat(maxN))) {
+function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter) {
+    // If 'query' is empty return empty array
+    if (!query || query.trim() === "") {
         return [];
     }
 
-    let x = null, y = null, normalizedQuery = null;
-    let radius = 180;
-    if ((coordsys == 'equ') || (coordsys === "gal")){
-        const xy = search.split(/[ \t,;]+/)
-        // RA/DEC or GLON/GLAT search
-        x = parseFloat(xy[0]);
-        y = parseFloat(xy[1]);
-    } else {
-        // Globally removes spaces, underscores, periods, and hyphens, globally replaces '+' with 'p'
-        normalizedQuery = search.toLowerCase().replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
-        radius = 1;
+    // Default radius to 10 if invalid
+    radius = parseFloat(radius);
+    if (isNaN(radius)) {
+        radius = 10;
+    }
+
+    // Ensure valid defaults
+    distmin = parseFloat(distmin);
+    if (isNaN(distmin)) {
+        distmin = 0;
+    }
+    distmax = parseFloat(distmax);
+    if (isNaN(distmax)) {
+        distmax = 50001;
+    }
+    console.log(n50min, n50max);
+    n50min = parseFloat(n50min);
+    if (isNaN(n50min)) {
+        n50min = 0;
+    }
+    n50max = parseFloat(n50max);
+    if (isNaN(n50max)) {
+        n50max = 100000;
+    }
+    utimin = parseFloat(utimin);
+    if (isNaN(utimin)) {
+        utimin = 0;
+    }
+    utimax = parseFloat(utimax);
+    if (isNaN(utimax)) {
+        utimax = 1.01;
     }
 
     let results = data
         .map(d => {
-            let distance = Infinity;
-            if (coordsys === 'equ') {
-                distance = Math.hypot(x - d.RA_ICRS, y - d.DE_ICRS);
-            } else if (coordsys === "gal") {
-                distance = Math.hypot(x - d.GLON, y - d.GLAT);
-            } else if (coordsys === 'allnames') {
-                // Only search the string distance if the first three chars are present
-                if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
-                    distance = Math.min(...d.fnames.split(";").map(fname =>
-                        stringDifference(normalizedQuery, fname)
-                    ));
-                }
-            } else {
-                // Normalize query
-                const normName = d.ID.toLowerCase().split(";")[0].replace(/[\s_.\-]/g, "");
-                const qlen = normalizedQuery.length;
-                // If 2 or fewer chars, only apply exact match
-                if (qlen <= 2) {
-                    if (normName.startsWith(normalizedQuery)) {
-                        distance = 0;
-                    }
-                // If more than 2 chars, apply fuzzy search
-                } else {
-                    // Only apply fuzzy search if the first three chars match
-                    if (normName.includes(normalizedQuery.slice(0, 3))) {
-                        distance = stringDifference(normalizedQuery, normName);
-                    }
-                }
-            }
-
+            const distance = generalSearch(d, coordsys, query);
             return {
-                name: d.ID,
+                name: d.Name,
                 ra: parseFloat(d.RA_ICRS),
                 dec: parseFloat(d.DE_ICRS),
+                lon: parseFloat(d.GLON),
+                lat: parseFloat(d.GLAT),
                 fname: d.fnames.split(';')[0],
                 distance: distance,
-                dist: parseFloat(d.dist_pc),
+                dist_pc: parseFloat(d.dist_pc),
                 membs: parseFloat(d.N_50),
+                uti: parseFloat(d.UTI),
                 c3: d.C3,
                 coordinates: projection([parseFloat(d.GLON), parseFloat(d.GLAT)])
             };
         })
-        .filter(d => d.distance <= radius);
+        .filter(d => d.distance <= radius)
+        .filter(d => d.dist_pc >= distmin && d.dist_pc <= distmax)
+        .filter(d => d.membs >= n50min && d.membs <= n50max)
+        .filter(d => d.uti >= utimin && d.uti <= utimax);
 
     // Apply C3 filter if set
     if (c3Filter) {
@@ -213,7 +214,7 @@ function getPoints(search, coordsys, maxN, c3Filter) {
 
     return results
         .sort((a, b) => a.distance - b.distance)
-        .slice(0, maxN);
+        // .slice(0, maxN);
 }
 
 
@@ -227,17 +228,23 @@ const letterHTML = {
 };
 
 
-function buildTable(points, circles, sizeScale) {
+function buildTable(points, circles, sizeScale, coordsys) {
+    // Determine coordinate labels
+    const coord1 = coordsys === "gal" ? "LON" : "RA";
+    const coord2 = coordsys === "gal" ? "LAT" : "DEC";
+
     // Build header HTML
     const tableHeader = `
         <thead>
             <tr>
-                <th class="left">ID</th>
-                <th class="center">RA</th>
-                <th class="center">DEC</th>
-                <th class="center">Dist (pc)</th>
-                <th class="center">N_50</th>
+                <th class="left">Name</th>
+                <th class="center">Rad</th>
+                <th class="center">${coord1}</th>
+                <th class="center">${coord2}</th>
+                <th class="center">Dist [pc]</th>
+                <th class="center">N50</th>
                 <th class="center">C3</th>
+                <th class="center">UTI</th>
             </tr>
         </thead>`;
 
@@ -245,14 +252,19 @@ function buildTable(points, circles, sizeScale) {
     let tableBody = "<tbody>";
     points.forEach((d, i) => {
         const c3HTML = d.c3.split("").map(l => letterHTML[l] || l).join("");
+        const xCoord = coordsys === "gal" ? d.lon : d.ra;
+        const yCoord = coordsys === "gal" ? d.lat : d.dec;
+
         tableBody += `
             <tr data-index="${i}">
-                <td class="left"><a href="https://ucc.ar/_clusters/${d.fname}" target="_blank">${d.name}</a></td>
-                <td class="center">${d.ra.toFixed(2)}</td>
-                <td class="center">${d.dec.toFixed(2)}</td>
-                <td class="center">${d.dist.toFixed(0)}</td>
+                <td class="left"><a href="https://ucc.ar/_clusters/${d.fname}" target="_blank">${d.name.slice(0, 20)}</a></td>
+                <td class="center">${d.distance.toFixed(2)}</td>
+                <td class="center">${xCoord.toFixed(2)}</td>
+                <td class="center">${yCoord.toFixed(2)}</td>
+                <td class="center">${d.dist_pc.toFixed(0)}</td>
                 <td class="center">${d.membs}</td>
                 <td class="center">${c3HTML}</td>
+                <td class="center">${d.uti}</td>
             </tr>`;
     });
     tableBody += "</tbody>";
@@ -267,29 +279,65 @@ function buildTable(points, circles, sizeScale) {
 
     const table = document.getElementById("resultsTable");
 
-    // Event delegation for row clicks
-    table.addEventListener("click", (e) => {
+    // Only enable hover if fewer than 100 rows
+    // if (points.length < 5000) {
+    handleRowHover(table, points, circles, sizeScale);
+
+    // Enable sorting
+    enableTableSorting(table);
+}
+
+// Hover handling with delay
+function handleRowHover(table, points, circles, sizeScale) {
+    let hoverTimeout = null;
+
+    let delayTimeout = 100;
+    if (points.length > 2000) {
+        delayTimeout = 500;
+    } else if (points.length > 1000) {
+        delayTimeout = 400;
+    } else if (points.length > 750) {
+        delayTimeout = 300;
+    } else if (points.length > 500) {
+        delayTimeout = 200;
+    }
+
+    table.addEventListener("mouseover", (e) => {
         const row = e.target.closest("tr[data-index]");
         if (row) {
+            clearTimeout(hoverTimeout);
+            hoverTimeout = setTimeout(() => {
             const idx = +row.dataset.index;
-            const d = points[idx];
             // Reset all circles
             circles
                 .attr("r", p => sizeScale(p.membs))
                 .style("opacity", 0.25)
                 .style("stroke", "black");
-            // Highlight selected circle
+            // Highlight hovered circle
             const circle = circles.filter((p, i) => i === idx);
             circle.raise()
                 .attr("r", p => sizeScale(p.membs) * 1.0)
                 .style("opacity", 0.75)
                 .style("stroke", "yellow")
                 .style("stroke-width", 2);
+            }, delayTimeout);
         }
     });
 
-    // Enable sorting
-    enableTableSorting(table);
+    // Reset highlight when leaving the row
+    table.addEventListener("mouseout", (e) => {
+        const row = e.target.closest("tr[data-index]");
+        if (row) {
+            clearTimeout(hoverTimeout);
+            hoverTimeout = setTimeout(() => {
+                circles
+                .attr("r", p => sizeScale(p.membs))
+                .style("opacity", 0.25)
+                .style("stroke", "black")
+                .style("stroke-width", 1);
+            }, delayTimeout);
+        }
+    });
 }
 
 
@@ -297,9 +345,11 @@ function displayData(points) {
     title.text(`N=${points.length}`);
 
     // --- Draw points ---
-    const minDist = d3.min(points, d => d.dist);
-    const maxDist = d3.max(points, d => d.dist);
-    const colorScale = d3.scaleLinear().domain([minDist, maxDist]).range(["blue", "red"]);
+    const minDist = d3.min(points, d => d.dist_pc);
+    const maxDist = Math.min(4000, d3.max(points, d => d.dist_pc));
+    const colorScale = d3.scaleLog()
+        .domain([minDist, maxDist])     // domain must be strictly positive
+        .range(["blue", "red"]);
     const minMembs = d3.min(points, d => d.membs);
     const maxMembs = d3.max(points, d => d.membs);
     const sizeScale = d3.scaleLinear().domain([minMembs, maxMembs]).range([1, 25]);
@@ -313,18 +363,21 @@ function displayData(points) {
         .attr("cx", d => d.coordinates[0])
         .attr("cy", d => d.coordinates[1])
         .attr("r", d => sizeScale(d.membs))
-        .style("fill", d => colorScale(d.dist))
+        .style("fill", d => colorScale(d.dist_pc))
         .style("stroke", "black")
         .style("stroke-width", 1)
         .style("opacity", 0.25)
         .style("cursor", "pointer")
         .on("mouseover", (event, d) => {
-            tooltip.html(`<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist} [pc]<br>N_50: ${d.membs}`)
+            tooltip.html(`<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist_pc} [pc]<br>N_50: ${d.membs}`)
                 .style("visibility", "visible");
         })
         .on("mousemove", (event) => {
-            tooltip.style("top", (event.pageY + 10) + "px")
-                .style("left", (event.pageX + 10) + "px");
+            // Prevent the tooltip from getting squished at the right edge of the map
+            const offsetX = event.offsetX > 600 ? event.offsetX - (event.offsetX - 600) : event.offsetX + 10;
+            tooltip
+                .style("left", (offsetX) + "px")
+                .style("top", (event.offsetY + 10) + "px");
         })
         .on("mouseout", () => tooltip.style("visibility", "hidden"))
         .on("click", (event, d) => {
@@ -337,37 +390,48 @@ function displayData(points) {
 // Update the display with current input values
 function updateDisplay() {
     const search = document.getElementById("search").value;
-    const maxN = parseFloat(document.getElementById("maxN").value);
+    const radius = document.getElementById("radius").value;
+    const distmin = document.getElementById("dist_min").value;
+    const distmax = document.getElementById("dist_max").value;
+    const n50min = document.getElementById("n50_min").value;
+    const n50max = document.getElementById("n50_max").value;
+    const utimin = document.getElementById("uti_min").value;
+    const utimax = document.getElementById("uti_max").value;
     const c3Filter = document.getElementById("c3Filter").value;
 
-    const points = getPoints(search, window.coordsys, maxN, c3Filter);
+    const points = getPoints(search, window.coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter);
     const { circles, sizeScale } = displayData(points);
-    buildTable(points, circles, sizeScale);
+    buildTable(points, circles, sizeScale, window.coordsys);
+}
+
+// Function to download the data as CVS
+function getCSV() {
+    const search = document.getElementById("search").value;
+    const radius = document.getElementById("radius").value;
+    const distmin = document.getElementById("dist_min").value;
+    const distmax = document.getElementById("dist_max").value;
+    const n50min = document.getElementById("n50_min").value;
+    const n50max = document.getElementById("n50_max").value;
+    const utimin = document.getElementById("uti_min").value;
+    const utimax = document.getElementById("uti_max").value;
+    const c3Filter = document.getElementById("c3Filter").value;
+    const points = getPoints(search, window.coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter);
+    downloadCSV(points);
 }
 
 
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });
 
-
 // Add event listener for the Search button
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
 
 // Allow Enter key to trigger search from any input field
-["search", "maxN", "c3Filter"].forEach(id => {
+["search", "radius", "dist_min", "dist_max", "n50_min", "n50_max", "uti_min", "uti_max", "c3Filter"].forEach(id => {
     document.getElementById(id).addEventListener("keypress", (e) => {
         if (e.key === "Enter") updateDisplay();
     });
 });
-
-// Function to download the data as CVS
-function getCSV() {
-    const search = document.getElementById("search").value;
-    const maxN = parseFloat(document.getElementById("maxN").value);
-    const c3Filter = document.getElementById("c3Filter").value;
-    const points = getPoints(search, window.coordsys, maxN, c3Filter);
-    downloadCSV(points);
-}
 
 const downloadContainer = document.getElementById('download-container');
 downloadContainer.addEventListener('click', getCSV);

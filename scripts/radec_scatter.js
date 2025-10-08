@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     const dataUrl = "../../assets/clusters.csv.gz";
-    const columns = ["ID", "fnames", "RA_ICRS", "DE_ICRS", "dist_pc", "r_50"];
+    const columns = ["Name", "fnames", "RA_ICRS", "DE_ICRS", "dist_pc", "r_50"];
     let points = await loadCompressedCsv(dataUrl, columns);
 
     // Function to filter points within the current bounds
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                     },
                 }
             },
-            text: filteredPoints.map(point => point.ID),
+            text: filteredPoints.map(point => point.Name),
             customdata: filteredPoints.map(point => [point.fnames.split(';')[0], point.dist_pc]),
             hovertemplate: 'Name: %{text}<br>RA: %{x}<br>Dec: %{y}<br>Dist: %{customdata[1]} [pc]<extra></extra>',
         });

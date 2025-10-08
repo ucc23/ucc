@@ -6,12 +6,17 @@
     <head>
       <script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
 
-    <title>{{ site.name }} – {{ site.description }}</title>
+    {% if page.title_flag %}
+      <title>{{ page.title }} - {{ site.name }}</title>
+    {% else %}
+      <title>{{ site.name }} – {{ site.description }}</title>
+    {% endif %}
+
     {% seo title=false %}
 
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/{{ page.style }}.css" />
   </head>
 
   <body>
@@ -28,7 +33,7 @@
             </div>
 
             <nav>
-              <a data-umami-event="database" href="{{ site.baseurl }}/database">DATABASE</a>
+              <a data-umami-event="database" href="{{ site.baseurl }}/database">Database</a>
               <a data-umami-event="search" href="{{ site.baseurl }}/search">Search</a>
               <a data-umami-event="arxiv" href="{{ site.baseurl }}/arxiv">arXiv</a>
               <a data-umami-event="faq" href="{{ site.baseurl }}/faq">FAQ</a>

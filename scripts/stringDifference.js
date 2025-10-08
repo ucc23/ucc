@@ -14,7 +14,7 @@ function stringDifference(str1, str2) {
     const lengthDiff = Math.abs(len1 - len2);
 
     // Early exit for strings with significant length difference
-    if (lengthDiff > 3) return 1; // Consider completely different if length diff > 3
+    // if (lengthDiff > 3) return 1;
 
     const maxLength = Math.max(len1, len2);
 
@@ -50,6 +50,8 @@ function stringDifference(str1, str2) {
     // The '1.01' value is a small penalty designed to ensure that the minimum distance
     // between for example 'NGC 251' matches first with 'NGC 2516' over 'NGC 2251'
     const normLevenshtein = (distMatrix[len1][len2] / maxLength) * 1.01;
+
+    // console.log(str1, str2,  Math.min(normDiff, normLevenshtein));
 
     return Math.min(normDiff, normLevenshtein);
 }
