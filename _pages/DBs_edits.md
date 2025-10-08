@@ -28,6 +28,7 @@ Changed names:
 - NGC 1976 -> Trapezium
 - van den Bergh 1 -> VDB 1
 - vdB-Hagen 99 -> VDBH 99
+- Pismis 6 --> NGC 2645, Pismis 6
 
 Coordinates given by Vizier to Markarian 38 & 50 are wrong, fixed both.
 
@@ -38,9 +39,6 @@ Coordinates given by Vizier to Markarian 38 & 50 are wrong, fixed both.
 
 The data was obtained from the [HEASARC archive](https://heasarc.gsfc.nasa.gov/w3browse/all/openclust.html). Removed all entries with these
 classes:
-FSR 1496 duplicated in lines 1015, 1016; removed 1016
-
-Removed all entries with these classes:
 
 ```
 a = possible asterism/dust hole/star cloud (no cluster)
@@ -53,6 +51,10 @@ n = "non-existent NGC" (RNGC, Sulentic, 1979, Cat. VII/1). Some of Bica's POCRs 
 nf =  objects not found in the DSS images inspection (wrong coordinates?)
 o = possible OB association (or detached part of)
 ```
+
+Converted `RA, DEC` columns to degrees.
+
+FSR 1496 duplicated in lines 1015, 1016; removed 1016
 
 These entries corresponded to a single entry in the UCC. Only one was kept, selected
 according to the primary name in the UCC:
@@ -163,6 +165,18 @@ here.
 
 Merged the `Name` and `OtherName` columns into a single `Name` column.
 
+The following entries have the following secondary names:
+
+- koposov43 --> fsr0848
+- koposov52 --> teutsch5
+
+These names correspond to other entries in the UCC. Those two koposov entries are
+related to similar alternative names in the UCC:
+
+- koposov43 --> fsr0828
+- koposov52 --> teutsch51
+
+I correct this database to those alternative names.
 
 Added VDBH to the BH entries.
 
@@ -202,6 +216,13 @@ Removed entries pointing to a GC:
 
 We do not use the values listed here to generate the (RA, DEC) positions for the
 clusters, unless its the only place where they are listed.
+
+The entries IC_1311 and Dolidze_2 are listed as separate objects and they are the
+same object in the UCC. Removed Dolidze_2.
+
+The entries FSR_1184 and Saurer_1 are listed as separate objects and they are the
+same object in the UCC. Removed FSR_1184.
+
 
 
 ## Loktin & Popova 2017
@@ -243,6 +264,11 @@ Removed entries pointing to a GC:
 
 - berkeley42 (NGC 6749)
 - lynga7 (BH 184)
+
+Removed entries that are marked as duplicates in the UCC:
+
+- Collinder 416 (duplicate of NGC 6882)
+- Basel 9 (duplicate of Ruprecht 148)
 
 The article says that: "_also includes our 48 newly discovered and
 hitherto unknown poor open clusters_" but the CDS table lists 54 named 'LP_XX'
@@ -501,6 +527,11 @@ Blanco_1     13.218  0.699  0.833
 NGC_7789     9.324   0.211  0.133
 Berkeley_59  3.097   0.137  nan
 ```
+
+Removed entries that are stored as a single entry in the UCC.
+
+- Harvard_5 (duplicate of Collinder_258)
+
 
 ## Ferreira et al. 2021
 
