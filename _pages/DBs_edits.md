@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /dbs_edits/
+style: style
 ---
 
 Every database employed to generate the UCC is listed here, with a full description
@@ -35,8 +36,8 @@ Coordinates given by Vizier to Markarian 38 & 50 are wrong, fixed both.
 
 [New catalogue of optically visible open clusters and candidates](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D/abstract)
 
-Converted `RA, DEC` columns to degrees.
-
+The data was obtained from the [HEASARC archive](https://heasarc.gsfc.nasa.gov/w3browse/all/openclust.html). Removed all entries with these
+classes:
 FSR 1496 duplicated in lines 1015, 1016; removed 1016
 
 Removed all entries with these classes:
@@ -54,36 +55,37 @@ o = possible OB association (or detached part of)
 ```
 
 These entries corresponded to a single entry in the UCC. Only one was kept, selected
-according to the primary name in the uCC:
+according to the primary name in the UCC:
 
-330 teutsch1, 331 koposov27 --> koposov27
-1049 ngc3909, 1050 eso21708 --> ngc3909
-1653 collinder416, 1655 ngc6882 --> ngc6882
-357 koposov43, 359 fsr0828 --> koposov43
-1676 dolidze41, 1677 berkeley85 --> berkeley85
-387 fsr0856, 388 koposov53 --> koposov53
-701 eso36814, 702 fsr1343 --> eso36814
-706 ah03j0748269, 707 fsr1315 --> fsr1315
-321 fsr0814, 322 koposov36 --> koposov36
-1079 collinder257, 1085 harvard5 --> harvard5
-791 eso31203, 793 fsr1394 --> eso31203
-1908 fsr0436, 1910 skiffj2330p602 --> fsr0436
-395 koposov63, 396 fsr0869 --> koposov63
-838 ngc2669, 839 vdbh52 --> ngc2669
+- 330 teutsch1, 331 koposov27       --> koposov27
+- 1049 ngc3909, 1050 eso21708       --> ngc3909
+- 1653 collinder416, 1655 ngc6882   --> ngc6882
+- 357 koposov43, 359 fsr0828        --> koposov43
+- 1676 dolidze41, 1677 berkeley85   --> berkeley85
+- 387 fsr0856, 388 koposov53        --> koposov53
+- 701 eso36814, 702 fsr1343         --> eso36814
+- 706 ah03j0748269, 707 fsr1315     --> fsr1315
+- 321 fsr0814, 322 koposov36        --> koposov36
+- 1079 collinder257, 1085 harvard5  --> harvard5
+- 791 eso31203, 793 fsr1394         --> eso31203
+- 1908 fsr0436, 1910 skiffj2330p602 --> fsr0436
+- 395 koposov63, 396 fsr0869        --> koposov63
+- 838 ngc2669, 839 vdbh52           --> ngc2669
 
 Removed GCS:
 
-1022   ESO 093 08      --> 19     ESO 93-8       d=0.11
-1282   BH 208          --> 68     NGC 6256       d=2.36
-1320   FSR 1758        --> 89     FSR 1758       d=3.18
-1091   BH 140          --> 28     BH 140         d=4.65
+- 1022   ESO 093 08      --> 19     ESO 93-8       d=0.11
+- 1282   BH 208          --> 68     NGC 6256       d=2.36
+- 1320   FSR 1758        --> 89     FSR 1758       d=3.18
+- 1091   BH 140          --> 28     BH 140         d=4.65
 
 Renamed OCS:
-BH      --> VDBH
-vdBergh --> VDB
+- BH      --> VDBH
+- vdBergh --> VDB
 
 Renamed:
-Alessi J2327+55 --> Alessi J2327.0+55
+- Alessi J2327+55 --> Alessi J2327.0+55
+
 
 
 ## Chen et al. 2003
@@ -149,17 +151,20 @@ Total of 167 entries in the three tables.
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=V/132) page lists 194 objects. Tables 1, 2 and 3 entries are present in Vizier
 in its entirety. There are 27 extra entries in the Vizier table
 
-The cluster 'koposov41;fsr0839' presents RA coordinates that are substantially different
+The cluster `koposov41;fsr0839` presents RA coordinates that are substantially different
 from those listed in the UCC for 'FSR 0839'.
 
-Koposov 41, FSR 839 (KOPOSOV2008): `(90.9917, 30.26139)`; converted from Table 2 in article
-FSR 0839 (UCC)                   : `(90.958 , 30.236)`
-koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
+- Koposov 41, FSR 839 (KOPOSOV2008): `(90.9917, 30.26139)`; converted from Table 2 in article
+- FSR 0839 (UCC)                   : `(90.958 , 30.236)`
+- koposov41;fsr0839 (this DB)      : `(97.7417, 30.2614)`
 
 Since KOPOSOV2008 is previous to this article, I assume the RA coordinate is incorrect
 here.
 
 Merged the `Name` and `OtherName` columns into a single `Name` column.
+
+
+Added VDBH to the BH entries.
 
 
 ## Borissova et al. 2011
@@ -195,8 +200,8 @@ Removed entries pointing to a GC:
 * FSR 1758
 * VDBH 140,vdBergh-Hagen 140
 
-We do not use the values listed here to generate the positions for the clusters
-in the UCC.
+We do not use the values listed here to generate the (RA, DEC) positions for the
+clusters, unless its the only place where they are listed.
 
 
 ## Loktin & Popova 2017
@@ -212,32 +217,32 @@ thus do not use these values in the DB.
 Contains 11 clusters with an extra name in parenthesis. These were fixed as
 follows:
 
-* "Alpha_Persei, Melotte 20"
-* "Collinder258, Har5"
-* "Coma Star, Melotte 111"
-* "Herschel1, ASCC41"
-* "Hyades, Melotte 25"
-* "NGC2645, Pismis6"
-* "NGC2682, Melotte 67"
-* "NGC3247, Cr220"
-* "Pleiades, Melotte 45"
-* "Praesepe, NGC2632"
-* "Stephenson1, Del_L"
+- "Alpha_Persei, Melotte 20"
+- "Collinder258, Har5"
+- "Coma Star, Melotte 111"
+- "Herschel1, ASCC41"
+- "Hyades, Melotte 25"
+- "NGC2645, Pismis6"
+- "NGC2682, Melotte 67"
+- "NGC3247, Cr220"
+- "Pleiades, Melotte 45"
+- "Praesepe, NGC2632"
+- "Stephenson1, Del_L"
 
 Name changes:
 
-* VDBergh_Hagen --> VDBH per CDS recommendation (added 'vdBergh-Hagen' to 43
+- VDBergh_Hagen --> VDBH per CDS recommendation (added 'vdBergh-Hagen' to 43
 clusters so that the naming isn't lost)
-* VDBergh       --> VDB per CDS recommendation
-* Sauer5 --> Saurer 5
-* Teusch61 --> Teutsch61
-* AlessiJ2327+55 --> Alessi J2327.0+55
-* Sigma_Ori --> Sigma_Orionis
+- VDBergh       --> VDB per CDS recommendation
+- Sauer5 --> Saurer 5
+- Teusch61 --> Teutsch61
+- AlessiJ2327+55 --> Alessi J2327.0+55
+- Sigma_Ori --> Sigma_Orionis
 
 Removed entries pointing to a GC:
 
-* berkeley42 (NGC 6749)
-* lynga7 (BH 184)
+- berkeley42 (NGC 6749)
+- lynga7 (BH 184)
 
 The article says that: "_also includes our 48 newly discovered and
 hitherto unknown poor open clusters_" but the CDS table lists 54 named 'LP_XX'
@@ -275,7 +280,7 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/624/
 
 Converted `RAJ2000, DEJ2000` in hms columns into degree values.
 
-ESO XXX-SCYY --> ESO XXX-YY
+- ESO XXX-SCYY --> ESO XXX-YY
 
 
 ## Bica et al. 2019
@@ -346,15 +351,18 @@ and 823 (89%) clusters are even smaller than 2′._"
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/623/A108) table lists 269 clusters.
 
+Added VDBH to the BH entries.
+
 Duplicates that were combined using their average values:
 
-* ASCC124, Alessi37
-* ASCC22, Ferrero11
-* ASCC112, AlessiTeutsch11
-* Harvard5, Collinder258
+- ASCC124, Alessi37
+- ASCC22, Ferrero11
+- ASCC112, AlessiTeutsch11
+- Harvard5, Collinder258
 
-Renamed: `ngc0188, ngc0752, ngc0381, ngc0225, ngc0581` to
-`ngc188, ngc752, ngc381, ngc225, ngc581` (removed leading zeroes)
+Renamed:
+- `ngc0188, ngc0752, ngc0381, ngc0225, ngc0581`, to
+- `ngc188, ngc752, ngc381, ngc225, ngc581` (removed leading zeroes)
 
 
 ## Castro-Ginard et al. 2019
@@ -366,8 +374,11 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/627/A35)
 
 ## Dias et al. 2019
 
-- Combined tables 2 & 3
-- Renamed BH --> VDBH, vdBergh --> VDB
+Combined tables 2 & 3
+
+Renamed:
+- BH --> VDBH
+- vdBergh --> VDB
 
 
 ## Castro-Ginard et al. 2020
@@ -401,6 +412,8 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/245/32)
 
 Added 'FoF_' to the entries' IDs. This also matches the HUNT23 denomination.
 
+Added VDBH_ to the BH_ entries.
+
 
 ## Sim et al. 2019
 
@@ -432,6 +445,8 @@ IV. Abundances for 128 Open Clusters Using SDSS/APOGEE DR16](https://ui.adsabs.h
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/159/199) table lists 128 clusters. Did not use the ages listed as they are
 from the MWSC database.
+
+Added VDBH to the BH entry.
 
 
 ## Ferreira et al. 2020
@@ -576,10 +591,11 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/262/7) 
 
 Changes to names:
 
-* ESO_489-01 --> ESO_489_01
-* vdBergh  --> VDB per CDS recommendation
-* Sigma_Ori --> Sigma_Orionis
-* Changed 'LP_' to 'FoF_'
+- ESO_489-01 --> ESO_489_01
+- vdBergh  --> VDB per CDS recommendation
+- BH --> VDBH
+- Sigma_Ori --> Sigma_Orionis
+- Changed 'LP_' to 'FoF_'
 
 
 ## Li et al. 2022
@@ -607,8 +623,8 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/659/A59)
 
 Changes to names:
 
-* BH_99 --> VDBH_99
-* LP_ --> FoF_
+- BH_99 --> VDBH_99
+- LP_ --> FoF_
 
 
 ## Chi et al. 2023
@@ -737,6 +753,8 @@ Extracted data from PDF.
 Open Clusters within 500 pc](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q/abstract)
 
 Tables (provided by Qin & Chen) lists 101 'OSCN_' clusters.
+
+Added VDBH to the BH entries.
 
 
 ## Alfonso et al. 2024
