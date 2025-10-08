@@ -12,8 +12,11 @@ listed here.
 - [What is the UCC?](#what-is-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
+- [What is the UTI parameter?](#what-is-the-uti-parameter)
 - [What is the C3 parameter?](#what-is-the-c3-parameter)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
+- [Random cluster navigation](#random-cluster-navigation)
+
 
 
 ## What is the UCC?
@@ -24,6 +27,7 @@ for an ever expanding number of entries, taken from the latest published article
 combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
 
 ![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
+
 
 
 ## What objects are included in the UCC?
@@ -46,12 +50,51 @@ Membership is obtained through the `fastMP` method described in Sect. 3 of
 incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details [here](https://asteca.readthedocs.io/en/latest/contents/membership_mod.html)).
 
 
+
+## What is the UTI parameter?
+
+The **UTI** (UCC Trust Index) is a measure of the reliability of the cluster detection,
+ranging from 0 (worst) to 1 (best). It is calculated based on factors such as the number
+of members, stellar density, the `C3` parameter, the presence of the object
+in the literature, and the probability of the object being a duplicate of a previous
+entry. It is estimated via the relation:
+
+    UTI = 0.2 * (C_N + C_dens + C_C3 + 2*C_lit) * C_dup
+
+where the `C` factors have values in the [0, 1] range (1 is best) representing
+normalized estimates of:
+
+- `C_N`: number of members (1 = many members)
+- `C_dens`: stellar density in pc^2 (1 = dense object)
+- `C_C3`: C3 parameter (1 = AA class)
+- `C_lit`: presence in literature (1 = frequently mentioned in literature)
+- `C_dup`: probability of duplication (1 = not a duplicate)
+
+![UTI values for OCs in the literature](/images/UTI_values.webp "UTI values for OCs in the literature")
+
+
+
 ## What is the C3 parameter?
 
-The C3 parameter is the combined class, described in Sect. 4.3 of
+The `C3` parameter is the combined `C1` and `C2` classes, described in Sect. 4.3 of
 [Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract) where the UCC was initially introduced.
 
+The `C1` and `C2` classes can be described as:
+
+`C1`: A density-based metric that quantifies the contrast between the spatial
+distribution of cluster member stars and that of the surrounding field stars within
+the five-dimensional parameter space defined by celestial coordinates,
+proper motions, and parallax.
+
+`C2`: A photometric metric that estimates the likelihood that the observed stellar
+sequence of the candidate members is statistically indistinguishable from a
+sequence randomly drawn from the field star population.
+
+Each one takes values `[A, B, C, D]` where `A` is best and `D` is worst.
+
+
 ![Classification of OCs in the literature](/images/classif_bar.webp "Classification of OCs in the literature")
+
 
 
 ## How can I cite the UCC?
@@ -81,3 +124,11 @@ BibTeX entry for the original article:
 }
 ```
 {% endraw %}
+
+
+
+## Random cluster navigation
+
+You can navigate to a random cluster page by searching the keyword _"random"_ on the
+[main search page]({{ site.baseurl }}/), or directly accessing
+<a data-umami-event="random_faq" href="{{ site.baseurl }}/random/">the random url</a>.
