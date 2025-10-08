@@ -20,10 +20,12 @@ style: style
             </button>
         </div>
 
-        <div class="search-box">
-            <button id="coordToggle">All names</button>
-            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search across all names...">
-            <input id="maxN" type="number" min="0" value="100" step="100" placeholder="Maximum number of results" title="Maximum number of results">
+      <div class="search-box">
+        <div class="search-grid">
+          <div class="search-row row1">
+            <button id="coordToggle">Names</button>
+            <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by name(s)...">
+            <input id="radius" type="number" min="0" step="5" placeholder="Radius [string]" title="Maximum distance value">
             <select id="c3Filter" title="Filter by C3 value">
               <option value="">All C3</option>
               <option value="AA" class="c3-AA">AA</option>
@@ -43,8 +45,22 @@ style: style
               <option value="DC" class="c3-DC">DC</option>
               <option value="DD" class="c3-DD">DD</option>
             </select>
-            <button id="searchButton" type="button">Search</button>
+          </div>
+
+          <div class="search-row row2">
+            <input id="dist_min" type="number" min="0" step="100" placeholder="Dist min" title="Minimum distance in [pc]">
+            <input id="dist_max" type="number" min="0" step="100" placeholder="Dist max" title="Maximum distance in [pc]">
+            <div class="separator"></div>
+            <input id="n50_min" type="number" min="0" step="10" placeholder="N50 min" title="Minimum N50 value">
+            <input id="n50_max" type="number" min="0" step="10" placeholder="N50 max" title="Maximum N50 value">
+            <div class="separator"></div>
+            <input id="uti_min" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI min" title="Minimum UTI value">
+            <input id="uti_max" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI max" title="Maximum UTI value">
+          </div>
+
+          <button id="searchButton" type="button">Search</button>
         </div>
+      </div>
 
         <div id="table_results"></div> 
 
