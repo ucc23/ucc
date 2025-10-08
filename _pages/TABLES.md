@@ -2,6 +2,7 @@
 layout: page
 title: Cluster tables
 permalink: /tables/
+style: style
 ---
 
 Open clusters in the UCC grouped according to various criteria to facilitate easy

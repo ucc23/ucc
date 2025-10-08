@@ -2,6 +2,7 @@
 layout: page
 title: Database
 permalink: /database/
+style: style
 ---
 
 The UCC is

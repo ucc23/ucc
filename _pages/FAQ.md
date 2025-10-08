@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 permalink: /faq/
+style: style
 ---
 
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions or any other questions not

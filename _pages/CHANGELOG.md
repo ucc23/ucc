@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /changelog/
+style: style
 ---
 
 If you find any problems with the site or have suggestions on how to improve it,

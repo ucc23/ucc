@@ -2,6 +2,7 @@
 layout: page
 title: arXiv open cluster articles
 permalink: /arxiv/
+style: style
 ---
 
 A list of [arXiv's astro-ph.GA](https://arxiv.org/list/astro-ph.GA/new) submissions from the past 7 days, 

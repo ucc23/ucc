@@ -2,6 +2,7 @@
 layout: page
 title: Articles
 permalink: /articles/
+style: style
 ---
 
 These are the articles whose databases are currently included in the UCC. The
