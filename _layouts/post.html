@@ -5,10 +5,182 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
+  {% if page.more_names %}
+    <h3><span style="color: #808080;"><i>({{page.more_names}})</i></span></h3>
+  {% endif %}
+
+  <div style="display: flex; justify-content: space-between; width:720px;height:250px">
+
+      <!-- Aladin snippet -->
+      <div style="text-align: center;">
+          <!-- Static image + data attributes for FOV and target -->
+          <img id="aladin_img"
+              data-umami-event="aladin_load"
+              src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/aladin/{{page.fname}}.webp"
+              alt="Click to load Aladin Lite" 
+              style="width:355px;height:250px; cursor: pointer;"
+              data-fov="{{page.fov}}" 
+              data-target="{{page.ra_icrs}} {{page.de_icrs}}"/>
+          <!-- Div to contain Aladin Lite viewer -->
+          <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
+          <!-- Aladin Lite script will be loaded after the image is clicked -->
+      </div>
+      <!-- Aladin snippet -->
+
+      <table style="width:355px;height:250px;">
+          <!-- Row 1 (title) -->
+          <tr style="background-color: {{page.UTI_COLOR}};">
+              <td colspan="5">
+                  <div class="popup-container-focus" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
+                      <button class="popup-button-focus"><a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>: <span class="uti_value" data-umami-event="UTI">{{page.UTI}}</span></button>
+                      <div class="popup-message-focus">
+                          <strong>UCC Trust Index</strong><br><br>
+                          <table>
+                              <tr style="background-color: #fafafa;">
+                                  <td style="text-align: center;">C_N</td>
+                                  <td style="text-align: center;">C_dens</td>
+                                  <td style="text-align: center;">C_C3</td>
+                                  <td style="text-align: center;">C_lit</td>
+                                  <td style="text-align: center;">C_dup</td>
+                              </tr>
+                              <tr>
+                                  <td style="text-align: center; background-color: {{page.UTI_C_N_COL}}; font-weight: bold;">{{page.UTI_C_N}}</td>
+                                  <td style="text-align: center; background-color: {{page.UTI_C_dens_COL}}; font-weight: bold;">{{page.UTI_C_dens}}</td>
+                                  <td style="text-align: center; background-color: {{page.UTI_C_C3_COL}}; font-weight: bold;">{{page.UTI_C_C3}}</td>
+                                  <td style="text-align: center; background-color: {{page.UTI_C_lit_COL}}; font-weight: bold;">{{page.UTI_C_lit}}</td>
+                                  <td style="text-align: center; background-color: {{page.UTI_C_dup_COL}}; font-weight: bold;">{{page.UTI_C_dup}}</td>
+                              </tr>
+                          </table><br>
+                          <!-- Object summary follows below -->
+                          {{page.UTI_summary}}
+                      </div>
+                  </div>
+              </td>
+          </tr>
+          <!-- Row 2 -->
+          <tr>
+             <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="C3 class">C3</a></th>
+             <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
+             <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
+           </tr>
+           <!-- Row 3 -->
+           <tr>
+             <td style="text-align: center;">{{page.class3}}</td>
+             <td style="text-align: center;">{{page.N_50_val}}</td>
+             <td style="text-align: center;">{{page.r_50_val}}</td>
+          </tr>
+      </table>
   </div>
+
+  <blockquote>
+    <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">SciX</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">Simbad</a></p>
+  </blockquote>
+
+  <h3>Positions</h3>
+   {{ page.posit_table | markdownify }}
+
+  <blockquote>
+    <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">Simbad</a></p>
+  </blockquote>
+
+  <h3>Estimated members</h3>
+
+  {% assign N_carousel = page.carousel | split: "_" | size %}
+  {% if N_carousel == 1 %}
+    <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" target="_blank">
+      <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" />
+    </a>
+  {% else %}
+    <div class="carousel">
+      <input type="radio" name="radio-btn" id="slide1" checked="" />
+      <input type="radio" name="radio-btn" id="slide2" />
+      {% if N_carousel == 3 %}
+        <input type="radio" name="radio-btn" id="slide3" />
+      {% endif %}
+
+      <div class="slides">
+        <div class="slide">
+          <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" target="_blank">
+            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" />
+          </a>
+        </div>
+        {% if page.carousel contains "HUNT23" %}
+          {% assign second_car = "HUNT23" %}
+        {% else %}
+          {% assign second_car = "CANTAT20" %}
+        {% endif %}
+        <div class="slide">
+          <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" target="_blank">
+            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" alt="{{page.title}} {{second_car}}" />
+          </a>
+        </div>
+        {% if N_carousel == 3 %}
+          <div class="slide">
+            <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" target="_blank">
+              <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" alt="{{page.title}} CANTAT20" />
+            </a>
+          </div>
+        {% endif %}
+      </div>
+      <div class="indicators">
+        <label for="slide1">1</label>
+        <label for="slide2">2</label>
+        {% if N_carousel == 3 %}
+          <label for="slide3">3</label>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
+
+  <blockquote>
+    <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
+  </blockquote>
+
+    {% if page.fpars_table != empty %}
+      <h3>Fundamental parameters</h3>
+      {{ page.fpars_table | markdownify }}
+    {% endif %}
+
+
+    <blockquote>
+      <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+    </blockquote>
+
+
+  <h3>Cluster region</h3>
+
+  <html lang="en">
+    <body>
+      <center>
+      <div id="plot-params"
+           data-oc-name="{{page.fname}}"
+           data-ra-center="{{page.ra_icrs}}"
+           data-dec-center="{{page.de_icrs}}"
+           data-rad-deg="{{page.r50}}"
+           data-plx="{{page.plx}}">
+      </div>
+      <div id="plot-container">
+          <div id="plot"></div>
+      </div>
+      <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
+      </center>
+    </body>
+  </html>
+  <br>
+
+
+    {% if page.shared_table != empty %}
+      <h3>Objects with shared members</h3>
+      {{ page.shared_table | markdownify }}
+    {% endif %}
+
+
+<!--   <div class="entry">
+    {{ content }}
+  </div> -->
+
 </article>
 
+<script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
 <script defer src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
