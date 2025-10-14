@@ -10,6 +10,8 @@ permalink: /random/
   <!-- Umami -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="1a5a27e4-8217-4735-b1cb-a405225e0a91"></script>
 
+  <title>Random</title>
+
   <style>
     html, body {
       margin: 0;
@@ -26,7 +28,8 @@ permalink: /random/
 </head>
 <body>
   <iframe id="clusterFrame" style="display:none;"></iframe>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="{{ '/scripts/random_clust_load.js' | relative_url }}"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
+  <!-- <script src="{{ '/scripts/random_clust_load.js' | relative_url }}"></script> -->
+  <script type="module" src="{{ '/scripts/random_clust_load.js' | relative_url }}"></script>
 </body>
 </html>
