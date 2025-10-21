@@ -7,10 +7,7 @@ const userCardTemplate = document.querySelector("[data-user-template]");
 const userCardContainer = document.querySelector("[data-user-cards-container]");
 const searchInput = document.querySelector("[data-search]");
 
-let data = [];
-(async () => {
-    data = await loadCompressedCsv("assets/clusters.csv.gz", ["Name", "fnames", "GLON", "GLAT", "RA_ICRS", "DE_ICRS"]);
-})();
+const data = await loadCompressedCsv();
 
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: false });
