@@ -16,7 +16,7 @@ The UCC currently hosts the following data:
 | :--:         | :--: |
 | <a data-umami-event="articles" href="/../articles">Articles</a> | **<!-- ND1 -->51<!-- ND2 -->** |
 | <a data-umami-event="tables" href="/../tables">Clusters</a>     | **<!-- NT1 -->16588<!-- NT2 -->** |
-| Member stars | **<!-- NM1 -->1048454<!-- NM2 -->** |
+| Member stars | **<!-- NM1 -->1048369<!-- NM2 -->** |
 
 
 A <a data-umami-event="search" href="/../search">Search</a> page is available for

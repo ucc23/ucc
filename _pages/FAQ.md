@@ -12,8 +12,8 @@ listed here.
 - [What is the UCC?](#what-is-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
-- [What is the UTI parameter?](#what-is-the-uti-parameter)
 - [What is the C3 parameter?](#what-is-the-c3-parameter)
+- [What is the UTI parameter?](#what-is-the-uti-parameter)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 - [Random cluster navigation](#random-cluster-navigation)
 
@@ -51,29 +51,6 @@ incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details
 
 
 
-## What is the UTI parameter?
-
-The **UTI** (UCC Trust Index) is a measure of the reliability of the cluster detection,
-ranging from 0 (worst) to 1 (best). It is calculated based on factors such as the number
-of members, stellar density, the `C3` parameter, the presence of the object
-in the literature, and the probability of the object being a duplicate of a previous
-entry. It is estimated via the relation:
-
-    UTI = 0.2 * (C_N + C_dens + C_C3 + 2*C_lit) * C_dup
-
-where the `C` factors have values in the [0, 1] range (1 is best) representing
-normalized estimates of:
-
-- `C_N`: number of members (1 = many members)
-- `C_dens`: stellar density in pc^2 (1 = dense object)
-- `C_C3`: C3 parameter (1 = AA class)
-- `C_lit`: presence in literature (1 = frequently mentioned in literature)
-- `C_dup`: probability of duplication (1 = not a duplicate)
-
-![UTI values for OCs in the literature](/images/UTI_values.webp "UTI values for OCs in the literature")
-
-
-
 ## What is the C3 parameter?
 
 The `C3` parameter is the combined `C1` and `C2` classes, described in Sect. 4.3 of
@@ -94,6 +71,29 @@ Each one takes values `[A, B, C, D]` where `A` is best and `D` is worst.
 
 
 ![Classification of OCs in the literature](/images/classif_bar.webp "Classification of OCs in the literature")
+
+
+
+## What is the UTI parameter?
+
+The **UTI** (UCC Trust Index) is a measure of the reliability of the cluster detection,
+ranging from 0 (worst) to 1 (best). It is calculated based on factors such as the number
+of members, stellar density, the `C3` parameter, the presence of the object
+in the literature, and the probability of the object being a duplicate of a previous
+entry. It is estimated via the relation:
+
+    UTI = 0.2 * (C_N + C_dens + C_C3 + 2*C_lit) * C_dup
+
+where the `C` factors have values in the [0, 1] range (1 is best) representing
+normalized estimates of:
+
+- `C_N`: number of members (1 = many members)
+- `C_dens`: stellar density in pc^2 (1 = dense object)
+- `C_C3`: C3 parameter (1 = AA class)
+- `C_lit`: presence in literature (1 = frequently mentioned in literature)
+- `C_dup`: probability of duplication (1 = not a duplicate)
+
+![UTI values for OCs in the literature](/images/UTI_values.webp "UTI values for OCs in the literature")
 
 
 

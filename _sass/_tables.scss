@@ -7,6 +7,11 @@ table {
   margin: 0 auto; /* Center the table horizontally */
 }
 
+/* Apply full width only inside <article class="post detailed"> */
+article.cluster.post table {
+  width: 100%;
+}
+
 table tr {
     border-top: 1px solid #cccccc;
     background-color: white;

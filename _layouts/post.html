@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post detailed">
+<article class="cluster post">
   <h1>{{ page.title }}</h1>
 
   {% if page.more_names %}
@@ -32,7 +32,13 @@ layout: default
           <tr style="background-color: {{page.UTI_COLOR}};">
               <td colspan="5">
                   <div class="popup-container-focus" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
-                      <button class="popup-button-focus"><a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>: <span class="uti_value" data-umami-event="UTI">{{page.UTI}}</span></button>
+                      <!-- <button class="popup-button-focus"><a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>: <span class="uti_value" data-umami-event="UTI">{{page.UTI}}</span></button> -->
+                      <button class="popup-button-focus">
+                        <a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>:
+                        <span class="uti_value" data-umami-event="UTI">
+                          {{page.UTI}}
+                        </span>
+                      </button>
                       <div class="popup-message-focus">
                           <strong>UCC Trust Index</strong><br><br>
                           <table>
@@ -183,4 +189,3 @@ layout: default
 
 <script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
 <script defer src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
-<script defer src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>

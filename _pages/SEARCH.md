@@ -4,10 +4,6 @@ permalink: /search/
 style: style
 ---
 
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://d3js.org/d3-geo-projection.v4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
-
 <html lang="en">
     <body>
         <div id="map_plot"></div>
@@ -25,7 +21,7 @@ style: style
           <div class="search-row row1">
             <button id="coordToggle">Names</button>
             <input id="search" type="text" autofocus autocomplete="off" placeholder="Search by name(s)...">
-            <input id="radius" type="number" min="0" step="5" placeholder="Radius [string]" title="Maximum distance value">
+            <input id="radius" type="number" min="0" step="5" placeholder="Max dist [string]" title="Maximum distance value">
             <select id="c3Filter" title="Filter by C3 value">
               <option value="">All C3</option>
               <option value="AA" class="c3-AA">AA</option>

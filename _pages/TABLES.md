@@ -8,9 +8,28 @@ style: style
 Open clusters in the UCC grouped according to various criteria to facilitate easy
 exploration.
 
+- [UTI classification](#uti-classification)
 - [C3 classification](#c3-classification)
 - [OCs with shared members](#ocs-with-shared-members)
 - [Number of members](#number-of-members)
+
+
+### UTI classification
+
+This table shows the OCs in the UCC grouped by their [UTI value](/faq/#what-is-the-uti-parameter).
+
+<!-- Begin table 1 -->
+
+| UTI |  N  | UTI |  N  |
+| :--: | :-: | :--: | :-: |
+| == 0.0 | [893](/tables/UTI0_table) | (0.0, 0.1] | [4698](/tables/UTI1_table) |
+ (0.1, 0.2] | [3053](/tables/UTI2_table) |  (0.2, 0.3] | [2099](/tables/UTI3_table) |
+ (0.3, 0.4] | [1386](/tables/UTI4_table) |  (0.4, 0.5] | [1115](/tables/UTI5_table) |
+ (0.5, 0.6] | [938](/tables/UTI6_table) |  (0.6, 0.7] | [709](/tables/UTI7_table) |
+ (0.7, 0.8] | [554](/tables/UTI8_table) |  (0.8, 0.9] | [570](/tables/UTI9_table) |
+| 0.9 < | [573](/tables/UTI10_table) | -- | -- |
+
+<!-- End table 1 -->
 
 
 ### C3 classification
