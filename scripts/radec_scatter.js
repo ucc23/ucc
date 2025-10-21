@@ -1,7 +1,8 @@
-
 import { loadCompressedCsv } from "./loadCSV.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
+    const data = await loadCompressedCsv("../../assets/");
+
     // Retrieve center data from the HTML
     const plotContainer = document.getElementById("plot-container");
     const plotParamsElem = document.getElementById("plot-params");
@@ -23,14 +24,10 @@ document.addEventListener("DOMContentLoaded", async () => {
         minScatterSize = 0.01;
     }
 
-    const dataUrl = "../../assets/clusters.csv.gz";
-    const columns = ["Name", "fnames", "RA_ICRS", "DE_ICRS", "dist_pc", "r_50"];
-    let points = await loadCompressedCsv(dataUrl, columns);
-
-    // Function to filter points within the current bounds
-    function filterPoints(points, currentXRange, currentYRange, currentDistRange, currentNmax) {
-        // Filter points within the given bounds
-        const filteredPoints = points.filter(point => 
+    // Function to filter data within the current bounds
+    function filterPoints(data, currentXRange, currentYRange, currentDistRange, currentNmax) {
+        // Filter data within the given bounds
+        const filteredPoints = data.filter(point => 
             point.RA_ICRS >= currentXRange[0] && point.RA_ICRS <= currentXRange[1] &&
             point.DE_ICRS >= currentYRange[0] && point.DE_ICRS <= currentYRange[1] &&
             point.dist_pc >= ocDistpc - currentDistRange && point.dist_pc <= ocDistpc + currentDistRange
@@ -96,7 +93,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Function to update plot based on current parameters
     function updatePlot(currentXRange, currentYRange, currentDistRange, currentNmax) {
-        const filteredPoints = filterPoints(points, currentXRange, currentYRange, currentDistRange, currentNmax);
+        const filteredPoints = filterPoints(data, currentXRange, currentYRange, currentDistRange, currentNmax);
         const plotData = getPlotData(filteredPoints, currentXRange, currentYRange);
         Plotly.react(plotContainer, plotData, layout);
     }
@@ -110,7 +107,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const initialYRange = [...yRange];
 
     // Filter and plot the initial data
-    const filteredPoints = filterPoints(points, xRange, yRange, distRange, Nmax);
+    const filteredPoints = filterPoints(data, xRange, yRange, distRange, Nmax);
     const plotData = getPlotData(filteredPoints, xRange, yRange);
 
     // Plot layout
