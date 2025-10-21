@@ -16,9 +16,9 @@ export function setupCoordToggle({
   };
 
   const radius_placeholders = {
-    names: "Radius [string]",
-    equ: "Radius [arcmin]",
-    gal: "Radius [arcmin]"
+    names: "Max dist [string]",
+    equ: "Max dist [arcmin]",
+    gal: "Max dist [arcmin]"
   };
 
   let index = 0;
