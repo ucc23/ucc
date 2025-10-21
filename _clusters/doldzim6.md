@@ -1,97 +1,49 @@
 ---
 layout: post
-title:  Dol-Dzim 6
+title: Dol Dzim 6
+style: style
+title_flag: true
+more_names: 
+fname: doldzim6
+fov: 0.263
+ra_icrs: 251.41318
+de_icrs: 38.35176
+glon: 61.59356
+glat: 40.32711
+r50: 7.9
+plx: 0.1319
+UTI: "0.18"
+UTI_COLOR: "#f9c8bb"
+UTI_C_N_COL: "#fdd7c3"
+UTI_C_dens_COL: "#e3a9b3"
+UTI_C_C3_COL: "#f3bab5"
+UTI_C_lit_COL: "#fdd7c3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.25
+UTI_C_dens: 0.02
+UTI_C_C3: 0.12
+UTI_C_lit: 0.25
+UTI_C_dup: 1.0
+UTI_summary: |
+    Dol Dzim 6 is a poorly populated, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 13 years.
+class3: |
+    <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 7.9
+N_50_val: 25
+scix_url: Dol%20Dzim%206
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 251.35 | 38.35 | -- | 9.51 | 2.86 | -46.1 |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 251.377 | 38.36 | -- | -2.19 | -6.88 | -- |
+    | **UCC** |251.413 | 38.352 | 0.132 | -1.887 | -2.368 | -- | 
+cds_radec: 251.41318,+38.35176
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=820.0, Age=9.7` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=946, log_age=9.45` |
+shared_table: |
+    
 ---
-<h3><span style="color: #808080;"><i>(Dol Dzim 6)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/doldzim6.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.263" 
-     data-target="251.413 38.352"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G061.5+40.3</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">25</td>
-    <td style="text-align: center;">7.9</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Dol-Dzim%206%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=doldzim6" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 251.35 | 38.35 | -- | 9.51 | 2.86 | -46.1 |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 251.377 | 38.36 | -- | -2.19 | -6.88 | -- |
-| **UCC** |251.413 | 38.352 | 0.132 | -1.887 | -2.368 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=251.413,+38.352" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=251.413%2038.352&output=json&radius=5&userEntry=doldzim6" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/doldzim6.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/doldzim6.webp" alt="Dol-Dzim 6 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=820.0, Age=9.7` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=946, log_age=9.45` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=61.594%20&lat=40.327&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="doldzim6"
-         data-ra-center="251.38"
-         data-dec-center="38.36"
-         data-rad-deg="7.9"
-         data-plx="0.132">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

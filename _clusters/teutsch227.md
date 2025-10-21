@@ -1,97 +1,48 @@
 ---
 layout: post
-title:  Teutsch 227
+title: Teutsch 227
+style: style
+title_flag: true
+more_names: 
+fname: teutsch227
+fov: 0.167
+ra_icrs: 167.48847
+de_icrs: -60.31088
+glon: 290.68736
+glat: 0.11443
+r50: 5.0
+plx: 0.3657
+UTI: "0.15"
+UTI_COLOR: "#f6c1b8"
+UTI_C_N_COL: "#fff5d8"
+UTI_C_dens_COL: "#fcfee5"
+UTI_C_C3_COL: "#ffffe8"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#fefee7"
+UTI_C_N: 0.41
+UTI_C_dens: 0.52
+UTI_C_C3: 0.5
+UTI_C_lit: 0.0
+UTI_C_dup: 0.51
+UTI_summary: |
+    Teutsch 227 is a poorly populated, moderately dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 5.0
+N_50_val: 41
+scix_url: Teutsch%20227
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 167.314 | -60.312 | -- | -- | -- | -- |
+    | **UCC** |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 | 
+cds_radec: 167.48847,-60.31088
+carousel: UCC
+fpars_table: |
+    
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.95 |
+    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.77 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/teutsch227.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.167" 
-     data-target="167.488 -60.311"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G290.6+00.0</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">41</td>
-    <td style="text-align: center;">5.0</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%20227%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch227" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 167.314 | -60.312 | -- | -- | -- | -- |
-| **UCC** |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=167.488,-60.311" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=167.488%20-60.311&output=json&radius=5&userEntry=teutsch227" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/teutsch227.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/teutsch227.webp" alt="Teutsch 227 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=290.687%20&lat=0.114&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="teutsch227"
-         data-ra-center="167.31"
-         data-dec-center="-60.31"
-         data-rad-deg="5.0"
-         data-plx="0.366">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.655 | -60.311 | 0.381 | -6.245 | 1.904 | -4.918 |
-|[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.679 | -60.406 | 0.391 | -6.205 | 1.787 | -10.868 |

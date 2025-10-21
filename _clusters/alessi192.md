@@ -1,100 +1,47 @@
 ---
 layout: post
-title:  Alessi 192
+title: Alessi 192
+style: style
+title_flag: true
+more_names: 
+fname: alessi192
+fov: 0.237
+ra_icrs: 112.97635
+de_icrs: -20.34208
+glon: 235.55965
+glat: -0.69328
+r50: 7.1
+plx: 0.2237
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
+UTI_C_N_COL: "#e0a6b3"
+UTI_C_dens_COL: "#e4aab3"
+UTI_C_C3_COL: "#f3bab5"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.03
+UTI_C_C3: 0.12
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    Alessi 192 is a sparse, very loose object of very low C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years. This object shares a small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+class3: |
+    <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 7.1
+N_50_val: 14
+scix_url: Alessi%20192
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 112.974 | -20.372 | -- | -- | -- | -- |
+    | **UCC** |112.976 | -20.342 | 0.224 | -1.078 | 2.454 | -- | 
+cds_radec: 112.97635,-20.34208
+carousel: UCC
+fpars_table: |
+    
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWNU 3443](/_clusters/cwnu3443/)| 20.0 | 112.87 | -20.41 | 0.22 | -1.12 | 2.18 | -- |0.24 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/alessi192.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.237" 
-     data-target="112.976 -20.342"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G235.5-00.7</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">14</td>
-    <td style="text-align: center;">7.1</td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Alessi%20192%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=alessi192" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 112.974 | -20.372 | -- | -- | -- | -- |
-| **UCC** |112.976 | -20.342 | 0.224 | -1.078 | 2.454 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=112.976,-20.342" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=112.976%20-20.342&output=json&radius=5&userEntry=alessi192" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/alessi192.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/alessi192.webp" alt="Alessi 192 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=235.56%20&lat=-0.693&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="alessi192"
-         data-ra-center="112.97"
-         data-dec-center="-20.37"
-         data-rad-deg="7.1"
-         data-plx="0.224">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 3443](/_clusters/cwnu3443/)| 20.0 | 112.872 | -20.414 | 0.218 | -1.122 | 2.175 | -- |

@@ -1,120 +1,55 @@
 ---
 layout: post
-title:  Theia 900
+title: Theia 900
+style: style
+title_flag: true
+more_names: 
+fname: theia900
+fov: 0.437
+ra_icrs: 37.30568
+de_icrs: 59.1409
+glon: 135.16972
+glat: -1.39945
+r50: 13.1
+plx: 1.1084
+UTI: "0.49"
+UTI_COLOR: "#fffee7"
+UTI_C_N_COL: "#fee4c9"
+UTI_C_dens_COL: "#fcfee5"
+UTI_C_C3_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.31
+UTI_C_dens: 0.52
+UTI_C_C3: 0.62
+UTI_C_lit: 0.5
+UTI_C_dup: 1.0
+UTI_summary: |
+    Theia 900 is a somewhat close, poorly populated, moderately dense object of intermediate C3 quality. It was recently reported but it is moderately studied in the literature.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 13.1
+N_50_val: 31
+scix_url: Theia%20900
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 37.237 | 59.308 | 1.106 | 3.539 | -2.826 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 37.625 | 59.052 | 1.109 | 3.563 | -2.874 | -10.189 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 37.288 | 59.094 | 1.118 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 37.625 | 59.052 | 1.109 | 3.563 | -2.874 | -10.189 |
+    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 37.288 | 59.094 | -- | -- | -- | -- |
+    | **UCC** |37.306 | 59.141 | 1.108 | 3.578 | -2.873 | -8.135 | 
+cds_radec: 37.30568,+59.1409
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.1, logAge=8.45` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.483, diffAV50=1.548, MOD50=9.647, logAge50=8.522` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.71, dMod50=9.64, logAge50=8.73, [Fe/H]50=-0.1` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=92.9923` |
+    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.08, MA23f=-0.18, MZ23=0.08, MK24=-0.09, MF24=-0.12` |
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/aladin/theia900.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.437" 
-     data-target="37.306 59.141"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G135.3-01.4</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">31</td>
-    <td style="text-align: center;">13.1</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Theia%20900%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=theia900" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 37.237 | 59.308 | 1.106 | 3.539 | -2.826 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 37.625 | 59.052 | 1.109 | 3.563 | -2.874 | -10.189 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 37.288 | 59.094 | 1.118 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 37.625 | 59.052 | 1.109 | 3.563 | -2.874 | -10.189 |
-|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 37.288 | 59.094 | -- | -- | -- | -- |
-| **UCC** |37.306 | 59.141 | 1.108 | 3.578 | -2.873 | -8.135 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=37.306,+59.141" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=37.306%2059.141&output=json&radius=5&userEntry=theia900" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/theia900.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/theia900.webp" alt="Theia 900 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/theia900.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/theia900.webp" alt="Theia 900 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=2.1, logAge=8.45` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.483, diffAV50=1.548, MOD50=9.647, logAge50=8.522` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.71, dMod50=9.64, logAge50=8.73, [Fe/H]50=-0.1` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=92.9923` |
-| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.08, MA23f=-0.18, MZ23=0.08, MK24=-0.09, MF24=-0.12` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=135.17%20&lat=-1.399&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="theia900"
-         data-ra-center="37.62"
-         data-dec-center="59.05"
-         data-rad-deg="13.1"
-         data-plx="1.108">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

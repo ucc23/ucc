@@ -1,99 +1,51 @@
 ---
 layout: post
-title:  Loden 807
+title: Loden 807
+style: style
+title_flag: true
+more_names: 
+fname: loden807
+fov: 0.15
+ra_icrs: 201.14876
+de_icrs: -62.51922
+glon: 306.73987
+glat: 0.11284
+r50: 4.5
+plx: 0.3103
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
+UTI_C_N_COL: "#fee2c7"
+UTI_C_dens_COL: "#feeace"
+UTI_C_C3_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.3
+UTI_C_dens: 0.34
+UTI_C_C3: 0.25
+UTI_C_lit: 0.33
+UTI_C_dup: 1.0
+UTI_summary: |
+    Loden 807 is a poorly populated, loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 8 years.
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 4.5
+N_50_val: 30
+scix_url: Loden%20807
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 201.167 | -62.483 | -- | -7.55 | -3.61 | -0.1 |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 201.157 | -62.495 | -- | -6.5 | -0.5 | -- |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 201.165 | -62.483 | -- | -9.648 | 1.596 | -0.1 |
+    | **UCC** |201.149 | -62.519 | 0.31 | -8.001 | -2.089 | 5.746 | 
+cds_radec: 201.14876,-62.51922
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=925.0, Age=8.3, [Fe/H]=-0.19` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.2, distance=703, log_age=8.3` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.31, Dmod=10.842, logt=8.6` |
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/loden807.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.15" 
-     data-target="201.149 -62.519"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G306.7+00.1</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">30</td>
-    <td style="text-align: center;">4.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Loden%20807%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=loden807" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 201.167 | -62.483 | -- | -7.55 | -3.61 | -0.1 |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 201.157 | -62.495 | -- | -6.5 | -0.5 | -- |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 201.165 | -62.483 | -- | -9.648 | 1.596 | -0.1 |
-| **UCC** |201.149 | -62.519 | 0.31 | -8.001 | -2.089 | 5.746 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=201.149,-62.519" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=201.149%20-62.519&output=json&radius=5&userEntry=loden807" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/loden807.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/loden807.webp" alt="Loden 807 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=925.0, Age=8.3, [Fe/H]=-0.19` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.2, distance=703, log_age=8.3` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=1.31, Dmod=10.842, logt=8.6` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=306.74%20&lat=0.113&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="loden807"
-         data-ra-center="201.16"
-         data-dec-center="-62.49"
-         data-rad-deg="4.5"
-         data-plx="0.31">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

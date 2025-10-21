@@ -1,104 +1,51 @@
 ---
 layout: post
-title:  OCSN 13
+title: OCSN 13
+style: style
+title_flag: true
+more_names: 
+fname: ocsn13
+fov: 0.58
+ra_icrs: 291.74635
+de_icrs: 21.10658
+glon: 55.66864
+glat: 2.06874
+r50: 17.4
+plx: 2.00235
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
+UTI_C_N_COL: "#cbe9c9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#f2f9d6"
+UTI_C_N: 0.79
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.0
+UTI_C_dup: 0.6
+UTI_summary: |
+    OCSN 13 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 17.4
+N_50_val: 210
+scix_url: OCSN%2013
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 291.75 | 21.1 | 2.0 | 1.43 | -6.47 | -10.37 |
+    | **UCC** |291.746 | 21.107 | 2.002 | 1.546 | -6.639 | -10.02 | 
+cds_radec: 291.74635,+21.10658
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.15, m-M=8.87, logt=6.9` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OC 0083](/_clusters/oc0083/)| 40.5 | 291.76 | 21.1 | 1.99 | 1.58 | -6.74 | -8.47 |0.54 |
+    |[OC 0081](/_clusters/oc0081/)| 23.3 | 291.8 | 20.88 | 2.01 | 1.65 | -6.78 | -11.01 |0.5 |
+    |[Theia 38](/_clusters/theia38/)| 11.9 | 291.82 | 21.14 | 2.02 | 1.23 | -6.4 | 19.11 |0.0 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/ocsn13.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.58" 
-     data-target="291.746 21.107"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G055.6+02.0</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">210</td>
-    <td style="text-align: center;">17.4</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OCSN%2013%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ocsn13" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 291.75 | 21.1 | 2.0 | 1.43 | -6.47 | -10.37 |
-| **UCC** |291.746 | 21.107 | 2.002 | 1.546 | -6.639 | -10.02 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=291.746,+21.107" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=291.746%2021.107&output=json&radius=5&userEntry=ocsn13" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/ocsn13.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/ocsn13.webp" alt="OCSN 13 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.15, m-M=8.87, logt=6.9` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=55.669%20&lat=2.069&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ocsn13"
-         data-ra-center="291.75"
-         data-dec-center="21.1"
-         data-rad-deg="17.4"
-         data-plx="2.002">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0083](/_clusters/oc0083/)| 40.5 | 291.755 | 21.103 | 1.994 | 1.584 | -6.737 | -8.473 |
-|[OC 0081](/_clusters/oc0081/)| 23.3 | 291.803 | 20.882 | 2.015 | 1.653 | -6.781 | -11.01 |
-|[Theia 38](/_clusters/theia38/)| 11.9 | 291.815 | 21.143 | 2.02 | 1.228 | -6.402 | 19.114 |

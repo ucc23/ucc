@@ -1,129 +1,57 @@
 ---
 layout: post
-title:  Gulliver 58
+title: Gulliver 58
+style: style
+title_flag: true
+more_names: FoF 426
+fname: gulliver58
+fov: 0.153
+ra_icrs: 191.51569
+de_icrs: -61.96738
+glon: 302.30107
+glat: 0.8973
+r50: 4.6
+plx: 0.4127
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
+UTI_C_N_COL: "#b4ddc3"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.88
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.62
+UTI_C_dup: 1.0
+UTI_summary: |
+    Gulliver 58 is a rich, very dense object of high C3 quality. It is moderately studied in the literature.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 4.6
+N_50_val: 436
+scix_url: Gulliver%2058
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 191.521 | -61.969 | 0.396 | -3.578 | -0.334 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 191.515 | -61.965 | 0.398 | -3.592 | -0.353 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 191.504 | -61.972 | 0.395 | -3.586 | -0.358 | 9.86 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 191.535 | -61.964 | 0.417 | -3.626 | -0.348 | 9.816 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 191.504 | -61.969 | 0.415 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 191.535 | -61.964 | 0.417 | -3.626 | -0.348 | 9.816 |
+    | **UCC** |191.516 | -61.967 | 0.413 | -3.633 | -0.35 | -4.028 | 
+cds_radec: 191.51569,-61.96738
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.813, Z=0.5` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.76, DMNN=11.97, AgeNN=8.82` |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.24, Dist=2284, logage=8.702, [Fe/H]=0.257` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.95, diffAV50=2.689, MOD50=11.736, logAge50=8.126` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.82, dMod50=11.43, logAge50=8.61, [Fe/H]50=0.15` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=3213.01` |
+shared_table: |
+    
 ---
-<h3><span style="color: #808080;"><i>(FoF 426)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/gulliver58.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.153" 
-     data-target="191.516 -61.967"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G302.3+00.9</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">436</td>
-    <td style="text-align: center;">4.6</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Gulliver%2058%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=gulliver58" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 191.521 | -61.969 | 0.396 | -3.578 | -0.334 | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 191.515 | -61.965 | 0.398 | -3.592 | -0.353 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 191.504 | -61.972 | 0.395 | -3.586 | -0.358 | 9.86 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 191.535 | -61.964 | 0.417 | -3.626 | -0.348 | 9.816 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 191.504 | -61.969 | 0.415 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 191.535 | -61.964 | 0.417 | -3.626 | -0.348 | 9.816 |
-| **UCC** |191.516 | -61.967 | 0.413 | -3.633 | -0.35 | -4.028 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=191.516,-61.967" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=191.516%20-61.967&output=json&radius=5&userEntry=gulliver58" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/gulliver58.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/gulliver58.webp" alt="Gulliver 58 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/gulliver58.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/gulliver58.webp" alt="Gulliver 58 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/CANTAT20/gulliver58.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/CANTAT20/gulliver58.webp" alt="Gulliver 58 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.813, Z=0.5` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.76, DMNN=11.97, AgeNN=8.82` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=3.24, Dist=2284, logage=8.702, [Fe/H]=0.257` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=3.95, diffAV50=2.689, MOD50=11.736, logAge50=8.126` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=3.82, dMod50=11.43, logAge50=8.61, [Fe/H]50=0.15` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=3213.01` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=302.301%20&lat=0.897&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="gulliver58"
-         data-ra-center="191.51"
-         data-dec-center="-61.97"
-         data-rad-deg="4.6"
-         data-plx="0.413">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

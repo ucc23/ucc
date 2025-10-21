@@ -1,141 +1,64 @@
 ---
 layout: post
-title:  UBC 32
+title: UBC 32
+style: style
+title_flag: true
+more_names: 
+fname: ubc32
+fov: 1.517
+ra_icrs: 279.20936
+de_icrs: -14.12612
+glon: 18.67656
+glat: -3.2217
+r50: 45.5
+plx: 3.5448
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
+UTI_C_N_COL: "#cbe9c9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#bce1c5"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.79
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.85
+UTI_C_dup: 1.0
+UTI_summary: |
+    UBC 32 is a relatively close, rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 45.5
+N_50_val: 214
+scix_url: UBC%2032
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Castro-Ginard et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..59C) | 279.436 | -14.047 | 3.562 | -1.753 | -9.265 | -21.58 |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 279.424 | -14.049 | -- | -- | -- | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 279.312 | -14.096 | 3.563 | -1.768 | -9.279 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 279.249 | -14.268 | 3.552 | -1.745 | -9.42 | -- |
+    |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 279.265 | -14.078 | 3.567 | -1.762 | -9.309 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 279.322 | -14.003 | 3.498 | -1.808 | -9.229 | -19.725 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 279.299 | -14.146 | 3.512 | -1.767 | -9.364 | -- |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 279.454 | -14.08 | 3.507 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 279.322 | -14.003 | 3.498 | -1.808 | -9.229 | -19.725 |
+    | **UCC** |279.209 | -14.126 | 3.545 | -1.797 | -9.309 | -22.107 | 
+cds_radec: 279.20936,-14.12612
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.55, DMNN=7.24, AgeNN=8.14` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.25, logAge=7.9` |
+    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=278, logAgeNN=8.15` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.026, diffAV50=1.576, MOD50=7.198, logAge50=7.886` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.55022, MOD=7.23902, logAge=8.32704, Z=0.01087` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.47, dMod50=7.31, logAge50=7.88, [Fe/H]50=0.1` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=382.661` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OCSN 288](/_clusters/ocsn288/)| 98.6 | 279.21 | -14.15 | 3.54 | -1.78 | -9.31 | -22.13 |0.12 |
+    |[UPK 19](/_clusters/upk19/)| 70.6 | 279.25 | -14.18 | 3.54 | -1.78 | -9.32 | -22.43 |0.0 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/aladin/ubc32.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="1.517" 
-     data-target="279.209 -14.126"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G018.7-03.3a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">214</td>
-    <td style="text-align: center;">45.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UBC%2032%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ubc32" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Castro-Ginard et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..59C) | 279.436 | -14.047 | 3.562 | -1.753 | -9.265 | -21.58 |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 279.424 | -14.049 | -- | -- | -- | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 279.312 | -14.096 | 3.563 | -1.768 | -9.279 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 279.265 | -14.078 | 3.567 | -1.762 | -9.309 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 279.249 | -14.268 | 3.552 | -1.745 | -9.42 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 279.322 | -14.003 | 3.498 | -1.808 | -9.229 | -19.725 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 279.454 | -14.08 | 3.507 | -- | -- | -- |
-|[Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | 279.299 | -14.146 | 3.512 | -1.767 | -9.364 | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 279.322 | -14.003 | 3.498 | -1.808 | -9.229 | -19.725 |
-| **UCC** |279.209 | -14.126 | 3.545 | -1.797 | -9.309 | -22.107 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=279.209,-14.126" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=279.209%20-14.126&output=json&radius=5&userEntry=ubc32" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/ubc32.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/ubc32.webp" alt="UBC 32 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/ubc32.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/ubc32.webp" alt="UBC 32 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/CANTAT20/ubc32.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/CANTAT20/ubc32.webp" alt="UBC 32 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.55, DMNN=7.24, AgeNN=8.14` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=278, logAgeNN=8.15` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=1.25, logAge=7.9` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.026, diffAV50=1.576, MOD50=7.198, logAge50=7.886` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.47, dMod50=7.31, logAge50=7.88, [Fe/H]50=0.1` |
-| [Alfonso et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..18A) | `AV=0.55022, MOD=7.23902, logAge=8.32704, Z=0.01087` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=382.661` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=18.677%20&lat=-3.222&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ubc32"
-         data-ra-center="279.31"
-         data-dec-center="-14.1"
-         data-rad-deg="45.5"
-         data-plx="3.545">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 288](/_clusters/ocsn288/)| 98.6 | 279.21 | -14.155 | 3.537 | -1.78 | -9.315 | -22.13 |
-|[UPK 19](/_clusters/upk19/)| 70.6 | 279.248 | -14.182 | 3.54 | -1.777 | -9.32 | -22.43 |

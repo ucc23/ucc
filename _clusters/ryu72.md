@@ -1,89 +1,45 @@
 ---
 layout: post
-title:  Ryu 72
+title: Ryu 72
+style: style
+title_flag: true
+more_names: 
+fname: ryu72
+fov: 0.063
+ra_icrs: 253.15183
+de_icrs: -47.94314
+glon: 338.54869
+glat: -2.47543
+r50: 1.9
+plx: 0.0764
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
+UTI_C_N_COL: "#fee4c9"
+UTI_C_dens_COL: "#f3bab5"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.31
+UTI_C_dens: 0.12
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    Ryu 72 is a poorly populated, very loose object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 1.9
+N_50_val: 31
+scix_url: Ryu%2072
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 253.152 | -47.942 | -- | -- | -- | -- |
+    | **UCC** |253.152 | -47.943 | 0.076 | -4.679 | -5.63 | -- | 
+cds_radec: 253.15183,-47.94314
+carousel: UCC
+fpars_table: |
+    
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/aladin/ryu72.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.063" 
-     data-target="253.152 -47.943"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G338.5-02.4</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">31</td>
-    <td style="text-align: center;">1.9</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Ryu%2072%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ryu72" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 253.152 | -47.942 | -- | -- | -- | -- |
-| **UCC** |253.152 | -47.943 | 0.076 | -4.679 | -5.629 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=253.152,-47.943" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=253.152%20-47.943&output=json&radius=5&userEntry=ryu72" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/ryu72.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/ryu72.webp" alt="Ryu 72 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=338.549%20&lat=-2.475&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ryu72"
-         data-ra-center="253.15"
-         data-dec-center="-47.94"
-         data-rad-deg="1.9"
-         data-plx="0.076">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

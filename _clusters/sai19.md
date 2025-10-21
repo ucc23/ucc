@@ -1,98 +1,49 @@
 ---
 layout: post
-title:  SAI 19
+title: SAI 19
+style: style
+title_flag: true
+more_names: 
+fname: sai19
+fov: 0.063
+ra_icrs: 36.6453
+de_icrs: 62.00101
+glon: 133.84842
+glat: 1.1593
+r50: 1.9
+plx: 0.4778
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
+UTI_C_N_COL: "#d4edca"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.75
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    SAI 19 is a rich, very dense object of very high C3 quality. It is rarely studied in the literature, with no articles listed in the last 15 years. This object shares a large percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 1.9
+N_50_val: 111
+scix_url: SAI%2019
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 36.633 | 61.992 | -- | -- | -- | -- |
+    | **UCC** |36.645 | 62.001 | 0.478 | -0.696 | -0.119 | -27.121 | 
+cds_radec: 36.6453,+62.00101
+carousel: UCC
+fpars_table: |
+    
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MWSC0 192](/_clusters/mwsc0192/)| 87.4 | 36.65 | 62.0 | 0.48 | -0.69 | -0.14 | -24.58 |0.03 |
+    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 81.1 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.01 |
+    |[CWNU 3691](/_clusters/cwnu3691/)| 47.7 | 36.65 | 62.0 | 0.47 | -0.69 | -0.06 | -21.84 |0.02 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/aladin/sai19.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.063" 
-     data-target="36.645 62.001"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G133.8+01.1c</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">111</td>
-    <td style="text-align: center;">1.9</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22SAI%2019%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=sai19" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Glushkova et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010AstL...36...75G) | 36.633 | 61.992 | -- | -- | -- | -- |
-| **UCC** |36.645 | 62.001 | 0.478 | -0.696 | -0.12 | -27.121 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=36.645,+62.001" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=36.645%2062.001&output=json&radius=5&userEntry=sai19" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/sai19.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/sai19.webp" alt="SAI 19 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=133.848%20&lat=1.159&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="sai19"
-         data-ra-center="36.63"
-         data-dec-center="61.99"
-         data-rad-deg="1.9"
-         data-plx="0.478">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[MWSC0 192](/_clusters/mwsc0192/)| 87.4 | 36.65 | 62.002 | 0.478 | -0.689 | -0.139 | -24.583 |
-|[IRAS 02232+6138](/_clusters/iras02232p6138/)| 81.1 | 36.645 | 62.0 | 0.484 | -0.685 | -0.131 | -24.583 |
-|[CWNU 3691](/_clusters/cwnu3691/)| 47.7 | 36.645 | 62.003 | 0.468 | -0.695 | -0.062 | -21.841 |

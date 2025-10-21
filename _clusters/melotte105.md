@@ -1,144 +1,67 @@
 ---
 layout: post
-title:  Melotte 105
+title: Melotte 105
+style: style
+title_flag: true
+more_names: Collinder 246; VDBH 117; ESO 093 07; FSR 1587; OCL 856; vdBergh-Hagen 117; MWSC 1933; FoF 133
+fname: melotte105
+fov: 0.093
+ra_icrs: 169.92198
+de_icrs: -63.48478
+glon: 292.90274
+glat: -2.41469
+r50: 2.8
+plx: 0.41905
+UTI: "1.0"
+UTI_COLOR: "#a6cab9"
+UTI_C_N_COL: "#a6cab9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#a6cab9"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 1.0
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 1.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    Melotte 105 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 2.8
+N_50_val: 788
+scix_url: Melotte%20105
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 169.925 | -63.483 | -- | -6.3 | 0.11 | 0.4 |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 169.92 | -63.475 | -- | -5.93 | 1.69 | -- |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 169.92 | -63.482 | -- | -6.3 | 0.11 | 0.4 |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 169.918 | -63.48 | -- | -- | -- | -- |
+    |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 169.918 | -63.486 | 0.419 | -6.766 | 2.136 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 169.92 | -63.486 | 0.407 | -6.771 | 2.133 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 169.915 | -63.488 | 0.415 | -6.766 | 2.152 | 16.916 |
+    |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 169.92 | -63.487 | 0.436 | -6.764 | 2.144 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 169.917 | -63.484 | 0.424 | -6.771 | 2.175 | 8.173 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 169.916 | -63.488 | 0.424 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 169.917 | -63.484 | 0.424 | -6.771 | 2.175 | 8.173 |
+    | **UCC** |169.922 | -63.485 | 0.419 | -6.774 | 2.167 | 1.248 | 
+cds_radec: 169.92198,-63.48478
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.83, Dist=1715.0, Age=8.55, [Fe/H]=0.08` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=2202, log_age=8.375` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.502, Dmod=11.71, logt=8.29` |
+    | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.275, Z=0.25` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.42, DMNN=11.85, AgeNN=8.48` |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.506, Dist=1965, logage=8.576, [Fe/H]=-0.1` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.228, diffAV50=1.007, MOD50=11.71, logAge50=8.461` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=11.82, logAge50=8.69, [Fe/H]50=0.36` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=3595.19` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OC 0564](/_clusters/oc0564/)| 5.7 | 169.91 | -63.48 | 0.47 | -6.73 | 2.17 | -- |0.0 |
 ---
-<h3><span style="color: #808080;"><i>(Collinder 246; OCL 856; VDBH 117; vdBergh-Hagen 117; ESO 093 07; FSR 1587; MWSC 1933; FoF 133)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/aladin/melotte105.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.093" 
-     data-target="169.922 -63.485"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G292.9-02.4a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">788</td>
-    <td style="text-align: center;">2.8</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Melotte%20105%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=melotte105" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 169.925 | -63.483 | -- | -6.3 | 0.11 | 0.4 |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 169.92 | -63.475 | -- | -5.93 | 1.69 | -- |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 169.92 | -63.482 | -- | -6.3 | 0.11 | 0.4 |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 169.918 | -63.48 | -- | -- | -- | -- |
-|[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 169.918 | -63.486 | 0.419 | -6.766 | 2.136 | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 169.92 | -63.486 | 0.407 | -6.771 | 2.133 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 169.915 | -63.488 | 0.415 | -6.766 | 2.152 | 16.916 |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 169.92 | -63.487 | 0.436 | -6.764 | 2.144 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 169.917 | -63.484 | 0.424 | -6.771 | 2.175 | 8.173 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 169.916 | -63.488 | 0.424 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 169.917 | -63.484 | 0.424 | -6.771 | 2.175 | 8.173 |
-| **UCC** |169.922 | -63.485 | 0.419 | -6.774 | 2.167 | 1.248 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=169.922,-63.485" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=169.922%20-63.485&output=json&radius=5&userEntry=melotte105" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/melotte105.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/melotte105.webp" alt="Melotte 105 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/melotte105.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/melotte105.webp" alt="Melotte 105 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/CANTAT20/melotte105.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/CANTAT20/melotte105.webp" alt="Melotte 105 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.83, Dist=1715.0, Age=8.55, [Fe/H]=0.08` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=2202, log_age=8.375` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.502, Dmod=11.71, logt=8.29` |
-| [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=0.275, Z=0.25` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=1.42, DMNN=11.85, AgeNN=8.48` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.506, Dist=1965, logage=8.576, [Fe/H]=-0.1` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.228, diffAV50=1.007, MOD50=11.71, logAge50=8.461` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=11.82, logAge50=8.69, [Fe/H]50=0.36` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=3595.19` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=292.903%20&lat=-2.415&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="melotte105"
-         data-ra-center="169.92"
-         data-dec-center="-63.49"
-         data-rad-deg="2.8"
-         data-plx="0.419">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OC 0564](/_clusters/oc0564/)| 5.7 | 169.911 | -63.482 | 0.469 | -6.729 | 2.165 | -- |

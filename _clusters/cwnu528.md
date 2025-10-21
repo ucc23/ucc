@@ -1,108 +1,49 @@
 ---
 layout: post
-title:  CWNU 528
+title: CWNU 528
+style: style
+title_flag: true
+more_names: 
+fname: cwnu528
+fov: 0.84
+ra_icrs: 110.27783
+de_icrs: -36.51962
+glon: 248.86149
+glat: -10.3228
+r50: 25.2
+plx: 2.4116
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
+UTI_C_N_COL: "#fdd7c3"
+UTI_C_dens_COL: "#fafde1"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#fdd7c3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.25
+UTI_C_dens: 0.54
+UTI_C_C3: 0.75
+UTI_C_lit: 0.25
+UTI_C_dup: 1.0
+UTI_summary: |
+    CWNU 528 is a relatively close, poorly populated, moderately dense object of high C3 quality. It was recently reported in the literature.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 25.2
+N_50_val: 25
+scix_url: CWNU%20528
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 110.242 | -36.554 | 2.37 | -5.82 | 6.37 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 108.038 | -34.192 | 2.433 | -5.536 | 6.403 | -- |
+    | **UCC** |110.278 | -36.52 | 2.412 | -5.893 | 6.362 | 12.079 | 
+cds_radec: 110.27783,-36.51962
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.1, m-M=7.8, logAge=7.7, Z=0.022` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.5` |
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/cwnu528.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="1.943" 
-     data-target="108.573 -35.027"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G247.3-10.6</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">20</td>
-    <td style="text-align: center;">58.3</td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWNU%20528%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwnu528" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 110.242 | -36.554 | 2.37 | -5.82 | 6.37 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 108.038 | -34.192 | 2.433 | -5.536 | 6.403 | -- |
-| **UCC** |108.573 | -35.027 | 2.426 | -5.669 | 6.402 | 20.419 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=108.573,-35.027" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=108.573%20-35.027&output=json&radius=5&userEntry=cwnu528" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwnu528.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwnu528.webp" alt="CWNU 528 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=0.1, m-M=7.8, logAge=7.7, Z=0.022` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.5` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=246.84%20&lat=-10.758&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="cwnu528"
-         data-ra-center="109.14"
-         data-dec-center="-35.37"
-         data-rad-deg="58.3"
-         data-plx="2.426">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 82](/_clusters/ocsn82/)| 84.0 | 107.92 | -34.018 | 2.42 | -5.455 | 6.448 | 18.285 |

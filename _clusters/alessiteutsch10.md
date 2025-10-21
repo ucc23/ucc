@@ -1,128 +1,58 @@
 ---
 layout: post
-title:  Alessi-Teutsch 10
+title: Alessi Teutsch 10
+style: style
+title_flag: true
+more_names: 
+fname: alessiteutsch10
+fov: 0.56
+ra_icrs: 56.43429
+de_icrs: 29.82245
+glon: 162.28115
+glat: -19.40994
+r50: 16.8
+plx: 2.4942
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
+UTI_C_N_COL: "#dbf0ca"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#ffffe8"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.72
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.5
+UTI_C_dup: 1.0
+UTI_summary: |
+    Alessi Teutsch 10 is a relatively close, moderately populated, very dense object of very high C3 quality. It is moderately studied in the literature. This object shares a large percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 16.8
+N_50_val: 93
+scix_url: Alessi%20Teutsch%2010
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 56.115 | 29.667 | -- | 1.991 | -5.918 | 26.07 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 56.45 | 29.853 | 2.492 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
+    | **UCC** |56.434 | 29.822 | 2.494 | 2.686 | -5.239 | 18.547 | 
+cds_radec: 56.43429,+29.82245
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.42, Dmod=12.74, logt=9.36` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.662, diffAV50=1.251, MOD50=7.923, logAge50=6.534` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.4, dMod50=8.07, logAge50=6.32, [Fe/H]50=-0.45` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=50.9073` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OCSN 284](/_clusters/ocsn284/)| 86.0 | 56.45 | 29.82 | 2.49 | 2.68 | -5.24 | 18.55 |0.0 |
+    |[UBC 19](/_clusters/ubc19/)| 83.9 | 56.44 | 29.82 | 2.47 | 2.66 | -5.23 | 17.24 |0.0 |
+    |[OC 0278](/_clusters/oc0278/)| 48.4 | 56.37 | 29.78 | 2.47 | 2.57 | -5.26 | 18.05 |0.0 |
 ---
-<h3><span style="color: #808080;"><i>(Alessi Teutsch 10)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/aladin/alessiteutsch10.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.56" 
-     data-target="56.434 29.822"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G162.2-19.6</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">93</td>
-    <td style="text-align: center;">16.8</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Alessi-Teutsch%2010%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=alessiteutsch10" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 56.108 | 29.667 | -- | 4.85 | -3.35 | 26.07 |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 56.115 | 29.667 | -- | 1.991 | -5.918 | 26.07 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 56.45 | 29.853 | 2.492 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 56.331 | 29.742 | 2.491 | 2.671 | -5.238 | 18.203 |
-| **UCC** |56.434 | 29.822 | 2.494 | 2.686 | -5.239 | 18.547 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=56.434,+29.822" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=56.434%2029.822&output=json&radius=5&userEntry=alessiteutsch10" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/alessiteutsch10.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/alessiteutsch10.webp" alt="Alessi-Teutsch 10 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/alessiteutsch10.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/alessiteutsch10.webp" alt="Alessi-Teutsch 10 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.42, Dmod=12.74, logt=9.36` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.662, diffAV50=1.251, MOD50=7.923, logAge50=6.534` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.4, dMod50=8.07, logAge50=6.32, [Fe/H]50=-0.45` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=50.9073` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=162.281%20&lat=-19.41&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="alessiteutsch10"
-         data-ra-center="56.22"
-         data-dec-center="29.7"
-         data-rad-deg="16.8"
-         data-plx="2.494">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 284](/_clusters/ocsn284/)| 86.0 | 56.448 | 29.825 | 2.49 | 2.68 | -5.242 | 18.547 |
-|[UBC 19](/_clusters/ubc19/)| 83.9 | 56.439 | 29.819 | 2.471 | 2.664 | -5.227 | 17.242 |
-|[OC 0278](/_clusters/oc0278/)| 48.4 | 56.37 | 29.784 | 2.474 | 2.569 | -5.262 | 18.05 |

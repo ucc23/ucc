@@ -1,132 +1,56 @@
 ---
 layout: post
-title:  COIN-Gaia 37
+title: COIN-Gaia 37
+style: style
+title_flag: true
+more_names: 
+fname: coingaia37
+fov: 0.55
+ra_icrs: 45.43934
+de_icrs: 58.26959
+glon: 139.39355
+glat: -0.45177
+r50: 16.5
+plx: 0.9775
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
+UTI_C_N_COL: "#e0a6b3"
+UTI_C_dens_COL: "#f8c5ba"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#eef8d4"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.17
+UTI_C_C3: 0.38
+UTI_C_lit: 0.62
+UTI_C_dup: 1.0
+UTI_summary: |
+    COIN-Gaia 37 is a sparse, very loose object of low C3 quality. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 16.5
+N_50_val: 21
+scix_url: COIN-Gaia%2037
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 45.377 | 58.329 | 0.976 | 0.849 | -2.042 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 44.996 | 58.443 | 0.973 | 0.859 | -2.039 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 45.213 | 58.862 | 0.967 | 0.866 | -2.54 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 45.232 | 58.862 | 0.977 | 0.833 | -2.186 | -45.667 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 45.341 | 58.512 | 0.977 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 45.232 | 58.862 | 0.977 | 0.833 | -2.186 | -45.667 |
+    | **UCC** |45.439 | 58.27 | 0.978 | 0.849 | -2.094 | -51.137 | 
+cds_radec: 45.43934,+58.26959
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.943, Dist=956, logage=7.413, [Fe/H]=0.063` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.5, logAge=7.7` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.917, diffAV50=0.826, MOD50=9.949, logAge50=7.433` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.07, dMod50=10.2, logAge50=7.26, [Fe/H]50=0.43` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=74.1618` |
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/aladin/coingaia37.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.55" 
-     data-target="45.439 58.27"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G139.3-00.3</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">21</td>
-    <td style="text-align: center;">16.5</td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22COIN-Gaia%2037%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=coingaia37" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 45.377 | 58.329 | 0.976 | 0.849 | -2.042 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 44.996 | 58.443 | 0.973 | 0.859 | -2.039 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 45.213 | 58.862 | 0.967 | 0.866 | -2.54 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 45.232 | 58.862 | 0.977 | 0.833 | -2.186 | -45.667 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 45.341 | 58.512 | 0.977 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 45.232 | 58.862 | 0.977 | 0.833 | -2.186 | -45.667 |
-| **UCC** |45.439 | 58.27 | 0.977 | 0.849 | -2.094 | -51.137 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=45.439,+58.27" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=45.439%2058.27&output=json&radius=5&userEntry=coingaia37" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/coingaia37.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/coingaia37.webp" alt="COIN-Gaia 37 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/coingaia37.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/HUNT23/coingaia37.webp" alt="COIN-Gaia 37 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/CANTAT20/coingaia37.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/CANTAT20/coingaia37.webp" alt="COIN-Gaia 37 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=1.943, Dist=956, logage=7.413, [Fe/H]=0.063` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=2.5, logAge=7.7` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.917, diffAV50=0.826, MOD50=9.949, logAge50=7.433` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.07, dMod50=10.2, logAge50=7.26, [Fe/H]50=0.43` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=74.1618` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=139.394%20&lat=-0.452&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="coingaia37"
-         data-ra-center="45.38"
-         data-dec-center="58.33"
-         data-rad-deg="16.5"
-         data-plx="0.977">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

@@ -1,102 +1,49 @@
 ---
 layout: post
-title:  UFMG 68
+title: UFMG 68
+style: style
+title_flag: true
+more_names: 
+fname: ufmg68
+fov: 0.167
+ra_icrs: 263.14348
+de_icrs: -30.86488
+glon: 356.86816
+glat: 1.36486
+r50: 5.0
+plx: 0.63495
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
+UTI_C_N_COL: "#ffedd1"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.36
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    UFMG 68 is a poorly populated, very dense object of high C3 quality. It is rarely studied in the literature. This object shares a large percentage of members with a later reported entry.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 5.0
+N_50_val: 36
+scix_url: UFMG%2068
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 263.132 | -30.876 | 0.624 | -0.684 | -2.673 | -- |
+    | **UCC** |263.143 | -30.865 | 0.635 | -0.702 | -2.684 | -- | 
+cds_radec: 263.14348,-30.86488
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | `E(B-V)=0.9, Dmod=10.5, logt=7.85` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Theia 2803](/_clusters/theia2803/)| 80.6 | 263.16 | -30.87 | 0.64 | -0.75 | -2.71 | -- |0.13 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/ufmg68.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.167" 
-     data-target="263.143 -30.865"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G356.8+01.3</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">36</td>
-    <td style="text-align: center;">5.0</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22UFMG%2068%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ufmg68" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | 263.132 | -30.876 | 0.624 | -0.684 | -2.673 | -- |
-| **UCC** |263.143 | -30.865 | 0.635 | -0.702 | -2.684 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=263.143,-30.865" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=263.143%20-30.865&output=json&radius=5&userEntry=ufmg68" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/ufmg68.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/ufmg68.webp" alt="UFMG 68 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Ferreira et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502L..90F) | `E(B-V)=0.9, Dmod=10.5, logt=7.85` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=356.868%20&lat=1.365&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ufmg68"
-         data-ra-center="263.13"
-         data-dec-center="-30.88"
-         data-rad-deg="5.0"
-         data-plx="0.635">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 2803](/_clusters/theia2803/)| 80.6 | 263.156 | -30.871 | 0.638 | -0.748 | -2.713 | -- |

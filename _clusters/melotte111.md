@@ -1,141 +1,69 @@
 ---
 layout: post
-title:  Melotte 111
+title: Melotte 111
+style: style
+title_flag: true
+more_names: Collinder 256; Coma Berenices; OCL 558; MWSC 2020; Coma Ber; Coma Star
+fname: melotte111
+fov: 26.85
+ra_icrs: 185.06002
+de_icrs: 25.47846
+glon: 222.50818
+glat: 82.67137
+r50: 805.5
+plx: 11.5929
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
+UTI_C_N_COL: "#d0ebc9"
+UTI_C_dens_COL: "#ebb1b3"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#a6cab9"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.77
+UTI_C_dens: 0.07
+UTI_C_C3: 1.0
+UTI_C_lit: 1.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    Melotte 111 is a very close, rich, very loose object of very high C3 quality. It is very well-studied in the literature.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 805.5
+N_50_val: 150
+scix_url: Melotte%20111
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 |
+    |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 185.985 | 26.3 | -- | -11.72 | -8.76 | -- |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 186.27 | 26.1 | -- | -6.78 | -3.41 | -1.0 |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 186.268 | 26.105 | -- | -- | -- | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 186.014 | 25.652 | 11.595 | -12.03 | -8.973 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 186.304 | 25.368 | 11.582 | -12.02 | -8.909 | 0.124 |
+    |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 186.175 | 25.766 | 11.616 | -12.036 | -8.916 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 185.59 | 25.839 | 11.665 | -12.106 | -8.951 | -- |
+    |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 186.181 | 26.154 | 11.652 | -11.996 | -8.763 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 186.718 | 25.899 | 11.698 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
+    | **UCC** |185.06 | 25.478 | 11.593 | -12.038 | -9.002 | 0.38 | 
+cds_radec: 185.06002,+25.47846
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.013, Dist=96.0, Age=8.652, [Fe/H]=0.07` |
+    | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=96, Age=0.44, [Fe/H]_1=-0.05` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=87, log_age=8.84, metallicity=0.07` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.013, Dmod=4.881, logt=8.652` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=4.67, AgeNN=8.81` |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.148, Dist=86, logage=8.792, [Fe/H]=-0.06` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.75` |
+    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=85, logAgeNN=8.81` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.071, diffAV50=0.436, MOD50=4.708, logAge50=8.816` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.29, dMod50=4.71, logAge50=8.47, [Fe/H]50=0.2` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=48.8812` |
+shared_table: |
+    
 ---
-<h3><span style="color: #808080;"><i>(Coma Star; Coma Berenices; Collinder 256; OCL 558; MWSC 2020; Coma Ber)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/aladin/melotte111.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="26.85" 
-     data-target="185.06 25.478"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G224.9+83.6</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">150</td>
-    <td style="text-align: center;">805.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Melotte%20111%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=melotte111" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 |
-|[Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 185.985 | 26.3 | -- | -11.72 | -8.76 | -- |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 186.27 | 26.1 | -- | -6.78 | -3.41 | -1.0 |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 186.268 | 26.105 | -- | -- | -- | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 186.014 | 25.652 | 11.595 | -12.03 | -8.973 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 186.304 | 25.368 | 11.582 | -12.02 | -8.909 | 0.124 |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 186.175 | 25.766 | 11.616 | -12.036 | -8.916 | -- |
-|[Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | 186.181 | 26.154 | 11.652 | -11.996 | -8.763 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 185.59 | 25.839 | 11.665 | -12.106 | -8.951 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 186.718 | 25.899 | 11.698 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
-| **UCC** |185.06 | 25.478 | 11.593 | -12.038 | -9.002 | 0.38 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=185.06,+25.478" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=185.06%2025.478&output=json&radius=5&userEntry=melotte111" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/melotte111.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/UCC/melotte111.webp" alt="Melotte 111 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/melotte111.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/HUNT23/melotte111.webp" alt="Melotte 111 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/melotte111.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3P/main/plots/CANTAT20/melotte111.webp" alt="Melotte 111 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.013, Dist=96.0, Age=8.652, [Fe/H]=0.07` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=96, Age=0.44, [Fe/H]_1=-0.05` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=87, log_age=8.84, metallicity=0.07` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.013, Dmod=4.881, logt=8.652` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=4.67, AgeNN=8.81` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.148, Dist=86, logage=8.792, [Fe/H]=-0.06` |
-| [Tarricq et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T) | `Dist=85, logAgeNN=8.81` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.75` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.071, diffAV50=0.436, MOD50=4.708, logAge50=8.816` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.29, dMod50=4.71, logAge50=8.47, [Fe/H]50=0.2` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=48.8812` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=222.508%20&lat=82.671&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="melotte111"
-         data-ra-center="186.01"
-         data-dec-center="25.65"
-         data-rad-deg="805.5"
-         data-plx="11.593">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

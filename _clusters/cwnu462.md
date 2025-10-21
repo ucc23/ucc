@@ -1,107 +1,54 @@
 ---
 layout: post
-title:  CWNU 462
+title: CWNU 462
+style: style
+title_flag: true
+more_names: OCSN 155
+fname: cwnu462
+fov: 0.797
+ra_icrs: 315.37925
+de_icrs: 77.05443
+glon: 111.34706
+glat: 19.72528
+r50: 23.9
+plx: 2.69115
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
+UTI_C_N_COL: "#ffffe8"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#ffffe8"
+UTI_C_N: 0.5
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.33
+UTI_C_dup: 0.5
+UTI_summary: |
+    CWNU 462 is a relatively close, moderately populated, very dense object of very high C3 quality. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 23.9
+N_50_val: 50
+scix_url: CWNU%20462
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 315.363 | 77.043 | 2.68 | 5.27 | 3.85 | -27.6 |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 315.23 | 77.018 | 2.665 | 5.366 | 3.634 | -- |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 315.3 | 77.05 | 2.79 | 5.36 | 3.81 | -16.37 |
+    | **UCC** |315.379 | 77.054 | 2.691 | 5.381 | 3.848 | -19.502 | 
+cds_radec: 315.37925,+77.05443
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=2.25, m-M=7.95, logAge=6.0, Z=0.002` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=4.05, logAge=7.15` |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.45, m-M=8.99, logt=7.05` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Theia 8](/_clusters/theia8/)| 96.0 | 315.29 | 77.04 | 2.68 | 5.49 | 3.68 | -20.48 |0.11 |
+    |[OC 0204](/_clusters/oc0204/)| 50.0 | 315.52 | 77.04 | 2.69 | 5.27 | 3.9 | -19.5 |0.4 |
 ---
-<h3><span style="color: #808080;"><i>(OCSN 155)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/aladin/cwnu462.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.797" 
-     data-target="315.379 77.054"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G111.3+19.7</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">50</td>
-    <td style="text-align: center;">23.9</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWNU%20462%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwnu462" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | 315.363 | 77.043 | 2.68 | 5.27 | 3.85 | -27.6 |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 315.23 | 77.018 | 2.665 | 5.366 | 3.634 | -- |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 315.3 | 77.05 | 2.79 | 5.36 | 3.81 | -16.37 |
-| **UCC** |315.379 | 77.054 | 2.691 | 5.381 | 3.848 | -19.502 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=315.379,+77.054" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=315.379%2077.054&output=json&radius=5&userEntry=cwnu462" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/cwnu462.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/cwnu462.webp" alt="CWNU 462 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..260....8H) | `AG=2.25, m-M=7.95, logAge=6.0, Z=0.002` |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=4.05, logAge=7.15` |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.45, m-M=8.99, logt=7.05` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=111.347%20&lat=19.725&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="cwnu462"
-         data-ra-center="315.3"
-         data-dec-center="77.03"
-         data-rad-deg="23.9"
-         data-plx="2.691">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Theia 8](/_clusters/theia8/)| 96.0 | 315.286 | 77.044 | 2.677 | 5.486 | 3.682 | -20.484 |
-|[OC 0204](/_clusters/oc0204/)| 50.0 | 315.521 | 77.038 | 2.691 | 5.27 | 3.899 | -19.502 |

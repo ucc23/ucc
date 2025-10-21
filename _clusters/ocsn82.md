@@ -1,123 +1,51 @@
 ---
 layout: post
-title:  OCSN 82
+title: OCSN 82
+style: style
+title_flag: true
+more_names: 
+fname: ocsn82
+fov: 2.123
+ra_icrs: 107.91969
+de_icrs: -34.01848
+glon: 245.63242
+glat: -10.99046
+r50: 63.7
+plx: 2.4201
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
+UTI_C_N_COL: "#c6e6c8"
+UTI_C_dens_COL: "#bce1c5"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.81
+UTI_C_dens: 0.85
+UTI_C_C3: 1.0
+UTI_C_lit: 0.33
+UTI_C_dup: 1.0
+UTI_summary: |
+    OCSN 82 is a relatively close, rich, dense object of very high C3 quality. It was recently reported in the literature.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 63.7
+N_50_val: 250
+scix_url: OCSN%2082
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 108.531 | -35.061 | 2.422 | -5.44 | 6.457 | 15.467 |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 107.6 | -33.77 | 2.44 | -5.6 | 6.39 | 18.22 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 107.822 | -34.062 | 2.423 | -- | -- | -- |
+    | **UCC** |107.92 | -34.018 | 2.42 | -5.455 | 6.447 | 18.285 | 
+cds_radec: 107.91969,-34.01848
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.16, diffAV50=0.63, MOD50=8.041, logAge50=7.372` |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.06, m-M=8.23, logt=7.45` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.43, dMod50=8.17, logAge50=7.11, [Fe/H]50=-0.09` |
+shared_table: |
+    
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/ocsn82.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="2.123" 
-     data-target="107.92 -34.018"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G246.1-11.0</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">250</td>
-    <td style="text-align: center;">63.7</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OCSN%2082%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ocsn82" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 107.6 | -33.77 | 2.44 | -5.6 | 6.39 | 18.22 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 108.531 | -35.061 | 2.422 | -5.44 | 6.457 | 15.467 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 107.822 | -34.062 | 2.423 | -- | -- | -- |
-| **UCC** |107.92 | -34.018 | 2.42 | -5.455 | 6.448 | 18.285 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=107.92,-34.018" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=107.92%20-34.018&output=json&radius=5&userEntry=ocsn82" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn82.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn82.webp" alt="OCSN 82 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/ocsn82.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/HUNT23/ocsn82.webp" alt="OCSN 82 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.06, m-M=8.23, logt=7.45` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.16, diffAV50=0.63, MOD50=8.041, logAge50=7.372` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.43, dMod50=8.17, logAge50=7.11, [Fe/H]50=-0.09` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=245.632%20&lat=-10.99&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ocsn82"
-         data-ra-center="108.07"
-         data-dec-center="-34.42"
-         data-rad-deg="63.7"
-         data-plx="2.42">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 528](/_clusters/cwnu528/)| 8.4 | 108.573 | -35.027 | 2.426 | -5.669 | 6.402 | 20.419 |

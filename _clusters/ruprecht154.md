@@ -1,98 +1,50 @@
 ---
 layout: post
-title:  Ruprecht 154
+title: Ruprecht 154
+style: style
+title_flag: true
+more_names: ESO 258 04; OCL 738; MWSC 1417
+fname: ruprecht154
+fov: 0.19
+ra_icrs: 120.40133
+de_icrs: -44.4074
+glon: 259.57946
+glat: -7.30609
+r50: 5.7
+plx: 0.1094
+UTI: "0.29"
+UTI_COLOR: "#fee0c7"
+UTI_C_N_COL: "#fffee7"
+UTI_C_dens_COL: "#e6acb3"
+UTI_C_C3_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.49
+UTI_C_dens: 0.04
+UTI_C_C3: 0.25
+UTI_C_lit: 0.33
+UTI_C_dup: 1.0
+UTI_summary: |
+    Ruprecht 154 is a poorly populated, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 5.7
+N_50_val: 49
+scix_url: Ruprecht%20154
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 120.442 | -44.417 | -- | -5.16 | 2.67 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 120.435 | -44.423 | -- | -2.39 | 7.15 | -- |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 120.444 | -44.415 | -- | -- | -- | -- |
+    | **UCC** |120.401 | -44.407 | 0.109 | -1.675 | 2.483 | 78.795 | 
+cds_radec: 120.40133,-44.4074
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.087, Dist=1783.0, Age=9.35, [Fe/H]=0.15` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.781, distance=3160, log_age=7.15` |
+shared_table: |
+    
 ---
-<h3><span style="color: #808080;"><i>(OCL 738; ESO 258 04; MWSC 1417)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/ruprecht154.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.19" 
-     data-target="120.401 -44.407"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G259.5-07.3</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">49</td>
-    <td style="text-align: center;">5.7</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Ruprecht%20154%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ruprecht154" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 120.442 | -44.417 | -- | -5.16 | 2.67 | -- |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 120.435 | -44.423 | -- | -2.39 | 7.15 | -- |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 120.444 | -44.415 | -- | -- | -- | -- |
-| **UCC** |120.401 | -44.407 | 0.109 | -1.675 | 2.483 | 78.795 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=120.401,-44.407" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=120.401%20-44.407&output=json&radius=5&userEntry=ruprecht154" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ruprecht154.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ruprecht154.webp" alt="Ruprecht 154 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.087, Dist=1783.0, Age=9.35, [Fe/H]=0.15` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.781, distance=3160, log_age=7.15` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=259.579%20&lat=-7.306&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ruprecht154"
-         data-ra-center="120.44"
-         data-dec-center="-44.42"
-         data-rad-deg="5.7"
-         data-plx="0.109">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>

@@ -1,105 +1,52 @@
 ---
 layout: post
-title:  Teutsch 53
+title: Teutsch 53
+style: style
+title_flag: true
+more_names: DSH J2224.5+6024; MWSC 3622
+fname: teutsch53
+fov: 0.103
+ra_icrs: 336.13595
+de_icrs: 60.41137
+glon: 105.73977
+glat: 2.53915
+r50: 3.1
+plx: 0.1497
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
+UTI_C_N_COL: "#feebcf"
+UTI_C_dens_COL: "#fac9bc"
+UTI_C_C3_COL: "#f3bab5"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.35
+UTI_C_dens: 0.19
+UTI_C_C3: 0.12
+UTI_C_lit: 0.33
+UTI_C_dup: 1.0
+UTI_summary: |
+    Teutsch 53 is a poorly populated, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a significant percentage of members with a later reported entry.
+class3: |
+    <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 3.1
+N_50_val: 35
+scix_url: Teutsch%2053
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 336.133 | 60.414 | -- | -1.15 | -4.35 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 336.09 | 60.413 | -- | -6.11 | -5.68 | -- |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 336.131 | 60.412 | -- | -- | -- | -- |
+    | **UCC** |336.136 | 60.411 | 0.15 | -2.318 | -1.325 | -- | 
+cds_radec: 336.13595,+60.41137
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.599, Dist=5502.0, Age=8.85` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.599, distance=5502, log_age=8.85` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWNU 3323](/_clusters/cwnu3323/)| 74.3 | 336.14 | 60.41 | 0.15 | -2.33 | -1.28 | -- |0.01 |
 ---
-<h3><span style="color: #808080;"><i>(DSH J2224.5+6024; MWSC 3622)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/aladin/teutsch53.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.103" 
-     data-target="336.136 60.411"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G105.7+02.5</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">35</td>
-    <td style="text-align: center;">3.1</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%2053%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch53" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 336.133 | 60.414 | -- | -1.15 | -4.35 | -- |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 336.09 | 60.413 | -- | -6.11 | -5.68 | -- |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 336.131 | 60.412 | -- | -- | -- | -- |
-| **UCC** |336.136 | 60.411 | 0.15 | -2.318 | -1.325 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=336.136,+60.411" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=336.136%2060.411&output=json&radius=5&userEntry=teutsch53" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/teutsch53.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/teutsch53.webp" alt="Teutsch 53 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=1.599, Dist=5502.0, Age=8.85` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=1.599, distance=5502, log_age=8.85` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=105.74%20&lat=2.539&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="teutsch53"
-         data-ra-center="336.11"
-         data-dec-center="60.41"
-         data-rad-deg="3.1"
-         data-plx="0.15">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 3323](/_clusters/cwnu3323/)| 74.3 | 336.136 | 60.414 | 0.15 | -2.325 | -1.283 | -- |

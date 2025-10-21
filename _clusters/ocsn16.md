@@ -1,108 +1,55 @@
 ---
 layout: post
-title:  OCSN 16
+title: OCSN 16
+style: style
+title_flag: true
+more_names: 
+fname: ocsn16
+fov: 2.18
+ra_icrs: 283.64553
+de_icrs: 32.19298
+glon: 62.4458
+glat: 13.38975
+r50: 65.4
+plx: 2.6967
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
+UTI_C_N_COL: "#c9e8c8"
+UTI_C_dens_COL: "#a8cfbb"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#c6e6c8"
+UTI_C_N: 0.8
+UTI_C_dens: 0.97
+UTI_C_C3: 1.0
+UTI_C_lit: 0.0
+UTI_C_dup: 0.81
+UTI_summary: |
+    OCSN 16 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 65.4
+N_50_val: 242
+scix_url: OCSN%2016
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 283.56 | 32.18 | 2.68 | 1.18 | -3.67 | -16.08 |
+    | **UCC** |283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 | 
+cds_radec: 283.64553,+32.19298
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.11, m-M=8.18, logt=7.45` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[ASCC 100](/_clusters/ascc100/)| 19.0 | 285.27 | 32.95 | 2.8 | 1.95 | -3.31 | -16.07 |0.75 |
+    |[UPK 77](/_clusters/upk77/)| 10.7 | 282.92 | 31.36 | 2.74 | 1.1 | -4.02 | -15.76 |0.31 |
+    |[OCSN 296](/_clusters/ocsn296/)| 5.0 | 285.4 | 33.47 | 2.82 | 2.08 | -3.24 | -16.23 |0.02 |
+    |[Gaia 8](/_clusters/gaia8/)| 1.7 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.06 |
+    |[UPK 78](/_clusters/upk78/)| 1.2 | 280.52 | 32.35 | 2.68 | 0.28 | -3.53 | -18.3 |0.45 |
+    |[PHOC 41](/_clusters/phoc41/)| 0.8 | 282.54 | 33.38 | 3.45 | 1.8 | -3.86 | -18.69 |0.65 |
+    |[OCSN 18](/_clusters/ocsn18/)| 0.4 | 282.14 | 34.37 | 2.69 | 0.73 | -3.15 | -17.53 |0.29 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/ocsn16.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="2.18" 
-     data-target="283.646 32.193"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G062.4+13.5</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">242</td>
-    <td style="text-align: center;">65.4</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OCSN%2016%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ocsn16" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 283.56 | 32.18 | 2.68 | 1.18 | -3.67 | -16.08 |
-| **UCC** |283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=283.646,+32.193" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=283.646%2032.193&output=json&radius=5&userEntry=ocsn16" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/ocsn16.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/ocsn16.webp" alt="OCSN 16 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.11, m-M=8.18, logt=7.45` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=62.446%20&lat=13.39&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ocsn16"
-         data-ra-center="283.56"
-         data-dec-center="32.18"
-         data-rad-deg="65.4"
-         data-plx="2.697">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[ASCC 100](/_clusters/ascc100/)| 19.0 | 285.272 | 32.954 | 2.798 | 1.954 | -3.312 | -16.067 |
-|[UPK 77](/_clusters/upk77/)| 10.7 | 282.917 | 31.363 | 2.742 | 1.097 | -4.022 | -15.757 |
-|[OCSN 296](/_clusters/ocsn296/)| 5.0 | 285.395 | 33.473 | 2.822 | 2.084 | -3.236 | -16.229 |
-|[Gaia 8](/_clusters/gaia8/)| 1.7 | 282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 |
-|[UPK 78](/_clusters/upk78/)| 1.2 | 280.525 | 32.35 | 2.682 | 0.283 | -3.532 | -18.299 |
-|[PHOC 41](/_clusters/phoc41/)| 0.8 | 282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
-|[OCSN 18](/_clusters/ocsn18/)| 0.4 | 282.143 | 34.374 | 2.691 | 0.735 | -3.155 | -17.534 |

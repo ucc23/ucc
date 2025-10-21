@@ -1,96 +1,47 @@
 ---
 layout: post
-title:  Teutsch 188
+title: Teutsch 188
+style: style
+title_flag: true
+more_names: 
+fname: teutsch188
+fov: 0.27
+ra_icrs: 25.96392
+de_icrs: 60.98868
+glon: 129.25735
+glat: -1.23832
+r50: 8.1
+plx: 0.2743
+UTI: "0.17"
+UTI_COLOR: "#f8c5ba"
+UTI_C_N_COL: "#fff5d8"
+UTI_C_dens_COL: "#f2b9b4"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a8cdbb"
+UTI_C_N: 0.41
+UTI_C_dens: 0.11
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 0.98
+UTI_summary: |
+    Teutsch 188 is a poorly populated, very loose object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 8.1
+N_50_val: 41
+scix_url: Teutsch%20188
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 25.93 | 60.991 | -- | -- | -- | -- |
+    | **UCC** |25.964 | 60.989 | 0.274 | -1.407 | -0.241 | -- | 
+cds_radec: 25.96392,+60.98868
+carousel: UCC
+fpars_table: |
+    
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[NGC 663](/_clusters/ngc663/)| 2.4 | 26.59 | 61.21 | 0.34 | -1.13 | -0.32 | -43.87 |1.0 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/aladin/teutsch188.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.27" 
-     data-target="25.964 60.989"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G129.2-01.2</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">41</td>
-    <td style="text-align: center;">8.1</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Teutsch%20188%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=teutsch188" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Bica et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....157...12B) | 25.93 | 60.991 | -- | -- | -- | -- |
-| **UCC** |25.964 | 60.989 | 0.274 | -1.407 | -0.241 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=25.964,+60.989" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=25.964%2060.989&output=json&radius=5&userEntry=teutsch188" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/teutsch188.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2N/main/plots/UCC/teutsch188.webp" alt="Teutsch 188 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=129.257%20&lat=-1.238&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="teutsch188"
-         data-ra-center="25.93"
-         data-dec-center="60.99"
-         data-rad-deg="8.1"
-         data-plx="0.274">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[NGC 663](/_clusters/ngc663/)| 2.4 | 26.592 | 61.211 | 0.34 | -1.134 | -0.316 | -43.866 |

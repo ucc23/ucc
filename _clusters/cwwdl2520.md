@@ -1,102 +1,49 @@
 ---
 layout: post
-title:  CWWDL 2520
+title: CWWDL 2520
+style: style
+title_flag: true
+more_names: 
+fname: cwwdl2520
+fov: 0.093
+ra_icrs: 314.38872
+de_icrs: 46.2219
+glon: 86.79128
+glat: 0.41449
+r50: 2.8
+plx: 0.2646
+UTI: "0.08"
+UTI_COLOR: "#edb3b3"
+UTI_C_N_COL: "#fdd7c3"
+UTI_C_dens_COL: "#fbfde3"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#ffedd1"
+UTI_C_N: 0.25
+UTI_C_dens: 0.53
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 0.36
+UTI_summary: |
+    CWWDL 2520 is a poorly populated, moderately dense object of low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 2.8
+N_50_val: 25
+scix_url: CWWDL%202520
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 314.397 | 46.23 | 0.283 | -2.758 | -4.624 | -19.391 |
+    | **UCC** |314.389 | 46.222 | 0.265 | -2.679 | -4.622 | -- | 
+cds_radec: 314.38872,+46.2219
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=8.03, Z=-0.28` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWNU 1390](/_clusters/cwnu1390/)| 64.0 | 314.4 | 46.25 | 0.26 | -2.64 | -4.54 | -- |0.34 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/cwwdl2520.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.093" 
-     data-target="314.389 46.222"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G086.8+00.4</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">25</td>
-    <td style="text-align: center;">2.8</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWWDL%202520%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwwdl2520" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | 314.397 | 46.23 | 0.283 | -2.758 | -4.624 | -19.391 |
-| **UCC** |314.389 | 46.222 | 0.265 | -2.679 | -4.622 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=314.389,+46.222" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=314.389%2046.222&output=json&radius=5&userEntry=cwwdl2520" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/cwwdl2520.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/cwwdl2520.webp" alt="CWWDL 2520 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | `logAge=8.03, Z=-0.28` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=86.791%20&lat=0.414&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="cwwdl2520"
-         data-ra-center="314.4"
-         data-dec-center="46.23"
-         data-rad-deg="2.8"
-         data-plx="0.265">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWNU 1390](/_clusters/cwnu1390/)| 64.0 | 314.402 | 46.249 | 0.264 | -2.644 | -4.544 | -- |

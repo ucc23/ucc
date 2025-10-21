@@ -1,104 +1,51 @@
 ---
 layout: post
-title:  Casado 17
+title: Casado 17
+style: style
+title_flag: true
+more_names: 
+fname: casado17
+fov: 0.177
+ra_icrs: 3.83182
+de_icrs: 63.5682
+glon: 118.92766
+glat: 0.97832
+r50: 5.3
+plx: 0.47145
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
+UTI_C_N_COL: "#fedec5"
+UTI_C_dens_COL: "#fcfee5"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.28
+UTI_C_dens: 0.52
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    Casado 17 is a poorly populated, moderately dense object of low C3 quality. It is rarely studied in the literature. This object shares a large percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 5.3
+N_50_val: 28
+scix_url: Casado%2017
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | 3.776 | 63.557 | 0.47 | -3.3 | -1.0 | -- |
+    | **UCC** |3.832 | 63.568 | 0.471 | -3.227 | -1.075 | -65.487 | 
+cds_radec: 3.83182,+63.5682
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | `d_kpc=2.0` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[UBC 1201](/_clusters/ubc1201/)| 96.4 | 3.83 | 63.56 | 0.47 | -3.22 | -1.11 | -65.49 |0.26 |
+    |[Theia 2330](/_clusters/theia2330/)| 67.9 | 3.77 | 63.56 | 0.47 | -3.21 | -1.1 | -65.49 |0.03 |
+    |[CWWDL 10501](/_clusters/cwwdl10501/)| 39.3 | 4.33 | 63.56 | 0.47 | -3.16 | -1.1 | -81.84 |0.09 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/aladin/casado17.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.177" 
-     data-target="3.832 63.568"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G118.9+00.9</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">28</td>
-    <td style="text-align: center;">5.3</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Casado%2017%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=casado17" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C) | 3.776 | 63.557 | 0.47 | -3.3 | -1.0 | -- |
-| **UCC** |3.832 | 63.568 | 0.471 | -3.227 | -1.075 | -65.487 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=3.832,+63.568" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=3.832%2063.568&output=json&radius=5&userEntry=casado17" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/casado17.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q2P/main/plots/UCC/casado17.webp" alt="Casado 17 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Casado (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21..117C) | `d_kpc=2.0` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=118.928%20&lat=0.978&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="casado17"
-         data-ra-center="3.78"
-         data-dec-center="63.56"
-         data-rad-deg="5.3"
-         data-plx="0.471">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1201](/_clusters/ubc1201/)| 96.4 | 3.835 | 63.562 | 0.47 | -3.22 | -1.107 | -65.487 |
-|[Theia 2330](/_clusters/theia2330/)| 67.9 | 3.769 | 63.555 | 0.467 | -3.211 | -1.102 | -65.487 |
-|[CWWDL 10501](/_clusters/cwwdl10501/)| 39.3 | 4.332 | 63.557 | 0.47 | -3.163 | -1.096 | -81.844 |

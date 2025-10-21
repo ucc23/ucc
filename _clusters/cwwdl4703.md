@@ -1,108 +1,51 @@
 ---
 layout: post
-title:  CWWDL 4703
+title: CWWDL 4703
+style: style
+title_flag: true
+more_names: 
+fname: cwwdl4703
+fov: 0.313
+ra_icrs: 106.41858
+de_icrs: -9.12451
+glon: 222.68334
+glat: -1.04217
+r50: 9.4
+plx: 0.3506
+UTI: "0.08"
+UTI_COLOR: "#edb3b3"
+UTI_C_N_COL: "#e0a6b3"
+UTI_C_dens_COL: "#e8aeb3"
+UTI_C_C3_COL: "#ffffe8"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#d2ecc9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.05
+UTI_C_C3: 0.5
+UTI_C_lit: 0.0
+UTI_C_dup: 0.76
+UTI_summary: |
+    CWWDL 4703 is a sparse, very loose object of intermediate C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 9.4
+N_50_val: 15
+scix_url: CWWDL%204703
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 106.412 | -9.139 | 0.346 | -1.06 | 0.829 | -- |
+    | **UCC** |106.419 | -9.125 | 0.351 | -1.09 | 0.892 | -- | 
+cds_radec: 106.41858,-9.12451
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=5.85, Z=0.44` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[UBC 218](/_clusters/ubc218/)| 24.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.26 |
+    |[OC 0375](/_clusters/oc0375/)| 8.0 | 106.76 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.27 |
+    |[Theia 1774](/_clusters/theia1774/)| 4.0 | 106.74 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.02 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/cwwdl4703.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.313" 
-     data-target="106.419 -9.125"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G222.6-01.0</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">15</td>
-    <td style="text-align: center;">9.4</td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWWDL%204703%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwwdl4703" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | 106.412 | -9.139 | 0.346 | -1.06 | 0.829 | -- |
-| **UCC** |106.419 | -9.125 | 0.351 | -1.09 | 0.892 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=106.419,-9.125" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=106.419%20-9.125&output=json&radius=5&userEntry=cwwdl4703" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwwdl4703.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwwdl4703.webp" alt="CWWDL 4703 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | `logAge=5.85, Z=0.44` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=222.683%20&lat=-1.042&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="cwwdl4703"
-         data-ra-center="106.41"
-         data-dec-center="-9.14"
-         data-rad-deg="9.4"
-         data-plx="0.351">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 218](/_clusters/ubc218/)| 24.0 | 106.523 | -9.181 | 0.352 | -1.182 | 0.89 | -- |
-|[OC 0375](/_clusters/oc0375/)| 8.0 | 106.757 | -9.174 | 0.37 | -1.174 | 0.91 | -- |
-|[Theia 1774](/_clusters/theia1774/)| 4.0 | 106.741 | -9.173 | 0.37 | -1.174 | 0.91 | -- |

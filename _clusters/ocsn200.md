@@ -1,106 +1,53 @@
 ---
 layout: post
-title:  OCSN 200
+title: OCSN 200
+style: style
+title_flag: true
+more_names: Huluwa 3
+fname: ocsn200
+fov: 1.617
+ra_icrs: 117.36398
+de_icrs: -46.53691
+glon: 260.3354
+glat: -10.20193
+r50: 48.5
+plx: 2.539
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
+UTI_C_N_COL: "#a6cab9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#eab0b3"
+UTI_C_N: 1.0
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.0
+UTI_C_dup: 0.06
+UTI_summary: |
+    OCSN 200 is a relatively close, very rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 48.5
+N_50_val: 657
+scix_url: OCSN%20200
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 117.41 | -46.39 | 2.54 | -4.64 | 8.97 | 19.44 |
+    | **UCC** |117.364 | -46.537 | 2.539 | -4.694 | 9.014 | 17.631 | 
+cds_radec: 117.36398,-46.53691
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.13, m-M=8.29, logt=7.05` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.52 |
+    |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.71 |
+    |[CWWL 3526](/_clusters/cwwl3526/)| 7.6 | 117.91 | -46.81 | 2.54 | -4.78 | 8.82 | 19.74 |0.0 |
+    |[CWWDL 14576](/_clusters/cwwdl14576/)| 3.8 | 116.76 | -47.37 | 2.52 | -4.68 | 8.88 | 20.47 |0.0 |
+    |[OC 0468](/_clusters/oc0468/)| 3.8 | 117.31 | -46.26 | 2.57 | -4.73 | 9.26 | 16.68 |0.4 |
 ---
-<h3><span style="color: #808080;"><i>(Huluwa 3)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/ocsn200.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="1.617" 
-     data-target="117.364 -46.537"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G260.2-10.1</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">657</td>
-    <td style="text-align: center;">48.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OCSN%20200%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ocsn200" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 117.41 | -46.39 | 2.54 | -4.64 | 8.97 | 19.44 |
-| **UCC** |117.364 | -46.537 | 2.539 | -4.694 | 9.014 | 17.631 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=117.364,-46.537" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=117.364%20-46.537&output=json&radius=5&userEntry=ocsn200" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn200.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn200.webp" alt="OCSN 200 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.13, m-M=8.29, logt=7.05` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=260.335%20&lat=-10.202&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ocsn200"
-         data-ra-center="117.41"
-         data-dec-center="-46.39"
-         data-rad-deg="48.5"
-         data-plx="2.539">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.394 | -46.67 | 2.531 | -4.71 | 8.959 | 17.631 |
-|[OC 0470](/_clusters/oc0470/)| 13.7 | 117.342 | -46.366 | 2.549 | -4.712 | 9.06 | 17.631 |
-|[CWWL 3526](/_clusters/cwwl3526/)| 7.6 | 117.913 | -46.814 | 2.54 | -4.782 | 8.825 | 19.737 |
-|[CWWDL 14576](/_clusters/cwwdl14576/)| 3.8 | 116.755 | -47.369 | 2.516 | -4.685 | 8.885 | 20.471 |
-|[OC 0468](/_clusters/oc0468/)| 3.8 | 117.31 | -46.264 | 2.569 | -4.726 | 9.264 | 16.679 |

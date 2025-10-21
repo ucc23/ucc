@@ -1,125 +1,55 @@
 ---
 layout: post
-title:  Theia 2561
+title: Theia 2561
+style: style
+title_flag: true
+more_names: 
+fname: theia2561
+fov: 0.317
+ra_icrs: 318.45864
+de_icrs: 46.38248
+glon: 88.83066
+glat: -1.56478
+r50: 9.5
+plx: 0.7968
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
+UTI_C_N_COL: "#f4fada"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#fee4c9"
+UTI_C_N: 0.58
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.33
+UTI_C_dup: 0.31
+UTI_summary: |
+    Theia 2561 is a moderately populated, very dense object of high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 9.5
+N_50_val: 67
+scix_url: Theia%202561
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 318.48 | 46.407 | 0.801 | -2.962 | -3.511 | 10.061 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 318.503 | 46.384 | 0.799 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 318.48 | 46.407 | 0.801 | -2.962 | -3.511 | 10.061 |
+    | **UCC** |318.459 | 46.382 | 0.797 | -2.965 | -3.507 | 12.289 | 
+cds_radec: 318.45864,+46.38248
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.129, diffAV50=2.25, MOD50=10.399, logAge50=7.768` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.41, dMod50=10.5, logAge50=7.66, [Fe/H]50=0.05` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=348.869` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWWDL 13502](/_clusters/cwwdl13502/)| 68.7 | 318.54 | 46.38 | 0.8 | -2.97 | -3.51 | 12.29 |0.11 |
+    |[UBC 1129](/_clusters/ubc1129/)| 56.7 | 318.51 | 46.38 | 0.79 | -2.97 | -3.5 | 2.66 |0.38 |
+    |[CWNU 1249](/_clusters/cwnu1249/)| 38.8 | 318.44 | 46.39 | 0.8 | -2.96 | -3.54 | 19.93 |0.06 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/aladin/theia2561.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.317" 
-     data-target="318.459 46.382"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G088.8-01.5a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">67</td>
-    <td style="text-align: center;">9.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Theia%202561%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=theia2561" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 318.48 | 46.407 | 0.801 | -2.962 | -3.511 | 10.061 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 318.503 | 46.384 | 0.799 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 318.48 | 46.407 | 0.801 | -2.962 | -3.511 | 10.061 |
-| **UCC** |318.459 | 46.382 | 0.797 | -2.965 | -3.507 | 12.289 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=318.459,+46.382" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=318.459%2046.382&output=json&radius=5&userEntry=theia2561" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/theia2561.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/UCC/theia2561.webp" alt="Theia 2561 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/theia2561.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1N/main/plots/HUNT23/theia2561.webp" alt="Theia 2561 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.129, diffAV50=2.25, MOD50=10.399, logAge50=7.768` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.41, dMod50=10.5, logAge50=7.66, [Fe/H]50=0.05` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=348.869` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=88.831%20&lat=-1.565&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="theia2561"
-         data-ra-center="318.48"
-         data-dec-center="46.41"
-         data-rad-deg="9.5"
-         data-plx="0.797">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[CWWDL 13502](/_clusters/cwwdl13502/)| 68.7 | 318.542 | 46.375 | 0.796 | -2.97 | -3.506 | 12.289 |
-|[UBC 1129](/_clusters/ubc1129/)| 56.7 | 318.514 | 46.384 | 0.792 | -2.971 | -3.5 | 2.656 |
-|[CWNU 1249](/_clusters/cwnu1249/)| 38.8 | 318.436 | 46.386 | 0.799 | -2.957 | -3.539 | 19.931 |

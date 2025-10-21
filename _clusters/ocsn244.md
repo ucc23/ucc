@@ -1,111 +1,58 @@
 ---
 layout: post
-title:  OCSN 244
+title: OCSN 244
+style: style
+title_flag: true
+more_names: ONC
+fname: ocsn244
+fov: 0.563
+ra_icrs: 83.8248
+de_icrs: -5.42292
+glon: 209.04996
+glat: -19.39154
+r50: 16.9
+plx: 2.5368
+UTI: "0.40"
+UTI_COLOR: "#fff4d6"
+UTI_C_N_COL: "#a6cab9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#eef8d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#d0ebc9"
+UTI_C_N: 1.0
+UTI_C_dens: 1.0
+UTI_C_C3: 0.62
+UTI_C_lit: 0.0
+UTI_C_dup: 0.77
+UTI_summary: |
+    OCSN 244 is a relatively close, very rich, very dense object of intermediate C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 16.9
+N_50_val: 1012
+scix_url: OCSN%20244
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 83.82 | -5.39 | 2.49 | 1.41 | 0.35 | 23.68 |
+    | **UCC** |83.825 | -5.423 | 2.537 | 1.306 | 0.345 | 22.673 | 
+cds_radec: 83.8248,-5.42292
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.53, m-M=9.39, logt=6.65` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OCSN 225](/_clusters/ocsn225/)| 34.5 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
+    |[UBC 208](/_clusters/ubc208/)| 23.1 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
+    |[NGC 1980](/_clusters/ngc1980/)| 20.6 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.85 |
+    |[OCSN 226](/_clusters/ocsn226/)| 19.4 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
+    |[NGC 1977](/_clusters/ngc1977/)| 8.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.8 |
+    |[UBC 621](/_clusters/ubc621/)| 7.5 | 83.83 | -4.86 | 2.53 | 1.25 | -0.72 | 22.95 |0.05 |
+    |[OC 0347](/_clusters/oc0347/)| 5.5 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
+    |[Trapezium](/_clusters/trapezium/)| 2.5 | 83.82 | -5.57 | 2.57 | 1.25 | 0.25 | -12.99 |0.45 |
+    |[OC 0345](/_clusters/oc0345/)| 2.1 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
+    |[UBC 207](/_clusters/ubc207/)| 1.9 | 83.87 | -4.61 | 2.57 | 1.11 | 0.57 | 20.54 |0.58 |
 ---
-<h3><span style="color: #808080;"><i>(ONC)</i></span></h3><div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/ocsn244.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.563" 
-     data-target="83.825 -5.423"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G209.0-19.3a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">1012</td>
-    <td style="text-align: center;">16.9</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22OCSN%20244%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=ocsn244" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | 83.82 | -5.39 | 2.49 | 1.41 | 0.35 | 23.68 |
-| **UCC** |83.825 | -5.423 | 2.537 | 1.306 | 0.345 | 22.673 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=83.825,-5.423" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=83.825%20-5.423&output=json&radius=5&userEntry=ocsn244" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn244.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/ocsn244.webp" alt="OCSN 244 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Qin et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...12Q) | `E(B-V)=0.53, m-M=9.39, logt=6.65` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=209.05%20&lat=-19.392&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="ocsn244"
-         data-ra-center="83.82"
-         data-dec-center="-5.39"
-         data-rad-deg="16.9"
-         data-plx="2.537">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 225](/_clusters/ocsn225/)| 34.5 | 83.84 | -4.962 | 2.554 | 1.254 | -0.081 | 22.732 |
-|[UBC 208](/_clusters/ubc208/)| 23.1 | 83.811 | -5.949 | 2.6 | 1.241 | 0.54 | 23.254 |
-|[NGC 1980](/_clusters/ngc1980/)| 20.6 | 83.816 | -5.958 | 2.602 | 1.239 | 0.552 | 20.884 |
-|[OCSN 226](/_clusters/ocsn226/)| 19.4 | 83.816 | -5.959 | 2.607 | 1.257 | 0.551 | 23.018 |
-|[NGC 1977](/_clusters/ngc1977/)| 8.0 | 83.838 | -4.862 | 2.53 | 1.262 | -0.712 | 23.871 |
-|[UBC 621](/_clusters/ubc621/)| 7.5 | 83.83 | -4.858 | 2.534 | 1.247 | -0.724 | 22.953 |
-|[OC 0347](/_clusters/oc0347/)| 5.5 | 83.987 | -6.361 | 2.598 | 1.013 | 0.32 | 24.188 |
-|[Trapezium](/_clusters/trapezium/)| 2.5 | 83.816 | -5.566 | 2.566 | 1.253 | 0.253 | -12.99 |
-|[OC 0345](/_clusters/oc0345/)| 2.1 | 83.766 | -5.869 | 2.578 | 1.056 | 0.212 | 19.859 |
-|[UBC 207](/_clusters/ubc207/)| 1.9 | 83.87 | -4.615 | 2.566 | 1.106 | 0.57 | 20.544 |

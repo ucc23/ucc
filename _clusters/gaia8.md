@@ -1,126 +1,56 @@
 ---
 layout: post
-title:  Gaia 8
+title: Gaia 8
+style: style
+title_flag: true
+more_names: 
+fname: gaia8
+fov: 1.017
+ra_icrs: 282.56167
+de_icrs: 33.36265
+glon: 63.21222
+glat: 14.73322
+r50: 30.5
+plx: 3.4472
+UTI: "0.06"
+UTI_COLOR: "#eab0b3"
+UTI_C_N_COL: "#d2ecc9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#efb5b3"
+UTI_C_N: 0.76
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.33
+UTI_C_dup: 0.09
+UTI_summary: |
+    Gaia 8 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 30.5
+N_50_val: 133
+scix_url: Gaia%208
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.474 | 33.019 | 3.437 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
+    | **UCC** |282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 | 
+cds_radec: 282.56167,+33.36265
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.181, diffAV50=0.644, MOD50=7.298, logAge50=7.324` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=7.37, logAge50=7.15, [Fe/H]50=-0.26` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=73.3434` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[PHOC 41](/_clusters/phoc41/)| 91.0 | 282.54 | 33.38 | 3.45 | 1.8 | -3.86 | -18.69 |0.65 |
+    |[OCSN 249](/_clusters/ocsn249/)| 77.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
+    |[CWWL 3595](/_clusters/cwwl3595/)| 60.9 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
+    |[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.45 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/gaia8.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="1.017" 
-     data-target="282.562 33.363"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G063.2+14.7</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">133</td>
-    <td style="text-align: center;">30.5</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Gaia%208%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=gaia8" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 282.474 | 33.019 | 3.437 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
-| **UCC** |282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.562,+33.363" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.562%2033.363&output=json&radius=5&userEntry=gaia8" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gaia8.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/gaia8.webp" alt="Gaia 8 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gaia8.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/gaia8.webp" alt="Gaia 8 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.181, diffAV50=0.644, MOD50=7.298, logAge50=7.324` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=7.37, logAge50=7.15, [Fe/H]50=-0.26` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=73.3434` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=63.212%20&lat=14.733&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="gaia8"
-         data-ra-center="282.54"
-         data-dec-center="33.39"
-         data-rad-deg="30.5"
-         data-plx="3.447">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[PHOC 41](/_clusters/phoc41/)| 91.0 | 282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
-|[OCSN 249](/_clusters/ocsn249/)| 77.4 | 282.52 | 33.391 | 3.462 | 1.822 | -3.874 | -18.828 |
-|[CWWL 3595](/_clusters/cwwl3595/)| 60.9 | 282.533 | 33.371 | 3.469 | 1.822 | -3.874 | -18.538 |
-|[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 |

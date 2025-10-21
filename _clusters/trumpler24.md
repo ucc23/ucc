@@ -1,132 +1,58 @@
 ---
 layout: post
-title:  Trumpler 24
+title: Trumpler 24
+style: style
+title_flag: true
+more_names: 
+fname: trumpler24
+fov: 1.96
+ra_icrs: 254.20023
+de_icrs: -40.60924
+glon: 344.80965
+glat: 1.63091
+r50: 58.8
+plx: 2.3765
+UTI: "0.34"
+UTI_COLOR: "#feeace"
+UTI_C_N_COL: "#e0a6b3"
+UTI_C_dens_COL: "#ebb1b3"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#eef8d4"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.07
+UTI_C_C3: 0.38
+UTI_C_lit: 0.62
+UTI_C_dup: 1.0
+UTI_summary: |
+    Trumpler 24 is a relatively close, sparse, very loose object of low C3 quality. It is moderately studied in the literature. This object shares a small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 58.8
+N_50_val: 17
+scix_url: Trumpler%2024
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 254.25 | -40.667 | -- | -- | -- | -- |
+    |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 253.791 | -40.773 | -- | 0.3 | -0.17 | -4.0 |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 254.25 | -40.668 | -- | -2.641 | -5.822 | -3.45 |
+    |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 253.986 | -40.474 | 0.835 | 0.372 | -1.8 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 254.182 | -40.473 | 2.386 | -3.104 | -7.202 | -14.22 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 254.284 | -39.929 | 2.39 | -- | -- | -- |
+    | **UCC** |254.2 | -40.609 | 2.377 | -3.044 | -7.279 | -14.062 | 
+cds_radec: 254.20023,-40.60924
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.405, DM0=10.74, log_age_=6.9` |
+    | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1138, Age=0.0` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.426, Dmod=10.278, logt=7.142` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.6, diffAV50=0.938, MOD50=8.025, logAge50=8.335` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.16, dMod50=8.11, logAge50=7.45, [Fe/H]50=0.08` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[OCSN 95](/_clusters/ocsn95/)| 24.0 | 253.44 | -39.65 | 2.53 | -3.45 | -7.79 | -10.08 |0.3 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/aladin/trumpler24.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="1.96" 
-     data-target="254.2 -40.609"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G344.7+01.5a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">17</td>
-    <td style="text-align: center;">58.8</td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center;">
-   <span style="color: #99180f; font-weight: bold;">Warning: </span><span>less than 25 stars with <i>P>0.5</i> were found</span>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Trumpler%2024%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=trumpler24" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | 254.25 | -40.667 | -- | -- | -- | -- |
-|[Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | 253.791 | -40.773 | -- | 0.3 | -0.17 | -4.0 |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 254.25 | -40.668 | -- | -2.641 | -5.822 | -3.45 |
-|[Jaehnig et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..129J) | 253.986 | -40.474 | 0.835 | 0.372 | -1.8 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 254.182 | -40.473 | 2.386 | -3.104 | -7.202 | -14.22 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 254.284 | -39.929 | 2.39 | -- | -- | -- |
-| **UCC** |254.2 | -40.609 | 2.377 | -3.044 | -7.279 | -14.062 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=254.2,-40.609" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=254.2%20-40.609&output=json&radius=5&userEntry=trumpler24" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/trumpler24.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/UCC/trumpler24.webp" alt="Trumpler 24 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/trumpler24.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4P/main/plots/HUNT23/trumpler24.webp" alt="Trumpler 24 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dambis (1999)](https://ui.adsabs.harvard.edu/abs/1999AstL...25....7D) | `E_B-V_=0.405, DM0=10.74, log_age_=6.9` |
-| [Chen et al. (2003)](https://ui.adsabs.harvard.edu/abs/2003AJ....125.1397C) | `HDis=1138, Age=0.0` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.426, Dmod=10.278, logt=7.142` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.6, diffAV50=0.938, MOD50=8.025, logAge50=8.335` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.16, dMod50=8.11, logAge50=7.45, [Fe/H]50=0.08` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=344.81%20&lat=1.631&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="trumpler24"
-         data-ra-center="254.22"
-         data-dec-center="-40.57"
-         data-rad-deg="58.8"
-         data-plx="2.377">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[OCSN 95](/_clusters/ocsn95/)| 24.0 | 253.442 | -39.646 | 2.528 | -3.448 | -7.794 | -10.08 |

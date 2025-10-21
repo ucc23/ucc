@@ -1,0 +1,52 @@
+---
+layout: post
+title: Collinder 144
+style: style
+title_flag: true
+more_names: NGC 2395; OCL 502; MWSC 1228
+fname: collinder144
+fov: 0.237
+ra_icrs: 111.75501
+de_icrs: 13.59308
+glon: 204.60542
+glat: 13.941
+r50: 7.1
+plx: 0.0543
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
+UTI_C_N_COL: "#e0a6b3"
+UTI_C_dens_COL: "#e0a6b3"
+UTI_C_C3_COL: "#f3bab5"
+UTI_C_lit_COL: "#fff6da"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.0
+UTI_C_C3: 0.12
+UTI_C_lit: 0.42
+UTI_C_dup: 1.0
+UTI_summary: |
+    Collinder 144 is a sparse, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+class3: |
+    <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 7.1
+N_50_val: 16
+scix_url: Collinder%20144
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 111.8 | 13.608 | -- | -3.36 | -6.02 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 111.774 | 13.584 | -- | -1.08 | -3.38 | -- |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 111.795 | 13.608 | -- | -2.109 | -5.187 | -- |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 111.776 | 13.592 | -- | -- | -- | -- |
+    | **UCC** |111.755 | 13.593 | 0.054 | -0.386 | -0.895 | 48.734 | 
+cds_radec: 111.75501,+13.59308
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.12, Dist=512.0, Age=9.07` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.271, distance=1209, log_age=9.28` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.119, Dmod=8.863, logt=9.072` |
+shared_table: |
+    
+---

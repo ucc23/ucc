@@ -1,106 +1,53 @@
 ---
 layout: post
-title:  PHOC 41
+title: PHOC 41
+style: style
+title_flag: true
+more_names: 
+fname: phoc41
+fov: 0.98
+ra_icrs: 282.54204
+de_icrs: 33.37816
+glon: 63.22125
+glat: 14.77321
+r50: 29.4
+plx: 3.45205
+UTI: "0.65"
+UTI_COLOR: "#e9f5d1"
+UTI_C_N_COL: "#d2ecc9"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#fdd7c3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.76
+UTI_C_dens: 1.0
+UTI_C_C3: 1.0
+UTI_C_lit: 0.25
+UTI_C_dup: 1.0
+UTI_summary: |
+    PHOC 41 is a relatively close, rich, very dense object of very high C3 quality. It is poorly studied in the literature. This object shares a large percentage of members with 4 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 29.4
+N_50_val: 122
+scix_url: PHOC%2041
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Hunt & Reffert (2021)](https://scixplorer.org/abs/2021A%26A...646A.104H) | 282.554 | 33.41 | 3.422 | 1.848 | -3.84 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 282.564 | 33.4 | 3.474 | 1.858 | -3.864 | -- |
+    | **UCC** |282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 | 
+cds_radec: 282.54204,+33.37816
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.55, logAge=7.6` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.06 |
+    |[OCSN 249](/_clusters/ocsn249/)| 84.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
+    |[CWWL 3595](/_clusters/cwwl3595/)| 66.4 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
+    |[OCSN 16](/_clusters/ocsn16/)| 1.6 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.45 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/phoc41.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.98" 
-     data-target="282.542 33.378"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G063.2+14.7a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">122</td>
-    <td style="text-align: center;">29.4</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22PHOC%2041%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=phoc41" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Hunt & Reffert (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H) | 282.554 | 33.41 | 3.422 | 1.848 | -3.84 | -- |
-|[He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | 282.564 | 33.4 | 3.474 | 1.858 | -3.864 | -- |
-| **UCC** |282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=282.542,+33.378" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=282.542%2033.378&output=json&radius=5&userEntry=phoc41" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/phoc41.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/phoc41.webp" alt="PHOC 41 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [He et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H) | `A0=0.55, logAge=7.6` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=63.221%20&lat=14.773&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="phoc41"
-         data-ra-center="282.56"
-         data-dec-center="33.41"
-         data-rad-deg="29.4"
-         data-plx="3.452">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 |
-|[OCSN 249](/_clusters/ocsn249/)| 84.4 | 282.52 | 33.391 | 3.462 | 1.822 | -3.874 | -18.828 |
-|[CWWL 3595](/_clusters/cwwl3595/)| 66.4 | 282.533 | 33.371 | 3.469 | 1.822 | -3.874 | -18.538 |
-|[OCSN 16](/_clusters/ocsn16/)| 1.6 | 283.646 | 32.193 | 2.697 | 1.165 | -3.572 | -15.941 |

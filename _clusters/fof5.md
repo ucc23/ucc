@@ -1,139 +1,62 @@
 ---
 layout: post
-title:  FoF 5
+title: FoF 5
+style: style
+title_flag: true
+more_names: 
+fname: fof5
+fov: 0.333
+ra_icrs: 156.13824
+de_icrs: -72.5262
+glon: 292.32869
+glat: -12.74205
+r50: 10.0
+plx: 0.5183
+UTI: "0.82"
+UTI_COLOR: "#c4e5c7"
+UTI_C_N_COL: "#d2ecc9"
+UTI_C_dens_COL: "#c1e4c6"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#d4edca"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.76
+UTI_C_dens: 0.83
+UTI_C_C3: 1.0
+UTI_C_lit: 0.75
+UTI_C_dup: 1.0
+UTI_summary: |
+    FoF 5 is a rich, dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 10.0
+N_50_val: 130
+scix_url: FoF%205
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 156.145 | -72.508 | 0.506 | -6.873 | 1.425 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 156.138 | -72.51 | 0.51 | -6.89 | 1.462 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 156.06 | -72.511 | 0.515 | -6.887 | 1.468 | -22.954 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 156.008 | -72.5 | 0.524 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
+    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 156.008 | -72.5 | -- | -- | -- | -- |
+    | **UCC** |156.138 | -72.526 | 0.518 | -6.883 | 1.468 | -23.217 | 
+cds_radec: 156.13824,-72.5262
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=3.16, Z=0.0` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.27, DMNN=11.32, AgeNN=9.43` |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.334, Dist=1781, logage=9.41, [Fe/H]=0.004` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.118, diffAV50=0.424, MOD50=11.282, logAge50=9.366` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.27, dMod50=11.32, logAge50=9.3, [Fe/H]50=0.28` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=337.232` |
+    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.25, MA23f=-0.17, MA23g=-0.07, MZ23=-0.16, MK24=-0.15, MF24=-0.08` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[UBC 274](/_clusters/ubc274/)| 100.0 | 156.26 | -72.56 | 0.52 | -6.88 | 1.46 | -23.51 |0.27 |
+    |[OC 0560](/_clusters/oc0560/)| 1.5 | 154.51 | -72.17 | 0.52 | -6.87 | 1.69 | -22.78 |0.05 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/aladin/fof5.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.333" 
-     data-target="156.138 -72.526"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G292.3-12.7</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">130</td>
-    <td style="text-align: center;">10.0</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22FoF%205%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=fof5" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | 156.145 | -72.508 | 0.506 | -6.873 | 1.425 | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 156.138 | -72.51 | 0.51 | -6.89 | 1.462 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 156.06 | -72.511 | 0.515 | -6.887 | 1.468 | -22.954 |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 156.008 | -72.5 | 0.524 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
-|[Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | 156.008 | -72.5 | -- | -- | -- | -- |
-| **UCC** |156.138 | -72.526 | 0.518 | -6.883 | 1.468 | -23.217 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=156.138,-72.526" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=156.138%20-72.526&output=json&radius=5&userEntry=fof5" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/fof5.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/UCC/fof5.webp" alt="FoF 5 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/fof5.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/HUNT23/fof5.webp" alt="FoF 5 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/CANTAT20/fof5.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q4N/main/plots/CANTAT20/fof5.webp" alt="FoF 5 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Liu & Pang (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L) | `Age=3.16, Z=0.0` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=0.27, DMNN=11.32, AgeNN=9.43` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=0.334, Dist=1781, logage=9.41, [Fe/H]=0.004` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=0.118, diffAV50=0.424, MOD50=11.282, logAge50=9.366` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=0.27, dMod50=11.32, logAge50=9.3, [Fe/H]50=0.28` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=337.232` |
-| [Hu & Soubiran (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H) | `MA22=-0.25, MA23f=-0.17, MA23g=-0.07, MZ23=-0.16, MK24=-0.15, MF24=-0.08` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=292.329%20&lat=-12.742&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="fof5"
-         data-ra-center="156.14"
-         data-dec-center="-72.51"
-         data-rad-deg="10.0"
-         data-plx="0.518">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 274](/_clusters/ubc274/)| 100.0 | 156.256 | -72.558 | 0.52 | -6.883 | 1.455 | -23.511 |
-|[OC 0560](/_clusters/oc0560/)| 1.5 | 154.511 | -72.172 | 0.522 | -6.873 | 1.691 | -22.78 |

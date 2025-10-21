@@ -1,127 +1,57 @@
 ---
 layout: post
-title:  HXHWL 46
+title: HXHWL 46
+style: style
+title_flag: true
+more_names: 
+fname: hxhwl46
+fov: 0.173
+ra_icrs: 298.31102
+de_icrs: 32.64546
+glon: 68.59928
+glat: 2.64452
+r50: 5.2
+plx: 0.4738
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
+UTI_C_N_COL: "#fafde1"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#fff6da"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.54
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.42
+UTI_C_dup: 1.0
+UTI_summary: |
+    HXHWL 46 is a moderately populated, very dense object of high C3 quality. It is poorly studied in the literature. This object shares a large percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 5.2
+N_50_val: 57
+scix_url: HXHWL%2046
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | 298.331 | 32.637 | 0.49 | -2.51 | -3.43 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 298.315 | 32.653 | 0.461 | -2.472 | -3.456 | -1.27 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 298.3 | 32.628 | 0.469 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 298.315 | 32.653 | 0.461 | -2.472 | -3.456 | -1.27 |
+    | **UCC** |298.311 | 32.645 | 0.474 | -2.483 | -3.442 | 10.049 | 
+cds_radec: 298.31102,+32.64546
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=1.7, m-M=11.3, logAge=8.34, Z=0.018` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.608, diffAV50=1.18, MOD50=11.518, logAge50=8.462` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.59, dMod50=11.77, logAge50=8.56, [Fe/H]50=0.7` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=436.916` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[UBC 1079](/_clusters/ubc1079/)| 75.4 | 298.32 | 32.66 | 0.48 | -2.48 | -3.45 | 10.05 |0.02 |
+    |[CWWDL 11597](/_clusters/cwwdl11597/)| 73.7 | 298.3 | 32.65 | 0.47 | -2.46 | -3.46 | -1.29 |0.06 |
+    |[CWWDL 14020](/_clusters/cwwdl14020/)| 61.4 | 298.3 | 32.63 | 0.47 | -2.46 | -3.45 | 10.05 |0.03 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/hxhwl46.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.173" 
-     data-target="298.311 32.645"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G068.5+02.6a</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span></td>
-    <td style="text-align: center;">57</td>
-    <td style="text-align: center;">5.2</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22HXHWL%2046%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=hxhwl46" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | 298.331 | 32.637 | 0.49 | -2.51 | -3.43 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 298.315 | 32.653 | 0.461 | -2.472 | -3.456 | -1.27 |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 298.3 | 32.628 | 0.469 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 298.315 | 32.653 | 0.461 | -2.472 | -3.456 | -1.27 |
-| **UCC** |298.311 | 32.645 | 0.474 | -2.483 | -3.442 | 10.049 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=298.311,+32.645" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=298.311%2032.645&output=json&radius=5&userEntry=hxhwl46" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/hxhwl46.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/hxhwl46.webp" alt="HXHWL 46 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/hxhwl46.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/hxhwl46.webp" alt="HXHWL 46 HUNT23">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [He et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021RAA....21...93H) | `AG=1.7, m-M=11.3, logAge=8.34, Z=0.018` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=1.608, diffAV50=1.18, MOD50=11.518, logAge50=8.462` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=1.59, dMod50=11.77, logAge50=8.56, [Fe/H]50=0.7` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=436.916` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=68.599%20&lat=2.645&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="hxhwl46"
-         data-ra-center="298.32"
-         data-dec-center="32.65"
-         data-rad-deg="5.2"
-         data-plx="0.474">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 1079](/_clusters/ubc1079/)| 75.4 | 298.319 | 32.66 | 0.483 | -2.484 | -3.446 | 10.049 |
-|[CWWDL 11597](/_clusters/cwwdl11597/)| 73.7 | 298.302 | 32.652 | 0.474 | -2.458 | -3.457 | -1.288 |
-|[CWWDL 14020](/_clusters/cwwdl14020/)| 61.4 | 298.299 | 32.633 | 0.465 | -2.462 | -3.45 | 10.049 |

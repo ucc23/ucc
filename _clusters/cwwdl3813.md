@@ -1,104 +1,51 @@
 ---
 layout: post
-title:  CWWDL 3813
+title: CWWDL 3813
+style: style
+title_flag: true
+more_names: 
+fname: cwwdl3813
+fov: 0.21
+ra_icrs: 109.57493
+de_icrs: -20.04993
+glon: 233.78133
+glat: -3.36061
+r50: 6.3
+plx: 0.3187
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
+UTI_C_N_COL: "#fddcc5"
+UTI_C_dens_COL: "#f7c3b9"
+UTI_C_C3_COL: "#fff1d4"
+UTI_C_lit_COL: "#e0a6b3"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.27
+UTI_C_dens: 0.16
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_summary: |
+    CWWDL 3813 is a poorly populated, very loose object of low C3 quality. It was recently reported in the literature. This object shares a large percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
+r_50_val: 6.3
+N_50_val: 27
+scix_url: CWWDL%203813
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 109.538 | -20.05 | 0.311 | -1.999 | 3.312 | -- |
+    | **UCC** |109.575 | -20.05 | 0.319 | -2.024 | 3.312 | -- | 
+cds_radec: 109.57493,-20.04993
+carousel: UCC
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=5.85, Z=0.44` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[HSC 1848](/_clusters/hsc1848/)| 77.8 | 109.58 | -20.05 | 0.32 | -2.09 | 3.28 | -- |0.07 |
+    |[CWNU 3952](/_clusters/cwnu3952/)| 14.8 | 109.5 | -19.99 | 0.31 | -1.69 | 3.34 | -- |0.02 |
+    |[HSC 1847](/_clusters/hsc1847/)| 11.1 | 109.5 | -20.01 | 0.32 | -1.69 | 3.35 | -- |0.2 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/aladin/cwwdl3813.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.21" 
-     data-target="109.575 -20.05"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G233.7-03.3</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span></td>
-    <td style="text-align: center;">27</td>
-    <td style="text-align: center;">6.3</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22CWWDL%203813%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=cwwdl3813" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | 109.538 | -20.05 | 0.311 | -1.999 | 3.312 | -- |
-| **UCC** |109.575 | -20.05 | 0.319 | -2.024 | 3.311 | -- |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=109.575,-20.05" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=109.575%20-20.05&output=json&radius=5&userEntry=cwwdl3813" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<a href="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwwdl3813.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q3N/main/plots/UCC/cwwdl3813.webp" alt="CWWDL 3813 UCC">
-</a>
-
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Chi et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJS..266...36C) | `logAge=5.85, Z=0.44` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=233.781%20&lat=-3.361&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="cwwdl3813"
-         data-ra-center="109.54"
-         data-dec-center="-20.05"
-         data-rad-deg="6.3"
-         data-plx="0.319">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[HSC 1848](/_clusters/hsc1848/)| 77.8 | 109.576 | -20.051 | 0.325 | -2.086 | 3.284 | -- |
-|[CWNU 3952](/_clusters/cwnu3952/)| 14.8 | 109.498 | -19.992 | 0.306 | -1.689 | 3.345 | -- |
-|[HSC 1847](/_clusters/hsc1847/)| 11.1 | 109.495 | -20.006 | 0.317 | -1.689 | 3.354 | -- |

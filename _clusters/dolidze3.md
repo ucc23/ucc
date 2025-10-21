@@ -1,142 +1,65 @@
 ---
 layout: post
-title:  Dolidze 3
+title: Dolidze 3
+style: style
+title_flag: true
+more_names: 
+fname: dolidze3
+fov: 0.223
+ra_icrs: 303.81954
+de_icrs: 36.83334
+glon: 74.57367
+glat: 1.07218
+r50: 6.7
+plx: 0.4931
+UTI: "0.84"
+UTI_COLOR: "#bee2c6"
+UTI_C_N_COL: "#ecf7d3"
+UTI_C_dens_COL: "#a8cfbb"
+UTI_C_C3_COL: "#a6cab9"
+UTI_C_lit_COL: "#c9e8c8"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.63
+UTI_C_dens: 0.97
+UTI_C_C3: 1.0
+UTI_C_lit: 0.8
+UTI_C_dup: 1.0
+UTI_summary: |
+    Dolidze 3 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with 3 later reported entries.
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 6.7
+N_50_val: 76
+scix_url: Dolidze%203
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 303.871 | 36.863 | -- | -1.42 | -4.13 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 303.855 | 36.815 | -- | -2.82 | -3.99 | -- |
+    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 303.855 | 36.815 | -- | -0.534 | -1.001 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 303.803 | 36.832 | 0.496 | -2.875 | -5.613 | -- |
+    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 303.801 | 36.834 | 0.504 | -2.879 | -5.625 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 303.879 | 36.833 | 0.5 | -2.836 | -5.649 | -- |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 303.859 | 36.846 | 0.499 | -- | -- | -- |
+    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 303.879 | 36.833 | 0.5 | -2.836 | -5.649 | -- |
+    | **UCC** |303.82 | 36.833 | 0.493 | -2.866 | -5.633 | -26.204 | 
+cds_radec: 303.81954,+36.83334
+carousel: UCC_HUNT23_CANTAT20
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.562, Dist=1032.0, Age=8.29` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.562, distance=1032, log_age=8.29` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.538, Dmod=11.192, logt=6.73` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.1, DMNN=11.6, AgeNN=6.95` |
+    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.249, Dist=1907, logage=6.888, [Fe/H]=-0.12` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.156, diffAV50=0.976, MOD50=11.475, logAge50=7.04` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.15, dMod50=11.34, logAge50=7.17, [Fe/H]50=0.31` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=327.250` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[UBC 369](/_clusters/ubc369/)| 35.5 | 303.58 | 36.7 | 0.48 | -2.9 | -5.7 | -0.68 |0.19 |
+    |[FoF 2178](/_clusters/fof2178/)| 25.0 | 303.58 | 36.71 | 0.48 | -2.88 | -5.7 | 3.46 |0.23 |
+    |[CWWDL 13932](/_clusters/cwwdl13932/)| 2.6 | 303.72 | 37.4 | 0.5 | -2.75 | -5.62 | -26.78 |0.05 |
 ---
-<div style="display: flex; justify-content: space-between; width:720px;height:250px">
-<div style="text-align: center;">
-
-<!-- Static image + data attributes for FOV and target -->
-<img id="aladin_img"
-     data-umami-event="aladin_load"
-     src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/aladin/dolidze3.webp"
-     alt="Click to load Aladin Lite" 
-     style="width:355px;height:250px; cursor: pointer;"
-     data-fov="0.223" 
-     data-target="303.82 36.833"/>
-<!-- Div to contain Aladin Lite viewer -->
-<div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
-<!-- Aladin Lite script (will be loaded after the image is clicked) -->
-<script src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-
-</div>
-<!-- Left block -->
-
-<table style="width:355px;height:250px;">
-  <!-- Row 1 (title) -->
-  <tr>
-    <td colspan="5"><h3>UCC G074.5+01.0</h3></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <th style="text-align: center;"><a href="https://ucc.ar/faq#what-is-the-c3-parameter" title="Combined class">C3</a></th>
-    <th style="text-align: center;"><div title="Stars with membership probability >50%">N_50</div></th>
-    <th style="text-align: center;"><div title="Radius that contains half the members [arcmin]">r_50</div></th>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td style="text-align: center;"><span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span></td>
-    <td style="text-align: center;">76</td>
-    <td style="text-align: center;">6.7</td>
-  </tr>
-</table>
-</div>
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="nasa_search" href="https://ui.adsabs.harvard.edu/search/q=%20collection%3Aastronomy%20body%3A%22Dolidze%203%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">NASA/SAO ADS</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident=dolidze3" target="_blank">Simbad</a></p>
-
-
-### Positions
-
-| Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-| :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | 303.871 | 36.863 | -- | -1.42 | -4.13 | -- |
-|[Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | 303.855 | 36.815 | -- | -2.82 | -3.99 | -- |
-|[Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | 303.855 | 36.815 | -- | -0.534 | -1.001 | -- |
-|[Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | 303.803 | 36.832 | 0.496 | -2.875 | -5.613 | -- |
-|[Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | 303.801 | 36.834 | 0.504 | -2.879 | -5.625 | -- |
-|[Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | 303.879 | 36.833 | 0.5 | -2.836 | -5.649 | -- |
-|[Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | 303.859 | 36.846 | 0.499 | -- | -- | -- |
-|[Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | 303.879 | 36.833 | 0.5 | -2.836 | -5.649 | -- |
-| **UCC** |303.82 | 36.833 | 0.493 | -2.866 | -5.633 | -26.204 |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target=303.82,+36.833" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord=303.82%2036.833&output=json&radius=5&userEntry=dolidze3" target="_blank">Simbad</a></p>
-
-### Estimated members
-
-<div class="carousel">
-<input type="radio" name="radio-btn" id="slide1" checked>
-<input type="radio" name="radio-btn" id="slide1">
-<input type="radio" name="radio-btn" id="slide2">
-<input type="radio" name="radio-btn" id="slide3">
-<div class="slides">
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/dolidze3.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/UCC/dolidze3.webp" alt="Dolidze 3 UCC">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/dolidze3.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/HUNT23/dolidze3.webp" alt="Dolidze 3 HUNT23">
-</a>
-</div>
-<div class="slide">
-<a href="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/dolidze3.webp" target="_blank">
-<img src="https://raw.githubusercontent.com/ucc23/Q1P/main/plots/CANTAT20/dolidze3.webp" alt="Dolidze 3 CANTAT20">
-</a>
-</div>
-</div>
-<div class="indicators">
-<label for="slide1">1</label>
-<label for="slide2">2</label>
-<label for="slide3">3</label>
-</div>
-</div>
-
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
-
-
-### Fundamental parameters
-
-| Reference |  Values |
-| :---      |  :---:  |
-| [Dias et al. (2002)](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..871D) | `E(B-V)=0.562, Dist=1032.0, Age=8.29` |
-| [Kharchenko et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K) | `e_bv=0.562, distance=1032, log_age=8.29` |
-| [Loktin & Popova (2017)](https://ui.adsabs.harvard.edu/abs/2017AstBu..72..257L) | `E(B-V)=0.538, Dmod=11.192, logt=6.73` |
-| [Cantat-Gaudin et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C) | `AVNN=2.1, DMNN=11.6, AgeNN=6.95` |
-| [Dias et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..356D) | `Av=2.249, Dist=1907, logage=6.888, [Fe/H]=-0.12` |
-| [Hunt & Reffert (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H) | `AV50=2.156, diffAV50=0.976, MOD50=11.475, logAge50=7.04` |
-| [Cavallo et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C) | `AV50=2.15, dMod50=11.34, logAge50=7.17, [Fe/H]50=0.31` |
-| [Hunt & Reffert (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H) | `MassJ=327.250` |
-
-> <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon=74.574%20&lat=1.072&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
-
-
-### Cluster region
-
-<html lang="en">
-  <body>
-    <center>
-    <div id="plot-params"
-         data-oc-name="dolidze3"
-         data-ra-center="303.8"
-         data-dec-center="36.83"
-         data-rad-deg="6.7"
-         data-plx="0.493">
-    </div>
-    <div id="plot-container">
-        <div id="plot"></div>
-    </div>
-    <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-    </center>
-  </body>
-</html>
-<br>
-
-
-#### Objects with shared members
-
-| Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv    |
-| :---:   | :-: |:---: | :---: | :---: | :---: | :---: | :---: |
-|[UBC 369](/_clusters/ubc369/)| 35.5 | 303.576 | 36.702 | 0.484 | -2.904 | -5.703 | -0.682 |
-|[FoF 2178](/_clusters/fof2178/)| 25.0 | 303.581 | 36.707 | 0.483 | -2.881 | -5.698 | 3.457 |
-|[CWWDL 13932](/_clusters/cwwdl13932/)| 2.6 | 303.718 | 37.401 | 0.496 | -2.752 | -5.619 | -26.778 |
