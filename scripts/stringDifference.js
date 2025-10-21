@@ -1,5 +1,3 @@
-// stringDifference.js
-
 /**
  * Calculate the normalized difference between two strings.
  * @param {string} str1 - First string.
