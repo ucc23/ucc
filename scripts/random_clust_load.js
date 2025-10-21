@@ -1,22 +1,10 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 
-// Clear file from cache (run in the browser console):
-// sessionStorage.removeItem('clusterFnames');
+const data = await loadCompressedCsv();
 
 async function loadRandomCluster() {
-  // Ensure fnames is loaded (only once per session)
-  let fnames = sessionStorage.getItem("clusterFnames");
-
-  if (fnames) {
-    fnames = JSON.parse(fnames);
-  } else {
-    // console.log("loading compressed file");
-    fnames = await loadCompressedCsv("../assets/clusters.csv.gz", ["fnames"]);
-    sessionStorage.setItem("clusterFnames", JSON.stringify(fnames));
-  }
-
   // Choose random file
-  const randomName = fnames[(Math.random() * fnames.length) | 0]["fnames"].split(";")[0];
+  const randomName = data[(Math.random() * data.length) | 0]["fnames"].split(";")[0];
   const randomURL = `../_clusters/${randomName}`;
   // console.log("Loading:", randomURL);
 
