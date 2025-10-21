@@ -1,134 +1,135 @@
 ---
 layout: page
-title: 
+title:  
 permalink: /tables/dbs/BORISSOVA2018_table/
+style: style
 ---
 
 &nbsp;
-# [Borissova et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B)
+# [Borissova et al. (2018)](https://scixplorer.org/abs/2018MNRAS.481.3902B)
 
-| Name | l | b | ra | dec | Plx | N50 | r50 | C3 |
-| ---- | - | - | -- | --- | --- | --  | --  |-- |
-| [VVVX CL001](/_clusters/vvvxcl001/) | 297.71 | -2.77 | 180.38 | -65.14 | 0.211 | 10 | 9.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL002](/_clusters/vvvxcl002/) | 297.72 | -2.76 | 180.4 | -65.13 | 0.342 | 14 | 9.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL003](/_clusters/vvvxcl003/) | 298.68 | 2.37 | 184.28 | -60.22 | 0.397 | 11 | 11.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL004](/_clusters/vvvxcl004/) | 298.7 | 2.29 | 184.31 | -60.3 | 0.175 | 16 | 4.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL005](/_clusters/vvvxcl005/) | 298.7 | 2.35 | 184.32 | -60.24 | 0.414 | 16 | 11.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL006](/_clusters/vvvxcl006/) | 299.84 | -2.66 | 185.44 | -65.36 | 0.355 | 8 | 12.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL007](/_clusters/vvvxcl007/) | 300.25 | 2.64 | 187.47 | -60.11 | 0.196 | 18 | 4.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL008](/_clusters/vvvxcl008/) | 301.9 | 2.42 | 190.77 | -60.44 | 0.252 | 10 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL009](/_clusters/vvvxcl009/) | 302.39 | 2.79 | 191.77 | -60.07 | 0.522 | 11 | 21.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL010](/_clusters/vvvxcl010/) | 302.85 | -2.05 | 192.66 | -64.92 | 0.2 | 7 | 6.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL011](/_clusters/vvvxcl011/) | 302.9 | 2.28 | 192.8 | -60.59 | 0.363 | 15 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL012](/_clusters/vvvxcl012/) | 304.9 | 2.97 | 196.76 | -59.84 | 0.21 | 17 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL013](/_clusters/vvvxcl013/) | 305.27 | -3.07 | 198.58 | -65.84 | 0.164 | 12 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL014](/_clusters/vvvxcl014/) | 307.19 | -2.4 | 202.95 | -64.94 | 0.216 | 9 | 8.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL015](/_clusters/vvvxcl015/) | 308.35 | 3.28 | 203.44 | -59.14 | 0.27 | 11 | 12.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL016](/_clusters/vvvxcl016/) | 309.08 | -2.84 | 207.53 | -65.01 | 0.166 | 11 | 7.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL017](/_clusters/vvvxcl017/) | 309.6 | -3.02 | 208.82 | -65.06 | 0.233 | 12 | 10.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL018](/_clusters/vvvxcl018/) | 310.82 | -3.01 | 211.59 | -64.73 | 0.286 | 10 | 7.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL019](/_clusters/vvvxcl019/) | 315.89 | 2.28 | 217.91 | -58.05 | 0.291 | 14 | 8.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL020](/_clusters/vvvxcl020/) | 314.28 | -2.65 | 218.72 | -63.22 | 0.933 | 6 | 16.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL021](/_clusters/vvvxcl021/) | 316.36 | 2.16 | 218.82 | -57.98 | 0.281 | 11 | 8.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL022](/_clusters/vvvxcl022/) | 317.05 | 2.65 | 219.64 | -57.26 | 0.785 | 7 | 22.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL023](/_clusters/vvvxcl023/) | 317.24 | 2.36 | 220.17 | -57.44 | 0.329 | 15 | 12.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL024](/_clusters/vvvxcl024/) | 317.29 | -2.27 | 224.25 | -61.59 | 0.224 | 13 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL025](/_clusters/vvvxcl025/) | 326.54 | 2.58 | 234.03 | -52.58 | 0.196 | 14 | 6.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL026](/_clusters/vvvxcl026/) | 323.07 | -3.02 | 234.95 | -59.14 | 0.389 | 5 | 13.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL027](/_clusters/vvvxcl027/) | 325.06 | -2.62 | 237.49 | -57.61 | 0.268 | 16 | 11.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL028](/_clusters/vvvxcl028/) | 329.1 | 2.39 | 237.51 | -51.18 | 0.439 | 38 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL029](/_clusters/vvvxcl029/) | 329.66 | 2.46 | 238.13 | -50.77 | 0.335 | 22 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL030](/_clusters/vvvxcl030/) | 326.24 | -2.23 | 238.71 | -56.56 | 0.191 | 15 | 4.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL031](/_clusters/vvvxcl031/) | 326.52 | -2.1 | 238.94 | -56.28 | 0.292 | 8 | 10.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL032](/_clusters/vvvxcl032/) | 326.93 | -2.38 | 239.84 | -56.23 | 0.316 | 11 | 7.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL033](/_clusters/vvvxcl033/) | 331.41 | 2.62 | 240.06 | -49.52 | 0.161 | 11 | 10.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL034](/_clusters/vvvxcl034/) | 326.97 | -3.06 | 240.7 | -56.72 | 0.275 | 10 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL035](/_clusters/vvvxcl035/) | 332.4 | 2.46 | 241.36 | -48.99 | 0.496 | 19 | 4.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL036](/_clusters/vvvxcl036/) | 332.29 | 2.28 | 241.42 | -49.19 | 0.485 | 18 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL037](/_clusters/vvvxcl037/) | 328.97 | -2.47 | 242.63 | -54.94 | 0.195 | 27 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL038](/_clusters/vvvxcl038/) | 328.97 | -2.5 | 242.67 | -54.96 | 0.216 | 13 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL039](/_clusters/vvvxcl039/) | 329.7 | -2.26 | 243.31 | -54.29 | 0.389 | 11 | 6.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL040](/_clusters/vvvxcl040/) | 332.1 | -2.64 | 246.64 | -52.87 | 0.201 | 13 | 7.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL041](/_clusters/vvvxcl041/) | 338.98 | 2.75 | 247.9 | -44.17 | 0.045 | 39 | 6.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL042](/_clusters/vvvxcl042/) | 338.55 | 2.12 | 248.13 | -44.92 | 0.152 | 11 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL043](/_clusters/vvvxcl043/) | 340.88 | 2.23 | 250.19 | -43.12 | 0.093 | 14 | 6.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL044](/_clusters/vvvxcl044/) | 335.96 | -2.43 | 250.56 | -49.89 | 0.164 | 11 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL045](/_clusters/vvvxcl045/) | 335.89 | -2.61 | 250.71 | -50.06 | 0.53 | 7 | 18.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL046](/_clusters/vvvxcl046/) | 336.34 | -2.22 | 250.71 | -49.47 | 0.052 | 8 | 9.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL047](/_clusters/vvvxcl047/) | 342.54 | 2.39 | 251.5 | -41.77 | 0.265 | 4 | 9.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL048](/_clusters/vvvxcl048/) | 343.05 | 2.61 | 251.72 | -41.23 | 0.897 | 49 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVVX CL049](/_clusters/vvvxcl049/) | 343.11 | 2.52 | 251.86 | -41.24 | 1.105 | 6 | 29.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL050](/_clusters/vvvxcl050/) | 337.7 | -2.46 | 252.33 | -48.59 | 0.331 | 11 | 8.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL051](/_clusters/vvvxcl051/) | 344.59 | 2.59 | 253.04 | -40.06 | 0.147 | 14 | 7.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL052](/_clusters/vvvxcl052/) | 344.89 | 2.58 | 253.29 | -39.84 | 0.435 | 6 | 13.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL053](/_clusters/vvvxcl053/) | 347.91 | 2.5 | 255.79 | -37.52 | 0.272 | 10 | 5.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL054](/_clusters/vvvxcl054/) | 343.85 | -2.39 | 257.72 | -43.71 | 0.066 | 14 | 5.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL055](/_clusters/vvvxcl055/) | 345.45 | -2.83 | 259.48 | -42.66 | 0.257 | 17 | 5.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL056](/_clusters/vvvxcl056/) | 345.92 | -2.51 | 259.5 | -42.09 | 0.275 | 13 | 12.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL057](/_clusters/vvvxcl057/) | 346.61 | -2.29 | 259.78 | -41.41 | 0.694 | 12 | 25.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL058](/_clusters/vvvxcl058/) | 349.34 | -2.86 | 262.42 | -39.47 | 0.407 | 12 | 12.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL059](/_clusters/vvvxcl059/) | 350.36 | -2.59 | 262.84 | -38.47 | -0.015 | 9 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL060](/_clusters/vvvxcl060/) | 10.55 | 3.67 | 268.85 | -18.0 | 0.187 | 10 | 9.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL061](/_clusters/vvvxcl061/) | 10.36 | 2.92 | 269.43 | -18.54 | 0.244 | 46 | 7.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL062](/_clusters/vvvxcl062/) | 10.38 | 2.21 | 270.09 | -18.87 | 0.216 | 17 | 5.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL063](/_clusters/vvvxcl063/) | 10.51 | 2.23 | 270.14 | -18.75 | 0.044 | 14 | 8.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL064](/_clusters/vvvxcl064/) | 11.43 | 2.64 | 270.25 | -17.75 | 0.204 | 15 | 4.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL065](/_clusters/vvvxcl065/) | 11.32 | 2.44 | 270.37 | -17.95 | 0.118 | 7 | 6.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL066](/_clusters/vvvxcl066/) | 10.19 | 0.2 | 271.86 | -20.03 | 0.452 | 19 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> |
-| [VVVX CL067](/_clusters/vvvxcl067/) | 10.15 | -0.32 | 272.32 | -20.31 | 0.442 | 12 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL068](/_clusters/vvvxcl068/) | 10.18 | -0.4 | 272.41 | -20.32 | 0.436 | 37 | 8.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL069](/_clusters/vvvxcl069/) | 10.19 | -0.43 | 272.44 | -20.34 | 0.257 | 20 | 4.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL070](/_clusters/vvvxcl070/) | 10.67 | -0.21 | 272.48 | -19.81 | 0.475 | 16 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL071](/_clusters/vvvxcl071/) | 10.63 | -0.34 | 272.58 | -19.9 | 0.473 | 15 | 8.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL072](/_clusters/vvvxcl072/) | 10.64 | -0.44 | 272.68 | -19.94 | 0.372 | 16 | 6.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL073](/_clusters/vvvxcl073/) | 12.42 | 0.5 | 272.71 | -17.93 | 0.259 | 21 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL074](/_clusters/vvvxcl074/) | 11.11 | -0.4 | 272.88 | -19.51 | 0.45 | 15 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL075](/_clusters/vvvxcl075/) | 11.94 | -0.04 | 272.97 | -18.61 | 0.367 | 20 | 3.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL076](/_clusters/vvvxcl076/) | 12.57 | -0.11 | 273.35 | -18.09 | 0.636 | 10 | 12.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL077](/_clusters/vvvxcl077/) | 12.58 | -0.15 | 273.4 | -18.1 | 0.484 | 17 | 4.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL078](/_clusters/vvvxcl078/) | 11.94 | -0.62 | 273.5 | -18.89 | 0.47 | 16 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL079](/_clusters/vvvxcl079/) | 12.93 | -0.08 | 273.51 | -17.76 | 0.418 | 18 | 4.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL080](/_clusters/vvvxcl080/) | 12.79 | -0.18 | 273.53 | -17.93 | 0.513 | 13 | 10.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL081](/_clusters/vvvxcl081/) | 17.38 | 2.25 | 273.59 | -12.74 | 0.067 | 25 | 4.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL082](/_clusters/vvvxcl082/) | 13.38 | 0.07 | 273.6 | -17.29 | 0.381 | 11 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL083](/_clusters/vvvxcl083/) | 11.42 | -1.38 | 273.96 | -19.7 | 0.717 | 37 | 9.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL084](/_clusters/vvvxcl084/) | 14.63 | 0.3 | 274.01 | -16.09 | 0.217 | 9 | 7.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL085](/_clusters/vvvxcl085/) | 14.63 | 0.3 | 274.01 | -16.09 | 0.317 | 16 | 9.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL086](/_clusters/vvvxcl086/) | 16.7 | 1.38 | 274.04 | -13.76 | 0.463 | 15 | 20.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL087](/_clusters/vvvxcl087/) | 13.95 | -0.18 | 274.11 | -16.91 | 0.439 | 15 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL088](/_clusters/vvvxcl088/) | 11.37 | -1.68 | 274.21 | -19.89 | 0.495 | 213 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL089](/_clusters/vvvxcl089/) | 13.94 | -0.34 | 274.25 | -17.0 | 0.625 | 26 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL090](/_clusters/vvvxcl090/) | 12.24 | -1.32 | 274.31 | -18.95 | 0.298 | 19 | 5.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL091](/_clusters/vvvxcl091/) | 13.98 | -0.42 | 274.34 | -17.0 | 0.55 | 19 | 4.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL092](/_clusters/vvvxcl092/) | 13.91 | -0.48 | 274.36 | -17.09 | 0.564 | 18 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL093](/_clusters/vvvxcl093/) | 14.03 | -0.52 | 274.46 | -17.0 | 0.606 | 165 | 8.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL094](/_clusters/vvvxcl094/) | 18.69 | 1.97 | 274.48 | -11.73 | 0.496 | 27 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL095](/_clusters/vvvxcl095/) | 14.06 | -0.52 | 274.48 | -16.98 | 0.524 | 15 | 8.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL096](/_clusters/vvvxcl096/) | 18.34 | 1.77 | 274.49 | -12.12 | 0.483 | 22 | 4.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL097](/_clusters/vvvxcl097/) | 14.21 | -0.53 | 274.56 | -16.85 | 0.625 | 22 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL098](/_clusters/vvvxcl098/) | 15.18 | -0.15 | 274.7 | -15.81 | 0.293 | 14 | 7.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL099](/_clusters/vvvxcl099/) | 16.95 | 0.78 | 274.71 | -13.82 | 0.534 | 42 | 1.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL100](/_clusters/vvvxcl100/) | 16.92 | 0.75 | 274.72 | -13.86 | 0.542 | 44 | 1.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL101](/_clusters/vvvxcl101/) | 17.02 | 0.69 | 274.83 | -13.79 | 0.521 | 48 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL102](/_clusters/vvvxcl102/) | 17.45 | 0.82 | 274.92 | -13.36 | 0.535 | 20 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> |
-| [VVVX CL103](/_clusters/vvvxcl103/) | 10.66 | -2.82 | 274.92 | -21.06 | 0.71 | 8 | 22.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL104](/_clusters/vvvxcl104/) | 15.36 | -0.42 | 275.03 | -15.78 | 0.423 | 46 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> |
-| [VVVX CL105](/_clusters/vvvxcl105/) | 16.93 | 0.29 | 275.15 | -14.07 | 0.617 | 20 | 8.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL106](/_clusters/vvvxcl106/) | 16.8 | 0.13 | 275.23 | -14.26 | 0.456 | 18 | 5.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL107](/_clusters/vvvxcl107/) | 12.89 | -1.98 | 275.25 | -18.7 | 0.169 | 10 | 8.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL108](/_clusters/vvvxcl108/) | 17.64 | 0.15 | 275.61 | -13.5 | 0.401 | 16 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL109](/_clusters/vvvxcl109/) | 18.26 | -0.2 | 276.23 | -13.12 | 0.366 | 13 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL110](/_clusters/vvvxcl110/) | 18.66 | -0.06 | 276.29 | -12.7 | 0.379 | 17 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL111](/_clusters/vvvxcl111/) | 18.56 | -0.19 | 276.37 | -12.85 | 0.472 | 16 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL112](/_clusters/vvvxcl112/) | 19.69 | 0.38 | 276.39 | -11.59 | 0.36 | 12 | 10.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL113](/_clusters/vvvxcl113/) | 18.3 | -0.39 | 276.43 | -13.17 | 0.34 | 9 | 6.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL114](/_clusters/vvvxcl114/) | 18.37 | -0.38 | 276.45 | -13.11 | 0.363 | 20 | 6.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL115](/_clusters/vvvxcl115/) | 20.12 | 0.38 | 276.59 | -11.2 | 0.237 | 15 | 4.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL116](/_clusters/vvvxcl116/) | 19.89 | 0.1 | 276.74 | -11.54 | 0.331 | 16 | 6.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL117](/_clusters/vvvxcl117/) | 19.61 | -0.24 | 276.91 | -11.95 | 0.311 | 16 | 5.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL118](/_clusters/vvvxcl118/) | 19.31 | -0.66 | 277.15 | -12.41 | 0.346 | 16 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL119](/_clusters/vvvxcl119/) | 19.88 | -0.54 | 277.31 | -11.84 | 0.429 | 19 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> |
-| [VVVX CL120](/_clusters/vvvxcl120/) | 19.6 | -0.9 | 277.51 | -12.26 | 0.366 | 14 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> |
+| Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [VVVX CL001](/_clusters/vvvxcl001/) | 180.31 | -65.16 | 0.21 | 10 | 9.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL002](/_clusters/vvvxcl002/) | 180.32 | -65.12 | 0.34 | 14 | 9.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL003](/_clusters/vvvxcl003/) | 184.32 | -60.26 | 0.4 | 11 | 11.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL004](/_clusters/vvvxcl004/) | 184.38 | -60.33 | 0.17 | 16 | 4.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL005](/_clusters/vvvxcl005/) | 184.35 | -60.23 | 0.41 | 16 | 11.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL006](/_clusters/vvvxcl006/) | 185.28 | -65.35 | 0.35 | 8 | 12.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL007](/_clusters/vvvxcl007/) | 187.45 | -60.12 | 0.2 | 18 | 4.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL008](/_clusters/vvvxcl008/) | 190.77 | -60.53 | 0.25 | 10 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL009](/_clusters/vvvxcl009/) | 191.63 | -60.06 | 0.52 | 11 | 21.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL010](/_clusters/vvvxcl010/) | 192.65 | -64.93 | 0.2 | 7 | 6.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL011](/_clusters/vvvxcl011/) | 192.76 | -60.59 | 0.36 | 15 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [VVVX CL012](/_clusters/vvvxcl012/) | 196.75 | -59.83 | 0.21 | 17 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL013](/_clusters/vvvxcl013/) | 198.55 | -65.83 | 0.16 | 12 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL014](/_clusters/vvvxcl014/) | 202.78 | -64.9 | 0.22 | 9 | 8.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
+| [VVVX CL015](/_clusters/vvvxcl015/) | 203.42 | -59.16 | 0.27 | 11 | 12.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL016](/_clusters/vvvxcl016/) | 207.53 | -64.97 | 0.17 | 11 | 7.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
+| [VVVX CL017](/_clusters/vvvxcl017/) | 208.78 | -64.99 | 0.23 | 12 | 10.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
+| [VVVX CL018](/_clusters/vvvxcl018/) | 211.59 | -64.75 | 0.29 | 10 | 7.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL019](/_clusters/vvvxcl019/) | 217.95 | -58.05 | 0.29 | 14 | 8.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL020](/_clusters/vvvxcl020/) | 219.02 | -63.4 | 0.93 | 6 | 16.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL021](/_clusters/vvvxcl021/) | 218.92 | -57.98 | 0.28 | 11 | 8.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL022](/_clusters/vvvxcl022/) | 219.44 | -57.42 | 0.78 | 7 | 22.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL023](/_clusters/vvvxcl023/) | 220.24 | -57.45 | 0.33 | 15 | 12.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL024](/_clusters/vvvxcl024/) | 224.25 | -61.56 | 0.22 | 13 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL025](/_clusters/vvvxcl025/) | 234.0 | -52.55 | 0.2 | 14 | 6.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL026](/_clusters/vvvxcl026/) | 235.02 | -59.08 | 0.39 | 5 | 13.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL027](/_clusters/vvvxcl027/) | 237.44 | -57.65 | 0.27 | 16 | 11.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
+| [VVVX CL028](/_clusters/vvvxcl028/) | 237.51 | -51.2 | 0.44 | 38 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.19  |
+| [VVVX CL029](/_clusters/vvvxcl029/) | 238.08 | -50.74 | 0.33 | 22 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [VVVX CL030](/_clusters/vvvxcl030/) | 238.65 | -56.54 | 0.19 | 15 | 4.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [VVVX CL031](/_clusters/vvvxcl031/) | 238.92 | -56.38 | 0.29 | 8 | 10.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL032](/_clusters/vvvxcl032/) | 239.75 | -56.23 | 0.32 | 11 | 7.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [VVVX CL033](/_clusters/vvvxcl033/) | 239.96 | -49.52 | 0.16 | 11 | 10.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL034](/_clusters/vvvxcl034/) | 240.69 | -56.65 | 0.27 | 10 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
+| [VVVX CL035](/_clusters/vvvxcl035/) | 241.23 | -49.07 | 0.5 | 19 | 4.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.16  |
+| [VVVX CL036](/_clusters/vvvxcl036/) | 241.43 | -49.2 | 0.49 | 18 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
+| [VVVX CL037](/_clusters/vvvxcl037/) | 242.63 | -54.94 | 0.2 | 27 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.14  |
+| [VVVX CL038](/_clusters/vvvxcl038/) | 242.63 | -54.93 | 0.22 | 13 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [VVVX CL039](/_clusters/vvvxcl039/) | 243.27 | -54.23 | 0.39 | 11 | 6.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
+| [VVVX CL040](/_clusters/vvvxcl040/) | 246.58 | -52.9 | 0.2 | 13 | 7.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
+| [VVVX CL041](/_clusters/vvvxcl041/) | 247.88 | -44.17 | 0.05 | 39 | 6.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.15  |
+| [VVVX CL042](/_clusters/vvvxcl042/) | 248.11 | -44.92 | 0.15 | 11 | 7.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
+| [VVVX CL043](/_clusters/vvvxcl043/) | 250.25 | -43.14 | 0.09 | 14 | 6.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL044](/_clusters/vvvxcl044/) | 250.51 | -49.85 | 0.16 | 11 | 4.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL045](/_clusters/vvvxcl045/) | 250.66 | -49.95 | 0.53 | 7 | 18.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL046](/_clusters/vvvxcl046/) | 250.72 | -49.44 | 0.05 | 8 | 9.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL047](/_clusters/vvvxcl047/) | 251.63 | -41.75 | 0.26 | 4 | 9.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL048](/_clusters/vvvxcl048/) | 251.69 | -41.22 | 0.9 | 49 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.5  |
+| [VVVX CL049](/_clusters/vvvxcl049/) | 251.68 | -41.03 | 1.11 | 6 | 29.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL050](/_clusters/vvvxcl050/) | 252.26 | -48.61 | 0.33 | 11 | 8.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL051](/_clusters/vvvxcl051/) | 253.03 | -40.06 | 0.15 | 14 | 7.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL052](/_clusters/vvvxcl052/) | 253.33 | -39.84 | 0.44 | 6 | 13.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL053](/_clusters/vvvxcl053/) | 255.74 | -37.51 | 0.27 | 10 | 5.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [VVVX CL054](/_clusters/vvvxcl054/) | 257.87 | -43.69 | 0.07 | 14 | 5.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL055](/_clusters/vvvxcl055/) | 259.51 | -42.68 | 0.26 | 17 | 5.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
+| [VVVX CL056](/_clusters/vvvxcl056/) | 259.49 | -42.23 | 0.27 | 13 | 12.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL057](/_clusters/vvvxcl057/) | 259.97 | -41.3 | 0.69 | 12 | 25.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL058](/_clusters/vvvxcl058/) | 262.42 | -39.46 | 0.41 | 12 | 12.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL059](/_clusters/vvvxcl059/) | 262.84 | -38.48 | -0.01 | 9 | 5.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.13  |
+| [VVVX CL060](/_clusters/vvvxcl060/) | 268.89 | -18.02 | 0.19 | 10 | 9.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
+| [VVVX CL061](/_clusters/vvvxcl061/) | 269.48 | -18.57 | 0.24 | 46 | 7.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.14  |
+| [VVVX CL062](/_clusters/vvvxcl062/) | 270.01 | -18.81 | 0.22 | 17 | 5.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL063](/_clusters/vvvxcl063/) | 270.12 | -18.76 | 0.04 | 14 | 8.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL064](/_clusters/vvvxcl064/) | 270.24 | -17.75 | 0.2 | 15 | 4.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
+| [VVVX CL065](/_clusters/vvvxcl065/) | 270.39 | -17.92 | 0.12 | 7 | 6.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
+| [VVVX CL066](/_clusters/vvvxcl066/) | 271.8 | -20.01 | 0.45 | 19 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | 0.05  |
+| [VVVX CL067](/_clusters/vvvxcl067/) | 272.3 | -20.28 | 0.44 | 12 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL068](/_clusters/vvvxcl068/) | 272.38 | -20.37 | 0.44 | 37 | 8.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.19  |
+| [VVVX CL069](/_clusters/vvvxcl069/) | 272.41 | -20.36 | 0.26 | 20 | 4.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
+| [VVVX CL070](/_clusters/vvvxcl070/) | 272.49 | -19.75 | 0.47 | 16 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
+| [VVVX CL071](/_clusters/vvvxcl071/) | 272.56 | -19.86 | 0.47 | 15 | 8.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL072](/_clusters/vvvxcl072/) | 272.74 | -19.93 | 0.37 | 16 | 6.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL073](/_clusters/vvvxcl073/) | 272.77 | -17.94 | 0.26 | 21 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL074](/_clusters/vvvxcl074/) | 272.89 | -19.46 | 0.45 | 15 | 6.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL075](/_clusters/vvvxcl075/) | 272.98 | -18.61 | 0.37 | 20 | 3.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.14  |
+| [VVVX CL076](/_clusters/vvvxcl076/) | 273.39 | -18.13 | 0.64 | 10 | 12.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [VVVX CL077](/_clusters/vvvxcl077/) | 273.38 | -18.1 | 0.48 | 17 | 4.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.12  |
+| [VVVX CL078](/_clusters/vvvxcl078/) | 273.53 | -18.91 | 0.47 | 16 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL079](/_clusters/vvvxcl079/) | 273.53 | -17.8 | 0.42 | 18 | 4.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
+| [VVVX CL080](/_clusters/vvvxcl080/) | 273.57 | -17.89 | 0.51 | 13 | 10.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
+| [VVVX CL081](/_clusters/vvvxcl081/) | 273.62 | -12.79 | 0.07 | 25 | 4.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.13  |
+| [VVVX CL082](/_clusters/vvvxcl082/) | 273.63 | -17.29 | 0.38 | 11 | 5.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL083](/_clusters/vvvxcl083/) | 273.96 | -19.73 | 0.72 | 37 | 9.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.19  |
+| [VVVX CL084](/_clusters/vvvxcl084/) | 274.0 | -16.1 | 0.22 | 9 | 7.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.15  |
+| [VVVX CL085](/_clusters/vvvxcl085/) | 274.0 | -16.06 | 0.32 | 16 | 9.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
+| [VVVX CL086](/_clusters/vvvxcl086/) | 273.91 | -13.75 | 0.46 | 15 | 20.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL087](/_clusters/vvvxcl087/) | 274.07 | -16.87 | 0.44 | 15 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL088](/_clusters/vvvxcl088/) | 274.14 | -19.91 | 0.49 | 213 | 4.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.48  |
+| [VVVX CL089](/_clusters/vvvxcl089/) | 274.2 | -16.99 | 0.63 | 26 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.2  |
+| [VVVX CL090](/_clusters/vvvxcl090/) | 274.31 | -18.94 | 0.3 | 19 | 5.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
+| [VVVX CL091](/_clusters/vvvxcl091/) | 274.28 | -17.12 | 0.55 | 19 | 4.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.21  |
+| [VVVX CL092](/_clusters/vvvxcl092/) | 274.26 | -17.08 | 0.56 | 18 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
+| [VVVX CL093](/_clusters/vvvxcl093/) | 274.38 | -16.97 | 0.61 | 165 | 8.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.43  |
+| [VVVX CL094](/_clusters/vvvxcl094/) | 274.48 | -11.76 | 0.5 | 27 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.29  |
+| [VVVX CL095](/_clusters/vvvxcl095/) | 274.4 | -16.93 | 0.52 | 15 | 8.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL096](/_clusters/vvvxcl096/) | 274.51 | -12.13 | 0.48 | 22 | 4.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.21  |
+| [VVVX CL097](/_clusters/vvvxcl097/) | 274.52 | -16.84 | 0.62 | 22 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.33  |
+| [VVVX CL098](/_clusters/vvvxcl098/) | 274.75 | -15.87 | 0.29 | 14 | 7.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.13  |
+| [VVVX CL099](/_clusters/vvvxcl099/) | 274.69 | -13.79 | 0.53 | 42 | 1.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
+| [VVVX CL100](/_clusters/vvvxcl100/) | 274.68 | -13.82 | 0.54 | 44 | 1.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0  |
+| [VVVX CL101](/_clusters/vvvxcl101/) | 274.77 | -13.79 | 0.52 | 48 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.02  |
+| [VVVX CL102](/_clusters/vvvxcl102/) | 274.9 | -13.35 | 0.54 | 20 | 5.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.15  |
+| [VVVX CL103](/_clusters/vvvxcl103/) | 274.88 | -21.15 | 0.71 | 8 | 22.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL104](/_clusters/vvvxcl104/) | 274.97 | -15.72 | 0.42 | 46 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.49  |
+| [VVVX CL105](/_clusters/vvvxcl105/) | 275.19 | -14.09 | 0.62 | 20 | 8.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.12  |
+| [VVVX CL106](/_clusters/vvvxcl106/) | 275.27 | -14.28 | 0.46 | 18 | 5.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.11  |
+| [VVVX CL107](/_clusters/vvvxcl107/) | 275.23 | -18.67 | 0.17 | 10 | 8.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL108](/_clusters/vvvxcl108/) | 275.71 | -13.54 | 0.4 | 16 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL109](/_clusters/vvvxcl109/) | 276.22 | -13.12 | 0.37 | 13 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL110](/_clusters/vvvxcl110/) | 276.28 | -12.7 | 0.38 | 17 | 6.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL111](/_clusters/vvvxcl111/) | 276.34 | -12.88 | 0.47 | 16 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL112](/_clusters/vvvxcl112/) | 276.21 | -11.6 | 0.36 | 12 | 10.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
+| [VVVX CL113](/_clusters/vvvxcl113/) | 276.43 | -13.17 | 0.34 | 9 | 6.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [VVVX CL114](/_clusters/vvvxcl114/) | 276.49 | -13.09 | 0.36 | 20 | 6.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL115](/_clusters/vvvxcl115/) | 276.61 | -11.21 | 0.24 | 15 | 4.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [VVVX CL116](/_clusters/vvvxcl116/) | 276.75 | -11.52 | 0.33 | 16 | 6.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [VVVX CL117](/_clusters/vvvxcl117/) | 276.93 | -11.93 | 0.31 | 16 | 5.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL118](/_clusters/vvvxcl118/) | 277.14 | -12.41 | 0.35 | 16 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.17  |
+| [VVVX CL119](/_clusters/vvvxcl119/) | 277.22 | -11.9 | 0.43 | 19 | 7.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [VVVX CL120](/_clusters/vvvxcl120/) | 277.51 | -12.25 | 0.37 | 14 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 
 
 
