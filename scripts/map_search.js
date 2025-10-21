@@ -4,13 +4,16 @@ import { generalSearch } from "./search.js";
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
+import {geoAitoff} from "https://cdn.skypack.dev/d3-geo-projection@4";
+import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
 // Set up dimensions and projection
 const plotDiv = document.getElementById("map_plot");
 const width = plotDiv.offsetWidth;  // Get the width of the div
 
 const height = width/2;
 
-const projection = d3.geoAitoff()
+const projection = geoAitoff()
     .rotate([0, 0]) 
     .scale(height / 4)
     .translate([width / 2, height / 2]);
@@ -99,12 +102,6 @@ const tableContainer = d3.select("#table_results")
         .style("display", "flex")
         .style("justify-content", "center");
 
-// Declare 'data' in the global scope
-let data = [];
-(async () => {
-    data = await loadCompressedCsv("../assets/clusters.csv.gz", ["Name", "fnames", "RA_ICRS", "DE_ICRS", "GLON", "GLAT", "dist_pc", "N_50", "C3", "UTI"]);
-    updateDisplay();
-})();
 
 // Convert data to CSV format
 function convertToCSV(points) {
@@ -194,6 +191,7 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
                 lon: parseFloat(d.GLON),
                 lat: parseFloat(d.GLAT),
                 fname: d.fnames.split(';')[0],
+                fnames: d.fnames,
                 distance: distance,
                 dist_pc: parseFloat(d.dist_pc),
                 membs: parseFloat(d.N_50),
@@ -211,6 +209,12 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
     if (c3Filter) {
         results = results.filter(d => d.c3 === c3Filter);
     }
+
+    // // Return only exact matches if any found
+    // const exactMatches = results.filter(d => d.distance === 0);
+    // if (exactMatches.length > 0) {
+    //     return exactMatches;
+    // }
 
     return results
         .sort((a, b) => a.distance - b.distance)
@@ -230,6 +234,7 @@ const letterHTML = {
 
 function buildTable(points, circles, sizeScale, coordsys) {
     // Determine coordinate labels
+    const dr = coordsys === "names" ? "d [str]" : "d [ ' ]";
     const coord1 = coordsys === "gal" ? "LON" : "RA";
     const coord2 = coordsys === "gal" ? "LAT" : "DEC";
 
@@ -238,7 +243,7 @@ function buildTable(points, circles, sizeScale, coordsys) {
         <thead>
             <tr>
                 <th class="left">Name</th>
-                <th class="center">Rad</th>
+                <th class="center">${dr}</th>
                 <th class="center">${coord1}</th>
                 <th class="center">${coord2}</th>
                 <th class="center">Dist [pc]</th>
@@ -257,7 +262,11 @@ function buildTable(points, circles, sizeScale, coordsys) {
 
         tableBody += `
             <tr data-index="${i}">
-                <td class="left"><a href="https://ucc.ar/_clusters/${d.fname}" target="_blank">${d.name.slice(0, 20)}</a></td>
+                <td class="left">
+                  <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}">
+                    ${d.name.slice(0, 20)}
+                  </a>
+                </td>
                 <td class="center">${d.distance.toFixed(2)}</td>
                 <td class="center">${xCoord.toFixed(2)}</td>
                 <td class="center">${yCoord.toFixed(2)}</td>
@@ -386,6 +395,8 @@ function displayData(points) {
 
     return { circles, sizeScale };
 }
+
+const data = await loadCompressedCsv();
 
 // Update the display with current input values
 function updateDisplay() {
