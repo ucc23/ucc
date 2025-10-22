@@ -1,6 +1,4 @@
-// search.js
-
-import { stringDifference } from "./stringDifference.js"; // optional, if defined elsewhere
+import { stringDifference } from "./stringDifference.js";
 
 export function generalSearch(d, coordsys, query) {
 
@@ -26,13 +24,16 @@ export function generalSearch(d, coordsys, query) {
     } else {
         // Only search if the first (up to 3) characters of the query are present
         if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
+            const fnames = d.fnames.split(";");
+            const N_fnames = fnames.length;
             distance = Math.min(
-                ...d.fnames.split(";").map(fname =>
-                    stringDifference(normalizedQuery, fname)
-                )
-            );
+                    ...fnames.map(fname => stringDifference(normalizedQuery, fname))
+                );
+            // Add a small penalty if there are multiple fnames
+            if (distance > 0 && N_fnames > 1) {
+                distance += 0.05 * N_fnames;
+            }
         }
     }
-
     return distance;
 }
