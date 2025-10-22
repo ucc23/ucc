@@ -5,12 +5,17 @@ import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
 import {geoAitoff} from "https://cdn.skypack.dev/d3-geo-projection@4";
-import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+// import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+import { select } from "https://cdn.jsdelivr.net/npm/d3-selection@3/+esm";
+import { zoom } from "https://cdn.jsdelivr.net/npm/d3-zoom@3/+esm";
+import { geoGraticule, geoPath } from "https://cdn.jsdelivr.net/npm/d3-geo@3/+esm";
+import { min, max } from "https://cdn.jsdelivr.net/npm/d3-array@3/+esm";
+import { scaleLinear, scaleLog } from "https://cdn.jsdelivr.net/npm/d3-scale@4/+esm";
+
 
 // Set up dimensions and projection
 const plotDiv = document.getElementById("map_plot");
-const width = plotDiv.offsetWidth;  // Get the width of the div
-
+const width = plotDiv.offsetWidth;  // width of the div
 const height = width/2;
 
 const projection = geoAitoff()
@@ -18,33 +23,33 @@ const projection = geoAitoff()
     .scale(height / 4)
     .translate([width / 2, height / 2]);
 
-const zoom = d3.zoom()
+const zoomBehavior = zoom()
     .scaleExtent([1, 10])
     .on("zoom", (event) => svg.attr("transform", event.transform));
 
 // Apply zoom with passive event listeners
-d3.select("svg").call(zoom)
-    .on("wheel.zoom", null, { passive: true })     // Mark wheel events as passive
-    .on("touchstart.zoom", null, { passive: true }) // Mark touchstart as passive
-    .on("touchmove.zoom", null, { passive: true }); // Mark touchmove as passive
+select("svg").call(zoomBehavior)
+    .on("wheel.zoom", null, { passive: true })
+    .on("touchstart.zoom", null, { passive: true })
+    .on("touchmove.zoom", null, { passive: true });
 
 
-const svg = d3.select("#map_plot")
+const svg = select("#map_plot")
     .append("svg")
     .attr("width", width)
     .attr("height", height)
-    .call(zoom)
+    .call(zoomBehavior)
     .append("g");
 
 // Define a graticule generator for the grid lines
-const graticule = d3.geoGraticule()
+const graticule = geoGraticule()
     .step([29.99, 15]); // Step size for grid lines: 30 LON, 15 LAT
     // If I use 30 exactly in LON the last grid line for 180 is not drawn
 
 // Draw the graticule (grid) on the projection
 svg.append("path")
     .datum(graticule)
-    .attr("d", d3.geoPath().projection(projection))
+    .attr("d", geoPath().projection(projection))
     .attr("fill", "none")
     .attr("stroke", "#ccc")
     .attr("stroke-width", 0.5);
@@ -59,7 +64,7 @@ const title = svg.append("text")
     .attr("fill", "black");
 
 // Tooltip div for displaying data on hover
-const tooltip = d3.select("#map_plot")
+const tooltip = select("#map_plot")
     .append("div")
     .attr("class", "tooltip")
     .style("position", "absolute")
@@ -95,7 +100,7 @@ for (let lat = -90; lat <= 90; lat += 30) {  // Label every 30 degrees
 }
 
 // Create container for the table below the plot
-const tableContainer = d3.select("#table_results")
+const tableContainer = select("#table_results")
         .append("div")
         .attr("id", "resultsTable")
         .style("margin-top", "20px")
@@ -212,12 +217,11 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
 
     // // Return only exact matches if any found
     // const exactMatches = results.filter(d => d.distance === 0);
-    // if (exactMatches.length > 0) {
+    // if (exactMatches.length === 1) {
     //     return exactMatches;
     // }
 
-    return results
-        .sort((a, b) => a.distance - b.distance)
+    return results.sort((a, b) => a.distance - b.distance)
         // .slice(0, maxN);
 }
 
@@ -354,14 +358,14 @@ function displayData(points) {
     title.text(`N=${points.length}`);
 
     // --- Draw points ---
-    const minDist = d3.min(points, d => d.dist_pc);
-    const maxDist = Math.min(4000, d3.max(points, d => d.dist_pc));
-    const colorScale = d3.scaleLog()
+    const minDist = min(points, d => d.dist_pc);
+    const maxDist = Math.min(4000, max(points, d => d.dist_pc));
+    const colorScale = scaleLog()
         .domain([minDist, maxDist])     // domain must be strictly positive
         .range(["blue", "red"]);
-    const minMembs = d3.min(points, d => d.membs);
-    const maxMembs = d3.max(points, d => d.membs);
-    const sizeScale = d3.scaleLinear().domain([minMembs, maxMembs]).range([1, 25]);
+    const minMembs = min(points, d => d.membs);
+    const maxMembs = max(points, d => d.membs);
+    const sizeScale = scaleLinear().domain([minMembs, maxMembs]).range([1, 25]);
 
     svg.selectAll("circle").remove();
 
