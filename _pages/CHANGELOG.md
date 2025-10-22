@@ -9,6 +9,12 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [251022](https://doi.org/10.5281/zenodo.17415886)
+
+- Added UTI (UCC Trust Index)
+- Updated the main names of several entries
+
+
 ## Version [250821](https://doi.org/10.5281/zenodo.16929261)
 
 - Add Hu & Soubiran (2025)
