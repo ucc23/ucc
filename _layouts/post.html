@@ -37,11 +37,10 @@ layout: default
                           href="{{ site.baseurl }}/faq#what-is-the-uti-parameter"
                           title="UTI parameter">UTI:
                         </a>
-                        <button class="popup-button-focus">
+                        <button id="UTI-button" class="popup-button-focus" data-umami-event="UTI">
                         <a
                           class="uti_value"
-                          title="UTI parameter"
-                          data-umami-event="UTI">{{page.UTI}}
+                          title="UTI parameter">{{page.UTI}}
                         </a>
                         </button>
                       
@@ -195,3 +194,8 @@ layout: default
 
 <script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
 <script defer src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
+
+<script>
+const button = document.getElementById('UTI-button');
+button.onclick = () => umami.track('UTI');
+</script>
