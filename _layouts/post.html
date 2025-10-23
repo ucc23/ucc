@@ -32,12 +32,9 @@ layout: default
           <tr style="background-color: {{page.UTI_COLOR}};">
               <td colspan="5">
                   <div class="popup-container-focus" style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
-                      <!-- <button class="popup-button-focus"><a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>: <span class="uti_value" data-umami-event="UTI">{{page.UTI}}</span></button> -->
-                      <button class="popup-button-focus">
+                      <button class="popup-button-focus" data-umami-event="UTI">
                         <a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" title="UTI parameter">UTI</a>:
-                        <span class="uti_value" data-umami-event="UTI">
-                          {{page.UTI}}
-                        </span>
+                        <span class="uti_value">{{page.UTI}}</span>
                       </button>
                       <div class="popup-message-focus">
                           <strong>UCC Trust Index</strong><br><br>
