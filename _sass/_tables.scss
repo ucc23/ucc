@@ -11,6 +11,10 @@ table {
 article.cluster.post table {
   width: 100%;
 }
+/* Exception: tables inside .popup-message-focus revert to auto */
+article.cluster.post .popup-message-focus table {
+  width: auto;
+}
 
 table tr {
     border-top: 1px solid #cccccc;
