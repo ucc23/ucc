@@ -3,7 +3,7 @@ layout: post
 title: Melotte 127
 style: style
 title_flag: true
-more_names: Collinder 284; VDBH 162; NGC 5662; ESO 175 10; OCL 928; vdBergh-Hagen 162; MWSC 2234; FoF 2331
+more_names: Collinder 284; VDBH 162; NGC 5662; ESO 175 10; vdBergh-Hagen 162; OCL 928; MWSC 2234; FoF 2331
 fname: melotte127
 fov: 0.627
 ra_icrs: 218.73264

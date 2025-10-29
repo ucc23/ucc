@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 109
 style: style
 title_flag: true
-more_names: VDBH 156; NGC 5381; ESO 133 11; OCL 915; vdBergh-Hagen 156; MWSC 2196
+more_names: VDBH 156; NGC 5381; ESO 133 11; vdBergh-Hagen 156; OCL 915; MWSC 2196
 fname: ruprecht109
 fov: 0.19
 ra_icrs: 210.2219

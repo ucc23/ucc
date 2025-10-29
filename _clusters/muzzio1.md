@@ -3,7 +3,7 @@ layout: post
 title: Muzzio 1
 style: style
 title_flag: true
-more_names: 
+more_names: FSR 1456
 fname: muzzio1
 fov: 0.14
 ra_icrs: 134.49036
@@ -12,20 +12,20 @@ glon: 267.97965
 glat: -1.32758
 r50: 4.2
 plx: 0.5377
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
 UTI_C_N_COL: "#f6fbdc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Muzzio 1 is a moderately populated, very dense object of high C3 quality. It is moderately studied in the literature. This object shares a moderate percentage of members with 2 later reported entries.
+    Muzzio 1 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.2
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 134.3 | -47.767 | -- | -4.22 | 4.56 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 134.5 | -47.704 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 134.49 | -47.695 | -- | -4.5 | 5.31 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 134.478 | -47.761 | 0.519 | -5.261 | 4.224 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 134.503 | -47.697 | 0.533 | -5.221 | 4.307 | 42.984 |

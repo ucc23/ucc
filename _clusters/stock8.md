@@ -3,7 +3,7 @@ layout: post
 title: Stock 8
 style: style
 title_flag: true
-more_names: 
+more_names: FSR 0780; BDS2003 69
 fname: stock8
 fov: 0.21
 ra_icrs: 81.95908
@@ -11,7 +11,7 @@ de_icrs: 34.42814
 glon: 173.33846
 glat: -0.2145
 r50: 6.3
-plx: 0.46225
+plx: 0.4622
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c6e6c8"
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 82.031 | 34.428 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 82.029 | 34.423 | -- | -1.07 | -3.02 | -18.01 |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 81.858 | 34.403 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 82.037 | 34.431 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 82.035 | 34.423 | -- | 0.592 | -1.905 | -6.4 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 81.956 | 34.452 | 0.446 | 0.094 | -2.249 | -- |
@@ -63,6 +64,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.09 |
-    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.4 |
+    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.43 |
     |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.57 |
 ---

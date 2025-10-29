@@ -3,7 +3,7 @@ layout: post
 title: Melotte 114
 style: style
 title_flag: true
-more_names: Collinder 264; VDBH 141; NGC 4755; ESO 131 16; FSR 1633; kappa Crucis; OCL 892; vdBergh-Hagen 141; MWSC 2072; FoF 425
+more_names: Collinder 264; VDBH 141; NGC 4755; ESO 131 16; vdBergh-Hagen 141; FSR 1633; kappa Crucis; OCL 892; MWSC 2072; FoF 425
 fname: melotte114
 fov: 0.12
 ra_icrs: 193.4105

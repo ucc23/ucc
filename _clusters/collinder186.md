@@ -3,7 +3,7 @@ layout: post
 title: Collinder 186
 style: style
 title_flag: true
-more_names: VDBH 29; NGC 2588; ESO 370 10; OCL 715; vdBergh-Hagen 29; MWSC 1480
+more_names: VDBH 29; NGC 2588; ESO 370 10; vdBergh-Hagen 29; OCL 715; MWSC 1480
 fname: collinder186
 fov: 0.057
 ra_icrs: 125.80222
@@ -11,7 +11,7 @@ de_icrs: -32.9729
 glon: 252.28343
 glat: 2.45709
 r50: 1.7
-plx: 0.18985
+plx: 0.1898
 UTI: "0.89"
 UTI_COLOR: "#b1dcc2"
 UTI_C_N_COL: "#d4edca"

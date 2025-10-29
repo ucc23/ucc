@@ -3,7 +3,7 @@ layout: post
 title: VDBH 166
 style: style
 title_flag: true
-more_names: Hogg 18; ESO 223 01; OCL 933; vdBergh-Hagen 166; MWSC 2257
+more_names: Hogg 18; ESO 223 01; vdBergh-Hagen 166; OCL 933; MWSC 2257
 fname: vdbh166
 fov: 0.163
 ra_icrs: 222.6946

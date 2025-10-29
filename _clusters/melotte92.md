@@ -3,7 +3,7 @@ layout: post
 title: Melotte 92
 style: style
 title_flag: true
-more_names: Collinder 193; VDBH 45; NGC 2660; ESO 260 04; FSR 1445; OCL 759; vdBergh-Hagen 45; MWSC 1539; FoF 56
+more_names: Collinder 193; VDBH 45; NGC 2660; ESO 260 04; vdBergh-Hagen 45; FSR 1445; OCL 759; MWSC 1539; FoF 56
 fname: melotte92
 fov: 0.107
 ra_icrs: 130.6687
@@ -11,7 +11,7 @@ de_icrs: -47.1992
 glon: 265.93177
 glat: -3.00664
 r50: 3.2
-plx: 0.33275
+plx: 0.3328
 UTI: "1.0"
 UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"

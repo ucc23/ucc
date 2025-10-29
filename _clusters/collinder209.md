@@ -3,7 +3,7 @@ layout: post
 title: Collinder 209
 style: style
 title_flag: true
-more_names: VDBH 71; NGC 2910; ESO 166 17; FSR 1493; OCL 781; vdBergh-Hagen 71; MWSC 1679; FoF 987
+more_names: VDBH 71; NGC 2910; ESO 166 17; vdBergh-Hagen 71; FSR 1493; OCL 781; MWSC 1679; FoF 987
 fname: collinder209
 fov: 0.18
 ra_icrs: 142.6331
@@ -11,7 +11,7 @@ de_icrs: -52.91042
 glon: 275.3154
 glat: -1.16851
 r50: 5.4
-plx: 0.77045
+plx: 0.7704
 UTI: "0.92"
 UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#b9e0c4"

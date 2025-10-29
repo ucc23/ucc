@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 77
 style: style
 title_flag: true
-more_names: VDBH 68; ESO 166 12; OCL 784; vdBergh-Hagen 68; MWSC 1670
+more_names: VDBH 68; ESO 166 12; vdBergh-Hagen 68; OCL 784; MWSC 1670
 fname: ruprecht77
 fov: 0.08
 ra_icrs: 141.80051

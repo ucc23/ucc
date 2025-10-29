@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 75
 style: style
 title_flag: true
-more_names: VDBH 65; ESO 166 08; FSR 1499; OCL 786; vdBergh-Hagen 65; MWSC 1657; FoF 42
+more_names: VDBH 65; ESO 166 08; vdBergh-Hagen 65; FSR 1499; OCL 786; MWSC 1657; FoF 42
 fname: ruprecht75
 fov: 0.11
 ra_icrs: 140.48573

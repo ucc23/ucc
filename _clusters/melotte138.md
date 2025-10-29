@@ -3,7 +3,7 @@ layout: post
 title: Melotte 138
 style: style
 title_flag: true
-more_names: Collinder 294; VDBH 179; NGC 6005; ESO 178 03; FSR 1704; OCL 945; vdBergh-Hagen 179; MWSC 2336; FoF 67
+more_names: Collinder 294; VDBH 179; NGC 6005; ESO 178 03; vdBergh-Hagen 179; FSR 1704; OCL 945; MWSC 2336; FoF 67
 fname: melotte138
 fov: 0.123
 ra_icrs: 238.95423

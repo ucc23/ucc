@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 164
 style: style
 title_flag: true
-more_names: VDBH 119; ESO 129 23; FSR 1588; OCL 858; vdBergh-Hagen 119; MWSC 1951
+more_names: VDBH 119; ESO 129 23; vdBergh-Hagen 119; FSR 1588; OCL 858; MWSC 1951
 fname: ruprecht164
 fov: 0.06
 ra_icrs: 172.6079

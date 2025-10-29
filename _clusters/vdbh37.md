@@ -3,7 +3,7 @@ layout: post
 title: VDBH 37
 style: style
 title_flag: true
-more_names: ESO 259 13; FSR 1410; vdBergh-Hagen 37; MWSC 1509; BH 37
+more_names: ESO 259 13; vdBergh-Hagen 37; FSR 1410; MWSC 1509; BH 37
 fname: vdbh37
 fov: 0.077
 ra_icrs: 128.94665

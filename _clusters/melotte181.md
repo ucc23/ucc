@@ -3,7 +3,7 @@ layout: post
 title: Melotte 181
 style: style
 title_flag: true
-more_names: Collinder 352; VDBH 250; NGC 6451; ESO 455 50; OCL 1035; vdBergh-Hagen 250; MWSC 2718
+more_names: Collinder 352; VDBH 250; NGC 6451; ESO 455 50; vdBergh-Hagen 250; OCL 1035; MWSC 2718
 fname: melotte181
 fov: 0.14
 ra_icrs: 267.67535

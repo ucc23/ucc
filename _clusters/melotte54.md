@@ -3,7 +3,7 @@ layout: post
 title: Melotte 54
 style: style
 title_flag: true
-more_names: Collinder 119; NGC 2301; OCL 540; MWSC 1000; FoF 2215
+more_names: Collinder 119; NGC 2301; FSR 1071; OCL 540; MWSC 1000; FoF 2215
 fname: melotte54
 fov: 0.477
 ra_icrs: 102.93828
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 54 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    Melotte 54 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 14.3
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 102.938 | 0.46 | -- | -0.83 | -2.76 | 13.54 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 102.962 | 0.448 | -- | -2.31 | -3.31 | 21.2 |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 102.846 | 0.561 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 102.945 | 0.465 | -- | -0.71 | -4.07 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 102.945 | 0.46 | -- | -0.052 | -1.181 | 39.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 102.93 | 0.476 | -- | -- | -- | -- |
@@ -69,7 +70,5 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.23, dMod50=9.68, logAge50=8.16, [Fe/H]50=0.19` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1497.97` |
 shared_table: |
-    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
-    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1071](/_clusters/fsr1071/)| 22.2 | 102.9 | 0.49 | 1.15 | -1.36 | -2.2 | 25.53 |0.0 |
+    
 ---

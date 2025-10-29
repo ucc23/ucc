@@ -11,7 +11,7 @@ de_icrs: -23.37518
 glon: 238.06134
 glat: -2.39933
 r50: 4.5
-plx: 0.34185
+plx: 0.3418
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c9e8c8"
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 112.662 | -23.393 | -- | -2.75 | 2.68 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 112.667 | -23.394 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 112.65 | -23.383 | -- | -1.89 | 3.53 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 112.65 | -23.395 | -- | -2.537 | 2.82 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 112.671 | -23.375 | -- | -- | -- | -- |

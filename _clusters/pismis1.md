@@ -3,7 +3,7 @@ layout: post
 title: Pismis 1
 style: style
 title_flag: true
-more_names: VDBH 24; NGC 2568; ESO 370 05; FSR 1374; OCL 727; vdBergh-Hagen 24; MWSC 1466
+more_names: VDBH 24; NGC 2568; ESO 370 05; vdBergh-Hagen 24; FSR 1374; OCL 727; MWSC 1466
 fname: pismis1
 fov: 0.07
 ra_icrs: 124.5771
@@ -11,7 +11,7 @@ de_icrs: -37.10346
 glon: 255.11428
 glat: -0.71106
 r50: 2.1
-plx: 0.17515
+plx: 0.1752
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#cbe9c9"
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 124.575 | -37.1 | -- | -4.84 | -0.72 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 124.579 | -37.1 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 124.575 | -37.1 | -- | -3.59 | 4.49 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 124.575 | -37.099 | -- | -4.84 | -0.72 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 124.575 | -37.098 | -- | -- | -- | -- |

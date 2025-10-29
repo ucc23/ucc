@@ -3,7 +3,7 @@ layout: post
 title: Collinder 184
 style: style
 title_flag: true
-more_names: VDBH 30; NGC 2587; ESO 431 07; OCL 706; vdBergh-Hagen 30; FoF 591
+more_names: VDBH 30; NGC 2587; ESO 431 07; vdBergh-Hagen 30; OCL 706; FoF 591
 fname: collinder184
 fov: 0.19
 ra_icrs: 125.85856
@@ -11,7 +11,7 @@ de_icrs: -29.50096
 glon: 249.45148
 glat: 4.48051
 r50: 5.7
-plx: 0.30905
+plx: 0.309
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#cbe9c9"

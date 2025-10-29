@@ -3,7 +3,7 @@ layout: post
 title: Collinder 291
 style: style
 title_flag: true
-more_names: VDBH 172; NGC 5925; ESO 177 06; OCL 938; vdBergh-Hagen 172; MWSC 2293; FoF 1611
+more_names: VDBH 172; NGC 5925; ESO 177 06; vdBergh-Hagen 172; OCL 938; MWSC 2293; FoF 1611
 fname: collinder291
 fov: 0.273
 ra_icrs: 231.84642
@@ -11,7 +11,7 @@ de_icrs: -54.52058
 glon: 324.36096
 glat: 1.72966
 r50: 8.2
-plx: 0.68615
+plx: 0.6862
 UTI: "1.0"
 UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"

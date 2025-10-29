@@ -3,7 +3,7 @@ layout: post
 title: VDBH 55
 style: style
 title_flag: true
-more_names: ESO 314 01; FSR 1404; vdBergh-Hagen 55; MWSC 1600; BH 55
+more_names: ESO 314 01; vdBergh-Hagen 55; FSR 1404; MWSC 1600; BH 55
 fname: vdbh55
 fov: 0.1
 ra_icrs: 134.04008

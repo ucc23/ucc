@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    ASCC 16 is a relatively close, very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    ASCC 16 is a relatively close, very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 34.4
@@ -63,4 +63,5 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Briceno1](/_clusters/briceno1/)| 77.3 | 81.21 | 1.68 | 2.88 | 1.38 | -0.06 | 18.29 |0.0 |
     |[ASCC 18](/_clusters/ascc18/)| 0.2 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.77 |
+    |[CWWL 3512](/_clusters/cwwl3512/)| 0.2 | 80.71 | -1.29 | 2.92 | 1.28 | -0.36 | 16.24 |0.51 |
 ---

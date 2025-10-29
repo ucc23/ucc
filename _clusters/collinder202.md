@@ -3,7 +3,7 @@ layout: post
 title: Collinder 202
 style: style
 title_flag: true
-more_names: Collinder 199; VDBH 52; NGC 2669; Harvard 3; ESO 165 05; OCL 768; vdBergh-Hagen 52; MWSC 1561; MWSC 1562; FoF 2052
+more_names: Collinder 199; VDBH 52; NGC 2669; Harvard 3; ESO 165 05; vdBergh-Hagen 52; OCL 768; MWSC 1561; MWSC 1562; FoF 2052
 fname: collinder202
 fov: 0.23
 ra_icrs: 131.61369
@@ -11,7 +11,7 @@ de_icrs: -52.93157
 glon: 270.83565
 glat: -6.06931
 r50: 6.9
-plx: 0.85985
+plx: 0.8598
 UTI: "0.97"
 UTI_COLOR: "#a8cfbb"
 UTI_C_N_COL: "#b9e0c4"

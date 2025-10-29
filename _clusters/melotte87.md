@@ -3,7 +3,7 @@ layout: post
 title: Melotte 87
 style: style
 title_flag: true
-more_names: Collinder 188; VDBH 38; NGC 2627; ESO 431 20; FSR 1362; OCL 714; vdBergh-Hagen 38; MWSC 1514; FoF 622
+more_names: Collinder 188; VDBH 38; NGC 2627; ESO 431 20; vdBergh-Hagen 38; FSR 1362; OCL 714; MWSC 1514; FoF 622
 fname: melotte87
 fov: 0.213
 ra_icrs: 129.30717

@@ -11,7 +11,7 @@ de_icrs: -3.08348
 glon: 203.53134
 glat: -24.15712
 r50: 27.6
-plx: 2.59155
+plx: 2.5915
 UTI: "0.52"
 UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#eef8d4"
@@ -35,7 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023RAA....23f5008C) | 77.371 | -3.062 | 2.636 | 1.126 | -0.804 | -- |
-    | **UCC** |77.171 | -3.083 | 2.592 | 1.216 | -0.803 | 24.098 | 
+    | **UCC** |77.171 | -3.083 | 2.591 | 1.216 | -0.803 | 24.098 | 
 cds_radec: 77.17088,-3.08348
 carousel: UCC
 fpars_table: |

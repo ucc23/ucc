@@ -3,7 +3,7 @@ layout: post
 title: Collinder 287
 style: style
 title_flag: true
-more_names: VDBH 165; NGC 5749; ESO 176 04; OCL 930; vdBergh-Hagen 165; MWSC 2256; FoF 2346
+more_names: VDBH 165; NGC 5749; ESO 176 04; vdBergh-Hagen 165; OCL 930; MWSC 2256; FoF 2346
 fname: collinder287
 fov: 0.257
 ra_icrs: 222.1915
@@ -11,7 +11,7 @@ de_icrs: -54.50122
 glon: 319.5159
 glat: 4.54201
 r50: 7.7
-plx: 0.89205
+plx: 0.892
 UTI: "0.90"
 UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#d4edca"

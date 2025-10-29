@@ -3,7 +3,7 @@ layout: post
 title: Collinder 340
 style: style
 title_flag: true
-more_names: VDBH 240; NGC 6404; ESO 393 13; OCL 1024; vdBergh-Hagen 240; MWSC 2658
+more_names: VDBH 240; NGC 6404; ESO 393 13; vdBergh-Hagen 240; OCL 1024; MWSC 2658
 fname: collinder340
 fov: 0.15
 ra_icrs: 264.91496
@@ -11,7 +11,7 @@ de_icrs: -33.22543
 glon: 355.68172
 glat: -1.16935
 r50: 4.5
-plx: 0.35445
+plx: 0.3544
 UTI: "0.94"
 UTI_COLOR: "#abd4be"
 UTI_C_N_COL: "#a6cab9"

@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 21
 style: style
 title_flag: true
-more_names: Collinder 274; VDBH 148; ESO 096 15; OCL 903; vdBergh-Hagen 148; MWSC 2131; FoF 2099
+more_names: Collinder 274; VDBH 148; ESO 096 15; vdBergh-Hagen 148; OCL 903; MWSC 2131; FoF 2099
 fname: trumpler21
 fov: 0.12
 ra_icrs: 203.0571

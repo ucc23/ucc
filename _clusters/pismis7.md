@@ -3,7 +3,7 @@ layout: post
 title: Pismis 7
 style: style
 title_flag: true
-more_names: VDBH 43; ESO 313 09; FSR 1393; OCL 734; vdBergh-Hagen 43; MWSC 1532
+more_names: VDBH 43; ESO 313 09; vdBergh-Hagen 43; FSR 1393; OCL 734; MWSC 1532
 fname: pismis7
 fov: 0.063
 ra_icrs: 130.28184
@@ -11,7 +11,7 @@ de_icrs: -38.69968
 glon: 259.05178
 glat: 1.99422
 r50: 1.9
-plx: 0.16745
+plx: 0.1674
 UTI: "0.90"
 UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#d0ebc9"

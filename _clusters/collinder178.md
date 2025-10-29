@@ -3,7 +3,7 @@ layout: post
 title: Collinder 178
 style: style
 title_flag: true
-more_names: VDBH 22; NGC 2546; ESO 369 07; OCL 726; vdBergh-Hagen 22; MWSC 1447; FoF 2217
+more_names: VDBH 22; NGC 2546; ESO 369 07; vdBergh-Hagen 22; OCL 726; MWSC 1447; FoF 2217
 fname: collinder178
 fov: 0.54
 ra_icrs: 123.09939

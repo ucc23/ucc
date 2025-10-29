@@ -3,7 +3,7 @@ layout: post
 title: Melotte 110
 style: style
 title_flag: true
-more_names: Collinder 255; VDBH 130; NGC 4349; ESO 131 03; FSR 1614; OCL 882; vdBergh-Hagen 130; MWSC 2024; FoF 422
+more_names: Collinder 255; VDBH 130; NGC 4349; ESO 131 03; vdBergh-Hagen 130; FSR 1614; OCL 882; MWSC 2024; FoF 422
 fname: melotte110
 fov: 0.187
 ra_icrs: 186.05643

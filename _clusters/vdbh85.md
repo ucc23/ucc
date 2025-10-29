@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 85 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    VDBH 85 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.8
@@ -60,5 +60,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[FSR 1501](/_clusters/fsr1501/)| 92.6 | 150.47 | -49.56 | 0.14 | -5.68 | 4.66 | 61.66 |0.03 |
     |[OC 0520](/_clusters/oc0520/)| 9.8 | 150.47 | -49.56 | 0.14 | -5.67 | 4.66 | 61.32 |0.0 |
 ---

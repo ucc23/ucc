@@ -3,7 +3,7 @@ layout: post
 title: Collinder 175
 style: style
 title_flag: true
-more_names: VDBH 18; NGC 2533; ESO 430 19; FSR 1338; OCL 695; vdBergh-Hagen 18; MWSC 1432; FoF 387
+more_names: VDBH 18; NGC 2533; ESO 430 19; vdBergh-Hagen 18; FSR 1338; OCL 695; MWSC 1432; FoF 387
 fname: collinder175
 fov: 0.187
 ra_icrs: 121.76582
@@ -11,7 +11,7 @@ de_icrs: -29.86514
 glon: 247.78448
 glat: 1.31629
 r50: 5.6
-plx: 0.34395
+plx: 0.344
 UTI: "0.96"
 UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#c4e5c7"
@@ -47,7 +47,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 121.766 | -29.869 | 0.347 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 121.769 | -29.86 | 0.35 | -3.185 | 5.074 | 40.576 |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 121.766 | -29.869 | -- | -- | -- | -- |
-    | **UCC** |121.766 | -29.865 | 0.344 | -3.178 | 5.066 | 36.69 | 
+    | **UCC** |121.766 | -29.865 | 0.344 | -3.179 | 5.066 | 36.69 | 
 cds_radec: 121.76582,-29.86514
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

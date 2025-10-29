@@ -3,7 +3,7 @@ layout: post
 title: Melotte 156
 style: style
 title_flag: true
-more_names: Collinder 321; VDBH 207; NGC 6253; ESO 180 02; FSR 1730; OCL 972; vdBergh-Hagen 207; MWSC 2502; FoF 21
+more_names: Collinder 321; VDBH 207; NGC 6253; ESO 180 02; vdBergh-Hagen 207; FSR 1730; OCL 972; MWSC 2502; FoF 21
 fname: melotte156
 fov: 0.157
 ra_icrs: 254.78083

@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 98.375 | 20.55 | -- | 2.65 | -7.32 | 48.6 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 98.367 | 20.553 | -- | -- | -- | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 98.321 | 20.519 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 98.325 | 20.525 | -- | -1.36 | -2.34 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 98.325 | 20.525 | -- | 0.07 | -1.058 | 48.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 98.305 | 20.534 | -- | -- | -- | -- |

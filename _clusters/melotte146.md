@@ -3,7 +3,7 @@ layout: post
 title: Melotte 146
 style: style
 title_flag: true
-more_names: Collinder 303; VDBH 191; NGC 6134; ESO 226 09; OCL 968; vdBergh-Hagen 191; MWSC 2412; FoF 1185
+more_names: Collinder 303; VDBH 191; NGC 6134; ESO 226 09; vdBergh-Hagen 191; OCL 968; MWSC 2412; FoF 1185
 fname: melotte146
 fov: 0.337
 ra_icrs: 246.94723

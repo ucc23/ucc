@@ -3,7 +3,7 @@ layout: post
 title: Melotte 139
 style: style
 title_flag: true
-more_names: Collinder 296; VDBH 181; NGC 6025; ESO 136 14; OCL 939; vdBergh-Hagen 181; MWSC 2347; FoF 2278
+more_names: Collinder 296; VDBH 181; NGC 6025; ESO 136 14; vdBergh-Hagen 181; OCL 939; MWSC 2347; FoF 2278
 fname: melotte139
 fov: 0.467
 ra_icrs: 240.78301
@@ -11,7 +11,7 @@ de_icrs: -60.42684
 glon: 324.53013
 glat: -5.88025
 r50: 14.0
-plx: 1.28545
+plx: 1.2854
 UTI: "0.97"
 UTI_COLOR: "#a8cfbb"
 UTI_C_N_COL: "#b9e0c4"

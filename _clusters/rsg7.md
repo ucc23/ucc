@@ -53,7 +53,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG 8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.16 | 5.45 | -1.65 | -10.45 |0.73 |
+    |[RSG 8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.17 | 5.45 | -1.65 | -10.45 |0.73 |
     |[NGC 7429](/_clusters/ngc7429/)| 42.9 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.81 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 16.8 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 14.9 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |

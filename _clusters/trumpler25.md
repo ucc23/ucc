@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 25
 style: style
 title_flag: true
-more_names: Collinder 329; VDBH 225; Harvard 14; ESO 333 07; OCL 1007; vdBergh-Hagen 225; MWSC 2587
+more_names: Collinder 329; VDBH 225; Harvard 14; ESO 333 07; vdBergh-Hagen 225; OCL 1007; MWSC 2587
 fname: trumpler25
 fov: 0.147
 ra_icrs: 261.12326

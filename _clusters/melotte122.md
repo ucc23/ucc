@@ -3,7 +3,7 @@ layout: post
 title: Melotte 122
 style: style
 title_flag: true
-more_names: Collinder 279; VDBH 154; NGC 5316; ESO 133 06; OCL 913; vdBergh-Hagen 154; MWSC 2175
+more_names: Collinder 279; VDBH 154; NGC 5316; ESO 133 06; vdBergh-Hagen 154; OCL 913; MWSC 2175
 fname: melotte122
 fov: 0.25
 ra_icrs: 208.51471

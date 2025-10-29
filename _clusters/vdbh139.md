@@ -3,7 +3,7 @@ layout: post
 title: VDBH 139
 style: style
 title_flag: true
-more_names: Hogg 15; ESO 095 15; OCL 891; vdBergh-Hagen 139; MWSC 2063
+more_names: Hogg 15; ESO 095 15; vdBergh-Hagen 139; OCL 891; MWSC 2063
 fname: vdbh139
 fov: 0.107
 ra_icrs: 190.90178

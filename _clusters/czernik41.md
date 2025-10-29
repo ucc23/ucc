@@ -11,21 +11,21 @@ de_icrs: 25.28469
 glon: 62.01893
 glat: -0.69405
 r50: 4.7
-plx: 0.36985
-UTI: "0.94"
-UTI_COLOR: "#abd4be"
+plx: 0.3698
+UTI: "1.0"
+UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Czernik 41 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    Czernik 41 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.7
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 297.754 | 25.269 | -- | -2.49 | -2.6 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 297.762 | 25.284 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 297.75 | 25.27 | -- | -1.34 | -3.3 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 297.75 | 25.27 | -- | -1.25 | -2.863 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 297.752 | 25.287 | -- | -- | -- | -- |

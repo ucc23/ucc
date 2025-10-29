@@ -12,20 +12,20 @@ glon: 136.82248
 glat: 1.09746
 r50: 6.5
 plx: 0.4649
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
 UTI_C_N_COL: "#fff4d6"
 UTI_C_dens_COL: "#fffde5"
 UTI_C_C3_COL: "#fff1d4"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#aad2bd"
 UTI_C_N: 0.4
 UTI_C_dens: 0.48
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.95
 UTI_summary: |
-    SAI 22 is a poorly populated, loose object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 15 years. This object shares a very small percentage of members with a later reported entry.
+    SAI 22 is a poorly populated, loose object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 15 years.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.5
@@ -43,5 +43,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IRAS 02459+6029](/_clusters/iras02459p6029/)| 5.0 | 42.82 | 60.6 | 0.46 | -0.53 | -0.39 | -16.76 |0.07 |
+    |[FSR 0608](/_clusters/fsr0608/)| 5.0 | 42.82 | 60.6 | 0.46 | -0.53 | -0.39 | -16.76 |0.11 |
 ---

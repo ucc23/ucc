@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 107
 style: style
 title_flag: true
-more_names: VDBH 146; ESO 096 08; OCL 896; vdBergh-Hagen 146; MWSC 2108
+more_names: VDBH 146; ESO 096 08; vdBergh-Hagen 146; OCL 896; MWSC 2108
 fname: ruprecht107
 fov: 0.077
 ra_icrs: 199.95475

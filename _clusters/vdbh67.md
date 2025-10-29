@@ -3,7 +3,7 @@ layout: post
 title: VDBH 67
 style: style
 title_flag: true
-more_names: ESO 212 07; FSR 1486; vdBergh-Hagen 67; MWSC 1669; BH 67
+more_names: ESO 212 07; vdBergh-Hagen 67; FSR 1486; MWSC 1669; BH 67
 fname: vdbh67
 fov: 0.06
 ra_icrs: 141.68196
@@ -11,7 +11,7 @@ de_icrs: -51.27536
 glon: 273.76061
 glat: -0.38387
 r50: 1.8
-plx: 0.13155
+plx: 0.1316
 UTI: "0.80"
 UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#b9e0c4"

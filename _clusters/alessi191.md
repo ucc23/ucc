@@ -11,7 +11,7 @@ de_icrs: 22.04501
 glon: 52.45839
 glat: 10.46559
 r50: 9.5
-plx: 0.97795
+plx: 0.978
 UTI: "0.48"
 UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#fedec5"
@@ -37,7 +37,7 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 282.117 | 22.054 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 282.135 | 22.061 | 0.979 | -1.049 | 3.03 | -8.989 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.109 | 22.006 | 0.987 | -- | -- | -- |
-    | **UCC** |282.126 | 22.045 | 0.978 | -1.046 | 2.987 | -9.251 | 
+    | **UCC** |282.126 | 22.045 | 0.978 | -1.046 | 2.986 | -9.251 | 
 cds_radec: 282.1261,+22.04501
 carousel: UCC_HUNT23
 fpars_table: |

@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 144
 style: style
 title_flag: true
-more_names: DSH J2121.7+5036; MWSC 3500; FoF 510
+more_names: FSR 0297; DSH J2121.7+5036; MWSC 3500; FoF 510
 fname: teutsch144
 fov: 0.127
 ra_icrs: 320.44507
@@ -11,7 +11,7 @@ de_icrs: 50.60863
 glon: 92.73883
 glat: 0.45282
 r50: 3.8
-plx: 0.35135
+plx: 0.3514
 UTI: "0.90"
 UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#d2ecc9"
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 320.438 | 50.619 | -- | -3.07 | -6.17 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 320.375 | 50.454 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 320.423 | 50.597 | -- | -1.88 | -1.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 320.415 | 50.593 | -- | -0.498 | -0.286 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 320.427 | 50.607 | -- | -- | -- | -- |

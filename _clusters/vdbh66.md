@@ -3,7 +3,7 @@ layout: post
 title: VDBH 66
 style: style
 title_flag: true
-more_names: ESO 166 11; UKS 2; vdBergh-Hagen 66; MWSC 1667; BH 66
+more_names: ESO 166 11; vdBergh-Hagen 66; UKS 2; MWSC 1667; BH 66
 fname: vdbh66
 fov: 0.047
 ra_icrs: 141.31758
@@ -11,7 +11,7 @@ de_icrs: -54.71979
 glon: 276.00176
 glat: -3.01213
 r50: 1.4
-plx: 0.11635
+plx: 0.1164
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c6e6c8"

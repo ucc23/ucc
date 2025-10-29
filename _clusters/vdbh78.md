@@ -3,7 +3,7 @@ layout: post
 title: VDBH 78
 style: style
 title_flag: true
-more_names: FSR 1512; vdBergh-Hagen 78; MWSC 1706; BH 78
+more_names: vdBergh-Hagen 78; FSR 1512; MWSC 1706; BH 78
 fname: vdbh78
 fov: 0.027
 ra_icrs: 145.95306

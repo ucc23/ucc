@@ -3,7 +3,7 @@ layout: post
 title: Melotte 101
 style: style
 title_flag: true
-more_names: Collinder 227; VDBH 101; ESO 093 01; FSR 1564; OCL 841; vdBergh-Hagen 101; FoF 44
+more_names: Collinder 227; VDBH 101; ESO 093 01; vdBergh-Hagen 101; FSR 1564; OCL 841; FoF 44
 fname: melotte101
 fov: 0.19
 ra_icrs: 160.54797

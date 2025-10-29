@@ -3,7 +3,7 @@ layout: post
 title: Collinder 161
 style: style
 title_flag: true
-more_names: VDBH 9; NGC 2451A; NGC 2451; ESO 311 08; OCL 716; vdBergh-Hagen 9; Escorial 24; MWSC 1308; FoF 2437; OCSN 230
+more_names: VDBH 9; NGC 2451A; NGC 2451; ESO 311 08; vdBergh-Hagen 9; OCL 716; Escorial 24; MWSC 1308; FoF 2437; OCSN 230
 fname: collinder161
 fov: 2.22
 ra_icrs: 115.77546
@@ -11,7 +11,7 @@ de_icrs: -38.25995
 glon: 252.41996
 glat: -7.26435
 r50: 66.6
-plx: 5.19765
+plx: 5.1976
 UTI: "0.98"
 UTI_COLOR: "#a8cdbb"
 UTI_C_N_COL: "#afdbc2"

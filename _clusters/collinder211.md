@@ -3,7 +3,7 @@ layout: post
 title: Collinder 211
 style: style
 title_flag: true
-more_names: VDBH 76; NGC 2972; ESO 212 11; OCL 778; vdBergh-Hagen 76; MWSC 1699; FoF 395
+more_names: VDBH 76; NGC 2972; ESO 212 11; vdBergh-Hagen 76; OCL 778; MWSC 1699; FoF 395
 fname: collinder211
 fov: 0.18
 ra_icrs: 145.0532

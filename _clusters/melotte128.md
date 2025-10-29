@@ -3,7 +3,7 @@ layout: post
 title: Melotte 128
 style: style
 title_flag: true
-more_names: Collinder 286; VDBH 163; NGC 5715; ESO 176 02; OCL 929; vdBergh-Hagen 163; MWSC 2245; FoF 431
+more_names: Collinder 286; VDBH 163; NGC 5715; ESO 176 02; vdBergh-Hagen 163; OCL 929; MWSC 2245; FoF 431
 fname: melotte128
 fov: 0.117
 ra_icrs: 220.85503
@@ -11,7 +11,7 @@ de_icrs: -57.5779
 glon: 317.52288
 glat: 2.08946
 r50: 3.5
-plx: 0.45625
+plx: 0.4562
 UTI: "0.96"
 UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#c4e5c7"

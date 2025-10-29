@@ -12,20 +12,20 @@ glon: 173.65214
 glat: 2.86904
 r50: 4.3
 plx: 0.5908
-UTI: "0.28"
-UTI_COLOR: "#fedec5"
+UTI: "0.14"
+UTI_COLOR: "#f5bfb7"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#e2f2cc"
+UTI_C_dup_COL: "#feebcf"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
-UTI_C_dup: 0.69
+UTI_C_dup: 0.35
 UTI_summary: |
-    BDSB 73 is a poorly populated, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    BDSB 73 is a poorly populated, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.3
@@ -45,7 +45,8 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[FSR 0788](/_clusters/fsr0788/)| 65.4 | 85.35 | 35.81 | 0.6 | 0.35 | -2.83 | -- |0.3 |
     |[Sh2 235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.04 |
-    |[Koposov 7](/_clusters/koposov7/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.29 |
+    |[Koposov 7](/_clusters/koposov7/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.39 |
     |[OC 0292](/_clusters/oc0292/)| 15.4 | 85.54 | 36.12 | 0.58 | 0.64 | -3.02 | -19.7 |0.3 |
 ---

@@ -11,7 +11,7 @@ de_icrs: -46.27355
 glon: 265.08416
 glat: -2.58535
 r50: 5.6
-plx: 0.53725
+plx: 0.5372
 UTI: "0.95"
 UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#d7eeca"
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 8 is a moderately populated, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with 4 later reported entries.
+    Pismis 8 is a moderately populated, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.6
@@ -64,8 +64,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1436](/_clusters/fsr1436/)| 13.3 | 129.87 | -46.27 | 0.54 | -5.85 | 5.11 | 27.31 |0.35 |
-    |[FoF 58](/_clusters/fof58/)| 9.2 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.05 |
+    |[FoF 58](/_clusters/fof58/)| 9.2 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.14 |
     |[OC 0484](/_clusters/oc0484/)| 8.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.11 |
-    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.1 |
+    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.13 |
 ---

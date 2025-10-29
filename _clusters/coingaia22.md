@@ -48,6 +48,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 70](/_clusters/ubc70/)| 96.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.02 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.7 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.8 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 78.4 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
 ---

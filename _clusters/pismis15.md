@@ -3,7 +3,7 @@ layout: post
 title: Pismis 15
 style: style
 title_flag: true
-more_names: VDBH 74; ESO 212 10; FSR 1480; OCL 773; vdBergh-Hagen 74; MWSC 1690; FoF 394
+more_names: VDBH 74; ESO 212 10; vdBergh-Hagen 74; FSR 1480; OCL 773; MWSC 1690; FoF 394
 fname: pismis15
 fov: 0.12
 ra_icrs: 143.68609

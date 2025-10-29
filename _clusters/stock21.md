@@ -1,17 +1,17 @@
 ---
 layout: post
-title: FSR 0495
+title: Stock 21
 style: style
 title_flag: true
-more_names: Stock 21; OCL 293; MWSC 52; FoF 680
-fname: fsr0495
+more_names: FSR 0495; OCL 293; MWSC 52; FoF 680
+fname: stock21
 fov: 0.127
 ra_icrs: 7.59288
 de_icrs: 57.92516
 glon: 120.12914
 glat: -4.83097
 r50: 3.8
-plx: 0.47585
+plx: 0.4758
 UTI: "0.95"
 UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#d2ecc9"
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    FSR 0495 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    Stock 21 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
 N_50_val: 130
-scix_url: FSR%200495
+scix_url: Stock%2021
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 7.604 | 57.924 | -- | -2.45 | -2.72 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 7.6 | 57.927 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 7.561 | 57.931 | -- | -1.07 | -2.76 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 7.605 | 57.924 | -- | -1.58 | -2.232 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 7.634 | 57.929 | -- | -- | -- | -- |

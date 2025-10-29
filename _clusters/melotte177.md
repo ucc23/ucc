@@ -3,7 +3,7 @@ layout: post
 title: Melotte 177
 style: style
 title_flag: true
-more_names: Collinder 342; VDBH 241; NGC 6400; ESO 393 14; OCL 1014; vdBergh-Hagen 241; MWSC 2660; FoF 715
+more_names: Collinder 342; VDBH 241; NGC 6400; ESO 393 14; vdBergh-Hagen 241; OCL 1014; MWSC 2660; FoF 715
 fname: melotte177
 fov: 0.163
 ra_icrs: 265.06093
@@ -11,7 +11,7 @@ de_icrs: -36.95273
 glon: 352.58394
 glat: -3.25189
 r50: 4.9
-plx: 0.79535
+plx: 0.7954
 UTI: "0.96"
 UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#c9e8c8"

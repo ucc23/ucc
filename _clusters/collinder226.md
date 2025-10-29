@@ -3,7 +3,7 @@ layout: post
 title: Collinder 226
 style: style
 title_flag: true
-more_names: VDBH 100; NGC 3330; Harvard 4; ESO 168 11; OCL 806; vdBergh-Hagen 100; MWSC 1835; FoF 2190
+more_names: VDBH 100; NGC 3330; Harvard 4; ESO 168 11; vdBergh-Hagen 100; OCL 806; MWSC 1835; FoF 2190
 fname: collinder226
 fov: 0.147
 ra_icrs: 159.66732

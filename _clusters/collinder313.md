@@ -3,7 +3,7 @@ layout: post
 title: Collinder 313
 style: style
 title_flag: true
-more_names: VDBH 198; NGC 6208; ESO 179 14; FSR 1724; OCL 964; vdBergh-Hagen 198; MWSC 2470; FoF 2063
+more_names: VDBH 198; NGC 6208; ESO 179 14; vdBergh-Hagen 198; FSR 1724; OCL 964; MWSC 2470; FoF 2063
 fname: collinder313
 fov: 0.263
 ra_icrs: 252.33796

@@ -3,7 +3,7 @@ layout: post
 title: VDB 92
 style: style
 title_flag: true
-more_names: CMa06; vdBergh 92
+more_names: vdBergh 92; FSR 1188; CMa06
 fname: vdb92
 fov: 0.297
 ra_icrs: 106.04947
@@ -11,7 +11,7 @@ de_icrs: -11.48074
 glon: 224.59402
 glat: -2.40986
 r50: 8.9
-plx: 0.86435
+plx: 0.8644
 UTI: "0.95"
 UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#a6cab9"
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 105.975 | -11.533 | -- | -2.1 | 3.87 | 17.5 |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 106.0 | -11.579 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 105.975 | -11.533 | -- | -1.737 | 2.196 | 17.5 |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 105.975 | -11.533 | 0.86 | -4.469 | 1.461 | 25.6 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 106.038 | -11.475 | 0.842 | -4.54 | 1.618 | -- |

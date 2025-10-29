@@ -3,7 +3,7 @@ layout: post
 title: Melotte 116
 style: style
 title_flag: true
-more_names: Collinder 266; VDBH 143; NGC 4852; ESO 131 17; OCL 894; vdBergh-Hagen 143; MWSC 2078; FoF 1608
+more_names: Collinder 266; VDBH 143; NGC 4852; ESO 131 17; vdBergh-Hagen 143; OCL 894; MWSC 2078; FoF 1608
 fname: melotte116
 fov: 0.197
 ra_icrs: 195.05244

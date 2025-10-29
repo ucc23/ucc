@@ -3,7 +3,7 @@ layout: post
 title: Collinder 268
 style: style
 title_flag: true
-more_names: VDBH 145; Harvard 8; ESO 096 06; FSR 1644; OCL 895; vdBergh-Hagen 145; MWSC 2103; MWSC 2102; FoF 65
+more_names: VDBH 145; Harvard 8; ESO 096 06; vdBergh-Hagen 145; FSR 1644; OCL 895; MWSC 2103; MWSC 2102; FoF 65
 fname: collinder268
 fov: 0.117
 ra_icrs: 199.53027
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 199.554 | -67.083 | -- | -2.12 | -0.46 | -27.18 |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 199.475 | -67.058 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 199.567 | -67.075 | -- | -1.2 | 1.92 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 199.56 | -67.083 | -- | -3.913 | -2.3 | -27.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 199.467 | -67.059 | -- | -- | -- | -- |

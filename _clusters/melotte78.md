@@ -3,7 +3,7 @@ layout: post
 title: Melotte 78
 style: style
 title_flag: true
-more_names: Collinder 165; VDBH 13; NGC 2477; ESO 311 17; FSR 1369; OCL 720; vdBergh-Hagen 13; MWSC 1363; FoF 35
+more_names: Collinder 165; VDBH 13; NGC 2477; ESO 311 17; vdBergh-Hagen 13; FSR 1369; OCL 720; MWSC 1363; FoF 35
 fname: melotte78
 fov: 0.35
 ra_icrs: 118.04863

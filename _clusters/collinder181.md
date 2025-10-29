@@ -3,7 +3,7 @@ layout: post
 title: Collinder 181
 style: style
 title_flag: true
-more_names: VDBH 27; NGC 2571; ESO 431 05; OCL 701; vdBergh-Hagen 27; MWSC 1469; FoF 2146
+more_names: VDBH 27; NGC 2571; ESO 431 05; vdBergh-Hagen 27; OCL 701; MWSC 1469; FoF 2146
 fname: collinder181
 fov: 0.217
 ra_icrs: 124.73134
@@ -11,7 +11,7 @@ de_icrs: -29.76306
 glon: 249.11142
 glat: 3.525
 r50: 6.5
-plx: 0.73985
+plx: 0.7398
 UTI: "0.91"
 UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c6e6c8"

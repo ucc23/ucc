@@ -3,7 +3,7 @@ layout: post
 title: Collinder 305
 style: style
 title_flag: true
-more_names: VDBH 192; NGC 6167; Harvard 11; ESO 226 16; OCL 971; vdBergh-Hagen 192; MWSC 2425
+more_names: VDBH 192; NGC 6167; Harvard 11; ESO 226 16; vdBergh-Hagen 192; OCL 971; MWSC 2425
 fname: collinder305
 fov: 0.237
 ra_icrs: 248.67236

@@ -3,7 +3,7 @@ layout: post
 title: VDBH 189
 style: style
 title_flag: true
-more_names: Lynga 9; ESO 226 02; FSR 1726; OCL 966; vdBergh-Hagen 189; MWSC 2389
+more_names: Lynga 9; ESO 226 02; vdBergh-Hagen 189; FSR 1726; OCL 966; MWSC 2389
 fname: vdbh189
 fov: 0.107
 ra_icrs: 245.17331

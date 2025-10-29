@@ -43,6 +43,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.48 |
-    |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.29 |
+    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.53 |
+    |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.28 |
 ---

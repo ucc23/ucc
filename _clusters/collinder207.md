@@ -3,7 +3,7 @@ layout: post
 title: Collinder 207
 style: style
 title_flag: true
-more_names: VDBH 61; NGC 2849; ESO 314 13; FSR 1439; OCL 756; vdBergh-Hagen 61; MWSC 1648
+more_names: VDBH 61; NGC 2849; ESO 314 13; vdBergh-Hagen 61; FSR 1439; OCL 756; MWSC 1648
 fname: collinder207
 fov: 0.073
 ra_icrs: 139.85112

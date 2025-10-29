@@ -3,7 +3,7 @@ layout: post
 title: Haffner 13
 style: style
 title_flag: true
-more_names: VDBH 5; ESO 429 10; OCL 678; vdBergh-Hagen 5; MWSC 1305; FoF 2286
+more_names: VDBH 5; ESO 429 10; vdBergh-Hagen 5; OCL 678; MWSC 1305; FoF 2286
 fname: haffner13
 fov: 0.67
 ra_icrs: 115.21946
@@ -11,7 +11,7 @@ de_icrs: -30.08199
 glon: 245.03392
 glat: -3.60811
 r50: 20.1
-plx: 1.77775
+plx: 1.7778
 UTI: "0.98"
 UTI_COLOR: "#a8cdbb"
 UTI_C_N_COL: "#b1dcc2"

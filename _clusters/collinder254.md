@@ -3,7 +3,7 @@ layout: post
 title: Collinder 254
 style: style
 title_flag: true
-more_names: VDBH 129; NGC 4337; ESO 131 02; FSR 1611; OCL 878; vdBergh-Hagen 129; MWSC 2023; FoF 595
+more_names: VDBH 129; NGC 4337; ESO 131 02; vdBergh-Hagen 129; FSR 1611; OCL 878; MWSC 2023; FoF 595
 fname: collinder254
 fov: 0.137
 ra_icrs: 186.02624
@@ -11,7 +11,7 @@ de_icrs: -58.1252
 glon: 299.31824
 glat: 4.55518
 r50: 4.1
-plx: 0.38215
+plx: 0.3822
 UTI: "0.98"
 UTI_COLOR: "#a8cdbb"
 UTI_C_N_COL: "#b4ddc3"

@@ -3,7 +3,7 @@ layout: post
 title: Collinder 311
 style: style
 title_flag: true
-more_names: VDBH 196; NGC 6200; ESO 277 08; OCL 978; vdBergh-Hagen 196; MWSC 2450
+more_names: VDBH 196; NGC 6200; ESO 277 08; vdBergh-Hagen 196; OCL 978; MWSC 2450
 fname: collinder311
 fov: 0.127
 ra_icrs: 251.01943

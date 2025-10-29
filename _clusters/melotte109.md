@@ -3,7 +3,7 @@ layout: post
 title: Melotte 109
 style: style
 title_flag: true
-more_names: Collinder 252; VDBH 127; NGC 4103; ESO 130 05; OCL 871; vdBergh-Hagen 127; FoF 420
+more_names: Collinder 252; VDBH 127; NGC 4103; ESO 130 05; vdBergh-Hagen 127; OCL 871; FoF 420
 fname: melotte109
 fov: 0.123
 ra_icrs: 181.6503

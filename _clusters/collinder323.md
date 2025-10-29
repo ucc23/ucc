@@ -3,7 +3,7 @@ layout: post
 title: Collinder 323
 style: style
 title_flag: true
-more_names: VDBH 212; NGC 6268; ESO 332 17; OCL 1002; vdBergh-Hagen 212; MWSC 2516; FoF 2242
+more_names: VDBH 212; NGC 6268; ESO 332 17; vdBergh-Hagen 212; OCL 1002; MWSC 2516; FoF 2242
 fname: collinder323
 fov: 0.213
 ra_icrs: 255.53004

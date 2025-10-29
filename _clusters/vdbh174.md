@@ -3,7 +3,7 @@ layout: post
 title: VDBH 174
 style: style
 title_flag: true
-more_names: Lynga 4; ESO 147 07; OCL 941; vdBergh-Hagen 174; MWSC 2302
+more_names: Lynga 4; ESO 147 07; vdBergh-Hagen 174; OCL 941; MWSC 2302
 fname: vdbh174
 fov: 0.077
 ra_icrs: 233.3335

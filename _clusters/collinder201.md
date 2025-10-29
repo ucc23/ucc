@@ -3,7 +3,7 @@ layout: post
 title: Collinder 201
 style: style
 title_flag: true
-more_names: VDBH 51; NGC 2671; ESO 313 14; FSR 1409; OCL 745; vdBergh-Hagen 51; MWSC 1558; FoF 1463
+more_names: VDBH 51; NGC 2671; ESO 313 14; vdBergh-Hagen 51; FSR 1409; OCL 745; MWSC 1558; FoF 1463
 fname: collinder201
 fov: 0.263
 ra_icrs: 131.5636

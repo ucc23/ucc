@@ -3,7 +3,7 @@ layout: post
 title: Melotte 105
 style: style
 title_flag: true
-more_names: Collinder 246; VDBH 117; ESO 093 07; FSR 1587; OCL 856; vdBergh-Hagen 117; MWSC 1933; FoF 133
+more_names: Collinder 246; VDBH 117; ESO 093 07; vdBergh-Hagen 117; FSR 1587; OCL 856; MWSC 1933; FoF 133
 fname: melotte105
 fov: 0.093
 ra_icrs: 169.92198
@@ -11,7 +11,7 @@ de_icrs: -63.48478
 glon: 292.90274
 glat: -2.41469
 r50: 2.8
-plx: 0.41905
+plx: 0.419
 UTI: "1.0"
 UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"

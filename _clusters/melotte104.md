@@ -3,7 +3,7 @@ layout: post
 title: Melotte 104
 style: style
 title_flag: true
-more_names: Collinder 245; VDBH 116; ESO 129 18; FSR 1582; IC 2714; OCL 855; vdBergh-Hagen 116; MWSC 1930; MWSC 1929; FoF 819
+more_names: Collinder 245; VDBH 116; ESO 129 18; vdBergh-Hagen 116; FSR 1582; IC 2714; OCL 855; MWSC 1930; MWSC 1929; FoF 819
 fname: melotte104
 fov: 0.287
 ra_icrs: 169.37732
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 169.363 | -62.733 | -- | -3.74 | 0.12 | -14.1 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 169.365 | -62.724 | -- | -- | -- | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 169.296 | -62.742 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 169.365 | -62.74 | -- | -8.0 | 1.5 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 169.365 | -62.732 | -- | -6.847 | 5.407 | -14.1 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 169.345 | -62.721 | -- | -- | -- | -- |

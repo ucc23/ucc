@@ -3,7 +3,7 @@ layout: post
 title: Melotte 166
 style: style
 title_flag: true
-more_names: Collinder 325; VDBH 218; NGC 6318; ESO 333 01; OCL 1004; vdBergh-Hagen 218; MWSC 2552
+more_names: Collinder 325; VDBH 218; NGC 6318; ESO 333 01; vdBergh-Hagen 218; OCL 1004; MWSC 2552
 fname: melotte166
 fov: 0.093
 ra_icrs: 259.04805
@@ -11,7 +11,7 @@ de_icrs: -39.42758
 glon: 347.90151
 glat: -0.69072
 r50: 2.8
-plx: 0.41915
+plx: 0.4192
 UTI: "0.88"
 UTI_COLOR: "#b4ddc3"
 UTI_C_N_COL: "#c6e6c8"

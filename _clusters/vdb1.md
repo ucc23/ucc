@@ -1,10 +1,10 @@
 ---
 layout: post
-title: FSR 1042
+title: VDB 1
 style: style
 title_flag: true
-more_names: VDB 1; CV Mon; OCL 527; MWSC 934; vdBergh 1
-fname: fsr1042
+more_names: vdBergh 1; FSR 1042; CV Mon; OCL 527; MWSC 934
+fname: vdb1
 fov: 0.063
 ra_icrs: 99.27826
 de_icrs: 3.07949
@@ -25,12 +25,12 @@ UTI_C_C3: 0.62
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    FSR 1042 is a moderately populated, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    VDB 1 is a moderately populated, very dense object of intermediate C3 quality. It is very well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.9
 N_50_val: 75
-scix_url: FSR%201042
+scix_url: VDB%201
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,7 +3,7 @@ layout: post
 title: Collinder 251
 style: style
 title_flag: true
-more_names: VDBH 126; NGC 4052; ESO 094 10; OCL 870; vdBergh-Hagen 126; MWSC 1991; FoF 1123
+more_names: VDBH 126; NGC 4052; ESO 094 10; vdBergh-Hagen 126; OCL 870; MWSC 1991; FoF 1123
 fname: collinder251
 fov: 0.15
 ra_icrs: 180.45645

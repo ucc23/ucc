@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 12
 style: style
 title_flag: true
-more_names: Collinder 217; VDBH 89; ESO 127 07; FSR 1537; OCL 803; vdBergh-Hagen 89; MWSC 1763; FoF 63
+more_names: Collinder 217; VDBH 89; ESO 127 07; vdBergh-Hagen 89; FSR 1537; OCL 803; MWSC 1763; FoF 63
 fname: trumpler12
 fov: 0.103
 ra_icrs: 151.62432

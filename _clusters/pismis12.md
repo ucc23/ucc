@@ -3,7 +3,7 @@ layout: post
 title: Pismis 12
 style: style
 title_flag: true
-more_names: VDBH 62; ESO 261 05; FSR 1458; OCL 765; vdBergh-Hagen 62; MWSC 1650; FoF 391
+more_names: VDBH 62; ESO 261 05; vdBergh-Hagen 62; FSR 1458; OCL 765; MWSC 1650; FoF 391
 fname: pismis12
 fov: 0.15
 ra_icrs: 140.0061
@@ -11,7 +11,7 @@ de_icrs: -45.13096
 glon: 268.65462
 glat: 3.2112
 r50: 4.5
-plx: 0.44425
+plx: 0.4442
 UTI: "0.93"
 UTI_COLOR: "#acd5bf"
 UTI_C_N_COL: "#b4ddc3"

@@ -3,7 +3,7 @@ layout: post
 title: VDBH 92
 style: style
 title_flag: true
-more_names: ESO 168 01; FSR 1533; vdBergh-Hagen 92; MWSC 1791; BH 92
+more_names: ESO 168 01; vdBergh-Hagen 92; FSR 1533; MWSC 1791; BH 92
 fname: vdbh92
 fov: 0.07
 ra_icrs: 154.76781

@@ -3,7 +3,7 @@ layout: post
 title: Pismis 6
 style: style
 title_flag: true
-more_names: NGC 2645
+more_names: NGC 2645; FSR 1436; SAI 92
 fname: pismis6
 fov: 0.167
 ra_icrs: 129.82559
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 6 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with 5 later reported entries.
+    Pismis 6 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a significant percentage of members with 4 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.0
@@ -37,6 +37,8 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 129.762 | -46.233 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 129.762 | -46.233 | -- | -3.06 | 2.53 | 22.16 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 129.783 | -46.239 | -- | -4.59 | 6.15 | 20.8 |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 129.912 | -46.313 | -- | -- | -- | -- |
+    |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 129.894 | -46.298 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 129.765 | -46.235 | -- | -6.35 | 7.16 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 129.765 | -46.233 | -- | -3.06 | 2.53 | 16.8 |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 129.774 | -46.235 | -- | -- | -- | -- |
@@ -55,6 +57,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.444, DM0=11.18, log_age_=7.2` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.38, Dist=1668.0, Age=7.283` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1668, Age=0.01` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.39, Dm=10.99, Age=8.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.381, distance=1668, log_age=7.58` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.389, Dmod=11.036, logt=7.271` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.292, Dist=11.295, logA=7.425, Fe/H=0.0` |
@@ -66,9 +69,8 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1436](/_clusters/fsr1436/)| 97.4 | 129.87 | -46.27 | 0.54 | -5.85 | 5.11 | 27.31 |0.35 |
-    |[FoF 58](/_clusters/fof58/)| 53.9 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.05 |
-    |[OC 0481](/_clusters/oc0481/)| 19.9 | 129.65 | -46.22 | 0.54 | -5.81 | 5.15 | -9.58 |0.18 |
+    |[FoF 58](/_clusters/fof58/)| 53.9 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.14 |
+    |[OC 0481](/_clusters/oc0481/)| 19.9 | 129.65 | -46.22 | 0.54 | -5.81 | 5.15 | -9.58 |0.19 |
     |[CWWDL 13332](/_clusters/cwwdl13332/)| 8.4 | 129.66 | -46.26 | 0.54 | -5.78 | 5.13 | -9.58 |0.01 |
-    |[OC 0482](/_clusters/oc0482/)| 1.6 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.1 |
+    |[OC 0482](/_clusters/oc0482/)| 1.6 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.13 |
 ---

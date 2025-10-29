@@ -3,7 +3,7 @@ layout: post
 title: Melotte 103
 style: style
 title_flag: true
-more_names: Collinder 238; VDBH 109; NGC 3532; ESO 128 31; OCL 839; vdBergh-Hagen 109; MWSC 1890; FoF 2329; OCSN 236
+more_names: Collinder 238; VDBH 109; NGC 3532; ESO 128 31; vdBergh-Hagen 109; OCL 839; MWSC 1890; FoF 2329; OCSN 236
 fname: melotte103
 fov: 0.983
 ra_icrs: 166.39914

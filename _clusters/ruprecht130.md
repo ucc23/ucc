@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 130
 style: style
 title_flag: true
-more_names: VDBH 247; ESO 455 41; OCL 1034; vdBergh-Hagen 247; MWSC 2698; FoF 1205
+more_names: VDBH 247; ESO 455 41; vdBergh-Hagen 247; OCL 1034; MWSC 2698; FoF 1205
 fname: ruprecht130
 fov: 0.093
 ra_icrs: 266.89958

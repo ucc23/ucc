@@ -3,7 +3,7 @@ layout: post
 title: Melotte 161
 style: style
 title_flag: true
-more_names: Collinder 324; VDBH 213; NGC 6281; ESO 332 19; OCL 1003; vdBergh-Hagen 213; MWSC 2530; FoF 2332; OCSN 238
+more_names: Collinder 324; VDBH 213; NGC 6281; ESO 332 19; vdBergh-Hagen 213; OCL 1003; MWSC 2530; FoF 2332; OCSN 238
 fname: melotte161
 fov: 0.48
 ra_icrs: 256.18356
@@ -11,7 +11,7 @@ de_icrs: -37.9553
 glon: 347.76242
 glat: 1.98576
 r50: 14.4
-plx: 1.88445
+plx: 1.8844
 UTI: "1.0"
 UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"

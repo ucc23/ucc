@@ -11,7 +11,7 @@ de_icrs: 30.58779
 glon: 71.94382
 glat: 84.39036
 r50: 23.4
-plx: 1.45245
+plx: 1.4524
 UTI: "0.18"
 UTI_COLOR: "#f9c8bb"
 UTI_C_N_COL: "#e0a6b3"
@@ -37,7 +37,7 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 197.708 | 30.477 | -- | -2.32 | -3.2 | -2.4 |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 197.812 | 30.525 | -- | -7.3 | -1.37 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 197.71 | 30.477 | -- | -- | -- | -- |
-    | **UCC** |197.902 | 30.588 | 1.452 | 4.472 | -10.247 | 38.885 | 
+    | **UCC** |197.902 | 30.588 | 1.452 | 4.472 | -10.246 | 38.885 | 
 cds_radec: 197.90211,+30.58779
 carousel: UCC
 fpars_table: |

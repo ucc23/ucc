@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 97
 style: style
 title_flag: true
-more_names: VDBH 124; ESO 130 03; OCL 867; vdBergh-Hagen 124
+more_names: VDBH 124; ESO 130 03; vdBergh-Hagen 124; OCL 867
 fname: ruprecht97
 fov: 0.077
 ra_icrs: 179.37304

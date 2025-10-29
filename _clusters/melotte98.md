@@ -3,7 +3,7 @@ layout: post
 title: Melotte 98
 style: style
 title_flag: true
-more_names: Collinder 215; VDBH 86; NGC 3114; ESO 127 02; OCL 802; vdBergh-Hagen 86; MWSC 1749; FoF 2058
+more_names: Collinder 215; VDBH 86; NGC 3114; ESO 127 02; vdBergh-Hagen 86; OCL 802; MWSC 1749; FoF 2058
 fname: melotte98
 fov: 0.56
 ra_icrs: 150.55969

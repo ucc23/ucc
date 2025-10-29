@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 54
 style: style
 title_flag: true
-more_names: VDBH 20; ESO 430 23; OCL 710; vdBergh-Hagen 20; MWSC 1444
+more_names: VDBH 20; ESO 430 23; vdBergh-Hagen 20; OCL 710; MWSC 1444
 fname: ruprecht54
 fov: 0.067
 ra_icrs: 122.84487

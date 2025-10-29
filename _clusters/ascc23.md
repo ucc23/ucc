@@ -3,7 +3,7 @@ layout: post
 title: ASCC 23
 style: style
 title_flag: true
-more_names: FSR 0746; Ferrero 16; MWSC 839; FoF 2366
+more_names: FSR 0746; Ferrero 16; MWSC 839; KPR2005 23; FoF 2366
 fname: ascc23
 fov: 0.54
 ra_icrs: 95.00838
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 95.083 | 46.67 | -- | 0.11 | -5.98 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 95.183 | 46.807 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 95.09 | 46.675 | -- | 0.75 | -1.44 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 95.081 | 46.67 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 95.047 | 46.71 | -- | -- | -- | -- |

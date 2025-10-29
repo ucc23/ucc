@@ -3,7 +3,7 @@ layout: post
 title: Collinder 183
 style: style
 title_flag: true
-more_names: VDBH 28; NGC 2580; ESO 431 06; OCL 709; vdBergh-Hagen 28; MWSC 1476
+more_names: VDBH 28; NGC 2580; ESO 431 06; vdBergh-Hagen 28; OCL 709; MWSC 1476
 fname: collinder183
 fov: 0.113
 ra_icrs: 125.3656
@@ -11,7 +11,7 @@ de_icrs: -30.30744
 glon: 249.87416
 glat: 3.67016
 r50: 3.4
-plx: 0.21425
+plx: 0.2142
 UTI: "0.89"
 UTI_COLOR: "#b1dcc2"
 UTI_C_N_COL: "#d4edca"

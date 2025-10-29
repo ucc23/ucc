@@ -3,7 +3,7 @@ layout: post
 title: VDBH 253
 style: style
 title_flag: true
-more_names: Czernik 37; ESO 521 03; OCL 8; vdBergh-Hagen 253; MWSC 2737; FoF 284
+more_names: Czernik 37; ESO 521 03; vdBergh-Hagen 253; OCL 8; MWSC 2737; FoF 284
 fname: vdbh253
 fov: 0.08
 ra_icrs: 268.31893

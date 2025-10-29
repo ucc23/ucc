@@ -3,7 +3,7 @@ layout: post
 title: Melotte 93
 style: style
 title_flag: true
-more_names: Collinder 200; VDBH 50; NGC 2670; ESO 210 05; OCL 764; vdBergh-Hagen 50; MWSC 1554; FoF 694
+more_names: Collinder 200; VDBH 50; NGC 2670; ESO 210 05; vdBergh-Hagen 50; OCL 764; MWSC 1554; FoF 694
 fname: melotte93
 fov: 0.23
 ra_icrs: 131.38816
@@ -11,7 +11,7 @@ de_icrs: -48.79702
 glon: 267.48584
 glat: -3.62022
 r50: 6.9
-plx: 0.66645
+plx: 0.6664
 UTI: "0.92"
 UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#c1e4c6"

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 101
 style: style
 title_flag: true
-more_names: 
+more_names: FSR 1603
 fname: ruprecht101
 fov: 0.123
 ra_icrs: 182.39936
@@ -12,17 +12,17 @@ glon: 298.20238
 glat: -0.50528
 r50: 3.7
 plx: 0.2904
-UTI: "0.89"
-UTI_COLOR: "#b1dcc2"
+UTI: "0.91"
+UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#b7dfc4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.87
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     Ruprecht 101 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 182.408 | -62.983 | -- | -3.99 | 2.34 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 182.438 | -62.997 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 182.393 | -63.005 | -- | -4.66 | 1.07 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 182.398 | -62.995 | 0.272 | -9.521 | 0.479 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 182.41 | -62.99 | 0.272 | -9.519 | 0.474 | -14.973 |

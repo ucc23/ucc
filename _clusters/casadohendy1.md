@@ -11,7 +11,7 @@ de_icrs: 35.84972
 glon: 73.30321
 glat: 1.17258
 r50: 2.9
-plx: 0.48575
+plx: 0.4858
 UTI: "0.13"
 UTI_COLOR: "#f4bdb6"
 UTI_C_N_COL: "#fffbe1"
@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.24 | -24.13 |0.68 |
+    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.68 |
 ---

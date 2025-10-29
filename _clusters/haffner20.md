@@ -3,7 +3,7 @@ layout: post
 title: Haffner 20
 style: style
 title_flag: true
-more_names: VDBH 16; ESO 430 04; OCL 692; vdBergh-Hagen 16; MWSC 1385
+more_names: VDBH 16; ESO 430 04; vdBergh-Hagen 16; OCL 692; MWSC 1385
 fname: haffner20
 fov: 0.053
 ra_icrs: 119.06635
@@ -11,7 +11,7 @@ de_icrs: -30.3686
 glon: 246.9759
 glat: -0.92752
 r50: 1.6
-plx: 0.20865
+plx: 0.2086
 UTI: "0.84"
 UTI_COLOR: "#bee2c6"
 UTI_C_N_COL: "#d2ecc9"

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 155
 style: style
 title_flag: true
-more_names: Collinder 317; VDBH 204; NGC 6242; ESO 332 10; OCL 1001; vdBergh-Hagen 204; MWSC 2488; FoF 1621
+more_names: Collinder 317; VDBH 204; NGC 6242; ESO 332 10; vdBergh-Hagen 204; OCL 1001; MWSC 2488; FoF 1621
 fname: melotte155
 fov: 0.243
 ra_icrs: 253.87428

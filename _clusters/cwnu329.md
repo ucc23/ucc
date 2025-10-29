@@ -11,7 +11,7 @@ de_icrs: -9.43078
 glon: 223.296
 glat: -0.46665
 r50: 4.0
-plx: 0.34365
+plx: 0.3436
 UTI: "0.05"
 UTI_COLOR: "#e8aeb3"
 UTI_C_N_COL: "#f2f9d6"
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1173](/_clusters/fsr1173/)| 90.0 | 107.19 | -9.42 | 0.34 | -0.47 | -0.38 | 27.94 |0.67 |
+    |[FSR 1173](/_clusters/fsr1173/)| 90.0 | 107.19 | -9.42 | 0.34 | -0.47 | -0.38 | 27.94 |0.7 |
     |[UBC 1358](/_clusters/ubc1358/)| 80.0 | 107.18 | -9.42 | 0.34 | -0.46 | -0.39 | 13.04 |0.0 |
 ---

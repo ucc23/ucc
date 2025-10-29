@@ -3,7 +3,7 @@ layout: post
 title: VDBH 246
 style: style
 title_flag: true
-more_names: NGC 6425; ESO 455 38; OCL 1033; vdBergh-Hagen 246; MWSC 2691; FoF 2315
+more_names: NGC 6425; ESO 455 38; vdBergh-Hagen 246; OCL 1033; MWSC 2691; FoF 2315
 fname: vdbh246
 fov: 0.337
 ra_icrs: 266.73492

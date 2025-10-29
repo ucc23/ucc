@@ -3,7 +3,7 @@ layout: post
 title: Melotte 91
 style: style
 title_flag: true
-more_names: Collinder 194; Pismis 9; VDBH 46; NGC 2659; ESO 260 03; OCL 752; vdBergh-Hagen 46; MWSC 1538; FoF 118
+more_names: Collinder 194; Pismis 9; VDBH 46; NGC 2659; ESO 260 03; vdBergh-Hagen 46; OCL 752; MWSC 1538; FoF 118
 fname: melotte91
 fov: 0.093
 ra_icrs: 130.627

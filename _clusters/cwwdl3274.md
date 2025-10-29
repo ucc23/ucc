@@ -11,7 +11,7 @@ de_icrs: -0.82243
 glon: 53.37056
 glat: -35.76708
 r50: 1.8
-plx: 0.48265
+plx: 0.4826
 UTI: "0.29"
 UTI_COLOR: "#fee0c7"
 UTI_C_N_COL: "#fee2c7"
@@ -35,7 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 323.37 | -0.816 | 0.599 | 3.094 | -2.282 | -- |
-    | **UCC** |323.358 | -0.822 | 0.483 | 3.178 | -2.256 | -12.476 | 
+    | **UCC** |323.358 | -0.822 | 0.483 | 3.179 | -2.256 | -12.476 | 
 cds_radec: 323.35772,-0.82243
 carousel: UCC
 fpars_table: |

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 97
 style: style
 title_flag: true
-more_names: Collinder 208; VDBH 69; ESO 166 14; IC 2488; OCL 789; vdBergh-Hagen 69; MWSC 1671; FoF 675
+more_names: Collinder 208; VDBH 69; ESO 166 14; vdBergh-Hagen 69; IC 2488; OCL 789; MWSC 1671; FoF 675
 fname: melotte97
 fov: 0.35
 ra_icrs: 141.86878

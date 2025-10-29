@@ -3,7 +3,7 @@ layout: post
 title: Melotte 141
 style: style
 title_flag: true
-more_names: Collinder 300; VDBH 188; NGC 6087; ESO 137 15; OCL 948; vdBergh-Hagen 188; MWSC 2382; FoF 2279
+more_names: Collinder 300; VDBH 188; NGC 6087; ESO 137 15; vdBergh-Hagen 188; OCL 948; MWSC 2382; FoF 2279
 fname: melotte141
 fov: 0.42
 ra_icrs: 244.7202

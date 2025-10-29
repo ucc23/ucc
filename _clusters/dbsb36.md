@@ -11,7 +11,7 @@ de_icrs: -47.95328
 glon: 270.27448
 glat: 0.83541
 r50: 1.8
-plx: 0.56865
+plx: 0.5686
 UTI: "0.64"
 UTI_COLOR: "#ebf6d2"
 UTI_C_N_COL: "#ffedd1"

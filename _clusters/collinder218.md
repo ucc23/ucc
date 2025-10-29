@@ -3,7 +3,7 @@ layout: post
 title: Collinder 218
 style: style
 title_flag: true
-more_names: VDBH 93; NGC 3228; ESO 214 01; OCL 800; vdBergh-Hagen 93; MWSC 1794; FoF 2420; OCSN 235
+more_names: VDBH 93; NGC 3228; ESO 214 01; vdBergh-Hagen 93; OCL 800; MWSC 1794; FoF 2420; OCSN 235
 fname: collinder218
 fov: 1.11
 ra_icrs: 155.3559

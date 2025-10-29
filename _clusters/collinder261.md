@@ -3,7 +3,7 @@ layout: post
 title: Collinder 261
 style: style
 title_flag: true
-more_names: VDBH 136; Harvard 6; ESO 065 02; FSR 1627; OCL 889; vdBergh-Hagen 136; MWSC 2055; FoF 45
+more_names: VDBH 136; Harvard 6; ESO 065 02; vdBergh-Hagen 136; FSR 1627; OCL 889; MWSC 2055; FoF 45
 fname: collinder261
 fov: 0.197
 ra_icrs: 189.51868
@@ -11,7 +11,7 @@ de_icrs: -68.3791
 glon: 301.69495
 glat: -5.53956
 r50: 5.9
-plx: 0.34255
+plx: 0.3426
 UTI: "1.0"
 UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"

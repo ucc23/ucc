@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 79
 style: style
 title_flag: true
-more_names: VDBH 77; ESO 167 11; FSR 1502; OCL 787; vdBergh-Hagen 77; MWSC 1701
+more_names: VDBH 77; ESO 167 11; vdBergh-Hagen 77; FSR 1502; OCL 787; MWSC 1701
 fname: ruprecht79
 fov: 0.09
 ra_icrs: 145.26308
@@ -11,7 +11,7 @@ de_icrs: -53.84454
 glon: 277.10126
 glat: -0.80404
 r50: 2.7
-plx: 0.24305
+plx: 0.243
 UTI: "0.97"
 UTI_COLOR: "#a8cfbb"
 UTI_C_N_COL: "#c1e4c6"

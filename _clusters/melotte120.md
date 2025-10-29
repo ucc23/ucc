@@ -3,7 +3,7 @@ layout: post
 title: Melotte 120
 style: style
 title_flag: true
-more_names: Collinder 276; VDBH 152; NGC 5281; ESO 097 05; OCL 911; vdBergh-Hagen 152; MWSC 2161; FoF 1168
+more_names: Collinder 276; VDBH 152; NGC 5281; ESO 097 05; vdBergh-Hagen 152; OCL 911; MWSC 2161; FoF 1168
 fname: melotte120
 fov: 0.22
 ra_icrs: 206.61434

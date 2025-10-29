@@ -3,7 +3,7 @@ layout: post
 title: Melotte 131
 style: style
 title_flag: true
-more_names: Collinder 290; VDBH 169; NGC 5823; ESO 176 11; OCL 936; vdBergh-Hagen 169; MWSC 2273; FoF 432
+more_names: Collinder 290; VDBH 169; NGC 5823; ESO 176 11; vdBergh-Hagen 169; OCL 936; MWSC 2273; FoF 432
 fname: melotte131
 fov: 0.2
 ra_icrs: 226.37072

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 187
 style: style
 title_flag: true
-more_names: Collinder 361; VDBH 255; NGC 6520; ESO 456 42; OCL 10; vdBergh-Hagen 255; MWSC 2790; FoF 717
+more_names: Collinder 361; VDBH 255; NGC 6520; ESO 456 42; vdBergh-Hagen 255; OCL 10; MWSC 2790; FoF 717
 fname: melotte187
 fov: 0.093
 ra_icrs: 270.85419

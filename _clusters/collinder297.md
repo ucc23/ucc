@@ -3,7 +3,7 @@ layout: post
 title: Collinder 297
 style: style
 title_flag: true
-more_names: VDBH 183; NGC 6031; ESO 178 09; OCL 951; vdBergh-Hagen 183; MWSC 2352; FoF 2102
+more_names: VDBH 183; NGC 6031; ESO 178 09; vdBergh-Hagen 183; OCL 951; MWSC 2352; FoF 2102
 fname: collinder297
 fov: 0.087
 ra_icrs: 241.89421
@@ -11,7 +11,7 @@ de_icrs: -54.0141
 glon: 329.28239
 glat: -1.49466
 r50: 2.6
-plx: 0.54005
+plx: 0.54
 UTI: "0.95"
 UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#d2ecc9"

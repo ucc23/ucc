@@ -3,7 +3,7 @@ layout: post
 title: Collinder 265
 style: style
 title_flag: true
-more_names: VDBH 142; NGC 4815; ESO 096 01; FSR 1637; OCL 893; vdBergh-Hagen 142; MWSC 2075
+more_names: VDBH 142; NGC 4815; ESO 096 01; vdBergh-Hagen 142; FSR 1637; OCL 893; MWSC 2075
 fname: collinder265
 fov: 0.09
 ra_icrs: 194.50356

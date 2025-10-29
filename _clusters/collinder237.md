@@ -3,7 +3,7 @@ layout: post
 title: Collinder 237
 style: style
 title_flag: true
-more_names: VDBH 108; NGC 3496; ESO 128 26; FSR 1562; OCL 836; vdBergh-Hagen 108; MWSC 1878; FoF 236
+more_names: VDBH 108; NGC 3496; ESO 128 26; vdBergh-Hagen 108; FSR 1562; OCL 836; MWSC 1878; FoF 236
 fname: collinder237
 fov: 0.143
 ra_icrs: 164.87121

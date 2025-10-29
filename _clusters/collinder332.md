@@ -3,7 +3,7 @@ layout: post
 title: Collinder 332
 style: style
 title_flag: true
-more_names: VDBH 230; Harvard 16; ESO 393 02; OCL 1012; OCL 1010; vdBergh-Hagen 230; MWSC 2616; FoF 865
+more_names: VDBH 230; Harvard 16; ESO 393 02; vdBergh-Hagen 230; OCL 1012; OCL 1010; MWSC 2616; FoF 865
 fname: collinder332
 fov: 0.213
 ra_icrs: 262.76872
@@ -11,7 +11,7 @@ de_icrs: -36.80998
 glon: 351.71908
 glat: -1.62591
 r50: 6.4
-plx: 0.63465
+plx: 0.6347
 UTI: "0.92"
 UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#b4ddc3"

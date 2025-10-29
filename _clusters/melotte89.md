@@ -3,7 +3,7 @@ layout: post
 title: Melotte 89
 style: style
 title_flag: true
-more_names: Collinder 190; VDBH 39; NGC 2635; ESO 371 01; FSR 1375; OCL 728; vdBergh-Hagen 39; MWSC 1519
+more_names: Collinder 190; VDBH 39; NGC 2635; ESO 371 01; vdBergh-Hagen 39; FSR 1375; OCL 728; MWSC 1519
 fname: melotte89
 fov: 0.097
 ra_icrs: 129.61408
@@ -11,7 +11,7 @@ de_icrs: -34.77802
 glon: 255.60882
 glat: 3.95631
 r50: 2.9
-plx: 0.16655
+plx: 0.1666
 UTI: "0.90"
 UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#cbe9c9"

@@ -3,7 +3,7 @@ layout: post
 title: Collinder 339
 style: style
 title_flag: true
-more_names: VDBH 239; NGC 6396; ESO 393 10; OCL 1018; vdBergh-Hagen 239; MWSC 2644
+more_names: VDBH 239; NGC 6396; ESO 393 10; vdBergh-Hagen 239; OCL 1018; MWSC 2644
 fname: collinder339
 fov: 0.073
 ra_icrs: 264.39509

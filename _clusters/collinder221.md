@@ -3,7 +3,7 @@ layout: post
 title: Collinder 221
 style: style
 title_flag: true
-more_names: VDBH 96; NGC 3255; ESO 127 20; FSR 1546; OCL 817; vdBergh-Hagen 96; MWSC 1804
+more_names: VDBH 96; NGC 3255; ESO 127 20; vdBergh-Hagen 96; FSR 1546; OCL 817; MWSC 1804
 fname: collinder221
 fov: 0.037
 ra_icrs: 156.63511
@@ -11,7 +11,7 @@ de_icrs: -60.67412
 glon: 286.08969
 glat: -2.6304
 r50: 1.1
-plx: 0.13995
+plx: 0.14
 UTI: "0.90"
 UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#cbe9c9"

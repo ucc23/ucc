@@ -3,7 +3,7 @@ layout: post
 title: Pismis 16
 style: style
 title_flag: true
-more_names: VDBH 81; ESO 167 08; OCL 790; vdBergh-Hagen 81; MWSC 1721
+more_names: VDBH 81; ESO 167 08; vdBergh-Hagen 81; OCL 790; MWSC 1721
 fname: pismis16
 fov: 0.117
 ra_icrs: 147.80568

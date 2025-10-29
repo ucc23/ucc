@@ -3,7 +3,7 @@ layout: post
 title: Collinder 258
 style: style
 title_flag: true
-more_names: Collinder 257; VDBH 133; Harvard 5; ESO 131 05; OCL 880; vdBergh-Hagen 133; HD 108353; MWSC 2033; MWSC 2027; Har5; FoF 2240
+more_names: Collinder 257; VDBH 133; Harvard 5; ESO 131 05; vdBergh-Hagen 133; OCL 880; HD 108353; MWSC 2033; MWSC 2027; Har5; FoF 2240
 fname: collinder258
 fov: 0.22
 ra_icrs: 186.80679

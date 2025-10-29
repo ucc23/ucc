@@ -3,7 +3,7 @@ layout: post
 title: VDBH 131
 style: style
 title_flag: true
-more_names: FSR 1615; vdBergh-Hagen 131; MWSC 2030; BH 131
+more_names: vdBergh-Hagen 131; FSR 1615; MWSC 2030; BH 131
 fname: vdbh131
 fov: 0.08
 ra_icrs: 186.54536
@@ -11,7 +11,7 @@ de_icrs: -63.41307
 glon: 300.11037
 glat: -0.67934
 r50: 2.4
-plx: 0.12265
+plx: 0.1226
 UTI: "0.83"
 UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#c6e6c8"

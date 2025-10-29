@@ -3,7 +3,7 @@ layout: post
 title: Collinder 273
 style: style
 title_flag: true
-more_names: VDBH 147; NGC 5168; ESO 132 10; FSR 1655; OCL 905; vdBergh-Hagen 147; MWSC 2129; FoF 427
+more_names: VDBH 147; NGC 5168; ESO 132 10; vdBergh-Hagen 147; FSR 1655; OCL 905; MWSC 2129; FoF 427
 fname: collinder273
 fov: 0.08
 ra_icrs: 202.79005

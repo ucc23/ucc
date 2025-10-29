@@ -11,7 +11,7 @@ de_icrs: -13.1532
 glon: 222.07876
 glat: -11.2468
 r50: 43.8
-plx: 2.30475
+plx: 2.3048
 UTI: "0.50"
 UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#fbfde3"
@@ -38,7 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 96.126 | -12.957 | 2.313 | -4.443 | 3.798 | 37.078 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 96.99 | -13.49 | 2.31 | -4.39 | 3.78 | 38.33 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 96.757 | -13.008 | 2.315 | -- | -- | -- |
-    | **UCC** |96.949 | -13.153 | 2.305 | -4.376 | 3.834 | 39.227 | 
+    | **UCC** |96.949 | -13.153 | 2.305 | -4.375 | 3.834 | 39.227 | 
 cds_radec: 96.94898,-13.1532
 carousel: UCC_HUNT23
 fpars_table: |

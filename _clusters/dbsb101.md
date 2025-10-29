@@ -12,20 +12,20 @@ glon: 332.96921
 glat: 1.87654
 r50: 4.6
 plx: 0.5356
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.01"
+UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
 UTI_C_lit_COL: "#fff6da"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#e1a7b3"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.42
-UTI_C_dup: 1.0
+UTI_C_dup: 0.01
 UTI_summary: |
-    DBSB 101 is a rich, very dense object of high C3 quality. It is poorly studied in the literature.
+    DBSB 101 is a rich, very dense object of high C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.6
@@ -49,5 +49,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.02, dMod50=10.95, logAge50=6.85, [Fe/H]50=0.05` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1515.28` |
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[FSR 1722](/_clusters/fsr1722/)| 98.9 | 242.6 | -49.04 | 0.53 | -2.04 | -2.15 | -23.72 |0.52 |
 ---

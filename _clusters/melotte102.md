@@ -3,7 +3,7 @@ layout: post
 title: Melotte 102
 style: style
 title_flag: true
-more_names: Collinder 229; VDBH 103; ESO 093 02; IC 2602; OCL 838; vdBergh-Hagen 103; OCSN 205
+more_names: Collinder 229; VDBH 103; ESO 093 02; vdBergh-Hagen 103; IC 2602; OCL 838; OCSN 205
 fname: melotte102
 fov: 3.433
 ra_icrs: 160.60464

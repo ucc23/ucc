@@ -3,7 +3,7 @@ layout: post
 title: VDBH 73
 style: style
 title_flag: true
-more_names: ESO 212 09; FSR 1483; vdBergh-Hagen 73; MWSC 1682; BH 73
+more_names: ESO 212 09; vdBergh-Hagen 73; FSR 1483; MWSC 1682; BH 73
 fname: vdbh73
 fov: 0.043
 ra_icrs: 142.98446
@@ -12,17 +12,17 @@ glon: 273.63902
 glat: 0.94449
 r50: 1.3
 plx: 0.1446
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     VDBH 73 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 142.983 | -50.217 | -- | -3.04 | 3.71 | -- |
+    |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 142.988 | -50.226 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 142.965 | -50.215 | -- | -2.75 | 9.98 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 142.968 | -50.222 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 142.981 | -50.225 | 0.105 | -3.574 | 2.306 | -- |

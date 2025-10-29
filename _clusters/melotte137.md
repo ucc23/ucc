@@ -3,7 +3,7 @@ layout: post
 title: Melotte 137
 style: style
 title_flag: true
-more_names: Collinder 293; VDBH 178; NGC 5999; ESO 178 01; FSR 1706; OCL 946; vdBergh-Hagen 178; MWSC 2326
+more_names: Collinder 293; VDBH 178; NGC 5999; ESO 178 01; vdBergh-Hagen 178; FSR 1706; OCL 946; MWSC 2326
 fname: melotte137
 fov: 0.103
 ra_icrs: 238.045

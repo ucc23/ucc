@@ -3,7 +3,7 @@ layout: post
 title: VDBH 144
 style: style
 title_flag: true
-more_names: ESO 096 04; AL 1; Andrews-Lindsay 1; vdBergh-Hagen 144; MWSC 2098; BH 144
+more_names: ESO 096 04; vdBergh-Hagen 144; AL 1; Andrews-Lindsay 1; MWSC 2098; BH 144
 fname: vdbh144
 fov: 0.03
 ra_icrs: 198.81635

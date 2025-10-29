@@ -3,7 +3,7 @@ layout: post
 title: Melotte 149
 style: style
 title_flag: true
-more_names: Collinder 309; VDBH 194; NGC 6192; ESO 277 03; OCL 988; vdBergh-Hagen 194; MWSC 2440; FoF 437
+more_names: Collinder 309; VDBH 194; NGC 6192; ESO 277 03; vdBergh-Hagen 194; OCL 988; MWSC 2440; FoF 437
 fname: melotte149
 fov: 0.177
 ra_icrs: 250.07246

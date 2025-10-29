@@ -3,7 +3,7 @@ layout: post
 title: Collinder 214
 style: style
 title_flag: true
-more_names: VDBH 82; NGC 3105; ESO 167 14; FSR 1519; OCL 798; vdBergh-Hagen 82; MWSC 1742
+more_names: VDBH 82; NGC 3105; ESO 167 14; vdBergh-Hagen 82; FSR 1519; OCL 798; MWSC 1742
 fname: collinder214
 fov: 0.04
 ra_icrs: 150.17016

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 90
 style: style
 title_flag: true
-more_names: Collinder 195; VDBH 48; NGC 2658; ESO 432 04; FSR 1373; OCL 723; vdBergh-Hagen 48; MWSC 1542; FoF 593
+more_names: Collinder 195; VDBH 48; NGC 2658; ESO 432 04; vdBergh-Hagen 48; FSR 1373; OCL 723; MWSC 1542; FoF 593
 fname: melotte90
 fov: 0.133
 ra_icrs: 130.87025
