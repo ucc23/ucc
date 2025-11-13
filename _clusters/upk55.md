@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 55 is a somewhat close, moderately populated, dense object of high C3 quality. It is well-studied in the literature.
+    <b>UPK 55</b> is a moderately populated, dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 18.1
@@ -39,9 +39,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 296.798 | 10.421 | 1.253 | -1.386 | -6.86 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 296.844 | 10.401 | 1.258 | -1.441 | -6.884 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 296.669 | 10.433 | 1.243 | -1.437 | -6.885 | -15.757 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 296.723 | 10.487 | 1.217 | -1.423 | -6.868 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 296.799 | 10.451 | 1.248 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 296.669 | 10.433 | 1.243 | -1.437 | -6.885 | -15.757 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 296.723 | 10.487 | 1.217 | -1.423 | -6.868 | -- |
     | **UCC** |296.809 | 10.421 | 1.261 | -1.438 | -6.908 | -9.477 | 
 cds_radec: 296.80864,+10.42141
 carousel: UCC_HUNT23_CANTAT20
@@ -53,9 +53,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.742, Dist=771, logage=8.392, [Fe/H]=0.042` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=756, logAgeNN=8.4` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.678, diffAV50=1.303, MOD50=9.415, logAge50=7.977` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53997, MOD=9.42985, logAge=8.34907, Z=0.04215` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.72, dMod50=9.53, logAge50=8.06, [Fe/H]50=0.4` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=208.180` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53997, MOD=9.42985, logAge=8.34907, Z=0.04215` |
 shared_table: |
     
 ---

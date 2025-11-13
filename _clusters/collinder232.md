@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
-    Collinder 232 is a moderately populated, very dense object of high C3 quality. It is poorly studied in the literature, with no articles listed in the last 8 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Collinder 232</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 8 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

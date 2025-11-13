@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 0.1
 UTI_summary: |
-    Theia 517 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Theia 517</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 54.8
@@ -49,7 +49,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 236](/_clusters/melotte236/)| 89.9 | 322.8 | 48.25 | 3.36 | -7.45 | -19.73 | -5.94 |0.97 |
+    |[NGC 7092](/_clusters/melotte236/)| 89.9 | 322.8 | 48.25 | 3.36 | -7.45 | -19.73 | -5.94 |0.97 |
     |[CWWDL 14690](/_clusters/cwwdl14690/)| 15.5 | 322.87 | 48.25 | 3.4 | -7.49 | -19.96 | -6.46 |0.0 |
     |[CWWDL 14621](/_clusters/cwwdl14621/)| 12.9 | 323.03 | 48.3 | 3.38 | -7.6 | -19.9 | -6.53 |0.0 |
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VDBH 174
+title: Lynga 4
 style: style
 title_flag: true
-more_names: Lynga 4; ESO 147 07; vdBergh-Hagen 174; OCL 941; MWSC 2302
+more_names: Lynga 4; OCL 941; vdBergh-Hagen 174; ESO 147 07; MWSC 2302
 fname: vdbh174
 fov: 0.077
 ra_icrs: 233.3335
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 174 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Lynga 4</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.3
 N_50_val: 101
-scix_url: VDBH%20174
+scix_url: Lynga%204
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 7
 style: style
 title_flag: true
-more_names: FSR 0155; DSH J1947.7+2415; MWSC 3180
+more_names: DSH J1947.7+2415; FSR 0155; MWSC 3180
 fname: teutsch7
 fov: 0.04
 ra_icrs: 296.93258
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 7 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Teutsch 7</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.2

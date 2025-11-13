@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 34 is a somewhat close, rich, very dense object of very high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years. This object shares a large percentage of members with 2 later reported entries.
+    <b>UBC 34</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 16.9

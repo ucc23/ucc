@@ -3,7 +3,7 @@ layout: post
 title: Alessi 58
 style: style
 title_flag: true
-more_names: FSR 0912; DSH J0625.7+1954
+more_names: DSH J0625.7+1954; FSR 0912
 fname: alessi58
 fov: 0.18
 ra_icrs: 96.39146
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.18
 UTI_summary: |
-    Alessi 58 is a rich, loose object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Alessi 58</b> is a rich, loose object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.4

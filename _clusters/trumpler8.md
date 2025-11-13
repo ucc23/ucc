@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Trumpler 8
+title: NGC 2479
 style: style
 title_flag: true
-more_names: Collinder 167; NGC 2479; ESO 561 01; FSR 1271; OCL 623; MWSC 1380
+more_names: NGC 2479; Collinder 167; OCL 623; ESO 561 01; FSR 1271; MWSC 1380
 fname: trumpler8
 fov: 0.2
 ra_icrs: 118.76814
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 8 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>NGC 2479</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0
 N_50_val: 192
-scix_url: Trumpler%208
+scix_url: NGC%202479
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -38,8 +38,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 118.785 | -17.73 | -- | -7.14 | 4.72 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 118.77 | -17.738 | -- | -6.64 | 3.632 | 38.17 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 118.777 | -17.715 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 118.762 | -17.732 | 0.626 | -4.318 | 1.053 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 118.785 | -17.73 | -- | -4.3 | 1.09 | 41.6 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 118.762 | -17.732 | 0.626 | -4.318 | 1.053 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 118.755 | -17.731 | 0.623 | -4.334 | 1.059 | 40.969 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 118.772 | -17.734 | 0.611 | -4.326 | 1.097 | 34.536 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 118.765 | -17.731 | 0.612 | -- | -- | -- |
@@ -54,8 +54,8 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.05, Dist=1585.0, Age=9.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.083, distance=1363, log_age=9.015` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.185, Dmod=12.108, logt=8.77` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.15, DMNN=10.97, AgeNN=8.99` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.03` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.15, DMNN=10.97, AgeNN=8.99` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.259, Dist=1501, logage=9.086, [Fe/H]=-0.104` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.099, diffAV50=0.469, MOD50=10.912, logAge50=9.117` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.19, dMod50=10.9, logAge50=9.13, [Fe/H]50=-0.02` |

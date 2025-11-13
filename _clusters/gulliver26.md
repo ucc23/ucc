@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.62
 UTI_C_dup: 0.93
 UTI_summary: |
-    Gulliver 26 is a rich, very dense object of low C3 quality. It is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Gulliver 26</b> is a rich, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.6

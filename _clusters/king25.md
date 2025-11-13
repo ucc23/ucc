@@ -3,7 +3,7 @@ layout: post
 title: King 25
 style: style
 title_flag: true
-more_names: FSR 0127; OCL 106; MWSC 3113
+more_names: OCL 106; FSR 0127; MWSC 3113
 fname: king25
 fov: 0.113
 ra_icrs: 291.1271
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    King 25 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>King 25</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4

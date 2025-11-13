@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 46
 style: style
 title_flag: true
-more_names: ESO 561 08; OCL 637; MWSC 1418
+more_names: OCL 637; ESO 561 08; MWSC 1418
 fname: ruprecht46
 fov: 0.2
 ra_icrs: 120.54172
@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 46 is a sparse, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Ruprecht 46</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.0

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 65
 style: style
 title_flag: true
-more_names: ESO 259 15; OCL 750; MWSC 1522
+more_names: OCL 750; ESO 259 15; MWSC 1522
 fname: ruprecht65
 fov: 0.13
 ra_icrs: 129.81656
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 65 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Ruprecht 65</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9

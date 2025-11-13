@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 6
 style: style
 title_flag: true
-more_names: Kronberger 60; Teutsch J0604.2+3136; FSR 0827
+more_names: Kronberger 60; FSR 0827; Teutsch J0604.2+3136
 fname: kronberger6
 fov: 0.13
 ra_icrs: 91.0625
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 6 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 3 later reported entries.
+    <b>Kronberger 6</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9

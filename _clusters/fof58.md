@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.25
 UTI_summary: |
-    FoF 58 is a rich, very dense object of very high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>FoF 58</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.2
@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Pismis 6](/_clusters/pismis6/)| 75.2 | 129.83 | -46.25 | 0.54 | -5.87 | 5.11 | 17.73 |0.96 |
+    |[NGC 2645](/_clusters/pismis6/)| 75.2 | 129.83 | -46.25 | 0.54 | -5.87 | 5.11 | 17.73 |0.96 |
     |[OC 0481](/_clusters/oc0481/)| 18.2 | 129.65 | -46.22 | 0.54 | -5.81 | 5.15 | -9.58 |0.19 |
     |[OC 0484](/_clusters/oc0484/)| 10.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.11 |
     |[CWWDL 13332](/_clusters/cwwdl13332/)| 9.5 | 129.66 | -46.26 | 0.54 | -5.78 | 5.13 | -9.58 |0.01 |

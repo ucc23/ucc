@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Chupina 4 is a somewhat close, sparse, very dense object of high C3 quality. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Chupina 4</b> is a sparse, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.1
@@ -47,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 94](/_clusters/melotte94/)| 100.0 | 132.85 | 11.82 | 1.15 | -10.97 | -2.91 | 33.91 |1.0 |
+    |[NGC 2682](/_clusters/melotte94/)| 100.0 | 132.85 | 11.82 | 1.15 | -10.97 | -2.91 | 33.91 |1.0 |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 40.0 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
 ---

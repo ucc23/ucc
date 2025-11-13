@@ -3,7 +3,7 @@ layout: post
 title: Tombaugh 2
 style: style
 title_flag: true
-more_names: Haffner 2; ESO 558 07; FSR 1250; OCL 605; MWSC 1076
+more_names: OCL 605; ESO 558 07; FSR 1250; MWSC 1076; Haffner 2
 fname: tombaugh2
 fov: 0.053
 ra_icrs: 105.77702
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Tombaugh 2 is a very rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Tombaugh 2</b> is a very rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.6

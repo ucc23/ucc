@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 19
 style: style
 title_flag: true
-more_names: Collinder 243; ESO 169 07; FSR 1565; OCL 843; MWSC 1924
+more_names: Collinder 243; OCL 843; ESO 169 07; FSR 1565; MWSC 1924
 fname: trumpler19
 fov: 0.197
 ra_icrs: 168.6157
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 19 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 19</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.9

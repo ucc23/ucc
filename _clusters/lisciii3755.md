@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.26
 UTI_summary: |
-    LISC-III 3755 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>LISC-III 3755</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 34.2
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.89 |
+    |[teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.89 |
     |[CWWDL 14675](/_clusters/cwwdl14675/)| 19.4 | 276.61 | 26.44 | 2.88 | 0.59 | -5.34 | -20.14 |0.0 |
 ---

@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.37
 UTI_summary: |
-    CWWDL 439 is a poorly populated, very dense object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>CWWDL 439</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.8

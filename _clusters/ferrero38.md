@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ferrero 38 is a moderately populated, moderately dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years. This object shares a significant percentage of members with 4 later reported entries.
+    <b>Ferrero 38</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a significant percentage of members with 4 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.6

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 167
 style: style
 title_flag: true
-more_names: ESO 133 13; OCL 917; MWSC 2211
+more_names: OCL 917; ESO 133 13; MWSC 2211
 fname: ruprecht167
 fov: 0.233
 ra_icrs: 215.16256
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 167 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 167</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.0

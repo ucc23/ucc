@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Gulliver9 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Gulliver9</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 22.0
@@ -39,11 +39,11 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 126.998 | -47.929 | 1.985 | -5.992 | 6.915 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 126.744 | -47.82 | 1.977 | -5.998 | 6.893 | 29.621 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 127.124 | -47.922 | 1.996 | -5.926 | 6.882 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 127.204 | -47.925 | 2.0 | -5.931 | 6.935 | 22.706 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 127.12 | -47.91 | 2.0 | -6.05 | 6.99 | 21.91 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 127.033 | -47.88 | 1.963 | -5.982 | 6.912 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 127.204 | -47.925 | 2.0 | -5.931 | 6.935 | 22.706 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 126.797 | -47.873 | 1.997 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 127.204 | -47.925 | 2.0 | -5.931 | 6.935 | 22.706 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 127.033 | -47.88 | 1.963 | -5.982 | 6.912 | -- |
     | **UCC** |127.091 | -47.932 | 1.989 | -5.926 | 6.88 | 22.354 | 
 cds_radec: 127.09079,-47.93187
 carousel: UCC_HUNT23_CANTAT20
@@ -55,11 +55,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.42, DMNN=8.74, AgeNN=7.25` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.402, Dist=477, logage=7.326, [Fe/H]=-0.038` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=7.15` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.208, diffAV50=0.642, MOD50=8.432, logAge50=7.006` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.23, m-M=9.09, logt=7.25` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.41872, MOD=8.73958, logAge=7.29671, Z=-0.0380` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.208, diffAV50=0.642, MOD50=8.432, logAge50=7.006` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.62, dMod50=8.58, logAge50=6.62, [Fe/H]50=-0.3` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=267.435` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.41872, MOD=8.73958, logAge=7.29671, Z=-0.0380` |
 shared_table: |
     
 ---

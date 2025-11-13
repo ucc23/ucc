@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dolidze 11 is a rich, very dense object of high C3 quality. It is moderately studied in the literature.
+    <b>Dolidze 11</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.6

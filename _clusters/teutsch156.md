@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 156
 style: style
 title_flag: true
-more_names: FSR 0280; SAI 142; DSH J2103.7+4713; MWSC 3459
+more_names: SAI 142; DSH J2103.7+4713; FSR 0280; MWSC 3459
 fname: teutsch156
 fov: 0.077
 ra_icrs: 315.94541
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 156 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Teutsch 156</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.3

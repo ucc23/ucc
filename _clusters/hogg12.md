@@ -3,7 +3,7 @@ layout: post
 title: Hogg 12
 style: style
 title_flag: true
-more_names: ESO 129 11; OCL 851; MWSC 1918
+more_names: OCL 851; ESO 129 11; MWSC 1918
 fname: hogg12
 fov: 0.157
 ra_icrs: 168.0591
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Hogg 12 is a poorly populated, very loose object of intermediate C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a moderate percentage of members with a later reported entry.
+    <b>Hogg 12</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.7

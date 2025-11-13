@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 0.26
 UTI_summary: |
-    XDOCC-3 is a poorly populated, loose object of intermediate C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>XDOCC-3</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 15.3
@@ -47,6 +47,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FOF 2216](/_clusters/fof2216/)| 74.4 | 106.58 | -12.81 | 0.87 | -3.41 | 0.78 | 29.19 |0.29 |
-    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.76 |
+    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.81 |
     |[CMa08](/_clusters/cma08/)| 2.6 | 107.43 | -12.28 | 0.86 | -3.15 | 0.88 | 26.44 |0.5 |
 ---

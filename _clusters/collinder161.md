@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 161
+title: NGC 2451
 style: style
 title_flag: true
-more_names: VDBH 9; NGC 2451A; NGC 2451; ESO 311 08; vdBergh-Hagen 9; OCL 716; Escorial 24; MWSC 1308; FoF 2437; OCSN 230
+more_names: NGC 2451A; VDBH 9; vdBergh-Hagen 9; ESO 311 08; Escorial 24; MWSC 1308; Collinder 161; OCL 716; FoF 2437; OCSN 230
 fname: collinder161
 fov: 2.22
 ra_icrs: 115.77546
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 161 is a close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2451</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 66.6
 N_50_val: 492
-scix_url: Collinder%20161
+scix_url: NGC%202451
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -44,11 +44,11 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 115.736 | -38.264 | 5.165 | -21.116 | 15.328 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 115.752 | -38.278 | 5.15 | -21.058 | 15.332 | 23.266 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 115.762 | -38.277 | 5.202 | -20.956 | 15.393 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 115.971 | -38.241 | 5.196 | -20.987 | 15.327 | 25.247 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 115.65 | -38.29 | 5.16 | -20.93 | 15.12 | 23.89 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 115.781 | -38.151 | 5.145 | -20.891 | 15.211 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 115.971 | -38.241 | 5.196 | -20.987 | 15.327 | 25.247 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 115.751 | -38.24 | 5.197 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 115.971 | -38.241 | 5.196 | -20.987 | 15.327 | 25.247 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 115.781 | -38.151 | 5.145 | -20.891 | 15.211 | -- |
     | **UCC** |115.775 | -38.26 | 5.198 | -21.001 | 15.361 | 23.453 | 
 cds_radec: 115.77546,-38.25995
 carousel: UCC_HUNT23_CANTAT20
@@ -64,11 +64,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=6.46, AgeNN=7.55` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.067, Dist=193, logage=7.737, [Fe/H]=0.05` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.8` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.044, diffAV50=0.45, MOD50=6.443, logAge50=7.416` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.01, m-M=6.4, logt=7.75` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00085, MOD=6.46, logAge=7.63611, Z=0.05023` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.044, diffAV50=0.45, MOD50=6.443, logAge50=7.416` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.36, dMod50=6.45, logAge50=7.48, [Fe/H]50=-0.06` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=185.109` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00085, MOD=6.46, logAge=7.63611, Z=0.05023` |
 shared_table: |
     
 ---

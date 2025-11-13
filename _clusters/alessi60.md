@@ -3,7 +3,7 @@ layout: post
 title: Alessi 60
 style: style
 title_flag: true
-more_names: Alessi J0702.4-0108; DSH J0702.4-0108; MWSC 1071; FoF 1395
+more_names: DSH J0702.4-0108; Alessi J0702.4-0108; MWSC 1071; FoF 1395
 fname: alessi60
 fov: 0.127
 ra_icrs: 105.6108
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 60 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Alessi 60</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.8

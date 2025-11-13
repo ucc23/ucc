@@ -3,7 +3,7 @@ layout: post
 title: VDBH 245
 style: style
 title_flag: true
-more_names: ESO 455 35; vdBergh-Hagen 245; MWSC 2687; BH 245
+more_names: vdBergh-Hagen 245; ESO 455 35; MWSC 2687; BH 245
 fname: vdbh245
 fov: 0.093
 ra_icrs: 266.5613
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 245 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>VDBH 245</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8

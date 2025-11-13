@@ -3,7 +3,7 @@ layout: post
 title: Melotte 71
 style: style
 title_flag: true
-more_names: Collinder 155; FSR 1222; OCL 587; MWSC 1287; FoF 585
+more_names: Collinder 155; OCL 587; FSR 1222; MWSC 1287; FoF 585
 fname: melotte71
 fov: 0.233
 ra_icrs: 114.38108
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 71 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Melotte 71</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.0
@@ -41,8 +41,8 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 114.386 | -12.062 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 114.383 | -12.065 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 114.376 | -12.07 | 0.443 | -2.445 | 4.201 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 114.383 | -12.065 | 0.434 | -2.446 | 4.21 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 114.39 | -12.055 | -- | -2.38 | 4.13 | 50.5 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 114.383 | -12.065 | 0.434 | -2.446 | 4.21 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 114.378 | -12.068 | 0.437 | -2.444 | 4.208 | 51.369 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 114.386 | -12.064 | 0.465 | -2.447 | 4.204 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 114.378 | -12.058 | 0.439 | -2.389 | 4.216 | 48.421 |
@@ -61,8 +61,8 @@ fpars_table: |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.108, Dmod=12.501, logt=8.434` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.483, Dist=11.548, logA=9.112, Fe/H=-0.27` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.15, Z=0.0` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.38, DMNN=11.65, AgeNN=8.99` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.13` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.38, DMNN=11.65, AgeNN=8.99` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.556, Dist=1927, logage=9.123, [Fe/H]=-0.154` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.167, diffAV50=0.431, MOD50=11.593, logAge50=9.111` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.51, dMod50=11.55, logAge50=9.15, [Fe/H]50=-0.03` |

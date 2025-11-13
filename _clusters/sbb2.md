@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    SBB 2 is a poorly populated, very dense object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
+    <b>SBB 2</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.0

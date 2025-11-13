@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.14
 UTI_summary: |
-    HXHWL 3 is a moderately populated, dense object of high C3 quality. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>HXHWL 3</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.6

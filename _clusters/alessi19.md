@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 19 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Alessi 19</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 25.3
@@ -43,9 +43,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 274.817 | 12.504 | 1.713 | -1.012 | -7.051 | -47.055 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 274.666 | 11.976 | 1.691 | -1.0 | -7.18 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 274.534 | 11.897 | 1.709 | -1.009 | -7.074 | -7.866 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 274.827 | 12.267 | 1.676 | -1.007 | -7.063 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 274.845 | 12.418 | 1.71 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 274.534 | 11.897 | 1.709 | -1.009 | -7.074 | -7.866 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 274.827 | 12.267 | 1.676 | -1.007 | -7.063 | -- |
     | **UCC** |274.775 | 12.228 | 1.708 | -0.987 | -7.107 | -8.352 | 
 cds_radec: 274.7749,+12.22846
 carousel: UCC_HUNT23_CANTAT20
@@ -60,9 +60,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.406, Dist=573, logage=7.763, [Fe/H]=0.129` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.3, logAge=7.25` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.342, diffAV50=0.948, MOD50=8.764, logAge50=7.563` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.30966, MOD=8.78994, logAge=7.65968, Z=0.12887` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.63, dMod50=8.99, logAge50=7.24, [Fe/H]50=-0.03` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=73.2788` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.30966, MOD=8.78994, logAge=7.65968, Z=0.12887` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

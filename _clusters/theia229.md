@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 0.49
 UTI_summary: |
-    Theia 229 is a relatively close, poorly populated, very loose object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>Theia 229</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 66.5

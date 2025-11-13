@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 34
 style: style
 title_flag: true
-more_names: Berkeley 38; ESO 560 10; OCL 628; MWSC 1330
+more_names: Berkeley 38; OCL 628; ESO 560 10; MWSC 1330
 fname: ruprecht34
 fov: 0.077
 ra_icrs: 116.48332
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 34 is a rich, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 34</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.3

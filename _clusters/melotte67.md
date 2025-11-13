@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 67
+title: NGC 2421
 style: style
 title_flag: true
-more_names: Collinder 151; NGC 2421; ESO 056 02; FSR 1274; OCL 626; MWSC 1277; FoF 195
+more_names: NGC 2421; Collinder 151; OCL 626; ESO 056 02; FSR 1274; MWSC 1277; FoF 195
 fname: melotte67
 fov: 0.19
 ra_icrs: 114.05424
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 67 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 2421</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7
 N_50_val: 688
-scix_url: Melotte%2067
+scix_url: NGC%202421
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

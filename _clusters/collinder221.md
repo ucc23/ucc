@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 221
+title: NGC 3255
 style: style
 title_flag: true
-more_names: VDBH 96; NGC 3255; ESO 127 20; vdBergh-Hagen 96; FSR 1546; OCL 817; MWSC 1804
+more_names: NGC 3255; OCL 817; VDBH 96; vdBergh-Hagen 96; ESO 127 20; FSR 1546; MWSC 1804
 fname: collinder221
 fov: 0.037
 ra_icrs: 156.63511
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 221 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>NGC 3255</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.1
 N_50_val: 210
-scix_url: Collinder%20221
+scix_url: NGC%203255
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

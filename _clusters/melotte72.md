@@ -3,7 +3,7 @@ layout: post
 title: Melotte 72
 style: style
 title_flag: true
-more_names: Collinder 156; FSR 1215; OCL 581; MWSC 1293; FoF 586
+more_names: Collinder 156; OCL 581; FSR 1215; MWSC 1293; FoF 586
 fname: melotte72
 fov: 0.157
 ra_icrs: 114.62351
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 72 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 72</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.7

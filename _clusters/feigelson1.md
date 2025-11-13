@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Feigelson 1 is a close, rich, moderately dense object of very high C3 quality. It is poorly studied in the literature. This object shares a moderate percentage of members with 3 later reported entries.
+    <b>Feigelson 1</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 196.7

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 79 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Kronberger 79</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 0.8

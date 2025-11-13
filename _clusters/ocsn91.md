@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    OCSN 91 is a close, poorly populated, very dense object of high C3 quality. It was recently reported in the literature.
+    <b>OCSN 91</b> is a poorly populated, very dense object of high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 34.1
@@ -34,8 +34,8 @@ scix_url: OCSN%2091
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 229.683 | -37.652 | 7.48 | -18.971 | -26.97 | 5.166 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 229.69 | -37.72 | 7.43 | -18.94 | -26.82 | 6.01 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 229.683 | -37.652 | 7.48 | -18.971 | -26.97 | 5.166 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 229.937 | -37.568 | 7.48 | -- | -- | -- |
     | **UCC** |229.745 | -37.601 | 7.452 | -18.859 | -26.856 | 3.376 | 
 cds_radec: 229.745,-37.60119
@@ -43,8 +43,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.694, diffAV50=1.126, MOD50=5.578, logAge50=9.323` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.02, m-M=5.67, logt=7.2` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.694, diffAV50=1.126, MOD50=5.578, logAge50=9.323` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.66, dMod50=5.61, logAge50=8.68, [Fe/H]50=-0.03` |
 shared_table: |
     

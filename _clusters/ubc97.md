@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 97 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>UBC 97</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.1
@@ -34,8 +34,8 @@ scix_url: UBC%2097
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 274.782 | -15.722 | 0.736 | -0.872 | -1.161 | -- |
     |[Castro-Ginard et al. (2020)](https://scixplorer.org/abs/2020A%26A...635A..45C) | 274.779 | -15.726 | 0.733 | -0.871 | -1.146 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 274.782 | -15.722 | 0.736 | -0.872 | -1.161 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 274.785 | -15.743 | 0.728 | -0.873 | -1.15 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 274.814 | -15.734 | 0.718 | -0.835 | -1.212 | -18.173 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 274.797 | -15.748 | 0.718 | -- | -- | -- |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 58 is a moderately populated, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years. This object shares a large percentage of members with a later reported entry.
+    <b>UBC 58</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.1

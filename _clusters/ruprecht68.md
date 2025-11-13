@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 68
 style: style
 title_flag: true
-more_names: VDBH 49; ESO 371 12; vdBergh-Hagen 49; FSR 1384; OCL 729; MWSC 1547; FoF 592
+more_names: OCL 729; VDBH 49; vdBergh-Hagen 49; ESO 371 12; FSR 1384; MWSC 1547; FoF 592
 fname: ruprecht68
 fov: 0.163
 ra_icrs: 131.14557
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 68 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 68</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.9

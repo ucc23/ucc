@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 134
 style: style
 title_flag: true
-more_names: VDBH 252; ESO 456 01; vdBergh-Hagen 252; OCL 4; MWSC 2730
+more_names: OCL 4; VDBH 252; vdBergh-Hagen 252; ESO 456 01; MWSC 2730
 fname: ruprecht134
 fov: 0.12
 ra_icrs: 268.18356
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 134 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 134</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.6

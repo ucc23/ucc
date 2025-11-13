@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 442
+title: NGC 7142
 style: style
 title_flag: true
-more_names: NGC 7142; FSR 0373; OCL 241; MWSC 3557; FoF 629
+more_names: NGC 7142; FSR 0373; MWSC 3557; OCL 241; FoF 629
 fname: collinder442
 fov: 0.16
 ra_icrs: 326.29574
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 442 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7142</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.8
 N_50_val: 498
-scix_url: Collinder%20442
+scix_url: NGC%207142
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

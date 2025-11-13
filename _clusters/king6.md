@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    King 6 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>King 6</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.9
@@ -45,9 +45,9 @@ posit_table: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 51.973 | 56.438 | 1.378 | 3.86 | -1.823 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 51.993 | 56.443 | 1.38 | 3.826 | -1.905 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 52.002 | 56.449 | 1.376 | 3.825 | -1.91 | -21.894 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 51.975 | 56.446 | 1.346 | 3.827 | -1.894 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 51.969 | 56.461 | 1.377 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 52.002 | 56.449 | 1.376 | 3.825 | -1.91 | -21.894 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 51.975 | 56.446 | 1.346 | 3.827 | -1.894 | -- |
     | **UCC** |51.99 | 56.446 | 1.377 | 3.825 | -1.905 | -21.763 | 
 cds_radec: 51.98981,+56.44568
 carousel: UCC_HUNT23_CANTAT20
@@ -62,12 +62,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.047, Z=0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.34, DMNN=9.38, AgeNN=8.31` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.844, Dist=704, logage=8.292, [Fe/H]=0.147` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.15, logAge=7.65` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=738, logAgeNN=8.32` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.15, logAge=7.65` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.845, diffAV50=1.34, MOD50=9.172, logAge50=8.156` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.33867, MOD=9.38007, logAge=8.33012, Z=0.14697` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.84, dMod50=9.42, logAge50=8.25, [Fe/H]50=0.31` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=957.136` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.33867, MOD=9.38007, logAge=8.33012, Z=0.14697` |
 shared_table: |
     
 ---

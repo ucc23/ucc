@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.33
 UTI_C_dup: 0.0
 UTI_summary: |
-    Theia 2356 is a poorly populated, dense object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Theia 2356</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.3

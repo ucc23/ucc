@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 125
+title: NGC 5617
 style: style
 title_flag: true
-more_names: Collinder 282; VDBH 159; NGC 5617; ESO 134 04; vdBergh-Hagen 159; OCL 919; MWSC 2223
+more_names: NGC 5617; MWSC 2223; ESO 134 04; VDBH 159; OCL 919; Collinder 282; vdBergh-Hagen 159
 fname: melotte125
 fov: 0.15
 ra_icrs: 217.45208
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 125 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 5617</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 492
-scix_url: Melotte%20125
+scix_url: NGC%205617
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

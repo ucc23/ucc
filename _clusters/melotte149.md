@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 149
+title: NGC 6192
 style: style
 title_flag: true
-more_names: Collinder 309; VDBH 194; NGC 6192; ESO 277 03; vdBergh-Hagen 194; OCL 988; MWSC 2440; FoF 437
+more_names: NGC 6192; MWSC 2440; Collinder 309; vdBergh-Hagen 194; VDBH 194; OCL 988; ESO 277 03; FoF 437
 fname: melotte149
 fov: 0.177
 ra_icrs: 250.07246
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 149 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6192</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.3
 N_50_val: 898
-scix_url: Melotte%20149
+scix_url: NGC%206192
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

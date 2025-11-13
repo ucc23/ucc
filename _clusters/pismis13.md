@@ -3,7 +3,7 @@ layout: post
 title: Pismis 13
 style: style
 title_flag: true
-more_names: VDBH 64; NGC 2866; ESO 212 03; vdBergh-Hagen 64; FSR 1482; OCL 774; MWSC 1658
+more_names: NGC 2866; MWSC 1658; FSR 1482; vdBergh-Hagen 64; VDBH 64; OCL 774; ESO 212 03
 fname: pismis13
 fov: 0.04
 ra_icrs: 140.52587
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 13 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Pismis 13</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.2

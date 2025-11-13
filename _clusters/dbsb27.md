@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.39
 UTI_summary: |
-    DBSB 27 is a moderately populated, moderately dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>DBSB 27</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.4

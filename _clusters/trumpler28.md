@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 28
 style: style
 title_flag: true
-more_names: Collinder 337; VDBH 238; ESO 455 25; vdBergh-Hagen 238; OCL 1029; MWSC 2641; FoF 2243
+more_names: VDBH 238; vdBergh-Hagen 238; ESO 455 25; MWSC 2641; Collinder 337; OCL 1029; FoF 2243
 fname: trumpler28
 fov: 0.16
 ra_icrs: 264.22401
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 28 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a significant percentage of members with 3 later reported entries.
+    <b>Trumpler 28</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.8

@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.26
 UTI_summary: |
-    LISC-III 3249 is a relatively close, poorly populated, loose object of low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>LISC-III 3249</b> is a poorly populated, loose object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 32.2
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 89](/_clusters/ascc89/)| 74.3 | 260.78 | -62.72 | 2.06 | -0.45 | -8.98 | 9.22 |0.97 |
+    |[Alessi 24](/_clusters/alessi24/)| 74.3 | 260.78 | -62.72 | 2.06 | -0.45 | -8.98 | 9.22 |0.97 |
     |[OC 0639](/_clusters/oc0639/)| 5.7 | 261.07 | -62.46 | 2.04 | -0.42 | -8.97 | 8.85 |0.0 |
 ---

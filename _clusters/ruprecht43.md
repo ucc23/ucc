@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 43
 style: style
 title_flag: true
-more_names: ESO 430 06; OCL 684; Turner-Majaess 1; MWSC 1401
+more_names: OCL 684; ESO 430 06; Turner-Majaess 1; MWSC 1401
 fname: ruprecht43
 fov: 0.093
 ra_icrs: 119.68198
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 43 is a moderately populated, moderately dense object of high C3 quality. It is poorly studied in the literature.
+    <b>Ruprecht 43</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.8

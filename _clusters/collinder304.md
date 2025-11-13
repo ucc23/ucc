@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 304
+title: NGC 6152
 style: style
 title_flag: true
-more_names: NGC 6152; ESO 179 09; OCL 961; MWSC 2423
+more_names: NGC 6152; OCL 961; ESO 179 09; MWSC 2423
 fname: collinder304
 fov: 0.23
 ra_icrs: 248.21186
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 304 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>NGC 6152</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.9
 N_50_val: 267
-scix_url: Collinder%20304
+scix_url: NGC%206152
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

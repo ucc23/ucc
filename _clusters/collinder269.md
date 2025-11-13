@@ -3,7 +3,7 @@ layout: post
 title: Collinder 269
 style: style
 title_flag: true
-more_names: ESO 096 10; OCL 897; MWSC 2113
+more_names: OCL 897; ESO 096 10; MWSC 2113
 fname: collinder269
 fov: 0.197
 ra_icrs: 200.98437
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 269 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Collinder 269</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.9

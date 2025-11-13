@@ -3,7 +3,7 @@ layout: post
 title: Hogg 22
 style: style
 title_flag: true
-more_names: ESO 277 11; OCL 981; MWSC 2459
+more_names: OCL 981; ESO 277 11; MWSC 2459
 fname: hogg22
 fov: 0.087
 ra_icrs: 251.65253
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Hogg 22 is a poorly populated, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Hogg 22</b> is a poorly populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.6

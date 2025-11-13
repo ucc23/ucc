@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 87
+title: NGC 2627
 style: style
 title_flag: true
-more_names: Collinder 188; VDBH 38; NGC 2627; ESO 431 20; vdBergh-Hagen 38; FSR 1362; OCL 714; MWSC 1514; FoF 622
+more_names: NGC 2627; MWSC 1514; FSR 1362; ESO 431 20; VDBH 38; OCL 714; Collinder 188; vdBergh-Hagen 38; FoF 622
 fname: melotte87
 fov: 0.213
 ra_icrs: 129.30717
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 87 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2627</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4
 N_50_val: 553
-scix_url: Melotte%2087
+scix_url: NGC%202627
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

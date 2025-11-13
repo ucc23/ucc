@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 64 is a relatively close, poorly populated, very loose object of low C3 quality. It is poorly studied in the literature.
+    <b>UPK 64</b> is a poorly populated, very loose object of low C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 43.0

@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 67
 style: style
 title_flag: true
-more_names: FSR 0677; OCL 400; MWSC 404; FoF 577
+more_names: OCL 400; FSR 0677; MWSC 404; FoF 577
 fname: berkeley67
 fov: 0.147
 ra_icrs: 69.46537
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 67 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Berkeley 67</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.4

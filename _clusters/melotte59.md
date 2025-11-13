@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 59
+title: NGC 2324
 style: style
 title_flag: true
-more_names: Collinder 125; NGC 2324; FSR 1089; OCL 542; MWSC 1084; FoF 372
+more_names: NGC 2324; OCL 542; FSR 1089; MWSC 1084; Collinder 125; FoF 372
 fname: melotte59
 fov: 0.13
 ra_icrs: 106.03391
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 59 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 2324</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.9
 N_50_val: 684
-scix_url: Melotte%2059
+scix_url: NGC%202324
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,8 +40,8 @@ posit_table: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 106.035 | 1.046 | -- | -4.199 | -0.59 | 41.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 106.033 | 1.044 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 106.034 | 1.034 | 0.252 | -0.36 | -0.049 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 106.033 | 1.046 | 0.191 | -0.309 | -0.094 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 106.043 | 1.038 | -- | -0.31 | -0.11 | 42.2 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 106.033 | 1.046 | 0.191 | -0.309 | -0.094 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 106.029 | 1.046 | 0.189 | -0.308 | -0.096 | 43.948 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 106.043 | 1.05 | 0.217 | -0.324 | -0.11 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 106.035 | 1.047 | 0.216 | -0.322 | -0.089 | 46.4 |
@@ -59,8 +59,8 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.239, distance=3842, log_age=8.68, metallicity=-0.17` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.123, Dmod=12.967, logt=8.642` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.0, Z=-2.0` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.4, DMNN=13.12, AgeNN=8.73` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.19` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.4, DMNN=13.12, AgeNN=8.73` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.767, Dist=3701, logage=8.751, [Fe/H]=-0.216` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.16, diffAV50=0.345, MOD50=13.225, logAge50=8.778` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.54, dMod50=12.69, logAge50=8.88, [Fe/H]50=-0.13` |

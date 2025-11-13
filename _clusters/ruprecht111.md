@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 111
 style: style
 title_flag: true
-more_names: ESO 134 10; OCL 924; MWSC 2235; FoF 1172
+more_names: OCL 924; ESO 134 10; MWSC 2235; FoF 1172
 fname: ruprecht111
 fov: 0.213
 ra_icrs: 219.00549
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 111 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 111</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4

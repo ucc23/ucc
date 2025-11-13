@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 139
+title: NGC 6025
 style: style
 title_flag: true
-more_names: Collinder 296; VDBH 181; NGC 6025; ESO 136 14; vdBergh-Hagen 181; OCL 939; MWSC 2347; FoF 2278
+more_names: NGC 6025; OCL 939; VDBH 181; vdBergh-Hagen 181; ESO 136 14; MWSC 2347; Collinder 296; FoF 2278
 fname: melotte139
 fov: 0.467
 ra_icrs: 240.78301
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 139 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6025</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 14.0
 N_50_val: 386
-scix_url: Melotte%20139
+scix_url: NGC%206025
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -44,12 +44,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 240.779 | -60.43 | 1.269 | -2.901 | -3.035 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 240.751 | -60.435 | 1.27 | -2.91 | -3.026 | 15.101 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 240.784 | -60.424 | 1.301 | -2.923 | -3.034 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 240.774 | -60.438 | 1.291 | -2.962 | -3.046 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 240.815 | -60.422 | 1.291 | -2.965 | -3.042 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 240.774 | -60.438 | 1.291 | -2.962 | -3.046 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 240.793 | -60.432 | 1.284 | -2.951 | -3.034 | 7.733 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 240.776 | -60.445 | 1.251 | -2.955 | -3.034 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 240.726 | -60.473 | 1.287 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 240.793 | -60.432 | 1.284 | -2.951 | -3.034 | 7.733 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 240.776 | -60.445 | 1.251 | -2.955 | -3.034 | -- |
     | **UCC** |240.783 | -60.427 | 1.285 | -2.965 | -3.055 | 7.532 | 
 cds_radec: 240.78301,-60.42684
 carousel: UCC_HUNT23_CANTAT20
@@ -64,12 +64,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.066, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.43, DMNN=9.38, AgeNN=8.02` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.608, Dist=756, logage=8.237, [Fe/H]=0.147` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.7, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=739, logAgeNN=8.05` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.7, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.384, diffAV50=0.815, MOD50=9.336, logAge50=8.059` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.42739, MOD=9.38141, logAge=8.22741, Z=0.14556` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.62, dMod50=9.36, logAge50=8.22, [Fe/H]50=0.18` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1200.75` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.42739, MOD=9.38141, logAge=8.22741, Z=0.14556` |
 shared_table: |
     
 ---

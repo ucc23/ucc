@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 50
 style: style
 title_flag: true
-more_names: VDBH 17; ESO 430 12; vdBergh-Hagen 17; OCL 698; MWSC 1424; FoF 960
+more_names: OCL 698; VDBH 17; vdBergh-Hagen 17; ESO 430 12; MWSC 1424; FoF 960
 fname: ruprecht50
 fov: 0.11
 ra_icrs: 120.86646
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 50 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 50</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.3

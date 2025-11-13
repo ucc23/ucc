@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 437
+title: NGC 7086
 style: style
 title_flag: true
-more_names: NGC 7086; FSR 0309; OCL 214; MWSC 3520; FoF 343
+more_names: NGC 7086; FSR 0309; MWSC 3520; OCL 214; FoF 343
 fname: collinder437
 fov: 0.21
 ra_icrs: 322.62254
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 437 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>NGC 7086</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.3
 N_50_val: 890
-scix_url: Collinder%20437
+scix_url: NGC%207086
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

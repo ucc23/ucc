@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    SAI 14 is a rich, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    <b>SAI 14</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.2

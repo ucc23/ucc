@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 36
 style: style
 title_flag: true
-more_names: FSR 1214; OCL 577; MWSC 1156
+more_names: OCL 577; FSR 1214; MWSC 1156
 fname: berkeley36
 fov: 0.13
 ra_icrs: 109.09725
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 36 is a very rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>Berkeley 36</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9

@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 52
 style: style
 title_flag: true
-more_names: FSR 0177; DSH J1958.1+3053
+more_names: DSH J1958.1+3053; FSR 0177
 fname: kronberger52
 fov: 0.057
 ra_icrs: 299.53763
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 52 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Kronberger 52</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.7

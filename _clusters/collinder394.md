@@ -3,7 +3,7 @@ layout: post
 title: Collinder 394
 style: style
 title_flag: true
-more_names: ESO 592 03; OCL 42; MWSC 3011; FoF 2272
+more_names: OCL 42; ESO 592 03; MWSC 3011; FoF 2272
 fname: collinder394
 fov: 0.71
 ra_icrs: 283.19125
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 394 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
+    <b>Collinder 394</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 21.3
@@ -45,12 +45,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 283.092 | -20.229 | 1.388 | -1.459 | -5.882 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 283.06 | -20.224 | 1.389 | -1.465 | -5.882 | 21.626 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 283.109 | -20.243 | 1.405 | -1.496 | -5.861 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 283.262 | -20.105 | 1.382 | -1.482 | -5.958 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 283.06 | -20.235 | 1.372 | -1.485 | -5.922 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 283.262 | -20.105 | 1.382 | -1.482 | -5.958 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 283.058 | -20.272 | 1.336 | -1.453 | -5.874 | 8.744 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.179 | -20.165 | 1.337 | -1.483 | -5.94 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.98 | -20.249 | 1.346 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 283.058 | -20.272 | 1.336 | -1.453 | -5.874 | 8.744 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.179 | -20.165 | 1.337 | -1.483 | -5.94 | -- |
     | **UCC** |283.191 | -20.146 | 1.383 | -1.483 | -5.938 | 6.621 | 
 cds_radec: 283.19125,-20.14565
 carousel: UCC_HUNT23_CANTAT20
@@ -66,15 +66,15 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.05, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.23, AgeNN=7.96` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.904, Dist=692, logage=7.932, [Fe/H]=0.152` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=7.85` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=689, logAgeNN=7.97` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=7.85` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.621, diffAV50=0.966, MOD50=9.15, logAge50=7.924` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53884, MOD=9.23046, logAge=8.26822, Z=0.15148` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.94, dMod50=9.34, logAge50=8.01, [Fe/H]50=0.23` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1983.79` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53884, MOD=9.23046, logAge=8.26822, Z=0.15148` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 393](/_clusters/collinder393/)| 86.5 | 283.37 | -20.04 | 1.39 | -1.49 | -5.97 | 6.37 |1.0 |
+    |[NGC 6716](/_clusters/collinder393/)| 86.5 | 283.37 | -20.04 | 1.39 | -1.49 | -5.97 | 6.37 |1.0 |
     |[CWNU 1185](/_clusters/cwnu1185/)| 4.0 | 283.46 | -20.05 | 1.48 | -1.55 | -6.0 | -0.34 |0.0 |
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Dutra Bica 28
 style: style
 title_flag: true
-more_names: DB 28; MWSC 2738
+more_names: MWSC 2738
 fname: dutrabica28
 fov: 0.3
 ra_icrs: 268.36843
@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dutra Bica 28 is a sparse, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Dutra Bica 28</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.0

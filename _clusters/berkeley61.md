@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 61
 style: style
 title_flag: true
-more_names: FSR 0514; OCL 308; MWSC 75
+more_names: OCL 308; FSR 0514; MWSC 75
 fname: berkeley61
 fov: 0.103
 ra_icrs: 12.03212
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 61 is a rich, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    <b>Berkeley 61</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.1

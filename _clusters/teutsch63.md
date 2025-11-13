@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 63 is a moderately populated, very dense object of low C3 quality. It is poorly studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Teutsch 63</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6

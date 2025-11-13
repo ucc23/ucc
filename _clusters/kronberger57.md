@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 57
 style: style
 title_flag: true
-more_names: FSR 0206; DSH J2023.9+3636; MWSC 3330
+more_names: DSH J2023.9+3636; FSR 0206; MWSC 3330
 fname: kronberger57
 fov: 0.043
 ra_icrs: 305.98868
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 57 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Kronberger 57</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3

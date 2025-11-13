@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_summary: |
-    CWWDL 970 is a moderately populated, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWWDL 970</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dolidze 52a](/_clusters/dolidze52a/)| 100.0 | 276.46 | -17.08 | 0.48 | -0.22 | -1.56 | -27.47 |0.72 |
+    |[Teutsch 265](/_clusters/teutsch265/)| 100.0 | 276.46 | -17.08 | 0.48 | -0.22 | -1.56 | -27.47 |0.72 |
     |[UBC 341](/_clusters/ubc341/)| 100.0 | 276.47 | -17.07 | 0.49 | -0.22 | -1.53 | -27.47 |0.02 |
 ---

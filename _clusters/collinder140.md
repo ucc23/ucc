@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 140 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Collinder 140</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 39.8
@@ -46,11 +46,11 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 110.846 | -32.004 | 2.553 | -8.045 | 4.783 | 19.669 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 110.909 | -31.969 | 2.603 | -8.14 | 4.727 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 110.813 | -32.051 | 2.624 | -8.141 | 4.811 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 110.802 | -32.012 | 2.591 | -8.088 | 4.756 | 14.576 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 110.91 | -31.99 | 2.57 | -8.06 | 4.73 | 17.78 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 110.907 | -31.984 | 2.574 | -8.055 | 4.767 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 110.802 | -32.012 | 2.591 | -8.088 | 4.756 | 14.576 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 110.899 | -32.087 | 2.596 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 110.802 | -32.012 | 2.591 | -8.088 | 4.756 | 14.576 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 110.907 | -31.984 | 2.574 | -8.055 | 4.767 | -- |
     | **UCC** |110.904 | -31.986 | 2.601 | -8.079 | 4.766 | 16.809 | 
 cds_radec: 110.90368,-31.98592
 carousel: UCC_HUNT23_CANTAT20
@@ -68,11 +68,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=7.95, AgeNN=7.43` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.143, Dist=377, logage=7.6, [Fe/H]=0.011` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.15, logAge=7.5` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.095, diffAV50=0.595, MOD50=7.862, logAge50=7.237` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.07, m-M=8.18, logt=7.5` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00080, MOD=7.94976, logAge=7.44731, Z=0.01123` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.095, diffAV50=0.595, MOD50=7.862, logAge50=7.237` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.49, dMod50=8.0, logAge50=7.19, [Fe/H]50=-0.07` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=130.440` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00080, MOD=7.94976, logAge=7.44731, Z=0.01123` |
 shared_table: |
     
 ---

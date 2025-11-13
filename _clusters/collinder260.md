@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 260
+title: NGC 4463
 style: style
 title_flag: true
-more_names: VDBH 135; NGC 4463; ESO 095 10; vdBergh-Hagen 135; OCL 885; MWSC 2042
+more_names: NGC 4463; OCL 885; VDBH 135; vdBergh-Hagen 135; ESO 095 10; MWSC 2042
 fname: collinder260
 fov: 0.137
 ra_icrs: 187.46859
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 260 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4463</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1
 N_50_val: 219
-scix_url: Collinder%20260
+scix_url: NGC%204463
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.25
 UTI_C_dup: 0.96
 UTI_summary: |
-    Theia 1920 is a sparse, very loose object of low C3 quality. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 1920</b> is a sparse, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.96) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 14.8

@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    HSC 67 is a close, poorly populated, very dense object of low C3 quality. It was recently reported in the literature.
+    <b>HSC 67</b> is a poorly populated, very dense object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 57.0

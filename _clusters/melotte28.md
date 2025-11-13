@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 28
+title: NGC 1746
 style: style
 title_flag: true
-more_names: Collinder 57; NGC 1746; FSR 0822; OCL 452; MWSC 461
+more_names: NGC 1746; Collinder 57; OCL 452; FSR 0822; MWSC 461
 fname: melotte28
 fov: 0.137
 ra_icrs: 76.1635
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 28 is a somewhat close, rich, very dense object of high C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
+    <b>NGC 1746</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1
 N_50_val: 117
-scix_url: Melotte%2028
+scix_url: NGC%201746
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

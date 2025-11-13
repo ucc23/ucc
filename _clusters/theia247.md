@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 0.3
 UTI_summary: |
-    Theia 247 is a relatively close, poorly populated, very loose object of high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>Theia 247</b> is a poorly populated, very loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 48.7

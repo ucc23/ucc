@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_summary: |
-    CWWDL 3252 is a very rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWWDL 3252</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, well above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.2
@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 2](/_clusters/melotte2/)| 100.0 | 11.79 | 85.24 | 0.53 | -2.32 | -1.01 | -41.84 |1.0 |
+    |[NGC 188](/_clusters/melotte2/)| 100.0 | 11.79 | 85.24 | 0.53 | -2.32 | -1.01 | -41.84 |1.0 |
 ---

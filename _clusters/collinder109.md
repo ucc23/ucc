@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 109
+title: NGC 2262
 style: style
 title_flag: true
-more_names: NGC 2262; FSR 1055; OCL 531; MWSC 946; FoF 81
+more_names: NGC 2262; OCL 531; FSR 1055; MWSC 946; FoF 81
 fname: collinder109
 fov: 0.08
 ra_icrs: 99.90697
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 109 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with 2 later reported entries.
+    <b>NGC 2262</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4
 N_50_val: 326
-scix_url: Collinder%20109
+scix_url: NGC%202262
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

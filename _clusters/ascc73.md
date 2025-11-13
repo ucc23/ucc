@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    ASCC 73 is a somewhat close, poorly populated, moderately dense object of high C3 quality. It is well-studied in the literature.
+    <b>ASCC 73</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 19.6
@@ -40,8 +40,8 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 189.281 | -67.203 | 1.518 | -11.539 | -2.945 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 189.517 | -67.217 | 1.503 | -11.506 | -2.967 | -12.681 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 189.292 | -67.21 | 1.551 | -11.482 | -2.876 | -20.245 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 189.129 | -67.185 | 1.528 | -11.522 | -2.862 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 189.26 | -67.192 | 1.554 | -- | -- | -- |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 189.129 | -67.185 | 1.528 | -11.522 | -2.862 | -- |
     | **UCC** |189.303 | -67.203 | 1.569 | -11.509 | -2.963 | -16.697 | 
 cds_radec: 189.30314,-67.20284
 carousel: UCC_HUNT23_CANTAT20
@@ -54,8 +54,8 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.69, Dist=644, logage=8.688, [Fe/H]=-0.153` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=644, logAgeNN=8.55` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.21, diffAV50=0.779, MOD50=8.905, logAge50=8.199` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.23202, MOD=9.02270, logAge=8.51598, Z=-0.1507` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=9.03, logAge50=8.27, [Fe/H]50=0.38` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.23202, MOD=9.02270, logAge=8.51598, Z=-0.1507` |
 shared_table: |
     
 ---

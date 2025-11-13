@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 159
 style: style
 title_flag: true
-more_names: Teutsch J2218.6+5353; DSH J2218.6+5353
+more_names: DSH J2218.6+5353; Teutsch J2218.6+5353
 fname: teutsch159
 fov: 0.21
 ra_icrs: 334.59572
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 159 is a sparse, very loose object of very low C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Teutsch 159</b> is a sparse, very loose object of very low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.3

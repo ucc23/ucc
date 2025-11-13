@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 2 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 2</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 15.3
@@ -44,12 +44,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 39.232 | 55.905 | 1.431 | 1.583 | -5.352 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 39.239 | 55.894 | 1.435 | 1.581 | -5.343 | -3.99 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 39.255 | 55.934 | 1.456 | 1.56 | -5.302 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 39.34 | 55.914 | 1.449 | 1.525 | -5.381 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 39.217 | 55.927 | 1.434 | 1.553 | -5.375 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 39.34 | 55.914 | 1.449 | 1.525 | -5.381 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 39.305 | 55.926 | 1.455 | 1.54 | -5.411 | -8.322 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 38.967 | 55.958 | 1.397 | 1.462 | -5.223 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 38.956 | 55.889 | 1.448 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 39.305 | 55.926 | 1.455 | 1.54 | -5.411 | -8.322 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 38.967 | 55.958 | 1.397 | 1.462 | -5.223 | -- |
     | **UCC** |39.247 | 55.927 | 1.445 | 1.531 | -5.406 | -7.248 | 
 cds_radec: 39.2466,+55.92707
 carousel: UCC_HUNT23_CANTAT20
@@ -64,12 +64,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.081, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.86, DMNN=9.26, AgeNN=8.05` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.101, Dist=677, logage=8.376, [Fe/H]=0.14` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.2, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=696, logAgeNN=8.05` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.2, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.865, diffAV50=1.105, MOD50=9.076, logAge50=7.955` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.85592, MOD=9.26127, logAge=8.24801, Z=0.13859` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.2, dMod50=9.29, logAge50=7.82, [Fe/H]50=0.4` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=701.619` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.85592, MOD=9.26127, logAge=8.24801, Z=0.13859` |
 shared_table: |
     
 ---

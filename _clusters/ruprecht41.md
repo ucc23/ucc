@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 41
 style: style
 title_flag: true
-more_names: ESO 493 31; FSR 1318; OCL 673; MWSC 1378
+more_names: OCL 673; ESO 493 31; FSR 1318; MWSC 1378
 fname: ruprecht41
 fov: 0.107
 ra_icrs: 118.42618
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 41 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 41</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2

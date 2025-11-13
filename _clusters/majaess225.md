@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    Majaess 225 is a moderately populated, loose object of intermediate C3 quality. It is moderately studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Majaess 225</b> is a moderately populated, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.8
@@ -35,8 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 354.95 | 61.928 | -- | -2.01 | -2.59 | -57.0 |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 354.733 | 62.056 | 0.322 | -3.389 | -1.682 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 354.786 | 61.92 | 0.319 | -3.442 | -1.678 | -- |
+    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 354.733 | 62.056 | 0.322 | -3.389 | -1.682 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 354.767 | 61.969 | 0.319 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 354.786 | 61.92 | 0.319 | -3.442 | -1.678 | -- |
     | **UCC** |354.773 | 61.948 | 0.316 | -3.467 | -1.666 | -- | 
@@ -45,8 +45,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=3.35, m-M=12.3, logA=7.2` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.934, diffAV50=1.789, MOD50=12.265, logAge50=7.451` |
+    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=3.35, m-M=12.3, logA=7.2` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.89, dMod50=12.49, logAge50=7.59, [Fe/H]50=0.45` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=524.194` |
 shared_table: |

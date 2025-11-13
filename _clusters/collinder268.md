@@ -3,7 +3,7 @@ layout: post
 title: Collinder 268
 style: style
 title_flag: true
-more_names: VDBH 145; Harvard 8; ESO 096 06; vdBergh-Hagen 145; FSR 1644; OCL 895; MWSC 2103; MWSC 2102; FoF 65
+more_names: FSR 1644; Harvard 8; MWSC 2102; MWSC 2103; ESO 096 06; vdBergh-Hagen 145; VDBH 145; OCL 895; FoF 65
 fname: collinder268
 fov: 0.117
 ra_icrs: 199.53027
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 268 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Collinder 268</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.5

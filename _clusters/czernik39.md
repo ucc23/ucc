@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Czernik 39 is a rich, very dense object of very high C3 quality. It is moderately studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Czernik 39</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.1
@@ -54,5 +54,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 118](/_clusters/teutsch118/)| 90.3 | 286.92 | 4.34 | 0.27 | -1.58 | -4.71 | 46.55 |0.06 |
+    |[FSR 0111](/_clusters/fsr0111/)| 90.3 | 286.92 | 4.34 | 0.27 | -1.58 | -4.71 | 46.55 |0.06 |
 ---

@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.94
 UTI_summary: |
-    OCSN 95 is a relatively close, moderately populated, loose object of intermediate C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>OCSN 95</b> is a moderately populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 71.9

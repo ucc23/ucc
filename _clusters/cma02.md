@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 0.02
 UTI_summary: |
-    CMa02 is a moderately populated, very dense object of high C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CMa02</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.6
@@ -51,7 +51,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXHWL 32](/_clusters/hxhwl32/)| 98.5 | 105.68 | -7.74 | 0.88 | -1.59 | -3.48 | 6.47 |0.47 |
-    |[H21OC 32](/_clusters/h21oc32/)| 97.0 | 105.68 | -7.74 | 0.88 | -1.59 | -3.48 | 6.47 |0.01 |
+    |[HXHWL 32](/_clusters/hxhwl32/)| 98.5 | 105.68 | -7.74 | 0.88 | -1.59 | -3.48 | 6.47 |0.57 |
     |[CWWDL 14378](/_clusters/cwwdl14378/)| 77.3 | 105.68 | -7.72 | 0.88 | -1.58 | -3.48 | 5.88 |0.0 |
 ---

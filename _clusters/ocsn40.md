@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    OCSN 40 is a relatively close, moderately populated, very dense object of very high C3 quality. It was recently reported in the literature.
+    <b>OCSN 40</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 24.9
@@ -34,8 +34,8 @@ scix_url: OCSN%2040
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 358.858 | 56.484 | 2.463 | 7.922 | -3.126 | -12.708 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 358.86 | 56.42 | 2.49 | 8.16 | -3.32 | -11.28 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 358.858 | 56.484 | 2.463 | 7.922 | -3.126 | -12.708 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 357.674 | 56.376 | 2.463 | -- | -- | -- |
     | **UCC** |358.787 | 56.433 | 2.488 | 8.172 | -3.236 | -11.594 | 
 cds_radec: 358.78651,+56.43333
@@ -43,8 +43,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.271, diffAV50=0.781, MOD50=7.999, logAge50=6.971` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.14, m-M=8.27, logt=7.25` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.271, diffAV50=0.781, MOD50=7.999, logAge50=6.971` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.99, dMod50=8.06, logAge50=6.77, [Fe/H]50=-0.23` |
 shared_table: |
     

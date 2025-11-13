@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 97 is a sparse, very loose object of low C3 quality. It is moderately studied in the literature. This object shares a significant percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Collinder 97</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.9

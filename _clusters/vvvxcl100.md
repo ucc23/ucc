@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_summary: |
-    VVVX CL100 is a poorly populated, very dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 7 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry, and a small percentage with at least one entry reported in the same catalogue.
+    <b>VVVX CL100</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 7 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry, and a small percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.9

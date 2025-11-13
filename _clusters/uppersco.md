@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Upper Sco is a close, poorly populated, very loose object of intermediate C3 quality. It was recently reported in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>Upper Sco</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 180.7
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 96](/_clusters/ocsn96/)| 6.8 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.45 |
+    |[OCSN 96](/_clusters/ocsn96/)| 6.8 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.73 |
     |[OCSN 246](/_clusters/ocsn246/)| 4.5 | 244.71 | -24.21 | 6.77 | -10.35 | -22.98 | -6.68 |0.59 |
 ---

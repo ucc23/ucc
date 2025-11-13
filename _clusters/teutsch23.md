@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 23
 style: style
 title_flag: true
-more_names: FSR 0454; DSH J2347.9+6259; MWSC 3760
+more_names: DSH J2347.9+6259; FSR 0454; MWSC 3760
 fname: teutsch23
 fov: 0.19
 ra_icrs: 356.94662
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 23 is a rich, moderately dense object of high C3 quality. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Teutsch 23</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7

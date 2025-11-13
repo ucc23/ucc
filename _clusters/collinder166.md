@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 166
+title: NGC 2482
 style: style
 title_flag: true
-more_names: NGC 2482; ESO 494 03; OCL 653; MWSC 1382; FoF 2233
+more_names: NGC 2482; OCL 653; ESO 494 03; MWSC 1382; FoF 2233
 fname: collinder166
 fov: 0.307
 ra_icrs: 118.78787
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 166 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2482</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.2
 N_50_val: 157
-scix_url: Collinder%20166
+scix_url: NGC%202482
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

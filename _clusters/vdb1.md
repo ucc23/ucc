@@ -3,7 +3,7 @@ layout: post
 title: VDB 1
 style: style
 title_flag: true
-more_names: vdBergh 1; FSR 1042; CV Mon; OCL 527; MWSC 934
+more_names: vdBergh 1; CV Mon; OCL 527; FSR 1042; MWSC 934
 fname: vdb1
 fov: 0.063
 ra_icrs: 99.27826
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDB 1 is a moderately populated, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    <b>VDB 1</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.9

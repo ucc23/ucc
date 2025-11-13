@@ -3,7 +3,7 @@ layout: post
 title: Pismis 12
 style: style
 title_flag: true
-more_names: VDBH 62; ESO 261 05; vdBergh-Hagen 62; FSR 1458; OCL 765; MWSC 1650; FoF 391
+more_names: OCL 765; VDBH 62; vdBergh-Hagen 62; ESO 261 05; FSR 1458; MWSC 1650; FoF 391
 fname: pismis12
 fov: 0.15
 ra_icrs: 140.0061
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 12 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Pismis 12</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Trumpler 36
+title: IC 1311
 style: style
 title_flag: true
-more_names: Collinder 414; Dolidze 2; FSR 0214; IC 1311; OCL 173; OCL 174
+more_names: IC1311; FSR 0214; Collinder 414; OCL 173; Dolidze 2; OCL 174
 fname: trumpler36
 fov: 0.073
 ra_icrs: 302.70013
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 36 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>IC 1311</b> is a very rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.2
 N_50_val: 979
-scix_url: Trumpler%2036
+scix_url: IC%201311
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

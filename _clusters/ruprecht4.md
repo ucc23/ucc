@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 4
 style: style
 title_flag: true
-more_names: Berkeley 74; FSR 1165; OCL 560; MWSC 990
+more_names: Berkeley 74; OCL 560; FSR 1165; MWSC 990
 fname: ruprecht4
 fov: 0.11
 ra_icrs: 102.24656
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 4 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with 2 later reported entries.
+    <b>Ruprecht 4</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.3

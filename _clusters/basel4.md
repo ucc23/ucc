@@ -3,7 +3,7 @@ layout: post
 title: Basel 4
 style: style
 title_flag: true
-more_names: Czernik 22; FSR 0825; OCL 455; MWSC 672
+more_names: FSR 0825; Czernik22; OCL 455; MWSC 672
 fname: basel4
 fov: 0.097
 ra_icrs: 87.24237
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Basel 4 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>Basel 4</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 95
 style: style
 title_flag: true
-more_names: ESO 129 30; OCL 863; MWSC 1966
+more_names: OCL 863; ESO 129 30; MWSC 1966
 fname: ruprecht95
 fov: 0.277
 ra_icrs: 175.87233
@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 95 is a sparse, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Ruprecht 95</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.3

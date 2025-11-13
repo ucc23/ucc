@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 53
 style: style
 title_flag: true
-more_names: ESO 494 32; OCL 682; MWSC 1442
+more_names: OCL 682; ESO 494 32; MWSC 1442
 fname: ruprecht53
 fov: 0.397
 ra_icrs: 122.7375
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 53 is a moderately populated, dense object of high C3 quality. It is moderately studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Ruprecht 53</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 11.9

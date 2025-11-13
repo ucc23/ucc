@@ -3,7 +3,7 @@ layout: post
 title: Harvard 9
 style: style
 title_flag: true
-more_names: ESO 177 08; OCL 944; MWSC 2304
+more_names: OCL 944; ESO 177 08; MWSC 2304
 fname: harvard9
 fov: 0.267
 ra_icrs: 233.46427
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Harvard 9 is a sparse, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Harvard 9</b> is a sparse, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 8.0

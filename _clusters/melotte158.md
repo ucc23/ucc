@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 158
+title: NGC 6259
 style: style
 title_flag: true
-more_names: Collinder 322; VDBH 209; NGC 6259; ESO 277 22; vdBergh-Hagen 209; OCL 996; MWSC 2511
+more_names: NGC 6259; ESO 277 22; vdBergh-Hagen 209; MWSC 2511; OCL 996; Collinder 322; VDBH 209
 fname: melotte158
 fov: 0.24
 ra_icrs: 255.19358
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 158 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>NGC 6259</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.2
 N_50_val: 1891
-scix_url: Melotte%20158
+scix_url: NGC%206259
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

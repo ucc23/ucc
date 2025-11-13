@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 5
 style: style
 title_flag: true
-more_names: FSR 0747; DSH J0455.7+3646; MWSC 438
+more_names: DSH J0455.7+3646; FSR 0747; MWSC 438
 fname: teutsch5
 fov: 0.097
 ra_icrs: 73.94106
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 5 is a rich, very dense object of intermediate C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with 3 later reported entries.
+    <b>Teutsch 5</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with 3 later reported entries.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.9

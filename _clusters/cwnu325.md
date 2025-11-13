@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 325 is a sparse, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>CWNU 325</b> is a sparse, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1

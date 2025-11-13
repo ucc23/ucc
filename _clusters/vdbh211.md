@@ -3,7 +3,7 @@ layout: post
 title: VDBH 211
 style: style
 title_flag: true
-more_names: ESO 332 16; vdBergh-Hagen 211; MWSC 2518; BH 211
+more_names: vdBergh-Hagen 211; ESO 332 16; MWSC 2518; BH 211
 fname: vdbh211
 fov: 0.187
 ra_icrs: 255.52159
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 211 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>VDBH 211</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.6
@@ -37,8 +37,8 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 255.546 | -41.1 | -- | -3.45 | -3.13 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 255.546 | -41.11 | -- | -1.48 | -2.29 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 255.549 | -41.109 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 255.535 | -41.113 | 0.524 | -0.671 | -1.943 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 255.546 | -41.1 | -- | -0.68 | -2.04 | -49.0 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 255.535 | -41.113 | 0.524 | -0.671 | -1.943 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 255.541 | -41.124 | 0.51 | -0.669 | -1.951 | -48.896 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 255.527 | -41.112 | 0.572 | -0.71 | -1.923 | -53.127 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 255.518 | -41.124 | 0.57 | -- | -- | -- |
@@ -52,8 +52,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.61, Dist=1440.0, Age=9.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.072, distance=1820, log_age=8.52` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.18, DMNN=11.4, AgeNN=8.63` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.21` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.18, DMNN=11.4, AgeNN=8.63` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.388, Dist=1638, logage=8.825, [Fe/H]=0.124` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.634, diffAV50=2.041, MOD50=11.085, logAge50=8.234` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.85, dMod50=10.71, logAge50=8.83, [Fe/H]50=-0.25` |

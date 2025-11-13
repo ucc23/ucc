@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    COIN-Gaia 39 is a poorly populated, moderately dense object of low C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>COIN-Gaia 39</b> is a poorly populated, moderately dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 11.5
@@ -48,8 +48,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.63, DMNN=10.02, AgeNN=8.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.324, Dist=987, logage=8.448, [Fe/H]=-0.131` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.3, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=975, logAgeNN=8.49` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.3, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.89, diffAV50=0.444, MOD50=9.978, logAge50=8.437` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.35, dMod50=9.97, logAge50=8.46, [Fe/H]50=-0.16` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=136.941` |

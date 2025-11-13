@@ -3,7 +3,7 @@ layout: post
 title: Haffner 22
 style: style
 title_flag: true
-more_names: VDBH 21; ESO 430 24; vdBergh-Hagen 21; FSR 1333; OCL 691; MWSC 1450; FoF 590
+more_names: VDBH 21; vdBergh-Hagen 21; OCL 691; ESO 430 24; FSR 1333; MWSC 1450; FoF 590
 fname: haffner22
 fov: 0.2
 ra_icrs: 123.10333
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 22 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Haffner 22</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0

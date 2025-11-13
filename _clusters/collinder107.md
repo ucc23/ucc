@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 107 is a sparse, very loose object of very low C3 quality. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Collinder 107</b> is a sparse, very loose object of very low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 11.5
@@ -39,8 +39,8 @@ posit_table: |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 99.204 | 4.972 | 0.617 | -1.325 | 0.659 | 131.6 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 99.203 | 4.972 | 0.617 | -1.325 | 0.659 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 99.231 | 4.972 | 0.617 | -1.316 | 0.652 | -- |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 99.612 | 4.565 | 0.657 | -2.401 | -0.177 | 8.14 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 99.622 | 4.635 | 0.649 | -2.43 | -0.202 | 7.284 |
+    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 99.612 | 4.565 | 0.657 | -2.401 | -0.177 | 8.14 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 99.576 | 4.402 | 0.655 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 99.622 | 4.635 | 0.649 | -2.43 | -0.202 | 7.284 |
     | **UCC** |99.255 | 4.904 | 0.614 | -1.361 | 0.654 | -- | 
@@ -54,8 +54,8 @@ fpars_table: |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.41, Dist=1328, logAge=7.146, Z=0.004` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DMNN=11.11, AgeNN=7.26` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.465, Dist=1466, logage=7.183, [Fe/H]=-0.1` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.6, m-M=11.0, logA=6.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.354, diffAV50=2.349, MOD50=10.733, logAge50=7.184` |
+    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.6, m-M=11.0, logA=6.9` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.29, dMod50=10.77, logAge50=7.08, [Fe/H]50=0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=302.171` |
 shared_table: |

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 2 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Alessi 2</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 27.3
@@ -43,9 +43,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 71.627 | 55.234 | 1.582 | -0.896 | -1.055 | -10.466 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 71.606 | 55.2 | 1.624 | -0.944 | -1.091 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 71.557 | 55.184 | 1.618 | -0.928 | -1.095 | -10.275 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 71.619 | 55.181 | 1.583 | -0.925 | -1.099 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 71.648 | 55.186 | 1.623 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 71.557 | 55.184 | 1.618 | -0.928 | -1.095 | -10.275 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 71.619 | 55.181 | 1.583 | -0.925 | -1.099 | -- |
     | **UCC** |71.607 | 55.181 | 1.615 | -0.915 | -1.095 | -10.442 | 
 cds_radec: 71.60742,+55.18122
 carousel: UCC_HUNT23_CANTAT20
@@ -58,12 +58,12 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.482, Dist=8.846, logA=8.759, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.52, DMNN=9.09, AgeNN=8.55` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.814, Dist=611, logage=8.598, [Fe/H]=0.057` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=8.45` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=647, logAgeNN=8.58` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=8.45` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.572, diffAV50=0.753, MOD50=8.841, logAge50=8.421` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52019, MOD=9.08935, logAge=8.84572, Z=0.05757` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.89, dMod50=8.96, logAge50=8.4, [Fe/H]50=0.27` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=289.186` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52019, MOD=9.08935, logAge=8.84572, Z=0.05757` |
 shared_table: |
     
 ---

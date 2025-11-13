@@ -3,7 +3,7 @@ layout: post
 title: King 15
 style: style
 title_flag: true
-more_names: FSR 0501; OCL 298; MWSC 58; FoF 358
+more_names: OCL 298; FSR 0501; MWSC 58; FoF 358
 fname: king15
 fov: 0.12
 ra_icrs: 8.28472
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    King 15 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>King 15</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.6

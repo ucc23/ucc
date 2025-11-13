@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 85
 style: style
 title_flag: true
-more_names: Dolidze 41; FSR 0208; OCL 160; OCL 163; MWSC 3311; MWSC 3309
+more_names: OCL 160; Dolidze 41; OCL 163; FSR 0208; MWSC 3311; MWSC 3309
 fname: berkeley85
 fov: 0.11
 ra_icrs: 304.69719
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 85 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Berkeley 85</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.3

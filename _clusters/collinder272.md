@@ -3,7 +3,7 @@ layout: post
 title: Collinder 272
 style: style
 title_flag: true
-more_names: ESO 132 09; OCL 904; MWSC 2128; FoF 428
+more_names: OCL 904; ESO 132 09; MWSC 2128; FoF 428
 fname: collinder272
 fov: 0.19
 ra_icrs: 202.60447
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 0.89
 UTI_summary: |
-    Collinder 272 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>Collinder 272</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7

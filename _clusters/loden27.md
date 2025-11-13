@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Loden 27 is a poorly populated, very loose object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.
+    <b>Loden 27</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.3

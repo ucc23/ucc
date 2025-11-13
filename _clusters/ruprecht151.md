@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 151 is a poorly populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 151</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.6
@@ -40,8 +40,8 @@ posit_table: |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 115.315 | -16.279 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 115.315 | -16.279 | 0.867 | -4.272 | 3.242 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 115.303 | -16.28 | 0.864 | -4.286 | 3.262 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 115.295 | -16.253 | 0.908 | -4.259 | 3.368 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 115.293 | -16.294 | 0.912 | -4.219 | 3.367 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 115.295 | -16.253 | 0.908 | -4.259 | 3.368 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 115.3 | -16.279 | 0.887 | -4.238 | 3.334 | 21.567 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 115.273 | -16.299 | 0.89 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 115.3 | -16.279 | 0.887 | -4.238 | 3.334 | 21.567 |
@@ -57,8 +57,8 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.587, Dist=10.359, logA=8.614, Fe/H=0.153` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.43, DMNN=10.26, AgeNN=8.65` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.542, Dist=1112, logage=8.793, [Fe/H]=0.048` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.8` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1096, logAgeNN=8.69` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.259, diffAV50=0.49, MOD50=10.137, logAge50=8.676` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.3, dMod50=10.2, logAge50=8.92, [Fe/H]50=0.18` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=98.7300` |

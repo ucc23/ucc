@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 0.02
 UTI_summary: |
-    UBC 91 is a rich, very dense object of very high C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>UBC 91</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4
@@ -34,8 +34,8 @@ scix_url: UBC%2091
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 267.433 | -28.761 | 0.42 | -0.587 | -1.126 | -- |
     |[Castro-Ginard et al. (2020)](https://scixplorer.org/abs/2020A%26A...635A..45C) | 267.422 | -28.759 | 0.422 | -0.587 | -1.125 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 267.433 | -28.761 | 0.42 | -0.587 | -1.126 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 267.454 | -28.744 | 0.422 | -0.585 | -1.136 | -- |
     | **UCC** |267.429 | -28.759 | 0.44 | -0.576 | -1.147 | -42.607 | 
 cds_radec: 267.4293,-28.75916

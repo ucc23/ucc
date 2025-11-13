@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.62
 UTI_C_dup: 0.98
 UTI_summary: |
-    Kronberger 1 is a poorly populated, dense object of low C3 quality. It is moderately studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>Kronberger 1</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.0

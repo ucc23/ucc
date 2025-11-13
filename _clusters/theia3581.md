@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.33
 UTI_C_dup: 0.65
 UTI_summary: |
-    Theia 3581 is a poorly populated, very loose object of intermediate C3 quality. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Theia 3581</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 19.7

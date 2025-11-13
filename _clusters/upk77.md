@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 77 is a relatively close, poorly populated, moderately dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years. This object shares a large percentage of members with a later reported entry.
+    <b>UPK 77</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 29.9

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 430
+title: NGC 7031
 style: style
 title_flag: true
-more_names: NGC 7031; FSR 0294; OCL 210; MWSC 3466
+more_names: FSR 0294; NGC7031; OCL 210; MWSC 3466
 fname: collinder430
 fov: 0.19
 ra_icrs: 316.80891
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 430 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7031</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7
 N_50_val: 211
-scix_url: Collinder%20430
+scix_url: NGC%207031
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Theia 232 is a relatively close, rich, loose object of high C3 quality. It was recently reported in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Theia 232</b> is a rich, loose object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 73.0

@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 4 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Haffner 4</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.5
@@ -38,8 +38,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 106.522 | -14.995 | -- | 4.42 | -0.1 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 106.53 | -14.997 | -- | 3.736 | -1.05 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 106.519 | -14.999 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 106.512 | -15.002 | 0.223 | -0.417 | 0.904 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 106.522 | -14.995 | -- | -0.48 | 0.92 | 59.5 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 106.512 | -15.002 | 0.223 | -0.417 | 0.904 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 106.51 | -15.0 | 0.24 | -0.39 | 0.918 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 106.515 | -15.005 | 0.201 | -0.407 | 0.96 | 58.414 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 106.506 | -15.002 | 0.2 | -- | -- | -- |
@@ -54,8 +54,8 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.5, Dist=4500.0, Age=8.7, [Fe/H]=-0.38` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.479, distance=4458, log_age=9.115, metallicity=-0.38` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.339, Dmod=12.536, logt=8.91` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.05, DMNN=13.52, AgeNN=8.66` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.16` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.05, DMNN=13.52, AgeNN=8.66` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.6, Dist=4022, logage=8.625, [Fe/H]=-0.126` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.132, diffAV50=1.447, MOD50=13.085, logAge50=8.707` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.47, dMod50=13.04, logAge50=8.75, [Fe/H]50=0.24` |

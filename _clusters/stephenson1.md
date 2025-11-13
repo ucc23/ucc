@@ -3,7 +3,7 @@ layout: post
 title: Stephenson 1
 style: style
 title_flag: true
-more_names: delta Lyr; OCL 137; MWSC 3018; Del L; FoF 2433; OCSN 263
+more_names: Del L; delta Lyr; OCL 137; MWSC 3018; FoF 2433; OCSN 263
 fname: stephenson1
 fov: 1.24
 ra_icrs: 283.54826
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Stephenson 1 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Stephenson 1</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 37.2
@@ -43,11 +43,11 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 283.568 | 36.899 | 2.779 | 1.11 | -3.01 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 283.523 | 36.932 | 2.776 | 1.16 | -2.998 | -18.895 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 283.387 | 35.762 | 2.78 | 1.15 | -3.014 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 283.578 | 36.881 | 2.798 | 1.121 | -3.018 | -20.127 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 283.6 | 36.87 | 2.8 | 1.15 | -3.07 | -18.46 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.549 | 36.826 | 2.75 | 1.106 | -2.948 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 283.578 | 36.881 | 2.798 | 1.121 | -3.018 | -20.127 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 283.508 | 36.825 | 2.795 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 283.578 | 36.881 | 2.798 | 1.121 | -3.018 | -20.127 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.549 | 36.826 | 2.75 | 1.106 | -2.948 | -- |
     | **UCC** |283.548 | 36.827 | 2.79 | 1.129 | -3.007 | -19.121 | 
 cds_radec: 283.54826,+36.82674
 carousel: UCC_HUNT23_CANTAT20
@@ -62,11 +62,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.22, DMNN=7.68, AgeNN=7.45` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.225, Dist=355, logage=7.632, [Fe/H]=0.055` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.55` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.174, diffAV50=0.643, MOD50=7.726, logAge50=7.425` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.05, m-M=7.61, logt=7.65` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.21822, MOD=7.68073, logAge=7.60099, Z=0.05518` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.174, diffAV50=0.643, MOD50=7.726, logAge50=7.425` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.62, dMod50=7.87, logAge50=7.24, [Fe/H]50=0.0` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=236.707` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.21822, MOD=7.68073, logAge=7.60099, Z=0.05518` |
 shared_table: |
     
 ---

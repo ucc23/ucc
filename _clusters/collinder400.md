@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 400
+title: NGC 6802
 style: style
 title_flag: true
-more_names: NGC 6802; FSR 0141; OCL 114; MWSC 3134
+more_names: NGC 6802; OCL 114; FSR 0141; MWSC 3134
 fname: collinder400
 fov: 0.103
 ra_icrs: 292.6483
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 400 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 6802</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 639
-scix_url: Collinder%20400
+scix_url: NGC%206802
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

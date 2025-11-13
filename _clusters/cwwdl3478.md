@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWWDL 3478 is a poorly populated, dense object of low C3 quality. It was recently reported in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>CWWDL 3478</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 2.6

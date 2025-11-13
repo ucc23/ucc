@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VDBH 166
+title: Hogg 18
 style: style
 title_flag: true
-more_names: Hogg 18; ESO 223 01; vdBergh-Hagen 166; OCL 933; MWSC 2257
+more_names: Hogg 18; OCL 933; vdBergh-Hagen 166; ESO 223 01; MWSC 2257
 fname: vdbh166
 fov: 0.163
 ra_icrs: 222.6946
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 166 is a poorly populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Hogg 18</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.9
 N_50_val: 45
-scix_url: VDBH%20166
+scix_url: Hogg%2018
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

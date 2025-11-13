@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 148
 style: style
 title_flag: true
-more_names: Basel 9; OCL 408; MWSC 421
+more_names: OCL 408; Basel 9; MWSC 421
 fname: ruprecht148
 fov: 0.15
 ra_icrs: 71.6411
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 148 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 148</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5

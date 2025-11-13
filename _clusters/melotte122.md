@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 122
+title: NGC 5316
 style: style
 title_flag: true
-more_names: Collinder 279; VDBH 154; NGC 5316; ESO 133 06; vdBergh-Hagen 154; OCL 913; MWSC 2175
+more_names: NGC 5316; MWSC 2175; ESO 133 06; VDBH 154; OCL 913; Collinder 279; vdBergh-Hagen 154
 fname: melotte122
 fov: 0.25
 ra_icrs: 208.51471
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 122 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>NGC 5316</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.5
 N_50_val: 431
-scix_url: Melotte%20122
+scix_url: NGC%205316
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

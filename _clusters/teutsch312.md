@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 312 is a somewhat close, poorly populated, loose object of high C3 quality. It is poorly studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 312</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 14.3

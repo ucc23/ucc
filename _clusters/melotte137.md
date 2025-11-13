@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 137
+title: NGC 5999
 style: style
 title_flag: true
-more_names: Collinder 293; VDBH 178; NGC 5999; ESO 178 01; vdBergh-Hagen 178; FSR 1706; OCL 946; MWSC 2326
+more_names: NGC 5999; MWSC 2326; ESO 178 01; vdBergh-Hagen 178; FSR 1706; OCL 946; Collinder 293; VDBH 178
 fname: melotte137
 fov: 0.103
 ra_icrs: 238.045
@@ -25,19 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 137 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 5999</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 495
-scix_url: Melotte%20137
+scix_url: NGC%205999
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 238.033 | -56.473 | -- | -0.72 | -2.74 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 238.042 | -56.467 | -- | 0.8 | 0.25 | -- |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 238.03 | -56.468 | -- | -- | -- | -- |
     |[Ferreira et al. (2019)](https://scixplorer.org/abs/2019MNRAS.483.5508F) | 238.047 | -56.488 | -- | -3.374 | -4.216 | -- |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 238.03 | -56.468 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 238.046 | -56.482 | 0.326 | -3.389 | -4.216 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 238.047 | -56.482 | 0.329 | -3.389 | -4.21 | -30.883 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 238.054 | -56.481 | 0.36 | -3.372 | -4.226 | -- |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    DBSB 115 is a poorly populated, very dense object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years. This object shares a small percentage of members with a later reported entry.
+    <b>DBSB 115</b> is a poorly populated, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.0

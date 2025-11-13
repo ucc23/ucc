@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.04
 UTI_summary: |
-    LISC-III 3449 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>LISC-III 3449</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 22.2
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 210](/_clusters/melotte210/)| 96.5 | 279.66 | 5.45 | 2.11 | 1.26 | -4.95 | -24.82 |1.0 |
+    |[IC 4756](/_clusters/melotte210/)| 96.5 | 279.66 | 5.45 | 2.11 | 1.26 | -4.95 | -24.82 |1.0 |
     |[OC 0066](/_clusters/oc0066/)| 9.8 | 279.46 | 5.25 | 2.13 | 1.22 | -4.99 | -25.29 |0.0 |
 ---

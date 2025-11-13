@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Theia 411 is a somewhat close, sparse, very loose object of low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 411</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 20.6

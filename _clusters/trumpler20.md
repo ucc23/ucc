@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 20
 style: style
 title_flag: true
-more_names: Collinder 262; Harvard 7; ESO 131 13; FSR 1624; OCL 888; MWSC 2060
+more_names: Harvard 7; Collinder 262; OCL 888; ESO 131 13; FSR 1624; MWSC 2060
 fname: trumpler20
 fov: 0.173
 ra_icrs: 189.89251
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 20 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Trumpler 20</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.2

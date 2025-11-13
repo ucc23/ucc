@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 75 is a poorly populated, loose object of low C3 quality. It is moderately studied in the literature.
+    <b>VDBH 75</b> is a poorly populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.7

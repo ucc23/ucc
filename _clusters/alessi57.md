@@ -3,7 +3,7 @@ layout: post
 title: Alessi 57
 style: style
 title_flag: true
-more_names: FSR 0130; DSH J1920.8+1540; MWSC 3089
+more_names: DSH J1920.8+1540; FSR 0130; MWSC 3089
 fname: alessi57
 fov: 0.043
 ra_icrs: 290.22287
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 57 is a poorly populated, dense object of high C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a significant percentage of members with a later reported entry.
+    <b>Alessi 57</b> is a poorly populated, dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3

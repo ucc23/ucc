@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 110
+title: NGC 4349
 style: style
 title_flag: true
-more_names: Collinder 255; VDBH 130; NGC 4349; ESO 131 03; vdBergh-Hagen 130; FSR 1614; OCL 882; MWSC 2024; FoF 422
+more_names: NGC 4349; MWSC 2024; FSR 1614; Collinder 255; vdBergh-Hagen 130; VDBH 130; OCL 882; ESO 131 03; FoF 422
 fname: melotte110
 fov: 0.187
 ra_icrs: 186.05643
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 110 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4349</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.6
 N_50_val: 944
-scix_url: Melotte%20110
+scix_url: NGC%204349
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

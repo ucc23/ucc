@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Majaess 89 is a somewhat close, poorly populated, dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 23 years.
+    <b>Majaess 89</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 11.7

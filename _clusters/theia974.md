@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.42
 UTI_C_dup: 0.04
 UTI_summary: |
-    Theia 974 is a somewhat close, poorly populated, very dense object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Theia 974</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4

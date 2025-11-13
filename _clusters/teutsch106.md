@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 106
 style: style
 title_flag: true
-more_names: FSR 1559; DSH J1059.3-5932; MWSC 1877
+more_names: DSH J1059.3-5932; FSR 1559; MWSC 1877
 fname: teutsch106
 fov: 0.043
 ra_icrs: 164.82919
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 106 is a rich, very dense object of high C3 quality. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
+    <b>Teutsch 106</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    UFMG 2 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>UFMG 2</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.9

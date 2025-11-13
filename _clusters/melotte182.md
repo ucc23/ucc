@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 182
+title: NGC 6469
 style: style
 title_flag: true
-more_names: Collinder 353; NGC 6469; ESO 589 18; OCL 21; MWSC 2735
+more_names: NGC 6469; Collinder 353; OCL 21; ESO 589 18; MWSC 2735
 fname: melotte182
 fov: 0.1
 ra_icrs: 268.2705
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 182 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>NGC 6469</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.0
 N_50_val: 68
-scix_url: Melotte%20182
+scix_url: NGC%206469
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

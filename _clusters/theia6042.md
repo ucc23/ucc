@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
-    Theia 6042 is a sparse, dense object of very low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 6042</b> is a sparse, dense object of very low C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 2.2
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 69](/_clusters/melotte69/)| 100.0 | 114.6 | 21.58 | 0.38 | -1.21 | -2.04 | 73.59 |1.0 |
+    |[NGC 2420](/_clusters/melotte69/)| 100.0 | 114.6 | 21.58 | 0.38 | -1.21 | -2.04 | 73.59 |1.0 |
 ---

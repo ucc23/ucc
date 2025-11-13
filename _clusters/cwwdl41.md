@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_summary: |
-    CWWDL 41 is a moderately populated, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWWDL 41</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.3
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0854](/_clusters/fsr0854/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.76 |
+    |[SAI 42](/_clusters/sai42/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.76 |
     |[UBC 200](/_clusters/ubc200/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.31 | -2.49 | 0.36 |0.0 |
 ---

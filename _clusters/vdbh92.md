@@ -3,7 +3,7 @@ layout: post
 title: VDBH 92
 style: style
 title_flag: true
-more_names: ESO 168 01; vdBergh-Hagen 92; FSR 1533; MWSC 1791; BH 92
+more_names: vdBergh-Hagen 92; ESO 168 01; FSR 1533; MWSC 1791; BH 92
 fname: vdbh92
 fov: 0.07
 ra_icrs: 154.76781
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 92 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>VDBH 92</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.1

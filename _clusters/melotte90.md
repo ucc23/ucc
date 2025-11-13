@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 90
+title: NGC 2658
 style: style
 title_flag: true
-more_names: Collinder 195; VDBH 48; NGC 2658; ESO 432 04; vdBergh-Hagen 48; FSR 1373; OCL 723; MWSC 1542; FoF 593
+more_names: NGC 2658; MWSC 1542; FSR 1373; ESO 432 04; VDBH 48; OCL 723; Collinder 195; vdBergh-Hagen 48; FoF 593
 fname: melotte90
 fov: 0.133
 ra_icrs: 130.87025
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 90 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 2658</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.0
 N_50_val: 726
-scix_url: Melotte%2090
+scix_url: NGC%202658
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

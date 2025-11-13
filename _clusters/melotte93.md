@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 93
+title: NGC 2670
 style: style
 title_flag: true
-more_names: Collinder 200; VDBH 50; NGC 2670; ESO 210 05; vdBergh-Hagen 50; OCL 764; MWSC 1554; FoF 694
+more_names: NGC 2670; MWSC 1554; ESO 210 05; VDBH 50; OCL 764; Collinder 200; vdBergh-Hagen 50; FoF 694
 fname: melotte93
 fov: 0.23
 ra_icrs: 131.38816
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 93 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2670</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
 N_50_val: 320
-scix_url: Melotte%2093
+scix_url: NGC%202670
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

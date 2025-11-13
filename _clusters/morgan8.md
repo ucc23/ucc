@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
 UTI_summary: |
-    Morgan 8 is a relatively close, poorly populated, very dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>Morgan 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.5

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 431
+title: NGC 7039
 style: style
 title_flag: true
 more_names: NGC 7039; OCL 203; MWSC 3474
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 431 is a somewhat close, rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7039</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.5
 N_50_val: 247
-scix_url: Collinder%20431
+scix_url: NGC%207039
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -42,9 +42,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 317.662 | 45.595 | 1.29 | -0.249 | -2.544 | -8.512 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 317.681 | 45.596 | 1.311 | -0.254 | -2.595 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 317.653 | 45.582 | 1.318 | -0.24 | -2.626 | -7.442 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 317.696 | 45.577 | 1.287 | -0.239 | -2.6 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 317.699 | 45.61 | 1.319 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 317.653 | 45.582 | 1.318 | -0.24 | -2.626 | -7.442 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 317.696 | 45.577 | 1.287 | -0.239 | -2.6 | -- |
     | **UCC** |317.664 | 45.598 | 1.321 | -0.26 | -2.582 | -7.62 | 
 cds_radec: 317.66408,+45.59793
 carousel: UCC_HUNT23_CANTAT20
@@ -58,9 +58,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.564, Dist=755, logage=7.213, [Fe/H]=0.091` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.1, logAge=6.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.263, diffAV50=1.093, MOD50=9.322, logAge50=6.825` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.27963, MOD=9.38975, logAge=7.25338, Z=0.09101` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.98, dMod50=9.46, logAge50=6.7, [Fe/H]50=-0.07` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=183.115` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.27963, MOD=9.38975, logAge=7.25338, Z=0.09101` |
 shared_table: |
     
 ---

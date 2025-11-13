@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 73
 style: style
 title_flag: true
-more_names: FSR 0203; DSH J2013.7+3644; MWSC 3287
+more_names: DSH J2013.7+3644; FSR 0203; MWSC 3287
 fname: kronberger73
 fov: 0.047
 ra_icrs: 303.43803
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 73 is a rich, very dense object of high C3 quality. It is moderately studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Kronberger 73</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.4

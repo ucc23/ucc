@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dias 1 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>Dias 1</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

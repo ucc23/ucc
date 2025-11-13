@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Majaess 70 is a somewhat close, sparse, very dense object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Majaess 70</b> is a sparse, very dense object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 7.2

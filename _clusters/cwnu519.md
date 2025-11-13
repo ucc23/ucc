@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 519 is a relatively close, rich, dense object of very high C3 quality. It was recently reported but it is moderately studied in the literature.
+    <b>CWNU 519</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported but it is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 52.1
@@ -36,8 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 313.82 | 56.96 | 3.0 | 4.77 | 3.48 | -5.9 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 313.711 | 57.218 | 3.075 | 5.053 | 3.505 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 313.932 | 56.755 | 3.072 | 5.012 | 3.49 | -10.605 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 313.4 | 56.61 | 3.09 | 5.06 | 3.51 | -5.69 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 313.932 | 56.755 | 3.072 | 5.012 | 3.49 | -10.605 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 314.074 | 57.078 | 3.078 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 313.932 | 56.755 | 3.072 | 5.012 | 3.49 | -10.605 |
     | **UCC** |313.771 | 56.71 | 3.048 | 4.912 | 3.469 | -6.802 | 
@@ -48,8 +48,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.05, m-M=7.4, logAge=7.7, Z=0.028` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.55` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.132, diffAV50=0.67, MOD50=7.522, logAge50=7.354` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.03, m-M=7.63, logt=7.5` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.132, diffAV50=0.67, MOD50=7.522, logAge50=7.354` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=7.62, logAge50=7.28, [Fe/H]50=0.02` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=58.7504` |
 shared_table: |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 212
+title: NGC 3033
 style: style
 title_flag: true
-more_names: NGC 3033; ESO 167 06; OCL 796; MWSC 1715; FoF 2090
+more_names: NGC 3033; OCL 796; ESO 167 06; MWSC 1715; FoF 2090
 fname: collinder212
 fov: 0.23
 ra_icrs: 147.14537
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 212 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 3033</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
 N_50_val: 161
-scix_url: Collinder%20212
+scix_url: NGC%203033
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

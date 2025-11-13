@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.29
 UTI_summary: |
-    CWWDL 2025 is a moderately populated, loose object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>CWWDL 2025</b> is a moderately populated, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.5
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 196](/_clusters/teutsch196/)| 71.2 | 75.21 | 41.22 | 0.21 | 0.29 | -1.22 | -16.52 |0.7 |
+    |[SAI 40](/_clusters/sai40/)| 71.2 | 75.21 | 41.22 | 0.21 | 0.29 | -1.22 | -16.52 |0.7 |
     |[UBC 431](/_clusters/ubc431/)| 59.6 | 75.22 | 41.22 | 0.2 | 0.31 | -1.2 | -16.52 |0.03 |
 ---

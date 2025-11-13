@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 96
 style: style
 title_flag: true
-more_names: ESO 130 02; OCL 866; MWSC 1983
+more_names: OCL 866; ESO 130 02; MWSC 1983
 fname: ruprecht96
 fov: 0.093
 ra_icrs: 177.67886
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 96 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Ruprecht 96</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8
@@ -37,8 +37,8 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 177.654 | -62.133 | -- | -4.42 | -0.54 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 177.697 | -62.15 | -- | -5.34 | -0.58 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 177.673 | -62.14 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 177.67 | -62.14 | 0.27 | -5.491 | 0.806 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 177.697 | -62.15 | -- | -5.48 | 0.81 | -6.3 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 177.67 | -62.14 | 0.27 | -5.491 | 0.806 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 177.667 | -62.139 | 0.278 | -5.48 | 0.818 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 177.685 | -62.141 | 0.287 | -5.529 | 0.842 | -3.298 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 177.666 | -62.139 | 0.288 | -- | -- | -- |
@@ -51,8 +51,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.25, Dist=860.0, Age=9.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.042, distance=1251, log_age=9.06` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.39, DMNN=12.58, AgeNN=7.67` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.03` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.39, DMNN=12.58, AgeNN=7.67` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.647, Dist=2789, logage=7.866, [Fe/H]=0.037` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.34, diffAV50=1.274, MOD50=12.415, logAge50=8.165` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.59, dMod50=12.14, logAge50=8.43, [Fe/H]50=-0.2` |

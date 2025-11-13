@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 187
+title: NGC 6520
 style: style
 title_flag: true
-more_names: Collinder 361; VDBH 255; NGC 6520; ESO 456 42; vdBergh-Hagen 255; OCL 10; MWSC 2790; FoF 717
+more_names: NGC 6520; MWSC 2790; ESO 456 42; VDBH 255; OCL 10; Collinder 361; vdBergh-Hagen 255; FoF 717
 fname: melotte187
 fov: 0.093
 ra_icrs: 270.85419
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 187 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6520</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8
 N_50_val: 275
-scix_url: Melotte%20187
+scix_url: NGC%206520
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

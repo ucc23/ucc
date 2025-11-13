@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 18 is a poorly populated, loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a moderate percentage of members with 2 later reported entries.
+    <b>Kronberger 18</b> is a poorly populated, loose object of very low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 4.0

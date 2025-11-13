@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 143a
 style: style
 title_flag: true
-more_names: FSR 1570; Wray 1; Wray 15-751; DSH J1108.6-6042; MWSC 1898
+more_names: Wray 1; Wray 15-751; DSH J1108.6-6042; FSR 1570; MWSC 1898
 fname: teutsch143a
 fov: 0.063
 ra_icrs: 167.14878
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 143a is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 143a</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.9

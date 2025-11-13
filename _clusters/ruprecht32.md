@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 32
 style: style
 title_flag: true
-more_names: ESO 493 09; OCL 651; MWSC 1327
+more_names: OCL 651; ESO 493 09; MWSC 1327
 fname: ruprecht32
 fov: 0.063
 ra_icrs: 116.29998
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 32 is a poorly populated, dense object of intermediate C3 quality. It is poorly studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Ruprecht 32</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9

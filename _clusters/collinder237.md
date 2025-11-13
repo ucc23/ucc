@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 237
+title: NGC 3496
 style: style
 title_flag: true
-more_names: VDBH 108; NGC 3496; ESO 128 26; vdBergh-Hagen 108; FSR 1562; OCL 836; MWSC 1878; FoF 236
+more_names: NGC 3496; MWSC 1878; FSR 1562; vdBergh-Hagen 108; VDBH 108; OCL 836; ESO 128 26; FoF 236
 fname: collinder237
 fov: 0.143
 ra_icrs: 164.87121
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 237 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 3496</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.3
 N_50_val: 551
-scix_url: Collinder%20237
+scix_url: NGC%203496
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

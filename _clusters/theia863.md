@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Theia 863 is a somewhat close, moderately populated, very dense object of intermediate C3 quality. It was recently reported in the literature.
+    <b>Theia 863</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 17.0

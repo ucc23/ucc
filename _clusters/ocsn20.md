@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.05
 UTI_summary: |
-    OCSN 20 is a relatively close, moderately populated, loose object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>OCSN 20</b> is a moderately populated, loose object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 37.9
@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 416](/_clusters/collinder416/)| 94.6 | 302.86 | 26.74 | 2.09 | 1.78 | -9.28 | -19.95 |0.71 |
+    |[NGC 6882](/_clusters/collinder416/)| 94.6 | 302.86 | 26.74 | 2.09 | 1.78 | -9.28 | -19.95 |0.71 |
 ---

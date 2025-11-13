@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 102
+title: NGC 2252
 style: style
 title_flag: true
 more_names: NGC 2252; OCL 514; MWSC 911
@@ -25,12 +25,12 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 102 is a sparse, very dense object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>NGC 2252</b> is a sparse, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.6
 N_50_val: 21
-scix_url: Collinder%20102
+scix_url: NGC%202252
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

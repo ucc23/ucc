@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 39 is a relatively close, rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a significant percentage of members with 4 later reported entries.
+    <b>Teutsch 39</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with 4 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 28.6

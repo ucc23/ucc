@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 108
+title: NGC 3960
 style: style
 title_flag: true
-more_names: Collinder 250; VDBH 123; NGC 3960; ESO 170 14; vdBergh-Hagen 123; FSR 1590; OCL 861; MWSC 1982; FoF 594
+more_names: NGC 3960; MWSC 1982; FSR 1590; vdBergh-Hagen 123; VDBH 123; OCL 861; Collinder 250; ESO 170 14; FoF 594
 fname: melotte108
 fov: 0.147
 ra_icrs: 177.64679
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 108 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 3960</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.4
 N_50_val: 543
-scix_url: Melotte%20108
+scix_url: NGC%203960
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

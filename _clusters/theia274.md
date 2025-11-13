@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 0.16
 UTI_summary: |
-    Theia 274 is a somewhat close, moderately populated, moderately dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Theia 274</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 22.0
@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 47](/_clusters/ascc47/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.7 |
+    |[Alessi Teutsch 7](/_clusters/alessiteutsch7/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.7 |
 ---

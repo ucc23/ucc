@@ -3,7 +3,7 @@ layout: post
 title: VDBH 19
 style: style
 title_flag: true
-more_names: ESO 430 21; vdBergh-Hagen 19; MWSC 1433; BH 19
+more_names: vdBergh-Hagen 19; ESO 430 21; MWSC 1433; BH 19
 fname: vdbh19
 fov: 0.08
 ra_icrs: 121.76542
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 19 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>VDBH 19</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

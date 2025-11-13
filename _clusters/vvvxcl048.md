@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VVVX CL048 is a poorly populated, very dense object of very high C3 quality. It is rarely studied in the literature, with no articles listed in the last 7 years. This object shares a large percentage of members with 4 later reported entries.
+    <b>VVVX CL048</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 7 years.<br><br>This object shares a large percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.8
@@ -43,8 +43,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[H21OC 33](/_clusters/h21oc33/)| 100.0 | 251.69 | -41.2 | 0.9 | 1.43 | -2.99 | -10.85 |0.01 |
-    |[HXHWL 33](/_clusters/hxhwl33/)| 100.0 | 251.68 | -41.2 | 0.9 | 1.4 | -3.0 | -9.52 |0.4 |
+    |[HXHWL 33](/_clusters/hxhwl33/)| 100.0 | 251.68 | -41.2 | 0.9 | 1.4 | -3.0 | -9.52 |0.42 |
     |[CWWDL 14192](/_clusters/cwwdl14192/)| 98.0 | 251.7 | -41.21 | 0.9 | 1.43 | -3.0 | -6.31 |0.0 |
     |[UBC 1561](/_clusters/ubc1561/)| 98.0 | 251.68 | -41.21 | 0.9 | 1.45 | -2.99 | -10.85 |0.0 |
 ---

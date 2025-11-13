@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.25
 UTI_C_dup: 0.12
 UTI_summary: |
-    Theia 3423 is a sparse, very dense object of low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 3423</b> is a sparse, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.6
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 86](/_clusters/melotte86/)| 88.0 | 124.64 | -30.62 | 0.57 | -2.97 | 2.61 | 34.59 |0.96 |
+    |[NGC 2567](/_clusters/melotte86/)| 88.0 | 124.64 | -30.62 | 0.57 | -2.97 | 2.61 | 34.59 |0.96 |
 ---

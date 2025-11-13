@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 270
+title: NGC 5138
 style: style
 title_flag: true
-more_names: NGC 5138; ESO 132 07; OCL 902; MWSC 2121; FoF 1995
+more_names: NGC 5138; MWSC 2121; OCL 902; ESO 132 07; FoF 1995
 fname: collinder270
 fov: 0.143
 ra_icrs: 201.84519
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 270 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 5138</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.3
 N_50_val: 197
-scix_url: Collinder%20270
+scix_url: NGC%205138
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

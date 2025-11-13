@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 49
 style: style
 title_flag: true
-more_names: ESO 494 15; OCL 676; MWSC 1423
+more_names: OCL 676; ESO 494 15; MWSC 1423
 fname: ruprecht49
 fov: 0.13
 ra_icrs: 120.81898
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 49 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Ruprecht 49</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9

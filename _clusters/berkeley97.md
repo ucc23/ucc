@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 97
 style: style
 title_flag: true
-more_names: FSR 0382; OCL 243; MWSC 3648
+more_names: OCL 243; FSR 0382; MWSC 3648
 fname: berkeley97
 fov: 0.07
 ra_icrs: 339.84744
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 97 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Berkeley 97</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1

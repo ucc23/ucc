@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 139
 style: style
 title_flag: true
-more_names: ESO 521 10; OCL 20; MWSC 2776
+more_names: OCL 20; ESO 521 10; MWSC 2776
 fname: ruprecht139
 fov: 0.183
 ra_icrs: 270.22876
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 0.98
 UTI_summary: |
-    Ruprecht 139 is a rich, very dense object of high C3 quality. It is moderately studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Ruprecht 139</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.5

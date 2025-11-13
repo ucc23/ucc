@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    BDSB 91 is a somewhat close, moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>BDSB 91</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1
@@ -39,9 +39,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 96.329 | -10.546 | 1.018 | -3.101 | 1.164 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 96.322 | -10.55 | 1.105 | -3.143 | 1.237 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 96.316 | -10.558 | 1.049 | -3.125 | 1.229 | 41.44 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 97.701 | -9.55 | 0.981 | -3.202 | 0.652 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 96.34 | -10.536 | 1.09 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 96.316 | -10.558 | 1.049 | -3.125 | 1.229 | 41.44 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 97.701 | -9.55 | 0.981 | -3.202 | 0.652 | -- |
     | **UCC** |96.318 | -10.558 | 1.094 | -3.169 | 1.29 | 27.772 | 
 cds_radec: 96.31847,-10.55848
 carousel: UCC_HUNT23_CANTAT20
@@ -53,9 +53,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.471, Dist=912, logage=6.736, [Fe/H]=0.007` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.55, logAge=6.7` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.551, diffAV50=2.201, MOD50=9.678, logAge50=6.654` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.79942, MOD=9.91013, logAge=7.64419, Z=0.00678` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.46, dMod50=10.8, logAge50=7.96, [Fe/H]50=0.09` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=82.9037` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.79942, MOD=9.91013, logAge=7.64419, Z=0.00678` |
 shared_table: |
     
 ---

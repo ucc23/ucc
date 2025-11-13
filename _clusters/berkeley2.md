@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 2
 style: style
 title_flag: true
-more_names: FSR 0489; OCL 289; MWSC 41
+more_names: OCL 289; FSR 0489; MWSC 41
 fname: berkeley2
 fov: 0.063
 ra_icrs: 6.31696
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 2 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Berkeley 2</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9

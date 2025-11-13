@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 0.91
 UTI_summary: |
-    CWNU 136 is a somewhat close, poorly populated, very loose object of high C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue.
+    <b>CWNU 136</b> is a poorly populated, very loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 23.1

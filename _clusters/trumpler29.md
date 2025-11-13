@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 29
 style: style
 title_flag: true
-more_names: Collinder 343; Harvard 17; ESO 334 04; OCL 1009; MWSC 2663; FoF 2211
+more_names: Harvard 17; Collinder 343; OCL 1009; ESO 334 04; MWSC 2663; FoF 2211
 fname: trumpler29
 fov: 0.21
 ra_icrs: 265.3499
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 29 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 29</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.3

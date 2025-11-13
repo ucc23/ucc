@@ -3,7 +3,7 @@ layout: post
 title: Melotte 111
 style: style
 title_flag: true
-more_names: Collinder 256; Coma Berenices; OCL 558; MWSC 2020; Coma Ber; Coma Star
+more_names: Coma Ber; Coma Star; OCL 558; Collinder 256; Coma Berenices; MWSC 2020
 fname: melotte111
 fov: 26.85
 ra_icrs: 185.06002
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 111 is a very close, rich, very loose object of very high C3 quality. It is very well-studied in the literature.
+    <b>Melotte 111</b> is a rich, very loose object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 805.5
@@ -42,8 +42,8 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 186.014 | 25.652 | 11.595 | -12.03 | -8.973 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 186.304 | 25.368 | 11.582 | -12.02 | -8.909 | 0.124 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 186.175 | 25.766 | 11.616 | -12.036 | -8.916 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 185.59 | 25.839 | 11.665 | -12.106 | -8.951 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 186.181 | 26.154 | 11.652 | -11.996 | -8.763 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 185.59 | 25.839 | 11.665 | -12.106 | -8.951 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 186.718 | 25.899 | 11.698 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -0.173 |
@@ -59,8 +59,8 @@ fpars_table: |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.013, Dmod=4.881, logt=8.652` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=4.67, AgeNN=8.81` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.148, Dist=86, logage=8.792, [Fe/H]=-0.06` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.75` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=85, logAgeNN=8.81` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.75` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.071, diffAV50=0.436, MOD50=4.708, logAge50=8.816` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.29, dMod50=4.71, logAge50=8.47, [Fe/H]50=0.2` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=48.8812` |

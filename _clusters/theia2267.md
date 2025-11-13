@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 0.43
 UTI_summary: |
-    Theia 2267 is a moderately populated, loose object of high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>Theia 2267</b> is a moderately populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 17.6
@@ -49,7 +49,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXHWL 26](/_clusters/hxhwl26/)| 57.1 | 111.56 | -26.6 | 0.82 | -4.27 | 3.9 | 37.34 |0.43 |
-    |[H21OC 26](/_clusters/h21oc26/)| 40.0 | 111.54 | -26.59 | 0.82 | -4.26 | 3.9 | 37.34 |0.0 |
+    |[HXHWL 26](/_clusters/hxhwl26/)| 57.1 | 111.56 | -26.6 | 0.82 | -4.27 | 3.9 | 37.34 |0.53 |
     |[CWWDL 14101](/_clusters/cwwdl14101/)| 21.4 | 111.61 | -26.56 | 0.82 | -4.26 | 3.9 | 38.66 |0.0 |
 ---

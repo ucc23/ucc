@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 211
+title: NGC 2972
 style: style
 title_flag: true
-more_names: VDBH 76; NGC 2972; ESO 212 11; vdBergh-Hagen 76; OCL 778; MWSC 1699; FoF 395
+more_names: NGC 2972; VDBH 76; vdBergh-Hagen 76; ESO 212 11; MWSC 1699; OCL 778; FoF 395
 fname: collinder211
 fov: 0.18
 ra_icrs: 145.0532
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 211 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2972</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.4
 N_50_val: 289
-scix_url: Collinder%20211
+scix_url: NGC%202972
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

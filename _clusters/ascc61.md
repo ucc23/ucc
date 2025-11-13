@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    ASCC 61 is a poorly populated, dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>ASCC 61</b> is a poorly populated, dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8

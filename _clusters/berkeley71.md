@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 71 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Berkeley 71</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.2
@@ -40,8 +40,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 85.237 | 32.266 | -- | 2.28 | -6.33 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 85.23 | 32.278 | -- | 0.533 | -1.867 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 85.222 | 32.28 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 85.233 | 32.272 | 0.226 | 0.65 | -1.614 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 85.237 | 32.266 | -- | 0.69 | -1.66 | -9.4 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 85.233 | 32.272 | 0.226 | 0.65 | -1.614 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 85.223 | 32.279 | 0.222 | 0.653 | -1.606 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 85.242 | 32.273 | 0.238 | 0.631 | -1.657 | -8.45 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 85.234 | 32.283 | 0.235 | -- | -- | -- |
@@ -57,8 +57,8 @@ fpars_table: |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.91, Dm=11.94, Age=8.8` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.87, distance=3260, log_age=9.02` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.014, Dmod=13.672, logt=8.74` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.53, DMNN=12.78, AgeNN=8.94` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.23` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.53, DMNN=12.78, AgeNN=8.94` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.104, Dist=3311, logage=8.753, [Fe/H]=-0.188` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.024, diffAV50=2.255, MOD50=12.733, logAge50=8.568` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.48, dMod50=12.71, logAge50=8.72, [Fe/H]50=0.1` |

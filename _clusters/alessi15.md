@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 15 is a poorly populated, very dense object of low C3 quality. It is poorly studied in the literature.
+    <b>Alessi 15</b> is a poorly populated, very dense object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.3

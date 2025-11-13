@@ -3,7 +3,7 @@ layout: post
 title: VDBH 144
 style: style
 title_flag: true
-more_names: ESO 096 04; vdBergh-Hagen 144; AL 1; Andrews-Lindsay 1; MWSC 2098; BH 144
+more_names: vdBergh-Hagen 144; ESO 096 04; AL 1; Andrews-Lindsay 1; MWSC 2098; BH 144
 fname: vdbh144
 fov: 0.03
 ra_icrs: 198.81635
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 144 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>VDBH 144</b> is a rich, very dense object of high C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.9

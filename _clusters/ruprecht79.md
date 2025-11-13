@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 79
 style: style
 title_flag: true
-more_names: VDBH 77; ESO 167 11; vdBergh-Hagen 77; FSR 1502; OCL 787; MWSC 1701
+more_names: OCL 787; VDBH 77; vdBergh-Hagen 77; ESO 167 11; FSR 1502; MWSC 1701
 fname: ruprecht79
 fov: 0.09
 ra_icrs: 145.26308
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 79 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 79</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.7

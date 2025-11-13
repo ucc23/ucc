@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 96 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>UBC 96</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.3
@@ -34,8 +34,8 @@ scix_url: UBC%2096
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 273.777 | -16.314 | 0.616 | 0.653 | 0.912 | -- |
     |[Castro-Ginard et al. (2020)](https://scixplorer.org/abs/2020A%26A...635A..45C) | 273.761 | -16.327 | 0.618 | 0.643 | 0.934 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 273.777 | -16.314 | 0.616 | 0.653 | 0.912 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 273.756 | -16.347 | 0.627 | 0.656 | 0.946 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 273.769 | -16.299 | 0.626 | 0.717 | 0.9 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 273.808 | -16.342 | 0.601 | 0.668 | 0.94 | -7.797 |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 167 is a poorly populated, very loose object of very low C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.
+    <b>Alessi 167</b> is a poorly populated, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 7.5

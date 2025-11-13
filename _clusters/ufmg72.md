@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    UFMG 72 is a poorly populated, very dense object of very high C3 quality. It is rarely studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>UFMG 72</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.5

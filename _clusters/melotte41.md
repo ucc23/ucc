@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 41
+title: NGC 2168
 style: style
 title_flag: true
-more_names: Collinder 82; NGC 2168; M 35; OCL 466; MWSC 754; FoF 2231
+more_names: NGC 2168; M 35; Collinder 82; OCL 466; MWSC 754; FoF 2231
 fname: melotte41
 fov: 0.547
 ra_icrs: 92.26759
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 41 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2168</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 16.4
 N_50_val: 1763
-scix_url: Melotte%2041
+scix_url: NGC%202168
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -45,12 +45,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 92.272 | 24.336 | 1.131 | 2.308 | -2.905 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 92.263 | 24.334 | 1.127 | 2.299 | -2.905 | -7.76 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 92.267 | 24.334 | 1.157 | 2.293 | -2.913 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 92.269 | 24.332 | 1.153 | 2.26 | -2.886 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 92.298 | 24.318 | 1.148 | 2.246 | -2.907 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 92.269 | 24.332 | 1.153 | 2.26 | -2.886 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 92.284 | 24.326 | 1.154 | 2.253 | -2.895 | -9.304 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 92.271 | 24.336 | 1.112 | 2.256 | -2.888 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 92.277 | 24.333 | 1.153 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 92.284 | 24.326 | 1.154 | 2.253 | -2.895 | -9.304 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 92.271 | 24.336 | 1.112 | 2.256 | -2.888 | -- |
     | **UCC** |92.268 | 24.343 | 1.151 | 2.26 | -2.897 | -8.87 | 
 cds_radec: 92.26759,+24.34339
 carousel: UCC_HUNT23_CANTAT20
@@ -66,12 +66,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.096, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.46, DMNN=9.79, AgeNN=8.17` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.883, Dist=821, logage=8.204, [Fe/H]=-0.123` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.95, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=888, logAgeNN=8.19` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.95, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.593, diffAV50=1.135, MOD50=9.566, logAge50=8.209` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.4682, MOD=9.78183, logAge=8.77358, Z=-0.1152` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.69, dMod50=9.69, logAge50=8.34, [Fe/H]50=0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=4179.52` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.4682, MOD=9.78183, logAge=8.77358, Z=-0.1152` |
 shared_table: |
     
 ---

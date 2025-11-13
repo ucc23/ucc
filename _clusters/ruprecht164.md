@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 164
 style: style
 title_flag: true
-more_names: VDBH 119; ESO 129 23; vdBergh-Hagen 119; FSR 1588; OCL 858; MWSC 1951
+more_names: OCL 858; VDBH 119; vdBergh-Hagen 119; ESO 129 23; FSR 1588; MWSC 1951
 fname: ruprecht164
 fov: 0.06
 ra_icrs: 172.6079
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 164 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 164</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.8

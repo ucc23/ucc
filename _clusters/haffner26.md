@@ -3,7 +3,7 @@ layout: post
 title: Haffner 26
 style: style
 title_flag: true
-more_names: ESO 430 29; OCL 707; FoF 1438
+more_names: OCL 707; ESO 430 29; FoF 1438
 fname: haffner26
 fov: 0.177
 ra_icrs: 123.90492
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 26 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Haffner 26</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.3

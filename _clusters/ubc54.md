@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 54 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>UBC 54</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 13.9
@@ -36,8 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Castro-Ginard et al. (2019)](https://scixplorer.org/abs/2019A%26A...627A..35C) | 64.721 | 46.439 | 0.878 | 3.325 | -3.79 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 64.747 | 46.453 | 0.879 | 3.32 | -3.758 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 64.72 | 46.438 | 0.914 | 3.269 | -3.8 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 64.807 | 46.443 | 0.907 | 3.264 | -3.809 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 64.72 | 46.438 | 0.914 | 3.269 | -3.8 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 64.725 | 46.415 | 0.908 | 3.275 | -3.809 | -20.361 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 64.714 | 46.453 | 0.908 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 64.725 | 46.415 | 0.908 | 3.275 | -3.809 | -20.361 |
@@ -48,8 +48,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.98, DMNN=10.22, AgeNN=8.4` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.25, logAge=8.35` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1070, logAgeNN=8.47` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.25, logAge=8.35` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.974, diffAV50=0.821, MOD50=10.092, logAge50=8.447` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.14, dMod50=10.3, logAge50=8.57, [Fe/H]50=0.32` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=957.239` |

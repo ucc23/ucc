@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.42
 UTI_C_dup: 0.0
 UTI_summary: |
-    COIN-Gaia 2 is a rich, very dense object of very high C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>COIN-Gaia 2</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 8.8
@@ -51,7 +51,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi-Teutsch 21](/_clusters/alessiteutsch21/)| 100.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.68 |
+    |[AT 21](/_clusters/at21/)| 100.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.68 |
     |[UBC 35](/_clusters/ubc35/)| 100.0 | 15.05 | 55.41 | 0.77 | -4.44 | -2.05 | -32.45 |0.01 |
     |[CWWDL 3306](/_clusters/cwwdl3306/)| 36.2 | 15.08 | 55.39 | 0.78 | -4.44 | -2.08 | -32.19 |0.0 |
 ---

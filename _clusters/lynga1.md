@@ -3,7 +3,7 @@ layout: post
 title: Lynga 1
 style: style
 title_flag: true
-more_names: ESO 133 10; OCL 914; MWSC 2193
+more_names: OCL 914; ESO 133 10; MWSC 2193
 fname: lynga1
 fov: 0.067
 ra_icrs: 210.00932
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Lynga 1 is a poorly populated, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Lynga 1</b> is a poorly populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.0

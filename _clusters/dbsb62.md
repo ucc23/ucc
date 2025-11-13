@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    DBSB 62 is a rich, very loose object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.
+    <b>DBSB 62</b> is a rich, very loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.8

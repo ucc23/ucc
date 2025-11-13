@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 181
+title: NGC 2571
 style: style
 title_flag: true
-more_names: VDBH 27; NGC 2571; ESO 431 05; vdBergh-Hagen 27; OCL 701; MWSC 1469; FoF 2146
+more_names: NGC 2571; OCL 701; ESO 431 05; vdBergh-Hagen 27; VDBH 27; MWSC 1469; FoF 2146
 fname: collinder181
 fov: 0.217
 ra_icrs: 124.73134
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 181 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2571</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.5
 N_50_val: 270
-scix_url: Collinder%20181
+scix_url: NGC%202571
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

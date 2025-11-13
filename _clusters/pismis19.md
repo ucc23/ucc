@@ -3,7 +3,7 @@ layout: post
 title: Pismis 19
 style: style
 title_flag: true
-more_names: VDBH 160; ESO 134 05; vdBergh-Hagen 160; FSR 1679; OCL 921; MWSC 2225
+more_names: OCL 921; VDBH 160; vdBergh-Hagen 160; ESO 134 05; FSR 1679; MWSC 2225
 fname: pismis19
 fov: 0.043
 ra_icrs: 217.66854
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 19 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with 2 later reported entries.
+    <b>Pismis 19</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.3

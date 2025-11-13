@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Antalova 2 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Antalova 2</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.7

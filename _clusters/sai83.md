@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    SAI 83 is a poorly populated, very dense object of intermediate C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a large percentage of members with a later reported entry.
+    <b>SAI 83</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.1

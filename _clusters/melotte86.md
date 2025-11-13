@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 86
+title: NGC 2567
 style: style
 title_flag: true
-more_names: Collinder 180; VDBH 26; NGC 2567; ESO 431 03; vdBergh-Hagen 26; FSR 1354; OCL 708; MWSC 1467; FoF 385
+more_names: NGC 2567; MWSC 1467; FSR 1354; vdBergh-Hagen 26; VDBH 26; OCL 708; Collinder 180; ESO 431 03; FoF 385
 fname: melotte86
 fov: 0.213
 ra_icrs: 124.6405
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 86 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 2567</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4
 N_50_val: 294
-scix_url: Melotte%2086
+scix_url: NGC%202567
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

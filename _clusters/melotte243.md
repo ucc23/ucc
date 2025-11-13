@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 243
+title: NGC 7654
 style: style
 title_flag: true
-more_names: Collinder 455; NGC 7654; M 52; OCL 260; MWSC 3725; FoF 526
+more_names: NGC 7654; Collinder 455; OCL 260; MWSC 3725; M 52; FoF 526
 fname: melotte243
 fov: 0.203
 ra_icrs: 351.19178
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 243 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7654</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.1
 N_50_val: 1216
-scix_url: Melotte%20243
+scix_url: NGC%207654
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

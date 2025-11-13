@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 114
+title: NGC 4755
 style: style
 title_flag: true
-more_names: Collinder 264; VDBH 141; NGC 4755; ESO 131 16; vdBergh-Hagen 141; FSR 1633; kappa Crucis; OCL 892; MWSC 2072; FoF 425
+more_names: NGC 4755; FSR 1633; ESO 131 16; vdBergh-Hagen 141; MWSC 2072; OCL 892; Collinder 264; kappa Crucis; VDBH 141; FoF 425
 fname: melotte114
 fov: 0.12
 ra_icrs: 193.4105
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 114 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4755</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.6
 N_50_val: 813
-scix_url: Melotte%20114
+scix_url: NGC%204755
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 183
+title: NGC 2580
 style: style
 title_flag: true
-more_names: VDBH 28; NGC 2580; ESO 431 06; vdBergh-Hagen 28; OCL 709; MWSC 1476
+more_names: NGC 2580; OCL 709; VDBH 28; vdBergh-Hagen 28; ESO 431 06; MWSC 1476
 fname: collinder183
 fov: 0.113
 ra_icrs: 125.3656
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 183 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>NGC 2580</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4
 N_50_val: 110
-scix_url: Collinder%20183
+scix_url: NGC%202580
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

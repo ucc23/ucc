@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 64
+title: NGC 1883
 style: style
 title_flag: true
-more_names: NGC 1883; FSR 0729; OCL 417; MWSC 539
+more_names: FSR 0729; NGC1883; OCL 417; MWSC 539
 fname: collinder64
 fov: 0.1
 ra_icrs: 81.47805
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 64 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 1883</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.0
 N_50_val: 256
-scix_url: Collinder%2064
+scix_url: NGC%201883
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 35
 style: style
 title_flag: true
-more_names: VDBH 10; ESO 429 18; vdBergh-Hagen 10; OCL 689; MWSC 1333
+more_names: OCL 689; VDBH 10; vdBergh-Hagen 10; ESO 429 18; MWSC 1333
 fname: ruprecht35
 fov: 0.063
 ra_icrs: 116.55131
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 35 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 35</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9

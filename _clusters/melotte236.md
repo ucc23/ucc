@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 236
+title: NGC 7092
 style: style
 title_flag: true
-more_names: Collinder 438; NGC 7092; M 39; OCL 211; MWSC 3521; OCSN 243
+more_names: NGC 7092; Collinder 438; OCL 211; MWSC 3521; M 39; OCSN 243
 fname: melotte236
 fov: 1.707
 ra_icrs: 322.80144
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 236 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with 3 later reported entries.
+    <b>NGC 7092</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 51.2
 N_50_val: 313
-scix_url: Melotte%20236
+scix_url: NGC%207092
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -43,8 +43,8 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 322.889 | 48.247 | 3.337 | -7.477 | -19.738 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 322.757 | 48.228 | 3.344 | -7.473 | -19.732 | -5.202 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 323.07 | 48.305 | 3.385 | -7.581 | -19.72 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 322.81 | 48.327 | 3.367 | -7.466 | -19.786 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 323.052 | 48.23 | 3.354 | -7.4 | -19.771 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 322.81 | 48.327 | 3.367 | -7.466 | -19.786 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 322.9 | 48.4 | 3.38 | -7.5 | -19.8 | -6.4 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 322.338 | 48.024 | 3.312 | -7.316 | -19.622 | -- |
     | **UCC** |322.801 | 48.252 | 3.36 | -7.45 | -19.733 | -5.943 | 
@@ -60,8 +60,8 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.049, Dist=7.218, logA=8.491, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=7.46, AgeNN=8.6` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.093, Dist=303, logage=8.66, [Fe/H]=-0.047` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.1` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=308, logAgeNN=8.6` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.1` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.1, m-M=7.7, logt=8.05` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00093, MOD=7.45915, logAge=8.84767, Z=-0.0459` |
 shared_table: |

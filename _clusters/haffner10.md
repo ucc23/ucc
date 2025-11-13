@@ -3,7 +3,7 @@ layout: post
 title: Haffner 10
 style: style
 title_flag: true
-more_names: FSR 1231; OCL 594; MWSC 1237
+more_names: OCL 594; FSR 1231; MWSC 1237
 fname: haffner10
 fov: 0.097
 ra_icrs: 112.14977
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 10 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
+    <b>Haffner 10</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9

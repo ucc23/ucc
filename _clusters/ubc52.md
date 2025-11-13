@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 52 is a poorly populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>UBC 52</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.3

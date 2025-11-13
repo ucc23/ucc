@@ -3,7 +3,7 @@ layout: post
 title: Westerlund 1
 style: style
 title_flag: true
-more_names: ESO 277 12; OCL 985; MWSC 2461
+more_names: OCL 985; ESO 277 12; MWSC 2461
 fname: westerlund1
 fov: 0.04
 ra_icrs: 251.75955
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Westerlund 1 is a rich, very dense object of high C3 quality. It is poorly studied in the literature.
+    <b>Westerlund 1</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.2

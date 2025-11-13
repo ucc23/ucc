@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Theia 771 is a somewhat close, moderately populated, moderately dense object of intermediate C3 quality. It was recently reported in the literature.
+    <b>Theia 771</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 18.3

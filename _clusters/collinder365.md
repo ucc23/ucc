@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 365
+title: NGC 6546
 style: style
 title_flag: true
-more_names: NGC 6546; ESO 521 29; OCL 24; MWSC 2812
+more_names: NGC 6546; OCL 24; ESO 521 29; MWSC 2812
 fname: collinder365
 fov: 0.23
 ra_icrs: 271.83802
@@ -25,12 +25,12 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 365 is a sparse, very loose object of low C3 quality. It is moderately studied in the literature, with no articles listed in the last 6 years. This object shares a very small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>NGC 6546</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a very small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
 N_50_val: 14
-scix_url: Collinder%20365
+scix_url: NGC%206546
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

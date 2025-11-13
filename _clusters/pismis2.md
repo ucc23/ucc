@@ -3,7 +3,7 @@ layout: post
 title: Pismis 2
 style: style
 title_flag: true
-more_names: VDBH 25; ESO 312 02; vdBergh-Hagen 25; FSR 1392; OCL 733; MWSC 1465
+more_names: OCL 733; VDBH 25; vdBergh-Hagen 25; ESO 312 02; FSR 1392; MWSC 1465
 fname: pismis2
 fov: 0.077
 ra_icrs: 124.47777
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 2 is a very rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>Pismis 2</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.3

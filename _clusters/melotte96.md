@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 96
+title: NGC 2818A
 style: style
 title_flag: true
-more_names: Collinder 206; VDBH 59; NGC 2818A; ESO 372 14; vdBergh-Hagen 59; FSR 1408; OCL 743; MWSC 1644
+more_names: Melotte 96; Collinder 206; OCL 743; VDBH 59; vdBergh-Hagen 59; ESO 372 14; FSR 1408; MWSC 1644
 fname: melotte96
 fov: 0.18
 ra_icrs: 139.0437
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.11
 UTI_summary: |
-    Melotte 96 is a rich, very dense object of very high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>NGC 2818A</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.4
 N_50_val: 476
-scix_url: Melotte%2096
+scix_url: NGC%202818A
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

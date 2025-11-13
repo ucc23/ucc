@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 0.78
 UTI_summary: |
-    VDBH 121 is a very rich, very dense object of very high C3 quality. It is poorly studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>VDBH 121</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.7

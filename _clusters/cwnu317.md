@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 317 is a poorly populated, very dense object of very high C3 quality. It was recently reported in the literature.
+    <b>CWNU 317</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.0

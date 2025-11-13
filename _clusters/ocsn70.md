@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.42
 UTI_C_dup: 0.49
 UTI_summary: |
-    OCSN 70 is a relatively close, rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>OCSN 70</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 22.8
@@ -34,8 +34,8 @@ scix_url: OCSN%2070
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 85.243 | -9.287 | 2.307 | 0.652 | -1.107 | 17.951 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 85.27 | -9.38 | 2.23 | 0.57 | -1.25 | 15.73 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 85.243 | -9.287 | 2.307 | 0.652 | -1.107 | 17.951 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 85.235 | -9.274 | 2.307 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 85.243 | -9.287 | 2.307 | 0.652 | -1.107 | 17.951 |
     | **UCC** |85.34 | -9.446 | 2.272 | 0.529 | -1.214 | 16.144 | 
@@ -44,8 +44,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.969, diffAV50=1.086, MOD50=8.097, logAge50=6.784` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.64, m-M=9.98, logt=6.9` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.969, diffAV50=1.086, MOD50=8.097, logAge50=6.784` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.71, dMod50=8.67, logAge50=6.83, [Fe/H]50=0.66` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=63.3923` |
 shared_table: |

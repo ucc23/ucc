@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    HXHWL 62 is a moderately populated, very dense object of low C3 quality. It is moderately studied in the literature.
+    <b>HXHWL 62</b> is a moderately populated, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.0

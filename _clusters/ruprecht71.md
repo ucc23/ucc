@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 71
 style: style
 title_flag: true
-more_names: ESO 260 09; OCL 761; MWSC 1574; FoF 2087
+more_names: OCL 761; ESO 260 09; MWSC 1574; FoF 2087
 fname: ruprecht71
 fov: 0.167
 ra_icrs: 132.31167
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 71 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 71</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.0

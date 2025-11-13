@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 35
+title: NGC 1193
 style: style
 title_flag: true
-more_names: NGC 1193; FSR 0649; OCL 390; MWSC 256
+more_names: NGC 1193; FSR 0649; MWSC 256; OCL 390
 fname: collinder35
 fov: 0.07
 ra_icrs: 46.48799
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 35 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 1193</b> is a very rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.1
 N_50_val: 599
-scix_url: Collinder%2035
+scix_url: NGC%201193
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,8 +39,8 @@ posit_table: |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 46.504 | 44.387 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 46.47 | 44.38 | -- | -1.47 | 0.42 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 46.494 | 44.382 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 46.486 | 44.383 | 0.159 | -0.125 | -0.329 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 46.47 | 44.38 | -- | -0.22 | -0.36 | -84.7 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 46.486 | 44.383 | 0.159 | -0.125 | -0.329 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 46.484 | 44.383 | 0.175 | -0.123 | -0.354 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 46.489 | 44.385 | 0.171 | -0.161 | -0.328 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 46.486 | 44.382 | 0.169 | -0.22 | -0.426 | -83.035 |
@@ -56,8 +56,8 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.19, Dist=4571.0, Age=9.7, [Fe/H]=-0.293` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.12, HDis=4300, Age=7.9, [Fe/H]_1=-0.29` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.2, distance=6000, log_age=9.3, metallicity=-0.293` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.41, DMNN=13.49, AgeNN=9.71` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.34` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.41, DMNN=13.49, AgeNN=9.71` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.704, Dist=5519, logage=9.66, [Fe/H]=-0.257` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.36, diffAV50=1.32, MOD50=13.662, logAge50=9.339` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.98, dMod50=12.76, logAge50=9.6, [Fe/H]50=-0.57` |

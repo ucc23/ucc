@@ -3,7 +3,7 @@ layout: post
 title: VDBH 4
 style: style
 title_flag: true
-more_names: ESO 368 06; vdBergh-Hagen 4; MWSC 1288
+more_names: vdBergh-Hagen 4; ESO 368 06; MWSC 1288
 fname: vdbh4
 fov: 0.03
 ra_icrs: 114.43736
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 4 is a poorly populated, very dense object of high C3 quality. It is poorly studied in the literature.
+    <b>VDBH 4</b> is a poorly populated, very dense object of high C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.9

@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis Moreno 1 is a somewhat close, rich, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    <b>Pismis Moreno 1</b> is a rich, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.2
@@ -42,9 +42,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 334.678 | 63.243 | 1.033 | -2.286 | -2.283 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 334.647 | 63.185 | 1.079 | -2.341 | -2.333 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 334.629 | 63.231 | 1.082 | -2.396 | -2.382 | -27.962 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 334.645 | 63.205 | 1.05 | -2.4 | -2.299 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 334.614 | 63.185 | 1.077 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 334.629 | 63.231 | 1.082 | -2.396 | -2.382 | -27.962 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 334.645 | 63.205 | 1.05 | -2.4 | -2.299 | -- |
     | **UCC** |334.632 | 63.225 | 1.08 | -2.348 | -2.295 | -26.402 | 
 cds_radec: 334.63197,+63.22483
 carousel: UCC_HUNT23_CANTAT20
@@ -59,9 +59,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.889, Dist=917, logage=6.909, [Fe/H]=-0.012` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.0, logAge=6.75` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.739, diffAV50=2.361, MOD50=9.764, logAge50=6.743` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=2.05984, MOD=9.95999, logAge=7.04932, Z=-0.0120` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.68, dMod50=9.87, logAge50=6.8, [Fe/H]50=0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=276.569` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=2.05984, MOD=9.95999, logAge=7.04932, Z=-0.0120` |
 shared_table: |
     
 ---

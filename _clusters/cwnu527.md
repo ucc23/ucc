@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.21
 UTI_summary: |
-    CWNU 527 is a moderately populated, very dense object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWNU 527</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.9

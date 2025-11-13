@@ -3,7 +3,7 @@ layout: post
 title: Haffner 17
 style: style
 title_flag: true
-more_names: VDBH 12; ESO 429 22; vdBergh-Hagen 12; FSR 1337; OCL 694; MWSC 1360
+more_names: OCL 694; VDBH 12; vdBergh-Hagen 12; ESO 429 22; FSR 1337; MWSC 1360
 fname: haffner17
 fov: 0.08
 ra_icrs: 117.89525
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 17 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Haffner 17</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

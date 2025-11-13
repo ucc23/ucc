@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 188
+title: NGC 6531
 style: style
 title_flag: true
-more_names: Collinder 363; NGC 6531; ESO 521 19; M 21; OCL 26; MWSC 2796
+more_names: NGC 6531; M 21; ESO 521 19; OCL 26; Collinder 363; MWSC 2796
 fname: melotte188
 fov: 0.157
 ra_icrs: 271.04587
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 188 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6531</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.7
 N_50_val: 205
-scix_url: Melotte%20188
+scix_url: NGC%206531
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

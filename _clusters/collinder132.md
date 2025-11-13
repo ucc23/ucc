@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 132 is a somewhat close, sparse, loose object of high C3 quality. It is very well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Collinder 132</b> is a sparse, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 16.9
@@ -42,9 +42,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 108.595 | -30.703 | 1.5 | -4.128 | 3.687 | 36.91 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 108.79 | -30.672 | 1.49 | -4.067 | 3.547 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 108.346 | -30.971 | 1.525 | -4.125 | 3.727 | 18.565 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 108.752 | -31.126 | 1.485 | -4.146 | 3.711 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 108.549 | -30.822 | 1.529 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 108.346 | -30.971 | 1.525 | -4.125 | 3.727 | 18.565 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 108.752 | -31.126 | 1.485 | -4.146 | 3.711 | -- |
     | **UCC** |108.367 | -30.922 | 1.541 | -4.119 | 3.769 | 17.973 | 
 cds_radec: 108.36696,-30.92208
 carousel: UCC_HUNT23_CANTAT20
@@ -58,9 +58,9 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=8.98, AgeNN=7.39` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.199, Dist=648, logage=7.488, [Fe/H]=0.037` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.123, diffAV50=0.518, MOD50=9.0, logAge50=7.142` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00073, MOD=8.97975, logAge=7.39474, Z=0.0371` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.46, dMod50=9.14, logAge50=6.91, [Fe/H]50=-0.29` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=48.7521` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00073, MOD=8.97975, logAge=7.39474, Z=0.0371` |
 shared_table: |
     
 ---

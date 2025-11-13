@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 78
+title: NGC 2477
 style: style
 title_flag: true
-more_names: Collinder 165; VDBH 13; NGC 2477; ESO 311 17; vdBergh-Hagen 13; FSR 1369; OCL 720; MWSC 1363; FoF 35
+more_names: NGC 2477; MWSC 1363; FSR 1369; Collinder 165; vdBergh-Hagen 13; VDBH 13; OCL 720; ESO 311 17; FoF 35
 fname: melotte78
 fov: 0.35
 ra_icrs: 118.04863
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 78 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 2477</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 10.5
 N_50_val: 3687
-scix_url: Melotte%2078
+scix_url: NGC%202477
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

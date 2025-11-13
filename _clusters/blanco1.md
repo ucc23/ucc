@@ -3,7 +3,7 @@ layout: post
 title: Blanco 1
 style: style
 title_flag: true
-more_names: ESO 409 09; zeta Scl; OCL 43; MWSC 7
+more_names: zeta Scl; OCL 43; ESO 409 09; MWSC 7
 fname: blanco1
 fov: 5.19
 ra_icrs: 1.22232
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Blanco 1 is a relatively close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a significant percentage of members with 2 later reported entries.
+    <b>Blanco 1</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 155.7
@@ -43,12 +43,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 0.853 | -29.958 | 4.21 | 18.739 | 2.602 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 16.338 | -29.941 | 4.204 | 18.689 | 2.724 | 5.754 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 1.003 | -29.939 | 4.231 | 18.737 | 2.602 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 0.872 | -29.975 | 4.224 | 18.738 | 2.606 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 0.72 | -30.116 | 4.219 | 18.722 | 2.567 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 0.872 | -29.975 | 4.224 | 18.738 | 2.606 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 0.915 | -30.011 | 4.232 | 18.725 | 2.593 | 4.217 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 1.356 | -29.922 | 4.189 | 18.721 | 2.605 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 0.861 | -29.907 | 4.228 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 0.915 | -30.011 | 4.232 | 18.725 | 2.593 | 4.217 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 1.356 | -29.922 | 4.189 | 18.721 | 2.605 | -- |
     | **UCC** |1.222 | -29.948 | 4.226 | 18.75 | 2.597 | 5.193 | 
 cds_radec: 1.22232,-29.9478
 carousel: UCC_HUNT23_CANTAT20
@@ -62,12 +62,12 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.031, Dist=6.876, logA=7.975, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.01, DMNN=6.9, AgeNN=8.02` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.064, Dist=236, logage=8.012, [Fe/H]=-0.016` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.05, logAge=7.8` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=239, logAgeNN=8.03` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.05, logAge=7.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.057, diffAV50=0.404, MOD50=6.87, logAge50=8.239` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.01050, MOD=6.89963, logAge=7.90026, Z=-0.0155` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.36, dMod50=6.93, logAge50=7.92, [Fe/H]50=0.05` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=465.332` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.01050, MOD=6.89963, logAge=7.90026, Z=-0.0155` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 18
 style: style
 title_flag: true
-more_names: King 22; FSR 0731; OCL 420; OCL 419; MWSC 512
+more_names: King 22; OCL 420; OCL 419; FSR 0731; MWSC 512
 fname: berkeley18
 fov: 0.207
 ra_icrs: 80.54038
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 18 is a very rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Berkeley 18</b> is a very rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.2

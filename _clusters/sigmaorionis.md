@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Sigma Orionis is a relatively close, poorly populated, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>Sigma Orionis</b> is a poorly populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.1
@@ -35,8 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 84.675 | -2.6 | -- | 1.731 | 0.467 | 29.4 |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 84.716 | -2.582 | 2.48 | 1.577 | -0.512 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 84.675 | -2.6 | -- | 1.23 | -0.46 | 30.7 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 84.716 | -2.582 | 2.48 | 1.577 | -0.512 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 84.758 | -2.594 | 2.479 | 1.59 | -0.568 | -13.802 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 84.675 | -2.602 | 2.495 | 1.545 | -0.485 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 84.71 | -2.61 | 2.5 | 1.48 | -0.61 | 24.974 |

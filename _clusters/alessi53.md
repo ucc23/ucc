@@ -3,7 +3,7 @@ layout: post
 title: Alessi 53
 style: style
 title_flag: true
-more_names: FSR 0986; DSH J0629.4+0910; DC 7; MWSC 879
+more_names: DSH J0629.4+0910; DC 7; FSR 0986; MWSC 879
 fname: alessi53
 fov: 0.043
 ra_icrs: 97.35234
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 53 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Alessi 53</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3

@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 79 is a moderately populated, very dense object of high C3 quality. It is moderately studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 79</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.5

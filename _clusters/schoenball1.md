@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.5
 UTI_C_dup: 0.74
 UTI_summary: |
-    Schoenball 1 is a rich, very dense object of high C3 quality. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue.
+    <b>Schoenball 1</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.1

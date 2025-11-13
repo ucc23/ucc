@@ -3,7 +3,7 @@ layout: post
 title: Koposov 63
 style: style
 title_flag: true
-more_names: Teutsch J0610.0+2434; FSR 0869; MWSC 772; MWSC 773
+more_names: FSR 0869; MWSC 772; MWSC 773; Teutsch J0610.0+2434
 fname: koposov63
 fov: 0.08
 ra_icrs: 92.50023
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Koposov 63 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Koposov 63</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

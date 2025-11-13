@@ -3,7 +3,7 @@ layout: post
 title: Haffner 24
 style: style
 title_flag: true
-more_names: ESO 559 14; OCL 608; MWSC 1239
+more_names: OCL 608; ESO 559 14; MWSC 1239
 fname: haffner24
 fov: 0.187
 ra_icrs: 112.1738
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 24 is a sparse, very loose object of intermediate C3 quality. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Haffner 24</b> is a sparse, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.6

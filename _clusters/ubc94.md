@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    UBC 94 is a rich, very dense object of very high C3 quality. It is moderately studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>UBC 94</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.6
@@ -34,8 +34,8 @@ scix_url: UBC%2094
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 269.643 | -24.646 | 0.747 | -1.652 | -4.451 | -- |
     |[Castro-Ginard et al. (2020)](https://scixplorer.org/abs/2020A%26A...635A..45C) | 269.633 | -24.636 | 0.748 | -1.659 | -4.453 | -- |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 269.643 | -24.646 | 0.747 | -1.652 | -4.451 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 269.568 | -24.646 | 0.755 | -1.622 | -4.474 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 269.634 | -24.609 | 0.744 | -1.643 | -4.464 | -17.544 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 269.653 | -24.642 | 0.747 | -- | -- | -- |

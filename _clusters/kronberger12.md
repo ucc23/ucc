@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 12 is a poorly populated, very dense object of intermediate C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years. This object shares a significant percentage of members with a later reported entry.
+    <b>Kronberger 12</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.0

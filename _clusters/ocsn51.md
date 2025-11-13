@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    OCSN 51 is a relatively close, poorly populated, loose object of low C3 quality. It was recently reported in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>OCSN 51</b> is a poorly populated, loose object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 65.0

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 101
 style: style
 title_flag: true
-more_names: Collinder 227; VDBH 101; ESO 093 01; vdBergh-Hagen 101; FSR 1564; OCL 841; FoF 44
+more_names: Collinder 227; OCL 841; VDBH 101; vdBergh-Hagen 101; ESO 093 01; FSR 1564; FoF 44
 fname: melotte101
 fov: 0.19
 ra_icrs: 160.54797
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 101 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 101</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7

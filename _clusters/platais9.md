@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Platais 9 is a close, rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>Platais 9</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 90.5
@@ -38,13 +38,13 @@ posit_table: |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 139.241 | -43.862 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 139.241 | -43.862 | 5.463 | -24.705 | 13.333 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 139.421 | -44.161 | 5.458 | -24.699 | 13.272 | 16.849 |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 138.689 | -44.006 | 5.369 | -24.156 | 13.126 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 138.374 | -43.542 | 5.38 | -24.208 | 13.242 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 138.321 | -43.558 | 5.448 | -24.559 | 13.301 | 15.01 |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 138.689 | -44.006 | 5.369 | -24.156 | 13.126 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 139.35 | -43.5 | 5.71 | -26.0 | 13.4 | 16.44 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 139.383 | -43.61 | 5.423 | -24.585 | 13.34 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 138.321 | -43.558 | 5.448 | -24.559 | 13.301 | 15.01 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 139.139 | -43.888 | 5.461 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 138.321 | -43.558 | 5.448 | -24.559 | 13.301 | 15.01 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 139.383 | -43.61 | 5.423 | -24.585 | 13.34 | -- |
     | **UCC** |138.821 | -43.85 | 5.391 | -24.274 | 13.269 | 16.115 | 
 cds_radec: 138.82079,-43.85041
 carousel: UCC_HUNT23_CANTAT20
@@ -55,13 +55,13 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.0, Dist=6.027, logA=7.894, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=6.2, AgeNN=7.7` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.141, Dist=182, logage=7.744, [Fe/H]=-0.025` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=7.8` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=172, logAgeNN=7.7` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.093, diffAV50=0.622, MOD50=6.37, logAge50=7.566` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=7.8` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.07, m-M=6.48, logt=7.7` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00086, MOD=6.20009, logAge=7.67495, Z=-0.0246` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.093, diffAV50=0.622, MOD50=6.37, logAge50=7.566` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.61, dMod50=6.34, logAge50=7.81, [Fe/H]50=0.19` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=62.1224` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00086, MOD=6.20009, logAge=7.67495, Z=-0.0246` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

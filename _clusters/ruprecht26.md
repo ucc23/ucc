@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 26
 style: style
 title_flag: true
-more_names: FSR 1244; OCL 602; MWSC 1285; FoF 380; LP 380; FoF 2326
+more_names: OCL 602; FSR 1244; MWSC 1285; FoF 2326; LP 380; FoF 380
 fname: ruprecht26
 fov: 0.407
 ra_icrs: 114.29444
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 26 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 26</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 12.2

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 54
 style: style
 title_flag: true
-more_names: VDBH 20; ESO 430 23; vdBergh-Hagen 20; OCL 710; MWSC 1444
+more_names: OCL 710; VDBH 20; vdBergh-Hagen 20; ESO 430 23; MWSC 1444
 fname: ruprecht54
 fov: 0.067
 ra_icrs: 122.84487
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 54 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Ruprecht 54</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.0

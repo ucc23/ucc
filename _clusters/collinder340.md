@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 340
+title: NGC 6404
 style: style
 title_flag: true
-more_names: VDBH 240; NGC 6404; ESO 393 13; vdBergh-Hagen 240; OCL 1024; MWSC 2658
+more_names: NGC 6404; OCL 1024; VDBH 240; vdBergh-Hagen 240; ESO 393 13; MWSC 2658
 fname: collinder340
 fov: 0.15
 ra_icrs: 264.91496
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 340 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>NGC 6404</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 716
-scix_url: Collinder%20340
+scix_url: NGC%206404
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

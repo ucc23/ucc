@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 120
+title: NGC 5281
 style: style
 title_flag: true
-more_names: Collinder 276; VDBH 152; NGC 5281; ESO 097 05; vdBergh-Hagen 152; OCL 911; MWSC 2161; FoF 1168
+more_names: NGC 5281; MWSC 2161; Collinder 276; vdBergh-Hagen 152; VDBH 152; OCL 911; ESO 097 05; FoF 1168
 fname: melotte120
 fov: 0.22
 ra_icrs: 206.61434
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 120 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 5281</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.6
 N_50_val: 331
-scix_url: Melotte%20120
+scix_url: NGC%205281
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

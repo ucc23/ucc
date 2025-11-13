@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 75
 style: style
 title_flag: true
-more_names: VDBH 65; ESO 166 08; vdBergh-Hagen 65; FSR 1499; OCL 786; MWSC 1657; FoF 42
+more_names: OCL 786; VDBH 65; vdBergh-Hagen 65; ESO 166 08; FSR 1499; MWSC 1657; FoF 42
 fname: ruprecht75
 fov: 0.11
 ra_icrs: 140.48573
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 75 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Ruprecht 75</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.3

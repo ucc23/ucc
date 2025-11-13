@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Loden 189 is a poorly populated, very loose object of low C3 quality. It is moderately studied in the literature.
+    <b>Loden 189</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 16.0

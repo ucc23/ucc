@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 63
 style: style
 title_flag: true
-more_names: VDBH 35; ESO 210 01; vdBergh-Hagen 35; FSR 1444; OCL 758; MWSC 1504; FoF 41
+more_names: OCL 758; VDBH 35; vdBergh-Hagen 35; ESO 210 01; FSR 1444; MWSC 1504; FoF 41
 fname: ruprecht63
 fov: 0.117
 ra_icrs: 128.16798
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 63 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>Ruprecht 63</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.5

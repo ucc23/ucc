@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Czernik 29 is a poorly populated, very dense object of intermediate C3 quality. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Czernik 29</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7

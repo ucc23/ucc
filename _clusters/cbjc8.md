@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CBJC 8 is a moderately populated, loose object of low C3 quality. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>CBJC 8</b> is a moderately populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.4

@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 263 is a poorly populated, very dense object of low C3 quality. It was recently reported in the literature.
+    <b>CWNU 263</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.7

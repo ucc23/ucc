@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.5
 UTI_C_dup: 0.02
 UTI_summary: |
-    PTB 9 is a somewhat close, very rich, very dense object of very high C3 quality. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>PTB 9</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 11.1
@@ -53,5 +53,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 244](/_clusters/melotte244/)| 98.1 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.73 |1.0 |
+    |[NGC 7762](/_clusters/melotte244/)| 98.1 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.73 |1.0 |
 ---

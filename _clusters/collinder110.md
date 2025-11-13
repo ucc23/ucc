@@ -3,7 +3,7 @@ layout: post
 title: Collinder 110
 style: style
 title_flag: true
-more_names: FSR 1049; OCL 530; MWSC 941; FoF 79
+more_names: OCL 530; FSR 1049; MWSC 941; FoF 79
 fname: collinder110
 fov: 0.3
 ra_icrs: 99.68055
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 110 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Collinder 110</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.0

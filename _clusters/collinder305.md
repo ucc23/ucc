@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 305
+title: NGC 6167
 style: style
 title_flag: true
-more_names: VDBH 192; NGC 6167; Harvard 11; ESO 226 16; vdBergh-Hagen 192; OCL 971; MWSC 2425
+more_names: NGC 6167; ESO 226 16; vdBergh-Hagen 192; MWSC 2425; OCL 971; Harvard 11; VDBH 192
 fname: collinder305
 fov: 0.237
 ra_icrs: 248.67236
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 305 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with 5 later reported entries.
+    <b>NGC 6167</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 5 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.1
 N_50_val: 1019
-scix_url: Collinder%20305
+scix_url: NGC%206167
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

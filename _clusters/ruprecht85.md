@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 85
 style: style
 title_flag: true
-more_names: VDBH 83; ESO 167 15; vdBergh-Hagen 83; FSR 1520; OCL 799; MWSC 1746
+more_names: FSR 1520; VDBH83; OCL 799; vdBergh-Hagen 83; ESO 167 15; MWSC 1746
 fname: ruprecht85
 fov: 0.077
 ra_icrs: 150.35989
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 85 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 85</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.3

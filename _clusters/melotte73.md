@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 73
+title: NGC 2432
 style: style
 title_flag: true
-more_names: Collinder 157; NGC 2432; ESO 560 06; FSR 1267; OCL 620; MWSC 1310; FoF 378
+more_names: NGC2432; FSR 1267; OCL 620; ESO 560 06; MWSC 1310; Collinder 157; FoF 378
 fname: melotte73
 fov: 0.147
 ra_icrs: 115.22319
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 73 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2432</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.4
 N_50_val: 312
-scix_url: Melotte%2073
+scix_url: NGC%202432
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

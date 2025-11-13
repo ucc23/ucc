@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 39
 style: style
 title_flag: true
-more_names: FSR 1174; OCL 561; MWSC 1336; FoF 633
+more_names: OCL 561; FSR 1174; MWSC 1336; FoF 633
 fname: berkeley39
 fov: 0.143
 ra_icrs: 116.69956
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 39 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Berkeley 39</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.3

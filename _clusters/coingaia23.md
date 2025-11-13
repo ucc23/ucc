@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 0.16
 UTI_summary: |
-    COIN-Gaia 23 is a somewhat close, moderately populated, very dense object of very high C3 quality. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>COIN-Gaia 23</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.9
@@ -36,12 +36,12 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 87.449 | 27.008 | 1.032 | -0.318 | -0.928 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 87.483 | 27.02 | 1.039 | -0.327 | -0.954 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 87.467 | 26.968 | 1.055 | -0.332 | -1.011 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 87.462 | 26.998 | 1.058 | -0.32 | -1.013 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 87.467 | 26.968 | 1.055 | -0.332 | -1.011 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 87.453 | 27.022 | 1.012 | -0.329 | -1.007 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 87.457 | 27.036 | 1.058 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 87.43 | 27.013 | 1.06 | -0.336 | -0.997 | -0.208 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 87.453 | 27.022 | 1.012 | -0.329 | -1.007 | -- |
     | **UCC** |87.452 | 27.025 | 1.053 | -0.328 | -1.006 | -0.012 | 
 cds_radec: 87.45191,+27.02543
 carousel: UCC_HUNT23_CANTAT20
@@ -50,12 +50,12 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.86, AgeNN=8.11` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.803, Dist=912, logage=7.757, [Fe/H]=-0.009` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.8, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=918, logAgeNN=8.14` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.8, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.458, diffAV50=0.754, MOD50=9.784, logAge50=7.825` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.54014, MOD=9.85988, logAge=7.79141, Z=-0.0089` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.64, dMod50=9.85, logAge50=7.95, [Fe/H]50=0.33` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=276.752` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.54014, MOD=9.85988, logAge=7.79141, Z=-0.0089` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

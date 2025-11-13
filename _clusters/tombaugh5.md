@@ -3,7 +3,7 @@ layout: post
 title: Tombaugh 5
 style: style
 title_flag: true
-more_names: FSR 0641; OCL 385; MWSC 306; FoF 612
+more_names: OCL 385; FSR 0641; MWSC 306; FoF 612
 fname: tombaugh5
 fov: 0.333
 ra_icrs: 56.97458
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Tombaugh 5 is a very rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Tombaugh 5</b> is a very rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.0

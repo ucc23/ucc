@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 308
+title: NGC 6178
 style: style
 title_flag: true
-more_names: NGC 6178; ESO 276 06; OCL 980; MWSC 2428
+more_names: NGC 6178; ESO 276 06; MWSC 2428; OCL 980
 fname: collinder308
 fov: 0.317
 ra_icrs: 248.93591
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 308 is a somewhat close, rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6178</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.5
 N_50_val: 126
-scix_url: Collinder%20308
+scix_url: NGC%206178
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -45,9 +45,9 @@ posit_table: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 248.927 | -45.621 | 1.15 | 0.488 | -3.327 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 248.931 | -45.637 | 1.111 | 0.412 | -3.374 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 248.929 | -45.651 | 1.095 | 0.511 | -3.27 | -7.493 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 249.034 | -45.413 | 1.072 | 0.433 | -3.306 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 249.082 | -45.453 | 1.098 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 248.929 | -45.651 | 1.095 | 0.511 | -3.27 | -7.493 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 249.034 | -45.413 | 1.072 | 0.433 | -3.306 | -- |
     | **UCC** |248.936 | -45.628 | 1.113 | 0.444 | -3.367 | -9.156 | 
 cds_radec: 248.93591,-45.62776
 carousel: UCC_HUNT23_CANTAT20
@@ -63,9 +63,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.838, Dist=844, logage=7.098, [Fe/H]=0.068` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=6.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.786, diffAV50=1.802, MOD50=9.686, logAge50=6.894` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52023, MOD=9.79962, logAge=7.23584, Z=0.06832` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.21, dMod50=9.84, logAge50=6.76, [Fe/H]50=-0.1` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=406.255` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52023, MOD=9.79962, logAge=7.23584, Z=0.06832` |
 shared_table: |
     
 ---

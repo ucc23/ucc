@@ -3,7 +3,7 @@ layout: post
 title: Pismis 16
 style: style
 title_flag: true
-more_names: VDBH 81; ESO 167 08; vdBergh-Hagen 81; OCL 790; MWSC 1721
+more_names: OCL 790; VDBH 81; vdBergh-Hagen 81; ESO 167 08; MWSC 1721
 fname: pismis16
 fov: 0.117
 ra_icrs: 147.80568
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 16 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>Pismis 16</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.5

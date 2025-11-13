@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    HXHWL 43 is a poorly populated, loose object of intermediate C3 quality. It is rarely studied in the literature. This object shares a significant percentage of members with 2 later reported entries.
+    <b>HXHWL 43</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.1

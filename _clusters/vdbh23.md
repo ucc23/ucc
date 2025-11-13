@@ -3,7 +3,7 @@ layout: post
 title: VDBH 23
 style: style
 title_flag: true
-more_names: BH 23; OCSN 146
+more_names: OCSN 146; BH 23
 fname: vdbh23
 fov: 0.717
 ra_icrs: 123.43836
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 23 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>VDBH 23</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 21.5
@@ -39,11 +39,11 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 123.449 | -36.329 | 2.257 | -7.101 | 7.35 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 123.507 | -36.242 | 2.239 | -7.11 | 7.341 | 24.745 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 123.854 | -35.608 | 2.229 | -7.129 | 7.132 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 123.448 | -36.356 | 2.296 | -7.183 | 7.317 | 21.61 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 123.42 | -36.18 | 2.26 | -7.14 | 7.18 | 23.97 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 123.289 | -35.729 | 2.272 | -7.186 | 7.352 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 123.448 | -36.356 | 2.296 | -7.183 | 7.317 | 21.61 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 123.31 | -35.228 | 2.297 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 123.448 | -36.356 | 2.296 | -7.183 | 7.317 | 21.61 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 123.289 | -35.729 | 2.272 | -7.186 | 7.352 | -- |
     | **UCC** |123.438 | -36.317 | 2.272 | -7.096 | 7.367 | 22.439 | 
 cds_radec: 123.43836,-36.31659
 carousel: UCC_HUNT23_CANTAT20
@@ -55,11 +55,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=8.32, AgeNN=7.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.233, Dist=436, logage=7.391, [Fe/H]=-0.054` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.1, logAge=7.25` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.112, diffAV50=0.517, MOD50=8.128, logAge50=6.974` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.07, m-M=8.43, logt=7.25` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00071, MOD=8.31976, logAge=7.36091, Z=-0.0537` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.112, diffAV50=0.517, MOD50=8.128, logAge50=6.974` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=8.2, logAge50=6.9, [Fe/H]50=-0.25` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=91.7437` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00071, MOD=8.31976, logAge=7.36091, Z=-0.0537` |
 shared_table: |
     
 ---

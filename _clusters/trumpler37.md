@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 37 is a somewhat close, sparse, moderately dense object of intermediate C3 quality. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Trumpler 37</b> is a sparse, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 17.1

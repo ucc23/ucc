@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 29 is a somewhat close, poorly populated, loose object of low C3 quality. It was recently reported in the literature.
+    <b>CWNU 29</b> is a poorly populated, loose object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 35.7

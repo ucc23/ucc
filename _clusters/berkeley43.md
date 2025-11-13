@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 43
 style: style
 title_flag: true
-more_names: FSR 0122; OCL 102; MWSC 3075
+more_names: OCL 102; FSR 0122; MWSC 3075
 fname: berkeley43
 fov: 0.087
 ra_icrs: 288.87626
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 43 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Berkeley 43</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6
@@ -38,8 +38,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 288.877 | 11.265 | -- | -0.01 | -4.49 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 288.885 | 11.265 | -- | 0.243 | -5.278 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 288.872 | 11.274 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 288.872 | 11.265 | 0.186 | -1.035 | -3.504 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 288.877 | 11.265 | -- | -0.92 | -3.27 | 30.0 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 288.872 | 11.265 | 0.186 | -1.035 | -3.504 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 288.865 | 11.258 | 0.175 | -1.046 | -3.516 | 29.62 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 288.88 | 11.269 | 0.239 | -1.119 | -3.696 | 40.458 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 288.86 | 11.27 | 0.243 | -- | -- | -- |

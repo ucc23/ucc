@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.33
 UTI_C_dup: 0.0
 UTI_summary: |
-    OCSN 31 is a relatively close, poorly populated, loose object of intermediate C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>OCSN 31</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 40.8
@@ -34,8 +34,8 @@ scix_url: OCSN%2031
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 329.656 | 50.786 | 3.649 | 9.603 | -0.444 | -8.846 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 329.53 | 50.84 | 3.58 | 9.68 | -0.36 | -5.2 |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 329.656 | 50.786 | 3.649 | 9.603 | -0.444 | -8.846 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 330.917 | 51.335 | 3.676 | -- | -- | -- |
     | **UCC** |330.055 | 50.774 | 3.637 | 9.54 | -0.475 | -5.466 | 
 cds_radec: 330.05536,+50.77431
@@ -43,8 +43,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.11, diffAV50=0.409, MOD50=7.103, logAge50=7.87` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.09, m-M=7.4, logt=7.5` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.11, diffAV50=0.409, MOD50=7.103, logAge50=7.87` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.43, dMod50=7.25, logAge50=7.57, [Fe/H]50=0.09` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

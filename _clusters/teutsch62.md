@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 62 is a rich, moderately dense object of intermediate C3 quality. It is poorly studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Teutsch 62</b> is a rich, moderately dense object of intermediate C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 2.8

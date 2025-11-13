@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 23
 style: style
 title_flag: true
-more_names: Collinder 295; VDBH 180; ESO 178 06; vdBergh-Hagen 180; OCL 950; MWSC 2343
+more_names: Collinder 295; OCL 950; VDBH 180; vdBergh-Hagen 180; ESO 178 06; MWSC 2343
 fname: trumpler23
 fov: 0.127
 ra_icrs: 240.21804
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 23 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Trumpler 23</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8

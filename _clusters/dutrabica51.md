@@ -3,7 +3,7 @@ layout: post
 title: Dutra Bica 51
 style: style
 title_flag: true
-more_names: DB 51; MWSC 2708
+more_names: MWSC 2708
 fname: dutrabica51
 fov: 0.153
 ra_icrs: 267.3818
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dutra Bica 51 is a moderately populated, very dense object of high C3 quality. It is moderately studied in the literature. This object shares a moderate percentage of members with 2 later reported entries.
+    <b>Dutra Bica 51</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.6

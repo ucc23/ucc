@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.01
 UTI_summary: |
-    UBC 35 is a rich, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>UBC 35</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.2
@@ -43,7 +43,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi-Teutsch 21](/_clusters/alessiteutsch21/)| 99.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.68 |
+    |[AT 21](/_clusters/at21/)| 99.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.68 |
     |[COIN-Gaia 2](/_clusters/coingaia2/)| 88.1 | 15.05 | 55.41 | 0.77 | -4.44 | -2.06 | -32.25 |0.0 |
     |[CWWDL 3306](/_clusters/cwwdl3306/)| 31.9 | 15.08 | 55.39 | 0.78 | -4.44 | -2.08 | -32.19 |0.0 |
 ---

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.5
 UTI_C_dup: 0.75
 UTI_summary: |
-    CWNU 338 is a somewhat close, moderately populated, very dense object of very high C3 quality. It was recently reported but it is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>CWNU 338</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported but it is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 17.9

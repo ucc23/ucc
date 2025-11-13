@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    DBSB 21 is a poorly populated, very dense object of intermediate C3 quality. It is poorly studied in the literature.
+    <b>DBSB 21</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7

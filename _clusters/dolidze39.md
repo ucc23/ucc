@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dolidze 39 is a moderately populated, very dense object of high C3 quality. It is poorly studied in the literature, with no articles listed in the last 8 years. This object shares a large percentage of members with a later reported entry.
+    <b>Dolidze 39</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 8 years.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6

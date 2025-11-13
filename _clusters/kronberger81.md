@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 81
 style: style
 title_flag: true
-more_names: FSR 0313; DSH J2126.1+5331; MWSC 3511
+more_names: DSH J2126.1+5331; FSR 0313; MWSC 3511
 fname: kronberger81
 fov: 0.063
 ra_icrs: 321.53955
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 81 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Kronberger 81</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9

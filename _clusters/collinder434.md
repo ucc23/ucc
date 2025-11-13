@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 434
+title: NGC 7062
 style: style
 title_flag: true
-more_names: NGC 7062; FSR 0286; OCL 205; MWSC 3505; FoF 164
+more_names: NGC 7062; OCL 205; FSR 0286; MWSC 3505; FoF 164
 fname: collinder434
 fov: 0.13
 ra_icrs: 320.85567
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 434 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7062</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9
 N_50_val: 226
-scix_url: Collinder%20434
+scix_url: NGC%207062
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,8 +39,8 @@ posit_table: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 320.865 | 46.378 | -- | -1.075 | -1.169 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 320.866 | 46.378 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 320.861 | 46.375 | 0.41 | -1.924 | -4.053 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 320.862 | 46.385 | 0.398 | -1.914 | -4.045 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 320.862 | 46.39 | -- | -1.84 | -4.08 | -22.0 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 320.862 | 46.385 | 0.398 | -1.914 | -4.045 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 320.858 | 46.374 | 0.403 | -1.937 | -4.037 | -21.763 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 320.859 | 46.39 | 0.405 | -1.903 | -4.07 | -23.102 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 320.84 | 46.372 | 0.404 | -- | -- | -- |
@@ -56,8 +56,8 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.45, distance=1600, log_age=8.84` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.451, Dmod=10.904, logt=8.472` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.331, Z=-0.25` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.41, DMNN=11.98, AgeNN=8.63` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.01` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.41, DMNN=11.98, AgeNN=8.63` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.76, Dist=2120, logage=8.577, [Fe/H]=0.045` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.666, diffAV50=1.697, MOD50=11.782, logAge50=8.491` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.43, dMod50=11.57, logAge50=8.77, [Fe/H]50=0.35` |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWWDL 3247 is a poorly populated, very dense object of very low C3 quality. It was recently reported in the literature.
+    <b>CWWDL 3247</b> is a poorly populated, very dense object of very low C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.2

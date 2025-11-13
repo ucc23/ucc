@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 105
 style: style
 title_flag: true
-more_names: ESO 131 12; OCL 886; Slotegraaf 41; MWSC 2047; FoF 2153
+more_names: OCL 886; ESO 131 12; Slotegraaf 41; MWSC 2047; FoF 2153
 fname: ruprecht105
 fov: 0.17
 ra_icrs: 188.70364
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 105 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 105</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.1

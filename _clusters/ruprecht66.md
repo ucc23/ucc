@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 66
 style: style
 title_flag: true
-more_names: VDBH 41; ESO 313 08; vdBergh-Hagen 41; FSR 1388; OCL 732; MWSC 1530
+more_names: OCL 732; VDBH 41; vdBergh-Hagen 41; ESO 313 08; FSR 1388; MWSC 1530
 fname: ruprecht66
 fov: 0.083
 ra_icrs: 130.14288
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 66 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 66</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.5

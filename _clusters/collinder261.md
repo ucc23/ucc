@@ -3,7 +3,7 @@ layout: post
 title: Collinder 261
 style: style
 title_flag: true
-more_names: VDBH 136; Harvard 6; ESO 065 02; vdBergh-Hagen 136; FSR 1627; OCL 889; MWSC 2055; FoF 45
+more_names: Harvard 6; MWSC 2055; FSR 1627; vdBergh-Hagen 136; VDBH 136; OCL 889; ESO 065 02; FoF 45
 fname: collinder261
 fov: 0.197
 ra_icrs: 189.51868
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 261 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Collinder 261</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.9

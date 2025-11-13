@@ -3,7 +3,7 @@ layout: post
 title: VDBH 111
 style: style
 title_flag: true
-more_names: ESO 093 05; vdBergh-Hagen 111; MWSC 1901; BH111
+more_names: vdBergh-Hagen 111; ESO 093 05; MWSC 1901; BH111
 fname: vdbh111
 fov: 0.07
 ra_icrs: 167.31527
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 111 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>VDBH 111</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 16
+title: NGC 609
 style: style
 title_flag: true
-more_names: NGC 609; King 3; FSR 0548; OCL 325; MWSC 128
+more_names: NGC 609; King 3; OCL 325; FSR 0548; MWSC 128
 fname: collinder16
 fov: 0.063
 ra_icrs: 24.10041
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 16 is a very rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>NGC 609</b> is a very rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9
 N_50_val: 760
-scix_url: Collinder%2016
+scix_url: NGC%20609
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

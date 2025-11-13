@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 433
+title: NGC 7044
 style: style
 title_flag: true
-more_names: NGC 7044; FSR 0268; OCL 198; MWSC 3485; FoF 71
+more_names: NGC 7044; OCL 198; FSR 0268; MWSC 3485; FoF 71
 fname: collinder433
 fov: 0.11
 ra_icrs: 318.28255
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 433 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7044</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.3
 N_50_val: 1438
-scix_url: Collinder%20433
+scix_url: NGC%207044
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

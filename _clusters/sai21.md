@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    SAI 21 is a poorly populated, very dense object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 13 years.
+    <b>SAI 21</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.1

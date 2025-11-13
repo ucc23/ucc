@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 152
 style: style
 title_flag: true
-more_names: VDBH 14; ESO 311 19; vdBergh-Hagen 14; OCL 719; MWSC 1379
+more_names: OCL 719; VDBH 14; vdBergh-Hagen 14; ESO 311 19; MWSC 1379
 fname: ruprecht152
 fov: 0.033
 ra_icrs: 118.61509
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 152 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Ruprecht 152</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.0

@@ -3,7 +3,7 @@ layout: post
 title: Haffner 16
 style: style
 title_flag: true
-more_names: ESO 493 20; FSR 1309; OCL 655; MWSC 1355; FoF 382
+more_names: FSR 1309; MWSC 1355; OCL 655; ESO 493 20; FoF 382
 fname: haffner16
 fov: 0.053
 ra_icrs: 117.5845
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 16 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with 3 later reported entries.
+    <b>Haffner 16</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.6

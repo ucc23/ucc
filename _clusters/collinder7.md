@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 7
+title: NGC 225
 style: style
 title_flag: true
 more_names: NGC 225; OCL 305; MWSC 68
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 7 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 225</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 17.6
 N_50_val: 121
-scix_url: Collinder%207
+scix_url: NGC%20225
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -42,12 +42,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 10.805 | 61.774 | 1.432 | -5.373 | -0.093 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 10.777 | 61.778 | 1.428 | -5.4 | -0.079 | -1.478 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 10.929 | 61.812 | 1.45 | -5.329 | -0.131 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 10.82 | 61.795 | 1.453 | -5.343 | -0.195 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 10.746 | 61.773 | 1.428 | -5.349 | -0.246 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 10.82 | 61.795 | 1.453 | -5.343 | -0.195 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 10.981 | 61.793 | 1.437 | -5.361 | -0.243 | -11.634 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 10.688 | 61.833 | 1.413 | -5.32 | -0.206 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 9.819 | 61.926 | 1.44 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 10.981 | 61.793 | 1.437 | -5.361 | -0.243 | -11.634 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 10.688 | 61.833 | 1.413 | -5.32 | -0.206 | -- |
     | **UCC** |10.858 | 61.776 | 1.444 | -5.34 | -0.172 | -11.742 | 
 cds_radec: 10.85777,+61.77601
 carousel: UCC_HUNT23_CANTAT20
@@ -60,12 +60,12 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.821, Dist=9.249, logA=8.254, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.16, AgeNN=8.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.924, Dist=678, logage=8.348, [Fe/H]=0.202` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.1, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=668, logAgeNN=8.47` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.1, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.765, diffAV50=1.101, MOD50=9.093, logAge50=7.97` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53962, MOD=9.16003, logAge=8.33154, Z=0.20191` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.05, dMod50=9.25, logAge50=8.14, [Fe/H]50=0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=201.512` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.53962, MOD=9.16003, logAge=8.33154, Z=0.20191` |
 shared_table: |
     
 ---

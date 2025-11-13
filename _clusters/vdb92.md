@@ -3,7 +3,7 @@ layout: post
 title: VDB 92
 style: style
 title_flag: true
-more_names: vdBergh 92; FSR 1188; CMa06
+more_names: FSR 1188; CMa06; vdBergh 92
 fname: vdb92
 fov: 0.297
 ra_icrs: 106.04947
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDB 92 is a very rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>VDB 92</b> is a very rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.9

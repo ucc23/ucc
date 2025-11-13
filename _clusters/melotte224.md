@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 224
+title: NGC 6830
 style: style
 title_flag: true
-more_names: Collinder 406; NGC 6830; OCL 125; MWSC 3191
+more_names: NGC 6830; Collinder 406; OCL 125; MWSC 3191
 fname: melotte224
 fov: 0.177
 ra_icrs: 297.71552
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 224 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6830</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.3
 N_50_val: 289
-scix_url: Melotte%20224
+scix_url: NGC%206830
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

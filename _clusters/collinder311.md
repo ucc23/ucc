@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 311
+title: NGC 6200
 style: style
 title_flag: true
-more_names: VDBH 196; NGC 6200; ESO 277 08; vdBergh-Hagen 196; OCL 978; MWSC 2450
+more_names: NGC 6200; OCL 978; VDBH 196; vdBergh-Hagen 196; ESO 277 08; MWSC 2450
 fname: collinder311
 fov: 0.127
 ra_icrs: 251.01943
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 311 is a moderately populated, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>NGC 6200</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
 N_50_val: 67
-scix_url: Collinder%20311
+scix_url: NGC%206200
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

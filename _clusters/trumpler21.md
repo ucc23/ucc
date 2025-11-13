@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 21
 style: style
 title_flag: true
-more_names: Collinder 274; VDBH 148; ESO 096 15; vdBergh-Hagen 148; OCL 903; MWSC 2131; FoF 2099
+more_names: VDBH 148; vdBergh-Hagen 148; ESO 096 15; MWSC 2131; Collinder 274; OCL 903; FoF 2099
 fname: trumpler21
 fov: 0.12
 ra_icrs: 203.0571
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 21 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 21</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.6

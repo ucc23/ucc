@@ -3,7 +3,7 @@ layout: post
 title: Czernik 12
 style: style
 title_flag: true
-more_names: FSR 0619; OCL 367; MWSC 222
+more_names: OCL 367; FSR 0619; MWSC 222
 fname: czernik12
 fov: 0.09
 ra_icrs: 39.85709
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Czernik 12 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Czernik 12</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.7

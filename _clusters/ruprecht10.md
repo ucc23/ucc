@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 10
 style: style
 title_flag: true
-more_names: ESO 558 10; OCL 604; MWSC 1098
+more_names: OCL 604; ESO 558 10; MWSC 1098
 fname: ruprecht10
 fov: 0.17
 ra_icrs: 106.6268
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 10 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 10</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.1

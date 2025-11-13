@@ -3,7 +3,7 @@ layout: post
 title: Collinder 258
 style: style
 title_flag: true
-more_names: Collinder 257; VDBH 133; Harvard 5; ESO 131 05; vdBergh-Hagen 133; OCL 880; HD 108353; MWSC 2033; MWSC 2027; Har5; FoF 2240
+more_names: Harvard 5; Har5; OCL 880; VDBH 133; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; Collinder 257; FoF 2240
 fname: collinder258
 fov: 0.22
 ra_icrs: 186.80679
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 258 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Collinder 258</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.6
@@ -43,8 +43,8 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 186.798 | -60.767 | 0.764 | -7.051 | -0.288 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 186.77 | -60.76 | 0.765 | -7.065 | -0.263 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 186.805 | -60.776 | 0.798 | -7.031 | -0.287 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 186.766 | -60.769 | 0.801 | -7.026 | -0.254 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 186.82 | -60.767 | 0.797 | -7.031 | -0.263 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 186.766 | -60.769 | 0.801 | -7.026 | -0.254 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 186.789 | -60.769 | 0.795 | -7.02 | -0.249 | -30.848 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 186.786 | -60.771 | 0.8 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 186.789 | -60.769 | 0.795 | -7.02 | -0.249 | -30.848 |
@@ -61,8 +61,8 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.093, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.53, DMNN=10.54, AgeNN=7.99` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.751, Dist=1191, logage=8.143, [Fe/H]=0.15` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=8.05` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1227, logAgeNN=7.91` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.85, logAge=8.05` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.623, diffAV50=0.462, MOD50=10.368, logAge50=8.205` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.82, dMod50=10.79, logAge50=8.14, [Fe/H]50=0.47` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=470.878` |

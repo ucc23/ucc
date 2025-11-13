@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.03
 UTI_summary: |
-    CWWDL 2845 is a rich, very dense object of very high C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWWDL 2845</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.3
@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 36](/_clusters/kronberger36/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.67 |
+    |[SAI 136](/_clusters/sai136/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.67 |
     |[UBC 137](/_clusters/ubc137/)| 55.8 | 301.14 | 35.24 | 0.39 | -2.42 | -4.0 | -- |0.0 |
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 155
+title: NGC 6242
 style: style
 title_flag: true
-more_names: Collinder 317; VDBH 204; NGC 6242; ESO 332 10; vdBergh-Hagen 204; OCL 1001; MWSC 2488; FoF 1621
+more_names: NGC 6242; Collinder 317; OCL 1001; VDBH 204; vdBergh-Hagen 204; ESO 332 10; MWSC 2488; FoF 1621
 fname: melotte155
 fov: 0.243
 ra_icrs: 253.87428
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 155 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6242</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.3
 N_50_val: 791
-scix_url: Melotte%20155
+scix_url: NGC%206242
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

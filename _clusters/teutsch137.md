@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.25
 UTI_C_dup: 0.74
 UTI_summary: |
-    Teutsch 137 is a poorly populated, loose object of low C3 quality. It is poorly studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Teutsch 137</b> is a poorly populated, loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.4

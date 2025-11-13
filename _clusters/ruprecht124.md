@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 124
 style: style
 title_flag: true
-more_names: ESO 333 09; OCL 1005; MWSC 2602
+more_names: OCL 1005; ESO 333 09; MWSC 2602
 fname: ruprecht124
 fov: 0.19
 ra_icrs: 261.96019
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 124 is a sparse, very loose object of intermediate C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Ruprecht 124</b> is a sparse, very loose object of intermediate C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.7

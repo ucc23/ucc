@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 385
+title: NGC 6664
 style: style
 title_flag: true
-more_names: NGC 6664; Alessi 153; OCL 68; MWSC 2962
+more_names: NGC 6664; Alessi 153; MWSC 2962; OCL 68
 fname: collinder385
 fov: 0.21
 ra_icrs: 279.12136
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 385 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 6664</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.3
 N_50_val: 522
-scix_url: Collinder%20385
+scix_url: NGC%206664
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

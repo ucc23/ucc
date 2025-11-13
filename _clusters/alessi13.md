@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 13 is a close, rich, dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Alessi 13</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 167.3
@@ -40,8 +40,8 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 51.613 | -35.646 | 9.538 | 36.164 | -4.636 | 20.448 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 52.053 | -35.669 | 9.535 | 36.141 | -4.606 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 51.993 | -35.773 | 9.502 | 35.499 | -4.184 | 18.017 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 52.383 | -35.177 | 9.353 | 35.232 | -4.885 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 52.405 | -35.809 | 9.525 | -- | -- | -- |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 52.383 | -35.177 | 9.353 | 35.232 | -4.885 | -- |
     | **UCC** |51.98 | -35.66 | 9.465 | 36.043 | -4.52 | 17.42 | 
 cds_radec: 51.9803,-35.66006
 carousel: UCC_HUNT23_CANTAT20
@@ -53,8 +53,8 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.039, Dist=104, logage=7.769, [Fe/H]=0.231` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.05, logAge=7.5` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.156, diffAV50=0.596, MOD50=5.088, logAge50=7.394` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.09981, MOD=5.10985, logAge=7.69003, Z=0.23116` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.82, dMod50=5.13, logAge50=7.84, [Fe/H]50=0.19` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.09981, MOD=5.10985, logAge=7.69003, Z=0.23116` |
 shared_table: |
     
 ---

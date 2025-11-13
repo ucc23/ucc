@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 13
 style: style
 title_flag: true
-more_names: FSR 1060; DSH J0643.9+0124; MWSC 969
+more_names: DSH J0643.9+0124; FSR 1060; MWSC 969
 fname: teutsch13
 fov: 0.037
 ra_icrs: 100.97986
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 13 is a poorly populated, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Teutsch 13</b> is a poorly populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.1

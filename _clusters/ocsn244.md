@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.77
 UTI_summary: |
-    OCSN 244 is a relatively close, very rich, very dense object of intermediate C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>OCSN 244</b> is a very rich, very dense object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 16.9

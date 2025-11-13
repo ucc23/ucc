@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 80
 style: style
 title_flag: true
-more_names: FSR 0300; DSH J2111.8+5222; MWSC 3479
+more_names: DSH J2111.8+5222; FSR 0300; MWSC 3479
 fname: kronberger80
 fov: 0.043
 ra_icrs: 317.95221
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kronberger 80 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
+    <b>Kronberger 80</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.3

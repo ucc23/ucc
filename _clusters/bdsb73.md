@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.35
 UTI_summary: |
-    BDSB 73 is a poorly populated, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>BDSB 73</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.3
@@ -47,6 +47,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 0788](/_clusters/fsr0788/)| 65.4 | 85.35 | 35.81 | 0.6 | 0.35 | -2.83 | -- |0.3 |
     |[Sh2 235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.04 |
-    |[Koposov 7](/_clusters/koposov7/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.39 |
+    |[FSR 0784](/_clusters/fsr0784/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.39 |
     |[OC 0292](/_clusters/oc0292/)| 15.4 | 85.54 | 36.12 | 0.58 | 0.64 | -3.02 | -19.7 |0.3 |
 ---

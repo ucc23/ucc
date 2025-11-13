@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Stock 10 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Stock 10</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 41.5
@@ -40,13 +40,13 @@ posit_table: |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 84.808 | 37.85 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 84.808 | 37.85 | 2.759 | -3.114 | -0.464 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 84.835 | 37.86 | 2.748 | -3.153 | -0.476 | -12.592 |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 84.855 | 37.854 | 2.795 | -3.155 | -0.417 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 84.693 | 37.692 | 2.789 | -3.155 | -0.417 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 84.742 | 37.808 | 2.794 | -3.15 | -0.428 | -12.7 |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 84.855 | 37.854 | 2.795 | -3.155 | -0.417 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 84.88 | 37.78 | 2.8 | -3.16 | -0.43 | -13.58 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 84.841 | 37.793 | 2.759 | -3.153 | -0.424 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 84.742 | 37.808 | 2.794 | -3.15 | -0.428 | -12.7 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 84.907 | 37.75 | 2.8 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 84.742 | 37.808 | 2.794 | -3.15 | -0.428 | -12.7 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 84.841 | 37.793 | 2.759 | -3.153 | -0.424 | -- |
     | **UCC** |84.85 | 37.808 | 2.785 | -3.139 | -0.429 | -13.534 | 
 cds_radec: 84.85007,+37.80759
 carousel: UCC_HUNT23_CANTAT20
@@ -59,13 +59,13 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.255, Dist=7.574, logA=8.06, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.44, DMNN=7.86, AgeNN=7.91` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.467, Dist=359, logage=8.367, [Fe/H]=-0.004` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.5, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=369, logAgeNN=7.92` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.286, diffAV50=0.888, MOD50=7.669, logAge50=8.129` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.5, logAge=7.9` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.16, m-M=8.11, logt=7.95` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.43927, MOD=7.86012, logAge=7.92451, Z=-0.0043` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.286, diffAV50=0.888, MOD50=7.669, logAge50=8.129` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.77, dMod50=7.82, logAge50=7.87, [Fe/H]50=0.0` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=328.581` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.43927, MOD=7.86012, logAge=7.92451, Z=-0.0043` |
 shared_table: |
     
 ---

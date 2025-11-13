@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.25
 UTI_C_dup: 0.36
 UTI_summary: |
-    Theia 560 is a somewhat close, poorly populated, very loose object of very low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>Theia 560</b> is a poorly populated, very loose object of very low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 34.7

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 93 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Berkeley 93</b> is a rich, very dense object of very high C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.4

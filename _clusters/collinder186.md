@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 186
+title: NGC 2588
 style: style
 title_flag: true
-more_names: VDBH 29; NGC 2588; ESO 370 10; vdBergh-Hagen 29; OCL 715; MWSC 1480
+more_names: NGC 2588; OCL 715; VDBH 29; vdBergh-Hagen 29; ESO 370 10; MWSC 1480
 fname: collinder186
 fov: 0.057
 ra_icrs: 125.80222
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 186 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>NGC 2588</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.7
 N_50_val: 110
-scix_url: Collinder%20186
+scix_url: NGC%202588
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

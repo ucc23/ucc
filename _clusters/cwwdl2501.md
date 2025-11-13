@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.84
 UTI_summary: |
-    CWWDL 2501 is a sparse, very loose object of very low C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>CWWDL 2501</b> is a sparse, very loose object of very low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.84) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 12.6
@@ -46,7 +46,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2179](/_clusters/fof2179/)| 16.0 | 305.39 | 38.61 | 0.56 | -3.25 | -5.98 | -22.57 |0.61 |
-    |[Collinder 422](/_clusters/collinder422/)| 12.0 | 305.93 | 38.5 | 0.56 | -3.42 | -5.79 | -21.9 |0.95 |
+    |[NGC 6913](/_clusters/collinder422/)| 12.0 | 305.93 | 38.5 | 0.56 | -3.42 | -5.79 | -21.9 |0.95 |
     |[UBC 140](/_clusters/ubc140/)| 12.0 | 305.37 | 38.6 | 0.56 | -3.24 | -6.0 | -22.57 |0.14 |
     |[Berkeley 86](/_clusters/berkeley86/)| 4.0 | 305.08 | 38.71 | 0.56 | -3.44 | -5.43 | -0.48 |0.9 |
     |[OC 0114](/_clusters/oc0114/)| 4.0 | 305.81 | 38.94 | 0.57 | -3.42 | -5.73 | 5.16 |0.13 |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 436
+title: NGC 7067
 style: style
 title_flag: true
 more_names: NGC 7067; OCL 208; MWSC 3508
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 436 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 7067</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.4
 N_50_val: 134
-scix_url: Collinder%20436
+scix_url: NGC%207067
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 147 is a somewhat close, poorly populated, very dense object of high C3 quality. It was recently reported in the literature.
+    <b>CWNU 147</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 11.3

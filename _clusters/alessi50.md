@@ -3,7 +3,7 @@ layout: post
 title: Alessi 50
 style: style
 title_flag: true
-more_names: FSR 0901; DSH J0622.0+2104
+more_names: DSH J0622.0+2104; FSR 0901
 fname: alessi50
 fov: 0.123
 ra_icrs: 95.52362
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    Alessi 50 is a rich, very dense object of intermediate C3 quality. It is moderately studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>Alessi 50</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.7

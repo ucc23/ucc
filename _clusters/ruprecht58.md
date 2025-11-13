@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 58
 style: style
 title_flag: true
-more_names: ESO 430 27; FSR 1358; OCL 712; MWSC 1456; FoF 384
+more_names: OCL 712; ESO 430 27; FSR 1358; MWSC 1456; FoF 384
 fname: ruprecht58
 fov: 0.11
 ra_icrs: 123.71029
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 58 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 58</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.3

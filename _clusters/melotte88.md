@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 88
+title: NGC 2632
 style: style
 title_flag: true
-more_names: Collinder 189; NGC 2632; Praesepe; M 44; OCL 507; MWSC 1527; OCSN 234
+more_names: NGC 2632; Praesepe; Collinder 189; OCL 507; MWSC 1527; M 44; OCSN 234
 fname: melotte88
 fov: 2.61
 ra_icrs: 130.01266
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 88 is a close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2632</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 78.3
 N_50_val: 1204
-scix_url: Melotte%2088
+scix_url: NGC%202632
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -43,13 +43,13 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 130.054 | 19.621 | 5.361 | -36.09 | -12.919 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 130.057 | 19.613 | 5.349 | -36.148 | -12.95 | 34.892 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 130.056 | 19.623 | 5.385 | -35.964 | -12.918 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 129.993 | 19.612 | 5.41 | -35.902 | -12.879 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 130.059 | 19.621 | 5.416 | -35.911 | -12.896 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 130.088 | 19.666 | 5.404 | -35.943 | -12.903 | 33.941 |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 129.993 | 19.612 | 5.41 | -35.902 | -12.879 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 130.06 | 19.66 | 5.41 | -35.89 | -12.9 | 34.9 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 129.974 | 19.621 | 5.368 | -35.914 | -12.884 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 130.088 | 19.666 | 5.404 | -35.943 | -12.903 | 33.941 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 129.975 | 19.608 | 5.405 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 130.088 | 19.666 | 5.404 | -35.943 | -12.903 | 33.941 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 129.974 | 19.621 | 5.368 | -35.914 | -12.884 | -- |
     | **UCC** |130.013 | 19.605 | 5.407 | -35.927 | -12.862 | 34.728 | 
 cds_radec: 130.01266,+19.60494
 carousel: UCC_HUNT23_CANTAT20
@@ -63,13 +63,13 @@ fpars_table: |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.084, Dist=6.35, logA=8.875, Fe/H=0.07` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=6.31, AgeNN=8.83` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.032, Dist=186, logage=8.882, [Fe/H]=0.196` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.85` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=182, logAgeNN=8.84` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.159, diffAV50=0.527, MOD50=6.326, logAge50=8.539` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.85` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.01, m-M=6.27, logt=8.85` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00072, MOD=6.30887, logAge=8.97603, Z=0.19775` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.159, diffAV50=0.527, MOD50=6.326, logAge50=8.539` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=6.39, logAge50=8.19, [Fe/H]50=0.24` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=945.005` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00072, MOD=6.30887, logAge=8.97603, Z=0.19775` |
 shared_table: |
     
 ---

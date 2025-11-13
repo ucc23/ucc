@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.87
 UTI_summary: |
-    OCSN 111 is a relatively close, rich, dense object of very high C3 quality. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>OCSN 111</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 75.8
@@ -48,5 +48,5 @@ shared_table: |
     |[LISC-III 3645](/_clusters/lisciii3645/)| 13.3 | 79.51 | 18.09 | 2.72 | 0.1 | -5.64 | 24.35 |0.0 |
     |[CWNU 1007](/_clusters/cwnu1007/)| 12.9 | 79.33 | 18.53 | 2.79 | 0.04 | -5.75 | 19.17 |0.45 |
     |[CWNU 1009](/_clusters/cwnu1009/)| 2.4 | 82.39 | 16.08 | 2.8 | -0.74 | -5.76 | 21.49 |0.46 |
-    |[OCSN 54](/_clusters/ocsn54/)| 1.6 | 77.57 | 17.52 | 2.33 | 0.6 | -5.46 | 15.2 |0.5 |
+    |[OCSN 54](/_clusters/ocsn54/)| 1.6 | 77.57 | 17.52 | 2.33 | 0.6 | -5.46 | 15.2 |0.53 |
 ---

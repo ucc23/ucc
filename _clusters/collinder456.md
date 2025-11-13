@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 456
+title: NGC 7686
 style: style
 title_flag: true
 more_names: NGC 7686; OCL 251; MWSC 3734
@@ -25,12 +25,12 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 456 is a sparse, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>NGC 7686</b> is a sparse, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, well below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 8.0
 N_50_val: 18
-scix_url: Collinder%20456
+scix_url: NGC%207686
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

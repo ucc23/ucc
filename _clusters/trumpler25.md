@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 25
 style: style
 title_flag: true
-more_names: Collinder 329; VDBH 225; Harvard 14; ESO 333 07; vdBergh-Hagen 225; OCL 1007; MWSC 2587
+more_names: Harvard 14; Collinder 329; OCL 1007; VDBH 225; vdBergh-Hagen 225; ESO 333 07; MWSC 2587
 fname: trumpler25
 fov: 0.147
 ra_icrs: 261.12326
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 25 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Trumpler 25</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.4

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 201
+title: NGC 2671
 style: style
 title_flag: true
-more_names: VDBH 51; NGC 2671; ESO 313 14; vdBergh-Hagen 51; FSR 1409; OCL 745; MWSC 1558; FoF 1463
+more_names: NGC 2671; MWSC 1558; FSR 1409; vdBergh-Hagen 51; VDBH 51; OCL 745; ESO 313 14; FoF 1463
 fname: collinder201
 fov: 0.263
 ra_icrs: 131.5636
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 201 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2671</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.9
 N_50_val: 810
-scix_url: Collinder%20201
+scix_url: NGC%202671
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

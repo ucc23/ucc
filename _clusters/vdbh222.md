@@ -3,7 +3,7 @@ layout: post
 title: VDBH 222
 style: style
 title_flag: true
-more_names: ESO 333 04; vdBergh-Hagen 222; MWSC 2564; BH 222
+more_names: vdBergh-Hagen 222; ESO 333 04; MWSC 2564; BH 222
 fname: vdbh222
 fov: 0.053
 ra_icrs: 259.69465
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 222 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>VDBH 222</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.6

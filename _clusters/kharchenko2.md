@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    Kharchenko 2 is a poorly populated, dense object of intermediate C3 quality. It is poorly studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Kharchenko 2</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1

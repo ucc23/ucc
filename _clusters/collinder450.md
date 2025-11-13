@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 450
+title: NGC 7261
 style: style
 title_flag: true
-more_names: NGC 7261; FSR 0363; OCL 237; MWSC 3617
+more_names: NGC 7261; OCL 237; FSR 0363; MWSC 3617
 fname: collinder450
 fov: 0.083
 ra_icrs: 335.06362
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 450 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>NGC 7261</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.5
 N_50_val: 168
-scix_url: Collinder%20450
+scix_url: NGC%207261
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

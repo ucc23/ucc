@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 162 is a poorly populated, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 8 years.
+    <b>Teutsch 162</b> is a poorly populated, very loose object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 8 years.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 8.1

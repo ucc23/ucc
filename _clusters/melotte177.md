@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 177
+title: NGC 6400
 style: style
 title_flag: true
-more_names: Collinder 342; VDBH 241; NGC 6400; ESO 393 14; vdBergh-Hagen 241; OCL 1014; MWSC 2660; FoF 715
+more_names: NGC 6400; ESO 393 14; vdBergh-Hagen 241; VDBH 241; MWSC 2660; Collinder 342; OCL 1014; FoF 715
 fname: melotte177
 fov: 0.163
 ra_icrs: 265.06093
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 177 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6400</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.9
 N_50_val: 222
-scix_url: Melotte%20177
+scix_url: NGC%206400
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

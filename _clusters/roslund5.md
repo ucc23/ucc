@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Roslund 5 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Roslund 5</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 20.6
@@ -41,12 +41,12 @@ posit_table: |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 302.686 | 33.693 | 1.835 | 1.997 | -1.146 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 302.641 | 33.751 | 1.831 | 1.981 | -1.164 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 302.695 | 33.782 | 1.824 | 1.981 | -1.147 | -38.373 |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 302.697 | 33.724 | 1.847 | 2.064 | -1.194 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 302.556 | 33.751 | 1.854 | 2.087 | -1.194 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 302.697 | 33.724 | 1.847 | 2.064 | -1.194 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 302.617 | 33.741 | 1.842 | 2.052 | -1.236 | -18.216 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 302.746 | 33.792 | 1.818 | 2.08 | -1.2 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 302.797 | 33.827 | 1.837 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 302.617 | 33.741 | 1.842 | 2.052 | -1.236 | -18.216 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 302.746 | 33.792 | 1.818 | 2.08 | -1.2 | -- |
     | **UCC** |302.659 | 33.724 | 1.842 | 2.042 | -1.214 | -17.18 | 
 cds_radec: 302.6593,+33.72447
 carousel: UCC_HUNT23_CANTAT20
@@ -60,12 +60,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.031, Z=-1.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.35, DMNN=8.69, AgeNN=7.99` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.373, Dist=536, logage=8.373, [Fe/H]=0.107` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.5, logAge=7.85` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=539, logAgeNN=8.01` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.5, logAge=7.85` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.245, diffAV50=0.948, MOD50=8.592, logAge50=8.042` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.34814, MOD=8.69093, logAge=7.91021, Z=0.10602` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.69, dMod50=8.76, logAge50=7.67, [Fe/H]50=-0.04` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=391.922` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.34814, MOD=8.69093, logAge=7.91021, Z=0.10602` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

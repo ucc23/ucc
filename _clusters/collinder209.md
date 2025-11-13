@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 209
+title: NGC 2910
 style: style
 title_flag: true
-more_names: VDBH 71; NGC 2910; ESO 166 17; vdBergh-Hagen 71; FSR 1493; OCL 781; MWSC 1679; FoF 987
+more_names: NGC 2910; OCL 781; VDBH 71; vdBergh-Hagen 71; ESO 166 17; FSR 1493; MWSC 1679; FoF 987
 fname: collinder209
 fov: 0.18
 ra_icrs: 142.6331
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 209 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2910</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.4
 N_50_val: 404
-scix_url: Collinder%20209
+scix_url: NGC%202910
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

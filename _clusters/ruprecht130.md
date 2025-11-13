@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 130
 style: style
 title_flag: true
-more_names: VDBH 247; ESO 455 41; vdBergh-Hagen 247; OCL 1034; MWSC 2698; FoF 1205
+more_names: OCL 1034; VDBH 247; vdBergh-Hagen 247; ESO 455 41; MWSC 2698; FoF 1205
 fname: ruprecht130
 fov: 0.093
 ra_icrs: 266.89958
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 130 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 130</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8

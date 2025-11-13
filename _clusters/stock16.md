@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    Stock 16 is a poorly populated, very loose object of low C3 quality. It is moderately studied in the literature.
+    <b>Stock 16</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.2

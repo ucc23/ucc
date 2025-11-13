@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ferrero 10 is a poorly populated, loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Ferrero 10</b> is a poorly populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 8.6

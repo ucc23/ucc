@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 103
 style: style
 title_flag: true
-more_names: FSR 1472; SAI 107; DSH J0928.5-4636; MWSC 1674
+more_names: SAI 107; DSH J0928.5-4636; FSR 1472; MWSC 1674
 fname: teutsch103
 fov: 0.107
 ra_icrs: 142.14811
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 103 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Teutsch 103</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2

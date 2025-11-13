@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 61
 style: style
 title_flag: true
-more_names: FSR 1266; SAI 78; DSH J0734.6-1947; MWSC 1270; FoF 936
+more_names: SAI 78; FSR 1266; MWSC 1270; DSH J0734.6-1947; FoF 936
 fname: teutsch61
 fov: 0.073
 ra_icrs: 113.65954
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 61 is a moderately populated, very dense object of intermediate C3 quality. It is very well-studied in the literature.
+    <b>Teutsch 61</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.2

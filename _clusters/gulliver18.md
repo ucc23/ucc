@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.62
 UTI_C_dup: 0.91
 UTI_summary: |
-    Gulliver 18 is a rich, very dense object of very high C3 quality. It is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Gulliver 18</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.3
@@ -56,5 +56,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.5 |
-    |[Collinder 417](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.5 |
+    |[NGC 6885](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.5 |
 ---

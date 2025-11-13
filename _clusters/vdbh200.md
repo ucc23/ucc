@@ -3,7 +3,7 @@ layout: post
 title: VDBH 200
 style: style
 title_flag: true
-more_names: ESO 277 15; vdBergh-Hagen 200; MWSC 2471; BH 200
+more_names: vdBergh-Hagen 200; ESO 277 15; MWSC 2471; BH 200
 fname: vdbh200
 fov: 0.09
 ra_icrs: 252.48319
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 200 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>VDBH 200</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.7

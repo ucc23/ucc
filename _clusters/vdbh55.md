@@ -3,7 +3,7 @@ layout: post
 title: VDBH 55
 style: style
 title_flag: true
-more_names: ESO 314 01; vdBergh-Hagen 55; FSR 1404; MWSC 1600; BH 55
+more_names: vdBergh-Hagen 55; ESO 314 01; FSR 1404; MWSC 1600; BH 55
 fname: vdbh55
 fov: 0.1
 ra_icrs: 134.04008
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 55 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>VDBH 55</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.0

@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Theia 980 is a somewhat close, sparse, loose object of low C3 quality. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 980</b> is a sparse, loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 15.9

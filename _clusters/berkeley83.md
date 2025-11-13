@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 83
 style: style
 title_flag: true
-more_names: FSR 0171; OCL 135
+more_names: OCL 135; FSR 0171
 fname: berkeley83
 fov: 0.047
 ra_icrs: 300.36094
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 83 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Berkeley 83</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.4

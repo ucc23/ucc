@@ -3,7 +3,7 @@ layout: post
 title: Koposov 53
 style: style
 title_flag: true
-more_names: Teutsch 9; FSR 0856; MWSC 750; MWSC 751
+more_names: FSR 0856; Teutsch 9; MWSC 750; MWSC 751
 fname: koposov53
 fov: 0.057
 ra_icrs: 92.22597
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Koposov 53 is a moderately populated, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Koposov 53</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7

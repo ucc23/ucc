@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 24
+title: IC 361
 style: style
 title_flag: true
-more_names: Collinder 48; FSR 0652; IC 361; OCL 393; MWSC 362; FoF 615
+more_names: IC 361; Collinder 48; OCL 393; FSR 0652; MWSC 362; FoF 615
 fname: melotte24
 fov: 0.147
 ra_icrs: 64.73686
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 24 is a very rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>IC 361</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.4
 N_50_val: 1195
-scix_url: Melotte%2024
+scix_url: IC%20361
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

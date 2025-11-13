@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDB 80 is a somewhat close, rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>VDB 80</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.6
@@ -40,9 +40,9 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 97.747 | -9.621 | 1.026 | -3.285 | 0.481 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 97.795 | -9.583 | 1.029 | -3.227 | 0.459 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 97.731 | -9.633 | 1.001 | -3.25 | 0.569 | 35.818 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 97.635 | -9.548 | 0.976 | -3.258 | 0.736 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 97.43 | -9.628 | 1.003 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 97.731 | -9.633 | 1.001 | -3.25 | 0.569 | 35.818 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 97.635 | -9.548 | 0.976 | -3.258 | 0.736 | -- |
     | **UCC** |97.712 | -9.599 | 1.013 | -3.254 | 0.48 | 37.033 | 
 cds_radec: 97.71173,-9.59863
 carousel: UCC_HUNT23_CANTAT20
@@ -55,9 +55,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.726, Dist=947, logage=6.79, [Fe/H]=-0.148` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.4, logAge=6.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.005, diffAV50=2.555, MOD50=9.898, logAge50=6.751` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.50216, MOD=9.80332, logAge=6.99507, Z=-0.1408` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.99, dMod50=10.55, logAge50=6.94, [Fe/H]50=-0.27` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=217.246` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.50216, MOD=9.80332, logAge=6.99507, Z=-0.1408` |
 shared_table: |
     
 ---

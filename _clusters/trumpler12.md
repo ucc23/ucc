@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 12
 style: style
 title_flag: true
-more_names: Collinder 217; VDBH 89; ESO 127 07; vdBergh-Hagen 89; FSR 1537; OCL 803; MWSC 1763; FoF 63
+more_names: Collinder 217; OCL 803; VDBH 89; vdBergh-Hagen 89; ESO 127 07; FSR 1537; MWSC 1763; FoF 63
 fname: trumpler12
 fov: 0.103
 ra_icrs: 151.62432
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 12 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Trumpler 12</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1

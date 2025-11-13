@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.97
 UTI_summary: |
-    BDSB 46 is a poorly populated, very dense object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>BDSB 46</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.5

@@ -3,7 +3,7 @@ layout: post
 title: Pismis 15
 style: style
 title_flag: true
-more_names: VDBH 74; ESO 212 10; vdBergh-Hagen 74; FSR 1480; OCL 773; MWSC 1690; FoF 394
+more_names: OCL 773; VDBH 74; vdBergh-Hagen 74; ESO 212 10; FSR 1480; MWSC 1690; FoF 394
 fname: pismis15
 fov: 0.12
 ra_icrs: 143.68609
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 15 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Pismis 15</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.6

@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Gulliver 42 is a rich, very dense object of intermediate C3 quality. It is poorly studied in the literature.
+    <b>Gulliver 42</b> is a rich, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1

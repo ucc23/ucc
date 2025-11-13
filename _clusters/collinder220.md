@@ -3,7 +3,7 @@ layout: post
 title: Collinder 220
 style: style
 title_flag: true
-more_names: NGC 3247; ESO 127 19; OCL 809; MWSC 1803; Cr220; FoF 1013
+more_names: NGC3247; Cr220; ESO 127 19; MWSC 1803; OCL 809; FoF 1013
 fname: collinder220
 fov: 0.16
 ra_icrs: 156.42044
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 220 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Collinder 220</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.8
@@ -39,8 +39,8 @@ posit_table: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 156.465 | -57.927 | -- | -6.947 | -0.633 | -13.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 156.467 | -57.913 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 156.444 | -57.913 | 0.351 | -7.173 | 2.973 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 156.429 | -57.922 | 0.364 | -7.339 | 2.677 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 156.465 | -57.915 | -- | -7.33 | 2.68 | -12.5 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 156.429 | -57.922 | 0.364 | -7.339 | 2.677 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 156.432 | -57.927 | 0.361 | -7.351 | 2.684 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 156.703 | -57.929 | 0.319 | -6.498 | 3.012 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 156.423 | -57.923 | 0.393 | -7.348 | 2.705 | -17.936 |
@@ -56,8 +56,8 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.221, distance=1465, log_age=8.57` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.225, Dmod=11.01, logt=8.091` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.063, Z=0.5` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.72, DMNN=11.95, AgeNN=8.37` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.08` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.72, DMNN=11.95, AgeNN=8.37` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.088, Dist=2231, logage=8.193, [Fe/H]=-0.016` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.818, diffAV50=1.432, MOD50=11.827, logAge50=8.311` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.81, dMod50=11.68, logAge50=8.48, [Fe/H]50=0.09` |

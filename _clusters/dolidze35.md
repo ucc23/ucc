@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dolidze 35 is a sparse, loose object of intermediate C3 quality. It is moderately studied in the literature. This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Dolidze 35</b> is a sparse, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.2

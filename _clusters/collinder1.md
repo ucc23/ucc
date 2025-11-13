@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 1
+title: NGC 103
 style: style
 title_flag: true
-more_names: NGC 103; FSR 0491; OCL 291; MWSC 40
+more_names: NGC 103; OCL 291; FSR 0491; MWSC 40
 fname: collinder1
 fov: 0.1
 ra_icrs: 6.30881
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 1 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 103</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.0
 N_50_val: 343
-scix_url: Collinder%201
+scix_url: NGC%20103
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

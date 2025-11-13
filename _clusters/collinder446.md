@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 446
+title: NGC 7226
 style: style
 title_flag: true
-more_names: NGC 7226; FSR 0349; OCL 226; MWSC 3591
+more_names: NGC 7226; OCL 226; FSR 0349; MWSC 3591
 fname: collinder446
 fov: 0.037
 ra_icrs: 332.60249
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 446 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature. This object shares a moderate percentage of members with a later reported entry.
+    <b>NGC 7226</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.1
 N_50_val: 85
-scix_url: Collinder%20446
+scix_url: NGC%207226
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

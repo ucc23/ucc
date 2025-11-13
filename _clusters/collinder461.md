@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 461
+title: NGC 7790
 style: style
 title_flag: true
-more_names: NGC 7790; FSR 0461; OCL 276; MWSC 3781; FoF 351
+more_names: NGC 7790; FSR 0461; MWSC 3781; OCL 276; FoF 351
 fname: collinder461
 fov: 0.103
 ra_icrs: 359.61021
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 461 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a moderate percentage of members with 2 later reported entries.
+    <b>NGC 7790</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 273
-scix_url: Collinder%20461
+scix_url: NGC%207790
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

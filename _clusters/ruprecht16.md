@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 16
 style: style
 title_flag: true
-more_names: ESO 559 07; OCL 612; MWSC 1198
+more_names: OCL 612; ESO 559 07; MWSC 1198
 fname: ruprecht16
 fov: 0.133
 ra_icrs: 110.80276
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 16 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 16</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.0

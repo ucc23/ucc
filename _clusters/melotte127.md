@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 127
+title: NGC 5662
 style: style
 title_flag: true
-more_names: Collinder 284; VDBH 162; NGC 5662; ESO 175 10; vdBergh-Hagen 162; OCL 928; MWSC 2234; FoF 2331
+more_names: NGC 5662; OCL 928; VDBH 162; vdBergh-Hagen 162; ESO 175 10; MWSC 2234; Collinder 284; FoF 2331
 fname: melotte127
 fov: 0.627
 ra_icrs: 218.73264
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 127 is a somewhat close, rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 5662</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 18.8
 N_50_val: 447
-scix_url: Melotte%20127
+scix_url: NGC%205662
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -43,12 +43,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 218.734 | -56.64 | 1.288 | -6.427 | -7.243 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 218.751 | -56.647 | 1.294 | -6.439 | -7.246 | -20.351 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 218.833 | -56.633 | 1.32 | -6.404 | -7.247 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 218.784 | -56.674 | 1.294 | -6.471 | -7.212 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 218.878 | -56.713 | 1.286 | -6.471 | -7.176 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 218.784 | -56.674 | 1.294 | -6.471 | -7.212 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 218.927 | -56.575 | 1.299 | -6.495 | -7.204 | -25.12 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 218.725 | -56.659 | 1.259 | -6.478 | -7.201 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 218.699 | -56.656 | 1.298 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 218.927 | -56.575 | 1.299 | -6.495 | -7.204 | -25.12 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 218.725 | -56.659 | 1.259 | -6.478 | -7.201 | -- |
     | **UCC** |218.733 | -56.668 | 1.292 | -6.482 | -7.199 | -24.659 | 
 cds_radec: 218.73264,-56.66815
 carousel: UCC_HUNT23_CANTAT20
@@ -62,12 +62,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.035, Z=-0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.6, DMNN=9.41, AgeNN=8.3` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.065, Dist=738, logage=8.023, [Fe/H]=-0.005` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.15, logAge=7.9` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=749, logAgeNN=8.31` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.15, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.822, diffAV50=0.653, MOD50=9.307, logAge50=7.944` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.60280, MOD=9.40800, logAge=8.34397, Z=-0.0028` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.95, dMod50=9.39, logAge50=8.18, [Fe/H]50=0.34` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1069.07` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.60280, MOD=9.40800, logAge=8.34397, Z=-0.0028` |
 shared_table: |
     
 ---

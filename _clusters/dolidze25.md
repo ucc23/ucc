@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dolidze 25 is a poorly populated, very dense object of low C3 quality. It is very well-studied in the literature.
+    <b>Dolidze 25</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.8
@@ -40,8 +40,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 101.28 | 0.24 | -- | 0.7 | -2.31 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 101.28 | 0.24 | -- | -0.031 | -1.217 | 77.4 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 101.269 | 0.266 | 0.209 | -0.267 | 0.231 | -- |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 101.194 | 0.318 | 0.198 | -0.364 | 0.256 | 57.96 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 101.267 | 0.228 | 0.201 | -0.328 | 0.263 | 53.822 |
+    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 101.194 | 0.318 | 0.198 | -0.364 | 0.256 | 57.96 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 101.218 | 0.269 | 0.205 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 101.267 | 0.228 | 0.201 | -0.328 | 0.263 | 53.822 |
     | **UCC** |101.27 | 0.237 | 0.212 | -0.354 | 0.277 | -- | 
@@ -55,8 +55,8 @@ fpars_table: |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=6304, Age=0.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.666, distance=2800, log_age=6.75` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.675, Dmod=13.725, logt=7.141` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=2.25, m-M=12.95, logA=7.3` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.641, diffAV50=2.534, MOD50=13.233, logAge50=7.885` |
+    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=2.25, m-M=12.95, logA=7.3` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.84, dMod50=12.85, logAge50=7.92, [Fe/H]50=0.23` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1731.06` |
 shared_table: |

@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    LISC-III 3668 is a somewhat close, moderately populated, loose object of very high C3 quality. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
+    <b>LISC-III 3668</b> is a moderately populated, loose object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 45.7

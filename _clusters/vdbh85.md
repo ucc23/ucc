@@ -3,7 +3,7 @@ layout: post
 title: VDBH 85
 style: style
 title_flag: true
-more_names: ESO 213 05; vdBergh-Hagen 85; MWSC 1748; BH 85
+more_names: vdBergh-Hagen 85; ESO 213 05; MWSC 1748; BH 85
 fname: vdbh85
 fov: 0.06
 ra_icrs: 150.46686
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 85 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>VDBH 85</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.8

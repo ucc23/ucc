@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 104
+title: IC 2714
 style: style
 title_flag: true
-more_names: Collinder 245; VDBH 116; ESO 129 18; vdBergh-Hagen 116; FSR 1582; IC 2714; OCL 855; MWSC 1930; MWSC 1929; FoF 819
+more_names: IC 2714; FSR 1582; VDBH116; Collinder 245; MWSC 1929; OCL 855; ESO 129 18; vdBergh-Hagen 116; MWSC 1930; FoF 819
 fname: melotte104
 fov: 0.287
 ra_icrs: 169.37732
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 104 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>IC 2714</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 8.6
 N_50_val: 1345
-scix_url: Melotte%20104
+scix_url: IC%202714
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

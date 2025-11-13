@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 1
 style: style
 title_flag: true
-more_names: Collinder 15; FSR 0552; OCL 328; MWSC 127
+more_names: Collinder 15; OCL 328; FSR 0552; MWSC 127
 fname: trumpler1
 fov: 0.13
 ra_icrs: 23.90916
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 1 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 1</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.9

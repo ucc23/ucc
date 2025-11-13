@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 393
+title: NGC 6716
 style: style
 title_flag: true
-more_names: NGC 6716; ESO 592 05; OCL 46; MWSC 3020; FoF 2273
+more_names: NGC 6716; OCL 46; ESO 592 05; MWSC 3020; FoF 2273
 fname: collinder393
 fov: 0.73
 ra_icrs: 283.37348
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 393 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
+    <b>NGC 6716</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 21.9
 N_50_val: 721
-scix_url: Collinder%20393
+scix_url: NGC%206716
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -47,9 +47,9 @@ posit_table: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 283.595 | -19.892 | 1.433 | -1.462 | -6.04 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 283.555 | -19.889 | 1.388 | -1.473 | -5.962 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 283.62 | -19.892 | 1.429 | -1.485 | -5.989 | 3.505 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.185 | -20.151 | 1.334 | -1.483 | -5.943 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 283.545 | -19.946 | 1.423 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 283.62 | -19.892 | 1.429 | -1.485 | -5.989 | 3.505 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 283.185 | -20.151 | 1.334 | -1.483 | -5.943 | -- |
     | **UCC** |283.373 | -20.039 | 1.387 | -1.485 | -5.966 | 6.366 | 
 cds_radec: 283.37348,-20.03898
 carousel: UCC_HUNT23_CANTAT20
@@ -67,9 +67,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.65, Dist=686, logage=8.168, [Fe/H]=0.097` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=692, logAgeNN=8.02` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.635, diffAV50=0.963, MOD50=9.155, logAge50=7.902` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.43050, MOD=9.22940, logAge=8.42315, Z=0.09753` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.74, dMod50=9.21, logAge50=8.15, [Fe/H]50=0.16` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1957.81` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.43050, MOD=9.22940, logAge=8.42315, Z=0.09753` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

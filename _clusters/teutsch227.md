@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.51
 UTI_summary: |
-    Teutsch 227 is a poorly populated, moderately dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Teutsch 227</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.0

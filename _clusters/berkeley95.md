@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 95
 style: style
 title_flag: true
-more_names: FSR 0375; OCL 242; MWSC 3626
+more_names: OCL 242; FSR 0375; MWSC 3626
 fname: berkeley95
 fov: 0.127
 ra_icrs: 337.07205
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 95 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with 3 later reported entries.
+    <b>Berkeley 95</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8

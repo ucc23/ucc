@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 174
+title: NGC 2527
 style: style
 title_flag: true
-more_names: NGC 2527; ESO 430 15; OCL 685; MWSC 1428; FoF 2327
+more_names: NGC 2527; OCL 685; ESO 430 15; MWSC 1428; FoF 2327
 fname: collinder174
 fov: 0.783
 ra_icrs: 121.26526
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 174 is a somewhat close, very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2527</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 23.5
 N_50_val: 501
-scix_url: Collinder%20174
+scix_url: NGC%202527
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -44,12 +44,12 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 121.246 | -28.122 | 1.536 | -5.549 | 7.275 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 121.237 | -28.099 | 1.532 | -5.554 | 7.282 | 40.043 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 121.283 | -28.139 | 1.571 | -5.604 | 7.293 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 121.263 | -28.147 | 1.571 | -5.554 | 7.343 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 121.196 | -28.16 | 1.568 | -5.564 | 7.311 | -- |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 121.263 | -28.147 | 1.571 | -5.554 | 7.343 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 121.274 | -28.131 | 1.565 | -5.569 | 7.331 | 40.83 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 121.227 | -28.104 | 1.53 | -5.551 | 7.316 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 121.271 | -28.153 | 1.567 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 121.274 | -28.131 | 1.565 | -5.569 | 7.331 | 40.83 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 121.227 | -28.104 | 1.53 | -5.551 | 7.316 | -- |
     | **UCC** |121.265 | -28.108 | 1.561 | -5.556 | 7.32 | 40.961 | 
 cds_radec: 121.26526,-28.10808
 carousel: UCC_HUNT23_CANTAT20
@@ -64,12 +64,12 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.871, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.36, DMNN=9.11, AgeNN=8.84` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.232, Dist=630, logage=8.903, [Fe/H]=-0.019` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.2, logAge=8.95` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=654, logAgeNN=8.86` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.2, logAge=8.95` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.11, diffAV50=0.377, MOD50=8.864, logAge50=8.914` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.35766, MOD=9.11037, logAge=8.80581, Z=-0.0195` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.58, dMod50=9.05, logAge50=8.42, [Fe/H]50=0.05` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=626.092` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.35766, MOD=9.11037, logAge=8.80581, Z=-0.0195` |
 shared_table: |
     
 ---

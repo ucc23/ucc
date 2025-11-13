@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 99
 style: style
 title_flag: true
-more_names: FSR 0455; OCL 271; MWSC 3722
+more_names: OCL 271; FSR 0455; MWSC 3722
 fname: berkeley99
 fov: 0.107
 ra_icrs: 350.26419
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 99 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Berkeley 99</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 197
+title: NGC 6603
 style: style
 title_flag: true
-more_names: Collinder 374; NGC 6603; FSR 0045; OCL 36; MWSC 2883
+more_names: NGC 6603; Collinder 374; OCL 36; FSR 0045; MWSC 2883
 fname: melotte197
 fov: 0.077
 ra_icrs: 274.61213
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 197 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 6603</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.3
 N_50_val: 829
-scix_url: Melotte%20197
+scix_url: NGC%206603
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

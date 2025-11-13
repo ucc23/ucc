@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 102
 style: style
 title_flag: true
-more_names: VDBH 128; NGC 4184; ESO 130 10; vdBergh-Hagen 128; OCL 877; MWSC 2007
+more_names: NGC 4184; OCL 877; VDBH 128; vdBergh-Hagen 128; ESO 130 10; MWSC 2007
 fname: ruprecht102
 fov: 0.057
 ra_icrs: 183.39195
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 102 is a moderately populated, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 102</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7

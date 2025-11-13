@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 79
+title: NGC 2489
 style: style
 title_flag: true
-more_names: Collinder 169; VDBH 15; NGC 2489; ESO 430 03; vdBergh-Hagen 15; FSR 1330; OCL 690; MWSC 1386; FoF 200
+more_names: NGC 2489; MWSC 1386; FSR 1330; vdBergh-Hagen 15; VDBH 15; OCL 690; Collinder 169; ESO 430 03; FoF 200
 fname: melotte79
 fov: 0.15
 ra_icrs: 119.06558
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 79 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2489</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 475
-scix_url: Melotte%2079
+scix_url: NGC%202489
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 30
 style: style
 title_flag: true
-more_names: ESO 429 15; OCL 687; MWSC 1315
+more_names: OCL 687; ESO 429 15; MWSC 1315
 fname: ruprecht30
 fov: 0.16
 ra_icrs: 115.59271
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 30 is a sparse, very loose object of intermediate C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Ruprecht 30</b> is a sparse, very loose object of intermediate C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.8

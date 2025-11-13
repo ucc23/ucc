@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 82
 style: style
 title_flag: true
-more_names: ESO 167 05; OCL 788; MWSC 1711; FoF 998
+more_names: OCL 788; ESO 167 05; MWSC 1711; FoF 998
 fname: ruprecht82
 fov: 0.127
 ra_icrs: 146.41581
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 82 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Ruprecht 82</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
@@ -39,8 +39,8 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 146.444 | -53.997 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 146.421 | -54.004 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 146.429 | -54.001 | 0.433 | -6.402 | 4.317 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 146.421 | -54.004 | 0.43 | -6.443 | 4.348 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 146.438 | -53.968 | -- | -6.39 | 4.38 | 2.1 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 146.421 | -54.004 | 0.43 | -6.443 | 4.348 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 146.416 | -54.003 | 0.431 | -6.438 | 4.348 | 2.157 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 146.431 | -54.002 | 0.436 | -6.428 | 4.375 | -6.369 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 146.413 | -54.005 | 0.436 | -- | -- | -- |
@@ -56,8 +56,8 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=2228, log_age=8.37` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.036, Dist=11.718, logA=8.548, Fe/H=0.0` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.589, Z=-0.25` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DMNN=11.71, AgeNN=8.66` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.03` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DMNN=11.71, AgeNN=8.66` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.131, Dist=1866, logage=8.609, [Fe/H]=0.067` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.883, diffAV50=0.761, MOD50=11.606, logAge50=8.646` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.87, dMod50=11.54, logAge50=8.89, [Fe/H]50=0.27` |

@@ -3,7 +3,7 @@ layout: post
 title: Tombaugh 4
 style: style
 title_flag: true
-more_names: FSR 0585; OCL 349; MWSC 199
+more_names: OCL 349; FSR 0585; MWSC 199
 fname: tombaugh4
 fov: 0.06
 ra_icrs: 37.29786
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Tombaugh 4 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Tombaugh 4</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.8

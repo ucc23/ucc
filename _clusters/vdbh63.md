@@ -3,7 +3,7 @@ layout: post
 title: VDBH 63
 style: style
 title_flag: true
-more_names: ESO 212 02; vdBergh-Hagen 63; FSR 1476; MWSC 1653
+more_names: FSR 1476; vdBergh-Hagen 63; ESO 212 02; MWSC 1653
 fname: vdbh63
 fov: 0.043
 ra_icrs: 140.16628
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 63 is a moderately populated, very dense object of intermediate C3 quality. It is moderately studied in the literature.
+    <b>VDBH 63</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 56
+title: NGC 2309
 style: style
 title_flag: true
-more_names: Collinder 122; NGC 2309; FSR 1148; OCL 557; MWSC 1026
+more_names: NGC 2309; Collinder 122; OCL 557; FSR 1148; MWSC 1026
 fname: melotte56
 fov: 0.137
 ra_icrs: 104.02119
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 56 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>NGC 2309</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1
 N_50_val: 435
-scix_url: Melotte%2056
+scix_url: NGC%202309
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

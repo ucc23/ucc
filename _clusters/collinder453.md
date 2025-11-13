@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 453
+title: NGC 7419
 style: style
 title_flag: true
-more_names: NGC 7419; FSR 0400; OCL 250; MWSC 3672
+more_names: NGC 7419; OCL 250; FSR 0400; MWSC 3672
 fname: collinder453
 fov: 0.073
 ra_icrs: 343.57574
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 453 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 7419</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.2
 N_50_val: 680
-scix_url: Collinder%20453
+scix_url: NGC%207419
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

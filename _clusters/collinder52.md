@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 52
+title: NGC 1605
 style: style
 title_flag: true
-more_names: NGC 1605; FSR 0694; OCL 406; MWSC 394
+more_names: NGC 1605; OCL 406; FSR 0694; MWSC 394
 fname: collinder52
 fov: 0.087
 ra_icrs: 68.74603
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 52 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>NGC 1605</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6
 N_50_val: 193
-scix_url: Collinder%2052
+scix_url: NGC%201605
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

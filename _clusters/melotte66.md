@@ -3,7 +3,7 @@ layout: post
 title: Melotte 66
 style: style
 title_flag: true
-more_names: Collinder 147; ESO 208 12; FSR 1396; OCL 739; MWSC 1222; FoF 4
+more_names: ESO 208 12; FSR 1396; MWSC 1222; Collinder 147; OCL 739; FoF 4
 fname: melotte66
 fov: 0.173
 ra_icrs: 111.58059
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 66 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 66</b> is a very rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.2

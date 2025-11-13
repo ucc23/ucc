@@ -3,7 +3,7 @@ layout: post
 title: Pismis 1
 style: style
 title_flag: true
-more_names: VDBH 24; NGC 2568; ESO 370 05; vdBergh-Hagen 24; FSR 1374; OCL 727; MWSC 1466
+more_names: FSR 1374; OCL 727; VDBH 24; vdBergh-Hagen 24; ESO 370 05; MWSC 1466; NGC 2568
 fname: pismis1
 fov: 0.07
 ra_icrs: 124.5771
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Pismis 1 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Pismis 1</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1

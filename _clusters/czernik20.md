@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Czernik 20 is a rich, very dense object of intermediate C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>Czernik 20</b> is a rich, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2
@@ -39,8 +39,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 80.115 | 39.54 | -- | -3.76 | -1.12 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 80.13 | 39.547 | -- | -0.67 | -3.3 | -29.97 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 80.055 | 39.573 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 80.129 | 39.545 | 0.264 | 0.619 | -1.583 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 80.115 | 39.54 | -- | 0.58 | -1.56 | 31.4 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 80.129 | 39.545 | 0.264 | 0.619 | -1.583 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 80.136 | 39.542 | 0.268 | 0.612 | -1.576 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 80.133 | 39.544 | 0.286 | 0.543 | -1.59 | 30.945 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 80.124 | 39.544 | 0.285 | -- | -- | -- |
@@ -56,8 +56,8 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.422, Dist=3370.0, Age=7.173` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.6, distance=2000, log_age=9.19` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.418, Dmod=12.355, logt=7.156` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.49, DMNN=12.71, AgeNN=9.22` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.16` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.49, DMNN=12.71, AgeNN=9.22` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.858, Dist=3421, logage=9.17, [Fe/H]=-0.113` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.471, diffAV50=0.581, MOD50=12.647, logAge50=9.279` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.1, dMod50=12.78, logAge50=9.1, [Fe/H]50=-0.51` |
@@ -67,5 +67,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.08 |
-    |[Melotte 32](/_clusters/melotte32/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
+    |[NGC 1857](/_clusters/melotte32/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
 ---

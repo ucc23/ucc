@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 154
 style: style
 title_flag: true
-more_names: ESO 258 04; OCL 738; MWSC 1417
+more_names: OCL 738; ESO 258 04; MWSC 1417
 fname: ruprecht154
 fov: 0.19
 ra_icrs: 120.40133
@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 154 is a poorly populated, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.
+    <b>Ruprecht 154</b> is a poorly populated, very loose object of low C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.7

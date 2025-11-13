@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.33
 UTI_C_dup: 0.98
 UTI_summary: |
-    Theia 3152 is a poorly populated, very loose object of intermediate C3 quality. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Theia 3152</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.8
@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 141](/_clusters/collinder141/)| 2.0 | 111.17 | -20.95 | 0.29 | -1.62 | 1.92 | 71.75 |0.97 |
+    |[NGC 2383](/_clusters/collinder141/)| 2.0 | 111.17 | -20.95 | 0.29 | -1.62 | 1.92 | 71.75 |0.97 |
 ---

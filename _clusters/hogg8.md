@@ -3,7 +3,7 @@ layout: post
 title: Hogg 8
 style: style
 title_flag: true
-more_names: ESO 128 02; OCL 821; MWSC 1811
+more_names: OCL 821; ESO 128 02; MWSC 1811
 fname: hogg8
 fov: 0.27
 ra_icrs: 157.35134
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Hogg 8 is a poorly populated, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.
+    <b>Hogg 8</b> is a poorly populated, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 8.1

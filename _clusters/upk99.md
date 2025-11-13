@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 99 is a somewhat close, sparse, very loose object of low C3 quality. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>UPK 99</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 23.3
@@ -38,8 +38,8 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 312.427 | 25.488 | 1.291 | 0.422 | -8.02 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 312.423 | 25.505 | 1.276 | 0.351 | -7.897 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 312.479 | 25.561 | 1.258 | 0.225 | -7.911 | -11.93 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 312.567 | 25.552 | 1.174 | 0.38 | -7.667 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 312.476 | 25.713 | 1.256 | -- | -- | -- |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 312.567 | 25.552 | 1.174 | 0.38 | -7.667 | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 312.476 | 25.713 | -- | -- | -- | -- |
     | **UCC** |312.459 | 25.556 | 1.249 | 0.31 | -7.976 | -15.464 | 
 cds_radec: 312.45937,+25.55624
@@ -52,8 +52,8 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.513, Dist=771, logage=8.327, [Fe/H]=-0.1` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=747, logAgeNN=8.22` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.227, diffAV50=0.396, MOD50=9.416, logAge50=8.335` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.27981, MOD=9.40996, logAge=8.12905, Z=-0.1000` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.06, dMod50=9.53, logAge50=8.91, [Fe/H]50=0.27` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.27981, MOD=9.40996, logAge=8.12905, Z=-0.1000` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.21, MA23f=0.0, MZ23=0.04, MK24=-0.02, MF24=0.05` |
 shared_table: |
     

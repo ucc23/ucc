@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 109
+title: NGC 4103
 style: style
 title_flag: true
-more_names: Collinder 252; VDBH 127; NGC 4103; ESO 130 05; vdBergh-Hagen 127; OCL 871; FoF 420
+more_names: NGC 4103; Collinder 252; OCL 871; VDBH 127; vdBergh-Hagen 127; ESO 130 05; FoF 420
 fname: melotte109
 fov: 0.123
 ra_icrs: 181.6503
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 109 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4103</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.7
 N_50_val: 292
-scix_url: Melotte%20109
+scix_url: NGC%204103
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

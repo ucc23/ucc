@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Berkeley 46
+title: NGC 6791
 style: style
 title_flag: true
-more_names: NGC 6791; FSR 0186; OCL 142; MWSC 3088; FoF 639
+more_names: NGC 6791; OCL 142; FSR 0186; MWSC 3088; FoF 639
 fname: berkeley46
 fov: 0.14
 ra_icrs: 290.2201
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 46 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6791</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.2
 N_50_val: 4657
-scix_url: Berkeley%2046
+scix_url: NGC%206791
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -41,8 +41,8 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 290.221 | 37.763 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 290.221 | 37.778 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 290.226 | 37.779 | 0.266 | -0.452 | -2.275 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 290.221 | 37.778 | 0.192 | -0.421 | -2.269 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 290.22 | 37.78 | -- | -0.44 | -2.25 | -46.9 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 290.221 | 37.778 | 0.192 | -0.421 | -2.269 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 290.224 | 37.776 | 0.189 | -0.427 | -2.269 | -47.268 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 290.219 | 37.778 | 0.216 | -0.422 | -2.267 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 290.22 | 37.774 | 0.215 | -0.421 | -2.277 | -49.793 |
@@ -61,8 +61,8 @@ fpars_table: |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.129, Dmod=13.692, logt=9.659` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.302, Dist=13.085, logA=9.927, Fe/H=0.4` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.95, Z=0.25` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.7, DMNN=13.13, AgeNN=9.8` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.35` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.7, DMNN=13.13, AgeNN=9.8` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.313, Dist=4447, logage=9.859, [Fe/H]=0.399` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.654, diffAV50=0.365, MOD50=13.126, logAge50=9.58` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.98, dMod50=12.68, logAge50=9.98, [Fe/H]50=-0.4` |

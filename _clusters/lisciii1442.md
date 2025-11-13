@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    LISC-III 1442 is a moderately populated, very loose object of intermediate C3 quality. It was recently reported in the literature.
+    <b>LISC-III 1442</b> is a moderately populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 10.9

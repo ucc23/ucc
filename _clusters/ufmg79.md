@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    UFMG 79 is a poorly populated, dense object of very high C3 quality. It is rarely studied in the literature.
+    <b>UFMG 79</b> is a poorly populated, dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9

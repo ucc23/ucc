@@ -3,7 +3,7 @@ layout: post
 title: Hogg 4
 style: style
 title_flag: true
-more_names: ESO 167 13; FSR 1515; OCL 793; MWSC 1734
+more_names: OCL 793; ESO 167 13; FSR 1515; MWSC 1734
 fname: hogg4
 fov: 0.173
 ra_icrs: 149.41501
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Hogg 4 is a very rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Hogg 4</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.2

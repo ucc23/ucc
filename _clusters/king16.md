@@ -3,7 +3,7 @@ layout: post
 title: King 16
 style: style
 title_flag: true
-more_names: FSR 0512; OCL 306; MWSC 70
+more_names: OCL 306; FSR 0512; MWSC 70
 fname: king16
 fov: 0.097
 ra_icrs: 10.93352
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    King 16 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>King 16</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9

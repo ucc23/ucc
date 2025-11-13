@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 12
+title: NGC 752
 style: style
 title_flag: true
-more_names: Collinder 23; NGC 752; OCL 363; MWSC 151; FoF 2380; OCSN 221
+more_names: NGC 752; Collinder 23; OCL 363; MWSC 151; FoF 2380; OCSN 221
 fname: melotte12
 fov: 0.98
 ra_icrs: 29.2218
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 12 is a relatively close, rich, very dense object of very high C3 quality. It is very well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>NGC 752</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 29.4
 N_50_val: 358
-scix_url: Melotte%2012
+scix_url: NGC%20752
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -42,17 +42,17 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 29.368 | 37.791 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 29.223 | 37.794 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 29.117 | 37.8 | 2.224 | 9.801 | -11.73 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 29.223 | 37.794 | 2.239 | 9.81 | -11.713 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 29.273 | 37.79 | -- | 9.83 | -11.9 | 5.6 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 29.223 | 37.794 | 2.239 | 9.81 | -11.713 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 29.241 | 37.781 | 2.23 | 9.808 | -11.727 | 6.229 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 29.231 | 37.788 | 2.261 | 9.86 | -11.726 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 29.212 | 37.773 | 2.27 | 9.774 | -11.845 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 29.26 | 37.784 | 2.279 | 9.772 | -11.844 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 29.16 | 37.793 | 2.269 | 9.772 | -11.824 | 5.706 |
+    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 29.212 | 37.773 | 2.27 | 9.774 | -11.845 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 29.16 | 37.78 | 2.26 | 9.8 | -11.81 | 6.23 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 29.23 | 37.787 | 2.234 | 9.765 | -11.845 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 29.16 | 37.793 | 2.269 | 9.772 | -11.824 | 5.706 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 29.111 | 37.807 | 2.27 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 29.16 | 37.793 | 2.269 | 9.772 | -11.824 | 5.706 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 29.23 | 37.787 | 2.234 | 9.765 | -11.845 | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 29.111 | 37.807 | -- | -- | -- | -- |
     | **UCC** |29.222 | 37.797 | 2.268 | 9.785 | -11.844 | 5.876 | 
 cds_radec: 29.2218,+37.79707
@@ -67,16 +67,16 @@ fpars_table: |
     | [Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | `dsun=0.43, Age=1.41, Mphot=158` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.157, Dist=8.091, logA=9.17, Fe/H=-0.03` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=2.46, Z=0.25` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.07, DMNN=8.42, AgeNN=9.07` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.04` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.07, DMNN=8.42, AgeNN=9.07` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.159, Dist=441, logage=9.182, [Fe/H]=-0.037` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.25, logAge=9.15` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=478, logAgeNN=9.08` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.066, diffAV50=0.203, MOD50=8.044, logAge50=9.152` |
+    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.25, logAge=9.15` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.06, m-M=8.34, logt=9.2` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.07105, MOD=8.41820, logAge=9.24657, Z=-0.0358` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.066, diffAV50=0.203, MOD50=8.044, logAge50=9.152` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.47, dMod50=8.19, logAge50=9.07, [Fe/H]50=0.0` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=319.472` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.07105, MOD=8.41820, logAge=9.24657, Z=-0.0358` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.24, MA23f=-0.11, MA23g=-0.03, MZ23=-0.08, MK24=-0.07, MF24=-0.08` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

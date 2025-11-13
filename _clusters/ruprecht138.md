@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 138
 style: style
 title_flag: true
-more_names: NGC 6506; ESO 521 06; OCL 16; MWSC 2771
+more_names: NGC 6506; OCL 16; ESO 521 06; MWSC 2771
 fname: ruprecht138
 fov: 0.113
 ra_icrs: 269.99562
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 138 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 138</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4

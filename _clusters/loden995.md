@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Loden 995 is a poorly populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Loden 995</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.1

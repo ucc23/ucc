@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VDBH 139
+title: Hogg 15
 style: style
 title_flag: true
-more_names: Hogg 15; ESO 095 15; vdBergh-Hagen 139; OCL 891; MWSC 2063
+more_names: Hogg 15; OCL 891; vdBergh-Hagen 139; ESO 095 15; MWSC 2063
 fname: vdbh139
 fov: 0.107
 ra_icrs: 190.90178
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 139 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Hogg 15</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2
 N_50_val: 199
-scix_url: VDBH%20139
+scix_url: Hogg%2015
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

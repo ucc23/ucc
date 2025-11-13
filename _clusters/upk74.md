@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 74 is a somewhat close, poorly populated, dense object of intermediate C3 quality. It is poorly studied in the literature.
+    <b>UPK 74</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 15.8

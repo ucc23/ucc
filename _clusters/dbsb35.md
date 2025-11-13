@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    DBSB 35 is a moderately populated, very dense object of intermediate C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years.
+    <b>DBSB 35</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

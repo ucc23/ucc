@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    HXHWL 59 is a poorly populated, dense object of low C3 quality. It is poorly studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>HXHWL 59</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1

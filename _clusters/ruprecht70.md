@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruprecht 70
+title: ESO 260 07
 style: style
 title_flag: true
 more_names: ESO 260 07; OCL 760; MWSC 1570; MWSC 1573
@@ -25,12 +25,12 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 70 is a sparse, very loose object of low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>ESO 260 07</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.8
 N_50_val: 16
-scix_url: Ruprecht%2070
+scix_url: ESO%20260%2007
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

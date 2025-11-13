@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 251
+title: NGC 4052
 style: style
 title_flag: true
-more_names: VDBH 126; NGC 4052; ESO 094 10; vdBergh-Hagen 126; OCL 870; MWSC 1991; FoF 1123
+more_names: NGC 4052; OCL 870; VDBH 126; vdBergh-Hagen 126; ESO 094 10; MWSC 1991; FoF 1123
 fname: collinder251
 fov: 0.15
 ra_icrs: 180.45645
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 251 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4052</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 257
-scix_url: Collinder%20251
+scix_url: NGC%204052
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

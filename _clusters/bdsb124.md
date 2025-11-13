@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    BDSB 124 is a moderately populated, very dense object of intermediate C3 quality. It was recently reported in the literature.
+    <b>BDSB 124</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.5
@@ -34,8 +34,8 @@ scix_url: BDSB%20124
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 280.8 | -3.644 | 0.284 | -1.473 | -3.809 | 38.92 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 280.802 | -3.626 | 0.291 | -1.457 | -3.826 | 82.43 |
+    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 280.8 | -3.644 | 0.284 | -1.473 | -3.809 | 38.92 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 280.787 | -3.654 | 0.291 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 280.802 | -3.626 | 0.291 | -1.457 | -3.826 | 82.43 |
     | **UCC** |280.793 | -3.635 | 0.3 | -1.448 | -3.829 | 76.987 | 
@@ -44,8 +44,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=5.2, m-M=12.15, logA=8.1` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=5.031, diffAV50=2.509, MOD50=12.426, logAge50=7.939` |
+    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=5.2, m-M=12.15, logA=8.1` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=5.01, dMod50=12.74, logAge50=8.01, [Fe/H]50=0.35` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1425.60` |
 shared_table: |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    DBSB 7 is a moderately populated, very dense object of low C3 quality. It is well-studied in the literature. This object shares a large percentage of members with 2 later reported entries.
+    <b>DBSB 7</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5

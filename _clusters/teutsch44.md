@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 44
 style: style
 title_flag: true
-more_names: FSR 1528; DSH J1021.4-5427; MWSC 1795
+more_names: DSH J1021.4-5427; FSR 1528; MWSC 1795
 fname: teutsch44
 fov: 0.06
 ra_icrs: 155.34729
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 44 is a rich, very dense object of high C3 quality. It is well-studied in the literature.
+    <b>Teutsch 44</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.8

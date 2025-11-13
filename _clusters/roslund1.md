@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Roslund 1 is a somewhat close, poorly populated, very dense object of high C3 quality. It is moderately studied in the literature. This object shares a significant percentage of members with a later reported entry.
+    <b>Roslund 1</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.1

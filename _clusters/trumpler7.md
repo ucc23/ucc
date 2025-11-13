@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 7
 style: style
 title_flag: true
-more_names: Collinder 146; ESO 492 16; FSR 1288; OCL 635; MWSC 1229; FoF 51
+more_names: ESO 492 16; FSR 1288; MWSC 1229; Collinder 146; OCL 635; FoF 51
 fname: trumpler7
 fov: 0.177
 ra_icrs: 111.84762
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 7 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 7</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.3

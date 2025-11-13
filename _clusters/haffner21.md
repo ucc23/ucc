@@ -3,7 +3,7 @@ layout: post
 title: Haffner 21
 style: style
 title_flag: true
-more_names: ESO 494 11; OCL 677; MWSC 1411; FoF 1425
+more_names: OCL 677; ESO 494 11; MWSC 1411; FoF 1425
 fname: haffner21
 fov: 0.063
 ra_icrs: 120.28886
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Haffner 21 is a moderately populated, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Haffner 21</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.9

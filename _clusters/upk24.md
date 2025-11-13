@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    UPK 24 is a somewhat close, poorly populated, very loose object of low C3 quality. It is well-studied in the literature.
+    <b>UPK 24</b> is a poorly populated, very loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 48.2
@@ -38,10 +38,10 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 282.646 | -10.788 | 1.945 | -3.751 | -9.838 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 282.565 | -10.897 | 1.959 | -3.764 | -9.776 | -0.798 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 282.892 | -12.085 | 1.964 | -3.776 | -9.811 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 281.879 | -11.701 | 1.979 | -3.798 | -9.855 | 2.281 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 282.79 | -10.62 | 1.97 | -3.76 | -9.91 | -0.63 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 282.815 | -10.846 | 1.921 | -3.779 | -9.817 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 281.879 | -11.701 | 1.979 | -3.798 | -9.855 | 2.281 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.604 | -10.899 | 1.979 | -- | -- | -- |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 282.815 | -10.846 | 1.921 | -3.779 | -9.817 | -- |
     | **UCC** |282.717 | -10.717 | 1.963 | -3.774 | -9.906 | -0.328 | 
 cds_radec: 282.71746,-10.71714
 carousel: UCC_HUNT23_CANTAT20
@@ -52,10 +52,10 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DMNN=8.51, AgeNN=8.43` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.123, Dist=501, logage=9.016, [Fe/H]=-0.007` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=497, logAgeNN=8.45` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.359, diffAV50=2.108, MOD50=8.402, logAge50=8.673` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.36, m-M=9.48, logt=9.05` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.94977, MOD=8.50998, logAge=8.32694, Z=-0.0070` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.359, diffAV50=2.108, MOD50=8.402, logAge50=8.673` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.56, dMod50=8.56, logAge50=8.58, [Fe/H]50=0.12` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.94977, MOD=8.50998, logAge=8.32694, Z=-0.0070` |
 shared_table: |
     
 ---

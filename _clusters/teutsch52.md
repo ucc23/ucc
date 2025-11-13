@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 52 is a poorly populated, very dense object of very low C3 quality. It is poorly studied in the literature.
+    <b>Teutsch 52</b> is a poorly populated, very dense object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.1

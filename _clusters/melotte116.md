@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 116
+title: NGC 4852
 style: style
 title_flag: true
-more_names: Collinder 266; VDBH 143; NGC 4852; ESO 131 17; vdBergh-Hagen 143; OCL 894; MWSC 2078; FoF 1608
+more_names: NGC 4852; Collinder 266; OCL 894; VDBH 143; vdBergh-Hagen 143; ESO 131 17; MWSC 2078; FoF 1608
 fname: melotte116
 fov: 0.197
 ra_icrs: 195.05244
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 116 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 4852</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.9
 N_50_val: 253
-scix_url: Melotte%20116
+scix_url: NGC%204852
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

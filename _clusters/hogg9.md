@@ -3,7 +3,7 @@ layout: post
 title: Hogg 9
 style: style
 title_flag: true
-more_names: ESO 128 24; OCL 832; MWSC 1874
+more_names: OCL 832; ESO 128 24; MWSC 1874
 fname: hogg9
 fov: 0.21
 ra_icrs: 164.54304
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Hogg 9 is a sparse, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Hogg 9</b> is a sparse, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.3

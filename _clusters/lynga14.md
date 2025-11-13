@@ -3,7 +3,7 @@ layout: post
 title: Lynga 14
 style: style
 title_flag: true
-more_names: ESO 277 18; OCL 992; MWSC 2484
+more_names: OCL 992; ESO 277 18; MWSC 2484
 fname: lynga14
 fov: 0.127
 ra_icrs: 253.76311
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Lynga 14 is a moderately populated, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>Lynga 14</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8

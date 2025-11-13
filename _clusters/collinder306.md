@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 306
+title: NGC 6169
 style: style
 title_flag: true
-more_names: NGC 6169; ESO 276 05; OCL 984; mu Nor; MWSC 2424
+more_names: NGC 6169; OCL 984; ESO 276 05; mu Nor; MWSC 2424
 fname: collinder306
 fov: 0.217
 ra_icrs: 248.5512
@@ -25,12 +25,12 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 306 is a sparse, very loose object of very low C3 quality. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>NGC 6169</b> is a sparse, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.5
 N_50_val: 13
-scix_url: Collinder%20306
+scix_url: NGC%206169
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

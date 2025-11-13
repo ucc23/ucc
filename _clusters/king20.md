@@ -3,7 +3,7 @@ layout: post
 title: King 20
 style: style
 title_flag: true
-more_names: FSR 0434; OCL 262; MWSC 3739; FoF 2071
+more_names: OCL 262; MWSC 3739; FSR 0434; FoF 2071
 fname: king20
 fov: 0.137
 ra_icrs: 353.31694
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    King 20 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>King 20</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1

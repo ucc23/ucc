@@ -3,7 +3,7 @@ layout: post
 title: Loden 1339
 style: style
 title_flag: true
-more_names: ESO 134 08; OCL 918.1; MWSC 2230
+more_names: OCL 918.1; ESO 134 08; MWSC 2230
 fname: loden1339
 fov: 0.177
 ra_icrs: 218.31227
@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    Loden 1339 is a sparse, very loose object of low C3 quality. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Loden 1339</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.3

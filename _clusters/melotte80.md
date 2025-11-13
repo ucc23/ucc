@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 80
+title: NGC 2506
 style: style
 title_flag: true
-more_names: Collinder 170; NGC 2506; FSR 1230; OCL 593; MWSC 1406; FoF 634
+more_names: NGC 2506; OCL 593; FSR 1230; MWSC 1406; Collinder 170; FoF 634
 fname: melotte80
 fov: 0.17
 ra_icrs: 120.00935
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 80 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2506</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.1
 N_50_val: 2044
-scix_url: Melotte%2080
+scix_url: NGC%202506
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 30
 style: style
 title_flag: true
-more_names: FSR 1058; Biurakan 9; OCL 534; MWSC 1034
+more_names: Biurakan 9; OCL 534; FSR 1058; MWSC 1034
 fname: berkeley30
 fov: 0.057
 ra_icrs: 104.43699
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Berkeley 30 is a rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a small percentage of members with a later reported entry.
+    <b>Berkeley 30</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7

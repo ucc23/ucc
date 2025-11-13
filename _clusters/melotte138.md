@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 138
+title: NGC 6005
 style: style
 title_flag: true
-more_names: Collinder 294; VDBH 179; NGC 6005; ESO 178 03; vdBergh-Hagen 179; FSR 1704; OCL 945; MWSC 2336; FoF 67
+more_names: NGC 6005; Collinder 294; OCL 945; VDBH 179; vdBergh-Hagen 179; ESO 178 03; FSR 1704; MWSC 2336; FoF 67
 fname: melotte138
 fov: 0.123
 ra_icrs: 238.95423
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 138 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6005</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.7
 N_50_val: 646
-scix_url: Melotte%20138
+scix_url: NGC%206005
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

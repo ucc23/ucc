@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 166
+title: NGC 6318
 style: style
 title_flag: true
-more_names: Collinder 325; VDBH 218; NGC 6318; ESO 333 01; vdBergh-Hagen 218; OCL 1004; MWSC 2552
+more_names: NGC 6318; Collinder 325; OCL 1004; VDBH 218; vdBergh-Hagen 218; ESO 333 01; MWSC 2552
 fname: melotte166
 fov: 0.093
 ra_icrs: 259.04805
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 166 is a rich, very dense object of very high C3 quality. It is well-studied in the literature. This object shares a very small percentage of members with 2 later reported entries.
+    <b>NGC 6318</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8
 N_50_val: 268
-scix_url: Melotte%20166
+scix_url: NGC%206318
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

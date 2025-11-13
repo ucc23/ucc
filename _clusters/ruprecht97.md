@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 97
 style: style
 title_flag: true
-more_names: VDBH 124; ESO 130 03; vdBergh-Hagen 124; OCL 867
+more_names: OCL 867; VDBH 124; vdBergh-Hagen 124; ESO 130 03
 fname: ruprecht97
 fov: 0.077
 ra_icrs: 179.37304
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 97 is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 97</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.3

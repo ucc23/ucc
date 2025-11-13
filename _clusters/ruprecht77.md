@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 77
 style: style
 title_flag: true
-more_names: VDBH 68; ESO 166 12; vdBergh-Hagen 68; OCL 784; MWSC 1670
+more_names: OCL 784; VDBH 68; vdBergh-Hagen 68; ESO 166 12; MWSC 1670
 fname: ruprecht77
 fov: 0.08
 ra_icrs: 141.80051
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 77 is a moderately populated, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 77</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4

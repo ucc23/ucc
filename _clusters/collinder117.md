@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 117
+title: NGC 2286
 style: style
 title_flag: true
-more_names: NGC 2286; FSR 1104; OCL 548; MWSC 987; FoF 85
+more_names: NGC 2286; OCL 548; FSR 1104; MWSC 987; FoF 85
 fname: collinder117
 fov: 0.19
 ra_icrs: 101.92063
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 117 is a rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 2286</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.7
 N_50_val: 327
-scix_url: Collinder%20117
+scix_url: NGC%202286
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

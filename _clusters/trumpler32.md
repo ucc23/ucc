@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 32
 style: style
 title_flag: true
-more_names: Collinder 372; Harvard 19; OCL 55; MWSC 2873
+more_names: Harvard 19; Collinder 372; OCL 55; MWSC 2873
 fname: trumpler32
 fov: 0.247
 ra_icrs: 274.29405
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Trumpler 32 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>Trumpler 32</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.4

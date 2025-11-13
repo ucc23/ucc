@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 320
+title: NGC 6250
 style: style
 title_flag: true
-more_names: VDBH 206; NGC 6250; ESO 277 20; vdBergh-Hagen 206; OCL 991; MWSC 2500; FoF 2225
+more_names: NGC 6250; OCL 991; VDBH 206; vdBergh-Hagen 206; ESO 277 20; MWSC 2500; FoF 2225
 fname: collinder320
 fov: 0.18
 ra_icrs: 254.50261
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 320 is a somewhat close, rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6250</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.4
 N_50_val: 139
-scix_url: Collinder%20320
+scix_url: NGC%206250
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

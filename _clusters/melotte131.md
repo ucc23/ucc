@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 131
+title: NGC 5823
 style: style
 title_flag: true
-more_names: Collinder 290; VDBH 169; NGC 5823; ESO 176 11; vdBergh-Hagen 169; OCL 936; MWSC 2273; FoF 432
+more_names: NGC 5823; MWSC 2273; ESO 176 11; VDBH 169; OCL 936; Collinder 290; vdBergh-Hagen 169; FoF 432
 fname: melotte131
 fov: 0.2
 ra_icrs: 226.37072
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 131 is a very rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 5823</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0
 N_50_val: 580
-scix_url: Melotte%20131
+scix_url: NGC%205823
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

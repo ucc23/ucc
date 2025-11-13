@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teutsch 182
+title: teutsch 182
 style: style
 title_flag: true
 more_names: UBC 6
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 182 is a rich, very dense object of high C3 quality. It is well-studied in the literature. This object shares a large percentage of members with a later reported entry.
+    <b>teutsch 182</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.2
 N_50_val: 365
-scix_url: Teutsch%20182
+scix_url: teutsch%20182
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

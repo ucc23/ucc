@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collinder 443
+title: NGC 7160
 style: style
 title_flag: true
 more_names: NGC 7160; OCL 236; MWSC 3572; FoF 2256
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Collinder 443 is a somewhat close, rich, very dense object of high C3 quality. It is very well-studied in the literature. This object shares a very small percentage of members with a later reported entry.
+    <b>NGC 7160</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 15.0
 N_50_val: 280
-scix_url: Collinder%20443
+scix_url: NGC%207160
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -46,9 +46,9 @@ posit_table: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 328.443 | 62.567 | 1.084 | -3.488 | -1.283 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 328.471 | 62.528 | 1.085 | -3.476 | -1.4 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 328.456 | 62.579 | 1.09 | -3.484 | -1.394 | -25.245 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 328.419 | 62.547 | 1.061 | -3.484 | -1.384 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 328.398 | 62.546 | 1.09 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 328.456 | 62.579 | 1.09 | -3.484 | -1.394 | -25.245 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 328.419 | 62.547 | 1.061 | -3.484 | -1.384 | -- |
     | **UCC** |328.436 | 62.569 | 1.086 | -3.47 | -1.387 | -24.18 | 
 cds_radec: 328.43602,+62.5694
 carousel: UCC_HUNT23_CANTAT20
@@ -65,9 +65,9 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.311, Dist=919, logage=7.102, [Fe/H]=0.116` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.3, logAge=6.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.976, diffAV50=1.183, MOD50=9.719, logAge50=6.954` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.06897, MOD=9.78017, logAge=7.19418, Z=0.11569` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.25, dMod50=9.89, logAge50=6.81, [Fe/H]50=-0.13` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=319.806` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.06897, MOD=9.78017, logAge=7.19418, Z=0.11569` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

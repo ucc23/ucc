@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Melotte 212
+title: NGC 6694
 style: style
 title_flag: true
-more_names: Collinder 389; NGC 6694; FSR 0071; M 26; OCL 67; MWSC 2987; FoF 69
+more_names: NGC 6694; M 26; FSR 0071; OCL 67; Collinder 389; MWSC 2987; FoF 69
 fname: melotte212
 fov: 0.127
 ra_icrs: 281.31678
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Melotte 212 is a rich, very dense object of very high C3 quality. It is very well-studied in the literature.
+    <b>NGC 6694</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
 N_50_val: 332
-scix_url: Melotte%20212
+scix_url: NGC%206694
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

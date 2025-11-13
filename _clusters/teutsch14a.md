@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 14a
 style: style
 title_flag: true
-more_names: Teutsch J1803.5-2207; DSH J1803.5-2207; MWSC 2791
+more_names: DSH J1803.5-2207; Teutsch J1803.5-2207; MWSC 2791
 fname: teutsch14a
 fov: 0.097
 ra_icrs: 270.87269
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    Teutsch 14a is a rich, very dense object of very high C3 quality. It is well-studied in the literature.
+    <b>Teutsch 14a</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9

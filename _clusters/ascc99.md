@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    ASCC 99 is a relatively close, rich, very dense object of high C3 quality. It is very well-studied in the literature.
+    <b>ASCC 99</b> is a rich, very dense object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 42.6
@@ -41,11 +41,11 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 282.17 | -18.488 | 3.367 | 5.188 | -1.311 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 282.226 | -18.412 | 3.384 | 5.212 | -1.33 | -23.2 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 282.152 | -18.597 | 3.36 | 5.189 | -1.38 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 282.172 | -18.384 | 3.281 | 5.247 | -1.307 | -29.856 |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 282.15 | -18.71 | 3.37 | 5.22 | -1.43 | -29.39 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 282.269 | -18.439 | 3.326 | 5.23 | -1.421 | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 282.172 | -18.384 | 3.281 | 5.247 | -1.307 | -29.856 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.174 | -18.274 | 3.314 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 282.172 | -18.384 | 3.281 | 5.247 | -1.307 | -29.856 |
+    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 282.269 | -18.439 | 3.326 | 5.23 | -1.421 | -- |
     | **UCC** |282.167 | -18.403 | 3.354 | 5.22 | -1.427 | -30.54 | 
 cds_radec: 282.1673,-18.40265
 carousel: UCC_HUNT23_CANTAT20
@@ -58,11 +58,11 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.47, DMNN=7.28, AgeNN=8.55` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.762, Dist=294, logage=8.489, [Fe/H]=-0.04` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=282, logAgeNN=8.56` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.691, diffAV50=1.239, MOD50=7.325, logAge50=7.95` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.28, m-M=8.04, logt=8.0` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.46982, MOD=7.27976, logAge=8.77800, Z=-0.0397` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.691, diffAV50=1.239, MOD50=7.325, logAge50=7.95` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.03, dMod50=7.46, logAge50=7.87, [Fe/H]50=0.27` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=156.118` |
+    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.46982, MOD=7.27976, logAge=8.77800, Z=-0.0397` |
 shared_table: |
     
 ---

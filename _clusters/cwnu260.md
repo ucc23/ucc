@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    CWNU 260 is a somewhat close, poorly populated, loose object of intermediate C3 quality. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
+    <b>CWNU 260</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 21.1

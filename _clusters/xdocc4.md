@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 0.48
 UTI_summary: |
-    XDOCC-4 is a sparse, very loose object of high C3 quality. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>XDOCC-4</b> is a sparse, very loose object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.5
@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 462](/_clusters/ubc462/)| 52.0 | 118.88 | -24.06 | 0.29 | -2.65 | 3.06 | -- |0.27 |
+    |[UBC 462](/_clusters/ubc462/)| 52.0 | 118.88 | -24.06 | 0.29 | -2.65 | 3.06 | -- |0.19 |
     |[UBC 461](/_clusters/ubc461/)| 4.0 | 119.18 | -23.82 | 0.3 | -2.65 | 3.13 | -- |0.63 |
 ---

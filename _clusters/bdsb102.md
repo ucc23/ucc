@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    BDSB 102 is a moderately populated, moderately dense object of low C3 quality. It is rarely studied in the literature, with no articles listed in the last 13 years. This object shares a small percentage of members with a later reported entry.
+    <b>BDSB 102</b> is a moderately populated, moderately dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.8
@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 334](/_clusters/collinder334/)| 15.9 | 263.09 | -32.6 | 0.34 | -1.53 | -3.07 | -6.56 |0.05 |
+    |[NGC 6374](/_clusters/collinder334/)| 15.9 | 263.09 | -32.6 | 0.34 | -1.53 | -3.07 | -6.56 |0.05 |
 ---

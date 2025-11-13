@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 55
 style: style
 title_flag: true
-more_names: ESO 430 25; OCL 713; MWSC 1451
+more_names: OCL 713; ESO 430 25; MWSC 1451
 fname: ruprecht55
 fov: 0.17
 ra_icrs: 123.11332
@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    Ruprecht 55 is a moderately populated, very loose object of low C3 quality. It is well-studied in the literature.
+    <b>Ruprecht 55</b> is a moderately populated, very loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.1

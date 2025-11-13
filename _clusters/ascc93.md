@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    ASCC 93 is a moderately populated, very dense object of low C3 quality. It is moderately studied in the literature.
+    <b>ASCC 93</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.5

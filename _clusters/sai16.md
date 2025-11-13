@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    SAI 16 is a moderately populated, very dense object of low C3 quality. It is very well-studied in the literature.
+    <b>SAI 16</b> is a moderately populated, very dense object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1
@@ -39,8 +39,8 @@ posit_table: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 31.413 | 62.265 | -- | -0.31 | -1.42 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 31.38 | 62.265 | -- | 0.108 | -1.188 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 31.372 | 62.264 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 31.366 | 62.265 | 0.157 | -0.725 | -0.305 | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 31.413 | 62.265 | -- | -0.7 | -0.37 | -61.2 |
+    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 31.366 | 62.265 | 0.157 | -0.725 | -0.305 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 31.39 | 62.265 | 0.212 | -0.799 | -0.35 | -56.257 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 31.308 | 62.304 | 0.219 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 31.39 | 62.265 | 0.212 | -0.799 | -0.35 | -56.257 |
@@ -54,8 +54,8 @@ fpars_table: |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.7, Dm=14.42, Age=9.15` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.999, distance=4739, log_age=9.15` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.8, Dmod=11.465, logt=9.15` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.68, DMNN=13.45, AgeNN=9` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.28` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.68, DMNN=13.45, AgeNN=9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.544, diffAV50=2.288, MOD50=12.951, logAge50=8.435` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.35, dMod50=13.01, logAge50=8.43, [Fe/H]50=0.14` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=961.870` |

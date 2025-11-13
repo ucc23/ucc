@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    Dutra Bica 5 is a moderately populated, very dense object of high C3 quality. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Dutra Bica 5</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5

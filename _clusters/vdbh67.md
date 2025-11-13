@@ -3,7 +3,7 @@ layout: post
 title: VDBH 67
 style: style
 title_flag: true
-more_names: ESO 212 07; vdBergh-Hagen 67; FSR 1486; MWSC 1669; BH 67
+more_names: vdBergh-Hagen 67; ESO 212 07; FSR 1486; MWSC 1669; BH 67
 fname: vdbh67
 fov: 0.06
 ra_icrs: 141.68196
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    VDBH 67 is a rich, very dense object of intermediate C3 quality. It is well-studied in the literature.
+    <b>VDBH 67</b> is a rich, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.8
