@@ -12,18 +12,18 @@ glon: 248.65655
 glat: -13.42709
 r50: 34.1
 plx: 3.6032
-UTI: "0.00"
-UTI_COLOR: "#e0a6b3"
+UTI: "0.01"
+UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#e0a6b3"
+UTI_C_dup_COL: "#e1a7b3"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.0
+UTI_C_dup: 0.01
 UTI_summary: |
     <b>OCSN 210</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
@@ -45,8 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2385](/_clusters/fof2385/)| 100.0 | 106.81 | -37.7 | 3.59 | -9.72 | 7.0 | 15.66 |0.19 |
     |[Alessi 36](/_clusters/alessi36/)| 98.7 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.34 |
-    |[UBC 7](/_clusters/ubc7/)| 54.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.7 |
+    |[UBC 7](/_clusters/ubc7/)| 54.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.73 |
     |[Collinder 135](/_clusters/collinder135/)| 4.4 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 ---

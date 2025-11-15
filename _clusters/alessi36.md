@@ -50,8 +50,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2385](/_clusters/fof2385/)| 100.0 | 106.81 | -37.7 | 3.59 | -9.72 | 7.0 | 15.66 |0.19 |
-    |[OCSN 210](/_clusters/ocsn210/)| 96.5 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.0 |
-    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.7 |
+    |[OCSN 210](/_clusters/ocsn210/)| 96.5 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.01 |
+    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.73 |
     |[Collinder 135](/_clusters/collinder135/)| 4.3 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 ---

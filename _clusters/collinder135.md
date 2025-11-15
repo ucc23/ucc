@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 135</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 4 later reported entries.
+    <b>Collinder 135</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 50.4
@@ -72,8 +72,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2385](/_clusters/fof2385/)| 11.4 | 106.81 | -37.7 | 3.59 | -9.72 | 7.0 | 15.66 |0.19 |
     |[Alessi 36](/_clusters/alessi36/)| 2.4 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.34 |
-    |[OCSN 210](/_clusters/ocsn210/)| 2.4 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.0 |
-    |[UBC 7](/_clusters/ubc7/)| 0.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.7 |
+    |[OCSN 210](/_clusters/ocsn210/)| 2.4 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.01 |
+    |[UBC 7](/_clusters/ubc7/)| 0.7 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.73 |
 ---
