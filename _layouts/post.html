@@ -64,9 +64,7 @@ layout: default
                                   <td style="text-align: center; background-color: {{page.UTI_C_lit_COL}}; font-weight: bold;">{{page.UTI_C_lit}}</td>
                                   <td style="text-align: center; background-color: {{page.UTI_C_dup_COL}}; font-weight: bold;">{{page.UTI_C_dup}}</td>
                               </tr>
-                          </table><br>
-                          <!-- Object summary follows below -->
-                          {{page.UTI_summary}}
+                          </table>
                       </div>
                   </div>
               </td>
@@ -86,12 +84,32 @@ layout: default
       </table>
   </div>
 
+  <!-- Object summary follows below -->
+  <details>
+    <summary>Summary</summary>
+    <div class="content" id="summary">
+      <p>{{page.UTI_summary}}</p>
+    </div>
+  </details>
+
   <blockquote>
     <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">SciX</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">Simbad</a></p>
   </blockquote>
 
   <h3>Positions</h3>
    {{ page.posit_table | markdownify }}
+
+
+  <details id="gcpos">
+    <summary>Galactocentric position</summary>
+    <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp" target="_blank">
+    <img data-src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp"
+         alt="Galactocentric position diagram" 
+         class="lazy-image"/>
+    </a>
+    <p style="font-size: 15px;"><a href="https://ucc.ar/faq#how-are-the-galactocentric-plots-generated" title="See FAQ">How are the galactocentric plots generated?</a></p>
+  </details>
+
 
   <blockquote>
     <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">Simbad</a></p>
@@ -198,7 +216,35 @@ layout: default
 <script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
 <script defer src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
 
+<!-- Galactocentric position lazy load -->
+<script>
+document.getElementById("gcpos").addEventListener("toggle", function () {
+  if (this.open) {
+    const img = this.querySelector("img");
+    if (!img.src) {
+      img.src = img.dataset.src;
+      img.onerror = () => img.alt = "Image failed to load";
+    }
+  }
+});
+</script>
+
+<!-- Umami -->
 <script>
 const button = document.getElementById('UTI-button');
 button.onclick = () => umami.track('UTI');
+
+const d1 = document.getElementById('summary').closest('details');
+d1.addEventListener('toggle', () => {
+  if (d1.open) {
+    umami.track('summary');
+  }
+});
+
+const d2 = document.getElementById('gcpos').closest('details');
+d2.addEventListener('toggle', () => {
+  if (d2.open) {
+    umami.track('gcpos');
+  }
+});
 </script>
