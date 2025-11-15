@@ -6,7 +6,15 @@ style: style
 
 <html lang="en">
     <body>
-        <div id="map_plot"></div>
+
+<!--   <details>
+    <summary>Map</summary>
+    <div class="content" id="search_map">
+      <div id="map_plot"></div>
+    </div>
+  </details> -->
+
+  <div id="map_plot"></div>
 
         <div id="download-container" style="text-align: right; margin-bottom: 10px;">
             <button id="downloadCSV" 
@@ -52,6 +60,10 @@ style: style
             <div class="separator"></div>
             <input id="uti_min" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI min" title="Minimum UTI value">
             <input id="uti_max" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI max" title="Maximum UTI value">
+          </div>
+
+          <div class="search-row search-checkbox">
+            <label><input type="checkbox" id="filterOCs">Hide likely non-clusters</label>
           </div>
 
           <button id="searchButton" type="button">Search</button>

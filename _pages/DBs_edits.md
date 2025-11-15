@@ -44,7 +44,6 @@ classes:
 a = possible asterism/dust hole/star cloud (no cluster)
 cr =  Cluster Remnant (Pavani and Bica 2007A&A...468..139P)
 d = dubious, objects considered doubtful by the DSS images inspection
-e = embedded open cluster (or cluster associated with nebulosity)
 g = possible globular cluster
 m = possible moving group
 n = "non-existent NGC" (RNGC, Sulentic, 1979, Cat. VII/1). Some of Bica's POCRs (Possible Open Cluster Remnant, 2001A&A...366..827B) are also "non-existent NGC" objects.
@@ -111,6 +110,84 @@ incorrectly uploaded to Vizier:
 
 Collinder 197: 261.7 +08.9 --> 261.7 +0.89
 IC 1848      : 137.2 +00.1 --> 137.2 +1.00
+
+
+## Froebrich et al. 2007
+
+[A systematic survey for infrared star clusters with |b|<20º using 2MASS](https://ui.adsabs.harvard.edu/abs/2007MNRAS.374..399F)
+
+Renamed column `FRS -> ID`. Added `FSR_` prefix to the IDs.
+
+Added columns for (RA, DEC) in degrees (from hms).
+
+Removed `[, ]` characters from names.
+
+Removed:
+
+- `FSR_1716` identified as a GC
+- `FSR_808, FSR_837, FSR_765`, identified in the UCC as the same entries as
+  `FSR_805, FSR_835, FSR_764`
+
+Combined columns `ID` with `Ident` which contains secondary names. The `Ident`
+column is defined in the article as: *Name of possible known cluster with erroneous
+coordinates in SIMBAD.* There are eight entries in this DB that appear listed
+as separate objects in the UCC after this merge. Below I detail how these were
+handled.
+
+### Entries only mentioned in BICA2019
+
+These FSR objects are only mentioned in `BICA2019` as individual entries, but in
+this article they are listed with the following associated names in the `Ident`
+column:
+
+- fsr0297 --> teutsch144
+- fsr0380 --> ngc7438
+- fsr0911 --> bochum1
+- fsr1071 --> ngc2301
+- fsr1557 --> teutsch31
+- fsr1681 --> ngc5606
+
+
+Fixes:
+
+- fsr0297 --> BICA2019: removed 'FSR 297' entry and added 'FSR 297' as alternative name to 'Teutsch 144'
+- fsr0380 --> BICA2019: removed 'FSR 380' entry and added 'FSR 380' as alternative name to 'NGC 7438' 
+- fsr0911 --> BICA2019: added 'bochum 1' to 'FSR 911'
+- fsr1071 --> BICA2019: removed 'FSR 1071' entry and added 'FSR 1071' as alternative name to 'NGC 2301'
+- fsr1557 --> BICA2019: removed 'FSR 1557' entry and added 'FSR 1557' as alternative name to 'Teutsch 31'
+- fsr1681 --> BICA2019: removed entry; DIAS2002: added 'fsr 1681' as alternative name to 'NGC 5606'
+
+
+
+### fsr 1436
+
+Froebrich (2007) lists `fsr1436` associated to `ngc2645`.
+Glushkova (2010) lists `fsr1436` associated to `sai92`
+
+The `pismis6,ngc2645` entry is much more accepted so I add `pismis6` as a secondary
+name of `SAI 92` in `GLUSHKOVA2010`.
+
+
+### kronberger 6 & kronberger 60
+
+Froebrich (2007) lists `fsr0827` associated to `kronberger60`.
+
+`fsr0827` is associated to `kronberger6` in Bica et al (2019).
+
+The `kronberger60` entry is only mentioned in Dias et al (2002), which
+does not list `kronberger6`. The OC `kronberger60` also appears in
+[Kronberger et al (2006)](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract), which has no mention of `kronberger6`. The DIAS2002
+catalogue was done with collaboration in [private communication with Kronberger](https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/openclust.html#type_flag).
+
+Both `kronberger6` and `kronberger60` have almost the same (ra, dec) coordinates:
+
+- `kronberger6` : 91.091  31.607
+- `kronberger60`: 91.042  31.496
+
+This all points to an error somewhere where the names `kronberger6` and `kronberger60`
+were swapped. The entry `kronberger6` has the most associated articles. I
+thus add this as the primary identification to DIAS2002.
+
 
 
 ## Koposov et al. 2008
@@ -407,15 +484,6 @@ Renamed:
 - vdBergh --> VDB
 
 
-## Castro-Ginard et al. 2020
-
-[Hunting for open clusters in Gaia DR2: 582 new open clusters in the Galactic disc](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract)
-
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/635/A45) table contains 570 UBC clusters.
-
-Fixed wrong ra coordinates for UBC595 and UBC181.
-
-
 ## Ferreira et al. 2019
 
 [Three new Galactic star clusters discovered in the field of the open cluster
@@ -431,12 +499,23 @@ Added `(RA_ICRS,DE_ICRS)` columns (converted from `h:m:s` and `d:m:s`).
 
 [A Catalog of Newly Identified Star Clusters in Gaia DR2](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...32L/abstract)
 
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/245/32) table contains 76 clusters with no acronym given. Neither Table 1 nor
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/245/32) Table 3 contains 76 clusters with no acronym given. Neither Table 1 nor
 3 in Vizier assign and ID to the entries, only numbers. They do describe the ID columns
 "Friend of Friend identifier". Also, in the article Table 1 lists the ID column as
-'FoF ID'.
+'FoF ID'. Added 'FoF_' to the entries' IDs. This also matches the HUNT23 denomination.
 
-Added 'FoF_' to the entries' IDs. This also matches the HUNT23 denomination.
+Table 1 contains 2443 entries with classes:
+
+1 = likely star cluster candidate: nG<17>=50, tage>5Myr, rn<0.1, d2<0.05 (569 occurrences)
+2 = nearby star cluster candidate that need further confirmation:
+    nG<17>=50, tage>5Myr, rn<0.1 (127 occurrences)
+3 = star cluster candidate that need further confirmation (1747 occurrences)
+
+Table 1 also has a 'n_ID' column that indicates if the entry is new, which identifies
+the 76 clusters also present in Table 1.
+
+I discard all Class 2 and 3 entries. I also discard from Class 1 FoF entries that
+have no assigned CG18 id.
 
 Added VDBH_ to the BH_ entries.
 
@@ -447,6 +526,38 @@ Added VDBH_ to the BH_ entries.
 
 Data taken from Table 2 in the online article (contains 207 UPK clusters)
 Added `(ra, dec)` columns and a `plx` column estimated as 1000/dist_pc.
+
+
+
+## Castro-Ginard et al. 2020
+
+[Hunting for open clusters in Gaia DR2: 582 new open clusters in the Galactic disc](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/635/A45) table contains 570 UBC clusters.
+
+Fixed wrong ra coordinates for UBC595 and UBC181.
+
+### Duplicated entries in other works
+
+"we find that one of these objects, UPK 19, corresponds to UBC 32, already
+reported by CG18" --> Added UBC 32 as primary denomination of UPK 19 in SIM2019
+
+"Liu & Pang (2019) ... we find 4 coincidences with CG18 and CG19. These are the cases
+for their clusters with IDs 1973, 2143, 2230, and 2385 which are identified with
+UBC 74, UBC 72, UBC 56, and UBC 7" --> These were already identified as UBC entries
+
+### Vizier duplicates
+
+"eight of our OC candidates are identified with one UPK object (Sim et al 2019)" -->
+Does not specify the names
+
+"we find 45 cases that are compatible with one of the 76 from Liu & Pang (2019)" -->
+Does not specify the names
+
+The Vizier table shows 51 UBC objects with the 'a' note which indicates duplication
+with either of those articles (SIM2019, LIUPANG2019), but does not indicate which ones.
+There is also a 'b' note which indicates 'tentative identification with Kharchenko',
+also with no names given.
 
 
 ## Cantat-Gaudin et al. 2020
@@ -627,6 +738,23 @@ Changes to names:
 - BH --> VDBH
 - Sigma_Ori --> Sigma_Orionis
 - Changed 'LP_' to 'FoF_'
+
+14 entries named 'H21OC_*' are 'hxhwl*' entries from He et al 2021. Renamed them as
+follows:
+- H21OC_10 --> HXHWL 10, H21OC_10
+- H21OC_12 --> HXHWL 12, H21OC_12
+- H21OC_17 --> HXHWL 17, H21OC_17
+- H21OC_18 --> HXHWL 18, H21OC_18
+- H21OC_22 --> HXHWL 22, H21OC_22
+- H21OC_26 --> HXHWL 26, H21OC_26
+- H21OC_32 --> HXHWL 32, H21OC_32
+- H21OC_33 --> HXHWL 33, H21OC_33
+- H21OC_39 --> HXHWL 39, H21OC_39
+- H21OC_42 --> HXHWL 42, H21OC_42
+- H21OC_45 --> HXHWL 45, H21OC_45
+- H21OC_5  --> HXHWL 5, H21OC_5
+- H21OC_54 --> HXHWL 54, H21OC_54
+- H21OC_69 --> HXHWL 69, H21OC_69
 
 
 ## Li et al. 2022

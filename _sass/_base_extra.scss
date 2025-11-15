@@ -123,8 +123,8 @@ p > img {
 // Blockquotes: spaced out, padded, gray italic text, larger font, with a light purple background
 .post {
   blockquote {
-    margin: 1.8em 0em;
-    padding: 0.1em 1em;
+    margin: 1em 0em;
+    // padding: 1em 0;
     color: $gray;
     font-size: 22px;
     font-style: italic;
@@ -169,3 +169,55 @@ body:after {
   font-kerning: auto;
   line-height: 1.2;
 }
+
+
+// Summary
+
+details {
+  width: 100%;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  padding: 0.25rem;
+  margin: 0 auto;              /* center container */
+  text-align: center;          /* center content */
+  margin: 0.5em auto 0;
+}
+
+/* background only when not open */
+details:not([open]) {
+  background: #fff4e0;
+}
+
+summary {
+  display: flex;               /* allow centering */
+  justify-content: center;     /* center Summary text */
+  cursor: pointer;
+  list-style: none;
+  font-weight: 600;
+  outline: none;
+}
+
+summary::-webkit-details-marker { display: none; }
+
+summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform .18s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.content {
+  margin-top: 0.5rem;
+  line-height: 1.45;
+  text-align: center;          /* center inner text */
+  border: 2px solid #000;      /* example: black border, 2px thick */
+  padding: 0.5rem;               /* space between text and border */
+  border-radius: 0.5rem;       /* optional: rounded corners */
+}
+
+// Lazy Loaded Images
+.lazy-image { width: 100%; height: auto; }

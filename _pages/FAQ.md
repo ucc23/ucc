@@ -14,8 +14,9 @@ listed here.
 - [How are member stars selected?](#how-are-member-stars-selected)
 - [What is the C3 parameter?](#what-is-the-c3-parameter)
 - [What is the UTI parameter?](#what-is-the-uti-parameter)
-- [How can I cite the UCC?](#how-can-i-cite-the-ucc)
+- [How are the galactocentric plots generated?](#how-are-the-galactocentric-plots-generated)
 - [Random cluster navigation](#random-cluster-navigation)
+- [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 
 
 
@@ -97,6 +98,24 @@ normalized estimates of:
 
 
 
+## How are the galactocentric plots generated?
+
+The Sun and the Galactic center are represented by the yellow star and the black X,
+respectively. The spiral arms are taken from [Momany et al (2006)](https://scixplorer.org/abs/2006A&A...451..515M/abstract). The
+(X_GC, Y_GC, Z_GC) values are estimated applying a -0.02 parallax zero-point offset
+position of -0.02 [mas] (taken as a reasonable average, see e.g.
+[Ding et al. (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/adba44)). The minimum accepted parallax value is 0.035 (~29 Kpc).
+Radial velocities are used when available and set to 0.0 Km/s when they are not.
+
+
+
+## Random cluster navigation
+
+You can navigate to a random cluster page by searching the keyword _"random"_ on the
+[main search page]({{ site.baseurl }}/), or directly accessing
+<a data-umami-event="random_faq" href="{{ site.baseurl }}/random/">the random url</a>.
+
+
 ## How can I cite the UCC?
 
 If you found the UCC useful for your research, please reference its original article
@@ -125,10 +144,3 @@ BibTeX entry for the original article:
 ```
 {% endraw %}
 
-
-
-## Random cluster navigation
-
-You can navigate to a random cluster page by searching the keyword _"random"_ on the
-[main search page]({{ site.baseurl }}/), or directly accessing
-<a data-umami-event="random_faq" href="{{ site.baseurl }}/random/">the random url</a>.

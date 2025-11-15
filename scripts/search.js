@@ -10,7 +10,11 @@ export function generalSearch(d, coordsys, query) {
         y = parseFloat(xy[1]);
     } else {
         // Globally removes spaces, underscores, periods, and hyphens, globally replaces '+' with 'p'
-        normalizedQuery = query.replace(/[\s_.\-]/g, "").replace(/\+/g, "p");
+        normalizedQuery = query
+          .trim()
+          .toLowerCase()
+          .replace(/[\s_.\-]/g, "")
+          .replace(/\+/g, "p");
     }
 
     let distance = Infinity;
@@ -29,9 +33,9 @@ export function generalSearch(d, coordsys, query) {
             distance = Math.min(
                     ...fnames.map(fname => stringDifference(normalizedQuery, fname))
                 );
-            // Add a small penalty if there are multiple fnames
-            if (distance > 0 && N_fnames > 1) {
-                distance += 0.05 * N_fnames;
+            // Add a small penalty for entries with main fname that do not begin with the same first 3 characters
+            if (distance > 0 & !fnames[0].includes(normalizedQuery.slice(0, 3))) {
+                distance += 0.1;
             }
         }
     }

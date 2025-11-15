@@ -9,6 +9,14 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [251115](https://doi.org/10.5281/zenodo.17618010)
+
+- Added summary and GC position
+- Added 'bad_oc' column to identify entries likely to be not OCs
+- Added the FROEBRICH2007 database
+- Updated a few entries that were identified as duplicates
+
+
 ## Version [251022](https://doi.org/10.5281/zenodo.17415886)
 
 - Added UTI (UCC Trust Index)

@@ -34,19 +34,19 @@
   display: none;
   position: fixed;
   top: 55%;
-  // top: 50px;
   left: 50%;
   transform: translate(-50%, -50%);
   background: #fff;
   color: #000;
-  padding: 8px 12px;
+  // padding: 8px 12px;
+  padding: 1rem;
   border-radius: 6px;
   max-width: 50ch;         /* limit to ~50 characters per line */
   text-align: center;      /* center all text */
   white-space: normal;     /* allow wrapping */
   word-wrap: break-word;   /* force wrap if needed */
   z-index: 10;
-  border: 2px solid blue;
+  border: 2px solid black;
 }
 
 .popup-button-focus:focus + .popup-message-focus {

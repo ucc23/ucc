@@ -110,7 +110,7 @@ const tableContainer = select("#table_results")
 
 // Convert data to CSV format
 function convertToCSV(points) {
-    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI"];
+    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI", "bad_oc"];
     const csvContent = [
         headers.join(","), // Header row
         ...points.map(d => [
@@ -122,10 +122,11 @@ function convertToCSV(points) {
             d.dist_pc.toFixed(0),
             d.membs,
             d.c3,
-            d.uti
+            d.uti,
+            d.badoc
         ].join(","))
     ].join("\n");
-    
+
     return csvContent;
 }
 
@@ -147,7 +148,9 @@ function downloadCSV(points) {
 }
 
 
-function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter) {
+function getPoints(
+    query, coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax,
+    c3Filter, filterOCs) {
     // If 'query' is empty return empty array
     if (!query || query.trim() === "") {
         return [];
@@ -168,7 +171,6 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
     if (isNaN(distmax)) {
         distmax = 50001;
     }
-    console.log(n50min, n50max);
     n50min = parseFloat(n50min);
     if (isNaN(n50min)) {
         n50min = 0;
@@ -202,6 +204,7 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
                 membs: parseFloat(d.N_50),
                 uti: parseFloat(d.UTI),
                 c3: d.C3,
+                badoc: d.bad_oc,
                 coordinates: projection([parseFloat(d.GLON), parseFloat(d.GLAT)])
             };
         })
@@ -213,6 +216,11 @@ function getPoints(query, coordsys, radius, distmin, distmax, n50min, n50max, ut
     // Apply C3 filter if set
     if (c3Filter) {
         results = results.filter(d => d.c3 === c3Filter);
+    }
+
+    // Apply bad OC filter if set
+    if (filterOCs) {
+        results = results.filter(d => d.badoc === "n");
     }
 
     // // Return only exact matches if any found
@@ -264,10 +272,13 @@ function buildTable(points, circles, sizeScale, coordsys) {
         const xCoord = coordsys === "gal" ? d.lon : d.ra;
         const yCoord = coordsys === "gal" ? d.lat : d.dec;
 
+        const nameStyle = d.badoc === "y" ? 'style="color:red;"' : "";
+        // const btitle = d.badoc === "y" ? `${d.name.slice(0, 20)} *` : `${d.name.slice(0, 20)}`;
+
         tableBody += `
             <tr data-index="${i}">
                 <td class="left">
-                  <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}">
+                  <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}" ${nameStyle}>
                     ${d.name.slice(0, 20)}
                   </a>
                 </td>
@@ -293,7 +304,6 @@ function buildTable(points, circles, sizeScale, coordsys) {
     const table = document.getElementById("resultsTable");
 
     // Only enable hover if fewer than 100 rows
-    // if (points.length < 5000) {
     handleRowHover(table, points, circles, sizeScale);
 
     // Enable sorting
@@ -402,35 +412,41 @@ function displayData(points) {
 
 const data = await loadCompressedCsv();
 
+function getInputValues() {
+    return {
+        search: document.getElementById("search").value,
+        radius: document.getElementById("radius").value,
+        distmin: document.getElementById("dist_min").value,
+        distmax: document.getElementById("dist_max").value,
+        n50min: document.getElementById("n50_min").value,
+        n50max: document.getElementById("n50_max").value,
+        utimin: document.getElementById("uti_min").value,
+        utimax: document.getElementById("uti_max").value,
+        c3Filter: document.getElementById("c3Filter").value,
+        filterOCs: document.getElementById("filterOCs").checked,
+    };
+}
+
 // Update the display with current input values
 function updateDisplay() {
-    const search = document.getElementById("search").value;
-    const radius = document.getElementById("radius").value;
-    const distmin = document.getElementById("dist_min").value;
-    const distmax = document.getElementById("dist_max").value;
-    const n50min = document.getElementById("n50_min").value;
-    const n50max = document.getElementById("n50_max").value;
-    const utimin = document.getElementById("uti_min").value;
-    const utimax = document.getElementById("uti_max").value;
-    const c3Filter = document.getElementById("c3Filter").value;
-
-    const points = getPoints(search, window.coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter);
+    const v = getInputValues();
+    const points = getPoints(
+        v.search, window.coordsys, v.radius,
+        v.distmin, v.distmax, v.n50min, v.n50max,
+        v.utimin, v.utimax, v.c3Filter, v.filterOCs
+    );
     const { circles, sizeScale } = displayData(points);
     buildTable(points, circles, sizeScale, window.coordsys);
 }
 
 // Function to download the data as CVS
 function getCSV() {
-    const search = document.getElementById("search").value;
-    const radius = document.getElementById("radius").value;
-    const distmin = document.getElementById("dist_min").value;
-    const distmax = document.getElementById("dist_max").value;
-    const n50min = document.getElementById("n50_min").value;
-    const n50max = document.getElementById("n50_max").value;
-    const utimin = document.getElementById("uti_min").value;
-    const utimax = document.getElementById("uti_max").value;
-    const c3Filter = document.getElementById("c3Filter").value;
-    const points = getPoints(search, window.coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax, c3Filter);
+    const v = getInputValues();
+    const points = getPoints(
+        v.search, window.coordsys, v.radius,
+        v.distmin, v.distmax, v.n50min, v.n50max,
+        v.utimin, v.utimax, v.c3Filter, v.filterOCs
+    );
     downloadCSV(points);
 }
 
