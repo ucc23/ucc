@@ -37,6 +37,8 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 51.079 | 49.862 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 51.079 | 49.862 | -- | 22.41 | -25.87 | -1.39 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 50.488 | 48.622 | -- | -- | -- | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 51.483 | 49.123 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 51.483 | 49.123 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 51.675 | 48.8 | -- | 21.49 | -26.11 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 50.145 | 48.167 | -- | 22.261 | -25.998 | -1.4 |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 51.617 | 48.975 | -- | -- | -- | -- |
@@ -60,6 +62,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.099, DM0=5.94, log_age_=7.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.09, Dist=185.0, Age=7.854, [Fe/H]=0.04` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.09, HDis=185, Age=0.07, [Fe/H]_1=-0.05` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.09, Dist=190, logt=7.55, logM=4.075` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.09, Dist=190, logt=7.55, logM=4.186, logMA=3.863` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.09, distance=175, log_age=7.7` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.09, Dmod=6.323, logt=7.854` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.055, Dist=5.824, logA=7.938, Fe/H=0.14` |

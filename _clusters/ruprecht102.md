@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 102
 style: style
 title_flag: true
-more_names: NGC 4184; OCL 877; VDBH 128; vdBergh-Hagen 128; ESO 130 10; MWSC 2007
+more_names: VDBH 128; NGC 4184; OCL 877; vdBergh-Hagen 128; ESO 130 10; MWSC 2007
 fname: ruprecht102
 fov: 0.057
 ra_icrs: 183.39195

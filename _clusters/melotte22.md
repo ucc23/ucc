@@ -3,7 +3,7 @@ layout: post
 title: Melotte 22
 style: style
 title_flag: true
-more_names: Pleiades; Messier 45; MWSC 305; OCL 421; Collinder 42; M45; Escorial 1; OCSN 219
+more_names: Collinder 42; Pleiades; Messier 45; M45; OCL 421; Escorial 1; MWSC 305; OCSN 219
 fname: melotte22
 fov: 3.183
 ra_icrs: 56.59978
@@ -37,6 +37,8 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 56.75 | 24.117 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 56.75 | 24.117 | -- | 19.88 | -45.0 | 5.94 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 56.75 | 24.118 | -- | 19.15 | -45.72 | 5.6 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 56.832 | 24.118 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 56.832 | 24.118 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 56.505 | 24.37 | -- | 19.4 | -46.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 56.745 | 24.117 | -- | 19.85 | -44.81 | 5.5 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 56.743 | 24.124 | -- | -- | -- | -- |
@@ -61,6 +63,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.04, DM0=5.47, log_age_=8.05` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=133.0, Age=8.131, [Fe/H]=-0.03` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.03, HDis=150, Age=0.13, [Fe/H]_1=-0.03` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.02, Dist=130, logt=8.08, logM=3.492` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.02, Dist=130, logt=8.08, logM=3.54, logMA=2.672` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.021, distance=130, log_age=8.15, metallicity=-0.036` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.03, Dmod=5.84, logt=8.131` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.14, Dist=5.667, logA=7.937, Fe/H=0.0` |

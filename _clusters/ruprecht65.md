@@ -12,17 +12,17 @@ glon: 263.07732
 glat: -1.54577
 r50: 3.9
 plx: 0.4408
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.84"
+UTI_COLOR: "#bee2c6"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Ruprecht 65</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 129.817 | -44.05 | -- | -0.51 | 1.79 | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 129.802 | -44.052 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 129.817 | -44.07 | -- | -7.1 | 3.5 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 129.813 | -44.046 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 129.838 | -44.041 | 0.412 | -4.746 | 4.245 | -- |
@@ -49,6 +50,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.07, Dist=500.0, Age=8.57` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.07, Dist=500, logt=8.57, logMA=1.773` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.071, distance=786, log_age=8.82` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.71, DMNN=11.91, AgeNN=7.36` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.681, Dist=2021, logage=7.656, [Fe/H]=0.089` |

@@ -12,17 +12,17 @@ glon: 27.24336
 glat: -0.3987
 r50: 7.7
 plx: 0.2788
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#f6fbdc"
 UTI_C_dens_COL: "#fbccbd"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#c9e8c8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.2
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 145</b> is a moderately populated, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 280.621 | -5.253 | -- | -1.68 | -7.66 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 280.62 | -5.253 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 280.622 | -5.25 | -- | -1.68 | -7.66 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 280.623 | -5.252 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 280.617 | -5.249 | 0.264 | -1.635 | -3.436 | -- |

@@ -12,20 +12,20 @@ glon: 78.19225
 glat: 2.7765
 r50: 8.9
 plx: 0.9735
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.91"
+UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 419</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
+    <b>Collinder 419</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.9
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 304.529 | 40.732 | -- | -2.15 | -6.28 | -8.22 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 304.498 | 40.714 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 304.53 | 40.725 | -- | -2.21 | -6.31 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 304.53 | 40.732 | -- | -1.017 | -1.279 | -8.3 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 304.534 | 40.732 | 0.952 | -2.708 | -6.382 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.34, Dist=740.0, Age=6.85` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.34, Dist=740, logt=6.85, logMA=2.169` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=871, log_age=7.1` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.958, Dmod=11.201, logt=7.55` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.17, DMNN=10.01, AgeNN=7.29` |

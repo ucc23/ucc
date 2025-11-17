@@ -12,17 +12,17 @@ glon: 75.34555
 glat: -0.50404
 r50: 1.3
 plx: 0.2824
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.81"
+UTI_COLOR: "#c6e6c8"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Kronberger 57</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 305.988 | 36.605 | -- | -2.35 | -2.01 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 305.99 | 36.605 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 305.988 | 36.6 | -- | -2.35 | -2.01 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 305.985 | 36.6 | -- | -0.379 | -0.973 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 305.989 | 36.607 | -- | -- | -- | -- |

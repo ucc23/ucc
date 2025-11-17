@@ -12,17 +12,17 @@ glon: 309.6191
 glat: -1.42901
 r50: 36.5
 plx: 2.2212
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Platais 12</b> is a rich, very dense object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.
@@ -34,6 +34,8 @@ scix_url: Platais%2012
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 208.12 | -63.366 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 208.12 | -63.366 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 208.148 | -63.405 | -- | -8.05 | -4.62 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 207.93 | -63.453 | -- | -8.29 | -5.04 | -12.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 207.912 | -63.45 | -- | -- | -- | -- |
@@ -47,6 +49,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.1, Dist=435, logt=8.23, logM=3.38` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.1, Dist=435, logt=8.23, logM=3.669, logMA=3.507` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.135, distance=491, log_age=8.4, metallicity=0.027` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.1, Dmod=8.137, logt=8.23` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.55, logAge=7.9` |

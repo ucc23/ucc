@@ -3,7 +3,7 @@ layout: post
 title: Melotte 101
 style: style
 title_flag: true
-more_names: Collinder 227; OCL 841; VDBH 101; vdBergh-Hagen 101; ESO 093 01; FSR 1564; FoF 44
+more_names: Collinder 227; VDBH 101; OCL 841; vdBergh-Hagen 101; ESO 093 01; FSR 1564; FoF 44
 fname: melotte101
 fov: 0.19
 ra_icrs: 160.54797
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 160.55 | -65.1 | -- | -4.31 | 0.79 | 69.13 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 160.542 | -65.098 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 160.542 | -65.098 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 160.567 | -65.095 | -- | -5.6 | 3.0 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 160.553 | -65.089 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 160.554 | -65.109 | 0.447 | -6.319 | 3.468 | -- |
@@ -51,6 +53,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.48, Dist=1995.0, Age=7.89` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.46, Dist=1995, logt=8.35, logM=2.566` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.46, Dist=1995, logt=8.35, logM=3.255, logMA=3.262` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.448, distance=1999, log_age=8.1` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.204, Z=-0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.91, DMNN=11.53, AgeNN=8.22` |

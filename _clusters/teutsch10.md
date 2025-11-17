@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 10
 style: style
 title_flag: true
-more_names: Koposov 49; MWSC 661; FSR 0829; DSH J0544.3+2848
+more_names: Koposov 49; DSH J0544.3+2848; FSR 0829; MWSC 661
 fname: teutsch10
 fov: 0.073
 ra_icrs: 86.0952
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 86.092 | 28.82 | -- | -2.55 | -1.41 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 86.096 | 28.815 | -- | -- | -- | -- |
     |[Koposov et al. (2008)](https://scixplorer.org/abs/2008A%26A...486..771K) | 86.093 | 28.82 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 86.093 | 28.82 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 86.108 | 28.825 | -- | 2.1 | -0.59 | -- |

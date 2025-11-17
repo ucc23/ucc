@@ -3,7 +3,7 @@ layout: post
 title: Herschel 1
 style: style
 title_flag: true
-more_names: FSR 1141; ASCC 41; MWSC 1335; MWSC 1337; ADS 6366; OCSN 130
+more_names: FSR 1141; ASCC 41; ADS 6366; MWSC 1335; MWSC 1337; OCSN 130
 fname: herschel1
 fov: 1.337
 ra_icrs: 116.70008
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 116.758 | 0.018 | -- | 1.93 | -3.93 | -- |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 116.667 | -0.067 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 116.755 | 0.02 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 116.745 | 0.02 | -- | 1.76 | -3.43 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 116.76 | -0.019 | -- | 1.93 | -3.93 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 116.755 | 0.02 | -- | -- | -- | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.02, Dist=370.0, Age=8.44` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.02, Dist=370, logt=8.44, logMA=1.708` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.021, distance=397, log_age=8.7` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.02, Dmod=8.127, logt=8.44` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.072, Dist=7.226, logA=8.04, Fe/H=0.0` |

@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 31
 style: style
 title_flag: true
-more_names: FSR 1012; MWSC 1032; Biurakan 7; OCL 513
+more_names: Biurakan 7; OCL 513; FSR 1012; MWSC 1032
 fname: berkeley31
 fov: 0.057
 ra_icrs: 104.40725

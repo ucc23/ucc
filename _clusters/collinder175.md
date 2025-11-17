@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2533
+title: Collinder 175
 style: style
 title_flag: true
-more_names: NGC 2533; OCL 695; VDBH 18; vdBergh-Hagen 18; ESO 430 19; FSR 1338; MWSC 1432; FoF 387
+more_names: VDBH 18; NGC 2533; OCL 695; vdBergh-Hagen 18; ESO 430 19; FSR 1338; MWSC 1432; FoF 387
 fname: collinder175
 fov: 0.187
 ra_icrs: 121.76582
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2533</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 175</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.6
 N_50_val: 288
-scix_url: NGC%202533
+scix_url: Collinder%20175
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

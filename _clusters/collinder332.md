@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Harvard 16
+title: Collinder 332
 style: style
 title_flag: true
-more_names: Harvard 16; ESO 393 02; vdBergh-Hagen 230; VDBH 230; MWSC 2616; OCL 1012; OCL 1010; FoF 865
+more_names: VDBH 230; Harvard 16; OCL 1012; OCL 1010; vdBergh-Hagen 230; ESO 393 02; MWSC 2616; FoF 865
 fname: collinder332
 fov: 0.213
 ra_icrs: 262.76872
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Harvard 16</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Collinder 332</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4
 N_50_val: 458
-scix_url: Harvard%2016
+scix_url: Collinder%20332
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

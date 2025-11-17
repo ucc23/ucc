@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 2645
+title: Pismis 6
 style: style
 title_flag: true
 more_names: NGC 2645; FSR 1436; SAI 92
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2645</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 4 later reported entries.
+    <b>Pismis 6</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 4 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.0
 N_50_val: 191
-scix_url: NGC%202645
+scix_url: Pismis%206
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -38,6 +38,7 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 129.762 | -46.233 | -- | -3.06 | 2.53 | 22.16 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 129.783 | -46.239 | -- | -4.59 | 6.15 | 20.8 |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 129.912 | -46.313 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 129.755 | -46.229 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 129.894 | -46.298 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 129.765 | -46.235 | -- | -6.35 | 7.16 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 129.765 | -46.233 | -- | -3.06 | 2.53 | 16.8 |
@@ -57,6 +58,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.444, DM0=11.18, log_age_=7.2` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.38, Dist=1668.0, Age=7.283` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1668, Age=0.01` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.38, Dist=1668, logt=7.58, logMA=2.814` |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.39, Dm=10.99, Age=8.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.381, distance=1668, log_age=7.58` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.389, Dmod=11.036, logt=7.271` |

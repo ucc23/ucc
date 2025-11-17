@@ -3,7 +3,7 @@ layout: post
 title: Collinder 258
 style: style
 title_flag: true
-more_names: Harvard 5; Har5; OCL 880; VDBH 133; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; Collinder 257; FoF 2240
+more_names: Collinder 257; VDBH 133; Harvard 5; Har5; OCL 880; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; FoF 2240
 fname: collinder258
 fov: 0.22
 ra_icrs: 186.80679
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 186.817 | -60.778 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 186.817 | -60.779 | -- | -2.94 | -1.94 | 14.9 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 186.79 | -60.762 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 186.81 | -60.779 | -- | -13.683 | -7.13 | 14.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 186.809 | -60.773 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 186.808 | -60.769 | -- | -- | -- | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.168, DM0=9.66, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.16, Dist=1184.0, Age=8.032, [Fe/H]=0.07` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=1198, logt=8.05, logMA=2.362` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.162, Dmod=10.431, logt=8.033` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.666, Dist=10.488, logA=7.823, Fe/H=-0.045` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.093, Z=0.25` |

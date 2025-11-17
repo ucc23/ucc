@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6253
+title: Melotte 156
 style: style
 title_flag: true
-more_names: NGC 6253; MWSC 2502; FSR 1730; ESO 180 02; VDBH 207; OCL 972; Collinder 321; vdBergh-Hagen 207; FoF 21
+more_names: Collinder 321; VDBH 207; NGC 6253; OCL 972; vdBergh-Hagen 207; ESO 180 02; FSR 1730; MWSC 2502; FoF 21
 fname: melotte156
 fov: 0.157
 ra_icrs: 254.78083
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6253</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 156</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.7
 N_50_val: 911
-scix_url: NGC%206253
+scix_url: Melotte%20156
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

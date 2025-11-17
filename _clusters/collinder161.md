@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2451
+title: Collinder 161
 style: style
 title_flag: true
-more_names: NGC 2451A; VDBH 9; vdBergh-Hagen 9; ESO 311 08; Escorial 24; MWSC 1308; Collinder 161; OCL 716; FoF 2437; OCSN 230
+more_names: VDBH 9; NGC 2451; NGC 2451A; OCL 716; vdBergh-Hagen 9; ESO 311 08; Escorial 24; MWSC 1308; FoF 2437; OCSN 230
 fname: collinder161
 fov: 2.22
 ra_icrs: 115.77546
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2451</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 161</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 66.6
 N_50_val: 492
-scix_url: NGC%202451
+scix_url: Collinder%20161
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 116.35 | -37.967 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 115.8 | -38.4 | -- | -22.93 | 13.39 | 22.7 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 115.316 | -38.523 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 115.316 | -38.523 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 115.335 | -38.52 | -- | -21.8 | 15.13 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 115.8 | -38.4 | -- | -22.93 | 13.39 | 22.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 116.311 | -37.953 | -- | -- | -- | -- |
@@ -57,6 +59,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.064, DM0=5.9, log_age_=7.7` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.01, Dist=189.0, Age=7.78, [Fe/H]=0.0` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.0, Dist=188, logt=7.76, logM=2.411` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.0, Dist=188, logt=7.76, logM=2.607, logMA=2.335` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=188, log_age=7.76, metallicity=-0.531` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.049, Dmod=6.615, logt=7.533` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.0, Dist=6.433, logA=7.647, Fe/H=0.0` |

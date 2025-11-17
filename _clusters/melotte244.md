@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 7762
+title: Melotte 244
 style: style
 title_flag: true
-more_names: NGC 7762; Collinder 457; OCL 280; FSR 0468; MWSC 3784; FoF 2195
+more_names: Collinder 457; NGC 7762; OCL 280; FSR 0468; MWSC 3784; FoF 2195
 fname: melotte244
 fov: 0.377
 ra_icrs: 357.45231
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 7762</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Melotte 244</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 11.3
 N_50_val: 798
-scix_url: NGC%207762
+scix_url: Melotte%20244
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 2236
+title: Collinder 94
 style: style
 title_flag: true
 more_names: NGC 2236; OCL 501; FSR 1002; MWSC 881; FoF 80
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2236</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Collinder 94</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.1
 N_50_val: 728
-scix_url: NGC%202236
+scix_url: Collinder%2094
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

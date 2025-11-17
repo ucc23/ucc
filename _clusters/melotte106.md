@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 3680
+title: Melotte 106
 style: style
 title_flag: true
-more_names: NGC 3680; ESO 265 32; FSR 1548; MWSC 1942; Collinder 247; OCL 823; FoF 2260
+more_names: Collinder 247; NGC 3680; OCL 823; ESO 265 32; FSR 1548; MWSC 1942; FoF 2260
 fname: melotte106
 fov: 0.267
 ra_icrs: 171.39542
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 3680</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 106</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 8.0
 N_50_val: 93
-scix_url: NGC%203680
+scix_url: Melotte%20106
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 171.408 | -43.243 | -- | -5.42 | 2.29 | 1.28 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 171.436 | -43.26 | -- | -5.3 | 0.46 | 0.9 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 171.392 | -43.237 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 171.392 | -43.237 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 171.405 | -43.235 | -- | -5.21 | 0.77 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 171.405 | -43.243 | -- | -5.42 | 2.29 | 2.4 |
     |[Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | 171.417 | -43.236 | -- | -- | -- | -- |
@@ -58,6 +60,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.066, Dist=938.0, Age=9.077, [Fe/H]=-0.19` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.066, HDis=938, Age=1.19, [Fe/H]_1=-0.09, [Fe/H]_2=-0.06` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.07, Dist=934, logt=9.09, logM=1.702` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.07, Dist=934, logt=9.09, logM=2.124, logMA=2.04` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=946, log_age=9.2, metallicity=-0.167` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.067, Dmod=9.852, logt=9.117` |
     | [Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | `dsun=0.95, Age=1.58, Mphot=102` |

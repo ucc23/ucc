@@ -3,7 +3,7 @@ layout: post
 title: Haffner 16
 style: style
 title_flag: true
-more_names: FSR 1309; MWSC 1355; OCL 655; ESO 493 20; FoF 382
+more_names: OCL 655; ESO 493 20; FSR 1309; MWSC 1355; FoF 382
 fname: haffner16
 fov: 0.053
 ra_icrs: 117.5845
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 117.583 | -25.467 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 117.583 | -25.467 | -- | -3.4 | 2.03 | 65.8 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 117.582 | -25.459 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 117.588 | -25.457 | -- | -3.83 | 4.06 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 117.585 | -25.467 | -- | -3.4 | 2.03 | 48.7 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 117.582 | -25.459 | -- | -- | -- | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.198, DM0=12.6, log_age_=7.45` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.175, Dist=3165.0, Age=7.078, [Fe/H]=-0.111` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.18, Dist=3165, logt=7.51, logMA=3.096` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=2654, log_age=7.3, metallicity=-0.111` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.175, Dmod=12.502, logt=7.078` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.347, Z=0.25` |

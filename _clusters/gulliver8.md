@@ -12,20 +12,20 @@ glon: 173.22995
 glat: -1.55569
 r50: 11.2
 plx: 0.9026
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
 UTI_C_lit_COL: "#fee8cc"
-UTI_C_dup_COL: "#fbfde3"
+UTI_C_dup_COL: "#fee4c9"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.33
-UTI_C_dup: 0.53
+UTI_C_dup: 0.31
 UTI_summary: |
-    <b>Gulliver 8</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Gulliver 8</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 11.2
@@ -49,7 +49,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 89](/_clusters/teutsch89/)| 69.1 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.14 |
-    |[HXWHB 8](/_clusters/hxwhb8/)| 47.1 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.5 |
-    |[HXWHB 5](/_clusters/hxwhb5/)| 25.0 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.16 |
+    |[Teutsch 89](/_clusters/teutsch89/)| 69.1 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.56 |
+    |[HXWHB 8](/_clusters/hxwhb8/)| 47.1 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
+    |[HXWHB 5](/_clusters/hxwhb5/)| 25.0 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.07 |
 ---

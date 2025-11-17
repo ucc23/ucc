@@ -12,17 +12,17 @@ glon: 112.83131
 glat: 0.16296
 r50: 6.7
 plx: 0.3682
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#c9e8c8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Czernik 43</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 351.45 | 61.317 | -- | -0.76 | -2.72 | -58.05 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 351.45 | 61.312 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 351.469 | 61.375 | -- | -0.39 | -4.07 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 351.45 | 61.317 | -- | -0.407 | -3.341 | -58.0 |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 351.448 | 61.329 | 0.35 | -3.862 | -2.078 | -- |
@@ -48,6 +49,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.62, Dist=2510.0, Age=7.6` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.7, Dist=2500, logt=7.7, logMA=3.356` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.7, distance=2500, log_age=7.76` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.35, Dmod=11.382, logt=8.55` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.931, Dist=2350, logage=8.088, [Fe/H]=-0.023` |

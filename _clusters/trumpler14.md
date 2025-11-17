@@ -12,20 +12,20 @@ glon: 287.41569
 glat: -0.56052
 r50: 3.5
 plx: 0.3911
-UTI: "0.94"
-UTI_COLOR: "#abd4be"
+UTI: "1.0"
+UTI_COLOR: "#a6cab9"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Trumpler 14</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Trumpler 14</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.5
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 160.983 | -59.55 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 160.983 | -59.55 | -- | -7.25 | 2.69 | -6.74 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 160.967 | -59.548 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 160.98 | -59.549 | -- | -7.25 | 2.69 | -9.0 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 160.986 | -59.553 | 0.385 | -6.54 | 2.076 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 160.994 | -59.55 | 0.384 | -6.531 | 2.054 | -- |
@@ -51,6 +52,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.495, DM0=12.08, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.36, Dist=2900.0, Age=6.0` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.45, Dist=2753, logt=6.67, logMA=2.777` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.497, Dmod=12.491, logt=6.842` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1, DMNN=11.8, AgeNN=7.8` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.672, Dist=2147, logage=6.726, [Fe/H]=0.188` |

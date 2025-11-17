@@ -12,20 +12,20 @@ glon: 329.70515
 glat: 0.58363
 r50: 7.8
 plx: 0.3693
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.21"
+UTI_COLOR: "#fbcebe"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#fff1d4"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#afdbc2"
 UTI_C_N: 0.5
 UTI_C_dens: 0.26
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.9
 UTI_summary: |
-    <b>GLIMPSE 70</b> is a moderately populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>GLIMPSE 70</b> is a moderately populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.9) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.8
@@ -41,5 +41,7 @@ carousel: UCC
 fpars_table: |
     
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MCM 70](/_clusters/mcm70/)| 10.0 | 240.12 | -52.18 | 0.31 | -4.34 | -4.26 | -42.09 |0.32 |
 ---

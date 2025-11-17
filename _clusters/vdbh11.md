@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Czernik 32
+title: VDBH 11
 style: style
 title_flag: true
-more_names: Czernik 32; FSR 1325; ESO 494 20; MWSC 1357; OCL 683; King 24; vdBergh-Hagen 11
+more_names: Czernik 32; King 24; OCL 683; vdBergh-Hagen 11; ESO 494 20; FSR 1325; MWSC 1357
 fname: vdbh11
 fov: 0.107
 ra_icrs: 117.61832
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Czernik 32</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
+    <b>VDBH 11</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2
 N_50_val: 537
-scix_url: Czernik%2032
+scix_url: VDBH%2011
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

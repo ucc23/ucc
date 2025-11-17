@@ -12,17 +12,17 @@ glon: 246.70208
 glat: -1.88937
 r50: 2.8
 plx: 0.1058
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 0.67
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 62</b> is a rich, moderately dense object of intermediate C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
@@ -34,6 +34,7 @@ scix_url: Teutsch%2062
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 117.952 | -30.63 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 117.945 | -30.627 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 117.931 | -30.639 | 0.11 | -1.404 | 1.852 | 114.099 |
     | **UCC** |117.949 | -30.626 | 0.106 | -1.471 | 1.856 | 94.718 | 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 3228
+title: Collinder 218
 style: style
 title_flag: true
-more_names: NGC 3228; OCL 800; VDBH 93; vdBergh-Hagen 93; ESO 214 01; MWSC 1794; FoF 2420; OCSN 235
+more_names: VDBH 93; NGC 3228; OCL 800; vdBergh-Hagen 93; ESO 214 01; MWSC 1794; FoF 2420; OCSN 235
 fname: collinder218
 fov: 1.11
 ra_icrs: 155.3559
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 3228</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 218</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 33.3
 N_50_val: 267
-scix_url: NGC%203228
+scix_url: Collinder%20218
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 155.342 | -51.728 | -- | -15.64 | -0.05 | -22.39 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 155.327 | -51.729 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 155.355 | -51.73 | -- | -13.5 | 0.03 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 155.34 | -51.727 | -- | -15.64 | -0.05 | -22.4 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 155.355 | -51.74 | -- | -- | -- | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.028, Dist=544.0, Age=7.932, [Fe/H]=0.03` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.03, Dist=499, logt=8.43, logMA=0.832` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.029, distance=573, log_age=8.42` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.123, Dmod=9.484, logt=8.083` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.131, Dist=8.341, logA=7.424, Fe/H=0.01` |

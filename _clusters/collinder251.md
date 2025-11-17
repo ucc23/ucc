@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 4052
+title: Collinder 251
 style: style
 title_flag: true
-more_names: NGC 4052; OCL 870; VDBH 126; vdBergh-Hagen 126; ESO 094 10; MWSC 1991; FoF 1123
+more_names: VDBH 126; NGC 4052; OCL 870; vdBergh-Hagen 126; ESO 094 10; MWSC 1991; FoF 1123
 fname: collinder251
 fov: 0.15
 ra_icrs: 180.45645
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 4052</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 251</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 257
-scix_url: NGC%204052
+scix_url: Collinder%20251
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 180.258 | -63.225 | -- | -3.48 | 0.38 | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 180.281 | -63.22 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 180.315 | -63.215 | -- | -7.24 | -1.44 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 180.255 | -63.224 | -- | -3.48 | 0.38 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 180.507 | -63.22 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.156, Dist=1209.0, Age=8.495` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=1209, logt=8.4, logMA=2.265` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.156, distance=1210, log_age=8.4` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.156, Dmod=10.413, logt=8.495` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.576, Z=0.25` |

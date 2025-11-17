@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2384
+title: Collinder 143
 style: style
 title_flag: true
-more_names: NGC 2384; Collinder 142; OCL 618; ESO 559 09; MWSC 1216
+more_names: Collinder 142; NGC 2384; OCL 618; ESO 559 09; MWSC 1216
 fname: collinder143
 fov: 0.213
 ra_icrs: 111.3092
@@ -25,17 +25,18 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2384</b> is a moderately populated, loose object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>Collinder 143</b> is a moderately populated, loose object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.4
 N_50_val: 52
-scix_url: NGC%202384
+scix_url: Collinder%20143
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 111.292 | -21.022 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 111.292 | -21.022 | -- | -1.29 | 1.37 | 53.25 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 111.28 | -21.016 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 111.285 | -21.02 | -- | -6.44 | 3.29 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 111.285 | -21.022 | -- | -5.137 | 1.854 | 49.5 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 111.289 | -21.012 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.277, DM0=12.5, log_age_=6.8` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.31, Dist=3070.0, Age=7.15` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.26, Dist=2116, logt=7.13, logMA=2.693` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.396, distance=2074, log_age=7.13` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.251, Dmod=11.599, logt=6.931` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.976, Dist=2494, logage=7.318, [Fe/H]=-0.147` |

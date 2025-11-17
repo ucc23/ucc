@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6249
+title: Collinder 319
 style: style
 title_flag: true
-more_names: NGC 6249; ESO 277 19; MWSC 2499; OCL 994
+more_names: NGC 6249; OCL 994; ESO 277 19; MWSC 2499
 fname: collinder319
 fov: 0.15
 ra_icrs: 254.44151
@@ -25,17 +25,19 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6249</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 319</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5
 N_50_val: 146
-scix_url: NGC%206249
+scix_url: Collinder%20319
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 254.4 | -44.817 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 254.421 | -44.812 | -- | 1.35 | -4.25 | -37.63 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 254.408 | -44.814 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 254.408 | -44.814 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 254.4 | -44.8 | -- | -0.8 | -4.8 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 254.415 | -44.813 | -- | -1.614 | -5.097 | -37.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 254.408 | -44.814 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.439, DM0=9.9, log_age_=7.2` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.443, Dist=981.0, Age=7.386` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.44, Dist=981, logt=7.54, logM=1.863` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.44, Dist=981, logt=7.54, logM=2.399, logMA=2.439` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.521, distance=1113, log_age=8.09` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.453, Dmod=10.039, logt=7.393` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.377, Dist=10.491, logA=7.316, Fe/H=0.0` |

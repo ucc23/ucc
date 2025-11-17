@@ -12,20 +12,20 @@ glon: 44.16724
 glat: -0.06694
 r50: 2.9
 plx: 0.181
-UTI: "0.22"
-UTI_COLOR: "#fcd0bf"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#eef8d4"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#f6c1b8"
 UTI_C_N: 0.26
 UTI_C_dens: 0.24
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.15
 UTI_summary: |
-    <b>GLIMPSE 20</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>GLIMPSE 20</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.15) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 2.9
@@ -41,5 +41,7 @@ carousel: UCC
 fpars_table: |
     
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MCM 20](/_clusters/mcm20/)| 84.6 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.21 |
 ---

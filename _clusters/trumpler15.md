@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 161.179 | -59.367 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 161.179 | -59.367 | -- | -7.71 | 3.26 | -15.06 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 161.178 | -59.368 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 161.175 | -59.367 | -- | -7.71 | 3.26 | -13.2 |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 161.179 | -59.369 | 0.398 | -6.209 | 2.016 | 16.59 |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 161.176 | -59.372 | 0.398 | -6.192 | 2.064 | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.476, DM0=11.7, log_age_=6.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.434, Dist=1853.0, Age=6.926` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.45, Dist=2117, logt=7.08, logMA=2.345` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.637, Dmod=12.47, logt=6.911` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.47, Dist=3691, logAge=6.681, Z=0.042` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.008, Z=0.5` |
@@ -64,6 +66,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 14](/_clusters/trumpler14/)| 56.8 | 161.01 | -59.54 | 0.39 | -6.49 | 2.07 | -16.05 |0.94 |
+    |[Trumpler 14](/_clusters/trumpler14/)| 56.8 | 161.01 | -59.54 | 0.39 | -6.49 | 2.07 | -16.05 |1.0 |
     |[Collinder 232](/_clusters/collinder232/)| 5.2 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.0 |
 ---

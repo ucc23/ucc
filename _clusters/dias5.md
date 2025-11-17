@@ -12,17 +12,17 @@ glon: 11.57748
 glat: -1.71417
 r50: 6.0
 plx: 0.7435
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#c9e8c8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Dias 5</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 274.417 | -19.67 | -- | 1.69 | -0.54 | -7.5 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 274.398 | -19.673 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 274.41 | -19.66 | -- | 2.11 | -4.09 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 274.385 | -19.707 | 0.744 | 1.798 | -0.945 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 274.362 | -19.701 | 0.73 | 1.802 | -0.909 | -- |
@@ -48,6 +49,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.33, Dist=1760.0, Age=7.14` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.33, Dist=1760, logt=7.14, logMA=2.966` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.083, distance=1289, log_age=8.1` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.94, DMNN=10.58, AgeNN=6.98` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.319, Dist=1257, logage=6.85, [Fe/H]=0.224` |

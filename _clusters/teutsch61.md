@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 61
 style: style
 title_flag: true
-more_names: SAI 78; FSR 1266; MWSC 1270; DSH J0734.6-1947; FoF 936
+more_names: SAI 78; DSH J0734.6-1947; FSR 1266; MWSC 1270; FoF 936
 fname: teutsch61
 fov: 0.073
 ra_icrs: 113.65954
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 113.667 | -19.79 | -- | -0.9 | 1.94 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 113.664 | -19.799 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 113.666 | -19.79 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 113.662 | -19.8 | -- | -2.4 | 4.89 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 113.655 | -19.797 | -- | -3.607 | 4.92 | -- |

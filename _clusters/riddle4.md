@@ -12,20 +12,20 @@ glon: 132.22576
 glat: -1.2333
 r50: 1.8
 plx: 0.3454
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.91"
+UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Riddle 4</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Riddle 4</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.8
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 31.846 | 60.257 | -- | 9.08 | -6.01 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 31.845 | 60.257 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 31.86 | 60.271 | -- | 1.01 | -1.1 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 31.845 | 60.257 | -- | 0.414 | -1.534 | -- |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 31.846 | 60.257 | 0.337 | -0.761 | -0.523 | -30.388 |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: IC 2157
+title: Trumpler 4
 style: style
 title_flag: true
-more_names: IC 2157; Collinder 80; OCL 465; FSR 0867; MWSC 722
+more_names: Collinder 80; IC 2157; OCL 465; FSR 0867; MWSC 722
 fname: trumpler4
 fov: 0.11
 ra_icrs: 91.1845
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>IC 2157</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Trumpler 4</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.3
 N_50_val: 98
-scix_url: IC%202157
+scix_url: Trumpler%204
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

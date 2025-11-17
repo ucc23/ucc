@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 202.608 | -61.317 | -- | -4.5 | -2.0 | -32.2 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 202.599 | -61.319 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 202.583 | -61.335 | -- | -4.5 | -2.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 202.605 | -61.317 | -- | -4.5 | -2.0 | -32.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 202.623 | -61.327 | -- | -- | -- | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.604, Dist=2095.0, Age=7.02, [Fe/H]=0.06` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.47, Dist=2045, logt=7.02, logMA=3.156` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.604, distance=2095, log_age=7.02` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.47, Dmod=11.553, logt=7.227` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.51, Dist=1652, logAge=7.353, Z=0.003` |
@@ -65,5 +67,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Hogg 16](/_clusters/hogg16/)| 10.9 | 202.32 | -61.24 | 0.45 | -3.49 | -1.65 | -75.22 |0.71 |
+    |[Hogg 16](/_clusters/hogg16/)| 10.9 | 202.32 | -61.24 | 0.45 | -3.49 | -1.65 | -75.22 |0.73 |
 ---

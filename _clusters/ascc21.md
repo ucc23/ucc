@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASCC21
+title: ASCC 21
 style: style
 title_flag: true
 more_names: OCSN 129
@@ -25,15 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC21</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
+    <b>ASCC 21</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 28.1
 N_50_val: 154
-scix_url: ASCC21
+scix_url: ASCC%2021
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 82.236 | 3.646 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 82.236 | 3.646 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 82.179 | 3.527 | -- | -- | -- | -- |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 82.179 | 3.527 | 2.866 | 1.404 | -0.632 | 16.034 |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 82.26 | 3.56 | -- | 1.28 | -0.29 | 20.0 |
@@ -50,6 +52,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.03, Dist=500, logt=7.11, logM=2.746` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.03, Dist=500, logt=7.11, logM=3.042, logMA=2.93` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.118, Dist=7.425, logA=7.032, Fe/H=0.0` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.05, Dist=353, logAge=7.09, Z=0.018` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.18` |

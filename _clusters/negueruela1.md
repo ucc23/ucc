@@ -61,6 +61,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 23](/_clusters/teutsch23/)| 94.0 | 356.95 | 63.05 | 0.31 | -2.97 | -1.4 | -66.91 |0.78 |
+    |[Teutsch 23](/_clusters/teutsch23/)| 94.0 | 356.95 | 63.05 | 0.31 | -2.97 | -1.4 | -66.91 |0.84 |
     |[CWWDL 10426](/_clusters/cwwdl10426/)| 6.0 | 357.55 | 62.97 | 0.32 | -3.04 | -1.36 | -89.18 |0.11 |
 ---

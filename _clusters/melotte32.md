@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 1857
+title: Melotte 32
 style: style
 title_flag: true
-more_names: NGC 1857; Collinder 61; OCL 428; FSR 0755; MWSC 505
+more_names: Collinder 61; NGC 1857; OCL 428; FSR 0755; MWSC 505
 fname: melotte32
 fov: 0.153
 ra_icrs: 80.03036
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 0.98
 UTI_summary: |
-    <b>NGC 1857</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Melotte 32</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.6
 N_50_val: 290
-scix_url: NGC%201857
+scix_url: Melotte%2032
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -62,6 +62,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 88](/_clusters/teutsch88/)| 5.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.08 |
+    |[Teutsch 88](/_clusters/teutsch88/)| 5.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.09 |
     |[Czernik 20](/_clusters/czernik20/)| 2.4 | 80.12 | 39.54 | 0.27 | 0.56 | -1.59 | 31.08 |0.85 |
 ---

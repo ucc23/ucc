@@ -35,6 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 109.121 | -46.685 | -- | -11.49 | 12.37 | 20.0 |
+    |[Alessi et al. (2003)](https://scixplorer.org/abs/2003A%26A...410..565A) | 109.1 | -46.6 | -- | -11.5 | 12.4 | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 109.086 | -46.61 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 109.086 | -46.61 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 109.05 | -46.617 | -- | -11.09 | 12.72 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 109.125 | -46.685 | -- | -1.203 | 5.537 | 20.0 |
     |[Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | 109.138 | -46.675 | -- | -- | -- | -- |
@@ -56,6 +59,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.11, Dist=288.0, Age=8.7, [Fe/H]=-0.275` |
+    | [Alessi et al. (2003)](https://scixplorer.org/abs/2003A%26A...410..565A) | `E(B-V)=0.11, d_pc=290.0, logt=8.7` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.11, Dist=288, logt=8.87, logM=1.496` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.11, Dist=288, logt=8.87, logM=1.718, logMA=1.57` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.11, distance=311, log_age=8.87, metallicity=-0.275` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.098, Dmod=8.166, logt=8.859` |
     | [Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | `dsun=0.26, Age=0.63, Mphot=18` |

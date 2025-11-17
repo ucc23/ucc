@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2645](/_clusters/pismis6/)| 75.2 | 129.83 | -46.25 | 0.54 | -5.87 | 5.11 | 17.73 |0.96 |
+    |[Pismis 6](/_clusters/pismis6/)| 75.2 | 129.83 | -46.25 | 0.54 | -5.87 | 5.11 | 17.73 |0.96 |
     |[OC 0481](/_clusters/oc0481/)| 18.2 | 129.65 | -46.22 | 0.54 | -5.81 | 5.15 | -9.58 |0.19 |
     |[OC 0484](/_clusters/oc0484/)| 10.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.11 |
     |[CWWDL 13332](/_clusters/cwwdl13332/)| 9.5 | 129.66 | -46.26 | 0.54 | -5.78 | 5.13 | -9.58 |0.01 |

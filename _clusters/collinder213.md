@@ -12,20 +12,20 @@ glon: 276.82836
 glat: 2.78065
 r50: 6.4
 plx: 0.416
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#f4fada"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.58
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 213</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Collinder 213</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.4
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 148.679 | -50.917 | -- | -3.66 | 2.48 | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 148.644 | -50.92 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 148.68 | -50.925 | -- | -5.2 | 4.55 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 148.699 | -50.973 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 148.632 | -50.898 | 0.407 | -6.859 | 5.061 | 9.069 |
@@ -47,6 +48,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.07, Dist=1400.0, Age=8.84` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.07, Dist=1400, logt=8.84, logMA=2.227` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.071, distance=1464, log_age=8.87` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.182, diffAV50=1.187, MOD50=11.693, logAge50=8.281` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.41, dMod50=12.06, logAge50=7.99, [Fe/H]50=0.57` |

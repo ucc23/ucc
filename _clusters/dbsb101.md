@@ -12,18 +12,18 @@ glon: 332.96921
 glat: 1.87654
 r50: 4.6
 plx: 0.5356
-UTI: "0.01"
-UTI_COLOR: "#e1a7b3"
+UTI: "0.00"
+UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
 UTI_C_lit_COL: "#fff6da"
-UTI_C_dup_COL: "#e1a7b3"
+UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.42
-UTI_C_dup: 0.01
+UTI_C_dup: 0.0
 UTI_summary: |
     <b>DBSB 101</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
@@ -51,5 +51,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Nor OB5](/_clusters/norob5/)| 100.0 | 242.6 | -49.05 | 0.53 | -2.04 | -2.15 | -23.72 |0.07 |
     |[FSR 1722](/_clusters/fsr1722/)| 98.9 | 242.6 | -49.04 | 0.53 | -2.04 | -2.15 | -23.72 |0.52 |
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: IC 1434
+title: Melotte 239
 style: style
 title_flag: true
-more_names: IC 1434; Collinder 445; OCL 223; FSR 0343; MWSC 3592; FoF 165
+more_names: Collinder 445; IC 1434; OCL 223; FSR 0343; MWSC 3592; FoF 165
 fname: melotte239
 fov: 0.19
 ra_icrs: 332.62296
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>IC 1434</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
+    <b>Melotte 239</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7
 N_50_val: 666
-scix_url: IC%201434
+scix_url: Melotte%20239
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

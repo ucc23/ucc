@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 29
 style: style
 title_flag: true
-more_names: Harvard 17; Collinder 343; OCL 1009; ESO 334 04; MWSC 2663; FoF 2211
+more_names: Collinder 343; Harvard 17; OCL 1009; ESO 334 04; MWSC 2663; FoF 2211
 fname: trumpler29
 fov: 0.21
 ra_icrs: 265.3499
@@ -34,6 +34,7 @@ scix_url: Trumpler%2029
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 265.369 | -40.153 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 265.373 | -40.12 | -- | 0.6 | -3.84 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 265.373 | -40.167 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 265.347 | -40.158 | -- | -- | -- | -- |
@@ -50,6 +51,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.19, Dist=760, logt=8.69, logMA=1.576` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=1096, log_age=8.685` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.751, Dist=10.671, logA=7.762, Fe/H=0.0` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.062, Z=0.5` |

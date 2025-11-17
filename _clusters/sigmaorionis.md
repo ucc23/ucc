@@ -3,7 +3,7 @@ layout: post
 title: Sigma Orionis
 style: style
 title_flag: true
-more_names: 
+more_names: Sigma Ori
 fname: sigmaorionis
 fov: 0.17
 ra_icrs: 84.69667
@@ -12,17 +12,17 @@ glon: 206.81148
 glat: -17.33038
 r50: 5.1
 plx: 2.4975
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.84"
+UTI_COLOR: "#bee2c6"
 UTI_C_N_COL: "#fffde5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Sigma Orionis</b> is a poorly populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
@@ -34,6 +34,7 @@ scix_url: Sigma%20Orionis
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 84.667 | -2.614 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 84.675 | -2.6 | -- | 1.731 | 0.467 | 29.4 |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 84.675 | -2.6 | -- | 1.23 | -0.46 | 30.7 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 84.716 | -2.582 | 2.48 | 1.577 | -0.512 | -- |
@@ -48,6 +49,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.05, Dist=399, logt=6.82, logMA=1.878` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.17, Dmod=8.373, logt=6.83` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.15` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.166, Dist=303, logage=6.997, [Fe/H]=-0.092` |

@@ -12,20 +12,20 @@ glon: 29.86798
 glat: -0.00324
 r50: 7.5
 plx: 0.2439
-UTI: "0.21"
-UTI_COLOR: "#fbcebe"
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
 UTI_C_N_COL: "#fbfde3"
 UTI_C_dens_COL: "#f5bfb7"
 UTI_C_C3_COL: "#fff1d4"
 UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#b1dcc2"
 UTI_C_N: 0.53
 UTI_C_dens: 0.14
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.89
 UTI_summary: |
-    <b>BDSB 125</b> is a moderately populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a very small percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>BDSB 125</b> is a moderately populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.89) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.5
@@ -45,6 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MCM 11](/_clusters/mcm11/)| 10.7 | 281.66 | -2.77 | 0.18 | -1.14 | -3.82 | -- |0.03 |
     |[CWNU 3930](/_clusters/cwnu3930/)| 1.8 | 281.31 | -2.8 | 0.21 | -1.52 | -3.85 | 47.3 |0.17 |
     |[Ryu 912](/_clusters/ryu912/)| 1.8 | 281.32 | -2.8 | 0.19 | -1.54 | -3.86 | -- |0.39 |
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 22
 style: style
 title_flag: true
-more_names: Collinder 283; OCL 920; VDBH 161; vdBergh-Hagen 161; ESO 134 06; MWSC 2226
+more_names: Collinder 283; VDBH 161; OCL 920; vdBergh-Hagen 161; ESO 134 06; MWSC 2226
 fname: trumpler22
 fov: 0.12
 ra_icrs: 217.79643
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 217.758 | -61.167 | -- | -4.63 | -4.9 | -38.46 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 217.743 | -61.169 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 217.732 | -61.165 | -- | -5.06 | -4.2 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 217.755 | -61.168 | -- | -1.131 | -4.299 | -38.46 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 217.743 | -61.169 | -- | -- | -- | -- |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.521, Dist=1516.0, Age=7.95, [Fe/H]=-0.17` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.52, Dist=1516, logt=8.11, logMA=2.34` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=1614, log_age=8.495` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.514, Dmod=10.918, logt=7.979` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.834, Dist=11.869, logA=7.385, Fe/H=-0.17` |

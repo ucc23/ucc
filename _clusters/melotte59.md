@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2324
+title: Melotte 59
 style: style
 title_flag: true
-more_names: NGC 2324; OCL 542; FSR 1089; MWSC 1084; Collinder 125; FoF 372
+more_names: Collinder 125; NGC 2324; OCL 542; FSR 1089; MWSC 1084; FoF 372
 fname: melotte59
 fov: 0.13
 ra_icrs: 106.03391
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2324</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 59</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.9
 N_50_val: 684
-scix_url: NGC%202324
+scix_url: Melotte%2059
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

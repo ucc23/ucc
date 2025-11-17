@@ -89,6 +89,14 @@ Renamed:
 
 
 
+## Alessi et al 2003
+
+[Searching for unknown open clusters in the Tycho-2 catalog (2003)](https://ui.adsabs.harvard.edu/abs/2003A%26A...410..565A/abstract)
+
+No Vizier data, extracted and merged Tables 1 & 2. Added 'RA_ICRS, DE_ICRS' columns.
+
+
+
 ## Chen et al. 2003
 
 [On the Galactic Disk Metallicity Distribution from Open Clusters. I. New Catalogs
@@ -110,6 +118,31 @@ incorrectly uploaded to Vizier:
 
 Collinder 197: 261.7 +08.9 --> 261.7 +0.89
 IC 1848      : 137.2 +00.1 --> 137.2 +1.00
+
+
+# Mercer et al 2005
+
+[New Star Clusters Discovered in the GLIMPSE Survey](https://ui.adsabs.harvard.edu/abs/2005ApJ...635..560M/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJ/635/560) table contains 92 entries with coordinates only.
+
+Added 'MCM' to the names of the entries.
+
+Removed GC MCM_5 (Mercer 5)
+
+
+
+## Kronberger et al 2006
+
+[New galactic open cluster candidates from DSS and 2MASS imagery](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/447/921/table2) Table 2 contains 240 entries. Added 'RA_ICRS, DE_ICRS' columns
+converted from 'h m s, d m s' values in "RAJ2000, DEJ2000" columns.
+
+Kronberger 79 had two entries, marked 'a' and 'b' in the 'Note' column. I merged
+both entries.
+
+Changed 'ADS 13292 Cluster' to 'ADS 13292'.
 
 
 ## Froebrich et al. 2007
@@ -187,6 +220,28 @@ Both `kronberger6` and `kronberger60` have almost the same (ra, dec) coordinates
 This all points to an error somewhere where the names `kronberger6` and `kronberger60`
 were swapped. The entry `kronberger6` has the most associated articles. I
 thus add this as the primary identification to DIAS2002.
+
+
+## Piskunov et el. 2007
+
+[Towards absolute scales for the radii and masses of open clusters](https://ui.adsabs.harvard.edu/abs/2007A%26A...468..151P/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/468/151) table shows 236 entries.
+
+Added 'VDBH' and 'VDB' naming.
+
+
+
+## Piskunov et el. 2008
+
+
+[Tidal radii and masses of open clusters](https://ui.adsabs.harvard.edu/abs/2008A%26A...477..165P/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/477/165) table shows 650 entries.
+
+Added 'VDBH' and 'VDB' naming.
+
+
 
 
 

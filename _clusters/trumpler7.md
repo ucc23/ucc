@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 7
 style: style
 title_flag: true
-more_names: ESO 492 16; FSR 1288; MWSC 1229; Collinder 146; OCL 635; FoF 51
+more_names: Collinder 146; OCL 635; ESO 492 16; FSR 1288; MWSC 1229; FoF 51
 fname: trumpler7
 fov: 0.177
 ra_icrs: 111.84762
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 111.842 | -23.95 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 111.842 | -23.95 | -- | -2.99 | 2.64 | 32.87 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 111.832 | -23.951 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 111.825 | -23.96 | -- | -4.1 | 4.19 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 111.84 | -23.95 | -- | -3.512 | 2.873 | 32.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 111.841 | -23.946 | -- | -- | -- | -- |
@@ -55,6 +56,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.277, DM0=10.65, log_age_=7.05` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.266, Dist=1474.0, Age=7.43` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.27, Dist=1474, logt=7.72, logMA=2.446` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=1659, log_age=8.0` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.259, Dmod=10.886, logt=7.48` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.841, Dist=11.172, logA=7.692, Fe/H=0.0` |

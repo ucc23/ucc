@@ -12,17 +12,17 @@ glon: 243.99832
 glat: -1.13525
 r50: 3.2
 plx: 0.2653
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.94
 UTI_C_C3: 0.5
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 25</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 117.112 | -27.914 | -- | -0.87 | 3.36 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 117.108 | -27.914 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 117.111 | -27.914 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 117.112 | -27.9 | -- | 1.17 | 5.71 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 117.12 | -27.9 | -- | -0.87 | -0.363 | -- |

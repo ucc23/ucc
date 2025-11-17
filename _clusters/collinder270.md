@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5138
+title: Collinder 270
 style: style
 title_flag: true
-more_names: NGC 5138; MWSC 2121; OCL 902; ESO 132 07; FoF 1995
+more_names: NGC 5138; OCL 902; ESO 132 07; MWSC 2121; FoF 1995
 fname: collinder270
 fov: 0.143
 ra_icrs: 201.84519
@@ -25,18 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5138</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 270</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.3
 N_50_val: 197
-scix_url: NGC%205138
+scix_url: Collinder%20270
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 201.817 | -59.033 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 201.817 | -59.033 | -- | -7.95 | -1.52 | -9.58 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 201.822 | -59.021 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 201.803 | -59.022 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 201.795 | -59.03 | -- | -2.63 | 0.64 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 201.78 | -59.03 | -- | -7.305 | -1.303 | -9.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 201.805 | -59.032 | -- | -- | -- | -- |
@@ -57,6 +58,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.265, DM0=10.98, log_age_=7.6` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.262, Dist=1986.0, Age=7.986, [Fe/H]=0.12` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.262, HDis=1986, Age=0.09, [Fe/H]_1=0.12` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.26, Dist=1986, logt=7.55, logMA=3.28` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=1819, log_age=7.55, metallicity=0.12` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.255, Dmod=11.491, logt=8.017` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.755, Dist=11.495, logA=7.638, Fe/H=0.12` |

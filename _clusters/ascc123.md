@@ -12,17 +12,17 @@ glon: 104.12158
 glat: -3.98774
 r50: 65.2
 plx: 4.2998
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.84"
+UTI_COLOR: "#bee2c6"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#b1dcc2"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#c9e8c8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 0.89
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>ASCC 123</b> is a moderately populated, dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 340.65 | 54.26 | -- | 12.55 | -1.03 | -6.46 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 340.642 | 54.256 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 340.657 | 54.261 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 340.299 | 53.986 | 4.262 | 12.093 | -1.407 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 340.223 | 54.174 | 4.287 | 12.309 | -1.553 | -3.225 |
@@ -48,6 +49,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.1, Dist=250.0, Age=8.41` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.1, Dist=250, logt=8.41, logMA=2.669` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=6.81, AgeNN=7.65` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.306, Dist=233, logage=7.793, [Fe/H]=-0.006` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.5, logAge=7.7` |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 4815
+title: Collinder 265
 style: style
 title_flag: true
-more_names: NGC 4815; FSR 1637; ESO 096 01; MWSC 2075; VDBH 142; OCL 893; vdBergh-Hagen 142
+more_names: VDBH 142; NGC 4815; OCL 893; vdBergh-Hagen 142; ESO 096 01; FSR 1637; MWSC 2075
 fname: collinder265
 fov: 0.09
 ra_icrs: 194.50356
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 4815</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 265</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.7
 N_50_val: 859
-scix_url: NGC%204815
+scix_url: Collinder%20265
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

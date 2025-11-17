@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 27
 style: style
 title_flag: true
-more_names: FSR 1305; MWSC 1286; OCL 654; ESO 493 02; FoF 89
+more_names: FSR 1305; OCL 654; ESO 493 02; MWSC 1286; FoF 89
 fname: ruprecht27
 fov: 0.16
 ra_icrs: 114.42292
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 114.421 | -26.529 | -- | -1.7 | 1.73 | 10.9 |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 114.421 | -26.494 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 114.367 | -26.532 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 114.423 | -26.507 | -- | -2.64 | 2.38 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 114.42 | -26.541 | -- | -2.741 | 1.552 | 10.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 114.395 | -26.495 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.03, Dist=1490.0, Age=8.95` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.15, Dist=560, logt=8.41, logMA=1.387` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.15, distance=576, log_age=8.41` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.236, Dmod=12.26, logt=8.79` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.576, Z=0.25` |

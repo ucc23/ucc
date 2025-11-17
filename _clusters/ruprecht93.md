@@ -34,6 +34,7 @@ scix_url: Ruprecht%2093
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 166.084 | -61.361 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 166.05 | -61.37 | -- | -5.08 | 0.85 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 166.05 | -61.373 | -- | -3.191 | -2.615 | 5.1 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 166.018 | -61.358 | -- | -- | -- | -- |
@@ -50,6 +51,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.23, Dist=1437, logt=8.64, logMA=2.101` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.167, distance=1619, log_age=8.755, metallicity=0.153` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.225, Dmod=10.819, logt=8.203` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.642, Dist=11.677, logA=8.519, Fe/H=0.01` |

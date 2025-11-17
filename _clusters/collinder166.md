@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 2482
+title: Collinder 166
 style: style
 title_flag: true
 more_names: NGC 2482; OCL 653; ESO 494 03; MWSC 1382; FoF 2233
@@ -25,17 +25,19 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2482</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 166</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.2
 N_50_val: 157
-scix_url: NGC%202482
+scix_url: Collinder%20166
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 118.8 | -24.258 | -- | -3.29 | 3.29 | 38.17 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 118.798 | -24.264 | -- | -- | -- | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 118.793 | -24.256 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 118.793 | -24.256 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 118.793 | -24.275 | -- | -5.1 | 1.8 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 118.8 | -24.258 | -- | -4.539 | 3.675 | 38.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 118.804 | -24.273 | -- | -- | -- | -- |
@@ -57,6 +59,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.094, Dist=1194.0, Age=8.65, [Fe/H]=-0.07` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.093, HDis=1343, Age=0.4, [Fe/H]_1=0.12` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.09, Dist=1343, logt=8.48, logM=2.188` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.09, Dist=1343, logt=8.48, logM=2.79, logMA=2.666` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.09, distance=1344, log_age=8.505, metallicity=-0.081` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.088, Dmod=10.692, logt=8.612` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.359, Dist=10.572, logA=8.55, Fe/H=-0.07` |

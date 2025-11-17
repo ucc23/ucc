@@ -12,20 +12,20 @@ glon: 306.75514
 glat: -1.49203
 r50: 0.9
 plx: 0.1475
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 110</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 110</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 0.9
@@ -34,6 +34,7 @@ scix_url: Teutsch%20110
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 201.649 | -64.103 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 201.648 | -64.1 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 201.637 | -64.106 | 0.138 | -6.96 | -1.376 | -40.992 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 201.635 | -64.1 | 0.138 | -- | -- | -- |

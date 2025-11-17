@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2635
+title: Melotte 89
 style: style
 title_flag: true
-more_names: NGC 2635; MWSC 1519; ESO 371 01; vdBergh-Hagen 39; FSR 1375; OCL 728; Collinder 190; VDBH 39
+more_names: Collinder 190; VDBH 39; NGC 2635; OCL 728; vdBergh-Hagen 39; ESO 371 01; FSR 1375; MWSC 1519
 fname: melotte89
 fov: 0.097
 ra_icrs: 129.61408
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2635</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
+    <b>Melotte 89</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.9
 N_50_val: 200
-scix_url: NGC%202635
+scix_url: Melotte%2089
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

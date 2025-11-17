@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5925
+title: Collinder 291
 style: style
 title_flag: true
-more_names: NGC 5925; OCL 938; VDBH 172; vdBergh-Hagen 172; ESO 177 06; MWSC 2293; FoF 1611
+more_names: VDBH 172; NGC 5925; OCL 938; vdBergh-Hagen 172; ESO 177 06; MWSC 2293; FoF 1611
 fname: collinder291
 fov: 0.273
 ra_icrs: 231.84642
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5925</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 291</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 8.2
 N_50_val: 568
-scix_url: NGC%205925
+scix_url: Collinder%20291
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

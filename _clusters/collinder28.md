@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 957
+title: Collinder 28
 style: style
 title_flag: true
 more_names: NGC 957; OCL 362; FSR 0603; MWSC 211
@@ -25,18 +25,20 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 957</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
+    <b>Collinder 28</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.7
 N_50_val: 221
-scix_url: NGC%20957
+scix_url: Collinder%2028
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 38.337 | 57.56 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 38.337 | 57.56 | -- | -1.33 | -0.14 | -34.34 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 38.391 | 57.597 | -- | 1.11 | 0.28 | -36.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 38.321 | 57.558 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 38.321 | 57.558 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 38.377 | 57.573 | -- | -1.01 | 1.39 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 38.34 | 57.561 | -- | -0.189 | 0.12 | -40.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 38.355 | 57.551 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.782, DM0=11.18, log_age_=7.1` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.71, Dist=2200.0, Age=7.0` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1815, Age=0.01` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.84, Dist=1815, logt=6.84, logM=2.478` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.84, Dist=1815, logt=6.84, logM=3.301, logMA=2.848` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.631, distance=1900, log_age=7.25` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.835, Dmod=11.336, logt=7.042` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.98, DMNN=12.09, AgeNN=7.62` |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2420
+title: Melotte 69
 style: style
 title_flag: true
-more_names: NGC 2420; Collinder 154; OCL 488; MWSC 1292; FoF 642
+more_names: Collinder 154; NGC 2420; OCL 488; MWSC 1292; FoF 642
 fname: melotte69
 fov: 0.193
 ra_icrs: 114.60323
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2420</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 69</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.8
 N_50_val: 1207
-scix_url: NGC%202420
+scix_url: Melotte%2069
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2669
+title: Collinder 202
 style: style
 title_flag: true
-more_names: NGC 2669; MWSC 1562; MWSC 1561; ESO 165 05; Harvard 3; VDBH 52; OCL 768; Collinder 199; vdBergh-Hagen 52; FoF 2052
+more_names: Collinder 199; VDBH 52; NGC 2669; Harvard 3; OCL 768; vdBergh-Hagen 52; ESO 165 05; MWSC 1561; MWSC 1562; FoF 2052
 fname: collinder202
 fov: 0.23
 ra_icrs: 131.61369
@@ -25,16 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2669</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 202</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.9
 N_50_val: 386
-scix_url: NGC%202669
+scix_url: Collinder%20202
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 131.592 | -52.948 | -- | -4.23 | 4.25 | 21.06 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 131.605 | -52.922 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 131.605 | -52.922 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 131.618 | -52.94 | -- | -11.12 | 6.1 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 131.595 | -52.947 | -- | -4.23 | 4.25 | 21.1 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 131.582 | -52.921 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.18, Dist=1046.0, Age=7.927` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.18, Dist=1046, logt=7.97, logM=1.354` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.18, Dist=1046, logt=7.97, logM=2.053, logMA=2.615` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=1057, log_age=8.405` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.18, Dmod=10.097, logt=7.927` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.62, Dist=10.254, logA=7.913, Fe/H=0.0` |

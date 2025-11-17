@@ -3,7 +3,7 @@ layout: post
 title: VDBH 56
 style: style
 title_flag: true
-more_names: vdBergh-Hagen 56; ESO 260 12; Magakian 425; MWSC 1605; BH 56; FoF 2328
+more_names: vdBergh-Hagen 56; ESO 260 12; Magakian 425; MWSC 1605; FoF 2328; BH 56
 fname: vdbh56
 fov: 0.453
 ra_icrs: 134.39536
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 134.283 | -43.25 | -- | -3.51 | 4.91 | -18.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 134.273 | -43.246 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 134.273 | -43.246 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 134.28 | -43.285 | -- | -4.9 | 6.97 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 134.28 | -43.249 | -- | -11.103 | 7.149 | -18.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 134.28 | -43.268 | -- | -- | -- | -- |
@@ -53,6 +55,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=680.0, Age=7.24` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.2, Dist=680, logt=7.24, logM=1.587` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.2, Dist=680, logt=7.24, logM=1.983, logMA=2.165` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.198, distance=737, log_age=7.3` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.283, Dmod=10.168, logt=7.048` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.021, Z=-0.5` |

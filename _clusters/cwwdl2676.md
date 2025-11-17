@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 75](/_clusters/sai75/)| 93.5 | 108.84 | -7.43 | 0.31 | -1.28 | 1.35 | 93.47 |0.67 |
+    |[Patchick 79](/_clusters/patchick79/)| 93.5 | 108.84 | -7.43 | 0.31 | -1.28 | 1.35 | 93.47 |0.72 |
     |[UBC 1357](/_clusters/ubc1357/)| 83.9 | 108.84 | -7.43 | 0.31 | -1.3 | 1.36 | 80.09 |0.0 |
 ---

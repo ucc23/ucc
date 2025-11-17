@@ -37,6 +37,8 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 283.067 | -20.203 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 283.067 | -20.203 | -- | 1.96 | -3.78 | 6.0 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 282.757 | -20.264 | -- | -4.8 | -4.78 | 6.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 283.098 | -20.199 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 283.098 | -20.199 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 283.08 | -20.2 | -- | -3.0 | -6.35 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 283.065 | -20.203 | -- | -0.907 | -6.022 | -1.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 283.051 | -20.221 | -- | -- | -- | -- |
@@ -60,6 +62,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.25, DM0=8.9, log_age_=7.9` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.235, Dist=690.0, Age=7.803` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=690, Age=0.06` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.24, Dist=703, logt=7.86, logM=2.662` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.24, Dist=703, logt=7.86, logM=3.076, logMA=2.832` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.239, distance=668, log_age=7.86` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.236, Dmod=9.252, logt=7.806` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.683, Dist=9.227, logA=7.969, Fe/H=0.0` |
@@ -75,6 +79,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6716](/_clusters/collinder393/)| 86.5 | 283.37 | -20.04 | 1.39 | -1.49 | -5.97 | 6.37 |1.0 |
+    |[Collinder 393](/_clusters/collinder393/)| 86.5 | 283.37 | -20.04 | 1.39 | -1.49 | -5.97 | 6.37 |1.0 |
     |[CWNU 1185](/_clusters/cwnu1185/)| 4.0 | 283.46 | -20.05 | 1.48 | -1.55 | -6.0 | -0.34 |0.0 |
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 66
 style: style
 title_flag: true
-more_names: ESO 208 12; FSR 1396; MWSC 1222; Collinder 147; OCL 739; FoF 4
+more_names: Collinder 147; OCL 739; ESO 208 12; FSR 1396; MWSC 1222; FoF 4
 fname: melotte66
 fov: 0.173
 ra_icrs: 111.58059

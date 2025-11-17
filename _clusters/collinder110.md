@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 110</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 110</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.0
@@ -63,5 +63,7 @@ fpars_table: |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=8614.20` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.36, MA23g=-0.18, MZ23=-0.31, MK24=-0.22, MF24=-0.28` |
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Collinder 110A](/_clusters/collinder110a/)| 44.1 | 99.7 | 2.05 | 0.44 | -1.1 | -2.04 | 37.53 |0.0 |
 ---

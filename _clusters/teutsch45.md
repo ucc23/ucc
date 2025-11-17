@@ -12,17 +12,17 @@ glon: 177.95643
 glat: 0.53094
 r50: 1.4
 plx: 0.164
-UTI: "0.27"
-UTI_COLOR: "#fddcc5"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#def1cb"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.71
 UTI_C_C3: 0.12
-UTI_C_lit: 0.25
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 45</b> is a sparse, moderately dense object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 85.683 | 30.971 | -- | -0.8 | -2.5 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 85.691 | 30.959 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 85.65 | 30.973 | -- | 2.41 | -4.93 | -- |
     | **UCC** |85.689 | 30.956 | 0.164 | 0.134 | -0.46 | -- | 
 cds_radec: 85.68927,+30.95628

@@ -12,20 +12,20 @@ glon: 294.50807
 glat: 0.69154
 r50: 5.6
 plx: 0.4911
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.89"
+UTI_COLOR: "#b1dcc2"
 UTI_C_N_COL: "#fefee7"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.51
 UTI_C_dens: 0.95
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC 67</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
+    <b>ASCC 67</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.6
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 175.379 | -61.02 | -- | -1.22 | -3.76 | -20.73 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 175.373 | -61.02 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 175.365 | -61.01 | -- | -3.8 | -1.7 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 175.373 | -61.02 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 175.313 | -61.012 | 0.489 | -6.594 | 0.904 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.3, Dist=1500.0, Age=7.67` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=1500, logt=7.67, logMA=2.939` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.3, distance=1500, log_age=7.67` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.11, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.58, DMNN=11.5, AgeNN=7.57` |

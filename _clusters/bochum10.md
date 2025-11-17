@@ -12,20 +12,20 @@ glon: 286.97903
 glat: -0.34405
 r50: 8.3
 plx: 0.3864
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.91"
+UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Bochum 10</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
+    <b>Bochum 10</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.3
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 160.559 | -59.146 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 160.55 | -59.133 | -- | -5.79 | -1.31 | -2.3 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 160.604 | -59.132 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 160.613 | -59.115 | -- | -5.57 | 2.99 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 160.545 | -59.132 | -- | -5.79 | -1.31 | -2.2 |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 160.504 | -59.132 | 0.378 | -7.291 | 2.992 | 0.943 |
@@ -51,6 +52,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.332, DM0=11.6, log_age_=6.8` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.306, Dist=2027.0, Age=6.857` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=2027, logt=6.93, logMA=3.345` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.333, distance=2017, log_age=6.93` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.306, Dmod=11.535, logt=6.857` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.175, Dist=2365, logage=7.167, [Fe/H]=0.179` |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5764
+title: Collinder 288
 style: style
 title_flag: true
-more_names: NGC 5764; OCL 934; VDBH 167; vdBergh-Hagen 167; ESO 223 04; MWSC 2259; FoF 1996
+more_names: VDBH 167; NGC 5764; OCL 934; vdBergh-Hagen 167; ESO 223 04; MWSC 2259; FoF 1996
 fname: collinder288
 fov: 0.137
 ra_icrs: 223.38108
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5764</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 288</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.1
 N_50_val: 144
-scix_url: NGC%205764
+scix_url: Collinder%20288
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

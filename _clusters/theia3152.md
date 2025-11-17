@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2383](/_clusters/collinder141/)| 2.0 | 111.17 | -20.95 | 0.29 | -1.62 | 1.92 | 71.75 |0.97 |
+    |[Collinder 141](/_clusters/collinder141/)| 2.0 | 111.17 | -20.95 | 0.29 | -1.62 | 1.92 | 71.75 |0.97 |
 ---

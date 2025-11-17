@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2259
+title: Melotte 48
 style: style
 title_flag: true
-more_names: NGC 2259; OCL 492; MWSC 940; Collinder 108; FoF 370
+more_names: Collinder 108; NGC 2259; OCL 492; MWSC 940; FoF 370
 fname: melotte48
 fov: 0.063
 ra_icrs: 99.63718
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2259</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
+    <b>Melotte 48</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9
 N_50_val: 161
-scix_url: NGC%202259
+scix_url: Melotte%2048
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

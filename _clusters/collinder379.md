@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6631
+title: Collinder 379
 style: style
 title_flag: true
 more_names: NGC 6631; OCL 59; MWSC 2916
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6631</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Collinder 379</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4
 N_50_val: 236
-scix_url: NGC%206631
+scix_url: Collinder%20379
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

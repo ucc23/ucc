@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2849
+title: Collinder 207
 style: style
 title_flag: true
-more_names: NGC 2849; FSR 1439; ESO 314 13; vdBergh-Hagen 61; MWSC 1648; OCL 756; VDBH 61
+more_names: VDBH 61; NGC 2849; OCL 756; vdBergh-Hagen 61; ESO 314 13; FSR 1439; MWSC 1648
 fname: collinder207
 fov: 0.073
 ra_icrs: 139.85112
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2849</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 207</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.2
 N_50_val: 432
-scix_url: NGC%202849
+scix_url: Collinder%20207
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

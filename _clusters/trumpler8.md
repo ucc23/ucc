@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2479
+title: Trumpler 8
 style: style
 title_flag: true
-more_names: NGC 2479; Collinder 167; OCL 623; ESO 561 01; FSR 1271; MWSC 1380
+more_names: Collinder 167; NGC 2479; OCL 623; ESO 561 01; FSR 1271; MWSC 1380
 fname: trumpler8
 fov: 0.2
 ra_icrs: 118.76814
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2479</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Trumpler 8</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0
 N_50_val: 192
-scix_url: NGC%202479
+scix_url: Trumpler%208
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 118.775 | -17.71 | -- | -2.94 | -1.33 | 38.17 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 118.763 | -17.712 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 118.785 | -17.73 | -- | -7.14 | 4.72 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 118.77 | -17.738 | -- | -6.64 | 3.632 | 38.17 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 118.777 | -17.715 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.05, Dist=1585.0, Age=9.0` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.1, Dist=1200, logt=8.99, logMA=2.138` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.083, distance=1363, log_age=9.015` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.185, Dmod=12.108, logt=8.77` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.03` |

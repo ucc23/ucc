@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 26
 style: style
 title_flag: true
-more_names: Harvard 15; Collinder 331; OCL 1032; ESO 454 33; MWSC 2604
+more_names: Collinder 331; Harvard 15; OCL 1032; ESO 454 33; MWSC 2604
 fname: trumpler26
 fov: 0.217
 ra_icrs: 262.13166
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 262.133 | -29.497 | -- | 0.24 | -2.37 | -9.6 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 262.135 | -29.504 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 262.132 | -29.485 | -- | -1.0 | -1.1 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 262.135 | -29.504 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 262.126 | -29.487 | -- | -- | -- | -- |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.35, Dist=1000.0, Age=8.85` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.14, Dist=2800, logt=8.38, logMA=3.464` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.729, distance=1490, log_age=8.17` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.512, Dist=10.57, logA=8.561, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.78, DMNN=10.91, AgeNN=8.4` |

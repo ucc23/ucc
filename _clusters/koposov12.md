@@ -3,7 +3,7 @@ layout: post
 title: Koposov 12
 style: style
 title_flag: true
-more_names: FSR 0802; MWSC 701; MWSC 702; Alessi J0601.6+35b
+more_names: FSR 0802; Alessi J0601.6+35b; MWSC 701; MWSC 702
 fname: koposov12
 fov: 0.157
 ra_icrs: 90.24959

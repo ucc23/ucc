@@ -12,17 +12,17 @@ glon: 355.8034
 glat: 1.62036
 r50: 8.1
 plx: 0.646
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fee6ca"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.32
 UTI_C_C3: 0.5
-UTI_C_lit: 0.5
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Antalova 1</b> is a sparse, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -34,6 +34,7 @@ scix_url: Antalova%201
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 262.218 | -31.566 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 262.238 | -31.58 | -- | -0.6 | -2.73 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 262.228 | -31.607 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 262.211 | -31.614 | 0.652 | -0.251 | -2.727 | -- |
@@ -45,6 +46,7 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.25, Dist=850, logt=8.5, logMA=2.137` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.427, distance=930, log_age=8.485, metallicity=-0.655` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.764, diffAV50=0.391, MOD50=10.802, logAge50=7.389` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.04, dMod50=10.09, logAge50=7.67, [Fe/H]50=-0.95` |

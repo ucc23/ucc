@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 256.083 | -42.073 | -- | -2.51 | -4.02 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 256.084 | -42.073 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 256.08 | -42.07 | -- | -0.67 | -5.93 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 256.079 | -42.07 | -- | -- | -- | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 256.08 | -42.07 | -- | -1.94 | -1.08 | -58.4 |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.12, Dist=2200.0, Age=9.0` |
+    | [Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | `E(B-V)=1.12, Dist=2.2, logt=9.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.353, distance=3411, log_age=8.995` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.2` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.48, DMNN=11.94, AgeNN=9.02` |

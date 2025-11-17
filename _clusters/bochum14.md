@@ -57,5 +57,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 604](/_clusters/ryu604/)| 1.9 | 270.37 | -23.84 | 0.32 | 0.18 | -1.08 | 20.3 |0.14 |
-    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.75 |
+    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.8 |
 ---

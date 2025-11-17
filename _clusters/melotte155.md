@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6242
+title: Melotte 155
 style: style
 title_flag: true
-more_names: NGC 6242; Collinder 317; OCL 1001; VDBH 204; vdBergh-Hagen 204; ESO 332 10; MWSC 2488; FoF 1621
+more_names: Collinder 317; VDBH 204; NGC 6242; OCL 1001; vdBergh-Hagen 204; ESO 332 10; MWSC 2488; FoF 1621
 fname: melotte155
 fov: 0.243
 ra_icrs: 253.87428
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6242</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 155</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.3
 N_50_val: 791
-scix_url: NGC%206242
+scix_url: Melotte%20155
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 253.9 | -39.467 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 253.887 | -39.462 | -- | -0.05 | -0.42 | -7.1 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 253.884 | -39.458 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 253.884 | -39.458 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 253.89 | -39.463 | -- | -2.927 | 0.266 | -7.1 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 253.886 | -39.472 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 253.878 | -39.474 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.39, DM0=10.04, log_age_=7.8` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.377, Dist=1131.0, Age=7.608` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.38, Dist=1131, logt=7.63, logM=2.359` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.38, Dist=1131, logt=7.63, logM=2.907, logMA=2.652` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.378, Dmod=10.278, logt=7.6` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.988, Dist=10.378, logA=7.767, Fe/H=0.0` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.032, Z=-0.25` |

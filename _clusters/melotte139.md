@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6025
+title: Melotte 139
 style: style
 title_flag: true
-more_names: NGC 6025; OCL 939; VDBH 181; vdBergh-Hagen 181; ESO 136 14; MWSC 2347; Collinder 296; FoF 2278
+more_names: Collinder 296; VDBH 181; NGC 6025; OCL 939; vdBergh-Hagen 181; ESO 136 14; MWSC 2347; FoF 2278
 fname: melotte139
 fov: 0.467
 ra_icrs: 240.78301
@@ -25,18 +25,20 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6025</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 139</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 14.0
 N_50_val: 386
-scix_url: NGC%206025
+scix_url: Melotte%20139
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 240.821 | -60.432 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 240.821 | -60.432 | -- | -5.23 | -3.53 | -16.1 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 240.799 | -60.436 | -- | -- | -- | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 240.814 | -60.429 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 240.814 | -60.429 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 240.825 | -60.433 | -- | -5.23 | -3.19 | -3.4 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 240.816 | -60.415 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 240.779 | -60.43 | -- | -- | -- | -- |
@@ -59,6 +61,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.16, DM0=8.73, log_age_=7.55` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.159, Dist=756.0, Age=7.889, [Fe/H]=0.19` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.159, HDis=756, Age=0.07, [Fe/H]_1=0.19` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.16, Dist=769, logt=7.96, logM=2.151` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=769, logt=7.96, logM=2.66, logMA=2.621` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.158, Dmod=9.422, logt=7.891` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.406, Dist=9.468, logA=8.096, Fe/H=0.19` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.066, Z=0.25` |

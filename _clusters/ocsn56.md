@@ -50,7 +50,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2371](/_clusters/fof2371/)| 68.9 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.02 |
-    |[ASCC 20](/_clusters/ascc20/)| 64.4 | 82.1 | 1.67 | 2.73 | -0.54 | 0.78 | 29.5 |0.77 |
+    |[ASCC 20](/_clusters/ascc20/)| 64.4 | 82.1 | 1.67 | 2.73 | -0.54 | 0.78 | 29.5 |0.87 |
     |[OCSN 57](/_clusters/ocsn57/)| 58.9 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.0 |
-    |[ASCC 18](/_clusters/ascc18/)| 3.3 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.77 |
+    |[ASCC 18](/_clusters/ascc18/)| 3.3 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.46 |
 ---

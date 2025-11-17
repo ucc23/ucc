@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 32
 style: style
 title_flag: true
-more_names: Harvard 19; Collinder 372; OCL 55; MWSC 2873
+more_names: Collinder 372; Harvard 19; OCL 55; MWSC 2873
 fname: trumpler32
 fov: 0.247
 ra_icrs: 274.29405

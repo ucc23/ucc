@@ -12,20 +12,20 @@ glon: 15.63089
 glat: 0.94159
 r50: 8.2
 plx: 0.6075
-UTI: "0.38"
-UTI_COLOR: "#fff1d4"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.3
 UTI_C_C3: 0.38
-UTI_C_lit: 0.62
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC 94</b> is a sparse, loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>ASCC 94</b> is a sparse, loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.2
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 273.9 | -14.99 | -- | 1.29 | -0.36 | -20.88 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 273.892 | -14.991 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 273.9 | -14.975 | -- | 1.65 | -0.2 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 273.901 | -14.996 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 273.922 | -14.908 | 0.601 | -0.213 | -1.112 | -9.443 |
@@ -47,6 +48,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=850.0, Age=8.78` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.2, Dist=850, logt=8.78, logMA=2.545` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=731, log_age=8.84` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.941, diffAV50=2.272, MOD50=10.953, logAge50=6.93` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.38, dMod50=10.66, logAge50=7.22, [Fe/H]50=-0.33` |

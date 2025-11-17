@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5617
+title: Melotte 125
 style: style
 title_flag: true
-more_names: NGC 5617; MWSC 2223; ESO 134 04; VDBH 159; OCL 919; Collinder 282; vdBergh-Hagen 159
+more_names: Collinder 282; VDBH 159; NGC 5617; OCL 919; vdBergh-Hagen 159; ESO 134 04; MWSC 2223
 fname: melotte125
 fov: 0.15
 ra_icrs: 217.45208
@@ -25,17 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5617</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 125</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 492
-scix_url: NGC%205617
+scix_url: Melotte%20125
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 217.433 | -60.712 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 217.433 | -60.712 | -- | -4.36 | -5.39 | -38.63 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 217.433 | -60.712 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 217.447 | -60.715 | -- | -2.9 | -3.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 217.44 | -60.713 | -- | -1.794 | -6.146 | -35.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 217.414 | -60.716 | -- | -- | -- | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.53, DM0=10.6, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.48, Dist=2000.0, Age=7.9, [Fe/H]=-0.18` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.48, Dist=1533, logt=8.02, logMA=2.732` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=1769, log_age=8.25` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.483, Dmod=10.937, logt=7.923` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.592, Dist=11.657, logA=8.14, Fe/H=-0.18` |

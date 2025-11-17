@@ -3,7 +3,7 @@ layout: post
 title: Czernik 25
 style: style
 title_flag: true
-more_names: FSR 0987; SAI 63; MWSC 795; MWSC 804; OCL 493; FoF 29
+more_names: FSR 0987; SAI 63; OCL 493; MWSC 795; MWSC 804; FoF 29
 fname: czernik25
 fov: 0.16
 ra_icrs: 93.42675

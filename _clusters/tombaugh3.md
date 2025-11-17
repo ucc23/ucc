@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IC 166
+title: Tombaugh 3
 style: style
 title_flag: true
 more_names: IC 166; OCL 334; FSR 0563; MWSC 146
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>IC 166</b> is a very rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Tombaugh 3</b> is a very rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.4
 N_50_val: 1850
-scix_url: IC%20166
+scix_url: Tombaugh%203
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

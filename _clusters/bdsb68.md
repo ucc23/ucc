@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4000](/_clusters/cwnu4000/)| 66.7 | 79.53 | 37.49 | 0.2 | 0.2 | -0.37 | -9.66 |0.04 |
-    |[Kronberger 18](/_clusters/kronberger18/)| 37.0 | 79.6 | 37.61 | 0.3 | 0.07 | -0.24 | 11.4 |0.33 |
+    |[Kronberger 18](/_clusters/kronberger18/)| 37.0 | 79.6 | 37.61 | 0.3 | 0.07 | -0.24 | 11.4 |0.36 |
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6885
+title: Collinder 417
 style: style
 title_flag: true
 more_names: NGC 6885; 20 Vul; OCL 132; MWSC 3282
@@ -25,12 +25,12 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6885</b> is a sparse, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Collinder 417</b> is a sparse, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.1
 N_50_val: 23
-scix_url: NGC%206885
+scix_url: Collinder%20417
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

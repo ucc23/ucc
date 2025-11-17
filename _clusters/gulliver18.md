@@ -56,5 +56,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.5 |
-    |[NGC 6885](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.5 |
+    |[Collinder 417](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.5 |
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Haffner 20
 style: style
 title_flag: true
-more_names: OCL 692; VDBH 16; vdBergh-Hagen 16; ESO 430 04; MWSC 1385
+more_names: VDBH 16; OCL 692; vdBergh-Hagen 16; ESO 430 04; MWSC 1385
 fname: haffner20
 fov: 0.053
 ra_icrs: 119.06635

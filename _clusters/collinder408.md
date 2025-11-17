@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harvard 20
+title: Collinder 408
 style: style
 title_flag: true
 more_names: Harvard 20; OCL 116; FSR 0144; MWSC 3198
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Harvard 20</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Collinder 408</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 54
-scix_url: Harvard%2020
+scix_url: Collinder%20408
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Trapezium</b> is a sparse, very dense object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 7 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Trapezium</b> is a sparse, very dense object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 8 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 12.7
@@ -52,11 +52,12 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 244](/_clusters/ocsn244/)| 100.0 | 83.82 | -5.42 | 2.54 | 1.31 | 0.34 | 22.67 |0.4 |
+    |[OCSN 244](/_clusters/ocsn244/)| 100.0 | 83.82 | -5.42 | 2.54 | 1.31 | 0.34 | 22.67 |0.33 |
     |[UBC 208](/_clusters/ubc208/)| 68.0 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
     |[NGC 1980](/_clusters/ngc1980/)| 64.0 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.85 |
     |[OCSN 225](/_clusters/ocsn225/)| 60.0 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
     |[OCSN 226](/_clusters/ocsn226/)| 56.0 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
+    |[NGC 1976](/_clusters/ngc1976/)| 44.0 | 83.82 | -5.39 | 2.49 | 1.23 | 0.49 | 19.92 |0.59 |
     |[OC 0345](/_clusters/oc0345/)| 20.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
     |[OC 0347](/_clusters/oc0347/)| 20.0 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
 ---

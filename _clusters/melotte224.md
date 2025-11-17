@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6830
+title: Melotte 224
 style: style
 title_flag: true
-more_names: NGC 6830; Collinder 406; OCL 125; MWSC 3191
+more_names: Collinder 406; NGC 6830; OCL 125; MWSC 3191
 fname: melotte224
 fov: 0.177
 ra_icrs: 297.71552
@@ -25,17 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6830</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 224</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.3
 N_50_val: 289
-scix_url: NGC%206830
+scix_url: Melotte%20224
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 297.746 | 23.1 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 297.746 | 23.1 | -- | 0.89 | -2.76 | -30.9 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 297.743 | 23.095 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 297.75 | 23.1 | -- | -0.86 | -4.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 297.75 | 23.1 | -- | 0.316 | -7.392 | -30.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 297.743 | 23.095 | -- | -- | -- | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.569, DM0=11.03, log_age_=8.0` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.501, Dist=1639.0, Age=7.572, [Fe/H]=0.24` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.5, Dist=1639, logt=7.52, logMA=3.218` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.541, distance=1841, log_age=8.105` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.498, Dmod=11.093, logt=7.59` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.514, Dist=11.871, logA=8.005, Fe/H=0.22` |

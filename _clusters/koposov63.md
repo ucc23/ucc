@@ -3,7 +3,7 @@ layout: post
 title: Koposov 63
 style: style
 title_flag: true
-more_names: FSR 0869; MWSC 772; MWSC 773; Teutsch J0610.0+2434
+more_names: FSR 0869; Teutsch J0610.0+2434; MWSC 772; MWSC 773
 fname: koposov63
 fov: 0.08
 ra_icrs: 92.50023

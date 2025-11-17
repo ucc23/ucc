@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6192
+title: Melotte 149
 style: style
 title_flag: true
-more_names: NGC 6192; MWSC 2440; Collinder 309; vdBergh-Hagen 194; VDBH 194; OCL 988; ESO 277 03; FoF 437
+more_names: Collinder 309; VDBH 194; NGC 6192; OCL 988; vdBergh-Hagen 194; ESO 277 03; MWSC 2440; FoF 437
 fname: melotte149
 fov: 0.177
 ra_icrs: 250.07246
@@ -25,17 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6192</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 149</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.3
 N_50_val: 898
-scix_url: NGC%206192
+scix_url: Melotte%20149
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 250.096 | -43.367 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 250.096 | -43.367 | -- | 3.73 | 3.18 | -7.93 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 250.081 | -43.367 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 250.088 | -43.36 | -- | 1.15 | -0.6 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 250.095 | -43.368 | -- | -1.419 | -2.618 | -7.7 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 250.091 | -43.374 | -- | -- | -- | -- |
@@ -55,6 +56,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.625, DM0=10.25, log_age_=7.9` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.637, Dist=1547.0, Age=8.13, [Fe/H]=0.12` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.64, Dist=1547, logt=8.13, logMA=2.804` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.635, distance=1619, log_age=8.15, metallicity=0.12` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.63, Dmod=10.988, logt=8.151` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.731, Dist=11.219, logA=8.251, Fe/H=0.12` |

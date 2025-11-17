@@ -12,20 +12,20 @@ glon: 170.44463
 glat: 2.28143
 r50: 1.1
 plx: 0.1496
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.49"
+UTI_COLOR: "#fffee7"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 52</b> is a poorly populated, very dense object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
+    <b>Teutsch 52</b> is a poorly populated, very dense object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.1
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 82.575 | 38.231 | -- | -0.9 | -2.27 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 82.576 | 38.231 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 82.56 | 38.207 | -- | -1.85 | -2.71 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 82.572 | 38.231 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 82.575 | 38.244 | 0.158 | 0.059 | -0.136 | -- |

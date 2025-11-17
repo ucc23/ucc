@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 3496
+title: Collinder 237
 style: style
 title_flag: true
-more_names: NGC 3496; MWSC 1878; FSR 1562; vdBergh-Hagen 108; VDBH 108; OCL 836; ESO 128 26; FoF 236
+more_names: VDBH 108; NGC 3496; OCL 836; vdBergh-Hagen 108; ESO 128 26; FSR 1562; MWSC 1878; FoF 236
 fname: collinder237
 fov: 0.143
 ra_icrs: 164.87121
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 3496</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Collinder 237</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.3
 N_50_val: 551
-scix_url: NGC%203496
+scix_url: Collinder%20237
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 164.9 | -60.337 | -- | -3.61 | -1.14 | -51.4 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 164.887 | -60.387 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 164.903 | -60.34 | -- | -7.62 | 4.17 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 164.895 | -60.336 | -- | -3.61 | -1.14 | -6.3 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 164.911 | -60.338 | -- | -- | -- | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.469, Dist=990.0, Age=8.471` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.47, Dist=990, logt=8.62, logMA=2.298` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.416, distance=1359, log_age=8.895` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.469, Dmod=9.978, logt=8.471` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.447, Dist=11.973, logA=8.646, Fe/H=0.0` |

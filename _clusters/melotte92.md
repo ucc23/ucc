@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2660
+title: Melotte 92
 style: style
 title_flag: true
-more_names: NGC 2660; MWSC 1539; FSR 1445; vdBergh-Hagen 45; VDBH 45; OCL 759; Collinder 193; ESO 260 04; FoF 56
+more_names: Collinder 193; VDBH 45; NGC 2660; OCL 759; vdBergh-Hagen 45; ESO 260 04; FSR 1445; MWSC 1539; FoF 56
 fname: melotte92
 fov: 0.107
 ra_icrs: 130.6687
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2660</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 92</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.2
 N_50_val: 1072
-scix_url: NGC%202660
+scix_url: Melotte%2092
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2266
+title: Melotte 50
 style: style
 title_flag: true
-more_names: NGC 2266; Collinder 113; OCL 471; FSR 0879; MWSC 967; FoF 631
+more_names: Collinder 113; NGC 2266; OCL 471; FSR 0879; MWSC 967; FoF 631
 fname: melotte50
 fov: 0.127
 ra_icrs: 100.83074
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2266</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 50</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
 N_50_val: 398
-scix_url: NGC%202266
+scix_url: Melotte%2050
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

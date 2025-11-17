@@ -3,7 +3,7 @@ layout: post
 title: Collinder 268
 style: style
 title_flag: true
-more_names: FSR 1644; Harvard 8; MWSC 2102; MWSC 2103; ESO 096 06; vdBergh-Hagen 145; VDBH 145; OCL 895; FoF 65
+more_names: VDBH 145; FSR 1644; Harvard 8; OCL 895; vdBergh-Hagen 145; ESO 096 06; MWSC 2103; MWSC 2102; FoF 65
 fname: collinder268
 fov: 0.117
 ra_icrs: 199.53027

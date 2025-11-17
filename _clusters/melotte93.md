@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2670
+title: Melotte 93
 style: style
 title_flag: true
-more_names: NGC 2670; MWSC 1554; ESO 210 05; VDBH 50; OCL 764; Collinder 200; vdBergh-Hagen 50; FoF 694
+more_names: Collinder 200; VDBH 50; NGC 2670; OCL 764; vdBergh-Hagen 50; ESO 210 05; MWSC 1554; FoF 694
 fname: melotte93
 fov: 0.23
 ra_icrs: 131.38816
@@ -25,16 +25,17 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2670</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 93</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
 N_50_val: 320
-scix_url: NGC%202670
+scix_url: Melotte%2093
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 131.375 | -48.8 | -- | -6.15 | 5.74 | 17.2 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 131.364 | -48.799 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 131.393 | -48.82 | -- | -11.95 | 6.2 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 131.37 | -48.8 | -- | -6.15 | 5.74 | 17.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 131.385 | -48.8 | -- | -- | -- | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.43, Dist=1188.0, Age=7.69` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.43, Dist=1188, logt=8.1, logMA=1.636` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.437, distance=1294, log_age=8.14` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.43, Dmod=10.374, logt=7.69` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.063, Z=0.5` |

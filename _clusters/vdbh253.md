@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Czernik 37
+title: VDBH 253
 style: style
 title_flag: true
 more_names: Czernik 37; OCL 8; vdBergh-Hagen 253; ESO 521 03; MWSC 2737; FoF 284
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Czernik 37</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>VDBH 253</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.4
 N_50_val: 343
-scix_url: Czernik%2037
+scix_url: VDBH%20253
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

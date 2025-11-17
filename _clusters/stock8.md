@@ -37,6 +37,7 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 82.031 | 34.428 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 82.029 | 34.423 | -- | -1.07 | -3.02 | -18.01 |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 81.858 | 34.403 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 82.026 | 34.425 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 82.037 | 34.431 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 82.035 | 34.423 | -- | 0.592 | -1.905 | -6.4 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 81.956 | 34.452 | 0.446 | 0.094 | -2.249 | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.456, DM0=11.66, log_age_=7.0` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.4, Dist=2005.0, Age=6.3` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.44, Dist=1821, logt=7.61, logMA=3.286` |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=1.21, Dm=9.84, Age=7.5` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.443, Dmod=11.283, logt=7.077` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.17, DMNN=11.86, AgeNN=7.16` |
@@ -65,5 +67,5 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.09 |
     |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.43 |
-    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.57 |
+    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.62 |
 ---

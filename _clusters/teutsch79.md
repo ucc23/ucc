@@ -12,20 +12,20 @@ glon: 306.49622
 glat: -1.01939
 r50: 1.5
 plx: 0.1368
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 79</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 79</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.5
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 200.912 | -63.673 | -- | -3.63 | -2.16 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 200.912 | -63.669 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 200.915 | -63.638 | -- | -7.04 | -1.5 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 200.901 | -63.669 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 200.923 | -63.673 | 0.134 | -6.33 | -1.004 | -13.45 |
@@ -47,6 +48,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=2.56, Dist=1250.0, Age=8.78` |
+    | [Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | `E(B-V)=0.95, Dist=6.7` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=2.103, distance=1461, log_age=8.78` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.631, diffAV50=2.373, MOD50=14.418, logAge50=8.111` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.76, dMod50=13.26, logAge50=8.68, [Fe/H]50=-0.03` |

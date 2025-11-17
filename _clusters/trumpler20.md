@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 20
 style: style
 title_flag: true
-more_names: Harvard 7; Collinder 262; OCL 888; ESO 131 13; FSR 1624; MWSC 2060
+more_names: Collinder 262; Harvard 7; OCL 888; ESO 131 13; FSR 1624; MWSC 2060
 fname: trumpler20
 fov: 0.173
 ra_icrs: 189.89251

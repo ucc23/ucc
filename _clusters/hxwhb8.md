@@ -12,20 +12,20 @@ glon: 173.22204
 glat: -1.55264
 r50: 6.9
 plx: 0.9071
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.00"
+UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
 UTI_C_lit_COL: "#fee8cc"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.32
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
 UTI_C_lit: 0.33
-UTI_C_dup: 1.0
+UTI_C_dup: 0.0
 UTI_summary: |
-    <b>HXWHB 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>HXWHB 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
@@ -49,7 +49,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 100.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.32 |
-    |[Teutsch 89](/_clusters/teutsch89/)| 100.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.14 |
-    |[HXWHB 5](/_clusters/hxwhb5/)| 31.2 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.16 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 100.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.19 |
+    |[Teutsch 89](/_clusters/teutsch89/)| 100.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.56 |
+    |[HXWHB 5](/_clusters/hxwhb5/)| 31.2 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.07 |
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: IC 2602
+title: Melotte 102
 style: style
 title_flag: true
-more_names: IC 2602; VDBH 103; vdBergh-Hagen 103; ESO 093 02; Collinder 229; OCL 838; OCSN 205
+more_names: Collinder 229; VDBH 103; IC 2602; OCL 838; vdBergh-Hagen 103; ESO 093 02; OCSN 205
 fname: melotte102
 fov: 3.433
 ra_icrs: 160.60464
@@ -25,18 +25,20 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>IC 2602</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 102</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 103.0
 N_50_val: 643
-scix_url: IC%202602
+scix_url: Melotte%20102
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 160.742 | -64.4 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 160.742 | -64.4 | -- | -17.49 | 10.1 | 18.12 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 160.746 | -64.394 | -- | -17.49 | 10.1 | 22.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 160.58 | -64.401 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 160.58 | -64.401 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 160.44 | -64.4 | -- | -16.95 | 9.65 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 160.74 | -64.4 | -- | -17.49 | 10.1 | 21.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 160.788 | -64.381 | -- | -- | -- | -- |
@@ -59,6 +61,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.038, DM0=5.68, log_age_=7.6` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.024, Dist=161.0, Age=7.507, [Fe/H]=0.0` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.024, HDis=161, Age=0.03, [Fe/H]_1=-0.09` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.03, Dist=160, logt=7.83, logM=2.885` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.03, Dist=160, logt=7.83, logM=3.005, logMA=2.829` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.031, distance=151, log_age=8.345, metallicity=-0.099` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.024, Dmod=6.019, logt=7.507` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.096, Dist=5.914, logA=7.547, Fe/H=0.0` |

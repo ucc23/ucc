@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 7245
+title: Melotte 241
 style: style
 title_flag: true
-more_names: NGC 7245; Collinder 449; OCL 225; FSR 0348; MWSC 3603; FoF 166
+more_names: Collinder 449; NGC 7245; OCL 225; FSR 0348; MWSC 3603; FoF 166
 fname: melotte241
 fov: 0.107
 ra_icrs: 333.81425
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 7245</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
+    <b>Melotte 241</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.2
 N_50_val: 389
-scix_url: NGC%207245
+scix_url: Melotte%20241
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

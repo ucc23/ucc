@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 6
 style: style
 title_flag: true
-more_names: FSR 1290; Collinder 145; OCL 638; ESO 492 15; MWSC 1223
+more_names: Collinder 145; FSR 1290; OCL 638; ESO 492 15; MWSC 1223
 fname: trumpler6
 fov: 0.2
 ra_icrs: 111.6104

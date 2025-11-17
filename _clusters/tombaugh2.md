@@ -3,7 +3,7 @@ layout: post
 title: Tombaugh 2
 style: style
 title_flag: true
-more_names: OCL 605; ESO 558 07; FSR 1250; MWSC 1076; Haffner 2
+more_names: Haffner 2; OCL 605; ESO 558 07; FSR 1250; MWSC 1076
 fname: tombaugh2
 fov: 0.053
 ra_icrs: 105.77702

@@ -12,17 +12,17 @@ glon: 290.69076
 glat: -0.33497
 r50: 1.9
 plx: 0.2216
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.90"
+UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 143a</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 167.171 | -60.713 | -- | -2.35 | -2.09 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 167.169 | -60.714 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 167.19 | -60.705 | -- | -3.27 | 2.29 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 167.17 | -60.716 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 167.141 | -60.741 | 0.219 | -5.602 | 2.283 | -- |
@@ -58,5 +59,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 143b](/_clusters/teutsch143b/)| 98.3 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.08 |
+    |[Teutsch 143b](/_clusters/teutsch143b/)| 98.3 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.09 |
 ---

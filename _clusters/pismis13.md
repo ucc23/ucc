@@ -3,7 +3,7 @@ layout: post
 title: Pismis 13
 style: style
 title_flag: true
-more_names: NGC 2866; MWSC 1658; FSR 1482; vdBergh-Hagen 64; VDBH 64; OCL 774; ESO 212 03
+more_names: VDBH 64; NGC 2866; OCL 774; vdBergh-Hagen 64; ESO 212 03; FSR 1482; MWSC 1658
 fname: pismis13
 fov: 0.04
 ra_icrs: 140.52587

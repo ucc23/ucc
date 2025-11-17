@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Collinder 359
+title: Melotte 186
 style: style
 title_flag: true
-more_names: Collinder 359; Bull of Poniatowski; MWSC 2773; OCL 84
+more_names: Collinder 359; OCL 84; Bull of Poniatowski; MWSC 2773
 fname: melotte186
 fov: 0.717
 ra_icrs: 270.41441
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 359</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.
+    <b>Melotte 186</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 21.5
 N_50_val: 75
-scix_url: Collinder%20359
+scix_url: Melotte%20186
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 270.275 | 2.9 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 270.275 | 2.9 | -- | 0.47 | -9.1 | -5.37 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 270.161 | 2.926 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 270.161 | 2.926 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 270.12 | 2.875 | -- | 0.22 | -8.9 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 270.27 | 2.9 | -- | 0.47 | 9.1 | -4.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 270.277 | 2.888 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.21, DM0=7.43, log_age_=7.2` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.193, Dist=249.0, Age=7.506` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.16, Dist=640, logt=7.45, logM=3.592` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=640, logt=7.45, logM=3.944, logMA=3.87` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.16, distance=640, log_age=7.45` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.193, Dmod=7.028, logt=7.506` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.16, Dist=604, logAge=7.573, Z=0.027` |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2477
+title: Melotte 78
 style: style
 title_flag: true
-more_names: NGC 2477; MWSC 1363; FSR 1369; Collinder 165; vdBergh-Hagen 13; VDBH 13; OCL 720; ESO 311 17; FoF 35
+more_names: Collinder 165; VDBH 13; NGC 2477; OCL 720; vdBergh-Hagen 13; ESO 311 17; FSR 1369; MWSC 1363; FoF 35
 fname: melotte78
 fov: 0.35
 ra_icrs: 118.04863
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2477</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 78</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 10.5
 N_50_val: 3687
-scix_url: NGC%202477
+scix_url: Melotte%2078
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 118.042 | -38.53 | -- | -0.58 | 1.81 | 7.26 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 118.067 | -38.549 | -- | -- | -- | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 118.037 | -38.528 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 118.037 | -38.528 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 118.035 | -38.53 | -- | -0.5 | 2.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 118.035 | -38.53 | -- | -4.247 | 6.721 | 7.3 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 118.048 | -38.523 | -- | -- | -- | -- |
@@ -56,6 +58,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.31, Dist=1341.0, Age=8.85, [Fe/H]=0.07` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.279, HDis=1222, Age=0.7, [Fe/H]_1=0.01` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.28, Dist=1222, logt=8.61, logM=1.953` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.28, Dist=1222, logt=8.61, logM=2.488, logMA=2.409` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.291, distance=1450, log_age=8.915, metallicity=-0.192` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.277, Dmod=10.531, logt=8.85` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=2.24, Z=-0.75` |

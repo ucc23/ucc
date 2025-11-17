@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 4103
+title: Melotte 109
 style: style
 title_flag: true
-more_names: NGC 4103; Collinder 252; OCL 871; VDBH 127; vdBergh-Hagen 127; ESO 130 05; FoF 420
+more_names: Collinder 252; VDBH 127; NGC 4103; OCL 871; vdBergh-Hagen 127; ESO 130 05; FoF 420
 fname: melotte109
 fov: 0.123
 ra_icrs: 181.6503
@@ -25,17 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 4103</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 109</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.7
 N_50_val: 292
-scix_url: NGC%204103
+scix_url: Melotte%20109
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 181.678 | -61.256 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 181.667 | -61.25 | -- | -7.3 | -0.13 | -12.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 181.661 | -61.245 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 181.665 | -61.25 | -- | -5.42 | 0.98 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 181.665 | -61.25 | -- | -3.568 | 1.282 | -12.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 181.657 | -61.254 | -- | -- | -- | -- |
@@ -55,6 +56,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.309, DM0=11.24, log_age_=7.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.294, Dist=1632.0, Age=7.393` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.28, Dist=1664, logt=7.59, logMA=3.072` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.302, distance=1659, log_age=7.755` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.274, Dmod=11.115, logt=7.467` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.994, Dist=11.414, logA=7.436, Fe/H=0.0` |

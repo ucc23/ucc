@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Juchert 10</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Juchert 10</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.7
@@ -56,5 +56,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.82, dMod50=13.69, logAge50=8.48, [Fe/H]50=0.71` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=4262.49` |
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MCM 53](/_clusters/mcm53/)| 99.6 | 220.05 | -60.38 | 0.22 | -5.01 | -2.75 | -69.7 |0.36 |
 ---

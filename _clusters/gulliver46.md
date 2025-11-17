@@ -12,20 +12,20 @@ glon: 299.82305
 glat: 0.73986
 r50: 1.5
 plx: 0.2122
-UTI: "0.66"
-UTI_COLOR: "#e7f5d0"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
 UTI_C_lit_COL: "#fff6da"
-UTI_C_dup_COL: "#add7c0"
+UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.42
-UTI_C_dup: 0.92
+UTI_C_dup: 0.16
 UTI_summary: |
-    <b>Gulliver 46</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Gulliver 46</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.5
@@ -51,6 +51,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.01 |
+    |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.61 |
     |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.36 |
 ---

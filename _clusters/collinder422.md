@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6913
+title: Collinder 422
 style: style
 title_flag: true
 more_names: NGC 6913; M 29; OCL 168; MWSC 3329
@@ -25,18 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6913</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 3 later reported entries.
+    <b>Collinder 422</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.2
 N_50_val: 120
-scix_url: NGC%206913
+scix_url: Collinder%20422
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 305.983 | 38.523 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 305.988 | 38.508 | -- | -3.21 | -4.56 | -16.9 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 305.977 | 38.508 | -- | -2.95 | -6.16 | -34.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 305.977 | 38.508 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 306.0 | 38.51 | -- | -4.0 | -5.2 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 305.985 | 38.508 | -- | -1.703 | -0.861 | -19.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 305.987 | 38.502 | -- | -- | -- | -- |
@@ -55,6 +56,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.904, DM0=10.3, log_age_=7.0` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.03, Dist=1540.0, Age=6.7` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1148, Age=0.01` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.98, Dist=1148, logt=7.12, logMA=1.431` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.833, distance=1173, log_age=7.51` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.744, Dmod=10.303, logt=7.113` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.8, DMNN=11.03, AgeNN=7.34` |

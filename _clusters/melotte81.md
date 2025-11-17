@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2509
+title: Melotte 81
 style: style
 title_flag: true
-more_names: NGC 2509; Collinder 171; OCL 630; ESO 561 07; FSR 1282; MWSC 1410; FoF 588
+more_names: Collinder 171; NGC 2509; OCL 630; ESO 561 07; FSR 1282; MWSC 1410; FoF 588
 fname: melotte81
 fov: 0.163
 ra_icrs: 120.20242
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2509</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 81</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.9
 N_50_val: 442
-scix_url: NGC%202509
+scix_url: Melotte%2081
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

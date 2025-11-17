@@ -3,7 +3,7 @@ layout: post
 title: Melotte 25
 style: style
 title_flag: true
-more_names: Hyades; Collinder 50; OCL 456; MWSC 379; Taurus Moving Cluster; OCSN 220
+more_names: Hyades; Collinder 50; Taurus Moving Cluster; OCL 456; MWSC 379; OCSN 220
 fname: melotte25
 fov: 9.617
 ra_icrs: 67.21565

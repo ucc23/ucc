@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6152
+title: Collinder 304
 style: style
 title_flag: true
 more_names: NGC 6152; OCL 961; ESO 179 09; MWSC 2423
@@ -12,29 +12,31 @@ glon: 332.92688
 glat: -3.17013
 r50: 6.9
 plx: 0.6088
-UTI: "0.90"
-UTI_COLOR: "#afdbc2"
+UTI: "0.96"
+UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6152</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
+    <b>Collinder 304</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.9
 N_50_val: 267
-scix_url: NGC%206152
+scix_url: Collinder%20304
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 248.188 | -52.643 | -- | -1.85 | -4.87 | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 248.158 | -52.638 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 248.158 | -52.638 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 248.175 | -52.64 | -- | -2.0 | -4.35 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 248.17 | -52.645 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 248.213 | -52.629 | -- | -- | -- | -- |
@@ -50,6 +52,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.3, Dist=1030.0` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.2, Dist=1030, logt=8.65, logM=2.565` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.2, Dist=1030, logt=8.65, logM=3.097, logMA=3.049` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.198, distance=1031, log_age=8.63` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.059, Dist=10.986, logA=8.236, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.01, DMNN=11.05, AgeNN=8.35` |

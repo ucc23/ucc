@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6400
+title: Melotte 177
 style: style
 title_flag: true
-more_names: NGC 6400; ESO 393 14; vdBergh-Hagen 241; VDBH 241; MWSC 2660; Collinder 342; OCL 1014; FoF 715
+more_names: Collinder 342; VDBH 241; NGC 6400; OCL 1014; vdBergh-Hagen 241; ESO 393 14; MWSC 2660; FoF 715
 fname: melotte177
 fov: 0.163
 ra_icrs: 265.06093
@@ -25,16 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6400</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 177</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.9
 N_50_val: 222
-scix_url: NGC%206400
+scix_url: Melotte%20177
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 265.05 | -36.948 | -- | -1.16 | -1.73 | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 265.047 | -36.949 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 265.047 | -36.949 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 265.05 | -36.945 | -- | -1.04 | -2.7 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 265.041 | -36.957 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 265.066 | -36.961 | 0.784 | 0.491 | -2.548 | -- |
@@ -50,6 +52,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.11, Dist=950.0, Age=8.78` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.11, Dist=950, logt=8.78, logM=2.098` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.11, Dist=950, logt=8.78, logM=2.534, logMA=2.137` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.198, distance=938, log_age=8.875` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.537, Z=-0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.93, DMNN=10.4, AgeNN=8.48` |

@@ -47,7 +47,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 1787](/_clusters/fof1787/)| 83.8 | 322.75 | 52.83 | 0.29 | -2.89 | -3.12 | -- |0.51 |
-    |[Teutsch 17](/_clusters/teutsch17/)| 82.4 | 322.75 | 52.83 | 0.3 | -2.9 | -3.11 | -- |0.0 |
-    |[OC 0152](/_clusters/oc0152/)| 51.5 | 322.76 | 52.84 | 0.31 | -2.87 | -3.11 | -- |0.01 |
+    |[FoF 1787](/_clusters/fof1787/)| 83.8 | 322.75 | 52.83 | 0.29 | -2.89 | -3.12 | -- |0.09 |
+    |[Teutsch 17](/_clusters/teutsch17/)| 82.4 | 322.75 | 52.83 | 0.3 | -2.9 | -3.11 | -- |0.61 |
+    |[OC 0152](/_clusters/oc0152/)| 51.5 | 322.76 | 52.84 | 0.31 | -2.87 | -3.11 | -- |0.0 |
 ---

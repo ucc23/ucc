@@ -12,17 +12,17 @@ glon: 290.6888
 glat: -0.33495
 r50: 1.9
 plx: 0.2212
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#f2b9b4"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.62
 UTI_C_dup: 0.11
 UTI_summary: |
     <b>Teutsch 143b</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -34,6 +34,7 @@ scix_url: Teutsch%20143b
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 167.128 | -60.747 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 167.147 | -60.744 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 167.146 | -60.745 | 0.221 | -5.628 | 2.277 | 19.624 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 167.144 | -60.742 | 0.223 | -- | -- | -- |
@@ -52,5 +53,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 143a](/_clusters/teutsch143a/)| 88.9 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.88 |
+    |[Teutsch 143a](/_clusters/teutsch143a/)| 88.9 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.9 |
 ---

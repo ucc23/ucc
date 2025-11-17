@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 7160
+title: Collinder 443
 style: style
 title_flag: true
 more_names: NGC 7160; OCL 236; MWSC 3572; FoF 2256
@@ -25,18 +25,19 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 7160</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Collinder 443</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 15.0
 N_50_val: 280
-scix_url: NGC%207160
+scix_url: Collinder%20443
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 328.417 | 62.603 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 328.417 | 62.603 | -- | -3.11 | -1.31 | -23.31 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 328.339 | 62.629 | -- | -2.71 | -1.49 | -20.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 328.393 | 62.598 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 328.418 | 62.61 | -- | -2.49 | -2.37 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 328.41 | 62.603 | -- | 0.774 | -1.2 | -26.3 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 328.424 | 62.597 | -- | -- | -- | -- |
@@ -58,6 +59,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.404, DM0=9.15, log_age_=7.15` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.375, Dist=789.0, Age=7.278, [Fe/H]=0.16` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=789, Age=0.01` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.35, Dist=794, logt=7.66, logMA=2.019` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=800, log_age=7.2, metallicity=0.16` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.374, Dmod=9.521, logt=7.274` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.009, Z=-1.0` |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 2425
+title: Haffner 12
 style: style
 title_flag: true
 more_names: NGC 2425; OCL 599; FSR 1238; MWSC 1291; FoF 377
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2425</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Haffner 12</b> is a very rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.1
 N_50_val: 600
-scix_url: NGC%202425
+scix_url: Haffner%2012
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

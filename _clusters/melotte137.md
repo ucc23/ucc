@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5999
+title: Melotte 137
 style: style
 title_flag: true
-more_names: NGC 5999; MWSC 2326; ESO 178 01; vdBergh-Hagen 178; FSR 1706; OCL 946; Collinder 293; VDBH 178
+more_names: Collinder 293; VDBH 178; NGC 5999; OCL 946; vdBergh-Hagen 178; ESO 178 01; FSR 1706; MWSC 2326
 fname: melotte137
 fov: 0.103
 ra_icrs: 238.045
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5999</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 137</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 495
-scix_url: NGC%205999
+scix_url: Melotte%20137
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi Teutsch 7](/_clusters/alessiteutsch7/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.7 |
+    |[Alessi Teutsch 7](/_clusters/alessiteutsch7/)| 84.2 | 128.23 | -39.41 | 1.33 | -8.11 | 5.64 | 28.72 |0.8 |
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 1778
+title: Collinder 58
 style: style
 title_flag: true
 more_names: NGC 1778; OCL 429; MWSC 472; FoF 2141
@@ -25,18 +25,19 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 1778</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 58</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.5
 N_50_val: 332
-scix_url: NGC%201778
+scix_url: Collinder%2058
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 77.017 | 37.023 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 77.017 | 37.023 | -- | 3.33 | -3.21 | 4.95 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 77.03 | 37.035 | -- | 3.33 | -3.21 | 10.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 77.0 | 37.017 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 76.995 | 37.028 | -- | -0.76 | -7.59 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 77.01 | 37.024 | -- | -0.048 | -1.997 | 8.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 77.01 | 37.023 | -- | -- | -- | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.334, DM0=10.92, log_age_=8.1` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.336, Dist=1469.0, Age=8.155` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1469, Age=0.14` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.23, Dist=1454, logt=8.18, logMA=2.025` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.3, distance=1500, log_age=8.45` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.341, Dmod=10.843, logt=8.136` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.204, Z=-0.25` |

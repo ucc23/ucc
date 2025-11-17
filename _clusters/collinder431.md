@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 7039
+title: Collinder 431
 style: style
 title_flag: true
 more_names: NGC 7039; OCL 203; MWSC 3474
@@ -25,16 +25,17 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 7039</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 431</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.5
 N_50_val: 247
-scix_url: NGC%207039
+scix_url: Collinder%20431
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 317.7 | 45.617 | -- | -0.48 | -2.99 | -12.2 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 317.695 | 45.621 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 317.763 | 45.733 | -- | -3.29 | -0.48 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 317.7 | 45.617 | -- | -1.316 | -0.227 | -11.6 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 317.755 | 45.65 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.131, Dist=951.0, Age=7.82` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.13, Dist=951, logt=8.83, logMA=2.769` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.221, distance=1550, log_age=8.655` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.128, Dmod=9.923, logt=7.848` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.28, DMNN=9.39, AgeNN=7.34` |

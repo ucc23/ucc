@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6250
+title: Collinder 320
 style: style
 title_flag: true
-more_names: NGC 6250; OCL 991; VDBH 206; vdBergh-Hagen 206; ESO 277 20; MWSC 2500; FoF 2225
+more_names: VDBH 206; NGC 6250; OCL 991; vdBergh-Hagen 206; ESO 277 20; MWSC 2500; FoF 2225
 fname: collinder320
 fov: 0.18
 ra_icrs: 254.50261
@@ -25,17 +25,18 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6250</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 320</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.4
 N_50_val: 139
-scix_url: NGC%206250
+scix_url: Collinder%20320
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 254.492 | -45.943 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 254.483 | -45.937 | -- | -1.55 | -2.35 | -8.04 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 254.481 | -45.939 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 254.49 | -45.938 | -- | -2.854 | -6.631 | -8.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 254.478 | -45.925 | -- | -- | -- | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 254.47 | -45.954 | 0.962 | 0.319 | -2.383 | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.39, DM0=9.75, log_age_=7.3` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.35, Dist=865.0, Age=7.415` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.35, Dist=865, logt=7.42, logMA=2.9` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.35, Dmod=9.688, logt=7.408` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.019, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.18, DMNN=10, AgeNN=7.38` |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VDBH 202
+title: Ruprecht 122
 style: style
 title_flag: true
-more_names: Ruprecht 122; vdBergh-Hagen 202; ESO 332 09; MWSC 2486; BH 202
+more_names: VDBH 202; vdBergh-Hagen 202; ESO 332 09; MWSC 2486; BH 202
 fname: ruprecht122
 fov: 0.2
 ra_icrs: 253.78717
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>VDBH 202</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Ruprecht 122</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0
 N_50_val: 476
-scix_url: VDBH%20202
+scix_url: Ruprecht%20122
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

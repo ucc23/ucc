@@ -3,7 +3,7 @@ layout: post
 title: Haffner 13
 style: style
 title_flag: true
-more_names: OCL 678; VDBH 5; vdBergh-Hagen 5; ESO 429 10; MWSC 1305; FoF 2286
+more_names: VDBH 5; OCL 678; vdBergh-Hagen 5; ESO 429 10; MWSC 1305; FoF 2286
 fname: haffner13
 fov: 0.67
 ra_icrs: 115.21946
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 115.125 | -30.083 | -- | -2.52 | 4.34 | 68.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 115.115 | -30.078 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 115.115 | -30.078 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 115.118 | -30.043 | -- | -5.0 | 5.5 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 115.11 | -30.083 | -- | -2.498 | 2.821 | 68.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 115.125 | -30.073 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.05, Dist=714.0` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.05, Dist=714, logt=7.51, logM=1.755` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.05, Dist=714, logt=7.51, logM=2.264, logMA=2.735` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.05, distance=714, log_age=7.52` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.265, Dmod=11.945, logt=6.6` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.168, Dist=8.634, logA=7.497, Fe/H=0.0` |

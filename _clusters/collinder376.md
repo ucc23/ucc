@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6613
+title: Collinder 376
 style: style
 title_flag: true
 more_names: NGC 6613; M 18; OCL 40; MWSC 2892
@@ -25,18 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6613</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 376</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.5
 N_50_val: 126
-scix_url: NGC%206613
+scix_url: Collinder%20376
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 274.992 | -17.102 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 274.992 | -17.102 | -- | -1.02 | -1.33 | -14.02 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 274.99 | -17.081 | -- | -1.02 | -1.33 | -14.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 274.989 | -17.104 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 274.995 | -17.103 | -- | 1.631 | -1.838 | -14.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 274.976 | -17.085 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 274.989 | -17.089 | 0.64 | -0.508 | -0.917 | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.446, DM0=10.27, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.45, Dist=1296.0, Age=7.223` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1296, Age=0.01` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.45, Dist=1296, logt=7.52, logMA=2.274` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.449, Dmod=10.573, logt=7.232` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.11, DMNN=10.85, AgeNN=7.26` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.481, Dist=1352, logage=7.535, [Fe/H]=0.133` |
@@ -61,5 +63,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.54, dMod50=10.44, logAge50=8.04, [Fe/H]50=-0.31` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=794.146` |
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[MCM 3](/_clusters/mcm3/)| 1.6 | 274.67 | -17.01 | 0.6 | -0.46 | -2.13 | 15.3 |0.49 |
 ---

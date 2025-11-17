@@ -9,6 +9,16 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [251117](https://doi.org/10.5281/zenodo.17635003)
+
+- Added Kronberger et al. (2006)
+- Added Alessi et al. (2003)
+- Added Mercer et al. (2005)
+- Added Piskunov et al. (2007)
+- Added Piskunov et al. (2008)
+
+
+
 ## Version [251115](https://doi.org/10.5281/zenodo.17618010)
 
 - Added summary and GC position

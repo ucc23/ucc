@@ -3,7 +3,7 @@ layout: post
 title: VDBH 23
 style: style
 title_flag: true
-more_names: OCSN 146; BH 23
+more_names: vdBergh-Hagen 23; OCSN 146; BH 23
 fname: vdbh23
 fov: 0.717
 ra_icrs: 123.43836
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 123.6 | -36.383 | -- | -7.4 | 5.1 | 18.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 123.516 | -36.355 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 123.6 | -36.382 | -- | -5.105 | 4.613 | 17.4 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 123.449 | -36.329 | 2.257 | -7.101 | 7.35 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 123.507 | -36.242 | 2.239 | -7.11 | 7.341 | 24.745 |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.06, Dist=480.0, Age=8.4` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.05, Dist=437, logt=7.14, logMA=1.743` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.074, Dmod=8.869, logt=8.613` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=8.32, AgeNN=7.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.233, Dist=436, logage=7.391, [Fe/H]=-0.054` |

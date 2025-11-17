@@ -3,7 +3,7 @@ layout: post
 title: Collinder 220
 style: style
 title_flag: true
-more_names: NGC3247; Cr220; ESO 127 19; MWSC 1803; OCL 809; FoF 1013
+more_names: NGC3247; Cr220; OCL 809; ESO 127 19; MWSC 1803; FoF 1013
 fname: collinder220
 fov: 0.16
 ra_icrs: 156.42044

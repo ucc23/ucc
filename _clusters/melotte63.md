@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2355
+title: Melotte 63
 style: style
 title_flag: true
-more_names: NGC 2355; OCL 496; FSR 0995; MWSC 1160; Collinder 133; FoF 632
+more_names: Collinder 133; NGC 2355; OCL 496; FSR 0995; MWSC 1160; FoF 632
 fname: melotte63
 fov: 0.223
 ra_icrs: 109.25021
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2355</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 63</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.7
 N_50_val: 580
-scix_url: NGC%202355
+scix_url: Melotte%2063
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

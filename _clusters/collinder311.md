@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6200
+title: Collinder 311
 style: style
 title_flag: true
-more_names: NGC 6200; OCL 978; VDBH 196; vdBergh-Hagen 196; ESO 277 08; MWSC 2450
+more_names: VDBH 196; NGC 6200; OCL 978; vdBergh-Hagen 196; ESO 277 08; MWSC 2450
 fname: collinder311
 fov: 0.127
 ra_icrs: 251.01943
@@ -25,17 +25,18 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6200</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
+    <b>Collinder 311</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
 N_50_val: 67
-scix_url: NGC%206200
+scix_url: Collinder%20311
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 251.025 | -47.467 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 251.029 | -47.463 | -- | -0.92 | -2.37 | -20.77 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 251.013 | -47.462 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 251.04 | -47.465 | -- | 0.94 | -3.8 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 251.025 | -47.464 | -- | 1.361 | -3.593 | -20.77 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 251.025 | -47.468 | -- | -- | -- | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.591, DM0=11.98, log_age_=7.0` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.581, Dist=2054.0, Age=6.928` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.58, Dist=2054, logt=7.0, logMA=3.281` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.541, distance=2214, log_age=7.0` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.558, Dmod=11.47, logt=7.038` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.858, Dist=2352, logage=7.138, [Fe/H]=0.166` |

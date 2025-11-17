@@ -12,20 +12,20 @@ glon: 169.63776
 glat: -0.01172
 r50: 4.0
 plx: 0.2954
-UTI: "0.33"
-UTI_COLOR: "#fee8cc"
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fff2d5"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.39
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Kronberger 18</b> is a poorly populated, loose object of very low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
+    <b>Kronberger 18</b> is a poorly populated, loose object of very low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 4.0
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 79.65 | 37.625 | -- | -1.55 | -5.74 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 79.65 | 37.622 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 79.672 | 37.63 | -- | -4.29 | -6.7 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 79.65 | 37.625 | -- | -1.183 | -2.076 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 79.651 | 37.619 | -- | -- | -- | -- |

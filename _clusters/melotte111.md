@@ -3,7 +3,7 @@ layout: post
 title: Melotte 111
 style: style
 title_flag: true
-more_names: Coma Ber; Coma Star; OCL 558; Collinder 256; Coma Berenices; MWSC 2020
+more_names: Collinder 256; Coma Ber; Coma Star; Coma Berenices; OCL 558; MWSC 2020
 fname: melotte111
 fov: 26.85
 ra_icrs: 185.06002
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 185.623 | 25.854 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 185.623 | 25.854 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 185.985 | 26.3 | -- | -11.72 | -8.76 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 186.27 | 26.1 | -- | -6.78 | -3.41 | -1.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 186.268 | 26.105 | -- | -- | -- | -- |
@@ -55,6 +57,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.013, Dist=96.0, Age=8.652, [Fe/H]=0.07` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.013, HDis=96, Age=0.44, [Fe/H]_1=-0.05` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.0, Dist=87, logt=8.78, logM=2.391` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.0, Dist=87, logt=8.78, logM=2.501, logMA=2.516` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.0, distance=87, log_age=8.84, metallicity=0.07` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.013, Dmod=4.881, logt=8.652` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=4.67, AgeNN=8.81` |

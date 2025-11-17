@@ -49,7 +49,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 7092](/_clusters/melotte236/)| 89.9 | 322.8 | 48.25 | 3.36 | -7.45 | -19.73 | -5.94 |0.97 |
+    |[Melotte 236](/_clusters/melotte236/)| 89.9 | 322.8 | 48.25 | 3.36 | -7.45 | -19.73 | -5.94 |0.97 |
     |[CWWDL 14690](/_clusters/cwwdl14690/)| 15.5 | 322.87 | 48.25 | 3.4 | -7.49 | -19.96 | -6.46 |0.0 |
     |[CWWDL 14621](/_clusters/cwwdl14621/)| 12.9 | 323.03 | 48.3 | 3.38 | -7.6 | -19.9 | -6.53 |0.0 |
 ---

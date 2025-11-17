@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 152
 style: style
 title_flag: true
-more_names: OCL 719; VDBH 14; vdBergh-Hagen 14; ESO 311 19; MWSC 1379
+more_names: VDBH 14; OCL 719; vdBergh-Hagen 14; ESO 311 19; MWSC 1379
 fname: ruprecht152
 fov: 0.033
 ra_icrs: 118.61509

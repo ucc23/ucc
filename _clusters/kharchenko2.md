@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 25](/_clusters/kronberger25/)| 28.1 | 275.67 | -14.73 | 0.28 | -0.32 | -1.9 | -- |0.75 |
+    |[Kronberger 25](/_clusters/kronberger25/)| 28.1 | 275.67 | -14.73 | 0.28 | -0.32 | -1.9 | -- |0.77 |
 ---

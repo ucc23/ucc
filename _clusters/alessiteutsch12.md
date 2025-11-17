@@ -3,7 +3,7 @@ layout: post
 title: Alessi Teutsch 12
 style: style
 title_flag: true
-more_names: AT 12; ASCC 86; Alessi J1701.7-5857; MWSC 2513
+more_names: ASCC 86; AT 12; Alessi J1701.7-5857; MWSC 2513
 fname: alessiteutsch12
 fov: 0.577
 ra_icrs: 255.37209
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 255.446 | -58.958 | -- | -3.34 | -7.79 | -6.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 255.481 | -59.011 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 255.438 | -58.957 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 255.421 | -58.981 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 255.421 | -58.981 | 1.632 | -2.134 | -8.952 | -- |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.12, Dist=700.0, Age=7.07` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.12, Dist=700, logt=7.07, logMA=3.019` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.376, Dist=8.923, logA=7.977, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.35, DMNN=9.03, AgeNN=7.94` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.476, Dist=605, logage=7.935, [Fe/H]=-0.056` |

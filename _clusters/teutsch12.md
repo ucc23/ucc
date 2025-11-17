@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 96.417 | 13.598 | -- | 0.93 | 2.88 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 96.418 | 13.607 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 96.42 | 13.599 | -- | 0.93 | 2.88 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 96.415 | 13.599 | -- | -- | -- | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 96.417 | 13.598 | -- | -0.76 | -0.94 | 52.0 |

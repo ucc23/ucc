@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6645
+title: Melotte 205
 style: style
 title_flag: true
-more_names: NGC 6645; Collinder 383; OCL 48; MWSC 2946; FoF 68
+more_names: Collinder 383; NGC 6645; OCL 48; MWSC 2946; FoF 68
 fname: melotte205
 fov: 0.19
 ra_icrs: 278.14937
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6645</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 205</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.7
 N_50_val: 471
-scix_url: NGC%206645
+scix_url: Melotte%20205
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

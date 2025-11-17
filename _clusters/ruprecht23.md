@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 23
 style: style
 title_flag: true
-more_names: FSR 1286; MWSC 1248; OCL 632; ESO 492 17; FoF 90
+more_names: FSR 1286; OCL 632; ESO 492 17; MWSC 1248; FoF 90
 fname: ruprecht23
 fov: 0.15
 ra_icrs: 112.66251

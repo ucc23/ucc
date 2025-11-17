@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6791
+title: Berkeley 46
 style: style
 title_flag: true
 more_names: NGC 6791; OCL 142; FSR 0186; MWSC 3088; FoF 639
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6791</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
+    <b>Berkeley 46</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.2
 N_50_val: 4657
-scix_url: NGC%206791
+scix_url: Berkeley%2046
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

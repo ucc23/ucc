@@ -3,7 +3,7 @@ layout: post
 title: Haffner 17
 style: style
 title_flag: true
-more_names: OCL 694; VDBH 12; vdBergh-Hagen 12; ESO 429 22; FSR 1337; MWSC 1360
+more_names: VDBH 12; OCL 694; vdBergh-Hagen 12; ESO 429 22; FSR 1337; MWSC 1360
 fname: haffner17
 fov: 0.08
 ra_icrs: 117.89525

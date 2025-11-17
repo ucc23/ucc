@@ -12,20 +12,20 @@ glon: 327.62936
 glat: -0.5496
 r50: 3.1
 plx: 0.4145
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
 UTI_C_lit_COL: "#fff6da"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.42
-UTI_C_dup: 1.0
+UTI_C_dup: 0.92
 UTI_summary: |
-    <b>Teutsch 246</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Teutsch 246</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
@@ -51,4 +51,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1538](/_clusters/ubc1538/)| 89.9 | 238.7 | -54.39 | 0.41 | -3.28 | -3.53 | -18.95 |0.01 |
+    |[MCM 64](/_clusters/mcm64/)| 7.8 | 238.75 | -54.46 | 0.41 | -3.27 | -3.53 | -34.71 |0.24 |
 ---

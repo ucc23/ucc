@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 5715
+title: Melotte 128
 style: style
 title_flag: true
-more_names: NGC 5715; ESO 176 02; vdBergh-Hagen 163; VDBH 163; MWSC 2245; Collinder 286; OCL 929; FoF 431
+more_names: Collinder 286; VDBH 163; NGC 5715; OCL 929; vdBergh-Hagen 163; ESO 176 02; MWSC 2245; FoF 431
 fname: melotte128
 fov: 0.117
 ra_icrs: 220.85503
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 5715</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
+    <b>Melotte 128</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.5
 N_50_val: 276
-scix_url: NGC%205715
+scix_url: Melotte%20128
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

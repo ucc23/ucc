@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 134
 style: style
 title_flag: true
-more_names: OCL 4; VDBH 252; vdBergh-Hagen 252; ESO 456 01; MWSC 2730
+more_names: VDBH 252; OCL 4; vdBergh-Hagen 252; ESO 456 01; MWSC 2730
 fname: ruprecht134
 fov: 0.12
 ra_icrs: 268.18356

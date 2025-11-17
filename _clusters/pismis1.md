@@ -3,7 +3,7 @@ layout: post
 title: Pismis 1
 style: style
 title_flag: true
-more_names: FSR 1374; OCL 727; VDBH 24; vdBergh-Hagen 24; ESO 370 05; MWSC 1466; NGC 2568
+more_names: VDBH 24; NGC 2568; FSR 1374; OCL 727; vdBergh-Hagen 24; ESO 370 05; MWSC 1466
 fname: pismis1
 fov: 0.07
 ra_icrs: 124.5771

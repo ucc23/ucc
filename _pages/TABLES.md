@@ -22,12 +22,12 @@ This table shows the OCs in the UCC grouped by their [UTI value](/faq/#what-is-t
 
 | UTI |  N  | UTI |  N  |
 | :--: | :-: | :--: | :-: |
-| == 0.0 | [884](/tables/UTI0_table) | (0.0, 0.1] | [4542](/tables/UTI1_table) |
- (0.1, 0.2] | [3079](/tables/UTI2_table) |  (0.2, 0.3] | [2222](/tables/UTI3_table) |
- (0.3, 0.4] | [1391](/tables/UTI4_table) |  (0.4, 0.5] | [1128](/tables/UTI5_table) |
- (0.5, 0.6] | [938](/tables/UTI6_table) |  (0.6, 0.7] | [704](/tables/UTI7_table) |
- (0.7, 0.8] | [543](/tables/UTI8_table) |  (0.8, 0.9] | [577](/tables/UTI9_table) |
-| 0.9 < | [596](/tables/UTI10_table) | -- | -- |
+| == 0.0 | [891](/tables/UTI0_table) | (0.0, 0.1] | [4601](/tables/UTI1_table) |
+ (0.1, 0.2] | [3094](/tables/UTI2_table) |  (0.2, 0.3] | [2267](/tables/UTI3_table) |
+ (0.3, 0.4] | [1398](/tables/UTI4_table) |  (0.4, 0.5] | [1130](/tables/UTI5_table) |
+ (0.5, 0.6] | [939](/tables/UTI6_table) |  (0.6, 0.7] | [697](/tables/UTI7_table) |
+ (0.7, 0.8] | [532](/tables/UTI8_table) |  (0.8, 0.9] | [576](/tables/UTI9_table) |
+| 0.9 < | [623](/tables/UTI10_table) | -- | -- |
 
 <!-- End table 1 -->
 
@@ -40,10 +40,10 @@ This table shows the OCs in the UCC grouped by their [C3 class](/faq/#what-is-th
 
 | C3 |  N  | C3 |  N  | C3 |  N  | C3 |  N  |
 |----| :-: |----| :-: |----| :-: |----| :-: |
-| <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | [2279](/tables/AA_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | [3305](/tables/AB_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | [379](/tables/BA_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | [873](/tables/AC_table) |
-| <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | [202](/tables/CA_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1539](/tables/BB_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | [13](/tables/AD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> | [87](/tables/DA_table) |
-| <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | [1403](/tables/BC_table) | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1176](/tables/CB_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> | [42](/tables/BD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | [731](/tables/DB_table) |
-| <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | [2152](/tables/CC_table) | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | [84](/tables/CD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | [2223](/tables/DC_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | [116](/tables/DD_table) |
+| <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | [2285](/tables/AA_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | [3317](/tables/AB_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | [379](/tables/BA_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | [881](/tables/AC_table) |
+| <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | [203](/tables/CA_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1546](/tables/BB_table) | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | [13](/tables/AD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> | [88](/tables/DA_table) |
+| <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | [1417](/tables/BC_table) | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | [1180](/tables/CB_table) | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> | [42](/tables/BD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | [735](/tables/DB_table) |
+| <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | [2187](/tables/CC_table) | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | [84](/tables/CD_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | [2274](/tables/DC_table) | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | [117](/tables/DD_table) |
 
 <!-- End table 2 -->
 
@@ -58,10 +58,10 @@ parameter `N_50`. This number is obtained identifying as members those stars wit
 
 | N_50 |   N  | N_50 |   N  |
 | :--: | :--: | :--: | :--: |
-| == 0 | [14](/tables/N50_0_table) | (0, 25] | [8636](/tables/N50_25_table) |
-| (25, 50] | [3958](/tables/N50_50_table) | (50, 75] | [1481](/tables/N50_75_table) |
-| (75, 100] | [687](/tables/N50_100_table) | (100, 250] | [1193](/tables/N50_250_table) |
-| (250, 500] | [412](/tables/N50_500_table) | (500, 1000] | [150](/tables/N50_1000_table) |
+| == 0 | [14](/tables/N50_0_table) | (0, 25] | [8750](/tables/N50_25_table) |
+| (25, 50] | [3971](/tables/N50_50_table) | (50, 75] | [1484](/tables/N50_75_table) |
+| (75, 100] | [690](/tables/N50_100_table) | (100, 250] | [1198](/tables/N50_250_table) |
+| (250, 500] | [415](/tables/N50_500_table) | (500, 1000] | [153](/tables/N50_1000_table) |
 | (1000, 2000] | [58](/tables/N50_2000_table) | > 2000 | [15](/tables/N50_inf_table) |
 
 <!-- End table 5 -->
@@ -78,11 +78,11 @@ points to obvious duplicates.
 
 | C_dup |  N  | C_dup |  N  |
 | :--: | :-: | :--: | :-: |
-| == 0.0 | [864](/tables/Cdup0_table) | (0.0, 0.1] | [570](/tables/Cdup1_table) |
- (0.1, 0.2] | [419](/tables/Cdup2_table) |  (0.2, 0.3] | [273](/tables/Cdup3_table) |
- (0.3, 0.4] | [205](/tables/Cdup4_table) |  (0.4, 0.5] | [169](/tables/Cdup5_table) |
- (0.5, 0.6] | [151](/tables/Cdup6_table) |  (0.6, 0.7] | [113](/tables/Cdup7_table) |
- (0.7, 0.8] | [124](/tables/Cdup8_table) |  (0.8, 0.9] | [120](/tables/Cdup9_table) |
-| 0.9 < | [13596](/tables/Cdup10_table) | -- | -- |
+| == 0.0 | [871](/tables/Cdup0_table) | (0.0, 0.1] | [571](/tables/Cdup1_table) |
+ (0.1, 0.2] | [425](/tables/Cdup2_table) |  (0.2, 0.3] | [276](/tables/Cdup3_table) |
+ (0.3, 0.4] | [211](/tables/Cdup4_table) |  (0.4, 0.5] | [172](/tables/Cdup5_table) |
+ (0.5, 0.6] | [155](/tables/Cdup6_table) |  (0.6, 0.7] | [117](/tables/Cdup7_table) |
+ (0.7, 0.8] | [126](/tables/Cdup8_table) |  (0.8, 0.9] | [124](/tables/Cdup9_table) |
+| 0.9 < | [13700](/tables/Cdup10_table) | -- | -- |
 
 <!-- End table 4 -->

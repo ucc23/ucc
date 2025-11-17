@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 7790
+title: Collinder 461
 style: style
 title_flag: true
-more_names: NGC 7790; FSR 0461; MWSC 3781; OCL 276; FoF 351
+more_names: NGC 7790; OCL 276; FSR 0461; MWSC 3781; FoF 351
 fname: collinder461
 fov: 0.103
 ra_icrs: 359.61021
@@ -25,18 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 7790</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
+    <b>Collinder 461</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.1
 N_50_val: 273
-scix_url: NGC%207790
+scix_url: Collinder%20461
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 359.6 | 61.208 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 359.6 | 61.208 | -- | -0.73 | -2.14 | -77.48 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 359.619 | 61.219 | -- | -0.73 | -2.14 | -78.0 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 359.583 | 61.205 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 359.595 | 61.198 | -- | -0.95 | -0.4 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 359.595 | 61.208 | -- | 0.119 | -0.175 | -80.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 359.599 | 61.217 | -- | -- | -- | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.535, DM0=12.13, log_age_=7.75` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.531, Dist=2944.0, Age=7.749` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=2944, Age=0.05` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.53, Dist=2944, logt=7.91, logMA=2.505` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.531, distance=2900, log_age=8.1` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.527, Dmod=12.355, logt=7.756` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.977, Z=-2.0` |

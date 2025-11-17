@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2243
+title: Melotte 46
 style: style
 title_flag: true
-more_names: NGC 2243; OCL 644; ESO 426 16; FSR 1296; MWSC 880; Collinder 98; FoF 3
+more_names: Collinder 98; NGC 2243; OCL 644; ESO 426 16; FSR 1296; MWSC 880; FoF 3
 fname: melotte46
 fov: 0.133
 ra_icrs: 97.39305
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2243</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 46</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, well below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.0
 N_50_val: 1336
-scix_url: NGC%202243
+scix_url: Melotte%2046
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

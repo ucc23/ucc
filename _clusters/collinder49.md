@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 1545
+title: Collinder 49
 style: style
 title_flag: true
 more_names: NGC 1545; OCL 399; MWSC 369; FoF 2322
@@ -25,17 +25,19 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 1545</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 49</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 19.2
 N_50_val: 336
-scix_url: NGC%201545
+scix_url: Collinder%2049
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 65.237 | 50.253 | -- | -0.22 | -1.52 | -12.42 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 65.267 | 50.242 | -- | 0.45 | -3.12 | -12.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 65.234 | 50.249 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 65.234 | 50.249 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 65.295 | 50.252 | -- | -0.44 | 1.46 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 65.235 | 50.254 | -- | -1.174 | 1.228 | -10.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 65.212 | 50.249 | -- | -- | -- | -- |
@@ -58,6 +60,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.303, Dist=711.0, Age=8.448, [Fe/H]=-0.13` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.303, HDis=711, Age=0.28, [Fe/H]_1=-0.06, [Fe/H]_2=-0.09` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.3, Dist=711, logt=8.15, logM=1.158` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=711, logt=8.15, logM=1.946, logMA=1.756` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.354, distance=863, log_age=8.81, metallicity=-0.06` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.307, Dmod=9.32, logt=8.441` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.917, Dist=9.222, logA=8.019, Fe/H=-0.06` |

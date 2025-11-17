@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2627
+title: Melotte 87
 style: style
 title_flag: true
-more_names: NGC 2627; MWSC 1514; FSR 1362; ESO 431 20; VDBH 38; OCL 714; Collinder 188; vdBergh-Hagen 38; FoF 622
+more_names: Collinder 188; VDBH 38; NGC 2627; OCL 714; vdBergh-Hagen 38; ESO 431 20; FSR 1362; MWSC 1514; FoF 622
 fname: melotte87
 fov: 0.213
 ra_icrs: 129.30717
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2627</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 87</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.4
 N_50_val: 553
-scix_url: NGC%202627
+scix_url: Melotte%2087
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 129.312 | -29.955 | -- | -4.11 | 2.96 | 25.99 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 129.31 | -29.953 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 129.33 | -29.945 | -- | -5.0 | 2.57 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 129.315 | -29.955 | -- | -4.11 | 2.96 | 26.0 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 129.31 | -29.953 | -- | -- | -- | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.12, Dist=2000.0, Age=9.15, [Fe/H]=-0.12` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.09, Dist=2034, logt=8.71, logMA=2.117` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.104, distance=2712, log_age=9.225, metallicity=-0.12` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.086, Dmod=11.542, logt=8.566` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.32, Z=0.5` |

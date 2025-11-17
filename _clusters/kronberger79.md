@@ -12,20 +12,20 @@ glon: 54.17717
 glat: -0.61127
 r50: 0.8
 plx: 0.164
-UTI: "0.87"
-UTI_COLOR: "#b7dfc4"
+UTI: "0.93"
+UTI_COLOR: "#acd5bf"
 UTI_C_N_COL: "#e9f5d1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.65
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Kronberger 79</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Kronberger 79</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 0.8
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 293.479 | 18.52 | -- | 3.03 | -3.09 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 293.479 | 18.52 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 293.475 | 18.528 | -- | 3.03 | -3.09 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 293.475 | 18.526 | -- | 1.705 | -4.25 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 293.478 | 18.522 | -- | -- | -- | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.3, Dist=2700.0, Age=8.35` |
+    | [Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | `E(B-V)=1.52,1., Dist=3.6,2.7, logt=7.4,8.3` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.437, distance=3369, log_age=8.39` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.844, Dmod=11.868, logt=9.02` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=4.143, Dist=3296, logage=6.759, [Fe/H]=0.061` |

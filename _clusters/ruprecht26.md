@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 26
 style: style
 title_flag: true
-more_names: OCL 602; FSR 1244; MWSC 1285; FoF 2326; LP 380; FoF 380
+more_names: OCL 602; FSR 1244; MWSC 1285; FoF 380; LP 380; FoF 2326
 fname: ruprecht26
 fov: 0.407
 ra_icrs: 114.29444
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 114.296 | -15.663 | -- | -1.51 | 1.25 | 15.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 114.297 | -15.65 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 114.297 | -15.65 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 114.293 | -15.66 | -- | -2.6 | -0.15 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 114.3 | -15.663 | -- | -1.092 | 0.934 | 17.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 114.292 | -15.642 | -- | -- | -- | -- |
@@ -52,6 +54,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.35, Dist=1820.0, Age=8.6, [Fe/H]=0.313` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.1, Dist=1440, logt=7.49, logM=1.915` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.1, Dist=1440, logt=7.49, logM=2.567, logMA=2.577` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.26, distance=1456, log_age=7.8, metallicity=0.313` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.148, Dmod=12.06, logt=8.92` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.759, Z=-0.25` |

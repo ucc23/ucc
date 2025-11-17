@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6709
+title: Melotte 214
 style: style
 title_flag: true
-more_names: NGC 6709; Collinder 392; OCL 100; MWSC 3009; FoF 2193
+more_names: Collinder 392; NGC 6709; OCL 100; MWSC 3009; FoF 2193
 fname: melotte214
 fov: 0.327
 ra_icrs: 282.8433
@@ -25,18 +25,20 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6709</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 214</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.8
 N_50_val: 426
-scix_url: NGC%206709
+scix_url: Melotte%20214
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 282.825 | 10.318 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 282.825 | 10.318 | -- | -0.17 | -2.62 | -10.22 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 282.875 | 10.382 | -- | 2.61 | -3.07 | -21.0 |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 282.82 | 10.32 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 282.82 | 10.32 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 282.846 | 10.33 | -- | 1.75 | -3.0 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 282.825 | 10.318 | -- | -1.421 | -4.188 | -12.8 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 282.829 | 10.316 | -- | -- | -- | -- |
@@ -59,6 +61,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.35, DM0=9.58, log_age_=8.1` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.304, Dist=1075.0, Age=8.178` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1075, Age=0.15` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.32, Dist=1075, logt=8.14, logM=1.984` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.32, Dist=1075, logt=8.14, logM=2.504, logMA=2.295` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.281, distance=1075, log_age=8.15` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.297, Dmod=10.174, logt=8.19` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.814, Dist=10.197, logA=8.239, Fe/H=0.0` |

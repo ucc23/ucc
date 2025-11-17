@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6031
+title: Collinder 297
 style: style
 title_flag: true
-more_names: NGC 6031; OCL 951; VDBH 183; vdBergh-Hagen 183; ESO 178 09; MWSC 2352; FoF 2102
+more_names: VDBH 183; NGC 6031; OCL 951; vdBergh-Hagen 183; ESO 178 09; MWSC 2352; FoF 2102
 fname: collinder297
 fov: 0.087
 ra_icrs: 241.89421
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6031</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 297</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.6
 N_50_val: 114
-scix_url: NGC%206031
+scix_url: Collinder%20297
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

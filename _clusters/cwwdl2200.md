@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 266](/_clusters/ubc266/)| 95.2 | 166.35 | -59.75 | 0.38 | -6.69 | 1.75 | -16.86 |0.34 |
-    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.84 |
+    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.86 |
 ---

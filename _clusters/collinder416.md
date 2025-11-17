@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 6882
+title: Collinder 416
 style: style
 title_flag: true
 more_names: NGC 6882; OCL 133; FSR 0168; MWSC 3278; MWSC 3277
@@ -12,30 +12,31 @@ glon: 65.63935
 glat: -3.81205
 r50: 40.4
 plx: 2.0917
-UTI: "0.71"
-UTI_COLOR: "#def1cb"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#fff1d4"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.38
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6882</b> is a moderately populated, loose object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Collinder 416</b> is a moderately populated, loose object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 40.4
 N_50_val: 60
-scix_url: NGC%206882
+scix_url: Collinder%20416
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 302.946 | 26.812 | -- | 1.6 | -9.8 | -17.8 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 302.978 | 26.578 | -- | 1.6 | -9.8 | 0.7 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 302.931 | 26.807 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 302.949 | 26.81 | -- | 0.37 | -9.26 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 302.94 | 26.812 | -- | 1.6 | -9.8 | -15.1 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 302.928 | 26.547 | -- | -- | -- | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.062, Dist=432.0, Age=8.2, [Fe/H]=-0.02` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=597, Age=1.44, [Fe/H]_1=-0.02` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.02, Dist=342, logt=8.16, logMA=0.513` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=432, log_age=8.2, metallicity=-0.02` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.039, Dmod=7.668, logt=7.672` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=7.85` |

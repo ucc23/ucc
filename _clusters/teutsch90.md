@@ -12,17 +12,17 @@ glon: 179.75894
 glat: -3.81322
 r50: 3.0
 plx: 0.2188
-UTI: "0.33"
-UTI_COLOR: "#fee8cc"
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee8cc"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.33
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 90</b> is a poorly populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -34,6 +34,7 @@ scix_url: Teutsch%2090
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 82.609 | 27.102 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 82.612 | 27.103 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 82.605 | 27.099 | 0.245 | 0.323 | -0.653 | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 82.605 | 27.099 | 0.245 | 0.323 | -0.653 | -- |

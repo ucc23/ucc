@@ -12,20 +12,20 @@ glon: 210.82015
 glat: -1.02982
 r50: 1.1
 plx: 0.1786
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.89"
+UTI_COLOR: "#b1dcc2"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 13</b> is a poorly populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>Teutsch 13</b> is a poorly populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.1
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 100.979 | 1.405 | -- | -0.92 | -1.64 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 100.979 | 1.403 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 100.98 | 1.395 | -- | -2.64 | -3.72 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 100.98 | 1.406 | -- | -0.476 | -1.093 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 100.975 | 1.396 | -- | -- | -- | -- |

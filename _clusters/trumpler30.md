@@ -3,7 +3,7 @@ layout: post
 title: Trumpler 30
 style: style
 title_flag: true
-more_names: Harvard 18; Collinder 355; OCL 1025; ESO 394 12; MWSC 2755
+more_names: Collinder 355; Harvard 18; OCL 1025; ESO 394 12; MWSC 2755
 fname: trumpler30
 fov: 0.207
 ra_icrs: 269.17425
@@ -12,20 +12,20 @@ glon: 355.71921
 glat: -5.25851
 r50: 6.2
 plx: 0.6997
-UTI: "0.90"
-UTI_COLOR: "#afdbc2"
+UTI: "0.96"
+UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#a6cab9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Trumpler 30</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Trumpler 30</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.2
@@ -34,6 +34,7 @@ scix_url: Trumpler%2030
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 269.182 | -35.272 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 269.228 | -35.27 | -- | 1.35 | -1.91 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 269.205 | -35.259 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 269.182 | -35.298 | -- | -- | -- | -- |
@@ -49,6 +50,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.22, Dist=1000, logt=8.31, logMA=1.771` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.479, distance=1982, log_age=8.35` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.931, Dist=10.501, logA=8.566, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.81, DMNN=10.65, AgeNN=8.64` |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGC 2395
+title: Collinder 144
 style: style
 title_flag: true
 more_names: NGC 2395; OCL 502; MWSC 1228
@@ -25,12 +25,12 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2395</b> is a sparse, very loose object of very low C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Collinder 144</b> is a sparse, very loose object of very low C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.1
 N_50_val: 16
-scix_url: NGC%202395
+scix_url: Collinder%20144
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

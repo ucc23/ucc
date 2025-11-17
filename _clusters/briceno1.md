@@ -53,5 +53,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 16](/_clusters/ascc16/)| 99.8 | 81.23 | 1.65 | 2.87 | 1.39 | -0.09 | 18.3 |0.94 |
+    |[ASCC 16](/_clusters/ascc16/)| 99.8 | 81.23 | 1.65 | 2.87 | 1.39 | -0.09 | 18.3 |1.0 |
 ---

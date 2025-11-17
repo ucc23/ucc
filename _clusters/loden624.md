@@ -47,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.66 |
-    |[Teutsch 108](/_clusters/teutsch108/)| 9.3 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.01 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.12 |
+    |[Teutsch 108](/_clusters/teutsch108/)| 9.3 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.61 |
 ---

@@ -46,7 +46,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2179](/_clusters/fof2179/)| 16.0 | 305.39 | 38.61 | 0.56 | -3.25 | -5.98 | -22.57 |0.61 |
-    |[NGC 6913](/_clusters/collinder422/)| 12.0 | 305.93 | 38.5 | 0.56 | -3.42 | -5.79 | -21.9 |0.95 |
+    |[Collinder 422](/_clusters/collinder422/)| 12.0 | 305.93 | 38.5 | 0.56 | -3.42 | -5.79 | -21.9 |0.95 |
     |[UBC 140](/_clusters/ubc140/)| 12.0 | 305.37 | 38.6 | 0.56 | -3.24 | -6.0 | -22.57 |0.14 |
     |[Berkeley 86](/_clusters/berkeley86/)| 4.0 | 305.08 | 38.71 | 0.56 | -3.44 | -5.43 | -0.48 |0.9 |
     |[OC 0114](/_clusters/oc0114/)| 4.0 | 305.81 | 38.94 | 0.57 | -3.42 | -5.73 | 5.16 |0.13 |

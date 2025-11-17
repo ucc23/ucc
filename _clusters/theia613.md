@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2516](/_clusters/melotte82/)| 76.0 | 119.5 | -60.77 | 2.43 | -4.64 | 11.21 | 23.18 |1.0 |
+    |[Melotte 82](/_clusters/melotte82/)| 76.0 | 119.5 | -60.77 | 2.43 | -4.64 | 11.21 | 23.18 |1.0 |
 ---

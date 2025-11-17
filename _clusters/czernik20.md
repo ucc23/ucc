@@ -66,6 +66,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.08 |
-    |[NGC 1857](/_clusters/melotte32/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
+    |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.09 |
+    |[Melotte 32](/_clusters/melotte32/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
 ---

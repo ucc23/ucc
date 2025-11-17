@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 3105
+title: Collinder 214
 style: style
 title_flag: true
-more_names: NGC 3105; FSR 1519; ESO 167 14; MWSC 1742; VDBH 82; OCL 798; vdBergh-Hagen 82
+more_names: VDBH 82; NGC 3105; OCL 798; vdBergh-Hagen 82; ESO 167 14; FSR 1519; MWSC 1742
 fname: collinder214
 fov: 0.04
 ra_icrs: 150.17016
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 3105</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 214</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.2
 N_50_val: 149
-scix_url: NGC%203105
+scix_url: Collinder%20214
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

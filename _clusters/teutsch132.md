@@ -12,17 +12,17 @@ glon: 167.69708
 glat: -0.6322
 r50: 1.8
 plx: 0.2635
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.57"
+UTI_COLOR: "#f6fbdc"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 132</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 77.504 | 38.825 | -- | -1.92 | -2.24 | -- |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 77.503 | 38.821 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 77.483 | 38.815 | -- | -4.39 | -0.22 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 77.505 | 38.825 | -- | -1.206 | -0.673 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 77.514 | 38.816 | 0.223 | 0.326 | -1.536 | -- |

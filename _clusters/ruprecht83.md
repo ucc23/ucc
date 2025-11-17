@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 83
 style: style
 title_flag: true
-more_names: VDBH80; FSR 1508; vdBergh-Hagen 80; ESO 167 07; MWSC 1718; OCL 791
+more_names: VDBH80; FSR 1508; OCL 791; vdBergh-Hagen 80; ESO 167 07; MWSC 1718
 fname: ruprecht83
 fov: 0.08
 ra_icrs: 147.31468

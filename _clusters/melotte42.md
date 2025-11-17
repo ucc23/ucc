@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2192
+title: Melotte 42
 style: style
 title_flag: true
-more_names: NGC 2192; Collinder 86; OCL 437; MWSC 820; FoF 641
+more_names: Collinder 86; NGC 2192; OCL 437; MWSC 820; FoF 641
 fname: melotte42
 fov: 0.113
 ra_icrs: 93.82285
@@ -25,12 +25,12 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2192</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Melotte 42</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.4
 N_50_val: 337
-scix_url: NGC%202192
+scix_url: Melotte%2042
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

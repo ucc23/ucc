@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 79
 style: style
 title_flag: true
-more_names: OCL 787; VDBH 77; vdBergh-Hagen 77; ESO 167 11; FSR 1502; MWSC 1701
+more_names: VDBH 77; OCL 787; vdBergh-Hagen 77; ESO 167 11; FSR 1502; MWSC 1701
 fname: ruprecht79
 fov: 0.09
 ra_icrs: 145.26308
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 145.246 | -53.85 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 145.246 | -53.85 | -- | -3.66 | -0.68 | 21.4 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 145.233 | -53.846 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 145.23 | -53.85 | -- | -7.25 | 1.75 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 145.245 | -53.85 | -- | -8.142 | -4.46 | 34.9 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 145.279 | -53.83 | -- | -- | -- | -- |
@@ -53,6 +54,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.8, DM0=12.91, log_age_=7.85` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.717, Dist=1979.0, Age=7.093` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.74, Dist=1979, logt=7.84, logMA=3.672` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.697, distance=1991, log_age=7.265` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.708, Dmod=11.513, logt=7.139` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.98, DMNN=12.9, AgeNN=7.79` |

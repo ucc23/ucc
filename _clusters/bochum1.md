@@ -61,6 +61,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1309](/_clusters/ubc1309/)| 57.7 | 96.34 | 19.86 | 0.22 | -0.18 | -0.46 | 35.13 |0.02 |
-    |[Alessi 58](/_clusters/alessi58/)| 42.3 | 96.39 | 19.89 | 0.21 | -0.14 | -0.46 | 35.13 |0.07 |
+    |[Alessi 58](/_clusters/alessi58/)| 42.3 | 96.39 | 19.89 | 0.21 | -0.14 | -0.46 | 35.13 |0.09 |
     |[OC 0319](/_clusters/oc0319/)| 9.6 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
 ---

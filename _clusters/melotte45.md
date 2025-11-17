@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 2215
+title: Melotte 45
 style: style
 title_flag: true
-more_names: NGC 2215; Collinder 90; OCL 550; MWSC 843; FoF 2204
+more_names: Collinder 90; NGC 2215; OCL 550; MWSC 843; FoF 2204
 fname: melotte45
 fov: 0.33
 ra_icrs: 95.22314
@@ -25,16 +25,17 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 2215</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 45</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.9
 N_50_val: 176
-scix_url: NGC%202215
+scix_url: Melotte%2045
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 95.204 | -7.283 | -- | 1.41 | -6.21 | -10.74 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 95.205 | -7.279 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 95.22 | -7.295 | -- | 1.53 | -5.57 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 95.205 | -7.282 | -- | 1.41 | -6.21 | -10.7 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 95.214 | -7.275 | -- | -- | -- | -- |
@@ -57,6 +58,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.26, Dist=790.0, Age=8.85, [Fe/H]=-0.4` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=1293, logt=8.43, logMA=2.685` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.354, distance=1141, log_age=8.55` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.309, Dmod=10.9, logt=8.564` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.863, Dist=9.839, logA=8.786, Fe/H=-0.4` |

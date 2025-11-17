@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 148
 style: style
 title_flag: true
-more_names: OCL 408; Basel 9; MWSC 421
+more_names: Basel 9; OCL 408; MWSC 421
 fname: ruprecht148
 fov: 0.15
 ra_icrs: 71.6411

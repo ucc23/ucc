@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 4337
+title: Collinder 254
 style: style
 title_flag: true
-more_names: NGC 4337; MWSC 2023; OCL 878; ESO 131 02; vdBergh-Hagen 129; VDBH 129; FSR 1611; FoF 595
+more_names: VDBH 129; NGC 4337; OCL 878; vdBergh-Hagen 129; ESO 131 02; FSR 1611; MWSC 2023; FoF 595
 fname: collinder254
 fov: 0.137
 ra_icrs: 186.02624
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 4337</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 254</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.1
 N_50_val: 436
-scix_url: NGC%204337
+scix_url: Collinder%20254
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 188
+title: Melotte 2
 style: style
 title_flag: true
-more_names: NGC 188; Collinder 6; OCL 309; MWSC 74; FoF 651
+more_names: Collinder 6; NGC 188; OCL 309; MWSC 74; FoF 651
 fname: melotte2
 fov: 0.277
 ra_icrs: 11.78551
@@ -25,12 +25,12 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 188</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Melotte 2</b> is a very rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, well above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 8.3
 N_50_val: 1337
-scix_url: NGC%20188
+scix_url: Melotte%202
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |

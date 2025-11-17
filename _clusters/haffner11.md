@@ -3,7 +3,7 @@ layout: post
 title: Haffner 11
 style: style
 title_flag: true
-more_names: OCL 657; VDBH 3; vdBergh-Hagen 3; ESO 429 03; FSR 1310; MWSC 1273
+more_names: VDBH 3; OCL 657; vdBergh-Hagen 3; ESO 429 03; FSR 1310; MWSC 1273
 fname: haffner11
 fov: 0.09
 ra_icrs: 113.8538
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Haffner 11</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Haffner 11</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.7
@@ -60,5 +60,7 @@ fpars_table: |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=3121.70` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.22, MA23f=-0.53, MA23g=-0.42, MZ23=-0.6, MK24=-0.44, MF24=-0.52` |
 shared_table: |
-    
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Alessi 66](/_clusters/alessi66/)| 67.7 | 113.86 | -27.71 | 0.16 | -1.51 | 3.12 | 98.11 |0.04 |
 ---

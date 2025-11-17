@@ -12,17 +12,17 @@ glon: 277.64432
 glat: -0.69741
 r50: 2.2
 plx: 0.3314
-UTI: "0.65"
-UTI_COLOR: "#e9f5d1"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 68</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -34,6 +34,7 @@ scix_url: Teutsch%2068
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 146.093 | -54.117 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 146.087 | -54.121 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 146.088 | -54.112 | 0.333 | -4.656 | 3.442 | 16.662 |
     | **UCC** |146.084 | -54.112 | 0.331 | -4.644 | 3.445 | 17.293 | 

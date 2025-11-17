@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NGC 6281
+title: Melotte 161
 style: style
 title_flag: true
-more_names: NGC 6281; Collinder 324; OCL 1003; VDBH 213; vdBergh-Hagen 213; ESO 332 19; MWSC 2530; FoF 2332; OCSN 238
+more_names: Collinder 324; VDBH 213; NGC 6281; OCL 1003; vdBergh-Hagen 213; ESO 332 19; MWSC 2530; FoF 2332; OCSN 238
 fname: melotte161
 fov: 0.48
 ra_icrs: 256.18356
@@ -25,17 +25,19 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>NGC 6281</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>Melotte 161</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 14.4
 N_50_val: 606
-scix_url: NGC%206281
+scix_url: Melotte%20161
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 256.171 | -37.985 | -- | -2.14 | -2.97 | -5.58 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 256.173 | -37.987 | -- | -- | -- | -- |
+    |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 256.155 | -37.989 | -- | -- | -- | -- |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 256.155 | -37.989 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 256.17 | -37.98 | -- | -2.96 | -3.75 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 256.17 | -37.986 | -- | -6.478 | -3.407 | -15.4 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 256.166 | -37.945 | -- | -- | -- | -- |
@@ -58,6 +60,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.148, Dist=479.0, Age=8.497, [Fe/H]=0.0` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.148, HDis=479, Age=0.31, [Fe/H]_1=0.0` |
+    | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.15, Dist=494, logt=8.51, logM=2.006` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.15, Dist=494, logt=8.51, logM=2.331, logMA=2.206` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.192, distance=512, log_age=8.5, metallicity=0.0` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.149, Dmod=8.483, logt=8.495` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.269, Z=0.25` |

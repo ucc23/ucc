@@ -12,20 +12,20 @@ glon: 256.12158
 glat: -3.30921
 r50: 2.6
 plx: 0.2306
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 63</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Teutsch 63</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6
@@ -34,6 +34,7 @@ scix_url: Teutsch%2063
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 122.536 | -39.376 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 122.538 | -39.371 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 122.534 | -39.38 | 0.245 | -1.817 | 3.231 | 40.509 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 122.53 | -39.384 | 0.24 | -- | -- | -- |

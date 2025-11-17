@@ -44,5 +44,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 210](/_clusters/ryu210/)| 4.0 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.14 |
-    |[VVVX CL093](/_clusters/vvvxcl093/)| 4.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.43 |
+    |[VVVX CL093](/_clusters/vvvxcl093/)| 4.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.36 |
 ---
