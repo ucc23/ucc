@@ -179,11 +179,8 @@ layout: default
     </blockquote>
 
 
-  <h3>Cluster region</h3>
-
-  <html lang="en">
-    <body>
-      <center>
+    <details id="cluster-region">
+      <summary>Cluster region</summary>
       <div id="plot-params"
            data-oc-name="{{page.fname}}"
            data-ra-center="{{page.ra_icrs}}"
@@ -194,11 +191,7 @@ layout: default
       <div id="plot-container">
           <div id="plot"></div>
       </div>
-      <script defer type="module" src="{{ site.baseurl }}/scripts/radec_scatter.js"></script>
-      </center>
-    </body>
-  </html>
-  <br>
+    </details>
 
 
     {% if page.shared_table != empty %}
@@ -214,10 +207,11 @@ layout: default
 </article>
 
 <script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
-<script defer src="https://cdn.plot.ly/plotly-3.0.1.min.js" charset="utf-8"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min/plotly.min.js"></script>
 
-<!-- Galactocentric position lazy load -->
+
 <script>
+//Galactocentric position lazy load
 document.getElementById("gcpos").addEventListener("toggle", function () {
   if (this.open) {
     const img = this.querySelector("img");
@@ -227,24 +221,31 @@ document.getElementById("gcpos").addEventListener("toggle", function () {
     }
   }
 });
-</script>
 
-<!-- Umami -->
-<script>
+// RADEC positions lazy load
+const details = document.getElementById('cluster-region');
+let loaded = false;
+details.addEventListener('toggle', () => {
+    if (details.open && !loaded) {
+        const s = document.createElement('script');
+        s.type = 'module';
+        s.src = `{{ site.baseurl }}/scripts/radec_scatter.js`; 
+        document.body.appendChild(s);
+        loaded = true;
+    }
+});
+
+// Umami tracking for interactions
 const button = document.getElementById('UTI-button');
 button.onclick = () => umami.track('UTI');
 
-const d1 = document.getElementById('summary').closest('details');
-d1.addEventListener('toggle', () => {
-  if (d1.open) {
-    umami.track('summary');
-  }
-});
-
-const d2 = document.getElementById('gcpos').closest('details');
-d2.addEventListener('toggle', () => {
-  if (d2.open) {
-    umami.track('gcpos');
-  }
+const trackableDetails = ['summary', 'gcpos', 'cluster-region'];
+trackableDetails.forEach(elementId => {
+    const details = document.getElementById(elementId)?.closest('details');
+    details?.addEventListener('toggle', () => {
+        if (details.open) {
+            umami.track(elementId);
+        }
+    });
 });
 </script>
