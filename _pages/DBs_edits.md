@@ -243,8 +243,6 @@ Added 'VDBH' and 'VDB' naming.
 
 
 
-
-
 ## Koposov et al. 2008
 
 [Automated search for Galactic star clusters in large multiband surveys. I. Discovery
