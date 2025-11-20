@@ -4,165 +4,73 @@ import { generalSearch } from "./search.js";
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
-import {geoAitoff} from "https://cdn.skypack.dev/d3-geo-projection@4";
-// import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-import { select } from "https://cdn.jsdelivr.net/npm/d3-selection@3/+esm";
-import { zoom } from "https://cdn.jsdelivr.net/npm/d3-zoom@3/+esm";
-import { geoGraticule, geoPath } from "https://cdn.jsdelivr.net/npm/d3-geo@3/+esm";
-import { min, max } from "https://cdn.jsdelivr.net/npm/d3-array@3/+esm";
-import { scaleLinear, scaleLog } from "https://cdn.jsdelivr.net/npm/d3-scale@4/+esm";
-
-
-// Set up dimensions and projection
-const plotDiv = document.getElementById("map_plot");
+// Set up dimensions
+const plotDiv = document.getElementById("search-box");
 const width = plotDiv.offsetWidth;  // width of the div
-const height = width/2;
 
-const projection = geoAitoff()
-    .rotate([0, 0]) 
-    .scale(height / 4)
-    .translate([width / 2, height / 2]);
+// Select the parent container using standard JS
+const parentContainer = document.getElementById("table_results");
+const tableContainer = document.createElement("div");
+tableContainer.setAttribute("id", "resultsTable");
+tableContainer.style.marginTop = "20px";
+tableContainer.style.display = "flex";
+tableContainer.style.justifyContent = "center";
+// Append the new element to the parent container
+parentContainer.appendChild(tableContainer);
 
-const zoomBehavior = zoom()
-    .scaleExtent([1, 10])
-    .on("zoom", (event) => svg.attr("transform", event.transform));
+// Pre-build C3 letter fragments
+const letterHTML = {
+    A: '<span class="c3-A">A</span>',
+    B: '<span class="c3-B">B</span>',
+    C: '<span class="c3-C">C</span>',
+    D: '<span class="c3-D">D</span>'
+};
 
-// Apply zoom with passive event listeners
-select("svg").call(zoomBehavior)
-    .on("wheel.zoom", null, { passive: true })
-    .on("touchstart.zoom", null, { passive: true })
-    .on("touchmove.zoom", null, { passive: true });
+// Load compressed data
+const data = await loadCompressedCsv();
 
-
-const svg = select("#map_plot")
-    .append("svg")
-    .attr("width", width)
-    .attr("height", height)
-    .call(zoomBehavior)
-    .append("g");
-
-// Define a graticule generator for the grid lines
-const graticule = geoGraticule()
-    .step([29.99, 15]); // Step size for grid lines: 30 LON, 15 LAT
-    // If I use 30 exactly in LON the last grid line for 180 is not drawn
-
-// Draw the graticule (grid) on the projection
-svg.append("path")
-    .datum(graticule)
-    .attr("d", geoPath().projection(projection))
-    .attr("fill", "none")
-    .attr("stroke", "#ccc")
-    .attr("stroke-width", 0.5);
-
-// Append title text element
-const title = svg.append("text")
-    .attr("x", width / 2)
-    // .attr("y", 20) // Position at the top of the plot
-    .attr("y", height - 10) // Position near bottom
-    .attr("text-anchor", "middle")
-    .attr("font-size", "16px")
-    .attr("fill", "black");
-
-// Tooltip div for displaying data on hover
-const tooltip = select("#map_plot")
-    .append("div")
-    .attr("class", "tooltip")
-    .style("position", "absolute")
-    .style("visibility", "hidden")
-    .style("padding", "8px")
-    .style("background", "#fff")
-    .style("border", "1px solid #333")
-    .style("border-radius", "4px");
-
-// Label LON along middle
-for (let lon = 0; lon < 360; lon += 30) {  // Label every 30 degrees
-    const [x, y] = projection([lon, 0]);  // Projection at latitude 0 (equator)
-    svg.append("text")
-        .attr("x", x)
-        .attr("y", y - 10)
-        .attr("text-anchor", "middle")
-        .attr("fill", "#333")
-        .style("font-size", "10px")
-        .text(`${lon}°`);
-}
-
-// Label LAT
-for (let lat = -90; lat <= 90; lat += 30) {  // Label every 30 degrees
-    const [x, y] = projection([181, lat]); // Projection at left side
-
-    svg.append("text")
-        .attr("x", x - 25)  // Left side
-        .attr("y", y + 3)
-        .attr("text-anchor", "start")
-        .attr("fill", "#333")
-        .style("font-size", "10px")
-        .text(`${lat}°`);
-}
-
-// Create container for the table below the plot
-const tableContainer = select("#table_results")
-        .append("div")
-        .attr("id", "resultsTable")
-        .style("margin-top", "20px")
-        .style("display", "flex")
-        .style("justify-content", "center");
-
-
-// Convert data to CSV format
-function convertToCSV(points) {
-    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI", "bad_oc"];
-    const csvContent = [
-        headers.join(","), // Header row
-        ...points.map(d => [
-            `"${d.name}"`,
-            d.ra,
-            d.dec,
-            d.lon,
-            d.lat,
-            d.dist_pc.toFixed(0),
-            d.membs,
-            d.c3,
-            d.uti,
-            d.badoc
-        ].join(","))
-    ].join("\n");
-
-    return csvContent;
-}
-
-// Trigger the download
-function downloadCSV(points) {
-    const csvContent = convertToCSV(points);
-    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
-    const link = document.createElement("a");
-    
-    if (link.download !== undefined) {
-        const url = URL.createObjectURL(blob);
-        link.setAttribute("href", url);
-        link.setAttribute("download", "ucc_clusters_table.csv");
-        link.style.visibility = 'hidden';
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-    }
+function getInputValues() {
+    return {
+        coordsys : window.coordsys,
+        search: document.getElementById("search").value,
+        radius: document.getElementById("radius").value,
+        distmin: document.getElementById("dist_min").value,
+        distmax: document.getElementById("dist_max").value,
+        n50min: document.getElementById("n50_min").value,
+        n50max: document.getElementById("n50_max").value,
+        utimin: document.getElementById("uti_min").value,
+        utimax: document.getElementById("uti_max").value,
+        c3Filter: document.getElementById("c3Filter").value,
+        filterOCs: document.getElementById("filterOCs").checked,
+    };
 }
 
 
-function getPoints(
-    query, coordsys, radius, distmin, distmax, n50min, n50max, utimin, utimax,
-    c3Filter, filterOCs) {
+function getPoints() {
+    let { 
+        coordsys,
+        search: query,  // Rename
+        radius,
+        distmin,
+        distmax,
+        n50min,
+        n50max,
+        utimin,
+        utimax,
+        c3Filter,
+        filterOCs,
+    } = getInputValues();
+
     // If 'query' is empty return empty array
     if (!query || query.trim() === "") {
         return [];
     }
 
-    // Default radius to 10 if invalid
+    // Ensure valid defaults
     radius = parseFloat(radius);
     if (isNaN(radius)) {
         radius = 10;
     }
-
-    // Ensure valid defaults
     distmin = parseFloat(distmin);
     if (isNaN(distmin)) {
         distmin = 0;
@@ -205,7 +113,6 @@ function getPoints(
                 uti: parseFloat(d.UTI),
                 c3: d.C3,
                 badoc: d.bad_oc,
-                coordinates: projection([parseFloat(d.GLON), parseFloat(d.GLAT)])
             };
         })
         .filter(d => d.distance <= radius)
@@ -234,18 +141,9 @@ function getPoints(
 }
 
 
-
-// Pre-build C3 letter fragments
-const letterHTML = {
-    A: '<span class="c3-A">A</span>',
-    B: '<span class="c3-B">B</span>',
-    C: '<span class="c3-C">C</span>',
-    D: '<span class="c3-D">D</span>'
-};
-
-
-function buildTable(points, circles, sizeScale, coordsys) {
+function buildTable(points) {
     // Determine coordinate labels
+    const coordsys = window.coordsys;
     const dr = coordsys === "names" ? "d [str]" : "d [ ' ]";
     const coord1 = coordsys === "gal" ? "LON" : "RA";
     const coord2 = coordsys === "gal" ? "LAT" : "DEC";
@@ -293,163 +191,92 @@ function buildTable(points, circles, sizeScale, coordsys) {
     });
     tableBody += "</tbody>";
 
-    // Inject table
-    tableContainer.html(`
-        <table id="resultsTable" class="results-table" style="width:${width}px"">
-            ${tableHeader}
-            ${tableBody}
-        </table>
-    `);
-
-    const table = document.getElementById("resultsTable");
-
-    // Only enable hover if fewer than 100 rows
-    handleRowHover(table, points, circles, sizeScale);
-
-    // Enable sorting
-    enableTableSorting(table);
-}
-
-// Hover handling with delay
-function handleRowHover(table, points, circles, sizeScale) {
-    let hoverTimeout = null;
-
-    let delayTimeout = 100;
-    if (points.length > 2000) {
-        delayTimeout = 500;
-    } else if (points.length > 1000) {
-        delayTimeout = 400;
-    } else if (points.length > 750) {
-        delayTimeout = 300;
-    } else if (points.length > 500) {
-        delayTimeout = 200;
+    // Get a reference to the container element previously created
+    const tableContainerElement = document.getElementById("resultsTable"); 
+    // Ensure the element exists before attempting to modify its content
+    if (tableContainerElement) {
+        // Inject table using the standard JavaScript innerHTML property
+        tableContainerElement.innerHTML = `
+            <table id="resultsTableData" class="results-table" style="width:${width}px">
+                ${tableHeader}
+                ${tableBody}
+            </table>
+        `;
     }
+}
 
-    table.addEventListener("mouseover", (e) => {
-        const row = e.target.closest("tr[data-index]");
-        if (row) {
-            clearTimeout(hoverTimeout);
-            hoverTimeout = setTimeout(() => {
-            const idx = +row.dataset.index;
-            // Reset all circles
-            circles
-                .attr("r", p => sizeScale(p.membs))
-                .style("opacity", 0.25)
-                .style("stroke", "black");
-            // Highlight hovered circle
-            const circle = circles.filter((p, i) => i === idx);
-            circle.raise()
-                .attr("r", p => sizeScale(p.membs) * 1.0)
-                .style("opacity", 0.75)
-                .style("stroke", "yellow")
-                .style("stroke-width", 2);
-            }, delayTimeout);
-        }
-    });
+// Update map
+async function updateMapIfOpen(points, table) {
+  const details = document.querySelector("details");
+  if (details && details.open) {
+    const module = await import("./mapPlotter.js");
+    module.drawMap(points, table);
+  }
+}
 
-    // Reset highlight when leaving the row
-    table.addEventListener("mouseout", (e) => {
-        const row = e.target.closest("tr[data-index]");
-        if (row) {
-            clearTimeout(hoverTimeout);
-            hoverTimeout = setTimeout(() => {
-                circles
-                .attr("r", p => sizeScale(p.membs))
-                .style("opacity", 0.25)
-                .style("stroke", "black")
-                .style("stroke-width", 1);
-            }, delayTimeout);
-        }
-    });
+// Call map update when details is opened
+const mapDetails = document.querySelector("details");
+mapDetails.addEventListener("toggle", async (event) => {
+  if (event.target.open) {
+    const points = getPoints();
+    const table = document.getElementById("resultsTable");
+    await updateMapIfOpen(points, table);
+  }
+});
+
+// Main update function
+async function updateDisplay() {
+  const points = getPoints();
+  buildTable(points);
+  const table = document.getElementById("resultsTable");
+  enableTableSorting(table);
+  await updateMapIfOpen(points, table);
 }
 
 
-function displayData(points) {
-    title.text(`N=${points.length}`);
 
-    // --- Draw points ---
-    const minDist = min(points, d => d.dist_pc);
-    const maxDist = Math.min(4000, max(points, d => d.dist_pc));
-    const colorScale = scaleLog()
-        .domain([minDist, maxDist])     // domain must be strictly positive
-        .range(["blue", "red"]);
-    const minMembs = min(points, d => d.membs);
-    const maxMembs = max(points, d => d.membs);
-    const sizeScale = scaleLinear().domain([minMembs, maxMembs]).range([1, 25]);
-
-    svg.selectAll("circle").remove();
-
-    const circles = svg.selectAll("circle")
-        .data(points)
-        .enter()
-        .append("circle")
-        .attr("cx", d => d.coordinates[0])
-        .attr("cy", d => d.coordinates[1])
-        .attr("r", d => sizeScale(d.membs))
-        .style("fill", d => colorScale(d.dist_pc))
-        .style("stroke", "black")
-        .style("stroke-width", 1)
-        .style("opacity", 0.25)
-        .style("cursor", "pointer")
-        .on("mouseover", (event, d) => {
-            tooltip.html(`<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist_pc} [pc]<br>N_50: ${d.membs}`)
-                .style("visibility", "visible");
-        })
-        .on("mousemove", (event) => {
-            // Prevent the tooltip from getting squished at the right edge of the map
-            const offsetX = event.offsetX > 600 ? event.offsetX - (event.offsetX - 600) : event.offsetX + 10;
-            tooltip
-                .style("left", (offsetX) + "px")
-                .style("top", (event.offsetY + 10) + "px");
-        })
-        .on("mouseout", () => tooltip.style("visibility", "hidden"))
-        .on("click", (event, d) => {
-            window.open("https://ucc.ar/_clusters/" + d.fname, "_blank");
-        });
-
-    return { circles, sizeScale };
-}
-
-const data = await loadCompressedCsv();
-
-function getInputValues() {
-    return {
-        search: document.getElementById("search").value,
-        radius: document.getElementById("radius").value,
-        distmin: document.getElementById("dist_min").value,
-        distmax: document.getElementById("dist_max").value,
-        n50min: document.getElementById("n50_min").value,
-        n50max: document.getElementById("n50_max").value,
-        utimin: document.getElementById("uti_min").value,
-        utimax: document.getElementById("uti_max").value,
-        c3Filter: document.getElementById("c3Filter").value,
-        filterOCs: document.getElementById("filterOCs").checked,
-    };
-}
-
-// Update the display with current input values
-function updateDisplay() {
-    const v = getInputValues();
-    const points = getPoints(
-        v.search, window.coordsys, v.radius,
-        v.distmin, v.distmax, v.n50min, v.n50max,
-        v.utimin, v.utimax, v.c3Filter, v.filterOCs
-    );
-    const { circles, sizeScale } = displayData(points);
-    buildTable(points, circles, sizeScale, window.coordsys);
-}
-
-// Function to download the data as CVS
 function getCSV() {
-    const v = getInputValues();
-    const points = getPoints(
-        v.search, window.coordsys, v.radius,
-        v.distmin, v.distmax, v.n50min, v.n50max,
-        v.utimin, v.utimax, v.c3Filter, v.filterOCs
-    );
-    downloadCSV(points);
-}
+    // 1. Data Acquisition (Equivalent to getCSV -> getPoints)
+    const points = getPoints();
 
+    // 2. CSV Conversion (Equivalent to convertToCSV)
+    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI", "bad_oc"];
+    const csvContent = [
+        headers.join(","), // Header row
+        ...points.map(d => [
+            `"${d.name}"`, // Quote the name to handle commas/spaces
+            d.ra,
+            d.dec,
+            d.lon,
+            d.lat,
+            d.dist_pc.toFixed(0), // Ensure distance is formatted as integer string
+            d.membs,
+            d.c3,
+            d.uti,
+            d.badoc
+        ].join(","))
+    ].join("\n");
+
+    // 3. Trigger Download (Equivalent to downloadCSV)
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement("a");
+    
+    // Standard client-side download mechanism
+    if (link.download !== undefined) {
+        const url = URL.createObjectURL(blob);
+        link.setAttribute("href", url);
+        link.setAttribute("download", "ucc_clusters_table.csv");
+        
+        // Use hidden link element to trigger the download programmatically
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        
+        // Revoke the object URL to release resources
+        URL.revokeObjectURL(url); 
+    }
+}
 
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });
@@ -464,5 +291,5 @@ document.getElementById("searchButton").addEventListener("click", updateDisplay)
     });
 });
 
-const downloadContainer = document.getElementById('download-container');
-downloadContainer.addEventListener('click', getCSV);
+const downloadButton = document.getElementById('downloadCSV');
+downloadButton.addEventListener('click', getCSV);
