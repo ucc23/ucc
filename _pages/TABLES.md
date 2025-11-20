@@ -70,9 +70,10 @@ parameter `N_50`. This number is obtained identifying as members those stars wit
 
 ### Probable duplicates
 
-This table groups the OCs in the UCC by their estimated probability
-members. The percentage of shared members goes from <1% to 100% in some cases, which
-points to obvious duplicates.
+This table groups the OCs in the UCC by their estimated likelihood
+of being a duplicate of a previous entry. The parameter `C_dup` ranges from `0`
+(definitely a duplicate) to `1` (not a duplicate). See [here](/faq/#what-is-the-uti-parameter) for more details.
+
 
 <!-- Begin table 4 -->
 
