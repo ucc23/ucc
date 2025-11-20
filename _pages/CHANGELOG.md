@@ -23,7 +23,7 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 
 - Added summary and GC position
 - Added 'bad_oc' column to identify entries likely to be not OCs
-- Added the FROEBRICH2007 database
+- Added Froebrich et al. (2007)
 - Updated a few entries that were identified as duplicates
 
 
