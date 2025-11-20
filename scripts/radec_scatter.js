@@ -1,6 +1,7 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 
-document.addEventListener("DOMContentLoaded", async () => {
+// document.addEventListener("DOMContentLoaded", async () => {
+async function initRadecScatter() {
     const data = await loadCompressedCsv("../../assets/");
 
     // Retrieve center data from the HTML
@@ -291,4 +292,6 @@ document.addEventListener("DOMContentLoaded", async () => {
             window.open(url, '_blank');
         }
     });
-});
+}
+
+initRadecScatter()
