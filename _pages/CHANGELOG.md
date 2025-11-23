@@ -9,6 +9,17 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [251123](https://zenodo.org/records/17689259)
+
+- Added Roser et al. (2016)
+- Added Bastian (2019) (contains Gaia 8 only)
+- Added Cordoni et al. (2023)
+- Re-process MCM entries 3, 16 & 53 with N=25
+- Added 'NGC 1976' as main name of 'Trapezium' in Dambis (1999)
+- Renamed 'XDOCC N' to 'XDOCC 0N' in  and Piatti (2003), Hunt & Reffert (2023),
+  Hunt & Reffert (2023), and Cavallo (2024)
+
+
 ## Version [251117](https://doi.org/10.5281/zenodo.17635003)
 
 - Added Kronberger et al. (2006)
@@ -16,7 +27,6 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 - Added Mercer et al. (2005)
 - Added Piskunov et al. (2007)
 - Added Piskunov et al. (2008)
-
 
 
 ## Version [251115](https://doi.org/10.5281/zenodo.17618010)

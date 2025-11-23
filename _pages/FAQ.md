@@ -88,11 +88,11 @@ entry. It is estimated via the relation:
 where the `C` factors have values in the [0, 1] range (1 is best) representing
 normalized estimates of:
 
-- `C_N`: number of members (1 = many members)
-- `C_dens`: stellar density in pc^2 (1 = dense object)
-- `C_C3`: C3 parameter (1 = AA class)
-- `C_lit`: presence in literature (1 = frequently mentioned in literature)
-- `C_dup`: probability of duplication (1 = not a duplicate)
+- `C_N`: number of members (0=very few members, 1=many members)
+- `C_dens`: stellar density in pc^2 (0=very sparse object, 1=dense object)
+- `C_C3`: C3 parameter (0=DD class, 1=AA class)
+- `C_lit`: presence in literature (0=rarely mentioned in the literature, 1=frequently mentioned in the literature)
+- `C_dup`: likelihood of uniqueness (0=very likely a duplicate entry, 1=not a duplicate entry)
 
 ![UTI values for OCs in the literature](/images/UTI_values.webp "UTI values for OCs in the literature")
 
