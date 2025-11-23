@@ -355,6 +355,18 @@ same object in the UCC. Removed FSR_1184.
 
 
 
+## Roser et al 2016
+
+[Nine new open clusters within 500 pc from the Sun](https://ui.adsabs.harvard.edu/abs/2016A%26A...595A..22R)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/595/A22) table shows 10 entries, two of them are the same cluster 'RSG 9y' and
+'RSG 9o' for which I combine two columns with different values.
+
+For RSG entries 2, 3, 4, 6 and 9 I add as secondary name 'TRSG X' to match what's
+already in the catalogue.
+
+
+
 ## Loktin & Popova 2017
 
 [Updated version of the 'homogeneous catalog of open
@@ -437,6 +449,16 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/624/
 Converted `RAJ2000, DEJ2000` in hms columns into degree values.
 
 - ESO XXX-SCYY --> ESO XXX-YY
+
+
+## Bastian 2019
+
+[Gaia 8: Discovery of a star cluster containing β Lyrae](https://scixplorer.org/abs/2019A&A...630L...8B/abstract)
+
+The article gives no (RA, DEC) values bu states that: "The cluster is perfectly
+centred on \Beta Lyrae on the sky" so we take the [system's coordinates](https://en.wikipedia.org/wiki/Beta_Lyrae)
+as the cluster's coordinates.
+
 
 
 ## Bica et al. 2019
@@ -727,13 +749,14 @@ Extreme Deconvolution Gaussian Mixture Models](https://ui.adsabs.harvard.edu/abs
 
 Changes to names:
 
-* NGC 1976 --> Trapezium
-* NGC 2451 --> NGC 2451B
-* Changed 'XDOCC-0Y' to 'XDOCC-Y' to match HUNT23
+- NGC 2451 --> NGC 2451B (better plx match than with NGC 2451)
+- Added 'Collinder 205' to 'Markarian 18' (alternative name)
+- Added VDBH
 
 Removed entries pointing to a GC:
 
-* Berkeley 42 --> NGC 6749
+- Berkeley 42 --> NGC 6749
+
 
 
 ## Santos-Silva et al. 2021
@@ -868,6 +891,16 @@ convention by HUNT23 for DBs with no acronyms.
 
 The (GLON, GLAT) column in their [Vizier table](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/ApJS/266/36/table3) does not appear to match the converted
 (RAICRS, DEICRS) values.
+
+
+## Cordoni et al 2023
+
+[Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters
+](https://ui.adsabs.harvard.edu/abs/2023A%26A...672A..29C/abstract)
+
+Two Vizier tables available ([tablec1](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/672/A29/tablec1) & [tablec2](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/672/A29/tablec2)) that were combined into
+a single one.
+
 
 
 ## He et al. 2023
