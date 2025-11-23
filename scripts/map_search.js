@@ -176,7 +176,7 @@ function buildTable(points) {
         tableBody += `
             <tr data-index="${i}">
                 <td class="left">
-                  <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}" ${nameStyle}>
+                  <a href="../_clusters/${d.fname}" data-umami-event="cl_search" target="_blank" title="${d.fnames}" ${nameStyle}>
                     ${d.name.slice(0, 20)}
                   </a>
                 </td>
