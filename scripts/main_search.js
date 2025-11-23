@@ -49,8 +49,10 @@ searchInput.addEventListener("input", (event) => {
         const element = userCardTemplate.content.cloneNode(true).children[0];
         const header = element.querySelector("[data-header]");
         const body = element.querySelector(`[data-body]`);
+        const anchor = element.querySelector("a");
         const href = `./_clusters/${d.fnames.split(";")[0]}`;
-        element.querySelector("a").setAttribute("href", href);
+
+        anchor.setAttribute("href", href);
         header.textContent = d.Name;
         if (coordsys == 'equ') {
             body.textContent = `E (${d.RA_ICRS}, ${d.DE_ICRS})`;
