@@ -76,7 +76,7 @@ style: style
 | [LISC-III 3649](/_clusters/lisciii3649/) | 85.99 | 5.04 | 1.65 | 20 | 48.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [LISC-III 3661](/_clusters/lisciii3661/) | 26.93 | 48.3 | 1.78 | 23 | 24.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.11  |
 | [LISC-III 3664](/_clusters/lisciii3664/) | 75.72 | 21.56 | 2.12 | 21 | 49.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
-| [LISC-III 3668](/_clusters/lisciii3668/) | 120.48 | -44.82 | 1.71 | 85 | 45.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.52  |
+| [LISC-III 3668](/_clusters/lisciii3668/) | 120.48 | -44.82 | 1.71 | 85 | 45.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.49  |
 | [LISC-III 3673](/_clusters/lisciii3673/) | 241.11 | -63.6 | 1.67 | 11 | 42.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [LISC-III 3682](/_clusters/lisciii3682/) | 106.58 | -22.37 | 1.7 | 71 | 42.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.28  |
 | [LISC-III 3715](/_clusters/lisciii3715/) | 232.76 | -52.83 | 1.81 | 13 | 24.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |

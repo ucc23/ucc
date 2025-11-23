@@ -17,7 +17,7 @@ style: style
 | [MCM 13](/_clusters/mcm13/) | 283.42 | 0.62 | 0.16 | 11 | 6.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [MCM 14](/_clusters/mcm14/) | 284.53 | 1.61 | 0.48 | 26 | 3.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.3  |
 | [MCM 15](/_clusters/mcm15/) | 285.93 | 5.18 | 0.33 | 10 | 8.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [MCM 16](/_clusters/mcm16/) | 286.12 | 5.09 | 0.27 | 247 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.4  |
+| [MCM 16](/_clusters/mcm16/) | 286.11 | 5.05 | 0.25 | 17 | 6.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [MCM 17](/_clusters/mcm17/) | 287.31 | 8.17 | 0.11 | 14 | 5.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [MCM 18](/_clusters/mcm18/) | 287.44 | 8.25 | 0.11 | 15 | 6.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [MCM 19](/_clusters/mcm19/) | 286.72 | 9.59 | 0.28 | 22 | 1.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
@@ -32,7 +32,7 @@ style: style
 | [MCM 27](/_clusters/mcm27/) | 179.58 | -61.87 | 0.17 | 85 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.54  |
 | [MCM 28](/_clusters/mcm28/) | 180.56 | -62.95 | 0.26 | 20 | 5.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [MCM 29](/_clusters/mcm29/) | 180.81 | -63.12 | 0.17 | 8 | 6.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
-| [MCM 3](/_clusters/mcm3/) | 274.67 | -17.01 | 0.6 | 301 | 8.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.49  |
+| [MCM 3](/_clusters/mcm3/) | 274.71 | -17.05 | 0.61 | 17 | 3.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.25  |
 | [MCM 30](/_clusters/mcm30/) | 183.66 | -62.99 | 0.2 | 14 | 6.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [MCM 31](/_clusters/mcm31/) | 183.74 | -63.03 | 0.3 | 13 | 6.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [MCM 32](/_clusters/mcm32/) | 186.73 | -62.83 | 0.27 | 37 | 1.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.37  |
@@ -57,7 +57,7 @@ style: style
 | [MCM 50](/_clusters/mcm50/) | 214.82 | -61.43 | 0.57 | 122 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.22  |
 | [MCM 51](/_clusters/mcm51/) | 215.23 | -60.25 | 0.32 | 15 | 5.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
 | [MCM 52](/_clusters/mcm52/) | 216.21 | -60.45 | 0.33 | 15 | 5.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
-| [MCM 53](/_clusters/mcm53/) | 220.05 | -60.38 | 0.22 | 685 | 2.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.36  |
+| [MCM 53](/_clusters/mcm53/) | 220.04 | -60.37 | 0.21 | 23 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [MCM 54](/_clusters/mcm54/) | 221.17 | -59.83 | 0.39 | 22 | 8.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
 | [MCM 55](/_clusters/mcm55/) | 221.33 | -59.78 | 0.49 | 20 | 7.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [MCM 56](/_clusters/mcm56/) | 222.33 | -59.42 | 0.39 | 18 | 5.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
