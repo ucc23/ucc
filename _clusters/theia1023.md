@@ -17,12 +17,12 @@ UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#feeace"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f6c1b8"
 UTI_C_N: 0.27
 UTI_C_dens: 0.34
 UTI_C_C3: 0.12
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.15
 UTI_summary: |
     <b>Theia 1023</b> is a poorly populated, loose object of very low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.36, diffAV50=1.323, MOD50=8.14, logAge50=8.064` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.68, dMod50=8.22, logAge50=8.17, [Fe/H]50=0.17` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=65.6976` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=65.6976, MassTot=158.999` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

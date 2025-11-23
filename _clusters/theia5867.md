@@ -17,12 +17,12 @@ UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fff8de"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f1b6b3"
 UTI_C_N: 0.3
 UTI_C_dens: 0.44
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.1
 UTI_summary: |
     <b>Theia 5867</b> is a poorly populated, loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.429, diffAV50=1.434, MOD50=12.097, logAge50=8.416` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.67, dMod50=11.75, logAge50=8.47, [Fe/H]50=-0.08` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=354.914` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=354.914, MassTot=456.291` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

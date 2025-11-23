@@ -53,18 +53,18 @@ fpars_table: |
     | :---  |  :---:  |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.4, Dist=1100, logt=7.73, logMA=2.413` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.489, distance=1100, log_age=7.7` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.4, Dmod=9.114, logt=7.73` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.4, Dist=665, logt=7.73` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.03, Z=-1.5` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.21, DMNN=9.95, AgeNN=8.12` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.21, DistPc=975.0, AgeNN=8.12` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.718, Dist=936, logage=8.127, [Fe/H]=0.126` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=954, logAgeNN=8.14` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.85, logAge=7.4` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.398, diffAV50=0.665, MOD50=9.818, logAge50=7.557` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.55, dMod50=10.28, logAge50=7.52, [Fe/H]50=0.66` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=273.128` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=273.128, MassTot=273.128` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.20936, MOD=9.94952, logAge=8.32879, Z=0.12633` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.18 |
+    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.15 |
 ---

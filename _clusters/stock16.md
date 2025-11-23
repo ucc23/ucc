@@ -12,17 +12,17 @@ glon: 306.11034
 glat: 0.08797
 r50: 6.2
 plx: 0.2275
-UTI: "0.38"
-UTI_COLOR: "#fff1d4"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#f1b6b3"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 0.1
 UTI_C_C3: 0.25
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Stock 16</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -49,7 +49,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.469, DM0=11.34, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.52, Dist=1810.0, Age=6.9` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.48, Dist=1640, logt=6.78, logMA=3.151` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.497, Dmod=11.101, logt=6.926` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.497, Dist=1661, logt=6.926` |
+    | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=1.994` |
 shared_table: |
     
 ---

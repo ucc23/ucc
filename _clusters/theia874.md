@@ -12,17 +12,17 @@ glon: 176.04595
 glat: 3.54792
 r50: 25.4
 plx: 1.361
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.28"
+UTI_COLOR: "#fedec5"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#fcd0bf"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.22
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 874</b> is a poorly populated, very loose object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.479, diffAV50=0.667, MOD50=9.185, logAge50=8.505` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.69, dMod50=9.27, logAge50=8.37, [Fe/H]50=0.08` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=42.1343` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=42.1343, MassTot=135.210` |
 shared_table: |
     
 ---

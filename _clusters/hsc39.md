@@ -12,17 +12,17 @@ glon: 3.02303
 glat: -0.04833
 r50: 5.5
 plx: 0.4719
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fff1d4"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.38
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HSC 39</b> is a sparse, loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.899, diffAV50=1.771, MOD50=11.483, logAge50=8.218` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.17, dMod50=11.2, logAge50=7.98, [Fe/H]50=-0.63` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=320.748` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=320.748, MassTot=325.907` |
 shared_table: |
     
 ---

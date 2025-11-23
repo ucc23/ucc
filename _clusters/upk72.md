@@ -12,17 +12,17 @@ glon: 57.9066
 glat: 10.25088
 r50: 39.6
 plx: 2.2462
-UTI: "0.65"
-UTI_COLOR: "#e9f5d1"
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#def1cb"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 0.71
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 72</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is poorly studied in the literature.

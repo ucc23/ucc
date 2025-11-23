@@ -12,20 +12,20 @@ glon: 279.18689
 glat: -2.61525
 r50: 0.8
 plx: 0.1207
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#e2f2cc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.69
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>VDBH 78</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>VDBH 78</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.8
@@ -50,11 +50,11 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.0, Dist=4602.0, Age=8.6` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.249, distance=9763, log_age=8.6` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.15, DMNN=13.66, AgeNN=8.53` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.15, DistPc=5400.0, AgeNN=8.53` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.006, Dist=5602, logage=8.77, [Fe/H]=0.147` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.726, diffAV50=1.721, MOD50=14.195, logAge50=8.231` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.3, dMod50=13.52, logAge50=8.68, [Fe/H]50=-0.05` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1521.22` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1521.22, MassTot=1533.69` |
 shared_table: |
     
 ---

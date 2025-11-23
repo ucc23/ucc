@@ -12,17 +12,17 @@ glon: 352.33585
 glat: -6.2307
 r50: 10.0
 plx: 0.8102
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.22"
+UTI_COLOR: "#fcd0bf"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#fee8cc"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.33
 UTI_summary: |
     <b>Alessi 80B</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -46,9 +46,9 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.642, diffAV50=1.227, MOD50=10.32, logAge50=7.468` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.04, dMod50=10.35, logAge50=7.26, [Fe/H]50=-0.18` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=461.428` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=461.428, MassTot=484.926` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.58 |
+    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.55 |
 ---

@@ -12,17 +12,17 @@ glon: 100.94099
 glat: 3.19191
 r50: 12.5
 plx: 0.765
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.29"
+UTI_COLOR: "#fee0c7"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.24
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 162</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.75, m-M=10.6, logAge=7.7, Z=0.024` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.217, diffAV50=1.248, MOD50=10.492, logAge50=8.003` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.43, dMod50=10.32, logAge50=8.28, [Fe/H]50=-0.31` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=93.8809` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=93.8809, MassTot=122.566` |
 shared_table: |
     
 ---

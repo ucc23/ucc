@@ -12,17 +12,17 @@ glon: 123.30278
 glat: -6.91651
 r50: 17.4
 plx: 0.8881
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#fcd0bf"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.22
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 38</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.85, m-M=10.2, logAge=7.8, Z=0.01` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.793, diffAV50=0.561, MOD50=10.216, logAge50=7.848` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=52.1871` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=52.1871, MassTot=60.6676` |
 shared_table: |
     
 ---

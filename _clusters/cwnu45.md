@@ -12,17 +12,17 @@ glon: 240.08989
 glat: -8.38591
 r50: 17.7
 plx: 1.6586
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fafde1"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.54
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 45</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.05, m-M=8.7, logAge=7.6, Z=0.024` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.128, diffAV50=0.597, MOD50=8.861, logAge50=7.52` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.33, dMod50=9.1, logAge50=7.08, [Fe/H]50=0.06` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=55.8785` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=55.8785, MassTot=266.380` |
 shared_table: |
     
 ---

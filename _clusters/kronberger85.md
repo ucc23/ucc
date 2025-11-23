@@ -12,17 +12,17 @@ glon: 250.96444
 glat: -2.84338
 r50: 1.2
 plx: 0.1194
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#d9efca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.73
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Kronberger 85</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.17, Dist=8500.0, Age=8.8` |
-    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=1.17, Dm=14.65, Age=8.8` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=1.17, Dist=8500.0, Age=8.8` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.457, distance=10380, log_age=8.5` |
 shared_table: |
     

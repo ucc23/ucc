@@ -12,17 +12,17 @@ glon: 0.9665
 glat: 1.47124
 r50: 5.2
 plx: 0.6514
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 71</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | `E(B-V)=0.95, Dmod=10.5, logt=8.0` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.466, diffAV50=0.705, MOD50=10.785, logAge50=7.72` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.16, dMod50=10.2, logAge50=7.58, [Fe/H]50=-0.97` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=308.189` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=308.189, MassTot=308.189` |
 shared_table: |
     
 ---

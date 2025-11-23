@@ -12,17 +12,17 @@ glon: 250.76944
 glat: 12.4566
 r50: 22.6
 plx: 1.0431
-UTI: "0.34"
-UTI_COLOR: "#feeace"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.13
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 509</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.

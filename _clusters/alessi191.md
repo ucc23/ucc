@@ -12,17 +12,17 @@ glon: 52.45839
 glat: 10.46559
 r50: 9.5
 plx: 0.978
-UTI: "0.48"
-UTI_COLOR: "#fffde5"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#dff2cb"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.7
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Alessi 191</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -48,5 +48,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 577](/_clusters/ubc577/)| 82.1 | 282.14 | 22.06 | 0.98 | -1.02 | 3.01 | -9.25 |0.04 |
+    |[UBC 577](/_clusters/ubc577/)| 82.1 | 282.14 | 22.06 | 0.98 | -1.02 | 3.01 | -9.25 |0.03 |
 ---

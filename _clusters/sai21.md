@@ -12,17 +12,17 @@ glon: 134.50638
 glat: 2.05295
 r50: 1.1
 plx: 0.3178
-UTI: "0.47"
-UTI_COLOR: "#fffce3"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>SAI 21</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.
@@ -44,7 +44,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.58, Dist=1860.0, Age=8.5` |
-    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.58, Dm=11.35, Age=8.5` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.58, Dist=1860.0, Age=8.5` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.65, distance=1900, log_age=8.95` |
 shared_table: |
     

@@ -12,17 +12,17 @@ glon: 299.653
 glat: -0.94875
 r50: 2.2
 plx: 0.4553
-UTI: "0.47"
-UTI_COLOR: "#fffce3"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 61</b> is a sparse, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -44,10 +44,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.55, m-M=11.95, logt=7.85` |
+    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.55, Dist=2455, logt=7.85` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.937, diffAV50=0.884, MOD50=11.52, logAge50=8.085` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.89, dMod50=11.33, logAge50=8.58, [Fe/H]50=0.26` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=257.666` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=257.666, MassTot=315.512` |
 shared_table: |
     
 ---

@@ -12,20 +12,20 @@ glon: 279.33738
 glat: -12.36298
 r50: 39.9
 plx: 4.8589
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>CWNU 515</b> is a poorly populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported but it is moderately studied in the literature.
+    <b>CWNU 515</b> is a poorly populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 39.9

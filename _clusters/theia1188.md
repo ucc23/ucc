@@ -12,17 +12,17 @@ glon: 90.68991
 glat: -24.24324
 r50: 36.0
 plx: 3.1147
-UTI: "0.42"
-UTI_COLOR: "#fff6da"
+UTI: "0.39"
+UTI_COLOR: "#fff2d5"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#ffffe8"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.5
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1188</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

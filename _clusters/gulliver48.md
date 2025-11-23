@@ -12,17 +12,17 @@ glon: 91.02292
 glat: 2.44232
 r50: 12.3
 plx: 1.066
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 48</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
@@ -46,11 +46,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.87, DMNN=10.09, AgeNN=7.26` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.87, DistPc=1042.0, AgeNN=7.26` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=3.4, logAge=7.3` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.395, diffAV50=2.788, MOD50=9.78, logAge50=7.578` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.32, dMod50=10.47, logAge50=7.51, [Fe/H]50=0.69` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=596.941` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=596.941, MassTot=643.179` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=2.86982, MOD=10.0900, logAge=7.61163, Z=0.00987` |
 shared_table: |
     

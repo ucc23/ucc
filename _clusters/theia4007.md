@@ -12,17 +12,17 @@ glon: 93.61112
 glat: -1.78836
 r50: 9.5
 plx: 0.5429
-UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
+UTI: "0.06"
+UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f6c1b8"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fedec5"
 UTI_C_N: 0.0
 UTI_C_dens: 0.15
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.28
 UTI_summary: |
     <b>Theia 4007</b> is a sparse, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.559, diffAV50=0.266, MOD50=11.206, logAge50=8.801` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.76, dMod50=11.21, logAge50=8.61, [Fe/H]50=0.14` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=62.9035` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=62.9035, MassTot=58.4522` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -12,17 +12,17 @@ glon: 249.77592
 glat: -4.13078
 r50: 8.7
 plx: 0.721
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.37"
+UTI_COLOR: "#ffefd2"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fffee7"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.49
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 129</b> is a poorly populated, loose object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.35, m-M=10.55, logAge=7.5, Z=0.01` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.331, diffAV50=1.279, MOD50=10.689, logAge50=7.526` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.66, dMod50=10.73, logAge50=7.37, [Fe/H]50=-0.08` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=117.609` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=117.609, MassTot=184.944` |
 shared_table: |
     
 ---

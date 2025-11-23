@@ -17,12 +17,12 @@ UTI_COLOR: "#e8aeb3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f7c3b9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.16
 UTI_summary: |
     <b>Theia 1875</b> is a sparse, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -45,10 +45,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.763, diffAV50=0.348, MOD50=11.917, logAge50=7.122` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.83, dMod50=11.36, logAge50=7.46, [Fe/H]50=0.13` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=294.231` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=294.231, MassTot=294.231` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 944](/_clusters/cwwdl944/)| 84.0 | 257.88 | -41.36 | 0.42 | -0.75 | -2.72 | -20.1 |0.07 |
-    |[CWNU 85](/_clusters/cwnu85/)| 56.0 | 257.92 | -41.33 | 0.42 | -0.73 | -2.7 | -17.36 |0.72 |
+    |[CWNU 85](/_clusters/cwnu85/)| 56.0 | 257.92 | -41.33 | 0.42 | -0.73 | -2.7 | -17.36 |0.69 |
 ---

@@ -12,17 +12,17 @@ glon: 250.27708
 glat: -9.70305
 r50: 0.9
 plx: 0.0832
-UTI: "0.87"
-UTI_COLOR: "#b7dfc4"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>DC 3</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is well-studied in the literature.
@@ -55,7 +55,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.699, diffAV50=1.789, MOD50=14.305, logAge50=9.212` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=0.8, m-M=14.7, logA=9.4` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.96, dMod50=14.36, logAge50=9.64, [Fe/H]50=-0.34` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=358.543` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=358.543, MassTot=1021.55` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.34, MA23f=-0.62, MA23g=-0.55, MZ23=-0.7, MK24=-0.43, MF24=-0.5` |
 shared_table: |
     

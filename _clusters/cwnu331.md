@@ -12,17 +12,17 @@ glon: 257.05318
 glat: -2.18499
 r50: 7.9
 plx: 0.819
-UTI: "0.47"
-UTI_COLOR: "#fffce3"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#c6e6c8"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.81
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 331</b> is a poorly populated, dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.85, m-M=11.35, logAge=7.0, Z=0.036` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.35, diffAV50=1.152, MOD50=10.285, logAge50=7.175` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.68, dMod50=10.72, logAge50=6.89, [Fe/H]50=0.05` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=125.054` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=125.054, MassTot=87.1407` |
 shared_table: |
     
 ---

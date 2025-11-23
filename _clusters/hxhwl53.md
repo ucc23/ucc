@@ -12,17 +12,17 @@ glon: 174.82295
 glat: -1.20383
 r50: 8.3
 plx: 0.6219
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#fff8de"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.44
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 53</b> is a poorly populated, loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=1.1, m-M=11.2, logAge=7.54, Z=0.023` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.757, diffAV50=0.956, MOD50=10.974, logAge50=8.106` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.87, dMod50=10.78, logAge50=8.25, [Fe/H]50=-0.38` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=76.6441` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=76.6441, MassTot=76.6441` |
 shared_table: |
     
 ---

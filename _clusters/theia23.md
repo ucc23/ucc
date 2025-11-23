@@ -17,12 +17,12 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
     <b>Theia 23</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,11 +45,11 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.75, diffAV50=2.446, MOD50=7.843, logAge50=7.331` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.53, dMod50=7.96, logAge50=7.19, [Fe/H]50=0.24` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=205.263` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=205.263, MassTot=217.615` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 247](/_clusters/ocsn247/)| 100.0 | 277.89 | -3.95 | 2.6 | 2.01 | -9.02 | -8.03 |0.01 |
-    |[PHOC 39](/_clusters/phoc39/)| 100.0 | 277.88 | -3.95 | 2.57 | 2.0 | -8.98 | -7.34 |0.61 |
+    |[PHOC 39](/_clusters/phoc39/)| 100.0 | 277.88 | -3.95 | 2.57 | 2.0 | -8.98 | -7.34 |0.51 |
     |[CWWL 3567](/_clusters/cwwl3567/)| 63.5 | 277.91 | -3.91 | 2.61 | 2.06 | -9.03 | -7.18 |0.0 |
 ---

@@ -12,20 +12,20 @@ glon: 254.01393
 glat: 0.24327
 r50: 0.7
 plx: 0.1539
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ivanov 8</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Ivanov 8</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 0.7
@@ -51,7 +51,7 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.479, distance=1194, log_age=7.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.749, diffAV50=1.996, MOD50=13.381, logAge50=8.766` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.47, dMod50=13.65, logAge50=8.64, [Fe/H]50=-0.66` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=492.663` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=492.663, MassTot=509.923` |
 shared_table: |
     
 ---

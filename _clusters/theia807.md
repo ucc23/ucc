@@ -12,17 +12,17 @@ glon: 223.3829
 glat: -22.25567
 r50: 101.3
 plx: 3.0937
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
 UTI_C_N_COL: "#e7f5d0"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#dff2cb"
 UTI_C_N: 0.66
 UTI_C_dens: 0.18
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.7
 UTI_summary: |
     <b>Theia 807</b> is a moderately populated, very loose object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

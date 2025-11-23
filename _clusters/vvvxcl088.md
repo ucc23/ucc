@@ -44,5 +44,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 191](/_clusters/cwnu191/)| 2.3 | 274.1 | -20.18 | 0.51 | 1.13 | -0.38 | -15.74 |0.43 |
-    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.83 |
+    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.78 |
 ---

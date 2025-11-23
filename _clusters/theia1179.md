@@ -12,17 +12,17 @@ glon: 260.67181
 glat: -2.87028
 r50: 12.4
 plx: 1.0128
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fff8dc"
 UTI_C_dens_COL: "#e3f3cd"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.43
 UTI_C_dens: 0.68
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1179</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.05, logAge=8.7` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.755, diffAV50=1.342, MOD50=9.892, logAge50=8.408` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.68, dMod50=9.92, logAge50=8.56, [Fe/H]50=0.48` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=100.496` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=100.496, MassTot=188.763` |
 shared_table: |
     
 ---

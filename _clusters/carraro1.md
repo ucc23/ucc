@@ -12,20 +12,20 @@ glon: 286.25102
 glat: -0.29015
 r50: 10.4
 plx: 0.32
-UTI: "0.27"
-UTI_COLOR: "#fddcc5"
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
 UTI_C_N_COL: "#ffedd1"
 UTI_C_dens_COL: "#edb3b3"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.36
 UTI_C_dens: 0.08
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Carraro 1</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.
+    <b>Carraro 1</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 10.4

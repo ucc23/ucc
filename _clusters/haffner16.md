@@ -57,17 +57,18 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.175, Dist=3165.0, Age=7.078, [Fe/H]=-0.111` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.18, Dist=3165, logt=7.51, logMA=3.096` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=2654, log_age=7.3, metallicity=-0.111` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.175, Dmod=12.502, logt=7.078` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.175, Dist=3165, logt=7.078` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.347, Z=0.25` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.38, DMNN=12.56, AgeNN=7.92` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.38, DistPc=3244.0, AgeNN=7.92` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.75, Dist=2862, logage=7.513, [Fe/H]=-0.16` |
+    | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=3.141` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.351, diffAV50=1.013, MOD50=12.329, logAge50=7.997` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.51, dMod50=12.24, logAge50=7.84, [Fe/H]50=-0.16` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=446.132` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=446.132, MassTot=445.158` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0417](/_clusters/oc0417/)| 21.3 | 117.58 | -25.46 | 0.28 | -2.75 | 3.03 | -- |0.0 |
-    |[FSR 1308](/_clusters/fsr1308/)| 11.6 | 117.57 | -25.46 | 0.31 | -2.83 | 3.05 | -- |0.12 |
+    |[FSR 1308](/_clusters/fsr1308/)| 11.6 | 117.57 | -25.46 | 0.31 | -2.83 | 3.05 | -- |0.11 |
     |[CWNU 2123](/_clusters/cwnu2123/)| 7.9 | 117.48 | -25.37 | 0.32 | -2.7 | 2.89 | -- |0.08 |
 ---

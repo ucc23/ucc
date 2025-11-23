@@ -12,17 +12,17 @@ glon: 139.39355
 glat: -0.45177
 r50: 16.5
 plx: 0.9775
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f8c5ba"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.17
 UTI_C_C3: 0.38
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>COIN-Gaia 37</b> is a sparse, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -50,7 +50,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.5, logAge=7.7` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.917, diffAV50=0.826, MOD50=9.949, logAge50=7.433` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.07, dMod50=10.2, logAge50=7.26, [Fe/H]50=0.43` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=74.1618` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=74.1618, MassTot=246.576` |
 shared_table: |
     
 ---

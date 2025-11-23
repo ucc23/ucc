@@ -41,10 +41,10 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.696, Dmod=10.178, logt=7.382` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.696, Dist=1085, logt=7.382` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.83 |
+    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.78 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
 ---

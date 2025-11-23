@@ -12,17 +12,17 @@ glon: 94.73738
 glat: 7.53464
 r50: 52.1
 plx: 3.048
-UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
+UTI: "0.72"
+UTI_COLOR: "#dbf0ca"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#c1e4c6"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.83
 UTI_C_C3: 1.0
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 519</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported but it is moderately studied in the literature.
@@ -51,7 +51,7 @@ fpars_table: |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.03, m-M=7.63, logt=7.5` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.132, diffAV50=0.67, MOD50=7.522, logAge50=7.354` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=7.62, logAge50=7.28, [Fe/H]50=0.02` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=58.7504` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=58.7504, MassTot=177.387` |
 shared_table: |
     
 ---

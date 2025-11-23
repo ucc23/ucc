@@ -12,17 +12,17 @@ glon: 221.12747
 glat: -5.46798
 r50: 34.2
 plx: 3.4551
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#c9e8c8"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#dff2cb"
 UTI_C_N: 0.33
 UTI_C_dens: 0.8
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.7
 UTI_summary: |
     <b>Theia 72</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1099](/_clusters/cwnu1099/)| 30.3 | 101.14 | -8.72 | 3.65 | -0.77 | -5.0 | 27.86 |0.5 |
+    |[CWNU 1099](/_clusters/cwnu1099/)| 30.3 | 101.14 | -8.72 | 3.65 | -0.77 | -5.0 | 27.86 |0.4 |
 ---

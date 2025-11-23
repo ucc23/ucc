@@ -12,20 +12,20 @@ glon: 293.08647
 glat: -7.1683
 r50: 24.5
 plx: 1.0609
-UTI: "0.34"
-UTI_COLOR: "#feeace"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#edb3b3"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.08
 UTI_C_C3: 0.62
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 163</b> is a sparse, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Ruprecht 163</b> is a sparse, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 24.5

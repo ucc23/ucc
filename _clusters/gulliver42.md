@@ -12,17 +12,17 @@ glon: 75.4485
 glat: 1.55202
 r50: 2.1
 plx: 0.1902
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 42</b> is a rich, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.18, diffAV50=2.163, MOD50=13.105, logAge50=8.131` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.19, dMod50=13.18, logAge50=8.24, [Fe/H]50=-0.19` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=936.048` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=936.048, MassTot=1060.50` |
 shared_table: |
     
 ---

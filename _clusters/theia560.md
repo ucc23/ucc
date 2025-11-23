@@ -12,17 +12,17 @@ glon: 160.3753
 glat: 1.5775
 r50: 34.7
 plx: 1.4932
-UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#f3bab5"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#ffedd1"
 UTI_C_N: 0.28
 UTI_C_dens: 0.12
 UTI_C_C3: 0.12
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.36
 UTI_summary: |
     <b>Theia 560</b> is a poorly populated, very loose object of very low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

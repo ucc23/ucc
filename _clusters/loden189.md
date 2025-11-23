@@ -12,20 +12,20 @@ glon: 286.68721
 glat: 2.66752
 r50: 16.0
 plx: 0.7662
-UTI: "0.47"
-UTI_COLOR: "#fffce3"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#f5bfb7"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.14
 UTI_C_C3: 0.38
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Loden 189</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.
+    <b>Loden 189</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 16.0
@@ -51,10 +51,10 @@ fpars_table: |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.13, Dist=720, logt=8.64, logM=1.709` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.13, Dist=720, logt=8.64, logM=2.265, logMA=2.459` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.104, distance=819, log_age=7.99, metallicity=0.202` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.13, Dmod=10.275, logt=8.64` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.13, Dist=1135, logt=8.64` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.244, diffAV50=0.513, MOD50=10.514, logAge50=8.83` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.33, dMod50=10.43, logAge50=8.96, [Fe/H]50=0.02` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=78.6566` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=78.6566, MassTot=49.8717` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.31, MA23f=-0.1, MZ23=-0.06, MK24=-0.15, MF24=-0.11` |
 shared_table: |
     

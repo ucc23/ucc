@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG 5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.86 |
+    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.83 |
     |[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.52 |
     |[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
     |[Theia 96](/_clusters/theia96/)| 23.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.0 |

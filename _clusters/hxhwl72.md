@@ -12,17 +12,17 @@ glon: 217.4141
 glat: 0.43688
 r50: 10.1
 plx: 0.5922
-UTI: "0.35"
-UTI_COLOR: "#feebcf"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.18
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 72</b> is a sparse, very loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=0.5, m-M=11.3, logAge=7.86, Z=0.028` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.167, diffAV50=0.79, MOD50=11.064, logAge50=8.694` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.35, dMod50=11.24, logAge50=8.62, [Fe/H]50=0.24` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=92.9794` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=92.9794, MassTot=198.751` |
 shared_table: |
     
 ---

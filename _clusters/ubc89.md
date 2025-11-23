@@ -44,5 +44,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.0 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.04 |
-    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.66 |
+    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.63 |
 ---

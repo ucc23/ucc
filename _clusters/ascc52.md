@@ -12,17 +12,17 @@ glon: 275.88417
 glat: -2.42174
 r50: 11.6
 plx: 0.3784
-UTI: "0.43"
-UTI_COLOR: "#fff8dc"
+UTI: "0.38"
+UTI_COLOR: "#fff1d4"
 UTI_C_N_COL: "#fff6da"
 UTI_C_dens_COL: "#f2b9b4"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.42
 UTI_C_dens: 0.11
 UTI_C_C3: 0.38
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>ASCC 52</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.

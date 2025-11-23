@@ -12,17 +12,17 @@ glon: 129.28267
 glat: 0.76492
 r50: 1.2
 plx: 0.1304
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.64"
+UTI_COLOR: "#ebf6d2"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Berkeley 5</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.3, Dist=6200.0, Age=8.9` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.399, distance=6000, log_age=8.83` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.46, DMNN=14.25, AgeNN=9.06` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.46, DistPc=7079.0, AgeNN=9.06` |
 shared_table: |
     
 ---

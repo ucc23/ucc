@@ -12,20 +12,20 @@ glon: 339.55852
 glat: -4.47184
 r50: 14.9
 plx: 1.1041
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.64"
+UTI_COLOR: "#ebf6d2"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 0.97
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>HXHWL 10</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
+    <b>HXHWL 10</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 14.9
@@ -49,7 +49,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.15, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.801, diffAV50=0.456, MOD50=9.636, logAge50=8.271` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.15, dMod50=9.76, logAge50=7.95, [Fe/H]50=0.04` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=234.879` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=234.879, MassTot=254.898` |
 shared_table: |
     
 ---

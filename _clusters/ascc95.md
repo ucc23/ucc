@@ -12,20 +12,20 @@ glon: 6.12952
 glat: -4.3525
 r50: 10.4
 plx: 0.8419
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.76"
+UTI_COLOR: "#d2ecc9"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#aed9c1"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.91
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC 95</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>ASCC 95</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 10.4
@@ -54,7 +54,7 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=1213, log_age=8.41` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.785, diffAV50=0.549, MOD50=10.307, logAge50=8.106` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.44, dMod50=10.05, logAge50=7.72, [Fe/H]50=-0.72` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=365.406` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=365.406, MassTot=389.889` |
 shared_table: |
     
 ---

@@ -12,20 +12,20 @@ glon: 276.47242
 glat: -3.10124
 r50: 2.4
 plx: 0.2736
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 77</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>Ruprecht 77</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4
@@ -50,11 +50,11 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.622, Dist=4129.0, Age=7.501` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.687, distance=4089, log_age=7.95` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.619, Dmod=13.084, logt=7.519` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.92, DMNN=13.07, AgeNN=7.09` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.619, Dist=4138, logt=7.519` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.92, DistPc=4108.0, AgeNN=7.09` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.554, diffAV50=1.774, MOD50=12.506, logAge50=8.305` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.93, dMod50=13.03, logAge50=7.83, [Fe/H]50=0.8` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=425.881` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=425.881, MassTot=470.710` |
 shared_table: |
     
 ---

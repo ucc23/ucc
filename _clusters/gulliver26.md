@@ -12,17 +12,17 @@ glon: 172.04372
 glat: -0.6189
 r50: 4.6
 plx: 0.3759
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.56"
+UTI_COLOR: "#f7fcde"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#acd5bf"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 0.93
 UTI_summary: |
     <b>Gulliver 26</b> is a rich, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
@@ -46,11 +46,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.62, DMNN=12.13, AgeNN=8.58` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.62, DistPc=2671.0, AgeNN=8.58` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.221, Dist=2554, logage=7.516, [Fe/H]=-0.024` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.884, diffAV50=1.283, MOD50=11.932, logAge50=8.597` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.53, dMod50=11.81, logAge50=8.89, [Fe/H]50=0.42` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=625.187` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=625.187, MassTot=627.298` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.28, MA23f=-0.38, MA23g=-0.16, MZ23=-0.34, MK24=-0.15, MF24=-0.28` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

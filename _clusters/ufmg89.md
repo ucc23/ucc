@@ -12,17 +12,17 @@ glon: 2.43794
 glat: -1.50297
 r50: 2.8
 plx: 0.3706
-UTI: "0.71"
-UTI_COLOR: "#def1cb"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#def1cb"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.71
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 89</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | `E(B-V)=1.22, Dmod=10.7, logt=8.5` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=4.096, diffAV50=2.407, MOD50=12.031, logAge50=7.135` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.21, dMod50=11.37, logAge50=7.33, [Fe/H]50=-0.3` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1057.48` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1057.48, MassTot=1057.48` |
 shared_table: |
     
 ---

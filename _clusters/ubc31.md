@@ -12,17 +12,17 @@ glon: 163.50445
 glat: -15.04658
 r50: 54.7
 plx: 2.7396
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.67
 UTI_C_C3: 1.0
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 31</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
@@ -46,7 +46,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.18, DMNN=7.67, AgeNN=7.42` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.18, DistPc=341.0, AgeNN=7.42` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.573, Dist=379, logage=7.418, [Fe/H]=0.425` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.75, logAge=7.05` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.17962, MOD=7.66985, logAge=7.17734, Z=0.42464` |
@@ -54,6 +54,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 285](/_clusters/ocsn285/)| 65.5 | 60.52 | 32.25 | 2.69 | 3.6 | -5.24 | 20.31 |0.31 |
-    |[OC 0280](/_clusters/oc0280/)| 19.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.22 |
+    |[OC 0280](/_clusters/oc0280/)| 19.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.21 |
     |[CWNU 442](/_clusters/cwnu442/)| 7.1 | 63.19 | 31.6 | 2.78 | 3.68 | -5.65 | 19.87 |0.4 |
 ---

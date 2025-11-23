@@ -12,17 +12,17 @@ glon: 20.12874
 glat: -10.24769
 r50: 60.4
 plx: 4.0339
-UTI: "0.14"
-UTI_COLOR: "#f5bfb7"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#d0ebc9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fee0c7"
 UTI_C_N: 0.62
 UTI_C_dens: 0.77
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.29
 UTI_summary: |
     <b>Theia 222</b> is a moderately populated, dense object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

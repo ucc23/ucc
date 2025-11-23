@@ -12,17 +12,17 @@ glon: 99.6679
 glat: -1.14675
 r50: 33.8
 plx: 1.9664
-UTI: "0.43"
-UTI_COLOR: "#fff8dc"
+UTI: "0.40"
+UTI_COLOR: "#fff4d6"
 UTI_C_N_COL: "#fff6da"
 UTI_C_dens_COL: "#feeace"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.42
 UTI_C_dens: 0.34
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 619</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.

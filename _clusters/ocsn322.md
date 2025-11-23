@@ -45,8 +45,8 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2986](/_clusters/hsc2986/)| 61.2 | 283.03 | -36.86 | 6.6 | 3.1 | -27.52 | -2.65 |0.08 |
+    |[HSC 2986](/_clusters/hsc2986/)| 61.2 | 283.03 | -36.86 | 6.6 | 3.1 | -27.52 | -2.65 |0.07 |
     |[OCSN 324](/_clusters/ocsn324/)| 24.2 | 285.26 | -36.93 | 6.49 | 4.34 | -27.26 | -2.82 |0.27 |
     |[CWWDL 14680](/_clusters/cwwdl14680/)| 14.6 | 280.7 | -35.92 | 6.73 | 1.19 | -27.63 | -1.43 |0.0 |
-    |[UPK 655](/_clusters/upk655/)| 13.7 | 285.35 | -36.93 | 6.49 | 4.42 | -27.19 | -5.14 |0.61 |
+    |[UPK 655](/_clusters/upk655/)| 13.7 | 285.35 | -36.93 | 6.49 | 4.42 | -27.19 | -5.14 |0.51 |
 ---

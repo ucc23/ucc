@@ -12,17 +12,17 @@ glon: 267.76752
 glat: -0.05787
 r50: 16.0
 plx: 0.87
-UTI: "0.21"
-UTI_COLOR: "#fbcebe"
+UTI: "0.20"
+UTI_COLOR: "#fbccbd"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#d4edca"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#ffedd1"
 UTI_C_N: 0.75
 UTI_C_dens: 0.75
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.36
 UTI_summary: |
     <b>Theia 1858</b> is a rich, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -45,11 +45,11 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.956, diffAV50=2.721, MOD50=10.24, logAge50=7.456` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.85, dMod50=10.6, logAge50=7.61, [Fe/H]50=0.69` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=475.814` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=475.814, MassTot=517.117` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14384](/_clusters/cwwdl14384/)| 63.9 | 135.76 | -46.73 | 0.87 | -6.11 | 4.01 | 12.22 |0.26 |
     |[OC 0496](/_clusters/oc0496/)| 25.9 | 135.71 | -46.74 | 0.87 | -6.08 | 4.02 | 26.5 |0.28 |
-    |[CWNU 188](/_clusters/cwnu188/)| 23.1 | 135.69 | -46.73 | 0.88 | -6.11 | 4.01 | 26.5 |0.06 |
+    |[CWNU 188](/_clusters/cwnu188/)| 23.1 | 135.69 | -46.73 | 0.88 | -6.11 | 4.01 | 26.5 |0.04 |
 ---

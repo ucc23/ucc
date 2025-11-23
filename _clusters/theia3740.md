@@ -17,12 +17,12 @@ UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e3a9b3"
 UTI_C_N: 0.56
 UTI_C_dens: 0.72
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.02
 UTI_summary: |
     <b>Theia 3740</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,10 +45,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.119, diffAV50=0.367, MOD50=9.955, logAge50=8.83` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.33, dMod50=10.08, logAge50=8.5, [Fe/H]50=0.04` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=90.9239` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=90.9239, MassTot=151.007` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXHWL 69](/_clusters/hxhwl69/)| 98.4 | 101.15 | -24.3 | 0.96 | -1.52 | 2.46 | 36.01 |0.57 |
+    |[HXHWL 69](/_clusters/hxhwl69/)| 98.4 | 101.15 | -24.3 | 0.96 | -1.52 | 2.46 | 36.01 |0.47 |
     |[CWNU 48](/_clusters/cwnu48/)| 9.7 | 100.27 | -23.83 | 0.97 | -1.39 | 2.39 | 30.36 |0.04 |
 ---

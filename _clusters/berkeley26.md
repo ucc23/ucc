@@ -12,17 +12,17 @@ glon: 207.694
 glat: 2.36086
 r50: 2.8
 plx: 0.1713
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.44"
+UTI_COLOR: "#fff8de"
 UTI_C_N_COL: "#fffae0"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.4
 UTI_C_C3: 0.38
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Berkeley 26</b> is a poorly populated, loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.
@@ -48,7 +48,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.75, Dist=12589.0, Age=9.6, [Fe/H]=-0.35` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.541, distance=2724, log_age=8.71, metallicity=-0.7` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.427, Dmod=12.769, logt=8.95` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.427, Dist=3579, logt=8.95` |
     | [Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P) | `E(B-V)=0.55, dm=13.3, logt=9.94, FeH=0.07, Mass=4600, bfr=0.78` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=2.0, m-M=13.35, logA=9.6` |
 shared_table: |

@@ -12,17 +12,17 @@ glon: 234.44524
 glat: 0.86567
 r50: 5.4
 plx: 0.3963
-UTI: "0.18"
-UTI_COLOR: "#f9c8bb"
+UTI: "0.17"
+UTI_COLOR: "#f8c5ba"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fee6ca"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.32
 UTI_summary: |
     <b>Theia 2110</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -45,10 +45,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.9, diffAV50=2.356, MOD50=11.738, logAge50=7.8` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.29, dMod50=12.23, logAge50=8.0, [Fe/H]50=0.33` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=541.767` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=541.767, MassTot=619.760` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.68 |
+    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.61 |
     |[CWWDL 13798](/_clusters/cwwdl13798/)| 44.1 | 113.86 | -18.6 | 0.41 | -1.74 | 2.41 | -- |0.09 |
 ---

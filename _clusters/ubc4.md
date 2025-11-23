@@ -12,17 +12,17 @@ glon: 161.43556
 glat: -12.69455
 r50: 24.1
 plx: 1.6806
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.3
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 4</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -46,7 +46,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=8.91, AgeNN=8.72` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DistPc=604.0, AgeNN=8.72` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=595, logAgeNN=8.74` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.741, diffAV50=1.242, MOD50=8.779, logAge50=8.315` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.87, dMod50=8.86, logAge50=8.44, [Fe/H]50=0.26` |

@@ -12,17 +12,17 @@ glon: 172.27681
 glat: -22.00407
 r50: 67.8
 plx: 5.1562
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#fffae0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.45
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>OCSN 50</b> is a poorly populated, loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.

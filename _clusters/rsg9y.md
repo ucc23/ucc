@@ -1,0 +1,54 @@
+---
+layout: post
+title: RSG9y
+style: style
+title_flag: true
+more_names: RSG9o; TRSG 9; Teutsch J0450.9+5209
+fname: rsg9y
+fov: 0.777
+ra_icrs: 72.60846
+de_icrs: 52.29454
+glon: 154.97858
+glat: 4.93936
+r50: 23.3
+plx: 3.3088
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
+UTI_C_N_COL: "#fffce3"
+UTI_C_dens_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4edca"
+UTI_C_lit_COL: "#fee8cc"
+UTI_C_dup_COL: "#a6cab9"
+UTI_C_N: 0.47
+UTI_C_dens: 1.0
+UTI_C_C3: 0.75
+UTI_C_lit: 0.33
+UTI_C_dup: 1.0
+UTI_summary: |
+    <b>RSG9y</b> is a poorly populated, very dense object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+class3: |
+    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 23.3
+N_50_val: 47
+scix_url: RSG9y
+posit_table: |
+    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
+    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Roser et al. (2016)](https://scixplorer.org/abs/2016A%26A...595A..22R) | 72.75 | 52.23 | -- | 8.39 | -15.23 | -- |
+    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 72.722 | 52.156 | -- | -- | -- | -- |
+    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 72.57 | 52.264 | 3.31 | 9.126 | -16.951 | 13.829 |
+    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 72.974 | 52.194 | 3.325 | -- | -- | -- |
+    | **UCC** |72.608 | 52.295 | 3.309 | 9.293 | -16.972 | 13.354 | 
+cds_radec: 72.60846,+52.29454
+carousel: UCC_HUNT23
+fpars_table: |
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Roser et al. (2016)](https://scixplorer.org/abs/2016A%26A...595A..22R) | `E(B-V)=0.05,0.02, Dist=224, logt=7.5,9.0` |
+    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.783, diffAV50=1.92, MOD50=7.305, logAge50=8.452` |
+    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.26, dMod50=7.45, logAge50=8.27, [Fe/H]50=0.26` |
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWNU 1191](/_clusters/cwnu1191/)| 95.7 | 72.51 | 52.29 | 3.31 | 9.32 | -16.97 | 13.24 |0.05 |
+---

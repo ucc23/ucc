@@ -12,17 +12,17 @@ glon: 61.6344
 glat: 1.91263
 r50: 2.6
 plx: 0.051
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.39"
+UTI_COLOR: "#fff2d5"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.04
 UTI_C_C3: 0.5
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Kronberger 31</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is moderately studied in the literature.

@@ -12,20 +12,20 @@ glon: 325.55578
 glat: -0.29778
 r50: 7.7
 plx: 0.5822
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#e3f3cd"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.68
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UFMG 44</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
+    <b>UFMG 44</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.7
@@ -45,11 +45,11 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.22, m-M=9.85, logt=8.95` |
+    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.22, Dist=933, logt=8.95` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.17, Dist=1556, logage=8.428, [Fe/H]=0.275` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.874, diffAV50=2.346, MOD50=11.081, logAge50=7.94` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.7, dMod50=10.67, logAge50=8.22, [Fe/H]50=0.2` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=533.655` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=533.655, MassTot=546.714` |
 shared_table: |
     
 ---

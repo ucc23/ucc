@@ -12,17 +12,17 @@ glon: 97.67846
 glat: -8.36648
 r50: 6.5
 plx: 0.1928
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#fee6ca"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 0.32
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>ASCC 119</b> is a rich, loose object of intermediate C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.

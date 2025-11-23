@@ -12,17 +12,17 @@ glon: 241.42258
 glat: -2.55692
 r50: 0.8
 plx: 0.0995
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.39"
+UTI_COLOR: "#fff2d5"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#c9e8c8"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.8
 UTI_C_C3: 0.12
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Alessi 18</b> is a sparse, dense object of very low C3 quality. It is located at a very large distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -48,7 +48,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.645, Dist=6287.0, Age=9.01` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.645, distance=6287, log_age=9.01` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.48, DMNN=14.29, AgeNN=6.71` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.48, DistPc=7199.0, AgeNN=6.71` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.039, Dist=4054, logage=8.819, [Fe/H]=-0.272` |
 shared_table: |
     

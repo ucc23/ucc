@@ -12,17 +12,17 @@ glon: 228.47744
 glat: 2.69475
 r50: 24.2
 plx: 1.8734
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fffce3"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#f4bdb6"
 UTI_C_N: 0.47
 UTI_C_dens: 0.67
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.13
 UTI_summary: |
     <b>OCSN 77</b> is a poorly populated, moderately dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -47,7 +47,7 @@ fpars_table: |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.13, m-M=8.97, logt=8.0` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.128, diffAV50=0.79, MOD50=8.561, logAge50=8.119` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.45, dMod50=8.7, logAge50=8.1, [Fe/H]50=0.23` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=196.978` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=196.978, MassTot=307.938` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

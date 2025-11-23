@@ -12,17 +12,17 @@ glon: 320.44784
 glat: -23.24847
 r50: 41.2
 plx: 3.3763
-UTI: "0.14"
-UTI_COLOR: "#f5bfb7"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fffde5"
 UTI_C_N: 0.27
 UTI_C_dens: 0.43
 UTI_C_C3: 0.25
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.48
 UTI_summary: |
     <b>Theia 696</b> is a poorly populated, loose object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

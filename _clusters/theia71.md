@@ -12,17 +12,17 @@ glon: 177.41688
 glat: -18.11098
 r50: 79.3
 plx: 5.243
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#fee0c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.29
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 71</b> is a poorly populated, loose object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1390](/_clusters/hsc1390/)| 3.6 | 66.8 | 18.56 | 4.41 | 4.0 | -8.1 | 17.55 |0.22 |
+    |[HSC 1390](/_clusters/hsc1390/)| 3.6 | 66.8 | 18.56 | 4.41 | 4.0 | -8.1 | 17.55 |0.13 |
 ---

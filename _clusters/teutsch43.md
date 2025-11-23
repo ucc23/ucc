@@ -12,17 +12,17 @@ glon: 65.05271
 glat: 3.18442
 r50: 2.9
 plx: 0.033
-UTI: "0.28"
-UTI_COLOR: "#fedec5"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#e1a7b3"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.01
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 43</b> is a poorly populated, very loose object of low C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a significant percentage of members with a later reported entry.

@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 402](/_clusters/upk402/)| 51.0 | 87.52 | 2.82 | 2.47 | -1.11 | -1.82 | 23.07 |0.82 |
+    |[UPK 402](/_clusters/upk402/)| 51.0 | 87.52 | 2.82 | 2.47 | -1.11 | -1.82 | 23.07 |0.76 |
 ---

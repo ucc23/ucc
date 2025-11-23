@@ -12,17 +12,17 @@ glon: 6.95264
 glat: -4.40562
 r50: 1.9
 plx: 0.3752
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 46</b> is a poorly populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.
@@ -44,10 +44,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.61, m-M=11.5, logt=8.9` |
+    | [Ferreira et al. (2020)](https://scixplorer.org/abs/2020MNRAS.496.2021F) | `E(B-V)=0.61, Dist=1995, logt=8.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.405, diffAV50=0.951, MOD50=12.008, logAge50=8.957` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.71, dMod50=11.09, logAge50=9.14, [Fe/H]50=-1.47` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=291.117` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=291.117, MassTot=221.535` |
 shared_table: |
     
 ---

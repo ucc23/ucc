@@ -17,15 +17,15 @@ UTI_COLOR: "#f4bdb6"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 0.16
 UTI_summary: |
-    <b>COIN-Gaia 23</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>COIN-Gaia 23</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 9.9
@@ -48,18 +48,18 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DMNN=9.86, AgeNN=8.11` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.54, DistPc=937.0, AgeNN=8.11` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.803, Dist=912, logage=7.757, [Fe/H]=-0.009` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=918, logAgeNN=8.14` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.8, logAge=7.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.458, diffAV50=0.754, MOD50=9.784, logAge50=7.825` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.64, dMod50=9.85, logAge50=7.95, [Fe/H]50=0.33` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=276.752` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=276.752, MassTot=295.841` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.54014, MOD=9.85988, logAge=7.79141, Z=-0.0089` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 85.5 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
-    |[Majaess 65](/_clusters/majaess65/)| 84.2 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.62 |
+    |[Majaess 65](/_clusters/majaess65/)| 84.2 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.52 |
     |[Alessi 135](/_clusters/alessi135/)| 34.2 | 87.41 | 27.04 | 1.05 | -0.34 | -1.03 | -3.7 |0.0 |
 ---

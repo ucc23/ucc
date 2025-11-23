@@ -12,17 +12,17 @@ glon: 115.7876
 glat: 1.22836
 r50: 2.3
 plx: 0.3076
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Negueruela 1</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
@@ -51,16 +51,16 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.249, Dist=2800.0, Age=6.98` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.249, distance=2800, log_age=6.98` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.091, Dmod=10.029, logt=7.165` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.091, Dist=1013, logt=7.165` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.92, Dist=5691, logAge=6.822, Z=0.036` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.39, DMNN=12.3, AgeNN=7.23` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.39, DistPc=2879.0, AgeNN=7.23` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.266, Dist=2655, logage=6.917, [Fe/H]=-0.224` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.852, diffAV50=1.427, MOD50=13.068, logAge50=6.615` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.9, dMod50=12.51, logAge50=7.01, [Fe/H]50=-0.66` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=466.775` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=466.775, MassTot=466.775` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 23](/_clusters/teutsch23/)| 94.0 | 356.95 | 63.05 | 0.31 | -2.97 | -1.4 | -66.91 |0.84 |
+    |[Teutsch 23](/_clusters/teutsch23/)| 94.0 | 356.95 | 63.05 | 0.31 | -2.97 | -1.4 | -66.91 |0.76 |
     |[CWWDL 10426](/_clusters/cwwdl10426/)| 6.0 | 357.55 | 62.97 | 0.32 | -3.04 | -1.36 | -89.18 |0.11 |
 ---

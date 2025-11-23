@@ -12,17 +12,17 @@ glon: 140.47357
 glat: -0.14118
 r50: 18.1
 plx: 1.3599
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.22"
+UTI_COLOR: "#fcd0bf"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fee0c7"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.29
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 119</b> is a sparse, loose object of very low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.65, m-M=9.25, logAge=8.2, Z=0.018` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.949, diffAV50=0.976, MOD50=9.231, logAge50=7.759` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.93, dMod50=9.56, logAge50=7.5, [Fe/H]50=0.56` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=42.8957` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=42.8957, MassTot=127.794` |
 shared_table: |
     
 ---

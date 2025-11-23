@@ -12,17 +12,17 @@ glon: 96.97808
 glat: 5.20342
 r50: 9.4
 plx: 0.7066
-UTI: "0.13"
-UTI_COLOR: "#f4bdb6"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#fcd0bf"
 UTI_C_N: 0.52
 UTI_C_dens: 0.72
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.22
 UTI_summary: |
     <b>Theia 7580</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.326, diffAV50=2.197, MOD50=10.702, logAge50=8.524` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.97, dMod50=10.58, logAge50=8.97, [Fe/H]50=0.02` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=167.191` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=167.191, MassTot=388.441` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=0.24, MA23f=-0.08, MA23g=0.08, MZ23=0.3, MK24=-0.04, MF24=-0.07` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

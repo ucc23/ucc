@@ -12,20 +12,20 @@ glon: 210.49094
 glat: -1.10083
 r50: 0.3
 plx: 0.153
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Alessi 15</b> is a poorly populated, very dense object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.
+    <b>Alessi 15</b> is a poorly populated, very dense object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.3
@@ -47,7 +47,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.27, Dist=1599.0, Age=9.25` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.416, distance=2362, log_age=9.19` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.18, DMNN=14.01, AgeNN=7.53` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.18, DistPc=6338.0, AgeNN=7.53` |
 shared_table: |
     
 ---

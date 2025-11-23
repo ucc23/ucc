@@ -12,17 +12,17 @@ glon: 303.81323
 glat: 7.09094
 r50: 23.4
 plx: 2.059
-UTI: "0.43"
-UTI_COLOR: "#fff8dc"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.59
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 450</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 323](/_clusters/theia323/)| 37.5 | 194.18 | -55.69 | 2.05 | -13.69 | -3.3 | 3.25 |0.16 |
+    |[Theia 323](/_clusters/theia323/)| 37.5 | 194.18 | -55.69 | 2.05 | -13.69 | -3.3 | 3.25 |0.11 |
 ---

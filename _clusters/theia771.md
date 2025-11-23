@@ -12,17 +12,17 @@ glon: 306.11849
 glat: 3.48313
 r50: 18.3
 plx: 1.1635
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#f6fbdc"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.57
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 771</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.662, diffAV50=0.561, MOD50=9.558, logAge50=8.513` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.47, dMod50=9.47, logAge50=8.72, [Fe/H]50=0.64` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=50.1064` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=50.1064, MassTot=159.165` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.07, MZ23=-0.06, MK24=-0.08, MF24=-0.11` |
 shared_table: |
     

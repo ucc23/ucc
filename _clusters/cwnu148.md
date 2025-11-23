@@ -12,17 +12,17 @@ glon: 115.18884
 glat: -4.2151
 r50: 7.9
 plx: 0.595
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#ffedd1"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.36
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 148</b> is a poorly populated, loose object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.15, m-M=11.25, logAge=8.5, Z=0.04` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.364, diffAV50=1.07, MOD50=11.015, logAge50=8.21` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.24, dMod50=11.26, logAge50=8.31, [Fe/H]50=0.7` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=96.5827` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=96.5827, MassTot=119.819` |
 shared_table: |
     
 ---

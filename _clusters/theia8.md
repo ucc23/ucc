@@ -12,17 +12,17 @@ glon: 111.34291
 glat: 19.70182
 r50: 29.1
 plx: 2.6768
-UTI: "0.11"
-UTI_COLOR: "#f2b9b4"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fbccbd"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.2
 UTI_summary: |
     <b>Theia 8</b> is a moderately populated, very dense object of high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -47,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 462](/_clusters/cwnu462/)| 80.0 | 315.38 | 77.05 | 2.69 | 5.38 | 3.85 | -19.5 |0.32 |
+    |[CWNU 462](/_clusters/cwnu462/)| 80.0 | 315.38 | 77.05 | 2.69 | 5.38 | 3.85 | -19.5 |0.3 |
     |[OC 0204](/_clusters/oc0204/)| 41.7 | 315.52 | 77.04 | 2.69 | 5.27 | 3.9 | -19.5 |0.4 |
 ---

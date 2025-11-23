@@ -12,17 +12,17 @@ glon: 105.73977
 glat: 2.53915
 r50: 3.1
 plx: 0.1497
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#fac9bc"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.19
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 53</b> is a poorly populated, very loose object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a significant percentage of members with a later reported entry.

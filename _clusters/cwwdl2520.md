@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1390](/_clusters/cwnu1390/)| 64.0 | 314.4 | 46.25 | 0.26 | -2.64 | -4.54 | -- |0.34 |
+    |[CWNU 1390](/_clusters/cwnu1390/)| 64.0 | 314.4 | 46.25 | 0.26 | -2.64 | -4.54 | -- |0.3 |
 ---

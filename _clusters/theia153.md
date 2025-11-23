@@ -12,17 +12,17 @@ glon: 114.60566
 glat: -1.60488
 r50: 16.3
 plx: 1.1844
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#fff5d8"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.41
 UTI_C_C3: 0.12
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 153</b> is a poorly populated, loose object of very low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.666, diffAV50=2.068, MOD50=9.545, logAge50=7.537` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.89, dMod50=9.77, logAge50=7.38, [Fe/H]50=0.03` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=79.3199` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=79.3199, MassTot=233.506` |
 shared_table: |
     
 ---

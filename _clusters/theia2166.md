@@ -12,17 +12,17 @@ glon: 314.24899
 glat: -0.62526
 r50: 5.0
 plx: 0.5715
-UTI: "0.06"
-UTI_COLOR: "#eab0b3"
+UTI: "0.05"
+UTI_COLOR: "#e8aeb3"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#f2b9b4"
 UTI_C_N: 0.28
 UTI_C_dens: 0.86
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.11
 UTI_summary: |
     <b>Theia 2166</b> is a poorly populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.585, diffAV50=0.638, MOD50=11.097, logAge50=8.845` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.72, dMod50=10.81, logAge50=8.95, [Fe/H]50=-0.3` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=161.437` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=161.437, MassTot=169.996` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.27, MA23f=-0.14, MA23g=-0.08, MZ23=-0.21, MK24=-0.11, MF24=-0.21` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

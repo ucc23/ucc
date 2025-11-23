@@ -17,12 +17,12 @@ UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fffce3"
 UTI_C_dens_COL: "#e3f3cd"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#edb3b3"
 UTI_C_N: 0.47
 UTI_C_dens: 0.68
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.08
 UTI_summary: |
     <b>Theia 6599</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,10 +45,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.083, diffAV50=2.541, MOD50=10.403, logAge50=8.082` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.45, dMod50=10.6, logAge50=8.66, [Fe/H]50=0.7` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=262.863` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=262.863, MassTot=414.210` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 55](/_clusters/cwnu55/)| 91.5 | 20.82 | 65.36 | 0.8 | 3.54 | -1.16 | -40.77 |0.1 |
+    |[CWNU 55](/_clusters/cwnu55/)| 91.5 | 20.82 | 65.36 | 0.8 | 3.54 | -1.16 | -40.77 |0.08 |
     |[OC 0234](/_clusters/oc0234/)| 83.0 | 20.87 | 65.39 | 0.8 | 3.52 | -1.16 | -40.78 |0.35 |
 ---

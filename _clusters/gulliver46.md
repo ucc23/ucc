@@ -12,17 +12,17 @@ glon: 299.82305
 glat: 0.73986
 r50: 1.5
 plx: 0.2122
-UTI: "0.12"
-UTI_COLOR: "#f3bab5"
+UTI: "0.11"
+UTI_COLOR: "#f2b9b4"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.16
 UTI_summary: |
     <b>Gulliver 46</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -44,13 +44,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.67, DMNN=13.31, AgeNN=7.07` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.67, DistPc=4587.0, AgeNN=7.07` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.613, Dist=3185, logage=7.589, [Fe/H]=0.175` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.076, diffAV50=2.584, MOD50=13.012, logAge50=7.422` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.07, dMod50=12.76, logAge50=7.69, [Fe/H]50=-0.02` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.61 |
-    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.36 |
+    |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
+    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.26 |
 ---

@@ -12,17 +12,17 @@ glon: 136.10629
 glat: 2.12856
 r50: 8.1
 plx: 0.1854
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.04
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 162</b> is a poorly populated, very loose object of very low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 8 years.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.51, Dist=2050.0, Age=7.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.949, distance=1600, log_age=7.0` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.402, Dmod=11.104, logt=7.2` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.402, Dist=1663, logt=7.2` |
 shared_table: |
     
 ---

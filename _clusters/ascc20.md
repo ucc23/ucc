@@ -12,20 +12,20 @@ glon: 201.59552
 glat: -17.60168
 r50: 45.0
 plx: 2.7252
-UTI: "0.87"
-UTI_COLOR: "#b7dfc4"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#c1e4c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC 20</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 5 later reported entries.
+    <b>ASCC 20</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 5 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 45.0
@@ -53,13 +53,13 @@ fpars_table: |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.02` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.108, diffAV50=0.471, MOD50=7.763, logAge50=7.098` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.53, dMod50=7.85, logAge50=7.12, [Fe/H]50=0.03` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=104.810` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=104.810, MassTot=132.896` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 57](/_clusters/ocsn57/)| 91.2 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.0 |
-    |[ASCC 18](/_clusters/ascc18/)| 48.3 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.46 |
+    |[ASCC 18](/_clusters/ascc18/)| 48.3 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.43 |
     |[FoF 2371](/_clusters/fof2371/)| 36.0 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.02 |
-    |[OCSN 56](/_clusters/ocsn56/)| 18.3 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.21 |
+    |[OCSN 56](/_clusters/ocsn56/)| 18.3 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.2 |
     |[OCSN 58](/_clusters/ocsn58/)| 0.3 | 81.25 | 0.32 | 2.4 | 0.15 | 1.36 | 26.71 |0.0 |
 ---

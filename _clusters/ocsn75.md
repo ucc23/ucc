@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 807](/_clusters/theia807/)| 85.7 | 86.75 | -18.76 | 3.09 | -7.13 | 1.29 | 20.22 |0.26 |
+    |[Theia 807](/_clusters/theia807/)| 85.7 | 86.75 | -18.76 | 3.09 | -7.13 | 1.29 | 20.22 |0.19 |
 ---

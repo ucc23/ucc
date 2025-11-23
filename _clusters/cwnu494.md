@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0041](/_clusters/oc0041/)| 28.2 | 278.3 | -7.99 | 0.52 | -0.31 | -2.7 | 81.91 |0.54 |
+    |[OC 0041](/_clusters/oc0041/)| 28.2 | 278.3 | -7.99 | 0.52 | -0.31 | -2.7 | 81.91 |0.51 |
 ---

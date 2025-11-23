@@ -12,17 +12,17 @@ glon: 84.73065
 glat: 16.89012
 r50: 53.4
 plx: 2.1865
-UTI: "0.19"
-UTI_COLOR: "#fac9bc"
+UTI: "0.18"
+UTI_COLOR: "#f9c8bb"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fbcebe"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f8fce0"
 UTI_C_N: 0.52
 UTI_C_dens: 0.21
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.55
 UTI_summary: |
     <b>Theia 708</b> is a moderately populated, very loose object of low C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

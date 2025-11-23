@@ -12,20 +12,20 @@ glon: 180.57785
 glat: 5.59002
 r50: 1.0
 plx: 0.1879
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>DC 8</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is well-studied in the literature.
+    <b>DC 8</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.0
@@ -49,12 +49,12 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.72, Dist=2100.0, Age=9.0` |
-    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.72, Dm=11.62, Age=9.0` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.72, Dist=2100.0, Age=9.0` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.041, distance=2710, log_age=8.605` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.51, DMNN=13.31, AgeNN=8.93` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.51, DistPc=4591.0, AgeNN=8.93` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.836, diffAV50=2.264, MOD50=13.031, logAge50=8.68` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.44, dMod50=13.46, logAge50=8.63, [Fe/H]50=-0.09` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=473.416` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=473.416, MassTot=669.461` |
 shared_table: |
     
 ---

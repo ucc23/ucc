@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWL 2084](/_clusters/cwwl2084/)| 50.0 | 115.7 | -21.06 | 0.27 | -2.11 | 2.88 | 102.47 |0.22 |
+    |[CWWL 2084](/_clusters/cwwl2084/)| 50.0 | 115.7 | -21.06 | 0.27 | -2.11 | 2.88 | 102.47 |0.2 |
     |[UBC 1384](/_clusters/ubc1384/)| 19.2 | 115.72 | -21.18 | 0.31 | -2.13 | 2.97 | -- |0.09 |
     |[CWWL 2083](/_clusters/cwwl2083/)| 7.7 | 115.66 | -21.4 | 0.25 | -2.16 | 2.81 | 78.07 |0.21 |
 ---

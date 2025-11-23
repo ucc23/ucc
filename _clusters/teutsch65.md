@@ -12,17 +12,17 @@ glon: 266.22484
 glat: -1.52332
 r50: 1.4
 plx: 0.1685
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 65</b> is a poorly populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.
@@ -44,7 +44,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.435, diffAV50=0.901, MOD50=13.889, logAge50=8.25` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1442.14` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1442.14, MassTot=1449.23` |
 shared_table: |
     
 ---

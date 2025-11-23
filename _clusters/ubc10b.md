@@ -12,17 +12,17 @@ glon: 102.58622
 glat: 5.65121
 r50: 24.5
 plx: 1.0232
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 0.4
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 10 b</b> is a moderately populated, loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.
@@ -48,12 +48,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.36, DMNN=10.01, AgeNN=7.75` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.36, DistPc=1006.0, AgeNN=7.75` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=982, logAgeNN=7.75` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.7, logAge=8.65` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.383, diffAV50=1.807, MOD50=9.847, logAge50=7.754` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.53, dMod50=9.95, logAge50=7.07, [Fe/H]50=0.18` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=319.375` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=319.375, MassTot=345.836` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.35964, MOD=10.0099, logAge=7.45907, Z=0.01001` |
 shared_table: |
     

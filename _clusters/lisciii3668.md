@@ -12,17 +12,17 @@ glon: 259.99266
 glat: -7.50498
 r50: 45.7
 plx: 1.7133
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.49"
+UTI_COLOR: "#fffee7"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#fedec5"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 0.28
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>LISC-III 3668</b> is a moderately populated, loose object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.

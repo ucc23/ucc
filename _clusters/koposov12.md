@@ -54,17 +54,17 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.51, Dist=2000.0, Age=8.78` |
     | [Koposov et al. (2008)](https://scixplorer.org/abs/2008A%26A...486..771K) | `E(B-V)=0.3, Distance=2050, Age=8.9` |
-    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.3, Dm=11.55, Age=8.9` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.3, Dist=2050.0, Age=8.9` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.45, distance=1900, log_age=8.91` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=1.531, Dist=12.1, logA=8.542, Fe/H=0.0` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.43, DMNN=11.96, AgeNN=8.59` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.43, DistPc=2461.0, AgeNN=8.59` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.68, Dist=2060, logage=8.699, [Fe/H]=0.012` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.573, diffAV50=0.974, MOD50=11.789, logAge50=8.448` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.58, dMod50=11.93, logAge50=8.62, [Fe/H]50=0.5` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1702.45` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1702.45, MassTot=1702.45` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1579](/_clusters/ubc1579/)| 21.0 | 90.31 | 35.4 | 0.49 | 0.64 | -1.74 | 56.82 |0.19 |
-    |[Alessi J0601.6+3531](/_clusters/alessij06016p3531/)| 9.1 | 90.35 | 35.5 | 0.56 | 0.63 | -1.74 | 26.3 |0.29 |
+    |[Alessi J0601.6+3531](/_clusters/alessij06016p3531/)| 9.1 | 90.35 | 35.5 | 0.56 | 0.63 | -1.74 | 26.3 |0.27 |
 ---

@@ -46,7 +46,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 415](/_clusters/cwnu415/)| 44.0 | 347.86 | 57.41 | 0.91 | 0.24 | -1.38 | -23.5 |0.04 |
-    |[CWNU 394](/_clusters/cwnu394/)| 40.0 | 348.15 | 57.48 | 0.92 | 0.25 | -1.35 | -27.34 |0.16 |
+    |[CWNU 394](/_clusters/cwnu394/)| 40.0 | 348.15 | 57.48 | 0.92 | 0.25 | -1.35 | -27.34 |0.12 |
     |[CWWDL 14366](/_clusters/cwwdl14366/)| 40.0 | 348.22 | 57.48 | 0.92 | 0.24 | -1.34 | -29.86 |0.02 |
     |[LISC 3420](/_clusters/lisc3420/)| 20.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.24 |
     |[Theia 2526](/_clusters/theia2526/)| 16.0 | 348.12 | 57.48 | 0.91 | 0.27 | -1.37 | -31.89 |0.0 |

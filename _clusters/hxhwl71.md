@@ -12,17 +12,17 @@ glon: 255.78568
 glat: -4.53193
 r50: 7.9
 plx: 0.6712
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.49"
+UTI_COLOR: "#fffee7"
 UTI_C_N_COL: "#fff6da"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.42
 UTI_C_dens: 0.72
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 71</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=1.2, m-M=11.1, logAge=8.52, Z=0.028` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.445, diffAV50=1.416, MOD50=10.748, logAge50=8.233` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=10.94, logAge50=8.51, [Fe/H]50=0.49` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=209.697` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=209.697, MassTot=243.960` |
 shared_table: |
     
 ---

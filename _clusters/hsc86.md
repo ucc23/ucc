@@ -12,17 +12,17 @@ glon: 6.02874
 glat: 3.07834
 r50: 7.2
 plx: 0.6663
-UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
+UTI: "0.05"
+UTI_COLOR: "#e8aeb3"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f6c1b8"
 UTI_C_N: 0.34
 UTI_C_dens: 0.69
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.15
 UTI_summary: |
     <b>HSC 86</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -43,7 +43,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.06, diffAV50=1.479, MOD50=10.749, logAge50=7.59` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=265.239` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=265.239, MassTot=240.852` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

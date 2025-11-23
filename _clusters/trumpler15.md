@@ -55,17 +55,18 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.476, DM0=11.7, log_age_=6.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.434, Dist=1853.0, Age=6.926` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.45, Dist=2117, logt=7.08, logMA=2.345` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.637, Dmod=12.47, logt=6.911` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.637, Dist=3119, logt=6.911` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.47, Dist=3691, logAge=6.681, Z=0.042` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.008, Z=0.5` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.5, DMNN=12.07, AgeNN=6.95` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.5, DistPc=2599.0, AgeNN=6.95` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.614, Dist=2290, logage=6.814, [Fe/H]=-0.124` |
+    | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=2.385` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.687, diffAV50=1.955, MOD50=11.898, logAge50=6.909` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.58, dMod50=11.59, logAge50=6.74, [Fe/H]50=-0.57` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=646.509` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=646.509, MassTot=646.509` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 14](/_clusters/trumpler14/)| 56.8 | 161.01 | -59.54 | 0.39 | -6.49 | 2.07 | -16.05 |1.0 |
+    |[Trumpler 14](/_clusters/trumpler14/)| 56.8 | 161.01 | -59.54 | 0.39 | -6.49 | 2.07 | -16.05 |0.92 |
     |[Collinder 232](/_clusters/collinder232/)| 5.2 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.0 |
 ---

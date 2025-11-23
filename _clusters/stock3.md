@@ -12,17 +12,17 @@ glon: 125.3457
 glat: -0.47926
 r50: 6.9
 plx: 0.2951
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#f2b9b4"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.11
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Stock 3</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.

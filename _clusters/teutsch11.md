@@ -12,20 +12,20 @@ glon: 197.64308
 glat: 0.65313
 r50: 1.5
 plx: 0.1826
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#fffde5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 11</b> is a poorly populated, very dense object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.
+    <b>Teutsch 11</b> is a poorly populated, very dense object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.5
@@ -47,7 +47,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.7, Dist=3443.0, Age=8.7` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.708, distance=5302, log_age=8.8` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.4, DMNN=14, AgeNN=9.3` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.4, DistPc=6309.0, AgeNN=9.3` |
 shared_table: |
     
 ---

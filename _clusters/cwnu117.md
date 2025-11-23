@@ -12,17 +12,17 @@ glon: 106.55866
 glat: -1.2538
 r50: 8.3
 plx: 0.6392
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fff6da"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#f8c5ba"
 UTI_C_N: 0.3
 UTI_C_dens: 0.42
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.17
 UTI_summary: |
     <b>CWNU 117</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.15, m-M=10.85, logAge=8.1, Z=0.008` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.935, diffAV50=0.377, MOD50=10.905, logAge50=8.189` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.39, dMod50=11.2, logAge50=7.89, [Fe/H]50=0.16` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=126.222` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=126.222, MassTot=121.445` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

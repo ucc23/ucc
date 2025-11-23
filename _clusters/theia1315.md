@@ -12,17 +12,17 @@ glon: 285.11973
 glat: -8.79852
 r50: 33.5
 plx: 2.32
-UTI: "0.39"
-UTI_COLOR: "#fff2d5"
+UTI: "0.29"
+UTI_COLOR: "#fee0c7"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#ffedd1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.36
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1315</b> is a poorly populated, loose object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.

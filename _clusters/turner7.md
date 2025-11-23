@@ -12,17 +12,17 @@ glon: 316.43336
 glat: 3.30456
 r50: 7.9
 plx: 0.2524
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#f2b9b4"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 0.11
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Turner 7</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.

@@ -12,17 +12,17 @@ glon: 59.1233
 glat: -5.57835
 r50: 42.4
 plx: 3.036
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#eef8d4"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.62
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 228</b> is a moderately populated, moderately dense object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.

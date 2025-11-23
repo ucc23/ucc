@@ -12,17 +12,17 @@ glon: 97.77481
 glat: -16.48369
 r50: 34.1
 plx: 2.3236
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#e7f5d0"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.66
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>OCSN 32</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.

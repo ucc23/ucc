@@ -46,6 +46,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1180](/_clusters/ubc1180/)| 36.6 | 350.34 | 60.96 | 0.34 | -4.0 | -2.19 | -47.6 |0.16 |
-    |[UBC 399](/_clusters/ubc399/)| 12.2 | 351.34 | 61.33 | 0.37 | -4.01 | -2.15 | -57.18 |0.24 |
-    |[Czernik 43](/_clusters/czernik43/)| 9.8 | 351.4 | 61.35 | 0.37 | -3.99 | -2.15 | -55.26 |0.83 |
+    |[UBC 399](/_clusters/ubc399/)| 12.2 | 351.34 | 61.33 | 0.37 | -4.01 | -2.15 | -57.18 |0.2 |
+    |[Czernik 43](/_clusters/czernik43/)| 9.8 | 351.4 | 61.35 | 0.37 | -3.99 | -2.15 | -55.26 |0.77 |
 ---

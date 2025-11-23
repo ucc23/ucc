@@ -12,17 +12,17 @@ glon: 111.34706
 glat: 19.72528
 r50: 23.9
 plx: 2.6912
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#ffffe8"
 UTI_C_N: 0.5
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.5
 UTI_summary: |
     <b>CWNU 462</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
@@ -49,6 +49,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 8](/_clusters/theia8/)| 96.0 | 315.29 | 77.04 | 2.68 | 5.49 | 3.68 | -20.48 |0.11 |
+    |[Theia 8](/_clusters/theia8/)| 96.0 | 315.29 | 77.04 | 2.68 | 5.49 | 3.68 | -20.48 |0.09 |
     |[OC 0204](/_clusters/oc0204/)| 50.0 | 315.52 | 77.04 | 2.69 | 5.27 | 3.9 | -19.5 |0.4 |
 ---

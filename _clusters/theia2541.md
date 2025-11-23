@@ -12,17 +12,17 @@ glon: 306.97505
 glat: -1.6731
 r50: 3.9
 plx: 0.4945
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 2541</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.603, diffAV50=0.409, MOD50=11.354, logAge50=7.794` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.95, dMod50=11.25, logAge50=7.54, [Fe/H]50=-0.17` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=155.146` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=155.146, MassTot=169.357` |
 shared_table: |
     
 ---

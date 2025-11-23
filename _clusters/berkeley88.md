@@ -12,20 +12,20 @@ glon: 84.56563
 glat: 6.47777
 r50: 0.8
 plx: 0.1156
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.39"
+UTI_COLOR: "#fff2d5"
 UTI_C_N_COL: "#f6fbdc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Berkeley 88</b> is a moderately populated, very dense object of low C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Berkeley 88</b> is a moderately populated, very dense object of low C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.8

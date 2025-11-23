@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.64 |
+    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.61 |
     |[Trumpler 28](/_clusters/trumpler28/)| 1.4 | 264.22 | -32.46 | 0.65 | -0.84 | -2.83 | -48.36 |0.91 |
     |[UBC 569](/_clusters/ubc569/)| 1.4 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
 ---

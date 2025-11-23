@@ -17,12 +17,12 @@ UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.04
 UTI_summary: |
     <b>CWNU 216</b> is a poorly populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0322](/_clusters/oc0322/)| 96.2 | 79.44 | 7.18 | 2.54 | 2.23 | -3.7 | 11.82 |0.6 |
+    |[OC 0322](/_clusters/oc0322/)| 96.2 | 79.44 | 7.18 | 2.54 | 2.23 | -3.7 | 11.82 |0.56 |
 ---

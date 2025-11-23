@@ -58,18 +58,18 @@ fpars_table: |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.2, Dist=680, logt=7.24, logM=1.587` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.2, Dist=680, logt=7.24, logM=1.983, logMA=2.165` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.198, distance=737, log_age=7.3` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.283, Dmod=10.168, logt=7.048` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.283, Dist=1081, logt=7.048` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.021, Z=-0.5` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.7, DMNN=9.62, AgeNN=7.25` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.7, DistPc=840.0, AgeNN=7.25` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.837, Dist=865, logage=7.156, [Fe/H]=-0.021` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.55, logAge=6.75` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.667, diffAV50=1.752, MOD50=9.687, logAge50=6.879` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.06, dMod50=9.8, logAge50=6.73, [Fe/H]50=-0.12` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=425.976` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=425.976, MassTot=438.773` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.69915, MOD=9.61963, logAge=7.23865, Z=-0.0211` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 101](/_clusters/sai101/)| 8.0 | 134.45 | -43.17 | 1.1 | -5.45 | 5.32 | 16.54 |0.0 |
-    |[HSC 2131](/_clusters/hsc2131/)| 6.4 | 134.35 | -43.18 | 1.3 | -5.47 | 5.22 | -- |0.08 |
+    |[HSC 2131](/_clusters/hsc2131/)| 6.4 | 134.35 | -43.18 | 1.3 | -5.47 | 5.22 | -- |0.06 |
 ---

@@ -12,17 +12,17 @@ glon: 58.43497
 glat: -0.08232
 r50: 15.8
 plx: 1.7524
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#bee2c6"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.84
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 74</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | `d_pc=571, log(age)=7.95` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.278, diffAV50=0.414, MOD50=8.654, logAge50=8.225` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.28, dMod50=8.77, logAge50=8.2, [Fe/H]50=-0.68` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=47.8532` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=47.8532, MassTot=70.1928` |
 shared_table: |
     
 ---

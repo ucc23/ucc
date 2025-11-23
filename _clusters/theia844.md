@@ -12,17 +12,17 @@ glon: 81.97339
 glat: 0.02334
 r50: 39.1
 plx: 1.5263
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.18
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 844</b> is a moderately populated, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.

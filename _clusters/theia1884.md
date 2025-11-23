@@ -12,17 +12,17 @@ glon: 259.82462
 glat: -3.2492
 r50: 4.9
 plx: 0.6199
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.95
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1884</b> is a poorly populated, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.

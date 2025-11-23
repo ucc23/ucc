@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 10](/_clusters/theia10/)| 97.6 | 333.13 | 73.25 | 2.93 | 5.4 | 1.58 | -16.15 |0.24 |
-    |[Collinder 471](/_clusters/collinder471/)| 65.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.62 |
+    |[Collinder 471](/_clusters/collinder471/)| 65.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.59 |
 ---

@@ -12,17 +12,17 @@ glon: 51.66877
 glat: -19.20163
 r50: 15.8
 plx: 1.6554
-UTI: "0.42"
-UTI_COLOR: "#fff6da"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#c9e8c8"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 0.8
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 180</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.

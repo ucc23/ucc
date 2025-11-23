@@ -12,17 +12,17 @@ glon: 233.92355
 glat: -22.48656
 r50: 66.5
 plx: 3.2034
-UTI: "0.17"
-UTI_COLOR: "#f8c5ba"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#fff2d5"
 UTI_C_dens_COL: "#fbcebe"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fffee7"
 UTI_C_N: 0.39
 UTI_C_dens: 0.21
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.49
 UTI_summary: |
     <b>Theia 229</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -47,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.33 |
+    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.3 |
     |[OCSN 81](/_clusters/ocsn81/)| 33.3 | 91.01 | -27.1 | 3.19 | -6.59 | 0.26 | 3.26 |0.02 |
 ---

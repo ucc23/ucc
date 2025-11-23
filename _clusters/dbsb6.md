@@ -12,17 +12,17 @@ glon: 234.23744
 glat: -0.48112
 r50: 2.2
 plx: 0.2384
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.50"
+UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.72
 UTI_C_C3: 0.5
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>DBSB 6</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -47,10 +47,10 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.27, distance=4152, log_age=6.55` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.34, DMNN=12.89, AgeNN=7.5` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.34, DistPc=3792.0, AgeNN=7.5` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.079, diffAV50=1.209, MOD50=10.748, logAge50=8.385` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.06, dMod50=10.69, logAge50=8.76, [Fe/H]50=-0.02` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=159.402` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=159.402, MassTot=196.704` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.12, MA23f=-0.21, MZ23=0.01, MK24=-0.17, MF24=-0.15` |
 shared_table: |
     

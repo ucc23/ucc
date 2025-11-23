@@ -12,20 +12,20 @@ glon: 221.46465
 glat: -0.86428
 r50: 31.1
 plx: 1.4124
-UTI: "0.34"
-UTI_COLOR: "#feeace"
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#fedec5"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.28
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Theia 267</b> is a moderately populated, loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Theia 267</b> is a moderately populated, loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 31.1
@@ -43,7 +43,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.166, diffAV50=0.522, MOD50=9.109, logAge50=8.348` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=46.2537` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=46.2537, MassTot=143.678` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

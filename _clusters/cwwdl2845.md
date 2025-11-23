@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 36](/_clusters/kronberger36/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.7 |
+    |[Kronberger 36](/_clusters/kronberger36/)| 97.1 | 301.14 | 35.24 | 0.38 | -2.42 | -4.0 | 7.25 |0.67 |
     |[UBC 137](/_clusters/ubc137/)| 55.8 | 301.14 | 35.24 | 0.39 | -2.42 | -4.0 | -- |0.0 |
 ---

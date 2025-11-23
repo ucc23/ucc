@@ -12,17 +12,17 @@ glon: 14.35502
 glat: 0.13618
 r50: 6.5
 plx: 0.3128
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#e9f5d1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.76
 UTI_C_dens: 0.65
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.96
 UTI_summary: |
     <b>Theia 1756</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.749, diffAV50=3.186, MOD50=12.222, logAge50=7.966` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.65, dMod50=12.43, logAge50=7.28, [Fe/H]50=0.12` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=5691.86` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=5691.86, MassTot=6763.31` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

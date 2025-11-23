@@ -12,20 +12,20 @@ glon: 18.31711
 glat: -5.12081
 r50: 8.8
 plx: 1.291
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d1"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 18</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>UPK 18</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.8
@@ -48,12 +48,12 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | `d_pc=753, log(age)=8.45` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.04, DMNN=9.47, AgeNN=8.86` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.04, DistPc=782.0, AgeNN=8.86` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.412, Dist=814, logage=8.187, [Fe/H]=0.032` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=764, logAgeNN=8.86` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.106, diffAV50=0.826, MOD50=9.343, logAge50=8.544` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.11, dMod50=9.38, logAge50=8.58, [Fe/H]50=-0.31` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=109.370` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=109.370, MassTot=132.628` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.03976, MOD=9.4701, logAge=7.87629, Z=0.03191` |
 shared_table: |
     

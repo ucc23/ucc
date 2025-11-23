@@ -12,17 +12,17 @@ glon: 28.99382
 glat: -2.62684
 r50: 7.7
 plx: 0.5796
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.67
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 86</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=2.3, m-M=10.6, logAge=7.5, Z=0.008` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.472, diffAV50=1.613, MOD50=11.013, logAge50=7.448` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.51, dMod50=11.28, logAge50=7.32, [Fe/H]50=0.48` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=339.830` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=339.830, MassTot=340.286` |
 shared_table: |
     
 ---

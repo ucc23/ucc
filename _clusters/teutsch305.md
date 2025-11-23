@@ -43,5 +43,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.82 |
+    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.77 |
 ---

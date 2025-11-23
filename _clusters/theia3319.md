@@ -12,17 +12,17 @@ glon: 310.18364
 glat: -1.33139
 r50: 10.3
 plx: 0.4998
-UTI: "0.21"
-UTI_COLOR: "#fbcebe"
+UTI: "0.15"
+UTI_COLOR: "#f6c1b8"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#f8c5ba"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f2f9d6"
 UTI_C_N: 0.3
 UTI_C_dens: 0.17
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.6
 UTI_summary: |
     <b>Theia 3319</b> is a poorly populated, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

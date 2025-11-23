@@ -17,12 +17,12 @@ UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.04
 UTI_summary: |
     <b>Theia 1774</b> is a sparse, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -45,11 +45,11 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.44, diffAV50=0.916, MOD50=12.045, logAge50=7.67` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.61, dMod50=12.17, logAge50=7.28, [Fe/H]50=0.05` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=356.857` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=356.857, MassTot=356.857` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0375](/_clusters/oc0375/)| 96.0 | 106.76 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.27 |
-    |[UBC 218](/_clusters/ubc218/)| 36.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.26 |
+    |[UBC 218](/_clusters/ubc218/)| 36.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.16 |
     |[CWWDL 4703](/_clusters/cwwdl4703/)| 4.0 | 106.42 | -9.12 | 0.35 | -1.09 | 0.89 | -- |0.08 |
 ---

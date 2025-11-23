@@ -12,17 +12,17 @@ glon: 212.8606
 glat: -2.08714
 r50: 2.7
 plx: 0.3375
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 59a</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
@@ -43,11 +43,11 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=507.901` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=507.901, MassTot=507.901` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 611](/_clusters/cwwdl611/)| 92.5 | 100.96 | -0.88 | 0.33 | -0.64 | 0.66 | 60.94 |0.09 |
-    |[Teutsch 59b](/_clusters/teutsch59b/)| 83.2 | 100.96 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.62 |
+    |[Teutsch 59b](/_clusters/teutsch59b/)| 83.2 | 100.96 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.59 |
     |[UBC 212](/_clusters/ubc212/)| 80.4 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 64.63 |0.01 |
 ---

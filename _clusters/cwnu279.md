@@ -12,17 +12,17 @@ glon: 215.29299
 glat: -0.11269
 r50: 5.2
 plx: 0.5367
-UTI: "0.35"
-UTI_COLOR: "#feebcf"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f8fce0"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.55
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 279</b> is a sparse, moderately dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.4, m-M=10.85, logAge=7.8, Z=0.008` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.293, diffAV50=0.781, MOD50=11.208, logAge50=8.047` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.04, dMod50=11.16, logAge50=8.34, [Fe/H]50=0.74` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=91.1505` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=91.1505, MassTot=149.393` |
 shared_table: |
     
 ---

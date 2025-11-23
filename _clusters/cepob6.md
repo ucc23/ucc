@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.63 |
+    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.6 |
     |[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.08 | 56.53 | 4.13 | 16.79 | 4.81 | -13.98 |0.06 |
 ---

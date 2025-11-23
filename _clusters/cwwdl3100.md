@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gaia 6](/_clusters/gaia6/)| 100.0 | 122.12 | -23.7 | 0.24 | -2.21 | 4.04 | 54.42 |0.71 |
+    |[Gaia 6](/_clusters/gaia6/)| 100.0 | 122.12 | -23.7 | 0.24 | -2.21 | 4.04 | 54.42 |0.68 |
     |[UBC 1395](/_clusters/ubc1395/)| 100.0 | 122.11 | -23.7 | 0.23 | -2.21 | 4.05 | 53.87 |0.0 |
 ---

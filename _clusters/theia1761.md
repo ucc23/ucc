@@ -12,17 +12,17 @@ glon: 6.04153
 glat: 1.32491
 r50: 8.5
 plx: 0.7055
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#acd5bf"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f3bab5"
 UTI_C_N: 0.54
 UTI_C_dens: 0.93
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.12
 UTI_summary: |
     <b>Theia 1761</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.543, diffAV50=2.239, MOD50=10.623, logAge50=7.637` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.05, dMod50=10.17, logAge50=7.13, [Fe/H]50=-0.82` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=975.595` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=975.595, MassTot=975.595` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

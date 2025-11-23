@@ -12,17 +12,17 @@ glon: 108.37974
 glat: 1.39549
 r50: 20.8
 plx: 1.14
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#e2f2cc"
 UTI_C_dens_COL: "#eef8d4"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.69
 UTI_C_dens: 0.62
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 58</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.85, m-M=10.15, logAge=6.0, Z=0.01` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.107, diffAV50=1.688, MOD50=9.651, logAge50=6.916` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.19, dMod50=9.8, logAge50=7.15, [Fe/H]50=-0.1` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=159.909` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=159.909, MassTot=130.817` |
 shared_table: |
     
 ---

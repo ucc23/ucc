@@ -45,6 +45,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDBH 121](/_clusters/vdbh121/)| 23.5 | 174.69 | -63.4 | 0.4 | -6.01 | 0.65 | 0.02 |0.61 |
-    |[IC 2944](/_clusters/ic2944/)| 13.7 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.95 |
+    |[VDBH 121](/_clusters/vdbh121/)| 23.5 | 174.69 | -63.4 | 0.4 | -6.01 | 0.65 | 0.02 |0.59 |
+    |[IC 2944](/_clusters/ic2944/)| 13.7 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.87 |
 ---

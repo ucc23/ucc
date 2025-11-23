@@ -12,20 +12,20 @@ glon: 170.69428
 glat: -0.46242
 r50: 4.1
 plx: 0.2032
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
 UTI_C_N_COL: "#fff1d4"
 UTI_C_dens_COL: "#fcd0bf"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.22
 UTI_C_C3: 0.38
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>SAI 46</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
+    <b>SAI 46</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.1
@@ -46,7 +46,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.78, Dist=4290.0, Age=9.45` |
-    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.78, Dm=13.16, Age=9.45` |
+    | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.78, Dist=4290.0, Age=9.45` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.999, distance=5441, log_age=9.2` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=3.0, m-M=13.0, logA=9.2` |
 shared_table: |

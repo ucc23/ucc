@@ -12,17 +12,17 @@ glon: 145.95199
 glat: 2.79791
 r50: 2.9
 plx: 0.2939
-UTI: "0.14"
-UTI_COLOR: "#f5bfb7"
+UTI: "0.13"
+UTI_COLOR: "#f4bdb6"
 UTI_C_N_COL: "#fff2d5"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#fdd9c3"
 UTI_C_N: 0.39
 UTI_C_dens: 0.95
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 0.26
 UTI_summary: |
     <b>Theia 2488</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.419, diffAV50=0.96, MOD50=12.469, logAge50=8.717` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.59, dMod50=12.24, logAge50=8.76, [Fe/H]50=-0.09` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=347.962` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=347.962, MassTot=419.060` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.4, MZ23=-0.27, MK24=-0.31, MF24=-0.36` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

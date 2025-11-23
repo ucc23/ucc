@@ -12,17 +12,17 @@ glon: 300.34911
 glat: -12.06814
 r50: 196.7
 plx: 9.818
-UTI: "0.64"
-UTI_COLOR: "#ebf6d2"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#eef8d4"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.62
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Feigelson 1</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with 3 later reported entries.
@@ -45,12 +45,12 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.02, Dist=114.0, Age=6.602` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.02, Dmod=5.127, logt=6.602` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.02, Dist=106, logt=6.602` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.05, logAge=6.9` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 193](/_clusters/ocsn193/)| 29.2 | 180.23 | -78.34 | 9.77 | -41.23 | -6.05 | 13.81 |0.0 |
     |[HSC 2515](/_clusters/hsc2515/)| 23.6 | 180.23 | -78.74 | 9.81 | -41.36 | -5.78 | 15.01 |0.0 |
-    |[HSC 2523](/_clusters/hsc2523/)| 22.6 | 187.32 | -72.92 | 9.84 | -39.68 | -10.81 | 12.79 |0.02 |
+    |[HSC 2523](/_clusters/hsc2523/)| 22.6 | 187.32 | -72.92 | 9.84 | -39.68 | -10.81 | 12.79 |0.01 |
 ---

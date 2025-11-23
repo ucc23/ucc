@@ -12,17 +12,17 @@ glon: 199.94188
 glat: -5.8801
 r50: 6.3
 plx: 0.4362
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.49"
+UTI_COLOR: "#fffee7"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#ffefd2"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.37
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 80</b> is a poorly populated, loose object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -46,11 +46,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.47, DMNN=11.6, AgeNN=7.47` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.47, DistPc=2085.0, AgeNN=7.47` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.86, Dist=1914, logage=7.867, [Fe/H]=-0.179` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.747, diffAV50=1.229, MOD50=11.612, logAge50=7.867` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.8, dMod50=11.44, logAge50=7.85, [Fe/H]50=-0.06` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=176.335` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=176.335, MassTot=246.504` |
 shared_table: |
     
 ---

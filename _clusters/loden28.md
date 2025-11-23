@@ -12,17 +12,17 @@ glon: 282.19678
 glat: -2.19507
 r50: 5.8
 plx: 0.257
-UTI: "0.34"
-UTI_COLOR: "#feeace"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#fbccbd"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 0.2
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Loden 28</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.

@@ -12,17 +12,17 @@ glon: 334.66746
 glat: 0.43104
 r50: 0.7
 plx: 0.1875
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Pismis 23</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -50,7 +50,7 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.457, distance=2820, log_age=8.565` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=5.445, diffAV50=2.809, MOD50=13.384, logAge50=8.711` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=5.42, dMod50=13.66, logAge50=6.62, [Fe/H]50=0.16` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=4613.13` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=4613.13, MassTot=4622.80` |
 shared_table: |
     
 ---

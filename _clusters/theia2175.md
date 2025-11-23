@@ -17,12 +17,12 @@ UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fff1d4"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fbccbd"
 UTI_C_N: 0.0
 UTI_C_dens: 0.38
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.2
 UTI_summary: |
     <b>Theia 2175</b> is a sparse, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -45,10 +45,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.103, diffAV50=0.716, MOD50=9.942, logAge50=7.951` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.87, dMod50=10.32, logAge50=7.77, [Fe/H]50=0.88` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=112.638` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=112.638, MassTot=145.441` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14487](/_clusters/cwwdl14487/)| 80.0 | 9.19 | 68.83 | 0.99 | -1.51 | -0.63 | -16.4 |0.01 |
-    |[HXHWL 39](/_clusters/hxhwl39/)| 80.0 | 9.19 | 68.83 | 0.98 | -1.51 | -0.63 | -16.4 |0.23 |
+    |[HXHWL 39](/_clusters/hxhwl39/)| 80.0 | 9.19 | 68.83 | 0.98 | -1.51 | -0.63 | -16.4 |0.13 |
 ---

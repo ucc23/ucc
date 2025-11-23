@@ -12,17 +12,17 @@ glon: 57.47363
 glat: -0.90849
 r50: 21.7
 plx: 0.9562
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.38"
+UTI_COLOR: "#fff1d4"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.24
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 316</b> is a moderately populated, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.917, diffAV50=2.361, MOD50=10.007, logAge50=7.437` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.42, dMod50=10.27, logAge50=7.28, [Fe/H]50=-0.12` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=110.300` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=110.300, MassTot=306.418` |
 shared_table: |
     
 ---

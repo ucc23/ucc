@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Berkeley 95](/_clusters/berkeley95/)| 88.9 | 337.07 | 59.13 | 0.26 | -3.34 | -2.37 | 34.0 |0.91 |
+    |[Berkeley 95](/_clusters/berkeley95/)| 88.9 | 337.07 | 59.13 | 0.26 | -3.34 | -2.37 | 34.0 |0.87 |
     |[OC 0182](/_clusters/oc0182/)| 60.0 | 337.07 | 59.13 | 0.26 | -3.34 | -2.39 | 87.84 |0.0 |
     |[OC 0183](/_clusters/oc0183/)| 22.2 | 337.08 | 59.14 | 0.28 | -3.33 | -2.38 | 87.84 |0.0 |
 ---

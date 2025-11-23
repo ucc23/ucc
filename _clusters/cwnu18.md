@@ -12,17 +12,17 @@ glon: 219.83794
 glat: -18.11349
 r50: 8.5
 plx: 1.4988
-UTI: "0.14"
-UTI_COLOR: "#f5bfb7"
+UTI: "0.11"
+UTI_COLOR: "#f2b9b4"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fedec5"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.28
 UTI_summary: |
     <b>CWNU 18</b> is a sparse, very dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -47,7 +47,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0367](/_clusters/oc0367/)| 72.0 | 89.46 | -14.1 | 1.48 | -2.04 | 1.63 | 28.57 |0.57 |
+    |[OC 0367](/_clusters/oc0367/)| 72.0 | 89.46 | -14.1 | 1.48 | -2.04 | 1.63 | 28.57 |0.53 |
     |[CWWDL 14262](/_clusters/cwwdl14262/)| 68.0 | 89.46 | -14.1 | 1.49 | -2.03 | 1.58 | 26.55 |0.14 |
     |[OC 0366](/_clusters/oc0366/)| 20.0 | 89.65 | -13.69 | 1.47 | -1.71 | 1.72 | 25.66 |0.48 |
 ---

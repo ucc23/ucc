@@ -43,7 +43,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 190](/_clusters/ubc190/)| 62.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.13 |
+    |[UBC 190](/_clusters/ubc190/)| 62.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.12 |
     |[CWWDL 2007](/_clusters/cwwdl2007/)| 58.2 | 37.43 | 59.78 | 0.35 | -0.06 | -0.49 | -- |0.06 |
     |[OC 0249](/_clusters/oc0249/)| 26.6 | 37.37 | 59.83 | 0.35 | -0.07 | -0.46 | -- |0.03 |
     |[CWWDL 8509](/_clusters/cwwdl8509/)| 5.1 | 37.29 | 59.48 | 0.37 | -0.03 | -0.59 | -- |0.07 |

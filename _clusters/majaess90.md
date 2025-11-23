@@ -12,17 +12,17 @@ glon: 238.41676
 glat: -4.10853
 r50: 5.4
 plx: 0.7382
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Majaess 90</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.
@@ -46,10 +46,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.143, diffAV50=2.028, MOD50=10.602, logAge50=7.086` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.08, dMod50=10.59, logAge50=8.34, [Fe/H]50=0.24` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=99.5867` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=99.5867, MassTot=143.056` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1337](/_clusters/cwnu1337/)| 76.5 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.18 |
-    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.72 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.67 |
 ---

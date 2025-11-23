@@ -12,20 +12,20 @@ glon: 192.36189
 glat: 3.404
 r50: 7.2
 plx: 0.2088
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#c9e8c8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 0.52
 UTI_C_C3: 0.75
-UTI_C_lit: 1.0
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Bochum 1</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
+    <b>Bochum 1</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.2
@@ -53,14 +53,15 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.573, DM0=12.53, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.502, Dist=2803.0, Age=6.686` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.521, distance=3065, log_age=6.6` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.468, Dmod=12.37, logt=7.055` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.468, Dist=2979, logt=7.055` |
+    | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=4.587` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.187, diffAV50=2.192, MOD50=12.954, logAge50=8.178` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.11, dMod50=12.6, logAge50=7.97, [Fe/H]50=-0.16` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1118.09` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1118.09, MassTot=1359.66` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1309](/_clusters/ubc1309/)| 57.7 | 96.34 | 19.86 | 0.22 | -0.18 | -0.46 | 35.13 |0.02 |
-    |[Alessi 58](/_clusters/alessi58/)| 42.3 | 96.39 | 19.89 | 0.21 | -0.14 | -0.46 | 35.13 |0.09 |
+    |[Alessi 58](/_clusters/alessi58/)| 42.3 | 96.39 | 19.89 | 0.21 | -0.14 | -0.46 | 35.13 |0.07 |
     |[OC 0319](/_clusters/oc0319/)| 9.6 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
 ---

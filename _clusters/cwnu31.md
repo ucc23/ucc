@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1527](/_clusters/ubc1527/)| 85.1 | 217.69 | -60.4 | 0.43 | -4.9 | -3.06 | -85.85 |0.56 |
+    |[UBC 1527](/_clusters/ubc1527/)| 85.1 | 217.69 | -60.4 | 0.43 | -4.9 | -3.06 | -85.85 |0.53 |
 ---

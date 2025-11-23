@@ -12,17 +12,17 @@ glon: 169.49729
 glat: 0.14612
 r50: 9.4
 plx: 0.6442
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fff4d6"
 UTI_C_dens_COL: "#fff8de"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.4
 UTI_C_dens: 0.44
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 63</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
@@ -43,12 +43,12 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.45, DMNN=10.95, AgeNN=7.78` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.45, DistPc=1546.0, AgeNN=7.78` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.838, Dist=1470, logage=7.328, [Fe/H]=-0.181` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1473, logAgeNN=7.82` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.18 |
+    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.16 |
     |[OC 0287](/_clusters/oc0287/)| 20.0 | 79.46 | 38.03 | 0.62 | 1.04 | -3.6 | -19.37 |0.12 |
 ---

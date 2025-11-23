@@ -12,17 +12,17 @@ glon: 64.9182
 glat: -12.0404
 r50: 48.4
 plx: 3.4149
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.44"
+UTI_COLOR: "#fff8de"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#eef8d4"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.31
 UTI_C_C3: 0.62
-UTI_C_lit: 0.62
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 88</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | `d_pc=293, log(age)=7.8` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.27, DMNN=7.23, AgeNN=7.62` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.27, DistPc=279.0, AgeNN=7.62` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.3, m-M=8.23, logt=8.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.247, diffAV50=0.795, MOD50=7.293, logAge50=7.864` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=7.38, logAge50=7.73, [Fe/H]50=0.29` |

@@ -12,17 +12,17 @@ glon: 143.55364
 glat: 4.70935
 r50: 7.6
 plx: 1.5781
-UTI: "0.02"
-UTI_COLOR: "#e3a9b3"
+UTI: "0.01"
+UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.04
 UTI_summary: |
     <b>CWNU 149</b> is a sparse, very dense object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -48,5 +48,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0264](/_clusters/oc0264/)| 96.0 | 57.69 | 60.17 | 1.58 | -2.99 | -0.51 | -22.24 |0.35 |
-    |[Theia 85](/_clusters/theia85/)| 96.0 | 57.69 | 60.2 | 1.58 | -3.0 | -0.46 | -22.25 |0.07 |
+    |[Theia 85](/_clusters/theia85/)| 96.0 | 57.69 | 60.2 | 1.58 | -3.0 | -0.46 | -22.25 |0.06 |
 ---

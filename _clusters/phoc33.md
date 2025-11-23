@@ -12,17 +12,17 @@ glon: 73.13843
 glat: 2.23647
 r50: 4.1
 plx: 0.5238
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>PHOC 33</b> is a poorly populated, very dense object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.
@@ -46,7 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.772, diffAV50=0.741, MOD50=11.305, logAge50=8.241` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.78, dMod50=11.3, logAge50=8.46, [Fe/H]50=0.15` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=144.959` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=144.959, MassTot=152.773` |
 shared_table: |
     
 ---

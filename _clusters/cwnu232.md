@@ -12,20 +12,20 @@ glon: 210.15498
 glat: -10.51996
 r50: 45.0
 plx: 2.0222
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#dff2cb"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 0.43
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>CWNU 232</b> is a moderately populated, loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported but it is moderately studied in the literature.
+    <b>CWNU 232</b> is a moderately populated, loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 45.0

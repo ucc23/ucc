@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RSG 7
+title: RSG7
 style: style
 title_flag: true
 more_names: OCSN 257
@@ -25,15 +25,16 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.5
 UTI_C_dup: 0.57
 UTI_summary: |
-    <b>RSG 7</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a large percentage with at least one entry reported in the same catalogue.
+    <b>RSG7</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a large percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 38.9
 N_50_val: 303
-scix_url: RSG%207
+scix_url: RSG7
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Roser et al. (2016)](https://scixplorer.org/abs/2016A%26A...595A..22R) | 343.98 | 58.66 | -- | 5.74 | -0.42 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 344.19 | 59.363 | 2.337 | 4.927 | -1.865 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 344.357 | 59.397 | 2.316 | 5.045 | -1.692 | -10.918 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 342.217 | 59.573 | 2.303 | 5.129 | -1.681 | -- |
@@ -45,7 +46,8 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.57, DMNN=8.1, AgeNN=7.59` |
+    | [Roser et al. (2016)](https://scixplorer.org/abs/2016A%26A...595A..22R) | `E(B-V)=0.06, Dist=457, logt=8.3` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.57, DistPc=416.0, AgeNN=7.59` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.703, Dist=423, logage=7.925, [Fe/H]=0.102` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.0, logAge=7.55` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.25, m-M=8.83, logt=7.9` |
@@ -53,8 +55,8 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG 8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.17 | 5.45 | -1.65 | -10.45 |0.73 |
-    |[NGC 7429](/_clusters/ngc7429/)| 42.9 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.81 |
+    |[RSG8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.17 | 5.45 | -1.65 | -10.45 |0.72 |
+    |[NGC 7429](/_clusters/ngc7429/)| 42.9 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.76 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 16.8 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 14.9 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 9.2 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.01 |

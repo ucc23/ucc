@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 116](/_clusters/theia116/)| 91.9 | 92.58 | 14.93 | 4.77 | 5.89 | -17.1 | 22.36 |0.51 |
-    |[HSC 1553](/_clusters/hsc1553/)| 90.7 | 92.79 | 14.34 | 4.63 | 5.64 | -16.52 | 22.1 |0.15 |
+    |[HSC 1553](/_clusters/hsc1553/)| 90.7 | 92.79 | 14.34 | 4.63 | 5.64 | -16.52 | 22.1 |0.14 |
 ---

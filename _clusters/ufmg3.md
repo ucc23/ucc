@@ -12,17 +12,17 @@ glon: 326.70722
 glat: -1.1327
 r50: 5.8
 plx: 0.486
-UTI: "0.66"
-UTI_COLOR: "#e7f5d0"
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#b9e0c4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.86
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 3</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 3 later reported entries.
@@ -43,8 +43,8 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Ferreira et al. (2019)](https://scixplorer.org/abs/2019MNRAS.483.5508F) | `E(B-V)=0.99, m-M=10.9, logt=8.0, [Fe/H]=0.0` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.25, DMNN=11.45, AgeNN=8.29` |
+    | [Ferreira et al. (2019)](https://scixplorer.org/abs/2019MNRAS.483.5508F) | `E(B-V)=0.99, Dist=1.51, logt=8.0, [Fe/H]=0.0` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.25, DistPc=1949.0, AgeNN=8.29` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.657, Dist=1897, logage=7.395, [Fe/H]=0.194` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

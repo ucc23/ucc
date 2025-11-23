@@ -12,17 +12,17 @@ glon: 49.22917
 glat: 15.8345
 r50: 38.2
 plx: 3.2398
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#fafde1"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.54
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 537</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 415](/_clusters/hsc415/)| 81.2 | 275.29 | 21.65 | 3.27 | -1.16 | -7.37 | -17.26 |0.11 |
+    |[HSC 415](/_clusters/hsc415/)| 81.2 | 275.29 | 21.65 | 3.27 | -1.16 | -7.37 | -17.26 |0.08 |
 ---

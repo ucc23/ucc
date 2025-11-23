@@ -12,17 +12,17 @@ glon: 278.18372
 glat: -6.35554
 r50: 29.5
 plx: 1.8553
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#fffce3"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.47
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 953</b> is a moderately populated, loose object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.

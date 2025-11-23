@@ -12,20 +12,20 @@ glon: 105.8968
 glat: -16.22238
 r50: 54.3
 plx: 2.1198
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.22"
+UTI_COLOR: "#fcd0bf"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#efb5b3"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.09
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>OCSN 36</b> is a poorly populated, very loose object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.
+    <b>OCSN 36</b> is a poorly populated, very loose object of low C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 54.3

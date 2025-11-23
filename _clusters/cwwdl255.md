@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HXHWL 50](/_clusters/hxhwl50/)| 95.4 | 96.07 | 7.5 | 0.5 | -0.92 | -0.28 | 46.49 |0.03 |
-    |[PHOC 26](/_clusters/phoc26/)| 93.8 | 96.07 | 7.5 | 0.49 | -0.92 | -0.28 | 46.49 |0.58 |
+    |[PHOC 26](/_clusters/phoc26/)| 93.8 | 96.07 | 7.5 | 0.49 | -0.92 | -0.28 | 46.49 |0.54 |
 ---

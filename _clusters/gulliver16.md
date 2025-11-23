@@ -41,13 +41,13 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.39, DMNN=13.45, AgeNN=8.15` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.39, DistPc=4886.0, AgeNN=8.15` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.52 |
+    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.49 |
     |[NGC 581](/_clusters/ngc581/)| 23.0 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 6.0 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
-    |[UBC 186](/_clusters/ubc186/)| 3.0 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.15 |
+    |[UBC 186](/_clusters/ubc186/)| 3.0 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |
     |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 1.0 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.09 |
 ---

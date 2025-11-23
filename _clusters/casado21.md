@@ -12,17 +12,17 @@ glon: 107.78094
 glat: 0.25848
 r50: 3.3
 plx: 0.38
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#b4ddc3"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.88
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Casado 21</b> is a poorly populated, dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
@@ -47,7 +47,7 @@ fpars_table: |
     | [Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | `d_kpc=2.4` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.211, diffAV50=1.402, MOD50=11.92, logAge50=7.694` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.27, dMod50=12.47, logAge50=7.61, [Fe/H]50=0.87` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=199.796` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=199.796, MassTot=189.965` |
 shared_table: |
     
 ---

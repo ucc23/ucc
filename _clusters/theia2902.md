@@ -12,17 +12,17 @@ glon: 109.84331
 glat: -1.30257
 r50: 10.1
 plx: 0.6538
-UTI: "0.22"
-UTI_COLOR: "#fcd0bf"
+UTI: "0.21"
+UTI_COLOR: "#fbcebe"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#f4fada"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fff8de"
 UTI_C_N: 0.55
 UTI_C_dens: 0.58
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.44
 UTI_summary: |
     <b>Theia 2902</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.151, diffAV50=1.803, MOD50=10.798, logAge50=7.947` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.27, dMod50=10.83, logAge50=8.43, [Fe/H]50=0.1` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=229.130` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=229.130, MassTot=217.247` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

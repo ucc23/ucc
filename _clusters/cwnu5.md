@@ -12,17 +12,17 @@ glon: 176.93231
 glat: -10.3914
 r50: 51.4
 plx: 2.0967
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.24
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 5</b> is a moderately populated, very loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
@@ -49,5 +49,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.12 |
+    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.1 |
 ---

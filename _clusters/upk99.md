@@ -12,20 +12,20 @@ glon: 69.77643
 glat: -11.51251
 r50: 23.3
 plx: 1.249
-UTI: "0.42"
-UTI_COLOR: "#fff6da"
+UTI: "0.37"
+UTI_COLOR: "#ffefd2"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f5bfb7"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.14
 UTI_C_C3: 0.38
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 99</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>UPK 99</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 23.3
@@ -48,7 +48,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | `d_pc=783, log(age)=8.1` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.28, DMNN=9.41, AgeNN=8.2` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.28, DistPc=763.0, AgeNN=8.2` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.513, Dist=771, logage=8.327, [Fe/H]=-0.1` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=747, logAgeNN=8.22` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.227, diffAV50=0.396, MOD50=9.416, logAge50=8.335` |

@@ -17,15 +17,15 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 0.0
 UTI_summary: |
-    <b>COIN-Gaia 27</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>COIN-Gaia 27</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.8
@@ -46,13 +46,13 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.18, Z=-0.5` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.18, DMNN=10.35, AgeNN=8.86` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.18, DistPc=1173.0, AgeNN=8.86` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.876, Dist=1062, logage=8.244, [Fe/H]=-0.215` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1134, logAgeNN=8.91` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.1, logAge=8.35` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.66 |
+    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.63 |
     |[UBC 78](/_clusters/ubc78/)| 100.0 | 85.77 | 13.73 | 0.92 | 0.66 | -3.59 | 12.49 |0.03 |
 ---

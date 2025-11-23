@@ -12,20 +12,20 @@ glon: 289.1515
 glat: 0.29422
 r50: 1.2
 plx: 0.1256
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Turner 6</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
+    <b>Turner 6</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.2
@@ -49,9 +49,9 @@ fpars_table: |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.145, distance=3600, log_age=6.6` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.792, diffAV50=2.328, MOD50=14.556, logAge50=8.352` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.19, dMod50=13.56, logAge50=8.89, [Fe/H]50=-0.18` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1111.40` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1111.40, MassTot=1116.16` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 106](/_clusters/teutsch106/)| 92.0 | 164.83 | -59.55 | 0.13 | -5.99 | 2.11 | 49.35 |0.8 |
+    |[Teutsch 106](/_clusters/teutsch106/)| 92.0 | 164.83 | -59.55 | 0.13 | -5.99 | 2.11 | 49.35 |0.74 |
 ---

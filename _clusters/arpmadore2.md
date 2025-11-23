@@ -12,20 +12,20 @@ glon: 248.12316
 glat: -5.88038
 r50: 1.6
 plx: 0.0645
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#ffffe8"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.5
 UTI_C_C3: 0.62
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Arp Madore 2</b> is a rich, moderately dense object of intermediate C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is moderately studied in the literature.
+    <b>Arp Madore 2</b> is a rich, moderately dense object of intermediate C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.6
@@ -47,7 +47,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.57, Dist=13341.0, Age=9.335` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.57, distance=13338, log_age=9.335` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.49, DMNN=15.35, AgeNN=9.48` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.49, DistPc=11751.0, AgeNN=9.48` |
     | [Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P) | `E(B-V)=0.63, dm=15.19, logt=9.61, FeH=-0.33, Mass=9800, bfr=0.34` |
 shared_table: |
     

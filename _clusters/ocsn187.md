@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.72 |
+    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.69 |
     |[CWWDL 14679](/_clusters/cwwdl14679/)| 100.0 | 167.44 | -76.55 | 5.2 | -22.07 | -0.25 | 14.71 |0.0 |
     |[FoF 2435](/_clusters/fof2435/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.28 | 13.92 |0.0 |
     |[OC 0578](/_clusters/oc0578/)| 87.5 | 167.51 | -76.51 | 5.19 | -21.83 | -0.52 | 12.25 |0.0 |

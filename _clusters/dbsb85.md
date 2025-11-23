@@ -45,7 +45,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2576](/_clusters/hsc2576/)| 25.7 | 199.65 | -62.57 | 0.49 | -4.3 | -1.74 | -29.39 |0.35 |
-    |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.68 | -62.54 | 0.49 | -4.16 | -1.81 | -37.02 |0.55 |
+    |[HSC 2576](/_clusters/hsc2576/)| 25.7 | 199.65 | -62.57 | 0.49 | -4.3 | -1.74 | -29.39 |0.33 |
+    |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.68 | -62.54 | 0.49 | -4.16 | -1.81 | -37.02 |0.45 |
     |[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.74 | 0.38 | -4.89 | -1.58 | -- |0.05 |
 ---

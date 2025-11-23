@@ -12,17 +12,17 @@ glon: 289.62351
 glat: -0.24397
 r50: 2.2
 plx: 0.1085
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#ffedd1"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.36
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Sher 1</b> is a moderately populated, loose object of very high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -52,11 +52,11 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=1.389, DM0=13.89, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.374, Dist=5875.0, Age=6.713` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.499, distance=5801, log_age=6.715` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.374, Dmod=13.845, logt=6.713` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.35, DMNN=13.91, AgeNN=7.12` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=1.374, Dist=5875, logt=6.713` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.35, DistPc=6066.0, AgeNN=7.12` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.835, diffAV50=2.708, MOD50=14.774, logAge50=7.276` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.98, dMod50=13.83, logAge50=7.61, [Fe/H]50=0.36` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1662.08` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1662.08, MassTot=2735.94` |
 shared_table: |
     
 ---

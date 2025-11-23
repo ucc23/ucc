@@ -12,20 +12,20 @@ glon: 23.31909
 glat: -4.73502
 r50: 48.2
 plx: 1.9631
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.44"
+UTI_COLOR: "#fff8de"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 0.13
 UTI_C_C3: 0.38
-UTI_C_lit: 0.8
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 24</b> is a poorly populated, very loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>UPK 24</b> is a poorly populated, very loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 48.2
@@ -49,7 +49,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | `d_pc=498, log(age)=8.9` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DMNN=8.51, AgeNN=8.43` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.95, DistPc=502.0, AgeNN=8.43` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.123, Dist=501, logage=9.016, [Fe/H]=-0.007` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=497, logAgeNN=8.45` |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.36, m-M=9.48, logt=9.05` |

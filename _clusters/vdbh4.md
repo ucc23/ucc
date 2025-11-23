@@ -12,17 +12,17 @@ glon: 249.98195
 glat: -7.12575
 r50: 0.9
 plx: 0.0995
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>VDBH 4</b> is a poorly populated, very dense object of high C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.

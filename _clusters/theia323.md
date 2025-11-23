@@ -12,17 +12,17 @@ glon: 303.67822
 glat: 7.1603
 r50: 29.9
 plx: 2.0492
-UTI: "0.16"
-UTI_COLOR: "#f7c3b9"
+UTI: "0.11"
+UTI_COLOR: "#f2b9b4"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#fedec5"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fcfee5"
 UTI_C_N: 0.25
 UTI_C_dens: 0.28
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.52
 UTI_summary: |
     <b>Theia 323</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
@@ -47,5 +47,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 450](/_clusters/cwnu450/)| 48.0 | 194.43 | -55.77 | 2.06 | -13.54 | -3.65 | 0.01 |0.43 |
+    |[CWNU 450](/_clusters/cwnu450/)| 48.0 | 194.43 | -55.77 | 2.06 | -13.54 | -3.65 | 0.01 |0.33 |
 ---

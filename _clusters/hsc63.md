@@ -12,17 +12,17 @@ glon: 4.86956
 glat: 0.74097
 r50: 2.9
 plx: 0.2856
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#f6fbdc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.57
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HSC 63</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=4.728, diffAV50=2.905, MOD50=12.419, logAge50=8.654` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.91, dMod50=13.24, logAge50=7.94, [Fe/H]50=-0.69` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1478.17` |
+    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1478.17, MassTot=1478.17` |
 shared_table: |
     
 ---

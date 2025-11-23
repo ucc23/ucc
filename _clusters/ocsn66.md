@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 61](/_clusters/ocsn61/)| 2.2 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.54 |
+    |[OCSN 61](/_clusters/ocsn61/)| 2.2 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.52 |
 ---

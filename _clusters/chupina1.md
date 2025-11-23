@@ -12,17 +12,17 @@ glon: 215.4995
 glat: 31.74385
 r50: 8.2
 plx: 1.1626
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Chupina 1</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.

@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 3785](/_clusters/lisciii3785/)| 36.0 | 270.59 | 22.7 | 3.47 | -1.32 | -7.27 | -18.74 |0.15 |
-    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.34 |
+    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.24 |
 ---

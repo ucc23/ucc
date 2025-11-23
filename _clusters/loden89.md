@@ -12,17 +12,17 @@ glon: 284.38311
 glat: 0.86742
 r50: 3.6
 plx: 0.2678
-UTI: "0.21"
-UTI_COLOR: "#fbcebe"
+UTI: "0.18"
+UTI_COLOR: "#f9c8bb"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fddcc5"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.27
 UTI_C_C3: 0.12
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Loden 89</b> is a sparse, loose object of very low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature, with no articles listed in the last 8 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
@@ -45,7 +45,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.05, Dist=380, logt=8.47, logMA=1.551` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.05, distance=626, log_age=8.3` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.05, Dmod=7.817, logt=8.47` |
+    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.05, Dist=366, logt=8.47` |
 shared_table: |
     
 ---

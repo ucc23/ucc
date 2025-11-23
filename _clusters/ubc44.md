@@ -12,20 +12,20 @@ glon: 133.52257
 glat: -6.99649
 r50: 4.8
 plx: 0.3682
-UTI: "0.57"
-UTI_COLOR: "#f6fbdc"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 44</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>UBC 44</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.8
@@ -42,10 +42,10 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.51, DMNN=12.19, AgeNN=8.91` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.51, DistPc=2737.0, AgeNN=8.91` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.22 |
+    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.21 |
     |[CWWDL 3347](/_clusters/cwwdl3347/)| 52.7 | 31.11 | 54.36 | 0.37 | -2.3 | -0.25 | -37.93 |0.0 |
 ---

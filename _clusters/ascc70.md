@@ -12,17 +12,17 @@ glon: 299.00172
 glat: -1.85117
 r50: 5.9
 plx: 0.2006
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#f2b9b4"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.11
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>ASCC 70</b> is a poorly populated, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature, with no articles listed in the last 6 years.

@@ -45,5 +45,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Stock 17](/_clusters/stock17/)| 20.0 | 355.97 | 62.16 | 0.32 | -3.7 | -1.56 | -- |0.63 |
+    |[Stock 17](/_clusters/stock17/)| 20.0 | 355.97 | 62.16 | 0.32 | -3.7 | -1.56 | -- |0.58 |
 ---

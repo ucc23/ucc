@@ -12,17 +12,17 @@ glon: 152.01801
 glat: 0.60618
 r50: 25.5
 plx: 1.2848
-UTI: "0.33"
-UTI_COLOR: "#fee8cc"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#fedec5"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 0.28
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 47</b> is a poorly populated, loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
@@ -50,5 +50,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1125](/_clusters/cwnu1125/)| 54.3 | 64.52 | 51.16 | 1.28 | 0.44 | -3.39 | -1.3 |0.16 |
-    |[HSC 1205](/_clusters/hsc1205/)| 50.0 | 64.34 | 51.32 | 1.29 | 0.46 | -3.32 | -1.3 |0.02 |
+    |[HSC 1205](/_clusters/hsc1205/)| 50.0 | 64.34 | 51.32 | 1.29 | 0.46 | -3.32 | -1.3 |0.01 |
 ---

@@ -12,20 +12,20 @@ glon: 214.68656
 glat: 7.38043
 r50: 1.5
 plx: 0.0826
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f7c3b9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.38
-UTI_C_lit: 0.75
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Saurer 1</b> is a sparse, very loose object of low C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Saurer 1</b> is a sparse, very loose object of low C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.5

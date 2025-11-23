@@ -12,20 +12,20 @@ glon: 218.20309
 glat: 17.6103
 r50: 54.3
 plx: 1.6001
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.50"
+UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#d9efca"
 UTI_C_dens_COL: "#fbccbd"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff6da"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.73
 UTI_C_dens: 0.2
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Alessi 145</b> is a moderately populated, very loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
+    <b>Alessi 145</b> is a moderately populated, very loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 54.3
@@ -45,7 +45,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0, DMNN=9, AgeNN=8.26` |
+    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.0, DistPc=629.0, AgeNN=8.26` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=619, logAgeNN=8.28` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00086, MOD=8.99970, logAge=7.65706, Z=-0.0656` |
 shared_table: |

@@ -46,5 +46,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 1821](/_clusters/fof1821/)| 36.0 | 347.73 | 60.93 | 0.32 | -4.29 | -2.05 | -82.55 |0.03 |
-    |[CWNU 459](/_clusters/cwnu459/)| 4.0 | 347.95 | 60.97 | 0.33 | -4.44 | -1.79 | -68.97 |0.43 |
+    |[CWNU 459](/_clusters/cwnu459/)| 4.0 | 347.95 | 60.97 | 0.33 | -4.44 | -1.79 | -68.97 |0.4 |
 ---
