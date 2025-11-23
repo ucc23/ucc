@@ -9,18 +9,20 @@ layout: default
     <h3><span style="color: #808080;"><i>({{page.more_names}})</i></span></h3>
   {% endif %}
 
-  <div style="display: flex; justify-content: space-between; width:720px;height:250px">
+  <div style="display: grid; grid-template-columns: 355px 355px; gap: 5px; width:720px; height:250px;">
 
       <!-- Aladin snippet -->
       <div style="text-align: center;">
           <!-- Static image + data attributes for FOV and target -->
           <img id="aladin_img"
-              data-umami-event="aladin_load"
-              src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/aladin/{{page.fname}}.webp"
-              alt="Click to load Aladin Lite" 
-              style="width:355px;height:250px; cursor: pointer;"
-              data-fov="{{page.fov}}" 
-              data-target="{{page.ra_icrs}} {{page.de_icrs}}"/>
+               data-umami-event="aladin_load"
+               src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/aladin/{{page.fname}}.webp"
+               alt="Click to load Aladin Lite" 
+               data-fov="{{page.fov}}" 
+               data-target="{{page.ra_icrs}} {{page.de_icrs}}"
+               loading="eager"
+               fetchpriority="high"
+               width="355" height="250"/>
           <!-- Div to contain Aladin Lite viewer -->
           <div id="aladin-lite-div" style="width:355px;height:250px;display:none;"></div>
           <!-- Aladin Lite script will be loaded after the image is clicked -->
@@ -133,8 +135,7 @@ layout: default
       <div class="slides">
         <div class="slide">
           <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" target="_blank">
-            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" />
-          </a>
+            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" width="720" height="670"/></a>
         </div>
         {% if page.carousel contains "HUNT23" %}
           {% assign second_car = "HUNT23" %}
@@ -143,13 +144,15 @@ layout: default
         {% endif %}
         <div class="slide">
           <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" target="_blank">
-            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" alt="{{page.title}} {{second_car}}" />
+            <img loading="lazy"
+                 src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" alt="{{page.title}} {{second_car}}"  width="720" height="670"/>
           </a>
         </div>
         {% if N_carousel == 3 %}
           <div class="slide">
             <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" target="_blank">
-              <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" alt="{{page.title}} CANTAT20" />
+              <img loading="lazy"
+                   src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" alt="{{page.title}} CANTAT20"  width="720" height="670"/>
             </a>
           </div>
         {% endif %}
@@ -180,7 +183,7 @@ layout: default
 
 
     <details id="cluster-region">
-      <summary>Cluster region</summary>
+      <summary>Cluster region map</summary>
       <div id="plot-params"
            data-oc-name="{{page.fname}}"
            data-ra-center="{{page.ra_icrs}}"
