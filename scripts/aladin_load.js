@@ -4,8 +4,6 @@ function loadAladinLiteAndHideImage() {
     const fov = parseFloat(imageElement.getAttribute('data-fov'));
     const target = imageElement.getAttribute('data-target');
 
-    console.log(fov, target);
-
     // Dynamically load the Aladin Lite script
     let aladinScript = document.createElement('script');
     aladinScript.src = "https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js";
