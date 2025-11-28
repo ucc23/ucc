@@ -12,7 +12,7 @@ style: style
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Koposov 10](/_clusters/koposov10/) | 86.86 | 35.43 | 0.33 | 79 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.88  |
 | [Koposov 12](/_clusters/koposov12/) | 90.25 | 35.29 | 0.39 | 219 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.96  |
-| [Koposov 27](/_clusters/koposov27/) | 84.87 | 33.35 | 0.22 | 106 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.84  |
+| [Koposov 27](/_clusters/koposov27/) | 84.87 | 33.35 | 0.22 | 106 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.9  |
 | [Koposov 36](/_clusters/koposov36/) | 84.23 | 31.21 | 0.57 | 134 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.9  |
 | [Koposov 43](/_clusters/koposov43/) | 88.08 | 29.9 | 0.19 | 113 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.9  |
 | [Koposov 53](/_clusters/koposov53/) | 92.23 | 26.26 | 0.19 | 78 | 1.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.88  |

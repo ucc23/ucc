@@ -119,19 +119,8 @@ style: style
 | [CBJC 4](/_clusters/cbjc4/) | 314.06 | 44.41 | 0.24 | 18 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [CMa02](/_clusters/cma02/) | 105.68 | -7.75 | 0.88 | 66 | 10.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
 | [CMa05](/_clusters/cma05/) | 105.26 | -11.29 | 0.77 | 24 | 11.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
-| [COIN-Gaia 10](/_clusters/coingaia10/) | 68.4 | 40.5 | 0.95 | 58 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
-| [COIN-Gaia 15](/_clusters/coingaia15/) | 76.11 | 35.81 | 0.82 | 253 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [COIN-Gaia 17](/_clusters/coingaia17/) | 81.23 | 37.57 | 0.89 | 102 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
-| [COIN-Gaia 19](/_clusters/coingaia19/) | 82.19 | 34.29 | 0.79 | 121 | 9.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [COIN-Gaia 20](/_clusters/coingaia20/) | 78.64 | 31.72 | 0.92 | 59 | 9.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
-| [COIN-Gaia 21](/_clusters/coingaia21/) | 84.75 | 28.42 | 0.7 | 68 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
-| [COIN-Gaia 22](/_clusters/coingaia22/) | 91.06 | 31.6 | 0.51 | 125 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [COIN-Gaia 26](/_clusters/coingaia26/) | 83.77 | 15.72 | 0.7 | 96 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
-| [COIN-Gaia 28](/_clusters/coingaia28/) | 96.33 | 11.16 | 0.59 | 155 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [COIN-Gaia 3](/_clusters/coingaia3/) | 18.73 | 60.5 | 0.8 | 125 | 6.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
-| [COIN-Gaia 30](/_clusters/coingaia30/) | 21.11 | 70.57 | 1.37 | 142 | 11.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.02  |
-| [COIN-Gaia 38](/_clusters/coingaia38/) | 51.47 | 51.08 | 0.85 | 132 | 8.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [COIN-Gaia 4](/_clusters/coingaia4/) | 26.13 | 58.75 | 0.47 | 106 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
+| [COIN-Gaia 17](/_clusters/coingaia17/) | 81.23 | 37.57 | 0.89 | 102 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
+| [COIN-Gaia 22](/_clusters/coingaia22/) | 91.06 | 31.6 | 0.51 | 125 | 4.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
 | [CWNU 10](/_clusters/cwnu10/) | 95.29 | 18.84 | 1.01 | 26 | 10.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
 | [CWNU 1003](/_clusters/cwnu1003/) | 97.68 | 4.51 | 1.53 | 56 | 13.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
 | [CWNU 1005](/_clusters/cwnu1005/) | 307.76 | 38.52 | 0.86 | 15 | 26.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
@@ -2813,7 +2802,7 @@ style: style
 | [FSR 1277](/_clusters/fsr1277/) | 97.07 | -29.02 | 0.13 | 22 | 7.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [FSR 1281](/_clusters/fsr1281/) | 108.16 | -25.23 | 0.17 | 13 | 8.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FSR 1293](/_clusters/fsr1293/) | 110.93 | -25.39 | 0.17 | 17 | 4.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
-| [FSR 1297](/_clusters/fsr1297/) | 110.98 | -25.88 | 0.76 | 88 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
+| [FSR 1297](/_clusters/fsr1297/) | 110.98 | -25.88 | 0.76 | 88 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FSR 1300](/_clusters/fsr1300/) | 111.16 | -26.22 | 0.38 | 354 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.02  |
 | [FSR 1303](/_clusters/fsr1303/) | 101.19 | -31.89 | 0.2 | 21 | 8.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [FSR 1312](/_clusters/fsr1312/) | 122.7 | -23.31 | 0.28 | 15 | 7.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
@@ -2901,19 +2890,15 @@ style: style
 | [FoF 1221](/_clusters/fof1221/) | 280.55 | -6.24 | 0.28 | 14 | 7.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
 | [FoF 1281](/_clusters/fof1281/) | 295.78 | 20.43 | 0.25 | 12 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 1328](/_clusters/fof1328/) | 14.57 | 63.01 | 0.27 | 12 | 9.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
-| [FoF 1332](/_clusters/fof1332/) | 26.93 | 60.44 | 0.34 | 18 | 7.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [FoF 1334](/_clusters/fof1334/) | 30.56 | 61.41 | 0.3 | 16 | 10.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 1342](/_clusters/fof1342/) | 23.54 | 61.7 | 0.3 | 13 | 10.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 1352](/_clusters/fof1352/) | 29.48 | 60.46 | 0.31 | 18 | 14.5 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [FoF 1367](/_clusters/fof1367/) | 76.4 | 39.92 | 0.26 | 19 | 4.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
-| [FoF 1370](/_clusters/fof1370/) | 91.44 | 25.24 | 0.27 | 16 | 5.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
-| [FoF 1372](/_clusters/fof1372/) | 90.55 | 28.87 | 0.27 | 19 | 9.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 1374](/_clusters/fof1374/) | 91.67 | 26.5 | 0.27 | 13 | 10.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [FoF 1377](/_clusters/fof1377/) | 90.79 | 28.46 | 0.26 | 14 | 9.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 1381](/_clusters/fof1381/) | 97.68 | 16.88 | 0.27 | 21 | 6.0 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [FoF 1388](/_clusters/fof1388/) | 101.36 | 6.81 | 0.18 | 23 | 5.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 1392](/_clusters/fof1392/) | 102.23 | 2.03 | 0.21 | 23 | 5.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
-| [FoF 1399](/_clusters/fof1399/) | 107.31 | -5.35 | 0.24 | 17 | 11.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 140](/_clusters/fof140/) | 226.76 | -60.39 | 0.29 | 5 | 11.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 1401](/_clusters/fof1401/) | 112.54 | -14.02 | 0.24 | 12 | 6.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 1402](/_clusters/fof1402/) | 111.47 | -13.62 | 0.22 | 14 | 8.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
@@ -2940,18 +2925,14 @@ style: style
 | [FoF 1785](/_clusters/fof1785/) | 316.19 | 49.31 | 0.24 | 16 | 5.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [FoF 1787](/_clusters/fof1787/) | 322.75 | 52.83 | 0.29 | 62 | 1.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.09  |
 | [FoF 1789](/_clusters/fof1789/) | 331.28 | 55.15 | 0.24 | 12 | 10.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
-| [FoF 1798](/_clusters/fof1798/) | 331.98 | 55.59 | 0.25 | 21 | 5.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [FoF 1816](/_clusters/fof1816/) | 341.9 | 59.84 | 0.23 | 23 | 6.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
 | [FoF 1821](/_clusters/fof1821/) | 347.73 | 60.93 | 0.32 | 17 | 11.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
-| [FoF 1831](/_clusters/fof1831/) | 359.17 | 63.5 | 0.23 | 17 | 7.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [FoF 1843](/_clusters/fof1843/) | 356.2 | 61.93 | 0.23 | 16 | 6.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 1864](/_clusters/fof1864/) | 8.7 | 63.04 | 0.35 | 15 | 9.6 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
-| [FoF 1888](/_clusters/fof1888/) | 14.52 | 63.29 | 0.34 | 13 | 9.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 1925](/_clusters/fof1925/) | 37.47 | 62.97 | 0.28 | 20 | 6.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [FoF 1956](/_clusters/fof1956/) | 58.33 | 57.33 | 0.3 | 17 | 13.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [FoF 1960](/_clusters/fof1960/) | 61.91 | 53.2 | 0.27 | 10 | 11.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [FoF 1968](/_clusters/fof1968/) | 76.82 | 41.48 | 0.26 | 15 | 7.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [FoF 1970](/_clusters/fof1970/) | 91.78 | 27.71 | 0.24 | 18 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [FoF 1975](/_clusters/fof1975/) | 92.97 | 25.06 | 0.26 | 21 | 5.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
 | [FoF 1977](/_clusters/fof1977/) | 108.76 | -2.07 | 0.22 | 22 | 4.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [FoF 1981](/_clusters/fof1981/) | 111.84 | -8.28 | 0.18 | 23 | 6.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
@@ -2981,7 +2962,6 @@ style: style
 | [FoF 921](/_clusters/fof921/) | 35.61 | 58.0 | 0.26 | 15 | 14.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [FoF 925](/_clusters/fof925/) | 96.09 | 9.62 | 0.21 | 23 | 6.0 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [FoF 942](/_clusters/fof942/) | 119.78 | -29.57 | 0.23 | 16 | 7.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [FoF 967](/_clusters/fof967/) | 120.2 | -30.99 | 0.23 | 22 | 4.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
 | [French 4](/_clusters/french4/) | 203.85 | -20.3 | 0.22 | 26 | 7.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [Froebrich 145](/_clusters/froebrich145/) | 246.17 | -45.01 | 0.08 | 14 | 7.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [GLIMPSE 13](/_clusters/glimpse13/) | 283.42 | 0.61 | 0.17 | 17 | 5.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.02  |
@@ -2989,8 +2969,6 @@ style: style
 | [GLIMPSE 20](/_clusters/glimpse20/) | 288.1 | 9.95 | 0.18 | 26 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [GLIMPSE 39](/_clusters/glimpse39/) | 206.89 | -62.79 | 0.38 | 17 | 7.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.01  |
 | [GLIMPSE 83](/_clusters/glimpse83/) | 253.38 | -43.36 | 0.42 | 14 | 8.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [Gulliver 16](/_clusters/gulliver16/) | 23.42 | 60.75 | 0.21 | 100 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
-| [Gulliver 17](/_clusters/gulliver17/) | 302.66 | 35.87 | 0.56 | 173 | 3.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
 | [HD 183300 Group](/_clusters/hd183300group/) | 291.9 | 32.61 | 0.17 | 16 | 6.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [HD 277262 Group](/_clusters/hd277262group/) | 74.38 | 40.99 | 0.28 | 15 | 6.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [HD 55709 Group](/_clusters/hd55709group/) | 108.47 | -3.7 | 0.26 | 19 | 6.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
@@ -3557,9 +3535,9 @@ style: style
 | [HXWHB 2](/_clusters/hxwhb2/) | 80.07 | 33.25 | 0.49 | 19 | 8.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [HXWHB 3](/_clusters/hxwhb3/) | 80.09 | 33.47 | 1.06 | 20 | 26.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [HXWHB 4](/_clusters/hxwhb4/) | 80.28 | 33.79 | 0.51 | 22 | 8.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [HXWHB 5](/_clusters/hxwhb5/) | 80.51 | 33.56 | 0.86 | 16 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |
+| [HXWHB 5](/_clusters/hxwhb5/) | 80.51 | 33.56 | 0.86 | 16 | 12.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [HXWHB 6](/_clusters/hxwhb6/) | 80.32 | 33.87 | 1.15 | 7 | 36.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
-| [HXWHB 7](/_clusters/hxwhb7/) | 80.64 | 35.32 | 0.55 | 14 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
+| [HXWHB 7](/_clusters/hxwhb7/) | 80.64 | 35.32 | 0.55 | 14 | 10.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [HXWHB 9](/_clusters/hxwhb9/) | 80.93 | 33.03 | 1.08 | 18 | 28.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [Haffner 25](/_clusters/haffner25/) | 117.15 | -25.95 | 0.24 | 20 | 7.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [Herbig 1](/_clusters/herbig1/) | 314.74 | 43.93 | 0.25 | 16 | 4.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
@@ -3879,6 +3857,7 @@ style: style
 | [MCM 90](/_clusters/mcm90/) | 256.48 | -40.7 | 0.42 | 23 | 6.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [MCM 92](/_clusters/mcm92/) | 260.33 | -37.81 | 0.37 | 17 | 5.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [MWSC 1458](/_clusters/mwsc1458/) | 123.78 | -4.07 | 0.25 | 23 | 8.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
+| [MWSC 192](/_clusters/mwsc192/) | 36.65 | 62.0 | 0.48 | 102 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.03  |
 | [MWSC 2725](/_clusters/mwsc2725/) | 267.94 | -35.2 | 0.12 | 19 | 5.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span> | 0.1  |
 | [MWSC 4005](/_clusters/mwsc4005/) | 2.91 | -85.46 | 0.24 | 28 | 7.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [MWSC 4114](/_clusters/mwsc4114/) | 91.83 | -78.23 | 0.05 | 24 | 6.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
@@ -4023,7 +4002,6 @@ style: style
 | [MWSC 5828](/_clusters/mwsc5828/) | 357.66 | 41.47 | 0.11 | 20 | 6.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [MWSC 5901](/_clusters/mwsc5901/) | 112.53 | 27.05 | 0.19 | 17 | 6.8 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [MWSC 5963](/_clusters/mwsc5963/) | 85.98 | -10.64 | 0.24 | 28 | 7.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
-| [MWSC0 192](/_clusters/mwsc0192/) | 36.65 | 62.0 | 0.48 | 102 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.03  |
 | [Majaess 1](/_clusters/majaess1/) | 1.75 | 64.95 | 0.38 | 18 | 9.5 | <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span> | 0.01  |
 | [Majaess 101](/_clusters/majaess101/) | 125.65 | -41.61 | 0.19 | 17 | 4.7 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
 | [Majaess 104](/_clusters/majaess104/) | 125.78 | -41.74 | 0.33 | 21 | 8.5 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | 0.04  |
@@ -5182,7 +5160,6 @@ style: style
 | [UBC 308](/_clusters/ubc308/) | 237.58 | -55.96 | 0.37 | 739 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.02  |
 | [UBC 309](/_clusters/ubc309/) | 238.12 | -55.41 | 0.48 | 437 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
 | [UBC 313](/_clusters/ubc313/) | 246.11 | -51.92 | 0.32 | 22 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.09  |
-| [UBC 318](/_clusters/ubc318/) | 251.12 | -47.58 | 0.34 | 21 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.09  |
 | [UBC 320](/_clusters/ubc320/) | 251.4 | -44.45 | 0.35 | 168 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.02  |
 | [UBC 331](/_clusters/ubc331/) | 266.01 | -32.34 | 0.92 | 279 | 12.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.05  |
 | [UBC 333](/_clusters/ubc333/) | 266.73 | -31.51 | 0.98 | 269 | 10.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.01  |
@@ -5190,13 +5167,18 @@ style: style
 | [UBC 348](/_clusters/ubc348/) | 275.04 | -5.17 | 1.09 | 96 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
 | [UBC 35](/_clusters/ubc35/) | 15.05 | 55.41 | 0.77 | 210 | 9.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
 | [UBC 358](/_clusters/ubc358/) | 283.31 | 8.13 | 0.97 | 115 | 14.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
+| [UBC 37](/_clusters/ubc37/) | 21.11 | 70.57 | 1.37 | 145 | 10.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.03  |
 | [UBC 372](/_clusters/ubc372/) | 302.38 | 38.29 | 0.27 | 85 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.1  |
-| [UBC 390](/_clusters/ubc390/) | 338.71 | 58.29 | 0.22 | 38 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
+| [UBC 390](/_clusters/ubc390/) | 338.71 | 58.29 | 0.22 | 38 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
 | [UBC 408](/_clusters/ubc408/) | 5.33 | 65.5 | 1.34 | 161 | 13.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
 | [UBC 411](/_clusters/ubc411/) | 13.11 | 64.62 | 0.34 | 48 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.06  |
+| [UBC 42](/_clusters/ubc42/) | 26.13 | 58.75 | 0.46 | 109 | 4.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
+| [UBC 43](/_clusters/ubc43/) | 28.1 | 58.64 | 0.3 | 201 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
 | [UBC 431](/_clusters/ubc431/) | 75.22 | 41.22 | 0.2 | 106 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
 | [UBC 446](/_clusters/ubc446/) | 92.4 | -15.05 | 1.48 | 114 | 15.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.08  |
 | [UBC 470](/_clusters/ubc470/) | 121.79 | -30.89 | 0.24 | 30 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.1  |
+| [UBC 48](/_clusters/ubc48/) | 39.07 | 50.02 | 1.38 | 62 | 16.1 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.01  |
+| [UBC 50](/_clusters/ubc50/) | 51.47 | 51.07 | 0.85 | 136 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
 | [UBC 501](/_clusters/ubc501/) | 161.03 | -58.1 | 0.38 | 191 | 3.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.02  |
 | [UBC 509](/_clusters/ubc509/) | 164.12 | -61.1 | 0.31 | 27 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
 | [UBC 530](/_clusters/ubc530/) | 209.92 | -63.61 | 1.03 | 63 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
@@ -5208,21 +5190,26 @@ style: style
 | [UBC 577](/_clusters/ubc577/) | 282.14 | 22.06 | 0.98 | 24 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [UBC 605](/_clusters/ubc605/) | 66.2 | 75.8 | 0.35 | 22 | 10.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [UBC 606](/_clusters/ubc606/) | 37.62 | 57.27 | 0.41 | 11 | 15.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
+| [UBC 62](/_clusters/ubc62/) | 76.11 | 35.81 | 0.82 | 264 | 9.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
 | [UBC 621](/_clusters/ubc621/) | 83.83 | -4.86 | 2.53 | 191 | 14.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [UBC 622](/_clusters/ubc622/) | 111.79 | 9.3 | 0.28 | 21 | 8.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [UBC 625](/_clusters/ubc625/) | 119.1 | 6.37 | 0.37 | 22 | 8.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.1  |
 | [UBC 629](/_clusters/ubc629/) | 121.09 | -3.72 | 0.32 | 21 | 9.2 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [UBC 633](/_clusters/ubc633/) | 112.79 | -15.43 | 0.18 | 19 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
+| [UBC 633](/_clusters/ubc633/) | 112.79 | -15.43 | 0.18 | 19 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
 | [UBC 635](/_clusters/ubc635/) | 112.12 | -20.13 | 0.32 | 213 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
 | [UBC 644](/_clusters/ubc644/) | 122.54 | -34.02 | 0.21 | 18 | 5.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [UBC 649](/_clusters/ubc649/) | 147.71 | -34.34 | 0.4 | 21 | 11.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
-| [UBC 663](/_clusters/ubc663/) | 182.72 | -63.64 | 0.39 | 17 | 7.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
+| [UBC 65](/_clusters/ubc65/) | 82.19 | 34.3 | 0.79 | 121 | 9.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
+| [UBC 66](/_clusters/ubc66/) | 78.64 | 31.7 | 0.92 | 57 | 8.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
 | [UBC 667](/_clusters/ubc667/) | 247.74 | -48.39 | 0.35 | 47 | 1.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.01  |
 | [UBC 672](/_clusters/ubc672/) | 253.28 | -41.61 | 0.57 | 18 | 12.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.1  |
-| [UBC 70](/_clusters/ubc70/) | 91.06 | 31.6 | 0.51 | 121 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
+| [UBC 69](/_clusters/ubc69/) | 84.75 | 28.43 | 0.7 | 71 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [UBC 73](/_clusters/ubc73/) | 95.38 | 26.92 | 0.44 | 97 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
+| [UBC 75](/_clusters/ubc75/) | 83.77 | 15.72 | 0.7 | 97 | 5.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
 | [UBC 78](/_clusters/ubc78/) | 85.77 | 13.73 | 0.92 | 91 | 10.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.03  |
+| [UBC 81](/_clusters/ubc81/) | 96.33 | 11.16 | 0.59 | 156 | 5.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
 | [UBC 88](/_clusters/ubc88/) | 58.16 | 45.96 | 1.03 | 135 | 10.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
-| [UBC 89](/_clusters/ubc89/) | 81.23 | 37.57 | 0.9 | 98 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04  |
+| [UBC 89](/_clusters/ubc89/) | 81.23 | 37.57 | 0.9 | 98 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
 | [UBC 91](/_clusters/ubc91/) | 267.43 | -28.76 | 0.44 | 132 | 3.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.01  |
 | [UFMG 84](/_clusters/ufmg84/) | 272.19 | -21.47 | 0.65 | 84 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
 | [UFMG 86](/_clusters/ufmg86/) | 261.58 | -37.79 | 0.44 | 84 | 5.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.03  |

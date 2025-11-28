@@ -72,7 +72,7 @@ style: style
 | [Melotte 94](/_clusters/melotte94/) | 132.85 | 11.82 | 1.15 | 1650 | 17.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [Melotte 97](/_clusters/melotte97/) | 141.87 | -57.01 | 0.73 | 575 | 10.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [Melotte 98](/_clusters/melotte98/) | 150.56 | -60.04 | 0.98 | 1319 | 16.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
-| [NGC 1750](/_clusters/ngc1750/) | 75.94 | 23.68 | 1.38 | 594 | 21.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.94  |
+| [NGC 1750](/_clusters/ngc1750/) | 75.94 | 23.68 | 1.38 | 594 | 21.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [NGC 2302](/_clusters/ngc2302/) | 102.98 | -7.09 | 0.82 | 145 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.9  |
 | [NGC 2323](/_clusters/ngc2323/) | 105.7 | -8.36 | 1.01 | 781 | 10.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [NGC 2353](/_clusters/ngc2353/) | 108.64 | -10.25 | 0.83 | 281 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.91  |
@@ -83,7 +83,7 @@ style: style
 | [NGC 2925](/_clusters/ngc2925/) | 143.3 | -53.4 | 1.32 | 275 | 13.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.96  |
 | [NGC 4609](/_clusters/ngc4609/) | 190.57 | -62.99 | 0.68 | 394 | 5.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.92  |
 | [Pismis 4](/_clusters/pismis4/) | 128.8 | -44.42 | 1.45 | 200 | 18.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.96  |
-| [Pozzo1](/_clusters/pozzo1/) | 122.39 | -47.33 | 2.89 | 574 | 28.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.94  |
+| [Pozzo 1](/_clusters/pozzo1/) | 122.39 | -47.33 | 2.89 | 574 | 28.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [Stock 12](/_clusters/stock12/) | 353.89 | 52.65 | 2.28 | 220 | 28.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.96  |
 | [Tombaugh 1](/_clusters/tombaugh1/) | 105.13 | -20.58 | 0.39 | 692 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [Trumpler 21](/_clusters/trumpler21/) | 203.06 | -62.79 | 0.74 | 131 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.9  |

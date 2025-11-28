@@ -8,7 +8,6 @@ style: style
 | Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Alessi 58](/_clusters/alessi58/) | 96.39 | 19.89 | 0.21 | 134 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
-| [COIN-Gaia 1](/_clusters/coingaia1/) | 11.82 | 66.75 | 1.55 | 153 | 18.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.12  |
 | [COIN-Gaia 23](/_clusters/coingaia23/) | 87.45 | 27.03 | 1.05 | 76 | 9.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.13  |
 | [CWNU 10](/_clusters/cwnu10/) | 95.29 | 18.84 | 1.01 | 26 | 10.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
 | [CWNU 104](/_clusters/cwnu104/) | 95.99 | 20.51 | 0.44 | 28 | 4.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.02  |
@@ -281,8 +280,8 @@ style: style
 | [FoF 386](/_clusters/fof386/) | 122.85 | -31.96 | 0.24 | 39 | 2.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.06  |
 | [FoF 458](/_clusters/fof458/) | 280.1 | -3.72 | 0.38 | 51 | 3.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.09  |
 | [GLIMPSE 20](/_clusters/glimpse20/) | 288.1 | 9.95 | 0.18 | 26 | 2.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
-| [Gulliver 27](/_clusters/gulliver27/) | 146.08 | -54.11 | 0.33 | 121 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.14  |
-| [Gulliver 46](/_clusters/gulliver46/) | 186.23 | -61.97 | 0.21 | 152 | 1.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.11  |
+| [Gulliver 27](/_clusters/gulliver27/) | 146.08 | -54.11 | 0.33 | 121 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.16  |
+| [Gulliver 46](/_clusters/gulliver46/) | 186.23 | -61.97 | 0.21 | 152 | 1.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.13  |
 | [HSC 1309](/_clusters/hsc1309/) | 81.29 | 40.93 | 0.2 | 22 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
 | [HSC 1310](/_clusters/hsc1310/) | 78.93 | 39.64 | 0.23 | 28 | 1.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
 | [HSC 1356](/_clusters/hsc1356/) | 81.86 | 34.39 | 0.46 | 37 | 3.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.08  |
@@ -429,6 +428,7 @@ style: style
 | [UBC 543](/_clusters/ubc543/) | 245.73 | -50.18 | 0.39 | 175 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.1  |
 | [UBC 544](/_clusters/ubc544/) | 249.18 | -51.29 | 1.08 | 55 | 6.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
 | [UBC 635](/_clusters/ubc635/) | 112.12 | -20.13 | 0.32 | 213 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [UBC 69](/_clusters/ubc69/) | 84.75 | 28.43 | 0.7 | 71 | 5.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
 | [UFMG 84](/_clusters/ufmg84/) | 272.19 | -21.47 | 0.65 | 84 | 6.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
 | [VVV 028](/_clusters/vvv028/) | 205.05 | -61.73 | 0.25 | 48 | 1.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
 | [XDOCC 11](/_clusters/xdocc11/) | 317.74 | 47.7 | 0.45 | 54 | 4.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |

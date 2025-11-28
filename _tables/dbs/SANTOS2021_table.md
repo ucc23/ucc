@@ -18,7 +18,7 @@ style: style
 | [CMa23](/_clusters/cma23/) | 106.71 | -12.31 | 0.61 | 72 | 9.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.42  |
 | [FOF 2216](/_clusters/fof2216/) | 106.58 | -12.81 | 0.87 | 188 | 13.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.29  |
 | [FOF 2302](/_clusters/fof2302/) | 107.26 | -7.2 | 1.14 | 149 | 15.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5  |
-| [Gulliver 13](/_clusters/gulliver13/) | 104.86 | -13.26 | 0.63 | 100 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.77  |
+| [Gulliver 13](/_clusters/gulliver13/) | 104.86 | -13.26 | 0.63 | 100 | 7.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.83  |
 | [NGC 2318](/_clusters/ngc2318/) | 104.86 | -13.83 | 0.72 | 176 | 9.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.91  |
 | [NGC 2323](/_clusters/ngc2323/) | 105.7 | -8.36 | 1.01 | 781 | 10.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0  |
 | [NGC 2335](/_clusters/ngc2335/) | 106.69 | -10.03 | 0.58 | 263 | 6.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.91  |
