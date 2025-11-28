@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 156.025 | -57.742 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |156.01 | -57.758 | 0.193 | -5.353 | 2.863 | -- | 
 cds_radec: 156.01014,-57.7575
 carousel: UCC
@@ -43,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.71 |
+    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.78 |
 ---

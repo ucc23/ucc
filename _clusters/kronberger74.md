@@ -38,6 +38,7 @@ posit_table: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 304.488 | 36.76 | -- | -- | -- | -- |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 304.442 | 36.766 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 304.515 | 36.76 | -- | -4.21 | -5.64 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |304.509 | 36.788 | 0.306 | -2.238 | -6.323 | -21.644 | 
 cds_radec: 304.50925,+36.78801
 carousel: UCC

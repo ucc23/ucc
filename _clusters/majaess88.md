@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 110.988 | -25.887 | 0.765 | -2.666 | 3.288 | 34.149 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 110.949 | -25.778 | 0.763 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 110.988 | -25.887 | 0.765 | -2.666 | 3.288 | 34.149 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |110.979 | -25.87 | 0.762 | -2.672 | 3.285 | 38.552 | 
 cds_radec: 110.9787,-25.86958
 carousel: UCC_HUNT23
@@ -50,5 +51,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1297](/_clusters/fsr1297/)| 87.9 | 110.98 | -25.88 | 0.76 | -2.7 | 3.28 | 38.56 |0.05 |
+    |[FSR 1297](/_clusters/fsr1297/)| 87.9 | 110.98 | -25.88 | 0.76 | -2.7 | 3.28 | 38.56 |0.06 |
 ---

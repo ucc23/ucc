@@ -17,12 +17,12 @@ UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.8
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Dolidze 25</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
@@ -44,6 +44,7 @@ posit_table: |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 101.194 | 0.318 | 0.198 | -0.364 | 0.256 | 57.96 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 101.218 | 0.269 | 0.205 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 101.267 | 0.228 | 0.201 | -0.328 | 0.263 | 53.822 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |101.27 | 0.237 | 0.212 | -0.354 | 0.277 | -- | 
 cds_radec: 101.26975,+0.23664
 carousel: UCC_HUNT23

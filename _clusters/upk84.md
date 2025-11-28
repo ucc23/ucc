@@ -12,17 +12,17 @@ glon: 64.04055
 glat: -13.10962
 r50: 21.8
 plx: 1.0779
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#fff4d6"
 UTI_C_N: 0.77
 UTI_C_dens: 0.86
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.58
 UTI_C_dup: 0.4
 UTI_summary: |
     <b>UPK 84</b> is a rich, dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -40,6 +40,8 @@ posit_table: |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 310.191 | 20.082 | 1.097 | -6.287 | -9.303 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 310.201 | 20.115 | 1.074 | -6.286 | -9.3 | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 310.231 | 20.191 | 1.049 | -6.293 | -9.297 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 310.255 | 20.17 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |310.224 | 20.21 | 1.078 | -6.295 | -9.294 | 24.191 | 
 cds_radec: 310.22428,+20.21012
 carousel: UCC_CANTAT20
@@ -52,6 +54,7 @@ fpars_table: |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=915, logAgeNN=9.01` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.3, logAge=9.05` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.30930, MOD=9.87981, logAge=8.97935, Z=-0.0591` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.274, Dist=871, logAge=9.073, MassRk=147.2` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

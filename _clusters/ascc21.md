@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 82.236 | 3.646 | -- | -- | -- | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 82.236 | 3.646 | -- | -- | -- | -- |
+    |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 82.179 | 3.527 | 2.866 | 1.404 | -0.632 | -- |
+    |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 82.179 | 3.527 | -- | -- | -- | 18.7 |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 82.179 | 3.527 | -- | -- | -- | -- |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 82.179 | 3.527 | 2.866 | 1.404 | -0.632 | 16.034 |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 82.26 | 3.56 | -- | 1.28 | -0.29 | 20.0 |
@@ -44,8 +46,11 @@ posit_table: |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 82.15 | 3.58 | 2.91 | 1.48 | -0.6 | 16.95 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 82.212 | 3.607 | 2.902 | 1.532 | -0.576 | 10.168 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 82.364 | 3.309 | 2.902 | -- | -- | -- |
+    |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 82.179 | 3.527 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 82.212 | 3.607 | 2.902 | 1.532 | -0.576 | 10.168 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 81.835 | 2.466 | 2.844 | 1.436 | -0.307 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 82.142 | 3.477 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |82.229 | 3.545 | 2.893 | 1.456 | -0.613 | 15.495 | 
 cds_radec: 82.22855,+3.54524
 carousel: UCC_HUNT23_CANTAT20
@@ -54,6 +59,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.03, Dist=500, logt=7.11, logM=2.746` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.03, Dist=500, logt=7.11, logM=3.042, logMA=2.93` |
+    | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=345.5` |
+    | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=345.5` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.118, Dist=7.425, logA=7.032, Fe/H=0.0` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.05, Dist=353, logAge=7.09, Z=0.018` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.18` |
@@ -62,8 +69,10 @@ fpars_table: |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.11, m-M=7.97, logt=6.95` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.138, diffAV50=0.704, MOD50=7.612, logAge50=6.839` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.59, dMod50=7.67, logAge50=6.85, [Fe/H]50=0.07` |
+    | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=8.9, Mc=45.6` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=62.7181, MassTot=73.5487` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.09963, MOD=7.65981, logAge=6.98606, Z=-0.0082` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.236, Dist=343, logAge=7.102, MassRk=105.8` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

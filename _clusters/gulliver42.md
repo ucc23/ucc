@@ -12,20 +12,20 @@ glon: 75.4485
 glat: 1.55202
 r50: 2.1
 plx: 0.1902
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d1"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Gulliver 42</b> is a rich, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.
+    <b>Gulliver 42</b> is a rich, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1
@@ -34,16 +34,21 @@ scix_url: Gulliver%2042
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 303.935 | 37.851 | 0.181 | -2.778 | -5.452 | -- |
+    |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 303.935 | 37.851 | -- | -- | -- | 0.41 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 303.935 | 37.851 | 0.181 | -2.778 | -5.452 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 303.926 | 37.845 | 0.201 | -2.692 | -5.517 | -21.001 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 303.936 | 37.847 | 0.191 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 303.926 | 37.845 | 0.201 | -2.692 | -5.517 | -21.001 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |303.934 | 37.847 | 0.19 | -2.716 | -5.496 | -27.861 | 
 cds_radec: 303.93448,+37.84742
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4763.9` |
+    | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=4763.9` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.18, diffAV50=2.163, MOD50=13.105, logAge50=8.131` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.19, dMod50=13.18, logAge50=8.24, [Fe/H]50=-0.19` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=936.048, MassTot=1060.50` |

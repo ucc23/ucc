@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 167.314 | -60.312 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 | 
 cds_radec: 167.48847,-60.31088
 carousel: UCC
@@ -43,6 +44,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.89 |
-    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.71 |
+    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.95 |
+    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.8 |
 ---

@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 27.971 | 62.722 | 0.343 | -1.098 | -0.235 | -55.51 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |27.995 | 62.704 | 0.334 | -1.094 | -0.233 | -- | 
 cds_radec: 27.99492,+62.70442
 carousel: UCC
@@ -48,6 +49,6 @@ shared_table: |
     |[CWWDL 2619](/_clusters/cwwdl2619/)| 35.1 | 28.3 | 62.77 | 0.33 | -1.0 | -0.28 | -- |0.3 |
     |[CWWDL 10632](/_clusters/cwwdl10632/)| 10.8 | 28.5 | 62.85 | 0.32 | -1.0 | -0.23 | -- |0.16 |
     |[CWWDL 10622](/_clusters/cwwdl10622/)| 4.1 | 27.98 | 63.19 | 0.33 | -1.2 | -0.19 | -- |0.08 |
-    |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.8 |
+    |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.85 |
     |[CWWDL 10645](/_clusters/cwwdl10645/)| 1.4 | 27.42 | 62.98 | 0.29 | -0.98 | -0.37 | -61.0 |0.05 |
 ---

@@ -41,6 +41,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 162.762 | -60.083 | 0.404 | -6.394 | 2.087 | 41.383 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 162.607 | -59.963 | 0.404 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 162.762 | -60.083 | 0.404 | -6.394 | 2.087 | 41.383 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |162.769 | -60.044 | 0.4 | -6.383 | 2.087 | -- | 
 cds_radec: 162.76854,-60.04446
 carousel: UCC_HUNT23
@@ -56,5 +57,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 263](/_clusters/ubc263/)| 88.0 | 162.71 | -59.99 | 0.39 | -6.39 | 2.06 | 41.45 |0.24 |
+    |[UBC 263](/_clusters/ubc263/)| 88.0 | 162.71 | -59.99 | 0.39 | -6.39 | 2.06 | 41.45 |0.3 |
 ---

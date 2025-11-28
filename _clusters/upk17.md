@@ -12,17 +12,17 @@ glon: 18.12909
 glat: -4.08716
 r50: 14.6
 plx: 1.4895
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 17</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -43,6 +43,8 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 279.794 | -14.942 | 1.48 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 279.716 | -15.042 | 1.481 | 0.96 | -7.891 | -21.111 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 279.678 | -15.019 | 1.428 | 0.912 | -7.909 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 279.749 | -15.046 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |279.745 | -15.024 | 1.49 | 0.929 | -7.933 | -23.022 | 
 cds_radec: 279.74541,-15.02414
 carousel: UCC_HUNT23_CANTAT20
@@ -58,6 +60,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.63, dMod50=9.16, logAge50=8.61, [Fe/H]50=0.35` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=321.445, MassTot=436.717` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.37917, MOD=9.31030, logAge=8.61133, Z=0.07271` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.732, Dist=657, logAge=8.394, MassRk=200.3` |
 shared_table: |
     
 ---

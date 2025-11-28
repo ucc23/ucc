@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 315.805 | 47.076 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |315.928 | 47.194 | 0.149 | -3.383 | -3.892 | -96.774 | 
 cds_radec: 315.928,+47.19374
 carousel: UCC
@@ -43,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 156](/_clusters/teutsch156/)| 84.8 | 315.95 | 47.22 | 0.18 | -3.39 | -3.85 | -82.2 |0.83 |
+    |[Teutsch 156](/_clusters/teutsch156/)| 84.8 | 315.95 | 47.22 | 0.18 | -3.39 | -3.85 | -82.2 |0.84 |
 ---

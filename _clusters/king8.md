@@ -39,15 +39,20 @@ posit_table: |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 87.329 | 33.627 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 87.327 | 33.63 | -- | 0.78 | -3.99 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 87.33 | 33.634 | -- | 0.538 | -1.423 | -1.0 |
+    |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 87.324 | 33.633 | 0.131 | 0.52 | -1.743 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 87.321 | 33.636 | -- | -- | -- | -- |
+    |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 87.324 | 33.633 | -- | -- | -- | 22.8 |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 87.327 | 33.63 | -- | 0.89 | -1.47 | -0.9 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 87.324 | 33.633 | 0.131 | 0.52 | -1.743 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 87.327 | 33.633 | 0.129 | 0.53 | -1.754 | -- |
+    |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 87.324 | 33.633 | 0.131 | 0.52 | -1.743 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 87.325 | 33.633 | 0.143 | 0.48 | -1.747 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 87.327 | 33.635 | 0.177 | 0.458 | -1.704 | 1.595 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 87.321 | 33.629 | 0.174 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 87.327 | 33.635 | 0.177 | 0.458 | -1.704 | 1.595 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 87.327 | 33.633 | -- | -- | -- | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 87.321 | 33.629 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |87.324 | 33.633 | 0.172 | 0.472 | -1.706 | -1.832 | 
 cds_radec: 87.32417,+33.63253
 carousel: UCC_HUNT23_CANTAT20
@@ -59,13 +64,17 @@ fpars_table: |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.44, Dist=3100.0, Age=9.05` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.631, distance=4500, log_age=9.005, metallicity=-0.46` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.563, Dist=6804, logt=8.603` |
+    | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=6241.1` |
+    | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=6241.1` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.16` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.38, DistPc=5517.0, AgeNN=8.92` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.899, Dist=3944, logage=8.915, [Fe/H]=0.074` |
+    | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.58, Dist=6241.1, log(Age)=8.61, NBSS=3` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=6.799` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.101, diffAV50=2.078, MOD50=13.583, logAge50=8.701` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.77, dMod50=12.86, logAge50=9.03, [Fe/H]50=0.11` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1769.50, MassTot=1769.50` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.899, Dist=3944, logAge=8.915, MassRk=868.1` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.3, MA23f=-0.48, MA23g=-0.32, MZ23=-0.48, MK24=-0.35, MF24=-0.48` |
 shared_table: |
     

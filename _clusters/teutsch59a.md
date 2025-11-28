@@ -37,6 +37,7 @@ posit_table: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 100.976 | -0.901 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 100.976 | -0.907 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 100.97 | -0.884 | 0.326 | -0.616 | 0.655 | 64.112 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |100.966 | -0.887 | 0.338 | -0.648 | 0.673 | 60.94 | 
 cds_radec: 100.96641,-0.88683
 carousel: UCC

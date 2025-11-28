@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 186.592 | -61.717 | -- | -0.94 | -0.63 | -15.7 |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 186.577 | -61.8 | -- | -9.2 | -1.94 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |186.553 | -61.865 | 0.248 | -6.791 | 0.024 | -27.751 | 
 cds_radec: 186.55328,-61.8654
 carousel: UCC
@@ -47,6 +48,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.11 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.13 |
     |[Teutsch 108](/_clusters/teutsch108/)| 9.3 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
 ---

@@ -12,17 +12,17 @@ glon: 41.76481
 glat: -30.80419
 r50: 26.7
 plx: 1.7514
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.76"
+UTI_COLOR: "#d2ecc9"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#ebf6d2"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.64
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 51</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -43,6 +43,8 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 314.161 | -6.512 | 1.733 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 314.097 | -6.718 | 1.722 | 5.141 | 1.977 | -17.512 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 314.094 | -6.693 | 1.716 | 5.125 | 1.945 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 314.156 | -6.559 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |314.122 | -6.688 | 1.751 | 5.082 | 1.941 | -16.053 | 
 cds_radec: 314.1222,-6.68772
 carousel: UCC_HUNT23_CANTAT20
@@ -58,6 +60,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.44, dMod50=8.87, logAge50=7.9, [Fe/H]50=0.05` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=40.1011, MassTot=156.863` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.06026, MOD=8.81975, logAge=7.94147, Z=-0.0318` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.167, Dist=568, logAge=8.653, MassRk=88.1` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

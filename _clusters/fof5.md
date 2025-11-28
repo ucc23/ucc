@@ -3,7 +3,7 @@ layout: post
 title: FoF 5
 style: style
 title_flag: true
-more_names: 
+more_names: LP 5
 fname: fof5
 fov: 0.333
 ra_icrs: 156.13824
@@ -12,17 +12,17 @@ glon: 292.32869
 glat: -12.74205
 r50: 10.0
 plx: 0.5183
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#c1e4c6"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.83
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>FoF 5</b> is a rich, dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
@@ -40,7 +40,9 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 156.008 | -72.5 | 0.524 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 156.323 | -72.546 | 0.525 | -6.893 | 1.485 | -22.41 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 156.06 | -72.511 | -- | -- | -- | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 156.008 | -72.5 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |156.138 | -72.526 | 0.518 | -6.883 | 1.468 | -23.217 | 
 cds_radec: 156.13824,-72.5262
 carousel: UCC_HUNT23_CANTAT20
@@ -53,6 +55,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.118, diffAV50=0.424, MOD50=11.282, logAge50=9.366` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.27, dMod50=11.32, logAge50=9.3, [Fe/H]50=0.28` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=337.232, MassTot=487.746` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.334, Dist=1781, logAge=9.41, MassRk=967.2` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.25, MA23f=-0.17, MA23g=-0.07, MZ23=-0.16, MK24=-0.15, MF24=-0.08` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

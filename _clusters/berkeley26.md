@@ -40,6 +40,7 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 102.564 | 5.736 | -- | -- | -- | -- |
     |[Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P) | 102.547 | 5.755 | -- | -- | -- | -- |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 102.573 | 5.727 | 0.179 | 0.063 | 0.422 | 66.57 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |102.573 | 5.73 | 0.171 | 0.064 | 0.406 | 70.255 | 
 cds_radec: 102.5729,+5.72956
 carousel: UCC

@@ -12,17 +12,17 @@ glon: 286.97903
 glat: -0.34405
 r50: 8.3
 plx: 0.3864
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.84"
+UTI_COLOR: "#bee2c6"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Bochum 10</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.
@@ -44,6 +44,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 160.568 | -59.159 | 0.39 | -7.433 | 3.057 | -26.356 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 160.301 | -59.059 | 0.389 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 160.568 | -59.159 | 0.39 | -7.433 | 3.057 | -26.356 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 160.504 | -59.132 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |160.472 | -59.137 | 0.386 | -7.414 | 2.999 | 7.702 | 
 cds_radec: 160.47152,-59.1372
 carousel: UCC_HUNT23
@@ -60,9 +62,10 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.174, diffAV50=2.35, MOD50=11.832, logAge50=7.257` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.26, dMod50=11.68, logAge50=7.12, [Fe/H]50=-0.05` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1108.89, MassTot=1580.34` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.175, Dist=2365, logAge=7.167, MassRk=1636.3` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0544](/_clusters/oc0544/)| 11.9 | 160.32 | -59.17 | 0.39 | -7.35 | 3.02 | -59.99 |0.0 |
-    |[UBC 653](/_clusters/ubc653/)| 7.0 | 160.12 | -58.98 | 0.39 | -7.47 | 3.03 | -59.99 |0.11 |
+    |[UBC 653](/_clusters/ubc653/)| 7.0 | 160.12 | -58.98 | 0.39 | -7.47 | 3.03 | -59.99 |0.12 |
 ---

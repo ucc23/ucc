@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 304.05 | 37.88 | -- | -5.97 | -2.77 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 304.095 | 37.867 | -- | -0.151 | -0.864 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |304.07 | 37.904 | 0.248 | -3.684 | -6.026 | -1.847 | 
 cds_radec: 304.06958,+37.90362
 carousel: UCC

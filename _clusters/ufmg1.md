@@ -12,17 +12,17 @@ glon: 325.18192
 glat: -1.68284
 r50: 6.0
 plx: 0.3742
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#bee2c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#fee8cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 1</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 4 later reported entries.
@@ -37,6 +37,8 @@ posit_table: |
     |[Ferreira et al. (2019)](https://scixplorer.org/abs/2019MNRAS.483.5508F) | 236.616 | -56.808 | -- | -1.634 | -3.22 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 236.593 | -56.792 | 0.36 | -1.63 | -3.196 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 236.587 | -56.796 | 0.375 | -1.632 | -3.207 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 236.587 | -56.796 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |236.581 | -56.797 | 0.374 | -1.668 | -3.227 | -43.977 | 
 cds_radec: 236.58111,-56.79719
 carousel: UCC_CANTAT20
@@ -46,6 +48,7 @@ fpars_table: |
     | [Ferreira et al. (2019)](https://scixplorer.org/abs/2019MNRAS.483.5508F) | `E(B-V)=0.75, Dist=1.58, logt=8.9, [Fe/H]=-0.2` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.38, DistPc=2398.0, AgeNN=8.43` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.385, Dist=1902, logage=8.412, [Fe/H]=0.003` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=2.385, Dist=1902, logAge=8.412, MassRk=1060.2` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

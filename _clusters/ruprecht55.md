@@ -12,17 +12,17 @@ glon: 250.68688
 glat: 0.80192
 r50: 5.1
 plx: 0.165
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.13
 UTI_C_C3: 0.25
-UTI_C_lit: 0.8
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Ruprecht 55</b> is a moderately populated, very loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.
@@ -44,6 +44,8 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 123.113 | -32.581 | 0.187 | -2.316 | 2.921 | 64.253 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 123.072 | -32.576 | 0.144 | -2.429 | 3.165 | -- |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 123.049 | -32.499 | 0.145 | -2.42 | 3.223 | 102.2 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 123.113 | -32.581 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |123.113 | -32.573 | 0.165 | -2.345 | 2.913 | 53.509 | 
 cds_radec: 123.11332,-32.57306
 carousel: UCC
@@ -59,6 +61,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.639, Dist=4238, logage=7.328, [Fe/H]=-0.226` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=6.821` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.55, m-M=13.5, logA=7.4` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.639, Dist=4238, logAge=7.328, MassRk=1067.3` |
 shared_table: |
     
 ---

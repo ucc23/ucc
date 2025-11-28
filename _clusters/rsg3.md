@@ -17,12 +17,12 @@ UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#fffde5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.48
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>RSG3</b> is a poorly populated, loose object of high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is well-studied in the literature.
@@ -44,6 +44,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 126.033 | -8.375 | 2.234 | -8.321 | 4.252 | 31.374 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 126.208 | -8.549 | 2.231 | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 125.922 | -8.434 | 2.207 | -8.17 | 4.073 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |126.029 | -8.405 | 2.223 | -8.364 | 4.139 | 31.222 | 
 cds_radec: 126.02888,-8.40504
 carousel: UCC_HUNT23_CANTAT20

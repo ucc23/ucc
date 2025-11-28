@@ -39,6 +39,7 @@ posit_table: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 110.895 | -23.187 | -- | -3.096 | 3.561 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 110.827 | -23.24 | 0.846 | -4.147 | 3.788 | 32.506 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 110.947 | -23.232 | 0.849 | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |110.992 | -23.247 | 0.867 | -4.062 | 3.78 | 41.908 | 
 cds_radec: 110.99178,-23.24687
 carousel: UCC_HUNT23

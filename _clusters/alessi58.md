@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 96.437 | 19.915 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 96.44 | 19.912 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |96.391 | 19.886 | 0.211 | -0.14 | -0.46 | 35.125 | 
 cds_radec: 96.39146,+19.88553
 carousel: UCC
@@ -45,6 +46,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1309](/_clusters/ubc1309/)| 85.1 | 96.34 | 19.86 | 0.22 | -0.18 | -0.46 | 35.13 |0.02 |
-    |[Bochum 1](/_clusters/bochum1/)| 82.1 | 96.34 | 19.83 | 0.21 | -0.14 | -0.49 | 24.54 |0.74 |
+    |[Bochum 1](/_clusters/bochum1/)| 82.1 | 96.34 | 19.83 | 0.21 | -0.14 | -0.49 | 24.54 |0.73 |
     |[OC 0319](/_clusters/oc0319/)| 17.9 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
 ---

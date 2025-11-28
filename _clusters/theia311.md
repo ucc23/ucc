@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 44.889 | 61.204 | 1.78 | -0.703 | -9.022 | -6.174 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 42.88 | 59.809 | 1.783 | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |44.081 | 61.342 | 1.815 | -0.778 | -8.945 | -7.39 | 
 cds_radec: 44.08149,+61.3424
 carousel: UCC_HUNT23

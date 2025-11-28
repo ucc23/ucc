@@ -38,6 +38,7 @@ posit_table: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 130.318 | -20.697 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 130.455 | -20.747 | 1.118 | -6.5 | 2.464 | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 130.342 | -22.272 | 0.932 | -6.046 | 2.418 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |130.507 | -20.723 | 1.107 | -6.471 | 2.541 | 19.418 | 
 cds_radec: 130.50708,-20.72346
 carousel: UCC_CANTAT20

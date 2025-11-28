@@ -39,6 +39,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 357.449 | 68.04 | 1.033 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 357.495 | 68.031 | 1.033 | 1.482 | 3.963 | -44.265 |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 357.449 | 68.04 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |357.454 | 68.038 | 1.032 | 1.484 | 3.979 | -44.717 | 
 cds_radec: 357.45392,+68.03791
 carousel: UCC_HUNT23
@@ -53,5 +54,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 244](/_clusters/melotte244/)| 98.1 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.73 |0.92 |
+    |[Melotte 244](/_clusters/melotte244/)| 98.1 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.73 |1.0 |
 ---

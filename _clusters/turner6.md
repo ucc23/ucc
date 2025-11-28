@@ -39,6 +39,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 164.834 | -59.544 | 0.119 | -5.999 | 2.144 | 51.905 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 164.823 | -59.555 | 0.118 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 164.834 | -59.544 | 0.119 | -5.999 | 2.144 | 51.905 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |164.833 | -59.543 | 0.126 | -6.011 | 2.12 | 51.24 | 
 cds_radec: 164.83311,-59.543
 carousel: UCC_HUNT23
@@ -53,5 +54,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 106](/_clusters/teutsch106/)| 92.0 | 164.83 | -59.55 | 0.13 | -5.99 | 2.11 | 49.35 |0.74 |
+    |[Teutsch 106](/_clusters/teutsch106/)| 92.0 | 164.83 | -59.55 | 0.13 | -5.99 | 2.11 | 49.35 |0.77 |
 ---

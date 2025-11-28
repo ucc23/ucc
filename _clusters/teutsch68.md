@@ -37,6 +37,7 @@ posit_table: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 146.093 | -54.117 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 146.087 | -54.121 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 146.088 | -54.112 | 0.333 | -4.656 | 3.442 | 16.662 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |146.084 | -54.112 | 0.331 | -4.644 | 3.445 | 17.293 | 
 cds_radec: 146.08362,-54.11246
 carousel: UCC
@@ -47,5 +48,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 27](/_clusters/gulliver27/)| 94.2 | 146.08 | -54.11 | 0.33 | -4.64 | 3.45 | 17.29 |0.14 |
+    |[Gulliver 27](/_clusters/gulliver27/)| 94.2 | 146.08 | -54.11 | 0.33 | -4.64 | 3.45 | 17.29 |0.16 |
 ---

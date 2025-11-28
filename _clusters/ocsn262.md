@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 84.69 | -2.6 | 2.48 | 1.61 | -0.56 | 28.56 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |84.697 | -2.605 | 2.498 | 1.487 | -0.596 | 28.993 | 
 cds_radec: 84.69667,-2.60472
 carousel: UCC
@@ -46,5 +47,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 205](/_clusters/ubc205/)| 98.1 | 84.71 | -2.6 | 2.5 | 1.54 | -0.57 | 29.45 |0.16 |
-    |[Sigma Orionis](/_clusters/sigmaorionis/)| 90.4 | 84.7 | -2.59 | 2.5 | 1.49 | -0.58 | 28.99 |0.8 |
+    |[Sigma Orionis](/_clusters/sigmaorionis/)| 90.4 | 84.7 | -2.59 | 2.5 | 1.49 | -0.58 | 28.99 |0.83 |
 ---

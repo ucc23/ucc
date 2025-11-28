@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 23.105 | 60.39 | 0.338 | -1.226 | -0.637 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |23.231 | 60.634 | 0.339 | -1.256 | -0.614 | -- | 
 cds_radec: 23.23115,+60.63404
 carousel: UCC
@@ -46,6 +47,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 581](/_clusters/ngc581/)| 40.0 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
-    |[Gulliver 16](/_clusters/gulliver16/)| 24.0 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.02 |
-    |[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.49 |
+    |[Gulliver 16](/_clusters/gulliver16/)| 24.0 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.38 |
+    |[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.17 |
 ---

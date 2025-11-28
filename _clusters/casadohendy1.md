@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Casado & Hendy (2023)](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 302.85 | 35.85 | 0.49 | -3.19 | -6.31 | -24.0 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |302.849 | 35.85 | 0.486 | -3.153 | -6.255 | -24.132 | 
 cds_radec: 302.84852,+35.84972
 carousel: UCC

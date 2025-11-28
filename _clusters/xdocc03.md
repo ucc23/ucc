@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 107.01 | -13.05 | 0.876 | -3.319 | 0.546 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |106.913 | -13.034 | 0.86 | -3.377 | 0.605 | 29.192 | 
 cds_radec: 106.9131,-13.03415
 carousel: UCC
@@ -47,6 +48,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FOF 2216](/_clusters/fof2216/)| 74.4 | 106.58 | -12.81 | 0.87 | -3.41 | 0.78 | 29.19 |0.29 |
-    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.74 |
+    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.84 |
     |[CMa08](/_clusters/cma08/)| 2.6 | 107.43 | -12.28 | 0.86 | -3.15 | 0.88 | 26.44 |0.5 |
 ---

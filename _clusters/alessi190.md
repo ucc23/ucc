@@ -43,6 +43,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 238.603 | -47.702 | 1.756 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 238.748 | -47.619 | 1.754 | -6.632 | -4.152 | -17.938 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 238.622 | -47.68 | 1.729 | -6.618 | -4.13 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |238.654 | -47.69 | 1.762 | -6.637 | -4.167 | -18.699 | 
 cds_radec: 238.65413,-47.68976
 carousel: UCC_HUNT23_CANTAT20

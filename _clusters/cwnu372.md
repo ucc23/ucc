@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 100.046 | -8.915 | 0.99 | -0.46 | -0.66 | 55.2 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |100.121 | -8.882 | 0.95 | -0.459 | -0.613 | 7.371 | 
 cds_radec: 100.12109,-8.88152
 carousel: UCC

@@ -40,6 +40,7 @@ posit_table: |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 81.562 | 0.9 | -- | 1.13 | -0.31 | 21.2 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 81.33 | 0.368 | 2.415 | 0.156 | 1.373 | 26.158 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 81.322 | 0.317 | 2.415 | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |81.727 | 0.85 | 2.553 | -0.181 | 1.169 | 28.189 | 
 cds_radec: 81.72668,+0.85004
 carousel: UCC_HUNT23
@@ -59,5 +60,5 @@ shared_table: |
     |[OCSN 58](/_clusters/ocsn58/)| 12.5 | 81.25 | 0.32 | 2.4 | 0.15 | 1.36 | 26.71 |0.0 |
     |[FoF 2371](/_clusters/fof2371/)| 8.8 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.02 |
     |[OCSN 56](/_clusters/ocsn56/)| 0.9 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.2 |
-    |[ASCC 16](/_clusters/ascc16/)| 0.3 | 81.23 | 1.65 | 2.87 | 1.39 | -0.09 | 18.3 |0.94 |
+    |[ASCC 16](/_clusters/ascc16/)| 0.3 | 81.23 | 1.65 | 2.87 | 1.39 | -0.09 | 18.3 |1.0 |
 ---

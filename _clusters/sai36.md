@@ -38,6 +38,7 @@ posit_table: |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 64.21 | 41.067 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 64.207 | 41.075 | -- | -3.79 | -5.59 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 64.208 | 41.061 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |64.228 | 41.091 | 0.096 | -0.229 | -0.509 | -9.677 | 
 cds_radec: 64.22822,+41.09096
 carousel: UCC

@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 157.87 | -58.034 | -- | -4.24 | 1.34 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |157.883 | -58.047 | 0.35 | -8.475 | 4.672 | 13.664 | 
 cds_radec: 157.88261,-58.04718
 carousel: UCC

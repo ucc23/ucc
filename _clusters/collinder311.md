@@ -17,12 +17,12 @@ UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Collinder 311</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
@@ -45,6 +45,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 251.023 | -47.466 | 0.361 | -0.983 | -2.292 | -14.912 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 251.021 | -47.481 | 0.361 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 251.023 | -47.466 | 0.361 | -0.983 | -2.292 | -14.912 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 251.032 | -47.458 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |251.019 | -47.472 | 0.347 | -0.971 | -2.286 | -43.355 | 
 cds_radec: 251.01943,-47.47245
 carousel: UCC_HUNT23
@@ -61,8 +63,9 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.769, diffAV50=1.101, MOD50=12.151, logAge50=7.096` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.05, dMod50=11.39, logAge50=7.5, [Fe/H]50=-0.59` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1253.96, MassTot=1353.67` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.858, Dist=2352, logAge=7.138, MassRk=1488.3` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 318](/_clusters/ubc318/)| 20.9 | 251.12 | -47.58 | 0.34 | -0.94 | -2.23 | -43.36 |0.09 |
+    |[UBC 318](/_clusters/ubc318/)| 20.9 | 251.12 | -47.58 | 0.34 | -0.94 | -2.23 | -43.36 |0.14 |
 ---

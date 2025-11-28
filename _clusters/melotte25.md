@@ -46,6 +46,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 66.709 | 16.081 | 21.232 | 104.136 | -28.732 | 39.264 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 67.113 | 17.255 | 21.259 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 66.709 | 16.081 | 21.232 | 104.136 | -28.732 | 39.264 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 67.655 | 16.842 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |67.216 | 16.761 | 21.088 | 102.245 | -27.27 | 39.475 | 
 cds_radec: 67.21565,+16.76054
 carousel: UCC_HUNT23_CANTAT20
@@ -63,6 +65,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.165, diffAV50=0.604, MOD50=3.352, logAge50=8.761` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.48, dMod50=3.44, logAge50=8.31, [Fe/H]50=-0.04` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=193.036, MassTot=408.999` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.034, Dist=47, logAge=8.922, MassRk=183.9` |
 shared_table: |
     
 ---

@@ -12,17 +12,17 @@ glon: 55.37763
 glat: 7.376
 r50: 16.4
 plx: 1.3115
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.95
 UTI_C_C3: 1.0
-UTI_C_lit: 0.8
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 65</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.
@@ -43,7 +43,9 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 286.534 | 23.34 | 1.311 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 286.525 | 23.297 | 1.317 | -1.832 | -3.667 | -17.892 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 286.491 | 23.266 | 1.281 | -1.823 | -3.649 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 286.531 | 23.357 | -- | -- | -- | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 286.534 | 23.34 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |286.455 | 23.29 | 1.312 | -1.843 | -3.625 | -16.156 | 
 cds_radec: 286.4555,+23.29033
 carousel: UCC_HUNT23_CANTAT20
@@ -59,6 +61,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.99, dMod50=9.51, logAge50=8.81, [Fe/H]50=0.4` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=94.9724, MassTot=183.646` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.79965, MOD=9.36005, logAge=8.64933, Z=0.12298` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.121, Dist=768, logAge=8.331, MassRk=104.6` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.09, MA23f=-0.14, MZ23=0.02, MK24=-0.07, MF24=-0.1` |
 shared_table: |
     

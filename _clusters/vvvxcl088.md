@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Borissova et al. (2018)](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 274.209 | -19.889 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |274.141 | -19.915 | 0.495 | 0.626 | -1.053 | -19.841 | 
 cds_radec: 274.14079,-19.91486
 carousel: UCC
@@ -44,5 +45,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 191](/_clusters/cwnu191/)| 2.3 | 274.1 | -20.18 | 0.51 | 1.13 | -0.38 | -15.74 |0.43 |
-    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.78 |
+    |[Dias 5](/_clusters/dias5/)| 0.5 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.86 |
 ---

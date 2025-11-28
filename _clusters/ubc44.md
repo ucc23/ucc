@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Castro-Ginard et al. (2019)](https://scixplorer.org/abs/2019A%26A...627A..35C) | 31.113 | 54.357 | 0.352 | -2.199 | -0.227 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 31.11 | 54.359 | 0.36 | -2.215 | -0.212 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |31.118 | 54.368 | 0.368 | -2.277 | -0.258 | -37.933 | 
 cds_radec: 31.1183,+54.36815
 carousel: UCC_CANTAT20

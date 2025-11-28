@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 80.575 | 33.797 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 80.573 | 33.783 | 0.882 | -0.397 | -3.225 | 4.462 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |80.556 | 33.77 | 0.898 | -0.346 | -3.119 | -6.338 | 
 cds_radec: 80.55557,+33.77015
 carousel: UCC
@@ -46,7 +47,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 70.1 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.18 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 70.1 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.21 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 47.8 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
-    |[HXWHB 5](/_clusters/hxwhb5/)| 22.4 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.07 |
+    |[HXWHB 5](/_clusters/hxwhb5/)| 22.4 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.05 |
 ---

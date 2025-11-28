@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 122.4 | -47.36 | 2.89 | -6.46 | 9.62 | 16.32 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |122.376 | -47.34 | 2.888 | -6.4 | 9.605 | 14.613 | 
 cds_radec: 122.37582,-47.33952
 carousel: UCC
@@ -45,7 +46,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Pozzo1](/_clusters/pozzo1/)| 87.8 | 122.39 | -47.33 | 2.89 | -6.41 | 9.61 | 15.22 |0.94 |
+    |[Pozzo 1](/_clusters/pozzo1/)| 87.8 | 122.39 | -47.33 | 2.89 | -6.41 | 9.61 | 15.22 |1.0 |
     |[CWWDL 14586](/_clusters/cwwdl14586/)| 4.4 | 121.61 | -48.0 | 2.74 | -6.0 | 9.04 | 18.68 |0.26 |
     |[CWWDL 14592](/_clusters/cwwdl14592/)| 4.3 | 123.01 | -46.3 | 2.79 | -6.35 | 9.19 | 15.12 |0.16 |
     |[CWWDL 14595](/_clusters/cwwdl14595/)| 4.3 | 122.36 | -46.77 | 2.73 | -6.23 | 9.01 | 16.28 |0.1 |

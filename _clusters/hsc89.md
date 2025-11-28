@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 255.011 | -14.592 | 0.18 | -1.631 | -4.282 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |255.031 | -14.591 | 0.188 | -1.583 | -4.234 | -12.394 | 
 cds_radec: 255.03094,-14.59081
 carousel: UCC_HUNT23

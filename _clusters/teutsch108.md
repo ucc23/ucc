@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 186.227 | -61.975 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 186.234 | -61.972 | 0.224 | -6.945 | 0.149 | -38.6 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |186.23 | -61.972 | 0.213 | -6.943 | 0.155 | -36.32 | 
 cds_radec: 186.22959,-61.97244
 carousel: UCC
@@ -46,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.11 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.13 |
     |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.26 |
 ---

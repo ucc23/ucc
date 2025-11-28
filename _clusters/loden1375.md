@@ -37,6 +37,7 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 221.075 | -63.417 | -- | -8.56 | -0.35 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 221.085 | -63.405 | -- | -6.87 | -0.08 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 220.967 | -63.375 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |221.044 | -63.385 | 0.229 | -5.032 | -4.14 | -75.676 | 
 cds_radec: 221.04397,-63.38548
 carousel: UCC

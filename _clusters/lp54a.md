@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 322.245 | 52.063 | -- | -2.906 | 0.462 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |322.265 | 52.044 | 0.275 | -3.162 | -3.075 | -87.066 | 
 cds_radec: 322.26474,+52.04363
 carousel: UCC

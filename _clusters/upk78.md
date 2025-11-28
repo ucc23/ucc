@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Sim et al. (2019)](https://scixplorer.org/abs/2019JKAS...52..145S) | 280.641 | 32.249 | -- | 0.31 | -3.52 | -- |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 279.83 | 31.63 | 2.68 | 0.35 | -3.66 | -16.95 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |280.525 | 32.35 | 2.682 | 0.283 | -3.532 | -18.299 | 
 cds_radec: 280.52493,+32.35036
 carousel: UCC

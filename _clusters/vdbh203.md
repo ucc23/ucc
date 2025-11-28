@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 253.865 | -40.831 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |253.825 | -40.926 | 0.584 | -1.907 | -3.749 | -50.18 | 
 cds_radec: 253.82521,-40.92621
 carousel: UCC
@@ -43,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 122](/_clusters/ruprecht122/)| 100.0 | 253.79 | -40.95 | 0.56 | -1.87 | -3.8 | -49.3 |0.84 |
+    |[Ruprecht 122](/_clusters/ruprecht122/)| 100.0 | 253.79 | -40.95 | 0.56 | -1.87 | -3.8 | -49.3 |0.91 |
 ---

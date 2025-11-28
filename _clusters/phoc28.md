@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Hunt & Reffert (2021)](https://scixplorer.org/abs/2021A%26A...646A.104H) | 137.953 | -52.243 | 0.301 | -4.07 | 3.891 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |137.976 | -52.236 | 0.326 | -4.08 | 3.922 | 23.664 | 
 cds_radec: 137.97644,-52.23569
 carousel: UCC
@@ -43,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 248](/_clusters/ubc248/)| 90.7 | 137.98 | -52.23 | 0.33 | -4.08 | 3.93 | 23.66 |0.69 |
+    |[UBC 248](/_clusters/ubc248/)| 90.7 | 137.98 | -52.23 | 0.33 | -4.08 | 3.93 | 23.66 |0.72 |
 ---

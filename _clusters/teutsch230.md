@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 177.315 | -62.233 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |177.321 | -62.229 | 0.234 | -7.724 | 1.357 | -15.469 | 
 cds_radec: 177.32144,-62.22947
 carousel: UCC
@@ -43,7 +44,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 116](/_clusters/sai116/)| 95.2 | 177.32 | -62.23 | 0.23 | -7.74 | 1.35 | -15.51 |0.88 |
+    |[SAI 116](/_clusters/sai116/)| 95.2 | 177.32 | -62.23 | 0.23 | -7.74 | 1.35 | -15.51 |0.96 |
     |[VVV 006](/_clusters/vvv006/)| 21.0 | 177.31 | -62.23 | 0.23 | -7.74 | 1.32 | -15.42 |0.0 |
     |[OC 0572](/_clusters/oc0572/)| 17.5 | 177.31 | -62.23 | 0.23 | -7.74 | 1.36 | -15.42 |0.0 |
 ---

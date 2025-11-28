@@ -39,6 +39,7 @@ posit_table: |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 30.75 | 62.247 | -- | -3.578 | -1.75 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 30.761 | 62.252 | -- | -- | -- | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 30.755 | 62.253 | -- | -0.39 | -0.45 | -39.5 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |30.826 | 62.259 | 0.336 | -2.049 | 0.195 | -- | 
 cds_radec: 30.82612,+62.25932
 carousel: UCC

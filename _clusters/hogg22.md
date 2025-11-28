@@ -12,17 +12,17 @@ glon: 338.55911
 glat: -1.14321
 r50: 2.6
 plx: 0.3567
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Hogg 22</b> is a poorly populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -45,6 +45,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 251.651 | -47.089 | 0.353 | -0.785 | -2.027 | -41.606 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 251.691 | -47.178 | 0.354 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 251.651 | -47.089 | 0.353 | -0.785 | -2.027 | -41.606 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 251.66 | -47.078 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |251.653 | -47.082 | 0.357 | -0.761 | -1.983 | -- | 
 cds_radec: 251.65253,-47.08233
 carousel: UCC_HUNT23
@@ -61,8 +63,9 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.072, diffAV50=0.934, MOD50=12.051, logAge50=6.889` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.14, dMod50=11.92, logAge50=7.0, [Fe/H]50=0.32` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1145.01, MassTot=1322.47` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=2.097, Dist=2354, logAge=7.076, MassRk=294.4` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 547](/_clusters/ubc547/)| 97.6 | 251.66 | -47.09 | 0.34 | -0.75 | -1.98 | -15.92 |0.23 |
+    |[UBC 547](/_clusters/ubc547/)| 97.6 | 251.66 | -47.09 | 0.34 | -0.75 | -1.98 | -15.92 |0.27 |
 ---

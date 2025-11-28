@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 132.57 | -41.716 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 132.593 | -41.72 | -- | -6.55 | 4.91 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |132.583 | -41.697 | 1.051 | -5.61 | 3.978 | 19.938 | 
 cds_radec: 132.58279,-41.69712
 carousel: UCC
@@ -47,5 +48,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 43](/_clusters/alessi43/)| 100.0 | 132.61 | -41.72 | 1.05 | -5.54 | 3.92 | 20.54 |0.92 |
+    |[Alessi 43](/_clusters/alessi43/)| 100.0 | 132.61 | -41.72 | 1.05 | -5.54 | 3.92 | 20.54 |0.98 |
 ---

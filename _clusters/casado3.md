@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | 121.159 | -31.52 | 0.83 | -4.7 | 4.8 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |121.135 | -31.516 | 0.85 | -4.815 | 4.85 | 34.697 | 
 cds_radec: 121.1348,-31.51553
 carousel: UCC

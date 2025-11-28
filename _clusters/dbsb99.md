@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 243.255 | -50.39 | -- | -7.26 | -3.47 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |243.051 | -50.269 | 0.406 | -2.672 | -2.929 | -- | 
 cds_radec: 243.0507,-50.26912
 carousel: UCC
@@ -45,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 541](/_clusters/ubc541/)| 64.7 | 243.01 | -50.2 | 0.42 | -2.69 | -2.87 | -22.35 |0.41 |
+    |[UBC 541](/_clusters/ubc541/)| 64.7 | 243.01 | -50.2 | 0.42 | -2.69 | -2.87 | -22.35 |0.45 |
     |[CWWDL 9645](/_clusters/cwwdl9645/)| 44.1 | 243.02 | -50.22 | 0.42 | -2.69 | -2.9 | -- |0.0 |
 ---

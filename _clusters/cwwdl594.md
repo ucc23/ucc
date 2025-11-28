@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 26.127 | 58.744 | 0.506 | -1.007 | -1.155 | -33.425 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |26.129 | 58.751 | 0.476 | -0.969 | -1.105 | -33.425 | 
 cds_radec: 26.12929,+58.75066
 carousel: UCC
@@ -45,7 +46,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 4](/_clusters/coingaia4/)| 96.2 | 26.13 | 58.75 | 0.47 | -0.97 | -1.1 | -56.31 |0.03 |
-    |[UBC 42](/_clusters/ubc42/)| 94.9 | 26.13 | 58.75 | 0.46 | -0.96 | -1.1 | -56.31 |0.5 |
+    |[COIN-Gaia 4](/_clusters/coingaia4/)| 96.2 | 26.13 | 58.75 | 0.47 | -0.97 | -1.1 | -56.31 |0.77 |
+    |[UBC 42](/_clusters/ubc42/)| 94.9 | 26.13 | 58.75 | 0.46 | -0.96 | -1.1 | -56.31 |0.03 |
     |[OC 0239](/_clusters/oc0239/)| 46.8 | 26.13 | 58.76 | 0.49 | -0.97 | -1.1 | -33.43 |0.0 |
 ---

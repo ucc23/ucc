@@ -12,20 +12,20 @@ glon: 61.83782
 glat: -7.5557
 r50: 13.0
 plx: 1.0705
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.4
 UTI_C_C3: 0.5
-UTI_C_lit: 0.67
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 79</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
+    <b>UPK 79</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 13.0
@@ -42,6 +42,8 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 304.002 | 21.458 | 1.07 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 303.968 | 21.572 | 1.071 | -2.129 | -5.429 | -3.746 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 303.683 | 21.572 | 0.933 | -1.575 | -4.824 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 303.951 | 21.464 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |303.988 | 21.471 | 1.071 | -2.126 | -5.417 | -4.091 | 
 cds_radec: 303.9875,+21.47085
 carousel: UCC_HUNT23_CANTAT20
@@ -56,6 +58,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.79, dMod50=9.84, logAge50=8.2, [Fe/H]50=0.07` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=62.9096, MassTot=90.4885` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.24188, MOD=9.78438, logAge=8.24348, Z=0.05744` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.518, Dist=906, logAge=8.545, MassRk=119.2` |
 shared_table: |
     
 ---

@@ -37,6 +37,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 245.066 | -44.878 | 0.764 | 0.468 | -2.252 | -59.824 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 245.07 | -45.059 | 0.766 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 245.066 | -44.878 | 0.764 | 0.468 | -2.252 | -59.824 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |245.07 | -44.886 | 0.763 | 0.46 | -2.263 | -37.705 | 
 cds_radec: 245.06972,-44.88629
 carousel: UCC_HUNT23
@@ -49,5 +50,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 16](/_clusters/ufmg16/)| 80.0 | 245.07 | -44.87 | 0.76 | 0.48 | -2.27 | -37.71 |0.35 |
+    |[UFMG 16](/_clusters/ufmg16/)| 80.0 | 245.07 | -44.87 | 0.76 | 0.48 | -2.27 | -37.71 |0.45 |
 ---

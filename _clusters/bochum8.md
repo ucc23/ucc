@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 153.042 | -58.07 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 153.045 | -58.067 | -- | -2.347 | 5.285 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |153.058 | -58.069 | 0.378 | -5.399 | 2.338 | 26.803 | 
 cds_radec: 153.05778,-58.0695
 carousel: UCC

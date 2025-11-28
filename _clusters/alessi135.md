@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 87.388 | 27.077 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |87.412 | 27.039 | 1.048 | -0.345 | -1.033 | -3.701 | 
 cds_radec: 87.41182,+27.03902
 carousel: UCC
@@ -44,6 +45,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.13 |
-    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.52 |
+    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.62 |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
 ---

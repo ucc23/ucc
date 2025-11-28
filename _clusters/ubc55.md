@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 66.364 | 46.122 | 1.079 | -1.067 | -2.604 | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 66.373 | 46.128 | 1.075 | -1.068 | -2.615 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |66.347 | 46.124 | 1.105 | -1.073 | -2.614 | -11.574 | 
 cds_radec: 66.34694,+46.1236
 carousel: UCC_CANTAT20
@@ -47,5 +48,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0686](/_clusters/fsr0686/)| 100.0 | 66.37 | 46.13 | 1.1 | -1.09 | -2.61 | -13.09 |0.8 |
+    |[FSR 0686](/_clusters/fsr0686/)| 100.0 | 66.37 | 46.13 | 1.1 | -1.09 | -2.61 | -13.09 |0.83 |
 ---

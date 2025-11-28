@@ -12,17 +12,17 @@ glon: 126.02404
 glat: -4.92448
 r50: 6.9
 plx: 0.3354
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#f2f9d6"
 UTI_C_dens_COL: "#fff2d5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 0.39
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 85</b> is a moderately populated, loose object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -40,6 +40,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 18.585 | 57.799 | 0.337 | -3.633 | -0.658 | -55.625 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 18.935 | 57.795 | 0.344 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 18.585 | 57.799 | 0.337 | -3.633 | -0.658 | -55.625 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 18.684 | 57.848 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |18.65 | 57.802 | 0.335 | -3.65 | -0.658 | -42.362 | 
 cds_radec: 18.64953,+57.80231
 carousel: UCC_HUNT23_CANTAT20
@@ -51,6 +53,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.217, diffAV50=0.517, MOD50=12.024, logAge50=8.064` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.54, dMod50=12.14, logAge50=8.14, [Fe/H]50=0.11` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=141.802, MassTot=358.286` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.488, Dist=2250, logAge=8.23, MassRk=230.2` |
 shared_table: |
     
 ---

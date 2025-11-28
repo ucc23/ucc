@@ -12,17 +12,17 @@ glon: 119.45318
 glat: -0.91382
 r50: 5.3
 plx: 0.3467
-UTI: "0.76"
-UTI_COLOR: "#d2ecc9"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#b7dfc4"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 0.87
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Mayer 1</b> is a moderately populated, dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -38,11 +38,15 @@ posit_table: |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 5.469 | 61.741 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 5.514 | 61.741 | -- | -3.87 | -3.27 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 5.475 | 61.75 | -- | -2.412 | -3.28 | -20.9 |
+    |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 5.502 | 61.751 | 0.353 | -3.341 | -1.426 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 5.502 | 61.751 | 0.353 | -3.341 | -1.426 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 5.519 | 61.761 | 0.354 | -3.398 | -1.487 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 5.487 | 61.75 | 0.346 | -3.466 | -1.469 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 5.524 | 61.769 | 0.349 | -- | -- | -- |
+    |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 5.475 | 61.759 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 5.487 | 61.75 | 0.346 | -3.466 | -1.469 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 5.519 | 61.761 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |5.498 | 61.76 | 0.347 | -3.459 | -1.481 | -10.431 | 
 cds_radec: 5.49797,+61.76023
 carousel: UCC_HUNT23_CANTAT20
@@ -53,11 +57,14 @@ fpars_table: |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.4, Dist=1429, logt=7.74, logMA=3.15` |
     | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=1430, log_age=7.74` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.439, Dist=3360, logt=7.84` |
+    | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2615.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.29, DistPc=2618.0, AgeNN=7.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.584, Dist=2380, logage=7.137, [Fe/H]=0.012` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.659, diffAV50=2.125, MOD50=12.19, logAge50=7.343` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.55, dMod50=12.09, logAge50=7.19, [Fe/H]50=0.43` |
+    | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=28.8, Mc=230.3` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=500.448, MassTot=505.108` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.584, Dist=2380, logAge=7.137, MassRk=140.2` |
 shared_table: |
     
 ---

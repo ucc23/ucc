@@ -12,17 +12,17 @@ glon: 207.00878
 glat: -1.07407
 r50: 6.8
 plx: 0.6138
-UTI: "0.71"
-UTI_COLOR: "#def1cb"
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Collinder 104</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
@@ -41,6 +41,8 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 99.187 | 4.71 | 0.62 | -1.391 | 0.651 | 30.638 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 99.288 | 4.838 | 0.62 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 99.187 | 4.71 | 0.62 | -1.391 | 0.651 | 30.638 |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 99.157 | 4.816 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |99.187 | 4.79 | 0.614 | -1.418 | 0.602 | 36.18 | 
 cds_radec: 99.18704,+4.78965
 carousel: UCC_HUNT23
@@ -54,9 +56,10 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.353, diffAV50=2.091, MOD50=10.899, logAge50=7.161` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.79, dMod50=10.8, logAge50=7.29, [Fe/H]50=-0.48` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=306.865, MassTot=344.671` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=2.104, Dist=1599, logAge=7.197, MassRk=378.2` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14136](/_clusters/cwwdl14136/)| 24.0 | 99.16 | 4.85 | 0.64 | -1.43 | 0.63 | -- |0.04 |
-    |[Collinder 107](/_clusters/collinder107/)| 20.0 | 99.25 | 4.9 | 0.61 | -1.36 | 0.65 | -- |0.37 |
+    |[Collinder 107](/_clusters/collinder107/)| 20.0 | 99.25 | 4.9 | 0.61 | -1.36 | 0.65 | -- |0.45 |
 ---

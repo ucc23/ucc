@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 81.215 | 37.566 | 0.896 | 0.301 | -4.312 | 4.217 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 81.216 | 37.547 | 0.895 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 81.215 | 37.566 | 0.896 | 0.301 | -4.312 | 4.217 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |81.227 | 37.576 | 0.9 | 0.28 | -4.309 | 14.411 | 
 cds_radec: 81.2273,+37.57559
 carousel: UCC_HUNT23
@@ -50,6 +51,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.9 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.04 |
-    |[UBC 89](/_clusters/ubc89/)| 96.8 | 81.23 | 37.57 | 0.9 | 0.29 | -4.3 | 14.41 |0.04 |
+    |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.9 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.07 |
+    |[UBC 89](/_clusters/ubc89/)| 96.8 | 81.23 | 37.57 | 0.9 | 0.29 | -4.3 | 14.41 |0.01 |
 ---

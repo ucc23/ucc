@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 297.954 | 22.103 | 0.606 | -0.812 | -2.345 | -0.13 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |297.956 | 22.106 | 0.6 | -0.808 | -2.325 | 7.99 | 
 cds_radec: 297.95646,+22.10598
 carousel: UCC
@@ -45,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2123](/_clusters/fof2123/)| 100.0 | 297.95 | 22.11 | 0.6 | -0.81 | -2.33 | 7.99 |0.68 |
+    |[FoF 2123](/_clusters/fof2123/)| 100.0 | 297.95 | 22.11 | 0.6 | -0.81 | -2.33 | 7.99 |0.72 |
     |[UBC 128](/_clusters/ubc128/)| 100.0 | 297.95 | 22.11 | 0.6 | -0.81 | -2.33 | 8.31 |0.06 |
 ---

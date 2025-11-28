@@ -12,17 +12,17 @@ glon: 192.36189
 glat: 3.404
 r50: 7.2
 plx: 0.2088
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c9e8c8"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 0.52
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Bochum 1</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
@@ -44,6 +44,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 96.257 | 19.846 | 0.209 | -0.104 | -0.506 | 22.607 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 96.365 | 19.833 | 0.209 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 96.257 | 19.846 | 0.209 | -0.104 | -0.506 | 22.607 |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |96.338 | 19.834 | 0.209 | -0.138 | -0.492 | 24.544 | 
 cds_radec: 96.33839,+19.83377
 carousel: UCC_HUNT23

@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 36.633 | 61.992 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |36.645 | 62.001 | 0.478 | -0.696 | -0.119 | -27.121 | 
 cds_radec: 36.6453,+62.00101
 carousel: UCC
@@ -43,7 +44,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MWSC0 192](/_clusters/mwsc0192/)| 87.4 | 36.65 | 62.0 | 0.48 | -0.69 | -0.14 | -24.58 |0.03 |
+    |[MWSC 192](/_clusters/mwsc192/)| 87.4 | 36.65 | 62.0 | 0.48 | -0.69 | -0.14 | -24.58 |0.03 |
     |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 81.1 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.01 |
     |[CWNU 3691](/_clusters/cwnu3691/)| 47.7 | 36.65 | 62.0 | 0.47 | -0.69 | -0.06 | -21.84 |0.02 |
 ---

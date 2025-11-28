@@ -12,20 +12,20 @@ glon: 125.68938
 glat: 7.88296
 r50: 11.1
 plx: 1.3684
-UTI: "0.02"
-UTI_COLOR: "#e3a9b3"
+UTI: "0.88"
+UTI_COLOR: "#b4ddc3"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
-UTI_C_dup_COL: "#e4aab3"
+UTI_C_lit_COL: "#c4e5c7"
+UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
-UTI_C_dup: 0.03
+UTI_C_lit: 0.82
+UTI_C_dup: 1.0
 UTI_summary: |
-    <b>COIN-Gaia 30</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>COIN-Gaia 30</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 11.1
@@ -34,6 +34,7 @@ scix_url: COIN-Gaia%2030
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 21.08 | 70.574 | 1.35 | -6.14 | 2.11 | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 20.928 | 70.566 | 1.34 | -6.187 | 2.037 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 21.08 | 70.574 | 1.346 | -6.145 | 2.067 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 21.051 | 70.566 | 1.334 | -6.156 | 2.097 | -25.864 |
@@ -43,12 +44,15 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 21.033 | 70.567 | 1.371 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 21.171 | 70.575 | 1.371 | -6.149 | 2.019 | -19.698 |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 21.117 | 70.568 | 1.339 | -6.174 | 2.023 | -- |
+    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 21.051 | 70.566 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |21.106 | 70.574 | 1.368 | -6.154 | 2.017 | -21.472 | 
 cds_radec: 21.1062,+70.57444
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=727` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.079, Z=0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.25, DistPc=767.0, AgeNN=8.41` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.42, Dist=723, logage=8.77, [Fe/H]=0.008` |
@@ -58,8 +62,9 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.85, dMod50=9.46, logAge50=7.83, [Fe/H]50=0.02` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=406.431, MassTot=490.057` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.24954, MOD=9.41977, logAge=8.35054, Z=0.00824` |
+    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.42, Dist=723, logAge=8.77, MassRk=228.9` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 37](/_clusters/ubc37/)| 97.2 | 21.11 | 70.57 | 1.37 | -6.16 | 2.02 | -20.77 |0.55 |
+    |[UBC 37](/_clusters/ubc37/)| 97.2 | 21.11 | 70.57 | 1.37 | -6.16 | 2.02 | -20.77 |0.03 |
 ---

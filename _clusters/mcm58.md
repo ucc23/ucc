@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Mercer et al. (2005)](https://scixplorer.org/abs/2005ApJ...635..560M) | 225.83 | -58.602 | -- | -- | -- | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |226.096 | -58.535 | 0.346 | -5.059 | -3.398 | -2.928 | 
 cds_radec: 226.09581,-58.53526
 carousel: UCC
@@ -43,6 +44,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 265](/_clusters/fof265/)| 56.0 | 226.18 | -58.49 | 0.3 | -4.94 | -3.48 | -62.07 |0.49 |
+    |[FoF 265](/_clusters/fof265/)| 56.0 | 226.18 | -58.49 | 0.3 | -4.94 | -3.48 | -62.07 |0.59 |
     |[HSC 2679](/_clusters/hsc2679/)| 24.0 | 226.18 | -58.49 | 0.29 | -5.0 | -3.47 | -62.78 |0.0 |
 ---

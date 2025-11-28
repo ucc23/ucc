@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Chi et al. (2023)](https://scixplorer.org/abs/2023RAA....23f5008C) | 304.23 | 46.964 | 2.903 | 3.468 | 1.766 | -- |
+    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |304.163 | 46.647 | 2.921 | 3.512 | 1.723 | -7.452 | 
 cds_radec: 304.1635,+46.64744
 carousel: UCC
@@ -45,7 +46,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.83 |
+    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.89 |
     |[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.52 |
     |[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
     |[Theia 96](/_clusters/theia96/)| 23.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.0 |
