@@ -157,7 +157,7 @@ Removed `[, ]` characters from names.
 
 Removed:
 
-- `FSR_1716` identified as a GC
+- `FSR_1716, FSR_1758` identified as a GC
 - `FSR_808, FSR_837, FSR_765`, identified in the UCC as the same entries as
   `FSR_805, FSR_835, FSR_764`
 
@@ -321,8 +321,7 @@ Added VDBH to the BH entries.
 
 ## Kharchenko et al. 2012
 
-[Global survey of star clusters in the Milky Way. I. The
-pipeline and fundamental parameters in the second quadrant](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K)
+[Global survey of star clusters in the Milky Way. I. The pipeline and fundamental parameters in the second quadrant](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K)
 
 Retrieved the data from the [HEASARC](https://heasarc.gsfc.nasa.gov/W3Browse/all/mwsc.html) service selecting all clusters with
 `class` equal to `OPEN STAR CLUSTER`, resulting in 2858 entries.
@@ -401,6 +400,7 @@ clusters so that the naming isn't lost)
 - Teusch61 --> Teutsch61
 - AlessiJ2327+55 --> Alessi J2327.0+55
 - Sigma_Ori --> Sigma_Orionis
+- MWSC0 192 --> MWSC 192
 
 Removed entries pointing to a GC:
 
@@ -432,12 +432,45 @@ The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` val
 The inverted parallaxes differ substantially from the distance values.
 
 
+## Cantat-Gaudin et al. 2018
+
+[A Gaia DR2 view of the open cluster population in the Milky Way](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..93C)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/618/A93) table 1 shows 1229 entries.
+
+Removed `FSR_1716, FSR_1758, BH_140` identified as GCs.
+Removed `Harvard_5`, it's a duplicate of `Collinder_258`
+
+Renamed:
+
+- vdBergh_XX --> VDB_XX
+- BH_XX      --> VDBH_XX
+
+
 ## Castro-Ginard et al. 2018
 
 [A new method for unveiling open clusters in Gaia. New nearby open clusters confirmed
 by DR2](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..59C/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/618/A59) table contains 23 entries. No changes required.
+
+
+
+## Soubiran et al. 2018
+
+[Open cluster kinematics with Gaia DR2](https://ui.adsabs.harvard.edu/abs/2018A%26A...619A.155S)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/619/A155) table contains 861 rows
+
+Naming added:
+
+- BH_XX      --> VDBH_XX
+- vdBergh_XX --> VDB_XX
+
+Removed as GCs:
+
+- FSR_1716
+- VDBH_140, BH_140
 
 
 ## Angelo et al. 2019
@@ -541,6 +574,14 @@ Duplicates that were combined using their average values:
 Renamed:
 - `ngc0188, ngc0752, ngc0381, ngc0225, ngc0581`, to
 - `ngc188, ngc752, ngc381, ngc225, ngc581` (removed leading zeroes)
+
+
+## Cantat-Gaudin et al. 2019
+
+[Gaia DR2 unravels incompleteness of nearby cluster population: new open clusters in the direction of Perseus](https://ui.adsabs.harvard.edu/abs/2019A%26A...624A.126C/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/624/A126) table contains 46 entries. No changes required.
+
 
 
 ## Castro-Ginard et al. 2019
@@ -756,6 +797,18 @@ Changes to names:
 Removed entries pointing to a GC:
 
 - Berkeley 42 --> NGC 6749
+
+
+## Rain et al 2021
+
+[A new, Gaia-based, catalogue of blue straggler stars in open clusters](https://ui.adsabs.harvard.edu/abs/2021A%26A...650A..67R/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/650/A67/clusters) table contains 408 entries.
+
+Added 'Markarian' to 'mrk 18, mrk 50'. Added 'Collinder_205' to 'mrk 18' to be
+identified as a duplicate (as is in the UCC).
+
+Renamed 'Coin' to 'Coin-Gaia'.
 
 
 
@@ -974,6 +1027,7 @@ Fixes:
 * Teutsch_J1209.3+6120 --> Teutsch_J1209.3-6120
 
 
+
 ## Li & Mao 2023
 
 [LISC Catalog of Star Clusters. II. High Galactic Latitude Open
@@ -1039,6 +1093,7 @@ Changes to `Cluster` column:
 
 - Replaced `_` with empty spaces
 - Changed `vdbergh` for `VDB`
+- Added `VDBH` to  `BH`
 
 Fixed names:
 
@@ -1127,6 +1182,18 @@ contains the correct coordinates and matches the fundamental parameter values li
 in other DBs.
 
 
+## Celli et al 2024
+
+[Mass and wind luminosity of young Galactic open clusters in Gaia DR2](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.118C/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/686/A118) table lists 387 entries
+
+Added VDBH to the BH entries, added VDB to the vdBergh entries.
+
+Added 'FoF_403' to 'LP_403'.
+
+
+
 ## Hunt et al. 2024
 
 [Improving the open cluster census. III. Using cluster masses, radii, and dynamics to
@@ -1158,6 +1225,27 @@ Renamed:
 - RSG_4 --> RSG_4,TRSG_4
 
 Finally, 46 new entries are added by this database.
+
+
+## Almeida et al 2025
+
+[Open cluster dissolution rate and the initial cluster mass function in the solar neighbourhood: Modelling the age and mass distributions of clusters observed by Gaia](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A.305A/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/693/A305) table lists 1724 entries.
+
+Added naming:
+
+- BH to VDBH
+- vdBergh to VDB
+- FoF to LP (removing a leading 0 to 28 entries)
+- NGC 1976 to Trapezium-FG
+
+Removed duplicated:
+
+- Fof 866 is listed as LP_866 and LP_0866. I removed LP_0866 because it has a Mflag=2
+- Collinder_258 & Harvard_5 are the same entry in the UCC. Removed Harvard_5 since
+  Collinder_258 is a gold sample entry.
+
 
 
 ## Hu & Soubiran 2025

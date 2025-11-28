@@ -6,7 +6,7 @@ style: style
 
 <html lang="en">
     <body>
-        <details>
+        <details data-umami-event="search_map">
             <summary>Map</summary>
             <div class="content" id="search_map">
                 <div id="map_plot"></div>
