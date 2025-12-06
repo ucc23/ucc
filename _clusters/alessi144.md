@@ -12,17 +12,17 @@ glon: 212.29184
 glat: 11.27136
 r50: 15.3
 plx: 1.1795
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.29"
+UTI_COLOR: "#fee0c7"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#feeace"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.34
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Alessi 144</b> is a sparse, loose object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 112.592 | 5.717 | 1.154 | -2.653 | -1.497 | 19.145 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 112.646 | 5.666 | 1.159 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 112.592 | 5.717 | 1.154 | -2.653 | -1.497 | 19.145 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 112.592 | 5.717 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |112.615 | 5.642 | 1.179 | -2.667 | -1.563 | 10.814 | 
 cds_radec: 112.61461,+5.64218
@@ -48,6 +49,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.081, diffAV50=0.346, MOD50=9.549, logAge50=8.107` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.24, dMod50=9.7, logAge50=7.87, [Fe/H]50=0.28` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=84.1999, MassTot=116.095` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2096, [Fe/H]MCMC=-0.1374` |
 shared_table: |
     
 ---

@@ -12,17 +12,17 @@ glon: 272.58455
 glat: -6.29943
 r50: 11.6
 plx: 0.7771
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fffce3"
 UTI_C_dens_COL: "#ffffe8"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.47
 UTI_C_dens: 0.5
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 89</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.

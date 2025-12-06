@@ -12,17 +12,17 @@ glon: 136.3083
 glat: -3.6753
 r50: 23.1
 plx: 1.409
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fbcebe"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.21
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 862</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 37.4 | 56.746 | 1.395 | 0.227 | -3.708 | -26.477 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 38.353 | 56.367 | 1.394 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 37.4 | 56.746 | 1.395 | 0.227 | -3.708 | -26.477 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 37.4 | 56.746 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |37.578 | 56.614 | 1.409 | 0.184 | -3.647 | -27.934 | 
 cds_radec: 37.57772,+56.61359
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.079, diffAV50=2.407, MOD50=9.162, logAge50=8.412` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.35, dMod50=9.36, logAge50=8.5, [Fe/H]50=0.22` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=70.3428, MassTot=326.671` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.0794, [Fe/H]MCMC=-0.0433` |
 shared_table: |
     
 ---

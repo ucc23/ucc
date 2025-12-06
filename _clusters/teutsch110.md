@@ -12,17 +12,17 @@ glon: 306.75514
 glat: -1.49203
 r50: 0.9
 plx: 0.1475
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 110</b> is a moderately populated, very dense object of very high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

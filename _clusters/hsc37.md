@@ -12,17 +12,17 @@ glon: 2.87928
 glat: 3.94614
 r50: 1.9
 plx: 0.0998
-UTI: "0.35"
-UTI_COLOR: "#feebcf"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fbccbd"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.2
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HSC 37</b> is a poorly populated, very loose object of high C3 quality. It is located at a very large distance from the Sun, well above the mid-plane. It was recently reported in the literature.

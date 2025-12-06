@@ -12,20 +12,20 @@ glon: 316.49876
 glat: 2.21394
 r50: 7.2
 plx: 0.646
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UFMG 39</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>UFMG 39</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.2

@@ -12,17 +12,17 @@ glon: 91.30998
 glat: 8.07225
 r50: 22.9
 plx: 1.222
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.06"
+UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fbccbd"
 UTI_C_N: 0.44
 UTI_C_dens: 0.3
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.2
 UTI_summary: |
     <b>Theia 199</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

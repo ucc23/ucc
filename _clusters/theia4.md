@@ -12,17 +12,17 @@ glon: 110.43465
 glat: 2.92814
 r50: 12.2
 plx: 1.1626
-UTI: "0.57"
-UTI_COLOR: "#f6fbdc"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#abd4be"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.94
 UTI_summary: |
     <b>Theia 4</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.
@@ -50,5 +50,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.32 |
+    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.38 |
 ---

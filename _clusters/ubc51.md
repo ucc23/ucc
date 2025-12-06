@@ -12,20 +12,20 @@ glon: 149.25434
 glat: -0.49909
 r50: 10.3
 plx: 0.9098
-UTI: "0.80"
-UTI_COLOR: "#c9e8c8"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 51</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>UBC 51</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.3
@@ -42,6 +42,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 59.614 | 52.509 | 0.92 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 59.668 | 52.559 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 59.769 | 52.642 | 0.926 | -0.258 | -1.354 | -8.154 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 59.769 | 52.642 | -- | -- | -- | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 59.689 | 52.55 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |59.648 | 52.523 | 0.91 | -0.28 | -1.318 | -10.009 | 
@@ -57,6 +58,7 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.4, dMod50=10.1, logAge50=6.69, [Fe/H]50=-0.2` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=10.0, Mc=193.2` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=333.609, MassTot=341.800` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1909, [Fe/H]MCMC=-0.1733` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=1.387, Dist=1111, logAge=7.012, MassRk=210.9` |
 shared_table: |
     

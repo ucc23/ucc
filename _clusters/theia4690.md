@@ -17,12 +17,12 @@ UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.31
 UTI_C_dens: 0.53
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.03
 UTI_summary: |
     <b>Theia 4690</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

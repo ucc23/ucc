@@ -3,7 +3,7 @@ layout: post
 title: Melotte 106
 style: style
 title_flag: true
-more_names: Collinder 247; NGC 3680; OCL 823; ESO 265 32; FSR 1548; MWSC 1942; FoF 2260
+more_names: Collinder 247; NGC 3680; MWSC 1942; OCL 823; ESO 265 32; FSR 1548; FoF 2260
 fname: melotte106
 fov: 0.267
 ra_icrs: 171.39542
@@ -36,9 +36,13 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 171.408 | -43.243 | -- | -5.42 | 2.29 | 1.28 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 171.436 | -43.26 | -- | -5.3 | 0.46 | 0.9 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 171.42 | -43.24 | -- | -5.1 | 1.41 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 171.4 | -43.24 | -- | -5.38 | 1.54 | -- |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 171.392 | -43.237 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 171.4 | -43.24 | -- | 0.21 | -- | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 171.392 | -43.237 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 171.405 | -43.235 | -- | -5.21 | 0.77 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 171.405 | -43.235 | -- | -5.21 | 0.77 | 2.4 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 171.397 | -43.231 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 171.405 | -43.243 | -- | -5.42 | 2.29 | 2.4 |
     |[Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | 171.417 | -43.236 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 171.392 | -43.24 | 0.933 | -7.278 | 1.118 | -- |
@@ -51,6 +55,7 @@ posit_table: |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 171.387 | -43.228 | 0.954 | -7.284 | 1.158 | -- |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 171.364 | -43.225 | 0.957 | -7.251 | 1.246 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 171.405 | -43.231 | 0.946 | -7.253 | 1.223 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 171.397 | -43.231 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 171.405 | -43.228 | 0.94 | -7.258 | 1.223 | 1.985 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 171.36 | -43.251 | 0.944 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 171.405 | -43.228 | 0.94 | -7.258 | 1.223 | 1.985 |
@@ -65,9 +70,12 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.066, Dist=938.0, Age=9.077, [Fe/H]=-0.19` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.066, HDis=938, Age=1.19, [Fe/H]_1=-0.09, [Fe/H]_2=-0.06` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.07, Dist=938` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.07, Dist=934, logt=9.09` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.07, Dist=934, logt=9.09, logM=1.702` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.07, Dist=934, logt=9.09, logM=2.124, logMA=2.04` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=946, log_age=9.2, metallicity=-0.167` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.062, d=946.0, logt=9.2, [Fe/H]=-0.167` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.062, d=946.0, logt=9.2` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.067, Dist=934, logt=9.117` |
     | [Angelo et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A...8A) | `dsun=0.95, Age=1.58, Mphot=102` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1039.5` |
@@ -79,6 +87,7 @@ fpars_table: |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=1.039` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1045, logAgeNN=9.33` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.25, logAge=9.25` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.2, logmt=1.693` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.103, diffAV50=0.181, MOD50=10.001, logAge50=9.174` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.36, dMod50=10.06, logAge50=9.19, [Fe/H]50=0.16` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=169.912, MassTot=204.678` |

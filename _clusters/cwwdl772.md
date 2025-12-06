@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 782](/_clusters/fof782/)| 37.3 | 153.98 | -59.03 | 0.28 | -7.2 | 3.93 | 8.24 |0.51 |
-    |[HSC 2330](/_clusters/hsc2330/)| 20.9 | 153.98 | -59.03 | 0.28 | -7.28 | 3.95 | 8.24 |0.26 |
+    |[FoF 782](/_clusters/fof782/)| 37.3 | 153.98 | -59.03 | 0.28 | -7.2 | 3.93 | 8.24 |0.41 |
+    |[HSC 2330](/_clusters/hsc2330/)| 20.9 | 153.98 | -59.03 | 0.28 | -7.28 | 3.95 | 8.24 |0.21 |
 ---

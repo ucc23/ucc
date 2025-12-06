@@ -3,7 +3,7 @@ layout: post
 title: DBSB 68
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1946
 fname: dbsb68
 fov: 0.137
 ra_icrs: 172.14326
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>DBSB 68</b> is a sparse, loose object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a significant percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>DBSB 68</b> is a sparse, loose object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.1
@@ -34,7 +34,9 @@ scix_url: DBSB%2068
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 172.218 | -63.105 | -- | -9.49 | 5.23 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 172.218 | -63.105 | -- | -9.49 | 5.23 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 172.209 | -63.101 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 172.209 | -63.101 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |172.143 | -63.029 | 0.397 | -6.336 | 1.224 | -13.4 | 
 cds_radec: 172.14326,-63.02875
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.625, distance=1777, log_age=8.525` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.625, d=1777.0, logt=8.525` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.625, d=1777.0, logt=8.525` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.525, logmt=1.567` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

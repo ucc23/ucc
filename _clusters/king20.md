@@ -3,7 +3,7 @@ layout: post
 title: King 20
 style: style
 title_flag: true
-more_names: OCL 262; MWSC 3739; FSR 0434; FoF 2071
+more_names: MWSC 3739; OCL 262; FSR 0434; FoF 2071
 fname: king20
 fov: 0.137
 ra_icrs: 353.31694
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 353.312 | 58.467 | -- | -1.24 | -0.15 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 353.325 | 58.463 | -- | -1.73 | 5.32 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 353.325 | 58.463 | -- | -1.73 | 5.32 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 353.318 | 58.459 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 353.31 | 58.467 | -- | -1.188 | 3.654 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 353.305 | 58.469 | 0.496 | -2.686 | -2.585 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 353.307 | 58.471 | -- | -- | -- | -- |
@@ -44,6 +46,7 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 353.305 | 58.469 | 0.496 | -2.686 | -2.585 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 353.305 | 58.473 | 0.501 | -2.679 | -2.592 | -- |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 353.305 | 58.469 | 0.496 | -2.686 | -2.585 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 353.318 | 58.459 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 353.305 | 58.467 | 0.499 | -2.668 | -2.647 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 353.305 | 58.468 | 0.504 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 353.305 | 58.467 | 0.499 | -2.668 | -2.647 | -- |
@@ -56,7 +59,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.65, Dist=1900.0, Age=8.3` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.7, distance=1850, log_age=8.648` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.7, d=1850.0, logt=8.648` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.7, d=1850.0, logt=8.648` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.7, d=1850.0, logt=8.648` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.561, Dist=1484, logt=8.32` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1903.8` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=2.067, Dist=11.478, logA=8.543, Fe/H=0.0` |
@@ -64,6 +69,7 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.06, DistPc=1949.0, AgeNN=8.41` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.507, Dist=1663, logage=7.731, [Fe/H]=0.157` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.65, Dist=1903.8, log(Age)=8.3, NBSS=0` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.648, logmt=1.998` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.526, diffAV50=0.997, MOD50=11.321, logAge50=7.865` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.63, dMod50=11.56, logAge50=8.07, [Fe/H]50=0.54` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=855.262, MassTot=855.262` |

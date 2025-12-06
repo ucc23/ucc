@@ -49,5 +49,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14391](/_clusters/cwwdl14391/)| 100.0 | 255.6 | -42.88 | 0.93 | 0.49 | -2.45 | 5.05 |0.12 |
-    |[Theia 2341](/_clusters/theia2341/)| 100.0 | 255.6 | -42.89 | 0.93 | 0.49 | -2.45 | 5.05 |0.04 |
+    |[Theia 2341](/_clusters/theia2341/)| 100.0 | 255.6 | -42.89 | 0.93 | 0.49 | -2.45 | 5.05 |0.03 |
 ---

@@ -12,17 +12,17 @@ glon: 73.88446
 glat: -2.16709
 r50: 5.1
 plx: 0.5432
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#fffde5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 468</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.

@@ -12,17 +12,17 @@ glon: 66.96327
 glat: -1.24623
 r50: 3.6
 plx: 0.4232
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Roslund 4</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 301.225 | 29.217 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 301.225 | 29.217 | -- | -2.9 | -4.91 | -15.7 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 301.23 | 29.22 | -- | 0.04 | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 301.23 | 29.217 | -- | -5.016 | -5.668 | -15.7 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 301.199 | 29.196 | 0.423 | -2.166 | -5.057 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 301.199 | 29.196 | 0.423 | -2.166 | -5.057 | -- |

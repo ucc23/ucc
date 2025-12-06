@@ -12,17 +12,17 @@ glon: 256.5994
 glat: 2.36363
 r50: 9.2
 plx: 1.0665
-UTI: "0.56"
-UTI_COLOR: "#f7fcde"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 102</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.

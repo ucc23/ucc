@@ -12,17 +12,17 @@ glon: 121.0776
 glat: 0.19624
 r50: 6.1
 plx: 0.3451
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.18"
+UTI_COLOR: "#f9c8bb"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e2f2cc"
 UTI_C_N: 0.32
 UTI_C_dens: 0.24
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.69
 UTI_summary: |
     <b>Theia 3716</b> is a poorly populated, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

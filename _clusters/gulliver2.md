@@ -12,17 +12,17 @@ glon: 254.62212
 glat: -1.98682
 r50: 4.4
 plx: 0.7247
-UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 2</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 122.883 | -37.404 | 0.696 | -4.951 | 4.576 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 122.883 | -37.404 | -- | -- | -- | 2.382 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 122.883 | -37.404 | 0.696 | -4.951 | 4.576 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 122.874 | -37.421 | 0.703 | -4.969 | 4.549 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 122.895 | -37.393 | 0.714 | -4.886 | 4.626 | 8.096 |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1379.2` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.329, Dist=1.534, logAge=6.863, Z=0.013` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.51, DistPc=1375.0, AgeNN=6.82` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.034, Dist=1357, logage=6.969, [Fe/H]=-0.038` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.946, diffAV50=1.667, MOD50=10.611, logAge50=6.712` |

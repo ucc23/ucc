@@ -17,12 +17,12 @@ UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#f8fce0"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#fac9bc"
 UTI_C_N: 0.26
 UTI_C_dens: 0.55
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 0.19
 UTI_summary: |
     <b>CWNU 10</b> is a poorly populated, moderately dense object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 95.318 | 18.827 | 0.989 | -1.763 | -2.849 | 0.035 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 95.254 | 18.896 | 0.987 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 95.318 | 18.827 | 0.989 | -1.763 | -2.849 | 0.035 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 95.318 | 18.827 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |95.286 | 18.841 | 1.011 | -1.801 | -2.851 | -10.86 | 
 cds_radec: 95.28644,+18.84118
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.792, diffAV50=1.694, MOD50=9.886, logAge50=8.457` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.88, dMod50=10.15, logAge50=8.27, [Fe/H]50=0.25` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=131.456, MassTot=230.912` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2371, [Fe/H]MCMC=-0.1934` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

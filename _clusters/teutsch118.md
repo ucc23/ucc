@@ -17,12 +17,12 @@ UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#efb5b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 0.09
 UTI_summary: |
     <b>Teutsch 118</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -52,5 +52,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.85 |
+    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.83 |
 ---

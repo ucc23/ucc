@@ -12,17 +12,17 @@ glon: 255.75044
 glat: -2.51996
 r50: 12.8
 plx: 1.6675
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 10</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 123.09 | -38.676 | 1.652 | -4.443 | 4.965 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 123.09 | -38.676 | -- | -- | -- | 32.64 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 123.09 | -38.676 | -- | -- | -- | 2.154 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 123.09 | -38.676 | 1.652 | -4.443 | 4.965 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 123.024 | -38.659 | 1.661 | -4.428 | 4.948 | 33.422 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 123.153 | -38.675 | 1.695 | -4.321 | 5.076 | -- |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=594.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=594.9` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.606, Dist=0.573, logAge=6.837, Z=0.006` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.62, DistPc=613.0, AgeNN=6.97` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.345, Dist=521, logage=7.111, [Fe/H]=0.134` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.0, logAge=6.75` |

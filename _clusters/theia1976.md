@@ -17,12 +17,12 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
     <b>Theia 1976</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

@@ -44,6 +44,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Streicher 52](/_clusters/streicher52/)| 93.4 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.63 |
+    |[Streicher 52](/_clusters/streicher52/)| 93.4 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.62 |
     |[COIN-Gaia 27](/_clusters/coingaia27/)| 65.9 | 85.76 | 13.72 | 0.93 | 0.67 | -3.6 | 12.49 |0.0 |
 ---

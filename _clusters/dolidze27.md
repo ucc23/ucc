@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Dolidze 27</b> is a poorly populated, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Dolidze 27</b> is a poorly populated, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.7
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 249.125 | -8.95 | -- | -3.78 | -5.13 | -42.86 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 249.105 | -8.935 | -- | -1.79 | -2.26 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |249.099 | -8.966 | 0.312 | -4.781 | -2.518 | -- | 
 cds_radec: 249.09851,-8.96555
@@ -44,7 +43,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.874, Dist=2107.0, Age=8.97` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.874, distance=2107, log_age=8.97` |
 shared_table: |
     
 ---

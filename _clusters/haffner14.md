@@ -3,7 +3,7 @@ layout: post
 title: Haffner 14
 style: style
 title_flag: true
-more_names: VDBH 7; OCL 674; vdBergh-Hagen 7; ESO 429 16; FSR 1319; MWSC 1326; FoF 91
+more_names: VDBH 7; MWSC 1326; OCL 674; vdBergh-Hagen 7; ESO 429 16; FSR 1319; FoF 91
 fname: haffner14
 fov: 0.11
 ra_icrs: 116.18394
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 116.213 | -28.367 | -- | -2.74 | 4.43 | 73.5 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 116.205 | -28.38 | -- | 0.4 | 0.81 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 116.205 | -28.38 | -- | 0.4 | 0.81 | 73.5 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 116.199 | -28.377 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 116.175 | -28.392 | -- | -0.248 | 1.059 | 73.5 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 116.182 | -28.384 | 0.226 | -1.821 | 1.728 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 116.217 | -28.393 | -- | -- | -- | -- |
@@ -44,6 +45,7 @@ posit_table: |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 116.174 | -28.388 | 0.251 | -1.777 | 1.763 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 116.182 | -28.384 | 0.226 | -1.821 | 1.728 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 116.181 | -28.382 | 0.231 | -1.825 | 1.723 | 70.045 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 116.199 | -28.377 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 116.177 | -28.38 | 0.252 | -1.818 | 1.741 | 82.565 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 116.179 | -28.395 | 0.249 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 116.177 | -28.38 | 0.252 | -1.818 | 1.741 | 82.565 |
@@ -56,7 +58,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.6, Dist=3483.0, Age=8.35` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.479, distance=2134, log_age=8.785` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.479, d=2134.0, logt=8.785` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.479, d=2134.0, logt=8.785` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.192, Dist=3368, logt=8.99` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3916.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=3916.9` |
@@ -64,6 +67,7 @@ fpars_table: |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.692, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.52, DistPc=4108.0, AgeNN=8.46` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.937, Dist=3062, logage=8.563, [Fe/H]=-0.056` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.785, logmt=2.693` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.81, diffAV50=1.576, MOD50=12.78, logAge50=8.428` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.77, dMod50=12.54, logAge50=8.66, [Fe/H]50=0.3` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=2914.96, MassTot=3039.07` |

@@ -12,17 +12,17 @@ glon: 225.61835
 glat: -2.20023
 r50: 10.0
 plx: 0.6109
-UTI: "0.15"
-UTI_COLOR: "#f6c1b8"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#c4e5c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fddcc5"
 UTI_C_N: 0.72
 UTI_C_dens: 0.82
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.27
 UTI_summary: |
     <b>Theia 2289</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

@@ -17,12 +17,12 @@ UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#e3a9b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 0.02
 UTI_summary: |
     <b>UBC 88</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -53,5 +53,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UPK 322](/_clusters/upk322/)| 100.0 | 58.16 | 45.96 | 1.03 | -1.43 | -3.02 | -7.82 |0.12 |
-    |[Teutsch 176](/_clusters/teutsch176/)| 98.5 | 58.16 | 45.96 | 1.03 | -1.44 | -3.01 | -10.82 |0.64 |
+    |[Teutsch 176](/_clusters/teutsch176/)| 98.5 | 58.16 | 45.96 | 1.03 | -1.44 | -3.01 | -10.82 |0.63 |
 ---

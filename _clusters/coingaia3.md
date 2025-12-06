@@ -3,7 +3,7 @@ layout: post
 title: COIN-Gaia 3
 style: style
 title_flag: true
-more_names: 
+more_names: COIN 3
 fname: coingaia3
 fov: 0.217
 ra_icrs: 18.73413
@@ -12,17 +12,17 @@ glon: 125.82809
 glat: -2.23342
 r50: 6.5
 plx: 0.7975
-UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>COIN-Gaia 3</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 18.739 | 60.505 | 0.78 | -2.43 | -1.81 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 18.739 | 60.505 | -- | -- | -- | 2.938 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 18.739 | 60.505 | 0.775 | -2.431 | -1.791 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 18.745 | 60.501 | 0.789 | -2.44 | -1.793 | -40.543 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 18.773 | 60.493 | 0.794 | -2.463 | -1.866 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=1243` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.486, Dist=1.112, logAge=7.576, Z=0.033` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.69, DistPc=1209.0, AgeNN=7.69` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.915, Dist=1096, logage=7.997, [Fe/H]=0.082` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1177, logAgeNN=7.77` |

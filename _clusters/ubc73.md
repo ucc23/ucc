@@ -12,20 +12,20 @@ glon: 185.6548
 glat: 5.92626
 r50: 5.1
 plx: 0.4406
-UTI: "0.01"
-UTI_COLOR: "#e1a7b3"
+UTI: "0.00"
+UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e1a7b3"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.01
 UTI_summary: |
-    <b>UBC 73</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>UBC 73</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.1
@@ -50,6 +50,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 56](/_clusters/gulliver56/)| 99.0 | 95.38 | 26.92 | 0.44 | 0.44 | -3.2 | 31.75 |0.77 |
+    |[Gulliver 56](/_clusters/gulliver56/)| 99.0 | 95.38 | 26.92 | 0.44 | 0.44 | -3.2 | 31.75 |0.75 |
     |[OC 0304](/_clusters/oc0304/)| 52.6 | 95.38 | 26.9 | 0.44 | 0.43 | -3.18 | 27.53 |0.0 |
 ---

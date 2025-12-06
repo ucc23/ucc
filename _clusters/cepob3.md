@@ -34,6 +34,7 @@ scix_url: Cep%20OB3
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 346.05 | 63.4 | -- | -1.46 | -1.98 | -15.12 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 346.044 | 63.395 | -- | -- | -- | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 346.044 | 63.395 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -43,6 +44,7 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.55, Dist=700, logt=7.44` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.55, Dist=700, logt=7.44, logM=3.599` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.55, Dist=700, logt=7.44, logM=4.072, logMA=4.037` |
 shared_table: |

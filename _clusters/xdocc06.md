@@ -12,17 +12,17 @@ glon: 266.79146
 glat: -3.45904
 r50: 7.1
 plx: 0.7381
-UTI: "0.64"
-UTI_COLOR: "#ebf6d2"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>XDOCC 06</b> is a rich, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.

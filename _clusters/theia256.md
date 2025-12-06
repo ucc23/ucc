@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 123.759 | 7.061 | 1.814 | -8.13 | -1.303 | 30.697 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 123.773 | 7.268 | 1.811 | -- | -- | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 123.759 | 7.061 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |123.788 | 7.189 | 1.821 | -8.191 | -1.281 | 18.11 | 
 cds_radec: 123.78751,+7.18923
@@ -45,6 +46,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.046, diffAV50=0.371, MOD50=8.604, logAge50=7.944` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.08, dMod50=8.76, logAge50=8.11, [Fe/H]50=0.28` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1042, [Fe/H]MCMC=-0.0699` |
 shared_table: |
     
 ---

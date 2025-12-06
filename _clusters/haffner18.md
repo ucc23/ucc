@@ -12,20 +12,20 @@ glon: 243.15305
 glat: 0.45301
 r50: 4.1
 plx: 0.1995
-UTI: "0.84"
-UTI_COLOR: "#bee2c6"
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#d0ebc9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.77
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Haffner 18</b> is a rich, dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
+    <b>Haffner 18</b> is a rich, dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.1
@@ -66,5 +66,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.9 |
+    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.87 |
 ---

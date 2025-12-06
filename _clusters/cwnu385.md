@@ -12,17 +12,17 @@ glon: 200.98382
 glat: -2.05296
 r50: 4.3
 plx: 0.4652
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.38"
+UTI_COLOR: "#fff1d4"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#d4edca"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.75
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 385</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.

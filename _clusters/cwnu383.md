@@ -12,17 +12,17 @@ glon: 263.17986
 glat: 11.0715
 r50: 8.9
 plx: 0.5732
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.53
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 383</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.

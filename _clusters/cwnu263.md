@@ -12,17 +12,17 @@ glon: 211.778
 glat: -0.61101
 r50: 4.7
 plx: 0.4434
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 0.97
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 263</b> is a poorly populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.

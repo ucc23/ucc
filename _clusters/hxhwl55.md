@@ -12,17 +12,17 @@ glon: 298.4792
 glat: -8.58298
 r50: 16.0
 plx: 0.7609
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.37"
+UTI_COLOR: "#ffefd2"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#f8c5ba"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.17
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 55</b> is a poorly populated, very loose object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.

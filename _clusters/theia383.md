@@ -37,6 +37,7 @@ posit_table: |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 113.19 | 0.191 | 2.147 | -1.761 | -0.3 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 113.165 | 0.323 | 2.103 | -1.736 | -0.086 | 0.533 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 113.239 | -0.461 | 2.11 | -- | -- | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 113.165 | 0.323 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |113.243 | 0.005 | 2.137 | -1.757 | -0.222 | 1.54 | 
 cds_radec: 113.24264,+0.0055
@@ -47,6 +48,7 @@ fpars_table: |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.4, logAge=8.45` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.109, diffAV50=0.533, MOD50=8.274, logAge50=8.144` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.3, dMod50=8.48, logAge50=8.34, [Fe/H]50=0.37` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.0950, [Fe/H]MCMC=-0.0259` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

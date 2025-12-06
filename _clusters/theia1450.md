@@ -12,20 +12,20 @@ glon: 89.83023
 glat: 2.2973
 r50: 18.5
 plx: 1.259
-UTI: "0.33"
-UTI_COLOR: "#fee8cc"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fff1d4"
 UTI_C_dens_COL: "#fff6da"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.42
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Theia 1450</b> is a poorly populated, loose object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.
+    <b>Theia 1450</b> is a poorly populated, loose object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 18.5

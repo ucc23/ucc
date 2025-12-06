@@ -3,7 +3,7 @@ layout: post
 title: Collinder 468
 style: style
 title_flag: true
-more_names: OCL 12; ESO 521 25; MWSC 2808
+more_names: MWSC 2808; OCL 12; ESO 521 25
 fname: collinder468
 fov: 0.18
 ra_icrs: 271.57349
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 271.646 | -27.46 | -- | 1.19 | -2.47 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 271.63 | -27.447 | -- | -1.55 | -2.01 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 271.63 | -27.447 | -- | -1.55 | -2.01 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 271.621 | -27.448 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 271.59 | -27.467 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |271.573 | -27.446 | 0.135 | -6.015 | -7.614 | -- | 
@@ -45,7 +46,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.5, Dist=7376.0, Age=9.5` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.5, distance=7376, log_age=9.5` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.5, d=7376.0, logt=9.5` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.5, d=7376.0, logt=9.5` |
 shared_table: |
     
 ---

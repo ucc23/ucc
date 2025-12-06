@@ -12,20 +12,20 @@ glon: 218.83073
 glat: -11.2521
 r50: 12.1
 plx: 1.0177
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#fffde5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.48
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>CWNU 201</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported but it is moderately studied in the literature.
+    <b>CWNU 201</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 12.1

@@ -12,17 +12,17 @@ glon: 248.02214
 glat: -5.4541
 r50: 6.6
 plx: 0.2578
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#f3bab5"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 0.12
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Bochum 15</b> is a poorly populated, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.

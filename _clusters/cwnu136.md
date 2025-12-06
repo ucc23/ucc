@@ -12,17 +12,17 @@ glon: 93.63214
 glat: 8.68616
 r50: 23.1
 plx: 1.0934
-UTI: "0.35"
-UTI_COLOR: "#feebcf"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#aed9c1"
 UTI_C_N: 0.34
 UTI_C_dens: 0.18
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.91
 UTI_summary: |
     <b>CWNU 136</b> is a poorly populated, very loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue.

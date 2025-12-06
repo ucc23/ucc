@@ -34,6 +34,8 @@ scix_url: Lynga%207
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 242.71 | -55.32 | -- | -1.86 | -1.4 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 242.68 | -55.29 | -- | -0.75 | -3.68 | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 242.672 | -55.289 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |242.709 | -55.271 | 0.073 | -4.402 | -3.823 | -8.806 | 
@@ -42,6 +44,8 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.27, Dist=751` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.27, Dist=750, logt=7.11` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.27, Dist=750, logt=7.11, logMA=1.998` |
 shared_table: |
     

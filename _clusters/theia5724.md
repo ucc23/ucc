@@ -12,17 +12,17 @@ glon: 65.1375
 glat: 1.51734
 r50: 3.2
 plx: 0.2898
-UTI: "0.17"
-UTI_COLOR: "#f8c5ba"
+UTI: "0.14"
+UTI_COLOR: "#f5bfb7"
 UTI_C_N_COL: "#ffefd2"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fee6ca"
 UTI_C_N: 0.37
 UTI_C_dens: 0.72
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.32
 UTI_summary: |
     <b>Theia 5724</b> is a poorly populated, moderately dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

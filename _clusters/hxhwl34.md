@@ -12,17 +12,17 @@ glon: 309.89488
 glat: 1.27139
 r50: 7.5
 plx: 0.7783
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 34</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

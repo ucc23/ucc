@@ -12,17 +12,17 @@ glon: 155.80068
 glat: -2.7678
 r50: 13.9
 plx: 0.903
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.72"
+UTI_COLOR: "#dbf0ca"
 UTI_C_N_COL: "#c1e4c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 54</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -41,6 +41,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 64.725 | 46.415 | 0.908 | 3.275 | -3.809 | -20.361 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 64.714 | 46.453 | 0.908 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 64.725 | 46.415 | 0.908 | 3.275 | -3.809 | -20.361 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 64.725 | 46.415 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |64.706 | 46.453 | 0.903 | 3.265 | -3.808 | -18.994 | 
 cds_radec: 64.70582,+46.45276
@@ -54,6 +55,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.974, diffAV50=0.821, MOD50=10.092, logAge50=8.447` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.14, dMod50=10.3, logAge50=8.57, [Fe/H]50=0.32` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=957.239, MassTot=962.742` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1317, [Fe/H]MCMC=-0.1234` |
 shared_table: |
     
 ---

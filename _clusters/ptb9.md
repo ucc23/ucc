@@ -3,7 +3,7 @@ layout: post
 title: PTB 9
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 3763
 fname: ptb9
 fov: 0.37
 ra_icrs: 357.45392
@@ -12,20 +12,20 @@ glon: 117.19969
 glat: 5.85383
 r50: 11.1
 plx: 1.0319
-UTI: "0.01"
-UTI_COLOR: "#e1a7b3"
+UTI: "0.02"
+UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#e3a9b3"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.5
 UTI_C_dup: 0.02
 UTI_summary: |
-    <b>PTB 9</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>PTB 9</b> is a very rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 11.1
@@ -35,6 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 357.502 | 68.033 | -- | -2.8 | 0.04 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 357.502 | 68.033 | -- | -2.8 | 0.04 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 357.495 | 68.03 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 357.495 | 68.03 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 357.495 | 68.031 | 1.033 | 1.482 | 3.963 | -44.265 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 357.449 | 68.04 | 1.033 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 357.495 | 68.031 | 1.033 | 1.482 | 3.963 | -44.265 |
@@ -46,7 +49,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.7, distance=850, log_age=9.07` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.7, d=850.0, logt=9.07` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.7, d=850.0, logt=9.07` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.7, d=850.0, logt=9.07` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.07, logmt=1.991` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.55, diffAV50=1.045, MOD50=9.832, logAge50=8.94` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.89, dMod50=10.08, logAge50=8.91, [Fe/H]50=-0.03` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=2676.00, MassTot=2691.80` |

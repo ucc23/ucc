@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 277.718 | -12.429 | 0.171 | -1.79 | -4.709 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 277.718 | -12.429 | -- | -- | -- | 3.239 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 277.718 | -12.429 | 0.171 | -1.79 | -4.709 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |277.716 | -12.427 | 0.181 | -1.703 | -4.771 | 58.103 | 
@@ -44,8 +45,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=5000.2` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=1.26, Dist=7.326, logAge=8.293, Z=0.049` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 141](/_clusters/ruprecht141/)| 2.5 | 277.82 | -12.33 | 0.33 | -1.47 | -4.25 | 20.69 |0.23 |
+    |[Ruprecht 141](/_clusters/ruprecht141/)| 2.5 | 277.82 | -12.33 | 0.33 | -1.47 | -4.25 | 20.69 |0.32 |
 ---

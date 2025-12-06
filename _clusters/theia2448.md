@@ -12,17 +12,17 @@ glon: 283.61059
 glat: -3.20993
 r50: 6.5
 plx: 0.5109
-UTI: "0.05"
-UTI_COLOR: "#e8aeb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fee6ca"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.32
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.16
 UTI_summary: |
     <b>Theia 2448</b> is a sparse, loose object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

@@ -12,20 +12,20 @@ glon: 311.99718
 glat: -0.876
 r50: 7.3
 plx: 0.875
-UTI: "0.96"
-UTI_COLOR: "#a9d1bc"
+UTI: "0.90"
+UTI_COLOR: "#afdbc2"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 1.0
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>ASCC 77</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>ASCC 77</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.3
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 212.7 | -62.33 | -- | -6.37 | -4.66 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | 212.7 | -62.33 | -- | -4.59 | -1.49 | -- |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 212.695 | -62.327 | -- | -- | -- | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 212.695 | -62.327 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 212.694 | -62.331 | 0.842 | -4.243 | -3.22 | -- |
@@ -56,6 +57,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.3, Dist=2200.0, Age=6.99` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | `E(B-V)=0.3, Dist=2200, logt=6.99` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.3, Dist=2200, logt=6.99, logM=3.504` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=2200, logt=6.99, logM=4.152, logMA=4.123` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1148.2` |

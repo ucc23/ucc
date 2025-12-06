@@ -3,7 +3,7 @@ layout: post
 title: VDBH 19
 style: style
 title_flag: true
-more_names: vdBergh-Hagen 19; BH 19; ESO 430 21; MWSC 1433
+more_names: BH 19; vdBergh-Hagen 19; ESO 430 21; MWSC 1433
 fname: vdbh19
 fov: 0.08
 ra_icrs: 121.76542
@@ -12,20 +12,20 @@ glon: 249.88222
 glat: -0.02272
 r50: 2.4
 plx: 0.2052
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>VDBH 19</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>VDBH 19</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 121.771 | -32.35 | -- | -3.48 | -0.83 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 121.769 | -32.352 | -- | 1.31 | 6.96 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 121.768 | -32.355 | 0.19 | -2.897 | 3.547 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 121.77 | -32.352 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 121.768 | -32.355 | -- | -- | -- | 86.49 |
@@ -53,7 +52,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.71, Dist=3050.0, Age=8.45` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.729, distance=3259, log_age=8.755` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4563.6` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=4563.6` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.96, DistPc=4563.0, AgeNN=8.49` |

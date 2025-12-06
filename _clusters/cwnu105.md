@@ -12,17 +12,17 @@ glon: 158.08035
 glat: -11.47261
 r50: 5.2
 plx: 0.5276
-UTI: "0.35"
-UTI_COLOR: "#feebcf"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f7fcde"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.56
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 105</b> is a sparse, moderately dense object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 58.957 | 38.466 | 0.535 | 0.197 | 0.056 | -35.36 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 58.992 | 38.474 | 0.529 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 58.957 | 38.466 | 0.535 | 0.197 | 0.056 | -35.36 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 58.957 | 38.466 | -- | -- | -- | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 58.992 | 38.474 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |58.99 | 38.464 | 0.528 | 0.195 | 0.034 | -35.758 | 
@@ -50,6 +51,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.262, diffAV50=1.99, MOD50=11.238, logAge50=8.782` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.54, dMod50=11.05, logAge50=9.05, [Fe/H]50=-0.21` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=133.507, MassTot=138.547` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.15256, [Fe/H]MCMC=0.18209` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=0.03, MA23f=-0.22, MA23g=-0.17, MK24=-0.28, MF24=-0.22` |
 shared_table: |
     

@@ -12,17 +12,17 @@ glon: 311.20701
 glat: -0.23513
 r50: 2.3
 plx: 0.292
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 54</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.

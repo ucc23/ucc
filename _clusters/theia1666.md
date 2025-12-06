@@ -12,17 +12,17 @@ glon: 14.92915
 glat: 0.21956
 r50: 6.8
 plx: 0.3424
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.40"
+UTI_COLOR: "#fff4d6"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#d7eeca"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.74
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1666</b> is a rich, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.

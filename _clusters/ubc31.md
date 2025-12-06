@@ -12,20 +12,20 @@ glon: 163.50445
 glat: -15.04658
 r50: 54.7
 plx: 2.7396
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.67
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 31</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
+    <b>UBC 31</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 54.7

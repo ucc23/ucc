@@ -12,17 +12,17 @@ glon: 218.761
 glat: 0.37371
 r50: 3.6
 plx: 0.4061
-UTI: "0.84"
-UTI_COLOR: "#bee2c6"
+UTI: "0.82"
+UTI_COLOR: "#c4e5c7"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Bochum 3</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -35,13 +35,15 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 105.85 | -5.05 | -- | 0.27 | -0.62 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 105.87 | -5.005 | -- | 0.5 | 2.14 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 105.87 | -5.005 | -- | 0.5 | 2.14 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 105.864 | -5.003 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 105.87 | -5.008 | -- | -1.05 | 2.125 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 105.86 | -5.021 | 0.448 | -1.174 | -0.19 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 105.863 | -5.011 | -- | -- | -- | -- |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 105.86 | -5.021 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 105.86 | -5.021 | 0.448 | -1.174 | -0.19 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 105.861 | -5.023 | 0.453 | -1.178 | -0.195 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 105.864 | -5.003 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 105.864 | -5.011 | 0.392 | -1.159 | -0.206 | 29.731 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 105.87 | -5.018 | 0.396 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 105.864 | -5.011 | 0.392 | -1.159 | -0.206 | 29.731 |
@@ -54,12 +56,14 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.24, Dist=1762.0, Age=7.89` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.271, distance=2151, log_age=8.095` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.271, d=2151.0, logt=8.095` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.271, d=2151.0, logt=8.095` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.105, Dist=3974, logt=8.54` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2094.8` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.696, Dist=11.953, logA=7.576, Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.69, DistPc=2238.0, AgeNN=8.06` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.823, Dist=2195, logage=8.273, [Fe/H]=-0.114` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.095, logmt=2.133` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.525, diffAV50=0.747, MOD50=11.791, logAge50=8.096` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.86, dMod50=11.53, logAge50=8.36, [Fe/H]50=-0.34` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=492.942, MassTot=509.015` |

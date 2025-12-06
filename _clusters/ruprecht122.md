@@ -12,20 +12,20 @@ glon: 344.25709
 glat: 1.59368
 r50: 6.0
 plx: 0.565
-UTI: "0.91"
-UTI_COLOR: "#aed9c1"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#b1dcc2"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.89
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 122</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
+    <b>Ruprecht 122</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 6.0

@@ -12,17 +12,17 @@ glon: 316.48555
 glat: 21.17116
 r50: 6.3
 plx: 1.455
-UTI: "0.10"
-UTI_COLOR: "#f1b6b3"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f8c5ba"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.17
 UTI_summary: |
     <b>Theia 6680</b> is a poorly populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

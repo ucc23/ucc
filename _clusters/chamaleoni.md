@@ -3,7 +3,7 @@ layout: post
 title: Chamaleon I
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1897
 fname: chamaleoni
 fov: 1.1
 ra_icrs: 167.16215
@@ -12,17 +12,17 @@ glon: 297.21243
 glat: -15.5266
 r50: 33.0
 plx: 5.2458
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.71"
+UTI_COLOR: "#def1cb"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Chamaleon I</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 6 later reported entries.
@@ -34,7 +34,9 @@ scix_url: Chamaleon%20I
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 165.9 | -77.34 | -- | -6.5 | 8.89 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 165.9 | -77.34 | -- | -6.5 | 8.89 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 165.892 | -77.337 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 165.892 | -77.337 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 167.117 | -77.499 | 5.261 | -22.555 | 0.438 | 15.556 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 167.21 | -76.927 | 5.268 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 167.117 | -77.499 | 5.261 | -22.555 | 0.438 | 15.556 |
@@ -45,7 +47,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=380, log_age=6.0` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.312, d=380.0, logt=6.0` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.312, d=380.0, logt=6.0` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.0, logmt=1.042` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.158, diffAV50=2.269, MOD50=6.41, logAge50=6.753` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.89, dMod50=6.55, logAge50=6.88, [Fe/H]50=0.37` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=79.8971, MassTot=89.7801` |

@@ -35,8 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 332.113 | 61.028 | -- | -0.96 | -2.81 | -42.0 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | 332.1 | 61.1 | -- | -2.19 | -4.03 | -42.0 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 332.1 | 61.1 | -- | 0.21 | -- | -42.0 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 332.087 | 61.096 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 332.115 | 61.095 | -- | -4.53 | -4.52 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 332.115 | 61.028 | -- | -1.017 | -0.935 | -42.0 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 332.218 | 61.103 | 1.111 | -1.895 | -3.207 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 332.108 | 61.03 | -- | -- | -- | -- |
@@ -59,8 +60,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.3, Dist=900.0, Age=7.02` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | `E(B-V)=0.3, Dist=900, logt=7.02` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.3, Dist=900, logt=7.02, logMA=1.983` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.25, distance=1033, log_age=7.87` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.346, Dist=1084, logt=7.423` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=876.8` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=876.8` |
@@ -77,5 +78,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 813](/_clusters/hsc813/)| 1.4 | 331.59 | 61.2 | 0.85 | -1.5 | -3.02 | -10.39 |0.26 |
+    |[HSC 813](/_clusters/hsc813/)| 1.4 | 331.59 | 61.2 | 0.85 | -1.5 | -3.02 | -10.39 |0.17 |
 ---

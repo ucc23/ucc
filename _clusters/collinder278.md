@@ -12,20 +12,20 @@ glon: 309.01843
 glat: -2.48376
 r50: 2.8
 plx: 0.3794
-UTI: "0.96"
-UTI_COLOR: "#a9d1bc"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 1.0
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 278</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is very well-studied in the literature.
+    <b>Collinder 278</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.8
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 207.183 | -64.685 | -- | -5.12 | -5.98 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 207.183 | -64.695 | -- | -9.39 | -1.46 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 207.193 | -64.68 | 0.345 | -3.85 | -1.935 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 207.182 | -64.684 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 207.193 | -64.68 | -- | -- | -- | -23.83 |
@@ -55,7 +54,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.65, Dist=2158.0, Age=8.25` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.833, distance=5086, log_age=9.1` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2673.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2673.9` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.562, Z=0.5` |

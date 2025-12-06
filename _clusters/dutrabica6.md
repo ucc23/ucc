@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Dutra Bica 6</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Dutra Bica 6</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with at least one entry reported in the same catalogue.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.9
@@ -35,12 +35,15 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 266.792 | -28.773 | -- | -- | -- | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 266.79 | -28.774 | -- | 0.494 | -1.971 | 2.527 |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |266.841 | -28.812 | 0.352 | 0.017 | -2.223 | -18.64 | 
 cds_radec: 266.84089,-28.81159
 carousel: UCC
 fpars_table: |
-    
+    | Reference |  Values |
+    | :---  |  :---:  |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=1.512, Dist=3.909, logAge=6.701, Z=0.019` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

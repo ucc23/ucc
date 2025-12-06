@@ -12,17 +12,17 @@ glon: 225.14128
 glat: 5.55701
 r50: 9.2
 plx: 0.9052
-UTI: "0.57"
-UTI_COLOR: "#f6fbdc"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#fff2d5"
 UTI_C_dens_COL: "#b1dcc2"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.39
 UTI_C_dens: 0.89
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 48</b> is a poorly populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

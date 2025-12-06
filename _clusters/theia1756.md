@@ -12,17 +12,17 @@ glon: 14.35502
 glat: 0.13618
 r50: 6.5
 plx: 0.3128
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#e9f5d1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.76
 UTI_C_dens: 0.65
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.96
 UTI_summary: |
     <b>Theia 1756</b> is a rich, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.

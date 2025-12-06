@@ -12,17 +12,17 @@ glon: 74.6817
 glat: -11.00084
 r50: 14.3
 plx: 1.1734
-UTI: "0.43"
-UTI_COLOR: "#fff8dc"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#fffae0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.45
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 312</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 315.437 | 29.651 | 1.157 | 0.994 | -4.745 | -9.22 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 315.635 | 29.835 | 1.162 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 315.437 | 29.651 | 1.157 | 0.994 | -4.745 | -9.22 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 315.437 | 29.651 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |315.439 | 29.667 | 1.173 | 1.014 | -4.802 | -10.244 | 
 cds_radec: 315.43868,+29.66661
@@ -48,8 +49,9 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.188, diffAV50=0.952, MOD50=9.607, logAge50=7.46` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.42, dMod50=9.83, logAge50=7.29, [Fe/H]50=-0.03` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=85.8761, MassTot=211.392` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.04601, [Fe/H]MCMC=-0.0508` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 108](/_clusters/upk108/)| 92.9 | 315.46 | 29.74 | 1.18 | 1.03 | -4.79 | -11.95 |0.15 |
+    |[UPK 108](/_clusters/upk108/)| 92.9 | 315.46 | 29.74 | 1.18 | 1.03 | -4.79 | -11.95 |0.14 |
 ---

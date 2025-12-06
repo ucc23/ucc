@@ -34,6 +34,7 @@ scix_url: Sco%20OB5
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 268.14 | -38.64 | -- | 2.46 | -1.8 | -- |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 268.129 | -38.644 | -- | -- | -- | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 268.129 | -38.644 | -- | -- | -- | -- |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 268.137 | -38.728 | 0.804 | 2.884 | -1.796 | -17.98 |
@@ -44,11 +45,12 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.23, Dist=3310, logt=6.86` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.23, Dist=3310, logt=6.86, logM=5.043` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.23, Dist=3310, logt=6.86, logM=5.77, logMA=5.658` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.0, m-M=10.55, logA=7.2` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 80B](/_clusters/alessi80b/)| 98.0 | 268.11 | -38.69 | 0.81 | 2.9 | -1.77 | -17.98 |0.22 |
+    |[Alessi 80B](/_clusters/alessi80b/)| 98.0 | 268.11 | -38.69 | 0.81 | 2.9 | -1.77 | -17.98 |0.21 |
 ---

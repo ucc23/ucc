@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 13
 style: style
 title_flag: true
-more_names: DSH J1925.2+1356; MWSC 3116
+more_names: MWSC 3116; DSH J1925.2+1356
 fname: kronberger13
 fov: 0.05
 ra_icrs: 291.31416
@@ -12,17 +12,17 @@ glon: 49.16438
 glat: -0.98001
 r50: 1.5
 plx: 0.2935
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Kronberger 13</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -36,8 +36,10 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 291.312 | 13.945 | -- | 1.65 | 4.07 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 291.312 | 13.946 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 291.315 | 13.948 | -- | 0.78 | -3.74 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 291.315 | 13.948 | -- | 0.78 | -3.74 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 291.309 | 13.946 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 291.315 | 13.947 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 291.309 | 13.946 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 291.311 | 13.948 | 0.305 | -1.792 | -4.246 | 52.438 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 291.317 | 13.945 | 0.305 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 291.311 | 13.948 | 0.305 | -1.792 | -4.246 | 52.438 |
@@ -49,7 +51,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.13, Dist=1380.0, Age=8.6` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.197, distance=1455, log_age=8.525` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.197, d=1455.0, logt=8.525` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.197, d=1455.0, logt=8.525` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.525, logmt=1.786` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=5.328, diffAV50=1.922, MOD50=12.357, logAge50=6.919` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.79, dMod50=12.54, logAge50=6.87, [Fe/H]50=0.67` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1704.17, MassTot=1739.52` |

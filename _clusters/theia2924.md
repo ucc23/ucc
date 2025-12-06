@@ -12,17 +12,17 @@ glon: 123.796
 glat: -2.13227
 r50: 5.3
 plx: 0.3524
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.3
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 2924</b> is a poorly populated, loose object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

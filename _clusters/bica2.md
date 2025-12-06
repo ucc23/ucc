@@ -12,20 +12,20 @@ glon: 80.21097
 glat: 0.7773
 r50: 4.8
 plx: 0.5775
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Bica 2</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
+    <b>Bica 2</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.8
@@ -58,10 +58,10 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.14 |
+    |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.17 |
     |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.87 |
     |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.66 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.16 |
     |[OC 0129](/_clusters/oc0129/)| 2.8 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.25 |
-    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.7 |
+    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.67 |
 ---

@@ -12,17 +12,17 @@ glon: 345.30034
 glat: 2.05277
 r50: 4.0
 plx: 0.6866
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 317</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.

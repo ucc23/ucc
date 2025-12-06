@@ -12,20 +12,20 @@ glon: 16.58904
 glat: -0.4663
 r50: 1.2
 plx: 0.2832
-UTI: "0.76"
-UTI_COLOR: "#d2ecc9"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#fffee7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.49
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Kronberger 25</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
+    <b>Kronberger 25</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.2
@@ -61,5 +61,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kharchenko 2](/_clusters/kharchenko2/)| 18.4 | 275.59 | -14.61 | 0.32 | -0.25 | -1.94 | -240.39 |0.35 |
+    |[Kharchenko 2](/_clusters/kharchenko2/)| 18.4 | 275.59 | -14.61 | 0.32 | -0.25 | -1.94 | -240.39 |0.45 |
 ---

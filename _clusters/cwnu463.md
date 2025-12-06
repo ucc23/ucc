@@ -12,17 +12,17 @@ glon: 108.75528
 glat: 0.70002
 r50: 9.1
 plx: 0.6339
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.48"
+UTI_COLOR: "#fffde5"
 UTI_C_N_COL: "#f2f9d6"
 UTI_C_dens_COL: "#c9e8c8"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 0.8
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 463</b> is a moderately populated, dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.

@@ -12,17 +12,17 @@ glon: 88.17101
 glat: 1.63562
 r50: 128.3
 plx: 6.2356
-UTI: "0.56"
-UTI_COLOR: "#f7fcde"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#f8fce0"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 0.55
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>OCSN 24</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.

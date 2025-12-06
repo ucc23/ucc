@@ -3,7 +3,7 @@ layout: post
 title: Melotte 244
 style: style
 title_flag: true
-more_names: Collinder 457; NGC 7762; OCL 280; FSR 0468; MWSC 3784; FoF 2195
+more_names: Collinder 457; NGC 7762; MWSC 3784; OCL 280; FSR 0468; FoF 2195
 fname: melotte244
 fov: 0.377
 ra_icrs: 357.45231
@@ -35,7 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 359.983 | 68.034 | -- | 3.44 | -2.21 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 357.465 | 68.025 | -- | -2.88 | 0.0 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 357.465 | 68.025 | -- | -2.98 | 0.02 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 357.465 | 68.025 | -- | -2.88 | 0.0 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 357.456 | 68.021 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 359.985 | 68.034 | -- | 3.44 | -2.21 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 357.472 | 68.035 | 1.002 | 1.452 | 4.016 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 357.476 | 68.046 | -- | -- | -- | -- |
@@ -45,6 +47,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 357.439 | 68.039 | 0.998 | 1.461 | 4.006 | -45.438 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 357.509 | 68.044 | 1.032 | 1.488 | 3.972 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 357.465 | 68.036 | 1.034 | 1.478 | 3.98 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 357.456 | 68.021 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | -2.528 | 68.038 | 1.003 | 1.482 | 3.987 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 357.439 | 68.039 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -55,7 +58,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.66, Dist=780.0, Age=9.3` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.55, distance=780, log_age=9.32` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.55, d=780.0, logt=9.319` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.55, d=780.0, logt=9.32` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.55, d=780.0, logt=9.32` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.71, Dist=744, logt=8.425` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=969.5` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=969.5` |
@@ -64,10 +69,11 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.604, Dist=957, logage=9.048, [Fe/H]=-0.056` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=872, logAgeNN=9.31` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.6, logAge=9.15` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.32, logmt=1.568` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.90313, MOD=9.81358, logAge=9.28561, Z=-0.0580` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=2.604, Dist=957, logAge=9.048, MassRk=1577.3` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[PTB 9](/_clusters/ptb9/)| 98.5 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.72 |0.01 |
+    |[PTB 9](/_clusters/ptb9/)| 98.5 | 357.45 | 68.04 | 1.03 | 1.48 | 3.98 | -44.72 |0.02 |
 ---

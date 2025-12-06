@@ -34,6 +34,7 @@ scix_url: Sgr%20OB7
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 273.72 | -20.4 | -- | 1.8 | -1.2 | -7.19 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 273.711 | -20.404 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |273.716 | -20.437 | 0.197 | -1.618 | -3.646 | -1.148 | 
@@ -42,6 +43,7 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.24, Dist=1860, logt=6.64` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.24, Dist=1860, logt=6.64, logMA=5.351` |
 shared_table: |
     

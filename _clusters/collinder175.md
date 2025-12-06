@@ -3,7 +3,7 @@ layout: post
 title: Collinder 175
 style: style
 title_flag: true
-more_names: VDBH 18; NGC 2533; OCL 695; vdBergh-Hagen 18; ESO 430 19; FSR 1338; MWSC 1432; FoF 387
+more_names: VDBH 18; NGC 2533; MWSC 1432; OCL 695; vdBergh-Hagen 18; ESO 430 19; FSR 1338; FoF 387
 fname: collinder175
 fov: 0.187
 ra_icrs: 121.76582
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 121.767 | -29.883 | -- | -1.62 | 2.02 | 35.22 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 121.778 | -29.88 | -- | -0.76 | 2.38 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 121.777 | -29.88 | -- | -0.76 | 2.38 | 35.2 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 121.772 | -29.877 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 121.77 | -29.883 | -- | -0.76 | 2.38 | 35.2 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 121.773 | -29.872 | 0.329 | -3.189 | 5.041 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 121.757 | -29.889 | -- | -- | -- | -- |
@@ -45,6 +46,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 121.769 | -29.876 | 0.334 | -3.178 | 5.039 | 34.631 |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 121.773 | -29.872 | 0.329 | -3.189 | 5.041 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 121.772 | -29.869 | 0.352 | -3.188 | 5.055 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 121.772 | -29.877 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 121.769 | -29.86 | 0.35 | -3.185 | 5.074 | 40.576 |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 121.77 | -29.892 | 0.161 | -1.618 | 2.58 | 107.32 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 121.766 | -29.869 | 0.347 | -- | -- | -- |
@@ -59,7 +61,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.14, Dist=1700.0, Age=8.84` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.458, distance=2955, log_age=8.365` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.458, d=2955.0, logt=8.365` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.458, d=2955.0, logt=8.365` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.047, Dist=3379, logt=8.876` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2796.7` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2796.7` |
@@ -68,6 +71,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.307, Dist=2613, logage=8.871, [Fe/H]=-0.103` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.14, Dist=2796.7, log(Age)=8.84, NBSS=1` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=2.822` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.365, logmt=2.693` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.828, diffAV50=1.101, MOD50=12.042, logAge50=8.863` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.5, m-M=14.2, logA=8.7` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=11.99, logAge50=8.75, [Fe/H]50=-0.04` |

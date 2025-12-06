@@ -12,17 +12,17 @@ glon: 339.78425
 glat: -5.40513
 r50: 9.9
 plx: 0.8407
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 30</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -52,5 +52,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 1891](/_clusters/theia1891/)| 76.3 | 257.78 | -48.75 | 0.85 | -0.53 | -0.87 | 19.47 |0.05 |
+    |[Theia 1891](/_clusters/theia1891/)| 76.3 | 257.78 | -48.75 | 0.85 | -0.53 | -0.87 | 19.47 |0.04 |
 ---

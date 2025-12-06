@@ -12,17 +12,17 @@ glon: 260.8142
 glat: -2.43204
 r50: 6.5
 plx: 0.6947
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.50"
+UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#fff2d5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.39
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>PHOC 1</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

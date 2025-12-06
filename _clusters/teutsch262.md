@@ -12,17 +12,17 @@ glon: 12.31342
 glat: -1.49585
 r50: 3.5
 plx: 0.6006
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 262</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

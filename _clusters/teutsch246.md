@@ -12,17 +12,17 @@ glon: 327.62936
 glat: -0.5496
 r50: 3.1
 plx: 0.4145
-UTI: "0.64"
-UTI_COLOR: "#ebf6d2"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#c6e6c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.92
 UTI_summary: |
     <b>Teutsch 246</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.

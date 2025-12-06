@@ -3,7 +3,7 @@ layout: post
 title: Platais 9
 style: style
 title_flag: true
-more_names: OCSN 252
+more_names: MWSC 1639; OCSN 252
 fname: platais9
 fov: 3.017
 ra_icrs: 138.82079
@@ -35,8 +35,11 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 138.446 | -43.74 | -- | -24.13 | 13.32 | 17.83 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 138.54 | -44.14 | -- | -24.53 | 12.01 | 17.83 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 138.536 | -44.139 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 138.45 | -43.74 | -- | 3.3 | -- | 17.83 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 138.536 | -44.139 | -- | -- | -- | -- |
+    |[Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 137.641 | -43.885 | 5.89 | -24.62 | 12.91 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 139.241 | -43.862 | 5.463 | -24.705 | 13.333 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 139.241 | -43.862 | -- | -- | -- | 17.02 |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 139.241 | -43.862 | -- | -- | -- | -- |
@@ -58,8 +61,10 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `Dist=174.0, Age=8.0` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.0, Dist=200, logt=8.09` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.0, Dist=200, logt=8.09, logM=3.072` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.0, Dist=200, logt=8.09, logM=3.216, logMA=3.436` |
+    | [Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | `E(B-V)=0.005, d=190.7, logt=8.09` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=181.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=181.9` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.0, Dist=6.027, logA=7.894, Fe/H=0.0` |

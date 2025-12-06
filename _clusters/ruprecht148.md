@@ -12,20 +12,20 @@ glon: 160.35825
 glat: -0.40283
 r50: 4.5
 plx: 0.2605
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 148</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Ruprecht 148</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.5
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 71.625 | 44.733 | -- | -1.88 | 0.57 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 71.637 | 44.739 | -- | -4.04 | -4.61 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 71.625 | 44.734 | -- | -1.88 | 0.57 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 71.638 | 44.711 | 0.26 | -0.153 | -1.076 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 71.625 | 44.728 | -- | -- | -- | -- |
@@ -53,7 +52,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.702, Dist=3028.0, Age=7.724` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.7, distance=2800, log_age=7.725` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.45, Dist=2366, logt=8.39` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3461.1` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.84, DistPc=3401.0, AgeNN=7.64` |

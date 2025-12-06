@@ -12,17 +12,17 @@ glon: 68.82867
 glat: -1.5205
 r50: 13.4
 plx: 0.7958
-UTI: "0.48"
-UTI_COLOR: "#fffde5"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fffae0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.45
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 427</b> is a moderately populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 302.722 | 30.633 | 0.786 | -0.234 | -3.081 | 1.514 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 302.591 | 30.646 | 0.789 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 302.722 | 30.633 | 0.786 | -0.234 | -3.081 | 1.514 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 302.722 | 30.633 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |302.645 | 30.641 | 0.796 | -0.26 | -3.101 | -1.146 | 
 cds_radec: 302.64459,+30.64078
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.232, diffAV50=0.433, MOD50=10.391, logAge50=8.099` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.65, dMod50=10.46, logAge50=7.77, [Fe/H]50=-0.02` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=127.612, MassTot=248.053` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.0457, [Fe/H]MCMC=-0.0044` |
 shared_table: |
     
 ---

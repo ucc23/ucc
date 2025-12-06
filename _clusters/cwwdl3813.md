@@ -46,7 +46,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1848](/_clusters/hsc1848/)| 77.8 | 109.58 | -20.05 | 0.32 | -2.09 | 3.28 | -- |0.06 |
+    |[HSC 1848](/_clusters/hsc1848/)| 77.8 | 109.58 | -20.05 | 0.32 | -2.09 | 3.28 | -- |0.03 |
     |[CWNU 3952](/_clusters/cwnu3952/)| 14.8 | 109.5 | -19.99 | 0.31 | -1.69 | 3.34 | -- |0.02 |
-    |[HSC 1847](/_clusters/hsc1847/)| 11.1 | 109.5 | -20.01 | 0.32 | -1.69 | 3.35 | -- |0.17 |
+    |[HSC 1847](/_clusters/hsc1847/)| 11.1 | 109.5 | -20.01 | 0.32 | -1.69 | 3.35 | -- |0.09 |
 ---

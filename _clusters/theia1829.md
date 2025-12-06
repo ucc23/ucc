@@ -12,17 +12,17 @@ glon: 19.25005
 glat: -1.83422
 r50: 7.3
 plx: 0.9468
-UTI: "0.02"
-UTI_COLOR: "#e3a9b3"
+UTI: "0.01"
+UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#a6cbba"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.25
 UTI_C_dens: 0.99
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.04
 UTI_summary: |
     <b>Theia 1829</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

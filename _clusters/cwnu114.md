@@ -17,12 +17,12 @@ UTI_COLOR: "#e8aeb3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#e9f5d1"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f3bab5"
 UTI_C_N: 0.25
 UTI_C_dens: 0.65
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.12
 UTI_summary: |
     <b>CWNU 114</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

@@ -48,5 +48,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1752](/_clusters/hsc1752/)| 60.0 | 107.82 | -8.39 | 0.37 | -1.21 | 1.0 | 97.51 |0.03 |
-    |[NGC 2349](/_clusters/ngc2349/)| 4.0 | 107.7 | -8.58 | 0.23 | -1.19 | 0.69 | 81.94 |0.13 |
+    |[NGC 2349](/_clusters/ngc2349/)| 4.0 | 107.7 | -8.58 | 0.23 | -1.19 | 0.69 | 81.94 |0.03 |
 ---

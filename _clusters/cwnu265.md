@@ -12,17 +12,17 @@ glon: 281.51198
 glat: 1.63386
 r50: 8.8
 plx: 0.7614
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fffbe1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.46
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 265</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.

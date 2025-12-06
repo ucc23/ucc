@@ -12,17 +12,17 @@ glon: 111.34706
 glat: 19.72528
 r50: 23.9
 plx: 2.6912
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#ffffe8"
 UTI_C_N: 0.5
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.5
 UTI_summary: |
     <b>CWNU 462</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

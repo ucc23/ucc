@@ -12,20 +12,20 @@ glon: 26.1313
 glat: 1.27664
 r50: 12.2
 plx: 1.4858
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 29</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>UPK 29</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 12.2

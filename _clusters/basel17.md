@@ -3,7 +3,7 @@ layout: post
 title: Basel 17
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1907
 fname: basel17
 fov: 0.137
 ra_icrs: 167.61489
@@ -12,17 +12,17 @@ glon: 290.25725
 glat: 1.33042
 r50: 4.1
 plx: 0.4501
-UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
+UTI: "0.79"
+UTI_COLOR: "#cbe9c9"
 UTI_C_N_COL: "#fffae0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Basel 17</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
@@ -35,12 +35,16 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 167.642 | -59.033 | -- | -4.36 | -3.14 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 167.62 | -59.03 | -- | -5.48 | -0.18 | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 167.619 | -59.023 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 167.632 | -59.033 | -- | -6.0 | -0.14 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 167.632 | -59.033 | -- | -6.0 | -0.14 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 167.626 | -59.029 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 167.65 | -59.047 | 0.438 | -6.628 | 2.174 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 167.65 | -59.047 | -- | -- | -- | -9.79 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 167.65 | -59.047 | -- | -6.54 | 2.2 | 2.13 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 167.65 | -59.047 | 0.438 | -6.628 | 2.174 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 167.644 | -59.074 | 0.439 | -6.644 | 2.163 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 167.626 | -59.029 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 167.637 | -59.035 | 0.453 | -6.618 | 2.231 | -5.448 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 167.607 | -59.044 | 0.455 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 167.637 | -59.035 | 0.453 | -6.618 | 2.231 | -5.448 |
@@ -53,12 +57,16 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.16, Dist=1636.0` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.16, Dist=1637, logt=7.88` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=1637, logt=7.88, logMA=2.065` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.16, distance=1697, log_age=7.975` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.16, d=1697.0, logt=7.975` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.16, d=1697.0, logt=7.975` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2142.1` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2142.1` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.297, Dist=2.073, logAge=7.759, Z=0.015` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.45, DistPc=2305.0, AgeNN=8.02` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.839, Dist=1941, logage=7.728, [Fe/H]=0.035` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.975, logmt=1.487` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.765, diffAV50=0.532, MOD50=11.605, logAge50=7.888` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.84, dMod50=11.88, logAge50=7.47, [Fe/H]50=0.58` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=284.010, MassTot=297.979` |

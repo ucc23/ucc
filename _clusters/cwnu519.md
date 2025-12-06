@@ -12,20 +12,20 @@ glon: 94.73738
 glat: 7.53464
 r50: 52.1
 plx: 3.048
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#c1e4c6"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.83
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>CWNU 519</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported but it is moderately studied in the literature.
+    <b>CWNU 519</b> is a rich, dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 52.1

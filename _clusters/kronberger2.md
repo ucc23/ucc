@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 2
 style: style
 title_flag: true
-more_names: DSH J1821.3-1417; MWSC 2898
+more_names: MWSC 2898; DSH J1821.3-1417
 fname: kronberger2
 fov: 0.133
 ra_icrs: 275.41483
@@ -36,8 +36,10 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 275.329 | -14.29 | -- | 1.09 | 0.26 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 275.329 | -14.29 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 275.329 | -14.283 | -- | 1.09 | 0.26 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 275.329 | -14.283 | -- | 1.09 | 0.26 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 275.322 | -14.285 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 275.329 | -14.285 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 275.322 | -14.285 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 275.426 | -14.287 | 0.611 | 0.047 | -1.909 | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 275.426 | -14.287 | 0.611 | 0.047 | -1.909 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -48,7 +50,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.1, Dist=3065.0, Age=8.0` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.791, distance=3197, log_age=8.2` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.791, d=3197.0, logt=8.2` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.791, d=3197.0, logt=8.2` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.2, logmt=3.058` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.184, diffAV50=1.387, MOD50=11.008, logAge50=7.652` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=112.132, MassTot=112.132` |
 shared_table: |

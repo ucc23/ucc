@@ -3,7 +3,7 @@ layout: post
 title: Alessi 43
 style: style
 title_flag: true
-more_names: FoF 2234
+more_names: ASCC 50; MWSC 1579; FoF 2234
 fname: alessi43
 fov: 0.427
 ra_icrs: 132.61471
@@ -25,7 +25,7 @@ UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Alessi 43</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Alessi 43</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 12.8
@@ -35,6 +35,11 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 132.571 | -41.72 | -- | -6.39 | 3.85 | 17.13 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | 132.57 | -41.72 | -- | -6.39 | 3.85 | 17.13 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 132.57 | -41.72 | -- | 0.4 | -- | 17.13 |
+    |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 132.57 | -41.716 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 132.592 | -41.72 | -- | -6.55 | 4.91 | 17.1 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 132.587 | -41.717 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 132.57 | -41.72 | -- | -6.523 | 4.893 | 17.13 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 132.631 | -41.738 | 1.032 | -5.546 | 3.869 | -- |
     |[Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 132.571 | -41.72 | 1.036 | -5.472 | 3.931 | 67.87 |
@@ -42,6 +47,7 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 132.631 | -41.738 | 1.032 | -5.546 | 3.869 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 132.641 | -41.763 | 1.028 | -5.501 | 3.847 | 22.806 |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 132.609 | -41.732 | 1.058 | -5.573 | 3.925 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 132.587 | -41.717 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 132.576 | -41.692 | 1.061 | -5.549 | 3.954 | 18.817 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 132.645 | -41.72 | 1.06 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 132.631 | -41.738 | -- | -- | -- | -- |
@@ -56,6 +62,10 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=850.0, Age=7.48` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...440..403K) | `E(B-V)=0.2, Dist=850, logt=7.48` |
+    | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.2, Dist=850, logt=7.48, logMA=2.786` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.229, d=846.0, logt=7.8` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.229, d=846.0, logt=7.8` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.554, Dist=897, logt=8.005` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=942.8` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.2, Dist=649, logAge=6.94, Z=0.003` |
@@ -63,6 +73,7 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.99, DistPc=917.0, AgeNN=7.06` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.912, Dist=937, logage=6.763, [Fe/H]=-0.051` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.15, logAge=6.55` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.8, logmt=1.864` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.128, diffAV50=2.343, MOD50=9.777, logAge50=6.641` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.24, dMod50=9.98, logAge50=6.56, [Fe/H]50=-0.1` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=11.5, Mc=574.3` |
@@ -70,7 +81,5 @@ fpars_table: |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.98442, MOD=9.71751, logAge=6.98149, Z=-0.0498` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.912, Dist=937, logAge=6.763, MassRk=445.8` |
 shared_table: |
-    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
-    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 50](/_clusters/ascc50/)| 39.2 | 132.58 | -41.7 | 1.05 | -5.61 | 3.98 | 19.94 |0.0 |
+    
 ---

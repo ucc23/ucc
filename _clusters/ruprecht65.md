@@ -12,17 +12,17 @@ glon: 263.07732
 glat: -1.54577
 r50: 3.9
 plx: 0.4408
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Ruprecht 65</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
@@ -35,8 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 129.817 | -44.05 | -- | -0.51 | 1.79 | -- |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 129.79 | -44.03 | -- | -6.08 | 1.98 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 129.81 | -44.05 | -- | -7.37 | 4.16 | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 129.802 | -44.052 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 129.817 | -44.07 | -- | -7.1 | 3.5 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 129.813 | -44.046 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 129.838 | -44.041 | 0.412 | -4.746 | 4.245 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 129.856 | -44.019 | 0.404 | -4.757 | 4.244 | -- |
@@ -53,8 +54,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.07, Dist=500.0, Age=8.57` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.05, Dist=664` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.07, Dist=500, logt=8.57` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.07, Dist=500, logt=8.57, logMA=1.773` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.071, distance=786, log_age=8.82` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.71, DistPc=2405.0, AgeNN=7.36` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.681, Dist=2021, logage=7.656, [Fe/H]=0.089` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.703, diffAV50=1.997, MOD50=11.617, logAge50=7.575` |

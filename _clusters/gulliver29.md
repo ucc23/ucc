@@ -12,17 +12,17 @@ glon: 350.12798
 glat: 3.2825
 r50: 19.3
 plx: 0.903
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.71"
+UTI_COLOR: "#def1cb"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 29</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with 3 later reported entries.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 256.745 | -35.205 | 0.905 | 1.325 | -2.206 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 256.745 | -35.205 | -- | -- | -- | 3.46 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 256.745 | -35.205 | -- | -- | -- | 2.144 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 256.745 | -35.205 | 0.905 | 1.325 | -2.206 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 256.744 | -35.478 | 0.903 | 1.261 | -2.274 | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 256.745 | -35.205 | -- | -- | -- | -- |
@@ -48,6 +49,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1070.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=1070.9` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.709, Dist=0.955, logAge=7.193, Z=0.006` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.02, DistPc=1180.0, AgeNN=7.03` |
     | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=2.0, logAge=6.95` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=10.7, Mc=1590.8` |
@@ -56,5 +58,5 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14433](/_clusters/cwwdl14433/)| 38.3 | 256.51 | -35.07 | 0.91 | 1.26 | -2.17 | 1.46 |0.0 |
     |[CWWDL 14471](/_clusters/cwwdl14471/)| 14.9 | 256.42 | -35.15 | 0.93 | 1.2 | -2.17 | 0.25 |0.01 |
-    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.12 |
+    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.11 |
 ---

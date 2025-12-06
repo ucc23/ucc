@@ -12,17 +12,17 @@ glon: 329.71521
 glat: -1.19239
 r50: 2.1
 plx: 0.2303
-UTI: "0.33"
-UTI_COLOR: "#fee8cc"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#e3f3cd"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#d2ecc9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.68
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.76
 UTI_summary: |
     <b>Theia 2730</b> is a sparse, moderately dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

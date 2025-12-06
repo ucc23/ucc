@@ -48,6 +48,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.3 |
+    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.2 |
     |[OCSN 81](/_clusters/ocsn81/)| 33.3 | 91.01 | -27.1 | 3.19 | -6.59 | 0.26 | 3.26 |0.02 |
 ---

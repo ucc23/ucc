@@ -12,17 +12,17 @@ glon: 229.03575
 glat: -4.12447
 r50: 14.1
 plx: 0.7649
-UTI: "0.38"
-UTI_COLOR: "#fff1d4"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#fff6da"
 UTI_C_dens_COL: "#fee0c7"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.42
 UTI_C_dens: 0.29
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Alessi 72</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

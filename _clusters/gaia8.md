@@ -12,17 +12,17 @@ glon: 63.21222
 glat: 14.73322
 r50: 30.5
 plx: 3.4472
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gaia 8</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 4 later reported entries.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 282.474 | 33.019 | 3.437 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 282.543 | 33.393 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |282.562 | 33.363 | 3.447 | 1.788 | -3.886 | -18.689 | 
 cds_radec: 282.56167,+33.36265
@@ -48,6 +49,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.181, diffAV50=0.644, MOD50=7.298, logAge50=7.324` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.66, dMod50=7.37, logAge50=7.15, [Fe/H]50=-0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=73.3434, MassTot=110.645` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.03537, [Fe/H]MCMC=-0.1457` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

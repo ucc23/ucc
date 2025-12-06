@@ -12,17 +12,17 @@ glon: 183.2124
 glat: -1.32907
 r50: 2.2
 plx: 0.1736
-UTI: "0.47"
-UTI_COLOR: "#fffce3"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#ffedd1"
 UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.36
 UTI_C_dens: 0.53
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 57</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

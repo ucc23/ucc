@@ -12,20 +12,20 @@ glon: 67.3539
 glat: -4.77745
 r50: 12.9
 plx: 1.0364
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 0.67
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 94</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>UPK 94</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 12.9

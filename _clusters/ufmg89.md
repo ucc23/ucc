@@ -12,17 +12,17 @@ glon: 2.43794
 glat: -1.50297
 r50: 2.8
 plx: 0.3706
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.64"
+UTI_COLOR: "#ebf6d2"
 UTI_C_N_COL: "#def1cb"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.71
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 89</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.

@@ -3,7 +3,7 @@ layout: post
 title: Hogg 22
 style: style
 title_flag: true
-more_names: OCL 981; ESO 277 11; MWSC 2459
+more_names: MWSC 2459; OCL 981; ESO 277 11
 fname: hogg22
 fov: 0.087
 ra_icrs: 251.65253
@@ -36,8 +36,11 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 251.654 | -47.083 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 251.654 | -47.083 | -- | -1.14 | -0.67 | -66.74 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 251.65 | -47.08 | -- | -0.84 | -4.39 | -65.2 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 251.65 | -47.08 | -- | 0.08 | -- | -65.2 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 251.65 | -47.082 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 251.655 | -47.09 | -- | -2.4 | -2.2 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 251.655 | -47.09 | -- | -2.4 | -2.2 | -65.2 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 251.644 | -47.09 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 251.655 | -47.084 | -- | -1.369 | -2.023 | -65.2 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 251.64 | -47.089 | -- | -- | -- | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 251.66 | -47.078 | 0.343 | -0.75 | -2.013 | -- |
@@ -55,8 +58,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.716, DM0=11.9, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.647, Dist=1216.0, Age=6.78` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.65, Dist=1297, logt=6.7` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.65, Dist=1297, logt=6.7, logMA=1.925` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.822, distance=2799, log_age=6.8` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.822, d=2799.0, logt=6.8` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.822, d=2799.0, logt=6.8` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.648, Dist=1297, logt=6.792` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.097, Dist=2354, logage=7.076, [Fe/H]=0.12` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=2.8` |
@@ -67,5 +72,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 547](/_clusters/ubc547/)| 97.6 | 251.66 | -47.09 | 0.34 | -0.75 | -1.98 | -15.92 |0.27 |
+    |[UBC 547](/_clusters/ubc547/)| 97.6 | 251.66 | -47.09 | 0.34 | -0.75 | -1.98 | -15.92 |0.23 |
 ---

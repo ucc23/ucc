@@ -12,17 +12,17 @@ glon: 233.56438
 glat: 2.37824
 r50: 11.9
 plx: 0.8357
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 0.4
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 3260</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

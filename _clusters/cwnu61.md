@@ -12,17 +12,17 @@ glon: 290.77234
 glat: -12.16718
 r50: 22.6
 plx: 1.8468
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.52
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 61</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.

@@ -3,7 +3,7 @@ layout: post
 title: Collinder 258
 style: style
 title_flag: true
-more_names: Collinder 257; VDBH 133; Harvard 5; Har5; OCL 880; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; FoF 2240
+more_names: Collinder 257; VDBH 133; vdB-Hagen 133; Harvard 5; Har5; OCL 880; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; FoF 2240
 fname: collinder258
 fov: 0.22
 ra_icrs: 186.80679
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 186.817 | -60.778 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 186.817 | -60.779 | -- | -2.94 | -1.94 | 14.9 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 186.79 | -60.77 | -- | -7.29 | -0.55 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 186.79 | -60.77 | -- | -7.81 | -0.73 | -- |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 186.79 | -60.762 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 186.81 | -60.779 | -- | -13.683 | -7.13 | 14.9 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 186.798 | -60.767 | 0.764 | -7.051 | -0.288 | -- |
@@ -63,6 +65,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.168, DM0=9.66, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.16, Dist=1184.0, Age=8.032, [Fe/H]=0.07` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.16, Dist=1184` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.16, Dist=1198, logt=8.05` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.16, Dist=1198, logt=8.05, logMA=2.362` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.162, Dist=1219, logt=8.033` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1260.7` |

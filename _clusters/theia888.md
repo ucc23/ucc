@@ -12,17 +12,17 @@ glon: 113.4919
 glat: -5.62929
 r50: 24.4
 plx: 1.0856
-UTI: "0.20"
-UTI_COLOR: "#fbccbd"
+UTI: "0.10"
+UTI_COLOR: "#f1b6b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f2b9b4"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.11
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 888</b> is a sparse, very loose object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.

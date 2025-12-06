@@ -12,17 +12,17 @@ glon: 242.7482
 glat: 4.90542
 r50: 3.2
 plx: 0.2356
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gaia 6</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.

@@ -12,17 +12,17 @@ glon: 128.07136
 glat: -1.7015
 r50: 3.1
 plx: 0.2278
-UTI: "0.17"
-UTI_COLOR: "#f8c5ba"
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#fdd7c3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 0.25
 UTI_summary: |
     <b>Schoenball 1</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue.
@@ -56,6 +56,6 @@ shared_table: |
     |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.38 |
     |[NGC 581](/_clusters/ngc581/)| 26.4 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 4.7 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
-    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.15 |
+    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |
     |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 0.8 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.09 |
 ---

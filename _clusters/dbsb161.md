@@ -3,7 +3,7 @@ layout: post
 title: DBSB 161
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2377
 fname: dbsb161
 fov: 0.233
 ra_icrs: 244.23854
@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
 UTI_summary: |
-    <b>DBSB 161</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.96) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>DBSB 161</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.96) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.0
@@ -34,7 +34,9 @@ scix_url: DBSB%20161
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 244.27 | -50.792 | -- | -6.57 | -3.1 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 244.27 | -50.792 | -- | -6.57 | -3.1 | -49.6 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 244.259 | -50.791 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 244.259 | -50.791 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |244.239 | -50.814 | 0.348 | -3.557 | -3.886 | -68.52 | 
 cds_radec: 244.23854,-50.81376
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.197, distance=6353, log_age=6.0` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.197, d=6353.0, logt=6.0` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.197, d=6353.0, logt=6.0` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.0, logmt=3.905` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

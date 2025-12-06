@@ -12,17 +12,17 @@ glon: 321.79992
 glat: -0.45402
 r50: 6.0
 plx: 0.7506
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#e7f5d0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.66
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 37</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

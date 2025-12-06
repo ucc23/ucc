@@ -3,7 +3,7 @@ layout: post
 title: DBSB 35
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1641
 fname: dbsb35
 fov: 0.08
 ra_icrs: 138.78645
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.75
 UTI_summary: |
-    <b>DBSB 35</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>DBSB 35</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4
@@ -34,7 +34,9 @@ scix_url: DBSB%2035
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 138.791 | -47.465 | -- | -6.98 | 9.98 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 138.79 | -47.465 | -- | -6.98 | 9.98 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 138.785 | -47.461 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 138.785 | -47.461 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |138.786 | -47.469 | 0.593 | -5.317 | 4.228 | 63.621 | 
 cds_radec: 138.78645,-47.4692
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.478, distance=1678, log_age=6.8` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.478, d=1678.0, logt=6.8` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.478, d=1678.0, logt=6.8` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.8, logmt=1.783` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -12,17 +12,17 @@ glon: 223.7755
 glat: -1.73932
 r50: 9.3
 plx: 0.8061
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a9d1bc"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.96
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 1654</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.

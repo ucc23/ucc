@@ -12,17 +12,17 @@ glon: 254.33376
 glat: -2.15015
 r50: 1.5
 plx: 0.2098
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#ebf6d2"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 3</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 122.536 | -37.244 | 0.191 | -2.962 | 4.106 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 122.536 | -37.244 | -- | -- | -- | 2.94 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 122.536 | -37.244 | 0.191 | -2.962 | 4.106 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 122.531 | -37.243 | 0.174 | -2.939 | 4.112 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 122.533 | -37.248 | 0.209 | -2.922 | 4.083 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4550.3` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.597, Dist=9.078, logAge=6.719, Z=0.025` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.45, DistPc=4435.0, AgeNN=8.18` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.991, Dist=3644, logage=7.907, [Fe/H]=-0.1` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.855, diffAV50=0.898, MOD50=13.189, logAge50=8.116` |

@@ -12,20 +12,20 @@ glon: 55.37763
 glat: 7.376
 r50: 16.4
 plx: 1.3115
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.95
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 65</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.
+    <b>UPK 65</b> is a moderately populated, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 16.4

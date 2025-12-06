@@ -45,6 +45,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC 0988](/_clusters/lisc0988/)| 97.9 | 83.77 | 15.72 | 0.7 | 0.25 | -2.39 | 10.42 |0.04 |
-    |[COIN-Gaia 26](/_clusters/coingaia26/)| 94.8 | 83.77 | 15.72 | 0.7 | 0.25 | -2.4 | 10.42 |0.8 |
+    |[COIN-Gaia 26](/_clusters/coingaia26/)| 94.8 | 83.77 | 15.72 | 0.7 | 0.25 | -2.4 | 10.42 |0.77 |
     |[CWWDL 3284](/_clusters/cwwdl3284/)| 89.7 | 83.77 | 15.72 | 0.7 | 0.25 | -2.39 | 10.42 |0.0 |
 ---

@@ -12,17 +12,17 @@ glon: 317.01857
 glat: 1.4183
 r50: 10.5
 plx: 0.9738
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#f8fce0"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#ebb1b3"
 UTI_C_N: 0.27
 UTI_C_dens: 0.55
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.07
 UTI_summary: |
     <b>Theia 3263</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

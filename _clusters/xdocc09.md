@@ -12,17 +12,17 @@ glon: 59.80527
 glat: 2.31384
 r50: 25.8
 plx: 1.8003
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.4
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>XDOCC 09</b> is a poorly populated, loose object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

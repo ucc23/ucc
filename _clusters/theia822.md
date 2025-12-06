@@ -12,17 +12,17 @@ glon: 91.95078
 glat: -1.90758
 r50: 4.1
 plx: 0.6973
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 822</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.

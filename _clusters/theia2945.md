@@ -12,17 +12,17 @@ glon: 135.05798
 glat: 1.69078
 r50: 8.9
 plx: 0.6932
-UTI: "0.06"
-UTI_COLOR: "#eab0b3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fbccbd"
 UTI_C_N: 0.3
 UTI_C_dens: 0.43
 UTI_C_C3: 0.25
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.2
 UTI_summary: |
     <b>Theia 2945</b> is a poorly populated, loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

@@ -12,20 +12,20 @@ glon: 64.04055
 glat: -13.10962
 r50: 21.8
 plx: 1.0779
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.28"
+UTI_COLOR: "#fedec5"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#fff4d6"
 UTI_C_N: 0.77
 UTI_C_dens: 0.86
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.44
 UTI_C_dup: 0.4
 UTI_summary: |
-    <b>UPK 84</b> is a rich, dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>UPK 84</b> is a rich, dense object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 21.8
@@ -58,7 +58,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 116](/_clusters/alessi116/)| 60.4 | 310.21 | 20.16 | 1.08 | -6.29 | -9.3 | 24.38 |0.71 |
+    |[Alessi 116](/_clusters/alessi116/)| 60.4 | 310.21 | 20.16 | 1.08 | -6.29 | -9.3 | 24.38 |0.66 |
     |[CWWDL 14281](/_clusters/cwwdl14281/)| 36.9 | 310.2 | 20.17 | 1.07 | -6.28 | -9.3 | 23.99 |0.0 |
     |[UBC 131](/_clusters/ubc131/)| 20.8 | 310.18 | 20.07 | 1.06 | -6.26 | -9.29 | 24.32 |0.0 |
 ---

@@ -12,20 +12,20 @@ glon: 241.57139
 glat: -0.57363
 r50: 1.9
 plx: 0.199
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#d4edca"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.75
 UTI_C_C3: 0.5
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 32</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Ruprecht 32</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.9

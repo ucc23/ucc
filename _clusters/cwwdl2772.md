@@ -47,5 +47,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC 0672](/_clusters/lisc0672/)| 99.1 | 192.62 | -61.0 | 0.28 | -6.52 | -0.76 | -33.02 |0.25 |
-    |[UBC 524](/_clusters/ubc524/)| 61.5 | 192.62 | -60.99 | 0.28 | -6.56 | -0.79 | -25.76 |0.79 |
+    |[UBC 524](/_clusters/ubc524/)| 61.5 | 192.62 | -60.99 | 0.28 | -6.56 | -0.79 | -25.76 |0.73 |
 ---

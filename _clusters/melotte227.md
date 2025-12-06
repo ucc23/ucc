@@ -34,16 +34,13 @@ scix_url: Melotte%20227
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 304.2 | -79.04 | -- | 4.61 | -7.3 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 304.07 | -78.963 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |304.028 | -78.981 | 0.186 | 1.859 | -5.498 | -- | 
 cds_radec: 304.02791,-78.98144
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.062, distance=2218, log_age=9.7` |
+    
 shared_table: |
     
 ---

@@ -46,5 +46,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 182](/_clusters/teutsch182/)| 99.7 | 344.03 | 51.18 | 0.7 | -4.62 | -4.95 | -33.09 |0.79 |
+    |[Teutsch 182](/_clusters/teutsch182/)| 99.7 | 344.03 | 51.18 | 0.7 | -4.62 | -4.95 | -33.09 |0.74 |
 ---

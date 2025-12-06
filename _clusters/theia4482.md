@@ -17,12 +17,12 @@ UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fff2d5"
 UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fbccbd"
 UTI_C_N: 0.39
 UTI_C_dens: 0.26
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.2
 UTI_summary: |
     <b>Theia 4482</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

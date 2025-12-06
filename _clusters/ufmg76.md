@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[PHOC 17](/_clusters/phoc17/)| 100.0 | 261.17 | -34.68 | 0.6 | -1.28 | -3.12 | -1.58 |0.68 |
+    |[PHOC 17](/_clusters/phoc17/)| 100.0 | 261.17 | -34.68 | 0.6 | -1.28 | -3.12 | -1.58 |0.65 |
     |[CWWDL 13876](/_clusters/cwwdl13876/)| 66.7 | 261.16 | -34.69 | 0.6 | -1.26 | -3.15 | -1.58 |0.0 |
 ---

@@ -12,20 +12,20 @@ glon: 344.80965
 glat: 1.63091
 r50: 58.8
 plx: 2.3765
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#ebb1b3"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.38
-UTI_C_lit: 0.5
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Trumpler 24</b> is a sparse, very loose object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Trumpler 24</b> is a sparse, very loose object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 58.8
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 254.25 | -40.667 | -- | -- | -- | -- |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 253.791 | -40.773 | -- | 0.3 | -0.17 | -4.0 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 254.25 | -40.67 | -- | 0.5 | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 254.25 | -40.668 | -- | -2.641 | -5.822 | -3.45 |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 253.986 | -40.474 | 0.835 | 0.372 | -1.8 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 254.182 | -40.473 | 2.386 | -3.104 | -7.202 | -14.22 |

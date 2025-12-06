@@ -12,17 +12,17 @@ glon: 165.53768
 glat: -2.11158
 r50: 14.5
 plx: 0.9574
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.38"
+UTI_COLOR: "#fff1d4"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#fee8cc"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.33
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 18</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
@@ -39,6 +39,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 74.317 | 39.796 | 0.956 | -0.53 | -3.058 | -9.6 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 74.31 | 39.6 | 0.958 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 74.317 | 39.796 | 0.956 | -0.53 | -3.058 | -9.6 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 74.317 | 39.796 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |74.284 | 39.575 | 0.957 | -0.456 | -3.099 | -9.207 | 
 cds_radec: 74.28396,+39.57453
@@ -51,6 +52,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.762, diffAV50=0.566, MOD50=9.995, logAge50=7.837` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.92, dMod50=10.01, logAge50=7.9, [Fe/H]50=0.18` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=82.4403, MassTot=141.236` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1416, [Fe/H]MCMC=-0.1162` |
 shared_table: |
     
 ---

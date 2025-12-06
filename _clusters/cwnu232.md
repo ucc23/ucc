@@ -12,17 +12,17 @@ glon: 210.15498
 glat: -10.51996
 r50: 45.0
 plx: 2.0222
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#dff2cb"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 0.43
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 232</b> is a moderately populated, loose object of high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -39,6 +39,7 @@ posit_table: |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 92.21 | -2.08 | 2.02 | 0.13 | -2.94 | 38.22 |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 92.346 | -2.994 | 2.029 | 0.108 | -2.996 | 36.044 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 92.376 | -1.943 | 2.032 | -- | -- | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 92.346 | -2.994 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |92.305 | -2.212 | 2.022 | 0.047 | -2.787 | 39.193 | 
 cds_radec: 92.30542,-2.2116
@@ -51,6 +52,7 @@ fpars_table: |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.07, m-M=8.56, logt=8.35` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.225, diffAV50=0.564, MOD50=8.37, logAge50=8.113` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.44, dMod50=8.55, logAge50=7.93, [Fe/H]50=0.39` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.08402, [Fe/H]MCMC=0.06235` |
 shared_table: |
     
 ---

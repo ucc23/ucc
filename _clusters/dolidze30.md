@@ -3,7 +3,7 @@ layout: post
 title: Dolidze 30
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2947
 fname: dolidze30
 fov: 0.233
 ra_icrs: 278.14713
@@ -25,7 +25,7 @@ UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Dolidze 30</b> is a sparse, very loose object of low C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Dolidze 30</b> is a sparse, very loose object of low C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.0
@@ -34,7 +34,9 @@ scix_url: Dolidze%2030
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 278.22 | -6.035 | -- | 0.42 | -0.12 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 278.22 | -6.035 | -- | 0.42 | -0.12 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 278.212 | -6.037 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 278.212 | -6.037 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |278.147 | -6.043 | 0.085 | -3.76 | -6.526 | 20.098 | 
 cds_radec: 278.14713,-6.04294
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.999, distance=1569, log_age=8.95` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.999, d=1569.0, logt=8.95` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.999, d=1569.0, logt=8.95` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.95, logmt=1.313` |
 shared_table: |
     
 ---

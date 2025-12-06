@@ -37,6 +37,9 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 274.992 | -17.102 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 274.992 | -17.102 | -- | -1.02 | -1.33 | -14.02 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 274.99 | -17.081 | -- | -1.02 | -1.33 | -14.0 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 274.99 | -17.1 | -- | -0.27 | -1.58 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 274.99 | -17.1 | -- | -0.72 | -1.53 | -14.0 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 274.99 | -17.1 | -- | 0.18 | -- | -14.0 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 274.989 | -17.104 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 274.995 | -17.103 | -- | 1.631 | -1.838 | -14.0 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 274.989 | -17.089 | 0.64 | -0.508 | -0.917 | -- |
@@ -60,6 +63,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.446, DM0=10.27, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.45, Dist=1296.0, Age=7.223` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=1296, Age=0.01` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.45, Dist=1296` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.45, Dist=1296, logt=7.52` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.45, Dist=1296, logt=7.52, logMA=2.274` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.449, Dist=1302, logt=7.232` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1494.3` |

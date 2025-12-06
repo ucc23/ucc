@@ -12,17 +12,17 @@ glon: 178.28168
 glat: -2.47081
 r50: 6.3
 plx: 0.5155
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.40"
+UTI_COLOR: "#fff4d6"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.4
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 195</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 82.971 | 29.071 | 0.507 | 0.426 | -2.475 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 82.998 | 29.084 | 0.51 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 82.971 | 29.071 | 0.507 | 0.426 | -2.475 | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 82.971 | 29.071 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |82.967 | 29.081 | 0.515 | 0.384 | -2.481 | -- | 
 cds_radec: 82.96712,+29.08058
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.882, diffAV50=1.834, MOD50=11.34, logAge50=7.855` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.43, dMod50=11.35, logAge50=8.1, [Fe/H]50=0.43` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=281.591, MassTot=372.270` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1814, [Fe/H]MCMC=-0.1591` |
 shared_table: |
     
 ---

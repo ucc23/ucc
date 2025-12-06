@@ -12,20 +12,20 @@ glon: 205.35156
 glat: -17.77692
 r50: 55.2
 plx: 2.763
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#f7fcde"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#dbf0ca"
 UTI_C_N: 0.72
 UTI_C_dens: 0.56
 UTI_C_C3: 1.0
-UTI_C_lit: 0.79
+UTI_C_lit: 0.69
 UTI_C_dup: 0.72
 UTI_summary: |
-    <b>UBC 17 a</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>UBC 17 a</b> is a moderately populated, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 55.2
@@ -42,6 +42,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 84.463 | -1.821 | 2.771 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 83.422 | -1.671 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 84.776 | -1.932 | 2.771 | 1.801 | -1.299 | 11.737 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 84.776 | -1.932 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 84.653 | -1.998 | 2.705 | 1.795 | -1.118 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 83.33 | -1.606 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -58,12 +59,13 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.68, dMod50=7.76, logAge50=6.55, [Fe/H]50=-0.02` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=18.6, Mc=228.3` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=52.7732, MassTot=60.0950` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2644, [Fe/H]MCMC=-0.2574` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.79566, MOD=7.57803, logAge=7.04932, Z=-0.2239` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.513, Dist=355, logAge=7.046, MassRk=556.0` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[ASCC 19](/_clusters/ascc19/)| 28.4 | 82.05 | -1.96 | 2.8 | 1.15 | -1.22 | 19.28 |0.96 |
-    |[OC 0339](/_clusters/oc0339/)| 8.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.32 |
+    |[OC 0339](/_clusters/oc0339/)| 8.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.3 |
     |[CWWDL 14541](/_clusters/cwwdl14541/)| 1.1 | 83.57 | -3.18 | 2.76 | 1.46 | -1.66 | 15.04 |0.17 |
 ---

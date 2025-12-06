@@ -25,7 +25,7 @@ UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 153</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Ruprecht 153</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.9
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 120.079 | -30.283 | -- | -2.4 | -0.39 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 120.094 | -30.305 | -- | 0.6 | -0.16 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |120.09 | -30.3 | 0.252 | -2.79 | 3.117 | -- | 
 cds_radec: 120.08995,-30.29985
@@ -44,7 +43,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.206, Dist=1848.0, Age=8.65, [Fe/H]=0.1` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.833, distance=5326, log_age=8.58` |
 shared_table: |
     
 ---

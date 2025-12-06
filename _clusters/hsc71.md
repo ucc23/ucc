@@ -12,17 +12,17 @@ glon: 5.22035
 glat: -0.95005
 r50: 5.0
 plx: 0.5676
-UTI: "0.22"
-UTI_COLOR: "#fcd0bf"
+UTI: "0.17"
+UTI_COLOR: "#f8c5ba"
 UTI_C_N_COL: "#fff4d6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fffae0"
 UTI_C_N: 0.4
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.45
 UTI_summary: |
     <b>HSC 71</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

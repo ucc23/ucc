@@ -3,7 +3,7 @@ layout: post
 title: VDBH 58
 style: style
 title_flag: true
-more_names: vdBergh-Hagen 58
+more_names: vdBergh-Hagen 58; MWSC 1632
 fname: vdbh58
 fov: 0.25
 ra_icrs: 137.56357
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>VDBH 58</b> is a sparse, very loose object of very low C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>VDBH 58</b> is a sparse, very loose object of very low C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.5
@@ -34,7 +34,9 @@ scix_url: VDBH%2058
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 137.55 | -56.262 | -- | -0.29 | 12.18 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 137.55 | -56.262 | -- | -0.29 | 12.18 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 137.546 | -56.259 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 137.546 | -56.259 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |137.564 | -56.235 | 0.14 | -3.186 | 4.114 | -- | 
 cds_radec: 137.56357,-56.23496
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.625, distance=2398, log_age=9.17` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.625, d=2398.0, logt=9.17` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.625, d=2398.0, logt=9.17` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.17, logmt=1.479` |
 shared_table: |
     
 ---

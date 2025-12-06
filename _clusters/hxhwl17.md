@@ -12,17 +12,17 @@ glon: 226.5326
 glat: 0.13883
 r50: 11.5
 plx: 0.9102
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#ffffe8"
 UTI_C_dens_COL: "#d7eeca"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.74
 UTI_C_C3: 0.25
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 17</b> is a moderately populated, moderately dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

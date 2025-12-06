@@ -3,7 +3,7 @@ layout: post
 title: Dutra-Bica 44
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2690
 fname: dutrabica44
 fov: 0.18
 ra_icrs: 266.59793
@@ -25,7 +25,7 @@ UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Dutra-Bica 44</b> is a sparse, very loose object of very low C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Dutra-Bica 44</b> is a sparse, very loose object of very low C3 quality. It is located at a very large distance from the Sun, above the mid-plane. It is rarely studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.4
@@ -34,7 +34,9 @@ scix_url: Dutra-Bica%2044
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 266.643 | -24.895 | -- | -6.38 | -11.7 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 266.643 | -24.895 | -- | -6.38 | -11.7 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 266.634 | -24.896 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 266.634 | -24.896 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |266.598 | -24.906 | 0.068 | -5.864 | -9.923 | -- | 
 cds_radec: 266.59793,-24.90621
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=2.409, distance=2264, log_age=9.1` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=2.409, d=2264.0, logt=9.1` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=2.409, d=2264.0, logt=9.1` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.1, logmt=2.215` |
 shared_table: |
     
 ---

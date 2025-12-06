@@ -12,17 +12,17 @@ glon: 248.70322
 glat: -13.41342
 r50: 24.8
 plx: 3.5917
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a8cdbb"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 0.98
 UTI_summary: |
     <b>UBC 7</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
@@ -53,7 +53,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 36](/_clusters/alessi36/)| 100.0 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.32 |
+    |[Alessi 36](/_clusters/alessi36/)| 100.0 | 106.61 | -37.64 | 3.61 | -9.66 | 7.08 | 15.36 |0.31 |
     |[OCSN 210](/_clusters/ocsn210/)| 100.0 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.01 |
     |[Collinder 135](/_clusters/collinder135/)| 2.4 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 ---

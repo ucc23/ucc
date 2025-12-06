@@ -12,17 +12,17 @@ glon: 126.23216
 glat: 2.71251
 r50: 10.3
 plx: 0.8043
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fffce3"
 UTI_C_dens_COL: "#e3f3cd"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#edb3b3"
 UTI_C_N: 0.47
 UTI_C_dens: 0.68
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.08
 UTI_summary: |
     <b>Theia 6599</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

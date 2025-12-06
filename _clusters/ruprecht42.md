@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 42
 style: style
 title_flag: true
-more_names: Berkeley 41; OCL 669; ESO 494 08; MWSC 1388
+more_names: Berkeley 41; MWSC 1388; OCL 669; ESO 494 08
 fname: ruprecht42
 fov: 0.047
 ra_icrs: 119.40442
@@ -12,17 +12,17 @@ glon: 243.33065
 glat: 1.63693
 r50: 1.4
 plx: 0.155
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.82"
+UTI_COLOR: "#c4e5c7"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Ruprecht 42</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
@@ -35,11 +35,13 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 119.4 | -25.917 | -- | -2.67 | 3.41 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 119.412 | -25.935 | -- | -4.22 | 2.56 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 119.412 | -25.935 | -- | -4.22 | 2.56 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 119.406 | -25.933 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 119.407 | -25.92 | 0.121 | -1.911 | 2.191 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 119.388 | -25.916 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 119.407 | -25.92 | 0.121 | -1.911 | 2.191 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 119.399 | -25.919 | 0.116 | -1.92 | 2.187 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 119.406 | -25.933 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 119.404 | -25.925 | 0.156 | -1.884 | 2.213 | 81.617 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 119.4 | -25.92 | 0.158 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 119.404 | -25.925 | 0.156 | -1.884 | 2.213 | 81.617 |
@@ -53,10 +55,12 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.388, Dist=5457.0, Age=8.6, [Fe/H]=0.33` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.416, distance=1964, log_age=8.7` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.416, d=1964.0, logt=8.7` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.416, d=1964.0, logt=8.7` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=6684.1` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.96, DistPc=6560.0, AgeNN=8.53` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.395, Dist=4924, logage=8.641, [Fe/H]=-0.262` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.7, logmt=2.045` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.006, diffAV50=2.21, MOD50=13.592, logAge50=8.747` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.02, dMod50=13.16, logAge50=8.98, [Fe/H]50=-0.26` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=678.699, MassTot=1224.85` |

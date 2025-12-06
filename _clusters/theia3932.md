@@ -17,12 +17,12 @@ UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#ffefd2"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.37
 UTI_C_dens: 0.3
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.03
 UTI_summary: |
     <b>Theia 3932</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

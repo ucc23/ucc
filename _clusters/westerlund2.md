@@ -12,17 +12,17 @@ glon: 284.27176
 glat: -0.32805
 r50: 0.9
 plx: 0.1966
-UTI: "0.78"
-UTI_COLOR: "#ceeac9"
+UTI: "0.71"
+UTI_COLOR: "#def1cb"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Westerlund 2</b> is a rich, very dense object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

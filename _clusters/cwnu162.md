@@ -12,17 +12,17 @@ glon: 100.94099
 glat: 3.19191
 r50: 12.5
 plx: 0.765
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.24
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 162</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.

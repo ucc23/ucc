@@ -12,17 +12,17 @@ glon: 151.64602
 glat: 1.46516
 r50: 4.3
 plx: 0.428
-UTI: "0.66"
-UTI_COLOR: "#e7f5d0"
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 52</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.
@@ -40,6 +40,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 64.793 | 52.332 | 0.431 | -0.843 | 0.574 | -42.463 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 64.756 | 52.364 | 0.431 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 64.793 | 52.332 | 0.431 | -0.843 | 0.574 | -42.463 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 64.793 | 52.332 | -- | -- | -- | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 64.729 | 52.37 | -- | -- | -- | -- |
     |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 64.756 | 52.364 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -54,6 +55,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.784, diffAV50=0.93, MOD50=11.653, logAge50=8.878` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.84, dMod50=11.71, logAge50=8.92, [Fe/H]50=0.42` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=280.678, MassTot=286.222` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2793, [Fe/H]MCMC=-0.2698` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=2.147, Dist=2081, logAge=8.794, MassRk=217.1` |
     | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.2, MA23f=-0.3, MZ23=-0.21, MK24=-0.23, MF24=-0.24` |
 shared_table: |

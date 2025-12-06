@@ -3,7 +3,7 @@ layout: post
 title: Pismis 8
 style: style
 title_flag: true
-more_names: FoF 2088
+more_names: MWSC 1533; FoF 2088
 fname: pismis8
 fov: 0.187
 ra_icrs: 130.39111
@@ -36,7 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 130.396 | -46.273 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 130.4 | -46.267 | -- | -3.29 | 3.07 | 63.4 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 130.415 | -46.267 | -- | -4.97 | 9.43 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 130.414 | -46.267 | -- | -4.97 | 9.43 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 130.41 | -46.264 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 130.395 | -46.266 | -- | -3.29 | 3.07 | 63.4 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 130.407 | -46.272 | 0.517 | -5.757 | 4.945 | -- |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 130.435 | -46.288 | 0.506 | -5.72 | 4.895 | -- |
@@ -44,6 +45,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 130.409 | -46.271 | 0.514 | -5.726 | 4.912 | -- |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 130.407 | -46.272 | 0.517 | -5.757 | 4.945 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 130.398 | -46.275 | 0.554 | -5.743 | 4.973 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 130.41 | -46.264 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 130.404 | -46.263 | 0.533 | -5.672 | 4.981 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 130.408 | -46.267 | 0.533 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 130.404 | -46.263 | 0.533 | -5.672 | 4.981 | -- |
@@ -57,7 +59,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.723, DM0=10.75, log_age_=7.5` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.706, Dist=1312.0, Age=7.427` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.708, distance=1363, log_age=7.43` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.708, d=1363.0, logt=7.43` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.708, d=1363.0, logt=7.43` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.706, Dist=1312, logt=7.427` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1832.2` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.047, Z=0.5` |
@@ -65,6 +68,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.077, Dist=1756, logage=7.137, [Fe/H]=-0.034` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.7, Dist=1832.2, log(Age)=7.42, NBSS=0` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=1.801` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.43, logmt=1.083` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.158, diffAV50=1.098, MOD50=11.38, logAge50=7.675` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.45, dMod50=11.42, logAge50=7.49, [Fe/H]50=0.21` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=218.805, MassTot=218.805` |

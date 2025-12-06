@@ -12,17 +12,17 @@ glon: 152.64819
 glat: -9.70281
 r50: 7.5
 plx: 1.0325
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#fee8cc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 364</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 55.009 | 43.204 | 1.017 | -1.264 | -3.643 | -20.997 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 54.94 | 43.276 | 1.024 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 55.009 | 43.204 | 1.017 | -1.264 | -3.643 | -20.997 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 55.009 | 43.204 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |55.005 | 43.228 | 1.032 | -1.278 | -3.635 | -17.212 | 
 cds_radec: 55.00501,+43.2282
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.927, diffAV50=0.717, MOD50=9.809, logAge50=7.08` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.35, dMod50=10.25, logAge50=6.74, [Fe/H]50=-0.27` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=135.103, MassTot=114.511` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1140, [Fe/H]MCMC=-0.0855` |
 shared_table: |
     
 ---

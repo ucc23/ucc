@@ -12,17 +12,17 @@ glon: 81.67166
 glat: -4.67175
 r50: 11.3
 plx: 0.9629
-UTI: "0.24"
-UTI_COLOR: "#fcd5c1"
+UTI: "0.20"
+UTI_COLOR: "#fbccbd"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fff8dc"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.43
 UTI_summary: |
     <b>Theia 3916</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

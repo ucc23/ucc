@@ -12,17 +12,17 @@ glon: 257.15165
 glat: 0.43988
 r50: 9.2
 plx: 0.8064
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.82"
+UTI_COLOR: "#c4e5c7"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 44</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -37,6 +37,7 @@ posit_table: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 127.249 | -38.095 | 0.785 | -0.666 | 2.301 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 127.249 | -38.095 | -- | -- | -- | 15.45 |
     |[Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | 127.249 | -38.095 | -- | -- | -- | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 127.249 | -38.095 | -- | -- | -- | 2.21 |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 127.24 | -38.105 | 0.789 | -0.699 | 2.289 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 127.249 | -38.095 | 0.785 | -0.666 | 2.301 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 127.231 | -38.099 | 0.782 | -0.646 | 2.304 | 14.738 |
@@ -56,6 +57,7 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1228.2` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=1228.2` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.502, Dist=9.925, logA=9.182, Fe/H=0.0` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.391, Dist=1.209, logAge=8.866, Z=0.051` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.562, Z=0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.78, DistPc=1227.0, AgeNN=8.65` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.207, Dist=1155, logage=9.007, [Fe/H]=0.102` |

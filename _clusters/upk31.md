@@ -12,20 +12,20 @@ glon: 26.72929
 glat: -6.58458
 r50: 19.7
 plx: 1.8415
-UTI: "0.71"
-UTI_COLOR: "#def1cb"
+UTI: "0.64"
+UTI_COLOR: "#ebf6d2"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 31</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>UPK 31</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 19.7

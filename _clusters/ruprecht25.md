@@ -12,20 +12,20 @@ glon: 238.75757
 glat: -1.16842
 r50: 1.3
 plx: 0.1282
-UTI: "0.78"
-UTI_COLOR: "#ceeac9"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 25</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>Ruprecht 25</b> is a moderately populated, very dense object of high C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.3
@@ -34,7 +34,6 @@ scix_url: Ruprecht%2025
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 114.195 | -23.355 | -- | -3.68 | 2.44 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 114.192 | -23.387 | 0.123 | -1.101 | 1.993 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 114.192 | -23.38 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 114.192 | -23.387 | 0.123 | -1.101 | 1.993 | -- |
@@ -51,7 +50,6 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.708, distance=3585, log_age=8.895` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=6567.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.44, DistPc=8740.0, AgeNN=8.5` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.837, Dist=6122, logage=8.86, [Fe/H]=-0.241` |

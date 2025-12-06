@@ -3,7 +3,7 @@ layout: post
 title: Loden 27
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1777
 fname: loden27
 fov: 0.21
 ra_icrs: 152.78707
@@ -25,7 +25,7 @@ UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Loden 27</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.
+    <b>Loden 27</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.3
@@ -34,7 +34,9 @@ scix_url: Loden%2027
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 152.76 | -56.587 | -- | -6.09 | 3.02 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 152.76 | -56.587 | -- | -6.09 | 3.02 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 152.754 | -56.584 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 152.754 | -56.584 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |152.787 | -56.579 | 0.263 | -5.883 | 3.103 | -- | 
 cds_radec: 152.78707,-56.5789
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.937, distance=2628, log_age=6.6` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.937, d=2628.0, logt=6.6` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.937, d=2628.0, logt=6.6` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.6, logmt=2.68` |
 shared_table: |
     
 ---

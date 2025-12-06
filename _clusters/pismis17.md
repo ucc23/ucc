@@ -12,17 +12,17 @@ glon: 289.55482
 glat: 0.09704
 r50: 3.1
 plx: 0.3687
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.73"
+UTI_COLOR: "#d9efca"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.82
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Pismis 17</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 165.267 | -59.818 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 165.275 | -59.817 | -- | -3.89 | 0.59 | 65.1 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 165.27 | -59.87 | -- | -6.27 | 3.12 | 61.7 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 165.27 | -59.82 | -- | 0.17 | -- | 61.7 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 165.254 | -59.866 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 165.27 | -59.817 | -- | -3.89 | 0.59 | -17.8 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 165.377 | -59.873 | 0.366 | -6.938 | 2.333 | -- |
@@ -54,6 +56,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.446, DM0=13.3, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.471, Dist=3504.0, Age=7.023, [Fe/H]=-0.145` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.47, Dist=3504, logt=7.32` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.47, Dist=3504, logt=7.32, logMA=3.991` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.471, Dist=3504, logt=7.023` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2534.6` |

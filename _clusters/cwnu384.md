@@ -12,17 +12,17 @@ glon: 249.69016
 glat: 7.25056
 r50: 29.1
 plx: 1.347
-UTI: "0.38"
-UTI_COLOR: "#fff1d4"
+UTI: "0.28"
+UTI_COLOR: "#fedec5"
 UTI_C_N_COL: "#fff8de"
 UTI_C_dens_COL: "#fcd0bf"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 0.22
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 384</b> is a poorly populated, very loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.

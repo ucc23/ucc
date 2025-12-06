@@ -12,17 +12,17 @@ glon: 331.85509
 glat: -0.12132
 r50: 10.3
 plx: 0.8238
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.19"
+UTI_COLOR: "#fac9bc"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#b4ddc3"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fff8dc"
 UTI_C_N: 0.54
 UTI_C_dens: 0.88
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.43
 UTI_summary: |
     <b>Theia 2062</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

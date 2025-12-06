@@ -49,6 +49,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 80.4 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.51 |
-    |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.79 |
+    |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.73 |
     |[OC 0688](/_clusters/oc0688/)| 27.2 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.05 |
 ---

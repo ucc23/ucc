@@ -3,7 +3,7 @@ layout: post
 title: Loden 1282
 style: style
 title_flag: true
-more_names: OCL 915.7; MWSC 2209
+more_names: MWSC 2209; OCL 915.7
 fname: loden1282
 fov: 0.23
 ra_icrs: 213.84261
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 213.975 | -59.133 | -- | -1.25 | -5.21 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 213.96 | -59.12 | -- | -2.98 | 0.41 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 213.96 | -59.12 | -- | -2.98 | 0.41 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 213.948 | -59.118 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 213.97 | -59.155 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |213.843 | -59.134 | 0.209 | -5.846 | -2.198 | -21.725 | 
@@ -45,7 +46,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.312, Dist=1349.0, Age=8.15` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.312, distance=1349, log_age=8.15` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.312, d=1349.0, logt=8.15` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.312, d=1349.0, logt=8.15` |
 shared_table: |
     
 ---

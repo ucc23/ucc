@@ -17,12 +17,12 @@ UTI_COLOR: "#e1a7b3"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e3a9b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.02
 UTI_summary: |
     <b>UBC 91</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -51,5 +51,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.72 |
+    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.73 |
 ---

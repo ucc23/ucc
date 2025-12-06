@@ -17,12 +17,12 @@ UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.03
 UTI_summary: |
     <b>Steine 12</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -50,6 +50,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 1](/_clusters/coingaia1/)| 96.6 | 11.82 | 66.75 | 1.55 | -5.04 | -3.15 | -14.34 |0.79 |
+    |[COIN-Gaia 1](/_clusters/coingaia1/)| 96.6 | 11.82 | 66.75 | 1.55 | -5.04 | -3.15 | -14.34 |0.75 |
     |[UBC 34](/_clusters/ubc34/)| 85.2 | 11.8 | 66.75 | 1.55 | -5.03 | -3.14 | -15.01 |0.0 |
 ---

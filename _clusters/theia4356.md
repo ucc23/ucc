@@ -12,17 +12,17 @@ glon: 244.99543
 glat: -0.20126
 r50: 3.3
 plx: 0.3251
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#f6fbdc"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.57
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 4356</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

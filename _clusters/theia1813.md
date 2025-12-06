@@ -12,17 +12,17 @@ glon: 354.89919
 glat: -1.09531
 r50: 2.3
 plx: 0.2444
-UTI: "0.09"
-UTI_COLOR: "#efb5b3"
+UTI: "0.08"
+UTI_COLOR: "#edb3b3"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f4bdb6"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.13
 UTI_summary: |
     <b>Theia 1813</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -52,5 +52,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 1200](/_clusters/fof1200/)| 87.2 | 264.34 | -33.84 | 0.24 | -0.85 | -2.06 | -3.9 |0.64 |
+    |[FoF 1200](/_clusters/fof1200/)| 87.2 | 264.34 | -33.84 | 0.24 | -0.85 | -2.06 | -3.9 |0.54 |
 ---

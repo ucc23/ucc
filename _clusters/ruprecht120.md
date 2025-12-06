@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 120
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2426
 fname: ruprecht120
 fov: 0.127
 ra_icrs: 248.79056
@@ -12,17 +12,17 @@ glon: 336.38337
 glat: -0.49539
 r50: 3.8
 plx: 0.4645
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.67
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Ruprecht 120</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -35,8 +35,10 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 248.792 | -48.283 | -- | -1.24 | -3.44 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 248.79 | -48.3 | -- | -2.43 | -0.39 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 248.79 | -48.3 | -- | -2.43 | -0.39 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 248.779 | -48.299 | -- | -- | -- | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 248.789 | -48.282 | 0.415 | -0.88 | -2.2 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 248.779 | -48.299 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 248.807 | -48.277 | 0.488 | -0.862 | -2.148 | -- |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 248.785 | -48.268 | 0.514 | -0.884 | -2.184 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 248.795 | -48.278 | 0.485 | -- | -- | -- |
@@ -50,8 +52,10 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.7, Dist=2000.0, Age=8.18` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.791, distance=1476, log_age=8.45` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.791, d=1476.0, logt=8.45` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.791, d=1476.0, logt=8.45` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.51, Dist=2101, logage=7.253, [Fe/H]=0.266` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.45, logmt=2.021` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.557, diffAV50=1.526, MOD50=11.407, logAge50=7.821` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=3.2, m-M=11.4, logA=7.7` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.76, dMod50=10.89, logAge50=8.18, [Fe/H]50=-0.37` |

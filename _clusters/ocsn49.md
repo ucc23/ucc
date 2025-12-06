@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 90.55 | 45.26 | 4.64 | -3.97 | -7.64 | -0.93 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 89.917 | 45.496 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |90.601 | 45.07 | 4.633 | -4.063 | -7.835 | -0.485 | 
 cds_radec: 90.60088,+45.06955
@@ -43,6 +44,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.03, m-M=6.66, logt=8.85` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.01319, [Fe/H]MCMC=-0.0397` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

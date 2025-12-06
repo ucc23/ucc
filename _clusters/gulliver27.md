@@ -12,20 +12,20 @@ glon: 277.64533
 glat: -0.69498
 r50: 2.5
 plx: 0.3306
-UTI: "0.16"
-UTI_COLOR: "#f7c3b9"
+UTI: "0.15"
+UTI_COLOR: "#f6c1b8"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#fac9bc"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 0.19
 UTI_summary: |
-    <b>Gulliver 27</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Gulliver 27</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 2.5
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 146.088 | -54.117 | 0.322 | -4.658 | 3.467 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 146.088 | -54.117 | -- | -- | -- | 18.53 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 146.088 | -54.117 | -- | -- | -- | 2.226 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 146.088 | -54.117 | 0.322 | -4.658 | 3.467 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 146.08 | -54.115 | 0.322 | -4.662 | 3.467 | 18.368 |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 146.088 | -54.117 | 0.322 | -4.658 | 3.467 | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2850.4` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2850.4` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.603, Dist=2.339, logAge=8.504, Z=0.005` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.09, DistPc=2716.0, AgeNN=8.78` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.67, Dist=2530, logage=8.535, [Fe/H]=0.022` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.6, Dist=2850.4, log(Age)=8.5, NBSS=0` |
@@ -62,5 +64,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 68](/_clusters/teutsch68/)| 81.0 | 146.08 | -54.11 | 0.33 | -4.64 | 3.44 | 17.29 |0.65 |
+    |[Teutsch 68](/_clusters/teutsch68/)| 81.0 | 146.08 | -54.11 | 0.33 | -4.64 | 3.44 | 17.29 |0.55 |
 ---

@@ -12,17 +12,17 @@ glon: 77.34516
 glat: -0.70788
 r50: 13.8
 plx: 0.9635
-UTI: "0.29"
-UTI_COLOR: "#fee0c7"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fddcc5"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.27
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 180</b> is a sparse, loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

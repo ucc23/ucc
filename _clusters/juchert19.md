@@ -12,20 +12,20 @@ glon: 149.73335
 glat: -0.21257
 r50: 3.7
 plx: 0.1458
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.43
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Juchert 19</b> is a rich, loose object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Juchert 19</b> is a rich, loose object of high C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.7
@@ -37,7 +37,6 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 60.583 | 52.444 | -- | -4.65 | -3.83 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 60.578 | 52.44 | -- | -- | -- | -- |
     |[Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | 60.584 | 52.444 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 60.578 | 52.45 | -- | -4.65 | -3.83 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 60.585 | 52.446 | 0.102 | -0.141 | 0.176 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 60.585 | 52.446 | 0.102 | -0.141 | 0.176 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 60.583 | 52.448 | 0.114 | -0.184 | 0.185 | -- |
@@ -55,7 +54,6 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.28, Dist=1340.0, Age=9.3` |
     | [Glushkova et al. (2010)](https://scixplorer.org/abs/2010AstL...36...75G) | `E(B-V)=0.28, Dist=1340.0, Age=9.3` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.899, distance=3000, log_age=9.3` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=7628.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.33, DistPc=5822.0, AgeNN=6.91` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.204, Dist=6387, logage=6.844, [Fe/H]=-0.212` |

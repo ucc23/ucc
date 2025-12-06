@@ -12,17 +12,17 @@ glon: 282.96111
 glat: 0.97359
 r50: 17.7
 plx: 2.2824
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 287</b> is a moderately populated, very dense object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.

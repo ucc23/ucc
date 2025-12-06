@@ -12,17 +12,17 @@ glon: 94.30448
 glat: -5.83391
 r50: 7.0
 plx: 0.668
-UTI: "0.09"
-UTI_COLOR: "#efb5b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#f2f9d6"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fdd7c3"
 UTI_C_N: 0.28
 UTI_C_dens: 0.6
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.25
 UTI_summary: |
     <b>Theia 4165</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

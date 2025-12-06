@@ -12,17 +12,17 @@ glon: 124.17168
 glat: -0.65
 r50: 10.2
 plx: 0.9921
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.72
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 423</b> is a poorly populated, moderately dense object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.

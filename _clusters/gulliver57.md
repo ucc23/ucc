@@ -12,20 +12,20 @@ glon: 271.30458
 glat: 1.69937
 r50: 7.1
 plx: 0.7108
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.76"
+UTI_COLOR: "#d2ecc9"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Gulliver 57</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Gulliver 57</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.1
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 141.203 | -48.075 | 0.701 | -6.737 | 4.085 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 141.203 | -48.075 | -- | -- | -- | 19.87 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 141.203 | -48.075 | -- | -- | -- | 2.398 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 141.203 | -48.075 | 0.701 | -6.737 | 4.085 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 141.202 | -48.085 | 0.701 | -6.721 | 4.094 | 5.416 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 141.193 | -48.051 | 0.744 | -6.7 | 4.135 | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1370.5` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=1370.5` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.662, Dist=1.183, logAge=8.936, Z=0.022` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.21, DistPc=1403.0, AgeNN=8.64` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.724, Dist=1321, logage=7.845, [Fe/H]=0.202` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1351, logAgeNN=8.68` |

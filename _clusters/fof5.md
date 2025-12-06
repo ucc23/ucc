@@ -12,17 +12,17 @@ glon: 292.32869
 glat: -12.74205
 r50: 10.0
 plx: 0.5183
-UTI: "0.78"
-UTI_COLOR: "#ceeac9"
+UTI: "0.72"
+UTI_COLOR: "#dbf0ca"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#c1e4c6"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.83
 UTI_C_C3: 1.0
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>FoF 5</b> is a rich, dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.

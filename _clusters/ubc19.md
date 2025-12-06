@@ -17,12 +17,12 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#ebf6d2"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
     <b>UBC 19</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -51,7 +51,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.71 |
+    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.69 |
     |[OCSN 284](/_clusters/ocsn284/)| 96.2 | 56.45 | 29.82 | 2.49 | 2.68 | -5.24 | 18.55 |0.0 |
     |[OC 0278](/_clusters/oc0278/)| 57.7 | 56.37 | 29.78 | 2.47 | 2.57 | -5.26 | 18.05 |0.0 |
 ---

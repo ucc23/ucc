@@ -44,6 +44,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 8](/_clusters/coingaia8/)| 96.8 | 39.02 | 50.02 | 1.37 | 2.41 | -2.51 | -7.94 |0.84 |
+    |[COIN-Gaia 8](/_clusters/coingaia8/)| 96.8 | 39.02 | 50.02 | 1.37 | 2.41 | -2.51 | -7.94 |0.83 |
     |[CWWDL 14301](/_clusters/cwwdl14301/)| 75.8 | 39.13 | 50.0 | 1.38 | 2.4 | -2.52 | -9.87 |0.02 |
 ---

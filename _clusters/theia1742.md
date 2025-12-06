@@ -12,17 +12,17 @@ glon: 267.59555
 glat: -2.21055
 r50: 9.1
 plx: 0.5945
-UTI: "0.41"
-UTI_COLOR: "#fff5d8"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fafde1"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#abd4be"
 UTI_C_N: 0.52
 UTI_C_dens: 0.54
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.94
 UTI_summary: |
     <b>Theia 1742</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a very small percentage of members with at least one previously reported entry.

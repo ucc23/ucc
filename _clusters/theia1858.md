@@ -12,17 +12,17 @@ glon: 267.76752
 glat: -0.05787
 r50: 16.0
 plx: 0.87
-UTI: "0.20"
-UTI_COLOR: "#fbccbd"
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#d4edca"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#ffedd1"
 UTI_C_N: 0.75
 UTI_C_dens: 0.75
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.36
 UTI_summary: |
     <b>Theia 1858</b> is a rich, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

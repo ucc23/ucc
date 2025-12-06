@@ -12,17 +12,17 @@ glon: 204.25169
 glat: -0.55054
 r50: 7.4
 plx: 0.5578
-UTI: "0.66"
-UTI_COLOR: "#e7f5d0"
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#b1dcc2"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 0.89
 UTI_C_C3: 0.5
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 32</b> is a moderately populated, dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 98.383 | 7.478 | 0.577 | -0.879 | 2.304 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 98.383 | 7.478 | -- | -- | -- | 40.24 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 98.383 | 7.478 | -- | -- | -- | 2.439 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 98.383 | 7.478 | 0.577 | -0.879 | 2.304 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 98.38 | 7.499 | 0.589 | -0.909 | 2.32 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 98.384 | 7.466 | 0.56 | -0.947 | 2.281 | 40.781 |
@@ -51,6 +52,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1649.8` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=1649.8` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.256, Dist=1.394, logAge=8.853, Z=0.032` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.73, DistPc=1693.0, AgeNN=9.11` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.637, Dist=1667, logage=8.532, [Fe/H]=-0.166` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.979, diffAV50=1.74, MOD50=11.119, logAge50=8.663` |

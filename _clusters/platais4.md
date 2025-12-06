@@ -3,7 +3,7 @@ layout: post
 title: Platais 4
 style: style
 title_flag: true
-more_names: HIP 23784 Group; MWSC 467
+more_names: MWSC 467; HIP 23784 Group
 fname: platais4
 fov: 0.253
 ra_icrs: 76.76167
@@ -12,17 +12,17 @@ glon: 180.62753
 glat: -10.81684
 r50: 7.6
 plx: 0.0931
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#e1a7b3"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Platais 4</b> is a sparse, very loose object of low C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -35,11 +35,16 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 76.842 | 22.278 | -- | 1.65 | -6.49 | 16.26 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 76.72 | 22.37 | -- | 2.36 | -6.33 | 13.8 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 76.719 | 22.366 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 76.84 | 22.28 | -- | 1.25 | -- | 13.8 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 76.719 | 22.366 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 76.718 | 22.573 | -- | 0.8 | -6.44 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 76.717 | 22.573 | -- | 0.8 | -6.44 | 13.8 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 76.709 | 22.573 | -- | -- | -- | -- |
+    |[Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 76.733 | 22.604 | 2.9 | 1.99 | -7.21 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 76.849 | 22.284 | -- | -- | -- | -- |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 76.718 | 22.573 | -- | 0.2 | -1.87 | 15.2 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 76.709 | 22.573 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |76.762 | 22.447 | 0.093 | 0.349 | -1.071 | -- | 
 cds_radec: 76.76167,+22.44715
@@ -48,10 +53,14 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `Dist=276.0, Age=8.0` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.25, Dist=276, logt=8.24` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.25, Dist=276, logt=8.24, logM=2.797` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.25, Dist=276, logt=8.24, logM=3.045, logMA=2.752` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.271, distance=275, log_age=8.55` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.271, d=275.0, logt=8.55` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.271, d=275.0, logt=8.55` |
+    | [Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | `E(B-V)=0.198, d=296.9, logt=8.31` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=-0.31` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.55, logmt=1.245` |
 shared_table: |
     
 ---

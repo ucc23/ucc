@@ -12,20 +12,20 @@ glon: 108.91043
 glat: -0.31493
 r50: 38.9
 plx: 2.2549
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#c1e4c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#f6fbdc"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 0.57
 UTI_summary: |
-    <b>RSG7</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a large percentage with at least one entry reported in the same catalogue.
+    <b>RSG7</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry, and a large percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 38.9
@@ -62,8 +62,8 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.17 | 5.45 | -1.65 | -10.45 |0.8 |
-    |[NGC 7429](/_clusters/ngc7429/)| 42.9 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.76 |
+    |[RSG8](/_clusters/rsg8/)| 91.7 | 345.08 | 59.41 | 2.17 | 5.45 | -1.65 | -10.45 |0.74 |
+    |[NGC 7429](/_clusters/ngc7429/)| 42.9 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.81 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 16.8 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 14.9 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 9.2 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.01 |

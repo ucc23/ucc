@@ -12,17 +12,17 @@ glon: 254.38005
 glat: -2.53371
 r50: 4.3
 plx: 0.3222
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 4</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 122.164 | -37.5 | 0.3 | -2.912 | 3.033 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 122.164 | -37.5 | -- | -- | -- | 51.98 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 122.164 | -37.5 | -- | -- | -- | 2.532 |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 122.177 | -37.513 | 0.289 | -2.829 | 3.038 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 122.164 | -37.5 | 0.3 | -2.912 | 3.033 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 122.167 | -37.484 | 0.299 | -2.921 | 3.034 | 52.425 |
@@ -54,6 +55,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3042.1` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=3042.1` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.509, Dist=2.474, logAge=9.166, Z=0.021` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.18, Z=-0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.94, DistPc=2747.0, AgeNN=9.06` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.923, Dist=2672, logage=9.082, [Fe/H]=-0.213` |

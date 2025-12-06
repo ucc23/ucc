@@ -12,17 +12,17 @@ glon: 205.25307
 glat: -18.26427
 r50: 16.8
 plx: 2.3964
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 17 b</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 3 later reported entries.
@@ -51,7 +51,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.64 |
     |[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
     |[Theia 13](/_clusters/theia13/)| 54.7 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
 ---

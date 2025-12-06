@@ -3,7 +3,7 @@ layout: post
 title: Melotte 88
 style: style
 title_flag: true
-more_names: Collinder 189; NGC 2632; Praesepe; M 44; OCL 507; MWSC 1527; OCSN 234
+more_names: Collinder 189; NGC 2632; MWSC 1527; Praesepe; M 44; OCL 507; OCSN 234
 fname: melotte88
 fov: 2.61
 ra_icrs: 130.01266
@@ -36,10 +36,15 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 130.1 | 19.667 | -- | -35.58 | -12.9 | 34.76 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 130.053 | 19.659 | -- | -35.58 | -12.9 | 34.4 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 130.09 | 19.69 | -- | -35.83 | -13.11 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 130.09 | 19.69 | -- | -35.9 | -12.88 | 33.57 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 130.087 | 19.689 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 130.09 | 19.67 | -- | 3.0 | -- | 33.66 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 130.087 | 19.689 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 130.095 | 19.69 | -- | -36.54 | -13.36 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 130.095 | 19.69 | -- | -36.54 | -13.36 | 33.4 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 130.087 | 19.693 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 130.095 | 19.668 | -- | -35.58 | -12.9 | 33.4 |
+    |[Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 129.978 | 19.602 | 5.39 | -36.03 | -12.86 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 130.054 | 19.621 | 5.361 | -36.09 | -12.919 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 130.057 | 19.939 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 130.054 | 19.621 | -- | -- | -- | 34.72 |
@@ -55,8 +60,10 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 130.088 | 19.666 | 5.404 | -35.943 | -12.903 | 33.941 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 129.975 | 19.608 | 5.405 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 130.088 | 19.666 | 5.404 | -35.943 | -12.903 | 33.941 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 130.088 | 19.666 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 129.974 | 19.621 | 5.368 | -35.914 | -12.884 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 130.057 | 19.613 | -- | -- | -- | -- |
+    |[Nizovkina et al. (2025)](https://scixplorer.org/abs/2025A%26A...703A.100N) | 130.088 | 19.666 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |130.013 | 19.605 | 5.407 | -35.927 | -12.862 | 34.728 | 
 cds_radec: 130.01266,+19.60494
@@ -66,10 +73,14 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.009, Dist=187.0, Age=8.863, [Fe/H]=0.27` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.009, HDis=187, Age=0.72, [Fe/H]_1=0.14, [Fe/H]_2=0.04` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.01, Dist=180` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.01, Dist=187, logt=8.9` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.01, Dist=187, logt=8.9, logM=3.257` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.01, Dist=187, logt=8.9, logM=3.367, logMA=2.477` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.01, distance=187, log_age=8.92, metallicity=0.094` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.01, d=187.0, logt=8.92, [Fe/H]=0.094` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.01, d=187.0, logt=8.92` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.009, Dist=186, logt=8.864` |
+    | [Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | `E(B-V)=0.01, d=183.0, logt=8.9` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=185.5` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=185.5` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.084, Dist=6.35, logA=8.875, Fe/H=0.07` |
@@ -84,8 +95,10 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.159, diffAV50=0.527, MOD50=6.326, logAge50=8.539` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.6, dMod50=6.39, logAge50=8.19, [Fe/H]50=0.24` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=945.005, MassTot=1012.01` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.19270, [Fe/H]MCMC=0.15910` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.00072, MOD=6.30887, logAge=8.97603, Z=0.19775` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.032, Dist=186, logAge=8.882, MassRk=458.3` |
+    | [Nizovkina et al. (2025)](https://scixplorer.org/abs/2025A%26A...703A.100N) | `AV=0.119;0.107;0., DM=6.091;6.103;6., logAge=8.892;8.894;8., [Fe/H]=0.051;0.08;0.1` |
 shared_table: |
     
 ---

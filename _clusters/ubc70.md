@@ -45,6 +45,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.05 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.77 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.73 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 81.0 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
 ---

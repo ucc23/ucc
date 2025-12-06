@@ -3,7 +3,7 @@ layout: post
 title: Pismis 1
 style: style
 title_flag: true
-more_names: VDBH 24; NGC 2568; FSR 1374; OCL 727; vdBergh-Hagen 24; ESO 370 05; MWSC 1466
+more_names: VDBH 24; NGC 2568; FSR 1374; MWSC 1466; OCL 727; vdBergh-Hagen 24; ESO 370 05
 fname: pismis1
 fov: 0.07
 ra_icrs: 124.5771
@@ -36,7 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 124.575 | -37.1 | -- | -4.84 | -0.72 | -- |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 124.579 | -37.1 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 124.575 | -37.1 | -- | -3.59 | 4.49 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 124.575 | -37.1 | -- | -3.59 | 4.49 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 124.57 | -37.097 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 124.575 | -37.099 | -- | -4.84 | -0.72 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 124.58 | -37.102 | 0.145 | -2.611 | 3.966 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 124.575 | -37.098 | -- | -- | -- | -- |
@@ -44,6 +45,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 124.578 | -37.104 | 0.147 | -2.608 | 3.975 | -- |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 124.58 | -37.102 | 0.145 | -2.611 | 3.966 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 124.58 | -37.105 | 0.176 | -2.597 | 3.974 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 124.57 | -37.097 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 124.572 | -37.102 | 0.177 | -2.561 | 3.943 | 77.042 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 124.583 | -37.097 | 0.175 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 124.58 | -37.102 | -- | -- | -- | -- |
@@ -57,13 +59,15 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.578, Dist=5907.0, Age=7.928` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.583, distance=5903, log_age=7.8` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.583, d=5903.0, logt=7.8` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.583, d=5903.0, logt=7.8` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.578, Dist=5907, logt=7.928` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=5739.4` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.69, DistPc=5666.0, AgeNN=7.47` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.044, Dist=4333, logage=7.031, [Fe/H]=-0.194` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.57, Dist=5739.4, log(Age)=7.92, NBSS=0` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=5.733` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.8, logmt=2.8` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.69, diffAV50=1.836, MOD50=13.307, logAge50=8.18` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.86, dMod50=13.14, logAge50=8.03, [Fe/H]50=0.21` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=29.5, Mc=540.1` |

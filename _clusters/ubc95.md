@@ -12,17 +12,17 @@ glon: 6.6614
 glat: 2.04992
 r50: 4.0
 plx: 0.5116
-UTI: "0.72"
-UTI_COLOR: "#dbf0ca"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 95</b> is a rich, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.

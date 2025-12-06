@@ -12,17 +12,17 @@ glon: 216.75751
 glat: -0.83782
 r50: 3.0
 plx: 0.4181
-UTI: "0.55"
-UTI_COLOR: "#f8fce0"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#fbfde3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.53
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 74</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

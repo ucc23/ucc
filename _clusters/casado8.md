@@ -12,17 +12,17 @@ glon: 249.51236
 glat: 1.9453
 r50: 3.4
 plx: 0.2728
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.34"
+UTI_COLOR: "#feeace"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#fff8dc"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.43
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Casado 8</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

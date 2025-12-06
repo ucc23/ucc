@@ -12,17 +12,17 @@ glon: 174.79483
 glat: -11.80395
 r50: 33.5
 plx: 1.6246
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.25"
+UTI_COLOR: "#fdd7c3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.13
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 52</b> is a sparse, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 72.339 | 26.185 | 1.616 | -1.728 | -2.281 | -7.845 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 72.37 | 26.201 | 1.616 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 72.339 | 26.185 | 1.616 | -1.728 | -2.281 | -7.845 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 72.339 | 26.185 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |72.238 | 26.389 | 1.625 | -1.812 | -2.303 | -5.324 | 
 cds_radec: 72.23811,+26.38914
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.987, diffAV50=2.461, MOD50=8.823, logAge50=7.744` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.25, dMod50=9.07, logAge50=7.74, [Fe/H]50=0.4` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=97.1886, MassTot=215.953` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1621, [Fe/H]MCMC=-0.1411` |
 shared_table: |
     
 ---

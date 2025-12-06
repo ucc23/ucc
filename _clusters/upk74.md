@@ -12,17 +12,17 @@ glon: 58.43497
 glat: -0.08232
 r50: 15.8
 plx: 1.7524
-UTI: "0.48"
-UTI_COLOR: "#fffde5"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#bee2c6"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.84
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 74</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

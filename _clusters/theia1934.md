@@ -12,17 +12,17 @@ glon: 304.86822
 glat: 5.92803
 r50: 9.4
 plx: 0.8464
-UTI: "0.11"
-UTI_COLOR: "#f2b9b4"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#cbe9c9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fcd0bf"
 UTI_C_N: 0.41
 UTI_C_dens: 0.79
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.22
 UTI_summary: |
     <b>Theia 1934</b> is a poorly populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

@@ -12,17 +12,17 @@ glon: 118.77208
 glat: 0.24624
 r50: 3.9
 plx: 0.255
-UTI: "0.27"
-UTI_COLOR: "#fddcc5"
+UTI: "0.21"
+UTI_COLOR: "#fbcebe"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#f8fce0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f6fbdc"
 UTI_C_N: 0.52
 UTI_C_dens: 0.55
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.57
 UTI_summary: |
     <b>Theia 3832</b> is a moderately populated, moderately dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

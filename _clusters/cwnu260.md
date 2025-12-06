@@ -12,17 +12,17 @@ glon: 263.16581
 glat: -11.73338
 r50: 21.1
 plx: 1.3061
-UTI: "0.36"
-UTI_COLOR: "#ffedd1"
+UTI: "0.32"
+UTI_COLOR: "#fee6ca"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#fee0c7"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.29
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 260</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with at least one entry reported in the same catalogue.

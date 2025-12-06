@@ -47,6 +47,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.21 |
+    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.2 |
     |[CWWDL 3347](/_clusters/cwwdl3347/)| 52.7 | 31.11 | 54.36 | 0.37 | -2.3 | -0.25 | -37.93 |0.0 |
 ---

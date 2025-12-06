@@ -12,17 +12,17 @@ glon: 334.20366
 glat: -0.31424
 r50: 3.0
 plx: 0.3619
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>PHOC 19</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.

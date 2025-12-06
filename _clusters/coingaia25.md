@@ -3,7 +3,7 @@ layout: post
 title: COIN-Gaia 25
 style: style
 title_flag: true
-more_names: FoF 2301
+more_names: COIN 25; FoF 2301
 fname: coingaia25
 fov: 0.547
 ra_icrs: 91.71822
@@ -12,17 +12,17 @@ glon: 189.87678
 glat: -0.19071
 r50: 16.4
 plx: 1.2292
-UTI: "0.88"
-UTI_COLOR: "#b4ddc3"
+UTI: "0.87"
+UTI_COLOR: "#b7dfc4"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>COIN-Gaia 25</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 91.691 | 20.276 | 1.2 | -0.5 | -2.65 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 91.691 | 20.276 | -- | -- | -- | 2.502 |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 91.657 | 20.249 | 1.183 | -0.599 | -2.694 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 91.691 | 20.276 | 1.201 | -0.499 | -2.595 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 91.677 | 20.253 | 1.208 | -0.51 | -2.632 | -14.298 |
@@ -43,6 +44,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 91.662 | 20.457 | 1.226 | -0.492 | -2.651 | -13.562 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 91.66 | 20.272 | 1.228 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 91.662 | 20.457 | 1.226 | -0.492 | -2.651 | -13.562 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 91.662 | 20.457 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 91.68 | 20.239 | 1.183 | -0.503 | -2.666 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 91.677 | 20.253 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -53,6 +55,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=813` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.2, Dist=0.864, logAge=8.746, Z=0.022` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.18, Z=-0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.38, DistPc=824.0, AgeNN=8.75` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.609, Dist=774, logage=8.796, [Fe/H]=0.012` |
@@ -61,6 +64,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.359, diffAV50=0.708, MOD50=9.439, logAge50=8.759` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.65, dMod50=9.57, logAge50=8.69, [Fe/H]50=0.31` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=215.341, MassTot=329.958` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1000, [Fe/H]MCMC=-0.1496` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.38026, MOD=9.57950, logAge=8.89249, Z=0.01242` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.609, Dist=774, logAge=8.796, MassRk=206.5` |
 shared_table: |

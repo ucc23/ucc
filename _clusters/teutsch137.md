@@ -12,20 +12,20 @@ glon: 205.4427
 glat: -1.68665
 r50: 3.4
 plx: 0.1679
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
 UTI_C_N_COL: "#fff8dc"
 UTI_C_dens_COL: "#fdd7c3"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#d7eeca"
 UTI_C_N: 0.43
 UTI_C_dens: 0.25
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.74
 UTI_summary: |
-    <b>Teutsch 137</b> is a poorly populated, loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Teutsch 137</b> is a poorly populated, loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.4
@@ -49,5 +49,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 32.6 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.28 |
+    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.36 |
 ---

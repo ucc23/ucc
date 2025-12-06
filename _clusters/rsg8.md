@@ -12,20 +12,20 @@ glon: 109.10282
 glat: -0.4754
 r50: 50.9
 plx: 2.165
-UTI: "0.80"
-UTI_COLOR: "#c9e8c8"
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#c9e8c8"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 1.0
+UTI_C_lit: 0.82
 UTI_C_dup: 0.8
 UTI_summary: |
-    <b>RSG8</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>RSG8</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 50.9
@@ -45,6 +45,7 @@ posit_table: |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 345.761 | 59.394 | 2.05 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 344.983 | 59.371 | -- | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 345.453 | 59.509 | 2.057 | 5.664 | -1.716 | -9.656 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 345.453 | 59.509 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | -14.769 | 59.221 | 2.077 | 5.537 | -1.602 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 345.032 | 59.37 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -65,13 +66,14 @@ fpars_table: |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.83, dMod50=8.55, logAge50=6.93, [Fe/H]50=-0.14` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=26.9, Mc=204.6` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=83.3106, MassTot=175.127` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.0860, [Fe/H]MCMC=-0.0459` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52834, MOD=8.17041, logAge=7.47595, Z=-0.0233` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.644, Dist=450, logAge=7.568, MassRk=343.1` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG7](/_clusters/rsg7/)| 48.6 | 344.32 | 59.45 | 2.25 | 5.18 | -1.78 | -11.08 |0.49 |
-    |[NGC 7429](/_clusters/ngc7429/)| 20.3 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.76 |
+    |[RSG7](/_clusters/rsg7/)| 48.6 | 344.32 | 59.45 | 2.25 | 5.18 | -1.78 | -11.08 |0.45 |
+    |[NGC 7429](/_clusters/ngc7429/)| 20.3 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.81 |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 11.2 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 8.9 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.01 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 8.7 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |

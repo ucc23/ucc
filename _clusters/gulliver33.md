@@ -12,20 +12,20 @@ glon: 88.67117
 glat: -1.47664
 r50: 9.7
 plx: 0.8752
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.74"
+UTI_COLOR: "#d7eeca"
 UTI_C_N_COL: "#def1cb"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.71
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Gulliver 33</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Gulliver 33</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.7
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 318.159 | 46.345 | 0.867 | 0.274 | -3.959 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 318.159 | 46.345 | -- | -- | -- | 2.511 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 318.159 | 46.345 | 0.867 | 0.274 | -3.959 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 318.093 | 46.332 | 0.865 | 0.291 | -3.968 | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 318.227 | 46.363 | 0.884 | 0.303 | -4.016 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=1116.5` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.428, Dist=1.206, logAge=7.405, Z=0.011` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.69, DistPc=1113.0, AgeNN=7.68` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.224, Dist=1087, logage=7.72, [Fe/H]=0.13` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1080, logAgeNN=7.7` |

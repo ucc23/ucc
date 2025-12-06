@@ -3,7 +3,7 @@ layout: post
 title: Platais 3
 style: style
 title_flag: true
-more_names: HIP 21974 Group; MWSC 395; OCSN 250
+more_names: MWSC 395; HIP 21974 Group; OCSN 250
 fname: platais3
 fov: 1.987
 ra_icrs: 69.70604
@@ -35,9 +35,12 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 70.404 | 71.237 | -- | 3.84 | -21.35 | 7.0 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 68.85 | 71.58 | -- | 3.3 | -20.5 | 7.0 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 68.841 | 71.581 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 70.41 | 71.24 | -- | 2.5 | -- | 7.0 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 68.841 | 71.581 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 70.41 | 71.238 | -- | 3.84 | -21.35 | 7.0 |
+    |[Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 69.906 | 71.268 | 5.22 | 3.83 | -20.37 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 69.976 | 71.28 | 5.62 | 3.616 | -20.931 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 70.374 | 71.236 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 69.976 | 71.28 | -- | -- | -- | 8.07 |
@@ -59,9 +62,11 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.1, Dist=200.0, Age=8.7` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.1, Dist=200, logt=8.7` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.1, Dist=200, logt=8.7, logM=2.292` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.1, Dist=200, logt=8.7, logM=2.457, logMA=3.103` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.1, Dist=238, logt=8.7` |
+    | [Yen et al. (2018)](https://scixplorer.org/abs/2018A%26A...615A..12Y) | `E(B-V)=0.0, d=176.4, logt=8.92` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=177.0` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=177.0` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.221, Dist=6.097, logA=8.319, Fe/H=0.0` |

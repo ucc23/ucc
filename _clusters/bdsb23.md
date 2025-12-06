@@ -3,7 +3,7 @@ layout: post
 title: BDSB 23
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 3497
 fname: bdsb23
 fov: 0.16
 ra_icrs: 320.08783
@@ -12,20 +12,20 @@ glon: 96.03647
 glat: 4.04073
 r50: 4.8
 plx: 0.1475
-UTI: "0.08"
-UTI_COLOR: "#edb3b3"
+UTI: "0.18"
+UTI_COLOR: "#f9c8bb"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#e0a6b3"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>BDSB 23</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a very small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>BDSB 23</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.8
@@ -34,7 +34,10 @@ scix_url: BDSB%2023
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 320.1 | 55.47 | -- | 1.6 | -3.71 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 320.1 | 55.47 | -- | 1.34 | -5.94 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 320.1 | 55.47 | -- | 1.6 | -3.71 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 320.096 | 55.466 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 320.096 | 55.466 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |320.088 | 55.477 | 0.147 | -2.782 | -2.612 | -134.33 | 
 cds_radec: 320.08783,+55.47739
@@ -42,7 +45,10 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.249, distance=5883, log_age=8.15` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.999, d=7173.0, logt=8.95` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.249, d=5883.0, logt=8.15` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.249, d=5883.0, logt=8.15` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.15, logmt=3.264` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -12,17 +12,17 @@ glon: 24.83922
 glat: -6.07134
 r50: 11.4
 plx: 0.9278
-UTI: "0.57"
-UTI_COLOR: "#f6fbdc"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#fafde1"
 UTI_C_dens_COL: "#aed9c1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.91
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 30</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

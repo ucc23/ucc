@@ -12,17 +12,17 @@ glon: 29.92488
 glat: 0.17742
 r50: 7.4
 plx: 0.7502
-UTI: "0.43"
-UTI_COLOR: "#fff8dc"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e2f2cc"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.69
 UTI_summary: |
     <b>Theia 1841</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

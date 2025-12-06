@@ -12,20 +12,20 @@ glon: 65.61722
 glat: -0.59501
 r50: 8.1
 plx: 1.233
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#fff8dc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.43
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 90</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>UPK 90</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 8.1

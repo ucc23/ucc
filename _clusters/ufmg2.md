@@ -12,17 +12,17 @@ glon: 326.13152
 glat: -1.36915
 r50: 3.9
 plx: 0.374
-UTI: "0.87"
-UTI_COLOR: "#b7dfc4"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UFMG 2</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

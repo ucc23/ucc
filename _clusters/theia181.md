@@ -12,17 +12,17 @@ glon: 319.4301
 glat: -7.38154
 r50: 30.2
 plx: 1.806
-UTI: "0.09"
-UTI_COLOR: "#efb5b3"
+UTI: "0.06"
+UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#fff1d4"
 UTI_C_dens_COL: "#fee6ca"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fdd9c3"
 UTI_C_N: 0.38
 UTI_C_dens: 0.32
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.26
 UTI_summary: |
     <b>Theia 181</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

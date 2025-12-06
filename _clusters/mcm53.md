@@ -44,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Juchert 10](/_clusters/juchert10/)| 100.0 | 220.07 | -60.38 | 0.18 | -4.99 | -2.69 | -70.49 |0.84 |
+    |[Juchert 10](/_clusters/juchert10/)| 100.0 | 220.07 | -60.38 | 0.18 | -4.99 | -2.69 | -70.49 |0.83 |
 ---

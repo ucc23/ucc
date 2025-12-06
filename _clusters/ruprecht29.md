@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruprecht 29
+title: Ruprecht29
 style: style
 title_flag: true
 more_names: 
@@ -12,29 +12,28 @@ glon: 240.1148
 glat: -0.82745
 r50: 3.4
 plx: 0.4398
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.66"
+UTI_COLOR: "#e7f5d0"
 UTI_C_N_COL: "#f7fcde"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.82
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 29</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Ruprecht29</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.4
 N_50_val: 63
-scix_url: Ruprecht%2029
+scix_url: Ruprecht29
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 115.325 | -24.355 | -- | -3.86 | 2.83 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 115.32 | -24.355 | -- | -3.161 | 4.385 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 115.279 | -24.377 | 0.44 | -2.138 | 1.617 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 115.279 | -24.377 | -- | -- | -- | 44.62 |
@@ -52,7 +51,6 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.094, distance=2312, log_age=8.6` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.288, Dist=4916, logt=8.9` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2131.6` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2131.6` |

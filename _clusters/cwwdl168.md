@@ -47,5 +47,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 242](/_clusters/cwnu242/)| 100.0 | 129.99 | -48.23 | 0.45 | -4.99 | 5.07 | 23.01 |0.1 |
-    |[UBC 1450](/_clusters/ubc1450/)| 89.8 | 129.99 | -48.23 | 0.46 | -4.99 | 5.09 | 35.4 |0.58 |
+    |[UBC 1450](/_clusters/ubc1450/)| 89.8 | 129.99 | -48.23 | 0.46 | -4.99 | 5.09 | 35.4 |0.55 |
 ---

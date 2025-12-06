@@ -12,17 +12,17 @@ glon: 224.0826
 glat: 1.1697
 r50: 12.4
 plx: 0.8734
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.57"
+UTI_COLOR: "#f6fbdc"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 0.86
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 22</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

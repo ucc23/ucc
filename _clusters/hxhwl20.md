@@ -12,17 +12,17 @@ glon: 303.13203
 glat: -0.87841
 r50: 4.9
 plx: 0.6502
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.57"
+UTI_COLOR: "#f6fbdc"
 UTI_C_N_COL: "#eef8d4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 20</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.

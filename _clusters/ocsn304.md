@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG2](/_clusters/rsg2/)| 97.0 | 110.72 | 55.28 | 5.04 | -2.84 | -31.21 | 10.89 |0.65 |
+    |[RSG2](/_clusters/rsg2/)| 97.0 | 110.72 | 55.28 | 5.04 | -2.84 | -31.21 | 10.89 |0.64 |
     |[CWNU 1128](/_clusters/cwnu1128/)| 67.2 | 110.61 | 55.28 | 5.04 | -2.74 | -31.14 | 11.02 |0.0 |
 ---

@@ -12,17 +12,17 @@ glon: 302.88257
 glat: 2.20625
 r50: 8.8
 plx: 0.5032
-UTI: "0.48"
-UTI_COLOR: "#fffde5"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#fffbe1"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.46
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 490</b> is a moderately populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a small percentage of members with a later reported entry.

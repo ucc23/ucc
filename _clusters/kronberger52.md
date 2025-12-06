@@ -3,7 +3,7 @@ layout: post
 title: Kronberger 52
 style: style
 title_flag: true
-more_names: DSH J1958.1+3053; FSR 0177
+more_names: MWSC 3211; DSH J1958.1+3053; FSR 0177
 fname: kronberger52
 fov: 0.057
 ra_icrs: 299.53763
@@ -12,17 +12,17 @@ glon: 67.62204
 glat: 0.84826
 r50: 1.7
 plx: 0.1205
-UTI: "0.89"
-UTI_COLOR: "#b1dcc2"
+UTI: "0.87"
+UTI_COLOR: "#b7dfc4"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.82
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Kronberger 52</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.
@@ -36,11 +36,13 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 299.533 | 30.888 | -- | -0.87 | -3.79 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 299.533 | 30.888 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 299.534 | 30.883 | -- | -2.43 | -4.1 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 299.533 | 30.883 | -- | -2.43 | -4.1 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 299.528 | 30.88 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 299.536 | 30.883 | 0.106 | -2.622 | -4.837 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 299.531 | 30.892 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 299.536 | 30.883 | 0.106 | -2.622 | -4.837 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 299.535 | 30.882 | 0.093 | -2.634 | -4.821 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 299.528 | 30.88 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 299.539 | 30.879 | 0.126 | -2.637 | -4.868 | -13.255 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 299.534 | 30.874 | 0.125 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 299.539 | 30.879 | 0.126 | -2.637 | -4.868 | -13.255 |
@@ -53,10 +55,12 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=2.45, Dist=705.0, Age=8.11` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.979, distance=2735, log_age=9.0` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.979, d=2735.0, logt=9.0` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.979, d=2735.0, logt=9.0` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=7408.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.49, DistPc=4997.0, AgeNN=8.61` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.862, Dist=5326, logage=8.809, [Fe/H]=0.076` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.0, logmt=2.142` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.881, diffAV50=2.666, MOD50=14.149, logAge50=8.007` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=3.73, dMod50=13.27, logAge50=8.51, [Fe/H]50=-0.35` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=7679.27, MassTot=8241.22` |

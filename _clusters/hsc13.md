@@ -12,17 +12,17 @@ glon: 1.16067
 glat: -1.99672
 r50: 3.9
 plx: 0.425
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#d2ecc9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.76
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HSC 13</b> is a poorly populated, dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 23
 style: style
 title_flag: true
-more_names: FSR 1286; OCL 632; ESO 492 17; MWSC 1248; FoF 90
+more_names: FSR 1286; MWSC 1248; OCL 632; ESO 492 17; FoF 90
 fname: ruprecht23
 fov: 0.15
 ra_icrs: 112.66251
@@ -36,7 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 112.662 | -23.393 | -- | -2.75 | 2.68 | -- |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 112.667 | -23.394 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 112.65 | -23.383 | -- | -1.89 | 3.53 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 112.65 | -23.383 | -- | -1.89 | 3.53 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 112.644 | -23.381 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 112.65 | -23.395 | -- | -2.537 | 2.82 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 112.665 | -23.383 | 0.341 | -2.078 | 1.56 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 112.671 | -23.375 | -- | -- | -- | -- |
@@ -44,6 +45,7 @@ posit_table: |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 112.65 | -23.378 | 0.349 | -2.032 | 1.549 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 112.665 | -23.383 | 0.341 | -2.078 | 1.56 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 112.669 | -23.387 | 0.34 | -2.081 | 1.553 | 54.405 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 112.644 | -23.381 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 112.658 | -23.38 | 0.344 | -2.058 | 1.624 | 55.244 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 112.654 | -23.368 | 0.346 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 112.658 | -23.38 | 0.344 | -2.058 | 1.624 | 55.244 |
@@ -56,13 +58,15 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.54, Dist=3060.0, Age=8.78` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.625, distance=3021, log_age=8.78` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.625, d=3021.0, logt=8.78` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.625, d=3021.0, logt=8.78` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.415, Dist=2850, logt=9.21` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2702.3` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2702.3` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.851, Z=-1.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.49, DistPc=2724.0, AgeNN=8.61` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.175, Dist=1887, logage=8.955, [Fe/H]=0.245` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.78, logmt=2.698` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.749, diffAV50=1.483, MOD50=12.087, logAge50=8.68` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.1, dMod50=12.02, logAge50=8.68, [Fe/H]50=-0.09` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=891.883, MassTot=891.883` |
@@ -70,5 +74,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1592](/_clusters/cwnu1592/)| 1.2 | 112.67 | -23.15 | 0.32 | -1.76 | 1.72 | -- |0.4 |
+    |[CWNU 1592](/_clusters/cwnu1592/)| 1.2 | 112.67 | -23.15 | 0.32 | -1.76 | 1.72 | -- |0.37 |
 ---

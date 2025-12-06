@@ -12,20 +12,20 @@ glon: 331.86909
 glat: 4.62735
 r50: 17.5
 plx: 1.7615
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.78"
+UTI_COLOR: "#ceeac9"
 UTI_C_N_COL: "#d0ebc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Alessi 190</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Alessi 190</b> is a rich, very dense object of very high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 17.5

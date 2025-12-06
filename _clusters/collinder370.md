@@ -3,7 +3,7 @@ layout: post
 title: Collinder 370
 style: style
 title_flag: true
-more_names: NGC 6583; OCL 27; ESO 590 11; FSR 0032; MWSC 2860; FoF 152
+more_names: NGC 6583; MWSC 2860; OCL 27; ESO 590 11; FSR 0032; FoF 152
 fname: collinder370
 fov: 0.11
 ra_icrs: 273.95951
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 273.954 | -22.137 | -- | -8.75 | -6.55 | 3.0 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 273.954 | -22.133 | -- | -4.76 | 0.51 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 273.954 | -22.133 | -- | -4.76 | 0.51 | 3.0 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 273.945 | -22.134 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 273.962 | -22.143 | 0.413 | 1.303 | 0.11 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 273.949 | -22.137 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 273.962 | -22.143 | -- | -- | -- | -2.27 |
@@ -44,6 +45,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 273.959 | -22.144 | 0.414 | 1.307 | 0.113 | -1.297 |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 273.962 | -22.143 | 0.413 | 1.303 | 0.11 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 273.961 | -22.142 | 0.446 | 1.294 | 0.098 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 273.945 | -22.134 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 273.962 | -22.145 | 0.405 | 1.329 | 0.078 | -1.512 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 273.961 | -22.14 | 0.405 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 273.962 | -22.145 | 0.405 | 1.329 | 0.078 | -1.512 |
@@ -57,7 +59,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.51, Dist=2040.0, Age=9.0, [Fe/H]=0.37` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.562, distance=1753, log_age=9.0, metallicity=0.37` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.562, d=1753.0, logt=9.0, [Fe/H]=0.37` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.562, d=1753.0, logt=9.0` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2262.1` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2262.1` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.55, Z=0.5` |
@@ -65,6 +68,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.836, Dist=2162, logage=8.973, [Fe/H]=0.293` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.51, Dist=2262.1, log(Age)=9.0, NBSS=1` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=2.238` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.0, logmt=1.424` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.139, diffAV50=1.578, MOD50=11.775, logAge50=8.794` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.74, dMod50=10.65, logAge50=9.16, [Fe/H]50=-0.81` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=3484.90, MassTot=3500.99` |

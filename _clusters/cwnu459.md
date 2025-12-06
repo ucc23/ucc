@@ -12,17 +12,17 @@ glon: 111.11082
 glat: 0.40018
 r50: 7.6
 plx: 0.3342
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.36"
+UTI_COLOR: "#ffedd1"
 UTI_C_N_COL: "#fffae0"
 UTI_C_dens_COL: "#fbcebe"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.45
 UTI_C_dens: 0.21
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.96
 UTI_summary: |
     <b>CWNU 459</b> is a poorly populated, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
@@ -52,6 +52,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.21 |
+    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.26 |
     |[CWWDL 2573](/_clusters/cwwdl2573/)| 2.2 | 347.57 | 60.95 | 0.32 | -4.13 | -1.97 | -- |0.03 |
 ---

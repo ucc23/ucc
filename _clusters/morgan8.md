@@ -3,7 +3,7 @@ layout: post
 title: Morgan 8
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 597
 fname: morgan8
 fov: 0.183
 ra_icrs: 84.12541
@@ -25,7 +25,7 @@ UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
 UTI_summary: |
-    <b>Morgan 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
+    <b>Morgan 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.5
@@ -34,7 +34,9 @@ scix_url: Morgan%208
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 84.112 | -6.42 | -- | 2.03 | -2.39 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 84.112 | -6.42 | -- | 2.03 | -2.39 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 84.106 | -6.42 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 84.106 | -6.42 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |84.125 | -6.424 | 2.548 | 0.846 | 0.298 | 16.822 | 
 cds_radec: 84.12541,-6.42372
@@ -42,7 +44,9 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.042, distance=314, log_age=7.2` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.042, d=314.0, logt=7.2` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.042, d=314.0, logt=7.2` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.2, logmt=0.526` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

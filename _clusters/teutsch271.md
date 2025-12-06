@@ -12,17 +12,17 @@ glon: 25.78378
 glat: -0.16308
 r50: 3.4
 plx: 0.3781
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#c1e4c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 271</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with 2 later reported entries.

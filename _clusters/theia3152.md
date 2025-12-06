@@ -12,20 +12,20 @@ glon: 235.44943
 glat: -2.20964
 r50: 7.8
 plx: 0.2934
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fffee7"
 UTI_C_dens_COL: "#f7c3b9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a8cdbb"
 UTI_C_N: 0.49
 UTI_C_dens: 0.16
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.98
 UTI_summary: |
-    <b>Theia 3152</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.
+    <b>Theia 3152</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.98) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.8

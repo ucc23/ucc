@@ -12,17 +12,17 @@ glon: 52.00206
 glat: -2.73989
 r50: 7.2
 plx: 0.8793
-UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 27</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.

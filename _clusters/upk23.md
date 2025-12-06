@@ -12,20 +12,20 @@ glon: 21.1231
 glat: -5.24558
 r50: 13.2
 plx: 1.0036
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#fff1d4"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.52
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 23</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>UPK 23</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 13.2

@@ -3,7 +3,7 @@ layout: post
 title: Melotte 24
 style: style
 title_flag: true
-more_names: Collinder 48; IC 361; OCL 393; FSR 0652; MWSC 362; FoF 615
+more_names: Collinder 48; IC 361; MWSC 362; OCL 393; FSR 0652; FoF 615
 fname: melotte24
 fov: 0.147
 ra_icrs: 64.73686
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 64.75 | 58.3 | -- | 1.28 | -2.52 | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 64.74 | 58.25 | -- | 5.76 | -5.44 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 64.74 | 58.25 | -- | 5.76 | -5.44 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 64.727 | 58.249 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 64.74 | 58.25 | -- | 4.91 | -5.504 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 64.736 | 58.252 | 0.227 | 1.721 | -1.139 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 64.731 | 58.253 | -- | -- | -- | -- |
@@ -45,6 +47,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 64.738 | 58.258 | 0.231 | 1.753 | -1.132 | -29.978 |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 64.736 | 58.252 | 0.227 | 1.721 | -1.139 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 64.739 | 58.252 | 0.254 | 1.712 | -1.136 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 64.727 | 58.249 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 64.733 | 58.251 | 0.25 | 1.693 | -1.183 | -35.713 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 64.742 | 58.252 | 0.251 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 64.733 | 58.251 | 0.25 | 1.693 | -1.183 | -35.713 |
@@ -58,7 +61,9 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.117, Dist=1070.0, Age=7.718` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.65, distance=3000, log_age=8.982` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.65, d=3000.0, logt=8.982` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.65, d=3000.0, logt=8.982` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.65, d=3000.0, logt=8.982` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.916, Dist=1858, logt=8.148` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3909.0` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=3909.0` |
@@ -67,6 +72,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.334, Dist=3408, logage=9.061, [Fe/H]=-0.248` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=1.11, Dist=3909.0, log(Age)=7.71, NBSS=2` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=4.019` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.982, logmt=3.129` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.052, diffAV50=0.869, MOD50=12.782, logAge50=8.905` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.48, dMod50=12.54, logAge50=9.0, [Fe/H]50=-0.1` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=7742.95, MassTot=7742.95` |

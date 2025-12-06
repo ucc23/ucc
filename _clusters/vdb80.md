@@ -12,17 +12,17 @@ glon: 219.22048
 glat: -8.91393
 r50: 10.6
 plx: 1.0134
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.80"
+UTI_COLOR: "#c9e8c8"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#d4edca"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>VDB 80</b> is a rich, very dense object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is well-studied in the literature.

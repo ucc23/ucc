@@ -12,20 +12,20 @@ glon: 203.97154
 glat: -1.34042
 r50: 6.4
 plx: 0.478
-UTI: "0.65"
-UTI_COLOR: "#e9f5d1"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#ceeac9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.78
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 83</b> is a moderately populated, dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
+    <b>UBC 83</b> is a moderately populated, dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.4

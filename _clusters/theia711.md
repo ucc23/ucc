@@ -12,17 +12,17 @@ glon: 25.84449
 glat: -2.89022
 r50: 30.4
 plx: 2.296
-UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fee6ca"
 UTI_C_N: 0.0
 UTI_C_dens: 0.3
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.32
 UTI_summary: |
     <b>Theia 711</b> is a sparse, loose object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

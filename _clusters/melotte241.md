@@ -3,7 +3,7 @@ layout: post
 title: Melotte 241
 style: style
 title_flag: true
-more_names: Collinder 449; NGC 7245; OCL 225; FSR 0348; MWSC 3603; FoF 166
+more_names: Collinder 449; NGC 7245; MWSC 3603; OCL 225; FSR 0348; FoF 166
 fname: melotte241
 fov: 0.107
 ra_icrs: 333.81425
@@ -36,6 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 333.796 | 54.343 | -- | -1.98 | -1.76 | 65.3 |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 333.81 | 54.333 | -- | -5.62 | -3.2 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 333.81 | 54.333 | -- | -5.62 | -3.2 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 333.804 | 54.33 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 333.795 | 54.343 | -- | -0.641 | -0.408 | 65.3 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 333.812 | 54.336 | 0.273 | -3.952 | -3.249 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 333.807 | 54.338 | -- | -- | -- | -- |
@@ -43,6 +45,7 @@ posit_table: |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 333.829 | 54.336 | 0.295 | -3.841 | -3.188 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 333.812 | 54.336 | 0.273 | -3.952 | -3.249 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 333.811 | 54.337 | 0.276 | -3.955 | -3.252 | -73.125 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 333.804 | 54.33 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 333.809 | 54.339 | 0.273 | -3.942 | -3.281 | -74.444 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 333.807 | 54.336 | 0.274 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 333.809 | 54.339 | 0.273 | -3.942 | -3.281 | -74.444 |
@@ -56,13 +59,16 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.45, Dist=3467.0, Age=8.65, [Fe/H]=-0.15` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.475, distance=4000, log_age=8.55` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.475, d=4000.0, logt=8.55` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.475, d=4000.0, logt=8.55` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.475, d=4000.0, logt=8.55` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.457, Dist=2175, logt=8.275` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3307.0` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=3307.0` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.576, Z=0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.96, DistPc=3210.0, AgeNN=8.78` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.412, Dist=2884, logage=8.652, [Fe/H]=-0.006` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.55, logmt=3.082` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.155, diffAV50=0.419, MOD50=12.788, logAge50=8.58` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.32, dMod50=12.39, logAge50=8.72, [Fe/H]50=0.09` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1783.74, MassTot=1783.74` |

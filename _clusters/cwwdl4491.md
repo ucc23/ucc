@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 92](/_clusters/ufmg92/)| 100.0 | 269.02 | -29.51 | 0.38 | -0.08 | -0.48 | -18.64 |0.68 |
+    |[UFMG 92](/_clusters/ufmg92/)| 100.0 | 269.02 | -29.51 | 0.38 | -0.08 | -0.48 | -18.64 |0.65 |
     |[UBC 1567](/_clusters/ubc1567/)| 98.1 | 269.02 | -29.51 | 0.38 | -0.1 | -0.48 | -18.64 |0.0 |
 ---

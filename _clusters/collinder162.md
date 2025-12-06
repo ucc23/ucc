@@ -3,7 +3,7 @@ layout: post
 title: Collinder 162
 style: style
 title_flag: true
-more_names: NGC 2453; OCL 670; ESO 493 12; MWSC 13409
+more_names: NGC 2453; MWSC 1340; OCL 670; ESO 493 12; MWSC 13409
 fname: collinder162
 fov: 0.08
 ra_icrs: 116.89626
@@ -36,7 +36,8 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 116.896 | -27.195 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 116.896 | -27.195 | -- | -2.84 | 2.56 | 33.94 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 116.903 | -27.193 | -- | 2.99 | 8.5 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 116.902 | -27.193 | -- | 2.99 | 8.5 | 33.9 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 116.897 | -27.191 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 116.895 | -27.194 | -- | -0.696 | 2.775 | 33.9 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 116.894 | -27.194 | 0.205 | -2.336 | 3.414 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 116.908 | -27.194 | -- | -- | -- | -- |
@@ -46,6 +47,7 @@ posit_table: |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 116.889 | -27.189 | 0.22 | -2.331 | 3.403 | -- |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 116.894 | -27.194 | 0.205 | -2.336 | 3.414 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 116.899 | -27.195 | 0.233 | -2.355 | 3.42 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 116.897 | -27.191 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 116.902 | -27.196 | 0.219 | -2.338 | 3.434 | 85.517 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 116.867 | -27.183 | 0.216 | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 116.894 | -27.194 | -- | -- | -- | -- |
@@ -60,7 +62,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.48, DM0=11.9, log_age_=6.4` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.446, Dist=2150.0, Age=7.187` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.666, distance=2383, log_age=7.865` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.666, d=2383.0, logt=7.865` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.666, d=2383.0, logt=7.865` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.433, Dist=2189, logt=7.261` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4268.3` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=4268.3` |
@@ -69,6 +72,7 @@ fpars_table: |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.624, Dist=3842, logage=7.498, [Fe/H]=-0.171` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.44, Dist=4268.3, log(Age)=7.18, NBSS=0` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=4.27` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=7.865, logmt=1.993` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.216, diffAV50=2.249, MOD50=13.042, logAge50=8.086` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.34, dMod50=13.01, logAge50=8.27, [Fe/H]50=0.31` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=25.1, Mc=720.1` |

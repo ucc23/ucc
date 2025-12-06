@@ -12,20 +12,20 @@ glon: 87.45588
 glat: -0.01438
 r50: 2.5
 plx: 0.1553
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.15"
+UTI_COLOR: "#f6c1b8"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fcd5c1"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.24
 UTI_C_C3: 0.25
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Theia 2850</b> is a poorly populated, very loose object of low C3 quality. It is located at a large distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>Theia 2850</b> is a poorly populated, very loose object of low C3 quality. It is located at a large distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.5

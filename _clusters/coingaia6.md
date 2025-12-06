@@ -3,7 +3,7 @@ layout: post
 title: COIN-Gaia 6
 style: style
 title_flag: true
-more_names: FoF 74
+more_names: COIN 6; FoF 74
 fname: coingaia6
 fov: 0.123
 ra_icrs: 28.10062
@@ -12,20 +12,20 @@ glon: 130.80422
 glat: -3.29775
 r50: 3.7
 plx: 0.2952
-UTI: "0.81"
-UTI_COLOR: "#c6e6c8"
+UTI: "0.76"
+UTI_COLOR: "#d2ecc9"
 UTI_C_N_COL: "#ceeac9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>COIN-Gaia 6</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>COIN-Gaia 6</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.7
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 28.101 | 58.636 | 0.28 | -2.35 | -0.44 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 28.101 | 58.636 | -- | -- | -- | 2.138 |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 28.234 | 58.626 | 0.271 | -2.037 | -0.389 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 28.101 | 58.636 | 0.277 | -2.355 | -0.49 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 28.082 | 58.625 | 0.272 | -2.382 | -0.484 | -42.341 |
@@ -51,6 +52,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=3267` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.704, Dist=3.055, logAge=7.696, Z=0.003` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=1.1, Z=-0.25` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.18, DistPc=3259.0, AgeNN=8.68` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.559, Dist=2899, logage=8.767, [Fe/H]=-0.129` |

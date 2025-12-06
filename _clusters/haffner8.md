@@ -12,20 +12,20 @@ glon: 227.47335
 glat: 1.29057
 r50: 3.9
 plx: 0.326
-UTI: "0.92"
-UTI_COLOR: "#add7c0"
+UTI: "0.83"
+UTI_COLOR: "#c1e4c6"
 UTI_C_N_COL: "#bee2c6"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 1.0
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Haffner 8</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is very well-studied in the literature.
+    <b>Haffner 8</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.9
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 110.85 | -12.333 | -- | -3.6 | -0.73 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 110.793 | -12.308 | -- | -0.92 | 0.62 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 110.777 | -12.31 | 0.314 | -1.626 | 0.446 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 110.765 | -12.294 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 110.777 | -12.31 | -- | -- | -- | 61.49 |
@@ -56,7 +55,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.032, Dist=2380.0, Age=8.5, [Fe/H]=0.06` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.029, distance=1197, log_age=9.035, metallicity=0.06` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2914.1` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2914.1` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=0.063, Z=0.5` |

@@ -12,17 +12,17 @@ glon: 282.0415
 glat: -2.39394
 r50: 4.3
 plx: 0.4288
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.75"
+UTI_COLOR: "#d4edca"
 UTI_C_N_COL: "#ebf6d2"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 35</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 150.379 | -58.198 | 0.405 | -6.973 | 3.967 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 150.379 | -58.198 | -- | -- | -- | 86.46 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 150.379 | -58.198 | -- | -- | -- | 2.984 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 150.379 | -58.198 | 0.405 | -6.973 | 3.967 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 150.35 | -58.191 | 0.411 | -6.961 | 3.982 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 150.379 | -58.206 | 0.43 | -6.952 | 4.004 | -12.163 |
@@ -51,6 +52,7 @@ fpars_table: |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2301.9` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2301.9` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.349, Dist=2.268, logAge=8.003, Z=0.015` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.05, DistPc=2365.0, AgeNN=8.19` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.318, Dist=2127, logage=7.839, [Fe/H]=0.267` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.329, diffAV50=1.55, MOD50=11.632, logAge50=8.027` |

@@ -44,6 +44,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.68 |
+    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.66 |
     |[OC 0608](/_clusters/oc0608/)| 20.5 | 214.85 | -61.43 | 0.59 | -3.19 | -3.14 | -55.63 |0.0 |
 ---

@@ -12,20 +12,20 @@ glon: 160.45012
 glat: -2.45022
 r50: 2.9
 plx: 0.2229
-UTI: "0.60"
-UTI_COLOR: "#f2f9d6"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Teutsch 4</b> is a rich, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Teutsch 4</b> is a rich, very dense object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 2.9

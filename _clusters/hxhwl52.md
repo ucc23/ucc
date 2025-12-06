@@ -12,17 +12,17 @@ glon: 220.26774
 glat: 0.59467
 r50: 7.3
 plx: 0.5866
-UTI: "0.25"
-UTI_COLOR: "#fdd7c3"
+UTI: "0.24"
+UTI_COLOR: "#fcd5c1"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#feeace"
 UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.34
 UTI_C_C3: 0.25
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 52</b> is a sparse, loose object of low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -38,6 +38,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 106.828 | -6.297 | 0.591 | -0.238 | -0.624 | 18.882 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 106.789 | -6.33 | 0.591 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 106.828 | -6.297 | 0.591 | -0.238 | -0.624 | 18.882 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 106.828 | -6.297 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |106.746 | -6.257 | 0.587 | -0.233 | -0.634 | 36.241 | 
 cds_radec: 106.74612,-6.25663
@@ -49,6 +50,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.623, diffAV50=0.848, MOD50=11.003, logAge50=8.384` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.75, dMod50=11.07, logAge50=8.59, [Fe/H]50=0.13` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=141.345, MassTot=200.904` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1839, [Fe/H]MCMC=-0.1578` |
 shared_table: |
     
 ---

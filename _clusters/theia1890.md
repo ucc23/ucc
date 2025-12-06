@@ -12,17 +12,17 @@ glon: 260.36553
 glat: -1.63372
 r50: 13.5
 plx: 0.7989
-UTI: "0.15"
-UTI_COLOR: "#f6c1b8"
+UTI: "0.12"
+UTI_COLOR: "#f3bab5"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#add7c0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fdd7c3"
 UTI_C_N: 0.75
 UTI_C_dens: 0.92
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.25
 UTI_summary: |
     <b>Theia 1890</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.

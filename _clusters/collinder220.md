@@ -3,7 +3,7 @@ layout: post
 title: Collinder 220
 style: style
 title_flag: true
-more_names: NGC3247; Cr220; OCL 809; ESO 127 19; MWSC 1803; FoF 1013
+more_names: NGC3247; MWSC 1803; Cr220; OCL 809; ESO 127 19; FoF 1013
 fname: collinder220
 fov: 0.16
 ra_icrs: 156.42044
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 156.467 | -57.927 | -- | -3.57 | 1.89 | -13.0 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 156.465 | -57.915 | -- | -5.94 | 2.51 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 156.465 | -57.915 | -- | -5.94 | 2.51 | -13.0 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 156.459 | -57.911 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 156.465 | -57.927 | -- | -6.947 | -0.633 | -13.0 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 156.429 | -57.922 | 0.364 | -7.339 | 2.677 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 156.467 | -57.913 | -- | -- | -- | -- |
@@ -45,6 +46,7 @@ posit_table: |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 156.429 | -57.922 | 0.364 | -7.339 | 2.677 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 156.432 | -57.927 | 0.361 | -7.351 | 2.684 | -- |
     |[Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | 156.703 | -57.929 | 0.319 | -6.498 | 3.012 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 156.459 | -57.911 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 156.423 | -57.923 | 0.393 | -7.348 | 2.705 | -17.936 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 156.429 | -57.924 | 0.394 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 156.423 | -57.923 | 0.393 | -7.348 | 2.705 | -17.936 |
@@ -57,7 +59,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.221, Dist=1547.0, Age=8.083` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.221, distance=1465, log_age=8.57` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.221, d=1465.0, logt=8.57` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.221, d=1465.0, logt=8.57` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.225, Dist=1592, logt=8.091` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2542.6` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2542.6` |
@@ -66,6 +69,7 @@ fpars_table: |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.72, DistPc=2457.0, AgeNN=8.37` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=1.088, Dist=2231, logage=8.193, [Fe/H]=-0.016` |
     | [Jaehnig et al. (2021)](https://scixplorer.org/abs/2021ApJ...923..129J) | `dmode=2.987` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.57, logmt=2.064` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.818, diffAV50=1.432, MOD50=11.827, logAge50=8.311` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.81, dMod50=11.68, logAge50=8.48, [Fe/H]50=0.09` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=983.989, MassTot=1045.58` |

@@ -12,17 +12,17 @@ glon: 265.44299
 glat: -0.91078
 r50: 4.9
 plx: 0.4294
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.72"
+UTI_COLOR: "#dbf0ca"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Gulliver 5</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 132.626 | -45.509 | 0.406 | -5.102 | 4.904 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 132.626 | -45.509 | -- | -- | -- | 2.476 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 132.626 | -45.509 | 0.406 | -5.102 | 4.904 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 132.61 | -45.492 | 0.404 | -5.108 | 4.912 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 132.571 | -45.519 | 0.432 | -5.044 | 4.967 | -46.929 |
@@ -49,6 +50,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2297.8` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.644, Dist=2.519, logAge=7.138, Z=0.027` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.5, DistPc=2135.0, AgeNN=7.58` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.011, Dist=2272, logage=6.868, [Fe/H]=0.069` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.069, diffAV50=2.636, MOD50=11.647, logAge50=6.933` |

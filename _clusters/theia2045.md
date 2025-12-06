@@ -12,17 +12,17 @@ glon: 12.00498
 glat: -0.70165
 r50: 11.3
 plx: 0.5176
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.16"
+UTI_COLOR: "#f7c3b9"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#dff2cb"
 UTI_C_N: 0.27
 UTI_C_dens: 0.13
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.7
 UTI_summary: |
     <b>Theia 2045</b> is a poorly populated, very loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

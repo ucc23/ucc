@@ -12,17 +12,17 @@ glon: 255.78568
 glat: -4.53193
 r50: 7.9
 plx: 0.6712
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fff6da"
 UTI_C_dens_COL: "#dbf0ca"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.42
 UTI_C_dens: 0.72
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 71</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.

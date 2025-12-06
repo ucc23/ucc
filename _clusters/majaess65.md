@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 87.433 | 27.108 | -- | -3.0 | 3.47 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 87.433 | 27.108 | -- | -0.275 | -0.981 | 2.114 |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 87.428 | 27.075 | 0.974 | -0.258 | -1.063 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 87.428 | 27.075 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -44,6 +45,7 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.285, Dist=0.975, logAge=7.667, Z=0.014` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.768, Dist=944, logage=8.207, [Fe/H]=0.006` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.768, Dist=944, logAge=8.207, MassRk=126.8` |
 shared_table: |

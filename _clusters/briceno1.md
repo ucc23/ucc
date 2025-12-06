@@ -17,12 +17,12 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#b4ddc3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.88
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 0.0
 UTI_summary: |
     <b>Briceno1</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -39,6 +39,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 81.083 | 1.696 | 2.888 | 1.384 | -0.016 | 11.585 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 81.146 | 1.633 | 2.889 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 81.083 | 1.696 | 2.888 | 1.384 | -0.016 | 11.585 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 81.083 | 1.696 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |81.206 | 1.679 | 2.877 | 1.378 | -0.06 | 18.285 | 
 cds_radec: 81.20615,+1.67948
@@ -51,6 +52,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.177, diffAV50=0.594, MOD50=7.639, logAge50=6.913` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.54, dMod50=7.67, logAge50=6.7, [Fe/H]50=-0.2` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=117.927, MassTot=118.494` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1490, [Fe/H]MCMC=-0.1282` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

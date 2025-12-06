@@ -12,17 +12,17 @@ glon: 169.49729
 glat: 0.14612
 r50: 9.4
 plx: 0.6442
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.44"
+UTI_COLOR: "#fff8de"
 UTI_C_N_COL: "#fff4d6"
 UTI_C_dens_COL: "#fff8de"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.4
 UTI_C_dens: 0.44
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 63</b> is a poorly populated, loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.

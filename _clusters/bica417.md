@@ -44,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.78 |
+    |[Westerlund 2](/_clusters/westerlund2/)| 95.0 | 156.01 | -57.76 | 0.2 | -5.32 | 2.87 | 68.86 |0.71 |
 ---

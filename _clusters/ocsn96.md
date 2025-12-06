@@ -12,17 +12,17 @@ glon: 350.74302
 glat: 22.0364
 r50: 102.2
 plx: 7.0238
-UTI: "0.70"
-UTI_COLOR: "#dff2cb"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#b9e0c4"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cbba"
 UTI_C_N: 0.86
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.99
 UTI_summary: |
     <b>OCSN 96</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.This is a unique object, which shares a very small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
@@ -53,8 +53,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 246](/_clusters/ocsn246/)| 38.7 | 244.71 | -24.21 | 6.77 | -10.35 | -22.98 | -6.68 |0.59 |
-    |[OCSN 100](/_clusters/ocsn100/)| 4.4 | 242.71 | -19.44 | 7.17 | -8.76 | -24.38 | -7.18 |0.69 |
+    |[OCSN 100](/_clusters/ocsn100/)| 4.4 | 242.71 | -19.44 | 7.17 | -8.76 | -24.38 | -7.18 |0.65 |
     |[HSC 2907](/_clusters/hsc2907/)| 0.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.0 |
     |[Upper Sco](/_clusters/uppersco/)| 0.8 | 241.77 | -27.09 | 7.02 | -15.58 | -23.3 | -1.41 |0.22 |
-    |[OCSN 98](/_clusters/ocsn98/)| 0.5 | 241.26 | -19.7 | 6.56 | -9.89 | -21.69 | -7.92 |0.65 |
+    |[OCSN 98](/_clusters/ocsn98/)| 0.5 | 241.26 | -19.7 | 6.56 | -9.89 | -21.69 | -7.92 |0.55 |
 ---

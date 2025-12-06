@@ -12,17 +12,17 @@ glon: 265.77766
 glat: 1.86743
 r50: 17.4
 plx: 1.0473
-UTI: "0.37"
-UTI_COLOR: "#ffefd2"
+UTI: "0.33"
+UTI_COLOR: "#fee8cc"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#fdd7c3"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.25
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 182</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a very small percentage of members with a later reported entry.
@@ -54,5 +54,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2136](/_clusters/hsc2136/)| 3.4 | 135.41 | -43.24 | 1.21 | -9.51 | 5.69 | 15.49 |0.2 |
+    |[HSC 2136](/_clusters/hsc2136/)| 3.4 | 135.41 | -43.24 | 1.21 | -9.51 | 5.69 | 15.49 |0.1 |
 ---

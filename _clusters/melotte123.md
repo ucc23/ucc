@@ -36,7 +36,10 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 211.863 | -48.343 | -- | -5.07 | 2.31 | -17.9 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 211.95 | -48.355 | -- | -7.04 | -3.23 | -14.0 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 211.86 | -48.32 | -- | -5.47 | -3.77 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 211.86 | -48.34 | -- | -5.7 | -3.58 | -12.7 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 211.848 | -48.334 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 211.86 | -48.34 | -- | 0.38 | -- | -12.31 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 211.848 | -48.334 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 211.86 | -48.343 | -- | -6.523 | -0.662 | -12.3 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 211.847 | -48.285 | 1.34 | -6.599 | -3.454 | -- |
@@ -64,6 +67,8 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.092, Dist=700.0, Age=8.2, [Fe/H]=-0.06` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `HDis=678, Age=0.16` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.09, Dist=678` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.09, Dist=673, logt=8.31` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.09, Dist=673, logt=8.31, logM=2.337` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.09, Dist=673, logt=8.31, logM=2.703, logMA=2.232` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.095, Dist=677, logt=8.207` |

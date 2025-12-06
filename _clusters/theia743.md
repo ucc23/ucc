@@ -12,17 +12,17 @@ glon: 293.56
 glat: 0.7811
 r50: 23.4
 plx: 1.5188
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#d9efca"
 UTI_C_dens_COL: "#a9d1bc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#def1cb"
 UTI_C_N: 0.73
 UTI_C_dens: 0.96
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.71
 UTI_summary: |
     <b>Theia 743</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

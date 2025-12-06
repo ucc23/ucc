@@ -3,7 +3,7 @@ layout: post
 title: Dolidze 32
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2972
 fname: dolidze32
 fov: 0.197
 ra_icrs: 280.24662
@@ -12,20 +12,20 @@ glon: 28.11959
 glat: 0.45975
 r50: 5.9
 plx: 0.4682
-UTI: "0.86"
-UTI_COLOR: "#b9e0c4"
+UTI: "0.81"
+UTI_COLOR: "#c6e6c8"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Dolidze 32</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>Dolidze 32</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 5.9
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 280.271 | -4.081 | -- | -0.67 | -1.75 | 14.0 |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 280.305 | -4.035 | -- | -0.25 | -3.6 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 280.305 | -4.035 | -- | -0.25 | -3.6 | 14.0 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 280.298 | -4.037 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 280.26 | -4.054 | 0.464 | -0.705 | -2.027 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 280.26 | -4.054 | 0.464 | -0.705 | -2.027 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 280.266 | -4.055 | 0.467 | -0.695 | -2.025 | -- |
@@ -51,7 +52,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.457, Dist=1381.0, Age=6.0` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=1.457, distance=1381, log_age=6.0` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=1.457, d=1381.0, logt=6.0` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=1.457, d=1381.0, logt=6.0` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2026.9` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=3.0, DistPc=2085.0, AgeNN=8.01` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=3.072, Dist=1991, logage=7.097, [Fe/H]=0.035` |

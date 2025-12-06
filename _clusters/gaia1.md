@@ -12,20 +12,20 @@ glon: 227.32334
 glat: -8.74003
 r50: 4.9
 plx: 0.1681
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Gaia 1</b> is a very rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
+    <b>Gaia 1</b> is a very rich, very dense object of high C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with 3 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.9

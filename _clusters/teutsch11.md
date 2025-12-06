@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 11
 style: style
 title_flag: true
-more_names: DSH J0625.4+1351; MWSC 863
+more_names: MWSC 863; DSH J0625.4+1351
 fname: teutsch11
 fov: 0.05
 ra_icrs: 96.3469
@@ -36,10 +36,12 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 96.346 | 13.87 | -- | 0.98 | 2.89 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 96.352 | 13.866 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 96.347 | 13.867 | -- | 1.92 | -3.01 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 96.346 | 13.867 | -- | 1.92 | -3.01 | 21.0 |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 96.338 | 13.869 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 96.352 | 13.878 | 0.176 | 0.382 | -0.619 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 96.349 | 13.871 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 96.352 | 13.878 | 0.176 | 0.382 | -0.619 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 96.338 | 13.869 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |96.347 | 13.879 | 0.183 | 0.317 | -0.563 | -- | 
 cds_radec: 96.3469,+13.87904
@@ -48,9 +50,11 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.7, Dist=3443.0, Age=8.7` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.708, distance=5302, log_age=8.8` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.708, d=5302.0, logt=8.8` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.708, d=5302.0, logt=8.8` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4890.7` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.4, DistPc=6309.0, AgeNN=9.3` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.8, logmt=3.377` |
 shared_table: |
     
 ---

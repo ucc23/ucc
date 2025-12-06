@@ -47,7 +47,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 335](/_clusters/ubc335/)| 100.0 | 266.57 | -29.18 | 0.48 | 1.72 | -0.79 | -34.64 |0.27 |
-    |[FoF 1624](/_clusters/fof1624/)| 97.6 | 266.58 | -29.17 | 0.48 | 1.72 | -0.79 | -34.94 |0.68 |
+    |[FoF 1624](/_clusters/fof1624/)| 97.6 | 266.58 | -29.17 | 0.48 | 1.72 | -0.79 | -34.94 |0.65 |
     |[OC 0704](/_clusters/oc0704/)| 18.4 | 266.58 | -29.18 | 0.49 | 1.72 | -0.79 | -34.16 |0.0 |
     |[Ryu 534](/_clusters/ryu534/)| 2.4 | 266.38 | -29.08 | 0.5 | 1.78 | -0.82 | -36.72 |0.22 |
 ---

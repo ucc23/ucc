@@ -12,17 +12,17 @@ glon: 290.31879
 glat: -2.97822
 r50: 1.3
 plx: 0.2652
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.58
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Graham 1</b> is a sparse, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
@@ -37,6 +37,7 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 164.133 | -63.018 | -- | -6.99 | 4.89 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 164.134 | -63.018 | 0.218 | -6.324 | 2.178 | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 164.134 | -63.018 | -- | -- | -- | 3.88 |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 164.134 | -63.018 | -- | -6.303 | 2.164 | 2.598 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 164.134 | -63.018 | 0.218 | -6.324 | 2.178 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 164.148 | -63.017 | 0.222 | -6.338 | 2.148 | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 164.134 | -63.018 | -- | -- | -- | -- |
@@ -51,6 +52,7 @@ fpars_table: |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `Dist=3600.0` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4056.2` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=4056.2` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.684, Dist=4.944, logAge=6.898, Z=0.039` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.29, DistPc=3558.0, AgeNN=7.19` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.208, Dist=3647, logage=6.805, [Fe/H]=-0.003` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=15.5, Mc=261.8` |

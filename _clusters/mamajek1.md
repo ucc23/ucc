@@ -12,17 +12,17 @@ glon: 292.49701
 glat: -21.57011
 r50: 83.2
 plx: 9.9839
-UTI: "0.79"
-UTI_COLOR: "#cbe9c9"
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
 UTI_C_N_COL: "#fffae0"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Mamajek 1</b> is a poorly populated, very dense object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 130.525 | -79.027 | -- | -30.0 | 27.8 | 16.1 |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 130.53 | -79.03 | -- | -30.05 | 27.57 | 15.05 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 130.53 | -79.03 | -- | 0.4 | -- | 15.05 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 130.536 | -79.024 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 130.637 | -78.963 | 10.13 | -29.834 | 26.99 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 130.484 | -79.008 | -- | -- | -- | -- |
@@ -54,6 +56,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.0, Dist=97.0, Age=6.9` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.0, Dist=105, logt=6.9` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.0, Dist=105, logt=6.9, logMA=-0.373` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=104.0` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=104.0` |

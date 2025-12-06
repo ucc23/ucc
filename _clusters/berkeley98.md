@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 98
 style: style
 title_flag: true
-more_names: FSR 0361; OCL 234; MWSC 3655; FoF 48
+more_names: FSR 0361; MWSC 3655; OCL 234; FoF 48
 fname: berkeley98
 fov: 0.11
 ra_icrs: 340.66488
@@ -37,6 +37,8 @@ posit_table: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 340.658 | 52.388 | -- | -0.47 | -1.52 | -- |
     |[Froebrich et al. (2007)](https://scixplorer.org/abs/2007MNRAS.374..399F) | 340.679 | 52.411 | -- | -- | -- | -- |
     |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 340.654 | 52.368 | -- | -5.83 | -0.37 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 340.654 | 52.368 | -- | -5.83 | -0.37 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 340.647 | 52.364 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 340.665 | 52.388 | -- | -5.278 | 0.432 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 340.665 | 52.407 | 0.253 | -1.353 | -3.186 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 340.664 | 52.41 | -- | -- | -- | -- |
@@ -44,6 +46,7 @@ posit_table: |
     |[Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | 340.654 | 52.368 | -- | -1.41 | -3.23 | -64.9 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 340.665 | 52.407 | 0.253 | -1.353 | -3.186 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 340.644 | 52.415 | 0.255 | -1.334 | -3.214 | -64.464 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 340.647 | 52.364 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 340.67 | 52.405 | 0.251 | -1.348 | -3.258 | -69.962 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 340.661 | 52.408 | 0.253 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 340.67 | 52.405 | 0.251 | -1.348 | -3.258 | -69.962 |
@@ -57,13 +60,16 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.13, Dist=3739.0, Age=9.4` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.2, distance=4201, log_age=9.32` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.2, d=4201.0, logt=9.32` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.2, d=4201.0, logt=9.32` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.2, d=4201.0, logt=9.32` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.283, Dist=3712, logt=9.05` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=3542.6` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=2.95, Z=0.0` |
     | [Donor et al. (2020)](https://scixplorer.org/abs/2020AJ....159..199D) | `Fe/H=0.0` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.61, DistPc=3519.0, AgeNN=9.39` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.742, Dist=3452, logage=9.524, [Fe/H]=-0.059` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.32, logmt=3.494` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.775, diffAV50=0.653, MOD50=12.874, logAge50=9.086` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.47, dMod50=12.07, logAge50=9.43, [Fe/H]50=-0.91` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1083.55, MassTot=1306.63` |

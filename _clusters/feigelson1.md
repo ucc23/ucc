@@ -12,17 +12,17 @@ glon: 300.34911
 glat: -12.06814
 r50: 196.7
 plx: 9.818
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#d4edca"
 UTI_C_dens_COL: "#eef8d4"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.62
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Feigelson 1</b> is a rich, moderately dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with 3 later reported entries.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 179.963 | -78.207 | -- | -39.5 | -1.0 | 13.0 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 179.97 | -78.21 | -- | 0.15 | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 179.97 | -78.207 | -- | -39.494 | -0.995 | 13.7 |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 179.973 | -78.209 | -- | -- | -- | -- |
     |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 180.07 | -78.676 | 9.818 | -41.347 | -6.05 | -- |

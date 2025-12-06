@@ -12,17 +12,17 @@ glon: 356.40212
 glat: 1.93717
 r50: 8.1
 plx: 0.949
-UTI: "0.09"
-UTI_COLOR: "#efb5b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb1b3"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f7c3b9"
 UTI_C_N: 0.32
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.16
 UTI_summary: |
     <b>Theia 2122</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

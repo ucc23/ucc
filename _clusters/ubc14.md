@@ -12,17 +12,17 @@ glon: 41.81963
 glat: -8.92084
 r50: 26.3
 plx: 1.3062
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.28"
+UTI_COLOR: "#fedec5"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.13
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 14</b> is a sparse, very loose object of intermediate C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

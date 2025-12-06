@@ -3,7 +3,7 @@ layout: post
 title: Teutsch 42
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 3132
 fname: teutsch42
 fov: 0.087
 ra_icrs: 292.55282
@@ -36,9 +36,11 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 292.554 | 18.536 | -- | -1.96 | -5.06 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 292.555 | 18.536 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 292.554 | 18.533 | -- | -2.59 | -6.94 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 292.554 | 18.533 | -- | -2.59 | -6.94 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 292.548 | 18.531 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 292.554 | 18.535 | 0.182 | -3.116 | -5.83 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 292.554 | 18.535 | 0.182 | -3.116 | -5.83 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 292.548 | 18.531 | -- | -- | -- | -- |
     |[Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | 292.555 | 18.536 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |292.553 | 18.537 | 0.155 | -3.105 | -5.884 | -- | 
@@ -49,8 +51,10 @@ fpars_table: |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=2.55, Dist=1600.0, Age=7.5` |
     | [Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | `E(B-V)=2.55, Dist=1.6, logt=7.5` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=2.769, distance=2003, log_age=6.1` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=2.769, d=2003.0, logt=6.1` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=2.769, d=2003.0, logt=6.1` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4734.2` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.1, logmt=1.129` |
     | [Celli et al. (2024)](https://scixplorer.org/abs/2024A%26A...686A.118C) | `Age=1.3, Mc=480.0` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

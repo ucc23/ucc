@@ -12,17 +12,17 @@ glon: 216.43161
 glat: 0.19236
 r50: 1.9
 plx: 0.4331
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.50"
+UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 302</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

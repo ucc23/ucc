@@ -3,7 +3,7 @@ layout: post
 title: Collinder 285
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 2242
 fname: collinder285
 fov: 0.36
 ra_icrs: 220.23795
@@ -25,7 +25,7 @@ UTI_C_C3: 0.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Collinder 285</b> is a poorly populated, very loose object of very low C3 quality. It is located at a relatively close distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 23 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Collinder 285</b> is a poorly populated, very loose object of very low C3 quality. It is located at a relatively close distance from the Sun, well above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 9 years.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 r_50_val: 10.8
@@ -35,6 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 220.275 | 69.567 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 220.27 | 69.57 | -- | 12.0 | -- | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 220.276 | 69.569 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |220.238 | 69.595 | 0.556 | -9.928 | 2.554 | -- | 
 cds_radec: 220.23795,+69.59461
@@ -43,6 +45,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.0, Dist=25.0, Age=8.3` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.0, d=25.0, logt=8.3` |
 shared_table: |
     
 ---

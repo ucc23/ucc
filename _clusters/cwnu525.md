@@ -12,17 +12,17 @@ glon: 171.99723
 glat: 3.39611
 r50: 18.0
 plx: 0.8601
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#fff8dc"
 UTI_C_dens_COL: "#fcd2c0"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.43
 UTI_C_dens: 0.23
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 525</b> is a poorly populated, very loose object of high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.
@@ -39,6 +39,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 84.926 | 37.501 | 0.853 | -0.325 | -2.797 | 2.583 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 84.763 | 37.518 | 0.856 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 84.926 | 37.501 | 0.853 | -0.325 | -2.797 | 2.583 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 84.926 | 37.501 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |84.825 | 37.513 | 0.86 | -0.335 | -2.8 | 2.503 | 
 cds_radec: 84.82476,+37.51347
@@ -51,6 +52,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.745, diffAV50=1.104, MOD50=10.218, logAge50=7.449` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.05, dMod50=10.34, logAge50=6.95, [Fe/H]50=-0.28` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=262.234, MassTot=385.040` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1118, [Fe/H]MCMC=-0.0801` |
 shared_table: |
     
 ---

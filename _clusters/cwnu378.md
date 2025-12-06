@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 200](/_clusters/theia200/)| 84.6 | 18.88 | 60.76 | 1.16 | 2.95 | -1.69 | -15.76 |0.03 |
+    |[Theia 200](/_clusters/theia200/)| 84.6 | 18.88 | 60.76 | 1.16 | 2.95 | -1.69 | -15.76 |0.02 |
     |[CWNU 389](/_clusters/cwnu389/)| 38.5 | 20.2 | 60.93 | 1.12 | 3.0 | -1.7 | -18.9 |0.13 |
 ---

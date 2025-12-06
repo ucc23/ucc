@@ -3,7 +3,7 @@ layout: post
 title: VDBH 23
 style: style
 title_flag: true
-more_names: vdBergh-Hagen 23; BH 23; OCSN 146
+more_names: vdB-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
 fname: vdbh23
 fov: 0.717
 ra_icrs: 123.43836
@@ -35,6 +35,9 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 123.6 | -36.383 | -- | -7.4 | 5.1 | 18.0 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 123.49 | -36.34 | -- | -7.65 | 6.8 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 123.52 | -36.36 | -- | -7.47 | 7.12 | 17.4 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 123.6 | -36.38 | -- | 0.32 | -- | 17.4 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 123.516 | -36.355 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 123.6 | -36.382 | -- | -5.105 | 4.613 | 17.4 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 123.449 | -36.329 | 2.257 | -7.101 | 7.35 | -- |
@@ -57,6 +60,8 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.06, Dist=480.0, Age=8.4` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.01, Dist=408` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.05, Dist=437, logt=7.14` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.05, Dist=437, logt=7.14, logMA=1.743` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.074, Dist=594, logt=8.613` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=437.5` |

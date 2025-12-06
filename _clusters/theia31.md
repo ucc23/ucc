@@ -12,17 +12,17 @@ glon: 254.23809
 glat: 2.13994
 r50: 22.3
 plx: 2.8034
-UTI: "0.64"
-UTI_COLOR: "#ebf6d2"
+UTI: "0.54"
+UTI_COLOR: "#fafde1"
 UTI_C_N_COL: "#e2f2cc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.69
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 31</b> is a moderately populated, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

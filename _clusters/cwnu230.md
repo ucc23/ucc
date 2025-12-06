@@ -12,17 +12,17 @@ glon: 15.19099
 glat: 4.88536
 r50: 10.3
 plx: 0.9845
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.43"
+UTI_COLOR: "#fff8dc"
 UTI_C_N_COL: "#ffedd1"
 UTI_C_dens_COL: "#ceeac9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.36
 UTI_C_dens: 0.78
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 230</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.

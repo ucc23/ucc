@@ -44,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1228](/_clusters/fsr1228/)| 24.0 | 109.34 | -15.76 | 0.27 | -0.99 | 1.29 | -- |0.1 |
+    |[FSR 1228](/_clusters/fsr1228/)| 24.0 | 109.34 | -15.76 | 0.27 | -0.99 | 1.29 | -- |0.2 |
 ---

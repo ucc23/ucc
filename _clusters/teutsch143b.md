@@ -17,15 +17,15 @@ UTI_COLOR: "#edb3b3"
 UTI_C_N_COL: "#cbe9c9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#f2b9b4"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 0.11
 UTI_summary: |
-    <b>Teutsch 143b</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>Teutsch 143b</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 1.9
@@ -54,5 +54,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 143a](/_clusters/teutsch143a/)| 88.9 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.9 |
+    |[Teutsch 143a](/_clusters/teutsch143a/)| 88.9 | 167.15 | -60.74 | 0.22 | -5.62 | 2.27 | 20.1 |0.83 |
 ---

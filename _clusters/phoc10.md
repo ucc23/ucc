@@ -12,17 +12,17 @@ glon: 358.89046
 glat: -0.92989
 r50: 8.9
 plx: 0.7665
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.41"
+UTI_COLOR: "#fff5d8"
 UTI_C_N_COL: "#fff1d4"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.67
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>PHOC 10</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

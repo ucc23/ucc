@@ -12,17 +12,17 @@ glon: 248.65066
 glat: -13.42604
 r50: 34.3
 plx: 3.6053
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#fffbe1"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.46
 UTI_summary: |
     <b>Alessi 36</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
@@ -52,6 +52,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 210](/_clusters/ocsn210/)| 96.5 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.01 |
-    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.7 |
+    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.66 |
     |[Collinder 135](/_clusters/collinder135/)| 4.3 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 ---

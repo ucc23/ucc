@@ -12,17 +12,17 @@ glon: 126.74176
 glat: -4.34105
 r50: 16.3
 plx: 1.2532
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fff5d8"
 UTI_C_dens_COL: "#f6fbdc"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.57
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>XDOCC 01</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

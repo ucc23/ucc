@@ -12,20 +12,20 @@ glon: 304.07359
 glat: -1.1932
 r50: 2.9
 plx: 0.3342
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.57"
+UTI_COLOR: "#f6fbdc"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UFMG 53</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.
+    <b>UFMG 53</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.9

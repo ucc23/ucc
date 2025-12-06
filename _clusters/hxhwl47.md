@@ -12,17 +12,17 @@ glon: 327.23591
 glat: -1.31722
 r50: 4.0
 plx: 0.5861
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 47</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.

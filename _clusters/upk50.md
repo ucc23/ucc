@@ -12,20 +12,20 @@ glon: 40.40126
 glat: 3.33141
 r50: 14.0
 plx: 0.9766
-UTI: "0.84"
-UTI_COLOR: "#bee2c6"
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
 UTI_C_N_COL: "#dbf0ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 50</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>UPK 50</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 14.0

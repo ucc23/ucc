@@ -44,5 +44,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 30](/_clusters/coingaia30/)| 95.2 | 21.11 | 70.57 | 1.37 | -6.15 | 2.02 | -21.47 |0.88 |
+    |[COIN-Gaia 30](/_clusters/coingaia30/)| 95.2 | 21.11 | 70.57 | 1.37 | -6.15 | 2.02 | -21.47 |0.85 |
 ---

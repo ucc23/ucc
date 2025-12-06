@@ -3,7 +3,7 @@ layout: post
 title: COIN-Gaia 35
 style: style
 title_flag: true
-more_names: 
+more_names: COIN 35
 fname: coingaia35
 fov: 0.067
 ra_icrs: 33.47154
@@ -12,17 +12,17 @@ glon: 133.05883
 glat: -1.20497
 r50: 2.0
 plx: 0.3594
-UTI: "0.75"
-UTI_COLOR: "#d4edca"
+UTI: "0.71"
+UTI_COLOR: "#def1cb"
 UTI_C_N_COL: "#fff8dc"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.43
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.67
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>COIN-Gaia 35</b> is a poorly populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is moderately studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 33.472 | 60.039 | 0.34 | -0.53 | -0.39 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 33.472 | 60.039 | -- | -- | -- | 2.992 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 33.472 | 60.039 | 0.341 | -0.526 | -0.396 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 33.473 | 60.044 | 0.342 | -0.523 | -0.377 | -- |
     |[Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | 33.472 | 60.039 | 0.341 | -0.526 | -0.396 | -- |
@@ -50,6 +51,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=2702` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.725, Dist=3.454, logAge=8.273, Z=0.032` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.726, Dist=2354, logage=7.013, [Fe/H]=-0.14` |
     | [Rain et al. (2021)](https://scixplorer.org/abs/2021A%26A...650A..67R) | `E(B-V)=0.72, Dist=2701.5, log(Age)=8.27, NBSS=0` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.774, diffAV50=0.476, MOD50=12.03, logAge50=7.734` |

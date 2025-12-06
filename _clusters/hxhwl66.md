@@ -12,17 +12,17 @@ glon: 14.85962
 glat: 1.39098
 r50: 6.2
 plx: 0.5836
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.51"
+UTI_COLOR: "#fefee7"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#def1cb"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 0.71
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 66</b> is a poorly populated, moderately dense object of very high C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.

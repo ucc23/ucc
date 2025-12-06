@@ -12,20 +12,20 @@ glon: 145.11904
 glat: -3.99428
 r50: 3.2
 plx: 0.3248
-UTI: "0.84"
-UTI_COLOR: "#bee2c6"
+UTI: "0.77"
+UTI_COLOR: "#d0ebc9"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.86
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Czernik 15</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is well-studied in the literature.
+    <b>Czernik 15</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2
@@ -35,7 +35,6 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 50.8 | 52.25 | -- | 1.42 | -0.01 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 50.8 | 52.233 | -- | 1.42 | -0.01 | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 50.805 | 52.233 | -- | 0.958 | -0.958 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 50.793 | 52.224 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 50.781 | 52.223 | 0.32 | 0.33 | -1.07 | -- |
@@ -54,7 +53,6 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.0, Dist=1155.0, Age=7.3` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.849, distance=2500, log_age=7.3` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.45, Dist=2147, logt=8.25` |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=2853` |
     | [Dias et al. (2019)](https://scixplorer.org/abs/2019MNRAS.486.5726D) | `E(B-V)=0.89, Dist=2605, logAge=7.491, Z=0.003` |

@@ -3,7 +3,7 @@ layout: post
 title: Ruprecht 155
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1429
 fname: ruprecht155
 fov: 0.26
 ra_icrs: 121.27268
@@ -25,7 +25,7 @@ UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>Ruprecht 155</b> is a sparse, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 13 years.<br><br>This object shares a small percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>Ruprecht 155</b> is a sparse, very loose object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br>This object shares a small percentage of members with 2 later reported entries.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 7.8
@@ -34,7 +34,9 @@ scix_url: Ruprecht%20155
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 121.267 | -31.817 | -- | 0.61 | 0.71 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 121.267 | -31.817 | -- | 0.61 | 0.71 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 121.262 | -31.814 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 121.262 | -31.814 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |121.273 | -31.81 | 0.253 | -2.442 | 2.807 | -- | 
 cds_radec: 121.27268,-31.81012
@@ -42,10 +44,12 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.562, distance=2311, log_age=8.57` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.562, d=2311.0, logt=8.57` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.562, d=2311.0, logt=8.57` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.57, logmt=1.852` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 204](/_clusters/fof204/)| 24.0 | 121.44 | -31.6 | 0.24 | -2.45 | 2.85 | -- |0.27 |
-    |[HSC 2006](/_clusters/hsc2006/)| 20.0 | 121.46 | -31.6 | 0.25 | -2.46 | 2.83 | -- |0.11 |
+    |[HSC 2006](/_clusters/hsc2006/)| 20.0 | 121.46 | -31.6 | 0.25 | -2.46 | 2.83 | -- |0.08 |
 ---

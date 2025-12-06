@@ -12,20 +12,20 @@ glon: 312.75214
 glat: -1.46362
 r50: 3.8
 plx: 0.457
-UTI: "0.60"
-UTI_COLOR: "#f2f9d6"
+UTI: "0.50"
+UTI_COLOR: "#ffffe8"
 UTI_C_N_COL: "#fefee7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.51
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UFMG 60</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>UFMG 60</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 3.8
@@ -50,6 +50,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.07 |
+    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.06 |
     |[LISC 3170](/_clusters/lisc3170/)| 71.2 | 214.65 | -62.66 | 0.46 | -3.91 | -2.55 | -- |0.07 |
 ---

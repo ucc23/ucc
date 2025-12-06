@@ -47,7 +47,7 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.69 |
+    |[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.68 |
     |[OCSN 249](/_clusters/ocsn249/)| 84.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
     |[CWWL 3595](/_clusters/cwwl3595/)| 66.4 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
     |[OCSN 16](/_clusters/ocsn16/)| 1.6 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.45 |

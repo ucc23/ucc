@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 489 01](/_clusters/eso48901/)| 72.0 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.3 |
+    |[ESO 489 01](/_clusters/eso48901/)| 72.0 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.2 |
     |[Theia 229](/_clusters/theia229/)| 52.0 | 90.59 | -27.98 | 3.2 | -6.52 | -0.17 | 2.03 |0.12 |
 ---

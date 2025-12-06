@@ -12,17 +12,17 @@ glon: 88.17139
 glat: -0.34879
 r50: 13.3
 plx: 0.7769
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#fbccbd"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f3bab5"
 UTI_C_N: 0.25
 UTI_C_dens: 0.2
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.12
 UTI_summary: |
     <b>Theia 3327</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

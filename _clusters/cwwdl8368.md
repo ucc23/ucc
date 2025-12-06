@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Casado 15](/_clusters/casado15/)| 84.0 | 3.26 | 62.47 | 0.31 | -2.08 | -0.92 | -102.11 |0.4 |
+    |[Casado 15](/_clusters/casado15/)| 84.0 | 3.26 | 62.47 | 0.31 | -2.08 | -0.92 | -102.11 |0.37 |
     |[OC 0220](/_clusters/oc0220/)| 72.0 | 3.29 | 62.47 | 0.31 | -2.04 | -0.93 | -- |0.02 |
 ---

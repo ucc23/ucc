@@ -12,20 +12,20 @@ glon: 64.9182
 glat: -12.0404
 r50: 48.4
 plx: 3.4149
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.39"
+UTI_COLOR: "#fff2d5"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.31
 UTI_C_C3: 0.62
-UTI_C_lit: 0.5
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UPK 88</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
+    <b>UPK 88</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 48.4

@@ -12,17 +12,17 @@ glon: 100.11641
 glat: 2.01694
 r50: 3.0
 plx: 0.1324
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.28"
+UTI_COLOR: "#fedec5"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#f4bdb6"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.13
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 324</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a small percentage of members with a later reported entry.

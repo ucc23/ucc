@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 100.504 | -12.974 | -- | -- | -- | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 100.505 | -12.969 | -- | -- | -- | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 100.505 | -12.966 | -- | 0.216 | 1.01 | 2.585 |
     |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 100.506 | -12.968 | 0.15 | 0.123 | 1.373 | 50.32 |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |100.505 | -12.966 | 0.149 | 0.118 | 1.35 | 50.317 | 
@@ -44,6 +45,7 @@ carousel: UCC
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.408, Dist=6.705, logAge=9.473, Z=0.003` |
     | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.1, m-M=13.8, logA=9.2` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

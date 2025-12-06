@@ -3,7 +3,7 @@ layout: post
 title: COIN-Gaia 5
 style: style
 title_flag: true
-more_names: 
+more_names: COIN 5
 fname: coingaia5
 fov: 0.327
 ra_icrs: 27.40848
@@ -12,20 +12,20 @@ glon: 130.58958
 glat: -3.94066
 r50: 9.8
 plx: 1.0932
-UTI: "0.64"
-UTI_COLOR: "#ebf6d2"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#cbe9c9"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.94
 UTI_C_C3: 0.38
-UTI_C_lit: 0.79
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>COIN-Gaia 5</b> is a poorly populated, very dense object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is well-studied in the literature.
+    <b>COIN-Gaia 5</b> is a poorly populated, very dense object of low C3 quality. It is located at a close distance from the Sun, near the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.8
@@ -35,6 +35,7 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 27.408 | 58.078 | 1.06 | -2.77 | -0.53 | -- |
+    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 27.408 | 58.078 | -- | -- | -- | 2.77 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 27.408 | 58.078 | 1.063 | -2.774 | -0.511 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 27.349 | 58.072 | 1.09 | -2.8 | -0.503 | -23.966 |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 27.408 | 58.001 | 1.099 | -2.847 | -0.57 | -- |
@@ -52,6 +53,7 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=916` |
+    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.166, Dist=0.92, logAge=8.272, Z=0.028` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.45, DistPc=912.0, AgeNN=8.04` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.851, Dist=850, logage=8.304, [Fe/H]=-0.167` |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=891, logAgeNN=8.06` |

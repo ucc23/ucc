@@ -12,17 +12,17 @@ glon: 231.20576
 glat: -4.92393
 r50: 8.7
 plx: 0.2963
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#fdd7c3"
 UTI_C_dens_COL: "#ebb1b3"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#f3bab5"
 UTI_C_N: 0.25
 UTI_C_dens: 0.07
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.12
 UTI_summary: |
     <b>Theia 5254</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

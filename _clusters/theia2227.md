@@ -12,17 +12,17 @@ glon: 323.48322
 glat: -2.51483
 r50: 2.6
 plx: 0.5662
-UTI: "0.12"
-UTI_COLOR: "#f3bab5"
+UTI: "0.10"
+UTI_COLOR: "#f1b6b3"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fcd0bf"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.22
 UTI_summary: |
     <b>Theia 2227</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

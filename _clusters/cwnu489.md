@@ -12,17 +12,17 @@ glon: 140.59635
 glat: 2.44846
 r50: 5.7
 plx: 0.348
-UTI: "0.48"
-UTI_COLOR: "#fffde5"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#f2f9d6"
 UTI_C_dens_COL: "#ecf7d3"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 0.63
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 489</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with at least one entry reported in the same catalogue.

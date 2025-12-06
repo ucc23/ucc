@@ -12,17 +12,17 @@ glon: 44.16507
 glat: 0.75432
 r50: 1.0
 plx: 0.2624
-UTI: "0.50"
-UTI_COLOR: "#ffffe8"
+UTI: "0.46"
+UTI_COLOR: "#fffbe1"
 UTI_C_N_COL: "#fee6ca"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Juchert 2</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

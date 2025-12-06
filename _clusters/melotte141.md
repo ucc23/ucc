@@ -37,7 +37,10 @@ posit_table: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 244.708 | -57.935 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 244.708 | -57.935 | -- | -5.69 | -4.86 | 5.83 |
     |[Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | 244.753 | -57.882 | -- | -1.43 | -1.3 | 5.7 |
+    |[Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | 244.74 | -57.9 | -- | -1.46 | -3.44 | -- |
+    |[Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | 244.71 | -57.94 | -- | -1.44 | -2.34 | -9.05 |
     |[Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | 244.693 | -57.935 | -- | -- | -- | -- |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 244.71 | -57.94 | -- | 0.48 | -- | -9.05 |
     |[Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | 244.693 | -57.935 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 244.71 | -57.936 | -- | -4.369 | -5.952 | -13.7 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 244.721 | -57.916 | 1.025 | -1.567 | -2.411 | -- |
@@ -67,6 +70,8 @@ fpars_table: |
     | [Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | `E_B-V_=0.198, DM0=9.56, log_age_=8.0` |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.175, Dist=891.0, Age=7.976, [Fe/H]=-0.01` |
     | [Chen et al. (2003)](https://scixplorer.org/abs/2003AJ....125.1397C) | `E(B-V)=0.175, HDis=891, Age=0.09, [Fe/H]_1=-0.01, [Fe/H]_2=-0.01` |
+    | [Kharchenko et al. (2003)](https://scixplorer.org/abs/2003ARep...47..263K) | `E(B-V)=0.18, Dist=892` |
+    | [Kharchenko et al. (2005)](https://scixplorer.org/abs/2005A%26A...438.1163K) | `E(B-V)=0.18, Dist=901, logt=7.93` |
     | [Piskunov et al. (2007)](https://scixplorer.org/abs/2007A%26A...468..151P) | `E(B-V)=0.18, Dist=901, logt=7.93, logM=2.408` |
     | [Piskunov et al. (2008)](https://scixplorer.org/abs/2008A%26A...477..165P) | `E(B-V)=0.18, Dist=901, logt=7.93, logM=2.923, logMA=3.203` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.179, Dist=919, logt=8.02` |

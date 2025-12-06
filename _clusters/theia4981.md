@@ -17,12 +17,12 @@ UTI_COLOR: "#e0a6b3"
 UTI_C_N_COL: "#ffedd1"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#e0a6b3"
 UTI_C_N: 0.36
 UTI_C_dens: 0.86
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_summary: |
     <b>Theia 4981</b> is a poorly populated, dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

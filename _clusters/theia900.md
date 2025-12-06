@@ -12,17 +12,17 @@ glon: 135.16972
 glat: -1.39945
 r50: 13.1
 plx: 1.1084
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 0.52
 UTI_C_C3: 0.62
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 900</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.

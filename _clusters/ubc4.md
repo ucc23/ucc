@@ -12,20 +12,20 @@ glon: 161.43556
 glat: -12.69455
 r50: 24.1
 plx: 1.6806
-UTI: "0.46"
-UTI_COLOR: "#fffbe1"
+UTI: "0.44"
+UTI_COLOR: "#fff8de"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee2c7"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#ffffe8"
+UTI_C_lit_COL: "#fff8de"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.3
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.44
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 4</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.
+    <b>UBC 4</b> is a poorly populated, loose object of high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is poorly studied in the literature.
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 24.1
@@ -39,6 +39,7 @@ posit_table: |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 60.737 | 35.55 | 1.66 | -0.799 | -5.743 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 60.658 | 35.561 | 1.669 | -0.717 | -5.728 | 0.441 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 60.861 | 35.456 | 1.671 | -- | -- | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 60.658 | 35.561 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 60.65 | 35.621 | 1.633 | -0.789 | -5.756 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |60.906 | 35.385 | 1.681 | -0.788 | -5.737 | 0.746 | 
@@ -51,6 +52,7 @@ fpars_table: |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=595, logAgeNN=8.74` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.741, diffAV50=1.242, MOD50=8.779, logAge50=8.315` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.87, dMod50=8.86, logAge50=8.44, [Fe/H]50=0.26` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1525, [Fe/H]MCMC=-0.1283` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.54021, MOD=8.90968, logAge=8.88672, Z=-0.1117` |
 shared_table: |
     

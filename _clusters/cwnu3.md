@@ -12,17 +12,17 @@ glon: 131.45973
 glat: 3.08245
 r50: 12.0
 plx: 1.2835
-UTI: "0.44"
-UTI_COLOR: "#fff8de"
+UTI: "0.40"
+UTI_COLOR: "#fff4d6"
 UTI_C_N_COL: "#fddcc5"
 UTI_C_dens_COL: "#d9efca"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.73
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 3</b> is a poorly populated, moderately dense object of low C3 quality. It is located at a close distance from the Sun, above the mid-plane. It was recently reported in the literature.

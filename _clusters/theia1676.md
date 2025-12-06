@@ -12,17 +12,17 @@ glon: 338.54445
 glat: -0.37207
 r50: 1.9
 plx: 0.2846
-UTI: "0.54"
-UTI_COLOR: "#fafde1"
+UTI: "0.45"
+UTI_COLOR: "#fffae0"
 UTI_C_N_COL: "#fbfde3"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#b1dcc2"
 UTI_C_N: 0.53
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.89
 UTI_summary: |
     <b>Theia 1676</b> is a moderately populated, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.

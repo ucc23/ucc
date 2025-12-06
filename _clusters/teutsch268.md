@@ -12,17 +12,17 @@ glon: 17.61616
 glat: -1.09303
 r50: 3.5
 plx: 0.3005
-UTI: "0.73"
-UTI_COLOR: "#d9efca"
+UTI: "0.70"
+UTI_COLOR: "#dff2cb"
 UTI_C_N_COL: "#a6cab9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 268</b> is a very rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a very small percentage of members with at least one entry reported in the same catalogue.

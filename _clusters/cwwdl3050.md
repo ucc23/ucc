@@ -46,5 +46,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1205](/_clusters/ubc1205/)| 88.6 | 8.31 | 65.27 | 0.25 | -1.7 | 0.31 | -77.3 |0.61 |
+    |[UBC 1205](/_clusters/ubc1205/)| 88.6 | 8.31 | 65.27 | 0.25 | -1.7 | 0.31 | -77.3 |0.58 |
 ---

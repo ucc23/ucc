@@ -12,17 +12,17 @@ glon: 277.05447
 glat: -1.16901
 r50: 17.8
 plx: 0.627
-UTI: "0.40"
-UTI_COLOR: "#fff4d6"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#f6fbdc"
 UTI_C_dens_COL: "#fac9bc"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.19
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Theia 3127</b> is a moderately populated, very loose object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.

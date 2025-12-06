@@ -12,17 +12,17 @@ glon: 148.53394
 glat: -1.15347
 r50: 5.2
 plx: 0.432
-UTI: "0.32"
-UTI_COLOR: "#fee6ca"
+UTI: "0.29"
+UTI_COLOR: "#fee0c7"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#fefee7"
 UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 0.51
 UTI_C_C3: 0.12
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Teutsch 194</b> is a poorly populated, moderately dense object of very low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.

@@ -12,17 +12,17 @@ glon: 235.20919
 glat: 1.62992
 r50: 4.1
 plx: 0.4224
-UTI: "0.45"
-UTI_COLOR: "#fffae0"
+UTI: "0.42"
+UTI_COLOR: "#fff6da"
 UTI_C_N_COL: "#feebcf"
 UTI_C_dens_COL: "#b4ddc3"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.88
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>HXHWL 59</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.

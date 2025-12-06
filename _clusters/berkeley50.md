@@ -3,7 +3,7 @@ layout: post
 title: Berkeley 50
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 3273
 fname: berkeley50
 fov: 0.053
 ra_icrs: 302.50341
@@ -12,17 +12,17 @@ glon: 72.40881
 glat: 0.92566
 r50: 1.6
 plx: 0.2402
-UTI: "0.83"
-UTI_COLOR: "#c1e4c6"
+UTI: "0.81"
+UTI_COLOR: "#c6e6c8"
 UTI_C_N_COL: "#c9e8c8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#eef8d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.67
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Berkeley 50</b> is a rich, very dense object of very high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
@@ -35,9 +35,11 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 302.6 | 34.967 | -- | -1.06 | -2.39 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 302.52 | 34.97 | -- | -1.06 | -2.39 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 302.52 | 34.97 | -- | -1.06 | -2.39 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 302.515 | 34.967 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 302.505 | 34.967 | 0.246 | -3.398 | -5.072 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 302.486 | 34.963 | 0.243 | -3.387 | -5.081 | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 302.515 | 34.967 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 302.507 | 34.968 | 0.237 | -3.369 | -5.13 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 302.494 | 34.966 | 0.236 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 302.507 | 34.968 | 0.237 | -3.369 | -5.13 | -- |
@@ -50,9 +52,11 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.75, Dist=2653.0, Age=8.35` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.77, distance=1952, log_age=8.375` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.77, d=1952.0, logt=8.375` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.77, d=1952.0, logt=8.375` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.12, DistPc=3380.0, AgeNN=7.88` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.846, Dist=3624, logage=6.772, [Fe/H]=-0.162` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.375, logmt=2.755` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.002, diffAV50=2.322, MOD50=12.892, logAge50=7.72` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.92, dMod50=13.09, logAge50=8.07, [Fe/H]50=0.67` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=2343.64, MassTot=2392.97` |

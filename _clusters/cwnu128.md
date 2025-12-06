@@ -12,17 +12,17 @@ glon: 250.48993
 glat: -4.37981
 r50: 10.1
 plx: 0.7121
-UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#f8fce0"
 UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.69
 UTI_C_C3: 0.5
-UTI_C_lit: 0.42
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 128</b> is a moderately populated, moderately dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.

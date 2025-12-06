@@ -34,16 +34,13 @@ scix_url: Ruprecht%206
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 103.98 | -13.28 | -- | 0.66 | 1.21 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 104.021 | -13.254 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |103.999 | -13.287 | 0.164 | -0.445 | 1.19 | 73.022 | 
 cds_radec: 103.99916,-13.28699
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.431, distance=5919, log_age=9.3, metallicity=-0.38` |
+    
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

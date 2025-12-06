@@ -46,6 +46,6 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Steine 20](/_clusters/steine20/)| 100.0 | 306.7 | 44.08 | 0.42 | -2.24 | -3.42 | -27.24 |0.61 |
+    |[Steine 20](/_clusters/steine20/)| 100.0 | 306.7 | 44.08 | 0.42 | -2.24 | -3.42 | -27.24 |0.58 |
     |[UBC 1110](/_clusters/ubc1110/)| 95.1 | 306.7 | 44.08 | 0.41 | -2.25 | -3.42 | -27.24 |0.0 |
 ---

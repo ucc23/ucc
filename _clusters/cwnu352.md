@@ -12,17 +12,17 @@ glon: 318.82259
 glat: 1.39302
 r50: 12.9
 plx: 0.8928
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.55"
+UTI_COLOR: "#f8fce0"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.63
 UTI_C_dens: 0.86
 UTI_C_C3: 0.75
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 352</b> is a moderately populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.

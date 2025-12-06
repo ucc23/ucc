@@ -12,17 +12,17 @@ glon: 243.0754
 glat: 0.52012
 r50: 2.6
 plx: 0.1965
-UTI: "0.90"
-UTI_COLOR: "#afdbc2"
+UTI: "0.87"
+UTI_COLOR: "#b7dfc4"
 UTI_C_N_COL: "#d2ecc9"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#cbe9c9"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.86
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Haffner 19</b> is a rich, very dense object of very high C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a significant percentage of members with at least one entry reported in the same catalogue.
@@ -36,6 +36,7 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dambis (1999)](https://scixplorer.org/abs/1999AstL...25....7D) | 118.196 | -26.283 | -- | -- | -- | -- |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 118.196 | -26.283 | -- | -2.02 | 1.55 | 68.0 |
+    |[Kharchenko et al. (2007)](https://scixplorer.org/abs/2007AN....328..889K) | 118.2 | -26.28 | -- | 0.02 | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 118.185 | -26.275 | -- | -4.206 | 0.653 | 68.0 |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 118.193 | -26.274 | 0.169 | -2.494 | 2.507 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 118.193 | -26.274 | 0.169 | -2.494 | 2.507 | -- |
@@ -68,5 +69,5 @@ fpars_table: |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 18](/_clusters/haffner18/)| 51.1 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.84 |
+    |[Haffner 18](/_clusters/haffner18/)| 51.1 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.78 |
 ---

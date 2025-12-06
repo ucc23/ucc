@@ -12,17 +12,17 @@ glon: 117.57919
 glat: -16.02798
 r50: 37.4
 plx: 1.7824
-UTI: "0.62"
-UTI_COLOR: "#eef8d4"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#f6fbdc"
 UTI_C_dens_COL: "#feeace"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.34
 UTI_C_C3: 1.0
-UTI_C_lit: 0.58
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>Alessi 94</b> is a moderately populated, loose object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
@@ -40,6 +40,7 @@ posit_table: |
     |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 5.095 | 46.652 | 1.793 | -6.407 | -5.071 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 5.269 | 46.531 | 1.781 | -6.365 | -5.083 | -16.817 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 6.036 | 46.576 | 1.781 | -- | -- | -- |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 5.269 | 46.531 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 6.015 | 46.524 | 1.757 | -6.407 | -5.034 | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |5.376 | 46.544 | 1.782 | -6.411 | -5.094 | -15.837 | 
@@ -52,6 +53,7 @@ fpars_table: |
     | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=547, logAgeNN=8.32` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.119, diffAV50=0.566, MOD50=8.603, logAge50=8.264` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.26, dMod50=8.75, logAge50=8.25, [Fe/H]50=0.35` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.06313, [Fe/H]MCMC=-0.1138` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.18020, MOD=8.71977, logAge=8.76158, Z=-0.0492` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

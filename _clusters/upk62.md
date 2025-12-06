@@ -12,17 +12,17 @@ glon: 54.52752
 glat: 3.6021
 r50: 5.9
 plx: 1.1118
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.62"
+UTI_COLOR: "#eef8d4"
 UTI_C_N_COL: "#feeace"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UPK 62</b> is a poorly populated, very dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.

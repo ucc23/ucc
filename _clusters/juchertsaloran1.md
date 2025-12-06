@@ -3,7 +3,7 @@ layout: post
 title: Juchert Saloran 1
 style: style
 title_flag: true
-more_names: Juchert-Saloranta 1; DSH J0016.3+5957; FSR 0478; MWSC 28
+more_names: Juchert-Saloranta 1; MWSC 28; DSH J0016.3+5957; FSR 0478
 fname: juchertsaloran1
 fov: 0.057
 ra_icrs: 4.07833
@@ -36,13 +36,16 @@ posit_table: |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 4.083 | 59.962 | -- | -0.59 | 0.58 | -- |
     |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 4.085 | 59.962 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 4.082 | 59.962 | -- | -2.38 | -1.24 | -- |
+    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 4.081 | 59.962 | -- | -2.42 | -1.19 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 4.081 | 59.962 | -- | -2.38 | -1.24 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 4.072 | 59.959 | -- | -- | -- | -- |
     |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 4.08 | 59.962 | -- | -0.81 | -3.442 | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 4.078 | 59.967 | 0.197 | -1.731 | -1.312 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 4.089 | 59.963 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 4.078 | 59.967 | -- | -- | -- | -77.85 |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 4.078 | 59.967 | 0.197 | -1.731 | -1.312 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 4.074 | 59.967 | 0.165 | -1.69 | -1.297 | -76.907 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 4.072 | 59.959 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 4.081 | 59.965 | 0.183 | -1.642 | -1.298 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 4.072 | 59.965 | 0.18 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 4.081 | 59.965 | 0.183 | -1.642 | -1.298 | -- |
@@ -56,12 +59,15 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.83, Dist=3859.0, Age=9.05` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.833, distance=5326, log_age=9.3` |
+    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `E(B-V)=0.833, d=5326.0, logt=9.3` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.833, d=5326.0, logt=9.3` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.833, d=5326.0, logt=9.3` |
     | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.633, Dist=1185, logt=9.05` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=4430.2` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=4430.2` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.82, DistPc=5383.0, AgeNN=8.78` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=2.922, Dist=5146, logage=8.805, [Fe/H]=-0.101` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.3, logmt=3.011` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.811, diffAV50=1.932, MOD50=13.168, logAge50=8.574` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.51, dMod50=13.28, logAge50=8.88, [Fe/H]50=0.45` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1187.80, MassTot=1252.05` |

@@ -12,17 +12,17 @@ glon: 75.44919
 glat: 0.06672
 r50: 8.5
 plx: 0.4951
-UTI: "0.11"
-UTI_COLOR: "#f2b9b4"
+UTI: "0.06"
+UTI_COLOR: "#eab0b3"
 UTI_C_N_COL: "#e0a6b3"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#fcfee5"
 UTI_C_N: 0.0
 UTI_C_dens: 0.18
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.52
 UTI_summary: |
     <b>Theia 1975</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.

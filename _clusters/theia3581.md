@@ -12,17 +12,17 @@ glon: 229.7787
 glat: 1.73529
 r50: 19.7
 plx: 0.8872
-UTI: "0.24"
-UTI_COLOR: "#fcd5c1"
+UTI: "0.17"
+UTI_COLOR: "#f8c5ba"
 UTI_C_N_COL: "#fffbe1"
 UTI_C_dens_COL: "#fcd0bf"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
+UTI_C_lit_COL: "#e0a6b3"
 UTI_C_dup_COL: "#e9f5d1"
 UTI_C_N: 0.46
 UTI_C_dens: 0.22
 UTI_C_C3: 0.62
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.65
 UTI_summary: |
     <b>Theia 3581</b> is a poorly populated, very loose object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.

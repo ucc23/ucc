@@ -3,7 +3,7 @@ layout: post
 title: Haffner 22
 style: style
 title_flag: true
-more_names: VDBH 21; vdBergh-Hagen 21; OCL 691; ESO 430 24; FSR 1333; MWSC 1450; FoF 590
+more_names: VDBH 21; MWSC 1450; vdBergh-Hagen 21; OCL 691; ESO 430 24; FSR 1333; FoF 590
 fname: haffner22
 fov: 0.2
 ra_icrs: 123.10333
@@ -35,7 +35,8 @@ posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
     |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 123.112 | -27.9 | -- | -1.95 | 2.67 | -- |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 123.112 | -27.89 | -- | -4.52 | 6.9 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 123.112 | -27.89 | -- | -4.52 | 6.9 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 123.107 | -27.887 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | 123.108 | -27.913 | 0.329 | -1.638 | 2.878 | -- |
     |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 123.122 | -27.889 | -- | -- | -- | -- |
     |[Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | 123.108 | -27.913 | -- | -- | -- | 33.23 |
@@ -43,6 +44,7 @@ posit_table: |
     |[Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | 123.085 | -27.908 | 0.325 | -1.765 | 2.779 | -- |
     |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 123.108 | -27.913 | 0.329 | -1.638 | 2.878 | -- |
     |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 123.104 | -27.902 | 0.331 | -1.635 | 2.875 | 33.086 |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 123.107 | -27.887 | -- | -- | -- | -- |
     |[Cordoni et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A..29C) | 123.104 | -27.902 | 0.331 | -1.635 | 2.875 | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 123.112 | -27.912 | 0.355 | -1.611 | 2.906 | 31.798 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 123.104 | -27.914 | 0.356 | -- | -- | -- |
@@ -57,13 +59,15 @@ fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
     | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.2, Dist=3050.0, Age=9.4` |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.208, distance=2796, log_age=9.19` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.208, d=2796.0, logt=9.19` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.208, d=2796.0, logt=9.19` |
     | [Cantat-Gaudin et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..93C) | `dmode=2790.6` |
     | [Soubiran et al. (2018)](https://scixplorer.org/abs/2018A%26A...619A.155S) | `dmode=2790.6` |
     | [Bossini et al. (2019)](https://scixplorer.org/abs/2019A%26A...623A.108B) | `AV=0.497, Dist=12.468, logA=9.276, Fe/H=0.0` |
     | [Liu & Pang (2019)](https://scixplorer.org/abs/2019ApJS..245...32L) | `Age=2.19, Z=0.5` |
     | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.33, DistPc=2802.0, AgeNN=9.39` |
     | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.7, Dist=2702, logage=9.387, [Fe/H]=-0.347` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=9.19, logmt=2.835` |
     | [Cordoni et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A..29C) | `Av=0.7, Dist=12.158, logAge=9.387, [Fe/H]=-0.347, mass-single=940.188, fbin-tot=0.471, fbss-MS=0.07` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.246, diffAV50=0.553, MOD50=11.991, logAge50=9.228` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.58, dMod50=11.99, logAge50=9.22, [Fe/H]50=0.1` |

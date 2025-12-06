@@ -12,20 +12,20 @@ glon: 167.8037
 glat: -2.6732
 r50: 43.5
 plx: 3.0266
-UTI: "0.96"
-UTI_COLOR: "#a9d1bc"
+UTI: "0.91"
+UTI_COLOR: "#aed9c1"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#a6cab9"
+UTI_C_lit_COL: "#b9e0c4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 1.0
+UTI_C_lit: 0.86
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>RSG1</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is very well-studied in the literature.
+    <b>RSG1</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It is well-studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 43.5
@@ -46,6 +46,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 75.485 | 37.488 | 3.053 | 0.971 | -12.561 | 11.589 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 74.195 | 38.441 | 3.065 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 75.485 | 37.488 | 3.053 | 0.971 | -12.561 | 11.589 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 75.485 | 37.488 | -- | -- | -- | -- |
     |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 75.483 | 37.525 | 2.997 | 0.75 | -12.411 | -- |
     |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 75.525 | 37.481 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
@@ -66,6 +67,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.362, diffAV50=1.138, MOD50=7.494, logAge50=8.316` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.02, dMod50=7.61, logAge50=7.89, [Fe/H]50=0.01` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=192.558, MassTot=303.125` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.00296, [Fe/H]MCMC=-0.0015` |
     | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.52963, MOD=7.70975, logAge=8.08689, Z=0.06315` |
     | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.591, Dist=328, logAge=8.482, MassRk=144.4` |
 shared_table: |

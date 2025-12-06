@@ -12,17 +12,17 @@ glon: 260.4357
 glat: -4.1606
 r50: 17.2
 plx: 0.8826
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.27"
+UTI_COLOR: "#fddcc5"
 UTI_C_N_COL: "#fee0c7"
 UTI_C_dens_COL: "#f9c8bb"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 0.18
 UTI_C_C3: 0.38
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 437</b> is a poorly populated, very loose object of low C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.

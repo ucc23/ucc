@@ -12,17 +12,17 @@ glon: 102.34171
 glat: -2.23932
 r50: 8.9
 plx: 0.6573
-UTI: "0.10"
-UTI_COLOR: "#f1b6b3"
+UTI: "0.09"
+UTI_COLOR: "#efb5b3"
 UTI_C_N_COL: "#f2f9d6"
 UTI_C_dens_COL: "#add7c0"
 UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fdd7c3"
 UTI_C_dup_COL: "#f8c5ba"
 UTI_C_N: 0.6
 UTI_C_dens: 0.92
 UTI_C_C3: 0.62
-UTI_C_lit: 0.33
+UTI_C_lit: 0.25
 UTI_C_dup: 0.17
 UTI_summary: |
     <b>Theia 4535</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.

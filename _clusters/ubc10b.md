@@ -12,20 +12,20 @@ glon: 102.58622
 glat: 5.65121
 r50: 24.5
 plx: 1.0232
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.60"
+UTI_COLOR: "#f2f9d6"
 UTI_C_N_COL: "#d7eeca"
 UTI_C_dens_COL: "#fff4d6"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#d4edca"
+UTI_C_lit_COL: "#f7fcde"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 0.4
 UTI_C_C3: 0.75
-UTI_C_lit: 0.75
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_summary: |
-    <b>UBC 10 b</b> is a moderately populated, loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.
+    <b>UBC 10 b</b> is a moderately populated, loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 24.5

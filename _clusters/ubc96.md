@@ -12,17 +12,17 @@ glon: 14.30605
 glat: 0.37027
 r50: 7.3
 plx: 0.6115
-UTI: "0.74"
-UTI_COLOR: "#d7eeca"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#ebf6d2"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#ffffe8"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>UBC 96</b> is a moderately populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is moderately studied in the literature.

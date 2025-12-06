@@ -12,17 +12,17 @@ glon: 158.1502
 glat: -5.54316
 r50: 8.5
 plx: 1.017
-UTI: "0.49"
-UTI_COLOR: "#fffee7"
+UTI: "0.47"
+UTI_COLOR: "#fffce3"
 UTI_C_N_COL: "#fedec5"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#fff6da"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#a6cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.95
 UTI_C_C3: 0.38
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_summary: |
     <b>CWNU 361</b> is a poorly populated, very dense object of low C3 quality. It is located at a close distance from the Sun, below the mid-plane. It was recently reported in the literature.
@@ -39,6 +39,7 @@ posit_table: |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 64.354 | 42.809 | 1.024 | 2.09 | -1.369 | -27.104 |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 64.332 | 42.828 | 1.019 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 64.354 | 42.809 | 1.024 | 2.09 | -1.369 | -27.104 |
+    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 64.354 | 42.809 | -- | -- | -- | -- |
     | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
     | **UCC** |64.336 | 42.82 | 1.017 | 2.116 | -1.368 | -26.128 | 
 cds_radec: 64.33582,+42.81952
@@ -51,6 +52,7 @@ fpars_table: |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.596, diffAV50=0.893, MOD50=9.885, logAge50=8.096` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.92, dMod50=10.15, logAge50=7.53, [Fe/H]50=0.1` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=114.751, MassTot=115.730` |
+    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.0201, [Fe/H]MCMC=0.00017` |
 shared_table: |
     
 ---

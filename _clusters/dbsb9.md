@@ -3,7 +3,7 @@ layout: post
 title: DBSB 9
 style: style
 title_flag: true
-more_names: 
+more_names: MWSC 1255
 fname: dbsb9
 fov: 0.097
 ra_icrs: 112.97176
@@ -17,12 +17,12 @@ UTI_COLOR: "#e3a9b3"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a6cab9"
 UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fee8cc"
+UTI_C_lit_COL: "#fff1d4"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.33
+UTI_C_lit: 0.38
 UTI_C_dup: 0.03
 UTI_summary: |
     <b>DBSB 9</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
@@ -34,7 +34,9 @@ scix_url: DBSB%209
 posit_table: |
     | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
     | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | 112.942 | -19.375 | -- | -9.33 | 7.91 | -- |
+    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 112.942 | -19.375 | -- | -9.33 | 7.91 | -- |
+    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 112.937 | -19.373 | -- | -- | -- | -- |
+    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 112.937 | -19.373 | -- | -- | -- | -- |
     |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 112.957 | -19.381 | 0.255 | -2.242 | 2.283 | -- |
     |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 113.017 | -19.408 | 0.253 | -- | -- | -- |
     |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 112.957 | -19.381 | 0.255 | -2.242 | 2.283 | -- |
@@ -45,12 +47,14 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference |  Values |
     | :---  |  :---:  |
-    | [Kharchenko et al. (2012)](https://scixplorer.org/abs/2012A%26A...543A.156K) | `e_bv=0.895, distance=4389, log_age=6.0` |
+    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.895, d=4389.0, logt=6.0` |
+    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.895, d=4389.0, logt=6.0` |
+    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=6.0, logmt=2.346` |
     | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.035, diffAV50=2.363, MOD50=12.813, logAge50=7.202` |
     | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.05, dMod50=12.63, logAge50=7.29, [Fe/H]50=0.04` |
     | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=391.324, MassTot=455.044` |
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bochum 6](/_clusters/bochum6/)| 97.1 | 112.98 | -19.41 | 0.26 | -2.25 | 2.3 | 66.97 |0.74 |
+    |[Bochum 6](/_clusters/bochum6/)| 97.1 | 112.98 | -19.41 | 0.26 | -2.25 | 2.3 | 66.97 |0.68 |
 ---
