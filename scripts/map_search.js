@@ -14,6 +14,8 @@ const tableContainer = document.createElement("div");
 tableContainer.setAttribute("id", "resultsTable");
 tableContainer.style.marginTop = "20px";
 tableContainer.style.display = "flex";
+tableContainer.style.flexDirection = "column";
+tableContainer.style.alignItems = "center";
 tableContainer.style.justifyContent = "center";
 // Append the new element to the parent container
 parentContainer.appendChild(tableContainer);
@@ -195,8 +197,23 @@ function buildTable(points) {
     const tableContainerElement = document.getElementById("resultsTable"); 
     // Ensure the element exists before attempting to modify its content
     if (tableContainerElement) {
-        // Inject table using the standard JavaScript innerHTML property
+        const nrows = points.length;
+        const titleHTML = `<div class="results-title">Showing ${nrows} rows</div>`;
         tableContainerElement.innerHTML = `
+            <div style="width:${width}px; display:flex; justify-content:center; align-items:center; margin-bottom:4px; font-weight:bold; color:#666; position:relative;">
+                <!-- Centered title -->
+                <span style="text-align:center; width:100%;">
+                    Found ${nrows} objects
+                </span>
+                <!-- Right-aligned download button -->
+                <div id="download-container" style="position:absolute; right:0;">
+                    <button id="downloadCSV"
+                        title="Download table as a CSV file"
+                        style="background:none; border:none; color:blue; cursor:pointer; font-size:18px;">
+                        📥
+                    </button>
+                </div>
+            </div>
             <table id="resultsTableData" class="results-table" style="width:${width}px">
                 ${tableHeader}
                 ${tableBody}
@@ -223,16 +240,6 @@ mapDetails.addEventListener("toggle", async (event) => {
     await updateMapIfOpen(points, table);
   }
 });
-
-// Main update function
-async function updateDisplay() {
-  const points = getPoints();
-  buildTable(points);
-  const table = document.getElementById("resultsTable");
-  enableTableSorting(table);
-  await updateMapIfOpen(points, table);
-}
-
 
 
 function getCSV() {
@@ -278,6 +285,19 @@ function getCSV() {
     }
 }
 
+
+// Main update function
+async function updateDisplay() {
+  const points = getPoints();
+  buildTable(points);
+  const table = document.getElementById("resultsTable");
+  enableTableSorting(table);
+  await updateMapIfOpen(points, table);
+  // Allow download of CSV
+  const downloadButton = document.getElementById('downloadCSV');
+  downloadButton.addEventListener('click', getCSV);
+}
+
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });
 
@@ -285,11 +305,8 @@ setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
 
 // Allow Enter key to trigger search from any input field
-["search", "radius", "dist_min", "dist_max", "n50_min", "n50_max", "uti_min", "uti_max", "c3Filter"].forEach(id => {
-    document.getElementById(id).addEventListener("keypress", (e) => {
+document.querySelectorAll(".search-trigger").forEach(el => {
+    el.addEventListener("keypress", (e) => {
         if (e.key === "Enter") updateDisplay();
     });
 });
-
-const downloadButton = document.getElementById('downloadCSV');
-downloadButton.addEventListener('click', getCSV);
