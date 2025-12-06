@@ -9,6 +9,14 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [251206](https://zenodo.org/records/17840887)
+
+- Added Nizovkina et al. (2025)
+- Added Carrasco-Varela et al. (2025)
+- Added Zhang et al. (2024)
+- Added Monteiro et al. (2019)
+
+
 ## Version [251128](https://zenodo.org/records/17754324)
 
 - Added Soubiran et al. (2018)
@@ -18,7 +26,6 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 - Added Celli et al. (2024)
 - Added Almeida et al (2025)
 - Removed FSR_1758 from Froebrich (2007) (it's a GC)
-
 
 
 ## Version [251123](https://zenodo.org/records/17689259)
