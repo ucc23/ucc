@@ -20,14 +20,14 @@ style: style
 | [CWWL 1460](/_clusters/cwwl1460/) | 118.53 | -28.8 | 0.23 | 19 | 6.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [CWWL 1481](/_clusters/cwwl1481/) | 122.25 | -33.82 | 0.22 | 13 | 6.1 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [CWWL 1500](/_clusters/cwwl1500/) | 122.68 | -35.45 | 0.23 | 13 | 13.9 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
-| [CWWL 1746](/_clusters/cwwl1746/) | 225.49 | -60.03 | 0.31 | 37 | 1.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.61  |
+| [CWWL 1746](/_clusters/cwwl1746/) | 225.49 | -60.03 | 0.31 | 37 | 1.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.57  |
 | [CWWL 1991](/_clusters/cwwl1991/) | 90.65 | 27.28 | 0.25 | 17 | 8.9 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [CWWL 2009](/_clusters/cwwl2009/) | 98.86 | 12.49 | 0.23 | 17 | 9.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
 | [CWWL 2060](/_clusters/cwwl2060/) | 118.43 | -24.9 | 0.24 | 15 | 10.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
-| [CWWL 2073](/_clusters/cwwl2073/) | 116.95 | -24.7 | 0.21 | 19 | 4.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.26  |
+| [CWWL 2073](/_clusters/cwwl2073/) | 116.95 | -24.7 | 0.21 | 19 | 4.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.22  |
 | [CWWL 2075](/_clusters/cwwl2075/) | 116.91 | -24.18 | 0.23 | 19 | 7.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [CWWL 2083](/_clusters/cwwl2083/) | 115.66 | -21.4 | 0.25 | 40 | 7.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.21  |
-| [CWWL 2084](/_clusters/cwwl2084/) | 115.7 | -21.06 | 0.27 | 28 | 7.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.2  |
+| [CWWL 2084](/_clusters/cwwl2084/) | 115.7 | -21.06 | 0.27 | 28 | 7.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.18  |
 | [CWWL 2091](/_clusters/cwwl2091/) | 120.05 | -24.13 | 0.22 | 48 | 12.3 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.13  |
 | [CWWL 2100](/_clusters/cwwl2100/) | 119.92 | -24.69 | 0.23 | 19 | 6.2 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.09  |
 | [CWWL 2110](/_clusters/cwwl2110/) | 121.01 | -26.09 | 0.23 | 19 | 10.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
@@ -45,7 +45,7 @@ style: style
 | [CWWL 2999](/_clusters/cwwl2999/) | 126.06 | -31.82 | 0.24 | 13 | 10.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [CWWL 3012](/_clusters/cwwl3012/) | 294.74 | 29.53 | 0.21 | 7 | 9.4 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [CWWL 3019](/_clusters/cwwl3019/) | 299.57 | 36.78 | 0.25 | 15 | 6.9 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.08  |
-| [CWWL 3078](/_clusters/cwwl3078/) | 71.69 | 60.88 | 0.23 | 63 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.66  |
+| [CWWL 3078](/_clusters/cwwl3078/) | 71.69 | 60.88 | 0.23 | 63 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.62  |
 | [CWWL 3079](/_clusters/cwwl3079/) | 99.47 | 34.75 | 0.27 | 18 | 8.8 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |
 | [CWWL 3082](/_clusters/cwwl3082/) | 102.3 | 29.67 | 0.22 | 19 | 11.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.05  |
 | [CWWL 3086](/_clusters/cwwl3086/) | 83.95 | 55.62 | 0.25 | 19 | 8.6 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.06  |

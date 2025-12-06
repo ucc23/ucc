@@ -7,7 +7,6 @@ style: style
 
 | Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [ASCC 50](/_clusters/ascc50/) | 132.58 | -41.7 | 1.05 | 181 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [Alessi 135](/_clusters/alessi135/) | 87.41 | 27.04 | 1.05 | 26 | 4.7 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [Briceno1](/_clusters/briceno1/) | 81.21 | 1.68 | 2.88 | 434 | 27.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [CMa01](/_clusters/cma01/) | 106.81 | -7.67 | 0.93 | 55 | 10.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
@@ -375,7 +374,6 @@ style: style
 | [Cep OB6](/_clusters/cepob6/) | 335.13 | 56.44 | 4.13 | 25 | 51.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [Cmg 1066](/_clusters/cmg1066/) | 116.57 | -34.31 | 0.27 | 86 | 4.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [Cmg 955](/_clusters/cmg955/) | 93.32 | 15.94 | 0.56 | 22 | 4.0 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
-| [Collinder 110A](/_clusters/collinder110a/) | 99.7 | 2.05 | 0.44 | 613 | 6.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [Collinder 232](/_clusters/collinder232/) | 161.09 | -59.55 | 0.38 | 86 | 2.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [Collinder 467](/_clusters/collinder467/) | 114.73 | -10.65 | 0.37 | 23 | 3.3 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [DBSB 101](/_clusters/dbsb101/) | 242.61 | -49.04 | 0.54 | 183 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
@@ -710,6 +708,7 @@ style: style
 | [OC 0669](/_clusters/oc0669/) | 252.63 | -45.07 | 0.4 | 25 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [OC 0671](/_clusters/oc0671/) | 252.49 | -44.18 | 0.45 | 22 | 1.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [OC 0672](/_clusters/oc0672/) | 255.19 | -44.68 | 0.46 | 105 | 3.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
+| [OC 0674](/_clusters/oc0674/) | 253.7 | -40.77 | 0.6 | 25 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [OC 0678](/_clusters/oc0678/) | 255.52 | -38.88 | 0.21 | 31 | 1.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [OC 0682](/_clusters/oc0682/) | 259.76 | -38.82 | 0.21 | 24 | 0.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [OC 0683](/_clusters/oc0683/) | 261.11 | -39.01 | 0.46 | 91 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
@@ -871,6 +870,7 @@ style: style
 | [UBC 99](/_clusters/ubc99/) | 282.0 | -18.28 | 1.06 | 100 | 6.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [UFMG 76](/_clusters/ufmg76/) | 261.17 | -34.69 | 0.59 | 69 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [VDBH 203](/_clusters/vdbh203/) | 253.83 | -40.93 | 0.58 | 20 | 2.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
+| [VDBH 47](/_clusters/vdbh47/) | 130.62 | -48.13 | 1.4 | 236 | 5.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0  |
 | [VDBH 90](/_clusters/vdbh90/) | 153.06 | -58.07 | 0.38 | 220 | 2.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [VVV 005](/_clusters/vvv005/) | 174.74 | -63.47 | 0.4 | 37 | 3.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [VVV 006](/_clusters/vvv006/) | 177.31 | -62.23 | 0.22 | 48 | 1.3 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |

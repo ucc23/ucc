@@ -11,7 +11,7 @@ style: style
 | Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [HXWHB 1](/_clusters/hxwhb1/) | 51.79 | 45.2 | 0.52 | 21 | 15.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04  |
-| [HXWHB 10](/_clusters/hxwhb10/) | 81.9 | 33.29 | 0.38 | 25 | 3.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.38  |
+| [HXWHB 10](/_clusters/hxwhb10/) | 81.9 | 33.29 | 0.38 | 25 | 3.8 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.37  |
 | [HXWHB 11](/_clusters/hxwhb11/) | 127.88 | -47.99 | 0.56 | 19 | 11.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.15  |
 | [HXWHB 12](/_clusters/hxwhb12/) | 167.14 | -58.73 | 0.59 | 6 | 16.6 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [HXWHB 13](/_clusters/hxwhb13/) | 274.26 | 10.79 | 0.99 | 14 | 19.3 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.07  |

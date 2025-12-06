@@ -27,7 +27,7 @@ style: style
 | [LISC 1141](/_clusters/lisc1141/) | 115.28 | -25.65 | 0.25 | 17 | 7.2 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.03  |
 | [LISC 1145](/_clusters/lisc1145/) | 114.52 | -25.37 | 0.5 | 253 | 8.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.27  |
 | [LISC 1152](/_clusters/lisc1152/) | 117.86 | -29.51 | 0.28 | 105 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5  |
-| [LISC 1273](/_clusters/lisc1273/) | 177.92 | -63.31 | 0.25 | 21 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.33  |
+| [LISC 1273](/_clusters/lisc1273/) | 177.92 | -63.31 | 0.25 | 21 | 3.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.3  |
 | [LISC 1274](/_clusters/lisc1274/) | 180.96 | -63.61 | 0.28 | 60 | 2.4 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.46  |
 | [LISC 1314](/_clusters/lisc1314/) | 222.56 | -61.77 | 0.3 | 130 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.55  |
 | [LISC 1351](/_clusters/lisc1351/) | 308.92 | 36.57 | 0.32 | 70 | 2.0 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.52  |
@@ -58,7 +58,7 @@ style: style
 | [LISC 3241](/_clusters/lisc3241/) | 174.03 | -59.47 | 0.52 | 196 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.19  |
 | [LISC 3250](/_clusters/lisc3250/) | 216.2 | -61.05 | 0.49 | 93 | 4.4 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.11  |
 | [LISC 3279](/_clusters/lisc3279/) | 290.0 | 15.15 | 0.63 | 78 | 3.9 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.07  |
-| [LISC 3287](/_clusters/lisc3287/) | 311.9 | 47.42 | 0.56 | 86 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.06  |
+| [LISC 3287](/_clusters/lisc3287/) | 311.9 | 47.42 | 0.56 | 86 | 8.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.05  |
 | [LISC 3301](/_clusters/lisc3301/) | 282.65 | 9.78 | 0.65 | 94 | 6.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0  |
 | [LISC 3315](/_clusters/lisc3315/) | 126.67 | -50.73 | 0.88 | 108 | 8.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.1  |
 | [LISC 3316](/_clusters/lisc3316/) | 173.07 | -68.08 | 0.7 | 63 | 8.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.01  |
@@ -70,7 +70,7 @@ style: style
 | [LISC 3479](/_clusters/lisc3479/) | 79.18 | 41.75 | 1.03 | 77 | 14.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.02  |
 | [LISC 3483](/_clusters/lisc3483/) | 245.26 | -40.84 | 0.9 | 68 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.52  |
 | [LISC 3530](/_clusters/lisc3530/) | 277.3 | -34.54 | 1.97 | 92 | 19.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.09  |
-| [LISC 3534](/_clusters/lisc3534/) | 12.19 | 50.25 | 2.18 | 357 | 52.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.74  |
+| [LISC 3534](/_clusters/lisc3534/) | 12.19 | 50.25 | 2.18 | 357 | 52.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.72  |
 
 
 

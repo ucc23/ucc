@@ -7,9 +7,9 @@ style: style
 
 | Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [FSR 0756](/_clusters/fsr0756/) | 66.04 | 29.71 | 0.26 | 23 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.3  |
-| [FSR 1159](/_clusters/fsr1159/) | 104.5 | -8.76 | 0.59 | 19 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.3  |
-| [HSC 1074](/_clusters/hsc1074/) | 35.6 | 66.55 | 1.13 | 21 | 21.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.23  |
+| [FSR 0756](/_clusters/fsr0756/) | 66.04 | 29.71 | 0.26 | 23 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.33  |
+| [FSR 1159](/_clusters/fsr1159/) | 104.5 | -8.76 | 0.59 | 19 | 2.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.4  |
+| [HSC 1074](/_clusters/hsc1074/) | 35.6 | 66.55 | 1.13 | 21 | 21.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.13  |
 | [HSC 157](/_clusters/hsc157/) | 275.7 | -19.27 | 6.18 | 25 | 171.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.17  |
 | [HSC 2314](/_clusters/hsc2314/) | 75.11 | -71.1 | 1.12 | 23 | 39.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.11  |
 | [MWSC 5044](/_clusters/mwsc5044/) | 141.18 | 29.99 | 2.47 | 25 | 10.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span> | 0.35  |
