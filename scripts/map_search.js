@@ -319,6 +319,7 @@ async function updateDisplay() {
   await updateMapIfOpen(points, table); 
   const downloadButton = document.getElementById('downloadCSV');
   downloadButton.addEventListener('click', getCSV);
+  downloadButton.onclick = () => umami.track('search_downl_csv');
 }
 
 
