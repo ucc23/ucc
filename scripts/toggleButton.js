@@ -5,7 +5,7 @@ export function setupCoordToggle({
 } = {}) {
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
-  const radiusInput = document.getElementById('radius');
+  // const radiusInput = document.getElementById('radius');
 
   const modes = includeName ? ['names','equ','gal'] : ['names','equ','gal'];
 
@@ -15,11 +15,11 @@ export function setupCoordToggle({
     gal: "Search by LON, LAT..."
   };
 
-  const radius_placeholders = {
-    names: "Max dist [string]",
-    equ: "Max dist [arcmin]",
-    gal: "Max dist [arcmin]"
-  };
+  // const radius_placeholders = {
+  //   names: "Max dist [string]",
+  //   equ: "Max dist [arcmin]",
+  //   gal: "Max dist [arcmin]"
+  // };
 
   let index = 0;
   window.coordsys = modes[index];
@@ -41,9 +41,9 @@ export function setupCoordToggle({
 
     // Update placeholders
     termsInput.placeholder = placeholders[window.coordsys];
-    if (radiusInput) {
-      radiusInput.placeholder = radius_placeholders[window.coordsys];
-    }
+    // if (radiusInput) {
+    //   radiusInput.placeholder = radius_placeholders[window.coordsys];
+    // }
   });
 
 }

@@ -17,7 +17,7 @@ style: style
                 <div class="search-row row1">
                     <button id="coordToggle">Names</button>
                     <input id="search" class="search-trigger" type="text" autofocus autocomplete="off" placeholder="Search by name(s)...">
-                    <input id="radius" class="search-trigger" type="number" min="0" step="5" placeholder="Max dist [string]" title="Maximum distance value">
+                    <input id="Nmax" class="search-trigger" type="number" value="100" min="0" step="100" placeholder="Max results" title="Maximum number of result">
                     <select id="c3Filter" class="search-trigger" title="Filter by C3 value">
                         <option value="">All C3</option>
                         <option value="AA" class="c3-AA">AA</option>

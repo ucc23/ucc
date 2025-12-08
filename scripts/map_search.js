@@ -35,7 +35,7 @@ function getInputValues() {
     return {
         coordsys : window.coordsys,
         search: document.getElementById("search").value,
-        radius: document.getElementById("radius").value,
+        Nmax: document.getElementById("Nmax").value,
         distmin: document.getElementById("dist_min").value,
         distmax: document.getElementById("dist_max").value,
         n50min: document.getElementById("n50_min").value,
@@ -52,7 +52,7 @@ function getPoints() {
     let { 
         coordsys,
         search: query,  // Rename
-        radius,
+        Nmax,
         distmin,
         distmax,
         n50min,
@@ -69,9 +69,9 @@ function getPoints() {
     }
 
     // Ensure valid defaults
-    radius = parseFloat(radius);
-    if (isNaN(radius)) {
-        radius = 10;
+    Nmax = parseFloat(Nmax);
+    if (isNaN(Nmax)) {
+        Nmax = 100;
     }
     distmin = parseFloat(distmin);
     if (isNaN(distmin)) {
@@ -117,7 +117,7 @@ function getPoints() {
                 badoc: d.bad_oc,
             };
         })
-        .filter(d => d.distance <= radius)
+        // .filter(d => d.distance <= radius)
         .filter(d => d.dist_pc >= distmin && d.dist_pc <= distmax)
         .filter(d => d.membs >= n50min && d.membs <= n50max)
         .filter(d => d.uti >= utimin && d.uti <= utimax);
@@ -132,18 +132,30 @@ function getPoints() {
         results = results.filter(d => d.badoc === "n");
     }
 
+    // Exclude 'Infinity' distances
+    if (coordsys === "names") {
+        results = results.filter(d => d.distance <= 1);
+    }
+
     // // Return only exact matches if any found
     // const exactMatches = results.filter(d => d.distance === 0);
     // if (exactMatches.length === 1) {
     //     return exactMatches;
     // }
 
-    return results.sort((a, b) => a.distance - b.distance)
-        // .slice(0, maxN);
+    results = results.sort((a, b) => a.distance - b.distance);
+
+    // Get the count BEFORE applying the slice (Nmax limit)
+    const totalCount = results.length; 
+    const limitedResults = results.slice(0, Nmax);
+    return {
+        points: limitedResults, 
+        totalCount: totalCount 
+    };
 }
 
 
-function buildTable(points) {
+function buildTable(points, totalCount) {
     // Determine coordinate labels
     const coordsys = window.coordsys;
     const dr = coordsys === "names" ? "d [str]" : "d [ ' ]";
@@ -197,13 +209,13 @@ function buildTable(points) {
     const tableContainerElement = document.getElementById("resultsTable"); 
     // Ensure the element exists before attempting to modify its content
     if (tableContainerElement) {
-        const nrows = points.length;
-        const titleHTML = `<div class="results-title">Showing ${nrows} rows</div>`;
+        // const nrows = points.length;
+        // const titleHTML = `<div class="results-title">Showing ${nrows} rows</div>`;
         tableContainerElement.innerHTML = `
             <div style="width:${width}px; display:flex; justify-content:center; align-items:center; margin-bottom:4px; font-weight:bold; color:#666; position:relative;">
                 <!-- Centered title -->
                 <span style="text-align:center; width:100%;">
-                    Found ${nrows} objects
+                    Showing ${points.length} objects (${totalCount} found)
                 </span>
                 <!-- Right-aligned download button -->
                 <div id="download-container" style="position:absolute; right:0;">
@@ -222,6 +234,10 @@ function buildTable(points) {
     }
 }
 
+
+// Variable to cache the latest results object
+let cachedPoints = []; 
+
 // Update map
 async function updateMapIfOpen(points, table) {
   const details = document.querySelector("details");
@@ -235,18 +251,24 @@ async function updateMapIfOpen(points, table) {
 const mapDetails = document.querySelector("details");
 mapDetails.addEventListener("toggle", async (event) => {
   if (event.target.open) {
-    const points = getPoints();
-    const table = document.getElementById("resultsTable");
-    await updateMapIfOpen(points, table);
+    // Use the cached data
+    const points = cachedPoints; 
+    if (points) { 
+      const table = document.getElementById("resultsTable");
+      await updateMapIfOpen(points, table); 
+    }
   }
 });
 
 
 function getCSV() {
-    // 1. Data Acquisition (Equivalent to getCSV -> getPoints)
-    const points = getPoints();
+    const points = cachedPoints; 
+    if (!points || points.length === 0) {
+        console.warn("No data in cache to download.");
+        return; 
+    }
 
-    // 2. CSV Conversion (Equivalent to convertToCSV)
+    // CSV Conversion
     const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI", "bad_oc"];
     const csvContent = [
         headers.join(","), // Header row
@@ -264,7 +286,7 @@ function getCSV() {
         ].join(","))
     ].join("\n");
 
-    // 3. Trigger Download (Equivalent to downloadCSV)
+    // Trigger Download
     const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement("a");
     
@@ -288,15 +310,17 @@ function getCSV() {
 
 // Main update function
 async function updateDisplay() {
-  const points = getPoints();
-  buildTable(points);
+  const { points, totalCount } = getPoints();
+  // Cache the full result object for the map event listener
+  cachedPoints = points;
+  buildTable(points, totalCount);
   const table = document.getElementById("resultsTable");
   enableTableSorting(table);
-  await updateMapIfOpen(points, table);
-  // Allow download of CSV
+  await updateMapIfOpen(points, table); 
   const downloadButton = document.getElementById('downloadCSV');
   downloadButton.addEventListener('click', getCSV);
 }
+
 
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });

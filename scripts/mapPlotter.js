@@ -121,12 +121,12 @@ export function drawMap(points, table) {
         if (c) addLabel(c[0] - 25, c[1] + 3, `${lat}°`, "start");
     }
 
-    // // Title
-    // const title = createNode("text", { x: width / 2, y: height - 10, "text-anchor": "middle", "font-size": "16px", fill: "black" }, svg);
-    // title.textContent = `N=${points.length}`;
-
     // --- Points Processing ---
     if (!points || points.length === 0) return;
+
+    // Title
+    const title = createNode("text", { x: width / 2, y: height - 10, "text-anchor": "middle", "font-size": "16px", fill: "black" }, svg);
+    title.textContent = `N=${points.length}`;
 
     const dists = points.map(d => d.dist_pc);
     const membs = points.map(d => d.membs);
