@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl706
+members_file: "264_268"
 fov: 0.27
 ra_icrs: 133.13846
 de_icrs: -47.6854

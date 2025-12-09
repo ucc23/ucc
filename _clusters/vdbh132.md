@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 132; MWSC 2032; BH 132
 fname: vdbh132
+members_file: "300_304"
 fov: 0.083
 ra_icrs: 186.73775
 de_icrs: -64.05768

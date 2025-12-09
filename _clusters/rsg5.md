@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: rsg5
+members_file: "80_84"
 fov: 1.553
 ra_icrs: 303.49965
 de_icrs: 45.59518

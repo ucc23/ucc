@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 7; zeta Scl; OCL 43; ESO 409 09
 fname: blanco1
+members_file: "12_16"
 fov: 5.19
 ra_icrs: 1.22232
 de_icrs: -29.9478

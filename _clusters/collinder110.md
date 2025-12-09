@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 110A; MWSC 941; OCL 530; FSR 1049; FoF 79
 fname: collinder110
+members_file: "208_212"
 fov: 0.3
 ra_icrs: 99.68055
 de_icrs: 2.07554

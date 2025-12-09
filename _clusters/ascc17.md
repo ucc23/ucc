@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 534
 fname: ascc17
+members_file: "176_180"
 fov: 0.17
 ra_icrs: 81.32753
 de_icrs: 30.11644

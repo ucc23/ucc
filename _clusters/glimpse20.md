@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 20
 fname: glimpse20
+members_file: "44_48"
 fov: 0.097
 ra_icrs: 288.09725
 de_icrs: 9.95332

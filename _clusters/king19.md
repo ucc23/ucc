@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3703; FoF 349
 fname: king19
+members_file: "108_112"
 fov: 0.157
 ra_icrs: 347.04312
 de_icrs: 60.5213

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3760; DSH J2347.9+6259; FSR 0454
 fname: teutsch23
+members_file: "112_116"
 fov: 0.19
 ra_icrs: 356.94662
 de_icrs: 63.0485

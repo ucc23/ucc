@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Markarian 18; MWSC 1613; FoF 984; Mrk 18
 fname: collinder205
+members_file: "268_272"
 fov: 0.093
 ra_icrs: 135.12282
 de_icrs: -48.9837

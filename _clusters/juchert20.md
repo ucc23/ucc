@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 35; DSH J0410.8+4652; FSR 0676; MWSC 348
 fname: juchert20
+members_file: "152_156"
 fov: 0.07
 ra_icrs: 62.7013
 de_icrs: 46.86841

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1281; OCL 625; ESO 560 03
 fname: czernik31
+members_file: "236_240"
 fov: 0.07
 ra_icrs: 114.23528
 de_icrs: -20.52202

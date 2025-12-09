@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 42; Pleiades; MWSC 305; Messier 45; M45; OCL 421; Escorial 1; OCSN 219
 fname: melotte22
+members_file: "164_168"
 fov: 3.183
 ra_icrs: 56.59978
 de_icrs: 24.11362

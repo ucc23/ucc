@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: COIN 22
 fname: coingaia22
+members_file: "176_180"
 fov: 0.133
 ra_icrs: 91.06451
 de_icrs: 31.60171

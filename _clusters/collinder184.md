@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 30; NGC 2587; MWSC 1482; OCL 706; vdBergh-Hagen 30; ESO 431 07; FoF 591
 fname: collinder184
+members_file: "248_252"
 fov: 0.19
 ra_icrs: 125.85856
 de_icrs: -29.50096

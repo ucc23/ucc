@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 66; NGC 1907; MWSC 552; OCL 434; FSR 0774
 fname: melotte35
+members_file: "172_176"
 fov: 0.213
 ra_icrs: 82.03878
 de_icrs: 35.32952

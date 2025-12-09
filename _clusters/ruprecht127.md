@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2649
 fname: ruprecht127
+members_file: "352_356"
 fov: 0.103
 ra_icrs: 264.46168
 de_icrs: -36.31378

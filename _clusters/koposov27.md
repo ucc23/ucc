@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch 1; MWSC 625; DSH J0539.4+3320; MWSC 624
 fname: koposov27
+members_file: "172_176"
 fov: 0.067
 ra_icrs: 84.8718
 de_icrs: 33.34625

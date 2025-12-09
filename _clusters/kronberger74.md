@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0204; MWSC 3304
 fname: kronberger74
+members_file: "72_76"
 fov: 0.18
 ra_icrs: 304.50925
 de_icrs: 36.78801

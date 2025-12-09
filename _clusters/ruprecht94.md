@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1950
 fname: ruprecht94
+members_file: "292_296"
 fov: 0.177
 ra_icrs: 172.68366
 de_icrs: -63.42252

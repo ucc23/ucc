@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2418; DSH J1629.5-4718
 fname: patchick94
+members_file: "336_340"
 fov: 0.047
 ra_icrs: 247.39891
 de_icrs: -47.30823

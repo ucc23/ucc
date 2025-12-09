@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3132
 fname: teutsch42
+members_file: "52_56"
 fov: 0.087
 ra_icrs: 292.55282
 de_icrs: 18.53654

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 66; MWSC 1667; BH 66; UKS 2; ESO 166 11
 fname: vdbh66
+members_file: "276_280"
 fov: 0.047
 ra_icrs: 141.31758
 de_icrs: -54.71979

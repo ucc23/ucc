@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1158.3-6152; GLIMPSE 27; Mercer 27
 fname: teutsch78
+members_file: "296_300"
 fov: 0.03
 ra_icrs: 179.58534
 de_icrs: -61.87309

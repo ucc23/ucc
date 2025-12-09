@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3113; OCL 106; FSR 0127
 fname: king25
+members_file: "48_52"
 fov: 0.113
 ra_icrs: 291.1271
 de_icrs: 13.69797

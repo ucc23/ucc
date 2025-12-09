@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Moffat-Fitzgerald 1; HD 85891
 fname: mf1
+members_file: "276_280"
 fov: 0.077
 ra_icrs: 148.2816
 de_icrs: -55.03168

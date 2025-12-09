@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 121; vdBergh-Hagen 121; MWSC 1960; BH 121
 fname: vdbh121
+members_file: "292_296"
 fov: 0.223
 ra_icrs: 174.69486
 de_icrs: -63.40126

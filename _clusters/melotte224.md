@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 406; NGC 6830; MWSC 3191; OCL 125
 fname: melotte224
+members_file: "60_64"
 fov: 0.177
 ra_icrs: 297.71552
 de_icrs: 23.09691

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lederman1
+members_file: "140_144"
 fov: 0.22
 ra_icrs: 36.82995
 de_icrs: 42.3158

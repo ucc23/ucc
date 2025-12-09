@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Taurua Group18
 fname: ocsn272
+members_file: "160_164"
 fov: 3.153
 ra_icrs: 61.17016
 de_icrs: 34.00765

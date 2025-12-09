@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Wray 1; Wray 15-751; DSH J1108.6-6042; FSR 1570; MWSC 1898
 fname: teutsch143a
+members_file: "288_292"
 fov: 0.063
 ra_icrs: 167.14878
 de_icrs: -60.73972

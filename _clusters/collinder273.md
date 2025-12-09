@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 147; NGC 5168; MWSC 2129; OCL 905; vdBergh-Hagen 147; ESO 132 10; FSR 1655; FoF 427
 fname: collinder273
+members_file: "304_308"
 fov: 0.08
 ra_icrs: 202.79005
 de_icrs: -60.94585

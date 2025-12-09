@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3450
 fname: bdsb19
+members_file: "76_80"
 fov: 0.267
 ra_icrs: 315.42557
 de_icrs: 33.53264

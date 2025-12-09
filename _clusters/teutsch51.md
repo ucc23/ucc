@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Koposov 52; MWSC 693; FSR 0847; DSH J0553.8+2649
 fname: teutsch51
+members_file: "180_184"
 fov: 0.113
 ra_icrs: 88.46254
 de_icrs: 26.83367

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1157; FoF 2434; OCSN 137
 fname: alessi3
+members_file: "256_260"
 fov: 2.17
 ra_icrs: 109.16921
 de_icrs: -46.2555

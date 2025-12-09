@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3063; DSH J1911.1+1450
 fname: riddle15
+members_file: "48_52"
 fov: 0.073
 ra_icrs: 287.78661
 de_icrs: 14.83519

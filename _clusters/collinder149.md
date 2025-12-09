@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2401; MWSC 1241; OCL 588
 fname: collinder149
+members_file: "228_232"
 fov: 0.067
 ra_icrs: 112.3544
 de_icrs: -13.96812

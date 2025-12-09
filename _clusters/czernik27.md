@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 526; MWSC 1078
 fname: czernik27
+members_file: "208_212"
 fov: 0.07
 ra_icrs: 105.83221
 de_icrs: 6.38423

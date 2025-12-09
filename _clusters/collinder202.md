@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 199; VDBH 52; vdB-Hagen 52; NGC 2669; MWSC 1561; Harvard 3; OCL 768; vdBergh-Hagen 52; ESO 165 05; MWSC 1562; BH 52; FoF 2052
 fname: collinder202
+members_file: "268_272"
 fov: 0.23
 ra_icrs: 131.61369
 de_icrs: -52.93157

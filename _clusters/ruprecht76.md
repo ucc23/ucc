@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1663
 fname: ruprecht76
+members_file: "272_276"
 fov: 0.113
 ra_icrs: 141.07266
 de_icrs: -51.65198

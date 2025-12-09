@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3712; Mrk 50
 fname: markarian50
+members_file: "108_112"
 fov: 0.063
 ra_icrs: 348.8089
 de_icrs: 60.44846

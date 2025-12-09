@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 238; VDBH 109; NGC 3532; MWSC 1890; OCL 839; vdBergh-Hagen 109; ESO 128 31; FoF 2329; OCSN 236
 fname: melotte103
+members_file: "288_292"
 fov: 0.983
 ra_icrs: 166.39914
 de_icrs: -58.69554

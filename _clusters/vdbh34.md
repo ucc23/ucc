@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 34; vdBergh-Hagen 34; MWSC 1497
 fname: vdbh34
+members_file: "260_264"
 fov: 0.197
 ra_icrs: 127.84796
 de_icrs: -44.51336

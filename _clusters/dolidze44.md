@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dolidze44
+members_file: "80_84"
 fov: 0.217
 ra_icrs: 307.37095
 de_icrs: 41.70035

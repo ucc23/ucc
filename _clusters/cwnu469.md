@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwnu469
+members_file: "76_80"
 fov: 0.273
 ra_icrs: 306.17723
 de_icrs: 37.39817

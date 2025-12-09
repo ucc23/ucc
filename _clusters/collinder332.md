@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 230; Harvard 16; MWSC 2616; OCL 1012; OCL 1010; vdBergh-Hagen 230; ESO 393 02; FoF 865
 fname: collinder332
+members_file: "348_352"
 fov: 0.213
 ra_icrs: 262.76872
 de_icrs: -36.80998

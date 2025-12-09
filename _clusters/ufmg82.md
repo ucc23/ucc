@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg82
+members_file: "352_356"
 fov: 0.217
 ra_icrs: 263.91554
 de_icrs: -33.37182

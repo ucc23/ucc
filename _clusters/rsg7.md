@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 257
 fname: rsg7
+members_file: "108_112"
 fov: 1.297
 ra_icrs: 344.32093
 de_icrs: 59.45081

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1061
 fname: ivanov4
+members_file: "220_224"
 fov: 0.067
 ra_icrs: 105.1446
 de_icrs: -8.8587

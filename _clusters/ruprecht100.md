@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1995
 fname: ruprecht100
+members_file: "296_300"
 fov: 0.113
 ra_icrs: 181.53956
 de_icrs: -62.62514

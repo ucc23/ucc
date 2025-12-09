@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Ferrero 15; MWSC 2205; FoF 2223; LP 2223; FoF 2310
 fname: ascc77
+members_file: "308_312"
 fov: 0.243
 ra_icrs: 212.69911
 de_icrs: -62.34347

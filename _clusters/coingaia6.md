@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: COIN 6; FoF 74
 fname: coingaia6
+members_file: "128_132"
 fov: 0.123
 ra_icrs: 28.10062
 de_icrs: 58.64124

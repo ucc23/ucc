@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Cmg 59
 fname: elosser2
+members_file: "192_196"
 fov: 0.203
 ra_icrs: 92.02677
 de_icrs: 13.76522

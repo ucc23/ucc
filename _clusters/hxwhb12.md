@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hxwhb12
+members_file: "288_292"
 fov: 0.553
 ra_icrs: 167.14154
 de_icrs: -58.73285

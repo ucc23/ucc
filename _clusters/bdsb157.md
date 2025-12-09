@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3121
 fname: bdsb157
+members_file: "48_52"
 fov: 0.24
 ra_icrs: 291.56114
 de_icrs: 16.33912

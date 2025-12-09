@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1522; vdBergh-Hagen 87; MWSC 1755; BH 87
 fname: vdbh87
+members_file: "280_284"
 fov: 0.107
 ra_icrs: 151.14698
 de_icrs: -55.38706

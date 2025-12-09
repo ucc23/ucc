@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 8a; Mc 8a
 fname: fny2
+members_file: "20_24"
 fov: 0.233
 ra_icrs: 277.06876
 de_icrs: -10.96855

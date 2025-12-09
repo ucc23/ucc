@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 291
 fname: sai30
+members_file: "128_132"
 fov: 0.227
 ra_icrs: 55.16704
 de_icrs: 82.23004

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch 328; MWSC 3620
 fname: sbb4
+members_file: "100_104"
 fov: 0.19
 ra_icrs: 335.84306
 de_icrs: 56.62586

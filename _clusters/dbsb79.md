@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2067
 fname: dbsb79
+members_file: "300_304"
 fov: 0.2
 ra_icrs: 192.15977
 de_icrs: -63.77134

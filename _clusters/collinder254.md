@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 129; NGC 4337; MWSC 2023; OCL 878; vdBergh-Hagen 129; ESO 131 02; FSR 1611; FoF 595
 fname: collinder254
+members_file: "296_300"
 fov: 0.137
 ra_icrs: 186.02624
 de_icrs: -58.1252

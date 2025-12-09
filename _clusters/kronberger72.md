@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3283; DSH J2012.3+3753
 fname: kronberger72
+members_file: "72_76"
 fov: 0.293
 ra_icrs: 303.04669
 de_icrs: 37.93349

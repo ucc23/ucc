@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl2770
+members_file: "300_304"
 fov: 0.117
 ra_icrs: 189.76506
 de_icrs: -61.25372

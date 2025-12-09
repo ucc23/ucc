@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2980
 fname: trumpler35
+members_file: "28_32"
 fov: 0.117
 ra_icrs: 280.7415
 de_icrs: -4.21781

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hd183300group
+members_file: "64_68"
 fov: 0.213
 ra_icrs: 291.90246
 de_icrs: 32.60589

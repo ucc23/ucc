@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 541
 fname: ascc18
+members_file: "200_204"
 fov: 1.67
 ra_icrs: 81.72668
 de_icrs: 0.85004

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2607
 fname: bdsb165
+members_file: "348_352"
 fov: 0.243
 ra_icrs: 262.32765
 de_icrs: -36.64581

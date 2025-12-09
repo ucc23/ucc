@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 146; MWSC 2108; OCL 896; vdBergh-Hagen 146; ESO 096 08
 fname: ruprecht107
+members_file: "304_308"
 fov: 0.077
 ra_icrs: 199.95475
 de_icrs: -64.94282

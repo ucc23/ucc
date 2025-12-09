@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3584
 fname: ascc117
+members_file: "104_108"
 fov: 0.227
 ra_icrs: 331.30403
 de_icrs: 62.29547

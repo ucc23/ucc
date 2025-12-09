@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cruiigroup
+members_file: "300_304"
 fov: 0.03
 ra_icrs: 192.3441
 de_icrs: -61.5217

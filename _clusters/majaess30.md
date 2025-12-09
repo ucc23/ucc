@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: majaess30
+members_file: "136_140"
 fov: 0.183
 ra_icrs: 41.06542
 de_icrs: 61.02474

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 61; NGC 2849; MWSC 1648; OCL 756; vdBergh-Hagen 61; ESO 314 13; FSR 1439
 fname: collinder207
+members_file: "264_268"
 fov: 0.073
 ra_icrs: 139.85112
 de_icrs: -40.51897

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 110
 fname: cwnu533
+members_file: "112_116"
 fov: 1.64
 ra_icrs: 357.12379
 de_icrs: 55.14396

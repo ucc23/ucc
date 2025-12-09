@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm85
+members_file: "344_348"
 fov: 0.303
 ra_icrs: 256.13576
 de_icrs: -42.21957

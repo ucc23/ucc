@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwnu226
+members_file: "220_224"
 fov: 0.337
 ra_icrs: 111.26286
 de_icrs: -4.93101

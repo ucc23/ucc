@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0361; MWSC 3655; OCL 234; FoF 48
 fname: berkeley98
+members_file: "100_104"
 fov: 0.11
 ra_icrs: 340.66488
 de_icrs: 52.40835

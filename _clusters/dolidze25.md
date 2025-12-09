@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 975
 fname: dolidze25
+members_file: "208_212"
 fov: 0.06
 ra_icrs: 101.26975
 de_icrs: 0.23664

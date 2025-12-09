@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0869; MWSC 772; Teutsch J0610.0+2434; MWSC 773
 fname: koposov63
+members_file: "184_188"
 fov: 0.08
 ra_icrs: 92.50023
 de_icrs: 24.57117

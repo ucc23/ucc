@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1942.3+1939
 fname: steine31
+members_file: "56_60"
 fov: 0.247
 ra_icrs: 295.55062
 de_icrs: 19.64122

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc10b
+members_file: "100_104"
 fov: 0.817
 ra_icrs: 327.1053
 de_icrs: 61.08034

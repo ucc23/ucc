@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 255; VDBH 130; NGC 4349; MWSC 2024; OCL 882; vdBergh-Hagen 130; ESO 131 03; FSR 1614; FoF 422
 fname: melotte110
+members_file: "296_300"
 fov: 0.187
 ra_icrs: 186.05643
 de_icrs: -61.86272

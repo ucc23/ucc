@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2791; DSH J1803.5-2207; Teutsch J1803.5-2207
 fname: teutsch14a
+members_file: "4_8"
 fov: 0.097
 ra_icrs: 270.87269
 de_icrs: -22.12712

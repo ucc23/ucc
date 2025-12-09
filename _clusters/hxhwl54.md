@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 54
 fname: hxhwl54
+members_file: "220_224"
 fov: 0.327
 ra_icrs: 106.85341
 de_icrs: -7.66252

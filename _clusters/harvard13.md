@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2523; OCL 986; ESO 227 03; FoF 2066
 fname: harvard13
+members_file: "336_340"
 fov: 0.373
 ra_icrs: 256.0037
 de_icrs: -48.12018

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2898; DSH J1821.3-1417
 fname: kronberger2
+members_file: "16_20"
 fov: 0.133
 ra_icrs: 275.41483
 de_icrs: -14.27577

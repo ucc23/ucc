@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: gaia6
+members_file: "240_244"
 fov: 0.107
 ra_icrs: 122.11528
 de_icrs: -23.70118

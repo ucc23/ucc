@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 3033; MWSC 1715; OCL 796; ESO 167 06; FoF 2090
 fname: collinder212
+members_file: "276_280"
 fov: 0.23
 ra_icrs: 147.14537
 de_icrs: -56.41262

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: patchick67
+members_file: "84_88"
 fov: 0.323
 ra_icrs: 325.15997
 de_icrs: 37.4347

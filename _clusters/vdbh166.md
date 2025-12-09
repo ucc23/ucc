@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Hogg 18; MWSC 2257; OCL 933; vdBergh-Hagen 166; ESO 223 01
 fname: vdbh166
+members_file: "320_324"
 fov: 0.163
 ra_icrs: 222.6946
 de_icrs: -52.27059

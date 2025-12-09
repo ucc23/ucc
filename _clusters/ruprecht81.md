@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1710
 fname: ruprecht81
+members_file: "268_272"
 fov: 0.203
 ra_icrs: 146.28145
 de_icrs: -44.10586

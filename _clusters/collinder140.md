@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1199; FoF 2397; OCSN 191
 fname: collinder140
+members_file: "244_248"
 fov: 1.327
 ra_icrs: 110.90368
 de_icrs: -31.98592

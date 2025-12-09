@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cma02
+members_file: "220_224"
 fov: 0.353
 ra_icrs: 105.68106
 de_icrs: -7.74904

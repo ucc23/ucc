@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2610; OCL 1021.1
 fname: antalova2
+members_file: "352_356"
 fov: 0.223
 ra_icrs: 262.48676
 de_icrs: -32.55086

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1057
 fname: wit1
+members_file: "216_220"
 fov: 0.177
 ra_icrs: 105.06804
 de_icrs: -5.79884

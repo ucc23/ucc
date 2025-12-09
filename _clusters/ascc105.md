@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3157; FoF 2423
 fname: ascc105
+members_file: "60_64"
 fov: 0.667
 ra_icrs: 295.45351
 de_icrs: 27.36637

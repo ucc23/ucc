@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1873
 fname: bochum12
+members_file: "288_292"
 fov: 0.043
 ra_icrs: 164.34337
 de_icrs: -61.72716

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6506; MWSC 2771; OCL 16; ESO 521 06
 fname: ruprecht138
+members_file: "4_8"
 fov: 0.113
 ra_icrs: 269.99562
 de_icrs: -24.66406

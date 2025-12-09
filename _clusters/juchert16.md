@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1028.2-5841; FSR 1542
 fname: juchert16
+members_file: "284_288"
 fov: 0.05
 ra_icrs: 157.05469
 de_icrs: -58.70223

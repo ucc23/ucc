@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 99; vdBergh-Hagen 99; MWSC 1831; BH 99; FoF 2413; OCSN 147
 fname: vdbh99
+members_file: "284_288"
 fov: 0.86
 ra_icrs: 159.5221
 de_icrs: -59.16454

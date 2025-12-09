@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 24; NGC 2568; FSR 1374; MWSC 1466; OCL 727; vdBergh-Hagen 24; ESO 370 05
 fname: pismis1
+members_file: "252_256"
 fov: 0.07
 ra_icrs: 124.5771
 de_icrs: -37.10346

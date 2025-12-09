@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3532; DSH J2135.5+5330
 fname: kronberger84
+members_file: "96_100"
 fov: 0.033
 ra_icrs: 323.88437
 de_icrs: 53.5175

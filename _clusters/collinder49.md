@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1545; MWSC 369; OCL 399; FoF 2322
 fname: collinder49
+members_file: "152_156"
 fov: 0.64
 ra_icrs: 65.20172
 de_icrs: 50.2076

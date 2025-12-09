@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 3
 fname: alessi161
+members_file: "44_48"
 fov: 0.247
 ra_icrs: 283.78664
 de_icrs: 12.31258

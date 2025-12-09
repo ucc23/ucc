@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2010; Alessi 38
 fname: ascc70
+members_file: "296_300"
 fov: 0.197
 ra_icrs: 183.7217
 de_icrs: -64.45057

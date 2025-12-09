@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3010; DSH J1851.5+0011
 fname: teutsch146
+members_file: "32_36"
 fov: 0.053
 ra_icrs: 282.89042
 de_icrs: 0.18065

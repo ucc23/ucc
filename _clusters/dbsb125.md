@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1739
 fname: dbsb125
+members_file: "280_284"
 fov: 0.14
 ra_icrs: 149.84571
 de_icrs: -57.04097

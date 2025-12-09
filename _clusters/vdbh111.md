@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 111; vdBergh-Hagen 111; MWSC 1901; BH 111; ESO 093 05
 fname: vdbh111
+members_file: "288_292"
 fov: 0.07
 ra_icrs: 167.31527
 de_icrs: -63.83419

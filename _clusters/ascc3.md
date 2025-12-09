@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 54
 fname: ascc3
+members_file: "120_124"
 fov: 0.203
 ra_icrs: 7.76218
 de_icrs: 55.28605

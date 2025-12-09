@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3618; OCL 231
 fname: berkeley94
+members_file: "100_104"
 fov: 0.06
 ra_icrs: 335.71296
 de_icrs: 55.86662

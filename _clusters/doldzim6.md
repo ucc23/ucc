@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: doldzim6
+members_file: "60_64"
 fov: 0.263
 ra_icrs: 251.41318
 de_icrs: 38.35176

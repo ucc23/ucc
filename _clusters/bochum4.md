@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1254
 fname: bochum4
+members_file: "232_236"
 fov: 0.393
 ra_icrs: 112.91363
 de_icrs: -17.20205

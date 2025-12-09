@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 957; MWSC 211; OCL 362; FSR 0603
 fname: collinder28
+members_file: "136_140"
 fov: 0.157
 ra_icrs: 38.34163
 de_icrs: 57.55039

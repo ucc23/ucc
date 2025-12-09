@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 304; DSH J0347.3+5354; FSR 0651
 fname: juchert11
+members_file: "144_148"
 fov: 0.067
 ra_icrs: 56.8346
 de_icrs: 53.91385

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1133
 fname: dbsb3
+members_file: "228_232"
 fov: 0.073
 ra_icrs: 107.57638
 de_icrs: -18.43616

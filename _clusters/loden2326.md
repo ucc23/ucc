@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2313
 fname: loden2326
+members_file: "324_328"
 fov: 0.25
 ra_icrs: 235.92685
 de_icrs: -52.44606

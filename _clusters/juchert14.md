@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1207.1-6448
 fname: juchert14
+members_file: "296_300"
 fov: 0.18
 ra_icrs: 181.79798
 de_icrs: -64.74391

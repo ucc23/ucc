@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: loden1256
+members_file: "312_316"
 fov: 0.163
 ra_icrs: 214.77224
 de_icrs: -61.42938

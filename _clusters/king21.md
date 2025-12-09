@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3762; OCL 270
 fname: king21
+members_file: "112_116"
 fov: 0.067
 ra_icrs: 357.4854
 de_icrs: 62.70404

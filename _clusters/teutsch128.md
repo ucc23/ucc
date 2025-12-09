@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2225.3+5424
 fname: teutsch128
+members_file: "100_104"
 fov: 0.23
 ra_icrs: 336.29803
 de_icrs: 54.41985

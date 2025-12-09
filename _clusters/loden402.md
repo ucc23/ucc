@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1954
 fname: loden402
+members_file: "292_296"
 fov: 0.283
 ra_icrs: 173.18871
 de_icrs: -60.68249

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1823
 fname: ascc60
+members_file: "284_288"
 fov: 0.09
 ra_icrs: 158.17275
 de_icrs: -58.6205

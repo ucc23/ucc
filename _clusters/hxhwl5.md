@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 5
 fname: hxhwl5
+members_file: "228_232"
 fov: 0.74
 ra_icrs: 111.31004
 de_icrs: -13.47265

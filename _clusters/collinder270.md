@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 5138; MWSC 2121; OCL 902; ESO 132 07; FoF 1995
 fname: collinder270
+members_file: "304_308"
 fov: 0.143
 ra_icrs: 201.84519
 de_icrs: -59.02293

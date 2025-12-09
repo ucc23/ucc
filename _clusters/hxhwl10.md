@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 10
 fname: hxhwl10
+members_file: "336_340"
 fov: 0.497
 ra_icrs: 256.47292
 de_icrs: -48.38879

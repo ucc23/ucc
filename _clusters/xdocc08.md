@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: xdocc08
+members_file: "4_8"
 fov: 0.24
 ra_icrs: 270.76873
 de_icrs: -22.65478

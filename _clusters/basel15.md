@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: basel15
+members_file: "88_92"
 fov: 0.173
 ra_icrs: 318.9948
 de_icrs: 48.80073

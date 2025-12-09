@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 265; OCL 384; FSR 0639; FoF 75
 fname: king5
+members_file: "140_144"
 fov: 0.13
 ra_icrs: 48.68672
 de_icrs: 52.69685

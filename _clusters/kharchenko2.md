@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2900
 fname: kharchenko2
+members_file: "16_20"
 fov: 0.103
 ra_icrs: 275.59186
 de_icrs: -14.60542

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 961
 fname: dc1
+members_file: "220_224"
 fov: 0.057
 ra_icrs: 100.50476
 de_icrs: -12.96626

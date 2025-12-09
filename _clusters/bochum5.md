@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bochum5
+members_file: "232_236"
 fov: 0.297
 ra_icrs: 112.74116
 de_icrs: -16.91273

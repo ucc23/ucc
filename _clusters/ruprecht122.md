@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 202; BH 202; vdBergh-Hagen 202; ESO 332 09; MWSC 2486
 fname: ruprecht122
+members_file: "344_348"
 fov: 0.2
 ra_icrs: 253.78717
 de_icrs: -40.94932

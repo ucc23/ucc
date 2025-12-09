@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UPK 19
 fname: ubc32
+members_file: "16_20"
 fov: 1.517
 ra_icrs: 279.20936
 de_icrs: -14.12612

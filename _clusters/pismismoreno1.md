@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3611
 fname: pismismoreno1
+members_file: "104_108"
 fov: 0.173
 ra_icrs: 334.63197
 de_icrs: 63.22483

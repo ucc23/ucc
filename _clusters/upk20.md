@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 289
 fname: upk20
+members_file: "16_20"
 fov: 0.9
 ra_icrs: 281.10483
 de_icrs: -14.45556

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lp51a
+members_file: "220_224"
 fov: 0.17
 ra_icrs: 105.29062
 de_icrs: -7.33257

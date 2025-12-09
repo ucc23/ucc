@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 956; MWSC 208; OCL 377
 fname: collinder27
+members_file: "140_144"
 fov: 0.147
 ra_icrs: 38.07215
 de_icrs: 44.58577

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2092
 fname: danks1
+members_file: "304_308"
 fov: 0.037
 ra_icrs: 198.1125
 de_icrs: -62.70126

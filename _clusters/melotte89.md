@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 190; VDBH 39; NGC 2635; MWSC 1519; OCL 728; vdBergh-Hagen 39; ESO 371 01; FSR 1375
 fname: melotte89
+members_file: "252_256"
 fov: 0.097
 ra_icrs: 129.61408
 de_icrs: -34.77802

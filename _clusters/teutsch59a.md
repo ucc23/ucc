@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0643.9-0054
 fname: teutsch59a
+members_file: "212_216"
 fov: 0.09
 ra_icrs: 100.96641
 de_icrs: -0.88683

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2695
 fname: dutrabica45
+members_file: "0_4"
 fov: 0.217
 ra_icrs: 266.84161
 de_icrs: -24.89729

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn12
+members_file: "48_52"
 fov: 1.437
 ra_icrs: 276.36615
 de_icrs: 21.46212

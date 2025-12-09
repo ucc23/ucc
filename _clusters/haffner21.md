@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1411; OCL 677; ESO 494 11; FoF 1425
 fname: haffner21
+members_file: "244_248"
 fov: 0.063
 ra_icrs: 120.28886
 de_icrs: -27.21195

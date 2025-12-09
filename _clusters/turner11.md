@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3403
 fname: turner11
+members_file: "76_80"
 fov: 0.25
 ra_icrs: 310.87701
 de_icrs: 35.6187

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ryu9
+members_file: "344_348"
 fov: 0.07
 ra_icrs: 258.11383
 de_icrs: -41.84577

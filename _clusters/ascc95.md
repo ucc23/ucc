@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2861
 fname: ascc95
+members_file: "4_8"
 fov: 0.347
 ra_icrs: 274.054
 de_icrs: -25.76152

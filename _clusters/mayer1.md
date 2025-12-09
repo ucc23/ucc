@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 34
 fname: mayer1
+members_file: "116_120"
 fov: 0.177
 ra_icrs: 5.49797
 de_icrs: 61.76023

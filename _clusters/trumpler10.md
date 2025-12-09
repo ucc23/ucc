@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1567; FoF 2411; OCSN 276
 fname: trumpler10
+members_file: "260_264"
 fov: 1.24
 ra_icrs: 131.91694
 de_icrs: -42.47965

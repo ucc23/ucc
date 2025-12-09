@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 609; MWSC 128; King 3; OCL 325; FSR 0548
 fname: collinder16
+members_file: "124_128"
 fov: 0.063
 ra_icrs: 24.10041
 de_icrs: 64.53834

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6756; MWSC 3052; OCL 99; FSR 0113
 fname: collinder398
+members_file: "36_40"
 fov: 0.06
 ra_icrs: 287.18105
 de_icrs: 4.70952

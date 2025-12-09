@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 39
 fname: stock20
+members_file: "116_120"
 fov: 0.113
 ra_icrs: 6.32241
 de_icrs: 62.62694

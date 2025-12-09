@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 548
 fname: dolidze20
+members_file: "172_176"
 fov: 0.103
 ra_icrs: 82.00153
 de_icrs: 33.78274

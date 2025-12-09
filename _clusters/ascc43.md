@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1374
 fname: ascc43
+members_file: "244_248"
 fov: 0.247
 ra_icrs: 118.25171
 de_icrs: -28.17901

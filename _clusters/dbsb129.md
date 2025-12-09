@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2011
 fname: dbsb129
+members_file: "296_300"
 fov: 0.29
 ra_icrs: 183.8545
 de_icrs: -62.89266

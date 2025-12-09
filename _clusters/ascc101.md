@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3070; LeDrew 6; Alessi J1913.6+3619; OCSN 133
 fname: ascc101
+members_file: "64_68"
 fov: 1.067
 ra_icrs: 288.39877
 de_icrs: 36.35633

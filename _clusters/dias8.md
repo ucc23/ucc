@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3195
 fname: dias8
+members_file: "48_52"
 fov: 0.21
 ra_icrs: 298.0114
 de_icrs: 11.6113

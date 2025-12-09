@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 110; MWSC 1894; BH 110
 fname: vdbh110
+members_file: "288_292"
 fov: 0.037
 ra_icrs: 166.76317
 de_icrs: -61.50921

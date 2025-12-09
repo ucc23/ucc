@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 985; ESO 277 12; MWSC 2461
 fname: westerlund1
+members_file: "336_340"
 fov: 0.04
 ra_icrs: 251.75955
 de_icrs: -45.85306

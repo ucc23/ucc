@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: collinder367
+members_file: "4_8"
 fov: 0.28
 ra_icrs: 272.4471
 de_icrs: -23.64521

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1994; OCL 872; ESO 094 11
 fname: ruprecht99
+members_file: "296_300"
 fov: 0.21
 ra_icrs: 180.87374
 de_icrs: -63.87382

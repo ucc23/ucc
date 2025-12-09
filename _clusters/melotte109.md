@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 252; VDBH 127; NGC 4103; MWSC 1997; OCL 871; vdBergh-Hagen 127; ESO 130 05; FoF 420
 fname: melotte109
+members_file: "296_300"
 fov: 0.123
 ra_icrs: 181.6503
 de_icrs: -61.24368

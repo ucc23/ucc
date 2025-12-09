@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2250
 fname: dbsb89
+members_file: "316_320"
 fov: 0.21
 ra_icrs: 221.27148
 de_icrs: -59.85153

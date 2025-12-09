@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 98; NGC 2243; MWSC 880; OCL 644; ESO 426 16; FSR 1296; FoF 3
 fname: melotte46
+members_file: "236_240"
 fov: 0.133
 ra_icrs: 97.39305
 de_icrs: -31.28314

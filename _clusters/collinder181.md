@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 27; NGC 2571; MWSC 1469; OCL 701; vdBergh-Hagen 27; ESO 431 05; FoF 2146
 fname: collinder181
+members_file: "248_252"
 fov: 0.217
 ra_icrs: 124.73134
 de_icrs: -29.76306

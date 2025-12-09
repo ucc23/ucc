@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3201; FoF 2349
 fname: ascc108
+members_file: "72_76"
 fov: 0.47
 ra_icrs: 298.34098
 de_icrs: 39.34902

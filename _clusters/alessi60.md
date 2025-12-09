@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1071; DSH J0702.4-0108; Alessi J0702.4-0108; FoF 1395
 fname: alessi60
+members_file: "212_216"
 fov: 0.127
 ra_icrs: 105.6108
 de_icrs: -1.12396

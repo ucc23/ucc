@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 151; NGC 2421; MWSC 1277; OCL 626; ESO 056 02; FSR 1274; FoF 195
 fname: melotte67
+members_file: "236_240"
 fov: 0.19
 ra_icrs: 114.05424
 de_icrs: -20.62888

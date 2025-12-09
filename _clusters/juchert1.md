@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3095; DSH J1922.5+1240
 fname: juchert1
+members_file: "44_48"
 fov: 0.053
 ra_icrs: 290.63335
 de_icrs: 12.66833

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1973
 fname: loden467
+members_file: "292_296"
 fov: 0.047
 ra_icrs: 176.37931
 de_icrs: -62.43391

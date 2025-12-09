@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 50; MWSC 1579; FoF 2234
 fname: alessi43
+members_file: "260_264"
 fov: 0.427
 ra_icrs: 132.61471
 de_icrs: -41.72445

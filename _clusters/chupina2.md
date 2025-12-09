@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1581
 fname: chupina2
+members_file: "212_216"
 fov: 0.27
 ra_icrs: 132.6442
 de_icrs: 12.25947

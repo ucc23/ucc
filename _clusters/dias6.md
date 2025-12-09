@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2932; BBD 5; FoF 291
 fname: dias6
+members_file: "16_20"
 fov: 0.13
 ra_icrs: 277.61665
 de_icrs: -12.33045

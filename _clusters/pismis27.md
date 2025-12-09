@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 780
 fname: pismis27
+members_file: "188_192"
 fov: 0.213
 ra_icrs: 92.72616
 de_icrs: 20.61797

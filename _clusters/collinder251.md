@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 126; NGC 4052; MWSC 1991; OCL 870; vdBergh-Hagen 126; ESO 094 10; FoF 1123
 fname: collinder251
+members_file: "296_300"
 fov: 0.15
 ra_icrs: 180.45645
 de_icrs: -63.22421

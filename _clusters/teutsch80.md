@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2258; DSH J1453.4-6028
 fname: teutsch80
+members_file: "316_320"
 fov: 0.067
 ra_icrs: 223.35743
 de_icrs: -60.47732

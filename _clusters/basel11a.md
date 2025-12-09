@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1162; OCL 584.1; FoF 2084
 fname: basel11a
+members_file: "228_232"
 fov: 0.15
 ra_icrs: 109.30105
 de_icrs: -13.9902

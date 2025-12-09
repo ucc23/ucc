@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0607.9+3122A
 fname: teutsch135
+members_file: "180_184"
 fov: 0.12
 ra_icrs: 91.95275
 de_icrs: 31.40778

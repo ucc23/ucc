@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 144; MWSC 2098; ESO 096 04; BH 144; AL 1; Andrews-Lindsay 1
 fname: vdbh144
+members_file: "304_308"
 fov: 0.03
 ra_icrs: 198.81635
 de_icrs: -65.92003

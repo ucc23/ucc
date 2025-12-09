@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: riddle7
+members_file: "308_312"
 fov: 0.193
 ra_icrs: 208.85065
 de_icrs: -59.65773

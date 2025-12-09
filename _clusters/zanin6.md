@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: zanin6
+members_file: "96_100"
 fov: 1.313
 ra_icrs: 342.91235
 de_icrs: 41.33289

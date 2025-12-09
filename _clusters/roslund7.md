@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3416; OCL 187
 fname: roslund7
+members_file: "76_80"
 fov: 0.5
 ra_icrs: 313.19572
 de_icrs: 37.89102

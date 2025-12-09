@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 250; VDBH 123; NGC 3960; MWSC 1982; OCL 861; vdBergh-Hagen 123; ESO 170 14; FSR 1590; FoF 594
 fname: melotte108
+members_file: "292_296"
 fov: 0.147
 ra_icrs: 177.64679
 de_icrs: -55.6757

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 217; MWSC 2553; BH 217; ESO 333 02
 fname: vdbh217
+members_file: "344_348"
 fov: 0.067
 ra_icrs: 259.07522
 de_icrs: -40.81673

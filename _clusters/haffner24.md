@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1239; OCL 608; ESO 559 14
 fname: haffner24
+members_file: "232_236"
 fov: 0.187
 ra_icrs: 112.1738
 de_icrs: -18.29684

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cepob3
+members_file: "108_112"
 fov: 0.217
 ra_icrs: 346.08885
 de_icrs: 63.34066

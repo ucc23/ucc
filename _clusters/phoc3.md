@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc3
+members_file: "244_248"
 fov: 0.157
 ra_icrs: 115.81917
 de_icrs: -30.5024

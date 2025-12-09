@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: juchert6
+members_file: "96_100"
 fov: 0.153
 ra_icrs: 341.94829
 de_icrs: 39.29239

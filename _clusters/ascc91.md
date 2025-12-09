@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2702
 fname: ascc91
+members_file: "352_356"
 fov: 0.163
 ra_icrs: 267.24387
 de_icrs: -37.39084

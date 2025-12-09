@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1680
 fname: basel20
+members_file: "276_280"
 fov: 0.237
 ra_icrs: 142.80324
 de_icrs: -56.4613

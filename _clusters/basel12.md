@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3471
 fname: basel12
+members_file: "88_92"
 fov: 0.147
 ra_icrs: 317.6042
 de_icrs: 46.24161

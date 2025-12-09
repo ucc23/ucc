@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1227
 fname: ascc38
+members_file: "220_224"
 fov: 0.217
 ra_icrs: 111.78108
 de_icrs: -5.5493

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: TRSG 2; Alessi 84
 fname: rsg2
+members_file: "160_164"
 fov: 1.967
 ra_icrs: 110.72444
 de_icrs: 55.28418

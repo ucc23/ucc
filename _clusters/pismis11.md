@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1643
 fname: pismis11
+members_file: "268_272"
 fov: 0.25
 ra_icrs: 138.97367
 de_icrs: -50.00401

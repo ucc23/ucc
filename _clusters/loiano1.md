@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: loiano1
+members_file: "68_72"
 fov: 0.217
 ra_icrs: 299.56375
 de_icrs: 32.52621

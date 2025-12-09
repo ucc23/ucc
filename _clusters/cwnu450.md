@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 154
 fname: cwnu450
+members_file: "300_304"
 fov: 0.78
 ra_icrs: 194.42626
 de_icrs: -55.76977

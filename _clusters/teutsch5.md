@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 438; DSH J0455.7+3646; FSR 0747
 fname: teutsch5
+members_file: "164_168"
 fov: 0.097
 ra_icrs: 73.94106
 de_icrs: 36.78433

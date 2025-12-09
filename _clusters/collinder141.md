@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2383; MWSC 1213; OCL 616; ESO 559 08; FoF 87
 fname: collinder141
+members_file: "232_236"
 fov: 0.083
 ra_icrs: 111.17445
 de_icrs: -20.94994

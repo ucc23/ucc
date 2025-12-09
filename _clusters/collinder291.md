@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 172; NGC 5925; MWSC 2293; OCL 938; vdBergh-Hagen 172; ESO 177 06; FoF 1611
 fname: collinder291
+members_file: "324_328"
 fov: 0.273
 ra_icrs: 231.84642
 de_icrs: -54.52058

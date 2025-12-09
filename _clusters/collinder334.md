@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6374; OCL 1022; ESO 393 05
 fname: collinder334
+members_file: "352_356"
 fov: 0.14
 ra_icrs: 263.08623
 de_icrs: -32.59751

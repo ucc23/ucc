@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: streicher82
+members_file: "300_304"
 fov: 0.153
 ra_icrs: 187.42962
 de_icrs: -70.06326

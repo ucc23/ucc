@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 386; FSR 0644; MWSC 271
 fname: czernik15
+members_file: "144_148"
 fov: 0.107
 ra_icrs: 50.7983
 de_icrs: 52.21622

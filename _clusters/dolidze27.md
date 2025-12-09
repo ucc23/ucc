@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dolidze27
+members_file: "4_8"
 fov: 0.223
 ra_icrs: 249.09851
 de_icrs: -8.96555

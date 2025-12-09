@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0355.3+5823; MWSC 313
 fname: juchert9
+members_file: "144_148"
 fov: 0.037
 ra_icrs: 58.8395
 de_icrs: 58.39114

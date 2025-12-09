@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 258
 fname: rsg8
+members_file: "108_112"
 fov: 1.697
 ra_icrs: 345.08165
 de_icrs: 59.41462

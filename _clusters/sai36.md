@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 355
 fname: sai36
+members_file: "156_160"
 fov: 0.287
 ra_icrs: 64.22822
 de_icrs: 41.09096

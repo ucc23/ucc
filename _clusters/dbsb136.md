@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2216
 fname: dbsb136
+members_file: "312_316"
 fov: 0.173
 ra_icrs: 216.31809
 de_icrs: -60.38357

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: casado82
+members_file: "72_76"
 fov: 0.133
 ra_icrs: 300.90186
 de_icrs: 36.01716

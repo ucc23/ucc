@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3376; DSH J2035.1+5318
 fname: patchick103
+members_file: "88_92"
 fov: 0.043
 ra_icrs: 308.78338
 de_icrs: 53.30103

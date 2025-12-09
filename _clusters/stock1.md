@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3140; OCL 127; OCSN 264
 fname: stock1
+members_file: "60_64"
 fov: 1.33
 ra_icrs: 294.11168
 de_icrs: 25.099

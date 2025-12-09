@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: CBJC 3b; MWSC 3439
 fname: herbig1
+members_file: "84_88"
 fov: 0.153
 ra_icrs: 314.74319
 de_icrs: 43.92621

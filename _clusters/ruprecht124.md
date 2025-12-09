@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2602; OCL 1005; ESO 333 09
 fname: ruprecht124
+members_file: "348_352"
 fov: 0.19
 ra_icrs: 261.96019
 de_icrs: -40.70608

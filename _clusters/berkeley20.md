@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 572; OCL 497
 fname: berkeley20
+members_file: "200_204"
 fov: 0.043
 ra_icrs: 83.15258
 de_icrs: 0.18608

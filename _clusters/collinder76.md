@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2112; MWSC 692; OCL 509; FSR 1007; LLA 1
 fname: collinder76
+members_file: "204_208"
 fov: 0.453
 ra_icrs: 88.44805
 de_icrs: 0.40302

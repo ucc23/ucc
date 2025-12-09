@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 216
 fname: king4
+members_file: "136_140"
 fov: 0.1
 ra_icrs: 39.02843
 de_icrs: 59.0272

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 9; OCSN 280
 fname: teutsch179
+members_file: "52_56"
 fov: 0.97
 ra_icrs: 276.49595
 de_icrs: 26.43005

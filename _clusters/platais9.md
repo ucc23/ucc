@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1639; OCSN 252
 fname: platais9
+members_file: "264_268"
 fov: 3.017
 ra_icrs: 138.82079
 de_icrs: -43.85041

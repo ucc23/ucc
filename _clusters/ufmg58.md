@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg58
+members_file: "256_260"
 fov: 0.04
 ra_icrs: 124.89604
 de_icrs: -38.27123

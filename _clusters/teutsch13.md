@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 969; DSH J0643.9+0124; FSR 1060
 fname: teutsch13
+members_file: "208_212"
 fov: 0.037
 ra_icrs: 100.97986
 de_icrs: 1.40727

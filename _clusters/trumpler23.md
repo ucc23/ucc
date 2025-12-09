@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 295; VDBH 180; MWSC 2343; OCL 950; vdBergh-Hagen 180; ESO 178 06
 fname: trumpler23
+members_file: "328_332"
 fov: 0.127
 ra_icrs: 240.21804
 de_icrs: -53.5381

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn49
+members_file: "164_168"
 fov: 2.167
 ra_icrs: 90.60088
 de_icrs: 45.06955

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: fof58
+members_file: "264_268"
 fov: 0.207
 ra_icrs: 129.90198
 de_icrs: -46.2874

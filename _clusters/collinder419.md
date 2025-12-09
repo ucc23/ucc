@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3305
 fname: collinder419
+members_file: "76_80"
 fov: 0.297
 ra_icrs: 304.58929
 de_icrs: 40.7886

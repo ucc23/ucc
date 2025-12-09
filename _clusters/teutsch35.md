@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 103; MWSC 3141; Teutsch J1935.9+3540; FoF 2426; OCSN 275
 fname: teutsch35
+members_file: "68_72"
 fov: 1.033
 ra_icrs: 294.07876
 de_icrs: 35.74191

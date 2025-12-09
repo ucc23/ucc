@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 105
 fname: cwnu314
+members_file: "24_28"
 fov: 1.053
 ra_icrs: 288.09628
 de_icrs: -9.67254

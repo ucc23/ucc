@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: pothier17
+members_file: "212_216"
 fov: 0.213
 ra_icrs: 110.52971
 de_icrs: 1.53618

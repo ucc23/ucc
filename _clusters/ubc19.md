@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc19
+members_file: "160_164"
 fov: 0.48
 ra_icrs: 56.43899
 de_icrs: 29.81906

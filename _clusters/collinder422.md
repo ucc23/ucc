@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6913; MWSC 3329; M 29; OCL 168
 fname: collinder422
+members_file: "76_80"
 fov: 0.207
 ra_icrs: 305.9287
 de_icrs: 38.50455

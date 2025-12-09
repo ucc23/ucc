@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7063; MWSC 3507; OCL 192; FoF 2274
 fname: collinder435
+members_file: "80_84"
 fov: 0.4
 ra_icrs: 321.10332
 de_icrs: 36.50412

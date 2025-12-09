@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0780; BDS2003 69
 fname: stock8
+members_file: "172_176"
 fov: 0.21
 ra_icrs: 81.95908
 de_icrs: 34.42814

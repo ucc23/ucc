@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 83
 fname: glimpse83
+members_file: "340_344"
 fov: 0.28
 ra_icrs: 253.37817
 de_icrs: -43.36231

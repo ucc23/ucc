@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 518
 fname: collinder62
+members_file: "164_168"
 fov: 0.297
 ra_icrs: 80.53278
 de_icrs: 41.0619

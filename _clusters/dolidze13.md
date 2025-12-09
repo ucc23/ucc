@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 76
 fname: dolidze13
+members_file: "120_124"
 fov: 0.117
 ra_icrs: 12.42775
 de_icrs: 64.17839

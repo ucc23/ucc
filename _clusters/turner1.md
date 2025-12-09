@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3184
 fname: turner1
+members_file: "60_64"
 fov: 0.21
 ra_icrs: 297.11794
 de_icrs: 27.2806

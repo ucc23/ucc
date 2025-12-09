@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Minniti 18
 fname: minni18
+members_file: "356_360"
 fov: 0.217
 ra_icrs: 262.69628
 de_icrs: -27.28943

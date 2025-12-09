@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc21
+members_file: "240_244"
 fov: 0.387
 ra_icrs: 121.75705
 de_icrs: -21.09055

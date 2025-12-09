@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2969; RSGC 2; BDB 14
 fname: stephenson2
+members_file: "24_28"
 fov: 0.127
 ra_icrs: 279.86993
 de_icrs: -6.02529

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1798; FSR 0705; MWSC 483; OCL 410; Dolidze 48
 fname: berkeley16
+members_file: "160_164"
 fov: 0.093
 ra_icrs: 77.91348
 de_icrs: 47.69118

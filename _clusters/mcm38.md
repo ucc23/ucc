@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm38
+members_file: "308_312"
 fov: 0.237
 ra_icrs: 206.05579
 de_icrs: -62.03404

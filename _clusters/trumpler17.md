@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1870
 fname: trumpler17
+members_file: "288_292"
 fov: 0.12
 ra_icrs: 164.11063
 de_icrs: -59.22925

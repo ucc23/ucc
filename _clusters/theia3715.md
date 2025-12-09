@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: theia3715
+members_file: "200_204"
 fov: 0.713
 ra_icrs: 95.98752
 de_icrs: 7.96356

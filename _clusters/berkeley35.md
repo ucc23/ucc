@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1075; MWSC 1129; OCL 541; MWSC 1130
 fname: berkeley35
+members_file: "212_216"
 fov: 0.11
 ra_icrs: 107.48573
 de_icrs: 2.7329

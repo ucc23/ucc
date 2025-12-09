@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2808; OCL 12; ESO 521 25
 fname: collinder468
+members_file: "0_4"
 fov: 0.18
 ra_icrs: 271.57349
 de_icrs: -27.44639

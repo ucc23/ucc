@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2057.0+3708
 fname: teutsch155
+members_file: "76_80"
 fov: 0.24
 ra_icrs: 314.28732
 de_icrs: 37.16808

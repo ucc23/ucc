@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwnu98
+members_file: "20_24"
 fov: 0.24
 ra_icrs: 275.96108
 de_icrs: -9.9012

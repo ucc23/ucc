@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: chameleonii
+members_file: "300_304"
 fov: 0.963
 ra_icrs: 196.23138
 de_icrs: -77.45175

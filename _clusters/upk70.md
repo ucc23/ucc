@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 293
 fname: upk70
+members_file: "56_60"
 fov: 1.303
 ra_icrs: 288.43022
 de_icrs: 23.53724

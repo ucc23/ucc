@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6546; MWSC 2812; OCL 24; ESO 521 29
 fname: collinder365
+members_file: "4_8"
 fov: 0.23
 ra_icrs: 271.83802
 de_icrs: -23.34714

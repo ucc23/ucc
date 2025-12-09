@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 499
 fname: bdsb68
+members_file: "168_172"
 fov: 0.15
 ra_icrs: 79.55611
 de_icrs: 37.56156

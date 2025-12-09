@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0297; MWSC 3500; DSH J2121.7+5036; FoF 510
 fname: teutsch144
+members_file: "92_96"
 fov: 0.127
 ra_icrs: 320.44507
 de_icrs: 50.60863

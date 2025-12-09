@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Lynga 9; MWSC 2389; OCL 966; vdBergh-Hagen 189; ESO 226 02; FSR 1726
 fname: vdbh189
+members_file: "332_336"
 fov: 0.107
 ra_icrs: 245.17331
 de_icrs: -48.51988

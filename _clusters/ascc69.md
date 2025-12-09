@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1996
 fname: ascc69
+members_file: "296_300"
 fov: 0.633
 ra_icrs: 181.66346
 de_icrs: -69.86622

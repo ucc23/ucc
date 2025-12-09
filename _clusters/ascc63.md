@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1869
 fname: ascc63
+members_file: "288_292"
 fov: 0.06
 ra_icrs: 164.0646
 de_icrs: -60.45651

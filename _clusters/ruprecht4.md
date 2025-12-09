@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Berkeley 74; MWSC 990; OCL 560; FSR 1165
 fname: ruprecht4
+members_file: "220_224"
 fov: 0.11
 ra_icrs: 102.24656
 de_icrs: -10.52606

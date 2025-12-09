@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3552
 fname: barkhatova2
+members_file: "92_96"
 fov: 0.233
 ra_icrs: 325.85468
 de_icrs: 51.04826

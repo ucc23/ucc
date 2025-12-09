@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: wit3
+members_file: "224_228"
 fov: 0.22
 ra_icrs: 110.52577
 de_icrs: -8.95782

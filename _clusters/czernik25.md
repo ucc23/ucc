@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0987; SAI 63; MWSC 795; OCL 493; MWSC 804; FoF 29
 fname: czernik25
+members_file: "200_204"
 fov: 0.16
 ra_icrs: 93.42675
 de_icrs: 6.94595

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: schmitz1
+members_file: "4_8"
 fov: 0.27
 ra_icrs: 277.68601
 de_icrs: -27.11814

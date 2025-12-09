@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 281
 fname: ubc11
+members_file: "324_328"
 fov: 1.167
 ra_icrs: 246.72574
 de_icrs: -59.76917

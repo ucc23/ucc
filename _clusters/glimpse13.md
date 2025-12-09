@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 13
 fname: glimpse13
+members_file: "32_36"
 fov: 0.197
 ra_icrs: 283.42094
 de_icrs: 0.60827

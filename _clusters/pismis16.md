@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 81; MWSC 1721; OCL 790; vdBergh-Hagen 81; ESO 167 08
 fname: pismis16
+members_file: "276_280"
 fov: 0.117
 ra_icrs: 147.80568
 de_icrs: -53.1782

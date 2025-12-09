@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3632
 fname: ascc121
+members_file: "100_104"
 fov: 0.283
 ra_icrs: 337.72872
 de_icrs: 54.85292

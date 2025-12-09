@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3600
 fname: ptb3
+members_file: "108_112"
 fov: 0.223
 ra_icrs: 333.46616
 de_icrs: 70.06189

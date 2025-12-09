@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 403; NGC 6819; MWSC 3155; OCL 155; FSR 0202; FoF 628
 fname: melotte223
+members_file: "72_76"
 fov: 0.16
 ra_icrs: 295.32692
 de_icrs: 40.19059

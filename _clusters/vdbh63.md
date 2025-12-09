@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1476; vdBergh-Hagen 63; MWSC 1653; ESO 212 02
 fname: vdbh63
+members_file: "268_272"
 fov: 0.043
 ra_icrs: 140.16628
 de_icrs: -49.2214

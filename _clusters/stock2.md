@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 173; FoF 2408; OCSN 265
 fname: stock2
+members_file: "132_136"
 fov: 1.647
 ra_icrs: 33.86139
 de_icrs: 59.55619

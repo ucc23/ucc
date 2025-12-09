@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2394
 fname: pozzo1
+members_file: "260_264"
 fov: 0.963
 ra_icrs: 122.38506
 de_icrs: -47.3322

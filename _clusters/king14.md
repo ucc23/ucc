@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 57; Alter 1; OCL 297
 fname: king14
+members_file: "120_124"
 fov: 0.17
 ra_icrs: 7.98808
 de_icrs: 63.17549

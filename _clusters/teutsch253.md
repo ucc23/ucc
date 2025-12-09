@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: teutsch253
+members_file: "332_336"
 fov: 0.16
 ra_icrs: 250.925
 de_icrs: -52.62992

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3274
 fname: ascc111
+members_file: "72_76"
 fov: 0.387
 ra_icrs: 302.94125
 de_icrs: 37.51617

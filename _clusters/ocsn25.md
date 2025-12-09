@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn25
+members_file: "88_92"
 fov: 1.793
 ra_icrs: 317.48182
 de_icrs: 46.83288

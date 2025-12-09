@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dbsb104
+members_file: "336_340"
 fov: 0.177
 ra_icrs: 255.98507
 de_icrs: -51.10257

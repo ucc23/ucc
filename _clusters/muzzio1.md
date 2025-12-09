@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1456; MWSC 1606
 fname: muzzio1
+members_file: "264_268"
 fov: 0.14
 ra_icrs: 134.49036
 de_icrs: -47.72937

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2727; OCL 1038; ESO 455 56
 fname: basel5
+members_file: "356_360"
 fov: 0.26
 ra_icrs: 268.18112
 de_icrs: -30.06165

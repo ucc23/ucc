@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 976
 fname: sai69
+members_file: "220_224"
 fov: 0.027
 ra_icrs: 101.36836
 de_icrs: -11.79587

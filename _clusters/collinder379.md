@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6631; MWSC 2916; OCL 59
 fname: collinder379
+members_file: "16_20"
 fov: 0.113
 ra_icrs: 276.78767
 de_icrs: -12.03481

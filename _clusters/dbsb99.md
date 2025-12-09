@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2369
 fname: dbsb99
+members_file: "332_336"
 fov: 0.1
 ra_icrs: 243.0507
 de_icrs: -50.26912

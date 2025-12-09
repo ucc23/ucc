@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 580; MWSC 1295
 fname: collinder467
+members_file: "224_228"
 fov: 0.11
 ra_icrs: 114.72743
 de_icrs: -10.65449

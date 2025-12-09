@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: vdbh223
+members_file: "348_352"
 fov: 0.347
 ra_icrs: 260.20776
 de_icrs: -35.8911

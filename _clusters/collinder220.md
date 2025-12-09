@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC3247; MWSC 1803; Cr220; OCL 809; ESO 127 19; FoF 1013
 fname: collinder220
+members_file: "284_288"
 fov: 0.16
 ra_icrs: 156.42044
 de_icrs: -57.92255

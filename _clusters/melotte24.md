@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 48; IC 361; MWSC 362; OCL 393; FSR 0652; FoF 615
 fname: melotte24
+members_file: "144_148"
 fov: 0.147
 ra_icrs: 64.73686
 de_icrs: 58.25208

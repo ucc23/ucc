@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: roslund4
+members_file: "64_68"
 fov: 0.12
 ra_icrs: 301.18924
 de_icrs: 29.20182

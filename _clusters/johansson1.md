@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2318
 fname: johansson1
+members_file: "324_328"
 fov: 0.21
 ra_icrs: 236.61251
 de_icrs: -52.32892

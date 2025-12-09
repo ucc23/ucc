@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1992; DSH J1201.6-6406; FSR 1600
 fname: juchert13
+members_file: "296_300"
 fov: 0.1
 ra_icrs: 180.43004
 de_icrs: -64.09926

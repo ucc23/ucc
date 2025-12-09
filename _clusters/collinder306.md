@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6169; MWSC 2424; OCL 984; ESO 276 05; mu Nor
 fname: collinder306
+members_file: "336_340"
 fov: 0.217
 ra_icrs: 248.5512
 de_icrs: -44.0881

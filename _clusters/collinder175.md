@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 18; NGC 2533; MWSC 1432; OCL 695; vdBergh-Hagen 18; ESO 430 19; FSR 1338; FoF 387
 fname: collinder175
+members_file: "244_248"
 fov: 0.187
 ra_icrs: 121.76582
 de_icrs: -29.86514

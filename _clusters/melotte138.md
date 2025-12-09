@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 294; VDBH 179; NGC 6005; MWSC 2336; OCL 945; vdBergh-Hagen 179; ESO 178 03; FSR 1704; FoF 67
 fname: melotte138
+members_file: "324_328"
 fov: 0.123
 ra_icrs: 238.95423
 de_icrs: -57.43603

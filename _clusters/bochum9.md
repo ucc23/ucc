@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1825
 fname: bochum9
+members_file: "284_288"
 fov: 0.223
 ra_icrs: 158.87237
 de_icrs: -60.14998

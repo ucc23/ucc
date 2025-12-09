@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 170; NGC 2506; MWSC 1406; OCL 593; FSR 1230; FoF 634
 fname: melotte80
+members_file: "228_232"
 fov: 0.17
 ra_icrs: 120.00935
 de_icrs: -10.7736

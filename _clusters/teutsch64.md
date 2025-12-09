@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0832.5-4159; MWSC 1502
 fname: teutsch64
+members_file: "260_264"
 fov: 0.037
 ra_icrs: 128.12951
 de_icrs: -41.99295

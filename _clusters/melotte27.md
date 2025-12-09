@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 56; NGC 1664; MWSC 430; OCL 411; FoF 1365
 fname: melotte27
+members_file: "160_164"
 fov: 0.307
 ra_icrs: 72.7553
 de_icrs: 43.66578

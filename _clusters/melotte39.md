@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 78; NGC 2126; FSR 0730; MWSC 708; OCL 418
 fname: melotte39
+members_file: "160_164"
 fov: 0.293
 ra_icrs: 90.66173
 de_icrs: 49.87996

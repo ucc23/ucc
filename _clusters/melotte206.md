@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6649; MWSC 2949; OCL 66; FoF 293
 fname: melotte206
+members_file: "20_24"
 fov: 0.15
 ra_icrs: 278.35824
 de_icrs: -10.40027

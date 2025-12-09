@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc23
+members_file: "148_152"
 fov: 0.217
 ra_icrs: 62.3635
 de_icrs: 51.86643

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1463
 fname: ascc46
+members_file: "264_268"
 fov: 0.237
 ra_icrs: 124.13701
 de_icrs: -48.4898

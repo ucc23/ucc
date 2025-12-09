@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2276
 fname: dbsb140
+members_file: "320_324"
 fov: 0.213
 ra_icrs: 227.48652
 de_icrs: -58.35221

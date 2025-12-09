@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 67; NGC 1912; MWSC 557; M 38; OCL 433
 fname: melotte36
+members_file: "172_176"
 fov: 0.46
 ra_icrs: 82.18425
 de_icrs: 35.82008

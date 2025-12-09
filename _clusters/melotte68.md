@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 152; NGC 2422; MWSC 1278; M 47; OCL 596; Escorial 21; FoF 2325; OCSN 229
 fname: melotte68
+members_file: "228_232"
 fov: 0.783
 ra_icrs: 114.13952
 de_icrs: -14.48593

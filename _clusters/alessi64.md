@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1123; DSH J0551.6-1214; MWSC 681
 fname: alessi64
+members_file: "216_220"
 fov: 0.263
 ra_icrs: 87.86622
 de_icrs: -12.24031

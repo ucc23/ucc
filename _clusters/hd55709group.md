@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hd55709group
+members_file: "216_220"
 fov: 0.227
 ra_icrs: 108.46818
 de_icrs: -3.69791

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3738
 fname: stock11
+members_file: "108_112"
 fov: 0.203
 ra_icrs: 352.82902
 de_icrs: 55.8048

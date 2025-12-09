@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2123
 fname: hogg16
+members_file: "304_308"
 fov: 0.18
 ra_icrs: 202.32318
 de_icrs: -61.2407

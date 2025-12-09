@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 991
 fname: bochum2
+members_file: "212_216"
 fov: 0.1
 ra_icrs: 102.21375
 de_icrs: 0.37799

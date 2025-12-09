@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 129
 fname: ascc21
+members_file: "196_200"
 fov: 0.937
 ra_icrs: 82.22855
 de_icrs: 3.54524

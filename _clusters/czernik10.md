@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 213
 fname: czernik10
+members_file: "132_136"
 fov: 0.033
 ra_icrs: 38.47936
 de_icrs: 60.17134

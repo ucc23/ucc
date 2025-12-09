@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 108; OCL 318
 fname: stock3
+members_file: "124_128"
 fov: 0.23
 ra_icrs: 18.04896
 de_icrs: 62.29816

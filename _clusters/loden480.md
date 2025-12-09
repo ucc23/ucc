@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1986; OCL 865.3
 fname: loden480
+members_file: "292_296"
 fov: 0.823
 ra_icrs: 179.26613
 de_icrs: -58.32441

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch J1535.7-5336
 fname: teutsch245
+members_file: "324_328"
 fov: 0.227
 ra_icrs: 233.90847
 de_icrs: -53.5964

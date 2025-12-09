@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7423; MWSC 3674; OCL 246; FSR 0391
 fname: berkeley57
+members_file: "104_108"
 fov: 0.057
 ra_icrs: 343.78812
 de_icrs: 57.0977

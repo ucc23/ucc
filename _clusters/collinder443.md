@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7160; MWSC 3572; OCL 236; FoF 2256
 fname: collinder443
+members_file: "100_104"
 fov: 0.5
 ra_icrs: 328.43602
 de_icrs: 62.5694

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 256; Coma Ber; MWSC 2020; Coma Star; Coma Berenices; OCL 558
 fname: melotte111
+members_file: "220_224"
 fov: 26.85
 ra_icrs: 185.06002
 de_icrs: 25.47846

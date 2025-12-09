@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bkf49
+members_file: "352_356"
 fov: 0.213
 ra_icrs: 258.76521
 de_icrs: -30.1596

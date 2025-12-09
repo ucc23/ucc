@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1137; FoF 2410; CMa00
 fname: alessi21
+members_file: "220_224"
 fov: 1.107
 ra_icrs: 107.6634
 de_icrs: -9.39962

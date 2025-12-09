@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn86
+members_file: "256_260"
 fov: 1.323
 ra_icrs: 138.33813
 de_icrs: -29.91338

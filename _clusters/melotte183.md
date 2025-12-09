@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 354; VDBH 254; NGC 6475; MWSC 2739; M 7; OCL 1028; vdBergh-Hagen 254; ESO 394 09; FoF 2404; OCSN 240
 fname: melotte183
+members_file: "352_356"
 fov: 1.177
 ra_icrs: 268.47051
 de_icrs: -34.83094

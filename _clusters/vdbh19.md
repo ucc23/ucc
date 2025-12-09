@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: BH 19; vdBergh-Hagen 19; ESO 430 21; MWSC 1433
 fname: vdbh19
+members_file: "248_252"
 fov: 0.08
 ra_icrs: 121.76542
 de_icrs: -32.35711

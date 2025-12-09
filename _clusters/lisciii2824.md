@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lisciii2824
+members_file: "272_276"
 fov: 0.543
 ra_icrs: 131.94154
 de_icrs: -54.52376

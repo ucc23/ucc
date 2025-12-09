@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: HD 66271 Group
 fname: alessi179
+members_file: "236_240"
 fov: 0.27
 ra_icrs: 120.5845
 de_icrs: -18.86001

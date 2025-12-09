@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 392; NGC 6709; MWSC 3009; OCL 100; FoF 2193
 fname: melotte214
+members_file: "40_44"
 fov: 0.327
 ra_icrs: 282.8433
 de_icrs: 10.32959

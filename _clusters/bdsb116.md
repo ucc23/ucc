@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2851
 fname: bdsb116
+members_file: "12_16"
 fov: 0.26
 ra_icrs: 273.6759
 de_icrs: -16.75287

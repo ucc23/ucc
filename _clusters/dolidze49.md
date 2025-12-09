@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 984
 fname: dolidze49
+members_file: "212_216"
 fov: 0.103
 ra_icrs: 101.74206
 de_icrs: -0.03538

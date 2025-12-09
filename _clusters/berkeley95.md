@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3626; OCL 242; FSR 0375
 fname: berkeley95
+members_file: "104_108"
 fov: 0.127
 ra_icrs: 337.07205
 de_icrs: 59.13042

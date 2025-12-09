@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1034; Biurakan 9; OCL 534; FSR 1058
 fname: berkeley30
+members_file: "208_212"
 fov: 0.057
 ra_icrs: 104.43699
 de_icrs: 3.2297

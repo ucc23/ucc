@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: froebrich145
+members_file: "336_340"
 fov: 0.247
 ra_icrs: 246.17377
 de_icrs: -45.00914

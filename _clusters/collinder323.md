@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 212; NGC 6268; MWSC 2516; OCL 1002; vdBergh-Hagen 212; ESO 332 17; FoF 2242
 fname: collinder323
+members_file: "344_348"
 fov: 0.213
 ra_icrs: 255.53004
 de_icrs: -39.7137

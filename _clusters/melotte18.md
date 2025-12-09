@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 38; NGC 1245; MWSC 264; OCL 389; FSR 0648; FoF 27
 fname: melotte18
+members_file: "144_148"
 fov: 0.183
 ra_icrs: 48.6942
 de_icrs: 47.23031

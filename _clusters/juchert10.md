@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1686; SAI 121; MWSC 2241; MWSC 2239; LS 167; La Serena 167
 fname: juchert10
+members_file: "312_316"
 fov: 0.057
 ra_icrs: 220.06805
 de_icrs: -60.37504

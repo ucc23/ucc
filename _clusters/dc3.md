@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1226
 fname: dc3
+members_file: "248_252"
 fov: 0.03
 ra_icrs: 111.75498
 de_icrs: -37.51616

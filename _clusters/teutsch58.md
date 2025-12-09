@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 60; DSH J0606.6+1557; FSR 0926
 fname: teutsch58
+members_file: "192_196"
 fov: 0.057
 ra_icrs: 91.66185
 de_icrs: 15.94966

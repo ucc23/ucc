@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1837.1-1013
 fname: teutsch117
+members_file: "20_24"
 fov: 0.12
 ra_icrs: 279.28697
 de_icrs: -10.23715

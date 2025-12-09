@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Eiffel Tower; Ramakers 62
 fname: ferrero6
+members_file: "116_120"
 fov: 0.307
 ra_icrs: 197.5367
 de_icrs: 57.5452

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3137
 fname: bdsb156
+members_file: "52_56"
 fov: 0.267
 ra_icrs: 292.9398
 de_icrs: 18.70465

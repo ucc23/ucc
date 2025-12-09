@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: BH 131; vdBergh-Hagen 131; MWSC 2030; FSR 1615
 fname: vdbh131
+members_file: "300_304"
 fov: 0.08
 ra_icrs: 186.54536
 de_icrs: -63.41307

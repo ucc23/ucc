@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 205; vdBergh-Hagen 205; BH 205
 fname: vdbh205
+members_file: "344_348"
 fov: 0.107
 ra_icrs: 254.05127
 de_icrs: -40.63548

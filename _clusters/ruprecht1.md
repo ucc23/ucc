@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 929; OCL 563; FoF 655
 fname: ruprecht1
+members_file: "220_224"
 fov: 0.26
 ra_icrs: 99.07459
 de_icrs: -14.16615

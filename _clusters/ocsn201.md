@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn201
+members_file: "256_260"
 fov: 1.16
 ra_icrs: 125.99157
 de_icrs: -41.071

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: COIN 39
 fname: coingaia39
+members_file: "160_164"
 fov: 0.383
 ra_icrs: 69.5157
 de_icrs: 42.96867

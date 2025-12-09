@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1067; MWSC 1203; OCL 536; MWSC 1204
 fname: berkeley78
+members_file: "208_212"
 fov: 0.08
 ra_icrs: 110.91011
 de_icrs: 5.36985

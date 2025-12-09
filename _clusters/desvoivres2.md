@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: desvoivres2
+members_file: "204_208"
 fov: 0.137
 ra_icrs: 99.97499
 de_icrs: 6.0578

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2907
 fname: dolidze52
+members_file: "12_16"
 fov: 0.207
 ra_icrs: 276.05747
 de_icrs: -16.69857

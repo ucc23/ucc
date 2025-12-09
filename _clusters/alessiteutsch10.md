@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: alessiteutsch10
+members_file: "160_164"
 fov: 0.56
 ra_icrs: 56.43429
 de_icrs: 29.82245

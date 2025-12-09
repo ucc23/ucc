@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 808; DSH J0614.2+2229
 fname: kronberger12
+members_file: "188_192"
 fov: 0.033
 ra_icrs: 93.56725
 de_icrs: 22.49369

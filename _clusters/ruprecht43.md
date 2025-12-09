@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1401; OCL 684; ESO 430 06; Turner-Majaess 1
 fname: ruprecht43
+members_file: "244_248"
 fov: 0.093
 ra_icrs: 119.68198
 de_icrs: -28.81645

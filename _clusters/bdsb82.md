@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 819
 fname: bdsb82
+members_file: "196_200"
 fov: 0.087
 ra_icrs: 93.72809
 de_icrs: 12.34124

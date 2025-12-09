@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: stock19
+members_file: "116_120"
 fov: 0.287
 ra_icrs: 1.18313
 de_icrs: 56.05803

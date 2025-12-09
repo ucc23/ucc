@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2270
 fname: ascc78
+members_file: "312_316"
 fov: 0.23
 ra_icrs: 226.2292
 de_icrs: -68.38095

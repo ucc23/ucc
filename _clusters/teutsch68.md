@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0944.3-5407; FSR 1504
 fname: teutsch68
+members_file: "276_280"
 fov: 0.073
 ra_icrs: 146.08362
 de_icrs: -54.11246

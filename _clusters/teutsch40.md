@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3129; DSH J1929.2+2318
 fname: teutsch40
+members_file: "56_60"
 fov: 0.187
 ra_icrs: 292.31054
 de_icrs: 23.2908

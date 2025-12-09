@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UPK 622
 fname: ocsn320
+members_file: "324_328"
 fov: 2.413
 ra_icrs: 228.11865
 de_icrs: -44.13602

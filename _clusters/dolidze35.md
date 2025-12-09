@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3117
 fname: dolidze35
+members_file: "44_48"
 fov: 0.173
 ra_icrs: 291.35141
 de_icrs: 11.62715

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lp55a
+members_file: "156_160"
 fov: 0.247
 ra_icrs: 78.01009
 de_icrs: 52.46196

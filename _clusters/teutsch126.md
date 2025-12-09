@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3599; DSH J2213.7+5543
 fname: teutsch126
+members_file: "100_104"
 fov: 0.117
 ra_icrs: 333.456
 de_icrs: 55.71975

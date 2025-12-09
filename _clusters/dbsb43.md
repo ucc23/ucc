@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1754
 fname: dbsb43
+members_file: "280_284"
 fov: 0.05
 ra_icrs: 150.9617
 de_icrs: -59.2237

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 39
 fname: hxhwl39
+members_file: "120_124"
 fov: 0.473
 ra_icrs: 9.18548
 de_icrs: 68.83147

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cma08
+members_file: "224_228"
 fov: 0.477
 ra_icrs: 107.43038
 de_icrs: -12.27562

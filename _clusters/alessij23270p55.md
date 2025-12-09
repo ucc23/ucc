@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Alessi J2327+55; ASCC 129; MWSC 3730; Alessi 70
 fname: alessij23270p55
+members_file: "108_112"
 fov: 0.207
 ra_icrs: 352.04193
 de_icrs: 55.62093

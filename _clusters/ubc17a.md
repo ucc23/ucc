@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 283
 fname: ubc17a
+members_file: "204_208"
 fov: 1.84
 ra_icrs: 83.45439
 de_icrs: -1.70874

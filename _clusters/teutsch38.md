@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 49; MWSC 1569
 fname: teutsch38
+members_file: "256_260"
 fov: 1.08
 ra_icrs: 131.49844
 de_icrs: -38.00204

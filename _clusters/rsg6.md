@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: TRSG 6
 fname: rsg6
+members_file: "76_80"
 fov: 0.16
 ra_icrs: 307.44429
 de_icrs: 40.05445

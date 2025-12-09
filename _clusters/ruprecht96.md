@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1983; OCL 866; ESO 130 02
 fname: ruprecht96
+members_file: "292_296"
 fov: 0.093
 ra_icrs: 177.67886
 de_icrs: -62.1431

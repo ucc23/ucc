@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Huluwa 3
 fname: ocsn200
+members_file: "260_264"
 fov: 1.617
 ra_icrs: 117.36398
 de_icrs: -46.53691

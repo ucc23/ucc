@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 16; MWSC 1385; OCL 692; vdBergh-Hagen 16; ESO 430 04
 fname: haffner20
+members_file: "244_248"
 fov: 0.053
 ra_icrs: 119.06635
 de_icrs: -30.3686

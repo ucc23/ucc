@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 247; OCL 1034; vdBergh-Hagen 247; ESO 455 41; MWSC 2698; FoF 1205
 fname: ruprecht130
+members_file: "356_360"
 fov: 0.093
 ra_icrs: 266.89958
 de_icrs: -30.09502

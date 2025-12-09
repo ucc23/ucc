@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3211; DSH J1958.1+3053; FSR 0177
 fname: kronberger52
+members_file: "64_68"
 fov: 0.057
 ra_icrs: 299.53763
 de_icrs: 30.87962

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 427; FoF 2323
 fname: ascc12
+members_file: "160_164"
 fov: 0.34
 ra_icrs: 72.39639
 de_icrs: 41.74303

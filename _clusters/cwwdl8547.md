@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl8547
+members_file: "160_164"
 fov: 0.287
 ra_icrs: 73.46357
 de_icrs: 43.98443

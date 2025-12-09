@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 22; NGC 2546; MWSC 1447; OCL 726; vdBergh-Hagen 22; ESO 369 07; FoF 2217
 fname: collinder178
+members_file: "252_256"
 fov: 0.54
 ra_icrs: 123.09939
 de_icrs: -37.6668

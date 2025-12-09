@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 378; MWSC 2910; OCL 34; ESO 590 20; FoF 2212
 fname: trumpler33
+members_file: "12_16"
 fov: 0.22
 ra_icrs: 276.15132
 de_icrs: -19.71531

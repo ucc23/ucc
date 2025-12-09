@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1548
 fname: ruprecht69
+members_file: "264_268"
 fov: 0.22
 ra_icrs: 131.19915
 de_icrs: -47.56856

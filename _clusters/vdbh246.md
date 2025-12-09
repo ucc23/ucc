@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6425; MWSC 2691; OCL 1033; vdBergh-Hagen 246; ESO 455 38; FoF 2315
 fname: vdbh246
+members_file: "356_360"
 fov: 0.337
 ra_icrs: 266.73492
 de_icrs: -31.50245

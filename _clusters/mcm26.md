@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm26
+members_file: "296_300"
 fov: 0.047
 ra_icrs: 178.31259
 de_icrs: -62.60466

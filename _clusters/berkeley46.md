@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6791; MWSC 3088; OCL 142; FSR 0186; FoF 639
 fname: berkeley46
+members_file: "68_72"
 fov: 0.14
 ra_icrs: 290.2201
 de_icrs: 37.77656

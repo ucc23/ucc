@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2427; FoF 863
 fname: collinder307
+members_file: "332_336"
 fov: 0.13
 ra_icrs: 248.78525
 de_icrs: -50.98926

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3654; OCSN 134
 fname: ascc123
+members_file: "104_108"
 fov: 2.173
 ra_icrs: 340.05975
 de_icrs: 54.11341

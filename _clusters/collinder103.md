@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2254; FSR 1001; MWSC 924; OCL 500; FoF 191
 fname: collinder103
+members_file: "204_208"
 fov: 0.083
 ra_icrs: 98.94754
 de_icrs: 7.67022

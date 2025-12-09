@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: streicher9
+members_file: "232_236"
 fov: 0.283
 ra_icrs: 123.188
 de_icrs: -12.29366

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 42; MWSC 1373; AT 3; Alessi 30
 fname: alessiteutsch3
+members_file: "264_268"
 fov: 0.61
 ra_icrs: 118.29531
 de_icrs: -53.02269

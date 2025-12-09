@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: steine14
+members_file: "208_212"
 fov: 0.253
 ra_icrs: 106.80479
 de_icrs: 5.73014

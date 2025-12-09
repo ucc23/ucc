@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn285
+members_file: "160_164"
 fov: 1.323
 ra_icrs: 60.52422
 de_icrs: 32.24845

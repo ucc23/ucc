@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm15
+members_file: "36_40"
 fov: 0.277
 ra_icrs: 285.92855
 de_icrs: 5.18345

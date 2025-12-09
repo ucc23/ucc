@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 80; IC 2157; MWSC 722; OCL 465; FSR 0867
 fname: trumpler4
+members_file: "184_188"
 fov: 0.11
 ra_icrs: 91.1845
 de_icrs: 24.09622

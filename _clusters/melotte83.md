@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 176; NGC 2539; MWSC 1439; OCL 611; FoF 2043
 fname: melotte83
+members_file: "232_236"
 fov: 0.387
 ra_icrs: 122.66223
 de_icrs: -12.83311

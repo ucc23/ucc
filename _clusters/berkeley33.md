@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1033
 fname: berkeley33
+members_file: "224_228"
 fov: 0.08
 ra_icrs: 104.45948
 de_icrs: -13.22671

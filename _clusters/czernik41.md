@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0157; MWSC 3192; OCL 130
 fname: czernik41
+members_file: "60_64"
 fov: 0.157
 ra_icrs: 297.75829
 de_icrs: 25.28469

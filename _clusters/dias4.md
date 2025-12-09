@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2154
 fname: dias4
+members_file: "308_312"
 fov: 0.183
 ra_icrs: 205.84107
 de_icrs: -63.02353

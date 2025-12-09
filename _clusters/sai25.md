@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 250
 fname: sai25
+members_file: "136_140"
 fov: 0.21
 ra_icrs: 44.97852
 de_icrs: 57.41383

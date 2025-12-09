@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Czernik 32; MWSC 1357; King 24; OCL 683; vdBergh-Hagen 11; ESO 494 20; FSR 1325
 fname: vdbh11
+members_file: "244_248"
 fov: 0.107
 ra_icrs: 117.61832
 de_icrs: -29.85182

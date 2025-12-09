@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 89; MWSC 2582; FoF 2389; OCSN 142
 fname: alessi24
+members_file: "328_332"
 fov: 0.803
 ra_icrs: 260.77792
 de_icrs: -62.71812

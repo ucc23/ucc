@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 47; NGC 1528; MWSC 353; OCL 397; FoF 2138
 fname: melotte23
+members_file: "152_156"
 fov: 0.403
 ra_icrs: 63.87683
 de_icrs: 51.21018

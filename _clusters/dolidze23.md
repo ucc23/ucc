@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 963
 fname: dolidze23
+members_file: "208_212"
 fov: 0.223
 ra_icrs: 100.71804
 de_icrs: 0.08946

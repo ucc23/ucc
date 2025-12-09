@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0111; DSH J1908.1+0414
 fname: teutsch118
+members_file: "36_40"
 fov: 0.07
 ra_icrs: 286.92315
 de_icrs: 4.34251

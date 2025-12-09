@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1963; FoF 2151
 fname: ascc67
+members_file: "292_296"
 fov: 0.187
 ra_icrs: 175.2747
 de_icrs: -61.02564

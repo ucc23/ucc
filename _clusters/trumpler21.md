@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 274; VDBH 148; MWSC 2131; OCL 903; vdBergh-Hagen 148; ESO 096 15; FoF 2099
 fname: trumpler21
+members_file: "304_308"
 fov: 0.12
 ra_icrs: 203.0571
 de_icrs: -62.78663

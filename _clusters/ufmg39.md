@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg39
+members_file: "316_320"
 fov: 0.24
 ra_icrs: 219.02405
 de_icrs: -57.87586

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 100; NGC 3330; MWSC 1835; Harvard 4; OCL 806; vdBergh-Hagen 100; ESO 168 11; FoF 2190
 fname: collinder226
+members_file: "284_288"
 fov: 0.147
 ra_icrs: 159.66732
 de_icrs: -54.14501

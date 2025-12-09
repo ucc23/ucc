@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3025; FoF 2357
 fname: alessi62
+members_file: "52_56"
 fov: 0.607
 ra_icrs: 284.02122
 de_icrs: 21.6054

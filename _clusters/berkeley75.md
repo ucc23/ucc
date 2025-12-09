@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 993; OCL 614; ES0490SC50
 fname: berkeley75
+members_file: "232_236"
 fov: 0.05
 ra_icrs: 102.2507
 de_icrs: -23.99565

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UPK 83
 fname: ocsn296
+members_file: "64_68"
 fov: 1.063
 ra_icrs: 285.39533
 de_icrs: 33.47277

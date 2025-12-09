@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 88; NGC 2204; MWSC 822; OCL 572; ESO 556 07; FSR 1201; FoF 2
 fname: melotte44
+members_file: "224_228"
 fov: 0.22
 ra_icrs: 93.8858
 de_icrs: -18.67055

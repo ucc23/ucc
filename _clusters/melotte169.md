@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 327; VDBH 224; IC 4651; MWSC 2590; OCL 987; vdBergh-Hagen 224; ESO 228 02; FSR 1738; FoF 2053
 fname: melotte169
+members_file: "340_344"
 fov: 0.397
 ra_icrs: 261.21616
 de_icrs: -49.91632

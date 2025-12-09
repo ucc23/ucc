@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3754
 fname: stock17
+members_file: "112_116"
 fov: 0.193
 ra_icrs: 355.96636
 de_icrs: 62.15981

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn53
+members_file: "176_180"
 fov: 1.08
 ra_icrs: 68.22187
 de_icrs: 18.00587

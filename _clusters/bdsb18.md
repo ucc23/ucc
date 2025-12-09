@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3221
 fname: bdsb18
+members_file: "68_72"
 fov: 0.28
 ra_icrs: 300.30439
 de_icrs: 33.20626

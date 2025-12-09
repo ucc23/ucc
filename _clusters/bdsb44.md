@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3721
 fname: bdsb44
+members_file: "112_116"
 fov: 0.16
 ra_icrs: 350.16871
 de_icrs: 61.23322

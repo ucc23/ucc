@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3726
 fname: czernik43
+members_file: "112_116"
 fov: 0.223
 ra_icrs: 351.402
 de_icrs: 61.34637

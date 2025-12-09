@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1855; OCL 824; ESO 169 01; FoF 2237
 fname: ruprecht91
+members_file: "284_288"
 fov: 0.423
 ra_icrs: 161.96284
 de_icrs: -57.49037

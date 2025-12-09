@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 136
 fname: kronberger36
+members_file: "72_76"
 fov: 0.09
 ra_icrs: 301.13873
 de_icrs: 35.23856

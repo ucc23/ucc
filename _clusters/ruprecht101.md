@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1603; MWSC 2002
 fname: ruprecht101
+members_file: "296_300"
 fov: 0.123
 ra_icrs: 182.39936
 de_icrs: -62.99286

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 145; FSR 1644; MWSC 2103; Harvard 8; OCL 895; vdBergh-Hagen 145; ESO 096 06; MWSC 2102; FoF 65
 fname: collinder268
+members_file: "304_308"
 fov: 0.117
 ra_icrs: 199.53027
 de_icrs: -67.07733

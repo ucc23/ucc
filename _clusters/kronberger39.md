@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1868; DSH J1054.2-6144
 fname: kronberger39
+members_file: "288_292"
 fov: 0.193
 ra_icrs: 163.57536
 de_icrs: -61.74683

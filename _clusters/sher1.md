@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1881; OCL 837; ESO 128 27; Miller 2
 fname: sher1
+members_file: "288_292"
 fov: 0.073
 ra_icrs: 165.24698
 de_icrs: -60.2323

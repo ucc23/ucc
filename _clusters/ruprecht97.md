@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 124; MWSC 1987; OCL 867; vdBergh-Hagen 124; ESO 130 03
 fname: ruprecht97
+members_file: "296_300"
 fov: 0.077
 ra_icrs: 179.37304
 de_icrs: -62.70981

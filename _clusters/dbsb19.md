@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dbsb19
+members_file: "256_260"
 fov: 0.187
 ra_icrs: 128.89215
 de_icrs: -40.6222

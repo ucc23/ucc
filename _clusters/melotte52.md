@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 118; NGC 2287; MWSC 978; M 41; OCL 597; ESO 557 14; FoF 2269
 fname: melotte52
+members_file: "228_232"
 fov: 0.713
 ra_icrs: 101.50047
 de_icrs: -20.71601

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 449; NGC 7245; MWSC 3603; OCL 225; FSR 0348; FoF 166
 fname: melotte241
+members_file: "100_104"
 fov: 0.107
 ra_icrs: 333.81425
 de_icrs: 54.33376

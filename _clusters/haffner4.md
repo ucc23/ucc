@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1094; OCL 583
 fname: haffner4
+members_file: "224_228"
 fov: 0.05
 ra_icrs: 106.51152
 de_icrs: -15.00611

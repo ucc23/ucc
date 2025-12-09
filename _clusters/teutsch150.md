@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1933.8+1005
 fname: teutsch150
+members_file: "44_48"
 fov: 0.153
 ra_icrs: 293.42727
 de_icrs: 10.07951

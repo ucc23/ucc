@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1344
 fname: ruprecht36
+members_file: "240_244"
 fov: 0.123
 ra_icrs: 117.09338
 de_icrs: -26.2905

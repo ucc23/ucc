@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2215; FoF 2308
 fname: lynga2
+members_file: "312_316"
 fov: 0.303
 ra_icrs: 216.07549
 de_icrs: -61.32512

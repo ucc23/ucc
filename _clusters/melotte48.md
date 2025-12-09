@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 108; NGC 2259; MWSC 940; OCL 492; FoF 370
 fname: melotte48
+members_file: "200_204"
 fov: 0.063
 ra_icrs: 99.63718
 de_icrs: 10.88352

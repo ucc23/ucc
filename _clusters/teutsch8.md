@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3229
 fname: teutsch8
+members_file: "68_72"
 fov: 0.037
 ra_icrs: 300.60918
 de_icrs: 35.31029

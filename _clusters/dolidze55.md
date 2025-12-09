@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3469
 fname: dolidze55
+members_file: "84_88"
 fov: 0.143
 ra_icrs: 317.47626
 de_icrs: 40.62741

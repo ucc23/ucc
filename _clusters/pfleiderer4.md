@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3764; PWM 4
 fname: pfleiderer4
+members_file: "112_116"
 fov: 0.037
 ra_icrs: 357.72161
 de_icrs: 62.31738

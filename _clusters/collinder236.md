@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1872
 fname: collinder236
+members_file: "288_292"
 fov: 0.11
 ra_icrs: 164.12108
 de_icrs: -61.0985

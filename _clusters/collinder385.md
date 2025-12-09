@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6664; MWSC 2962; OCL 68; Alessi 153
 fname: collinder385
+members_file: "20_24"
 fov: 0.21
 ra_icrs: 279.12136
 de_icrs: -8.1842

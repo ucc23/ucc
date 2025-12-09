@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 75; NGC 2099; MWSC 689; M 37; OCL 451; FSR 0818
 fname: melotte38
+members_file: "176_180"
 fov: 0.283
 ra_icrs: 88.07474
 de_icrs: 32.54338

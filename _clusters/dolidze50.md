@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 32; Alessi J1605.5-2031; MWSC 2349
 fname: dolidze50
+members_file: "352_356"
 fov: 0.15
 ra_icrs: 241.40244
 de_icrs: -20.4888

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1087; ESO 558 08
 fname: auner1
+members_file: "228_232"
 fov: 0.03
 ra_icrs: 106.06101
 de_icrs: -19.74914

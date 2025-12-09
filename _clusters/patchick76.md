@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2020.8+3501
 fname: patchick76
+members_file: "72_76"
 fov: 0.123
 ra_icrs: 305.23639
 de_icrs: 35.01702

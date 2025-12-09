@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 1; MWSC 1197; OCL 661; vdBergh-Hagen 1; ESO 428 24; FSR 1311
 fname: haffner7
+members_file: "240_244"
 fov: 0.06
 ra_icrs: 110.73499
 de_icrs: -29.49701

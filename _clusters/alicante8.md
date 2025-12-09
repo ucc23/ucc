@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: RSGC 4
 fname: alicante8
+members_file: "24_28"
 fov: 0.263
 ra_icrs: 278.74841
 de_icrs: -7.19984

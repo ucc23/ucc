@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 404
 fname: gulliver1
+members_file: "284_288"
 fov: 0.147
 ra_icrs: 161.58571
 de_icrs: -57.03871

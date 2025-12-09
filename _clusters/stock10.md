@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 616; OCSN 266
 fname: stock10
+members_file: "168_172"
 fov: 1.383
 ra_icrs: 84.85007
 de_icrs: 37.80759

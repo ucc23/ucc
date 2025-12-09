@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 331; MWSC 2604; Harvard 15; OCL 1032; ESO 454 33
 fname: trumpler26
+members_file: "356_360"
 fov: 0.217
 ra_icrs: 262.13166
 de_icrs: -29.49028

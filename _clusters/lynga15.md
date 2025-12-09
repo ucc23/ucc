@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1965
 fname: lynga15
+members_file: "292_296"
 fov: 0.263
 ra_icrs: 175.49399
 de_icrs: -62.4668

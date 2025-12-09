@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Alcaeus
 fname: ocsn136
+members_file: "160_164"
 fov: 1.537
 ra_icrs: 58.50454
 de_icrs: 31.98157

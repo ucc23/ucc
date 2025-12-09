@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2232; MWSC 871; OCL 545; Escorial 8; FoF 2393; OCSN 227
 fname: collinder93
+members_file: "212_216"
 fov: 1.05
 ra_icrs: 96.90886
 de_icrs: -4.74348

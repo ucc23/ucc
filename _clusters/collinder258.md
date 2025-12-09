@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 257; VDBH 133; vdB-Hagen 133; Harvard 5; Har5; OCL 880; vdBergh-Hagen 133; ESO 131 05; HD 108353; MWSC 2033; MWSC 2027; FoF 2240
 fname: collinder258
+members_file: "296_300"
 fov: 0.22
 ra_icrs: 186.80679
 de_icrs: -60.77571

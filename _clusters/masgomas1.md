@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: masgomas1
+members_file: "32_36"
 fov: 0.24
 ra_icrs: 282.5605
 de_icrs: 0.3558

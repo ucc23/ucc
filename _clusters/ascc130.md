@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3768
 fname: ascc130
+members_file: "116_120"
 fov: 0.177
 ra_icrs: 358.22834
 de_icrs: 62.44636

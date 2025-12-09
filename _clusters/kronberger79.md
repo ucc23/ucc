@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3138; DSH J1933.9+1831
 fname: kronberger79
+members_file: "52_56"
 fov: 0.027
 ra_icrs: 293.47884
 de_icrs: 18.51875

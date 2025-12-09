@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 145
 fname: berkeley6
+members_file: "128_132"
 fov: 0.053
 ra_icrs: 27.80332
 de_icrs: 61.05894

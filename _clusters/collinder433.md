@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7044; MWSC 3485; OCL 198; FSR 0268; FoF 71
 fname: collinder433
+members_file: "84_88"
 fov: 0.11
 ra_icrs: 318.28255
 de_icrs: 42.49508

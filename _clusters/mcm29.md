@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm29
+members_file: "296_300"
 fov: 0.217
 ra_icrs: 180.81063
 de_icrs: -63.11627

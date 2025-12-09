@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3534
 fname: bdsb22
+members_file: "92_96"
 fov: 0.227
 ra_icrs: 324.10286
 de_icrs: 52.43619

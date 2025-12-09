@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn3
+members_file: "8_12"
 fov: 4.687
 ra_icrs: 276.42454
 de_icrs: -20.38868

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 838
 fname: collinder89
+members_file: "188_192"
 fov: 0.24
 ra_icrs: 94.72342
 de_icrs: 23.19712

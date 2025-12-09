@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1516
 fname: pismis5
+members_file: "256_260"
 fov: 0.36
 ra_icrs: 129.40948
 de_icrs: -39.61947

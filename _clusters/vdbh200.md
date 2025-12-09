@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 200; MWSC 2471; BH 200; ESO 277 15
 fname: vdbh200
+members_file: "340_344"
 fov: 0.09
 ra_icrs: 252.48319
 de_icrs: -44.18372

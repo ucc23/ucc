@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 3519; MWSC 1885; OCL 844; ESO 128 30; FoF 1062
 fname: ruprecht93
+members_file: "288_292"
 fov: 0.157
 ra_icrs: 166.04244
 de_icrs: -61.37512

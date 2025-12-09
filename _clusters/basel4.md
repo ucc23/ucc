@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0825; Czernik22; MWSC 672; OCL 455
 fname: basel4
+members_file: "176_180"
 fov: 0.097
 ra_icrs: 87.24237
 de_icrs: 30.19369

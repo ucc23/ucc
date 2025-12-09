@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1309; OCL 606
 fname: ruprecht151
+members_file: "232_236"
 fov: 0.253
 ra_icrs: 115.29314
 de_icrs: -16.25475

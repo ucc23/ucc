@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1009
 fname: ascc27
+members_file: "216_220"
 fov: 0.16
 ra_icrs: 103.5022
 de_icrs: -4.50412

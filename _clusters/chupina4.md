@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1590
 fname: chupina4
+members_file: "212_216"
 fov: 0.237
 ra_icrs: 133.00911
 de_icrs: 12.3373

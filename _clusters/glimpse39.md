@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 39
 fname: glimpse39
+members_file: "308_312"
 fov: 0.253
 ra_icrs: 206.88947
 de_icrs: -62.78511

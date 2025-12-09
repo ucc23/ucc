@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0625.7+1954; FSR 0912
 fname: alessi58
+members_file: "192_196"
 fov: 0.18
 ra_icrs: 96.39146
 de_icrs: 19.88553

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1655; OCL 749; ESO 372 17
 fname: ruprecht74
+members_file: "260_264"
 fov: 0.133
 ra_icrs: 140.23475
 de_icrs: -37.13187

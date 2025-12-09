@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 18
 fname: hxhwl18
+members_file: "164_168"
 fov: 0.483
 ra_icrs: 74.28396
 de_icrs: 39.57453

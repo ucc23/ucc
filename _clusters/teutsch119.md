@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1914.3+0405
 fname: teutsch119
+members_file: "36_40"
 fov: 0.203
 ra_icrs: 288.56028
 de_icrs: 4.07301

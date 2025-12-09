@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 78; MWSC 1706; BH 78; FSR 1512
 fname: vdbh78
+members_file: "276_280"
 fov: 0.027
 ra_icrs: 145.95306
 de_icrs: -56.57555

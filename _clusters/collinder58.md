@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1778; MWSC 472; OCL 429; FoF 2141
 fname: collinder58
+members_file: "168_172"
 fov: 0.25
 ra_icrs: 77.03239
 de_icrs: 37.01967

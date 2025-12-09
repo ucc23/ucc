@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0623; MWSC 290; OCL 370; FoF 630
 fname: berkeley10
+members_file: "136_140"
 fov: 0.157
 ra_icrs: 54.89535
 de_icrs: 66.48425

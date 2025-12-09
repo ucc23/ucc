@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 383; NGC 6645; MWSC 2946; OCL 48; FoF 68
 fname: melotte205
+members_file: "12_16"
 fov: 0.19
 ra_icrs: 278.14937
 de_icrs: -16.91924

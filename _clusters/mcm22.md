@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm22
+members_file: "52_56"
 fov: 0.27
 ra_icrs: 291.2557
 de_icrs: 17.43742

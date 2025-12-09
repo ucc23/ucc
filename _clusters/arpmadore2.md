@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1294; AM 2; ESO 368 07
 fname: arpmadore2
+members_file: "248_252"
 fov: 0.053
 ra_icrs: 114.68607
 de_icrs: -33.84469

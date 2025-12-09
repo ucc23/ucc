@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 96; MWSC 2893; Slotegraaf 61
 fname: ferrero1
+members_file: "0_4"
 fov: 0.297
 ra_icrs: 275.02525
 de_icrs: -32.35788

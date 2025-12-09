@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 65; MWSC 1657; OCL 786; vdBergh-Hagen 65; ESO 166 08; FSR 1499; FoF 42
 fname: ruprecht75
+members_file: "276_280"
 fov: 0.11
 ra_icrs: 140.48573
 de_icrs: -56.31896

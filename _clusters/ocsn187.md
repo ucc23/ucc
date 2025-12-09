@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ChaI north
 fname: ocsn187
+members_file: "296_300"
 fov: 0.41
 ra_icrs: 167.48737
 de_icrs: -76.5346

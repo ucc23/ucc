@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 84; MWSC 1743; BH 84
 fname: vdbh84
+members_file: "280_284"
 fov: 0.043
 ra_icrs: 150.32963
 de_icrs: -58.21849

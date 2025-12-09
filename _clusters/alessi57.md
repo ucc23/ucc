@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1920.8+1540; FSR 0130; MWSC 3089
 fname: alessi57
+members_file: "48_52"
 fov: 0.043
 ra_icrs: 290.22287
 de_icrs: 15.67861

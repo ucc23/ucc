@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc26
+members_file: "52_56"
 fov: 0.917
 ra_icrs: 285.41308
 de_icrs: 22.05689

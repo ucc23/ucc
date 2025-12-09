@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1596
 fname: teutsch230
+members_file: "292_296"
 fov: 0.067
 ra_icrs: 177.32144
 de_icrs: -62.22947

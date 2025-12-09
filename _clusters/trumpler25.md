@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 329; VDBH 225; MWSC 2587; Harvard 14; OCL 1007; vdBergh-Hagen 225; ESO 333 07
 fname: trumpler25
+members_file: "348_352"
 fov: 0.147
 ra_icrs: 261.12326
 de_icrs: -39.0101

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1817.1+0722; Teutsch J1817.1+0722
 fname: teutsch15
+members_file: "32_36"
 fov: 0.253
 ra_icrs: 274.2766
 de_icrs: 7.3326

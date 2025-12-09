@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: RSG9o; TRSG 9; Teutsch J0450.9+5209
 fname: rsg9y
+members_file: "152_156"
 fov: 0.777
 ra_icrs: 72.60846
 de_icrs: 52.29454

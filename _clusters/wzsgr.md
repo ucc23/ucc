@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: wzsgr
+members_file: "8_12"
 fov: 0.207
 ra_icrs: 273.46352
 de_icrs: -19.05332

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: steine10
+members_file: "100_104"
 fov: 0.207
 ra_icrs: 334.14676
 de_icrs: 53.99511

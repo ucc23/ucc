@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 395; HIP 21974 Group; OCSN 250
 fname: platais3
+members_file: "136_140"
 fov: 1.987
 ra_icrs: 69.70604
 de_icrs: 71.1786

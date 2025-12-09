@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3415; DoDz 11; Dolidze-Dzimselejsvili 11; OCL 179
 fname: doldzim11
+members_file: "76_80"
 fov: 0.257
 ra_icrs: 312.73148
 de_icrs: 35.91816

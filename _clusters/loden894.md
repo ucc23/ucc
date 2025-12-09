@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 905.1; ESO 097 02; MWSC 2146
 fname: loden894
+members_file: "308_312"
 fov: 0.24
 ra_icrs: 204.9815
 de_icrs: -64.31543

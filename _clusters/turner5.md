@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1684; OCSN 277
 fname: turner5
+members_file: "264_268"
 fov: 1.29
 ra_icrs: 143.15045
 de_icrs: -36.34933

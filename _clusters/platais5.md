@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: HIP 28944 Group; MWSC 763
 fname: platais5
+members_file: "228_232"
 fov: 0.193
 ra_icrs: 92.4134
 de_icrs: -22.17796

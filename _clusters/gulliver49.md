@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 1819
 fname: gulliver49
+members_file: "112_116"
 fov: 0.267
 ra_icrs: 350.70424
 de_icrs: 61.98078

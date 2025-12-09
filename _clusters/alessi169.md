@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: alessi169
+members_file: "92_96"
 fov: 0.183
 ra_icrs: 331.45205
 de_icrs: 44.86635

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: casado2
+members_file: "288_292"
 fov: 0.203
 ra_icrs: 163.40238
 de_icrs: -59.83804

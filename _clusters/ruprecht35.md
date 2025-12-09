@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 10; MWSC 1333; OCL 689; vdBergh-Hagen 10; ESO 429 18
 fname: ruprecht35
+members_file: "244_248"
 fov: 0.063
 ra_icrs: 116.55131
 de_icrs: -31.27973

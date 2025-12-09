@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Haffner 2; MWSC 1076; OCL 605; ESO 558 07; FSR 1250
 fname: tombaugh2
+members_file: "232_236"
 fov: 0.053
 ra_icrs: 105.77702
 de_icrs: -20.81795

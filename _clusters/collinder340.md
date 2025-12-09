@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 240; NGC 6404; MWSC 2658; OCL 1024; vdBergh-Hagen 240; ESO 393 13
 fname: collinder340
+members_file: "352_356"
 fov: 0.15
 ra_icrs: 264.91496
 de_icrs: -33.22543

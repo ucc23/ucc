@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 75; DSH J0715.3-0726; Alessi J0715.6-0727
 fname: patchick79
+members_file: "220_224"
 fov: 0.11
 ra_icrs: 108.84149
 de_icrs: -7.4268

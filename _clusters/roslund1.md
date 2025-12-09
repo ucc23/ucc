@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3169; OCL 112
 fname: roslund1
+members_file: "52_56"
 fov: 0.303
 ra_icrs: 296.24278
 de_icrs: 17.52349

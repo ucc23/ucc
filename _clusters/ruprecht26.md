@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1285; OCL 602; FSR 1244; FoF 380; LP 380; FoF 2326
 fname: ruprecht26
+members_file: "228_232"
 fov: 0.407
 ra_icrs: 114.29444
 de_icrs: -15.5806

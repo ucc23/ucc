@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 543
 fname: czernik21
+members_file: "168_172"
 fov: 0.133
 ra_icrs: 81.66698
 de_icrs: 36.01562

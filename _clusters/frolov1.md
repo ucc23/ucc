@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3780; C2354+613
 fname: frolov1
+members_file: "116_120"
 fov: 0.21
 ra_icrs: 359.31096
 de_icrs: 61.59196

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bkf48
+members_file: "348_352"
 fov: 0.197
 ra_icrs: 256.81328
 de_icrs: -37.68618

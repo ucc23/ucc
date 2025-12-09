@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 372; MWSC 2873; Harvard 19; OCL 55
 fname: trumpler32
+members_file: "16_20"
 fov: 0.247
 ra_icrs: 274.29405
 de_icrs: -13.34886

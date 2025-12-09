@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1564
 fname: dbsb27
+members_file: "260_264"
 fov: 0.213
 ra_icrs: 131.70212
 de_icrs: -43.87642

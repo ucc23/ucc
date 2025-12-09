@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3430
 fname: cbjc4
+members_file: "84_88"
 fov: 0.187
 ra_icrs: 314.06029
 de_icrs: 44.4108

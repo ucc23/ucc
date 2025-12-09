@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2670; OCSN 139
 fname: alessi9
+members_file: "344_348"
 fov: 1.68
 ra_icrs: 265.92615
 de_icrs: -46.92061

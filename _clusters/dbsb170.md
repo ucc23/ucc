@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2416
 fname: dbsb170
+members_file: "332_336"
 fov: 0.333
 ra_icrs: 247.22212
 de_icrs: -49.58813

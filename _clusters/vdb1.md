@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh 1; MWSC 934; CV Mon; OCL 527; FSR 1042
 fname: vdb1
+members_file: "208_212"
 fov: 0.063
 ra_icrs: 99.27826
 de_icrs: 3.07949

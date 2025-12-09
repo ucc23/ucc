@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0778; MWSC 491
 fname: dolidze16
+members_file: "172_176"
 fov: 0.18
 ra_icrs: 78.6125
 de_icrs: 32.7421

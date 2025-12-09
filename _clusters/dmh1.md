@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dmh1
+members_file: "4_8"
 fov: 0.233
 ra_icrs: 270.32158
 de_icrs: -22.89369

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Le Duigou-Knodlseder 1; FSR 0205
 fname: lk1
+members_file: "72_76"
 fov: 0.07
 ra_icrs: 306.10679
 de_icrs: 36.40996

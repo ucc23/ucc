@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 86; AT 12; Alessi J1701.7-5857; MWSC 2513
 fname: alessiteutsch12
+members_file: "328_332"
 fov: 0.577
 ra_icrs: 255.37209
 de_icrs: -58.99509

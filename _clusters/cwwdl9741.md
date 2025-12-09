@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl9741
+members_file: "20_24"
 fov: 0.137
 ra_icrs: 276.73759
 de_icrs: -10.97571

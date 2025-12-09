@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2304; OCL 944; ESO 177 08
 fname: harvard9
+members_file: "324_328"
 fov: 0.267
 ra_icrs: 233.46427
 de_icrs: -53.69668

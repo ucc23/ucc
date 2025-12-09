@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3241
 fname: berkeley84
+members_file: "68_72"
 fov: 0.173
 ra_icrs: 301.19641
 de_icrs: 33.94858

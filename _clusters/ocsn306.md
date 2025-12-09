@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UPK 392
 fname: ocsn306
+members_file: "192_196"
 fov: 2.997
 ra_icrs: 92.57301
 de_icrs: 14.92086

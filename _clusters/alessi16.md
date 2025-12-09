@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 968
 fname: alessi16
+members_file: "208_212"
 fov: 0.15
 ra_icrs: 100.82552
 de_icrs: 2.15035

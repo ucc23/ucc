@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 374; NGC 6603; MWSC 2883; OCL 36; FSR 0045
 fname: melotte197
+members_file: "12_16"
 fov: 0.077
 ra_icrs: 274.61213
 de_icrs: -18.41051

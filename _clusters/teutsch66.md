@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1688; DSH J0933.4-5223
 fname: teutsch66
+members_file: "272_276"
 fov: 0.05
 ra_icrs: 143.37331
 de_icrs: -52.38031

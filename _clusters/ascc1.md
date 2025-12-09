@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 19
 fname: ascc1
+members_file: "116_120"
 fov: 0.223
 ra_icrs: 2.45558
 de_icrs: 62.66374

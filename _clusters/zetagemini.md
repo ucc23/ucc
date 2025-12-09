@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: zetagemini
+members_file: "192_196"
 fov: 0.267
 ra_icrs: 105.96593
 de_icrs: 20.56051

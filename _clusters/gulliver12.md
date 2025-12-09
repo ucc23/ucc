@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2152
 fname: gulliver12
+members_file: "296_300"
 fov: 0.173
 ra_icrs: 181.18708
 de_icrs: -61.3128

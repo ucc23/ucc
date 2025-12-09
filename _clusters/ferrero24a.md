@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ferrero24a
+members_file: "320_324"
 fov: 0.12
 ra_icrs: 222.84453
 de_icrs: -52.95104

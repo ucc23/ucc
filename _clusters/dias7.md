@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3188
 fname: dias7
+members_file: "56_60"
 fov: 0.187
 ra_icrs: 297.35789
 de_icrs: 21.17696

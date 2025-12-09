@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: turner13a
+members_file: "244_248"
 fov: 0.25
 ra_icrs: 119.4586
 de_icrs: -29.36056

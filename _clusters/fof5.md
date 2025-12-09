@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: LP 5
 fname: fof5
+members_file: "292_296"
 fov: 0.333
 ra_icrs: 156.13824
 de_icrs: -72.5262

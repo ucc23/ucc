@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7226; MWSC 3591; OCL 226; FSR 0349
 fname: collinder446
+members_file: "100_104"
 fov: 0.037
 ra_icrs: 332.60249
 de_icrs: 55.39601

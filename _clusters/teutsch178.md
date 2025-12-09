@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: HD 57291 Group
 fname: teutsch178
+members_file: "212_216"
 fov: 0.173
 ra_icrs: 110.23377
 de_icrs: 3.5775

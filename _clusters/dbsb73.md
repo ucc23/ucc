@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1981
 fname: dbsb73
+members_file: "296_300"
 fov: 0.087
 ra_icrs: 177.54472
 de_icrs: -64.86787

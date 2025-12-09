@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1243
 fname: dbsb6
+members_file: "232_236"
 fov: 0.073
 ra_icrs: 112.49906
 de_icrs: -19.10224

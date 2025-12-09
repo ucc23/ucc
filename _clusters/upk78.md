@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 295
 fname: upk78
+members_file: "60_64"
 fov: 1.49
 ra_icrs: 280.52493
 de_icrs: 32.35036

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 82; NGC 3105; MWSC 1742; OCL 798; vdBergh-Hagen 82; ESO 167 14; FSR 1519
 fname: collinder214
+members_file: "276_280"
 fov: 0.04
 ra_icrs: 150.17016
 de_icrs: -54.78953

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: upk53
+members_file: "48_52"
 fov: 0.753
 ra_icrs: 288.51967
 de_icrs: 14.36878

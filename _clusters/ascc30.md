@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1028; Alessi 35
 fname: ascc30
+members_file: "216_220"
 fov: 0.377
 ra_icrs: 104.25436
 de_icrs: -6.20484

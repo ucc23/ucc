@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Lynga 4; MWSC 2302; OCL 941; vdBergh-Hagen 174; ESO 147 07
 fname: vdbh174
+members_file: "324_328"
 fov: 0.077
 ra_icrs: 233.3335
 de_icrs: -55.23223

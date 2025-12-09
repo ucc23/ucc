@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3464
 fname: bdsb21
+members_file: "88_92"
 fov: 0.217
 ra_icrs: 316.34029
 de_icrs: 49.68106

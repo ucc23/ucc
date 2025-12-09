@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 194; Pismis 9; VDBH 46; NGC 2659; MWSC 1538; OCL 752; vdBergh-Hagen 46; ESO 260 03; FoF 118
 fname: melotte91
+members_file: "264_268"
 fov: 0.093
 ra_icrs: 130.627
 de_icrs: -45.00208

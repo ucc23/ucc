@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 756
 fname: dias2
+members_file: "200_204"
 fov: 0.1
 ra_icrs: 92.2822
 de_icrs: 4.57067

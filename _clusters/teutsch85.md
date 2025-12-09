@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2547; DSH J1713.2-3942
 fname: teutsch85
+members_file: "344_348"
 fov: 0.057
 ra_icrs: 258.3099
 de_icrs: -39.71181

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 74; MWSC 1690; OCL 773; vdBergh-Hagen 74; ESO 212 10; FSR 1480; FoF 394
 fname: pismis15
+members_file: "272_276"
 fov: 0.12
 ra_icrs: 143.68609
 de_icrs: -48.04792

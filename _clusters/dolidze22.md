@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1006; MWSC 854
 fname: dolidze22
+members_file: "204_208"
 fov: 0.213
 ra_icrs: 95.85916
 de_icrs: 4.59007

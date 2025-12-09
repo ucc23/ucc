@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0631.6+0552
 fname: teutsch137
+members_file: "204_208"
 fov: 0.113
 ra_icrs: 97.92063
 de_icrs: 5.88489

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Alessi 47; MWSC 875
 fname: ascc24
+members_file: "216_220"
 fov: 1.33
 ra_icrs: 97.3507
 de_icrs: -7.03467

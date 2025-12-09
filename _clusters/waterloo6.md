@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: waterloo6
+members_file: "264_268"
 fov: 0.2
 ra_icrs: 130.11497
 de_icrs: -46.12632

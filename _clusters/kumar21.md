@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3605
 fname: kumar21
+members_file: "104_108"
 fov: 0.153
 ra_icrs: 334.00318
 de_icrs: 60.05323

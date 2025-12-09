@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: saloranta7
+members_file: "92_96"
 fov: 0.343
 ra_icrs: 300.73346
 de_icrs: 58.72419

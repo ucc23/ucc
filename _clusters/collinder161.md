@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 9; NGC 2451; NGC 2451A; MWSC 1308; OCL 716; vdBergh-Hagen 9; ESO 311 08; Escorial 24; FoF 2437; OCSN 230
 fname: collinder161
+members_file: "252_256"
 fov: 2.22
 ra_icrs: 115.77546
 de_icrs: -38.25995

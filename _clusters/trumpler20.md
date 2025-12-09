@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 262; MWSC 2060; Harvard 7; OCL 888; ESO 131 13; FSR 1624
 fname: trumpler20
+members_file: "300_304"
 fov: 0.173
 ra_icrs: 189.89251
 de_icrs: -60.64095

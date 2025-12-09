@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6885; MWSC 3282; 20 Vul; OCL 132
 fname: collinder417
+members_file: "64_68"
 fov: 0.103
 ra_icrs: 302.92044
 de_icrs: 26.50134

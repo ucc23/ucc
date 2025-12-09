@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1141
 fname: ascc35
+members_file: "212_216"
 fov: 0.253
 ra_icrs: 108.10754
 de_icrs: 2.08417

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: canbattlo1
+members_file: "156_160"
 fov: 0.123
 ra_icrs: 68.55684
 de_icrs: 45.45013

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 82; NGC 2168; MWSC 754; M 35; OCL 466; FoF 2231
 fname: melotte41
+members_file: "184_188"
 fov: 0.547
 ra_icrs: 92.26759
 de_icrs: 24.34339

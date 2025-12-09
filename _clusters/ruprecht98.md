@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 125; MWSC 1988; OCL 868; vdBergh-Hagen 125; ESO 094 09; OCSN 260
 fname: ruprecht98
+members_file: "296_300"
 fov: 1.05
 ra_icrs: 179.71548
 de_icrs: -64.60301

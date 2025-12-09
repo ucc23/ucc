@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mamajek J1844.3-3539
 fname: mamajek1844
+members_file: "356_360"
 fov: 0.223
 ra_icrs: 281.08521
 de_icrs: -35.69248

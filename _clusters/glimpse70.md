@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mercer 70; Ryu 273
 fname: glimpse70
+members_file: "328_332"
 fov: 0.26
 ra_icrs: 240.1389
 de_icrs: -52.1626

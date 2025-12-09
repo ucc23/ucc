@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3519
 fname: platais1
+members_file: "92_96"
 fov: 0.2
 ra_icrs: 322.55698
 de_icrs: 48.97349

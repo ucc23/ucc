@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc80
+members_file: "196_200"
 fov: 0.21
 ra_icrs: 91.59226
 de_icrs: 8.75737

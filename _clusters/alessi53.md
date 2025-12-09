@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 879; DSH J0629.4+0910; DC 7; FSR 0986
 fname: alessi53
+members_file: "200_204"
 fov: 0.043
 ra_icrs: 97.35234
 de_icrs: 9.18036

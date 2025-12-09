@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 156; NGC 5381; MWSC 2196; OCL 915; vdBergh-Hagen 156; ESO 133 11
 fname: ruprecht109
+members_file: "308_312"
 fov: 0.19
 ra_icrs: 210.2219
 de_icrs: -59.5763

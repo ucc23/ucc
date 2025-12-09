@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc16
+members_file: "232_236"
 fov: 0.11
 ra_icrs: 111.05311
 de_icrs: -20.21289

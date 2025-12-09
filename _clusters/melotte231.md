@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 423; NGC 6939; MWSC 3357; OCL 217; FSR 0315; FoF 640
 fname: melotte231
+members_file: "92_96"
 fov: 0.27
 ra_icrs: 307.91854
 de_icrs: 60.65318

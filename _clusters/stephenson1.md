@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3018; Del L; delta Lyr; OCL 137; FoF 2433; OCSN 263
 fname: stephenson1
+members_file: "64_68"
 fov: 1.24
 ra_icrs: 283.54826
 de_icrs: 36.82674

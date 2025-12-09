@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3168
 fname: turner9
+members_file: "64_68"
 fov: 0.23
 ra_icrs: 296.18196
 de_icrs: 29.50142

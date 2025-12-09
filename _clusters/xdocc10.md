@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: xdocc10
+members_file: "72_76"
 fov: 0.247
 ra_icrs: 305.52488
 de_icrs: 37.23809

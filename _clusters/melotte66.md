@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 147; MWSC 1222; OCL 739; ESO 208 12; FSR 1396; FoF 4
 fname: melotte66
+members_file: "256_260"
 fov: 0.173
 ra_icrs: 111.58059
 de_icrs: -47.68404

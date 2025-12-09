@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3301
 fname: feibelman1
+members_file: "72_76"
 fov: 0.09
 ra_icrs: 304.42736
 de_icrs: 38.02987

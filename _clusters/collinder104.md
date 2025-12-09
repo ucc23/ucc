@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 930
 fname: collinder104
+members_file: "204_208"
 fov: 0.227
 ra_icrs: 99.18704
 de_icrs: 4.78965

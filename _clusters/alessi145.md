@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 13
 fname: alessi145
+members_file: "216_220"
 fov: 1.81
 ra_icrs: 120.85018
 de_icrs: 3.46538

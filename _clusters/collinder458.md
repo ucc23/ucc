@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Harvard 21; MWSC 3774; OCL 273
 fname: collinder458
+members_file: "116_120"
 fov: 0.213
 ra_icrs: 358.62322
 de_icrs: 61.78036

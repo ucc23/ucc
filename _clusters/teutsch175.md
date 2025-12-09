@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch J0323.1+4445
 fname: teutsch175
+members_file: "148_152"
 fov: 0.29
 ra_icrs: 50.79916
 de_icrs: 44.77052

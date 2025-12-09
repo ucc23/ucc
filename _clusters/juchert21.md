@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2222.0+5843; FSR 0372
 fname: juchert21
+members_file: "104_108"
 fov: 0.07
 ra_icrs: 335.49423
 de_icrs: 58.71896

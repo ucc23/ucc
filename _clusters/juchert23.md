@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 42; DSH J0507.6+1734; FSR 0854
 fname: juchert23
+members_file: "184_188"
 fov: 0.19
 ra_icrs: 76.9119
 de_icrs: 17.58983

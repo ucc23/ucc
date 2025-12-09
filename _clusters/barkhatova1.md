@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3422; FoF 1773
 fname: barkhatova1
+members_file: "84_88"
 fov: 0.137
 ra_icrs: 313.39954
 de_icrs: 46.03984

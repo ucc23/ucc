@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: PS1 1
 fname: pannstars1
+members_file: "8_12"
 fov: 0.1
 ra_icrs: 289.13682
 de_icrs: -27.82773

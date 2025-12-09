@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UPK 592
 fname: ocsn317
+members_file: "312_316"
 fov: 3.873
 ra_icrs: 205.88496
 de_icrs: -44.8394

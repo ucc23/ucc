@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 56; vdBergh-Hagen 56; MWSC 1605; BH 56; ESO 260 12; Magakian 425; FoF 2328
 fname: vdbh56
+members_file: "264_268"
 fov: 0.453
 ra_icrs: 134.39536
 de_icrs: -43.15656

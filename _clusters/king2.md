@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 79; OCL 311
 fname: king2
+members_file: "120_124"
 fov: 0.07
 ra_icrs: 12.73876
 de_icrs: 58.19234

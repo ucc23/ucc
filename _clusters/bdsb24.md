@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3516
 fname: bdsb24
+members_file: "96_100"
 fov: 0.197
 ra_icrs: 322.25156
 de_icrs: 54.63016

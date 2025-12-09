@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 31; MWSC 1485; OCL 751; vdBergh-Hagen 31; ESO 259 07; FSR 1420
 fname: ruprecht60
+members_file: "264_268"
 fov: 0.08
 ra_icrs: 126.1051
 de_icrs: -47.20954

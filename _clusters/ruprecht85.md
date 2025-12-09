@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH83; FSR 1520; MWSC 1746; OCL 799; vdBergh-Hagen 83; ESO 167 15
 fname: ruprecht85
+members_file: "280_284"
 fov: 0.077
 ra_icrs: 150.35989
 de_icrs: -55.11115

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3050; OCL 97
 fname: czernik39
+members_file: "36_40"
 fov: 0.07
 ra_icrs: 286.92619
 de_icrs: 4.34346

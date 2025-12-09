@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn5
+members_file: "16_20"
 fov: 2.093
 ra_icrs: 286.45311
 de_icrs: -16.59666

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2232
 fname: hogg17
+members_file: "312_316"
 fov: 0.123
 ra_icrs: 218.45799
 de_icrs: -61.32595

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3315; FoF 500
 fname: dolidze5
+members_file: "76_80"
 fov: 0.16
 ra_icrs: 305.02968
 de_icrs: 39.33596

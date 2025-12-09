@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1284; DSH J0737.1-2623
 fname: alessi18
+members_file: "240_244"
 fov: 0.027
 ra_icrs: 114.2958
 de_icrs: -26.38982

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1392
 fname: turner12
+members_file: "244_248"
 fov: 0.173
 ra_icrs: 119.50666
 de_icrs: -29.28979

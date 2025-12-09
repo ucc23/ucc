@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0746; KPR2005 23; MWSC 839; Ferrero 16; FoF 2366
 fname: ascc23
+members_file: "164_168"
 fov: 0.54
 ra_icrs: 95.00838
 de_icrs: 46.71011

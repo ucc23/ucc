@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 954; ESO 179 02; MWSC 2381
 fname: harvard10
+members_file: "328_332"
 fov: 0.693
 ra_icrs: 244.86338
 de_icrs: -54.97278

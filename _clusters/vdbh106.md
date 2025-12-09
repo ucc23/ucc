@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 106; MWSC 1863; BH 106
 fname: vdbh106
+members_file: "284_288"
 fov: 0.297
 ra_icrs: 163.14043
 de_icrs: -54.24667

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: patchick13
+members_file: "136_140"
 fov: 0.243
 ra_icrs: 37.58236
 de_icrs: 55.74151

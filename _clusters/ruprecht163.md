@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1886
 fname: ruprecht163
+members_file: "292_296"
 fov: 0.817
 ra_icrs: 166.19769
 de_icrs: -67.92199

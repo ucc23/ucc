@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0828; MWSC 687; MWSC 688
 fname: koposov43
+members_file: "176_180"
 fov: 0.08
 ra_icrs: 88.08136
 de_icrs: 29.90148

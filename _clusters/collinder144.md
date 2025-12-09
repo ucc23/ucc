@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2395; OCL 502; MWSC 1228
 fname: collinder144
+members_file: "204_208"
 fov: 0.237
 ra_icrs: 111.75501
 de_icrs: 13.59308

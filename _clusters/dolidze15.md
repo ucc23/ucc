@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 430; MWSC 466
 fname: dolidze15
+members_file: "168_172"
 fov: 0.227
 ra_icrs: 76.66384
 de_icrs: 34.77912

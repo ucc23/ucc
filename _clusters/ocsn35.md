@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn35
+members_file: "104_108"
 fov: 0.913
 ra_icrs: 347.00844
 de_icrs: 45.28763

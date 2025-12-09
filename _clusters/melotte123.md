@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 280; NGC 5460; OCL 925; ESO 221 24; MWSC 2202; FoF 2360
 fname: melotte123
+members_file: "312_316"
 fov: 0.537
 ra_icrs: 211.87739
 de_icrs: -48.3019

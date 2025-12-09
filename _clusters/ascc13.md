@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 486
 fname: ascc13
+members_file: "160_164"
 fov: 0.4
 ra_icrs: 78.2074
 de_icrs: 44.37699

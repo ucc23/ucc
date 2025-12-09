@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 359
 fname: waterloo1
+members_file: "148_152"
 fov: 0.08
 ra_icrs: 64.66524
 de_icrs: 52.86389

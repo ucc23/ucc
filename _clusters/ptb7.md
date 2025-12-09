@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 26
 fname: ptb7
+members_file: "116_120"
 fov: 0.22
 ra_icrs: 3.74815
 de_icrs: 68.33112

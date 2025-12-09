@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2655; Alessi 41
 fname: ascc90
+members_file: "352_356"
 fov: 0.63
 ra_icrs: 264.778
 de_icrs: -34.83162

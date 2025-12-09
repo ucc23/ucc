@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2143
 fname: ubc72
+members_file: "184_188"
 fov: 0.223
 ra_icrs: 90.98565
 de_icrs: 26.64006

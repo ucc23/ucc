@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: upk93
+members_file: "64_68"
 fov: 0.503
 ra_icrs: 300.31196
 de_icrs: 29.9698

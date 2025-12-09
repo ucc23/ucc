@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2625
 fname: bdsb102
+members_file: "352_356"
 fov: 0.16
 ra_icrs: 263.17941
 de_icrs: -32.56894

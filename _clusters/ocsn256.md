@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn256
+members_file: "80_84"
 fov: 1.477
 ra_icrs: 303.58987
 de_icrs: 45.59434

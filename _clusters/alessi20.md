@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 23; FoF 2409; OCSN 141
 fname: alessi20
+members_file: "116_120"
 fov: 0.787
 ra_icrs: 2.54114
 de_icrs: 58.71026

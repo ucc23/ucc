@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3170; DSH J1945.1+2809
 fname: kronberger4
+members_file: "60_64"
 fov: 0.03
 ra_icrs: 296.29485
 de_icrs: 28.15996

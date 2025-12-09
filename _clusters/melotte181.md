@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 352; VDBH 250; NGC 6451; MWSC 2718; OCL 1035; vdBergh-Hagen 250; ESO 455 50
 fname: melotte181
+members_file: "356_360"
 fov: 0.14
 ra_icrs: 267.67535
 de_icrs: -30.20865

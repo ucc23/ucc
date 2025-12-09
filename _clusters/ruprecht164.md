@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 119; MWSC 1951; OCL 858; vdBergh-Hagen 119; ESO 129 23; FSR 1588
 fname: ruprecht164
+members_file: "292_296"
 fov: 0.06
 ra_icrs: 172.6079
 de_icrs: -60.75034

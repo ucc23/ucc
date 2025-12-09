@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Berkeley 38; MWSC 1330; OCL 628; ESO 560 10
 fname: ruprecht34
+members_file: "236_240"
 fov: 0.077
 ra_icrs: 116.48332
 de_icrs: -20.38554

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3222
 fname: toepler1
+members_file: "68_72"
 fov: 0.057
 ra_icrs: 300.32116
 de_icrs: 33.6126

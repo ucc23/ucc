@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 465; BBS 1
 fname: bica6
+members_file: "164_168"
 fov: 0.19
 ra_icrs: 76.63114
 de_icrs: 39.2055

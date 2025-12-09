@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1010
 fname: dc4
+members_file: "224_228"
 fov: 0.053
 ra_icrs: 103.51362
 de_icrs: -13.56606

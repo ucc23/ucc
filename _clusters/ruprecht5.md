@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1020
 fname: ruprecht5
+members_file: "228_232"
 fov: 0.22
 ra_icrs: 103.80917
 de_icrs: -18.55425

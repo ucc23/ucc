@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1470; BPI 8
 fname: ivanov8
+members_file: "252_256"
 fov: 0.023
 ra_icrs: 124.78545
 de_icrs: -35.65582

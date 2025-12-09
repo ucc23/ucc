@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7296; MWSC 3625; OCL 228; FoF 679
 fname: collinder451
+members_file: "100_104"
 fov: 0.137
 ra_icrs: 336.98594
 de_icrs: 52.32092

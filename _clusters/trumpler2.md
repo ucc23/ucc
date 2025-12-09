@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 29; MWSC 219; OCL 365; FoF 2297
 fname: trumpler2
+members_file: "136_140"
 fov: 0.51
 ra_icrs: 39.2466
 de_icrs: 55.92707

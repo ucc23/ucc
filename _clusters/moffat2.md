@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: moffat2
+members_file: "344_348"
 fov: 0.207
 ra_icrs: 258.60521
 de_icrs: -39.73933

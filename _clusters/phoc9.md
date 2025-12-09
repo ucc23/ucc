@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc9
+members_file: "164_168"
 fov: 0.123
 ra_icrs: 79.57339
 de_icrs: 41.96262

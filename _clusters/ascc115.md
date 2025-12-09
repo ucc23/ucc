@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3575
 fname: ascc115
+members_file: "96_100"
 fov: 0.597
 ra_icrs: 329.26413
 de_icrs: 51.52514

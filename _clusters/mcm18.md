@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm18
+members_file: "40_44"
 fov: 0.213
 ra_icrs: 287.44013
 de_icrs: 8.25225

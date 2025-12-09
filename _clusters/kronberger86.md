@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0832.0-1944
 fname: kronberger86
+members_file: "240_244"
 fov: 0.197
 ra_icrs: 127.98978
 de_icrs: -19.71465

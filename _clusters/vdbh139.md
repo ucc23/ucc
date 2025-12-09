@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Hogg 15; MWSC 2063; OCL 891; vdBergh-Hagen 139; ESO 095 15
 fname: vdbh139
+members_file: "300_304"
 fov: 0.107
 ra_icrs: 190.90178
 de_icrs: -63.1013

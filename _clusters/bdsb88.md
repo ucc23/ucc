@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1016
 fname: bdsb88
+members_file: "216_220"
 fov: 0.137
 ra_icrs: 103.54739
 de_icrs: -4.52504

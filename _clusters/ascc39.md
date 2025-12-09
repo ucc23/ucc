@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1261
 fname: ascc39
+members_file: "236_240"
 fov: 0.25
 ra_icrs: 113.22726
 de_icrs: -22.96071

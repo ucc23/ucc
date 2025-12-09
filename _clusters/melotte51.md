@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 116; NGC 2281; MWSC 989; OCL 446; OCSN 228
 fname: melotte51
+members_file: "172_176"
 fov: 0.863
 ra_icrs: 102.06776
 de_icrs: 41.05023

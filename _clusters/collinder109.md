@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2262; MWSC 946; OCL 531; FSR 1055; FoF 81
 fname: collinder109
+members_file: "208_212"
 fov: 0.08
 ra_icrs: 99.90697
 de_icrs: 1.14256

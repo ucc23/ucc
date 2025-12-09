@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 306; OCL 385; FSR 0641; FoF 612
 fname: tombaugh5
+members_file: "140_144"
 fov: 0.333
 ra_icrs: 56.97458
 de_icrs: 59.06644

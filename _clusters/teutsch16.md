@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2012.4+3544
 fname: teutsch16
+members_file: "72_76"
 fov: 0.107
 ra_icrs: 303.03234
 de_icrs: 35.72648

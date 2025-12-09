@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3011; OCL 42; ESO 592 03; FoF 2272
 fname: collinder394
+members_file: "12_16"
 fov: 0.71
 ra_icrs: 283.19125
 de_icrs: -20.14565

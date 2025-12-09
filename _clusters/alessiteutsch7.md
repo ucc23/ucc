@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 47; MWSC 1500; AT 7
 fname: alessiteutsch7
+members_file: "256_260"
 fov: 0.78
 ra_icrs: 128.23146
 de_icrs: -39.40973

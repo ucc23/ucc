@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2999; FoF 2281; OCSN 132
 fname: ascc99
+members_file: "16_20"
 fov: 1.42
 ra_icrs: 282.1673
 de_icrs: -18.40265

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 831
 fname: koposov62
+members_file: "184_188"
 fov: 0.147
 ra_icrs: 94.53267
 de_icrs: 24.75519

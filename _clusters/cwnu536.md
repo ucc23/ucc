@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 159
 fname: cwnu536
+members_file: "252_256"
 fov: 0.767
 ra_icrs: 105.66104
 de_icrs: -45.64072

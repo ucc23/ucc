@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch J0743.1-2436
 fname: teutsch213
+members_file: "240_244"
 fov: 0.227
 ra_icrs: 115.80932
 de_icrs: -24.5748

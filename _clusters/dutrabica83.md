@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 684
 fname: dutrabica83
+members_file: "180_184"
 fov: 0.277
 ra_icrs: 88.0581
 de_icrs: 27.38025

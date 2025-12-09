@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: french4
+members_file: "316_320"
 fov: 0.263
 ra_icrs: 203.8534
 de_icrs: -20.29808

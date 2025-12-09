@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm60
+members_file: "320_324"
 fov: 0.1
 ra_icrs: 229.13192
 de_icrs: -58.19883

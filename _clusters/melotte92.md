@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 193; VDBH 45; NGC 2660; MWSC 1539; OCL 759; vdBergh-Hagen 45; ESO 260 04; FSR 1445; FoF 56
 fname: melotte92
+members_file: "264_268"
 fov: 0.107
 ra_icrs: 130.6687
 de_icrs: -47.1992

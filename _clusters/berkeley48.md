@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6827; MWSC 3186; OCL 120; FSR 0152
 fname: berkeley48
+members_file: "56_60"
 fov: 0.033
 ra_icrs: 297.22144
 de_icrs: 21.21419

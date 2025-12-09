@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2065
 fname: loden682
+members_file: "300_304"
 fov: 0.227
 ra_icrs: 191.74808
 de_icrs: -60.64535

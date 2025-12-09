@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3587
 fname: collinder471
+members_file: "108_112"
 fov: 0.463
 ra_icrs: 332.56197
 de_icrs: 73.02469

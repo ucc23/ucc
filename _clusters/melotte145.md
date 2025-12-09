@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 301; NGC 6124; MWSC 2403; OCL 990; ESO 331 03; FoF 2347
 fname: melotte145
+members_file: "340_344"
 fov: 0.603
 ra_icrs: 246.31309
 de_icrs: -40.65664

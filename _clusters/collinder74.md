@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 673; OCL 489; FSR 0973; FoF 10
 fname: collinder74
+members_file: "196_200"
 fov: 0.15
 ra_icrs: 87.16392
 de_icrs: 7.37983

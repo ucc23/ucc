@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2783
 fname: bdsb110
+members_file: "8_12"
 fov: 0.253
 ra_icrs: 270.51333
 de_icrs: -21.80984

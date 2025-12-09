@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 55; MWSC 1600; BH 55; ESO 314 01; FSR 1404
 fname: vdbh55
+members_file: "260_264"
 fov: 0.1
 ra_icrs: 134.04008
 de_icrs: -39.51669

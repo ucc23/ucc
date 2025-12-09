@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 147
 fname: stock4
+members_file: "128_132"
 fov: 0.33
 ra_icrs: 28.01572
 de_icrs: 57.05427

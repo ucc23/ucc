@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 14; OCL 719; vdBergh-Hagen 14; ESO 311 19; MWSC 1379
 fname: ruprecht152
+members_file: "252_256"
 fov: 0.033
 ra_icrs: 118.61509
 de_icrs: -38.23715

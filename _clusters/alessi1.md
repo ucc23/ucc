@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Casado Alessi 1; MWSC 88; CA 1; LeDrew 1
 fname: alessi1
+members_file: "120_124"
 fov: 0.487
 ra_icrs: 13.33616
 de_icrs: 49.55139

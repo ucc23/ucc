@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2286; MWSC 987; OCL 548; FSR 1104; FoF 85
 fname: collinder117
+members_file: "212_216"
 fov: 0.19
 ra_icrs: 101.92063
 de_icrs: -3.16949

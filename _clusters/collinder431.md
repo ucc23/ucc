@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7039; MWSC 3474; OCL 203
 fname: collinder431
+members_file: "84_88"
 fov: 0.283
 ra_icrs: 317.66408
 de_icrs: 45.59793

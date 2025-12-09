@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 402; NGC 6811; FSR 0228; MWSC 3143; OCL 185; FoF 2201
 fname: melotte222
+members_file: "76_80"
 fov: 0.37
 ra_icrs: 294.34265
 de_icrs: 46.37417

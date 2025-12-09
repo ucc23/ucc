@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1913
 fname: hogg11
+members_file: "288_292"
 fov: 0.133
 ra_icrs: 167.96735
 de_icrs: -60.37191

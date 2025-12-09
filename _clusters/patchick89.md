@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1959.5+4918; DC 6
 fname: patchick89
+members_file: "80_84"
 fov: 0.05
 ra_icrs: 299.88246
 de_icrs: 49.31434

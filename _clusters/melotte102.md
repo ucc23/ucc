@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 229; VDBH 103; IC 2602; MWSC 1841; OCL 838; vdBergh-Hagen 103; ESO 093 02; OCSN 205
 fname: melotte102
+members_file: "288_292"
 fov: 3.433
 ra_icrs: 160.60464
 de_icrs: -64.34064

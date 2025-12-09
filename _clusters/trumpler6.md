@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 145; FSR 1290; MWSC 1223; OCL 638; ESO 492 15
 fname: trumpler6
+members_file: "236_240"
 fov: 0.2
 ra_icrs: 111.6104
 de_icrs: -24.19253

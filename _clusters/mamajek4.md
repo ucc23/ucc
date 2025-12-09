@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2914; Alessi 71; OCSN 217
 fname: mamajek4
+members_file: "344_348"
 fov: 1.167
 ra_icrs: 276.57407
 de_icrs: -50.76018

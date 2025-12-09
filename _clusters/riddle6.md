@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3478
 fname: riddle6
+members_file: "96_100"
 fov: 0.677
 ra_icrs: 318.03474
 de_icrs: 59.90241

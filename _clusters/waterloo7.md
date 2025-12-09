@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1220
 fname: waterloo7
+members_file: "228_232"
 fov: 0.077
 ra_icrs: 111.5375
 de_icrs: -15.09315

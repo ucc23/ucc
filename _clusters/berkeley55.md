@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3490
 fname: berkeley55
+members_file: "92_96"
 fov: 0.063
 ra_icrs: 319.23565
 de_icrs: 51.76486

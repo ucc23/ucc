@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2777
 fname: bdsb106
+members_file: "4_8"
 fov: 0.307
 ra_icrs: 270.39727
 de_icrs: -24.85196

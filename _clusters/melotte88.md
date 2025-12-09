@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 189; NGC 2632; MWSC 1527; Praesepe; M 44; OCL 507; OCSN 234
 fname: melotte88
+members_file: "204_208"
 fov: 2.61
 ra_icrs: 130.01266
 de_icrs: 19.60494

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 277; FoF 2321
 fname: king6
+members_file: "140_144"
 fov: 0.33
 ra_icrs: 51.98981
 de_icrs: 56.44568

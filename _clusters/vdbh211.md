@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 211; MWSC 2518; BH 211; ESO 332 16
 fname: vdbh211
+members_file: "344_348"
 fov: 0.187
 ra_icrs: 255.52159
 de_icrs: -41.12119

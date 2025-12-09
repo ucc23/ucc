@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2199; OCL 912; ESO 097 10
 fname: ruprecht110
+members_file: "308_312"
 fov: 0.263
 ra_icrs: 211.35022
 de_icrs: -67.38769

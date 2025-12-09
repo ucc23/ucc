@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2651; OCL 1013; ESO 334 03
 fname: collinder338
+members_file: "348_352"
 fov: 0.463
 ra_icrs: 264.47934
 de_icrs: -37.65677

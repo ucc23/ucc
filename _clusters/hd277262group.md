@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hd277262group
+members_file: "164_168"
 fov: 0.213
 ra_icrs: 74.38246
 de_icrs: 40.98962

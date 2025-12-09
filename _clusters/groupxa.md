@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: groupxa
+members_file: "100_104"
 fov: 9.877
 ra_icrs: 209.43961
 de_icrs: 52.33484

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: uppersco
+members_file: "344_348"
 fov: 6.023
 ra_icrs: 241.77072
 de_icrs: -27.09298

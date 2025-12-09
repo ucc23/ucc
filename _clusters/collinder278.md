@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 153; NGC 5288; OCL 910; vdBergh-Hagen 153; ESO 097 07; MWSC 2168; FoF 138
 fname: collinder278
+members_file: "308_312"
 fov: 0.093
 ra_icrs: 207.19564
 de_icrs: -64.6748

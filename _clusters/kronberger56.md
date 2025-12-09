@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: kronberger56
+members_file: "72_76"
 fov: 0.19
 ra_icrs: 307.57368
 de_icrs: 34.83254

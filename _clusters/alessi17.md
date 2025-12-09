@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1271
 fname: alessi17
+members_file: "228_232"
 fov: 0.043
 ra_icrs: 113.8527
 de_icrs: -15.09678

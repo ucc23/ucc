@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg96
+members_file: "356_360"
 fov: 0.173
 ra_icrs: 264.44108
 de_icrs: -29.77159

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 90; NGC 2215; MWSC 843; OCL 550; FoF 2204
 fname: melotte45
+members_file: "212_216"
 fov: 0.33
 ra_icrs: 95.22314
 de_icrs: -7.27328

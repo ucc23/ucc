@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 467; HIP 23784 Group
 fname: platais4
+members_file: "180_184"
 fov: 0.253
 ra_icrs: 76.76167
 de_icrs: 22.44715

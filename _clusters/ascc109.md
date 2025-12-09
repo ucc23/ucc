@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3202
 fname: ascc109
+members_file: "68_72"
 fov: 0.19
 ra_icrs: 298.50459
 de_icrs: 34.58664

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DoDz 9; Dolidze-Dzimselejsvili 9; OCL 119; MWSC 2818
 fname: doldzim9
+members_file: "56_60"
 fov: 0.217
 ra_icrs: 272.20146
 de_icrs: 31.57687

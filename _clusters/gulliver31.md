@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: gulliver31
+members_file: "72_76"
 fov: 0.137
 ra_icrs: 301.91411
 de_icrs: 38.24404

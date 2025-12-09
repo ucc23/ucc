@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2122
 fname: basel18
+members_file: "304_308"
 fov: 0.083
 ra_icrs: 201.96714
 de_icrs: -62.30446

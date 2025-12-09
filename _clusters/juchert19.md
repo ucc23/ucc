@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 33
 fname: juchert19
+members_file: "148_152"
 fov: 0.123
 ra_icrs: 60.5717
 de_icrs: 52.43956

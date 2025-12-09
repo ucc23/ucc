@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ferrero38
+members_file: "132_136"
 fov: 0.187
 ra_icrs: 37.57026
 de_icrs: 59.79051

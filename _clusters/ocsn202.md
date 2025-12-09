@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Huluwa 5
 fname: ocsn202
+members_file: "252_256"
 fov: 0.8
 ra_icrs: 126.92728
 de_icrs: -34.73801

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3770
 fname: bdsb47
+members_file: "112_116"
 fov: 0.22
 ra_icrs: 358.25849
 de_icrs: 60.47984

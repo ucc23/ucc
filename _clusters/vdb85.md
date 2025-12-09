@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh 85
 fname: vdb85
+members_file: "208_212"
 fov: 0.153
 ra_icrs: 101.7419
 de_icrs: 1.34788

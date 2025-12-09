@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2973
 fname: dolidze33
+members_file: "24_28"
 fov: 0.107
 ra_icrs: 280.30973
 de_icrs: -4.36457

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2991
 fname: bdsb10
+members_file: "28_32"
 fov: 0.2
 ra_icrs: 281.49955
 de_icrs: -3.81517

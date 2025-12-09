@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: BH 151
 fname: vdbh151
+members_file: "308_312"
 fov: 0.04
 ra_icrs: 205.05142
 de_icrs: -61.73306

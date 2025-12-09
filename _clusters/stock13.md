@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1921
 fname: stock13
+members_file: "288_292"
 fov: 0.207
 ra_icrs: 168.29265
 de_icrs: -58.88507

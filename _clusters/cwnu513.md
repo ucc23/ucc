@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 156
 fname: cwnu513
+members_file: "320_324"
 fov: 0.903
 ra_icrs: 258.01089
 de_icrs: -71.60071

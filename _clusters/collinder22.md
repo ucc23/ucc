@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 744; MWSC 153; FSR 0574; FoF 669
 fname: collinder22
+members_file: "132_136"
 fov: 0.243
 ra_icrs: 29.65135
 de_icrs: 55.47059

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3743; OCL 258; FoF 2399; OCSN 267
 fname: stock12
+members_file: "108_112"
 fov: 0.947
 ra_icrs: 353.89189
 de_icrs: 52.64536

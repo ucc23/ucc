@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2386
 fname: lynga8
+members_file: "332_336"
 fov: 0.177
 ra_icrs: 245.00899
 de_icrs: -50.20036

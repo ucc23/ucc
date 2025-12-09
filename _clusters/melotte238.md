@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 444; NGC 7209; MWSC 3585; OCL 215; FoF 2055
 fname: melotte238
+members_file: "92_96"
 fov: 0.567
 ra_icrs: 331.22715
 de_icrs: 46.51039

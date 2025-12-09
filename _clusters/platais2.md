@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 109; HIP 5671 Group
 fname: platais2
+members_file: "128_132"
 fov: 0.243
 ra_icrs: 18.44664
 de_icrs: 32.05282

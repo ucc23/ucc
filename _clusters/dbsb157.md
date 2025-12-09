@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2367
 fname: dbsb157
+members_file: "328_332"
 fov: 0.153
 ra_icrs: 243.06176
 de_icrs: -51.69446

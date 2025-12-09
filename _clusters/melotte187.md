@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 361; VDBH 255; NGC 6520; MWSC 2790; OCL 10; vdBergh-Hagen 255; ESO 456 42; FoF 717
 fname: melotte187
+members_file: "0_4"
 fov: 0.093
 ra_icrs: 270.85419
 de_icrs: -27.88648

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cygob2
+members_file: "80_84"
 fov: 0.15
 ra_icrs: 308.30703
 de_icrs: 41.30043

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 196; NGC 6200; MWSC 2450; OCL 978; vdBergh-Hagen 196; ESO 277 08
 fname: collinder311
+members_file: "336_340"
 fov: 0.127
 ra_icrs: 251.01943
 de_icrs: -47.47245

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 144; MWSC 3558; DSH J2145.6+5805
 fname: teutsch74
+members_file: "100_104"
 fov: 0.067
 ra_icrs: 326.41981
 de_icrs: 58.0946

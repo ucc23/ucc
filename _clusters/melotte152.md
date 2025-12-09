@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 314; VDBH 199; NGC 6216; MWSC 2469; OCL 989; vdBergh-Hagen 199; ESO 277 14
 fname: melotte152
+members_file: "340_344"
 fov: 0.123
 ra_icrs: 252.32863
 de_icrs: -44.7242

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2158
 fname: loden991
+members_file: "308_312"
 fov: 0.14
 ra_icrs: 206.22027
 de_icrs: -62.06553

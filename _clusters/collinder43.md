@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1444; MWSC 308; OCL 394
 fname: collinder43
+members_file: "148_152"
 fov: 0.303
 ra_icrs: 57.3541
 de_icrs: 52.65735

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: zhbjz1
+members_file: "216_220"
 fov: 1.583
 ra_icrs: 103.73696
 de_icrs: -5.89465

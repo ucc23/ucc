@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3702; PWM 3; FSR 0412
 fname: pfleiderer3
+members_file: "108_112"
 fov: 0.04
 ra_icrs: 347.0379
 de_icrs: 60.8719

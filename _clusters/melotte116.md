@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 266; VDBH 143; NGC 4852; MWSC 2078; OCL 894; vdBergh-Hagen 143; ESO 131 17; FoF 1608
 fname: melotte116
+members_file: "304_308"
 fov: 0.197
 ra_icrs: 195.05244
 de_icrs: -59.60523

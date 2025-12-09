@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 473; Teutsch 36; Kronberger 26
 fname: sai43
+members_file: "156_160"
 fov: 0.103
 ra_icrs: 77.07126
 de_icrs: 49.86532

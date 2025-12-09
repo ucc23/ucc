@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7142; MWSC 3557; OCL 241; FSR 0373; FoF 629
 fname: collinder442
+members_file: "104_108"
 fov: 0.16
 ra_icrs: 326.29574
 de_icrs: 65.78428

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1985; GLIMPSE 26; DSH J1153.2-6236; Mercer 26
 fname: teutsch77
+members_file: "296_300"
 fov: 0.207
 ra_icrs: 178.4433
 de_icrs: -62.56817

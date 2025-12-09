@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3720
 fname: ascc128
+members_file: "108_112"
 fov: 0.893
 ra_icrs: 349.96823
 de_icrs: 54.43934

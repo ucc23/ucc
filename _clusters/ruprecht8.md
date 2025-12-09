@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1068
 fname: ruprecht8
+members_file: "224_228"
 fov: 0.21
 ra_icrs: 105.44222
 de_icrs: -13.53868

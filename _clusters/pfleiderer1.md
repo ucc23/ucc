@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: PWM 1; FSR 0527; MWSC 104
 fname: pfleiderer1
+members_file: "124_128"
 fov: 0.033
 ra_icrs: 17.02488
 de_icrs: 65.6468

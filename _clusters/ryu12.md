@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ryu12
+members_file: "12_16"
 fov: 0.087
 ra_icrs: 271.25653
 de_icrs: -15.60593

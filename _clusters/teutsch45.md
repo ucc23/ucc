@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 651
 fname: teutsch45
+members_file: "176_180"
 fov: 0.047
 ra_icrs: 85.68927
 de_icrs: 30.95628

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 200
 fname: teutsch55
+members_file: "132_136"
 fov: 0.107
 ra_icrs: 37.2933
 de_icrs: 62.09559

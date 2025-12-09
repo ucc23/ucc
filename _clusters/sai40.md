@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch 196
 fname: sai40
+members_file: "164_168"
 fov: 0.077
 ra_icrs: 75.21311
 de_icrs: 41.22357

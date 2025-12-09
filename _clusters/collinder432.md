@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: IC 1369; MWSC 3481; OCL 204; FSR 0285; FoF 342
 fname: collinder432
+members_file: "88_92"
 fov: 0.117
 ra_icrs: 318.0329
 de_icrs: 47.77257

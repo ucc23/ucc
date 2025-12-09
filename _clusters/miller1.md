@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1668
 fname: miller1
+members_file: "272_276"
 fov: 0.047
 ra_icrs: 141.42958
 de_icrs: -53.23788

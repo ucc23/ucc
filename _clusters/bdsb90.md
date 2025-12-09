@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1053
 fname: bdsb90
+members_file: "216_220"
 fov: 0.077
 ra_icrs: 104.8872
 de_icrs: -4.81231

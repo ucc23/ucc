@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Alessi 96; OCSN 255
 fname: rsg1
+members_file: "164_168"
 fov: 1.45
 ra_icrs: 75.55437
 de_icrs: 37.48072

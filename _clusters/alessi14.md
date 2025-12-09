@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 885
 fname: alessi14
+members_file: "200_204"
 fov: 0.213
 ra_icrs: 97.59994
 de_icrs: 9.72255

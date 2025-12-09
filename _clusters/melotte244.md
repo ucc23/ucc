@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 457; NGC 7762; MWSC 3784; OCL 280; FSR 0468; FoF 2195
 fname: melotte244
+members_file: "116_120"
 fov: 0.377
 ra_icrs: 357.45231
 de_icrs: 68.03817

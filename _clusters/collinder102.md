@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2252; MWSC 911; OCL 514
 fname: collinder102
+members_file: "204_208"
 fov: 0.153
 ra_icrs: 98.65561
 de_icrs: 5.37411

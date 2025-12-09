@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 657
 fname: koposov77
+members_file: "184_188"
 fov: 0.213
 ra_icrs: 85.99226
 de_icrs: 21.67055

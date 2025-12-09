@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 747
 fname: kharchenko1
+members_file: "184_188"
 fov: 0.067
 ra_icrs: 92.19284
 de_icrs: 24.28291

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1715.7-3843
 fname: teutsch86
+members_file: "348_352"
 fov: 0.077
 ra_icrs: 258.93968
 de_icrs: -38.72415

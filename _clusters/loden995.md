@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2176
 fname: loden995
+members_file: "308_312"
 fov: 0.137
 ra_icrs: 208.91304
 de_icrs: -64.94686

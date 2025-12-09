@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 81; NGC 2158; MWSC 733; OCL 468; FSR 0872; FoF 367
 fname: melotte40
+members_file: "184_188"
 fov: 0.08
 ra_icrs: 91.86214
 de_icrs: 24.09761

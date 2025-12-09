@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6704; MWSC 3007; OCL 82
 fname: collinder390
+members_file: "28_32"
 fov: 0.083
 ra_icrs: 282.68717
 de_icrs: -5.19768

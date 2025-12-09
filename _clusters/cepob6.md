@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cepob6
+members_file: "100_104"
 fov: 1.723
 ra_icrs: 335.12879
 de_icrs: 56.43705

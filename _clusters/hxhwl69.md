@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 69
 fname: hxhwl69
+members_file: "232_236"
 fov: 0.457
 ra_icrs: 101.14988
 de_icrs: -24.30316

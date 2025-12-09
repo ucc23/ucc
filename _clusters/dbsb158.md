@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2363
 fname: dbsb158
+members_file: "328_332"
 fov: 0.19
 ra_icrs: 242.84461
 de_icrs: -51.49572

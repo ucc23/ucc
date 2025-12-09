@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 284; Teutsch J0332.2+4450; FoF 2205
 fname: ascc11
+members_file: "148_152"
 fov: 0.49
 ra_icrs: 53.04367
 de_icrs: 44.84841

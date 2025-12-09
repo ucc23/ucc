@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 547; FoF 2372; OCSN 128
 fname: ascc19
+members_file: "204_208"
 fov: 1.12
 ra_icrs: 82.05191
 de_icrs: -1.95856

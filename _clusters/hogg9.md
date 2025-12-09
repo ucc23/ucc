@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1874; OCL 832; ESO 128 24
 fname: hogg9
+members_file: "288_292"
 fov: 0.21
 ra_icrs: 164.54304
 de_icrs: -59.09595

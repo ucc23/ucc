@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 107; MWSC 1674; DSH J0928.5-4636; FSR 1472
 fname: teutsch103
+members_file: "268_272"
 fov: 0.107
 ra_icrs: 142.14811
 de_icrs: -46.60497

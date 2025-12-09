@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2310
 fname: lynga5
+members_file: "324_328"
 fov: 0.11
 ra_icrs: 235.45746
 de_icrs: -56.67493

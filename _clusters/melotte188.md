@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 363; NGC 6531; MWSC 2796; M 21; OCL 26; ESO 521 19
 fname: melotte188
+members_file: "4_8"
 fov: 0.157
 ra_icrs: 271.04587
 de_icrs: -22.5033

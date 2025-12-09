@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3476; OCL 206; FSR 0287
 fname: berkeley91
+members_file: "88_92"
 fov: 0.03
 ra_icrs: 317.7236
 de_icrs: 48.54007

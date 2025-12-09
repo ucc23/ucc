@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 133; NGC 2355; MWSC 1160; OCL 496; FSR 0995; FoF 632
 fname: melotte63
+members_file: "200_204"
 fov: 0.223
 ra_icrs: 109.25021
 de_icrs: 13.76523

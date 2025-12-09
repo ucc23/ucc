@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1662; MWSC 425; OCL 470; FoF 2368; OCSN 224
 fname: collinder55
+members_file: "184_188"
 fov: 1.283
 ra_icrs: 72.19412
 de_icrs: 10.88927

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 142; NGC 2384; MWSC 1216; OCL 618; ESO 559 09
 fname: collinder143
+members_file: "232_236"
 fov: 0.213
 ra_icrs: 111.3092
 de_icrs: -21.01344

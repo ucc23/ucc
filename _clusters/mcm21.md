@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm21
+members_file: "48_52"
 fov: 0.223
 ra_icrs: 290.10549
 de_icrs: 13.95035

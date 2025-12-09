@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J2218.6+5353; Teutsch J2218.6+5353
 fname: teutsch159
+members_file: "100_104"
 fov: 0.21
 ra_icrs: 334.59572
 de_icrs: 53.89752

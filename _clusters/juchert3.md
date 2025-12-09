@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3049; DSH J1907.5+0617; FSR 0115; Masgomas 5
 fname: juchert3
+members_file: "40_44"
 fov: 0.067
 ra_icrs: 286.88633
 de_icrs: 6.27939

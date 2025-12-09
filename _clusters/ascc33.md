@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1077
 fname: ascc33
+members_file: "232_236"
 fov: 1.853
 ra_icrs: 105.20385
 de_icrs: -24.44249

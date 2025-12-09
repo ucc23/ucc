@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1533; FoF 2088
 fname: pismis8
+members_file: "264_268"
 fov: 0.187
 ra_icrs: 130.39111
 de_icrs: -46.27355

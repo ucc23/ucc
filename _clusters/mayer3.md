@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mayer3
+members_file: "232_236"
 fov: 0.06
 ra_icrs: 112.51953
 de_icrs: -18.55202

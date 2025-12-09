@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 64; NGC 2866; MWSC 1658; OCL 774; vdBergh-Hagen 64; ESO 212 03; FSR 1482
 fname: pismis13
+members_file: "272_276"
 fov: 0.04
 ra_icrs: 140.52587
 de_icrs: -51.10026

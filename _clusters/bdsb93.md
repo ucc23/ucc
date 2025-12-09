@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1030
 fname: bdsb93
+members_file: "220_224"
 fov: 0.197
 ra_icrs: 104.30425
 de_icrs: -8.22079

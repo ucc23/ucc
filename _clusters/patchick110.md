@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: patchick110
+members_file: "100_104"
 fov: 0.237
 ra_icrs: 342.39657
 de_icrs: 49.39371

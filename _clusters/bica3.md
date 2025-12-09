@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2915; BBD 4; FSR 0057
 fname: bica3
+members_file: "16_20"
 fov: 0.23
 ra_icrs: 276.52871
 de_icrs: -13.06779

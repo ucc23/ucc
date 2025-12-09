@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 41; FSR 1141; MWSC 1337; ADS 6366; MWSC 1335; OCSN 130
 fname: herschel1
+members_file: "216_220"
 fov: 1.337
 ra_icrs: 116.70008
 de_icrs: 0.10369

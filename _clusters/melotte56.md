@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 122; NGC 2309; MWSC 1026; OCL 557; FSR 1148
 fname: melotte56
+members_file: "216_220"
 fov: 0.137
 ra_icrs: 104.02119
 de_icrs: -7.17559

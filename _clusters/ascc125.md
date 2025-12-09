@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0409; MWSC 3677
 fname: ascc125
+members_file: "108_112"
 fov: 0.127
 ra_icrs: 344.11189
 de_icrs: 62.71081

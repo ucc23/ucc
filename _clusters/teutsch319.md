@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch J2128.2+4813
 fname: teutsch319
+members_file: "88_92"
 fov: 0.163
 ra_icrs: 322.047
 de_icrs: 48.2251

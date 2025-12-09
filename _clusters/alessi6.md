@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2240; FoF 2277
 fname: alessi6
+members_file: "312_316"
 fov: 0.447
 ra_icrs: 220.06258
 de_icrs: -66.12548

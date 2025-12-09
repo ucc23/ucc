@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1883; FSR 0729; MWSC 539; OCL 417
 fname: collinder64
+members_file: "160_164"
 fov: 0.1
 ra_icrs: 81.47805
 de_icrs: 46.49547

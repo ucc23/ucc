@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1675
 fname: ruprecht78
+members_file: "272_276"
 fov: 0.043
 ra_icrs: 142.2837
 de_icrs: -53.69935

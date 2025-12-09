@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0414.2+5037A
 fname: teutsch130
+members_file: "152_156"
 fov: 0.11
 ra_icrs: 63.55622
 de_icrs: 50.62527

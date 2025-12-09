@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3404; LeDrew 2; FoF 2391
 fname: alessi12
+members_file: "64_68"
 fov: 0.987
 ra_icrs: 310.88335
 de_icrs: 23.78644

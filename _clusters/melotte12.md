@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 23; NGC 752; MWSC 151; OCL 363; FoF 2380; OCSN 221
 fname: melotte12
+members_file: "136_140"
 fov: 0.98
 ra_icrs: 29.2218
 de_icrs: 37.79707

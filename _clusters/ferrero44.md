@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ferrero44
+members_file: "36_40"
 fov: 0.167
 ra_icrs: 311.94661
 de_icrs: -9.20504

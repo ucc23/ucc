@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 222; MWSC 2564; BH 222; ESO 333 04
 fname: vdbh222
+members_file: "348_352"
 fov: 0.053
 ra_icrs: 259.69465
 de_icrs: -38.28652

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2173; HIP 67440 Group
 fname: platais12
+members_file: "308_312"
 fov: 1.217
 ra_icrs: 208.01465
 de_icrs: -63.53507

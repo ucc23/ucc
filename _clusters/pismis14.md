@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1678; OCL 780; ESO 166 16
 fname: pismis14
+members_file: "272_276"
 fov: 0.243
 ra_icrs: 142.45825
 de_icrs: -52.79731

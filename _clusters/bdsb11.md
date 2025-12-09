@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3053
 fname: bdsb11
+members_file: "36_40"
 fov: 0.19
 ra_icrs: 287.22769
 de_icrs: 5.58178

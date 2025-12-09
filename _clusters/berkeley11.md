@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 368; OCL 404
 fname: berkeley11
+members_file: "156_160"
 fov: 0.067
 ra_icrs: 65.12464
 de_icrs: 44.92615

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 93; NGC 3228; MWSC 1794; OCL 800; vdBergh-Hagen 93; ESO 214 01; FoF 2420; OCSN 235
 fname: collinder218
+members_file: "280_284"
 fov: 1.11
 ra_icrs: 155.3559
 de_icrs: -51.80071

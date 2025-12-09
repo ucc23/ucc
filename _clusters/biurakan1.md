@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3262
 fname: biurakan1
+members_file: "72_76"
 fov: 0.193
 ra_icrs: 301.88962
 de_icrs: 35.74863

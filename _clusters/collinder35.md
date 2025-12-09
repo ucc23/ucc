@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1193; FSR 0649; MWSC 256; OCL 390
 fname: collinder35
+members_file: "144_148"
 fov: 0.07
 ra_icrs: 46.48799
 de_icrs: 44.38209

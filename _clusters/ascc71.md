@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2016
 fname: ascc71
+members_file: "296_300"
 fov: 0.283
 ra_icrs: 185.05796
 de_icrs: -67.52446

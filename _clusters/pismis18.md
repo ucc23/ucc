@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2142
 fname: pismis18
+members_file: "308_312"
 fov: 0.1
 ra_icrs: 204.23035
 de_icrs: -62.09143

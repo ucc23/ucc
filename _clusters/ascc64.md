@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1884
 fname: ascc64
+members_file: "288_292"
 fov: 0.237
 ra_icrs: 165.77696
 de_icrs: -60.91096

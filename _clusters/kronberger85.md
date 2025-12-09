@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 84; MWSC 1395; DSH J0758.3-3446
 fname: kronberger85
+members_file: "248_252"
 fov: 0.04
 ra_icrs: 119.58762
 de_icrs: -34.76946

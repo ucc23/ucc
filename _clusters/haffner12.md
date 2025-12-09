@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2425; MWSC 1291; OCL 599; FSR 1238; FoF 377
 fname: haffner12
+members_file: "228_232"
 fov: 0.137
 ra_icrs: 114.57768
 de_icrs: -14.88836

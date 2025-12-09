@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hxhwl15
+members_file: "256_260"
 fov: 0.33
 ra_icrs: 125.60443
 de_icrs: -41.37892

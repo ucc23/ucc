@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2399
 fname: pismis23
+members_file: "332_336"
 fov: 0.023
 ra_icrs: 245.99062
 de_icrs: -48.89166

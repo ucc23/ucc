@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 165
 fname: sai16
+members_file: "128_132"
 fov: 0.07
 ra_icrs: 31.3767
 de_icrs: 62.26747

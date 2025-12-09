@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2325; Alessi J1550.2-5248
 fname: ascc83
+members_file: "328_332"
 fov: 0.16
 ra_icrs: 237.50738
 de_icrs: -52.79544

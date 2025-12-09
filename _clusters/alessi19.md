@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2887; LeDrew 5
 fname: alessi19
+members_file: "40_44"
 fov: 0.843
 ra_icrs: 274.7749
 de_icrs: 12.22846

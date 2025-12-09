@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1814; OCL 801.1
 fname: loden59
+members_file: "280_284"
 fov: 0.22
 ra_icrs: 157.51436
 de_icrs: -54.12597

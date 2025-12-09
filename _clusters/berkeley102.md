@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3750; OCL 263
 fname: berkeley102
+members_file: "112_116"
 fov: 0.05
 ra_icrs: 354.663
 de_icrs: 56.63942

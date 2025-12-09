@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 63
 fname: stock24
+members_file: "120_124"
 fov: 0.09
 ra_icrs: 9.93976
 de_icrs: 61.96703

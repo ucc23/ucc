@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 323
 fname: alicante1
+members_file: "144_148"
 fov: 0.047
 ra_icrs: 59.79917
 de_icrs: 57.23391

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: qc1
+members_file: "76_80"
 fov: 0.167
 ra_icrs: 305.11015
 de_icrs: 39.86988

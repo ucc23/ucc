@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: velob2
+members_file: "260_264"
 fov: 0.23
 ra_icrs: 122.40054
 de_icrs: -47.90485

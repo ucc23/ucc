@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1208
 fname: ivanov6
+members_file: "236_240"
 fov: 0.077
 ra_icrs: 111.06211
 de_icrs: -24.64025

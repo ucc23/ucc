@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lp54a
+members_file: "92_96"
 fov: 0.18
 ra_icrs: 322.26474
 de_icrs: 52.04363

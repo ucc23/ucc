@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch J1645.6-4426
 fname: teutsch254
+members_file: "340_344"
 fov: 0.11
 ra_icrs: 251.40412
 de_icrs: -44.44462

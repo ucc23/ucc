@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6178; MWSC 2428; OCL 980; ESO 276 06
 fname: collinder308
+members_file: "336_340"
 fov: 0.317
 ra_icrs: 248.93591
 de_icrs: -45.62776

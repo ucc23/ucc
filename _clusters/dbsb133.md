@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2095
 fname: dbsb133
+members_file: "304_308"
 fov: 0.207
 ra_icrs: 198.4272
 de_icrs: -62.3551

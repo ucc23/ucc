@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: svul
+members_file: "24_28"
 fov: 0.263
 ra_icrs: 271.36766
 de_icrs: -1.94937

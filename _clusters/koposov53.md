@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0856; MWSC 751; Teutsch 9; MWSC 750
 fname: koposov53
+members_file: "184_188"
 fov: 0.057
 ra_icrs: 92.22597
 de_icrs: 26.26487

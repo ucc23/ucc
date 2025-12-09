@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 514
 fname: ascc15
+members_file: "168_172"
 fov: 0.247
 ra_icrs: 80.70281
 de_icrs: 36.53232

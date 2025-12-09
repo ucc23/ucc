@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 10; MWSC 275; AT 9
 fname: alessiteutsch9
+members_file: "152_156"
 fov: 0.767
 ra_icrs: 51.82664
 de_icrs: 34.88036

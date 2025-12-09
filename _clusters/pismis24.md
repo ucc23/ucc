@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: pismis24
+members_file: "352_356"
 fov: 0.22
 ra_icrs: 261.3966
 de_icrs: -34.36282

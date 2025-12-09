@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2996; Apriamaswili 1; OCL 77
 fname: basel1
+members_file: "24_28"
 fov: 0.133
 ra_icrs: 282.02966
 de_icrs: -5.87538

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2373
 fname: ruprecht176
+members_file: "328_332"
 fov: 0.163
 ra_icrs: 243.67471
 de_icrs: -51.33329

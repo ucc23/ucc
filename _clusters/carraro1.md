@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1829
 fname: carraro1
+members_file: "284_288"
 fov: 0.347
 ra_icrs: 159.2736
 de_icrs: -58.73208

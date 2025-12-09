@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1912.8+1500
 fname: teutsch149
+members_file: "48_52"
 fov: 0.223
 ra_icrs: 288.24754
 de_icrs: 15.0097

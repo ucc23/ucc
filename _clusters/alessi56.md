@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3047; DSH J1906.8+0935; GLIMPSE 19; Mercer 19
 fname: alessi56
+members_file: "40_44"
 fov: 0.07
 ra_icrs: 286.71513
 de_icrs: 9.59725

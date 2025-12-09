@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: HIP 29713 Group; MWSC 821
 fname: platais6
+members_file: "204_208"
 fov: 4.003
 ra_icrs: 94.10231
 de_icrs: 2.92925

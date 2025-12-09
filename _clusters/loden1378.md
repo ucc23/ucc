@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2224
 fname: loden1378
+members_file: "312_316"
 fov: 0.2
 ra_icrs: 217.26162
 de_icrs: -58.16848

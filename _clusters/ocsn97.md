@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ocsn97
+members_file: "348_352"
 fov: 1.073
 ra_icrs: 267.8547
 de_icrs: -40.62155

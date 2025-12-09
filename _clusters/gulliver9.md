@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2401; OCSN 195
 fname: gulliver9
+members_file: "264_268"
 fov: 0.733
 ra_icrs: 127.09079
 de_icrs: -47.93187

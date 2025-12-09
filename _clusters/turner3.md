@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2875
 fname: turner3
+members_file: "12_16"
 fov: 0.24
 ra_icrs: 274.37276
 de_icrs: -18.95038

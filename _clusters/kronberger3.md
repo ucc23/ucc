@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3148
 fname: kronberger3
+members_file: "44_48"
 fov: 0.263
 ra_icrs: 294.74614
 de_icrs: 6.78262

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1174
 fname: bica4
+members_file: "232_236"
 fov: 0.167
 ra_icrs: 109.75112
 de_icrs: -22.01428

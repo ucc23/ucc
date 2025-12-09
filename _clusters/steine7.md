@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0211.9+6411
 fname: steine7
+members_file: "128_132"
 fov: 0.057
 ra_icrs: 32.99248
 de_icrs: 64.20152

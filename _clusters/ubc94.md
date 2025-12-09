@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc94
+members_file: "4_8"
 fov: 0.32
 ra_icrs: 269.64217
 de_icrs: -24.63163

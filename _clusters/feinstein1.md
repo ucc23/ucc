@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1892
 fname: feinstein1
+members_file: "288_292"
 fov: 0.17
 ra_icrs: 166.33185
 de_icrs: -59.74401

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 324; VDBH 213; NGC 6281; MWSC 2530; OCL 1003; vdBergh-Hagen 213; ESO 332 19; FoF 2332; OCSN 238
 fname: melotte161
+members_file: "344_348"
 fov: 0.48
 ra_icrs: 256.18356
 de_icrs: -37.9553

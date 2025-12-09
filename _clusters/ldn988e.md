@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3460
 fname: ldn988e
+members_file: "88_92"
 fov: 0.513
 ra_icrs: 315.9537
 de_icrs: 50.2429

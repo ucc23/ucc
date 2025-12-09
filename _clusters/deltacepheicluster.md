@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: deltacepheicluster
+members_file: "100_104"
 fov: 2.09
 ra_icrs: 335.46699
 de_icrs: 56.63798

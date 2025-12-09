@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3193; FSR 0180
 fname: saurer6
+members_file: "68_72"
 fov: 0.223
 ra_icrs: 297.76786
 de_icrs: 32.2305

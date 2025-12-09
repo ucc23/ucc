@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1108.5-6044
 fname: teutsch143b
+members_file: "288_292"
 fov: 0.063
 ra_icrs: 167.15038
 de_icrs: -60.73922

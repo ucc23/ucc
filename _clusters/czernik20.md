@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 508; OCL 427
 fname: czernik20
+members_file: "168_172"
 fov: 0.107
 ra_icrs: 80.11962
 de_icrs: 39.53628

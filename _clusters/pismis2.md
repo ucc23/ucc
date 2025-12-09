@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 25; MWSC 1465; OCL 733; vdBergh-Hagen 25; ESO 312 02; FSR 1392
 fname: pismis2
+members_file: "256_260"
 fov: 0.077
 ra_icrs: 124.47777
 de_icrs: -41.67235

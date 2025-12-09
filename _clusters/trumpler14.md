@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: trumpler14
+members_file: "284_288"
 fov: 0.117
 ra_icrs: 161.01475
 de_icrs: -59.54228

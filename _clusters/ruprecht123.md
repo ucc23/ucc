@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2584
 fname: ruprecht123
+members_file: "348_352"
 fov: 0.367
 ra_icrs: 260.79843
 de_icrs: -37.93948

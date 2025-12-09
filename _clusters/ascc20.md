@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 556
 fname: ascc20
+members_file: "200_204"
 fov: 1.5
 ra_icrs: 82.09977
 de_icrs: 1.66549

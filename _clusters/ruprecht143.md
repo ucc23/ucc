@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2945; OCL 62; MWSC 1408
 fname: ruprecht143
+members_file: "16_20"
 fov: 0.13
 ra_icrs: 278.17326
 de_icrs: -12.1505

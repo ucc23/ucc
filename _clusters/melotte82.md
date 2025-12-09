@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 172; NGC 2516; MWSC 1393; OCL 776; ESO 124 06; FSR 1487; FoF 2378; OCSN 232
 fname: melotte82
+members_file: "272_276"
 fov: 1.347
 ra_icrs: 119.49863
 de_icrs: -60.76689

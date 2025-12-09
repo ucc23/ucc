@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3065; OCL 103; FoF 2246
 fname: berkeley82
+members_file: "44_48"
 fov: 0.177
 ra_icrs: 287.83363
 de_icrs: 13.11759

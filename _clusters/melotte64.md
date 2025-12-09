@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 134; NGC 2360; MWSC 1165; OCL 589; FSR 1225; FoF 2083
 fname: melotte64
+members_file: "228_232"
 fov: 0.397
 ra_icrs: 109.4399
 de_icrs: -15.63116

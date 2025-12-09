@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 424; NGC 6940; MWSC 3370; OCL 141; FoF 2054
 fname: melotte232
+members_file: "68_72"
 fov: 0.463
 ra_icrs: 308.63934
 de_icrs: 28.28359

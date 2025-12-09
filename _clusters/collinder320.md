@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 206; NGC 6250; OCL 991; vdBergh-Hagen 206; ESO 277 20; MWSC 2500; FoF 2225
 fname: collinder320
+members_file: "340_344"
 fov: 0.18
 ra_icrs: 254.50261
 de_icrs: -45.95004

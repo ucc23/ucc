@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 93
 fname: ascc5
+members_file: "120_124"
 fov: 0.107
 ra_icrs: 14.46186
 de_icrs: 55.84788

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1511; FoF 40
 fname: sai91
+members_file: "264_268"
 fov: 0.113
 ra_icrs: 129.23206
 de_icrs: -50.05189

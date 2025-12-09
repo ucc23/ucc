@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2038; OCL 884.2
 fname: hogg23
+members_file: "300_304"
 fov: 0.263
 ra_icrs: 187.20815
 de_icrs: -60.91928

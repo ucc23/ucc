@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 164; vdBergh-Hagen 164; MWSC 2255; BH 164; Alessi 7; FoF 2403; OCSN 148
 fname: vdbh164
+members_file: "312_316"
 fov: 0.837
 ra_icrs: 222.20235
 de_icrs: -66.44172

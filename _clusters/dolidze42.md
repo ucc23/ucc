@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3313
 fname: dolidze42
+members_file: "76_80"
 fov: 0.51
 ra_icrs: 304.9813
 de_icrs: 38.09719

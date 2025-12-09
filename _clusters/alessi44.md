@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 106; MWSC 3164
 fname: alessi44
+members_file: "36_40"
 fov: 0.91
 ra_icrs: 294.82529
 de_icrs: 1.76497

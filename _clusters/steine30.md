@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1912.0+1716
 fname: steine30
+members_file: "48_52"
 fov: 0.25
 ra_icrs: 288.04328
 de_icrs: 17.33302

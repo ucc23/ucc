@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1549
 fname: sai94
+members_file: "264_268"
 fov: 0.06
 ra_icrs: 131.17473
 de_icrs: -46.29248

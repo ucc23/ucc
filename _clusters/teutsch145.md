@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2978; DSH J1842.4-0515
 fname: teutsch145
+members_file: "24_28"
 fov: 0.257
 ra_icrs: 280.6119
 de_icrs: -5.23848

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: santa42
+members_file: "124_128"
 fov: 0.247
 ra_icrs: 22.62641
 de_icrs: 64.42562

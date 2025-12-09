@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: graham1
+members_file: "288_292"
 fov: 0.043
 ra_icrs: 164.13441
 de_icrs: -63.00758

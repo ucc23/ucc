@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1429
 fname: ruprecht155
+members_file: "248_252"
 fov: 0.26
 ra_icrs: 121.27268
 de_icrs: -31.81012

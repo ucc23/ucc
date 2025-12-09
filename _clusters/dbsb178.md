@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2517
 fname: dbsb178
+members_file: "344_348"
 fov: 0.207
 ra_icrs: 255.50004
 de_icrs: -41.77496

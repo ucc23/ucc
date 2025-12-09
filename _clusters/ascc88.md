@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2536; FoF 2334
 fname: ascc88
+members_file: "348_352"
 fov: 0.43
 ra_icrs: 256.86573
 de_icrs: -35.57897

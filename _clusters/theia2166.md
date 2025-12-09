@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: theia2166
+members_file: "312_316"
 fov: 0.167
 ra_icrs: 217.02544
 de_icrs: -61.35166

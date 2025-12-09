@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dbsb21
+members_file: "260_264"
 fov: 0.057
 ra_icrs: 130.57613
 de_icrs: -40.73716

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0814; MWSC 601; Teutsch J0536.8+3112; MWSC 600
 fname: koposov36
+members_file: "176_180"
 fov: 0.133
 ra_icrs: 84.22527
 de_icrs: 31.21442

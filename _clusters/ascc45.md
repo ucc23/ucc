@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1460
 fname: ascc45
+members_file: "252_256"
 fov: 0.157
 ra_icrs: 124.09073
 de_icrs: -35.66031

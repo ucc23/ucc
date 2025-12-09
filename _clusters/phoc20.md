@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc20
+members_file: "16_20"
 fov: 0.277
 ra_icrs: 277.00228
 de_icrs: -15.38996

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: theia1920
+members_file: "76_80"
 fov: 0.493
 ra_icrs: 304.4245
 de_icrs: 38.85268

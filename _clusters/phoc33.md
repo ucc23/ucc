@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc33
+members_file: "72_76"
 fov: 0.137
 ra_icrs: 301.6231
 de_icrs: 36.28872

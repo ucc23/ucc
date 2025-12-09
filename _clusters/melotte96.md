@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 206; VDBH 59; NGC 2818A; OCL 743; vdBergh-Hagen 59; ESO 372 14; FSR 1408; MWSC 1644
 fname: melotte96
+members_file: "260_264"
 fov: 0.18
 ra_icrs: 139.0437
 de_icrs: -36.62493

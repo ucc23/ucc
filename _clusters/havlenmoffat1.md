@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2565
 fname: havlenmoffat1
+members_file: "348_352"
 fov: 0.047
 ra_icrs: 259.75702
 de_icrs: -38.81853

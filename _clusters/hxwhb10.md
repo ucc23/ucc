@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hxwhb10
+members_file: "172_176"
 fov: 0.127
 ra_icrs: 81.90402
 de_icrs: 33.28525

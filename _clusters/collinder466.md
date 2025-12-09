@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1102
 fname: collinder466
+members_file: "224_228"
 fov: 0.187
 ra_icrs: 106.74633
 de_icrs: -10.70857

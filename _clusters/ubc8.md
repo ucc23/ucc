@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Renou 23; OCSN 279
 fname: ubc8
+members_file: "152_156"
 fov: 0.607
 ra_icrs: 84.4666
 de_icrs: 57.13771

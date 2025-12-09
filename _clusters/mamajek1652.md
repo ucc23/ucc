@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Mamajek J1652.0-3800
 fname: mamajek1652
+members_file: "344_348"
 fov: 0.317
 ra_icrs: 252.99261
 de_icrs: -38.01402

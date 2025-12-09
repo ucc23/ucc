@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1024
 fname: sai72
+members_file: "212_216"
 fov: 0.06
 ra_icrs: 103.95654
 de_icrs: 0.22178

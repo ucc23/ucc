@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 675; OCL 448
 fname: king8
+members_file: "176_180"
 fov: 0.053
 ra_icrs: 87.32417
 de_icrs: 33.63253

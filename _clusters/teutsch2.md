@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 638
 fname: teutsch2
+members_file: "168_172"
 fov: 0.097
 ra_icrs: 85.34388
 de_icrs: 39.23796

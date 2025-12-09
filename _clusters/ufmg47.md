@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg47
+members_file: "336_340"
 fov: 0.097
 ra_icrs: 253.02351
 de_icrs: -47.39602

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 977
 fname: ascc25
+members_file: "188_192"
 fov: 0.263
 ra_icrs: 101.36016
 de_icrs: 24.62517

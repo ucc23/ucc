@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 995
 fname: ascc26
+members_file: "204_208"
 fov: 0.29
 ra_icrs: 102.59427
 de_icrs: 7.24498

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 477
 fname: teutsch132
+members_file: "164_168"
 fov: 0.06
 ra_icrs: 77.50662
 de_icrs: 38.81748

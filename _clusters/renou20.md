@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: renou20
+members_file: "156_160"
 fov: 0.15
 ra_icrs: 56.75673
 de_icrs: 38.74488

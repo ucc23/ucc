@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 66
 fname: ruprecht112
+members_file: "316_320"
 fov: 0.183
 ra_icrs: 224.25009
 de_icrs: -62.55725

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bochum14
+members_file: "4_8"
 fov: 0.127
 ra_icrs: 270.5018
 de_icrs: -23.69892

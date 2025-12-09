@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1952; OCL 853.1; ESO 129 24
 fname: loden372
+members_file: "292_296"
 fov: 0.16
 ra_icrs: 172.77138
 de_icrs: -58.50827

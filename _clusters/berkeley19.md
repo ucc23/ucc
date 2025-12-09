@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 527; OCL 450
 fname: berkeley19
+members_file: "176_180"
 fov: 0.067
 ra_icrs: 81.01888
 de_icrs: 29.574

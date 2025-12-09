@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 5
 fname: alessi190
+members_file: "328_332"
 fov: 0.583
 ra_icrs: 238.65413
 de_icrs: -47.68976

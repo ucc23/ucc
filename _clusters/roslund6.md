@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 259
 fname: roslund6
+members_file: "76_80"
 fov: 1.853
 ra_icrs: 307.19662
 de_icrs: 39.81828

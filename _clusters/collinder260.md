@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 135; NGC 4463; MWSC 2042; OCL 885; vdBergh-Hagen 135; ESO 095 10
 fname: collinder260
+members_file: "300_304"
 fov: 0.137
 ra_icrs: 187.46859
 de_icrs: -64.80679

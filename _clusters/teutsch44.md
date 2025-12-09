@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1021.4-5427; FSR 1528; MWSC 1795
 fname: teutsch44
+members_file: "280_284"
 fov: 0.06
 ra_icrs: 155.34729
 de_icrs: -54.4473

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3223; OCL 135; FSR 0171
 fname: berkeley83
+members_file: "64_68"
 fov: 0.047
 ra_icrs: 300.36094
 de_icrs: 28.64253

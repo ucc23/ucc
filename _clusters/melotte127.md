@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 284; VDBH 162; NGC 5662; OCL 928; vdBergh-Hagen 162; ESO 175 10; MWSC 2234; FoF 2331
 fname: melotte127
+members_file: "316_320"
 fov: 0.627
 ra_icrs: 218.73264
 de_icrs: -56.66815

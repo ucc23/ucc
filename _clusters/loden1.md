@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1758
 fname: loden1
+members_file: "280_284"
 fov: 0.203
 ra_icrs: 151.26801
 de_icrs: -55.76761

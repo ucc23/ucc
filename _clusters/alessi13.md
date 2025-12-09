@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 278; Chi For Group; Harrington 2; Slotegraaf 3; Ramakers 26
 fname: alessi13
+members_file: "236_240"
 fov: 5.577
 ra_icrs: 51.9803
 de_icrs: -35.66006

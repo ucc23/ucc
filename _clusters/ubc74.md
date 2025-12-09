@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 1973
 fname: ubc74
+members_file: "188_192"
 fov: 0.157
 ra_icrs: 95.45954
 de_icrs: 22.41742

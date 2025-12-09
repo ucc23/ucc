@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2453; MWSC 1340; OCL 670; ESO 493 12; MWSC 13409
 fname: collinder162
+members_file: "240_244"
 fov: 0.08
 ra_icrs: 116.89626
 de_icrs: -27.19402

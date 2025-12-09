@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: haffner19
+members_file: "240_244"
 fov: 0.087
 ra_icrs: 118.19209
 de_icrs: -26.27665

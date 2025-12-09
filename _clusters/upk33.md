@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: upk33
+members_file: "24_28"
 fov: 0.61
 ra_icrs: 280.08886
 de_icrs: -4.28803

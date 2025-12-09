@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2368; MWSC 1186; OCL 571
 fname: collinder138
+members_file: "224_228"
 fov: 0.267
 ra_icrs: 110.26442
 de_icrs: -10.33912

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 448; NGC 7243; MWSC 3602; OCL 221; FoF 2214
 fname: melotte240
+members_file: "96_100"
 fov: 0.517
 ra_icrs: 333.79107
 de_icrs: 49.83798

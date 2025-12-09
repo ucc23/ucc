@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 86; NGC 2192; MWSC 820; OCL 437; FoF 641
 fname: melotte42
+members_file: "172_176"
 fov: 0.113
 ra_icrs: 93.82285
 de_icrs: 39.8439

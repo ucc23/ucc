@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 98
 fname: collinder401
+members_file: "36_40"
 fov: 0.19
 ra_icrs: 294.61582
 de_icrs: 0.35827

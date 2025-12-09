@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 180; VDBH 26; NGC 2567; MWSC 1467; OCL 708; vdBergh-Hagen 26; ESO 431 03; FSR 1354; FoF 385
 fname: melotte86
+members_file: "248_252"
 fov: 0.213
 ra_icrs: 124.6405
 de_icrs: -30.62122

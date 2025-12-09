@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1135.1-6450
 fname: riddle14
+members_file: "292_296"
 fov: 0.1
 ra_icrs: 173.7742
 de_icrs: -64.83439

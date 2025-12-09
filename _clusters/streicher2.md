@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: streicher2
+members_file: "188_192"
 fov: 0.283
 ra_icrs: 110.74944
 de_icrs: 29.25706

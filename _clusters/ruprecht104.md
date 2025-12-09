@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2028; OCL 879; ESO 131 04
 fname: ruprecht104
+members_file: "296_300"
 fov: 0.27
 ra_icrs: 186.17355
 de_icrs: -60.45372

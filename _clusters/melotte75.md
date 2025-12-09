@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 159; NGC 2437; MWSC 1313; M 46; OCL 601; FSR 1241; FoF 587
 fname: melotte75
+members_file: "228_232"
 fov: 0.377
 ra_icrs: 115.44553
 de_icrs: -14.84352

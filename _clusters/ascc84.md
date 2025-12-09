@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2333
 fname: ascc84
+members_file: "320_324"
 fov: 0.437
 ra_icrs: 238.7772
 de_icrs: -60.66956

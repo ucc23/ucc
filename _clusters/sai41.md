@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 469
 fname: sai41
+members_file: "164_168"
 fov: 0.247
 ra_icrs: 76.78806
 de_icrs: 38.42

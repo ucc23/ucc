@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 758; Teutsch J0609.3+3113
 fname: dc8
+members_file: "180_184"
 fov: 0.033
 ra_icrs: 92.33804
 de_icrs: 31.2257

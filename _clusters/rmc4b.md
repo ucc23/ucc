@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 908
 fname: rmc4b
+members_file: "204_208"
 fov: 0.193
 ra_icrs: 98.54102
 de_icrs: 4.46422

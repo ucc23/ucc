@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 524
 fname: dolidze19
+members_file: "192_196"
 fov: 0.293
 ra_icrs: 80.96904
 de_icrs: 8.18777

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 37; MWSC 1509; BH 37; ESO 259 13; FSR 1410
 fname: vdbh37
+members_file: "260_264"
 fov: 0.077
 ra_icrs: 128.94665
 de_icrs: -43.60528

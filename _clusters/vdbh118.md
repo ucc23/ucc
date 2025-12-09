@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 118; MWSC 1939; BH 118; ESO 129 20
 fname: vdbh118
+members_file: "288_292"
 fov: 0.033
 ra_icrs: 170.76256
 de_icrs: -58.54833

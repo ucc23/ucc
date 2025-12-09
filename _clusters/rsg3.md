@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: TRSG 3; Alessi-Teutsch 4; UBC 12; AT 4; Alessi 26; OCSN 282
 fname: rsg3
+members_file: "228_232"
 fov: 0.887
 ra_icrs: 126.02888
 de_icrs: -8.40504

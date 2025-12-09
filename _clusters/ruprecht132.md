@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6444; MWSC 2709; OCL 1023
 fname: ruprecht132
+members_file: "352_356"
 fov: 0.25
 ra_icrs: 267.39797
 de_icrs: -34.82261

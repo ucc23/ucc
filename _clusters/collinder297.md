@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 183; NGC 6031; MWSC 2352; OCL 951; vdBergh-Hagen 183; ESO 178 09; FoF 2102
 fname: collinder297
+members_file: "328_332"
 fov: 0.087
 ra_icrs: 241.89421
 de_icrs: -54.0141

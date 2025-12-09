@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: xdocc04
+members_file: "240_244"
 fov: 0.317
 ra_icrs: 118.8237
 de_icrs: -24.17206

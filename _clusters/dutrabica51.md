@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2708
 fname: dutrabica51
+members_file: "356_360"
 fov: 0.153
 ra_icrs: 267.3818
 de_icrs: -31.27301

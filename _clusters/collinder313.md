@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 198; NGC 6208; MWSC 2470; OCL 964; vdBergh-Hagen 198; ESO 179 14; FSR 1724; FoF 2063
 fname: collinder313
+members_file: "332_336"
 fov: 0.263
 ra_icrs: 252.33796
 de_icrs: -53.7214

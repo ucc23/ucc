@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 886; OCL 544
 fname: czernik26
+members_file: "212_216"
 fov: 0.043
 ra_icrs: 97.74549
 de_icrs: -4.17993

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 6
 fname: teutsch182
+members_file: "104_108"
 fov: 0.34
 ra_icrs: 344.03222
 de_icrs: 51.17664

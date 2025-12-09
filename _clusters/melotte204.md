@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 382; IC 4725; MWSC 2940; M 25; OCL 38; ESO 591 06; FoF 2292
 fname: melotte204
+members_file: "12_16"
 fov: 0.5
 ra_icrs: 277.93755
 de_icrs: -19.11728

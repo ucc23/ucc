@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 103
 fname: cwnu232
+members_file: "208_212"
 fov: 1.5
 ra_icrs: 92.30542
 de_icrs: -2.2116

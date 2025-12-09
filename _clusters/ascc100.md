@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3038
 fname: ascc100
+members_file: "60_64"
 fov: 1.423
 ra_icrs: 285.27152
 de_icrs: 32.95385

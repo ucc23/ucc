@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2390
 fname: dbsb166
+members_file: "332_336"
 fov: 0.21
 ra_icrs: 245.36053
 de_icrs: -50.01955

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 225; MWSC 68; OCL 305
 fname: collinder7
+members_file: "120_124"
 fov: 0.587
 ra_icrs: 10.85777
 de_icrs: 61.77601

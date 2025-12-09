@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 57; NGC 1746; MWSC 461; OCL 452; FSR 0822
 fname: melotte28
+members_file: "176_180"
 fov: 0.137
 ra_icrs: 76.1635
 de_icrs: 23.81691

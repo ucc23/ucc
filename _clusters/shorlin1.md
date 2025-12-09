@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1891
 fname: shorlin1
+members_file: "288_292"
 fov: 0.013
 ra_icrs: 166.44655
 de_icrs: -61.22806

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2543
 fname: dbsb108
+members_file: "340_344"
 fov: 0.273
 ra_icrs: 257.90824
 de_icrs: -45.85858

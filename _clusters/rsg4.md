@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: TRSG 4; UBC 1; OCSN 278
 fname: rsg4
+members_file: "84_88"
 fov: 0.827
 ra_icrs: 287.74793
 de_icrs: 56.78662

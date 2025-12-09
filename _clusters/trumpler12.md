@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 217; VDBH 89; MWSC 1763; OCL 803; vdBergh-Hagen 89; ESO 127 07; FSR 1537; FoF 63
 fname: trumpler12
+members_file: "280_284"
 fov: 0.103
 ra_icrs: 151.62432
 de_icrs: -60.2902

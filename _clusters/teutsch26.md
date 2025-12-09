@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1926.0+1345
 fname: teutsch26
+members_file: "48_52"
 fov: 0.087
 ra_icrs: 291.51075
 de_icrs: 13.77398

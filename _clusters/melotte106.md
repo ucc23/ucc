@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 247; NGC 3680; MWSC 1942; OCL 823; ESO 265 32; FSR 1548; FoF 2260
 fname: melotte106
+members_file: "284_288"
 fov: 0.267
 ra_icrs: 171.39542
 de_icrs: -43.23707

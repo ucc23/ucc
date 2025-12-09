@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ivanov2
+members_file: "196_200"
 fov: 0.23
 ra_icrs: 93.94449
 de_icrs: 14.22539

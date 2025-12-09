@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3321
 fname: alessi11
+members_file: "56_60"
 fov: 0.253
 ra_icrs: 305.29954
 de_icrs: 18.37571

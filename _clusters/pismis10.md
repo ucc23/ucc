@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1619
 fname: pismis10
+members_file: "264_268"
 fov: 0.183
 ra_icrs: 135.68869
 de_icrs: -43.63479

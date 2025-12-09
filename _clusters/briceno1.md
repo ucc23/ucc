@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: briceno1
+members_file: "200_204"
 fov: 0.917
 ra_icrs: 81.20615
 de_icrs: 1.67948

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 140; FoF 2258
 fname: collinder463
+members_file: "124_128"
 fov: 0.757
 ra_icrs: 27.13863
 de_icrs: 71.7236

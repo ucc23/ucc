@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 215
 fname: sai21
+members_file: "132_136"
 fov: 0.037
 ra_icrs: 38.67226
 de_icrs: 62.58195

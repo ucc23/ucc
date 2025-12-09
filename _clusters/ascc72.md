@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2044
 fname: ascc72
+members_file: "300_304"
 fov: 0.063
 ra_icrs: 193.76596
 de_icrs: -61.04238

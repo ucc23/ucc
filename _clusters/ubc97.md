@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc97
+members_file: "12_16"
 fov: 0.237
 ra_icrs: 274.78677
 de_icrs: -15.75118

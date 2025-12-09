@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 47
 fname: vdbh47
+members_file: "264_268"
 fov: 0.183
 ra_icrs: 130.6185
 de_icrs: -48.12793

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dolidze18
+members_file: "172_176"
 fov: 0.367
 ra_icrs: 80.86973
 de_icrs: 33.58332

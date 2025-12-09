@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2298
 fname: alessi8
+members_file: "324_328"
 fov: 0.443
 ra_icrs: 232.39936
 de_icrs: -51.2194

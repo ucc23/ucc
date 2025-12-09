@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1747; OCL 801
 fname: ruprecht86
+members_file: "280_284"
 fov: 0.193
 ra_icrs: 150.3623
 de_icrs: -59.49544

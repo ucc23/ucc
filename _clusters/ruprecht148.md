@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Basel 9; OCL 408; MWSC 421
 fname: ruprecht148
+members_file: "160_164"
 fov: 0.15
 ra_icrs: 71.6411
 de_icrs: 44.71112

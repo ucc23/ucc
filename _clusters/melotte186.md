@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 359; MWSC 2773; OCL 84; Bull of Poniatowski
 fname: melotte186
+members_file: "28_32"
 fov: 0.717
 ra_icrs: 270.41441
 de_icrs: 3.16458

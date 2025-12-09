@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2311; MWSC 1035; OCL 553; FSR 1127; FoF 931
 fname: collinder123
+members_file: "216_220"
 fov: 0.1
 ra_icrs: 104.4478
 de_icrs: -4.60801

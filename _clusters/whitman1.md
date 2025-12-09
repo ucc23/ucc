@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: whitman1
+members_file: "284_288"
 fov: 0.203
 ra_icrs: 152.0714
 de_icrs: -64.58075

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2527; MWSC 1428; OCL 685; ESO 430 15; FoF 2327
 fname: collinder174
+members_file: "244_248"
 fov: 0.783
 ra_icrs: 121.26526
 de_icrs: -28.10808

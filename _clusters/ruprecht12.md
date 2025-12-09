@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1107; OCL 647; ESO 427 33
 fname: ruprecht12
+members_file: "240_244"
 fov: 0.233
 ra_icrs: 106.80525
 de_icrs: -28.26531

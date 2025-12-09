@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6802; MWSC 3134; OCL 114; FSR 0141
 fname: collinder400
+members_file: "52_56"
 fov: 0.103
 ra_icrs: 292.6483
 de_icrs: 20.26316

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc95
+members_file: "4_8"
 fov: 0.133
 ra_icrs: 268.25175
 de_icrs: -22.16798

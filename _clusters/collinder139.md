@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2374; MWSC 1206; OCL 585
 fname: collinder139
+members_file: "228_232"
 fov: 0.373
 ra_icrs: 111.01401
 de_icrs: -13.24628

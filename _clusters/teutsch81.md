@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1552.4-5536
 fname: teutsch81
+members_file: "324_328"
 fov: 0.18
 ra_icrs: 238.1521
 de_icrs: -55.62299

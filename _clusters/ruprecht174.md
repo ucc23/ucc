@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3405; OCL 176; C 2041+368; FSR 0216; FoF 70
 fname: ruprecht174
+members_file: "76_80"
 fov: 0.123
 ra_icrs: 310.84836
 de_icrs: 37.02938

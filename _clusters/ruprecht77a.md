@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ruprecht77a
+members_file: "276_280"
 fov: 0.247
 ra_icrs: 142.00927
 de_icrs: -55.10834

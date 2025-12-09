@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 353; NGC 6469; MWSC 2735; OCL 21; ESO 589 18
 fname: melotte182
+members_file: "4_8"
 fov: 0.1
 ra_icrs: 268.2705
 de_icrs: -22.2981

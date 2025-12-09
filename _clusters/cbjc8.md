@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3425
 fname: cbjc8
+members_file: "84_88"
 fov: 0.247
 ra_icrs: 313.49417
 de_icrs: 44.88995

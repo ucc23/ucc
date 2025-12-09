@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1928
 fname: dbsb66
+members_file: "288_292"
 fov: 0.253
 ra_icrs: 169.20059
 de_icrs: -61.46266

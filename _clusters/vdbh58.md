@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 58; MWSC 1632
 fname: vdbh58
+members_file: "272_276"
 fov: 0.25
 ra_icrs: 137.56357
 de_icrs: -56.23496

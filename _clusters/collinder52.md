@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1605; MWSC 394; OCL 406; FSR 0694
 fname: collinder52
+members_file: "156_160"
 fov: 0.087
 ra_icrs: 68.74603
 de_icrs: 45.26996

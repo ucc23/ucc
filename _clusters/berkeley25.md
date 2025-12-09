@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 955; OCL 576
 fname: berkeley25
+members_file: "224_228"
 fov: 0.067
 ra_icrs: 100.31427
 de_icrs: -16.48436

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: vvvxcl010
+members_file: "300_304"
 fov: 0.217
 ra_icrs: 192.64787
 de_icrs: -64.93021

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2113; OCL 897; ESO 096 10
 fname: collinder269
+members_file: "304_308"
 fov: 0.197
 ra_icrs: 200.98437
 de_icrs: -66.19425

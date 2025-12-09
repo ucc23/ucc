@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg46
+members_file: "4_8"
 fov: 0.063
 ra_icrs: 274.56166
 de_icrs: -25.07861

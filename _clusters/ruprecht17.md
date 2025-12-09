@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1202
 fname: ruprecht17
+members_file: "236_240"
 fov: 0.723
 ra_icrs: 110.99178
 de_icrs: -23.24687

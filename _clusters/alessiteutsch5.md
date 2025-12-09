@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 118; AT 5; Alessi 27; MWSC 3589
 fname: alessiteutsch5
+members_file: "104_108"
 fov: 0.383
 ra_icrs: 332.15201
 de_icrs: 61.10252

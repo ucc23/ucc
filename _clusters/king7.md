@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 321; FoF 366
 fname: king7
+members_file: "148_152"
 fov: 0.107
 ra_icrs: 59.78776
 de_icrs: 51.78538

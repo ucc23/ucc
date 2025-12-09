@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 994; Biurakan 12; OCL 520
 fname: berkeley26
+members_file: "204_208"
 fov: 0.093
 ra_icrs: 102.5729
 de_icrs: 5.72956

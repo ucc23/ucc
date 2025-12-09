@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 45
 fname: hxhwl45
+members_file: "108_112"
 fov: 0.25
 ra_icrs: 350.35619
 de_icrs: 58.36551

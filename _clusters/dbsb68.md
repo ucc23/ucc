@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1946
 fname: dbsb68
+members_file: "292_296"
 fov: 0.137
 ra_icrs: 172.14326
 de_icrs: -63.02875

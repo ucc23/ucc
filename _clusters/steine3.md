@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: steine3
+members_file: "76_80"
 fov: 0.22
 ra_icrs: 299.91722
 de_icrs: 40.80439

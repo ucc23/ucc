@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3272; FoF 2418
 fname: roslund5
+members_file: "68_72"
 fov: 0.687
 ra_icrs: 302.6593
 de_icrs: 33.72447

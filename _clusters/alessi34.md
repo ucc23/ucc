@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 44; MWSC 1414
 fname: alessi34
+members_file: "264_268"
 fov: 1.277
 ra_icrs: 120.09944
 de_icrs: -50.64351

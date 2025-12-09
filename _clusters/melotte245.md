@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 460; NGC 7789; MWSC 3779; OCL 269; FSR 0450; FoF 49
 fname: melotte245
+members_file: "112_116"
 fov: 0.347
 ra_icrs: 359.31337
 de_icrs: 56.72457

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 202; FoF 2320
 fname: stock7
+members_file: "132_136"
 fov: 0.463
 ra_icrs: 37.43834
 de_icrs: 60.60625

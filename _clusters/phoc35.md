@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc35
+members_file: "40_44"
 fov: 0.19
 ra_icrs: 289.43324
 de_icrs: 8.70497

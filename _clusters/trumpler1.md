@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 15; MWSC 127; OCL 328; FSR 0552
 fname: trumpler1
+members_file: "128_132"
 fov: 0.13
 ra_icrs: 23.90916
 de_icrs: 61.28648

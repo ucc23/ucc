@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 179; NGC 2548; MWSC 1454; M 48; OCL 584; FSR 1217; FoF 2362
 fname: melotte85
+members_file: "224_228"
 fov: 0.67
 ra_icrs: 123.38922
 de_icrs: -5.7324

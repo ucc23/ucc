@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 203
 fname: vdbh203
+members_file: "344_348"
 fov: 0.08
 ra_icrs: 253.82521
 de_icrs: -40.92621

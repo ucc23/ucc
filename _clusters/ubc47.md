@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ubc47
+members_file: "132_136"
 fov: 0.077
 ra_icrs: 41.9957
 de_icrs: 63.79633

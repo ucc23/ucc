@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bica107
+members_file: "56_60"
 fov: 0.27
 ra_icrs: 309.60205
 de_icrs: 11.27291

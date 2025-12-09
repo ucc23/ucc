@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2982; MWSC 1703; OCL 770; ESO 262 01; MWSC 1702
 fname: ruprecht80
+members_file: "268_272"
 fov: 0.257
 ra_icrs: 145.50091
 de_icrs: -43.98673

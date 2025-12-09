@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3482; C 2110+463; IC 1363
 fname: basel13
+members_file: "88_92"
 fov: 0.073
 ra_icrs: 318.29789
 de_icrs: 46.54332

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2251; MWSC 916; OCL 499
 fname: collinder101
+members_file: "200_204"
 fov: 0.273
 ra_icrs: 98.67349
 de_icrs: 8.34882

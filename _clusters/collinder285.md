@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2242
 fname: collinder285
+members_file: "108_112"
 fov: 0.36
 ra_icrs: 220.23795
 de_icrs: 69.59461

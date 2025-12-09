@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 71; NGC 2910; MWSC 1679; OCL 781; vdBergh-Hagen 71; ESO 166 17; FSR 1493; FoF 987
 fname: collinder209
+members_file: "272_276"
 fov: 0.18
 ra_icrs: 142.6331
 de_icrs: -52.91042

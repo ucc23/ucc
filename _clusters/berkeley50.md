@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3273
 fname: berkeley50
+members_file: "72_76"
 fov: 0.053
 ra_icrs: 302.50341
 de_icrs: 34.96775

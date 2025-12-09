@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 286; VDBH 163; NGC 5715; MWSC 2245; OCL 929; vdBergh-Hagen 163; ESO 176 02; FoF 431
 fname: melotte128
+members_file: "316_320"
 fov: 0.117
 ra_icrs: 220.85503
 de_icrs: -57.5779

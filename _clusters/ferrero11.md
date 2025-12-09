@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 22; MWSC 813
 fname: ferrero11
+members_file: "208_212"
 fov: 0.537
 ra_icrs: 93.64258
 de_icrs: 0.63381

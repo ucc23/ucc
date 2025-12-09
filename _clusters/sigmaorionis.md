@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Sigma Ori
 fname: sigmaorionis
+members_file: "204_208"
 fov: 0.17
 ra_icrs: 84.69667
 de_icrs: -2.59273

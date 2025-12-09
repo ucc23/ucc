@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: reiland1
+members_file: "108_112"
 fov: 0.367
 ra_icrs: 346.2391
 de_icrs: 60.10825

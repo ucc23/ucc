@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: vvvxcl088
+members_file: "8_12"
 fov: 0.163
 ra_icrs: 274.14079
 de_icrs: -19.91486

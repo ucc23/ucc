@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1857.6+2605
 fname: teutsch147
+members_file: "56_60"
 fov: 0.18
 ra_icrs: 284.38014
 de_icrs: 26.0409

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: lynga7
+members_file: "328_332"
 fov: 0.273
 ra_icrs: 242.70945
 de_icrs: -55.27147

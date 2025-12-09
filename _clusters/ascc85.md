@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2465
 fname: ascc85
+members_file: "336_340"
 fov: 0.44
 ra_icrs: 251.82302
 de_icrs: -45.5617

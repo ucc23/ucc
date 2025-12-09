@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0360; MWSC 3597; DSH J2212.5+5851
 fname: teutsch125
+members_file: "100_104"
 fov: 0.083
 ra_icrs: 333.31727
 de_icrs: 58.93916

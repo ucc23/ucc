@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Siriusly
 fname: gaia1
+members_file: "224_228"
 fov: 0.163
 ra_icrs: 101.4731
 de_icrs: -16.73498

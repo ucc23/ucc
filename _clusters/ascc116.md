@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3576
 fname: ascc116
+members_file: "96_100"
 fov: 0.157
 ra_icrs: 329.66998
 de_icrs: 54.49511

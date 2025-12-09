@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 20
 fname: berkeley1
+members_file: "116_120"
 fov: 0.05
 ra_icrs: 2.45272
 de_icrs: 60.47638

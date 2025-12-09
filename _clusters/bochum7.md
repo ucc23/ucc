@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1550
 fname: bochum7
+members_file: "264_268"
 fov: 0.21
 ra_icrs: 131.19664
 de_icrs: -45.99329

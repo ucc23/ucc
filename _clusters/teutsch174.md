@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1959.6+2818
 fname: teutsch174
+members_file: "64_68"
 fov: 0.15
 ra_icrs: 299.92421
 de_icrs: 28.28718

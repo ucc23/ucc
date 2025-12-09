@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1004; DSH J0652.3+0211
 fname: alessi59
+members_file: "208_212"
 fov: 0.053
 ra_icrs: 103.07223
 de_icrs: 2.19434

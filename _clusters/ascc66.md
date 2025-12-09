@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1922
 fname: ascc66
+members_file: "288_292"
 fov: 0.4
 ra_icrs: 168.38456
 de_icrs: -55.43951

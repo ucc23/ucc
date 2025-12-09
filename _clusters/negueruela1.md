@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3757
 fname: negueruela1
+members_file: "112_116"
 fov: 0.077
 ra_icrs: 356.8615
 de_icrs: 63.21228

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2396; OCL 579; MWSC 1232; FoF 2145
 fname: collinder148
+members_file: "224_228"
 fov: 0.333
 ra_icrs: 111.97593
 de_icrs: -11.72392

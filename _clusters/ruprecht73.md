@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1615; OCL 769; ESO 211 06
 fname: ruprecht73
+members_file: "268_272"
 fov: 0.187
 ra_icrs: 135.29521
 de_icrs: -50.91647

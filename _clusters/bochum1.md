@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0911; MWSC 864; BBD 7
 fname: bochum1
+members_file: "192_196"
 fov: 0.24
 ra_icrs: 96.33839
 de_icrs: 19.83377

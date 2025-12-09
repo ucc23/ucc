@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3479; DSH J2111.8+5222; FSR 0300
 fname: kronberger80
+members_file: "92_96"
 fov: 0.043
 ra_icrs: 317.95221
 de_icrs: 52.37959

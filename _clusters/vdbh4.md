@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 4; ESO 368 06; MWSC 1288
 fname: vdbh4
+members_file: "248_252"
 fov: 0.03
 ra_icrs: 114.43736
 de_icrs: -36.0607

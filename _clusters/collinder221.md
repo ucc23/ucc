@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 96; NGC 3255; OCL 817; vdBergh-Hagen 96; ESO 127 20; FSR 1546; MWSC 1804
 fname: collinder221
+members_file: "284_288"
 fov: 0.037
 ra_icrs: 156.63511
 de_icrs: -60.67412

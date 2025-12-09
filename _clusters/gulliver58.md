@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 426
 fname: gulliver58
+members_file: "300_304"
 fov: 0.153
 ra_icrs: 191.51569
 de_icrs: -61.96738

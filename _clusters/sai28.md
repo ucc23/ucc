@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: sai28
+members_file: "144_148"
 fov: 0.093
 ra_icrs: 54.82121
 de_icrs: 55.98224

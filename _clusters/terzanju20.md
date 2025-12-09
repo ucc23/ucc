@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2628
 fname: terzanju20
+members_file: "356_360"
 fov: 0.18
 ra_icrs: 263.39857
 de_icrs: -29.36817

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7790; MWSC 3781; OCL 276; FSR 0461; FoF 351
 fname: collinder461
+members_file: "116_120"
 fov: 0.103
 ra_icrs: 359.61021
 de_icrs: 61.20791

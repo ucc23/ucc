@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2705
 fname: collinder351
+members_file: "0_4"
 fov: 0.133
 ra_icrs: 267.42242
 de_icrs: -28.75055

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6613; M 18; OCL 40; MWSC 2892
 fname: collinder376
+members_file: "12_16"
 fov: 0.217
 ra_icrs: 274.99666
 de_icrs: -17.10514

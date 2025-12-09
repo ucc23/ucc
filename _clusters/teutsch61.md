@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 78; MWSC 1270; DSH J0734.6-1947; FSR 1266; FoF 936
 fname: teutsch61
+members_file: "232_236"
 fov: 0.073
 ra_icrs: 113.65954
 de_icrs: -19.79224

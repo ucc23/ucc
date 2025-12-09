@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hsc6
+members_file: "0_4"
 fov: 0.097
 ra_icrs: 267.69787
 de_icrs: -28.8199

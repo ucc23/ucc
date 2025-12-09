@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: H21OC 12
 fname: hxhwl12
+members_file: "200_204"
 fov: 0.46
 ra_icrs: 92.76468
 de_icrs: 6.55762

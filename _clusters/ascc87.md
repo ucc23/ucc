@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2520
 fname: ascc87
+members_file: "352_356"
 fov: 0.48
 ra_icrs: 255.66452
 de_icrs: -28.42106

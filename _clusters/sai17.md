@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 179
 fname: sai17
+members_file: "132_136"
 fov: 0.053
 ra_icrs: 35.20954
 de_icrs: 59.18658

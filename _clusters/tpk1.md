@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Teutsch-Patchick-Kronberger 1; Patchick 41; Ramakers 3
 fname: tpk1
+members_file: "108_112"
 fov: 1.31
 ra_icrs: 354.75706
 de_icrs: 47.6047

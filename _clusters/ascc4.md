@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 87
 fname: ascc4
+members_file: "120_124"
 fov: 0.203
 ra_icrs: 13.24529
 de_icrs: 61.61994

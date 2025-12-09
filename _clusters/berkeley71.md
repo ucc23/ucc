@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0810; MWSC 634; OCL 449
 fname: berkeley71
+members_file: "176_180"
 fov: 0.073
 ra_icrs: 85.23671
 de_icrs: 32.27698

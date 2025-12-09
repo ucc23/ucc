@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 356; NGC 6494; MWSC 2757; M 23; OCL 30; ESO 589 22; FoF 2336
 fname: melotte184
+members_file: "8_12"
 fov: 0.553
 ra_icrs: 269.23952
 de_icrs: -18.99002

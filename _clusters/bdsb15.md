@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3187
 fname: bdsb15
+members_file: "60_64"
 fov: 0.213
 ra_icrs: 297.26896
 de_icrs: 26.83679

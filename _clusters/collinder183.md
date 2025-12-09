@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 28; NGC 2580; MWSC 1476; OCL 709; vdBergh-Hagen 28; ESO 431 06
 fname: collinder183
+members_file: "248_252"
 fov: 0.113
 ra_icrs: 125.3656
 de_icrs: -30.30744

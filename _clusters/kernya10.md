@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: kernya10
+members_file: "104_108"
 fov: 0.283
 ra_icrs: 332.23943
 de_icrs: 62.61509

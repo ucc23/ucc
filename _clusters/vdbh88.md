@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 88; MWSC 1764; BH 88
 fname: vdbh88
+members_file: "276_280"
 fov: 0.093
 ra_icrs: 151.61571
 de_icrs: -51.55115

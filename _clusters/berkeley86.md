@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3316; OCL 167; FoF 2183
 fname: berkeley86
+members_file: "76_80"
 fov: 0.19
 ra_icrs: 305.08081
 de_icrs: 38.70651

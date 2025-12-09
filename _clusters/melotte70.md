@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 153; NGC 2423; MWSC 1283; OCL 592; FoF 2232
 fname: melotte70
+members_file: "228_232"
 fov: 0.58
 ra_icrs: 114.29805
 de_icrs: -13.8627

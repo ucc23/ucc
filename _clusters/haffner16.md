@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1355; OCL 655; ESO 493 20; FSR 1309; FoF 382
 fname: haffner16
+members_file: "240_244"
 fov: 0.053
 ra_icrs: 117.5845
 de_icrs: -25.4587

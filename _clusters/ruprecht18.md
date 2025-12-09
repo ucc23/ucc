@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1211; FoF 32
 fname: ruprecht18
+members_file: "236_240"
 fov: 0.173
 ra_icrs: 111.15871
 de_icrs: -26.20909

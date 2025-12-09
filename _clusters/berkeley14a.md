@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 449
 fname: berkeley14a
+members_file: "160_164"
 fov: 0.37
 ra_icrs: 75.11749
 de_icrs: 43.57969

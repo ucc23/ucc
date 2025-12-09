@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3002; OCL 95; FSR 0109
 fname: czernik38
+members_file: "36_40"
 fov: 0.1
 ra_icrs: 282.45127
 de_icrs: 4.96968

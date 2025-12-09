@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1839
 fname: saurer3
+members_file: "284_288"
 fov: 0.053
 ra_icrs: 160.35373
 de_icrs: -55.2897

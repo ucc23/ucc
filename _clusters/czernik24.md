@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0881; MWSC 695; OCL 472
 fname: czernik24
+members_file: "188_192"
 fov: 0.087
 ra_icrs: 88.848
 de_icrs: 20.87699

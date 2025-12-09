@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2455
 fname: hogg21
+members_file: "336_340"
 fov: 0.167
 ra_icrs: 251.40713
 de_icrs: -47.74174

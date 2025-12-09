@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 192; NGC 6167; MWSC 2425; Harvard 11; OCL 971; vdBergh-Hagen 192; ESO 226 16
 fname: collinder305
+members_file: "332_336"
 fov: 0.237
 ra_icrs: 248.67236
 de_icrs: -49.75943

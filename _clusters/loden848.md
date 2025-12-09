@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2136; OCL 901.1
 fname: loden848
+members_file: "304_308"
 fov: 0.197
 ra_icrs: 203.52824
 de_icrs: -64.55278

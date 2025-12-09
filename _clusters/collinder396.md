@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6738; MWSC 3035; OCL 101
 fname: collinder396
+members_file: "44_48"
 fov: 0.16
 ra_icrs: 285.33081
 de_icrs: 11.5907

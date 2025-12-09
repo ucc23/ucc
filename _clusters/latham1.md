@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2084
 fname: latham1
+members_file: "68_72"
 fov: 0.78
 ra_icrs: 197.90211
 de_icrs: 30.58779

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1070
 fname: ruprecht9
+members_file: "232_236"
 fov: 0.18
 ra_icrs: 105.50649
 de_icrs: -21.94418

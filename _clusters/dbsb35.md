@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1641
 fname: dbsb35
+members_file: "268_272"
 fov: 0.08
 ra_icrs: 138.78645
 de_icrs: -47.4692

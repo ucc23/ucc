@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: COIN 13; OCSN 149
 fname: coingaia13
+members_file: "164_168"
 fov: 1.417
 ra_icrs: 83.3124
 de_icrs: 42.00894

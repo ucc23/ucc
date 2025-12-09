@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2140
 fname: ascc74
+members_file: "308_312"
 fov: 0.187
 ra_icrs: 203.96323
 de_icrs: -58.77396

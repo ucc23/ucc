@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3307; DSH J2018.3+3112
 fname: teutsch124
+members_file: "68_72"
 fov: 0.047
 ra_icrs: 304.57487
 de_icrs: 31.21716

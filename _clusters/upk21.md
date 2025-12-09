@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: upk21
+members_file: "16_20"
 fov: 0.583
 ra_icrs: 282.90429
 de_icrs: -15.15729

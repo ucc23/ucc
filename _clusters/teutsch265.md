@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Dolidze 52a; Teutsch J1825.8-1704
 fname: teutsch265
+members_file: "12_16"
 fov: 0.12
 ra_icrs: 276.46489
 de_icrs: -17.07629

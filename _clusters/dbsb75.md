@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2001
 fname: dbsb75
+members_file: "296_300"
 fov: 0.197
 ra_icrs: 182.16189
 de_icrs: -63.36381

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 103; MWSC 40; OCL 291; FSR 0491
 fname: collinder1
+members_file: "116_120"
 fov: 0.1
 ra_icrs: 6.30881
 de_icrs: 61.32705

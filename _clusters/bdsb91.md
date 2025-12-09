@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 861
 fname: bdsb91
+members_file: "216_220"
 fov: 0.137
 ra_icrs: 96.31847
 de_icrs: -10.55848

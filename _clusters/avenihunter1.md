@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Av-Hunter 1; MWSC 3747; OCSN 143
 fname: avenihunter1
+members_file: "108_112"
 fov: 1.083
 ra_icrs: 354.17767
 de_icrs: 48.1588

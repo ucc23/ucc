@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3661; DSH J2247.4+5946
 fname: teutsch54
+members_file: "104_108"
 fov: 0.037
 ra_icrs: 341.85705
 de_icrs: 59.78619

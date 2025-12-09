@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7788; MWSC 3777; OCL 275; FSR 0458
 fname: collinder459
+members_file: "116_120"
 fov: 0.08
 ra_icrs: 359.18728
 de_icrs: 61.39468

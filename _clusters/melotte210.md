@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 386; IC 4756; MWSC 2967; Graff 1; OCL 94; FoF 2422; OCSN 207
 fname: melotte210
+members_file: "36_40"
 fov: 1.0
 ra_icrs: 279.66078
 de_icrs: 5.44526

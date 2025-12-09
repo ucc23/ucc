@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 964; DSH J0643.0+0140
 fname: alessi15
+members_file: "208_212"
 fov: 0.01
 ra_icrs: 100.76414
 de_icrs: 1.67038

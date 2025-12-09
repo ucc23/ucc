@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3213; OCL 121; FoF 2069
 fname: roslund3
+members_file: "56_60"
 fov: 0.183
 ra_icrs: 299.69909
 de_icrs: 20.50884

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 155; MWSC 1287; OCL 587; FSR 1222; FoF 585
 fname: melotte71
+members_file: "228_232"
 fov: 0.233
 ra_icrs: 114.38108
 de_icrs: -12.06891

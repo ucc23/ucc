@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0488
 fname: teutsch168
+members_file: "116_120"
 fov: 0.19
 ra_icrs: 4.80724
 de_icrs: 65.83995

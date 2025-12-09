@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 97; MWSC 2963; FoF 2405
 fname: alessi40
+members_file: "12_16"
 fov: 0.7
 ra_icrs: 279.28547
 de_icrs: -19.17194

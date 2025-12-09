@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2331; MWSC 1103; OCL 475
 fname: collinder126
+members_file: "188_192"
 fov: 0.253
 ra_icrs: 106.75381
 de_icrs: 27.27389

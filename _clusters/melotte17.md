@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 31; NGC 1039; MWSC 223; M 34; OCL 382; FoF 2264; OCSN 222
 fname: melotte17
+members_file: "140_144"
 fov: 0.827
 ra_icrs: 40.54905
 de_icrs: 42.72822

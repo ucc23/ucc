@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 215; VDBH 86; NGC 3114; MWSC 1749; OCL 802; vdBergh-Hagen 86; ESO 127 02; FoF 2058
 fname: melotte98
+members_file: "280_284"
 fov: 0.56
 ra_icrs: 150.55969
 de_icrs: -60.03948

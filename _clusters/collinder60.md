@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1817; MWSC 484; OCL 463; FoF 0
 fname: collinder60
+members_file: "184_188"
 fov: 0.393
 ra_icrs: 78.14463
 de_icrs: 16.69925

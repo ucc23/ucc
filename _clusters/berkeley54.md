@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3456; OCL 194; FSR 0256
 fname: berkeley54
+members_file: "80_84"
 fov: 0.053
 ra_icrs: 315.74432
 de_icrs: 40.4327

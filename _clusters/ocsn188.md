@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ChaI south
 fname: ocsn188
+members_file: "296_300"
 fov: 0.43
 ra_icrs: 167.08564
 de_icrs: -77.48695

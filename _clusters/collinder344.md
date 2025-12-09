@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6416; MWSC 2673; OCL 1031; ESO 455 32; FoF 2314
 fname: collinder344
+members_file: "356_360"
 fov: 0.403
 ra_icrs: 266.01182
 de_icrs: -32.33548

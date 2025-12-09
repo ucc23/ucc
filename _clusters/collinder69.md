@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 580; FoF 2381; OCSN 189
 fname: collinder69
+members_file: "192_196"
 fov: 1.53
 ra_icrs: 83.81542
 de_icrs: 9.74538

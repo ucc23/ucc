@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1652; DSH J0920.5-5251
 fname: teutsch48
+members_file: "272_276"
 fov: 0.103
 ra_icrs: 140.11338
 de_icrs: -52.82753

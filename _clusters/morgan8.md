@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 597
 fname: morgan8
+members_file: "208_212"
 fov: 0.183
 ra_icrs: 84.12541
 de_icrs: -6.42372

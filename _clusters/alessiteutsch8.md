@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 68; MWSC 1993; AT 8; FoF 2239
 fname: alessiteutsch8
+members_file: "296_300"
 fov: 0.42
 ra_icrs: 180.6626
 de_icrs: -60.93866

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 321; VDBH 207; NGC 6253; MWSC 2502; OCL 972; vdBergh-Hagen 207; ESO 180 02; FSR 1730; FoF 21
 fname: melotte156
+members_file: "332_336"
 fov: 0.157
 ra_icrs: 254.78083
 de_icrs: -52.70964

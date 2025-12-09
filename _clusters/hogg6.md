@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1766; OCL 805; ESO 127 08
 fname: hogg6
+members_file: "280_284"
 fov: 0.22
 ra_icrs: 151.61093
 de_icrs: -60.48292

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 108; NGC 3496; MWSC 1878; OCL 836; vdBergh-Hagen 108; ESO 128 26; FSR 1562; FoF 236
 fname: collinder237
+members_file: "288_292"
 fov: 0.143
 ra_icrs: 164.87121
 de_icrs: -60.33519

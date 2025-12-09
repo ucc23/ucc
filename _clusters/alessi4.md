@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1786
 fname: alessi4
+members_file: "268_272"
 fov: 0.203
 ra_icrs: 154.07485
 de_icrs: -34.32385

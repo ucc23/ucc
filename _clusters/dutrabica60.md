@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2657; DB2001 2; BDB 4; MWSC 2656
 fname: dutrabica60
+members_file: "0_4"
 fov: 0.337
 ra_icrs: 264.86602
 de_icrs: -23.70097

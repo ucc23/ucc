@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 126
 fname: upk64
+members_file: "52_56"
 fov: 1.433
 ra_icrs: 281.74593
 de_icrs: 24.75245

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hd88174group
+members_file: "280_284"
 fov: 0.113
 ra_icrs: 152.13515
 de_icrs: -56.40453

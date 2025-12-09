@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 438; NGC 7092; MWSC 3521; M 39; OCL 211; OCSN 243
 fname: melotte236
+members_file: "92_96"
 fov: 1.707
 ra_icrs: 322.80144
 de_icrs: 48.25233

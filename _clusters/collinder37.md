@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1220; MWSC 261; OCL 380
 fname: collinder37
+members_file: "140_144"
 fov: 0.057
 ra_icrs: 47.9208
 de_icrs: 53.34452

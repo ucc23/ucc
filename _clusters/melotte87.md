@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 188; VDBH 38; NGC 2627; MWSC 1514; OCL 714; vdBergh-Hagen 38; ESO 431 20; FSR 1362; FoF 622
 fname: melotte87
+members_file: "248_252"
 fov: 0.213
 ra_icrs: 129.30717
 de_icrs: -29.9514

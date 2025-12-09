@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 37
 fname: sai4
+members_file: "116_120"
 fov: 0.12
 ra_icrs: 5.88335
 de_icrs: 62.71053

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: AT 17; Alessi-Teutsch 17; HD 67425 Group
 fname: alessi165
+members_file: "208_212"
 fov: 0.1
 ra_icrs: 122.25978
 de_icrs: 12.84214

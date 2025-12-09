@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Cmg 65
 fname: oneal9
+members_file: "196_200"
 fov: 0.213
 ra_icrs: 115.26242
 de_icrs: 21.7764

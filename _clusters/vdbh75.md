@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 75; MWSC 1691; BH 75
 fname: vdbh75
+members_file: "276_280"
 fov: 0.157
 ra_icrs: 143.82436
 de_icrs: -54.63221

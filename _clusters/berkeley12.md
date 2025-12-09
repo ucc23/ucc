@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 413; OCL 412; FSR 0710
 fname: berkeley12
+members_file: "160_164"
 fov: 0.093
 ra_icrs: 71.1017
 de_icrs: 42.69146

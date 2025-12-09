@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 932
 fname: basel7
+members_file: "200_204"
 fov: 0.217
 ra_icrs: 99.11924
 de_icrs: 8.352

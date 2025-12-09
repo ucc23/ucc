@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2312
 fname: dbsb94
+members_file: "324_328"
 fov: 0.207
 ra_icrs: 235.56517
 de_icrs: -53.95517

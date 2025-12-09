@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1911; FoF 1526
 fname: trumpler18
+members_file: "288_292"
 fov: 0.167
 ra_icrs: 167.83023
 de_icrs: -60.63684

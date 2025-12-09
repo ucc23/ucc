@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1915.2+3251
 fname: teutsch32
+members_file: "64_68"
 fov: 0.263
 ra_icrs: 288.76063
 de_icrs: 32.79298

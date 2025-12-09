@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 90; vdBergh-Hagen 90; MWSC 1778; BH 90; FoF 124
 fname: vdbh90
+members_file: "280_284"
 fov: 0.077
 ra_icrs: 153.06174
 de_icrs: -58.07208

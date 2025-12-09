@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3144; DSH J1937.3+1841
 fname: teutsch27
+members_file: "52_56"
 fov: 0.017
 ra_icrs: 294.34288
 de_icrs: 18.69978

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7419; MWSC 3672; OCL 250; FSR 0400
 fname: collinder453
+members_file: "108_112"
 fov: 0.073
 ra_icrs: 343.57574
 de_icrs: 60.81286

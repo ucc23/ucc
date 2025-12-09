@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 512; King 22; OCL 420; OCL 419; FSR 0731
 fname: berkeley18
+members_file: "160_164"
 fov: 0.207
 ra_icrs: 80.54038
 de_icrs: 45.44011

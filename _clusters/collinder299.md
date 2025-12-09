@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 952; ESO 179 01
 fname: collinder299
+members_file: "328_332"
 fov: 0.167
 ra_icrs: 243.94082
 de_icrs: -55.12717

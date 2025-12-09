@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1802.8-2249
 fname: teutsch72
+members_file: "4_8"
 fov: 0.103
 ra_icrs: 270.71392
 de_icrs: -22.81361

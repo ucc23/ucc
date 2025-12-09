@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 249
 fname: sai24
+members_file: "136_140"
 fov: 0.153
 ra_icrs: 44.82609
 de_icrs: 60.57052

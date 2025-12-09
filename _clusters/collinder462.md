@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 189; MWSC 62; OCL 301; FoF 2127
 fname: collinder462
+members_file: "120_124"
 fov: 0.287
 ra_icrs: 9.88299
 de_icrs: 61.09624

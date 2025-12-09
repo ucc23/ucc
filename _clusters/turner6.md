@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1876
 fname: turner6
+members_file: "288_292"
 fov: 0.04
 ra_icrs: 164.83311
 de_icrs: -59.543

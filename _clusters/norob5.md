@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: norob5
+members_file: "332_336"
 fov: 0.17
 ra_icrs: 242.60265
 de_icrs: -49.04565

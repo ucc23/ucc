@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3498
 fname: basel14
+members_file: "88_92"
 fov: 0.153
 ra_icrs: 320.26855
 de_icrs: 44.78644

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 160; MWSC 2225; OCL 921; vdBergh-Hagen 160; ESO 134 05; FSR 1679
 fname: pismis19
+members_file: "312_316"
 fov: 0.043
 ra_icrs: 217.66854
 de_icrs: -60.88746

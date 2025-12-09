@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Le Duigou-Knodlseder 3
 fname: lk3
+members_file: "76_80"
 fov: 0.137
 ra_icrs: 306.40561
 de_icrs: 39.42141

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1381
 fname: waterloo3
+members_file: "240_244"
 fov: 0.1
 ra_icrs: 118.77513
 de_icrs: -25.35616

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hxhwl74
+members_file: "216_220"
 fov: 0.1
 ra_icrs: 103.8547
 de_icrs: -3.77726

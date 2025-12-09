@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2250; MWSC 905; OCL 547
 fname: collinder100
+members_file: "212_216"
 fov: 0.29
 ra_icrs: 98.4411
 de_icrs: -5.08151

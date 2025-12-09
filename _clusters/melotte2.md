@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 6; NGC 188; MWSC 74; OCL 309; FoF 651
 fname: melotte2
+members_file: "120_124"
 fov: 0.277
 ra_icrs: 11.78551
 de_icrs: 85.24285

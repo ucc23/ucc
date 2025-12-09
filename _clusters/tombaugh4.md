@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 199; OCL 349; FSR 0585
 fname: tombaugh4
+members_file: "132_136"
 fov: 0.06
 ra_icrs: 37.29786
 de_icrs: 61.78841

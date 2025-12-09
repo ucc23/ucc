@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 40; NGC 1342; MWSC 283; OCL 401; FSR 0679; FoF 2265
 fname: melotte21
+members_file: "152_156"
 fov: 0.677
 ra_icrs: 52.89839
 de_icrs: 37.39092

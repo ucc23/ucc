@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: karhula17
+members_file: "240_244"
 fov: 0.21
 ra_icrs: 113.39588
 de_icrs: -27.81132

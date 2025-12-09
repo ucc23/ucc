@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 455; NGC 7654; MWSC 3725; M 52; OCL 260; FoF 526
 fname: melotte243
+members_file: "112_116"
 fov: 0.203
 ra_icrs: 351.19178
 de_icrs: 61.59168

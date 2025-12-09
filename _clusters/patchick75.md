@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3291; DSH J2015.0+3355; FSR 0196
 fname: patchick75
+members_file: "72_76"
 fov: 0.04
 ra_icrs: 303.75769
 de_icrs: 33.93072

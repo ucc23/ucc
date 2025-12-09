@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 20; MWSC 1444; OCL 710; vdBergh-Hagen 20; ESO 430 23
 fname: ruprecht54
+members_file: "248_252"
 fov: 0.067
 ra_icrs: 122.84487
 de_icrs: -31.94713

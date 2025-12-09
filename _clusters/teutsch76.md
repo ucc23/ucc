@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3628
 fname: teutsch76
+members_file: "104_108"
 fov: 0.15
 ra_icrs: 337.1679
 de_icrs: 61.62705

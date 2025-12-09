@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3739; OCL 262; FSR 0434; FoF 2071
 fname: king20
+members_file: "112_116"
 fov: 0.137
 ra_icrs: 353.31694
 de_icrs: 58.47608

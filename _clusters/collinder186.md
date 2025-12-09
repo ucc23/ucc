@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 29; NGC 2588; MWSC 1480; OCL 715; vdBergh-Hagen 29; ESO 370 10
 fname: collinder186
+members_file: "252_256"
 fov: 0.057
 ra_icrs: 125.80222
 de_icrs: -32.9729

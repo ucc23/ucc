@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2385
 fname: ubc7
+members_file: "248_252"
 fov: 0.827
 ra_icrs: 106.63022
 de_icrs: -37.70329

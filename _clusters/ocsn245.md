@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Ophiuchi p1
 fname: ocsn245
+members_file: "352_356"
 fov: 1.697
 ra_icrs: 246.403
 de_icrs: -24.03509

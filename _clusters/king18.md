@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3669; OCL 247; FSR 0392; FoF 1312
 fname: king18
+members_file: "104_108"
 fov: 0.127
 ra_icrs: 343.04502
 de_icrs: 58.28996

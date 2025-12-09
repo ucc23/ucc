@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2243; OCL 923.1
 fname: loden1373
+members_file: "312_316"
 fov: 0.253
 ra_icrs: 220.3432
 de_icrs: -62.85409

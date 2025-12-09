@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2235
 fname: collinder197
+members_file: "260_264"
 fov: 0.213
 ra_icrs: 131.19424
 de_icrs: -41.27795

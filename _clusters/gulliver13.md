@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: CMa03
 fname: gulliver13
+members_file: "224_228"
 fov: 0.25
 ra_icrs: 104.8575
 de_icrs: -13.2561

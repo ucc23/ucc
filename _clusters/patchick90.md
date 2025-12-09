@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 68; MWSC 974; DSH J0644.7-0031
 fname: patchick90
+members_file: "212_216"
 fov: 0.043
 ra_icrs: 101.17998
 de_icrs: -0.5264

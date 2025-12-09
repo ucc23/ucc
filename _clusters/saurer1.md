@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1184; MWSC 1184
 fname: saurer1
+members_file: "212_216"
 fov: 0.05
 ra_icrs: 110.22859
 de_icrs: 1.81132

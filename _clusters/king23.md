@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1190; Czernik 28; OCL 552; FSR 1121; FoF 584
 fname: king23
+members_file: "216_220"
 fov: 0.113
 ra_icrs: 110.46283
 de_icrs: -0.98768

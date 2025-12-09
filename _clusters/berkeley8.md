@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0545; MWSC 158; OCL 323; FoF 652
 fname: berkeley8
+members_file: "124_128"
 fov: 0.147
 ra_icrs: 30.29243
 de_icrs: 75.48597

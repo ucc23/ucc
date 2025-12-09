@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3252
 fname: doldzim10
+members_file: "76_80"
 fov: 0.157
 ra_icrs: 301.42871
 de_icrs: 40.48989

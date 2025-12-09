@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 141; FoF 2074
 fname: ascc6
+members_file: "128_132"
 fov: 0.253
 ra_icrs: 26.85412
 de_icrs: 57.73084

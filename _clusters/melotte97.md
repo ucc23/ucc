@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 208; VDBH 69; IC 2488; MWSC 1671; OCL 789; vdBergh-Hagen 69; ESO 166 14; FoF 675
 fname: melotte97
+members_file: "276_280"
 fov: 0.35
 ra_icrs: 141.86878
 de_icrs: -57.0082

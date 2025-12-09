@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0495; MWSC 52; OCL 293; FoF 680
 fname: stock21
+members_file: "120_124"
 fov: 0.127
 ra_icrs: 7.59288
 de_icrs: 57.92516

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: J1822.6-1443; MWSC 2901
 fname: kronberger25
+members_file: "16_20"
 fov: 0.04
 ra_icrs: 275.66684
 de_icrs: -14.72542

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Koposov 82
 fname: teutsch136
+members_file: "188_192"
 fov: 0.033
 ra_icrs: 92.98807
 de_icrs: 20.67383

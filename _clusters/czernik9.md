@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 212
 fname: czernik9
+members_file: "132_136"
 fov: 0.077
 ra_icrs: 38.39377
 de_icrs: 59.88379

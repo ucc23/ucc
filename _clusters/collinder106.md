@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 936
 fname: collinder106
+members_file: "204_208"
 fov: 0.23
 ra_icrs: 99.29003
 de_icrs: 6.03668

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg95
+members_file: "0_4"
 fov: 0.187
 ra_icrs: 270.69526
 de_icrs: -29.37746

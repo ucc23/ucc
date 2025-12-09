@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 85; MWSC 1748; BH 85; ESO 213 05
 fname: vdbh85
+members_file: "276_280"
 fov: 0.06
 ra_icrs: 150.46686
 de_icrs: -49.56438

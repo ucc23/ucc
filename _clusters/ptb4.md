@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3718
 fname: ptb4
+members_file: "112_116"
 fov: 0.203
 ra_icrs: 349.94267
 de_icrs: 70.06123

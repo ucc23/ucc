@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1368; OCL 645; ESO 560 18
 fname: ruprecht39
+members_file: "236_240"
 fov: 0.183
 ra_icrs: 118.10102
 de_icrs: -22.44788

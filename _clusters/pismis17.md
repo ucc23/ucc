@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 833; MWSC 1882
 fname: pismis17
+members_file: "288_292"
 fov: 0.103
 ra_icrs: 165.39747
 de_icrs: -59.88968

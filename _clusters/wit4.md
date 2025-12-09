@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3354
 fname: wit4
+members_file: "80_84"
 fov: 0.157
 ra_icrs: 307.52415
 de_icrs: 44.28358

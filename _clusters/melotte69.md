@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 154; NGC 2420; MWSC 1292; OCL 488; FoF 642
 fname: melotte69
+members_file: "196_200"
 fov: 0.193
 ra_icrs: 114.60323
 de_icrs: 21.5766

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2559
 fname: bochum13
+members_file: "348_352"
 fov: 0.21
 ra_icrs: 259.33563
 de_icrs: -35.53284

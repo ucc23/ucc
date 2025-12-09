@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1272
 fname: dbsb10
+members_file: "236_240"
 fov: 0.077
 ra_icrs: 113.8689
 de_icrs: -22.39822

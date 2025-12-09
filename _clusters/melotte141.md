@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 300; VDBH 188; NGC 6087; OCL 948; vdBergh-Hagen 188; ESO 137 15; MWSC 2382; FoF 2279
 fname: melotte141
+members_file: "324_328"
 fov: 0.42
 ra_icrs: 244.7202
 de_icrs: -57.91534

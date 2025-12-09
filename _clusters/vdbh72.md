@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1494; vdBergh-Hagen 72; MWSC 1681; BH 72; ESO 166 20
 fname: vdbh72
+members_file: "272_276"
 fov: 0.063
 ra_icrs: 142.8488
 de_icrs: -53.03994

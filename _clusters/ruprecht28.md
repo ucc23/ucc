@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1299; FoF 686
 fname: ruprecht28
+members_file: "244_248"
 fov: 0.12
 ra_icrs: 114.897
 de_icrs: -30.93514

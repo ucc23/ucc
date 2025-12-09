@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm8
+members_file: "20_24"
 fov: 0.26
 ra_icrs: 277.22819
 de_icrs: -10.95432

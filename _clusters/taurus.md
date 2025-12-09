@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: taurus
+members_file: "168_172"
 fov: 2.063
 ra_icrs: 65.78245
 de_icrs: 27.29205

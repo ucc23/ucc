@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: sgrob7
+members_file: "8_12"
 fov: 0.217
 ra_icrs: 273.71618
 de_icrs: -20.4369

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2141; MWSC 710; OCL 487; FSR 0971; FoF 28
 fname: collinder79
+members_file: "196_200"
 fov: 0.123
 ra_icrs: 90.73932
 de_icrs: 10.45588

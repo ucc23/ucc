@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 678
 fname: bdsb77
+members_file: "184_188"
 fov: 0.163
 ra_icrs: 87.55837
 de_icrs: 23.88769

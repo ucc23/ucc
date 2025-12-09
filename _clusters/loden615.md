@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2015; OCL 879.1; ESO 095 06
 fname: loden615
+members_file: "296_300"
 fov: 0.27
 ra_icrs: 185.19996
 de_icrs: -64.80787

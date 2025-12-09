@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2700; OCL 75; OCSN 192
 fname: collinder350
+members_file: "24_28"
 fov: 1.127
 ra_icrs: 267.05712
 de_icrs: 1.51297

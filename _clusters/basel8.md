@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 907; OCL 499.1
 fname: basel8
+members_file: "200_204"
 fov: 0.297
 ra_icrs: 98.54182
 de_icrs: 8.00616

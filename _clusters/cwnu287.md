@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 151
 fname: cwnu287
+members_file: "280_284"
 fov: 0.59
 ra_icrs: 155.25706
 de_icrs: -55.92496

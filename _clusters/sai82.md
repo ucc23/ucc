@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1366
 fname: sai82
+members_file: "248_252"
 fov: 0.287
 ra_icrs: 118.05922
 de_icrs: -33.08876

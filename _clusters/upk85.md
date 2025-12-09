@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: upk85
+members_file: "64_68"
 fov: 0.737
 ra_icrs: 304.91909
 de_icrs: 23.83914

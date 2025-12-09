@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Kronberger 60; FSR 0827; Teutsch J0604.2+3136
 fname: kronberger6
+members_file: "176_180"
 fov: 0.13
 ra_icrs: 91.0625
 de_icrs: 31.60149

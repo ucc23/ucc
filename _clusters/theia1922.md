@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: theia1922
+members_file: "96_100"
 fov: 0.35
 ra_icrs: 327.4728
 de_icrs: 51.68555

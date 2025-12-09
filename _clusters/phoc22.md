@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc22
+members_file: "276_280"
 fov: 0.117
 ra_icrs: 144.07738
 de_icrs: -56.58082

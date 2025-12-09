@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1079
 fname: bochum3
+members_file: "216_220"
 fov: 0.12
 ra_icrs: 105.85971
 de_icrs: -5.01465

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg53
+members_file: "304_308"
 fov: 0.097
 ra_icrs: 195.47007
 de_icrs: -64.04317

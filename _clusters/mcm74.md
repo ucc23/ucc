@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm74
+members_file: "332_336"
 fov: 0.23
 ra_icrs: 244.21212
 de_icrs: -51.29492

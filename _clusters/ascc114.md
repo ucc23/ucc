@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3542; FoF 2248
 fname: ascc114
+members_file: "96_100"
 fov: 0.38
 ra_icrs: 324.98983
 de_icrs: 53.97466

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2290
 fname: ascc80
+members_file: "320_324"
 fov: 0.22
 ra_icrs: 231.21223
 de_icrs: -60.12841

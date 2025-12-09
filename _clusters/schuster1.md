@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1756; C1002-556; FSR 1523
 fname: schuster1
+members_file: "280_284"
 fov: 0.04
 ra_icrs: 151.15407
 de_icrs: -55.8547

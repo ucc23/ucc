@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dolidze36
+members_file: "76_80"
 fov: 0.167
 ra_icrs: 300.57988
 de_icrs: 42.09764

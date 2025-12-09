@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 126
 fname: czernik4
+members_file: "128_132"
 fov: 0.23
 ra_icrs: 23.88649
 de_icrs: 61.49288

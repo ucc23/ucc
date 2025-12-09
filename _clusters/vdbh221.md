@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 221; vdBergh-Hagen 221; MWSC 2563; BH 221; ESO 454 06
 fname: vdbh221
+members_file: "352_356"
 fov: 0.287
 ra_icrs: 259.6247
 de_icrs: -32.36924

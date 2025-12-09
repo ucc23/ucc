@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7128; MWSC 3554; OCL 218; FSR 0327
 fname: collinder440
+members_file: "96_100"
 fov: 0.057
 ra_icrs: 325.99175
 de_icrs: 53.7149

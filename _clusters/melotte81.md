@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 171; NGC 2509; MWSC 1410; OCL 630; ESO 561 07; FSR 1282; FoF 588
 fname: melotte81
+members_file: "236_240"
 fov: 0.163
 ra_icrs: 120.20242
 de_icrs: -19.05692

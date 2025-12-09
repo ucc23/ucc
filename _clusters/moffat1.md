@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2346; C1557-540
 fname: moffat1
+members_file: "328_332"
 fov: 0.083
 ra_icrs: 240.40274
 de_icrs: -54.1437

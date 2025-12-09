@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 542
 fname: sai49
+members_file: "156_160"
 fov: 0.193
 ra_icrs: 81.57339
 de_icrs: 50.75125

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1711; OCL 788; ESO 167 05; FoF 998
 fname: ruprecht82
+members_file: "276_280"
 fov: 0.127
 ra_icrs: 146.41581
 de_icrs: -54.00457

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg38
+members_file: "328_332"
 fov: 0.163
 ra_icrs: 241.49532
 de_icrs: -52.66992

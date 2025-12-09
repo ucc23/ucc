@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1844; FoF 2407; OCSN 138
 fname: alessi5
+members_file: "288_292"
 fov: 0.81
 ra_icrs: 160.83295
 de_icrs: -61.08948

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 513
 fname: dolidze17
+members_file: "192_196"
 fov: 0.24
 ra_icrs: 80.60522
 de_icrs: 7.15717

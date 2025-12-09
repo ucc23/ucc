@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 884
 fname: collinder96
+members_file: "204_208"
 fov: 0.187
 ra_icrs: 97.58826
 de_icrs: 2.86279

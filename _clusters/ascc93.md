@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2814
 fname: ascc93
+members_file: "8_12"
 fov: 0.117
 ra_icrs: 271.93828
 de_icrs: -22.29481

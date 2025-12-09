@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: hogg5
+members_file: "280_284"
 fov: 0.23
 ra_icrs: 151.60928
 de_icrs: -60.34255

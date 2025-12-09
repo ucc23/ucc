@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3185; Teutsch J1948.5+2157
 fname: ascc107
+members_file: "56_60"
 fov: 0.32
 ra_icrs: 297.12968
 de_icrs: 21.96422

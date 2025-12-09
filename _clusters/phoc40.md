@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 248
 fname: phoc40
+members_file: "44_48"
 fov: 1.073
 ra_icrs: 287.768
 de_icrs: 14.21542

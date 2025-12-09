@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl485
+members_file: "280_284"
 fov: 0.12
 ra_icrs: 151.26512
 de_icrs: -59.15918

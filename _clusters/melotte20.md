@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 274; Alpha Persei; Alpha Per; OCSN 218
 fname: melotte20
+members_file: "144_148"
 fov: 2.99
 ra_icrs: 51.63254
 de_icrs: 48.9655

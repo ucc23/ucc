@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0625.6+1336; MWSC 866
 fname: teutsch12
+members_file: "196_200"
 fov: 0.077
 ra_icrs: 96.42326
 de_icrs: 13.60631

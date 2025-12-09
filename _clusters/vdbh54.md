@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 54; MWSC 1575; BH 54
 fname: vdbh54
+members_file: "264_268"
 fov: 0.127
 ra_icrs: 132.39048
 de_icrs: -44.35525

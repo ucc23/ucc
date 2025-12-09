@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6755; MWSC 3051; OCL 96
 fname: collinder397
+members_file: "36_40"
 fov: 0.123
 ra_icrs: 286.94093
 de_icrs: 4.22729

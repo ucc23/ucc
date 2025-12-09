@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 252; MWSC 2730; OCL 4; vdBergh-Hagen 252; ESO 456 01
 fname: ruprecht134
+members_file: "0_4"
 fov: 0.12
 ra_icrs: 268.18356
 de_icrs: -29.53373

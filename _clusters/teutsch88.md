@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J0520.5+3932
 fname: teutsch88
+members_file: "168_172"
 fov: 0.103
 ra_icrs: 80.12288
 de_icrs: 39.54018

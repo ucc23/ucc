@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7686; MWSC 3734; OCL 251
 fname: collinder456
+members_file: "108_112"
 fov: 0.267
 ra_icrs: 352.45794
 de_icrs: 49.14764

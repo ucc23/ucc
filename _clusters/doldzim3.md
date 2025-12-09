@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 575
 fname: doldzim3
+members_file: "180_184"
 fov: 0.223
 ra_icrs: 83.38742
 de_icrs: 26.48223

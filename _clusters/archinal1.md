@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3021
 fname: archinal1
+members_file: "36_40"
 fov: 0.117
 ra_icrs: 283.71294
 de_icrs: 5.5466

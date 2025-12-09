@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1909
 fname: ascc65
+members_file: "288_292"
 fov: 0.2
 ra_icrs: 167.82453
 de_icrs: -61.12328

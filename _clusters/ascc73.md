@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2053
 fname: ascc73
+members_file: "300_304"
 fov: 0.653
 ra_icrs: 189.30314
 de_icrs: -67.20284

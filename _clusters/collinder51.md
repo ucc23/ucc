@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 1582; MWSC 388; OCL 407; FoF 2299
 fname: collinder51
+members_file: "156_160"
 fov: 0.433
 ra_icrs: 67.97169
 de_icrs: 43.72031

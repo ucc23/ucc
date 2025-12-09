@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6583; MWSC 2860; OCL 27; ESO 590 11; FSR 0032; FoF 152
 fname: collinder370
+members_file: "8_12"
 fov: 0.11
 ra_icrs: 273.95951
 de_icrs: -22.14605

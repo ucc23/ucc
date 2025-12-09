@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2979
 fname: ascc98
+members_file: "0_4"
 fov: 0.227
 ra_icrs: 280.6763
 de_icrs: -33.62195

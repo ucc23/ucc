@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 228
 fname: ascc9
+members_file: "136_140"
 fov: 0.287
 ra_icrs: 41.70441
 de_icrs: 57.73471

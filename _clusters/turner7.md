@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2229
 fname: turner7
+members_file: "316_320"
 fov: 0.263
 ra_icrs: 218.11491
 de_icrs: -56.89752

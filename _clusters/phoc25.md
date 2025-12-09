@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc25
+members_file: "200_204"
 fov: 0.11
 ra_icrs: 95.26236
 de_icrs: 7.33842

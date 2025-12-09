@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 80; MWSC 1345; DSH J0748.4-2754
 fname: teutsch25
+members_file: "240_244"
 fov: 0.107
 ra_icrs: 117.11621
 de_icrs: -27.91861

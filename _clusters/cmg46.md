@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cmg46
+members_file: "188_192"
 fov: 0.223
 ra_icrs: 93.61217
 de_icrs: 21.1892

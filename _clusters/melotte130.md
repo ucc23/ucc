@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 289; Loden 2104; VDBH 168; NGC 5822; MWSC 2269; OCL 937; vdBergh-Hagen 168; ESO 176 09; FoF 2241
 fname: melotte130
+members_file: "320_324"
 fov: 0.597
 ra_icrs: 226.04707
 de_icrs: -54.383

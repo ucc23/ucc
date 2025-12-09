@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2047; OCL 886; ESO 131 12; Slotegraaf 41; FoF 2153
 fname: ruprecht105
+members_file: "300_304"
 fov: 0.17
 ra_icrs: 188.70364
 de_icrs: -61.58776

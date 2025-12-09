@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3704; OCSN 135
 fname: ascc127
+members_file: "112_116"
 fov: 1.343
 ra_icrs: 347.18543
 de_icrs: 65.1229

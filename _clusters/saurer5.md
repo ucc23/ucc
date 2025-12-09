@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3149
 fname: saurer5
+members_file: "60_64"
 fov: 0.057
 ra_icrs: 294.86761
 de_icrs: 25.63762

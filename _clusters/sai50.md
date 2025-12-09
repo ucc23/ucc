@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: sai50
+members_file: "172_176"
 fov: 0.197
 ra_icrs: 82.15797
 de_icrs: 35.02868

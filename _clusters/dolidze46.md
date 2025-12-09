@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3724
 fname: dolidze46
+members_file: "108_112"
 fov: 0.19
 ra_icrs: 350.49873
 de_icrs: 55.74961

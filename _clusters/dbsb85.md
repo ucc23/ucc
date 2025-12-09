@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2104
 fname: dbsb85
+members_file: "304_308"
 fov: 0.17
 ra_icrs: 199.64805
 de_icrs: -62.66581

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 165; NGC 5749; MWSC 2256; OCL 930; vdBergh-Hagen 165; ESO 176 04; FoF 2346
 fname: collinder287
+members_file: "316_320"
 fov: 0.257
 ra_icrs: 222.1915
 de_icrs: -54.50122

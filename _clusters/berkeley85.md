@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3311; OCL 160; Dolidze 41; OCL 163; FSR 0208; MWSC 3309
 fname: berkeley85
+members_file: "72_76"
 fov: 0.11
 ra_icrs: 304.69719
 de_icrs: 37.74381

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh 92; FSR 1188; CMa06
 fname: vdb92
+members_file: "224_228"
 fov: 0.297
 ra_icrs: 106.04947
 de_icrs: -11.48074

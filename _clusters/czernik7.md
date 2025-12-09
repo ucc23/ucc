@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 162; OCL 341
 fname: czernik7
+members_file: "128_132"
 fov: 0.117
 ra_icrs: 30.82612
 de_icrs: 62.25932

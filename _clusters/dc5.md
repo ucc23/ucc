@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Kronberger 38; MWSC 1838; DSH J1039.9-5911; FSR 1549
 fname: dc5
+members_file: "284_288"
 fov: 0.06
 ra_icrs: 159.99625
 de_icrs: -59.19503

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg91
+members_file: "352_356"
 fov: 0.1
 ra_icrs: 264.86632
 de_icrs: -35.08149

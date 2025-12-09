@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 876; ESO 130 11; MWSC 2012
 fname: ruprecht103
+members_file: "296_300"
 fov: 0.177
 ra_icrs: 184.07197
 de_icrs: -58.4689

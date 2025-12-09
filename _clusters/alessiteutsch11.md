@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 112; MWSC 3295; AT 11; Alessi 46; Alessi J2016.5+5204; FoF 2358
 fname: alessiteutsch11
+members_file: "84_88"
 fov: 0.63
 ra_icrs: 304.1481
 de_icrs: 52.04745

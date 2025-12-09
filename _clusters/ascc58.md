@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1782; FoF 2414; OCSN 131
 fname: ascc58
+members_file: "280_284"
 fov: 1.08
 ra_icrs: 153.65879
 de_icrs: -55.01663

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6249; MWSC 2499; OCL 994; ESO 277 19
 fname: collinder319
+members_file: "340_344"
 fov: 0.15
 ra_icrs: 254.44151
 de_icrs: -44.81292

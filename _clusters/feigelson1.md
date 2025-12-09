@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: epsilon Chamaeleontis; MWSC 1990
 fname: feigelson1
+members_file: "300_304"
 fov: 6.557
 ra_icrs: 182.44662
 de_icrs: -74.51312

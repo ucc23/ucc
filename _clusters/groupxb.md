@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: groupxb
+members_file: "92_96"
 fov: 8.483
 ra_icrs: 227.2066
 de_icrs: 58.04465

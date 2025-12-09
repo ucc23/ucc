@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6716; MWSC 3020; OCL 46; ESO 592 05; FoF 2273
 fname: collinder393
+members_file: "12_16"
 fov: 0.73
 ra_icrs: 283.37348
 de_icrs: -20.03898

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2624
 fname: antalova4
+members_file: "352_356"
 fov: 0.267
 ra_icrs: 263.22538
 de_icrs: -32.96562

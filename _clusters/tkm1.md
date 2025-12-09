@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: HD 18391 Group
 fname: tkm1
+members_file: "136_140"
 fov: 0.22
 ra_icrs: 44.60021
 de_icrs: 57.61226

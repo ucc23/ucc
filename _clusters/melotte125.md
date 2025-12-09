@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 282; VDBH 159; NGC 5617; MWSC 2223; OCL 919; vdBergh-Hagen 159; ESO 134 04
 fname: melotte125
+members_file: "312_316"
 fov: 0.15
 ra_icrs: 217.45208
 de_icrs: -60.71778

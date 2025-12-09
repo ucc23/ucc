@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: bdsb96
+members_file: "224_228"
 fov: 0.523
 ra_icrs: 106.34414
 de_icrs: -12.33747

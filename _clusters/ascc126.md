@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3699
 fname: ascc126
+members_file: "104_108"
 fov: 0.207
 ra_icrs: 346.48462
 de_icrs: 51.07221

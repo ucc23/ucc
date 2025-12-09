@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3180; DSH J1947.7+2415; FSR 0155
 fname: teutsch7
+members_file: "60_64"
 fov: 0.04
 ra_icrs: 296.93258
 de_icrs: 24.26288

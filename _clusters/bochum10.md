@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1842
 fname: bochum10
+members_file: "284_288"
 fov: 0.277
 ra_icrs: 160.47152
 de_icrs: -59.1372

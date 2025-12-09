@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1135
 fname: dias3
+members_file: "220_224"
 fov: 0.22
 ra_icrs: 107.61469
 de_icrs: -8.4412

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0586; OCL 349.1; Dolidze 47b; MWSC 176
 fname: basel10
+members_file: "132_136"
 fov: 0.11
 ra_icrs: 34.87904
 de_icrs: 58.29061

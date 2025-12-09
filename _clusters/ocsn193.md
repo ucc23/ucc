@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: epsCha
 fname: ocsn193
+members_file: "300_304"
 fov: 1.143
 ra_icrs: 180.22904
 de_icrs: -78.34153

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7261; MWSC 3617; OCL 237; FSR 0363
 fname: collinder450
+members_file: "104_108"
 fov: 0.083
 ra_icrs: 335.06362
 de_icrs: 58.12829

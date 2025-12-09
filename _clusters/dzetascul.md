@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dzetascul
+members_file: "12_16"
 fov: 0.2
 ra_icrs: 0.42544
 de_icrs: -30.2042

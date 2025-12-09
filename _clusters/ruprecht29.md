@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ruprecht29
+members_file: "240_244"
 fov: 0.113
 ra_icrs: 115.25475
 de_icrs: -24.38982

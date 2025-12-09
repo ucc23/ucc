@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: ASCC 32; MWSC 1069; FoF 2271
 fname: alessi33
+members_file: "236_240"
 fov: 0.623
 ra_icrs: 105.74438
 de_icrs: -26.4765

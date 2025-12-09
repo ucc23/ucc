@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2581
 fname: dbsb120
+members_file: "348_352"
 fov: 0.263
 ra_icrs: 260.7873
 de_icrs: -37.76608

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 349; IC 4665; MWSC 2689; OCL 85; FoF 2432; OCSN 206
 fname: melotte179
+members_file: "28_32"
 fov: 1.077
 ra_icrs: 266.56781
 de_icrs: 5.57598

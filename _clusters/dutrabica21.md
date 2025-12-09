@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dutrabica21
+members_file: "0_4"
 fov: 0.19
 ra_icrs: 265.77779
 de_icrs: -27.88491

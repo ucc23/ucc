@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 46
 fname: sai6
+members_file: "120_124"
 fov: 0.213
 ra_icrs: 7.0263
 de_icrs: 60.68507

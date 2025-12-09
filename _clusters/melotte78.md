@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 165; VDBH 13; NGC 2477; MWSC 1363; OCL 720; vdBergh-Hagen 13; ESO 311 17; FSR 1369; FoF 35
 fname: melotte78
+members_file: "252_256"
 fov: 0.35
 ra_icrs: 118.04863
 de_icrs: -38.53948

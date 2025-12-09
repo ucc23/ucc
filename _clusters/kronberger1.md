@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 555
 fname: kronberger1
+members_file: "172_176"
 fov: 0.167
 ra_icrs: 82.03599
 de_icrs: 34.78359

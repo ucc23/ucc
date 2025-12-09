@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2456; OCL 973; ESO 226 22
 fname: lynga12
+members_file: "332_336"
 fov: 0.217
 ra_icrs: 251.54482
 de_icrs: -50.79591

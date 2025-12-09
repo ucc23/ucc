@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3763
 fname: ptb9
+members_file: "116_120"
 fov: 0.37
 ra_icrs: 357.45392
 de_icrs: 68.03791

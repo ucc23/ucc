@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2395; FoF 862
 fname: ruprecht117
+members_file: "332_336"
 fov: 0.08
 ra_icrs: 245.87905
 de_icrs: -51.87248

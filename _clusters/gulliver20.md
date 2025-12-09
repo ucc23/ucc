@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 196
 fname: gulliver20
+members_file: "36_40"
 fov: 1.26
 ra_icrs: 273.75433
 de_icrs: 10.98752

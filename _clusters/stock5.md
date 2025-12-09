@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 163; FoF 2344
 fname: stock5
+members_file: "128_132"
 fov: 0.257
 ra_icrs: 31.15716
 de_icrs: 64.36299

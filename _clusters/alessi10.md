@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3242; LeDrew 3; OCSN 140
 fname: alessi10
+members_file: "28_32"
 fov: 0.817
 ra_icrs: 301.2536
 de_icrs: -10.54576

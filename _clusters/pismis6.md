@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2645; FSR 1436; SAI 92; MWSC 1520
 fname: pismis6
+members_file: "264_268"
 fov: 0.167
 ra_icrs: 129.82559
 de_icrs: -46.25317

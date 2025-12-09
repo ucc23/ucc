@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 7031; FSR 0294; MWSC 3466; OCL 210
 fname: collinder430
+members_file: "88_92"
 fov: 0.19
 ra_icrs: 316.80891
 de_icrs: 50.8627

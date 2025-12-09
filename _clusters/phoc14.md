@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc14
+members_file: "60_64"
 fov: 0.09
 ra_icrs: 295.90809
 de_icrs: 24.43756

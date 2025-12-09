@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2526; DSH J1704.3-4204
 fname: teutsch84
+members_file: "344_348"
 fov: 0.093
 ra_icrs: 256.09412
 de_icrs: -42.06806

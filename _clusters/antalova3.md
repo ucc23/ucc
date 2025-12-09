@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2613; ScoOB6; Assoc 69.1
 fname: antalova3
+members_file: "352_356"
 fov: 0.17
 ra_icrs: 262.60118
 de_icrs: -32.19424

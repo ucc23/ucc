@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 128; NGC 4184; MWSC 2007; OCL 877; vdBergh-Hagen 128; ESO 130 10
 fname: ruprecht102
+members_file: "296_300"
 fov: 0.057
 ra_icrs: 183.39195
 de_icrs: -62.71967

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: westerlund2
+members_file: "284_288"
 fov: 0.03
 ra_icrs: 156.01012
 de_icrs: -57.75842

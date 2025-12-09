@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: melotte31
+members_file: "172_176"
 fov: 0.197
 ra_icrs: 79.52359
 de_icrs: 33.34248

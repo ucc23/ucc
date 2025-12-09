@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: BH 245; vdBergh-Hagen 245; ESO 455 35; MWSC 2687
 fname: vdbh245
+members_file: "356_360"
 fov: 0.093
 ra_icrs: 266.5613
 de_icrs: -29.70444

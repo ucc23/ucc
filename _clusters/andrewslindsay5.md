@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2985
 fname: andrewslindsay5
+members_file: "24_28"
 fov: 0.047
 ra_icrs: 281.07764
 de_icrs: -4.92845

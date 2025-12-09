@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: dbsb70
+members_file: "292_296"
 fov: 0.183
 ra_icrs: 177.08618
 de_icrs: -62.32416

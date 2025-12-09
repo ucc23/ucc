@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Juchert-Saloranta 1; MWSC 28; DSH J0016.3+5957; FSR 0478
 fname: juchertsaloran1
+members_file: "116_120"
 fov: 0.057
 ra_icrs: 4.07833
 de_icrs: 59.96158

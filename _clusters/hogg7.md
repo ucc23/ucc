@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1810
 fname: hogg7
+members_file: "284_288"
 fov: 0.247
 ra_icrs: 157.22706
 de_icrs: -60.7561

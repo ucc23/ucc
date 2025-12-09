@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 380; NGC 6633; MWSC 2917; OCL 90; FoF 2425; OCSN 241
 fname: melotte201
+members_file: "36_40"
 fov: 0.857
 ra_icrs: 276.84065
 de_icrs: 6.60999

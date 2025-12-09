@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3397; OCL 165
 fname: ruprecht173
+members_file: "76_80"
 fov: 0.153
 ra_icrs: 310.4754
 de_icrs: 35.57939

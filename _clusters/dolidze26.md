@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1246; OCL 516
 fname: dolidze26
+members_file: "204_208"
 fov: 0.25
 ra_icrs: 112.525
 de_icrs: 11.84052

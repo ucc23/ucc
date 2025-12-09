@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1493
 fname: sai90
+members_file: "260_264"
 fov: 0.263
 ra_icrs: 127.01772
 de_icrs: -41.75128

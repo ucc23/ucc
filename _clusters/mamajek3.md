@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mamajek3
+members_file: "196_200"
 fov: 4.18
 ra_icrs: 80.5077
 de_icrs: 6.86604

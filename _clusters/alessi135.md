@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: alessi135
+members_file: "180_184"
 fov: 0.157
 ra_icrs: 87.41182
 de_icrs: 27.03902

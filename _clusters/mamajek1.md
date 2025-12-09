@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: eta Chamaeleontis; MWSC 1535; OCSN 215
 fname: mamajek1
+members_file: "292_296"
 fov: 2.773
 ra_icrs: 131.1322
 de_icrs: -78.91175

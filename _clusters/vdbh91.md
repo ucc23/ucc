@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 91; vdBergh-Hagen 91; MWSC 1787
 fname: vdbh91
+members_file: "284_288"
 fov: 0.2
 ra_icrs: 154.24351
 de_icrs: -58.71108

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1506
 fname: ascc48
+members_file: "256_260"
 fov: 0.207
 ra_icrs: 128.60212
 de_icrs: -37.67055

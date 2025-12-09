@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3480; FoF 2406
 fname: ascc113
+members_file: "80_84"
 fov: 1.167
 ra_icrs: 317.98462
 de_icrs: 38.68056

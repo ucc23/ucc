@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 561; DSH J0530.3+3813
 fname: teutsch52
+members_file: "168_172"
 fov: 0.037
 ra_icrs: 82.57528
 de_icrs: 38.22803

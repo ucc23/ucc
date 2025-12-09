@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 2354; MWSC 1148; OCL 639; ESO 492 06; FSR 1291; FoF 662
 fname: collinder131
+members_file: "236_240"
 fov: 0.353
 ra_icrs: 108.502
 de_icrs: -25.72606

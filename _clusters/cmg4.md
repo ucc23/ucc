@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cmg4
+members_file: "148_152"
 fov: 0.167
 ra_icrs: 41.98804
 de_icrs: 32.20965

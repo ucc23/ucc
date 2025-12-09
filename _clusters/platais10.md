@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2150; HIP 67014 Group; OCSN 253
 fname: platais10
+members_file: "308_312"
 fov: 1.49
 ra_icrs: 205.13191
 de_icrs: -59.27061

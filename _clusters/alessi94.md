@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: UBC 2
 fname: alessi94
+members_file: "116_120"
 fov: 1.247
 ra_icrs: 5.37581
 de_icrs: 46.54422

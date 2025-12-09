@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 551
 fname: waterloo2
+members_file: "168_172"
 fov: 0.263
 ra_icrs: 81.97916
 de_icrs: 40.3436

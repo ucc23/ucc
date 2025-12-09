@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Hyades; Collinder 50; MWSC 379; Taurus Moving Cluster; OCL 456; OCSN 220
 fname: melotte25
+members_file: "176_180"
 fov: 9.617
 ra_icrs: 67.21565
 de_icrs: 16.76054

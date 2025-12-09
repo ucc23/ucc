@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3643; Teutsch J2236.4+3747
 fname: teutsch39
+members_file: "92_96"
 fov: 0.953
 ra_icrs: 339.2152
 de_icrs: 37.7641

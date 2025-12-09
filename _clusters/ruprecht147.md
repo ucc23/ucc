@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6774; MWSC 3078; OCL 65; FoF 2390; OCSN 261
 fname: ruprecht147
+members_file: "20_24"
 fov: 1.407
 ra_icrs: 289.07658
 de_icrs: -16.31213

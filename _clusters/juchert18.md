@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 893
 fname: juchert18
+members_file: "204_208"
 fov: 0.08
 ra_icrs: 97.86493
 de_icrs: 6.80515

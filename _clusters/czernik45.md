@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3776; OCL 278
 fname: czernik45
+members_file: "116_120"
 fov: 0.04
 ra_icrs: 358.9281
 de_icrs: 64.61995

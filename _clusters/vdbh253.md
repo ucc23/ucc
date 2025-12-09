@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Czernik 37; MWSC 2737; OCL 8; vdBergh-Hagen 253; ESO 521 03; FoF 284
 fname: vdbh253
+members_file: "0_4"
 fov: 0.08
 ra_icrs: 268.31893
 de_icrs: -27.37353

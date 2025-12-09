@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: schoenball1
+members_file: "128_132"
 fov: 0.103
 ra_icrs: 23.41785
 de_icrs: 60.74666

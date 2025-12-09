@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1257.8-6315
 fname: teutsch109
+members_file: "300_304"
 fov: 0.053
 ra_icrs: 194.45693
 de_icrs: -63.26789

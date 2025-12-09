@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCSN 291
 fname: upk39
+members_file: "28_32"
 fov: 0.593
 ra_icrs: 277.47533
 de_icrs: 0.92852

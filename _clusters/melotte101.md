@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 227; VDBH 101; MWSC 1840; OCL 841; vdBergh-Hagen 101; ESO 093 01; FSR 1564; FoF 44
 fname: melotte101
+members_file: "288_292"
 fov: 0.19
 ra_icrs: 160.54797
 de_icrs: -65.11279

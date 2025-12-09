@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 76; NGC 2972; MWSC 1699; OCL 778; vdBergh-Hagen 76; ESO 212 11; FoF 395
 fname: collinder211
+members_file: "272_276"
 fov: 0.18
 ra_icrs: 145.0532
 de_icrs: -50.32667

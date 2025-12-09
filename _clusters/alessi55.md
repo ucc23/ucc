@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 1080; MWSC 1038
 fname: alessi55
+members_file: "212_216"
 fov: 0.217
 ra_icrs: 104.54606
 de_icrs: 0.88011

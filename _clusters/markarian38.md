@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2857
 fname: markarian38
+members_file: "8_12"
 fov: 0.15
 ra_icrs: 273.81974
 de_icrs: -19.00305

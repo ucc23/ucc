@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 529; Teutsch 37
 fname: sai48
+members_file: "172_176"
 fov: 0.193
 ra_icrs: 80.86432
 de_icrs: 33.4875

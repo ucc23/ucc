@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6871; MWSC 3253; OCL 148; FoF 493
 fname: collinder413
+members_file: "72_76"
 fov: 0.257
 ra_icrs: 301.51071
 de_icrs: 35.76388

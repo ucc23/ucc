@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MKN ab
 fname: mkn1
+members_file: "356_360"
 fov: 0.153
 ra_icrs: 266.48509
 de_icrs: -29.08224

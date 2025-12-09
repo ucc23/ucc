@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 303; VDBH 191; NGC 6134; MWSC 2412; OCL 968; vdBergh-Hagen 191; ESO 226 09; FoF 1185
 fname: melotte146
+members_file: "332_336"
 fov: 0.337
 ra_icrs: 246.94723
 de_icrs: -49.15874

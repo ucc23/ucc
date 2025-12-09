@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1622.0-4529
 fname: patchick91
+members_file: "336_340"
 fov: 0.28
 ra_icrs: 245.45166
 de_icrs: -45.50622

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: DSH J1958.5+3048
 fname: kronberger53
+members_file: "64_68"
 fov: 0.077
 ra_icrs: 299.63869
 de_icrs: 30.809

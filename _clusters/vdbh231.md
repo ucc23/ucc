@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 231; MWSC 2620; BH 231
 fname: vdbh231
+members_file: "352_356"
 fov: 0.093
 ra_icrs: 262.95344
 de_icrs: -31.92236

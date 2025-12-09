@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: SAI 142; MWSC 3459; DSH J2103.7+4713; FSR 0280
 fname: teutsch156
+members_file: "88_92"
 fov: 0.077
 ra_icrs: 315.94541
 de_icrs: 47.21817

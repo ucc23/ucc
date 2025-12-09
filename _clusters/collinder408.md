@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Harvard 20; MWSC 3198; OCL 116; FSR 0144
 fname: collinder408
+members_file: "56_60"
 fov: 0.103
 ra_icrs: 298.3299
 de_icrs: 18.35636

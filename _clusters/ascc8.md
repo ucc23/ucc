@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 180
 fname: ascc8
+members_file: "132_136"
 fov: 0.203
 ra_icrs: 35.05498
 de_icrs: 59.6161

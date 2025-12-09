@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 204; NGC 2682; MWSC 1585; Messier 67; M 67; OCL 549
 fname: melotte94
+members_file: "212_216"
 fov: 0.573
 ra_icrs: 132.84738
 de_icrs: 11.81824

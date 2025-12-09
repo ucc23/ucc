@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 569
 fname: ruprecht6
+members_file: "224_228"
 fov: 0.277
 ra_icrs: 103.99916
 de_icrs: -13.28699

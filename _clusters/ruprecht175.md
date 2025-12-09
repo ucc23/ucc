@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3409
 fname: ruprecht175
+members_file: "76_80"
 fov: 0.143
 ra_icrs: 311.26005
 de_icrs: 35.51977

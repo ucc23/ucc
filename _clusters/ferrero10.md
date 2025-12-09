@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1059
 fname: ferrero10
+members_file: "216_220"
 fov: 0.287
 ra_icrs: 105.19424
 de_icrs: -3.0512

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: xdocc11
+members_file: "88_92"
 fov: 0.143
 ra_icrs: 317.73684
 de_icrs: 47.70377

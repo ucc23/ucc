@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 160; NGC 2447; MWSC 1324; M 93; OCL 649; FSR 1301; FoF 2085
 fname: melotte76
+members_file: "240_244"
 fov: 0.39
 ra_icrs: 116.14022
 de_icrs: -23.85088

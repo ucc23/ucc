@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwl976
+members_file: "184_188"
 fov: 0.163
 ra_icrs: 102.68443
 de_icrs: 29.26385

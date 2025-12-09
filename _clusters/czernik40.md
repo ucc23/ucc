@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3161; King 27; OCL 118
 fname: czernik40
+members_file: "56_60"
 fov: 0.05
 ra_icrs: 295.65736
 de_icrs: 21.15392

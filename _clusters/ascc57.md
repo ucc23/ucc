@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1776
 fname: ascc57
+members_file: "284_288"
 fov: 0.24
 ra_icrs: 152.73792
 de_icrs: -66.68326

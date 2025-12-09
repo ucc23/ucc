@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0329; MWSC 3510; OCL 220
 fname: berkeley92
+members_file: "96_100"
 fov: 0.047
 ra_icrs: 321.2006
 de_icrs: 57.52649

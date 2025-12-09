@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 197; MWSC 2458
 fname: vdbh197
+members_file: "336_340"
 fov: 0.14
 ra_icrs: 251.5757
 de_icrs: -45.87683

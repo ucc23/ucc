@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1897
 fname: chamaleoni
+members_file: "296_300"
 fov: 1.1
 ra_icrs: 167.16215
 de_icrs: -77.19726

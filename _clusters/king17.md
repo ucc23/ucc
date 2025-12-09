@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 474; OCL 424
 fname: king17
+members_file: "164_168"
 fov: 0.1
 ra_icrs: 77.09034
 de_icrs: 39.07082

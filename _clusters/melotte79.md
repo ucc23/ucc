@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 169; VDBH 15; NGC 2489; MWSC 1386; OCL 690; vdBergh-Hagen 15; ESO 430 03; FSR 1330; FoF 200
 fname: melotte79
+members_file: "244_248"
 fov: 0.15
 ra_icrs: 119.06558
 de_icrs: -30.06073

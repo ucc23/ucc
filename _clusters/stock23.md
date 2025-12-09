@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: stock23
+members_file: "136_140"
 fov: 0.737
 ra_icrs: 49.07232
 de_icrs: 60.25696

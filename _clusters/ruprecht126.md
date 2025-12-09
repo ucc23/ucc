@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2632
 fname: ruprecht126
+members_file: "352_356"
 fov: 0.117
 ra_icrs: 263.78126
 de_icrs: -34.31456

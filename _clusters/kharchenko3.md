@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: kharchenko3
+members_file: "16_20"
 fov: 0.067
 ra_icrs: 275.75881
 de_icrs: -14.64416

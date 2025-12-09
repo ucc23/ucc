@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3257
 fname: basel6
+members_file: "72_76"
 fov: 0.177
 ra_icrs: 301.68342
 de_icrs: 38.37124

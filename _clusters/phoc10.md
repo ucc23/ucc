@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: phoc10
+members_file: "356_360"
 fov: 0.297
 ra_icrs: 266.63676
 de_icrs: -30.36826

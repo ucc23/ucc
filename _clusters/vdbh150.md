@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdBergh-Hagen 150; MWSC 2143; BH 150
 fname: vdbh150
+members_file: "308_312"
 fov: 0.06
 ra_icrs: 204.50734
 de_icrs: -63.34837

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2009
 fname: saurer4
+members_file: "296_300"
 fov: 0.153
 ra_icrs: 183.50043
 de_icrs: -63.59037

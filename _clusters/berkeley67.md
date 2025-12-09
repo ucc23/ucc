@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 404; OCL 400; FSR 0677; FoF 577
 fname: berkeley67
+members_file: "152_156"
 fov: 0.147
 ra_icrs: 69.46537
 de_icrs: 50.75822

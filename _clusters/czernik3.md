@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 98
 fname: czernik3
+members_file: "124_128"
 fov: 0.057
 ra_icrs: 15.7826
 de_icrs: 62.7881

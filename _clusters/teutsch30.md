@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3345
 fname: teutsch30
+members_file: "72_76"
 fov: 0.177
 ra_icrs: 306.92919
 de_icrs: 36.07909

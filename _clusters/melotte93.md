@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 200; VDBH 50; NGC 2670; MWSC 1554; OCL 764; vdBergh-Hagen 50; ESO 210 05; FoF 694
 fname: melotte93
+members_file: "264_268"
 fov: 0.23
 ra_icrs: 131.38816
 de_icrs: -48.79702

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: sbb2
+members_file: "100_104"
 fov: 0.067
 ra_icrs: 334.73893
 de_icrs: 56.11795

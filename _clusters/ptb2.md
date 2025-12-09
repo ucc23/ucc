@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3623
 fname: ptb2
+members_file: "108_112"
 fov: 0.277
 ra_icrs: 336.30226
 de_icrs: 71.49139

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1822
 fname: dbsb51
+members_file: "284_288"
 fov: 0.197
 ra_icrs: 158.31004
 de_icrs: -59.60402

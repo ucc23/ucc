@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: OCL 738; ESO 258 04; MWSC 1417
 fname: ruprecht154
+members_file: "256_260"
 fov: 0.19
 ra_icrs: 120.40133
 de_icrs: -44.4074

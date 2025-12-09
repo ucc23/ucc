@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
 fname: vdbh23
+members_file: "252_256"
 fov: 0.717
 ra_icrs: 123.43836
 de_icrs: -36.31659

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1964
 fname: bica5
+members_file: "292_296"
 fov: 0.243
 ra_icrs: 175.4619
 de_icrs: -62.45512

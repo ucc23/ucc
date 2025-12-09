@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Ryu 858
 fname: quartet
+members_file: "24_28"
 fov: 0.227
 ra_icrs: 279.02231
 de_icrs: -7.08053

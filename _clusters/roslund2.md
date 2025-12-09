@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3173; FoF 1275
 fname: roslund2
+members_file: "60_64"
 fov: 0.213
 ra_icrs: 296.27667
 de_icrs: 23.976

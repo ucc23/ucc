@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3583
 fname: dolidze56
+members_file: "100_104"
 fov: 0.177
 ra_icrs: 331.1341
 de_icrs: 59.88921

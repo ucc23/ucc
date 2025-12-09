@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FoF 2289
 fname: pismis4
+members_file: "260_264"
 fov: 0.623
 ra_icrs: 128.79674
 de_icrs: -44.42106

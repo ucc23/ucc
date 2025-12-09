@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3323
 fname: berkeley88
+members_file: "84_88"
 fov: 0.027
 ra_icrs: 305.30823
 de_icrs: 48.14124

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3497
 fname: bdsb23
+members_file: "96_100"
 fov: 0.16
 ra_icrs: 320.08783
 de_icrs: 55.47739

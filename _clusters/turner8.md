@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: turner8
+members_file: "60_64"
 fov: 0.253
 ra_icrs: 296.29187
 de_icrs: 27.81552

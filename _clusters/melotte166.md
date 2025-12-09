@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 325; VDBH 218; NGC 6318; MWSC 2552; OCL 1004; vdBergh-Hagen 218; ESO 333 01
 fname: melotte166
+members_file: "344_348"
 fov: 0.093
 ra_icrs: 259.04805
 de_icrs: -39.42758

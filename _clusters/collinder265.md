@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: VDBH 142; NGC 4815; MWSC 2075; OCL 893; vdBergh-Hagen 142; ESO 096 01; FSR 1637
 fname: collinder265
+members_file: "300_304"
 fov: 0.09
 ra_icrs: 194.50356
 de_icrs: -64.95858

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 414; IC 1311; FSR 0214; Dolidze 2; MWSC 3270; MWSC 3271; OCL 173; OCL 174
 fname: trumpler36
+members_file: "76_80"
 fov: 0.073
 ra_icrs: 302.70013
 de_icrs: 41.17748

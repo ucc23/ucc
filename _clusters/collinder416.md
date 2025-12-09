@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: NGC 6882; MWSC 3278; OCL 133; FSR 0168; MWSC 3277
 fname: collinder416
+members_file: "64_68"
 fov: 1.347
 ra_icrs: 302.86402
 de_icrs: 26.74212

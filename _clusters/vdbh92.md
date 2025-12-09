@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: vdB-Hagen 92; vdBergh-Hagen 92; MWSC 1791; BH 92; ESO 168 01; FSR 1533
 fname: vdbh92
+members_file: "280_284"
 fov: 0.07
 ra_icrs: 154.76781
 de_icrs: -56.42266

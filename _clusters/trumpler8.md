@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 167; NGC 2479; MWSC 1380; OCL 623; ESO 561 01; FSR 1271
 fname: trumpler8
+members_file: "232_236"
 fov: 0.2
 ra_icrs: 118.76814
 de_icrs: -17.73476

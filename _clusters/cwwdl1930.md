@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl1930
+members_file: "84_88"
 fov: 0.113
 ra_icrs: 316.24621
 de_icrs: 46.2626

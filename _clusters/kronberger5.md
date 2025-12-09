@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 3174
 fname: kronberger5
+members_file: "60_64"
 fov: 0.123
 ra_icrs: 296.50952
 de_icrs: 27.81093

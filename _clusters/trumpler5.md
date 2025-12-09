@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 105; MWSC 933; OCL 494; FSR 0989; FoF 369
 fname: trumpler5
+members_file: "200_204"
 fov: 0.26
 ra_icrs: 99.1249
 de_icrs: 9.46844

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 2368
 fname: ruprecht115
+members_file: "328_332"
 fov: 0.073
 ra_icrs: 243.21272
 de_icrs: -52.39601

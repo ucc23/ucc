@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1729
 fname: ruprecht160
+members_file: "272_276"
 fov: 0.167
 ra_icrs: 149.02789
 de_icrs: -47.01855

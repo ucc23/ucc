@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: mu Oph Cluster; MWSC 2650
 fname: mamajek2
+members_file: "16_20"
 fov: 1.803
 ra_icrs: 264.46223
 de_icrs: -7.92534

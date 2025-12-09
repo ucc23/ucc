@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: Collinder 411; OCL 918; ESO 025 18; MWSC 3299
 fname: melotte227
+members_file: "312_316"
 fov: 0.21
 ra_icrs: 304.02791
 de_icrs: -78.98144

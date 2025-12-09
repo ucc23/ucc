@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: renou22
+members_file: "148_152"
 fov: 0.247
 ra_icrs: 81.48102
 de_icrs: 63.29109

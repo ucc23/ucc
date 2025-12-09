@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: cwwdl8911
+members_file: "248_252"
 fov: 0.167
 ra_icrs: 121.74112
 de_icrs: -31.39125

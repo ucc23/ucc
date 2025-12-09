@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1975
 fname: dbsb72
+members_file: "296_300"
 fov: 0.103
 ra_icrs: 176.51077
 de_icrs: -65.55274

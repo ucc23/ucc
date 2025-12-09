@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: MWSC 1172; DSH J0718.4-1734; DC 2
 fname: teutsch49
+members_file: "228_232"
 fov: 0.057
 ra_icrs: 109.60847
 de_icrs: -17.57547

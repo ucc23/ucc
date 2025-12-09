@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: ufmg72
+members_file: "4_8"
 fov: 0.25
 ra_icrs: 268.53157
 de_icrs: -23.12874

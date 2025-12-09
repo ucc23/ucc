@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: FSR 0727; SAI 45; MWSC 495; DSH J0516.4+4535; FoF 2034
 fname: patchick3
+members_file: "160_164"
 fov: 0.237
 ra_icrs: 79.11893
 de_icrs: 45.58235

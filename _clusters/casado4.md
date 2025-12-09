@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: casado4
+members_file: "256_260"
 fov: 0.213
 ra_icrs: 125.77418
 de_icrs: -37.58498

@@ -5,6 +5,7 @@ style: style
 title_flag: true
 more_names: 
 fname: mcm10
+members_file: "20_24"
 fov: 0.203
 ra_icrs: 278.69719
 de_icrs: -8.81359
