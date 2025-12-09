@@ -118,7 +118,17 @@ layout: default
     <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">Simbad</a></p>
   </blockquote>
 
-  <h3>Estimated members</h3>
+  <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <h3 style="margin:0;">Estimated members</h3>
+
+      <div id="download-container">
+          <button id="downloadMembersCSV"
+              title="Download table of UCC members"
+              style="background:none; border:none; color:blue; cursor:pointer; font-size:18px;">
+              📥
+          </button>
+      </div>
+  </div>
 
   {% assign N_carousel = page.carousel | split: "_" | size %}
   {% if N_carousel == 1 %}
@@ -210,58 +220,14 @@ layout: default
 
 </article>
 
+
+<!-- Scripts -->
 <script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min/plotly.min.js"></script>
 
-
 <script>
-//Galactocentric position lazy load
-document.getElementById("gcpos").addEventListener("toggle", function () {
-  if (this.open) {
-    const img = this.querySelector("img");
-    if (!img.src) {
-      img.src = img.dataset.src;
-      img.onerror = () => img.alt = "Image failed to load";
-    }
-  }
-});
-
-// RADEC positions lazy load
-const details = document.getElementById('cluster-region');
-let loaded = false;
-details.addEventListener('toggle', () => {
-    if (details.open && !loaded) {
-        const s = document.createElement('script');
-        s.type = 'module';
-        s.src = `{{ site.baseurl }}/scripts/radec_scatter.js`; 
-        document.body.appendChild(s);
-        loaded = true;
-    }
-});
-
-// Umami tracking for UTI click
-const button = document.getElementById('UTI-button');
-button.onclick = () => umami.track('UTI');
-
-// Umami tracking for row visibility toggle
-const toggleInput = document.getElementById('toggle-pos-rows');
-if (toggleInput) {
-    toggleInput.addEventListener('change', () => {
-        if (toggleInput.checked) {
-            // State: Rows are now SHOWN (input is checked)
-            umami.track('posit_show');
-        }
-    });
-}
-
-// Umami tracking for summary display events
-const trackableDetails = ['summary', 'gcpos', 'cluster-region'];
-trackableDetails.forEach(elementId => {
-    const details = document.getElementById(elementId)?.closest('details');
-    details?.addEventListener('toggle', () => {
-        if (details.open) {
-            umami.track(elementId);
-        }
-    });
-});
+    window.fname = "{{ page.fname }}";
+    window.members_file = "{{ page.members_file }}";
+    window.baseurl = "{{ site.baseurl }}";
 </script>
+<script defer src="{{ site.baseurl }}/scripts/post_scripts.js"></script>
