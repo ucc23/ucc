@@ -64,7 +64,8 @@ function getPoints() {
     } = getInputValues();
 
     // If 'query' is empty return empty array
-    if (!query || query.trim() === "") {
+    query = query.trim();
+    if (!query) {
         return [];
     }
 
@@ -156,6 +157,15 @@ function getPoints() {
 
 
 function buildTable(points, totalCount) {
+    // Get a reference to the container element previously created
+    const tableContainerElement = document.getElementById("resultsTable");
+    if (!points || points.length === 0) {
+        if (tableContainerElement) {
+            tableContainerElement.innerHTML = "";   // Clear previous table
+        }
+        return;
+    }
+
     // Determine coordinate labels
     const coordsys = window.coordsys;
     const dr = coordsys === "names" ? "d [str]" : "d [ ' ]";
@@ -205,8 +215,6 @@ function buildTable(points, totalCount) {
     });
     tableBody += "</tbody>";
 
-    // Get a reference to the container element previously created
-    const tableContainerElement = document.getElementById("resultsTable"); 
     // Ensure the element exists before attempting to modify its content
     if (tableContainerElement) {
         // const nrows = points.length;
@@ -253,10 +261,8 @@ mapDetails.addEventListener("toggle", async (event) => {
   if (event.target.open) {
     // Use the cached data
     const points = cachedPoints; 
-    if (points) { 
-      const table = document.getElementById("resultsTable");
-      await updateMapIfOpen(points, table); 
-    }
+    const table = document.getElementById("resultsTable");
+    await updateMapIfOpen(points, table); 
   }
 });
 
@@ -317,9 +323,11 @@ async function updateDisplay() {
   const table = document.getElementById("resultsTable");
   enableTableSorting(table);
   await updateMapIfOpen(points, table); 
-  const downloadButton = document.getElementById('downloadCSV');
-  downloadButton.addEventListener('click', getCSV);
-  downloadButton.onclick = () => umami.track('search_downl_csv');
+  if (cachedPoints && cachedPoints.length > 0) {
+      const downloadButton = document.getElementById('downloadCSV');
+      downloadButton.addEventListener('click', getCSV);
+      downloadButton.onclick = () => umami.track('search_downl_csv');
+  }
 }
 
 
