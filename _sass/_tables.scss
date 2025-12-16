@@ -25,29 +25,26 @@ article.cluster.post .popup-message-focus table {
 article.cluster.post .toggle-state {
   display: none;
 }
-/* HIDING LOGIC:  
-    Select all rows inside tbody, 
-    EXCEPT the last child (Supernova) 
-    AND the 2nd to last child (The Toggle Row) */
+/* HIDING LOGIC: Select all rows inside tbody, EXCEPT the last child AND the 2nd to last child (toggle Row) */
 article.cluster.post #toggle-pos-rows:not(:checked) + table tbody tr:not(:last-child):not(:nth-last-child(2)) {
   display: none;
 }
 /* Button/Label Styling */
 article.cluster.post .toggle-btn {
   cursor: pointer;
-  color: blue;
-  text-decoration: underline;
-  font-family: monospace;
-  font-size: 0.9em;
+  color: $blue;
+  // text-decoration: underline;
+  // font-family: monospace;
+  // font-size: 1em;
   display: block;        /* Ensures clickability spans the cell */
   text-align: center;    /* Centers the toggle text */
 }
 /* Dynamic Text Content */
 article.cluster.post .toggle-btn::after {
-  content: "Show rows \25BC"; /* \25BC is a down arrow symbol */
+  content: "\25BA   Show rows"; /* \25BC is a down arrow symbol */
 }
 article.cluster.post #toggle-pos-rows:checked + table .toggle-btn::after {
-  content: "Hide rows \25B2"; /* \25B2 is an up arrow symbol */
+  content: "\25B2 Hide rows"; /* \25B2 is an up arrow symbol */
 }
 /* Target the Toggle Row (2nd to last) in the *immediately adjacent* specific table */
 article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) {
@@ -132,14 +129,13 @@ table tr td :last-child {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
 
-
 /* Only affect sortable tables */
 table.sortable thead th {
     cursor: pointer;
     position: relative;
 }
 
-/* On hover: subtle underline + arrow flash */
+/* On hover: subtle color */
 table.sortable thead th:hover {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
