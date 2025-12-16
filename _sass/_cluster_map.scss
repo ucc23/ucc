@@ -146,6 +146,7 @@
 }
 .results-table th {
     background: #f0f0f0;
+    cursor: pointer;
 }
 .results-table td.center, .results-table th.center {
     text-align: center;
@@ -159,7 +160,7 @@
     text-decoration: none;
 }
 
-/* On hover: subtle underline */
+/* On hover: subtle color */
 .results-table th:hover {
     background-color: #e6f3ff !important;
 }
