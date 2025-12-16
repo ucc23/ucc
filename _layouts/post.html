@@ -95,7 +95,7 @@ layout: default
   </details>
 
   <blockquote>
-    <p style="text-align:center; font-weight: bold; font-size:20px">Search object in <a data-umami-event="scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">SciX</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">Simbad</a></p>
+  Search object in <a data-umami-event="scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">SciX</a> | <a data-umami-event="simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">Simbad</a>
   </blockquote>
 
   <h3>Positions</h3>
@@ -115,12 +115,11 @@ layout: default
 
 
   <blockquote>
-    <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">Simbad</a></p>
+  Search coordinates in <a data-umami-event="cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">CDS</a> | <a data-umami-event="simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">Simbad</a>
   </blockquote>
 
   <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
       <h3 style="margin:0;">Estimated members</h3>
-
       <div id="download-container">
           <button id="downloadMembersCSV"
               title="Download table of UCC members"
@@ -179,7 +178,7 @@ layout: default
   {% endif %}
 
   <blockquote>
-    <p style="text-align:center; font-weight: bold; font-size:20px">Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a></p>
+  Explore data in <a data-umami-event="colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">Colab</a>
   </blockquote>
 
     {% if page.fpars_table != empty %}
@@ -189,7 +188,7 @@ layout: default
 
 
     <blockquote>
-      <p style="text-align:center; font-weight: bold; font-size:20px">Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a></p>
+    Search coordinates in <a data-umami-event="bayestar" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">Bayestar19</a>
     </blockquote>
 
 

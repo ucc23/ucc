@@ -44,9 +44,9 @@ p {margin: 15px 0;}
 a {
   color: $blue;
   text-decoration: none;
-    cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkblue;
   }
 }
 
@@ -120,15 +120,18 @@ p > img {
   border-bottom: none;
 }
 
-// Blockquotes: spaced out, padded, gray italic text, larger font, with a light purple background
+// Blockquotes
 .post {
   blockquote {
     margin: 1em 0em;
     // padding: 1em 0;
-    color: $gray;
-    font-size: 22px;
+    color: $black;
+    font-size: 1em;
+    // font-weight: bold;
     font-style: italic;
-    background-color: #ede1ff;
+    // background-color: $lightGray; //#ede1ff;
+    background-color: #f4edff;
+    text-align: center;
   }
 
   .comments {
