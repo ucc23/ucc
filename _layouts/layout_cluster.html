@@ -1,0 +1,260 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+{% if page.more_names %}
+  <h3 class="more-names">
+    <span><i>({{page.more_names}})</i></span>
+  </h3>
+{% endif %}
+
+    <!-- Top section -->
+    <div class="hero-section">
+        <div class="sky-map">
+            <!-- Aladin snippet -->
+            <img id="aladin_img"
+                 data-umami-event="aladin_load"
+                 src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/aladin/{{page.fname}}.webp"
+                 alt="Click to load Aladin Lite" 
+                 data-fov="{{page.fov}}" 
+                 data-target="{{page.ra_icrs}} {{page.de_icrs}}"
+                 loading="eager"
+                 fetchpriority="high"
+                 width="355" height="250"/>
+            <!-- Div to contain Aladin Lite viewer -->
+            <div id="aladin-lite-div" style="width:370px;height:250px;display:none;"></div>
+            <!-- Aladin Lite script will be loaded after the image is clicked -->
+        </div>
+        <div class="quick-facts">
+            <div class="quality-row">
+                <a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" target="_blank" title="What is the UTI parameter?">
+                    <div class="quality-badge" style="--badge-bg: {{ page.UTI_COLOR }};">
+                        <span class="score">{{ page.UTI }}</span>
+                        <span>UTI</span>
+                    </div>
+                </a>
+                <!-- <div class="vsep"></div> -->
+                <div class="quality-metrics">
+                    <div class="metric" title="Parameter that weights the number of members" style="--metric-bg: {{ page.UTI_C_N_COL }};">
+                        <div class="metric-value">{{ page.UTI_C_N }}</div>
+                        <div class="metric-label">C_N</div>
+                    </div>
+                    <div class="metric" title="Parameter that weights the stellar density" style="--metric-bg: {{ page.UTI_C_dens_COL }};">
+                        <div class="metric-value">{{ page.UTI_C_dens }}</div>
+                        <div class="metric-label">C_dens</div>
+                    </div>
+                    <div class="metric" title="Parameter that weights the C3 classification" style="--metric-bg: {{ page.UTI_C_C3_COL }};">
+                        <div class="metric-value">{{ page.UTI_C_C3 }}</div>
+                        <div class="metric-label">C_C3</div>
+                    </div>
+                    <div class="metric" title="Parameter that weights the presence in the literature" style="--metric-bg: {{ page.UTI_C_lit_COL }};">
+                        <div class="metric-value">{{ page.UTI_C_lit }}</div>
+                        <div class="metric-label">C_lit</div>
+                    </div>
+                    <div class="metric" title="Parameter that weights the likelihood of this object not being a duplicate" style="--metric-bg: {{ page.UTI_C_dup_COL }};">
+                        <div class="metric-value">{{ page.UTI_C_dup }}</div>
+                        <div class="metric-label">C_dup</div>
+                    </div>
+                </div>
+            </div>
+            <div class="fact-item">
+                <span class="fact-label" title="Identified stars with membership probability >50%">Number of members (P>50%)</span>
+                <span class="fact-value">{{ page.N_50_val }}</span>
+            </div>
+            <div class="fact-item">
+                <span class="fact-label" title="Radius that contains the identified members [arcmin]">Radius (P>50% members)</span>
+                <span class="fact-value">{{ page.r_50_val }} [arcmin]</span>
+            </div>
+            <div class="fact-item">
+                <a href="{{ site.baseurl }}/faq#what-is-the-c3-parameter" target="_blank" title="C3 classification"><span class="fact-label">C3 classification</span></a>
+                <span class="fact-value">{{ page.class3 }}</span>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Overview -->
+    <details class="data-section" open>
+        <summary><h2 class="section-title">Overview</h2></summary>
+            {{page.UTI_summary}}
+            
+        <div class="action-buttons">
+            <a class="btn btn-secondary" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Download data</a>
+            <a class="btn btn-secondary" data-umami-event="cl_colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">📊 Explore in Colab</a>
+            <a class="btn btn-secondary" data-umami-event="cl_bayestar" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">🔬 Bayestar19</a>
+             <span class="flex-break"></span>
+            <a class="btn btn-secondary" data-umami-event="cl_scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">🔍 SciX (name)</a>
+            <a class="btn btn-secondary" data-umami-event="cl_cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">🔍 CDS (position)</a>
+            <a class="btn btn-secondary" data-umami-event="cl_simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">🔍 Simbad (name)</a>
+            <a class="btn btn-secondary" data-umami-event="cl_simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">🔍 Simbad (position)</a>
+        </div>
+    </details>
+
+
+    <!-- Data section -->
+    <details class="data-section" open>
+        <summary><h2 class="section-title">Data</h2></summary>
+
+<!--             <p>📊 <strong>Astrometric measurements</strong></p>
+            <p>🔬 <strong>Fundamental parameters</strong></p> -->
+        
+        <div class="tab-container">
+            <div class="tabs">
+                <button class="tab active" onclick="switchTab(event, 'positions')">Astrometry</button>
+                {% if page.fpars_table != empty %}
+                    <button class="tab" onclick="switchTab(event, 'parameters')">Parameters</button>
+                {% endif %}
+                {% if page.shared_table != empty %}
+                    <button id="tab_obj_shared" class="tab" onclick="switchTab(event, 'obj_shared')">Shared members</button>
+                {% endif %}
+            </div>
+            
+            <div id="positions" class="tab-content active">
+                {{ page.posit_table | markdownify }}
+                <p class="table-note">
+                    💡 <strong>Note:</strong> The <b>UCC</b> values are estimated from its identified 
+                    <a href="#tab_members" onclick="activateTabById(event, 'tab_members', 'members')">members</a>.
+                </p>
+            </div>
+
+            {% if page.fpars_table != empty %}
+                <div id="parameters" class="tab-content">
+                    {{ page.fpars_table | markdownify }}                    
+                    <p class="table-note">
+                        💡 <strong>Note:</strong> The parameters are sometimes
+                        transformed from their original values to match the format of the
+                        columns shown here, <a href="{{ site.baseurl }}/faq#how-are-parameters-transformed" title="See FAQ" target="_blank">see FAQ</a>.
+                        The columns <b>DAv, Bfr, BSS</b> correspond to differential
+                        extinction, binary fraction, and blue stragglers, respectively.
+                        <b>BSS</b> values can be listed as fractions or integers.
+                        {% if page.note_asterisk %}
+                            <br><strong>(*):</strong> indicates that this parameter is
+                            assigned more than one value in the corresponding reference.
+                        {% endif %}
+                    </p>
+                </div>
+            {% endif %}
+
+            {% if page.shared_table != empty %}
+              <div id="obj_shared" class="tab-content">
+                    {{ page.shared_table | markdownify }}
+
+                    <p class="table-note">
+                        💡 <strong>Note:</strong> The <b>%</b> column shows the percentage
+                        of members that <b>{{page.title}}</b> shares with each listed object.
+                    </p>
+              </div>
+            {% endif %}            
+        </div>
+    </details>
+
+
+
+    <!-- Visualization section -->
+    <details class="data-section" open>
+        <summary><h2 class="section-title">Visualization</h2></summary>
+        <div class="tab-container">
+            <div class="tabs">
+                <button id="tab_members" class="tab active" onclick="switchTab(event, 'members')">Members</button>
+                <button class="tab" onclick="switchTab(event, 'cl_region')">Cluster region</button>
+                <button class="tab" onclick="switchTab(event, 'gcpos')">Galactocentric position</button>
+            </div>
+            
+            <div id="members" class="tab-content">
+                  {% assign N_carousel = page.carousel | split: "_" | size %}
+                  {% if N_carousel == 1 %}
+                  <div class="carousel-frame">
+                     <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" target="_blank">
+                       <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" />
+                     </a>
+                   </div>
+                  {% else %}
+                    <div class="carousel carousel-frame">
+                      <input type="radio" name="radio-btn" id="slide1" checked="" />
+                      <input type="radio" name="radio-btn" id="slide2" />
+                      {% if N_carousel == 3 %}
+                        <input type="radio" name="radio-btn" id="slide3" />
+                      {% endif %}
+
+                      <div class="slides">
+                        <div class="slide">
+                          <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" target="_blank">
+                            <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/UCC/{{page.fname}}.webp" alt="{{page.title}} UCC" width="720" height="670"/></a>
+                        </div>
+                        {% if page.carousel contains "HUNT23" %}
+                          {% assign second_car = "HUNT23" %}
+                        {% else %}
+                          {% assign second_car = "CANTAT20" %}
+                        {% endif %}
+                        <div class="slide">
+                          <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" target="_blank">
+                            <img loading="lazy"
+                                 src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/{{second_car}}/{{page.fname}}.webp" alt="{{page.title}} {{second_car}}"  width="720" height="670"/>
+                          </a>
+                        </div>
+                        {% if N_carousel == 3 %}
+                          <div class="slide">
+                            <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" target="_blank">
+                              <img loading="lazy"
+                                   src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/CANTAT20/{{page.fname}}.webp" alt="{{page.title}} CANTAT20"  width="720" height="670"/>
+                            </a>
+                          </div>
+                        {% endif %}
+                      </div>
+                      <div class="indicators">
+                        <label for="slide1">1</label>
+                        <label for="slide2">2</label>
+                        {% if N_carousel == 3 %}
+                          <label for="slide3">3</label>
+                        {% endif %}
+                      </div>
+                  </div>
+                  {% endif %}
+            </div>
+
+            <div id="cl_region" class="tab-content">
+              <div id="plot-params"
+                   data-oc-name="{{page.fname}}"
+                   data-ra-center="{{page.ra_icrs}}"
+                   data-dec-center="{{page.de_icrs}}"
+                   data-rad-deg="{{page.r50}}"
+                   data-plx="{{page.plx}}">
+              </div>
+              <div id="plot-container">
+              </div>
+            </div>
+
+            <div id="gcpos" class="tab-content">
+              <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp" target="_blank">
+              <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp"
+                alt="Galactocentric position diagram" loading="lazy"/></a>
+               <p class="table-note">
+                💡 <strong>Note:</strong> How are the galactocentric plots generated?
+                <a href="{{ site.baseurl }}/faq#how-are-the-galactocentric-plots-generated" title="See FAQ" target="_blank">See FAQ</a>.
+               </p>
+            </div>
+
+        </div>
+    </details>
+
+
+
+
+
+
+
+<!-- Scripts -->
+<script defer src="{{ site.baseurl }}/scripts/aladin_load.js"></script>
+<script>
+    window.fname = "{{ page.fname }}";
+    window.members_file = "{{ page.members_file }}";
+    window.baseurl = "{{ site.baseurl }}";
+</script>
+<script type="module" src="{{ site.baseurl }}/scripts/post_scripts.js"></script>
+
+
+
+
+
+

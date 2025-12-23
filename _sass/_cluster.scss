@@ -1,0 +1,698 @@
+
+
+// Special class for "More names" text under post titles
+.more-names {
+  margin-top: -10px;
+  font-weight: normal;
+  // color: #808080;
+  text-align: center;
+}
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+// TOP SECTION
+.hero-section {
+    display: grid;
+    // grid-template-columns: 400px 495px;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    // width:920px;
+    // min-height: 270px;   /* instead of height */
+    margin-bottom: 2rem;
+}
+
+.sky-map {
+    background: white;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.sky-map img {
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.sky-map img:hover {
+    transform: scale(1.02);
+}
+
+// .vsep {
+//   width: 3px;
+//   height: 2.5rem;      /* explicit height */
+//   background-color: #000;
+//   margin: 0 0rem;
+// }
+
+
+.quick-facts {
+    background: white;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.quality-row {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+.quality-badge {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0rem;
+    background-color: var(--badge-bg);
+    color: black;
+    padding: .7rem 1.5rem;
+    border-radius: 15px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    // box-shadow: 0 4px 15px rgba(17, 153, 142, 0.3);
+    border: 2px solid #000;
+}
+
+.quality-badge:hover {
+    transform: scale(1.05);
+}
+
+.score {
+    line-height: 1;
+    margin-top: 0.2rem;
+}
+
+.quality-metrics {
+    display: grid;
+    grid-template-columns: repeat(5, 60px);
+    gap: .5rem;
+    padding: 0.2rem 0.2rem;
+    border: 2px solid grey;
+    border-radius: 8px;
+}
+
+.quality-metrics > * {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+
+.metric {
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: var(--metric-bg);
+}
+
+.metric-value {
+    font-weight: 600;
+    color: black;
+    line-height: 1;
+}
+
+.metric-label {
+    font-size: 0.75rem;
+    // color: #666;
+    margin-top: 0.2rem;
+    line-height: 1;
+}
+
+.fact-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.fact-item:last-child {
+    border-bottom: none;
+}
+
+.fact-label {
+    // color: #666;
+    font-size: 1.1rem;
+}
+
+.fact-value {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #1e3c72;
+}
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+// OVERVIEW
+// .overview {
+//     background: white;
+//     border-radius: 12px;
+//     padding: 1rem;
+//     margin-bottom: 2rem;
+//     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+// }
+
+// .overview-content {
+//     font-size: 1.1rem;
+//     line-height: 1.8;
+//     margin-top: 1rem;
+// }
+
+.action-buttons {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
+}
+.flex-break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.btn {
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-secondary {
+    background: white;
+    color: #2a5298;
+    border: 2px solid #2a5298;
+}
+
+.btn-secondary:hover {
+    background: #2a5298;
+    color: white;
+}
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+// DATA SECTION
+.data-section {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.data-section summary,
+.data-section .section-title {
+    cursor: pointer;
+}
+
+.section-title {
+    font-size: 1.8rem;
+    color: #1e3c72;
+    border-bottom: 3px solid black;
+    display: inline-block;
+}
+
+
+.tab-container {
+    margin-top: 1.5rem;
+}
+
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    border-bottom: 2px solid #e0e0e0;
+    margin-bottom: 1.5rem;
+}
+
+.tab {
+    padding: 0.75rem 1.5rem;
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #666;
+    transition: all 0.3s ease;
+}
+
+.tab:hover {
+    color: #1e3c72;
+}
+
+.tab.active {
+    color: #1e3c72;
+    border-bottom-color: #38ef7d;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { 
+        opacity: 0; 
+        transform: translateY(10px); 
+    }
+    to { 
+        opacity: 1; 
+        transform: translateY(0); 
+    }
+}
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+// /////////////////////////////////////////////////////////////////////////////////////
+// Carousel
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+.carousel-frame {
+    max-width: 720px;
+    margin: 0 auto;
+}
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+input[type="radio"][name="radio-btn"] {
+    display: none;
+}
+.slide {
+    min-width: 100%;
+}
+.slide img {
+    display: block;
+    margin: 0 auto;
+}
+.indicators {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.indicators label {
+    font-size: 16px;
+    color: #555;
+    padding: 5px 10px;
+    cursor: pointer;
+    background: #ddd;
+    margin: 0 5px;
+    border-radius: 3px;
+}
+#slide1:checked ~ .slides {
+    transform: translateX(0);
+}
+#slide2:checked ~ .slides {
+    transform: translateX(-100%);
+}
+#slide3:checked ~ .slides {
+    transform: translateX(-200%);
+}
+#slide4:checked ~ .slides {
+    transform: translateX(-300%);
+}
+#slide5:checked ~ .slides {
+    transform: translateX(-400%);
+}
+#slide6:checked ~ .slides {
+    transform: translateX(-500%);
+}
+#slide1:checked ~ .indicators label:first-child,
+#slide2:checked ~ .indicators label:nth-child(2),
+#slide3:checked ~ .indicators label:nth-child(3),
+#slide4:checked ~ .indicators label:nth-child(4),
+#slide5:checked ~ .indicators label:nth-child(5),
+#slide6:checked ~ .indicators label:nth-child(6) {
+    background: #555;
+    color: #fff;
+}
+// /////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+// Plotly
+
+// Center cluster region plot
+#plot-container .plot-container.plotly {
+    display: flex;
+    justify-content: center;
+}
+
+/* Move Plotly modebar to the left */
+.js-plotly-plot .plotly .modebar {
+    left: 50%;
+    transform: translateX(-25%);
+}
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// /////////////////////////////////////////////////////////////////////////////////////
+// // Tables
+
+// table {
+//   // width: 100%; /* Fill parent div */
+//   padding: 0;
+//   /* Added lines below to center */
+//   border-collapse: collapse; /* Ensure borders are collapsed */
+//   border-spacing: 0;
+//   margin: 0 auto; /* Center the table horizontally */
+// }
+
+// /* Apply full width only inside <article class="post detailed"> */
+// article.cluster.post table {
+//   width: 100%;
+// }
+// /* Exception: tables inside .popup-message-focus revert to auto */
+// article.cluster.post .popup-message-focus table {
+//   width: auto;
+// }
+
+
+// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
+
+// /* Hide the input */
+// article.cluster.post .toggle-state {
+//   display: none;
+// }
+// /* HIDING LOGIC: Select all rows inside tbody, EXCEPT the last child AND the 2nd to last child (toggle Row) */
+// article.cluster.post #toggle-pos-rows:not(:checked) + table tbody tr:not(:last-child):not(:nth-last-child(2)) {
+//   display: none;
+// }
+// /* Button/Label Styling */
+// article.cluster.post .toggle-btn {
+//   cursor: pointer;
+//   color: $blue;
+//   // text-decoration: underline;
+//   // font-family: monospace;
+//   // font-size: 1em;
+//   display: block;        /* Ensures clickability spans the cell */
+//   text-align: center;    /* Centers the toggle text */
+// }
+// /* Dynamic Text Content */
+// article.cluster.post .toggle-btn::after {
+//   content: "\25BA   Show rows"; /* \25BC is a down arrow symbol */
+// }
+// article.cluster.post #toggle-pos-rows:checked + table .toggle-btn::after {
+//   content: "\25B2 Hide rows"; /* \25B2 is an up arrow symbol */
+// }
+// /* Target the Toggle Row (2nd to last) in the *immediately adjacent* specific table */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) {
+//   height: 40px; /* Force height since the absolute child won't give it any */
+//   background-color: white !important;
+// }
+// /* Hide borders/backgrounds on ALL cells in this row to look like empty space */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td {
+//   border: none !important;
+//   // background: transparent !important;
+// }
+// /* Target the FIRST cell (containing the label) and center it absolutely */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td:first-child {
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   width: 100%;
+//   text-align: center;
+//   padding: 10px 0;
+// }
+// /* Target the LAST row and set its background color */
+// article.cluster.post #toggle-pos-rows + table tbody tr:last-child {
+//   background-color: #fff;
+// }
+// /* Hover effect for the last row (ensures it overrides the static grey) */
+// article.cluster.post #toggle-pos-rows + table tbody tr:last-child:hover {
+//   background-color: #ffe6a1;
+// }
+// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
+
+
+
+// table tr {
+//     border-top: 1px solid #cccccc;
+//     background-color: white;
+//     margin: 0;
+//     padding: 0;
+// }
+
+// table tr:nth-child(2n) {
+//     // background-color: #f0f0f0;
+//     background-color: #fafafa;
+// }
+
+// table tr:hover {
+//     background-color: #ffe6a1;
+// }
+
+// table tr th {
+//     font-weight: bold;
+//     border: 1px solid #cccccc;
+//     text-align: left;
+//     vertical-align: middle; /* Align vertically */
+//     margin: 0;
+//     padding: 6px 13px;
+//     // padding: 2px 6px;
+//     background: #f0f0f0;
+// }
+
+// table tr td {
+//     border: 1px solid #cccccc;
+//     text-align: left;
+//     vertical-align: middle; /* Align vertically */
+//     margin: 0;
+//     padding: 6px 13px;
+//     // padding: 2px 6px;
+// }
+
+// table tr th :first-child,
+// table tr td :first-child {
+//     margin-top: 0;
+// }
+
+// table tr th :last-child,
+// table tr td :last-child {
+//     margin-bottom: 0;
+// }
+
+// .sorted-asc, .sorted-desc {
+//     background-color: #e6f3ff !important; /* light blue highlight */
+// }
+
+// /* Only affect sortable tables */
+// table.sortable thead th {
+//     cursor: pointer;
+//     position: relative;
+// }
+
+// /* On hover: subtle color */
+// table.sortable thead th:hover {
+//     background-color: #e6f3ff !important; /* light blue highlight */
+// }
+
+// // Tables
+// /////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// /////////////////////////////////////////////////////////////////////////////////////
+// // UTI
+
+// .uti_value {
+//   font-size: 24px;
+//   font-weight: bold;
+//   color: black;
+//   text-decoration: underline;
+//   transition: all 0.2s ease;
+//   cursor: pointer;
+// }
+
+// // .uti_value:hover {
+// //   color: blue;          /* Changes color on hover */
+// //   // font-weight: bold;    /* Makes it bold */
+// //   // transform: scale(3); /* Slightly enlarges */
+// // }
+
+
+// .popup-container-focus {
+//   display: inline-block;
+//   position: relative;
+// }
+
+// .popup-button-focus {
+//   cursor: pointer;
+//   background: none;
+//   border: none;
+//   font: inherit;
+//   padding: 0;
+//   font-weight: bold;
+//   font-size: 1.3em;
+// }
+
+// .popup-message-focus {
+//   display: none;
+//   position: fixed;
+//   top: 55%;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   background: #fff;
+//   color: #000;
+//   // padding: 8px 12px;
+//   padding: 1rem;
+//   border-radius: 6px;
+//   max-width: 50ch;         /* limit to ~50 characters per line */
+//   text-align: center;      /* center all text */
+//   white-space: normal;     /* allow wrapping */
+//   word-wrap: break-word;   /* force wrap if needed */
+//   z-index: 10;
+//   border: 2px solid black;
+// }
+
+// .popup-button-focus:focus + .popup-message-focus {
+//   display: block;
+// }
+
+// // UTI
+// /////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // Summary
+// details {
+//   width: 100%;
+//   border: 1px solid #cfcfcf;
+//   border-radius: 6px;
+//   padding: 0.25rem;
+//   margin: 0 auto;              /* center container */
+//   text-align: center;          /* center content */
+//   margin: 0.5em auto 0;
+// }
+
+// /* background only when not open */
+// details:not([open]) {
+//   background: #fff4e0;
+// }
+
+// summary {
+//   display: flex;               /* allow centering */
+//   justify-content: center;     /* center Summary text */
+//   cursor: pointer;
+//   list-style: none;
+//   font-weight: 600;
+//   outline: none;
+// }
+
+// summary::-webkit-details-marker { display: none; }
+
+// summary::before {
+//   content: "▸";
+//   display: inline-block;
+//   margin-right: 0.5rem;
+//   transition: transform .18s ease;
+// }
+
+// details[open] summary::before {
+//   transform: rotate(90deg);
+// }
+
+// .content {
+//   margin-top: 0.5rem;
+//   line-height: 1.45;
+//   text-align: center;          /* center inner text */
+//   border: 2px solid #000;      /* example: black border, 2px thick */
+//   padding: 0.5rem;               /* space between text and border */
+//   border-radius: 0.5rem;       /* optional: rounded corners */
+// }
+
+// // Lazy Loaded Images
+// .lazy-image { width: 100%; height: auto; }
