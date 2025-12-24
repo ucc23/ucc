@@ -30,7 +30,7 @@ const scaleLog = (v, dMin, dMax) => {
 export function drawMap(points, table) {
     const plotDiv = document.getElementById("map_plot") || document.getElementById("search_map");
     const width = plotDiv.offsetWidth;
-    const height = width / 2;
+    const height = width / 2; // Aitoff is 2:1 aspect ratio
 
     // Clear container
     const container = document.querySelector("#map_plot");
@@ -38,14 +38,14 @@ export function drawMap(points, table) {
     container.innerHTML = ""; 
 
     const svg = createNode("svg", { width, height }, container);
-    
+
     // Projection & Path
     const projection = geoAitoff().rotate([0, 0]).scale(height / 4).translate([width / 2, height / 2]);
     const pathGen = geoPath().projection(projection);
-    
+
     // Grid Generation
     const graticuleGenerator = geoGraticule().step([29.99, 15]);
-    const graticuleGeoJSON = graticuleGenerator(); // <--- FIX: Execute generator to get JSON
+    const graticuleGeoJSON = graticuleGenerator();
 
     const g = createNode("g", {}, svg);
 
