@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /search/
-style: style
+style: style_search
 ---
 
 <html lang="en">
@@ -16,8 +16,9 @@ style: style
             <div class="search-grid">
                 <div class="search-row row1">
                     <button id="coordToggle">Names</button>
-                    <input id="search" class="search-trigger" type="text" autofocus autocomplete="off" placeholder="Search by name(s)...">
+                    <input id="search" class="search-trigger" type="text" autofocus autocomplete="off" placeholder="Search by name...">
                     <input id="Nmax" class="search-trigger" type="number" value="100" min="0" step="100" placeholder="Max results" title="Maximum number of result">
+                    <input id="Pdupmax" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="P_dup max" title="Maximum duplicate probability">
                     <select id="c3Filter" class="search-trigger" title="Filter by C3 value">
                         <option value="">All C3</option>
                         <option value="AA" class="c3-AA">AA</option>
@@ -47,11 +48,12 @@ style: style
                     <div class="separator"></div>
                     <input id="uti_min" class="search-trigger" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI min" title="Minimum UTI value">
                     <input id="uti_max" class="search-trigger" type="number" min="0" max="1" step="0.1" autocomplete="off" placeholder="UTI max" title="Maximum UTI value">
-                </div>
-                <div class="search-row search-checkbox">
+                <div class="separator"></div>
+                <div class="search-checkbox">
                     <label><input class="search-trigger" type="checkbox" id="filterOCs">Hide likely non-clusters</label>
                 </div>
-                <button id="searchButton" type="button">Search</button>
+               </div>
+            <button id="searchButton" type="button">Search</button>
             </div>
         </div>
         <div id="table_results"></div>

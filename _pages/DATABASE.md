@@ -12,11 +12,39 @@ can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
 The UCC currently hosts the following data:
 
-|  Data type        |   N  |
-| :--:         | :--: |
-| <a data-umami-event="articles" href="/../articles">Articles</a> | **<!-- ND1 -->80<!-- ND2 -->** |
-| <a data-umami-event="tables" href="/../tables">Clusters</a>     | **<!-- NT1 -->16719<!-- NT2 -->** |
-| Member stars | **<!-- NM1 -->1053551<!-- NM2 -->** |
+
+<table style="width:50%; margin:auto; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th style="text-align:center;">Data type</th>
+      <th style="text-align:center;">N</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">
+        <a data-umami-event="articles" href="/../articles">Articles</a>
+      </td>
+      <td style="text-align:center;">
+        <strong><!-- ND1 -->80<!-- ND2 --></strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <a data-umami-event="cluster_tables" href="/../tables">Clusters</a>
+      </td>
+      <td style="text-align:center;">
+        <strong><!-- NT1 -->16719<!-- NT2 --></strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Member stars</td>
+      <td style="text-align:center;">
+        <strong><!-- NM1 -->1053551<!-- NM2 --></strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 A <a data-umami-event="search" href="/../search">Search</a> page is available for

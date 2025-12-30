@@ -12,8 +12,11 @@ listed here.
 - [What is the UCC?](#what-is-the-ucc)
 - [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
 - [How are member stars selected?](#how-are-member-stars-selected)
+- [How is the duplicate probability estimated?](#how-is-the-duplicate-probability-estimated)
 - [What is the C3 parameter?](#what-is-the-c3-parameter)
 - [What is the UTI parameter?](#what-is-the-uti-parameter)
+- [How are objects flagged as likely not real?](#how-are-objects-flagged-as-likely-not-real)
+- [How are parameters transformed?](#how-are-parameters-transformed)
 - [How are the galactocentric plots generated?](#how-are-the-galactocentric-plots-generated)
 - [Random cluster navigation](#random-cluster-navigation)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
@@ -52,12 +55,31 @@ incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details
 
 
 
+## How is the duplicate probability estimated?
+
+To estimate the probability of an object being a duplicate of a previous entry,
+we simply find the overlap between members. If two objects share a significant number of
+members, it is likely that they are the same object catalogued twice under different
+names.
+
+The probability of being a duplicate is calculated as:
+
+    P_dup = max(shared_members_percent) / 100
+
+where `shared_members_percent` is the percentage of common members between objects
+(since a given object can be compared to many others, we take the maximum value found).
+
+The `P_dup` value is equivalent to `1 - C_dup`, where `C_dup` is the factor used
+in the UTI calculation (see [What is the UTI parameter?](#what-is-the-uti-parameter)).
+
+
+
+
 ## What is the C3 parameter?
 
 The `C3` parameter is the combined `C1` and `C2` classes, described in Sect. 4.3 of
-[Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract) where the UCC was initially introduced.
-
-The `C1` and `C2` classes can be described as:
+[Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract) where the UCC was initially introduced. The `C1` and `C2`
+classes can be described as:
 
 `C1`: A density-based metric that quantifies the contrast between the spatial
 distribution of cluster member stars and that of the surrounding field stars within
@@ -98,6 +120,58 @@ normalized estimates of:
 
 
 
+## How are objects flagged as likely not real?
+
+Objects are flagged as likely not real (or non-clusters) when they meet the following
+conditions:
+
+```
+- C_dup > 0.75 (not a duplicate)
+- C_lit < 0.3 (rarely mentioned in the literature)
+- UTI < 0.25 (low UTI parameter)
+```
+
+
+
+
+## How are parameters transformed?
+
+The UCC provides a table of fundamental parameters for the OCs listed (when available).
+These parameters are sometimes transformed to maintain homogeneity. The transformations
+are as follows:
+
+### Metallicity
+
+We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734) `z_sun=0.0152` coefficient as:
+
+    [Fe/H]=log10(z/z_sun)
+
+### Age
+
+Ages are always given in [Myr]. When ages are provided in [log(age/yr)], we apply:
+
+    Age [Myr] = 10^(log(age/yr)/1e6)
+
+
+### Absorption / Extinction
+
+The UCC lists `Av` absorption. To transform `E(B-V)` we use the standard value:
+
+    Av = 3.1 * E(B-V)
+
+In cases where `Ag` is present, it is always assumed to be Gaia's G band. The
+transformation coefficient to `Av`  is:
+
+    Av = 1.2 * Ag
+
+Conversion from `E(V-I)` assumes Cousin's I band and is expressed as:
+
+    Av = 2.5 * E(V-I)
+
+All approximate coefficients can be estimated for example using the
+[dust_extinction](https://github.com/karllark/dust_extinction) package.
+
+
 ## How are the galactocentric plots generated?
 
 The Sun and the Galactic center are represented by the yellow star and the black X,
@@ -120,7 +194,7 @@ You can navigate to a random cluster page by searching the keyword _"random"_ on
 
 If you found the UCC useful for your research, please reference its original article
 <a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
-et al. (2023)</a>. You can use a phrase such as the following:
+et al. (2023)</a>. You can use the following text:
 
 _"This research has made use of the Unified Cluster Catalogue (UCC)~\cite{Perren_2023}"_
 

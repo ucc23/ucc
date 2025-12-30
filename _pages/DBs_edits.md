@@ -403,6 +403,7 @@ Changes:
 - Removed 'Type' == ('a','g','m','n','r','s')
 - Merged 'Dolidze_2, MWSC_3270' into 'IC_1311, MWSC_3271', same OC according to BICA2019
 - Removed GCs: VDBH 140, ESO 456-29, FSR 1716, FSR 1758
+- Removed incorrect [Fe/H]=90.128 for VDBH 99
 
 Final table lists 2262 entries
 
@@ -517,7 +518,6 @@ Liu & Pang (2019) presented their new OCs with no formal ID assigned (only numbe
 - Combined the tables `tablea1` and `tableb1`
 
 The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` values.
-The inverted parallaxes differ substantially from the distance values.
 
 
 ## Cantat-Gaudin et al. 2018
