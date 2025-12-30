@@ -1,79 +1,84 @@
 table {
-  // width: 100%; /* Fill parent div */
+  width: 100%; /* Fill parent div */
   padding: 0;
-  /* Added lines below to center */
-  border-collapse: collapse; /* Ensure borders are collapsed */
+  font-size: 1rem;
+  border-collapse: collapse;
   border-spacing: 0;
   margin: 0 auto; /* Center the table horizontally */
 }
 
-/* Apply full width only inside <article class="post detailed"> */
-article.cluster.post table {
-  width: 100%;
-}
-/* Exception: tables inside .popup-message-focus revert to auto */
-article.cluster.post .popup-message-focus table {
-  width: auto;
+// /* Apply full width only inside <article class="post detailed"> */
+// article.cluster.post table {
+//   width: 100%;
+// }
+// /* Exception: tables inside .popup-message-focus revert to auto */
+// article.cluster.post .popup-message-focus table {
+//   width: auto;
+// }
+
+
+.table-note {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #666;
 }
 
 
+// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
 
-
-/* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
-
-/* Hide the input */
-article.cluster.post .toggle-state {
-  display: none;
-}
-/* HIDING LOGIC: Select all rows inside tbody, EXCEPT the last child AND the 2nd to last child (toggle Row) */
-article.cluster.post #toggle-pos-rows:not(:checked) + table tbody tr:not(:last-child):not(:nth-last-child(2)) {
-  display: none;
-}
-/* Button/Label Styling */
-article.cluster.post .toggle-btn {
-  cursor: pointer;
-  color: $blue;
-  // text-decoration: underline;
-  // font-family: monospace;
-  // font-size: 1em;
-  display: block;        /* Ensures clickability spans the cell */
-  text-align: center;    /* Centers the toggle text */
-}
-/* Dynamic Text Content */
-article.cluster.post .toggle-btn::after {
-  content: "\25BA   Show rows"; /* \25BC is a down arrow symbol */
-}
-article.cluster.post #toggle-pos-rows:checked + table .toggle-btn::after {
-  content: "\25B2 Hide rows"; /* \25B2 is an up arrow symbol */
-}
-/* Target the Toggle Row (2nd to last) in the *immediately adjacent* specific table */
-article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) {
-  height: 40px; /* Force height since the absolute child won't give it any */
-  background-color: white !important;
-}
-/* Hide borders/backgrounds on ALL cells in this row to look like empty space */
-article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td {
-  border: none !important;
-  // background: transparent !important;
-}
-/* Target the FIRST cell (containing the label) and center it absolutely */
-article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td:first-child {
-  position: absolute;
-  left: 0;
-  right: 0;
-  width: 100%;
-  text-align: center;
-  padding: 10px 0;
-}
-/* Target the LAST row and set its background color */
-article.cluster.post #toggle-pos-rows + table tbody tr:last-child {
-  background-color: #fff;
-}
-/* Hover effect for the last row (ensures it overrides the static grey) */
-article.cluster.post #toggle-pos-rows + table tbody tr:last-child:hover {
-  background-color: #ffe6a1;
-}
-/* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
+// /* Hide the input */
+// article.cluster.post .toggle-state {
+//   display: none;
+// }
+// /* HIDING LOGIC: Select all rows inside tbody, EXCEPT the last child AND the 2nd to last child (toggle Row) */
+// article.cluster.post #toggle-pos-rows:not(:checked) + table tbody tr:not(:last-child):not(:nth-last-child(2)) {
+//   display: none;
+// }
+// /* Button/Label Styling */
+// article.cluster.post .toggle-btn {
+//   cursor: pointer;
+//   color: $blue;
+//   // text-decoration: underline;
+//   // font-family: monospace;
+//   // font-size: 1em;
+//   display: block;        /* Ensures clickability spans the cell */
+//   text-align: center;    /* Centers the toggle text */
+// }
+// /* Dynamic Text Content */
+// article.cluster.post .toggle-btn::after {
+//   content: "\25BA   Show rows"; /* \25BC is a down arrow symbol */
+// }
+// article.cluster.post #toggle-pos-rows:checked + table .toggle-btn::after {
+//   content: "\25B2 Hide rows"; /* \25B2 is an up arrow symbol */
+// }
+// /* Target the Toggle Row (2nd to last) in the *immediately adjacent* specific table */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) {
+//   height: 40px; /* Force height since the absolute child won't give it any */
+//   background-color: white !important;
+// }
+// /* Hide borders/backgrounds on ALL cells in this row to look like empty space */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td {
+//   border: none !important;
+//   // background: transparent !important;
+// }
+// /* Target the FIRST cell (containing the label) and center it absolutely */
+// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td:first-child {
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   width: 100%;
+//   text-align: center;
+//   padding: 10px 0;
+// }
+// /* Target the LAST row and set its background color */
+// article.cluster.post #toggle-pos-rows + table tbody tr:last-child {
+//   background-color: #fff;
+// }
+// /* Hover effect for the last row (ensures it overrides the static grey) */
+// article.cluster.post #toggle-pos-rows + table tbody tr:last-child:hover {
+//   background-color: #ffe6a1;
+// }
+// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
 
 
 

@@ -2,6 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 70%;
+  margin: 0 auto;
 }
 
 #coordToggle {
@@ -29,10 +31,11 @@
 
 .search-container input {
   flex: 1; /* take remaining space */
+  // flex: 0 1 600px;
+  // max-width: 480px;
   padding: 12px 20px;
   line-height: 1;
   border: 1px solid #ccc;
-  // border-radius: 4px 0 0 4px; /* round only left corners */
   border-radius: 0 4px 4px 0; /* round only right corners */
   box-sizing: border-box;
   font-size: 18px;

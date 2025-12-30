@@ -41,14 +41,6 @@
     transform: scale(1.02);
 }
 
-// .vsep {
-//   width: 3px;
-//   height: 2.5rem;      /* explicit height */
-//   background-color: #000;
-//   margin: 0 0rem;
-// }
-
-
 .quick-facts {
     background: white;
     border-radius: 12px;
@@ -61,6 +53,7 @@
     align-items: center;
     gap: .5rem;
     margin-bottom: 1rem;
+    flex-wrap: nowrap;
 }
 
 .quality-badge {
@@ -68,7 +61,7 @@
     flex-direction: column;
     align-items: center;
     gap: 0rem;
-    background-color: var(--badge-bg);
+    // background-color: var(--badge-bg);
     color: black;
     padding: .7rem 1.5rem;
     border-radius: 15px;
@@ -81,7 +74,7 @@
 }
 
 .quality-badge:hover {
-    transform: scale(1.05);
+    transform: scale(1.015);
 }
 
 .score {
@@ -90,12 +83,15 @@
 }
 
 .quality-metrics {
-    display: grid;
-    grid-template-columns: repeat(5, 60px);
+    display: inline-grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 60px;
     gap: .5rem;
-    padding: 0.2rem 0.2rem;
+    padding: 0.2rem;
     border: 2px solid grey;
     border-radius: 8px;
+    flex-shrink: 0;
+    cursor: pointer;
 }
 
 .quality-metrics > * {
@@ -104,6 +100,10 @@
     align-items: center;
     justify-content: center;
     height: 30px;
+}
+
+.quality-metrics:hover {
+    transform: scale(1.025);
 }
 
 .metric {
@@ -125,6 +125,71 @@
     margin-top: 0.2rem;
     line-height: 1;
 }
+
+
+// Flip animation
+.quick-facts {
+    perspective: 1000px;
+}
+
+.quick-facts-inner {
+    position: relative;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.quick-facts.flipped .quick-facts-inner {
+    transform: rotateY(180deg);
+}
+
+.quick-facts-front,
+.quick-facts-back {
+    backface-visibility: hidden;
+}
+
+.quick-facts-back {
+    position: absolute;
+    inset: 0;
+    transform: rotateY(180deg);
+    padding: 0 1rem;
+}
+
+/* Metric list layout */
+.metric-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.metric-list li {
+    display: flex;
+    gap: 1rem;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.metric-list li:last-child {
+    border-bottom: none;
+}
+
+.metric-label-list {
+    display: inline-block;
+    width: 5rem;   /* adjust as needed */
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.metric-val {
+    width: 4rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.metric-desc {
+    padding-left: 1rem;
+}
+// Flip animation
+
 
 .fact-item {
     display: flex;
@@ -169,6 +234,14 @@
 //     line-height: 1.8;
 //     margin-top: 1rem;
 // }
+
+.note {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    font-size: 1rem;
+    font-style: italic;
+    // color: #666;
+}
 
 .action-buttons {
     display: flex;
@@ -394,167 +467,6 @@ input[type="radio"][name="radio-btn"] {
 
 
 
-
-// /////////////////////////////////////////////////////////////////////////////////////
-// // Tables
-
-// table {
-//   // width: 100%; /* Fill parent div */
-//   padding: 0;
-//   /* Added lines below to center */
-//   border-collapse: collapse; /* Ensure borders are collapsed */
-//   border-spacing: 0;
-//   margin: 0 auto; /* Center the table horizontally */
-// }
-
-// /* Apply full width only inside <article class="post detailed"> */
-// article.cluster.post table {
-//   width: 100%;
-// }
-// /* Exception: tables inside .popup-message-focus revert to auto */
-// article.cluster.post .popup-message-focus table {
-//   width: auto;
-// }
-
-
-// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
-
-// /* Hide the input */
-// article.cluster.post .toggle-state {
-//   display: none;
-// }
-// /* HIDING LOGIC: Select all rows inside tbody, EXCEPT the last child AND the 2nd to last child (toggle Row) */
-// article.cluster.post #toggle-pos-rows:not(:checked) + table tbody tr:not(:last-child):not(:nth-last-child(2)) {
-//   display: none;
-// }
-// /* Button/Label Styling */
-// article.cluster.post .toggle-btn {
-//   cursor: pointer;
-//   color: $blue;
-//   // text-decoration: underline;
-//   // font-family: monospace;
-//   // font-size: 1em;
-//   display: block;        /* Ensures clickability spans the cell */
-//   text-align: center;    /* Centers the toggle text */
-// }
-// /* Dynamic Text Content */
-// article.cluster.post .toggle-btn::after {
-//   content: "\25BA   Show rows"; /* \25BC is a down arrow symbol */
-// }
-// article.cluster.post #toggle-pos-rows:checked + table .toggle-btn::after {
-//   content: "\25B2 Hide rows"; /* \25B2 is an up arrow symbol */
-// }
-// /* Target the Toggle Row (2nd to last) in the *immediately adjacent* specific table */
-// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) {
-//   height: 40px; /* Force height since the absolute child won't give it any */
-//   background-color: white !important;
-// }
-// /* Hide borders/backgrounds on ALL cells in this row to look like empty space */
-// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td {
-//   border: none !important;
-//   // background: transparent !important;
-// }
-// /* Target the FIRST cell (containing the label) and center it absolutely */
-// article.cluster.post #toggle-pos-rows + table tbody tr:nth-last-child(2) td:first-child {
-//   position: absolute;
-//   left: 0;
-//   right: 0;
-//   width: 100%;
-//   text-align: center;
-//   padding: 10px 0;
-// }
-// /* Target the LAST row and set its background color */
-// article.cluster.post #toggle-pos-rows + table tbody tr:last-child {
-//   background-color: #fff;
-// }
-// /* Hover effect for the last row (ensures it overrides the static grey) */
-// article.cluster.post #toggle-pos-rows + table tbody tr:last-child:hover {
-//   background-color: #ffe6a1;
-// }
-// /* TOGGLE ROWS FUNCTIONALITY FOR POSITIONS TABLE*/
-
-
-
-// table tr {
-//     border-top: 1px solid #cccccc;
-//     background-color: white;
-//     margin: 0;
-//     padding: 0;
-// }
-
-// table tr:nth-child(2n) {
-//     // background-color: #f0f0f0;
-//     background-color: #fafafa;
-// }
-
-// table tr:hover {
-//     background-color: #ffe6a1;
-// }
-
-// table tr th {
-//     font-weight: bold;
-//     border: 1px solid #cccccc;
-//     text-align: left;
-//     vertical-align: middle; /* Align vertically */
-//     margin: 0;
-//     padding: 6px 13px;
-//     // padding: 2px 6px;
-//     background: #f0f0f0;
-// }
-
-// table tr td {
-//     border: 1px solid #cccccc;
-//     text-align: left;
-//     vertical-align: middle; /* Align vertically */
-//     margin: 0;
-//     padding: 6px 13px;
-//     // padding: 2px 6px;
-// }
-
-// table tr th :first-child,
-// table tr td :first-child {
-//     margin-top: 0;
-// }
-
-// table tr th :last-child,
-// table tr td :last-child {
-//     margin-bottom: 0;
-// }
-
-// .sorted-asc, .sorted-desc {
-//     background-color: #e6f3ff !important; /* light blue highlight */
-// }
-
-// /* Only affect sortable tables */
-// table.sortable thead th {
-//     cursor: pointer;
-//     position: relative;
-// }
-
-// /* On hover: subtle color */
-// table.sortable thead th:hover {
-//     background-color: #e6f3ff !important; /* light blue highlight */
-// }
-
-// // Tables
-// /////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // /////////////////////////////////////////////////////////////////////////////////////
 // // UTI
 
@@ -614,85 +526,3 @@ input[type="radio"][name="radio-btn"] {
 
 // // UTI
 // /////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// // Summary
-// details {
-//   width: 100%;
-//   border: 1px solid #cfcfcf;
-//   border-radius: 6px;
-//   padding: 0.25rem;
-//   margin: 0 auto;              /* center container */
-//   text-align: center;          /* center content */
-//   margin: 0.5em auto 0;
-// }
-
-// /* background only when not open */
-// details:not([open]) {
-//   background: #fff4e0;
-// }
-
-// summary {
-//   display: flex;               /* allow centering */
-//   justify-content: center;     /* center Summary text */
-//   cursor: pointer;
-//   list-style: none;
-//   font-weight: 600;
-//   outline: none;
-// }
-
-// summary::-webkit-details-marker { display: none; }
-
-// summary::before {
-//   content: "▸";
-//   display: inline-block;
-//   margin-right: 0.5rem;
-//   transition: transform .18s ease;
-// }
-
-// details[open] summary::before {
-//   transform: rotate(90deg);
-// }
-
-// .content {
-//   margin-top: 0.5rem;
-//   line-height: 1.45;
-//   text-align: center;          /* center inner text */
-//   border: 2px solid #000;      /* example: black border, 2px thick */
-//   padding: 0.5rem;               /* space between text and border */
-//   border-radius: 0.5rem;       /* optional: rounded corners */
-// }
-
-// // Lazy Loaded Images
-// .lazy-image { width: 100%; height: auto; }

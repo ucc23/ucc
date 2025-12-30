@@ -1,137 +1,231 @@
 
+
+// Summary
+details {
+  width: 100%;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  padding: 0.25rem;
+  margin: 0 auto;              /* center container */
+  text-align: center;          /* center content */
+  margin: 0.5em auto 0;
+}
+
+/* background only when not open */
+details:not([open]) {
+  background: #fff4e0;
+}
+
+summary {
+  display: flex;               /* allow centering */
+  justify-content: center;     /* center Summary text */
+  cursor: pointer;
+  list-style: none;
+  font-weight: 600;
+  outline: none;
+}
+
+summary::-webkit-details-marker { display: none; }
+
+summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform .18s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.content {
+  margin-top: 0.5rem;
+  line-height: 1.45;
+  text-align: center;          /* center inner text */
+  border: 2px solid #000;      /* example: black border, 2px thick */
+  padding: 0.5rem;               /* space between text and border */
+  border-radius: 0.5rem;       /* optional: rounded corners */
+}
+
+
+////////////////////////////////////////////////////
+
 .search-box {
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 12px;
-  max-width: 100%;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 /* --- GRID LAYOUT --- */
 .search-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 80px; 
-  grid-template-rows: auto auto auto;
-  row-gap: 8px;
-  align-items: start;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    gap: 8px;
+    align-items: start;
 }
 
 /* --- ROWS --- */
 .search-row {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
 }
 
 /* --- INPUTS & SELECTS --- */
 .search-box input:not([type="checkbox"]),
 .search-box select {
-  flex: 1 1 auto;
-  min-width: 80px;
-  padding: 6px 8px;
-  border: 1px solid #bbb;
-  border-radius: 4px;
-  font-size: 14px;
-  height: 34px;
-  box-sizing: border-box;
+    padding: 6px 8px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 34px;
+    box-sizing: border-box;
+    min-width: 80px;
 }
 
-/* --- CHECKBOX ROW --- */
+/* --- CHECKBOX CONTAINER --- */
 .search-checkbox {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  padding: 4px 6px;
-  background-color: #fff;
-  border: 1px solid #bbb;
-  border-radius: 4px;
-  font-size: 14px;
-  color: #333;
-  height: 34px;
-  width: fit-content;
-  box-sizing: border-box;
-  margin-left: 212px;
+    display: flex;
+    align-items: center;
+    padding: 4px 6px;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #333;
+    height: 34px;
+    box-sizing: border-box;
+    white-space: nowrap;
 }
 
 .search-checkbox label {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  margin-left: 0;
-  width: auto;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 0;
+    cursor: pointer;
 }
 
 .search-checkbox input[type="checkbox"] {
-  width: 16px;
-  height: 16px;
-  accent-color: #666;
-  cursor: pointer;
-  margin-left: 0;
+    width: 16px;
+    height: 16px;
+    accent-color: #666;
+    cursor: pointer;
+    margin: 0;
 }
 
 /* --- BUTTONS --- */
 .search-box button {
-  padding: 6px 12px;
-  border: none;
-  border-radius: 4px;
-  background-color: #666;
-  color: white;
-  font-size: 14px;
-  cursor: pointer;
-  white-space: nowrap;
-  height: 34px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #666;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    white-space: nowrap;
+    height: 34px;
 }
 
 .search-box button:hover {
-  background-color: #555;
+    background-color: #555;
 }
 
 /* --- SEARCH BUTTON: right side, spans both rows --- */
 #searchButton {
-  grid-column: 2;
-  grid-row: 1 / span 3;
-  align-self: stretch;
-  width: 80px;
-  height: auto;
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: stretch;
+    width: 80px;
+    height: auto;
 }
 
+/* --- RESPONSIVE WIDTHS --- */
+#coordToggle {
+    flex: 0 0 90px;
+    text-align: center;
+    background-color: #5f8c65;
+    border: 1px solid #ccc;
+}
 
-/* --- WIDTHS --- */
-#search { flex: 0 0 245px; }
-#Nmax { flex: 0 0 157px; }
-#c3Filter { flex: 0 0 89px; }
-#dist_min { flex: 0 0 88px; }
-#dist_max { flex: 0 0 88px; }
-#n50_min { flex: 0 0 88px; }
-#n50_max { flex: 0 0 88px; }
-#uti_min { flex: 0 0 88px; }
-#uti_max { flex: 0 0 88px; }
+#search {
+    flex: 1 1 200px;
+    min-width: 150px;
+}
 
+#Nmax {
+    flex: 0 1 120px;
+}
+
+#c3Filter {
+    flex: 0 1 100px;
+}
+
+#dist_min, #dist_max,
+#n50_min, #n50_max,
+#uti_min, #uti_max {
+    flex: 1 1 80px;
+}
 
 .separator {
-  width: 1px;
-  height: 1.5em;
-  background-color: #ccc;
-  margin: 0 5px;
-  align-self: center;
-}
-
-
-#coordToggle {
-  width: 90px;
-  text-align: center;
-  font-size: 14px;
-  background-color: #5f8c65;
-  border: 1px solid #ccc;
+    width: 1px;
+    height: 1.5em;
+    background-color: #ccc;
+    margin: 0 5px;
+    align-self: center;
+    flex-shrink: 0;
 }
 
 /* --- FLASH EFFECT --- */
 #coordToggle.flash {
-  background-color: #cce5ff;
+    background-color: #cce5ff;
+}
+
+/* --- MOBILE RESPONSIVENESS --- */
+@media (max-width: 768px) {
+    .search-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+    }
+
+    #searchButton {
+        grid-column: 1;
+        grid-row: 3;
+        width: 100%;
+    }
+
+    .search-row {
+        width: 100%;
+    }
+
+    #search {
+        min-width: 120px;
+    }
+
+    .separator {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
+    #coordToggle {
+        flex: 0 0 70px;
+    }
+
+    #Nmax, #c3Filter {
+        flex: 1 1 80px;
+    }
 }
 
 
 
+
+//////////////////////////////////////////////////////////////
 
 
 /* Table styling */
