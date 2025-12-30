@@ -14,7 +14,6 @@ layout: default
         <div class="sky-map">
             <!-- Aladin snippet -->
             <img id="aladin_img"
-                 data-umami-event="aladin_load"
                  src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/aladin/{{page.fname}}.webp"
                  alt="Click to load Aladin Lite" 
                  data-fov="{{page.fov}}" 
@@ -27,50 +26,88 @@ layout: default
             <!-- Aladin Lite script will be loaded after the image is clicked -->
         </div>
         <div class="quick-facts">
-            <div class="quality-row">
-                <a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" target="_blank" title="What is the UTI parameter?">
-                    <div class="quality-badge" style="--badge-bg: {{ page.UTI_COLOR }};">
-                        <span class="score">{{ page.UTI }}</span>
-                        <span>UTI</span>
+            <div class="quick-facts-inner">
+                <!-- FRONT -->
+                <div class="quick-facts-front">
+                    <div class="quality-row">
+                        <a href="{{ site.baseurl }}/faq#what-is-the-uti-parameter" target="_blank" title="What is the UTI parameter?">
+                            <div class="quality-badge" style="background-color: {{ page.UTI_COLOR }};">
+                                <span class="score">{{ page.UTI }}</span>
+                                <span>UTI</span>
+                            </div>
+                        </a>
+                        <div class="quality-metrics">
+                            <div class="metric" title="Parameter that weights the number of members" style="--metric-bg: {{ page.UTI_C_N_COL }};">
+                                <div class="metric-value">{{ page.UTI_C_N }}</div>
+                                <div class="metric-label">C<sub>N</sub></div>
+                            </div>
+                            <div class="metric" title="Parameter that weights the stellar density" style="--metric-bg: {{ page.UTI_C_dens_COL }};">
+                                <div class="metric-value">{{ page.UTI_C_dens }}</div>
+                                <div class="metric-label">C<sub>dens</sub></div>
+                            </div>
+                            <div class="metric" title="Parameter that weights the C3 classification" style="--metric-bg: {{ page.UTI_C_C3_COL }};">
+                                <div class="metric-value">{{ page.UTI_C_C3 }}</div>
+                                <div class="metric-label">C<sub>C3</sub></div>
+                            </div>
+                            <div class="metric" title="Parameter that weights the presence in the literature" style="--metric-bg: {{ page.UTI_C_lit_COL }};">
+                                <div class="metric-value">{{ page.UTI_C_lit }}</div>
+                                <div class="metric-label">C<sub>lit</sub></div>
+                            </div>
+                            <div class="metric" title="Parameter that weights the likelihood of this object not being a duplicate" style="--metric-bg: {{ page.UTI_C_dup_COL }};">
+                                <div class="metric-value">{{ page.UTI_C_dup }}</div>
+                                <div class="metric-label">C<sub>dup</sub></div>
+                            </div>
+                        </div>
                     </div>
-                </a>
-                <!-- <div class="vsep"></div> -->
-                <div class="quality-metrics">
-                    <div class="metric" title="Parameter that weights the number of members" style="--metric-bg: {{ page.UTI_C_N_COL }};">
-                        <div class="metric-value">{{ page.UTI_C_N }}</div>
-                        <div class="metric-label">C_N</div>
+                    <!-- FACT items -->
+                    <div class="fact-item">
+                        <a href="{{ site.baseurl }}/faq#what-is-the-c3-parameter" target="_blank" title="C3 classification"><span class="fact-label">C3 classification</span></a>
+                        <span class="fact-value">{{ page.class3 }}</span>
                     </div>
-                    <div class="metric" title="Parameter that weights the stellar density" style="--metric-bg: {{ page.UTI_C_dens_COL }};">
-                        <div class="metric-value">{{ page.UTI_C_dens }}</div>
-                        <div class="metric-label">C_dens</div>
+                    <div class="fact-item">
+                        <a href="{{ site.baseurl }}/faq#how-are-member-stars-selected" target="_blank"><span class="fact-label" title="Identified stars with membership probability >50%">Number of members (P>50%)</span></a>
+                        <span class="fact-value">{{ page.N_50_val }}</span>
                     </div>
-                    <div class="metric" title="Parameter that weights the C3 classification" style="--metric-bg: {{ page.UTI_C_C3_COL }};">
-                        <div class="metric-value">{{ page.UTI_C_C3 }}</div>
-                        <div class="metric-label">C_C3</div>
-                    </div>
-                    <div class="metric" title="Parameter that weights the presence in the literature" style="--metric-bg: {{ page.UTI_C_lit_COL }};">
-                        <div class="metric-value">{{ page.UTI_C_lit }}</div>
-                        <div class="metric-label">C_lit</div>
-                    </div>
-                    <div class="metric" title="Parameter that weights the likelihood of this object not being a duplicate" style="--metric-bg: {{ page.UTI_C_dup_COL }};">
-                        <div class="metric-value">{{ page.UTI_C_dup }}</div>
-                        <div class="metric-label">C_dup</div>
+                    <div class="fact-item">
+                        <span class="fact-label" title="Radius that contains the identified members [arcmin]">Radius (P>50% members)</span>
+                        <span class="fact-value">{{ page.r_50_val }} [arcmin]</span>
                     </div>
                 </div>
-            </div>
-            <div class="fact-item">
-                <span class="fact-label" title="Identified stars with membership probability >50%">Number of members (P>50%)</span>
-                <span class="fact-value">{{ page.N_50_val }}</span>
-            </div>
-            <div class="fact-item">
-                <span class="fact-label" title="Radius that contains the identified members [arcmin]">Radius (P>50% members)</span>
-                <span class="fact-value">{{ page.r_50_val }} [arcmin]</span>
-            </div>
-            <div class="fact-item">
-                <a href="{{ site.baseurl }}/faq#what-is-the-c3-parameter" target="_blank" title="C3 classification"><span class="fact-label">C3 classification</span></a>
-                <span class="fact-value">{{ page.class3 }}</span>
+
+                <!-- BACK -->
+                <div class="quick-facts-back">
+                  <ul class="metric-list">
+                    <li>
+                      <span class="metric-label-list">C<sub>N</sub></span>
+                      <span class="metric-val" style="background: {{ page.UTI_C_N_COL }};">{{ page.UTI_C_N }}</span>
+                      <span class="metric-desc">{{ page.UTI_C_N_desc }}</span>
+                    </li>
+                    <li>
+                      <span class="metric-label-list">C<sub>dens</sub></span>
+                      <span class="metric-val" style="background: {{ page.UTI_C_dens_COL }};">{{ page.UTI_C_dens }}</span>
+                      <span class="metric-desc">{{ page.UTI_C_dens_desc }}</span>
+                    </li>
+                    <li>
+                      <span class="metric-label-list">C<sub>C3</sub></span>
+                      <span class="metric-val" style="background: {{ page.UTI_C_C3_COL }};">{{ page.UTI_C_C3 }}</span>
+                      <span class="metric-desc">{{ page.UTI_C_C3_desc }}</span>
+                    </li>
+                    <li>
+                      <span class="metric-label-list">C<sub>lit</sub></span>
+                      <span class="metric-val" style="background: {{ page.UTI_C_lit_COL }};">{{ page.UTI_C_lit }}</span>
+                      <span class="metric-desc">{{ page.UTI_C_lit_desc }}</span>
+                    </li>
+                    <li>
+                      <span class="metric-label-list">C<sub>dup</sub></span>
+                      <span class="metric-val" style="background: {{ page.UTI_C_dup_COL }};">{{ page.UTI_C_dup }}</span>
+                      <span class="metric-desc">{{ page.UTI_C_dup_desc }}</span>
+                    </li>
+                  </ul>
+                </div>
+
             </div>
         </div>
+
     </div>
 
 
@@ -81,13 +118,13 @@ layout: default
             
         <div class="action-buttons">
             <a class="btn btn-secondary" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Download data</a>
-            <a class="btn btn-secondary" data-umami-event="cl_colab" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">📊 Explore in Colab</a>
-            <a class="btn btn-secondary" data-umami-event="cl_bayestar" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">🔬 Bayestar19</a>
+            <a class="btn btn-secondary" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">📊 Explore in Colab</a>
+            <a class="btn btn-secondary" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">🔬 Bayestar19</a>
              <span class="flex-break"></span>
-            <a class="btn btn-secondary" data-umami-event="cl_scix_search" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">🔍 SciX (name)</a>
-            <a class="btn btn-secondary" data-umami-event="cl_cds_coord_search" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">🔍 CDS (position)</a>
-            <a class="btn btn-secondary" data-umami-event="cl_simbad_search" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">🔍 Simbad (name)</a>
-            <a class="btn btn-secondary" data-umami-event="cl_simbad_coord_search" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">🔍 Simbad (position)</a>
+            <a class="btn btn-secondary" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">🔍 SciX (name)</a>
+            <a class="btn btn-secondary" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">🔍 CDS (position)</a>
+            <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">🔍 Simbad (name)</a>
+            <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">🔍 Simbad (position)</a>
         </div>
     </details>
 
@@ -103,7 +140,7 @@ layout: default
             <div class="tabs">
                 <button class="tab active" onclick="switchTab(event, 'positions')">Astrometry</button>
                 {% if page.fpars_table != empty %}
-                    <button class="tab" onclick="switchTab(event, 'parameters')">Parameters</button>
+                    <button id="tab_parameters" class="tab" onclick="switchTab(event, 'parameters')">Parameters</button>
                 {% endif %}
                 {% if page.shared_table != empty %}
                     <button id="tab_obj_shared" class="tab" onclick="switchTab(event, 'obj_shared')">Shared members</button>
@@ -251,7 +288,7 @@ layout: default
     window.members_file = "{{ page.members_file }}";
     window.baseurl = "{{ site.baseurl }}";
 </script>
-<script type="module" src="{{ site.baseurl }}/scripts/post_scripts.js"></script>
+<script type="module" src="{{ site.baseurl }}/scripts/cluster_scripts.js"></script>
 
 
 

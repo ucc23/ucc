@@ -42,10 +42,11 @@ searchInput.addEventListener("input", (event) => {
         // Filter for euclidean search, string diff is always <1
         .filter(d => d.distance < 5)
         .sort((a, b) => a.distance - b.distance)
-        .slice(0, 9);
+        .slice(0, 12); // Limit to top 12 results
 
     // Append new results
     results.forEach(d => {
+    // results.forEach((d, i) => {
         const element = userCardTemplate.content.cloneNode(true).children[0];
         const header = element.querySelector("[data-header]");
         const body = element.querySelector(`[data-body]`);
@@ -53,6 +54,7 @@ searchInput.addEventListener("input", (event) => {
         const href = `./_clusters/${d.fnames.split(";")[0]}`;
 
         anchor.setAttribute("href", href);
+        // header.textContent = `${i + 1}. ${d.Name}`;
         header.textContent = d.Name;
         if (coordsys == 'equ') {
             body.textContent = `E (${d.RA_ICRS}, ${d.DE_ICRS})`;

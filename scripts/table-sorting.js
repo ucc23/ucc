@@ -14,12 +14,17 @@ function enableTableSorting(table) {
     const data = rows.map(row => {
         const cells = Array.from(row.cells).map(cell => {
             const text = cell.textContent.trim();
-            const num = parseFloat(text.replace(/,/g, ""));
-            return {
-                raw: cell,
-                value: isNaN(num) ? text : num,
-                isNum: !isNaN(num)
-            };
+            let value, isNum, isMissing = false;
+            if (text === "–") { // THIS IS NOT A DASH '-'
+                value = null;
+                isNum = false;
+                isMissing = true;
+            } else {
+                const num = parseFloat(text.replace(/,/g, ""));
+                isNum = !isNaN(num);
+                value = isNum ? num : text;
+            }
+            return { raw: cell, value, isNum, isMissing };
         });
         return { row, cells };
     });
@@ -42,13 +47,18 @@ function enableTableSorting(table) {
             arrow.textContent = ascending ? "▲" : "▼";
             header.appendChild(arrow);
 
-            // Sort in memory
             data.sort((a, b) => {
                 const va = a.cells[columnIndex];
                 const vb = b.cells[columnIndex];
+                // Missing values always last
+                if (va.isMissing && vb.isMissing) return 0;
+                if (va.isMissing) return 1;
+                if (vb.isMissing) return -1;
+                // Numeric comparison
                 if (va.isNum && vb.isNum) {
                     return ascending ? va.value - vb.value : vb.value - va.value;
                 }
+                // String comparison
                 return ascending
                     ? collator.compare(va.value, vb.value)
                     : collator.compare(vb.value, va.value);

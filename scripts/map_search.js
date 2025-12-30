@@ -42,6 +42,7 @@ function getInputValues() {
         n50max: document.getElementById("n50_max").value,
         utimin: document.getElementById("uti_min").value,
         utimax: document.getElementById("uti_max").value,
+        Pdupmax: document.getElementById("Pdupmax").value,
         c3Filter: document.getElementById("c3Filter").value,
         filterOCs: document.getElementById("filterOCs").checked,
     };
@@ -59,6 +60,7 @@ function getPoints() {
         n50max,
         utimin,
         utimax,
+        Pdupmax,
         c3Filter,
         filterOCs,
     } = getInputValues();
@@ -90,6 +92,10 @@ function getPoints() {
     if (isNaN(n50max)) {
         n50max = 100000;
     }
+    Pdupmax = parseFloat(Pdupmax);
+    if (isNaN(Pdupmax)) {
+        Pdupmax = 1.01;
+    }
     utimin = parseFloat(utimin);
     if (isNaN(utimin)) {
         utimin = 0;
@@ -114,6 +120,7 @@ function getPoints() {
                 dist_pc: parseFloat(d.dist_pc),
                 membs: parseFloat(d.N_50),
                 uti: parseFloat(d.UTI),
+                pdup: parseFloat(d.P_dup),
                 c3: d.C3,
                 badoc: d.bad_oc,
             };
@@ -127,6 +134,9 @@ function getPoints() {
     if (c3Filter) {
         results = results.filter(d => d.c3 === c3Filter);
     }
+
+    // Apply P_dup filter if set
+    results = results.filter(d => d.pdup <= Pdupmax);
 
     // Apply bad OC filter if set
     if (filterOCs) {
@@ -183,6 +193,7 @@ function buildTable(points, totalCount) {
                 <th class="center">Dist [pc]</th>
                 <th class="center">N50</th>
                 <th class="center">C3</th>
+                <th class="center">P<sub>dup</sub></th>
                 <th class="center">UTI</th>
             </tr>
         </thead>`;
@@ -200,7 +211,7 @@ function buildTable(points, totalCount) {
         tableBody += `
             <tr data-index="${i}">
                 <td class="left">
-                  <a href="../_clusters/${d.fname}" data-umami-event="cl_search" target="_blank" title="${d.fnames}" ${nameStyle}>
+                  <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}" ${nameStyle}>
                     ${d.name.slice(0, 20)}
                   </a>
                 </td>
@@ -210,6 +221,7 @@ function buildTable(points, totalCount) {
                 <td class="center">${d.dist_pc.toFixed(0)}</td>
                 <td class="center">${d.membs}</td>
                 <td class="center">${c3HTML}</td>
+                <td class="center">${d.pdup}</td>
                 <td class="center">${d.uti}</td>
             </tr>`;
     });
@@ -275,7 +287,7 @@ function getCSV() {
     }
 
     // CSV Conversion
-    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "UTI", "bad_oc"];
+    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "P_dup", "UTI", "bad_oc"];
     const csvContent = [
         headers.join(","), // Header row
         ...points.map(d => [
@@ -287,6 +299,7 @@ function getCSV() {
             d.dist_pc.toFixed(0), // Ensure distance is formatted as integer string
             d.membs,
             d.c3,
+            d.pdup,
             d.uti,
             d.badoc
         ].join(","))
@@ -326,7 +339,7 @@ async function updateDisplay() {
   if (cachedPoints && cachedPoints.length > 0) {
       const downloadButton = document.getElementById('downloadCSV');
       downloadButton.addEventListener('click', getCSV);
-      downloadButton.onclick = () => umami.track('search_downl_csv');
+      // downloadButton.onclick = () => umami.track('search_downl_csv');
   }
 }
 

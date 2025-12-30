@@ -206,18 +206,15 @@ async function initRadecScatter() {
         toImageButtonOptions: {
             format: 'png', // one of png, svg, jpeg, webp
             filename: ocName, // Use ocName for file name
-            height: 500,
+            height: 700,
             width: 700,
-            scale: 3
+            scale: 2
         },
         scrollZoom: true,
         displaylogo: false,
         responsive: true,
         displayModeBar: true, // Always visible
         modeBarButtonsToRemove: ['select2d', 'lasso2d', 'autoscale'],
-        showLink: true,
-        plotlyServerURL: "https://chart-studio.plotly.com",
-        linkText: 'View and edit'
     };
 
     // Render the initial plot
