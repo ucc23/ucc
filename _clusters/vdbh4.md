@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: VDBH 4
-style: style
 title_flag: true
 more_names: vdBergh-Hagen 4; ESO 368 06; MWSC 1288
 fname: vdbh4
@@ -15,39 +15,44 @@ r50: 0.9
 plx: 0.0995
 UTI: "0.52"
 UTI_COLOR: "#fcfee5"
-UTI_C_N_COL: "#feebcf"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_N_COL: "#feebce"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>VDBH 4</b> is a poorly populated, very dense object of high C3 quality. It is located at a very large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.
+    <b>VDBH 4</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well below the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 0.9
 N_50_val: 35
 scix_url: VDBH%204
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 114.433 | -36.067 | -- | -- | -- | -- |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 114.44 | -36.057 | -- | -- | -- | -- |
-    |[Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P) | 114.45 | -36.033 | -- | -- | -- | -- |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 114.438 | -36.061 | 0.084 | -0.846 | 2.137 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |114.437 | -36.061 | 0.1 | -0.862 | 2.175 | -- | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |114.437 | -36.061 | 0.1 | -0.862 | 2.175 | -- |
+    |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 114.438 | -36.061 | 0.084 | -0.846 | 2.137 | -- |
+    |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 114.45 | -36.033 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 114.44 | -36.057 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.433 | -36.067 | -- | -- | -- | -- 
 cds_radec: 114.43736,-36.0607
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Perren et al. (2022)](https://scixplorer.org/abs/2022A%26A...663A.131P) | `E(B-V)=0.34, dm=14.55, logt=9.1, FeH=-0.29, Mass=1800, bfr=0.64` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.75, m-M=15.0, logA=7.2` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 10.00 | 1.75 | -- | 16 | -- | -- | -- | -- |
+    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 8.13 | 1.05 | -- | 1259 | -0.290 | 1800 | 0.64 | -- |
+note_asterisk: false
 shared_table: |
-    
+
 ---

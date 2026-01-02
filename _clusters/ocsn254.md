@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: OCSN 254
-style: style
 title_flag: true
 more_names: 
 fname: ocsn254
@@ -14,36 +14,41 @@ glat: -7.7075
 r50: 32.5
 plx: 2.8878
 UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
-UTI_C_N_COL: "#a6cab9"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#f3bab5"
+UTI_COLOR: "#ebb0b3"
+UTI_C_N_COL: "#a5cab9"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#a5cab9"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
+UTI_C_N_desc: Very rich
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Very high quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: <u>likely duplicate</u>
 UTI_summary: |
-    <b>OCSN 254</b> is a very rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>OCSN 254</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, near the mid-plane. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 32.5
 N_50_val: 654
 scix_url: OCSN%20254
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 122.4 | -47.36 | 2.89 | -6.46 | 9.62 | 16.32 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |122.376 | -47.34 | 2.888 | -6.4 | 9.605 | 14.613 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |122.376 | -47.34 | 2.888 | -6.4 | 9.605 | 14.613 |
+    |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 122.4 | -47.36 | 2.89 | -6.46 | 9.62 | 16.32 
 cds_radec: 122.37582,-47.33952
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.08, m-M=7.81, logt=7.05` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.36 | 0.25 | -- | 11 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

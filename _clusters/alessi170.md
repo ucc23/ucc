@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Alessi 170
-style: style
 title_flag: true
 more_names: 
 fname: alessi170
@@ -14,45 +14,50 @@ glat: -4.49844
 r50: 10.7
 plx: 0.7012
 UTI: "0.65"
-UTI_COLOR: "#e9f5d1"
-UTI_C_N_COL: "#d0ebc9"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff1d4"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#e9f5d0"
+UTI_C_N_COL: "#d0eac9"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fef0d2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.38
 UTI_C_dup: 1.0
+UTI_C_N_desc: Rich
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Alessi 170</b> is a rich, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>Alessi 170</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, below the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 10.7
 N_50_val: 146
 scix_url: Alessi%20170
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 100.469 | -5.221 | -- | -- | -- | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 100.456 | -5.239 | 0.698 | -0.108 | -3.109 | 0.209 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 100.444 | -5.245 | 0.701 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 100.456 | -5.239 | 0.698 | -0.108 | -3.109 | 0.209 |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 100.456 | -5.239 | -- | -- | -- | -- |
-    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 100.444 | -5.245 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |100.454 | -5.234 | 0.701 | -0.116 | -3.117 | 0.138 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |100.454 | -5.234 | 0.701 | -0.116 | -3.117 | 0.138 |
+    |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 100.444 | -5.245 | -- | -- | -- | -- |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 100.456 | -5.239 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 100.456 | -5.239 | 0.698 | -0.108 | -3.109 | 0.209 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 100.444 | -5.245 | 0.701 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 100.456 | -5.239 | 0.698 | -0.108 | -3.109 | 0.209 |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 100.469 | -5.221 | -- | -- | -- | -- 
 cds_radec: 100.4544,-5.23356
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.739, diffAV50=0.618, MOD50=10.623, logAge50=8.734` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.81, dMod50=10.78, logAge50=8.85, [Fe/H]50=0.46` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=573.025, MassTot=731.101` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2690, [Fe/H]MCMC=-0.2634` |
-    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.14, MA23f=-0.24, MA23g=0.01, MZ23=-0.05, MK24=-0.08, MF24=-0.07` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.140* | -- | -- | -- |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.269* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 573* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.43 | 0.81 | -- | 708 | 0.460 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.33 | 0.74 | 0.62 | 542 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

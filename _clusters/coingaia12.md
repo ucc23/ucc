@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: COIN-Gaia 12
-style: style
 title_flag: true
 more_names: COIN 12
 fname: coingaia12
@@ -14,60 +14,65 @@ glat: 2.11035
 r50: 14.8
 plx: 1.0333
 UTI: "0.77"
-UTI_COLOR: "#d0ebc9"
-UTI_C_N_COL: "#ebf6d2"
-UTI_C_dens_COL: "#b1dcc2"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#cbe9c9"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#d0eac9"
+UTI_C_N_COL: "#eaf6d1"
+UTI_C_dens_COL: "#b2dcc2"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#cce9c8"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
 UTI_C_dens: 0.89
 UTI_C_C3: 0.75
 UTI_C_lit: 0.79
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Well-studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>COIN-Gaia 12</b> is a moderately populated, dense object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is well-studied in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>COIN-Gaia 12</b> is a moderately populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, above the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 14.8
 N_50_val: 77
 scix_url: COIN-Gaia%2012
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | 79.209 | 41.708 | 1.03 | 2.62 | -4.66 | -- |
-    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 79.209 | 41.708 | -- | -- | -- | 2.0 |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 79.209 | 41.708 | 1.03 | 2.616 | -4.681 | -- |
-    |[Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | 79.212 | 41.717 | 1.024 | 2.59 | -4.679 | -7.792 |
-    |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 79.128 | 41.708 | 1.009 | 2.509 | -4.698 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 79.222 | 41.725 | 1.033 | 2.514 | -4.691 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 79.42 | 41.68 | 1.001 | 2.559 | -4.719 | -9.389 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 79.149 | 41.77 | 1.005 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 79.42 | 41.68 | 1.001 | 2.559 | -4.719 | -9.389 |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 79.42 | 41.68 | -- | -- | -- | -- |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 79.171 | 41.778 | 0.982 | 2.498 | -4.705 | -- |
-    |[Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | 79.212 | 41.717 | -- | -- | -- | -- |
-    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 79.149 | 41.77 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |79.182 | 41.746 | 1.033 | 2.517 | -4.705 | -8.955 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |79.182 | 41.746 | 1.033 | 2.517 | -4.705 | -8.955 |
+    |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 79.149 | 41.77 | -- | -- | -- | -- |
+    |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 79.212 | 41.717 | -- | -- | -- | -- |
+    |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 79.171 | 41.778 | 0.982 | 2.498 | -4.705 | -- |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 79.42 | 41.68 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 79.42 | 41.68 | 1.001 | 2.559 | -4.719 | -9.389 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 79.149 | 41.77 | 1.005 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 79.42 | 41.68 | 1.001 | 2.559 | -4.719 | -9.389 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 79.222 | 41.725 | 1.033 | 2.514 | -4.691 | -- |
+    |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 79.128 | 41.708 | 1.009 | 2.509 | -4.698 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 79.212 | 41.717 | 1.024 | 2.59 | -4.679 | -7.792 |
+    |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 79.209 | 41.708 | 1.03 | 2.616 | -4.681 | -- |
+    |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 79.209 | 41.708 | -- | -- | -- | 2.0 |
+    |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 79.209 | 41.708 | 1.03 | 2.62 | -4.66 | -- 
 cds_radec: 79.18225,+41.74619
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2019)](https://scixplorer.org/abs/2019A%26A...624A.126C) | `d=944` |
-    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.155, Dist=1.1, logAge=8.571, Z=0.033` |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.16, DistPc=954.0, AgeNN=8.73` |
-    | [Dias et al. (2021)](https://scixplorer.org/abs/2021MNRAS.504..356D) | `Av=0.475, Dist=924, logage=8.752, [Fe/H]=-0.039` |
-    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=934, logAgeNN=8.74` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.35, logAge=8.85` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.272, diffAV50=0.513, MOD50=9.826, logAge50=8.73` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.42, dMod50=10.02, logAge50=8.74, [Fe/H]50=0.35` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=228.293, MassTot=331.730` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.1369, [Fe/H]MCMC=-0.1675` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.16026, MOD=9.89961, logAge=8.78096, Z=-0.0386` |
-    | [Almeida et al. (2025)](https://scixplorer.org/abs/2025A%26A...693A.305A) | `AV=0.475, Dist=924, logAge=8.752, MassRk=172.9` |
-    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.17, MA23f=-0.13, MZ23=-0.1, MK24=-0.07, MF24=-0.05` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.170* | -- | -- | -- |
+    | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.92 | 0.47 | -- | 565 | -- | 173 | -- | -- |
+    | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.95 | 0.16 | -- | 604 | -0.039 | -- | -- | -- |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.137* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 228* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.01 | 0.42 | -- | 550 | 0.350 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.92 | 0.27 | 0.51 | 537 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.35 | -- | 708 | -- | -- | -- | -- |
+    | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.93 | -- | -- | 550 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.92 | 0.47 | -- | 565 | -0.039 | -- | -- | -- |
+    | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.95 | 0.16 | -- | 537 | -- | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.10 | 0.48 | -- | 372 | 0.033 | -- | -- | -- |
+    | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.94 | -- | -- | -- | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

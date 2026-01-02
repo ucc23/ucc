@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Kronberger 68
-style: style
 title_flag: true
 more_names: MWSC 3220; DSH J2000.6+3035
 fname: kronberger68
@@ -15,45 +15,50 @@ r50: 5.5
 plx: 0.1874
 UTI: "0.23"
 UTI_COLOR: "#fcd2c0"
-UTI_C_N_COL: "#e0a6b3"
+UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e6acb3"
-UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff8de"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fef8dd"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.44
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Kronberger 68</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Kronberger 68</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, near the mid-plane, affected by very high extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.34 kpc) differs significantly from the median photometric distance (~0.98 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.5
 N_50_val: 15
 scix_url: Kronberger%2068
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 300.15 | 30.59 | -- | -3.27 | -5.46 | -- |
-    |[Kronberger et al. (2006)](https://scixplorer.org/abs/2006A%26A...447..921K) | 300.152 | 30.59 | -- | -- | -- | -- |
-    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 300.15 | 30.577 | -- | -3.27 | -5.46 | -- |
-    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 300.145 | 30.574 | -- | -- | -- | -- |
-    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 300.15 | 30.59 | -- | -2.209 | -3.326 | -- |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 300.147 | 30.588 | -- | -- | -- | -- |
-    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 300.145 | 30.574 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |300.151 | 30.565 | 0.187 | -2.865 | -5.479 | -9.799 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |300.151 | 30.565 | 0.187 | -2.865 | -5.479 | -9.799 |
+    |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 300.145 | 30.574 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 300.147 | 30.588 | -- | -- | -- | -- |
+    |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 300.15 | 30.59 | -- | -2.209 | -3.326 | -- |
+    |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 300.145 | 30.574 | -- | -- | -- | -- |
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 300.15 | 30.577 | -- | -3.27 | -5.46 | -- |
+    |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 300.152 | 30.59 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 300.15 | 30.59 | -- | -3.27 | -5.46 | -- 
 cds_radec: 300.15086,+30.5646
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=2.19, Dist=710.0, Age=8.3` |
-    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=2.02, d=977.0, logt=8.54` |
-    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=2.02, d=977.0, logt=8.54` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.639, Dist=2757, logt=8.58` |
-    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.54, logmt=1.245` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 347 | -- | 18 | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.76 | 1.98 | -- | 380 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.98 | 6.26 | -- | 347 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.98 | 6.26 | -- | 347 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.71 | 6.79 | -- | 200 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

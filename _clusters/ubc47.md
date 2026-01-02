@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: UBC 47
-style: style
 title_flag: true
 more_names: 
 fname: ubc47
@@ -14,44 +14,49 @@ glat: 3.77746
 r50: 2.3
 plx: 0.639
 UTI: "0.45"
-UTI_COLOR: "#fffae0"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fff1d4"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fef9de"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#fefee8"
+UTI_C_lit_COL: "#fef0d2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
 UTI_C_lit: 0.38
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>UBC 47</b> is a sparse, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>UBC 47</b> is a sparse, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, above the mid-plane. It is catalogued as a metal-rich, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.3
 N_50_val: 24
 scix_url: UBC%2047
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Castro-Ginard et al. (2019)](https://scixplorer.org/abs/2019A%26A...627A..35C) | 42.001 | 63.802 | 0.651 | 1.191 | -1.12 | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 41.996 | 63.789 | 0.647 | 1.192 | -1.103 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 41.984 | 63.798 | 0.63 | 1.196 | -1.114 | 11.12 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 41.981 | 63.801 | 0.639 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 41.984 | 63.798 | 0.63 | 1.196 | -1.114 | 11.12 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |41.996 | 63.796 | 0.639 | 1.244 | -1.144 | 11.114 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |41.996 | 63.796 | 0.639 | 1.244 | -1.144 | 11.114 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 41.984 | 63.798 | 0.63 | 1.196 | -1.114 | 11.12 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 41.981 | 63.801 | 0.639 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 41.984 | 63.798 | 0.63 | 1.196 | -1.114 | 11.12 |
+    |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 41.996 | 63.789 | 0.647 | 1.192 | -1.103 | -- |
+    |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 42.001 | 63.802 | 0.651 | 1.191 | -1.12 | -- 
 cds_radec: 41.9957,+63.79633
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=2.24, DistPc=1514.0, AgeNN=8.39` |
-    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=1457, logAgeNN=8.42` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.701, diffAV50=1.21, MOD50=10.841, logAge50=8.093` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.75, dMod50=11.23, logAge50=8.24, [Fe/H]50=0.65` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=188.243, MassTot=188.243` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 188* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.76 | 2.75 | -- | 174 | 0.650 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.47 | 2.70 | 1.21 | 124 | -- | -- | -- | -- |
+    | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 1.46 | -- | -- | 263 | -- | -- | -- | -- |
+    | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.51 | 2.24 | -- | 245 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

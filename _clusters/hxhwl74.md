@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: HXHWL 74
-style: style
 title_flag: true
 more_names: 
 fname: hxhwl74
@@ -14,44 +14,49 @@ glat: -0.83782
 r50: 3.0
 plx: 0.4181
 UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#fff1d4"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fee4c9"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
 UTI_C_lit: 0.31
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>HXHWL 74</b> is a moderately populated, very dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br>This object shares a significant percentage of members with a later reported entry.
+    <b>HXHWL 74</b> is a moderately populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.0
 N_50_val: 56
 scix_url: HXHWL%2074
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | 103.864 | -3.787 | 0.42 | -1.81 | 1.07 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 103.861 | -3.777 | 0.423 | -1.787 | 1.14 | 71.29 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 103.854 | -3.78 | 0.423 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 103.861 | -3.777 | 0.423 | -1.787 | 1.14 | 71.29 |
-    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 103.854 | -3.78 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |103.855 | -3.777 | 0.418 | -1.802 | 1.126 | 71.289 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |103.855 | -3.777 | 0.418 | -1.802 | 1.126 | 71.289 |
+    |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 103.854 | -3.78 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 103.861 | -3.777 | 0.423 | -1.787 | 1.14 | 71.29 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 103.854 | -3.78 | 0.423 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 103.861 | -3.777 | 0.423 | -1.787 | 1.14 | 71.29 |
+    |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 103.864 | -3.787 | 0.42 | -1.81 | 1.07 | -- 
 cds_radec: 103.8547,-3.77726
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=1.2, m-M=11.6, logAge=8.76, Z=0.01` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.132, diffAV50=0.656, MOD50=11.679, logAge50=8.63` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.51, dMod50=11.49, logAge50=8.87, [Fe/H]50=-0.22` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=243.512, MassTot=253.759` |
-    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.3, MA23f=-0.42, MZ23=-0.41, MK24=-0.29, MF24=-0.3` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.300* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 244* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.99 | 1.51 | -- | 741 | -0.220 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.17 | 1.13 | 0.66 | 427 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 2.09 | 1.44 | -- | 575 | -0.419 | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

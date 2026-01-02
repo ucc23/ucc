@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: MCM 88
-style: style
 title_flag: true
 more_names: 
 fname: mcm88
@@ -15,33 +15,38 @@ r50: 4.8
 plx: 0.429
 UTI: "0.31"
 UTI_COLOR: "#fee4c9"
-UTI_C_N_COL: "#fffae0"
+UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#bce1c5"
-UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.85
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>MCM 88</b> is a poorly populated, dense object of low C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 20 years.
+    <b>MCM 88</b> is a poorly populated, dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 21 years. 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 4.8
 N_50_val: 45
 scix_url: MCM%2088
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Mercer et al. (2005)](https://scixplorer.org/abs/2005ApJ...635..560M) | 256.128 | -40.775 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |256.15 | -40.795 | 0.429 | -1.702 | -1.713 | -5.492 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |256.15 | -40.795 | 0.429 | -1.702 | -1.713 | -5.492 |
+    |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 256.128 | -40.775 | -- | -- | -- | -- 
 cds_radec: 256.14976,-40.79461
 carousel: UCC
 fpars_table: |
-    
+
+note_asterisk: false
 shared_table: |
-    
+
 ---

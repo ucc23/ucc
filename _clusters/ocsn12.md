@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: OCSN 12
-style: style
 title_flag: true
 more_names: 
 fname: ocsn12
@@ -14,40 +14,45 @@ glat: 14.92859
 r50: 43.1
 plx: 2.1994
 UTI: "0.10"
-UTI_COLOR: "#f1b6b3"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#f6c1b8"
-UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#f0b6b3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#f5c1b8"
+UTI_C_C3_COL: "#fef0d2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.15
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>OCSN 12</b> is a sparse, very loose object of low C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=1.0) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>OCSN 12</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, above the mid-plane. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 43.1
 N_50_val: 24
 scix_url: OCSN%2012
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | 276.54 | 21.08 | 2.31 | -1.45 | -6.09 | -17.25 |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 276.514 | 21.421 | 2.166 | -1.231 | -6.274 | -19.327 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 276.819 | 21.485 | 2.159 | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |276.366 | 21.462 | 2.199 | -1.367 | -6.201 | -20.252 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |276.366 | 21.462 | 2.199 | -1.367 | -6.201 | -20.252 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 276.819 | 21.485 | 2.159 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 276.514 | 21.421 | 2.166 | -1.231 | -6.274 | -19.327 |
+    |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 276.54 | 21.08 | 2.31 | -1.45 | -6.09 | -17.25 
 cds_radec: 276.36615,+21.46212
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Qin et al. (2023)](https://scixplorer.org/abs/2023ApJS..265...12Q) | `E(B-V)=0.17, m-M=8.71, logt=7.45` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.328, diffAV50=0.628, MOD50=8.286, logAge50=8.273` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.85, dMod50=8.45, logAge50=7.47, [Fe/H]50=0.26` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.49 | 0.85 | -- | 30 | 0.260 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.45 | 0.33 | 0.63 | 187 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.55 | 0.53 | -- | 28 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
-    
+
 ---

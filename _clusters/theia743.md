@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Theia 743
-style: style
 title_flag: true
 more_names: 
 fname: theia743
@@ -14,42 +14,47 @@ glat: 0.7811
 r50: 23.4
 plx: 1.5188
 UTI: "0.42"
-UTI_COLOR: "#fff6da"
-UTI_C_N_COL: "#d9efca"
+UTI_COLOR: "#fef6d9"
+UTI_C_N_COL: "#d9eeca"
 UTI_C_dens_COL: "#a9d1bc"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#def1cb"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#ddf0ca"
 UTI_C_N: 0.73
 UTI_C_dens: 0.96
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 0.71
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Likely unique
 UTI_summary: |
-    <b>Theia 743</b> is a moderately populated, very dense object of high C3 quality. It is located at a close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Theia 743</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, near the mid-plane. It is catalogued as a metal-poor, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 23.4
 N_50_val: 96
 scix_url: Theia%20743
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 173.42 | -60.656 | 1.517 | -14.445 | 2.683 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 173.48 | -60.657 | 1.523 | -14.444 | 2.649 | -13.864 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 173.545 | -60.628 | 1.522 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 173.48 | -60.657 | 1.523 | -14.444 | 2.649 | -13.864 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |173.462 | -60.672 | 1.519 | -14.432 | 2.702 | -13.318 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |173.462 | -60.672 | 1.519 | -14.432 | 2.702 | -13.318 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 173.48 | -60.657 | 1.523 | -14.444 | 2.649 | -13.864 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 173.545 | -60.628 | 1.522 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 173.48 | -60.657 | 1.523 | -14.444 | 2.649 | -13.864 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 173.42 | -60.656 | 1.517 | -14.445 | 2.683 | -- 
 cds_radec: 173.46182,-60.67158
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=0.45, logAge=7.9` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.133, diffAV50=0.485, MOD50=8.945, logAge50=8.501` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.69, dMod50=8.93, logAge50=8.19, [Fe/H]50=-0.5` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=95.5986, MassTot=177.933` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 96* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.61 | 0.69 | -- | 155 | -0.500 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.62 | 0.13 | 0.48 | 317 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.45 | -- | 79 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

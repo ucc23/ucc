@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Casado 13
-style: style
 title_flag: true
 more_names: 
 fname: casado13
@@ -15,41 +15,46 @@ r50: 3.2
 plx: 0.2315
 UTI: "0.58"
 UTI_COLOR: "#f4fada"
-UTI_C_N_COL: "#e9f5d1"
-UTI_C_dens_COL: "#a6cbba"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_N_COL: "#e9f5d0"
+UTI_C_dens_COL: "#a6ccba"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.65
 UTI_C_dens: 0.99
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Casado 13</b> is a moderately populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Casado 13</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.2
 N_50_val: 80
 scix_url: Casado%2013
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | 10.315 | 63.579 | 0.26 | -1.7 | -0.3 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 10.28 | 63.601 | 0.227 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |10.302 | 63.593 | 0.232 | -1.723 | -0.455 | -89.2 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |10.302 | 63.593 | 0.232 | -1.723 | -0.455 | -89.2 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 10.28 | 63.601 | 0.227 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 10.291 | 63.591 | 0.228 | -1.731 | -0.473 | -76.201 |
+    |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 10.315 | 63.579 | 0.26 | -1.7 | -0.3 | -- 
 cds_radec: 10.30206,+63.59284
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | `d_kpc=3.4` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.023, diffAV50=2.589, MOD50=12.874, logAge50=7.51` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.9, dMod50=12.66, logAge50=8.01, [Fe/H]50=0.47` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=798.925, MassTot=793.806` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 799* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.40 | 2.90 | -- | 102 | 0.470 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.76 | 3.02 | 2.59 | 32 | -- | -- | -- | -- |
+    | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 3.40 | -- | -- | -- | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

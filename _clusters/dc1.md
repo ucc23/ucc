@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: DC 1
-style: style
 title_flag: true
 more_names: MWSC 961
 fname: dc1
@@ -14,40 +14,45 @@ glat: -7.92955
 r50: 1.7
 plx: 0.1487
 UTI: "0.55"
-UTI_COLOR: "#f8fce0"
-UTI_C_N_COL: "#f2f9d6"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#f8fcdf"
+UTI_C_N_COL: "#f1f9d6"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#eef7d4"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>DC 1</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a large distance from the Sun, well below the mid-plane. It is poorly studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>DC 1</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, well below the mid-plane. It is catalogued as a near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 1.7
 N_50_val: 71
 scix_url: DC%201
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 100.504 | -12.974 | -- | -- | -- | -- |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 100.505 | -12.969 | -- | -- | -- | -- |
-    |[Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 100.505 | -12.966 | -- | 0.216 | 1.01 | 2.585 |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 100.506 | -12.968 | 0.15 | 0.123 | 1.373 | 50.32 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |100.505 | -12.966 | 0.149 | 0.118 | 1.35 | 50.317 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |100.505 | -12.966 | 0.149 | 0.118 | 1.35 | 50.317 |
+    |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 100.506 | -12.968 | 0.15 | 0.123 | 1.373 | 50.32 |
+    |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 100.505 | -12.966 | -- | 0.216 | 1.01 | 2.585 |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 100.505 | -12.969 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 100.504 | -12.974 | -- | -- | -- | -- 
 cds_radec: 100.50476,-12.96626
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Monteiro & Dias (2019)](https://scixplorer.org/abs/2019MNRAS.487.2385M) | `E(B-V)=0.408, Dist=6.705, logAge=9.473, Z=0.003` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.1, m-M=13.8, logA=9.2` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 5.75 | 1.10 | -- | 1585 | -- | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 6.71 | 1.26 | -- | 2972 | 0.003 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

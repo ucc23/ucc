@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Turner 11
-style: style
 title_flag: true
 more_names: MWSC 3403
 fname: turner11
@@ -14,45 +14,50 @@ glat: -4.24054
 r50: 7.5
 plx: 0.1879
 UTI: "0.20"
-UTI_COLOR: "#fbccbd"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#e3a9b3"
-UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#fff1d4"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fbcbbd"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e2a9b3"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fef0d2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.02
 UTI_C_C3: 0.25
 UTI_C_lit: 0.38
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Turner 11</b> is a sparse, very loose object of low C3 quality. It is located at a large distance from the Sun, below the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Turner 11</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, below the mid-plane. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.32 kpc) differs significantly from the median photometric distance (~2.20 kpc).</p>
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 7.5
 N_50_val: 14
 scix_url: Turner%2011
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 310.85 | 35.588 | -- | -3.58 | -5.41 | -- |
-    |[Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | 310.8 | 35.585 | -- | -2.14 | -3.44 | 10.5 |
-    |[Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | 310.795 | 35.582 | -- | -- | -- | -- |
-    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 310.845 | 35.588 | -- | -0.568 | -1.175 | 10.5 |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 310.848 | 35.589 | -- | -- | -- | -- |
-    |[Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | 310.795 | 35.582 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |310.877 | 35.619 | 0.188 | -3.108 | -4.192 | -28.84 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |310.877 | 35.619 | 0.188 | -3.108 | -4.192 | -28.84 |
+    |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 310.795 | 35.582 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 310.848 | 35.589 | -- | -- | -- | -- |
+    |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 310.845 | 35.588 | -- | -0.568 | -1.175 | 10.5 |
+    |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 310.795 | 35.582 | -- | -- | -- | -- |
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 310.8 | 35.585 | -- | -2.14 | -3.44 | 10.5 |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 310.85 | 35.588 | -- | -3.58 | -5.41 | -- 
 cds_radec: 310.87701,+35.6187
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.13, Dist=1905.0, Age=8.6` |
-    | [Kharchenko et al. (2013)](https://scixplorer.org/abs/2013A%26A...558A..53K) | `E(B-V)=0.895, d=2200.0, logt=8.92` |
-    | [Kharchenko et al. (2016)](https://scixplorer.org/abs/2016A%26A...585A.101K) | `E(B-V)=0.895, d=2200.0, logt=8.92` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.452, Dist=2468, logt=9.23` |
-    | [Just et al. (2023)](https://scixplorer.org/abs/2023A%26A...672A.187J) | `logt=8.92, logmt=2.298` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 832 | -- | 199 | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.47 | 1.40 | -- | 1698 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.20 | 2.77 | -- | 832 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.20 | 2.77 | -- | 832 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.91 | 3.50 | -- | 398 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
-    
+
 ---

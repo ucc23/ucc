@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Teutsch 325
-style: style
 title_flag: true
 more_names: 
 fname: teutsch325
@@ -14,34 +14,39 @@ glat: 0.69597
 r50: 1.1
 plx: 0.1924
 UTI: "0.28"
-UTI_COLOR: "#fedec5"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fdddc5"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#fef0d2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Teutsch 325</b> is a sparse, very dense object of low C3 quality. It is located at a large distance from the Sun, above the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Teutsch 325</b> is a sparse, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, above the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.1
 N_50_val: 24
 scix_url: Teutsch%20325
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 329.1 | 55.537 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |329.103 | 55.534 | 0.192 | -2.724 | -2.382 | -104.672 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |329.103 | 55.534 | 0.192 | -2.724 | -2.382 | -104.672 |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 329.1 | 55.537 | -- | -- | -- | -- 
 cds_radec: 329.1026,+55.53438
 carousel: UCC
 fpars_table: |
-    
+
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

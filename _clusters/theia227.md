@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Theia 227
-style: style
 title_flag: true
 more_names: 
 fname: theia227
@@ -14,38 +14,43 @@ glat: 1.73869
 r50: 24.9
 plx: 2.0805
 UTI: "0.01"
-UTI_COLOR: "#e1a7b3"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#ffedd1"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e0a6b3"
+UTI_COLOR: "#e0a7b3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#feecd0"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
 UTI_C_dens: 0.36
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.04
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: <u>very likely duplicate</u>
 UTI_summary: |
-    <b>Theia 227</b> is a sparse, loose object of high C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Theia 227</b> is a sparse, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, near the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 24.9
 N_50_val: 22
 scix_url: Theia%20227
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 272.09 | -16.473 | 2.108 | 0.019 | -3.979 | -14.445 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 271.641 | -17.488 | 2.104 | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |272.02 | -16.619 | 2.08 | 0.008 | -3.873 | -12.302 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |272.02 | -16.619 | 2.08 | 0.008 | -3.873 | -12.302 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 271.641 | -17.488 | 2.104 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 272.09 | -16.473 | 2.108 | 0.019 | -3.979 | -14.445 
 cds_radec: 272.01994,-16.61918
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.35, diffAV50=1.904, MOD50=8.294, logAge50=7.502` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.45, dMod50=8.34, logAge50=7.56, [Fe/H]50=0.0` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.47 | 1.45 | -- | 36 | 0.000 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.46 | 1.35 | 1.90 | 32 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: UFMG 94
-style: style
 title_flag: true
 more_names: 
 fname: ufmg94
@@ -14,36 +14,41 @@ glat: -3.42332
 r50: 7.8
 plx: 0.7761
 UTI: "0.51"
-UTI_COLOR: "#fefee7"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#a5cab9"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Very high quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>UFMG 94</b> is a moderately populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>UFMG 94</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, below the mid-plane. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 7.8
 N_50_val: 56
 scix_url: UFMG%2094
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 267.959 | -33.39 | 0.782 | 0.495 | -2.807 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |267.952 | -33.406 | 0.776 | 0.449 | -2.832 | -9.577 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |267.952 | -33.406 | 0.776 | 0.449 | -2.832 | -9.577 |
+    |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 267.959 | -33.39 | 0.782 | 0.495 | -2.807 | -- 
 cds_radec: 267.95232,-33.4056
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | `E(B-V)=0.7, Dmod=10.3, logt=8.35` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.15 | 2.17 | -- | 224 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

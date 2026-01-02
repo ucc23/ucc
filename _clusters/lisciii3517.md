@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: LISC-III 3517
-style: style
 title_flag: true
 more_names: 
 fname: lisciii3517
@@ -14,36 +14,41 @@ glat: 13.24951
 r50: 25.0
 plx: 2.0723
 UTI: "0.29"
-UTI_COLOR: "#fee0c7"
-UTI_C_N_COL: "#c6e6c8"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#fefee7"
+UTI_COLOR: "#fddfc6"
+UTI_C_N_COL: "#c7e6c7"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#a5cab9"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fdfee6"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.51
+UTI_C_N_desc: Rich
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Very high quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Likely unique
 UTI_summary: |
-    <b>LISC-III 3517</b> is a rich, very dense object of very high C3 quality. It is located at a very close distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>LISC-III 3517</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, above the mid-plane. It is catalogued as a near-solar metallicity cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 25.0
 N_50_val: 253
 scix_url: LISC-III%203517
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Chi et al. (2023)](https://scixplorer.org/abs/2023RAA....23f5008C) | 83.406 | 57.349 | 2.008 | -2.632 | -3.336 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |84.301 | 57.158 | 2.072 | -3.159 | -3.931 | -6.325 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |84.301 | 57.158 | 2.072 | -3.159 | -3.931 | -6.325 |
+    |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 83.406 | 57.349 | 2.008 | -2.632 | -3.336 | -- 
 cds_radec: 84.30107,+57.15786
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Chi et al. (2023)](https://scixplorer.org/abs/2023RAA....23f5008C) | `E(V-I)=0.55, m-M=9.0, Z=0.02, fbin=0.55` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.63 | 1.38 | -- | -- | 0.274 | -- | 0.55 | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

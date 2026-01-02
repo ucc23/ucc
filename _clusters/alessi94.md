@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Alessi 94
-style: style
 title_flag: true
 more_names: UBC 2
 fname: alessi94
@@ -15,47 +15,52 @@ r50: 37.4
 plx: 1.7824
 UTI: "0.58"
 UTI_COLOR: "#f4fada"
-UTI_C_N_COL: "#f6fbdc"
-UTI_C_dens_COL: "#feeace"
-UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#ffffe8"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_N_COL: "#f5fbdc"
+UTI_C_dens_COL: "#fee9cd"
+UTI_C_C3_COL: "#a5cab9"
+UTI_C_lit_COL: "#fefee8"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.34
 UTI_C_C3: 1.0
 UTI_C_lit: 0.5
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: Very high quality
+UTI_C_lit_desc: Moderately studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Alessi 94</b> is a moderately populated, loose object of very high C3 quality. It is located at a close distance from the Sun, below the mid-plane. It is moderately studied in the literature.<br><br>This object shares a moderate percentage of members with a later reported entry.
+    <b>Alessi 94</b> is a moderately populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, below the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 37.4
 N_50_val: 64
 scix_url: Alessi%2094
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Castro-Ginard et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..59C) | 5.802 | 46.604 | 1.745 | -6.34 | -5.003 | -9.73 |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 5.796 | 46.605 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 5.584 | 46.532 | 1.754 | -6.374 | -5.022 | -- |
-    |[Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | 5.095 | 46.652 | 1.793 | -6.407 | -5.071 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 5.269 | 46.531 | 1.781 | -6.365 | -5.083 | -16.817 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 6.036 | 46.576 | 1.781 | -- | -- | -- |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 5.269 | 46.531 | -- | -- | -- | -- |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 6.015 | 46.524 | 1.757 | -6.407 | -5.034 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |5.376 | 46.544 | 1.782 | -6.411 | -5.094 | -15.837 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |5.376 | 46.544 | 1.782 | -6.411 | -5.094 | -15.837 |
+    |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 6.015 | 46.524 | 1.757 | -6.407 | -5.034 | -- |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 5.269 | 46.531 | -- | -- | -- | -- |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.036 | 46.576 | 1.781 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.269 | 46.531 | 1.781 | -6.365 | -5.083 | -16.817 |
+    |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 5.095 | 46.652 | 1.793 | -6.407 | -5.071 | -- |
+    |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 5.584 | 46.532 | 1.754 | -6.374 | -5.022 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 5.796 | 46.605 | -- | -- | -- | -- |
+    |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 5.802 | 46.604 | 1.745 | -6.34 | -5.003 | -9.73 
 cds_radec: 5.37581,+46.54422
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=0.18, DistPc=555.0, AgeNN=8.3` |
-    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=547, logAgeNN=8.32` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.119, diffAV50=0.566, MOD50=8.603, logAge50=8.264` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.26, dMod50=8.75, logAge50=8.25, [Fe/H]50=0.35` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=0.06313, [Fe/H]MCMC=-0.1138` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=0.18020, MOD=8.71977, logAge=8.76158, Z=-0.0492` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.55 | 0.18 | -- | 578 | -0.049 | -- | -- | -- |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.063* | -- | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.56 | 0.26 | -- | 178 | 0.350 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.53 | 0.12 | 0.57 | 184 | -- | -- | -- | -- |
+    | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.55 | -- | -- | 209 | -- | -- | -- | -- |
+    | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.55 | 0.18 | -- | 200 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

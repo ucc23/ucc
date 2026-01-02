@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWNU 127
-style: style
 title_flag: true
 more_names: 
 fname: cwnu127
@@ -15,35 +15,40 @@ r50: 5.5
 plx: 0.7641
 UTI: "0.30"
 UTI_COLOR: "#fee2c7"
-UTI_C_N_COL: "#feebcf"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_N_COL: "#feebce"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#f2bab5"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Very low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>CWNU 127</b> is a poorly populated, very dense object of very low C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.
+    <b>CWNU 127</b> is a poorly populated, very dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 5.5
 N_50_val: 35
 scix_url: CWNU%20127
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 85.44 | 27.489 | 0.76 | -0.33 | -4.36 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |85.442 | 27.485 | 0.764 | -0.335 | -4.362 | 7.824 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |85.442 | 27.485 | 0.764 | -0.335 | -4.362 | 7.824 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 85.44 | 27.489 | 0.76 | -0.33 | -4.36 | -- 
 cds_radec: 85.44206,+27.485
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.6, m-M=10.85, logAge=8.6, Z=0.018` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.48 | 1.92 | -- | 398 | 0.169 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

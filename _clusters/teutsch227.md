@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Teutsch 227
-style: style
 title_flag: true
 more_names: 
 fname: teutsch227
@@ -14,34 +14,39 @@ glat: 0.11443
 r50: 5.0
 plx: 0.3657
 UTI: "0.15"
-UTI_COLOR: "#f6c1b8"
-UTI_C_N_COL: "#fff5d8"
+UTI_COLOR: "#f5c1b8"
+UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#fcfee5"
-UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#fefee7"
+UTI_C_C3_COL: "#fefee8"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fdfee6"
 UTI_C_N: 0.41
 UTI_C_dens: 0.52
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.51
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Moderately dense
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Likely unique
 UTI_summary: |
-    <b>Teutsch 227</b> is a poorly populated, moderately dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is rarely studied in the literature, with no articles listed in the last 6 years.<br><br>This is likely a unique object, which shares a moderate percentage of members with at least one previously reported entry.
+    <b>Teutsch 227</b> is a poorly populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 5.0
 N_50_val: 41
 scix_url: Teutsch%20227
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 167.314 | -60.312 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 167.314 | -60.312 | -- | -- | -- | -- 
 cds_radec: 167.48847,-60.31088
 carousel: UCC
 fpars_table: |
-    
+
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

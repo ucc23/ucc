@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Theia 7673
-style: style
 title_flag: true
 more_names: 
 fname: theia7673
@@ -14,42 +14,47 @@ glat: 4.64489
 r50: 9.9
 plx: 0.4979
 UTI: "0.33"
-UTI_COLOR: "#fee8cc"
-UTI_C_N_COL: "#fff5d8"
-UTI_C_dens_COL: "#fdd7c3"
-UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fee7cc"
+UTI_C_N_COL: "#fef5d7"
+UTI_C_dens_COL: "#fcd6c2"
+UTI_C_C3_COL: "#fefee8"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.25
 UTI_C_C3: 0.5
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Theia 7673</b> is a poorly populated, loose object of intermediate C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.
+    <b>Theia 7673</b> is a poorly populated, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.9
 N_50_val: 41
 scix_url: Theia%207673
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 126.168 | -29.517 | 0.5 | -3.781 | 2.824 | 24.177 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 126.21 | -29.604 | 0.5 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 126.168 | -29.517 | 0.5 | -3.781 | 2.824 | 24.177 |
-    |[Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | 126.21 | -29.604 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |126.171 | -29.566 | 0.498 | -3.789 | 2.847 | 25.926 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |126.171 | -29.566 | 0.498 | -3.789 | 2.847 | 25.926 |
+    |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 126.21 | -29.604 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 126.168 | -29.517 | 0.5 | -3.781 | 2.824 | 24.177 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 126.21 | -29.604 | 0.5 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 126.168 | -29.517 | 0.5 | -3.781 | 2.824 | 24.177 
 cds_radec: 126.17059,-29.56634
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.242, diffAV50=0.73, MOD50=11.371, logAge50=8.703` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.26, dMod50=11.16, logAge50=8.9, [Fe/H]50=0.1` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=101.304, MassTot=186.229` |
-    | [Hu & Soubiran (2025)](https://scixplorer.org/abs/2025A%26A...699A.246H) | `MA22=-0.12, MA23f=-0.12, MZ23=-0.11, MK24=-0.14, MF24=-0.03` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.120* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 101* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.71 | 0.26 | -- | 794 | 0.100 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.88 | 0.24 | 0.73 | 505 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWNU 282
-style: style
 title_flag: true
 more_names: 
 fname: cwnu282
@@ -14,42 +14,47 @@ glat: -2.89412
 r50: 9.0
 plx: 0.7694
 UTI: "0.50"
-UTI_COLOR: "#ffffe8"
-UTI_C_N_COL: "#fffae0"
-UTI_C_dens_COL: "#ceeac9"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fefee8"
+UTI_C_N_COL: "#fef9de"
+UTI_C_dens_COL: "#ceeac8"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.78
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>CWNU 282</b> is a poorly populated, dense object of high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It was recently reported in the literature.
+    <b>CWNU 282</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. It is catalogued as a metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.0
 N_50_val: 45
 scix_url: CWNU%20282
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 245.423 | -53.998 | 0.78 | -2.83 | -2.96 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 245.45 | -53.939 | 0.759 | -2.816 | -2.923 | -42.024 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 245.377 | -53.987 | 0.77 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 245.45 | -53.939 | 0.759 | -2.816 | -2.923 | -42.024 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |245.374 | -54.024 | 0.769 | -2.852 | -2.952 | -35.941 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |245.374 | -54.024 | 0.769 | -2.852 | -2.952 | -35.941 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 245.45 | -53.939 | 0.759 | -2.816 | -2.923 | -42.024 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 245.377 | -53.987 | 0.77 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 245.45 | -53.939 | 0.759 | -2.816 | -2.923 | -42.024 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 245.423 | -53.998 | 0.78 | -2.83 | -2.96 | -- 
 cds_radec: 245.37354,-54.02361
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.1, m-M=10.15, logAge=7.8, Z=0.004` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.774, diffAV50=0.969, MOD50=10.479, logAge50=8.135` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.65, dMod50=10.61, logAge50=8.66, [Fe/H]50=0.16` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=155.083, MassTot=166.512` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 155* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.32 | 0.65 | -- | 457 | 0.160 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.25 | 0.77 | 0.97 | 136 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.07 | 1.32 | -- | 63 | -1.335 | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWWDL 650
-style: style
 title_flag: true
 more_names: 
 fname: cwwdl650
@@ -14,36 +14,41 @@ glat: -1.16016
 r50: 6.4
 plx: 0.213
 UTI: "0.00"
-UTI_COLOR: "#e0a6b3"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#e8aeb3"
-UTI_C_C3_COL: "#f3bab5"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#f3bab5"
+UTI_COLOR: "#dfa5b3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e7adb3"
+UTI_C_C3_COL: "#f2bab5"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.0
 UTI_C_dens: 0.05
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Very low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: <u>likely duplicate</u>
 UTI_summary: |
-    <b>CWWDL 650</b> is a sparse, very loose object of very low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>CWWDL 650</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 6.4
 N_50_val: 19
 scix_url: CWWDL%20650
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 117.909 | -29.169 | 0.247 | -1.905 | 2.639 | 72.114 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |117.939 | -29.21 | 0.213 | -1.916 | 2.625 | 63.763 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |117.939 | -29.21 | 0.213 | -1.916 | 2.625 | 63.763 |
+    |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 117.909 | -29.169 | 0.247 | -1.905 | 2.639 | 72.114 
 cds_radec: 117.93913,-29.21022
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=7.25, Z=0.44` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 18 | 0.440 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

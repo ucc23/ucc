@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: HXWHB 8
-style: style
 title_flag: true
 more_names: 
 fname: hxwhb8
@@ -14,42 +14,47 @@ glat: -1.55264
 r50: 6.9
 plx: 0.9071
 UTI: "0.00"
-UTI_COLOR: "#e0a6b3"
-UTI_C_N_COL: "#fee6ca"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#ffffe8"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#e0a6b3"
+UTI_COLOR: "#dfa5b3"
+UTI_C_N_COL: "#fee5ca"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#fefee8"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.32
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
 UTI_C_lit: 0.25
 UTI_C_dup: 0.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: <u>very likely duplicate</u>
 UTI_summary: |
-    <b>HXWHB 8</b> is a poorly populated, very dense object of intermediate C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is very likely a duplicate object, which shares a large percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue.
+    <b>HXWHB 8</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.9
 N_50_val: 32
 scix_url: HXWHB%208
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hao et al. (2020)](https://scixplorer.org/abs/2020PASP..132c4502H) | 80.57 | 33.79 | 0.85 | -0.16 | -3.13 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 80.573 | 33.783 | 0.882 | -0.397 | -3.225 | 4.462 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 80.318 | 33.507 | 0.884 | -- | -- | -- |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 80.573 | 33.783 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |80.564 | 33.782 | 0.907 | -0.309 | -3.103 | -3.924 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |80.564 | 33.782 | 0.907 | -0.309 | -3.103 | -3.924 |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 80.573 | 33.783 | -- | -- | -- | -- |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 80.318 | 33.507 | 0.884 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 80.573 | 33.783 | 0.882 | -0.397 | -3.225 | 4.462 |
+    |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 80.57 | 33.79 | 0.85 | -0.16 | -3.13 | -- 
 cds_radec: 80.56402,+33.78235
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Hao et al. (2020)](https://scixplorer.org/abs/2020PASP..132c4502H) | `AG=1.14, d_pc=1178.0, logt=7.24` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.868, diffAV50=1.684, MOD50=10.12, logAge50=7.527` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.01, dMod50=10.2, logAge50=7.52, [Fe/H]50=-0.15` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2319, [Fe/H]MCMC=-0.1558` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.232* | -- | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.10 | 1.01 | -- | 33 | -0.150 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.06 | 0.87 | 1.68 | 34 | -- | -- | -- | -- |
+    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.18 | 1.37 | -- | 17 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

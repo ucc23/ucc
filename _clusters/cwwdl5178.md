@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWWDL 5178
-style: style
 title_flag: true
 more_names: 
 fname: cwwdl5178
@@ -14,36 +14,41 @@ glat: -1.01576
 r50: 2.6
 plx: 0.2736
 UTI: "0.12"
-UTI_COLOR: "#f3bab5"
-UTI_C_N_COL: "#fffde5"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#fddcc5"
+UTI_COLOR: "#f2bab5"
+UTI_C_N_COL: "#fefce4"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fddbc4"
 UTI_C_N: 0.48
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.27
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Possibly duplicate
 UTI_summary: |
-    <b>CWWDL 5178</b> is a poorly populated, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is possibly a duplicated object, which shares a significant percentage of members with at least one previously reported entry.
+    <b>CWWDL 5178</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.6
 N_50_val: 48
 scix_url: CWWDL%205178
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 163.45 | -60.681 | 0.29 | -7.979 | 2.643 | 5.146 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |163.424 | -60.668 | 0.274 | -8.162 | 2.69 | 3.958 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |163.424 | -60.668 | 0.274 | -8.162 | 2.69 | 3.958 |
+    |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 163.45 | -60.681 | 0.29 | -7.979 | 2.643 | 5.146 
 cds_radec: 163.42362,-60.66808
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=7.97, Z=-0.04` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 93 | -0.040 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWWDL 4637
-style: style
 title_flag: true
 more_names: 
 fname: cwwdl4637
@@ -14,36 +14,41 @@ glat: -2.82217
 r50: 10.6
 plx: 0.3915
 UTI: "0.07"
-UTI_COLOR: "#ebb1b3"
-UTI_C_N_COL: "#e0a6b3"
-UTI_C_dens_COL: "#ebb1b3"
-UTI_C_C3_COL: "#fff1d4"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#c9e8c8"
+UTI_COLOR: "#ebb0b3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#ebb0b3"
+UTI_C_C3_COL: "#fef0d2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#c9e7c8"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.8
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Very likely unique
 UTI_summary: |
-    <b>CWWDL 4637</b> is a sparse, very loose object of low C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br>This is very likely a unique object, which shares a small percentage of members with at least one previously reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter"title="UTI parameter"><b>UTI</b></a> value and no obvious signs of duplication (C_dup=0.8) indicates that this is quite probably an asterism, moving group, or artifact, and not a real open cluster.
+    <b>CWWDL 4637</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.8</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 10.6
 N_50_val: 21
 scix_url: CWWDL%204637
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | 36.988 | 57.561 | 0.36 | -0.321 | -0.9 | -31.417 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |37.053 | 57.675 | 0.392 | -0.328 | -0.906 | -- | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |37.053 | 57.675 | 0.392 | -0.328 | -0.906 | -- |
+    |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 36.988 | 57.561 | 0.36 | -0.321 | -0.9 | -31.417 
 cds_radec: 37.05296,+57.67505
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Chi et al. (2023)](https://scixplorer.org/abs/2023ApJS..266...36C) | `logAge=5.78, Z=0.44` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 1 | 0.440 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

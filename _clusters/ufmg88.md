@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: UFMG 88
-style: style
 title_flag: true
 more_names: 
 fname: ufmg88
@@ -14,42 +14,47 @@ glat: -1.63868
 r50: 4.5
 plx: 0.6413
 UTI: "0.56"
-UTI_COLOR: "#f7fcde"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#fee4c9"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#a6cab9"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#a5cab9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Very high quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>UFMG 88</b> is a poorly populated, very dense object of very high C3 quality. It is located at a relatively close distance from the Sun, near the mid-plane. It is poorly studied in the literature.
+    <b>UFMG 88</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. It is catalogued as a very metal-poor, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 r_50_val: 4.5
 N_50_val: 31
 scix_url: UFMG%2088
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 268.21 | -29.431 | 0.588 | 1.96 | -1.563 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 268.198 | -29.526 | 0.651 | 2.128 | -1.67 | -26.647 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 268.221 | -29.492 | 0.651 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 268.198 | -29.526 | 0.651 | 2.128 | -1.67 | -26.647 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |268.235 | -29.498 | 0.641 | 2.104 | -1.682 | -26.423 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |268.235 | -29.498 | 0.641 | 2.104 | -1.682 | -26.423 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 268.198 | -29.526 | 0.651 | 2.128 | -1.67 | -26.647 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 268.221 | -29.492 | 0.651 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 268.198 | -29.526 | 0.651 | 2.128 | -1.67 | -26.647 |
+    |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 268.21 | -29.431 | 0.588 | 1.96 | -1.563 | -- 
 cds_radec: 268.23511,-29.49844
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Ferreira et al. (2021)](https://scixplorer.org/abs/2021MNRAS.502L..90F) | `E(B-V)=0.58, Dmod=10.5, logt=8.7` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.714, diffAV50=1.877, MOD50=10.799, logAge50=8.405` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.86, dMod50=10.16, logAge50=8.49, [Fe/H]50=-1.28` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=727.730, MassTot=727.730` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 728* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.08 | 2.86 | -- | 309 | -1.280 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.44 | 1.71 | 1.88 | 254 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.26 | 1.80 | -- | 501 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

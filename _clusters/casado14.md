@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Casado 14
-style: style
 title_flag: true
 more_names: 
 fname: casado14
@@ -15,41 +15,46 @@ r50: 4.0
 plx: 0.2368
 UTI: "0.58"
 UTI_COLOR: "#f4fada"
-UTI_C_N_COL: "#d4edca"
-UTI_C_dens_COL: "#afdbc2"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fdd7c3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_N_COL: "#d4ecc9"
+UTI_C_dens_COL: "#afdbc1"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.9
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
 UTI_C_dup: 1.0
+UTI_C_N_desc: Rich
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Casado 14</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
+    <b>Casado 14</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.0
 N_50_val: 109
 scix_url: Casado%2014
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | 10.921 | 62.598 | 0.21 | -2.1 | -0.4 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 10.868 | 62.616 | 0.246 | -2.117 | -0.433 | -86.948 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 10.897 | 62.594 | 0.244 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 10.868 | 62.616 | 0.246 | -2.117 | -0.433 | -86.948 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |10.908 | 62.595 | 0.237 | -2.109 | -0.438 | -86.918 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |10.908 | 62.595 | 0.237 | -2.109 | -0.438 | -86.918 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 10.868 | 62.616 | 0.246 | -2.117 | -0.433 | -86.948 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 10.897 | 62.594 | 0.244 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 10.868 | 62.616 | 0.246 | -2.117 | -0.433 | -86.948 |
+    |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 10.921 | 62.598 | 0.21 | -2.1 | -0.4 | -- 
 cds_radec: 10.9081,+62.59505
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Casado (2021)](https://scixplorer.org/abs/2021RAA....21..117C) | `d_kpc=4.2` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=3.059, diffAV50=2.6, MOD50=12.947, logAge50=7.975` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.82, dMod50=12.49, logAge50=8.27, [Fe/H]50=0.26` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=1404.92, MassTot=1520.46` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1405* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.15 | 2.82 | -- | 186 | 0.260 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.89 | 3.06 | 2.60 | 94 | -- | -- | -- | -- |
+    | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 4.20 | -- | -- | -- | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

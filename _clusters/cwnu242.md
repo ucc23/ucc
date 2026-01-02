@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWNU 242
-style: style
 title_flag: true
 more_names: 
 fname: cwnu242
@@ -14,36 +14,41 @@ glat: -4.00124
 r50: 3.1
 plx: 0.4541
 UTI: "0.10"
-UTI_COLOR: "#f1b6b3"
-UTI_C_N_COL: "#f7fcde"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#eef8d4"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#fcd5c1"
+UTI_COLOR: "#f0b6b3"
+UTI_C_N_COL: "#f7fbde"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#eef7d4"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.56
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.24
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: <u>likely duplicate</u>
 UTI_summary: |
-    <b>CWNU 242</b> is a moderately populated, very dense object of intermediate C3 quality. It is located at a moderate distance from the Sun, below the mid-plane. It was recently reported in the literature.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>This is likely a duplicate object, which shares a large percentage of members with at least one previously reported entry.
+    <b>CWNU 242</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 3.1
 N_50_val: 63
 scix_url: CWNU%20242
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 130.01 | -48.243 | 0.46 | -5.02 | 5.07 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |129.99 | -48.231 | 0.454 | -4.991 | 5.067 | 23.009 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |129.99 | -48.231 | 0.454 | -4.991 | 5.067 | 23.009 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 130.01 | -48.243 | 0.46 | -5.02 | 5.07 | -- 
 cds_radec: 129.99046,-48.23104
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=1.2, m-M=11.15, logAge=7.8, Z=0.01` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.70 | 1.44 | -- | 63 | -0.419 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

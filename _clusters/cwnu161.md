@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: CWNU 161
-style: style
 title_flag: true
 more_names: 
 fname: cwnu161
@@ -14,44 +14,49 @@ glat: -3.76081
 r50: 9.8
 plx: 0.8752
 UTI: "0.43"
-UTI_COLOR: "#fff8dc"
-UTI_C_N_COL: "#fddcc5"
-UTI_C_dens_COL: "#fefee7"
-UTI_C_C3_COL: "#d4edca"
+UTI_COLOR: "#fef7db"
+UTI_C_N_COL: "#fddbc4"
+UTI_C_dens_COL: "#fdfee6"
+UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fee4c9"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.27
 UTI_C_dens: 0.51
 UTI_C_C3: 0.75
 UTI_C_lit: 0.31
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Moderately dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>CWNU 161</b> is a poorly populated, moderately dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It was recently reported in the literature.
+    <b>CWNU 161</b> is a poorly populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, below the mid-plane. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 9.8
 N_50_val: 27
 scix_url: CWNU%20161
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | 341.285 | 54.725 | 0.87 | 2.04 | 0.23 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 341.249 | 54.697 | 0.863 | 2.028 | 0.271 | -28.234 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 341.176 | 54.702 | 0.866 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 341.249 | 54.697 | 0.863 | 2.028 | 0.271 | -28.234 |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 341.249 | 54.697 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |341.197 | 54.685 | 0.875 | 2.029 | 0.224 | -22.832 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |341.197 | 54.685 | 0.875 | 2.029 | 0.224 | -22.832 |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 341.249 | 54.697 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 341.249 | 54.697 | 0.863 | 2.028 | 0.271 | -28.234 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 341.176 | 54.702 | 0.866 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 341.249 | 54.697 | 0.863 | 2.028 | 0.271 | -28.234 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 341.285 | 54.725 | 0.87 | 2.04 | 0.23 | -- 
 cds_radec: 341.19747,+54.68462
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..260....8H) | `AG=0.9, m-M=10.7, logAge=8.3, Z=0.038` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.009, diffAV50=0.679, MOD50=10.151, logAge50=8.079` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=0.9, dMod50=10.39, logAge50=8.4, [Fe/H]50=0.28` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=48.6571, MassTot=124.866` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2982, [Fe/H]MCMC=-0.2832` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.298* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 49* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.20 | 0.90 | -- | 251 | 0.280 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.07 | 1.01 | 0.68 | 120 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.38 | 1.08 | -- | 200 | 0.916 | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

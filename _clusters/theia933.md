@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Theia 933
-style: style
 title_flag: true
 more_names: 
 fname: theia933
@@ -14,36 +14,41 @@ glat: -0.52664
 r50: 29.6
 plx: 3.4576
 UTI: "0.27"
-UTI_COLOR: "#fddcc5"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#bee2c6"
-UTI_C_C3_COL: "#fdd7c3"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dens_COL: "#bfe2c5"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.84
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Theia 933</b> is a poorly populated, dense object of low C3 quality. It is located at a very close distance from the Sun, near the mid-plane. It was recently reported in the literature.
+    <b>Theia 933</b> is a poorly populated, dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, near the mid-plane. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 r_50_val: 29.6
 N_50_val: 26
 scix_url: Theia%20933
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 72.404 | 43.613 | 3.469 | 11.098 | -17.615 | 8.745 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |72.454 | 43.847 | 3.458 | 11.064 | -17.899 | 7.695 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |72.454 | 43.847 | 3.458 | 11.064 | -17.899 | 7.695 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 72.404 | 43.613 | 3.469 | 11.098 | -17.615 | 8.745 
 cds_radec: 72.45431,+43.84686
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=0.461, diffAV50=0.56, MOD50=7.214, logAge50=8.798` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.28 | 0.46 | 0.56 | 628 | -- | -- | -- | -- |
+note_asterisk: false
 shared_table: |
-    
+
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Collinder 347
-style: style
 title_flag: true
 more_names: 
 fname: collinder347
@@ -15,43 +15,48 @@ r50: 3.8
 plx: 0.3333
 UTI: "0.63"
 UTI_COLOR: "#ecf7d3"
-UTI_C_N_COL: "#ceeac9"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#d4edca"
+UTI_C_N_COL: "#ceeac8"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fee4c9"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.31
 UTI_C_dup: 1.0
+UTI_C_N_desc: Rich
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Collinder 347</b> is a rich, very dense object of high C3 quality. It is located at a moderate distance from the Sun, near the mid-plane. It is poorly studied in the literature.
+    <b>Collinder 347</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, near the mid-plane, affected by high extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.00 kpc) differs significantly from the median photometric distance (~2.16 kpc).</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 3.8
 N_50_val: 184
 scix_url: Collinder%20347
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 266.575 | -29.333 | -- | -1.94 | -2.13 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 266.586 | -29.344 | 0.347 | 0.324 | -1.75 | 8.86 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 266.584 | -29.333 | 0.333 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |266.575 | -29.335 | 0.333 | 0.377 | -1.889 | 8.865 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |266.575 | -29.335 | 0.333 | 0.377 | -1.889 | 8.865 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 266.584 | -29.333 | 0.333 | -- | -- | -- |
+    |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 266.586 | -29.344 | 0.347 | 0.324 | -1.75 | 8.86 |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.575 | -29.333 | -- | -1.94 | -2.13 | -- 
 cds_radec: 266.5755,-29.3355
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=1.16, Dist=1514.0, Age=7.08` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=4.266, diffAV50=2.995, MOD50=12.217, logAge50=6.791` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=4.45, m-M=12.05, logA=6.2` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=4.53, dMod50=11.22, logAge50=6.71, [Fe/H]50=-0.32` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=2547.73, MassTot=2716.70` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2548* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.75 | 4.53 | -- | 5 | -0.320 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 2.57 | 4.45 | -- | 2 | -- | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.78 | 4.27 | 3.00 | 6 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.51 | 3.60 | -- | 12 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

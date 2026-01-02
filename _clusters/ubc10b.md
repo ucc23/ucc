@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: UBC 10 b
-style: style
 title_flag: true
 more_names: 
 fname: ubc10b
@@ -14,49 +14,54 @@ glat: 5.65121
 r50: 24.5
 plx: 1.0232
 UTI: "0.60"
-UTI_COLOR: "#f2f9d6"
-UTI_C_N_COL: "#d7eeca"
-UTI_C_dens_COL: "#fff4d6"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#f7fcde"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#f1f9d6"
+UTI_C_N_COL: "#d7eec9"
+UTI_C_dens_COL: "#fef4d6"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#f7fbde"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
 UTI_C_dens: 0.4
 UTI_C_C3: 0.75
 UTI_C_lit: 0.56
 UTI_C_dup: 1.0
+UTI_C_N_desc: Moderately populated
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Moderately studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>UBC 10 b</b> is a moderately populated, loose object of high C3 quality. It is located at a close distance from the Sun, above the mid-plane. It is moderately studied in the literature.
+    <b>UBC 10 b</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, above the mid-plane. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 24.5
 N_50_val: 98
 scix_url: UBC%2010%20b
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Castro-Ginard et al. (2018)](https://scixplorer.org/abs/2018A%26A...618A..59C) | 326.883 | 61.104 | 1.014 | -3.465 | -1.868 | -46.9 |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 326.892 | 61.096 | -- | -- | -- | -- |
-    |[Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | 327.047 | 61.032 | 1.015 | -3.471 | -1.859 | -- |
-    |[He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | 327.554 | 61.181 | 1.065 | -3.409 | -1.905 | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 327.223 | 61.214 | 1.032 | -3.469 | -1.913 | -24.845 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 327.175 | 61.133 | 1.03 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 327.223 | 61.214 | 1.032 | -3.469 | -1.913 | -24.845 |
-    |[Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | 327.182 | 61.2 | 1.003 | -3.424 | -1.878 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |327.105 | 61.08 | 1.023 | -3.432 | -1.906 | -27.87 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |327.105 | 61.08 | 1.023 | -3.432 | -1.906 | -27.87 |
+    |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 327.182 | 61.2 | 1.003 | -3.424 | -1.878 | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 327.223 | 61.214 | 1.032 | -3.469 | -1.913 | -24.845 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 327.175 | 61.133 | 1.03 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 327.223 | 61.214 | 1.032 | -3.469 | -1.913 | -24.845 |
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 327.554 | 61.181 | 1.065 | -3.409 | -1.905 | -- |
+    |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 327.047 | 61.032 | 1.015 | -3.471 | -1.859 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 326.892 | 61.096 | -- | -- | -- | -- |
+    |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 326.883 | 61.104 | 1.014 | -3.465 | -1.868 | -46.9 
 cds_radec: 327.1053,+61.08034
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Cantat-Gaudin et al. (2020)](https://scixplorer.org/abs/2020A%26A...640A...1C) | `AVNN=1.36, DistPc=1006.0, AgeNN=7.75` |
-    | [Tarricq et al. (2022)](https://scixplorer.org/abs/2022A%26A...659A..59T) | `Dist=982, logAgeNN=7.75` |
-    | [He et al. (2022)](https://scixplorer.org/abs/2022ApJS..262....7H) | `A0=1.7, logAge=8.65` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.383, diffAV50=1.807, MOD50=9.847, logAge50=7.754` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.53, dMod50=9.95, logAge50=7.07, [Fe/H]50=0.18` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=319.375, MassTot=345.836` |
-    | [Alfonso et al. (2024)](https://scixplorer.org/abs/2024A%26A...689A..18A) | `AV=1.35964, MOD=10.0099, logAge=7.45907, Z=0.01001` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 1.00 | 1.36 | -- | 29 | 0.010 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 319* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.98 | 1.53 | -- | 12 | 0.180 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.93 | 1.38 | 1.81 | 57 | -- | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.70 | -- | 447 | -- | -- | -- | -- |
+    | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.98 | -- | -- | 56 | -- | -- | -- | -- |
+    | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.00 | 1.36 | -- | 56 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

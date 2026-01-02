@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Czernik 17
-style: style
 title_flag: true
 more_names: OCL 378; MWSC 311
 fname: czernik17
@@ -14,47 +14,52 @@ glat: 6.19548
 r50: 2.7
 plx: 0.1418
 UTI: "0.46"
-UTI_COLOR: "#fffbe1"
-UTI_C_N_COL: "#fff4d6"
+UTI_COLOR: "#fefae1"
+UTI_C_N_COL: "#fef4d6"
 UTI_C_dens_COL: "#fdd9c3"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#fff8de"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#fef8dd"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.4
 UTI_C_dens: 0.26
 UTI_C_C3: 0.75
 UTI_C_lit: 0.44
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Czernik 17</b> is a poorly populated, loose object of high C3 quality. It is located at a large distance from the Sun, well above the mid-plane. It is poorly studied in the literature.
+    <b>Czernik 17</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, well above the mid-plane. It is catalogued as a metal-rich, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.7
 N_50_val: 40
 scix_url: Czernik%2017
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | 58.1 | 61.95 | -- | -2.3 | 1.81 | -- |
-    |[Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | 58.11 | 61.951 | -- | -0.184 | -2.905 | -- |
-    |[Bica et al. (2019)](https://scixplorer.org/abs/2019AJ....157...12B) | 58.126 | 61.96 | -- | -- | -- | -- |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 58.075 | 61.972 | 0.139 | 0.059 | -0.103 | -- |
-    |[He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | 58.093 | 61.975 | 0.142 | 0.062 | -0.104 | -- |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 58.099 | 61.969 | 0.14 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 58.075 | 61.972 | 0.139 | 0.059 | -0.103 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |58.092 | 61.975 | 0.142 | 0.072 | -0.079 | -- | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |58.092 | 61.975 | 0.142 | 0.072 | -0.079 | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 58.075 | 61.972 | 0.139 | 0.059 | -0.103 | -- |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 58.099 | 61.969 | 0.14 | -- | -- | -- |
+    |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 58.093 | 61.975 | 0.142 | 0.062 | -0.104 | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 58.075 | 61.972 | 0.139 | 0.059 | -0.103 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 58.126 | 61.96 | -- | -- | -- | -- |
+    |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 58.11 | 61.951 | -- | -0.184 | -2.905 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 58.1 | 61.95 | -- | -2.3 | 1.81 | -- 
 cds_radec: 58.09184,+61.97524
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Dias et al. (2002)](https://scixplorer.org/abs/2002A%26A...389..871D) | `E(B-V)=0.72, Dist=7000.0, Age=8.05` |
-    | [Loktin & Popova (2017)](https://scixplorer.org/abs/2017AstBu..72..257L) | `E(B-V)=0.533, Dist=1802, logt=8.8` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=2.369, diffAV50=0.856, MOD50=13.898, logAge50=8.279` |
-    | [He et al. (2023)](https://scixplorer.org/abs/2023ApJS..267...34H) | `A0=1.95, m-M=13.45, logA=8.8` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=2.07, dMod50=14.17, logAge50=8.24, [Fe/H]50=0.66` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=624.759, MassTot=715.657` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 625* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.82 | 2.07 | -- | 174 | 0.660 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 4.90 | 1.95 | -- | 631 | -- | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.02 | 2.37 | 0.86 | 190 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.80 | 1.65 | -- | 631 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 7.00 | 2.23 | -- | 112 | -- | -- | -- | -- |
+note_asterisk: true
 shared_table: |
-    
+
 ---

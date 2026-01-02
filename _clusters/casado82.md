@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: Casado 82
-style: style
 title_flag: true
 more_names: 
 fname: casado82
@@ -14,44 +14,49 @@ glat: 2.57616
 r50: 4.0
 plx: 0.4926
 UTI: "0.44"
-UTI_COLOR: "#fff8de"
-UTI_C_N_COL: "#e0a6b3"
+UTI_COLOR: "#fef8dd"
+UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#c4e5c7"
-UTI_C_C3_COL: "#d4edca"
+UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fee4c9"
-UTI_C_dup_COL: "#a6cab9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.82
 UTI_C_C3: 0.75
 UTI_C_lit: 0.31
 UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>Casado 82</b> is a sparse, dense object of high C3 quality. It is located at a moderate distance from the Sun, above the mid-plane. It was recently reported in the literature.<br><br>This object shares a large percentage of members with a later reported entry.<br><br><span style="color: #99180f; font-weight: bold;">Warning: </span>contains less than 25 stars with <i>P>0.5</i> estimated.
+    <b>Casado 82</b> is a sparse, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 4.0
 N_50_val: 23
 scix_url: Casado%2082
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[Casado & Hendy (2023)](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 300.91 | 36.04 | 0.493 | -3.24 | -6.24 | -22.0 |
-    |[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | 300.898 | 36.022 | 0.494 | -3.203 | -6.256 | -22.376 |
-    |[Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | 300.935 | 35.996 | 0.494 | -- | -- | -- |
-    |[Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | 300.898 | 36.022 | 0.494 | -3.203 | -6.256 | -22.376 |
-    |[Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 300.898 | 36.022 | -- | -- | -- | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |300.902 | 36.017 | 0.493 | -3.188 | -6.268 | -22.387 | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |300.902 | 36.017 | 0.493 | -3.188 | -6.268 | -22.387 |
+    |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 300.898 | 36.022 | -- | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 300.898 | 36.022 | 0.494 | -3.203 | -6.256 | -22.376 |
+    |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 300.935 | 35.996 | 0.494 | -- | -- | -- |
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 300.898 | 36.022 | 0.494 | -3.203 | -6.256 | -22.376 |
+    |[Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 300.91 | 36.04 | 0.493 | -3.24 | -6.24 | -22.0 
 cds_radec: 300.90186,+36.01716
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [Casado & Hendy (2023)](https://scixplorer.org/abs/2023MNRAS.521.1399C) | `Av=1.55, d_kpc=2.0, Age_Myr=5.8, Z=0.015` |
-    | [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H) | `AV50=1.35, diffAV50=1.272, MOD50=11.424, logAge50=6.768` |
-    | [Cavallo et al. (2024)](https://scixplorer.org/abs/2024AJ....167...12C) | `AV50=1.62, dMod50=11.39, logAge50=6.81, [Fe/H]50=-0.38` |
-    | [Hunt & Reffert (2024)](https://scixplorer.org/abs/2024A%26A...686A..42H) | `MassJ=291.755, MassTot=422.269` |
-    | [Zhang et al. (2024)](https://scixplorer.org/abs/2024A%26A...692A.212Z) | `[Fe/H]ANN=-0.2142, [Fe/H]MCMC=-0.1839` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.214* | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 292* | -- | -- |
+    | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.90 | 1.62 | -- | 6 | -0.380 | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.93 | 1.35 | 1.27 | 6 | -- | -- | -- | -- |
+    | [Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 2.00 | 1.55 | -- | 6 | -0.013 | -- | -- | -- |
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

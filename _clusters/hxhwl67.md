@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: layout_cluster
+style: style_cluster
 title: HXHWL 67
-style: style
 title_flag: true
 more_names: 
 fname: hxhwl67
@@ -14,36 +14,41 @@ glat: -2.5186
 r50: 2.4
 plx: 0.5609
 UTI: "0.41"
-UTI_COLOR: "#fff5d8"
-UTI_C_N_COL: "#fee0c7"
-UTI_C_dens_COL: "#a6cab9"
-UTI_C_C3_COL: "#d4edca"
-UTI_C_lit_COL: "#e0a6b3"
-UTI_C_dup_COL: "#a6cab9"
+UTI_COLOR: "#fef5d7"
+UTI_C_N_COL: "#fddfc6"
+UTI_C_dens_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Very dense
+UTI_C_C3_desc: High quality
+UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_dup_desc: Unique
 UTI_summary: |
-    <b>HXHWL 67</b> is a poorly populated, very dense object of high C3 quality. It is located at a relatively close distance from the Sun, below the mid-plane. It is rarely studied in the literature.<br><br>This object shares a large percentage of members with 2 later reported entries.
+    <b>HXHWL 67</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, below the mid-plane. It is catalogued as a metal-rich, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.4
 N_50_val: 29
 scix_url: HXHWL%2067
 posit_table: |
-    | Reference    | RA    | DEC   | Plx  | pmRA  | pmDE   |  Rv  |
-    | :---         | :---: | :---: | :---: | :---: | :---: | :---: |
-    |[He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | 234.996 | -58.491 | 0.54 | -2.17 | -3.52 | -- |
-    | <label for="toggle-pos-rows" class="toggle-btn"></label> | | | | | | |
-    | **UCC** |235.004 | -58.488 | 0.561 | -2.163 | -3.534 | -- | 
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | -- |235.004 | -58.488 | 0.561 | -2.163 | -3.534 | -- |
+    |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 234.996 | -58.491 | 0.54 | -2.17 | -3.52 | -- 
 cds_radec: 235.00384,-58.48783
 carousel: UCC
 fpars_table: |
-    | Reference |  Values |
-    | :---  |  :---:  |
-    | [He et al. (2021)](https://scixplorer.org/abs/2021RAA....21...93H) | `AG=1.8, m-M=10.7, logAge=8.38, Z=0.028` |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.38 | 2.16 | -- | 240 | 0.611 | -- | -- | -- |
+note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
