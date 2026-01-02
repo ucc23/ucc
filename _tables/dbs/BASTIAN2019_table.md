@@ -8,9 +8,9 @@ style: style
 &nbsp;
 # [Bastian (2019)](https://scixplorer.org/abs/2019A&A...630L...8B)
 
-| Name | RA | DEC | Plx | N50 | r50 | C3 | UTI |
-| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Gaia 8](/_clusters/gaia8/) | 282.56 | 33.36 | 3.45 | 133 | 30.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.68  |
+| Name | RA | DEC | Plx | N50 | r50 | C3 | P<sub>dup</sub> | UTI |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [Gaia 8](/_clusters/gaia8/) | 282.56 | 33.36 | 3.45 | 133 | 30.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.68  |
 
 
 
