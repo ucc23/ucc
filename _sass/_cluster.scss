@@ -145,13 +145,21 @@
 .quick-facts-front,
 .quick-facts-back {
     backface-visibility: hidden;
+    -webkit-backface-visibility: hidden; /* Added for compatibility */
+}
+
+/* Push front forward slightly, fixes a left px from the front panel visible in the
+back panel only in Firefox*/
+.quick-facts-front {
+    transform: translateZ(1px);
 }
 
 .quick-facts-back {
     position: absolute;
     inset: 0;
-    transform: rotateY(180deg);
+    transform: rotateY(180deg) translateZ(1px);
     padding: 0 1rem;
+    background-color: white;
 }
 
 /* Metric list layout */
