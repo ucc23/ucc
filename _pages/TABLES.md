@@ -72,20 +72,19 @@ available fundamental parameters for each OC.
 ### Probable duplicates
 
 This table groups the OCs in the UCC by their estimated likelihood
-of being a duplicate of a previous entry. The parameter `C_dup` ranges from `0`
-(definitely a duplicate) to `1` (not a duplicate). See [here](/faq/#what-is-the-uti-parameter) for more details.
+of being a duplicate of a previous entry. See [here](/faq/#how-is-the-duplicate-probability-estimated) for more details.
 
 
 <!-- Begin table 4 -->
 
-| C_dup |  N  | C_dup |  N  |
+| P_dup |  N  | P_dup |  N  |
 | :--: | :-: | :--: | :-: |
-| == 0.0 | [874](/tables/Cdup0_table) | (0.0, 0.1] | [567](/tables/Cdup1_table) |
- (0.1, 0.2] | [424](/tables/Cdup2_table) |  (0.2, 0.3] | [278](/tables/Cdup3_table) |
- (0.3, 0.4] | [211](/tables/Cdup4_table) |  (0.4, 0.5] | [172](/tables/Cdup5_table) |
- (0.5, 0.6] | [152](/tables/Cdup6_table) |  (0.6, 0.7] | [116](/tables/Cdup7_table) |
- (0.7, 0.8] | [126](/tables/Cdup8_table) |  (0.8, 0.9] | [123](/tables/Cdup9_table) |
-| 0.9 < | [13676](/tables/Cdup10_table) | -- | -- |
+| == 0.0 | [13496](/tables/Pdup0_table) | (0.0, 0.1] | [188](/tables/Pdup1_table) |
+ (0.1, 0.2] | [146](/tables/Pdup2_table) |  (0.2, 0.3] | [105](/tables/Pdup3_table) |
+ (0.3, 0.4] | [138](/tables/Pdup4_table) |  (0.4, 0.5] | [135](/tables/Pdup5_table) |
+ (0.5, 0.6] | [192](/tables/Pdup6_table) |  (0.6, 0.7] | [196](/tables/Pdup7_table) |
+ (0.7, 0.8] | [320](/tables/Pdup8_table) |  (0.8, 0.9] | [395](/tables/Pdup9_table) |
+| 0.9 < | [1408](/tables/Pdup10_table) | -- | -- |
 
 <!-- End table 4 -->
 
