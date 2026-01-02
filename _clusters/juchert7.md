@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>Juchert 7</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, below the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 20 years. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>

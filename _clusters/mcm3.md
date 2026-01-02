@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>MCM 3</b> is a sparse, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 21 years. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>

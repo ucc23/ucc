@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>CWNU 484</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, near the mid-plane. It is catalogued as a metal-rich, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.81 kpc) differs significantly from the median photometric distance (~2.69 kpc).</p><p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p><span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>

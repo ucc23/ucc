@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>LISC-III 1442</b> is a moderately populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, well above the mid-plane. It is catalogued as a metal-rich cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 

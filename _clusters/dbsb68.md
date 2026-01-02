@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>DBSB 68</b> is a sparse, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, below the mid-plane. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.52 kpc) differs significantly from the median photometric distance (~1.78 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>

@@ -28,8 +28,8 @@ UTI_C_dup: 0.05
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: <u>rarely</u> studied
-UTI_C_dup_desc: <u>very likely duplicate</u>
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Very likely duplicate
 UTI_summary: |
     <b>Bica 417</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p><span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 class3: |

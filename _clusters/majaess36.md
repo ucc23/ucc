@@ -28,7 +28,7 @@ UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: <u>rarely</u> studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 UTI_summary: |
     <b>Majaess 36</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 24 years. 
