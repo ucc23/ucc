@@ -18,7 +18,6 @@ listed here.
 - [How are objects flagged as likely not real?](#how-are-objects-flagged-as-likely-not-real)
 - [How are parameters transformed?](#how-are-parameters-transformed)
 - [How are the galactocentric plots generated?](#how-are-the-galactocentric-plots-generated)
-- [Random cluster navigation](#random-cluster-navigation)
 - [How can I cite the UCC?](#how-can-i-cite-the-ucc)
 
 
@@ -68,6 +67,8 @@ The probability of being a duplicate is calculated as:
 
 where `shared_members_percent` is the percentage of common members between objects
 (since a given object can be compared to many others, we take the maximum value found).
+The object presented earlier in the literature is considered the original, while the
+later one is considered the duplicate.
 
 The `P_dup` value is equivalent to `1 - C_dup`, where `C_dup` is the factor used
 in the UTI calculation (see [What is the UTI parameter?](#what-is-the-uti-parameter)).
@@ -131,7 +132,8 @@ conditions:
 - UTI < 0.25 (low UTI parameter)
 ```
 
-
+The [Search]({% link _pages/SEARCH.md %}) page allows you to hide these objects by
+selecting the _Hide likely non-clusters_ option.
 
 
 ## How are parameters transformed?
@@ -140,22 +142,17 @@ The UCC provides a table of fundamental parameters for the OCs listed (when avai
 These parameters are sometimes transformed to maintain homogeneity. The transformations
 are as follows:
 
-### Metallicity
-
-We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734) `z_sun=0.0152` coefficient as:
+**Metallicity**: We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734) `z_sun=0.0152` coefficient as:
 
     [Fe/H]=log10(z/z_sun)
 
-### Age
-
-Ages are always given in [Myr]. When ages are provided in [log(age/yr)], we apply:
+**Age**: Ages are always given in [Myr]. When ages are provided in [log(age/yr)], we apply:
 
     Age [Myr] = 10^(log(age/yr)/1e6)
 
 
-### Absorption / Extinction
-
-The UCC lists `Av` absorption. To transform `E(B-V)` we use the standard value:
+**Absorption / Extinction**: The UCC lists `Av` absorption. To transform `E(B-V)` we
+use the standard value:
 
     Av = 3.1 * E(B-V)
 
@@ -172,6 +169,8 @@ All approximate coefficients can be estimated for example using the
 [dust_extinction](https://github.com/karllark/dust_extinction) package.
 
 
+
+
 ## How are the galactocentric plots generated?
 
 The Sun and the Galactic center are represented by the yellow star and the black X,
@@ -182,12 +181,6 @@ position of -0.02 [mas] (taken as a reasonable average, see e.g.
 Radial velocities are used when available and set to 0.0 Km/s when they are not.
 
 
-
-## Random cluster navigation
-
-You can navigate to a random cluster page by searching the keyword _"random"_ on the
-[main search page]({{ site.baseurl }}/), or directly accessing
-<a data-umami-event="random_faq" href="{{ site.baseurl }}/random/">the random url</a>.
 
 
 ## How can I cite the UCC?
