@@ -154,11 +154,15 @@ details[open] summary::before {
 }
 
 #search {
-    flex: 1 1 200px;
-    min-width: 150px;
+    flex: 1 1 100px;
+    min-width: 100px;
 }
 
 #Nmax {
+    flex: 0 1 120px;
+}
+
+#Pdupmax {
     flex: 0 1 120px;
 }
 
