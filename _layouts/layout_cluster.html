@@ -110,21 +110,42 @@ layout: default
 
     </div>
 
+    <div class="action-buttons">
+        <a class="btn btn-secondary" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Members</a>
+        <a class="btn btn-secondary" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" title="Explore UCC members in Google Colab" target="_blank">📊 Colab</a>
+        <a class="btn btn-secondary" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" title="Explore Reddening vs. Distance in this region with Bayestar19" target="_blank">🔬 Bayestar19</a>
+         <!-- <span class="flex-break"></span> -->
+        <a class="btn btn-secondary" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" title="Search name in SciX" target="_blank">🔍 SciX</a>
+        <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" title="Search name in Simbad" target="_blank">🔍 Simbad</a>
+        <a class="btn btn-secondary" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" title="Search position in CDS" target="_blank">🔍 CDS (α, δ)</a>
+        <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}"  title="Search position in Simbad" target="_blank">🔍 Simbad (α, δ)</a>
+    </div>
+
 
     <!-- Overview -->
     <details class="data-section" open>
         <summary><h2 class="section-title">Overview</h2></summary>
-            {{page.UTI_summary}}
-            
-        <div class="action-buttons">
-            <a class="btn btn-secondary" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Download data</a>
-            <a class="btn btn-secondary" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" target="_blank">📊 Explore in Colab</a>
-            <a class="btn btn-secondary" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" target="_blank">🔬 Bayestar19</a>
-             <span class="flex-break"></span>
-            <a class="btn btn-secondary" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" target="_blank">🔍 SciX (name)</a>
-            <a class="btn btn-secondary" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" target="_blank">🔍 CDS (position)</a>
-            <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" target="_blank">🔍 Simbad (name)</a>
-            <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}" target="_blank">🔍 Simbad (position)</a>
+        <div class="tab-container">
+            <div class="tabs">
+                <button class="tab active" onclick="switchTab(event, 'summary')">Summary</button>
+                {% if page.comments != empty %}
+                    <button id="tab_comments" class="tab" onclick="switchTab(event, 'comments')">Comments</button>
+                {% endif %}
+            </div>
+            <div id="summary" class="tab-content active">
+                {{page.summary}}
+<!--                 <div class="badges">
+                    <span class="badge badge-rich">🌟 Very Rich</span>
+                    <span class="badge badge-dense">⚫ Very Dense</span>
+                    <span class="badge badge-close">📍 Very Close</span>
+                    <span class="badge badge-studied">📚 Extensively Studied</span>
+                </div> -->
+            </div>
+            {% if page.comments != empty %}
+                <div id="comments" class="tab-content">
+                    {{ page.comments }}
+                </div>
+            {% endif %}
         </div>
     </details>
 
@@ -132,9 +153,6 @@ layout: default
     <!-- Data section -->
     <details class="data-section" open>
         <summary><h2 class="section-title">Data</h2></summary>
-
-<!--             <p>📊 <strong>Astrometric measurements</strong></p>
-            <p>🔬 <strong>Fundamental parameters</strong></p> -->
         
         <div class="tab-container">
             <div class="tabs">
