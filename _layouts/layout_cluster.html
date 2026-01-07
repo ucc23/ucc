@@ -134,12 +134,29 @@ layout: default
             </div>
             <div id="summary" class="tab-content active">
                 {{page.summary}}
-<!--                 <div class="badges">
-                    <span class="badge badge-rich">🌟 Very Rich</span>
-                    <span class="badge badge-dense">⚫ Very Dense</span>
-                    <span class="badge badge-close">📍 Very Close</span>
-                    <span class="badge badge-studied">📚 Extensively Studied</span>
-                </div> -->
+                <div class="badges">
+                    {% if page.badge_nofpars %}
+                        <span class="badge badge-no-pars">No fundamental parameters</span>
+                    {% endif %}
+                    {% if page.badge_dist != empty %}
+                        <span class="badge badge-dist">{{ page.badge_dist }}</span>
+                    {% endif %}
+                    {% if page.badge_ext != empty %}
+                        <span class="badge badge-ext">{{ page.badge_ext }}</span>
+                    {% endif %}
+                    {% if page.badge_mass != empty %}
+                        <span class="badge badge-mass">{{ page.badge_mass }}</span>
+                    {% endif %}
+                    {% if page.badge_feh != empty %}
+                        <span class="badge badge-feh">{{ page.badge_feh }}</span>
+                    {% endif %}
+                    {% if page.badge_age != empty %}
+                        <span class="badge badge-age">{{ page.badge_age }}</span>
+                    {% endif %}
+                    {% if page.badge_bss != empty %}
+                        <span class="badge badge-bss">{{ page.badge_bss }}</span>
+                    {% endif %}
+                </div>
             </div>
             {% if page.comments != empty %}
                 <div id="comments" class="tab-content">
