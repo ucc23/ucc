@@ -42,6 +42,14 @@
     transform: scale(1.02);
 }
 
+#aladin-lite-div {
+    width: 400px;
+    height: 250px;
+    display: none;
+    margin: 0 auto;
+    z-index: 99999;     /* higher than any other element */
+}
+
 .quick-facts {
     background: white;
     border-radius: 12px;
