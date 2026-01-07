@@ -30,8 +30,17 @@ UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
-UTI_summary: |
+summary: |
     <b>Juchert 21</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. 
+badge_dist: ""
+badge_ext: ""
+badge_mass: ""
+badge_feh: ""
+badge_age: ""
+badge_bss: ""
+badge_nofpars: true
+comments: |
+
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 2.1

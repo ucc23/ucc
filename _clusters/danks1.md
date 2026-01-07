@@ -30,8 +30,17 @@ UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
-UTI_summary: |
+summary: |
     <b>Danks 1</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, near the mid-plane, affected by very high extinction. It is catalogued as a massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.28 kpc) differs significantly from the median photometric distance (~3.60 kpc).</p>
+badge_dist: "Distant"
+badge_ext: "Very high extinction"
+badge_mass: "Massive"
+badge_feh: ""
+badge_age: "Very young"
+badge_bss: ""
+badge_nofpars: false
+comments: |
+
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.1

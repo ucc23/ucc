@@ -30,8 +30,18 @@ UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
-UTI_summary: |
+summary: |
     <b>VVVX CL094</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 8 years. 
+badge_dist: ""
+badge_ext: ""
+badge_mass: ""
+badge_feh: ""
+badge_age: ""
+badge_bss: ""
+badge_nofpars: true
+comments: |
+    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Second small group of stars close to BDS9, sub-cluster?.</p>
+
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 6.2

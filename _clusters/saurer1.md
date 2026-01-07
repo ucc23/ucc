@@ -30,8 +30,17 @@ UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
-UTI_summary: |
-    <b>Saurer 1</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well above the mid-plane. It is catalogued as a very massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+summary: |
+    <b>Saurer 1</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well above the mid-plane, affected by low extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+badge_dist: "Extremely distant"
+badge_ext: "Low extinction"
+badge_mass: "Extremely massive"
+badge_feh: "Near-solar metallicity"
+badge_age: "Old"
+badge_bss: ""
+badge_nofpars: false
+comments: |
+
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 r_50_val: 1.5
