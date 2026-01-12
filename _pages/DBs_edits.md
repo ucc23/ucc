@@ -989,6 +989,7 @@ Changes to names:
 - BH --> VDBH
 - Sigma_Ori --> Sigma_Orionis
 - Changed 'LP_' to 'FoF_'
+- CWNU_289 --> CWNU_287 (clearly wrong name assigned based on coordinates)
 
 14 entries named 'H21OC_*' are 'hxhwl*' entries from He et al 2021. Renamed them as
 follows:
