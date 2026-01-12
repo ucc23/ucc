@@ -204,7 +204,7 @@ Final table lists 463 entries.
 
 ## Froebrich et al. 2007
 
-[A systematic survey for infrared star clusters with |b|<20º using 2MASS](https://ui.adsabs.harvard.edu/abs/2007MNRAS.374..399F)
+[A systematic survey for infrared star clusters with b<20º using 2MASS](https://ui.adsabs.harvard.edu/abs/2007MNRAS.374..399F)
 
 Renamed column `FRS -> ID`. Added `FSR_` prefix to the IDs.
 
@@ -683,7 +683,7 @@ Duplicates that were combined using their average values:
 
 Renamed:
 - `ngc0188, ngc0752, ngc0381, ngc0225, ngc0581`, to
-- `ngc188, ngc752, ngc381, ngc225, ngc581` (removed leading zeroes)
+  `ngc188, ngc752, ngc381, ngc225, ngc581` (removed leading zeroes)
 
 
 ## Cantat-Gaudin et al. 2019
@@ -978,8 +978,7 @@ Replaced '---' with '' for RV values.
 
 ## He et al. 2022
 
-[A Blind All-sky Search for Star Clusters in Gaia EDR3: 886
-Clusters within 1.2 kpc of the Sun](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract)
+[A Blind All-sky Search for Star Clusters in Gaia EDR3: 886 Clusters within 1.2 kpc of the Sun](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....7H/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/262/7) table contains 270 new 'CWNU_' clusters. Removed 50 Theia entries.
 
