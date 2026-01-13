@@ -249,7 +249,7 @@ style: style
 | [OC 0237](/_clusters/oc0237/) | 22.67 | 62.4 | 0.33 | 56 | 4.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.55  |
 | [OC 0238](/_clusters/oc0238/) | 25.22 | 64.51 | 0.34 | 25 | 1.7 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 1.0 | 0.0  |
 | [OC 0239](/_clusters/oc0239/) | 26.13 | 58.76 | 0.49 | 37 | 2.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 1.0 | 0.0  |
-| [OC 0240](/_clusters/oc0240/) | 37.5 | 73.02 | 1.12 | 53 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0  |
+| [OC 0240](/_clusters/oc0240/) | 37.5 | 73.02 | 1.12 | 53 | 5.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.87 | 0.07  |
 | [OC 0241](/_clusters/oc0241/) | 35.43 | 65.9 | 0.17 | 25 | 1.1 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0  |
 | [OC 0242](/_clusters/oc0242/) | 42.42 | 68.98 | 2.28 | 25 | 12.4 | <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.38  |
 | [OC 0243](/_clusters/oc0243/) | 37.36 | 62.96 | 0.32 | 32 | 4.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.34 | 0.25  |
