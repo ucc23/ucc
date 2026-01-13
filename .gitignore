@@ -10,6 +10,10 @@ node_modules
 .jekyll-cache
 
 
+.ruby-version
+Gemfile
+Gemfile.lock
+
 *.sublime*
 *_clusters2*
 WARP.md
