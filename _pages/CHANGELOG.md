@@ -9,6 +9,11 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260113](https://zenodo.org/records/18233548)
+
+- Fixed OCs that had issues: alessi58, bochum1, collinder132, feigelson1, fsr0569, lp44, ngc1976, ngc7086a, ngc7086b, ocsn244, ocsn246, trumpler14, trumpler15, trumpler37, ubc1309, ubc491, ascc18, ascc20, hsc517, ngc2264, rsg7, rsg8, ubc602
+
+
 ## Version [251206](https://zenodo.org/records/17840887)
 
 - Added Nizovkina et al. (2025)
