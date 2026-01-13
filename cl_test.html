@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Clusters_2</title>
+<style>
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#md-list {
+    list-style: none;
+    padding: 0;
+}
+</style>
+</head>
+<body>
+
+<input type="file" id="folder" webkitdirectory multiple>
+
+<ul id="md-list"></ul>
+
+<script>
+document.getElementById("folder").addEventListener("change", async function (e) {
+    const list = document.getElementById("md-list");
+    list.innerHTML = "";
+
+    const files = [...e.target.files]
+        .filter(f => f.name.endsWith(".md"))
+        .sort((a, b) => a.name.localeCompare(b.name));
+
+    for (const f of files) {
+        const text = await f.text();
+
+        let uti = "—";
+        const fm = text.match(/^---\s*([\s\S]*?)\s*---/);
+        if (fm) {
+            const m = fm[1].match(/^UTI:\s*(.+)$/m);
+            if (m) uti = m[1].trim();
+        }
+
+        const name = f.name.replace(/\.md$/, "");
+        const url = `http://127.0.0.1:4000/_clusters2/${name}`;
+
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = url;
+        a.textContent = name;
+        a.target = "content";
+
+        li.appendChild(a);
+        li.append(` — UTI: ${uti}`);
+        list.appendChild(li);
+    }
+});
+</script>
+
+
+</body>
+</html>
