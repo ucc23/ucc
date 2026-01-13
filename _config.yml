@@ -74,9 +74,15 @@ include: ['_pages', '_clusters', '_tables']
 
 
 # Exclude these files from your production _site
+# - CNAME
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
+  - node_modules
   - README.md
-  - CNAME
+  - LICENSE
+  - .gitignore
+  - .sass-cache/
+  - .jekyll-cache/
+  - vendor/
+  - gemfiles/
