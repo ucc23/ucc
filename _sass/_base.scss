@@ -217,6 +217,21 @@ p > img {
   margin: 0 auto;
 }
 
+figure img {
+  max-width: 75%;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: 1rem;
+  color: #666;
+  padding: 0.75rem 0;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+}
+
 
 // // Main Content
 // .posts > .post {

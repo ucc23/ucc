@@ -23,7 +23,7 @@ The UCC currently hosts the following data:
   <tbody>
     <tr>
       <td style="text-align:center;">
-        <a data-umami-event="articles" href="/../articles">Articles</a>
+        <a data-umami-event="articles_md" href="/../articles">Articles</a>
       </td>
       <td style="text-align:center;">
         <strong><!-- ND1 -->80<!-- ND2 --></strong>
@@ -31,7 +31,7 @@ The UCC currently hosts the following data:
     </tr>
     <tr>
       <td style="text-align:center;">
-        <a data-umami-event="cluster_tables" href="/../tables">Clusters</a>
+        <a data-umami-event="clusters_md" href="/../clusters">Clusters</a>
       </td>
       <td style="text-align:center;">
         <strong><!-- NT1 -->16719<!-- NT2 --></strong>
@@ -40,7 +40,7 @@ The UCC currently hosts the following data:
     <tr>
       <td style="text-align:center;">Member stars</td>
       <td style="text-align:center;">
-        <strong><!-- NM1 -->1053551<!-- NM2 --></strong>
+        <strong><!-- NM1 -->1048783<!-- NM2 --></strong>
       </td>
     </tr>
   </tbody>

@@ -29,8 +29,6 @@ of [open clusters](https://en.wikipedia.org/wiki/Open_cluster) in existence. It 
 for an ever expanding number of entries, taken from the latest published articles
 combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
 
-![Catalogued OCs in the literature](/images/catalogued_ocs.webp "Catalogued OCs in the literature")
-
 
 
 ## What objects are included in the UCC?
@@ -94,8 +92,6 @@ sequence randomly drawn from the field star population.
 Each one takes values `[A, B, C, D]` where `A` is best and `D` is worst.
 
 
-![Classification of OCs in the literature](/images/classif_bar.webp "Classification of OCs in the literature")
-
 
 
 ## What is the UTI parameter?
@@ -117,7 +113,6 @@ normalized estimates of:
 - `C_lit`: presence in literature (0=rarely mentioned in the literature, 1=frequently mentioned in the literature)
 - `C_dup`: likelihood of uniqueness (0=very likely a duplicate entry, 1=not a duplicate entry)
 
-![UTI values for OCs in the literature](/images/UTI_values.webp "UTI values for OCs in the literature")
 
 
 
