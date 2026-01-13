@@ -50,14 +50,12 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | -- |100.635 | 7.595 | 0.715 | -1.617 | -0.047 | 51.555 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 154.79 | -55.861 | 2.266 | -14.409 | 2.718 | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 100.627 | 7.565 | 0.72 | -1.57 | 0.01 | -- 
 cds_radec: 100.63547,+7.59534
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.30 | -- | 35 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.14 | 0.60 | -- | 4 | -1.335 | -- | -- | -- |
 note_asterisk: false
 shared_table: |

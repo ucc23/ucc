@@ -6,32 +6,32 @@ title_flag: true
 more_names: FSR 0911; MWSC 864; BBD 7
 fname: bochum1
 members_file: "192_196"
-fov: 0.24
-ra_icrs: 96.33839
-de_icrs: 19.83377
-glon: 192.36189
-glat: 3.404
-r50: 7.2
-plx: 0.2088
-UTI: "0.73"
-UTI_COLOR: "#d9eeca"
-UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#fcfee5"
+fov: 0.113
+ra_icrs: 96.26672
+de_icrs: 19.84642
+glon: 192.3282
+glat: 3.36364
+r50: 3.4
+plx: 0.2077
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
+UTI_C_N_COL: "#f5fbdc"
+UTI_C_dens_COL: "#f7fbde"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#cce9c8"
 UTI_C_dup_COL: "#a5cab9"
-UTI_C_N: 0.81
-UTI_C_dens: 0.52
+UTI_C_N: 0.57
+UTI_C_dens: 0.56
 UTI_C_C3: 0.75
 UTI_C_lit: 0.79
 UTI_C_dup: 1.0
-UTI_C_N_desc: Rich
+UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Bochum 1</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, above the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.79 kpc) differs significantly from the median photometric distance (~3.13 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Bochum 1</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, above the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.81 kpc) differs significantly from the median photometric distance (~3.13 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_ext: "Moderate extinction"
 badge_mass: ""
@@ -44,13 +44,13 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.2
-N_50_val: 260
+r_50_val: 3.4
+N_50_val: 64
 scix_url: Bochum%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |96.338 | 19.834 | 0.209 | -0.138 | -0.492 | 24.544 |
+    | **UCC** | -- |96.267 | 19.846 | 0.208 | -0.188 | -0.465 | 59.975 |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 96.257 | 19.846 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 96.257 | 19.846 | 0.209 | -0.104 | -0.506 | 22.607 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 96.365 | 19.833 | 0.209 | -- | -- | -- |
@@ -64,7 +64,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 96.25 | 19.867 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 96.354 | 19.767 | -- | 0.63 | -1.64 | 11.38 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 96.375 | 19.767 | -- | -- | -- | -- 
-cds_radec: 96.33839,+19.83377
+cds_radec: 96.26672,+19.84642
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
@@ -83,7 +83,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1309](/_clusters/ubc1309/)| 57.7 | 96.34 | 19.86 | 0.22 | -0.18 | -0.46 | 35.13 |0.02 |
-    |[Alessi 58](/_clusters/alessi58/)| 42.3 | 96.39 | 19.89 | 0.21 | -0.14 | -0.46 | 35.13 |0.07 |
-    |[OC 0319](/_clusters/oc0319/)| 9.6 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
+    |[UBC 1309](/_clusters/ubc1309/)| 85.9 | 96.29 | 19.85 | 0.22 | -0.22 | -0.45 | 35.13 |0.09 |
+    |[OC 0319](/_clusters/oc0319/)| 39.1 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
 ---

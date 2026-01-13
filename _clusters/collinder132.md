@@ -6,32 +6,32 @@ title_flag: true
 more_names: MWSC 1147
 fname: collinder132
 members_file: "240_244"
-fov: 0.563
-ra_icrs: 108.36696
-de_icrs: -30.92208
-glon: 243.04316
-glat: -9.27019
-r50: 16.9
-plx: 1.5406
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
-UTI_C_N_COL: "#dfa5b3"
+fov: 1.007
+ra_icrs: 108.40008
+de_icrs: -30.82914
+glon: 243.04298
+glat: -9.20729
+r50: 30.2
+plx: 1.5238
+UTI: "0.81"
+UTI_COLOR: "#c7e6c7"
+UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#fef9de"
-UTI_C_C3_COL: "#d4ecc9"
+UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
-UTI_C_N: 0.0
+UTI_C_N: 0.62
 UTI_C_dens: 0.45
-UTI_C_C3: 0.75
+UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
-UTI_C_N_desc: Sparse
+UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
-UTI_C_C3_desc: High quality
+UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 132</b> is a sparse, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, below the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Collinder 132</b> is a moderately populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, below the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Close"
 badge_ext: "Low extinction"
 badge_mass: ""
@@ -44,14 +44,14 @@ comments: |
     <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
 
 class3: |
-    <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 16.9
-N_50_val: 23
+    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
+r_50_val: 30.2
+N_50_val: 74
 scix_url: Collinder%20132
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |108.367 | -30.922 | 1.541 | -4.119 | 3.769 | 17.973 |
+    | **UCC** | -- |108.4 | -30.829 | 1.524 | -4.151 | 3.758 | 19.036 |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 108.595 | -30.703 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 108.752 | -31.126 | 1.485 | -4.146 | 3.711 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 108.346 | -30.971 | 1.525 | -4.125 | 3.727 | 18.565 |
@@ -74,7 +74,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 108.39 | -31.03 | -- | -5.9 | 5.09 | 28.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 108.39 | -31.03 | -- | -5.42 | 5.52 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 108.833 | -30.683 | -- | -2.01 | 2.9 | 26.58 
-cds_radec: 108.36696,-30.92208
+cds_radec: 108.40008,-30.82914
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |

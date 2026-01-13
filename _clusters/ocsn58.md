@@ -13,18 +13,18 @@ glon: 202.44564
 glat: -18.91565
 r50: 16.7
 plx: 2.4033
-UTI: "0.00"
-UTI_COLOR: "#dfa5b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#fef8dd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#dfa5b3"
+UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.44
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.0
+UTI_C_dup: 0.02
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
@@ -61,7 +61,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 18](/_clusters/ascc18/)| 100.0 | 81.73 | 0.85 | 2.55 | -0.18 | 1.17 | 28.19 |0.84 |
-    |[ASCC 20](/_clusters/ascc20/)| 2.3 | 82.1 | 1.67 | 2.73 | -0.54 | 0.78 | 29.5 |0.84 |
-    |[OCSN 57](/_clusters/ocsn57/)| 2.3 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.0 |
+    |[ASCC 18](/_clusters/ascc18/)| 97.7 | 81.53 | 0.32 | 2.4 | 0.15 | 1.39 | 25.21 |0.81 |
+    |[OCSN 57](/_clusters/ocsn57/)| 2.3 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.1 |
 ---

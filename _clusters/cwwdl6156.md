@@ -13,25 +13,25 @@ glon: 128.73255
 glat: -1.56321
 r50: 4.9
 plx: 0.2701
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#d3ecc9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
-UTI_C_dup: 0.76
+UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Very likely unique
+UTI_C_dup_desc: Unique
 summary: |
-    <b>CWWDL 6156</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.76</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>CWWDL 6156</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: ""
 badge_ext: ""
 badge_mass: ""
@@ -59,7 +59,5 @@ fpars_table: |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 47 | 0.400 | -- | -- | -- |
 note_asterisk: false
 shared_table: |
-    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
-    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 602](/_clusters/ubc602/)| 24.0 | 24.74 | 60.75 | 0.3 | -1.05 | -0.3 | -- |0.13 |
+
 ---

@@ -6,32 +6,32 @@ title_flag: true
 more_names: FoF 232
 fname: trumpler15
 members_file: "284_288"
-fov: 0.15
-ra_icrs: 161.1496
-de_icrs: -59.4044
-glon: 287.41285
-glat: -0.40353
-r50: 4.5
-plx: 0.3923
-UTI: "1.0"
-UTI_COLOR: "#a5cab9"
+fov: 0.113
+ra_icrs: 161.17549
+de_icrs: -59.3738
+glon: 287.41292
+glat: -0.37684
+r50: 3.4
+plx: 0.3913
+UTI: "0.95"
+UTI_COLOR: "#aad2bd"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
-UTI_C_C3_COL: "#a5cab9"
+UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
-UTI_C_C3: 1.0
+UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
-UTI_C_C3_desc: Very high quality
+UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Trumpler 15</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Trumpler 15</b> is a very rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_ext: "Moderate extinction"
 badge_mass: ""
@@ -44,14 +44,14 @@ comments: |
     <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
 
 class3: |
-    <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.5
-N_50_val: 519
+    <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
+r_50_val: 3.4
+N_50_val: 549
 scix_url: Trumpler%2015
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |161.15 | -59.404 | 0.392 | -6.261 | 2.067 | -4.006 |
+    | **UCC** | -- |161.175 | -59.374 | 0.391 | -6.206 | 2.085 | 9.881 |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 161.179 | -59.372 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 161.174 | -59.369 | 0.387 | -6.093 | 2.068 | 23.263 |
     |[Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | 161.177 | -59.369 | -- | -- | -- | -- |
@@ -71,7 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 161.16 | -59.35 | -- | -2.44 | 2.91 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.179 | -59.367 | -- | -7.71 | 3.26 | -15.06 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 161.179 | -59.367 | -- | -- | -- | -- 
-cds_radec: 161.1496,-59.4044
+cds_radec: 161.17549,-59.3738
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
@@ -98,6 +98,5 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 14](/_clusters/trumpler14/)| 56.8 | 161.01 | -59.54 | 0.39 | -6.49 | 2.07 | -16.05 |1.0 |
-    |[Collinder 232](/_clusters/collinder232/)| 5.2 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.0 |
+    |[Collinder 232](/_clusters/collinder232/)| 1.3 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.05 |
 ---

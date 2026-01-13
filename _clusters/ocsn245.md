@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>OCSN 245</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, above the mid-plane, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 245</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, above the mid-plane, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_ext: "Low extinction"
 badge_mass: ""
@@ -62,7 +62,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2919](/_clusters/hsc2919/)| 36.1 | 246.54 | -24.02 | 7.21 | -6.81 | -25.98 | -8.44 |0.0 |
-    |[OCSN 246](/_clusters/ocsn246/)| 33.5 | 244.71 | -24.21 | 6.77 | -10.35 | -22.98 | -6.68 |0.59 |
     |[OC 0690](/_clusters/oc0690/)| 8.5 | 246.39 | -23.48 | 7.18 | -6.96 | -25.51 | -7.74 |0.48 |
-    |[HSC 2931](/_clusters/hsc2931/)| 2.2 | 245.13 | -21.68 | 7.41 | -11.33 | -25.07 | -5.21 |0.22 |
+    |[HSC 2931](/_clusters/hsc2931/)| 2.2 | 245.13 | -21.68 | 7.41 | -11.33 | -25.07 | -5.21 |0.28 |
+    |[OCSN 246](/_clusters/ocsn246/)| 0.2 | 245.41 | -24.73 | 6.71 | -10.64 | -22.4 | -3.67 |0.45 |
 ---

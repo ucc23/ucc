@@ -5,11 +5,11 @@ title: Dutra Bica 58
 title_flag: true
 more_names: MWSC 2677
 fname: dutrabica58
-members_file: "360_0"
+members_file: "356_360"
 fov: 0.267
 ra_icrs: 266.26993
 de_icrs: -28.88455
-glon: -0.0483
+glon: 359.9517
 glat: 0.08974
 r50: 8.0
 plx: 0.4338

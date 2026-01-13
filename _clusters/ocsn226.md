@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>OCSN 226</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, below the mid-plane, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 226</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, below the mid-plane, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_ext: "Low extinction"
 badge_mass: ""
@@ -62,10 +62,10 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 208](/_clusters/ubc208/)| 96.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
-    |[NGC 1980](/_clusters/ngc1980/)| 92.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.84 |
-    |[OCSN 244](/_clusters/ocsn244/)| 57.5 | 83.82 | -5.42 | 2.54 | 1.31 | 0.34 | 22.67 |0.33 |
+    |[NGC 1980](/_clusters/ngc1980/)| 92.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.82 |
     |[OC 0347](/_clusters/oc0347/)| 28.4 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
-    |[NGC 1976](/_clusters/ngc1976/)| 5.3 | 83.82 | -5.39 | 2.49 | 1.23 | 0.49 | 19.92 |0.8 |
+    |[NGC 1976](/_clusters/ngc1976/)| 7.3 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.72 |
+    |[OCSN 244](/_clusters/ocsn244/)| 6.5 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OCSN 225](/_clusters/ocsn225/)| 5.3 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
     |[OC 0345](/_clusters/oc0345/)| 4.4 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
     |[Morgan 8](/_clusters/morgan8/)| 0.9 | 84.13 | -6.42 | 2.55 | 0.85 | 0.3 | 16.82 |0.32 |
