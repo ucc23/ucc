@@ -172,6 +172,34 @@ Changes:
 - Added alternative names as main names to ASCC column
  
 
+## van den Bergh 2006
+
+[Diameters of Open Star Clusters](https://scixplorer.org/abs/2006AJ....131.1559V/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/131/1559) table contains 600 entries.
+
+Renamed:
+- NXXX --> NGC XXX
+- Collin./Collind./Colin./Colind. --> Collinder
+- Rupr. --> Ruprecht
+- Markar. --> Markarian
+- Westerl. --> Westerlund
+- Sauer --> Saurer
+- Kharchen. --> Kharchenko
+- Stephen. --> Stephenson
+- BH --> VDBH (23, 66, 90, 99, 144, 222, 245)
+
+Removed:
+- GCs: ESO 093-08, BH 176 Berkeley 42
+- "Berkeley 69": duplicated, removed second entry
+
+Replaced (ra, dec) computed by VizieR with UCC values as these objects are incorrectly
+recognized by VizieR as other objects:
+- Markarian 38 & 50 (Mrk 38 & 50 galaxies)
+- "VDB 1, vdBergh 1" (VDBH 1)
+
+
+
 ## Kronberger et al 2006
 
 [New galactic open cluster candidates from DSS and 2MASS imagery](https://ui.adsabs.harvard.edu/abs/2006A%26A...447..921K/abstract)
@@ -183,6 +211,7 @@ Kronberger 79 had two entries, marked 'a' and 'b' in the 'Note' column. I merged
 both entries.
 
 Changed 'ADS 13292 Cluster' to 'ADS 13292'.
+
 
 
 ## Kharchenko et al. 2007
@@ -375,6 +404,15 @@ Added VDBH to the BH entries.
 - Added 'VVV-CL' naming with leading zeroes
 
 
+## Gozha at al. 2012
+
+[Heterogeneity of the population of open star clusters in the Galaxy](https://scixplorer.org/abs/2012AstL...38..506G)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/PAZh/38/8) table contains 593 clusters.
+
+
+
+
 ## Kharchenko et al. 2012
 
 [Global survey of star clusters in the Milky Way. I. The pipeline and fundamental parameters in the second quadrant](https://ui.adsabs.harvard.edu/abs/2012A%26A...543A.156K)
@@ -406,6 +444,23 @@ Changes:
 - Removed incorrect [Fe/H]=90.128 for VDBH 99
 
 Final table lists 2262 entries
+
+
+
+## Dias et el. 2014
+
+[Proper motions of the optically visible open clusters based on the UCAC4 catalog](https://scixplorer.org/abs/2014A%26A...564A..79D)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2014A%26A...564A..79D) table 2 contains 1805 clusters, table 4 contains 102 clusters
+with radial velocities. Both are combined into a single table.
+
+Removed:
+- FSR 0178 (duplicated, removed second entry)
+- GCs: ESO 456 29, BH 208, FSR 1758, BH 140
+- Duplicates of other entries (according to the UCC): BH 52, Dolidze 41, Harvard 5,
+  NGC 6882, IC 1311, ESO 260 07, FSR 0814, FSR 0828, FSR 0856, FSR 0869, Koposov 27,
+  NGC 2982
+
 
 
 
@@ -803,6 +858,15 @@ There is also a 'b' note which indicates 'tentative identification with Kharchen
 also with no names given.
 
 
+
+## Cantat-Gaudin et al. 2020
+
+[Clusters and mirages cataloguing stellar aggregates in the Milky Way](https://scixplorer.org/abs/2020A%26A...633A..99C)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2020A%26A...633A..99C) table contains 1481 clusters.
+
+
+
 ## Cantat-Gaudin et al. 2020
 
 [Painting a portrait of the Galactic disc with its stellar clusters](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C)
@@ -816,6 +880,7 @@ Changes to names:
 * vdBergh_  --> VDB per CDS recommendation
 * LP_ --> FoF_ to match the original work LIUPANG19
 * Sigma_Ori --> Sigma_Orionis
+
 
 
 ## Donor et al. 2020
@@ -842,6 +907,19 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/MNRAS/496/20
 [Sixteen Open Clusters Discovered with Sample-based Clustering Search of Gaia DR2](https://ui.adsabs.harvard.edu/abs/2020PASP..132c4502H/abstract)
 
 Data from Table 2 lists 16 clusters with no acronym. Used 'HXWHB_' to match HUNT23.
+
+
+
+## Sánchez et al. 2020
+
+[A catalogue of open cluster radii determined from Gaia proper motions](https://scixplorer.org/abs/2020MNRAS.495.2882S)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2020MNRAS.495.2882S) table contains 401 clusters.
+
+Removed GC Pfleiderer 2.
+
+Combined 'fsr0436; skiffj2330p602', same entry according to UCC (removed Skiff J2330+60.2).
+
 
 
 ## Casado 2021
@@ -1009,12 +1087,30 @@ follows:
 - H21OC_69 --> HXHWL 69, H21OC_69
 
 
+
 ## Li et al. 2022
 
 [LISC Catalog of Star Clusters. I. Galactic Disk Clusters in Gaia EDR3](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...19L/abstract)
 
-The [Zenodo](https://zenodo.org/record/5705371#.YZPASbFdsrs) table lists 61 'LISC_' clusters. The table contains a column called
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/259/19) entry (also the [Zenodo](https://zenodo.org/record/5705371#.YZPASbFdsrs) entry) for this article shows three
+tables:
+
+- `table1`: Parameters of 61 newly identified clusters with relatively clear main
+  sequences in their CMDs (61 rows)
+- `newcl`: Basic information of 868 candidate clusters which are not included in previous
+  catalog (868 rows)
+- `matchcl`: Basic information of 2729 clusters which have been matched to other catalogs
+  (2729 rows)
+
+The entries in the `matchcl` table is not cross-matched with the corresponding clusters,
+only LISC ids are assigned, so it is impossible to know which data corresponds to which
+known cluster.
+
+I only include the 61 new clusters in `table1` which contains a column called
 `t/t_range` in Gyr, not sure what it represents.
+
+
+
 
 
 ## Perren et al. 2022
@@ -1036,6 +1132,19 @@ Changes to names:
 
 - BH_99 --> VDBH_99
 - LP_ --> FoF_
+
+
+## Almeida et al. 2023
+
+[Revisiting the mass of open clusters with Gaia data](https://scixplorer.org/abs/2023MNRAS.525.2315A)
+
+No Vizier table, downloaded the tables for the integrated and detailed data
+from [Github](https://github.com/ander-son-almeida/DashboardOCmass/tree/main/data) (773 and 46 entries respectively).
+
+Combined both tables. Blanco 1 has RA values very different from the literature.
+
+
+
 
 
 ## Chi et al. 2023
@@ -1446,4 +1555,31 @@ Renamed:
 [Fe/H] values).
 
 Combined so that only one row per OC remained. Final table contains 20 entries.
+
+
+## Wei et al. 2025
+
+[Forest Fire Clustering: A Novel Tool for Identifying Star Members of Clusters](https://scixplorer.org/abs/2025AJ....169..115W/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/169/115) table lists 281 entries: "280 clusters and 1 dwarf galaxy".
+
+Removed:
+- GCs: ngc3201, ngc104, ngc6656, ngc6544, ngc6121
+- Dwarf galaxy 'Bootes 1'
+
+Changed 'monobld' to 'monob1d'
+Added: 'ocsn38' to 'oc038'
+
+
+
+
+## Li et al. 2025
+
+[The MiMO Catalog: Physical Parameters and Stellar Mass Functions of 1232 Open Clusters from Gaia DR3](https://scixplorer.org/abs/2025AJ....170..288L/abstract)
+
+Data is stored in, [ChinaVO](https://nadc.china-vo.org/res/r101693/). Merged files `cluster_input_info.fits` and
+`cluster_params.fits`.
+
+Added 'FoF' to 'LP' entries.
+Removed 'Harvard_5' (duplicate of Collinder_258).
 

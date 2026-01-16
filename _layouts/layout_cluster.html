@@ -110,14 +110,13 @@ layout: default
     </div>
 
     <div class="action-buttons">
-        <a class="btn btn-secondary" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Members</a>
-        <a class="btn btn-secondary" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" title="Explore UCC members in Google Colab" target="_blank">📊 Colab</a>
-        <a class="btn btn-secondary" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" title="Explore Reddening vs. Distance in this region with Bayestar19" target="_blank">🔬 Bayestar19</a>
-         <!-- <span class="flex-break"></span> -->
-        <a class="btn btn-secondary" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" title="Search name in SciX" target="_blank">🔍 SciX</a>
-        <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" title="Search name in Simbad" target="_blank">🔍 Simbad</a>
-        <a class="btn btn-secondary" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" title="Search position in CDS" target="_blank">🔍 CDS (α, δ)</a>
-        <a class="btn btn-secondary" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}"  title="Search position in Simbad" target="_blank">🔍 Simbad (α, δ)</a>
+        <a class="btn" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Members</a>
+        <a class="btn" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" title="Explore UCC members in Google Colab" target="_blank">📊 Colab</a>
+        <a class="btn" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" title="Explore Reddening vs. Distance in this region with Bayestar19" target="_blank">🔬 Bayestar19</a>
+        <a class="btn" href="https://cdsportal.u-strasbg.fr/?target={{page.title}}" title="Search name in CDS" target="_blank">🔍 CDS</a>
+        <a class="btn" href="https://simbad.cds.unistra.fr/simbad/sim-id?Ident={{page.fname}}" title="Search name in Simbad" target="_blank">🔍 Simbad</a>
+        <a class="btn" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" title="Search position in CDS" target="_blank">🔍 CDS (α, δ)</a>
+        <a class="btn" href="https://simbad.cds.unistra.fr/mobile/object_list.html?coord={{page.ra_icrs}}%20{{page.de_icrs}}&output=json&radius=5&userEntry={{page.fname}}"  title="Search position in Simbad" target="_blank">🔍 Simbad (α, δ)</a>
     </div>
 
 
@@ -130,6 +129,7 @@ layout: default
                 {% if page.comments != empty %}
                     <button id="tab_comments" class="tab" onclick="switchTab(event, 'comments')">Comments</button>
                 {% endif %}
+                <a href="/faq/#about-the-overview-section" target="_blank" class="tabs-faq" title="About the Overview section">ℹ️</a>
             </div>
             <div id="summary" class="tab-content active">
                 {{page.summary}}
@@ -170,6 +170,13 @@ layout: default
     <details class="data-section" open>
         <summary><h2 class="section-title">Data</h2></summary>
         
+        <div class="data-search">
+            🔍  Search references for <b>{{page.title}}</b> in:
+            <a class="btn" href="https://scixplorer.org/search?n=10&p=1&q=+collection%3Aastronomy+body%3A%22{{page.scix_url}}%22&sort=score+desc&sort=date+desc" title="Search for references in SciX" target="_blank">SciX</a>
+            <a class="btn" href="https://simbad.cds.unistra.fr/simbad/sim-id-refs?Ident={{page.fname}}" title="Search for references in Simbad" target="_blank">Simbad</a>
+        </div>
+
+
         <div class="tab-container">
             <div class="tabs">
                 <button class="tab active" onclick="switchTab(event, 'positions')">Astrometry</button>
@@ -179,6 +186,7 @@ layout: default
                 {% if page.shared_table != empty %}
                     <button id="tab_obj_shared" class="tab" onclick="switchTab(event, 'obj_shared')">Shared members</button>
                 {% endif %}
+                <a href="/faq/#about-the-data-section" target="_blank" class="tabs-faq" title="About the Data section">ℹ️</a>
             </div>
             
             <div id="positions" class="tab-content active">
@@ -192,7 +200,7 @@ layout: default
             {% if page.fpars_table != empty %}
                 <div id="parameters" class="tab-content">
                     {{ page.fpars_table | markdownify }}                    
-                    <p class="table-note">
+<!--                     <p class="table-note">
                         💡 <strong>Note:</strong> The parameters are sometimes
                         transformed from their original values to match the format of the
                         columns shown here, <a href="{{ site.baseurl }}/faq#how-are-parameters-transformed" title="See FAQ" target="_blank">see FAQ</a>.
@@ -203,7 +211,13 @@ layout: default
                             <br><strong>(*):</strong> indicates that this parameter is
                             assigned more than one value in the corresponding reference.
                         {% endif %}
-                    </p>
+                    </p> -->
+                    {% if page.note_asterisk %}
+                      <p class="table-note">
+                          <strong>(*):</strong> Indicates that this parameter is
+                          assigned more than one value in the corresponding reference.
+                      </p>
+                    {% endif %}
                 </div>
             {% endif %}
 
@@ -229,6 +243,7 @@ layout: default
                 <button id="tab_members" class="tab active" onclick="switchTab(event, 'members')">Members</button>
                 <button class="tab" onclick="switchTab(event, 'cl_region')">Cluster region</button>
                 <button class="tab" onclick="switchTab(event, 'gcpos')">Galactocentric position</button>
+                <a href="/faq/#about-the-visualization-section" target="_blank" class="tabs-faq" title="About the Visualization section">ℹ️</a>
             </div>
             
             <div id="members" class="tab-content">
@@ -299,10 +314,10 @@ layout: default
               <a href="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp" target="_blank">
               <img src="https://raw.githubusercontent.com/ucc23/plots_{{ page.fname | slice: 0, 1 }}/main/gcpos/{{page.fname}}.webp"
                 alt="Galactocentric position diagram" loading="lazy"/></a>
-               <p class="table-note">
+<!--                <p class="table-note">
                 💡 <strong>Note:</strong> How are the galactocentric plots generated?
                 <a href="{{ site.baseurl }}/faq#how-are-the-galactocentric-plots-generated" title="See FAQ" target="_blank">See FAQ</a>.
-               </p>
+               </p> -->
             </div>
 
         </div>

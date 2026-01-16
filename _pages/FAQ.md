@@ -8,27 +8,16 @@ style: style
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions or any other questions not
 listed here.
 
-
-- [What is the UCC?](#what-is-the-ucc)
-- [What objects are included in the UCC?](#what-objects-are-included-in-the-ucc)
-- [How are member stars selected?](#how-are-member-stars-selected)
-- [How is the duplicate probability estimated?](#how-is-the-duplicate-probability-estimated)
-- [What is the C3 parameter?](#what-is-the-c3-parameter)
-- [What is the UTI parameter?](#what-is-the-uti-parameter)
-- [How are objects flagged as likely not real?](#how-are-objects-flagged-as-likely-not-real)
-- [How are parameters transformed?](#how-are-parameters-transformed)
-- [How are the galactocentric plots generated?](#how-are-the-galactocentric-plots-generated)
-- [How can I cite the UCC?](#how-can-i-cite-the-ucc)
-
+* TOC
+{:toc}
 
 
 ## What is the UCC?
 
-The acronym **UCC** stands for `Unified Cluster Catalogue`. It is the largest catalogue
+The acronym **UCC** stands for _Unified Cluster Catalogue_. It is the largest catalogue
 of [open clusters](https://en.wikipedia.org/wiki/Open_cluster) in existence. It consists of comprehensive and homogeneous data
 for an ever expanding number of entries, taken from the latest published articles
 combined with data from the [Gaia survey](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview).
-
 
 
 ## What objects are included in the UCC?
@@ -49,27 +38,6 @@ in the [database]({% link _pages/ARTICLES.md %}), you can
 Membership is obtained through the `fastMP` method described in Sect. 3 of
 [Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract). The `fastMP` membership estimation method has been
 incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details [here](https://asteca.readthedocs.io/en/latest/contents/membership_mod.html)).
-
-
-
-## How is the duplicate probability estimated?
-
-To estimate the probability of an object being a duplicate of a previous entry,
-we simply find the overlap between members. If two objects share a significant number of
-members, it is likely that they are the same object catalogued twice under different
-names.
-
-The probability of being a duplicate is calculated as:
-
-    P_dup = max(shared_members_percent) / 100
-
-where `shared_members_percent` is the percentage of common members between objects
-(since a given object can be compared to many others, we take the maximum value found).
-The object presented earlier in the literature is considered the original, while the
-later one is considered the duplicate.
-
-The `P_dup` value is equivalent to `1 - C_dup`, where `C_dup` is the factor used
-in the UTI calculation (see [What is the UTI parameter?](#what-is-the-uti-parameter)).
 
 
 
@@ -116,6 +84,28 @@ normalized estimates of:
 
 
 
+## How is the duplicate probability estimated?
+
+To estimate the probability of an object being a duplicate of a previous entry,
+we simply find the overlap between members. If two objects share a significant number of
+members, it is likely that they are the same object catalogued twice under different
+names.
+
+The probability of being a duplicate is calculated as:
+
+    P_dup = max(shared_members_percent) / 100
+
+where `shared_members_percent` is the percentage of common members between objects
+(since a given object can be compared to many others, we take the maximum value found).
+The object presented earlier in the literature is considered the original, while the
+later one is considered the duplicate.
+
+The `P_dup` value is equivalent to `1 - C_dup`, where `C_dup` is the factor used
+in the UTI calculation (see [What is the UTI parameter?](#what-is-the-uti-parameter)).
+
+
+
+
 ## How are objects flagged as likely not real?
 
 Objects are flagged as likely not real (or non-clusters) when they meet the following
@@ -127,27 +117,75 @@ conditions:
 - UTI < 0.25 (low UTI parameter)
 ```
 
-The [Search]({% link _pages/SEARCH.md %}) page allows you to hide these objects by
+These dubious candidates are identified in tables by their names appearing in red. The
+[Search]({% link _pages/SEARCH.md %}) page allows you to hide these objects by
 selecting the _Hide likely non-clusters_ option.
 
 
-## How are parameters transformed?
 
-The UCC provides a table of fundamental parameters for the OCs listed (when available).
-These parameters are sometimes transformed to maintain homogeneity. The transformations
-are as follows:
 
-**Metallicity**: We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734) `z_sun=0.0152` coefficient as:
+
+
+## About the Overview section
+
+The **Overview** section consists of two tabs: **Summary** and **Comments**. These are
+automatically generated for each object, based on the available data in the UCC.
+
+### Summary
+
+Provides a brief natural language overview of the object's
+characteristics and fundamental parameters. Warnings and useful badges are also
+included here.
+
+### Comments
+
+Highlights any notable features found in the literature.
+
+
+
+
+
+## About the Data section
+
+This section features two tabs displaying astrometric data and fundamental parameters
+for the included objects.
+
+
+### Astrometry
+
+The **UCC** values are estimated from its identified members, the remaining
+values are extracted from the [included literature](/articles).
+
+
+### Parameters
+
+The **UCC** provides for each entry a table of fundamental parameters, when available.
+These parameters are extracted from the [included literature](/articles) and their median
+is estimated to provide a single value for each parameter. The columns
+<b>DAv, Bfr, BSS</b> correspond to differential extinction, binary fraction, and
+blue stragglers, respectively. <b>BSS</b> values can be listed as fractions or integers.
+
+In cases where multiple articles provide values for the same parameter, these sometimes
+need to be transformed to maintain homogeneity. The transformations are as follows:
+
+
+#### Metallicity
+
+Metallicity is shown as `[Fe/H]`. We use the [Bressan et al. (2012)](https://academic.oup.com/mnras/article/427/1/127/1027734)
+`z_sun=0.0152` coefficient to transform from `z` values as:
 
     [Fe/H]=log10(z/z_sun)
 
-**Age**: Ages are always given in [Myr]. When ages are provided in [log(age/yr)], we apply:
+#### Age
+
+Ages are given in [Myr]. When ages are provided in [log(age/yr)], we apply:
 
     Age [Myr] = 10^(log(age/yr)/1e6)
 
 
-**Absorption / Extinction**: The UCC lists `Av` absorption. To transform `E(B-V)` we
-use the standard value:
+#### Absorption / Extinction
+
+The UCC lists `Av` absorption. To transform `E(B-V)` we use the standard value:
 
     Av = 3.1 * E(B-V)
 
@@ -166,7 +204,26 @@ All approximate coefficients can be estimated for example using the
 
 
 
-## How are the galactocentric plots generated?
+## About the Visualization section
+
+There are three tabs with different plots in this section.
+
+
+#### Members
+
+The plots show the selected members in the UCC and also in the articles
+[Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H)
+and [Cantat-Gaudin et el. (2020)](https://scixplorer.org/abs/2020A%26A...633A..99C/abstract),
+when available.
+
+
+#### Cluster region
+
+The cluster region is shown in this tab in an interactive plot that allows exploring
+the spatial distribution of other clusters around the cluster.
+
+
+#### Galactocentric position
 
 The Sun and the Galactic center are represented by the yellow star and the black X,
 respectively. The spiral arms are taken from [Momany et al (2006)](https://scixplorer.org/abs/2006A&A...451..515M/abstract). The

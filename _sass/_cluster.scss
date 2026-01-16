@@ -237,12 +237,6 @@ back panel only in Firefox*/
 
 /////////////////////////////////////////////////////////////////////////////////////
 // ACTION BUTTONS
-// .action-buttons {
-//     display: flex;
-//     gap: 0.5rem;
-//     margin-top: 1.5rem;
-//     flex-wrap: wrap;
-// }
 .action-buttons {
     display: flex;
     gap: 0.5rem;
@@ -251,29 +245,22 @@ back panel only in Firefox*/
     flex-wrap: wrap;
     justify-content: center;
 }
-// .flex-break {
-//     flex-basis: 100%;
-//     height: 0;
-// }
 
 .btn {
     padding: 0.25rem 0.5rem;
     border-radius: 8px;
-    border: none;
+    border: 2px solid #2a5298;
     font-weight: 600;
+    font-size: 0.95rem;
     cursor: pointer;
     transition: all 0.3s ease;
     text-decoration: none;
     display: inline-block;
-}
-
-.btn-secondary {
     background: white;
     color: #2a5298;
-    border: 2px solid #2a5298;
 }
 
-.btn-secondary:hover {
+.btn:hover {
     background: #2a5298;
     color: white;
 }
@@ -388,6 +375,22 @@ back panel only in Firefox*/
     display: inline-block;
 }
 
+.data-search {
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    white-space: nowrap;
+    margin-bottom: 1rem;
+}
+
+.data-search .btn {
+    padding-top: 0.01rem;
+    padding-bottom: 0.01rem;
+    font-size: 0.9rem;
+    border: 1px solid #2a5298;
+}
 
 .tab-container {
     margin-top: 0.25rem;
@@ -395,9 +398,17 @@ back panel only in Firefox*/
 
 .tabs {
     display: flex;
+    align-items: center;
     gap: 0.5rem;
     border-bottom: 2px solid #e0e0e0;
     margin-bottom: 1.5rem;
+}
+
+.tabs-faq {
+    margin-left: auto;
+    text-decoration: none;
+    font-size: 1.2em;
+    line-height: 1;
 }
 
 .tab {
