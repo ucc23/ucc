@@ -13,17 +13,17 @@ glon: 181.45644
 glat: -2.54035
 r50: 5.4
 plx: 1.3517
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fefee8"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -40,7 +40,7 @@ badge_age: "Very young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -57,6 +57,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 84.824 | 26.345 | 1.331 | -1.64 | -4.74 | 7.96 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 84.826 | 26.337 | 1.352 | -1.419 | -4.736 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 84.848 | 26.368 | 1.257 | -1.523 | -4.605 | -- |
+    |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 84.848 | 26.368 | 1.257 | -1.523 | -4.605 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 84.848 | 26.368 | -- | -- | -- | 2.0 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 84.848 | 26.368 | 1.257 | -1.523 | -4.605 | -- 
 cds_radec: 84.84956,+26.3561
@@ -69,6 +70,7 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.82 | 1.45 | -- | 6 | -0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.72 | 0.75 | 1.82 | 12 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.40 | -- | 6 | -- | -- | -- | -- |
+    | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.78 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.88 | 1.33 | -- | 6 | 0.048 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.78 | -- | -- | -- | -- | -- | -- | -- |
 note_asterisk: true

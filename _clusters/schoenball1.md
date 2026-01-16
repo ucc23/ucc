@@ -40,7 +40,7 @@ badge_age: "Intermediate age"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -69,7 +69,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.38 |
+    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.46 |
     |[NGC 581](/_clusters/ngc581/)| 26.4 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 4.7 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
     |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |

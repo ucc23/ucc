@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 197
 title_flag: true
-more_names: vdBergh-Hagen 197; MWSC 2458
+more_names: vdBergh-Hagen 197; MWSC 2458; BH 197
 fname: vdbh197
 members_file: "336_340"
 fov: 0.14
@@ -13,17 +13,17 @@ glon: 339.43475
 glat: -0.31786
 r50: 4.2
 plx: 0.3394
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee4c9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.36
 UTI_C_C3: 0.38
-UTI_C_lit: 0.25
+UTI_C_lit: 0.31
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -52,6 +52,7 @@ posit_table: |
     | **UCC** | -- |251.576 | -45.877 | 0.339 | -3.436 | -4.626 | -48.56 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 251.614 | -45.849 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 251.614 | -45.849 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 251.625 | -45.86 | -- | 2.09 | -2.0 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 251.625 | -45.85 | -- | -5.53 | -1.88 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 251.625 | -45.86 | -- | 1.63 | -2.3 | -- 
 cds_radec: 251.5757,-45.87683

@@ -40,7 +40,7 @@ badge_age: ""
 badge_bss: ""
 badge_nofpars: true
 comments: |
-    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Small group in Bubble [CWP2007] CN 145.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Small group in Bubble [CWP2007] CN 145.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>

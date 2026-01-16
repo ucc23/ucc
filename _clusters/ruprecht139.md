@@ -13,17 +13,17 @@ glon: 6.40093
 glat: -0.20869
 r50: 5.5
 plx: 0.3176
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e2f2cc"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.69
+UTI_C_lit: 0.7
 UTI_C_dup: 0.98
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -40,7 +40,7 @@ badge_age: "Old"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -57,6 +57,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 270.239 | -23.536 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 270.242 | -23.535 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 270.239 | -23.536 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 270.263 | -23.533 | -- | -1.77 | -1.41 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 270.247 | -23.535 | -- | 0.46 | -3.87 | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 270.248 | -23.526 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 270.25 | -23.53 | -- | -1.1 | -2.19 | -- |
@@ -81,6 +82,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bochum 14](/_clusters/bochum14/)| 1.5 | 270.5 | -23.7 | 0.31 | 0.25 | -1.12 | 110.24 |0.73 |
+    |[Bochum 14](/_clusters/bochum14/)| 1.5 | 270.5 | -23.7 | 0.31 | 0.25 | -1.12 | 110.24 |0.8 |
     |[CWNU 1465](/_clusters/cwnu1465/)| 0.5 | 270.37 | -23.54 | 0.34 | -0.44 | -1.64 | 22.07 |0.57 |
 ---

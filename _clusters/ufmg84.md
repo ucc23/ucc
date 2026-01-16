@@ -61,6 +61,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 113](/_clusters/vdb113/)| 81.0 | 272.17 | -21.45 | 0.66 | -0.73 | -1.4 | -35.75 |0.85 |
+    |[VDB 113](/_clusters/vdb113/)| 81.0 | 272.17 | -21.45 | 0.66 | -0.73 | -1.4 | -35.75 |0.87 |
     |[UBC 1005](/_clusters/ubc1005/)| 41.7 | 272.18 | -21.44 | 0.67 | -0.71 | -1.38 | -20.92 |0.0 |
 ---

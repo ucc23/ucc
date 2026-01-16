@@ -40,7 +40,7 @@ badge_age: ""
 badge_bss: ""
 badge_nofpars: true
 comments: |
-    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Small group in HII region: [KC97c] G011.9+00.0.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Small group in HII region: [KC97c] G011.9+00.0.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>

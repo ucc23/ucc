@@ -61,5 +61,5 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.26 |
+    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.33 |
 ---

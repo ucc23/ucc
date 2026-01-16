@@ -40,7 +40,7 @@ badge_age: ""
 badge_bss: ""
 badge_nofpars: true
 comments: |
-    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Small group in HII region: [SPE2008b] IRAS 18171-1548 VLA 1.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Small group in HII region: [SPE2008b] IRAS 18171-1548 VLA 1.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

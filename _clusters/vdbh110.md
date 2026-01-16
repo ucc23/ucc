@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 110
 title_flag: true
-more_names: vdBergh-Hagen 110; MWSC 1894; BH 110
+more_names: BH 110; vdBergh-Hagen 110; MWSC 1894
 fname: vdbh110
 members_file: "288_292"
 fov: 0.037
@@ -13,17 +13,17 @@ glon: 290.81859
 glat: -1.11677
 r50: 1.1
 plx: 0.1005
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#b2dcc2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.89
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -40,7 +40,7 @@ badge_age: "Intermediate age"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
@@ -55,6 +55,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 166.755 | -61.496 | 0.106 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 166.771 | -61.51 | 0.107 | -5.918 | 2.207 | 30.086 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 166.767 | -61.513 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 166.825 | -61.45 | -- | -0.94 | -3.4 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 166.825 | -61.45 | -- | -9.28 | 2.1 | -- 
 cds_radec: 166.76317,-61.50921
 carousel: UCC_HUNT23

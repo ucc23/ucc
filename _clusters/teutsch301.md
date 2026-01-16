@@ -59,5 +59,5 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 17](/_clusters/gulliver17/)| 67.4 | 302.66 | 35.87 | 0.56 | -1.08 | -3.1 | 12.64 |0.73 |
+    |[Gulliver 17](/_clusters/gulliver17/)| 67.4 | 302.66 | 35.87 | 0.56 | -1.08 | -3.1 | 12.64 |0.77 |
 ---

@@ -40,7 +40,7 @@ badge_age: ""
 badge_bss: ""
 badge_nofpars: true
 comments: |
-    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Group in HII region: [L89b] 10.190-00.426.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Group in HII region: [L89b] 10.190-00.426.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>

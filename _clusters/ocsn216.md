@@ -61,6 +61,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.73 |
+    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.76 |
     |[CWWDL 14696](/_clusters/cwwdl14696/)| 28.6 | 264.35 | -7.95 | 5.11 | -11.13 | -20.88 | -17.8 |0.0 |
 ---

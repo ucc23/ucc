@@ -62,5 +62,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 38](/_clusters/ocsn38/)| 78.4 | 332.89 | 73.15 | 2.93 | 5.36 | 1.58 | -17.5 |0.01 |
-    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.63 |
+    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.65 |
 ---

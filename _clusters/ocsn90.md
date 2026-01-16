@@ -31,12 +31,12 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>OCSN 90</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, near the mid-plane, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 90</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close<sup><b>*</b></sup> distance, near the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~0.45 kpc) differs significantly from the median photometric distance (~0.65 kpc).</p>
 badge_dist: "Close"
 badge_ext: "Low extinction"
 badge_mass: ""
-badge_feh: ""
-badge_age: "Intermediate age"
+badge_feh: "Near-solar metallicity"
+badge_age: "Young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
@@ -50,17 +50,19 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | -- |207.807 | -63.571 | 2.236 | -8.39 | -5.429 | -11.95 |
+    |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 207.728 | -63.486 | 2.234 | -8.392 | -5.442 | -- |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 207.83 | -63.52 | 2.23 | -8.51 | -5.31 | -12.38 
 cds_radec: 207.80658,-63.57142
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.74 | 0.78 | -- | 33 | 0.250 | 186 | 0.29 | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.55 | 0.50 | -- | 100 | -- | -- | -- | -- |
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Platais 12](/_clusters/platais12/)| 96.9 | 208.01 | -63.54 | 2.22 | -8.35 | -5.44 | -11.95 |0.83 |
+    |[Platais 12](/_clusters/platais12/)| 96.9 | 208.01 | -63.54 | 2.22 | -8.35 | -5.44 | -11.95 |0.86 |
     |[CWWDL 14613](/_clusters/cwwdl14613/)| 46.4 | 207.78 | -63.51 | 2.24 | -8.38 | -5.46 | -11.95 |0.0 |
 ---

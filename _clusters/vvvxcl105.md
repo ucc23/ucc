@@ -40,7 +40,7 @@ badge_age: ""
 badge_bss: ""
 badge_nofpars: true
 comments: |
-    <p><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a>: Embedded source in HII region: MSX6C G016.9261+00.2854.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Embedded source in HII region: MSX6C G016.9261+00.2854.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>

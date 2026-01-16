@@ -67,5 +67,5 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.43 |
+    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.45 |
 ---

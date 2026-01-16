@@ -40,7 +40,7 @@ badge_age: "Old"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -69,7 +69,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.28 |
+    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.3 |
     |[CWWDL 14281](/_clusters/cwwdl14281/)| 61.1 | 310.2 | 20.17 | 1.07 | -6.28 | -9.3 | 23.99 |0.0 |
     |[UBC 131](/_clusters/ubc131/)| 34.4 | 310.18 | 20.07 | 1.06 | -6.26 | -9.29 | 24.32 |0.0 |
 ---

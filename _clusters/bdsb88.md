@@ -65,6 +65,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.54 |
+    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.55 |
     |[CWNU 3207](/_clusters/cwnu3207/)| 59.5 | 103.5 | -4.53 | 0.29 | -0.71 | 0.62 | -- |0.02 |
 ---

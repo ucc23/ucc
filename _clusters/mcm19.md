@@ -59,5 +59,5 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 56](/_clusters/alessi56/)| 80.0 | 286.72 | 9.6 | 0.28 | -2.1 | -5.44 | -- |0.48 |
+    |[Alessi 56](/_clusters/alessi56/)| 80.0 | 286.72 | 9.6 | 0.28 | -2.1 | -5.44 | -- |0.5 |
 ---

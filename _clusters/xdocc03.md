@@ -63,6 +63,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FOF 2216](/_clusters/fof2216/)| 74.4 | 106.58 | -12.81 | 0.87 | -3.41 | 0.78 | 29.19 |0.29 |
-    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.79 |
+    |[BDSB96](/_clusters/bdsb96/)| 2.6 | 106.34 | -12.34 | 0.86 | -3.68 | 1.09 | 31.2 |0.83 |
     |[CMa08](/_clusters/cma08/)| 2.6 | 107.43 | -12.28 | 0.86 | -3.15 | 0.88 | 26.44 |0.5 |
 ---

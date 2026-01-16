@@ -40,7 +40,7 @@ badge_age: "Old"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a>: Appears as a tight group of bright stars, but Gaia DR1 and DR2 parallaxes and proper motions show it is an asterism. More details in Appendix A of the article.</p>
+    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Appears as a tight group of bright stars, but Gaia DR1 and DR2 parallaxes and proper motions show it is an asterism. More details in Appendix A of the article.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>

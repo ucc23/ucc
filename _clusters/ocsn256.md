@@ -61,7 +61,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG5](/_clusters/rsg5/)| 98.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.86 |
+    |[RSG5](/_clusters/rsg5/)| 98.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.89 |
     |[LISC-III 3723](/_clusters/lisciii3723/)| 77.3 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.27 |
     |[OCSN 23](/_clusters/ocsn23/)| 10.9 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.52 |
 ---

@@ -40,7 +40,7 @@ badge_age: "Very young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a>: Asterism (Kronberger, M. 2007, private communication)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Kronberger, M. 2007, private communication)</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
@@ -52,6 +52,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | -- |80.87 | 33.583 | 0.334 | -0.016 | -3.698 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 80.837 | 33.508 | -- | -0.237 | -1.375 | 2.813 |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 80.837 | 33.508 | -- | -0.15 | -3.77 | -12.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 80.838 | 33.508 | -- | -0.15 | -3.77 | -12.0 
 cds_radec: 80.86973,+33.58332
 carousel: UCC

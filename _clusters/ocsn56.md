@@ -40,8 +40,8 @@ badge_age: "Very young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024A%26A...686A..42H/abstract' target='_blank'>Hunt & Reffert (2024)</a>: Classified as a moving group.</p>
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H/abstract' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -71,5 +71,5 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2371](/_clusters/fof2371/)| 68.9 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.13 |
     |[OCSN 57](/_clusters/ocsn57/)| 58.9 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.1 |
-    |[ASCC 20](/_clusters/ascc20/)| 46.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.84 |
+    |[ASCC 20](/_clusters/ascc20/)| 46.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.86 |
 ---

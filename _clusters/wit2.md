@@ -40,7 +40,7 @@ badge_age: "Intermediate age"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -75,5 +75,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2501](/_clusters/cwnu2501/)| 61.3 | 105.36 | -3.14 | 0.45 | -1.22 | 0.6 | 56.53 |0.03 |
-    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.21 |
+    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.31 |
 ---

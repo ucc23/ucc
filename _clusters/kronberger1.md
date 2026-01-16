@@ -13,17 +13,17 @@ glon: 173.09033
 glat: 0.04998
 r50: 5.0
 plx: 0.4618
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#fef7db"
 UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.43
 UTI_C_dens: 0.87
 UTI_C_C3: 0.38
-UTI_C_lit: 0.79
+UTI_C_lit: 0.82
 UTI_C_dup: 0.98
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -40,7 +40,7 @@ badge_age: "Very young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a>: Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -56,9 +56,11 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 82.078 | 34.786 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 82.087 | 34.775 | 0.432 | -0.054 | -2.268 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 82.089 | 34.777 | 0.443 | -0.05 | -2.199 | -- |
+    |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 82.089 | 34.777 | 0.443 | -0.05 | -2.199 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 82.089 | 34.777 | 0.443 | -0.05 | -2.199 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 82.08 | 34.775 | -- | -1.21 | -4.13 | 13.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 82.078 | 34.786 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 82.087 | 34.775 | -- | -1.21 | -4.13 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 82.087 | 34.785 | -- | -0.3 | -3.67 | 13.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 82.087 | 34.785 | -- | -0.3 | -3.88 | 13.0 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 82.092 | 34.773 | -- | -- | -- | -- |
@@ -74,6 +76,7 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 8 | -- | 13 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.92 | 1.70 | -- | 11 | -0.177 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.33 | 2.05 | -- | 6 | -- | -- | -- | -- |
+    | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.12 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.12 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.63 | 1.61 | -- | 30 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.92 | 1.78 | -- | 8 | -- | -- | -- | -- |
@@ -86,6 +89,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.45 |
+    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.47 |
     |[Stock 8](/_clusters/stock8/)| 2.3 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.91 |
 ---

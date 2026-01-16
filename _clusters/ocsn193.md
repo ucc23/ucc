@@ -61,6 +61,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Feigelson 1](/_clusters/feigelson1/)| 100.0 | 180.43 | -76.37 | 9.74 | -40.27 | -6.17 | 13.74 |0.65 |
+    |[Feigelson 1](/_clusters/feigelson1/)| 100.0 | 180.43 | -76.37 | 9.74 | -40.27 | -6.17 | 13.74 |0.7 |
     |[HSC 2515](/_clusters/hsc2515/)| 74.2 | 180.23 | -78.74 | 9.81 | -41.36 | -5.78 | 15.01 |0.0 |
 ---

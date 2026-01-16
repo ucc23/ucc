@@ -40,7 +40,7 @@ badge_age: "Young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a>: Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -66,6 +66,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2287](/_clusters/fof2287/)| 58.3 | 120.63 | -39.64 | 0.95 | -2.54 | 5.7 | 14.17 |0.46 |
+    |[FoF 2287](/_clusters/fof2287/)| 58.3 | 120.63 | -39.64 | 0.95 | -2.54 | 5.7 | 14.17 |0.56 |
     |[OC 0447](/_clusters/oc0447/)| 46.9 | 120.66 | -39.64 | 0.95 | -2.54 | 5.71 | 14.18 |0.0 |
 ---

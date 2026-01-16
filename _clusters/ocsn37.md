@@ -61,6 +61,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 152](/_clusters/vdb152/)| 100.0 | 333.42 | 70.14 | 2.67 | 5.18 | 0.9 | -32.92 |0.68 |
+    |[VDB 152](/_clusters/vdb152/)| 100.0 | 333.42 | 70.14 | 2.67 | 5.18 | 0.9 | -32.92 |0.7 |
     |[CWNU 1241](/_clusters/cwnu1241/)| 12.2 | 336.85 | 70.1 | 2.63 | 5.9 | 0.32 | -16.13 |0.15 |
 ---

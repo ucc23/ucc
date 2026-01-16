@@ -64,5 +64,5 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 32.6 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.36 |
+    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.4 |
 ---

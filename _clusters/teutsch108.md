@@ -62,6 +62,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.12 |
-    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.26 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.13 |
+    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.36 |
 ---

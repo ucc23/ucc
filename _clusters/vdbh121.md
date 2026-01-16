@@ -40,7 +40,7 @@ badge_age: "Very young"
 badge_bss: ""
 badge_nofpars: false
 comments: |
-    <p><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a>: Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -56,6 +56,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 174.518 | -63.335 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 174.663 | -63.377 | 0.389 | -6.011 | 0.637 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 174.661 | -63.387 | 0.387 | -6.0 | 0.63 | -- |
+    |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 174.661 | -63.387 | 0.387 | -6.0 | 0.63 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 174.661 | -63.387 | 0.387 | -6.0 | 0.63 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 174.518 | -63.335 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 174.525 | -63.338 | -- | -5.86 | 0.52 | -3.8 |
@@ -74,6 +75,7 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 4 | -- | 1337 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.25 | 1.28 | -- | 7 | -0.089 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.41 | 1.11 | -- | 3 | -- | -- | -- | -- |
+    | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.40 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.40 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.94 | 1.55 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.94 | 1.55 | -- | 4 | -- | -- | -- | -- |
@@ -86,7 +88,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[IC 2948](/_clusters/ic2948/)| 38.6 | 174.88 | -63.46 | 0.4 | -5.95 | 0.65 | -11.68 |0.02 |
-    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.9 |
+    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.95 |
     |[VVV 005](/_clusters/vvv005/)| 7.5 | 174.74 | -63.47 | 0.4 | -5.95 | 0.51 | -45.44 |0.0 |
     |[CWWDL 864](/_clusters/cwwdl864/)| 2.4 | 174.28 | -63.27 | 0.39 | -6.15 | 0.9 | 4.55 |0.23 |
 ---

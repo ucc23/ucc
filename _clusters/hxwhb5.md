@@ -61,7 +61,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 68.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.2 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 68.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.21 |
     |[Teutsch 89](/_clusters/teutsch89/)| 60.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.46 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 40.0 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
 ---
