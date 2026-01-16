@@ -10,7 +10,7 @@ style: style
 
 | Name | RA | DEC | Plx | N50 | r50 | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Gaia 8](/_clusters/gaia8/) | 282.56 | 33.36 | 3.45 | 133 | 30.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.68  |
+| <a href="{{ site.baseurl }}/_clusters/gaia8/" target="_blank" style="color: $blue;">Gaia 8</a> | 282.56 | 33.36 | 3.45 | 133 | 30.5 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.68  |
 
 
 
