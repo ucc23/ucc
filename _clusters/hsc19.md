@@ -57,7 +57,7 @@ posit_table: |
 cds_radec: 271.10488,-29.01896
 carousel: UCC_HUNT23
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.43 | 3.12 | -- | 1175 | -0.200 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 11.00 | 4.41 | 1.95 | 208 | -- | -- | -- | -- |

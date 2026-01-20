@@ -57,7 +57,7 @@ posit_table: |
 cds_radec: 105.19424,-3.0512
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 4.85 | 1.06 | -- | 550 | -- | -- | -- | -- |
 note_asterisk: false

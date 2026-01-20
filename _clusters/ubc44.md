@@ -57,7 +57,7 @@ posit_table: |
 cds_radec: 31.1183,+54.36815
 carousel: UCC_CANTAT20
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.63 | 0.63 | -- | 872 | 0.171 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.74 | 0.51 | -- | 813 | -- | -- | -- | -- |

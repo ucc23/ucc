@@ -54,7 +54,7 @@ posit_table: |
 cds_radec: 85.48213,+30.27809
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.82 | 2.28 | -- | 25 | 0.169 | -- | -- | -- |
 note_asterisk: false

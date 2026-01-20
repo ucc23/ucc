@@ -86,7 +86,7 @@ posit_table: |
 cds_radec: 115.44553,-14.84352
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.70 | 0.32 | -- | 467 | 0.250 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 2.03 | 0.61 | -- | 275 | 0.250 | 3621 | 0.80 | -- |

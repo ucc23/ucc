@@ -54,7 +54,7 @@ posit_table: |
 cds_radec: 105.26389,-11.28903
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.23* | 1.27* | -- | 17* | -0.140* | -- | -- | -- |
 note_asterisk: true

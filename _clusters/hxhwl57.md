@@ -54,7 +54,7 @@ posit_table: |
 cds_radec: 276.99267,-15.35255
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.05 | 0.84 | -- | 302 | 0.611 | -- | -- | -- |
 note_asterisk: false

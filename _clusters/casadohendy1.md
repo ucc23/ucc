@@ -54,7 +54,7 @@ posit_table: |
 cds_radec: 302.84852,+35.84972
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 1.99 | 1.55 | -- | 6 | 0.112 | -- | -- | -- |
 note_asterisk: false

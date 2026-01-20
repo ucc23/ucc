@@ -54,7 +54,7 @@ posit_table: |
 cds_radec: 167.14154,-58.73285
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.66 | 0.62 | -- | 692 | -- | -- | -- | -- |
 note_asterisk: false

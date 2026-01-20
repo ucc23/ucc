@@ -55,7 +55,7 @@ posit_table: |
 cds_radec: 259.4935,-42.23098
 carousel: UCC
 fpars_table: |
-    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | Bfr | BSS |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | [Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 2.74 | -- | -- | -- | -- | -- | -- | -- |
 note_asterisk: false
