@@ -128,7 +128,7 @@ export function drawMap(points, table) {
     const title = createNode("text", { x: width / 2, y: height - 10, "text-anchor": "middle", "font-size": "16px", fill: "black" }, svg);
     title.textContent = `N=${points.length}`;
 
-    const dists = points.map(d => d.dist_pc);
+    const dists = points.map(d => d.dist_plx_pc);
     const membs = points.map(d => d.membs);
     const minDist = Math.min(...dists);
     const maxDist = Math.min(4000, Math.max(...dists));
@@ -142,7 +142,7 @@ export function drawMap(points, table) {
         if (!coords) return;
 
         const r = scaleLinear(d.membs, minMemb, maxMemb, 1, 25);
-        const color = scaleLog(d.dist_pc, minDist, maxDist);
+        const color = scaleLog(d.dist_plx_pc, minDist, maxDist);
 
         const circle = createNode("circle", {
             cx: coords[0], cy: coords[1], r: r,
@@ -152,7 +152,7 @@ export function drawMap(points, table) {
         circleEls[i] = { el: circle, baseR: r };
 
         circle.addEventListener("mouseover", () => {
-            tooltip.innerHTML = `<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist_pc} [pc]<br>N_50: ${d.membs}`;
+            tooltip.innerHTML = `<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist_plx_pc} [pc]<br>N_50: ${d.membs}`;
             tooltip.style.visibility = "visible";
         });
         circle.addEventListener("mousemove", (e) => {

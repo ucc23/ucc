@@ -20,13 +20,13 @@ tableContainer.style.justifyContent = "center";
 // Append the new element to the parent container
 parentContainer.appendChild(tableContainer);
 
-// Pre-build C3 letter fragments
-const letterHTML = {
-    A: '<span class="c3-A">A</span>',
-    B: '<span class="c3-B">B</span>',
-    C: '<span class="c3-C">C</span>',
-    D: '<span class="c3-D">D</span>'
-};
+// // Pre-build C3 letter fragments
+// const letterHTML = {
+//     A: '<span class="c3-A">A</span>',
+//     B: '<span class="c3-B">B</span>',
+//     C: '<span class="c3-C">C</span>',
+//     D: '<span class="c3-D">D</span>'
+// };
 
 // Load compressed data
 const data = await loadCompressedCsv();
@@ -36,33 +36,76 @@ function getInputValues() {
         coordsys : window.coordsys,
         search: document.getElementById("search").value,
         Nmax: document.getElementById("Nmax").value,
+        filterOCs: document.getElementById("filterOCs").checked,
         distmin: document.getElementById("dist_min").value,
         distmax: document.getElementById("dist_max").value,
+        hide_dist_nans: document.getElementById("hide_dist_nans").checked,
+        avmin: document.getElementById("av_min").value,
+        avmax: document.getElementById("av_max").value,
+        hide_av_nans: document.getElementById("hide_av_nans").checked,
+        davmin: document.getElementById("dav_min").value,
+        davmax: document.getElementById("dav_max").value,
+        hide_dav_nans: document.getElementById("hide_dav_nans").checked,
+        agemin: document.getElementById("age_min").value,
+        agemax: document.getElementById("age_max").value,
+        hide_age_nans: document.getElementById("hide_age_nans").checked,
+        fehmin: document.getElementById("feh_min").value,
+        fehmax: document.getElementById("feh_max").value,
+        hide_feh_nans: document.getElementById("hide_feh_nans").checked,
+        massmin: document.getElementById("mass_min").value,
+        massmax: document.getElementById("mass_max").value,
+        hide_mass_nans: document.getElementById("hide_mass_nans").checked,
+        bfmin: document.getElementById("bf_min").value,
+        bfmax: document.getElementById("bf_max").value,
+        hide_bf_nans: document.getElementById("hide_bf_nans").checked,
+        bssmin: document.getElementById("bss_min").value,
+        bssmax: document.getElementById("bss_max").value,
+        hide_bss_nans: document.getElementById("hide_bss_nans").checked,
         n50min: document.getElementById("n50_min").value,
         n50max: document.getElementById("n50_max").value,
+        Pdupmin: document.getElementById("Pdup_min").value,
+        Pdupmax: document.getElementById("Pdup_max").value,
         utimin: document.getElementById("uti_min").value,
         utimax: document.getElementById("uti_max").value,
-        Pdupmax: document.getElementById("Pdupmax").value,
-        c3Filter: document.getElementById("c3Filter").value,
-        filterOCs: document.getElementById("filterOCs").checked,
     };
 }
-
 
 function getPoints() {
     let { 
         coordsys,
         search: query,  // Rename
         Nmax,
+        filterOCs,
         distmin,
         distmax,
+        hide_dist_nans,
+        avmin,
+        avmax,
+        hide_av_nans,
+        davmin,
+        davmax,
+        hide_dav_nans,
+        agemin,
+        agemax,
+        hide_age_nans,
+        fehmin,
+        fehmax,
+        hide_feh_nans,  
+        massmin,
+        massmax,
+        hide_mass_nans,
+        bfmin,
+        bfmax,
+        hide_bf_nans,
+        bssmin,
+        bssmax,
+        hide_bss_nans,
         n50min,
         n50max,
-        utimin,
-        utimax,
+        Pdupmin,
         Pdupmax,
-        c3Filter,
-        filterOCs,
+        utimin,
+        utimax,        
     } = getInputValues();
 
     // If 'query' is empty return empty array
@@ -71,39 +114,34 @@ function getPoints() {
         return [];
     }
 
-    // Ensure valid defaults
-    Nmax = parseFloat(Nmax);
-    if (isNaN(Nmax)) {
-        Nmax = 100;
-    }
-    distmin = parseFloat(distmin);
-    if (isNaN(distmin)) {
-        distmin = 0;
-    }
-    distmax = parseFloat(distmax);
-    if (isNaN(distmax)) {
-        distmax = 50001;
-    }
-    n50min = parseFloat(n50min);
-    if (isNaN(n50min)) {
-        n50min = 0;
-    }
-    n50max = parseFloat(n50max);
-    if (isNaN(n50max)) {
-        n50max = 100000;
-    }
-    Pdupmax = parseFloat(Pdupmax);
-    if (isNaN(Pdupmax)) {
-        Pdupmax = 1.01;
-    }
-    utimin = parseFloat(utimin);
-    if (isNaN(utimin)) {
-        utimin = 0;
-    }
-    utimax = parseFloat(utimax);
-    if (isNaN(utimax)) {
-        utimax = 1.01;
-    }
+    distmin = parseFloat(distmin) || 0;
+    distmax = parseFloat(distmax) || 1e6;
+    avmin = parseFloat(avmin) || 0;
+    avmax = parseFloat(avmax) || 100;
+    davmin = parseFloat(davmin) || 0;
+    davmax = parseFloat(davmax) || 100;
+    agemin = parseFloat(agemin) || 0;
+    agemax = parseFloat(agemax) || 100000;
+    fehmin = parseFloat(fehmin) || -10;
+    fehmax = parseFloat(fehmax) || 10;
+    massmin = parseFloat(massmin) || 0;
+    massmax = parseFloat(massmax) || 1e7;
+    bfmin = parseFloat(bfmin) || 0;
+    bfmax = parseFloat(bfmax) || 1.01;
+    bssmin = parseFloat(bssmin) || 0;
+    bssmax = parseFloat(bssmax) || 1e6;
+
+    n50min = parseFloat(n50min) || 0;
+    n50max = parseFloat(n50max) || 100000;
+    Pdupmin = parseFloat(Pdupmin) || 0;
+    Pdupmax = parseFloat(Pdupmax) || 1.01;
+    utimin = parseFloat(utimin) || 0;
+    utimax = parseFloat(utimax) || 1.01;    
+
+    Nmax = parseFloat(Nmax) || 100;
+
+    const inRange = (hide_nans, x, min, max) =>
+        Number.isNaN(x) ? !hide_nans : (x >= min && x <= max);
 
     let results = data
         .map(d => {
@@ -117,26 +155,33 @@ function getPoints() {
                 fname: d.fnames.split(';')[0],
                 fnames: d.fnames,
                 distance: distance,
-                dist_pc: parseFloat(d.dist_pc),
+                dist_kpc: parseFloat(d.dist),
+                av: parseFloat(d.ext),
+                dav: parseFloat(d.diff_ext),
+                age: parseFloat(d.age),
+                met: parseFloat(d.met),
+                mass: parseFloat(d.mass),
+                bfrac: parseFloat(d.bi_frac),
+                bss: parseFloat(d.blue_str),
+                dist_plx_pc: parseFloat(d.dist_plx_pc),
                 membs: parseFloat(d.N_50),
                 uti: parseFloat(d.UTI),
                 pdup: parseFloat(d.P_dup),
-                c3: d.C3,
                 badoc: d.bad_oc,
             };
         })
-        // .filter(d => d.distance <= radius)
-        .filter(d => d.dist_pc >= distmin && d.dist_pc <= distmax)
+        .filter(d => inRange(hide_dist_nans, d.dist_kpc, distmin, distmax))
+        .filter(d => inRange(hide_av_nans, d.av,      avmin,   avmax))
+        .filter(d => inRange(hide_dav_nans, d.dav,     davmin,  davmax))
+        .filter(d => inRange(hide_age_nans, d.age,     agemin,  agemax))
+        .filter(d => inRange(hide_feh_nans, d.met,     fehmin,  fehmax))
+        .filter(d => inRange(hide_mass_nans, d.mass,    massmin, massmax))
+        .filter(d => inRange(hide_bf_nans, d.bfrac,   bfmin,   bfmax))
+        .filter(d => inRange(hide_bss_nans, d.bss,     bssmin,  bssmax))
         .filter(d => d.membs >= n50min && d.membs <= n50max)
+        .filter(d => d.pdup >= Pdupmin && d.pdup <= Pdupmax)
         .filter(d => d.uti >= utimin && d.uti <= utimax);
 
-    // Apply C3 filter if set
-    if (c3Filter) {
-        results = results.filter(d => d.c3 === c3Filter);
-    }
-
-    // Apply P_dup filter if set
-    results = results.filter(d => d.pdup <= Pdupmax);
 
     // Apply bad OC filter if set
     if (filterOCs) {
@@ -166,6 +211,26 @@ function getPoints() {
 }
 
 
+function utiColor(v) {
+    const x = Math.min(1, Math.max(0, v)); // clamp [0,1]
+
+    let r, g;
+    if (x <= 0.5) {
+        // red (255,0,0) → dark yellow (180,140,0)
+        const t = x / 0.5;
+        r = Math.round(255 + t * (180 - 255));
+        g = Math.round(0   + t * 140);
+    } else {
+        // dark yellow (180,140,0) → dark green (0,120,0)
+        const t = (x - 0.5) / 0.5;
+        r = Math.round(180 * (1 - t));
+        g = Math.round(140 + t * (120 - 140));
+    }
+
+    return `rgb(${r}, ${g}, 0)`;
+}
+
+
 function buildTable(points, totalCount) {
     // Get a reference to the container element previously created
     const tableContainerElement = document.getElementById("resultsTable");
@@ -178,7 +243,7 @@ function buildTable(points, totalCount) {
 
     // Determine coordinate labels
     const coordsys = window.coordsys;
-    const dr = coordsys === "names" ? "d [str]" : "d [ ' ]";
+    const dr = coordsys === "names" ? "[str]" : "[ ' ]";
     const coord1 = coordsys === "gal" ? "LON" : "RA";
     const coord2 = coordsys === "gal" ? "LAT" : "DEC";
 
@@ -186,22 +251,29 @@ function buildTable(points, totalCount) {
     const tableHeader = `
         <thead>
             <tr>
-                <th class="left">Name</th>
-                <th class="center">${dr}</th>
-                <th class="center">${coord1}</th>
-                <th class="center">${coord2}</th>
-                <th class="center">Dist [pc]</th>
-                <th class="center">N50</th>
-                <th class="center">C3</th>
+                <th class="left name-col">Name</th>
+                <th class="center">d <br><span style="font-size:0.85em;">${dr}</span></th>
+                <th class="center">${coord1}<br><span style="font-size:0.85em;">[deg]</span></th>
+                <th class="center">${coord2}<br><span style="font-size:0.85em;">[deg]</span></th>
+                <th class="center">Dist<br><span style="font-size:0.85em;">[kpc]</span></th>
+                <th class="center">Av<br><span style="font-size:0.85em;">[mag]</span></th>
+                <th class="center">DAv<br><span style="font-size:0.85em;">[mag]</span></th>
+                <th class="center">Age<br><span style="font-size:0.85em;">[Myr]</span></th>
+                <th class="center">FeH<br><span style="font-size:0.85em;">[dex]</span></th>
+                <th class="center">Mass<br><span style="font-size:0.85em;">[M⊙]</span></th>
+                <th class="center">B<sub>frac</sub></th>
+                <th class="center">BSS</th>
+                <th class="center">N<sub>50</sub></th>
                 <th class="center">P<sub>dup</sub></th>
                 <th class="center">UTI</th>
             </tr>
         </thead>`;
 
+
     // Build body HTML
     let tableBody = "<tbody>";
     points.forEach((d, i) => {
-        const c3HTML = d.c3.split("").map(l => letterHTML[l] || l).join("");
+        // const c3HTML = d.c3.split("").map(l => letterHTML[l] || l).join("");
         const xCoord = coordsys === "gal" ? d.lon : d.ra;
         const yCoord = coordsys === "gal" ? d.lat : d.dec;
 
@@ -210,27 +282,35 @@ function buildTable(points, totalCount) {
 
         tableBody += `
             <tr data-index="${i}">
-                <td class="left">
+                <td class="left name-col">
                   <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}" ${nameStyle}>
-                    ${d.name.slice(0, 20)}
+                    ${d.name}
                   </a>
                 </td>
                 <td class="center">${d.distance.toFixed(2)}</td>
                 <td class="center">${xCoord.toFixed(2)}</td>
                 <td class="center">${yCoord.toFixed(2)}</td>
-                <td class="center">${d.dist_pc.toFixed(0)}</td>
+                <td class="center">${d.dist_kpc.toFixed(2)}</td>
+                <td class="center">${d.av.toFixed(2)}</td>
+                <td class="center">${d.dav.toFixed(2)}</td>
+                <td class="center">${d.age.toFixed(0)}</td>
+                <td class="center">${d.met.toFixed(3)}</td>
+                <td class="center">${d.mass.toFixed(0)}</td>
+                <td class="center">${d.bfrac.toFixed(2)}</td>
+                <td class="center">${d.bss}</td>
                 <td class="center">${d.membs}</td>
-                <td class="center">${c3HTML}</td>
                 <td class="center">${d.pdup}</td>
-                <td class="center">${d.uti}</td>
+                <td class="center">
+                  <span style="font-weight:bold; color:${utiColor(d.uti)};">
+                    ${d.uti.toFixed(2)}
+                  </span>
+                </td>
             </tr>`;
     });
     tableBody += "</tbody>";
 
     // Ensure the element exists before attempting to modify its content
     if (tableContainerElement) {
-        // const nrows = points.length;
-        // const titleHTML = `<div class="results-title">Showing ${nrows} rows</div>`;
         tableContainerElement.innerHTML = `
             <div style="width:${width}px; display:flex; justify-content:center; align-items:center; margin-bottom:4px; font-weight:bold; color:#666; position:relative;">
                 <!-- Centered title -->
@@ -287,7 +367,7 @@ function getCSV() {
     }
 
     // CSV Conversion
-    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist_pc", "N_50", "C3", "P_dup", "UTI", "bad_oc"];
+    const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist", "Av", "DAv", "Age", "FeH", "Mass", "BF", "BSS", "N_50", "P_dup", "UTI", "bad_oc"];
     const csvContent = [
         headers.join(","), // Header row
         ...points.map(d => [
@@ -296,9 +376,15 @@ function getCSV() {
             d.dec,
             d.lon,
             d.lat,
-            d.dist_pc.toFixed(0), // Ensure distance is formatted as integer string
+            d.dist_kpc.toFixed(2),
+            d.av.toFixed(2),
+            d.dav.toFixed(2),
+            d.age.toFixed(0),
+            d.met.toFixed(3),
+            d.mass.toFixed(0),
+            d.bfrac.toFixed(2),
+            d.bss,
             d.membs,
-            d.c3,
             d.pdup,
             d.uti,
             d.badoc

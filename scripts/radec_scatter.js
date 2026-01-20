@@ -31,11 +31,11 @@ async function initRadecScatter() {
         const filteredPoints = data.filter(point => 
             point.RA_ICRS >= currentXRange[0] && point.RA_ICRS <= currentXRange[1] &&
             point.DE_ICRS >= currentYRange[0] && point.DE_ICRS <= currentYRange[1] &&
-            point.dist_pc >= ocDistpc - currentDistRange && point.dist_pc <= ocDistpc + currentDistRange
+            point.dist_plx_pc >= ocDistpc - currentDistRange && point.dist_plx_pc <= ocDistpc + currentDistRange
         );
-        // Sort by the absolute difference between point.dist_pc and ocDistpc
+        // Sort by the absolute difference between point.dist_plx_pc and ocDistpc
         filteredPoints.sort((a, b) => 
-            Math.abs(a.dist_pc - ocDistpc) - Math.abs(b.dist_pc - ocDistpc)
+            Math.abs(a.dist_plx_pc - ocDistpc) - Math.abs(b.dist_plx_pc - ocDistpc)
         );
         // Return the top 100 points or all if fewer than 100
         return filteredPoints.slice(0, currentNmax);
@@ -47,7 +47,7 @@ async function initRadecScatter() {
         const ra_values = filteredPoints.map(point => point.RA_ICRS);
         const dec_values = filteredPoints.map(point => point.DE_ICRS);
         const rad_values = filteredPoints.map(point =>  Math.max(.05, 2*parseFloat(point.r_50) / 60));
-        const dpc_values = filteredPoints.map(point => parseFloat(point.dist_pc));
+        const dpc_values = filteredPoints.map(point => parseFloat(point.dist_plx_pc));
 
         const traces = [];
 
@@ -85,7 +85,7 @@ async function initRadecScatter() {
                 }
             },
             text: filteredPoints.map(point => point.Name),
-            customdata: filteredPoints.map(point => [point.fnames.split(';')[0], point.dist_pc]),
+            customdata: filteredPoints.map(point => [point.fnames.split(';')[0], point.dist_plx_pc]),
             hovertemplate: 'Name: %{text}<br>RA: %{x}<br>Dec: %{y}<br>Dist: %{customdata[1]} [pc]<extra></extra>',
         });
 

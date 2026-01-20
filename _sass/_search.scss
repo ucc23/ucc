@@ -50,76 +50,57 @@ details[open] summary::before {
 
 ////////////////////////////////////////////////////
 
+/* ============================================
+   SEARCH BOX - CONTAINER
+   ============================================ */
 .search-box {
     background-color: #f0f0f0;
     border: 1px solid #ccc;
     border-radius: 8px;
-    padding: 12px;
+    padding: 20px 42px 20px 40px; /* top right bottom left */
     width: 100%;
     box-sizing: border-box;
 }
-
-/* --- GRID LAYOUT --- */
+/* ============================================
+   LAYOUT
+   ============================================ */
 .search-grid {
     display: grid;
-    grid-template-columns: 1fr auto;
-    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
     gap: 8px;
     align-items: start;
 }
-
-/* --- ROWS --- */
 .search-row {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
     align-items: center;
 }
-
-/* --- INPUTS & SELECTS --- */
+/* ============================================
+   FORM ELEMENTS - COMMON STYLES
+   ============================================ */
+.search-box input:not([type="checkbox"]),
+.search-box select,
+.search-checkbox {
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 34px;
+    box-sizing: border-box;
+}
 .search-box input:not([type="checkbox"]),
 .search-box select {
     padding: 6px 8px;
-    border: 1px solid #bbb;
-    border-radius: 4px;
-    font-size: 14px;
-    height: 34px;
-    box-sizing: border-box;
-    min-width: 80px;
 }
-
-/* --- CHECKBOX CONTAINER --- */
-.search-checkbox {
-    display: flex;
-    align-items: center;
-    padding: 4px 6px;
-    background-color: #fff;
-    border: 1px solid #bbb;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #333;
-    height: 34px;
-    box-sizing: border-box;
-    white-space: nowrap;
+/* ============================================
+   BUTTONS
+   ============================================ */
+.faq-icon {
+    margin-left: auto;
+    text-decoration: none;
+    font-size: 1.7em;
+    line-height: 1;
 }
-
-.search-checkbox label {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin: 0;
-    cursor: pointer;
-}
-
-.search-checkbox input[type="checkbox"] {
-    width: 16px;
-    height: 16px;
-    accent-color: #666;
-    cursor: pointer;
-    margin: 0;
-}
-
-/* --- BUTTONS --- */
 .search-box button {
     padding: 6px 12px;
     border: none;
@@ -131,101 +112,102 @@ details[open] summary::before {
     white-space: nowrap;
     height: 34px;
 }
-
 .search-box button:hover {
     background-color: #555;
 }
-
-/* --- SEARCH BUTTON: right side, spans both rows --- */
 #searchButton {
-    grid-column: 2;
-    grid-row: 1 / span 2;
-    align-self: stretch;
-    width: 80px;
-    height: auto;
+    flex: 1 1 auto;
+    align-self: center;
+    height: 34px;
 }
-
-/* --- RESPONSIVE WIDTHS --- */
 #coordToggle {
     flex: 0 0 90px;
     text-align: center;
     background-color: #5f8c65;
     border: 1px solid #ccc;
 }
-
+#coordToggle.flash {
+    background-color: #cce5ff;
+}
+#coordToggle:not(.flash):hover {
+    background-color: #4f7a55;
+    cursor: pointer;
+}
+/* ============================================
+   CHECKBOXES
+   ============================================ */
+.search-checkbox {
+    display: flex;
+    justify-content: center;  /* horizontal centering */
+    padding: 4px 6px;
+    background-color: #fff;
+    color: #333;
+    white-space: nowrap;
+}
+.search-checkbox label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 0;
+    cursor: pointer;
+}
+.search-checkbox input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    accent-color: #666;
+    cursor: pointer;
+    margin: 0;
+}
+/* ============================================
+   LABELS
+   ============================================ */
+.search-row input-label, 
+.search-row unit-label {
+    font-weight: bold;
+    font-size: 15px;
+    flex: 0 0 32px;
+    min-width: 32px;
+    text-align: left;
+    line-height: 34px;
+}
+.search-row unit-label {
+    font-size: 0.85em;
+    padding-right: 8px;
+}
+/* ============================================
+   SPECIFIC INPUT WIDTHS
+   ============================================ */
 #search {
-    flex: 1 1 100px;
-    min-width: 100px;
+    flex: 0 0 300px;
+    min-width: 300px;
 }
-
 #Nmax {
-    flex: 0 1 120px;
+    flex: 0 0 80px;
+    min-width: 80px;
 }
-
-#Pdupmax {
-    flex: 0 1 120px;
+input[id$="_min"],
+input[id$="_max"] {
+    flex: 0 0 75px;
+    min-width: 75px;
 }
-
-#c3Filter {
-    flex: 0 1 100px;
-}
-
-#dist_min, #dist_max,
-#n50_min, #n50_max,
-#uti_min, #uti_max {
-    flex: 1 1 80px;
-}
-
+/* ============================================
+   SEPARATORS
+   ============================================ */
 .separator {
     width: 1px;
     height: 1.5em;
     background-color: #ccc;
-    margin: 0 5px;
+    margin: 0 12px;
     align-self: center;
     flex-shrink: 0;
 }
-
-/* --- FLASH EFFECT --- */
-#coordToggle.flash {
-    background-color: #cce5ff;
+.separator-horizontal {
+    height: 1px;
+    width: 99%;
+    background-color: #ccc;
+    margin: 5px 0;
+    flex-shrink: 0;
 }
-
-/* --- MOBILE RESPONSIVENESS --- */
-@media (max-width: 768px) {
-    .search-grid {
-        grid-template-columns: 1fr;
-        grid-template-rows: auto auto auto;
-    }
-
-    #searchButton {
-        grid-column: 1;
-        grid-row: 3;
-        width: 100%;
-    }
-
-    .search-row {
-        width: 100%;
-    }
-
-    #search {
-        min-width: 120px;
-    }
-
-    .separator {
-        display: none;
-    }
-}
-
-@media (max-width: 480px) {
-    #coordToggle {
-        flex: 0 0 70px;
-    }
-
-    #Nmax, #c3Filter {
-        flex: 1 1 80px;
-    }
-}
-
 
 
 
@@ -258,37 +240,45 @@ details[open] summary::before {
     text-decoration: none;
 }
 
+.name-col {
+    width: 1px;
+    max-width: 15ch;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 /* On hover: subtle color */
 .results-table th:hover {
     background-color: #e6f3ff !important;
 }
 
 
-/* C3 letter colors */
-.c3-A { color: green; font-weight: bold; }
-.c3-B { color: #FFC300; font-weight: bold; }
-.c3-C { color: red; font-weight: bold; }
-.c3-D { color: purple; font-weight: bold; }
+// /* C3 letter colors */
+// .c3-A { color: green; font-weight: bold; }
+// .c3-B { color: #FFC300; font-weight: bold; }
+// .c3-C { color: red; font-weight: bold; }
+// .c3-D { color: purple; font-weight: bold; }
 
 
-/* Dropdown option coloring */
-.c3-AA { color: green; }
-.c3-AB { color: green; }
-.c3-BA { color: #FFC300; }
-.c3-AC { color: green; }
-.c3-CA { color: red; }
-.c3-BB { color: #FFC300; }
-.c3-AD { color: green; }
-.c3-DA { color: purple; }
-.c3-BC { color: #FFC300; }
-.c3-CB { color: red; }
-.c3-BD { color: #FFC300; }
-.c3-DB { color: purple; }
-.c3-CC { color: red; }
-.c3-CD { color: red; }
-.c3-DC { color: purple; }
-.c3-DD { color: purple; }
+// /* Dropdown option coloring */
+// .c3-AA { color: green; }
+// .c3-AB { color: green; }
+// .c3-BA { color: #FFC300; }
+// .c3-AC { color: green; }
+// .c3-CA { color: red; }
+// .c3-BB { color: #FFC300; }
+// .c3-AD { color: green; }
+// .c3-DA { color: purple; }
+// .c3-BC { color: #FFC300; }
+// .c3-CB { color: red; }
+// .c3-BD { color: #FFC300; }
+// .c3-DB { color: purple; }
+// .c3-CC { color: red; }
+// .c3-CD { color: red; }
+// .c3-DC { color: purple; }
+// .c3-DD { color: purple; }
 
-#c3Filter option {
-    font-weight: bold;
-}
+// #c3Filter option {
+//     font-weight: bold;
+// }
