@@ -96,8 +96,12 @@ table tr:nth-child(2n) {
     background-color: #fafafa;
 }
 
-table tr:hover {
-    background-color: #ffe6a1;
+td.uti-cell {
+    background-color: var(--uti-bg);
+}
+
+table tr:hover td {
+    background-color: #ffe6a1 !important;
 }
 
 table tr th {

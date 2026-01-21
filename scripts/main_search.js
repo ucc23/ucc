@@ -9,6 +9,17 @@ const searchInput = document.querySelector("[data-search]");
 
 const data = await loadCompressedCsv();
 
+// Map data
+const baseData = data.map(d => ({
+    Name: d.Name,
+    RA_ICRS: parseFloat(d.RA_ICRS),
+    DE_ICRS: parseFloat(d.DE_ICRS),
+    GLON: parseFloat(d.GLON),
+    GLAT: parseFloat(d.GLAT),
+    fname: d.fnames.split(';')[0],
+    fnames: d.fnames,
+}));
+
 // Search toggle button
 setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: false });
 
@@ -20,7 +31,7 @@ searchInput.addEventListener("input", (event) => {
     const query = event.target.value.trim().toLowerCase();
 
     // Only process for strings with more than 3 characters
-    if (query.length < 4) return;
+    if (query.length < 3) return;
 
     // Handle "random" query
     if (query === "random") {
@@ -34,27 +45,25 @@ searchInput.addEventListener("input", (event) => {
         return;
     }
 
-    const results = data
+    const results = baseData
         .map(d => {
             const distance = generalSearch(d, coordsys, query);
             return { ...d, distance};
         })
-        // Filter for euclidean search, string diff is always <1
-        .filter(d => d.distance < 5)
+        // Exclude Infinity distances and, for name searches, those with distance >= 1
+        .filter(d => Number.isFinite(d.distance) && (coordsys !== "names" || d.distance < 1))
         .sort((a, b) => a.distance - b.distance)
         .slice(0, 12); // Limit to top 12 results
 
     // Append new results
     results.forEach(d => {
-    // results.forEach((d, i) => {
         const element = userCardTemplate.content.cloneNode(true).children[0];
         const header = element.querySelector("[data-header]");
         const body = element.querySelector(`[data-body]`);
         const anchor = element.querySelector("a");
-        const href = `./_clusters/${d.fnames.split(";")[0]}`;
+        const href = `./_clusters/${d.fname}`;
 
         anchor.setAttribute("href", href);
-        // header.textContent = `${i + 1}. ${d.Name}`;
         header.textContent = d.Name;
         if (coordsys == 'equ') {
             body.textContent = `E (${d.RA_ICRS}, ${d.DE_ICRS})`;

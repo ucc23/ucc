@@ -138,7 +138,7 @@ export function drawMap(points, table) {
     const circleEls = [];
     
     points.forEach((d, i) => {
-        const coords = projection([parseFloat(d.lon), parseFloat(d.lat)]);
+        const coords = projection([parseFloat(d.GLON), parseFloat(d.GLAT)]);
         if (!coords) return;
 
         const r = scaleLinear(d.membs, minMemb, maxMemb, 1, 25);
@@ -152,7 +152,7 @@ export function drawMap(points, table) {
         circleEls[i] = { el: circle, baseR: r };
 
         circle.addEventListener("mouseover", () => {
-            tooltip.innerHTML = `<strong>${d.name}</strong><br>RA: ${d.ra}°<br>DEC: ${d.dec}°<br>D: ${d.dist_plx_pc} [pc]<br>N_50: ${d.membs}`;
+            tooltip.innerHTML = `<strong>${d.Name}</strong><br>RA: ${d.RA_ICRS}°<br>DEC: ${d.DE_ICRS}°<br>D: ${d.dist_plx_pc} [pc]<br>N_50: ${d.membs}`;
             tooltip.style.visibility = "visible";
         });
         circle.addEventListener("mousemove", (e) => {

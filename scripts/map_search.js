@@ -20,16 +20,42 @@ tableContainer.style.justifyContent = "center";
 // Append the new element to the parent container
 parentContainer.appendChild(tableContainer);
 
-// // Pre-build C3 letter fragments
-// const letterHTML = {
-//     A: '<span class="c3-A">A</span>',
-//     B: '<span class="c3-B">B</span>',
-//     C: '<span class="c3-C">C</span>',
-//     D: '<span class="c3-D">D</span>'
-// };
-
 // Load compressed data
 const data = await loadCompressedCsv();
+
+// Normalize once
+const baseData = data.map(d => {
+    const fnames = d.fnames || "";
+
+    // Empty fields to NaN
+    const num = v => v === "" || v == null ? NaN : +v;
+    return {
+        Name: d.Name,
+        RA_ICRS: +d.RA_ICRS,
+        DE_ICRS: +d.DE_ICRS,
+        GLON: +d.GLON,
+        GLAT: +d.GLAT,
+        fname: fnames.split(";")[0],
+        fnames,
+
+        dist_kpc: num(d.dist),
+        av: num(d.ext),
+        dav: num(d.diff_ext),
+        age: num(d.age),
+        met: num(d.met),
+        mass: num(d.mass),
+        bfrac: num(d.bi_frac),
+        bss: num(d.blue_str),
+
+        dist_plx_pc: +d.dist_plx_pc,
+        membs: +d.N_50,
+        uti: +d.UTI,
+        pdup: +d.P_dup,
+
+        badoc: d.bad_oc,
+    };
+});
+
 
 function getInputValues() {
     return {
@@ -73,7 +99,7 @@ function getInputValues() {
 function getPoints() {
     let { 
         coordsys,
-        search: query,  // Rename
+        search: query,
         Nmax,
         filterOCs,
         distmin,
@@ -108,126 +134,115 @@ function getPoints() {
         utimax,        
     } = getInputValues();
 
-    // If 'query' is empty return empty array
     query = query.trim();
-    if (!query) {
-        return [];
-    }
 
-    distmin = parseFloat(distmin) || 0;
-    distmax = parseFloat(distmax) || 1e6;
-    avmin = parseFloat(avmin) || 0;
-    avmax = parseFloat(avmax) || 100;
-    davmin = parseFloat(davmin) || 0;
-    davmax = parseFloat(davmax) || 100;
-    agemin = parseFloat(agemin) || 0;
-    agemax = parseFloat(agemax) || 100000;
-    fehmin = parseFloat(fehmin) || -10;
-    fehmax = parseFloat(fehmax) || 10;
-    massmin = parseFloat(massmin) || 0;
-    massmax = parseFloat(massmax) || 1e7;
-    bfmin = parseFloat(bfmin) || 0;
-    bfmax = parseFloat(bfmax) || 1.01;
-    bssmin = parseFloat(bssmin) || 0;
-    bssmax = parseFloat(bssmax) || 1e6;
+    const parseWithDefault = (value, defaultValue) => parseFloat(value) || defaultValue;
 
-    n50min = parseFloat(n50min) || 0;
-    n50max = parseFloat(n50max) || 100000;
-    Pdupmin = parseFloat(Pdupmin) || 0;
-    Pdupmax = parseFloat(Pdupmax) || 1.01;
-    utimin = parseFloat(utimin) || 0;
-    utimax = parseFloat(utimax) || 1.01;    
-
-    Nmax = parseFloat(Nmax) || 100;
+    distmin = parseWithDefault(distmin, 0);
+    distmax = parseWithDefault(distmax, 1e6);
+    avmin = parseWithDefault(avmin, 0);
+    avmax = parseWithDefault(avmax, 100);
+    davmin = parseWithDefault(davmin, 0);
+    davmax = parseWithDefault(davmax, 100);
+    agemin = parseWithDefault(agemin, 0);
+    agemax = parseWithDefault(agemax, 100000);
+    fehmin = parseWithDefault(fehmin, -10);
+    fehmax = parseWithDefault(fehmax, 10);
+    massmin = parseWithDefault(massmin, 0);
+    massmax = parseWithDefault(massmax, 1e7);
+    bfmin = parseWithDefault(bfmin, 0);
+    bfmax = parseWithDefault(bfmax, 1.01);
+    bssmin = parseWithDefault(bssmin, 0);
+    bssmax = parseWithDefault(bssmax, 1e6);
+    n50min = parseWithDefault(n50min, 0);
+    n50max = parseWithDefault(n50max, 100000);
+    Pdupmin = parseWithDefault(Pdupmin, 0);
+    Pdupmax = parseWithDefault(Pdupmax, 1.01);
+    utimin = parseWithDefault(utimin, 0);
+    utimax = parseWithDefault(utimax, 1.01);
+    Nmax = parseWithDefault(Nmax, 100);
 
     const inRange = (hide_nans, x, min, max) =>
         Number.isNaN(x) ? !hide_nans : (x >= min && x <= max);
 
-    let results = data
-        .map(d => {
-            const distance = generalSearch(d, coordsys, query);
-            return {
-                name: d.Name,
-                ra: parseFloat(d.RA_ICRS),
-                dec: parseFloat(d.DE_ICRS),
-                lon: parseFloat(d.GLON),
-                lat: parseFloat(d.GLAT),
-                fname: d.fnames.split(';')[0],
-                fnames: d.fnames,
-                distance: distance,
-                dist_kpc: parseFloat(d.dist),
-                av: parseFloat(d.ext),
-                dav: parseFloat(d.diff_ext),
-                age: parseFloat(d.age),
-                met: parseFloat(d.met),
-                mass: parseFloat(d.mass),
-                bfrac: parseFloat(d.bi_frac),
-                bss: parseFloat(d.blue_str),
-                dist_plx_pc: parseFloat(d.dist_plx_pc),
-                membs: parseFloat(d.N_50),
-                uti: parseFloat(d.UTI),
-                pdup: parseFloat(d.P_dup),
-                badoc: d.bad_oc,
-            };
-        })
-        .filter(d => inRange(hide_dist_nans, d.dist_kpc, distmin, distmax))
-        .filter(d => inRange(hide_av_nans, d.av,      avmin,   avmax))
-        .filter(d => inRange(hide_dav_nans, d.dav,     davmin,  davmax))
-        .filter(d => inRange(hide_age_nans, d.age,     agemin,  agemax))
-        .filter(d => inRange(hide_feh_nans, d.met,     fehmin,  fehmax))
-        .filter(d => inRange(hide_mass_nans, d.mass,    massmin, massmax))
-        .filter(d => inRange(hide_bf_nans, d.bfrac,   bfmin,   bfmax))
-        .filter(d => inRange(hide_bss_nans, d.bss,     bssmin,  bssmax))
-        .filter(d => d.membs >= n50min && d.membs <= n50max)
-        .filter(d => d.pdup >= Pdupmin && d.pdup <= Pdupmax)
-        .filter(d => d.uti >= utimin && d.uti <= utimax);
+    // Add the distance property to the cached data
+    let results = baseData.map(d => ({
+        ...d,
+        distance: !query ? NaN : generalSearch(d, coordsys, query)
+    }));
 
+    // Combined filter in a single pass
+    results = results.filter(d => {
+        if (!inRange(hide_dist_nans, d.dist_kpc, distmin, distmax)) return false;
+        if (!inRange(hide_av_nans, d.av, avmin, avmax)) return false;
+        if (!inRange(hide_dav_nans, d.dav, davmin, davmax)) return false;
+        if (!inRange(hide_age_nans, d.age, agemin, agemax)) return false;
+        if (!inRange(hide_feh_nans, d.met, fehmin, fehmax)) return false;
+        if (!inRange(hide_mass_nans, d.mass, massmin, massmax)) return false;
+        if (!inRange(hide_bf_nans, d.bfrac, bfmin, bfmax)) return false;
+        if (!inRange(hide_bss_nans, d.bss, bssmin, bssmax)) return false;
+        
+        if (d.membs < n50min || d.membs > n50max) return false;
+        if (d.pdup < Pdupmin || d.pdup > Pdupmax) return false;
+        if (d.uti < utimin || d.uti > utimax) return false;
+        
+        if (filterOCs && d.badoc !== "n") return false;
+        
+        if (coordsys === "names") {
+            // For 'names' search exclude d>1 but include NaNs
+            if (Number.isFinite(d.distance) && d.distance > 1) return false;
+        } else {
+            // For coords search exclude Infinities but include NaNs
+            if (!Number.isFinite(d.distance) && !Number.isNaN(d.distance)) return false;
+        }
 
-    // Apply bad OC filter if set
-    if (filterOCs) {
-        results = results.filter(d => d.badoc === "n");
-    }
+        return true;
+    });
 
-    // Exclude 'Infinity' distances
-    if (coordsys === "names") {
-        results = results.filter(d => d.distance <= 1);
-    }
+    results = results.sort((a, b) => {
+        if (isNaN(a.distance)) return 1;
+        if (isNaN(b.distance)) return -1;
+        return a.distance - b.distance;
+    });
 
-    // // Return only exact matches if any found
-    // const exactMatches = results.filter(d => d.distance === 0);
-    // if (exactMatches.length === 1) {
-    //     return exactMatches;
-    // }
-
-    results = results.sort((a, b) => a.distance - b.distance);
-
-    // Get the count BEFORE applying the slice (Nmax limit)
-    const totalCount = results.length; 
-    const limitedResults = results.slice(0, Nmax);
     return {
-        points: limitedResults, 
-        totalCount: totalCount 
+        points: results.slice(0, Nmax), 
+        totalCount: results.length 
     };
 }
 
 
 function utiColor(v) {
-    const x = Math.min(1, Math.max(0, v)); // clamp [0,1]
+    // Mimics the Python function used to define the C coefficients and UTI colors
+    const x = Math.min(1, Math.max(0, v));
+    
+    // Pre-parsed RGB values for performance
+    const palette = [
+        [223, 165, 179], // 0.000: #dfa5b3
+        [243, 187, 181], // 0.125: #f3bbb5
+        [252, 214, 194], // 0.250: #fcd6c2
+        [254, 239, 210], // 0.375: #feefd2
+        [254, 254, 232], // 0.500: #fefee8
+        [237, 247, 211], // 0.625: #edf7d3
+        [212, 236, 201], // 0.750: #d4ecc9
+        [181, 222, 195], // 0.875: #b5dec3
+        [165, 202, 185]  // 1.000: #a5cab9
+    ];
 
-    let r, g;
-    if (x <= 0.5) {
-        // red (255,0,0) → dark yellow (180,140,0)
-        const t = x / 0.5;
-        r = Math.round(255 + t * (180 - 255));
-        g = Math.round(0   + t * 140);
-    } else {
-        // dark yellow (180,140,0) → dark green (0,120,0)
-        const t = (x - 0.5) / 0.5;
-        r = Math.round(180 * (1 - t));
-        g = Math.round(140 + t * (120 - 140));
-    }
+    const scaled = x * (palette.length - 1);
+    const i = Math.floor(scaled);
+    const j = Math.min(i + 1, palette.length - 1);
+    const t = scaled - i; // Fractional part for interpolation
 
-    return `rgb(${r}, ${g}, 0)`;
+    // Linear interpolation per channel
+    const lerp = (start, end, factor) => Math.round(start + factor * (end - start));
+
+    const r = lerp(palette[i][0], palette[j][0], t);
+    const g = lerp(palette[i][1], palette[j][1], t);
+    const b = lerp(palette[i][2], palette[j][2], t);
+
+    // Bitwise conversion to Hex string
+    return `#${((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1)}`;
 }
 
 
@@ -243,7 +258,7 @@ function buildTable(points, totalCount) {
 
     // Determine coordinate labels
     const coordsys = window.coordsys;
-    const dr = coordsys === "names" ? "[str]" : "[ ' ]";
+    const dr = coordsys === "names" ? "[str]" : "[ º ]";
     const coord1 = coordsys === "gal" ? "LON" : "RA";
     const coord2 = coordsys === "gal" ? "LAT" : "DEC";
 
@@ -274,8 +289,8 @@ function buildTable(points, totalCount) {
     let tableBody = "<tbody>";
     points.forEach((d, i) => {
         // const c3HTML = d.c3.split("").map(l => letterHTML[l] || l).join("");
-        const xCoord = coordsys === "gal" ? d.lon : d.ra;
-        const yCoord = coordsys === "gal" ? d.lat : d.dec;
+        const xCoord = coordsys === "gal" ? d.GLON : d.RA_ICRS;
+        const yCoord = coordsys === "gal" ? d.GLAT : d.DE_ICRS;
 
         const nameStyle = d.badoc === "y" ? 'style="color:red;"' : "";
         // const btitle = d.badoc === "y" ? `${d.name.slice(0, 20)} *` : `${d.name.slice(0, 20)}`;
@@ -284,7 +299,7 @@ function buildTable(points, totalCount) {
             <tr data-index="${i}">
                 <td class="left name-col">
                   <a href="../_clusters/${d.fname}" target="_blank" title="${d.fnames}" ${nameStyle}>
-                    ${d.name}
+                    ${d.Name}
                   </a>
                 </td>
                 <td class="center">${d.distance.toFixed(2)}</td>
@@ -300,8 +315,8 @@ function buildTable(points, totalCount) {
                 <td class="center">${d.bss}</td>
                 <td class="center">${d.membs}</td>
                 <td class="center">${d.pdup}</td>
-                <td class="center">
-                  <span style="font-weight:bold; color:${utiColor(d.uti)};">
+                <td class="center uti-cell" style="--uti-bg:${utiColor(d.uti)};">
+                  <span style="color:black;">
                     ${d.uti.toFixed(2)}
                   </span>
                 </td>
@@ -371,11 +386,11 @@ function getCSV() {
     const csvContent = [
         headers.join(","), // Header row
         ...points.map(d => [
-            `"${d.name}"`, // Quote the name to handle commas/spaces
-            d.ra,
-            d.dec,
-            d.lon,
-            d.lat,
+            `"${d.Name}"`, // Quote the name to handle commas/spaces
+            d.RA_ICRS,
+            d.DE_ICRS,
+            d.GLON,
+            d.GLAT,
             d.dist_kpc.toFixed(2),
             d.av.toFixed(2),
             d.dav.toFixed(2),
