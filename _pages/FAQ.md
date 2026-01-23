@@ -5,8 +5,13 @@ permalink: /faq/
 style: style
 ---
 
+The **UCC** is maintained by [Gabriel I Perren](https://gabriel-p.github.io/).
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions or any other questions not
 listed here.
+
+<br>
+<hr>
+<br>
 
 * TOC
 {:toc}
@@ -23,12 +28,12 @@ combined with data from the [Gaia survey](https://www.esa.int/Science_Exploratio
 
 ## What objects are included in the UCC?
 
-The UCC lists any object that was catalogued as an open cluster in the literature. This
+The **UCC** lists any object that was catalogued as an open cluster in the literature. This
 object might be classified differently in other articles (e.g.: moving group,
-association, etc.) but it will remain listed in the UCC because at least one article
+association, etc.) but it will remain listed in the **UCC** because at least one article
 at some point indicated that it was an open cluster.
 
-The UCC is regularly updated to include new research. If your article is not listed
+The **UCC** is regularly updated to include new research. If your article is not listed
 in the [database]({% link _pages/ARTICLES.md %}), you can
 [contact me](mailto:gabrielperren@gmail.com) with the details and I will add it as soon as possible.
 
@@ -47,7 +52,7 @@ incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details
 ## What is the C3 parameter?
 
 The `C3` parameter is the combined `C1` and `C2` classes, described in Sect. 4.3 of
-[Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract) where the UCC was initially introduced. The `C1` and `C2`
+[Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract) where the **UCC** was initially introduced. The `C1` and `C2`
 classes can be described as:
 
 `C1`: A density-based metric that quantifies the contrast between the spatial
@@ -66,7 +71,7 @@ Each one takes values `[A, B, C, D]` where `A` is best and `D` is worst.
 
 ## What is the UTI parameter?
 
-The **UTI** (UCC Trust Index) is a measure of the reliability of the cluster detection,
+The **UTI** (**UCC** Trust Index) is a measure of the reliability of the cluster detection,
 ranging from 0 (worst) to 1 (best). It is calculated based on factors such as the number
 of members, stellar density, the `C3` parameter, the presence of the object
 in the literature, and the probability of the object being a duplicate of a previous
@@ -129,13 +134,13 @@ selecting the _Hide likely non-clusters_ option.
 
 ## About the Search page
 
-The [Search](/search) page allows the user to filter the UCC database by the stored
+The [Search](/search) page allows the user to filter the **UCC** database by the stored
 parameter values, as well as the estimated number of members (**N<sub>50</sub>**),
 the probability of the object being a duplicate (**[P<sub>dup</sub>](#how-is-the-duplicate-probability-estimated)**),
 and the [UTI](#what-is-the-uti-parameter).
 
 The values for each parameter are estimated as the median of all the values included
-in the [UCC literature](/articles). The user can select a range for each parameter, and also
+in the [**UCC** literature](/articles). The user can select a range for each parameter, and also
 to exclude results with `NaN` values. In the resulting table, those objects that are
 considered likely [non-clusters](#how-are-objects-flagged-as-likely-not-real) (ie: asterisms, moving groups, artifacts, etc.)
 have their names colored in red.
@@ -143,6 +148,8 @@ have their names colored in red.
 This page also displays an interactive (LON, LAT) map with the results found, where
 LON and LAT are the Galactic longitude and latitude, respectively.
 
+If you want to download the entire **UCC** catalogue, it can be accessed through the
+<a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
 
 
 
@@ -150,7 +157,7 @@ LON and LAT are the Galactic longitude and latitude, respectively.
 ## About the Overview section
 
 The **Overview** section consists of two tabs: **Summary** and **Comments**. These are
-automatically generated for each object, based on the available data in the UCC.
+automatically generated for each object, based on the available data in the **UCC**.
 
 ### Summary
 
@@ -206,7 +213,7 @@ Ages are given in [Myr]. When ages are provided in [log(age/yr)], we apply:
 
 #### Absorption / Extinction
 
-The UCC lists `Av` absorption. To transform `E(B-V)` we use the standard value:
+The **UCC** lists `Av` absorption. To transform `E(B-V)` we use the standard value:
 
     Av = 3.1 * E(B-V)
 
@@ -232,7 +239,7 @@ There are three tabs with different plots in this section.
 
 #### Members
 
-The plots show the selected members in the UCC and also in the articles
+The plots show the selected members in the **UCC** and also in the articles
 [Hunt & Reffert (2023)](https://scixplorer.org/abs/2023A%26A...673A.114H)
 and [Cantat-Gaudin et el. (2020)](https://scixplorer.org/abs/2020A%26A...633A..99C/abstract),
 when available.
@@ -242,7 +249,7 @@ when available.
 
 The cluster region is shown in this tab in an interactive plot that allows exploring
 the spatial distribution of other clusters around the cluster. This plot uses
-the inverse of the median parallax of the UCC estimated members as the distance estimator.
+the inverse of the median parallax of the **UCC** estimated members as the distance estimator.
 
 
 #### Galactocentric position
@@ -251,9 +258,9 @@ The Sun and the Galactic center are represented by the yellow star and the black
 respectively. The spiral arms are taken from [Momany et al (2006)](https://scixplorer.org/abs/2006A&A...451..515M/abstract). The
 (X_GC, Y_GC, Z_GC) values are estimated applying a -0.02 parallax zero-point offset
 position of -0.02 [mas] (taken as a reasonable average, see e.g.
-[Ding et al. (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/adba44)). The minimum accepted parallax value is 0.035 (~29 Kpc).
+[Ding et al. 2025](https://iopscience.iop.org/article/10.3847/1538-3881/adba44)). The minimum accepted parallax value is 0.035 (~29 Kpc).
 Similar to the cluster region plot, the distance is estimated as the inverse of the median
-parallax of the UCC estimated members.
+parallax of the **UCC** estimated members.
 
 Radial velocities are used when available and set to 0.0 Km/s when they are not.
 
@@ -262,7 +269,7 @@ Radial velocities are used when available and set to 0.0 Km/s when they are not.
 
 ## How can I cite the UCC?
 
-If you found the UCC useful for your research, please reference its original article
+If you found the **UCC** useful for your research, please reference its original article
 <a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
 et al. (2023)</a>. You can use the following text:
 
