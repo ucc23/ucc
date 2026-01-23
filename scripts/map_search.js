@@ -60,7 +60,7 @@ const baseData = data.map(d => {
 function getInputValues() {
     return {
         coordsys : window.coordsys,
-        search: document.getElementById("search").value,
+        search: document.getElementById("search-bar").value,
         Nmax: document.getElementById("Nmax").value,
         filterOCs: document.getElementById("filterOCs").checked,
         distmin: document.getElementById("dist_min").value,
@@ -189,8 +189,12 @@ function getPoints() {
         if (filterOCs && d.badoc !== "n") return false;
         
         if (coordsys === "names") {
-            // For 'names' search exclude d>1 but include NaNs
-            if (Number.isFinite(d.distance) && d.distance > 1) return false;
+            // Exclude finite distances > 1 and exclude infinities; keep NaNs
+            if (
+                (Number.isFinite(d.distance) && d.distance > 1) ||
+                d.distance === Infinity ||
+                d.distance === -Infinity
+            ) return false;
         } else {
             // For coords search exclude Infinities but include NaNs
             if (!Number.isFinite(d.distance) && !Number.isNaN(d.distance)) return false;
@@ -446,7 +450,7 @@ async function updateDisplay() {
 
 
 // Search toggle button
-setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search', includeName: true });
+setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search-bar', includeName: true });
 
 // Add event listener for the Search button
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
