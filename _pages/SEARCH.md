@@ -63,7 +63,7 @@ style: style_search
                     <input-label>B<sub>frac</sub></input-label>
                     <input id="bf_min" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="min" title="Minimum binary fraction">
                     <input id="bf_max" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="max" title="Maximum binary fraction">
-                    <unit-label> </unit-label>
+                    <unit-label>[ &mdash; ]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_bf_nans">Hide NaN values</label>
                     </div>
@@ -71,7 +71,7 @@ style: style_search
                     <input-label>BSS</input-label>
                     <input id="bss_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum BSS value">
                     <input id="bss_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum BSS value">
-                    <unit-label> </unit-label>
+                    <unit-label>[ &mdash; ]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_bss_nans">Hide NaN values</label>
                     </div>
@@ -96,13 +96,14 @@ style: style_search
                </div>
                 <!-- <div class="separator-horizontal"></div> -->
                 <div class="search-row">
-                    <u><b>[Select search mode]</b></u>
-                    <button id="coordToggle">Names</button>
+                    <!-- [Select mode] <button id="coordToggle">Names</button> -->
+                    <!-- <span class="coordToggleLike">[Select mode]</span> -->
+                    <button id="coordToggle" class="coordToggle">Names</button>
                     <input id="search-bar" class="search-trigger" type="search" autofocus autocomplete="off" placeholder="Search by name...">
-                    <!-- <div class="separator"></div> -->
+                    <div class="separator"></div>
                     <input-label>N<sub>max</sub></input-label>
                     <input id="Nmax" class="search-trigger" type="number" value="100" min="0" step="100" placeholder="Max results" title="Maximum number of result">
-                    <!-- <div class="separator"></div> -->
+                    <div class="separator"></div>
                     <button id="searchButton" type="button">Search</button>
                     <a href="/faq/#about-the-search-page" target="_blank" class="faq-icon" title="About the Search page">ℹ️</a>
                 </div>

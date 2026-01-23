@@ -115,20 +115,25 @@ details[open] summary::before {
 .search-box button:hover {
     background-color: #555;
 }
+
 #searchButton {
     flex: 1 1 auto;
     align-self: center;
     height: 34px;
 }
-#coordToggle {
+#searchButton:not(.flash):hover {
+    background-color: #4f7a55;
+    cursor: pointer;
+}
+
+.coordToggle {
     flex: 0 0 90px;
     text-align: center;
-    background-color: #5f8c65;
     border: 1px solid #ccc;
 }
-#coordToggle.flash {
-    background-color: #cce5ff;
-}
+// #coordToggle.flash {
+//     background-color: #cce5ff;
+// }
 #coordToggle:not(.flash):hover {
     background-color: #4f7a55;
     cursor: pointer;

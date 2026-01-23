@@ -6,28 +6,34 @@
   margin: 0 auto;
 }
 
-#coordToggle {
+
+.coordToggle {
   width: 100px; /* fixed width */
   height: 48px; /* match input height exactly */
   font-size: 18px;
   line-height: 1;
   padding: 0; /* let height control vertical space */
-  // margin-left: 8px; /* space between bar and button */
   margin-right: 8px; /* space between button and bar */
-  cursor: pointer;
   border: 1px solid #ccc;
-  // border-radius: 4px; /* keep all corners rounded */
   border-right: none; /* merge with input border */
   border-radius: 4px 0 0 4px; /* round only left corners */
-  background: #5f8c65;
+  background-color: #666666;
   color: white;
-  transition: background-color 0.4s ease;
+  // transition: background-color 0.4s ease;
 }
 
-#coordToggle.flash {
-  background-color: #cce5ff;
-  color: black;
+// #coordToggle.flash {
+//     background-color: #cce5ff;
+// }
+#coordToggle:not(.flash):hover {
+    background-color: #4f7a55;
+    cursor: pointer;
 }
+
+// #coordToggle.flash {
+//   background-color: #cce5ff;
+//   color: black;
+// }
 
 .search-container input {
   flex: 1; /* take remaining space */
