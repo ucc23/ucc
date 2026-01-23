@@ -96,8 +96,9 @@ style: style_search
                </div>
                 <!-- <div class="separator-horizontal"></div> -->
                 <div class="search-row">
+                    <u><b>[Select search mode]</b></u>
                     <button id="coordToggle">Names</button>
-                    <input id="search" class="search-trigger" type="text" autofocus autocomplete="off" placeholder="Search by name...">
+                    <input id="search-bar" class="search-trigger" type="search" autofocus autocomplete="off" placeholder="Search by name...">
                     <!-- <div class="separator"></div> -->
                     <input-label>N<sub>max</sub></input-label>
                     <input id="Nmax" class="search-trigger" type="number" value="100" min="0" step="100" placeholder="Max results" title="Maximum number of result">
