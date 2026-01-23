@@ -5,7 +5,6 @@ export function setupCoordToggle({
 } = {}) {
   const btn = document.getElementById(buttonId);
   const termsInput = document.getElementById(inputId);
-  // const radiusInput = document.getElementById('radius');
 
   const modes = includeName ? ['names','equ','gal'] : ['names','equ','gal'];
 
@@ -14,12 +13,6 @@ export function setupCoordToggle({
     equ: "Search by RA, DEC...",
     gal: "Search by LON, LAT..."
   };
-
-  // const radius_placeholders = {
-  //   names: "Max dist [string]",
-  //   equ: "Max dist [arcmin]",
-  //   gal: "Max dist [arcmin]"
-  // };
 
   let index = 0;
   window.coordsys = modes[index];
@@ -37,13 +30,9 @@ export function setupCoordToggle({
     btn.textContent =
       window.coordsys === 'gal' ? 'Galactic' :
       window.coordsys === 'equ' ? 'Equatorial' : 'Names';
-      // window.coordsys === 'names' ? 'All names' : 'Name';
 
     // Update placeholders
     termsInput.placeholder = placeholders[window.coordsys];
-    // if (radiusInput) {
-    //   radiusInput.placeholder = radius_placeholders[window.coordsys];
-    // }
   });
 
 }
