@@ -5,8 +5,8 @@ permalink: /articles/
 style: style
 ---
 
-These are the articles whose databases are currently included in the UCC. The
-modifications and corrections made to each one before including it in the UCC
+These are the articles whose databases are currently included in the **UCC**. The
+modifications and corrections made to each one before including it in the **UCC**
 are presented <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
 <!-- Begin table 1 -->
