@@ -33,11 +33,17 @@ UTI_C_dup_desc: Likely unique
 summary: |
     <b>VVVX CL083</b> is a poorly populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 8 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
-badge_ext: ""
+badge_dist_url: ""
+badge_av: ""
+badge_av_url: ""
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: ""
+badge_feh_url: ""
 badge_age: ""
+badge_age_url: ""
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: true
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Small very red group, neb..</p>

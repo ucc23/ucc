@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Majaess 36</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 24 years. 
 badge_dist: ""
-badge_ext: ""
+badge_dist_url: ""
+badge_av: ""
+badge_av_url: ""
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: ""
+badge_feh_url: ""
 badge_age: ""
+badge_age_url: ""
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: true
 comments: |
 

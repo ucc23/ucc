@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Theia 3609</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Distant"
-badge_ext: "High extinction"
+badge_dist_url: "/search/?dist_min=3&dist_max=5"
+badge_av: "High extinction"
+badge_av_url: "/search/?av_min=3&av_max=5"
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: "Metal-rich"
+badge_feh_url: "/search/?feh_min=0.5&feh_max=1"
 badge_age: "Young"
+badge_age_url: "/search/?age_min=20&age_max=100"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>

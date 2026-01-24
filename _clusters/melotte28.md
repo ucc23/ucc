@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Melotte 28</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, below the mid-plane, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
-badge_ext: "Low extinction"
+badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
+badge_av: "Low extinction"
+badge_av_url: "/search/?av_min=0&av_max=1"
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: ""
+badge_feh_url: ""
 badge_age: "Intermediate age"
+badge_age_url: "/search/?age_min=100&age_max=1000"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Originally catalogued as a sparse cluster overlapping NGC 1750 and NGC 1758. Modern studies find no distinct third object; considered non-existent. More details in Appendix A of the article.</p>

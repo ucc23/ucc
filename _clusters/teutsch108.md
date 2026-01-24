@@ -33,11 +33,17 @@ UTI_C_dup_desc: Very likely unique
 summary: |
     <b>Teutsch 108</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. It is catalogued as a massive cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
-badge_ext: ""
+badge_dist_url: ""
+badge_av: ""
+badge_av_url: ""
 badge_mass: "Massive"
+badge_mass_url: "/search/?mass_min=1000&mass_max=5000"
 badge_feh: ""
+badge_feh_url: ""
 badge_age: ""
+badge_age_url: ""
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
 

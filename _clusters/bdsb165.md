@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>BDSB 165</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, near the mid-plane, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.04 kpc) differs significantly from the median photometric distance (~5.15 kpc).</p><p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very distant"
-badge_ext: "High extinction"
+badge_dist_url: "/search/?dist_min=5&dist_max=10"
+badge_av: "High extinction"
+badge_av_url: "/search/?av_min=3&av_max=5"
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: ""
+badge_feh_url: ""
 badge_age: "Very young"
+badge_age_url: "/search/?age_min=0&age_max=20"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
 

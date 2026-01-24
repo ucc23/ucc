@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Berkeley 20</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well below the mid-plane, affected by low extinction. It is catalogued as a massive, metal-poor, very old cluster, but with a <u>large variance across recent sources</u> for the distance, age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Very distant"
-badge_ext: "Low extinction"
+badge_dist_url: "/search/?dist_min=5&dist_max=10"
+badge_av: "Low extinction"
+badge_av_url: "/search/?av_min=0&av_max=1"
 badge_mass: "Massive"
+badge_mass_url: "/search/?mass_min=1000&mass_max=5000"
 badge_feh: "Metal-poor"
+badge_feh_url: "/search/?feh_min=-1&feh_max=-0.5"
 badge_age: "Very old"
+badge_age_url: "/search/?age_min=5000&age_max=10000"
 badge_bss: "Contains BSS"
+badge_bss_url: "/search/?bss_min=0&bss_max=1000000.0"
 badge_nofpars: false
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>

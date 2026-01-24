@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>VDB 92</b> is a very rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, near the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
-badge_ext: "Low extinction"
+badge_dist_url: "/search/?dist_min=1&dist_max=3"
+badge_av: "Low extinction"
+badge_av_url: "/search/?av_min=0&av_max=1"
 badge_mass: ""
+badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
+badge_feh_url: "/search/?feh_min=-0.5&feh_max=0.5"
 badge_age: "Very young"
+badge_age_url: "/search/?age_min=0&age_max=20"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>

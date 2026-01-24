@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Teutsch 162</b> is a poorly populated, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, above the mid-plane, affected by moderate extinction. It is catalogued as a low-mass, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.39 kpc) differs significantly from the median photometric distance (~1.60 kpc).</p>
 badge_dist: "Relatively close"
-badge_ext: "Moderate extinction"
+badge_dist_url: "/search/?dist_min=1&dist_max=3"
+badge_av: "Moderate extinction"
+badge_av_url: "/search/?av_min=1&av_max=3"
 badge_mass: "Low mass"
+badge_mass_url: "/search/?mass_min=0&mass_max=50"
 badge_feh: ""
+badge_feh_url: ""
 badge_age: "Very young"
+badge_age_url: "/search/?age_min=0&age_max=20"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
 

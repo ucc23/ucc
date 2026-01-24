@@ -33,11 +33,17 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>ASCC 80</b> is a sparse, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, below the mid-plane, affected by low extinction. It is catalogued as a massive, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~7.86 kpc) differs significantly from the median photometric distance (~1.50 kpc).</p>
 badge_dist: "Relatively close"
-badge_ext: "Low extinction"
+badge_dist_url: "/search/?dist_min=1&dist_max=3"
+badge_av: "Low extinction"
+badge_av_url: "/search/?av_min=0&av_max=1"
 badge_mass: "Massive"
+badge_mass_url: "/search/?mass_min=1000&mass_max=5000"
 badge_feh: ""
+badge_feh_url: ""
 badge_age: "Young"
+badge_age_url: "/search/?age_min=20&age_max=100"
 badge_bss: ""
+badge_bss_url: ""
 badge_nofpars: false
 comments: |
 
