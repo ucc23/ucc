@@ -5,9 +5,13 @@ permalink: /faq/
 style: style
 ---
 
-The **UCC** is maintained by [Gabriel I Perren](https://gabriel-p.github.io/).
+The **UCC** is maintained by
+<a href="https://gabriel-p.github.io/" target="_blank">Gabriel I Perren</a>.
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions or any other questions not
-listed here.
+listed here. You can also open a
+<a href="https://github.com/ucc23/ucc/issues" target="_blank">Github issue</a>
+if you prefer.
+
 
 <br>
 <hr>
