@@ -455,9 +455,69 @@ setupCoordToggle({ buttonId: 'coordToggle', inputId: 'search-bar', includeName: 
 // Add event listener for the Search button
 document.getElementById("searchButton").addEventListener("click", updateDisplay);
 
+
 // Allow Enter key to trigger search from any input field
 document.querySelectorAll(".search-trigger").forEach(el => {
     el.addEventListener("keypress", (e) => {
         if (e.key === "Enter") updateDisplay();
     });
 });
+
+
+const rangeToNaNCheckbox = {
+    feh: "hide_feh_nans",
+    dist: "hide_dist_nans",
+    av: "hide_av_nans",
+    dav: "hide_dav_nans",
+    age: "hide_age_nans",
+    mass: "hide_mass_nans",
+    bf: "hide_bf_nans",
+    bss: "hide_bss_nans",
+};
+
+function applyUrlParameters() {
+    const params = new URLSearchParams(window.location.search);
+    let hasParams = false;
+
+    // Track which ranges appear in the URL
+    const activeRanges = new Set();
+
+    params.forEach((value, key) => {
+        const field = document.querySelector(`[name="${key}"]`);
+        if (!field) return;
+
+        // Detect range parameters (e.g. feh_min, feh_max)
+        const match = key.match(/^(.+?)_(min|max)$/);
+        if (match) {
+            activeRanges.add(match[1]);
+        }
+
+        if (field.type === "number") {
+            field.valueAsNumber = Number(value);
+        } else if (field.type === "checkbox") {
+            field.checked = value === "true" || value === "1";
+        } else {
+            field.value = value;
+        }
+
+        hasParams = true;
+    });
+
+    // Enable corresponding "hide NaN" checkboxes
+    activeRanges.forEach(range => {
+        const checkboxId = rangeToNaNCheckbox[range];
+        if (!checkboxId) return;
+
+        const checkbox = document.getElementById(checkboxId);
+        if (checkbox) checkbox.checked = true;
+    });
+
+    return hasParams;
+}
+
+
+// Apply URL parameters and trigger search if present
+const hasUrlParams = applyUrlParameters();
+if (hasUrlParams) {
+    updateDisplay();
+}
