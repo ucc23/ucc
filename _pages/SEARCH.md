@@ -10,16 +10,16 @@ style: style_search
             <div class="search-grid">
                 <div class="search-row">
                     <input-label>Dist</input-label>
-                    <input id="dist_min" class="search-trigger" type="number" min="0" step="100" placeholder="min" title="Minimum distance in [kpc]">
-                    <input id="dist_max" class="search-trigger" type="number" min="0" step="100" placeholder="max" title="Maximum distance in [kpc]">
+                    <input id="dist_min" name="dist_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum distance in [kpc]">
+                    <input id="dist_max" name="dist_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum distance in [kpc]">
                     <unit-label>[kpc]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_dist_nans">Hide NaN values</label>
                     </div>
                     <div class="separator"></div>
                     <input-label>Av</input-label>
-                    <input id="av_min" class="search-trigger" type="number" min="0" step="0.05" placeholder="min" title="Minimum Av value">
-                    <input id="av_max" class="search-trigger" type="number" min="0" step="0.05" placeholder="max" title="Maximum Av value">
+                    <input id="av_min" name="av_min" class="search-trigger" type="number" min="0" step="0.05" placeholder="min" title="Minimum Av value">
+                    <input id="av_max" name="av_max" class="search-trigger" type="number" min="0" step="0.05" placeholder="max" title="Maximum Av value">
                     <unit-label>[mag]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_av_nans">Hide NaN values</label>
@@ -27,16 +27,16 @@ style: style_search
                 </div>
                 <div class="search-row">
                     <input-label>DAv</input-label>
-                    <input id="dav_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum differential extinction value">
-                    <input id="dav_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum differential extinction value">
+                    <input id="dav_min" name="dav_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum differential extinction value">
+                    <input id="dav_max" name="dav_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum differential extinction value">
                     <unit-label>[mag]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_dav_nans">Hide NaN values</label>
                     </div>
                     <div class="separator"></div>
                     <input-label>Age</input-label>
-                    <input id="age_min" class="search-trigger" type="number" min="0" step="500" placeholder="min" title="Minimum Age value">
-                    <input id="age_max" class="search-trigger" type="number" min="0" step="500" placeholder="max" title="Maximum Age value">
+                    <input id="age_min" name="age_min" class="search-trigger" type="number" min="0" step="500" placeholder="min" title="Minimum Age value">
+                    <input id="age_max" name="age_max" class="search-trigger" type="number" min="0" step="500" placeholder="max" title="Maximum Age value">
                     <unit-label>[Myr]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_age_nans">Hide NaN values</label>
@@ -44,16 +44,16 @@ style: style_search
                </div>
                 <div class="search-row">
                     <input-label>FeH</input-label>
-                    <input id="feh_min" class="search-trigger" type="number" min="-10" max=10 step="0.05" placeholder="min" title="Minimum metallicity">
-                    <input id="feh_max" class="search-trigger" type="number" min="-10" max=10 step="0.05" placeholder="max" title="Maximum metallicity">
+                    <input id="feh_min" name="feh_min" class="search-trigger" type="number" min="-10" max=10 step="0.05" placeholder="min" title="Minimum metallicity">
+                    <input id="feh_max" name="feh_max" class="search-trigger" type="number" min="-10" max=10 step="0.05" placeholder="max" title="Maximum metallicity">
                     <unit-label>[dex]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_feh_nans">Hide NaN values</label>
                     </div>
                     <div class="separator"></div>
                     <input-label>Mass</input-label>
-                    <input id="mass_min" class="search-trigger" type="number" min="0" step="100" placeholder="min" title="Minimum mass">
-                    <input id="mass_max" class="search-trigger" type="number" min="0" step="100" placeholder="max" title="Maximum mass">
+                    <input id="mass_min" name="mass_min" class="search-trigger" type="number" min="0" step="100" placeholder="min" title="Minimum mass">
+                    <input id="mass_max" name="mass_max" class="search-trigger" type="number" min="0" step="100" placeholder="max" title="Maximum mass">
                     <unit-label>[M⊙]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_mass_nans">Hide NaN values</label>
@@ -61,16 +61,16 @@ style: style_search
                 </div>
                 <div class="search-row">
                     <input-label>B<sub>frac</sub></input-label>
-                    <input id="bf_min" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="min" title="Minimum binary fraction">
-                    <input id="bf_max" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="max" title="Maximum binary fraction">
+                    <input id="bf_min" name="bf_min" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="min" title="Minimum binary fraction">
+                    <input id="bf_max" name="bf_max" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="max" title="Maximum binary fraction">
                     <unit-label>[ &mdash; ]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_bf_nans">Hide NaN values</label>
                     </div>
                     <div class="separator"></div>
                     <input-label>BSS</input-label>
-                    <input id="bss_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum BSS value">
-                    <input id="bss_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum BSS value">
+                    <input id="bss_min" name="bss_min" class="search-trigger" type="number" min="0" step="0.1" placeholder="min" title="Minimum BSS value">
+                    <input id="bss_max" name="bss_max" class="search-trigger" type="number" min="0" step="0.1" placeholder="max" title="Maximum BSS value">
                     <unit-label>[ &mdash; ]</unit-label>
                     <div class="search-checkbox">
                         <label><input class="search-trigger" type="checkbox" id="hide_bss_nans">Hide NaN values</label>

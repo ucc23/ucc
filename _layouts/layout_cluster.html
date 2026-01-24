@@ -138,22 +138,34 @@ layout: default
                         <span class="badge badge-no-pars">No fundamental parameters</span>
                     {% endif %}
                     {% if page.badge_dist != empty %}
-                        <span class="badge badge-dist">{{ page.badge_dist }}</span>
+                        <a class="badge badge-dist" href="{{ page.badge_dist_url }}" target="_blank">
+                            {{ page.badge_dist }}
+                        </a>
                     {% endif %}
-                    {% if page.badge_ext != empty %}
-                        <span class="badge badge-ext">{{ page.badge_ext }}</span>
+                    {% if page.badge_av != empty %}
+                        <a class="badge badge-av" href="{{ page.badge_av_url }}" target="_blank">
+                            {{ page.badge_av }}
+                        </a>
                     {% endif %}
                     {% if page.badge_mass != empty %}
-                        <span class="badge badge-mass">{{ page.badge_mass }}</span>
+                        <a class="badge badge-mass" href="{{ page.badge_mass_url }}" target="_blank">
+                            {{ page.badge_mass }}
+                        </a>
                     {% endif %}
                     {% if page.badge_feh != empty %}
-                        <span class="badge badge-feh">{{ page.badge_feh }}</span>
+                        <a class="badge badge-feh" href="{{ page.badge_feh_url }}" target="_blank">
+                            {{ page.badge_feh }}
+                        </a>
                     {% endif %}
                     {% if page.badge_age != empty %}
-                        <span class="badge badge-age">{{ page.badge_age }}</span>
+                        <a class="badge badge-age" href="{{ page.badge_age_url }}" target="_blank">
+                            {{ page.badge_age }}
+                        </a>
                     {% endif %}
                     {% if page.badge_bss != empty %}
-                        <span class="badge badge-bss">{{ page.badge_bss }}</span>
+                        <a class="badge badge-bss" href="{{ page.badge_bss_url }}" target="_blank">
+                            {{ page.badge_bss }}
+                        </a>
                     {% endif %}
                 </div>
             </div>

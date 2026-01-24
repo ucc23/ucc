@@ -271,20 +271,6 @@ back panel only in Firefox*/
 
 /////////////////////////////////////////////////////////////////////////////////////
 // OVERVIEW
-// .overview {
-//     background: white;
-//     border-radius: 12px;
-//     padding: 1rem;
-//     margin-bottom: 2rem;
-//     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-// }
-
-// .overview-content {
-//     font-size: 1.1rem;
-//     line-height: 1.8;
-//     margin-top: 1rem;
-// }
-
 .note {
     margin-top: 1rem;
     margin-bottom: 0rem;
@@ -312,36 +298,75 @@ back panel only in Firefox*/
 .badge-dist {
     background: #e3f2fd;
     color: #1565c0;
+    transition: all 0.3s ease;
+}
+.badge-dist:hover {
+    background: #1565c0;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(21, 101, 192, 0.3);
 }
 
-.badge-ext {
+.badge-av {
     background: #f3e5f5;
     color: #7b1fa2;
+    transition: all 0.3s ease;
+}
+.badge-av:hover {
+    background: #7b1fa2;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(123, 31, 162, 0.3);
 }
 
 .badge-mass {
     background: #fff3e0;
     color: #e65100;
+    transition: all 0.3s ease;
+}
+.badge-mass:hover {
+    background: #e65100;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(230, 81, 0, 0.3);
 }
 
 .badge-feh {
     background: #e8f5e9;
     color: #2e7d32;
+    transition: all 0.3s ease;
+}
+.badge-feh:hover {
+    background: #2e7d32;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(46, 125, 50, 0.3);
 }
 
-// .badge-age {
-//     background: #fffde7;
-//     color: #f9a825;
-// }
 .badge-age {
     background: #fff9c4;
     color: #c17900;
+    transition: all 0.3s ease;
+}
+.badge-age:hover {
+    background: #c17900;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(193, 121, 0, 0.3);
 }
 
 .badge-bss {
     background: #e1f5fe;
     color: #0277bd;
+    transition: all 0.3s ease;
 }
+.badge-bss:hover {
+    background: #0277bd;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(2, 119, 189, 0.3);
+}
+
 
 .badge-no-pars {
     background: #e596a1;
