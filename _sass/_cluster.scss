@@ -476,6 +476,13 @@ back panel only in Firefox*/
         transform: translateY(0); 
     }
 }
+
+// Used to hide a large year added to the UCC row of astrometry ad fpars (for sorting)
+.hidden-cell-val {
+  font-size: 0;
+  line-height: 0;
+  letter-spacing: 0;
+}
 /////////////////////////////////////////////////////////////////////////////////////
 
 

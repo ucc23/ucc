@@ -193,7 +193,8 @@ values are extracted from the [included literature](/articles).
 
 The **UCC** provides for each entry a table of fundamental parameters, when available.
 These parameters are extracted from the [included literature](/articles) and their median
-is estimated to provide a single value for each parameter. The columns
+is estimated to provide a single representative value for each parameter (shown in the
+**UCC** row). The columns
 <b>DAv, Bfr, BSS</b> correspond to differential extinction, binary fraction, and
 blue stragglers, respectively. <b>BSS</b> values can be listed as fractions or integers.
 

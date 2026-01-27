@@ -226,8 +226,8 @@ layout: default
                     </p> -->
                     {% if page.note_asterisk %}
                       <p class="table-note">
-                          <strong>(*):</strong> Indicates that this parameter is
-                          assigned more than one value in the corresponding reference.
+                          <strong>(N):</strong> Indicates that are <b>N</b> extra values
+                          assigned to this parameter in the corresponding reference.
                       </p>
                     {% endif %}
                 </div>
@@ -254,7 +254,7 @@ layout: default
             <div class="tabs">
                 <button id="tab_members" class="tab active" onclick="switchTab(event, 'members')">Members</button>
                 <button class="tab" onclick="switchTab(event, 'cl_region')">Cluster region</button>
-                <button class="tab" onclick="switchTab(event, 'gcpos')">Galactocentric position</button>
+                <button id="tab_gcpos" class="tab" onclick="switchTab(event, 'gcpos')">Galactocentric position</button>
                 <a href="/faq/#about-the-visualization-section" target="_blank" class="tabs-faq" title="About the Visualization section">ℹ️</a>
             </div>
             
