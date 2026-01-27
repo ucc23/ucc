@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>SAI 69</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, well below the mid-plane, affected by moderate extinction. It is catalogued as a massive, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>SAI 69</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "/search/?dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: SAI%2069
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |101.368 | -11.796 | 0.16 | -0.141 | 1.294 | -- |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |101.368 | -11.796 | 0.16 | -0.141 | 1.294 | -- |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 101.373 | -11.793 | 0.132 | -0.16 | 1.29 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 101.361 | -11.788 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 101.361 | -11.793 | -- | -- | -- | -- |
@@ -68,6 +68,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.14 | 1.29 | -- | 1259 | -- | 1002 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 5.50 | 2.05 | -- | 794 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1259 | -- | 1002 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 7.47 | 1.29 | -- | 1259 | -- | -- | -- | -- |

@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Feinstein 1</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, near the mid-plane, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.58 kpc) differs significantly from the median photometric distance (~1.16 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Feinstein 1</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.58 kpc) differs significantly from the median photometric distance (~1.16 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -56,7 +56,7 @@ scix_url: Feinstein%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |166.332 | -59.744 | 0.387 | -6.692 | 1.753 | -19.392 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |166.332 | -59.744 | 0.387 | -6.692 | 1.753 | -19.392 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 166.294 | -59.729 | 0.387 | -6.674 | 1.758 | -18.815 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 166.382 | -59.759 | 0.388 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 166.294 | -59.729 | 0.387 | -6.674 | 1.758 | -18.815 |
@@ -78,11 +78,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1358* | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.16 | 1.3 | 2.02 | 10 | -0.100 | 1358 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1358<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.21 | 1.31 | -- | 19 | -0.100 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.53 | 1.40 | 2.02 | 26 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 16 | -- | 202 | -- | -- |
-    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.57* | -- | -- | -- | -- | -- | -- | -- |
+    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.57<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.99 | 1.24 | -- | 10 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.41 | 1.42 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.41 | 1.42 | -- | 16 | -- | -- | -- | -- |

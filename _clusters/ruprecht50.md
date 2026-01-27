@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 50</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the distance, absorption, age, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Ruprecht 50</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the distance, absorption, age, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -57,7 +57,7 @@ scix_url: Ruprecht%2050
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |120.866 | -30.874 | 0.425 | -1.77 | 2.37 | 48.954 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |120.866 | -30.874 | 0.425 | -1.77 | 2.37 | 48.954 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 120.872 | -30.873 | 0.414 | -1.726 | 2.352 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 120.869 | -30.876 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 120.876 | -30.868 | 0.417 | -1.771 | 2.371 | 48.949 |
@@ -82,12 +82,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.145 | 0.61 | 0.73 | 562 | -0.034 | 222 | 0.515 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.04 | 0.63 | -- | 562 | -0.112 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.06 | 0.76 | -- | 519 | -- | 222 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 386* | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 386<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.19 | 0.89 | -- | 479 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.13 | 0.42 | 0.73 | 456 | -- | -- | -- | -- |
-    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.98 | 0.33 | -- | 836 | 0.035 | 81* | 0.55 | -- |
+    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.98 | 0.33 | -- | 836 | 0.035 | 81<sup>(1)</sup> | 0.55 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 596 | -- | 69 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 18.28 | 1.61 | -- | 5012 | 0.150 | 170000 | 0.48 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.06 | 0.76 | -- | 519 | -0.034 | -- | -- | -- |

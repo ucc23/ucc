@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>COIN-Gaia 5</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, near the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
+    <b>COIN-Gaia 5</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -57,7 +57,7 @@ scix_url: COIN-Gaia%205
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |27.408 | 58.079 | 1.093 | -2.809 | -0.558 | -29.97 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |27.408 | 58.079 | 1.093 | -2.809 | -0.558 | -29.97 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 27.408 | 58.078 | 1.063 | -2.774 | -0.511 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 27.349 | 58.072 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 27.408 | 58.063 | 1.062 | -2.81 | -0.572 | -- |
@@ -76,10 +76,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.91 | 0.69 | 0.61 | 151 | 0.019 | 105 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.09 | 0.69 | -- | 52 | 0.019 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.85 | 0.85 | -- | 201 | -- | 110 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.91 | 0.45 | -- | 115 | -0.167 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 100* | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 100<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.92 | 0.80 | -- | 219 | 0.360 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.87 | 0.62 | 0.61 | 225 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.05 | -- | 71 | -- | -- | -- | -- |

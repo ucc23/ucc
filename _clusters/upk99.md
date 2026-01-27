@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UPK 99</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, below the mid-plane, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption, age, and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>UPK 99</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption, age, and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -58,7 +58,7 @@ scix_url: UPK%2099
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |312.459 | 25.556 | 1.249 | 0.31 | -7.976 | -15.464 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |312.459 | 25.556 | 1.249 | 0.31 | -7.976 | -15.464 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 312.427 | 25.488 | 1.291 | 0.422 | -8.02 | -- |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 312.476 | 25.713 | -- | -- | -- | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 312.423 | 25.505 | -- | -- | -- | -- |
@@ -74,8 +74,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.77 | 0.28 | 0.4 | 212 | -0.100 | 42 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.90 | 0.63 | -- | 1801 | -0.158 | -- | -- | -- |
-    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.210* | -- | -- | -- |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.210<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.77 | 0.51 | -- | 212 | -- | 42 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.76 | 0.28 | -- | 135 | -0.100 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.81 | 0.06 | -- | 813 | 0.270 | -- | -- | -- |

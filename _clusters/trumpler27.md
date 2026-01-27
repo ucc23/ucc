@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Trumpler 27</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, near the mid-plane, affected by high extinction. It is catalogued as a massive, near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.52 kpc) differs significantly from the median photometric distance (~1.21 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Trumpler 27</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.52 kpc) differs significantly from the median photometric distance (~1.21 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -55,7 +55,7 @@ scix_url: Trumpler%2027
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |264.081 | -33.502 | 0.396 | -0.186 | -1.28 | -60.316 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |264.081 | -33.502 | 0.396 | -0.186 | -1.28 | -60.316 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 264.08 | -33.52 | -- | -- | -- | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 264.079 | -33.485 | 0.488 | -0.146 | -1.267 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 264.09 | -33.518 | -- | -0.801 | -1.959 | -15.8 |
@@ -74,8 +74,9 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.21 | 3.695 | -- | 30 | -0.193 | 1026 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 38 | -- | 103 | -- | -- |
-    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.03* | -- | -- | -- | -- | -- | -- | -- |
+    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.03<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.21 | 3.70 | -- | 12 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.27 | 3.74 | -- | 38 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.27 | 3.74 | -- | 38 | -0.193 | -- | -- | -- |

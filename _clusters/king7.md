@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>King 7</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, near the mid-plane, affected by high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>King 7</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -57,7 +57,7 @@ scix_url: King%207
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |59.788 | 51.785 | 0.304 | 1.125 | -1.189 | -9.83 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |59.788 | 51.785 | 0.304 | 1.125 | -1.189 | -9.83 |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 59.775 | 51.784 | -- | -- | -- | -- |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 59.786 | 51.787 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 59.786 | 51.787 | 0.301 | 1.129 | -1.187 | 13.963 |
@@ -86,13 +86,14 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.63 | 3.87 | 2.62 | 661 | -0.039 | 2898 | -- | 7.0 |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.59 | 3.55 | -- | 324 | -- | 2898 | -- | -- |
-    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.106* | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 7497* | -- | -- |
+    | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.106<sup>(1)</sup> | -- | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 7497<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.33 | 4.25 | -- | 166 | 0.160 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.90 | 4.18 | 2.62 | 191 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 708 | -- | 2128 | -- | -- |
-    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 3.14* | -- | -- | -- | -- | -- | -- | -- |
+    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 3.14<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 3.17 | 3.88 | -- | 661 | -- | -- | -- | 7 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.59 | 3.55 | -- | 324 | -0.039 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 3.18 | 3.18 | -- | 224 | -- | -- | -- | -- |

@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Hogg 16</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Hogg 16</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -56,7 +56,7 @@ scix_url: Hogg%2016
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |202.323 | -61.241 | 0.452 | -3.487 | -1.652 | -75.218 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |202.323 | -61.241 | 0.452 | -3.487 | -1.652 | -75.218 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 202.3 | -61.209 | 0.431 | -3.479 | -1.645 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 202.3 | -61.209 | -- | -- | -- | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 202.306 | -61.209 | -- | -- | -- | -- |
@@ -81,11 +81,12 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.71 | 1.27 | -- | 25 | 0.110 | 208 | 0.65 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.84 | 1.42 | -- | 36 | -0.138 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.94 | 1.42 | -- | 31 | -- | 185 | -- | -- |
-    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.00 | 1.49 | -- | 26 | 0.119 | 232* | 0.65 | -- |
+    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.00 | 1.49 | -- | 26 | 0.119 | 232<sup>(1)</sup> | 0.65 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 89 | -- | 413 | -- | -- |
-    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.22* | -- | -- | -- | -- | -- | -- | -- |
+    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 2.22<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.94 | 1.42 | -- | 31 | 0.110 | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.45 | 1.55 | -- | 23 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.06 | 1.27 | -- | 89 | -- | -- | -- | -- |

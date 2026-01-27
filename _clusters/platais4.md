@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Platais 4</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, well below the mid-plane, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.74 kpc) differs significantly from the median photometric distance (~0.28 kpc).</p>
+    <b>Platais 4</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.74 kpc) differs significantly from the median photometric distance (~0.28 kpc).</p>
 badge_dist: "Very close"
 badge_dist_url: "/search/?dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: Platais%204
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |76.762 | 22.447 | 0.093 | 0.349 | -1.071 | -- |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |76.762 | 22.447 | 0.093 | 0.349 | -1.071 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 76.709 | 22.573 | -- | -- | -- | -- |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 76.718 | 22.573 | -- | 0.2 | -1.87 | 15.2 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 76.849 | 22.284 | -- | -- | -- | -- |
@@ -75,13 +75,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.28 | 0.78 | -- | 174 | -0.310 | 594 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 355 | -- | 18 | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | -0.310 | -- | -- | -- |
     | [Yen et al.](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 2018 | 0.30 | 0.61 | -- | 204 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.28 | 0.84 | -- | 355 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.28 | 0.84 | -- | 355 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.28 | -- | -- | 100 | -- | 562 | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.28 | 0.78 | -- | 174 | -- | 1109* | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.28 | 0.78 | -- | 174 | -- | 1109<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.28 | 0.78 | -- | 174 | -- | 627 | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.28 | -- | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.28 | 0.78 | -- | 174 | -- | -- | -- | -- |

@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Andrews Lindsay 5</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, near the mid-plane, affected by very high extinction. It is catalogued as a massive, metal-poor, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.49 kpc) differs significantly from the median photometric distance (~3.42 kpc).</p>
+    <b>Andrews Lindsay 5</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, metal-poor, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.49 kpc) differs significantly from the median photometric distance (~3.42 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "/search/?dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
@@ -56,7 +56,7 @@ scix_url: Andrews%20Lindsay%205
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |281.078 | -4.928 | 0.182 | -0.88 | -3.621 | 67.635 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |281.078 | -4.928 | 0.182 | -0.88 | -3.621 | 67.635 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 281.078 | -4.93 | 0.213 | -0.916 | -3.656 | 71.902 |
     |[Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | 281.079 | -4.931 | -- | -- | -- | -- |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 281.08 | -4.931 | 0.209 | -- | -- | -- |
@@ -76,7 +76,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4240* | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.42 | 7.49 | 2.74 | 1 | -0.820 | 1030 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4240<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 1 | -- | 1030 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.78 | 5.11 | -- | 120 | -0.820 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.06 | 4.42 | 2.74 | 108 | -- | -- | -- | -- |

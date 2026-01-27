@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Majaess 82</b> is a sparse, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, near the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 24 years. 
+    <b>Majaess 82</b> is a sparse, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 24 years. 
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -55,7 +55,7 @@ scix_url: Majaess%2082
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |99.195 | 5.589 | 4.477 | -13.149 | 2.046 | 40.746 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |99.195 | 5.589 | 4.477 | -13.149 | 2.046 | 40.746 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.167 | 5.601 | -- | -22.96 | 6.51 | -- 
 cds_radec: 99.19495,+5.58876
 carousel: UCC

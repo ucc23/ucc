@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Kronberger 79</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, near the mid-plane, affected by high extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.10 kpc) differs significantly from the median photometric distance (~3.37 kpc).</p>
+    <b>Kronberger 79</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.10 kpc) differs significantly from the median photometric distance (~3.37 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "/search/?dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -57,7 +57,7 @@ scix_url: Kronberger%2079
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |293.479 | 18.519 | 0.164 | -2.773 | -5.332 | -- |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |293.479 | 18.519 | 0.164 | -2.773 | -5.332 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 293.477 | 18.521 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 293.476 | 18.518 | 0.175 | -2.793 | -5.34 | -- |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 293.477 | 18.519 | 0.175 | -- | -- | -- |
@@ -79,8 +79,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.37 | 4.45 | 2.62 | 124 | 0.406 | 621 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.30 | 4.14 | -- | 6 | -- | 621 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3745* | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3745<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.29 | 4.76 | -- | 10 | 0.750 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.32 | 5.49 | 2.62 | 11 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 245 | -- | 541 | -- | -- |
@@ -90,7 +91,7 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.36 | 2.62 | -- | 1047 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.37 | 4.45 | -- | 245 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.37 | 4.45 | -- | 245 | -- | -- | -- | -- |
-    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 3.60* | 4.71* | -- | 25* | -- | -- | -- | -- |
+    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 3.60<sup>(1)</sup> | 4.71<sup>(1)</sup> | -- | 25<sup>(1)</sup> | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.70 | 4.03 | -- | 224 | -- | -- | -- | -- |
 note_asterisk: true
 shared_table: |

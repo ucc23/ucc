@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Patchick 89</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, well above the mid-plane, affected by low extinction. It is catalogued as a metal-poor, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>Patchick 89</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by low extinction. It is catalogued as a metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "/search/?dist_min=5&dist_max=10"
 badge_av: "Low extinction"
@@ -56,7 +56,7 @@ scix_url: Patchick%2089
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |299.882 | 49.314 | 0.131 | -2.996 | -2.303 | -53.154 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |299.882 | 49.314 | 0.131 | -2.996 | -2.303 | -53.154 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 299.886 | 49.313 | 0.101 | -3.018 | -2.325 | -53.136 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 299.891 | 49.304 | 0.114 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 299.886 | 49.313 | 0.101 | -3.018 | -2.325 | -53.136 |
@@ -68,7 +68,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 180* | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.52 | 0.87 | 1.87 | 2239 | -0.810 | 180 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 180<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.52 | 0.87 | -- | 4467 | -0.810 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 8.41 | 0.80 | 1.87 | 570 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.84 | 1.02 | -- | 2239 | -- | -- | -- | -- |

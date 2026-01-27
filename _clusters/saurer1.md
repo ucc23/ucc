@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Saurer 1</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well above the mid-plane, affected by low extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Saurer 1</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by low extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Extremely distant"
 badge_dist_url: "/search/?dist_min=10&dist_max=1000000.0"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: Saurer%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |110.229 | 1.811 | 0.083 | -0.305 | -0.352 | 103.402 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |110.229 | 1.811 | 0.083 | -0.305 | -0.352 | 103.402 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 110.232 | 1.813 | 0.072 | -0.263 | -0.332 | 103.4 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 110.226 | 1.802 | -- | -- | -- | -- |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 110.225 | 1.8 | -- | -- | -- | -- |
@@ -73,6 +73,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 13.2 | 0.385 | -- | 4496 | -0.380 | 10081 | 0.81 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 15.85 | 0.65 | -- | 2512 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 3981 | -- | 10162 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 12.36 | 0.40 | -- | 6607 | -0.080 | 10000 | 0.81 | -- |

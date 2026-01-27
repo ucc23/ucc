@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 59b</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, below the mid-plane, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 59b</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: Teutsch%2059b
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |100.964 | -0.887 | 0.342 | -0.653 | 0.673 | 60.94 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |100.964 | -0.887 | 0.342 | -0.653 | 0.673 | 60.94 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 100.953 | -0.885 | -- | -- | -- | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 100.954 | -0.883 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 100.931 | -0.857 | -- | -- | -- | -- 
@@ -64,6 +64,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.94 | 1.77 | -- | 794 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.94 | 1.77 | -- | 794 | -- | -- | -- | -- |
 note_asterisk: false
 shared_table: |

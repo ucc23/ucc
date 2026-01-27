@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi 165</b> is a poorly populated, very dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, well above the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. 
+    <b>Alessi 165</b> is a poorly populated, very dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. 
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -55,7 +55,7 @@ scix_url: Alessi%20165
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |122.26 | 12.842 | 0.558 | -3.297 | -3.928 | 70.929 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |122.26 | 12.842 | 0.558 | -3.297 | -3.928 | 70.929 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 122.27 | 12.848 | -- | -- | -- | -- 
 cds_radec: 122.25978,+12.84214
 carousel: UCC

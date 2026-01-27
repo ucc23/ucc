@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 302</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close<sup><b>*</b></sup> distance, above the mid-plane, affected by moderate extinction. It is catalogued as a very old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.59 kpc) differs significantly from the median photometric distance (~0.39 kpc).</p>
+    <b>Collinder 302</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a very old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.59 kpc) differs significantly from the median photometric distance (~0.39 kpc).</p>
 badge_dist: "Very close"
 badge_dist_url: "/search/?dist_min=0&dist_max=0.5"
 badge_av: "Moderate extinction"
@@ -56,13 +56,14 @@ scix_url: Collinder%20302
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |246.059 | -26.413 | 1.684 | -12.382 | -18.825 | 11.987 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |246.059 | -26.413 | 1.684 | -12.382 | -18.825 | 11.987 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 245.888 | -26.523 | 2.362 | -12.145 | -18.708 | 12.414 
 cds_radec: 246.05934,-26.41288
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 2.02 | 0.63 | 5383 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.39 | 2.02 | 0.63 | 5383 | -- | -- | -- | -- |
 note_asterisk: false
 shared_table: |

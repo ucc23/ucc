@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Gulliver 13</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, below the mid-plane, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
+    <b>Gulliver 13</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -57,7 +57,7 @@ scix_url: Gulliver%2013
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |104.858 | -13.256 | 0.626 | -2.935 | 0.294 | 57.842 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |104.858 | -13.256 | 0.626 | -2.935 | 0.294 | 57.842 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 104.858 | -13.254 | 0.62 | -2.941 | 0.281 | -- |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 104.869 | -13.242 | -- | -- | -- | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 104.874 | -13.247 | -- | -- | -- | -- |
@@ -78,15 +78,16 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.5 | 1.33 | 2.23 | 626 | -0.050 | 351 | 0.53 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.46 | 0.91 | -- | 1056 | -0.036 | -- | -- | -- |
-    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.140* | -- | -- | -- |
+    | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.140<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.50 | 1.68 | -- | 594 | -- | 351 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 395* | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 395<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.39 | 1.09 | -- | 1047 | 0.000 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.48 | 1.33 | 2.23 | 600 | -- | -- | -- | -- |
-    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.47 | 1.58 | -- | 653 | -0.115 | 351* | 0.53 | -- |
+    | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.47 | 1.58 | -- | 653 | -0.115 | 351<sup>(1)</sup> | 0.53 | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 1.47 | -- | -- | 1072 | -- | -- | -- | -- |
-    | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.53* | 1.71* | -- | 536* | -0.120* | -- | -- | -- |
+    | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.53<sup>(1)</sup> | 1.71<sup>(1)</sup> | -- | 536<sup>(1)</sup> | -0.120<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.50 | 1.68 | -- | 594 | -0.050 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.51 | 0.78 | -- | 1000 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.54 | -- | -- | -- | -- | -- | -- | -- |

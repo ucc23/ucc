@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi Teutsch 7</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, near the mid-plane, affected by low extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Alessi Teutsch 7</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: Alessi%20Teutsch%207
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |128.231 | -39.41 | 1.329 | -8.115 | 5.642 | 28.716 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |128.231 | -39.41 | 1.329 | -8.115 | 5.642 | 28.716 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 127.942 | -39.052 | -- | -- | -- | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 128.361 | -39.72 | 1.316 | -8.134 | 5.705 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 127.958 | -39.098 | -- | -- | -- | -- |
@@ -74,13 +74,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.9 | 0.33 | -- | 76 | -- | 855 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 76 | -- | 59 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.35 | -- | 71 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.10 | 1.05 | -- | 200 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.78 | 0.39 | -- | 76 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.78 | 0.39 | -- | 76 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.90 | -- | -- | 76 | -- | 1995 | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.90 | 0.31 | -- | 76 | -- | 1268* | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.90 | 0.31 | -- | 76 | -- | 1268<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.90 | 0.31 | -- | 76 | -- | 442 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.90 | 0.31 | -- | 76 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.90 | 0.31 | -- | 76 | -- | -- | -- | -- |

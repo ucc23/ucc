@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Westerlund 1</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, near the mid-plane, affected by <u>extremely</u> high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.82 kpc) differs significantly from the median photometric distance (~3.56 kpc).</p>
+    <b>Westerlund 1</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by <u>extremely</u> high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.82 kpc) differs significantly from the median photometric distance (~3.56 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "/search/?dist_min=3&dist_max=5"
 badge_av: "Extremely high extinction"
@@ -55,7 +55,7 @@ scix_url: Westerlund%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |251.76 | -45.853 | 0.208 | -2.282 | -3.692 | 33.125 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |251.76 | -45.853 | 0.208 | -2.282 | -3.692 | 33.125 |
     |[Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | 251.76 | -45.852 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 251.76 | -45.852 | 0.252 | -2.325 | -3.654 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 251.76 | -45.852 | 0.252 | -2.325 | -3.654 | -- |
@@ -69,6 +69,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.56 | 11.39 | -- | 6 | -- | 22227 | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 8 | -- | 22227 | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 3.56 | -- | -- | -- | -- | -- | -- | -- |

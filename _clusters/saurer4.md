@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Saurer 4</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, below the mid-plane, affected by high extinction. It is catalogued as a low-mass, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.72 kpc) differs significantly from the median photometric distance (~6.19 kpc).</p>
+    <b>Saurer 4</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a low-mass, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.72 kpc) differs significantly from the median photometric distance (~6.19 kpc).</p>
 badge_dist: "Very distant"
 badge_dist_url: "/search/?dist_min=5&dist_max=10"
 badge_av: "High extinction"
@@ -55,7 +55,7 @@ scix_url: Saurer%204
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |183.5 | -63.59 | 0.093 | -7.218 | 0.815 | 9.537 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |183.5 | -63.59 | 0.093 | -7.218 | 0.815 | 9.537 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 183.509 | -63.592 | 0.076 | -6.893 | 0.798 | 8.81 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 183.494 | -63.586 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 183.515 | -63.591 | -- | -- | -- | -- |
@@ -68,6 +68,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.19 | 3.84 | -- | 1514 | -- | 34 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 7.59 | 3.70 | -- | 1585 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1514 | -- | 34 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.18 | 4.13 | -- | 1514 | -- | -- | -- | -- |

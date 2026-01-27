@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Chupina 3</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, above the mid-plane. It is catalogued as a near-solar metallicity cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Chupina 3</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a near-solar metallicity cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -55,7 +55,7 @@ scix_url: Chupina%203
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |132.85 | 11.414 | 1.153 | -11.036 | -2.826 | 34.392 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |132.85 | 11.414 | 1.153 | -11.036 | -2.826 | 34.392 |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 132.863 | 11.395 | -- | -11.05 | -2.83 | 34.2 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 132.864 | 11.393 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 132.863 | 11.395 | -- | -- | -- | -- 
@@ -64,6 +64,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | 0.010 | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | 0.010 | -- | -- | -- |
 note_asterisk: false
 shared_table: |

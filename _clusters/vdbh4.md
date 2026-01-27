@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>VDBH 4</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well below the mid-plane, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>VDBH 4</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "/search/?dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: VDBH%204
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |114.437 | -36.061 | 0.1 | -0.862 | 2.175 | -- |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |114.437 | -36.061 | 0.1 | -0.862 | 2.175 | -- |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 114.438 | -36.061 | 0.084 | -0.846 | 2.137 | -- |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 114.45 | -36.033 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 114.44 | -36.057 | -- | -- | -- | -- |
@@ -65,6 +65,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.065 | 1.4 | -- | 638 | -0.290 | 1800 | 0.64 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 10.00 | 1.75 | -- | 16 | -- | -- | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 8.13 | 1.05 | -- | 1259 | -0.290 | 1800 | 0.64 | -- |
 note_asterisk: false

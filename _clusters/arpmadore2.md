@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Arp Madore 2</b> is a rich, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, well below the mid-plane, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Arp Madore 2</b> is a rich, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Extremely distant"
 badge_dist_url: "/search/?dist_min=10&dist_max=1000000.0"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: Arp%20Madore%202
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |114.686 | -33.845 | 0.065 | -0.528 | 1.263 | 125.142 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |114.686 | -33.845 | 0.065 | -0.528 | 1.263 | 125.142 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 114.671 | -33.833 | -- | -- | -- | -- |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 114.683 | -33.845 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 114.683 | -33.845 | 0.039 | -0.513 | 1.225 | -- |
@@ -72,6 +72,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 13.34 | 1.77 | -- | 2163 | -0.330 | 12556 | 0.34 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 2163 | -- | 15311 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 10.91 | 1.95 | -- | 4074 | -0.330 | 9800 | 0.34 | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 11.75 | 1.49 | -- | 3020 | -- | -- | -- | -- |

@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Kronberger 31</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, above the mid-plane, affected by high extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~19.61 kpc) differs significantly from the median photometric distance (~12.26 kpc).</p>
+    <b>Kronberger 31</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~19.61 kpc) differs significantly from the median photometric distance (~12.26 kpc).</p>
 badge_dist: "Extremely distant"
 badge_dist_url: "/search/?dist_min=10&dist_max=1000000.0"
 badge_av: "High extinction"
@@ -55,7 +55,7 @@ scix_url: Kronberger%2031
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |295.033 | 26.255 | 0.051 | -2.421 | -4.449 | -24.184 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |295.033 | 26.255 | 0.051 | -2.421 | -4.449 | -24.184 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 295.043 | 26.258 | 0.039 | -2.356 | -4.444 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 295.04 | 26.247 | -- | -- | -- | -- |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 295.046 | 26.263 | -- | -- | -- | -- |
@@ -70,14 +70,15 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 12.26 | 3.555 | -- | 316 | -0.370 | 16089 | 0.8 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 14.13 | 3.30 | -- | 794 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 316 | -- | 23878 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 7.59 | 4.09 | -- | 1000 | -0.370 | 8300 | 0.80 | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 12.62 | 3.81 | -- | 316 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 12.62 | 3.81 | -- | 316 | -- | -- | -- | -- |
-    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 11.90* | 2.60* | -- | -- | -- | -- | -- | -- |
+    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 11.90 | 2.60 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 11.90 | 2.60 | -- | -- | -- | -- | -- | -- |
-note_asterisk: true
+note_asterisk: false
 shared_table: |
 
 ---

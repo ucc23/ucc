@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Kronberger 39</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, below the mid-plane, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Kronberger 39</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "/search/?dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: Kronberger%2039
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |163.575 | -61.747 | 0.116 | -4.731 | 1.922 | 46.722 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |163.575 | -61.747 | 0.116 | -4.731 | 1.922 | 46.722 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 163.552 | -61.729 | -- | -- | -- | -- |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 163.557 | -61.738 | -- | -- | -- | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 163.557 | -61.738 | -- | -5.955 | 2.167 | 2.594 |
@@ -70,14 +70,15 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.735 | 2.79 | -- | 1 | -0.053 | 6514 | 0.75 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1 | -- | 28 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 13.00 | 2.42 | -- | 2818 | -0.110 | 13000 | 0.75 | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.47 | 1.12 | -- | 17 | 0.004 | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 4.37 | 3.10 | -- | 1 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.37 | 3.10 | -- | 1 | -- | -- | -- | -- |
-    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 11.10* | 2.79* | -- | -- | -- | -- | -- | -- |
+    | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 11.10 | 2.79 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 11.10 | 2.79 | -- | -- | -- | -- | -- | -- |
-note_asterisk: true
+note_asterisk: false
 shared_table: |
 
 ---

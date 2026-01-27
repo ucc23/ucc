@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 121</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, well below the mid-plane, affected by low extinction. It is catalogued as a massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.73 kpc) differs significantly from the median photometric distance (~0.99 kpc).</p>
+    <b>Collinder 121</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.73 kpc) differs significantly from the median photometric distance (~0.99 kpc).</p>
 badge_dist: "Close"
 badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: Collinder%20121
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |104.1 | -24.75 | 0.174 | -0.201 | 2.08 | 93.923 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |104.1 | -24.75 | 0.174 | -0.201 | 2.08 | 93.923 |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 103.641 | -24.312 | 1.135 | -2.786 | 3.482 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 104.085 | -24.728 | -- | -1.002 | 1.221 | 31.4 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 104.083 | -24.729 | -- | -1.32 | 0.6 | -- |
@@ -73,7 +73,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.88* | -- | -- | -- | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 0.09 | -- | 12 | -- | 4365 | -- | -- |
+    | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.88<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.54 | 0.09 | -- | 12 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 1.10 | -- | -- | 12 | -- | 4365 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.10 | 0.12 | -- | 12 | -- | -- | -- | -- |

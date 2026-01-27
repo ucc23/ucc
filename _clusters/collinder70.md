@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 70</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, well below the mid-plane, affected by low extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.22 kpc) differs significantly from the median photometric distance (~0.39 kpc).</p>
+    <b>Collinder 70</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.22 kpc) differs significantly from the median photometric distance (~0.39 kpc).</p>
 badge_dist: "Very close"
 badge_dist_url: "/search/?dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: Collinder%2070
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |83.896 | -1.115 | 0.237 | 0.947 | -0.246 | 41.52 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |83.896 | -1.115 | 0.237 | 0.947 | -0.246 | 41.52 |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 83.948 | -0.88 | -- | 1.77 | -0.92 | 20.3 |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 83.88 | -1.099 | -- | 0.15 | -0.7 | 19.9 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 83.875 | -1.1 | -- | -0.17 | -1.59 | -- |
@@ -71,10 +71,11 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 0.12 | -- | 8 | -0.100 | 2818 | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | -0.100 | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.38 | 0.13 | -- | 10 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.39 | -- | -- | 10 | -- | 2818 | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.39 | 0.12 | -- | 5 | -- | 3648* | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.39 | 0.12 | -- | 5 | -- | 3648<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.39 | 0.12 | -- | 5 | -- | 2023 | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.39 | 0.12 | -- | 10 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.39 | 0.12 | -- | 5 | -- | -- | -- | -- |

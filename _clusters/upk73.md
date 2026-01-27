@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UPK 73</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, near the mid-plane, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
+    <b>UPK 73</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "/search/?dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -55,7 +55,7 @@ scix_url: UPK%2073
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |295.32 | 22.08 | 1.553 | 0.706 | -6.499 | -1.431 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |295.32 | 22.08 | 1.553 | 0.706 | -6.499 | -1.431 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 295.356 | 22.066 | 1.557 | 0.716 | -6.537 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 295.41 | 22.034 | -- | 0.74 | -6.51 | -- 
 cds_radec: 295.32034,+22.0797
@@ -63,6 +63,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.63 | 0.05 | -- | 10 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 3 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.63 | -- | -- | 18 | -- | -- | -- | -- |
 note_asterisk: false

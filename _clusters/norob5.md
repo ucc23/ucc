@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Nor OB5</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, above the mid-plane, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, very young cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 18 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Nor OB5</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 18 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -55,7 +55,7 @@ scix_url: Nor%20OB5
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |242.603 | -49.046 | 0.534 | -2.042 | -2.151 | -23.718 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |242.603 | -49.046 | 0.534 | -2.042 | -2.151 | -23.718 |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 242.629 | -49.041 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 242.41 | -48.94 | -- | 1.0 | -- | -23.14 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 242.629 | -49.041 | -- | -- | -- | -- |
@@ -65,7 +65,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.80 | 2.67 | -- | 13 | -- | 599791* | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.8 | 2.67 | -- | 13 | -- | 348645 | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.80 | 2.67 | -- | 13 | -- | 599791<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.80 | 2.67 | -- | 13 | -- | 97499 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.80 | 2.67 | -- | 13 | -- | -- | -- | -- |
 note_asterisk: true

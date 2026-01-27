@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>SAI 99</b> is a rich, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, above the mid-plane, affected by very high extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.19 kpc) differs significantly from the median photometric distance (~3.31 kpc).</p>
+    <b>SAI 99</b> is a rich, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by very high extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.19 kpc) differs significantly from the median photometric distance (~3.31 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "/search/?dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
@@ -55,7 +55,7 @@ scix_url: SAI%2099
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |134.492 | -43.396 | 0.162 | -3.129 | 2.919 | 103.703 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |134.492 | -43.396 | 0.162 | -3.129 | 2.919 | 103.703 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 134.519 | -43.409 | -- | -- | -- | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 134.518 | -43.411 | -- | -- | -- | -- 
 cds_radec: 134.49214,-43.39626
@@ -63,6 +63,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.31 | 5.7 | -- | 891 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 3.31 | 5.70 | -- | 891 | -- | -- | -- | -- |
 note_asterisk: false
 shared_table: |

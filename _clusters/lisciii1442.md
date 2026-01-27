@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>LISC-III 1442</b> is a moderately populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, well above the mid-plane, affected by low extinction. It is catalogued as a metal-rich cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
+    <b>LISC-III 1442</b> is a moderately populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by low extinction. It is catalogued as a metal-rich cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 badge_dist: "Distant"
 badge_dist_url: "/search/?dist_min=3&dist_max=5"
 badge_av: "Low extinction"
@@ -55,13 +55,14 @@ scix_url: LISC-III%201442
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |96.723 | 40.392 | 0.281 | 0.419 | -1.805 | -8.421 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |96.723 | 40.392 | 0.281 | 0.419 | -1.805 | -8.421 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 96.728 | 40.396 | 0.278 | 0.442 | -1.839 | -- 
 cds_radec: 96.72272,+40.39234
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.47 | 0.2 | -- | -- | 0.680 | -- | 0.53 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 3.47 | 0.20 | -- | -- | 0.680 | -- | 0.53 | -- |
 note_asterisk: false
 shared_table: |

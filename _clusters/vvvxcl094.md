@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>VVVX CL094</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, above the mid-plane. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 8 years. 
+    <b>VVVX CL094</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 8 years. 
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -56,7 +56,7 @@ scix_url: VVVX%20CL094
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |274.478 | -11.764 | 0.496 | -0.665 | -2.205 | -17.58 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |274.478 | -11.764 | 0.496 | -0.665 | -2.205 | -17.58 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 274.478 | -11.725 | -- | -- | -- | -- 
 cds_radec: 274.47756,-11.76424
 carousel: UCC

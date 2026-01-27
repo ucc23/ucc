@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 471</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close<sup><b>*</b></sup> distance, above the mid-plane, affected by high extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.34 kpc) differs significantly from the median photometric distance (~2.00 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Collinder 471</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.34 kpc) differs significantly from the median photometric distance (~2.00 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "/search/?dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -46,9 +46,9 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars: false
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Catalogue parameters are highly discrepant. No clear radius or kinematic signature identified. More details in Appendix A of the article.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H/abstract' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
-    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Catalogue parameters are highly discrepant. No clear radius or kinematic signature identified. More details in Appendix A of the article.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -58,7 +58,7 @@ scix_url: Collinder%20471
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | -- |332.562 | 73.025 | 2.923 | 5.334 | 1.565 | -17.775 |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |332.562 | 73.025 | 2.923 | 5.334 | 1.565 | -17.775 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 333.393 | 73.346 | 2.928 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 332.563 | 73.032 | 2.93 | 5.321 | 1.632 | -22.556 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 331.682 | 71.972 | -- | -- | -- | -- |
@@ -72,6 +72,7 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 3.1 | 1.39 | 8 | 0.140 | 427 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.34 | 1.64 | -- | 5 | 0.140 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.33 | 0.75 | 1.39 | 5 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 631 | -- | 427 | -- | -- |
