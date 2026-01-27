@@ -96,7 +96,7 @@ async function loadAndNormalizeData() {
       fname: fnames.split(";")[0],
       fnames,
       dist_kpc: num(d.dist),
-      av: num(d.ext),
+      av: num(d.av),
       dav: num(d.diff_ext),
       age: num(d.age),
       met: num(d.met),
