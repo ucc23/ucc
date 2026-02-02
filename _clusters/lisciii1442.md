@@ -33,13 +33,13 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>LISC-III 1442</b> is a moderately populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by low extinction. It is catalogued as a metal-rich cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 badge_dist: "Distant"
-badge_dist_url: "/search/?dist_min=3&dist_max=5"
+badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Low extinction"
-badge_av_url: "/search/?av_min=0&av_max=1"
+badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Metal-rich"
-badge_feh_url: "/search/?feh_min=0.5&feh_max=1"
+badge_feh_url: "feh_min=0.5&feh_max=1"
 badge_age: ""
 badge_age_url: ""
 badge_bss: ""

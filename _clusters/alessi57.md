@@ -33,9 +33,9 @@ UTI_C_dup_desc: Unique
 summary: |
     <b>Alessi 57</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by very high extinction. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.89 kpc) differs significantly from the median photometric distance (~3.90 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
-badge_dist_url: "/search/?dist_min=3&dist_max=5"
+badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
-badge_av_url: "/search/?av_min=5&av_max=10"
+badge_av_url: "av_min=5&av_max=10"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: ""
