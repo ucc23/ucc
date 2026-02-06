@@ -279,12 +279,19 @@ back panel only in Firefox*/
     // color: #666;
 }
 
+.badges-container {
+    display: flex;
+    // align-items: flex-start;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-top: 1rem;
+}
 
 .badges {
     display: flex;
     gap: 0.5rem;
-    margin-top: 1rem;
     flex-wrap: wrap;
+    flex: 1;
 }
 
 .badge {
@@ -293,85 +300,109 @@ back panel only in Firefox*/
     font-size: 0.85rem;
     font-weight: 600;
     border: 1px solid;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.badge-checkbox {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    margin: 0;
+}
+
+.badge-text {
+    user-select: none;
+}
+
+.badge-search-btn {
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    background: #1565c0;
+    color: #fff;
+    border: 1px solid #000;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    align-self: flex-end;
+}
+
+.badge-search-btn:hover {
+    background: #0d47a1;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(21, 101, 192, 0.3);
 }
 
 .badge-dist {
     background: #e3f2fd;
     color: #1565c0;
-    transition: all 0.3s ease;
 }
 .badge-dist:hover {
-    background: #1565c0;
-    color: #fff;
+    background: #bbdefb;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(21, 101, 192, 0.3);
 }
-
 .badge-av {
     background: #f3e5f5;
     color: #7b1fa2;
-    transition: all 0.3s ease;
 }
 .badge-av:hover {
-    background: #7b1fa2;
-    color: #fff;
+    background: #e1bee7;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(123, 31, 162, 0.3);
 }
-
 .badge-mass {
     background: #fff3e0;
     color: #e65100;
-    transition: all 0.3s ease;
 }
 .badge-mass:hover {
-    background: #e65100;
-    color: #fff;
+    background: #ffe0b2;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(230, 81, 0, 0.3);
 }
-
 .badge-feh {
     background: #e8f5e9;
     color: #2e7d32;
-    transition: all 0.3s ease;
 }
 .badge-feh:hover {
-    background: #2e7d32;
-    color: #fff;
+    background: #c8e6c9;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(46, 125, 50, 0.3);
 }
-
 .badge-age {
     background: #fff9c4;
     color: #c17900;
-    transition: all 0.3s ease;
 }
 .badge-age:hover {
-    background: #c17900;
-    color: #fff;
+    background: #fff59d;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(193, 121, 0, 0.3);
 }
-
 .badge-bss {
     background: #e1f5fe;
     color: #0277bd;
-    transition: all 0.3s ease;
 }
 .badge-bss:hover {
-    background: #0277bd;
-    color: #fff;
+    background: #b3e5fc;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(2, 119, 189, 0.3);
 }
-
-
 .badge-no-pars {
     background: #e596a1;
     color: black;
 }
+.badge-no-pars:hover {
+    background: #e596a1;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(165, 42, 42, 0.3);
+}
+
+
 /////////////////////////////////////////////////////////////////////////////////////
 
 

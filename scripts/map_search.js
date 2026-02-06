@@ -1,6 +1,7 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 import { setupCoordToggle } from './toggleButton.js';
 import { generalSearch } from "./search.js";
+import { utiColor, UTI_PALETTE } from './search-utils.js';
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
@@ -20,11 +21,6 @@ const DEFAULTS = {
   Nmax: 100
 };
 
-const UTI_PALETTE = [
-  [223, 165, 179], [243, 187, 181], [252, 214, 194],
-  [254, 239, 210], [254, 254, 232], [237, 247, 211],
-  [212, 236, 201], [181, 222, 195], [165, 202, 185]
-];
 
 const RANGE_TO_NAN_CHECKBOX = {
   feh: "hide_feh_nans",
@@ -63,7 +59,7 @@ async function initialize() {
     }
   } catch (error) {
     console.error("Initialization failed:", error);
-    showError("Failed to load data. Please refresh the page.");
+    // showError("Failed to load data. Please refresh the page.");
   }
 }
 
@@ -276,21 +272,6 @@ function getFilteredPoints() {
   };
 }
 
-// ===== UI RENDERING =====
-function utiColor(v) {
-  const x = Math.min(1, Math.max(0, v));
-  const scaled = x * (UTI_PALETTE.length - 1);
-  const i = Math.floor(scaled);
-  const j = Math.min(i + 1, UTI_PALETTE.length - 1);
-  const t = scaled - i;
-
-  const lerp = (start, end, factor) => Math.round(start + factor * (end - start));
-  const r = lerp(UTI_PALETTE[i][0], UTI_PALETTE[j][0], t);
-  const g = lerp(UTI_PALETTE[i][1], UTI_PALETTE[j][1], t);
-  const b = lerp(UTI_PALETTE[i][2], UTI_PALETTE[j][2], t);
-
-  return `#${((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1)}`;
-}
 
 function buildTable(points, totalCount) {
   const tableContainer = document.getElementById("resultsTable");
@@ -451,7 +432,7 @@ async function updateDisplay() {
     }
   } catch (error) {
     console.error("Update display failed:", error);
-    showError("Failed to update results. Please try again.");
+    // showError("Failed to update results. Please try again.");
   }
 }
 
@@ -490,6 +471,9 @@ function applyUrlParameters() {
 
   const activeRanges = new Set();
 
+  // Check if the nofpars badge is active
+  const nofparsActive = params.has('nofpars')
+
   params.forEach((value, key) => {
     const field = document.querySelector(`[name="${key}"]`);
     if (!field) return;
@@ -508,27 +492,31 @@ function applyUrlParameters() {
     }
   });
 
-  // Enable corresponding NaN checkboxes
-  activeRanges.forEach(range => {
-    const checkboxId = RANGE_TO_NAN_CHECKBOX[range];
-    const checkbox = checkboxId ? document.getElementById(checkboxId) : null;
-    if (checkbox) checkbox.checked = true;
-  });
+  // Enable corresponding NaN checkboxes only if nofpars is NOT active
+  if (!nofparsActive) {
+    activeRanges.forEach(range => {
+      const checkboxId = RANGE_TO_NAN_CHECKBOX[range];
+      const checkbox = checkboxId ? document.getElementById(checkboxId) : null;
+      if (checkbox) checkbox.checked = true;
+    });
+  }
 
   return true;
 }
 
-// ===== ERROR HANDLING =====
-function showError(message) {
-  const tableContainer = document.getElementById("resultsTable");
-  if (tableContainer) {
-    tableContainer.innerHTML = `
-      <div style="color: red; padding: 20px; text-align: center;">
-        ${message}
-      </div>
-    `;
-  }
-}
+
+
+// // ===== ERROR HANDLING =====
+// function showError(message) {
+//   const tableContainer = document.getElementById("resultsTable");
+//   if (tableContainer) {
+//     tableContainer.innerHTML = `
+//       <div style="color: red; padding: 20px; text-align: center;">
+//         ${message}
+//       </div>
+//     `;
+//   }
+// }
 
 // ===== START APPLICATION =====
 initialize();

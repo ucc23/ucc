@@ -1,4 +1,6 @@
-
+// ============================================================================
+// FLIP CARD ANIMATION
+// ============================================================================
 document.addEventListener('DOMContentLoaded', () => {
   const quickFacts = document.querySelector('.quick-facts');
   const qualityMetrics = document.querySelector('.quality-metrics');
@@ -13,59 +15,88 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-
-// Fetch, filter, and download members CSV
-async function getMembersCSV(fname, members_file) {
-    const url = `../../assets/members/membs_${members_file}.csv.gz`;
-
-    const resp = await fetch(url);
-    if (!resp.ok) {
-        console.error("Could not load file:", url);
-        return;
-    }
-
-    const ds = resp.body.pipeThrough(new DecompressionStream("gzip"));
-    const text = await new Response(ds).text();
-
-    const lines = text.trim().split("\n");
-    const header = lines[0];
-    const rows = lines.slice(1);
-
-    const cols = header.split(",");
-    const nameIdx = cols.indexOf("name");
-    if (nameIdx === -1) {
-        console.error("Column 'name' not found.");
-        return;
-    }
-
-    const filtered = rows.filter(r => {
-        const fields = r.split(",");
-        return fields[nameIdx] === fname;
-    });
-
-    const newHeader = cols.filter((_, i) => i !== nameIdx).join(",");
-    const newRows = filtered.map(r => {
-        const fields = r.split(",");
-        return fields.filter((_, i) => i !== nameIdx).join(",");
-    });
-
-    const output = [newHeader, ...newRows].join("\n");
-
-    const blob = new Blob([output], { type: "text/csv" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = `${fname}_ucc_members.csv`;
-    a.click();
-    URL.revokeObjectURL(a.href);
+// ============================================================================
+// BADGE SEARCH
+// ============================================================================
+function searchBadges() {
+  const checkboxes = document.querySelectorAll('.badge-checkbox:checked:not([disabled])');
+  
+  if (checkboxes.length === 0) {
+    // alert('Please select at least one badge to search');
+    return;
+  }
+  
+  const urls = Array.from(checkboxes).map(cb => cb.dataset.url);
+  const combinedUrl = "/search/?" + urls.join('&');
+  window.open(combinedUrl, '_blank');
 }
 
-// Members CSV download
+document.addEventListener('DOMContentLoaded', () => {
+  const searchBtn = document.querySelector('.badge-search-btn');
+  if (searchBtn) {
+    searchBtn.addEventListener('click', searchBadges);
+  }
+});
+
+
+// ============================================================================
+// MEMBERS CSV DOWNLOAD
+// ============================================================================
+async function getMembersCSV(fname, members_file) {
+  const url = `../../assets/members/membs_${members_file}.csv.gz`;
+
+  const resp = await fetch(url);
+  if (!resp.ok) {
+    console.error("Could not load file:", url);
+    return;
+  }
+
+  const ds = resp.body.pipeThrough(new DecompressionStream("gzip"));
+  const text = await new Response(ds).text();
+
+  const lines = text.trim().split("\n");
+  const header = lines[0];
+  const rows = lines.slice(1);
+
+  const cols = header.split(",");
+  const nameIdx = cols.indexOf("name");
+  if (nameIdx === -1) {
+    console.error("Column 'name' not found.");
+    return;
+  }
+
+  const filtered = rows.filter(r => {
+    const fields = r.split(",");
+    return fields[nameIdx] === fname;
+  });
+
+  const newHeader = cols.filter((_, i) => i !== nameIdx).join(",");
+  const newRows = filtered.map(r => {
+    const fields = r.split(",");
+    return fields.filter((_, i) => i !== nameIdx).join(",");
+  });
+
+  const output = [newHeader, ...newRows].join("\n");
+
+  const blob = new Blob([output], { type: "text/csv" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `${fname}_ucc_members.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
 const downloadButton = document.getElementById('downloadMembersCSV');
-downloadButton.addEventListener('click', () => getMembersCSV(window.fname, window.members_file));
+if (downloadButton) {
+  downloadButton.addEventListener('click', () => getMembersCSV(window.fname, window.members_file));
+}
 
 
-//
+// ============================================================================
+// TABLE SORTING
+// ============================================================================
 import { enableTableSorting } from "./table-sorting.js";
+
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("table").forEach((table) => {
     enableTableSorting(table);
@@ -73,91 +104,90 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
+// ============================================================================
+// CLUSTER REGION PLOT (LAZY LOADING)
+// ============================================================================
 function loadClusterRegionPlot() {
-    const plotly = document.createElement('script');
-    plotly.src = 'https://cdn.jsdelivr.net/npm/plotly.js-dist-min/plotly.min.js';
-    plotly.onload = () => {
-        const s = document.createElement('script');
-        s.type = 'module';
-        s.src = `${window.baseurl}/scripts/radec_scatter.js`;
-        document.body.appendChild(s);
-    };
-    document.body.appendChild(plotly);
+  const plotly = document.createElement('script');
+  plotly.src = 'https://cdn.jsdelivr.net/npm/plotly.js-dist-min/plotly.min.js';
+  plotly.onload = () => {
+    const s = document.createElement('script');
+    s.type = 'module';
+    s.src = `${window.baseurl}/scripts/radec_scatter.js`;
+    document.body.appendChild(s);
+  };
+  document.body.appendChild(plotly);
 }
 
 
-// Makes all first tabs in all data-sections active
+// ============================================================================
+// TAB SYSTEM
+// ============================================================================
+// Initialize first tab in each data section as active
 document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('.data-section').forEach(section => {
-        const firstTab = section.querySelector('.tab');
-        const firstContent = section.querySelector('.tab-content');
+  document.querySelectorAll('.data-section').forEach(section => {
+    const firstTab = section.querySelector('.tab');
+    const firstContent = section.querySelector('.tab-content');
 
-        if (firstTab && firstContent) {
-            firstTab.classList.add('active');
-            firstContent.classList.add('active');
-        }
-    });
+    if (firstTab && firstContent) {
+      firstTab.classList.add('active');
+      firstContent.classList.add('active');
+    }
+  });
 });
-
-
 
 let clRegionLoaded = false;
 
 function switchTab(event, tabId) {
-    const dataSection = event.target.closest('.data-section');
+  const dataSection = event.target.closest('.data-section');
 
-    dataSection.querySelectorAll('.tab').forEach(tab =>
-        tab.classList.remove('active')
-    );
+  dataSection.querySelectorAll('.tab').forEach(tab =>
+    tab.classList.remove('active')
+  );
 
-    dataSection.querySelectorAll('.tab-content').forEach(content =>
-        content.classList.remove('active')
-    );
+  dataSection.querySelectorAll('.tab-content').forEach(content =>
+    content.classList.remove('active')
+  );
 
-    event.target.classList.add('active');
-    const activeTab = dataSection.querySelector(`#${tabId}`);
-    activeTab.classList.add('active');
+  event.target.classList.add('active');
+  const activeTab = dataSection.querySelector(`#${tabId}`);
+  activeTab.classList.add('active');
 
-    // Lazy load Plotly + plot code only when needed
-    if (tabId === 'cl_region' && !clRegionLoaded) {
-        loadClusterRegionPlot();
-        clRegionLoaded = true;
-    }
+  // Lazy load Plotly + plot code only when needed
+  if (tabId === 'cl_region' && !clRegionLoaded) {
+    loadClusterRegionPlot();
+    clRegionLoaded = true;
+  }
 }
-
 
 // Activate tab by IDs
 function activateTabById(event, tabButtonId, tabContentId) {
-    event.preventDefault();
+  event.preventDefault();
 
-    const tabButton = document.getElementById(tabButtonId);
-    if (!tabButton) return;
+  const tabButton = document.getElementById(tabButtonId);
+  if (!tabButton) return;
 
-    switchTab({ target: tabButton }, tabContentId);
+  switchTab({ target: tabButton }, tabContentId);
 
-    tabButton.focus({ preventScroll: true });
+  tabButton.focus({ preventScroll: true });
 
-    // Force the tab to the top of the viewport
-    tabButton.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
-        inline: 'nearest'
-    });
+  // Force the tab to the top of the viewport
+  tabButton.scrollIntoView({
+    behavior: 'smooth',
+    block: 'start',
+    inline: 'nearest'
+  });
 }
 
-
-// expose for inline handlers
+// Expose for inline handlers
 window.switchTab = switchTab;
 window.activateTabById = activateTabById;
 
 
-
-
-
-
-//
-//
-// Umami tracking
+// ============================================================================
+// COMMENTED OUT: UMAMI TRACKING & LAZY LOADING
+// ============================================================================
+// Uncomment if needed in the future
 
 // // For UTI click
 // const button = document.getElementById('UTI-button');
@@ -183,30 +213,4 @@ window.activateTabById = activateTabById;
 //     det?.addEventListener('toggle', () => {
 //         if (det.open) umami.track(elementId);
 //     });
-// });
-
-
-
-// // RADEC positions lazy load
-// const details = document.getElementById('cluster-region');
-// let loaded = false;
-// details.addEventListener('toggle', () => {
-//     if (details.open && !loaded) {
-//         const s = document.createElement('script');
-//         s.type = 'module';
-//         s.src = `${window.baseurl}/scripts/radec_scatter.js`;
-//         document.body.appendChild(s);
-//         loaded = true;
-//     }
-// });
-
-// // Galactocentric position lazy load
-// document.getElementById("gcpos").addEventListener("toggle", function () {
-//     if (this.open) {
-//         const img = this.querySelector("img");
-//         if (!img.src) {
-//             img.src = img.dataset.src;
-//             img.onerror = () => img.alt = "Image failed to load";
-//         }
-//     }
 // });
