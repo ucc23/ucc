@@ -44,7 +44,7 @@ badge_age: "Intermediate age"
 badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Originally catalogued as a sparse cluster overlapping NGC 1750 and NGC 1758. Modern studies find no distinct third object; considered non-existent. More details in Appendix A of the article.</p>
 

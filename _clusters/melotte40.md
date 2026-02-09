@@ -44,7 +44,7 @@ badge_age: "Old"
 badge_age_url: "age_min=1000&age_max=5000"
 badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R/abstract' target='_blank'>Rain et al. (2024)</a></u><br>Several BSS candidates lie blueward of the ZAMS, possibly due to misclassification or photometric errors. Excluding these, the remaining BSSs and the YSS are well matched by binary evolutionary tracks.</p>

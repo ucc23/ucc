@@ -44,7 +44,7 @@ badge_age: ""
 badge_age_url: ""
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: true
+badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2020A&A...635A..45C/abstract' target='_blank'>Castro-Ginard et al. (2020)</a></u><br>Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5.</p>
 

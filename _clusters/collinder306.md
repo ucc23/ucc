@@ -44,7 +44,7 @@ badge_age: "Young"
 badge_age_url: "age_min=20&age_max=100"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Listed in WEBDA but with no parameters. Multiple studies report inability to identify a real cluster. More details in Appendix A of the article.</p>
 

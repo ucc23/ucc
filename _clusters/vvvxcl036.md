@@ -44,7 +44,7 @@ badge_age: ""
 badge_age_url: ""
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: true
+badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Embedded group+ Maser: Caswell OH 332.295+02.280?+YSO: 2MASS J16054183-4911294.</p>
 

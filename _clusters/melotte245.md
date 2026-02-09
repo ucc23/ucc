@@ -44,7 +44,7 @@ badge_age: "Old"
 badge_age_url: "age_min=1000&age_max=5000"
 badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R/abstract' target='_blank'>Rain et al. (2024)</a></u><br>The cluster shows evidence for a double BSS sequence, less pronounced than in Melotte 66. Both sequences are consistent with different binary evolution tracks. Independent studies confirm several BSSs as binaries, but CMD positions of binary and apparently single BSSs overlap without clear separation.</p>

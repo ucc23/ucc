@@ -44,7 +44,7 @@ badge_age: ""
 badge_age_url: ""
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
 
 class3: |

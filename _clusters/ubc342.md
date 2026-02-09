@@ -44,7 +44,7 @@ badge_age: "Very young"
 badge_age_url: "age_min=0&age_max=20"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
 

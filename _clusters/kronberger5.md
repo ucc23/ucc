@@ -44,7 +44,7 @@ badge_age: "Intermediate age"
 badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Kronberger, M. 2005, private communication)</p>
 

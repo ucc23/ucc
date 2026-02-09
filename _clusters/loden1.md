@@ -44,7 +44,7 @@ badge_age: "Intermediate age"
 badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Initially proposed as an old nearby cluster, but radial velocity studies show no co-moving group; not physical. More details in Appendix A of the article.</p>
 

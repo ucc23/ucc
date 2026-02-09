@@ -44,7 +44,7 @@ badge_age: "Very young"
 badge_age_url: "age_min=0&age_max=20"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Dutra et al. 2003, A&A 408, 127)</p>
 

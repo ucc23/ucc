@@ -44,7 +44,7 @@ badge_age: "Very young"
 badge_age_url: "age_min=0&age_max=20"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
 
 class3: |

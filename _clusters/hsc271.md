@@ -44,7 +44,7 @@ badge_age: "Intermediate age"
 badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 

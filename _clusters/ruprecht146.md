@@ -44,7 +44,7 @@ badge_age: "Old"
 badge_age_url: "age_min=1000&age_max=5000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453)</p>
 

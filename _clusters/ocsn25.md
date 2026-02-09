@@ -44,7 +44,7 @@ badge_age: "Young"
 badge_age_url: "age_min=20&age_max=100"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
 
 class3: |

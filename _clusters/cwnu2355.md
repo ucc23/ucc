@@ -44,7 +44,7 @@ badge_age: "Old"
 badge_age_url: "age_min=1000&age_max=5000"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars: false
+badge_nofpars_url: ""
 comments: |
 
 class3: |
