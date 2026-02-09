@@ -9,6 +9,11 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260209](https://doi.org/10.5281/zenodo.18550504)
+
+- Added median and stddev columns for fundamental parameters
+
+
 ## Version [260116](https://zenodo.org/records/18273310)
 
 - Added van den Bergh (2006)
