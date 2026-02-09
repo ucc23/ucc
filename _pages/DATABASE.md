@@ -23,7 +23,7 @@ The UCC currently hosts the following data:
   <tbody>
     <tr>
       <td style="text-align:center;">
-        <a data-umami-event="articles_md" href="/../articles">Articles</a>
+        <a data-umami-event="db_articles" href="/../articles">Articles</a>
       </td>
       <td style="text-align:center;">
         <strong><!-- ND1 -->88<!-- ND2 --></strong>
@@ -31,14 +31,24 @@ The UCC currently hosts the following data:
     </tr>
     <tr>
       <td style="text-align:center;">
-        Clusters
+        <a data-umami-event="db_clusters" href="/../faq/#what-objects-are-included-in-the-ucc">Clusters</a>
       </td>
       <td style="text-align:center;">
         <strong><!-- NT1 -->16736<!-- NT2 --></strong>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center;">Member stars</td>
+      <td style="text-align:center;">
+        <a data-umami-event="db_parameters" href="/../faq/#parameters">Parameters</a>
+      </td>
+      <td style="text-align:center;">
+        <strong><!-- NP1 -->490882<!-- NP2 --></strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <a data-umami-event="db_members" href="/../faq/#how-are-member-stars-selected">Member stars</a>
+      </td>
       <td style="text-align:center;">
         <strong><!-- NM1 -->1049242<!-- NM2 --></strong>
       </td>
