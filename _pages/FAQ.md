@@ -13,9 +13,37 @@ listed here. You can also open a
 if you prefer.
 
 
+If you found the **UCC** useful for your research, please reference its original article
+<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
+et al. (2023)</a>. You can use the following text:
+
+_"This research has made use of the Unified Cluster Catalogue (UCC)~\cite{Perren_2023}"_
+
+{% raw %}
+```
+@ARTICLE{Perren_2023,
+       author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
+        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
+      journal = {\mnras},
+     keywords = {methods: data analysis, catalogues, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = dec,
+       volume = {526},
+       number = {3},
+        pages = {4107-4119},
+          doi = {10.1093/mnras/stad2826},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P}
+}
+```
+{% endraw %}
+
+
+
 <br>
 <hr>
-<br>
+
+<h2>Table of Contents</h2>
+
 
 * TOC
 {:toc}
@@ -268,35 +296,3 @@ Similar to the cluster region plot, the distance is estimated as the inverse of 
 parallax of the **UCC** estimated members.
 
 Radial velocities are used when available and set to 0.0 Km/s when they are not.
-
-
-
-
-## How can I cite the UCC?
-
-If you found the **UCC** useful for your research, please reference its original article
-<a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
-et al. (2023)</a>. You can use the following text:
-
-_"This research has made use of the Unified Cluster Catalogue (UCC)~\cite{Perren_2023}"_
-
-BibTeX entry for the original article: 
-
-{% raw %}
-```
-@ARTICLE{Perren_2023,
-       author = {{Perren}, Gabriel I. and {Pera}, Mar{\'\i}a S. and {Navone}, Hugo D. and {V{\'a}zquez}, Rub{\'e}n A.},
-        title = "{The Unified Cluster Catalogue: towards a comprehensive and homogeneous data base of stellar clusters}",
-      journal = {\mnras},
-     keywords = {methods: data analysis, catalogues, open clusters and associations: general, Astrophysics - Astrophysics of Galaxies},
-         year = 2023,
-        month = dec,
-       volume = {526},
-       number = {3},
-        pages = {4107-4119},
-          doi = {10.1093/mnras/stad2826},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P}
-}
-```
-{% endraw %}
-

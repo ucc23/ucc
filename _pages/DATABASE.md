@@ -52,7 +52,7 @@ detailed queries.
 
 <p class="standout">
 If you found the UCC useful in your research, please consider 
-<a data-umami-event="cite_faq" href="https://ucc.ar/faq/#how-can-i-cite-the-ucc">citing it</a>.
+<a data-umami-event="cite_faq" href="{{ page.baseurl}}/faq">citing it</a>.
 </p>
 
 
