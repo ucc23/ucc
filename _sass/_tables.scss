@@ -148,3 +148,45 @@ table.sortable thead th {
 table.sortable thead th:hover {
     background-color: #e6f3ff !important; /* light blue highlight */
 }
+
+
+
+
+// Fuzzy search
+
+/* Search bar styles */
+.search-container {
+margin: 20px 0;
+padding: 15px;
+background: #f5f5f5;
+border-radius: 8px;
+}
+
+.search-input {
+width: 100%;
+padding: 12px 20px;
+font-size: 16px;
+border: 2px solid #ddd;
+border-radius: 6px;
+box-sizing: border-box;
+transition: border-color 0.3s;
+}
+
+.search-input:focus {
+outline: none;
+border-color: #4CAF50;
+}
+
+.search-stats {
+margin-top: 10px;
+font-size: 14px;
+color: #666;
+}
+
+table tbody tr.hidden {
+display: none;
+}
+
+table tbody tr.no-match {
+opacity: 0.3;
+}

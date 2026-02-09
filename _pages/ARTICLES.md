@@ -9,6 +9,18 @@ These are the articles whose databases are currently included in the **UCC**. Th
 modifications and corrections made to each one before including it in the **UCC**
 are presented <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
+<!-- Search bar -->
+<div class="search-container">
+  <input 
+    type="text" 
+    class="search-input" 
+    placeholder="Search articles by title, author, or year..." 
+    autocomplete="off"
+    autofocus
+  />
+  <div class="search-stats"></div>
+</div>
+
 <!-- Begin table 1 -->
 
 | Title | Author(s) | Year | Vizier | N | CSV |
@@ -104,6 +116,9 @@ are presented <a data-umami-event="dbs_edits" href="/../dbs_edits">here</a>.
 
 <!-- End table 1 -->
 
+
+<!-- Import fuzzy search script -->
+<script src="{{ site.baseurl }}/scripts/table-fuzzy-search.js"></script>
 
 <script type="module">
 import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
