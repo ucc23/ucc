@@ -1,7 +1,7 @@
 import { loadCompressedCsv } from "./loadCSV.js";
 import { setupCoordToggle } from './toggleButton.js';
 import { generalSearch } from "./search.js";
-import { utiColor, UTI_PALETTE } from './search-utils.js';
+import { utiColor, UTI_PALETTE, galacticToCartesian } from './search-utils.js';
 import { stringDifference } from './stringDifference.js';
 import { enableTableSorting } from './table-sorting.js';
 
@@ -78,11 +78,17 @@ function setupTableContainer() {
 
 async function loadAndNormalizeData() {
   const data = await loadCompressedCsv();
-  
+
   return data.map(d => {
     const fnames = d.fnames || "";
     const num = v => (v === "" || v == null) ? NaN : +v;
-    
+
+    const { x, y } = galacticToCartesian(
+      parseFloat(d.GLON),
+      parseFloat(d.GLAT),
+      +d.dist_plx_pc
+    );
+
     return {
       Name: d.Name,
       RA_ICRS: +d.RA_ICRS,
@@ -104,6 +110,8 @@ async function loadAndNormalizeData() {
       uti: +d.UTI,
       pdup: +d.P_dup,
       badoc: d.bad_oc,
+      x,
+      y
     };
   });
 }
@@ -288,6 +296,17 @@ function buildTable(points, totalCount) {
   const coord1 = coordsys === "gal" ? "LON" : "RA";
   const coord2 = coordsys === "gal" ? "LAT" : "DEC";
 
+  // Large table warning message
+  const largeTableWarning = points.length >= 1000 ? `
+    <div style="width:${width}px; padding:10px; margin-bottom:10px; background-color:#fff3cd; border:1px solid #ffc107; border-radius:4px; text-align:center;">
+      For better performance on large searches, use
+      <a href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/search_ntbk.ipynb" target="_blank" style="color:#0066cc; text-decoration:underline;">Colab</a> 
+      or download the
+      <a href="https://doi.org/10.5281/zenodo.8250523" target="_blank" style="color:#0066cc; text-decoration:underline;">full catalogue</a> 
+      to process locally
+    </div>
+  ` : '';
+
   const tableRows = points.map((d, i) => {
     const xCoord = coordsys === "gal" ? d.GLON : d.RA_ICRS;
     const yCoord = coordsys === "gal" ? d.GLAT : d.DE_ICRS;
@@ -320,6 +339,7 @@ function buildTable(points, totalCount) {
   }).join('');
 
   tableContainer.innerHTML = `
+    ${largeTableWarning}
     <div style="width:${width}px; display:flex; justify-content:center; align-items:center; margin-bottom:4px; font-weight:bold; color:#666; position:relative;">
       <span style="text-align:center; width:100%;">
         Showing ${points.length} objects (${totalCount} found)

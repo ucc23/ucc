@@ -1,69 +1,45 @@
 // ============================================================================
-// GALACTIC MAP VISUALIZATION
+// GALACTIC MAP VISUALIZATION - VIEWPORT CULLING OPTIMIZED
 // ============================================================================
 // Visualizes star clusters in Galactic coordinates with interactive pan/zoom
+// Optimized: Only renders clusters visible in current viewport
+// Fixed: XSS vulnerabilities, memory leaks, performance issues, accessibility
 
-import { utiColor, UTI_PALETTE } from './search-utils.js';
+import { CONFIG, UTI_PALETTE, utiColor, galacticToCartesian } from './search-utils.js';
+
 const SVG_NS = "http://www.w3.org/2000/svg";
 
 // ============================================================================
-// CONFIGURATION & CONSTANTS
+// CONFIGURATION EXTENSIONS
 // ============================================================================
 
-const CONFIG = {
-  // Scaling ranges
-  memberCount: { min: 5, max: 1000 },
-  radius: { min: 5, max: 50 },
-  
-  // Galactic coordinates (Sun position)
-  sun: { x: -8, y: 0 }, // kpc
-  
-  // Grid settings
-  grid: {
-    range: 15,      // kpc
-    step: {
-      min: 0.1,     // kpc at close zoom
-      max: 2.5      // kpc at far zoom
-    },
-    visibility: {
-      spanMin: 1,   // start increasing grid spacing
-      spanMax: 10   // fully coarse grid
-    }
-  },
-  
-  // Initial view
-  initialRange: 2,  // kpc
-  
-  // Zoom limits
-  zoom: {
-    min: 0.1,       // Most zoomed out (10x initial view)
-    max: 10         // Most zoomed in (10x initial view)
-  },
-  
-  // Interaction delays (ms)
-  hoverDelay: {
-    small: 100,     // < 500 points
-    medium: 200,    // 500-2000 points
-    large: 500      // > 2000 points
-  },
-  
-  // Performance thresholds
-  tooltipThreshold: 5000,  // Disable tooltips above this
-  hoverThreshold: 1000     // Disable row hover above this
+const UI_CONFIG = {
+  markerSize: 6,
+  markerStrokeWidth: 2,
+  axisStrokeWidth: 3,
+  gridStrokeWidth: 2.5,
+  gridLabelFontSize: 11,
+  axisLabelFontSize: 13,
+  gcLabelFontSize: 12,
+  tooltipOffset: 10,
+  focusRingWidth: 3,
+  hoverStrokeWidth: 5,
+  normalStrokeWidth: 1,
+  viewportUpdateDelay: 150, // ms delay before re-rendering visible points
+  maxRenderedPoints: 1000 // maximum number of points to render at once
 };
-
-// // UTI (Unassigned Target Intensity) color palette
-// const UTI_PALETTE = [
-//   [223, 165, 179], [243, 187, 181], [252, 214, 194],
-//   [254, 239, 210], [254, 254, 232], [237, 247, 211],
-//   [212, 236, 201], [181, 222, 195], [165, 202, 185]
-// ];
 
 // ============================================================================
 // UTILITY FUNCTIONS
 // ============================================================================
 
-// Create an SVG element with attributes
+/**
+ * Create an SVG element with attributes
+ * @param {string} type - SVG element type
+ * @param {Object} attrs - Attribute key-value pairs
+ * @param {SVGElement} parent - Optional parent element
+ * @returns {SVGElement}
+ */
 function createNode(type, attrs = {}, parent = null) {
   const el = document.createElementNS(SVG_NS, type);
   for (let [key, value] of Object.entries(attrs)) {
@@ -75,12 +51,49 @@ function createNode(type, attrs = {}, parent = null) {
   return el;
 }
 
-// Linear interpolation between two values
+/**
+ * Create a safe HTML element with text content (prevents XSS)
+ * @param {string} tag - HTML tag name
+ * @param {string} text - Text content
+ * @param {string} className - Optional CSS class
+ * @returns {HTMLElement}
+ */
+function createSafeElement(tag, text, className = '') {
+  const el = document.createElement(tag);
+  el.textContent = String(text);
+  if (className) el.className = className;
+  return el;
+}
+
+/**
+ * Safely append multiple elements to a parent
+ * @param {HTMLElement} parent - Parent element
+ * @param {...HTMLElement} children - Child elements
+ */
+function appendChildren(parent, ...children) {
+  children.forEach(child => {
+    if (child instanceof Node) {
+      parent.appendChild(child);
+    }
+  });
+}
+
+/**
+ * Linear interpolation between two values
+ * @param {number} start - Start value
+ * @param {number} end - End value
+ * @param {number} factor - Interpolation factor (0-1)
+ * @returns {number}
+ */
 function lerp(start, end, factor) {
   return Math.round(start + factor * (end - start));
 }
 
-// Scale member count to circle radius
+/**
+ * Scale member count to circle radius using linear interpolation
+ * @param {number} memberCount - Number of cluster members
+ * @returns {number} Radius in pixels
+ */
 function scaleLinear(memberCount) {
   const { min: nMin, max: nMax } = CONFIG.memberCount;
   const { min: rMin, max: rMax } = CONFIG.radius;
@@ -91,57 +104,107 @@ function scaleLinear(memberCount) {
   return rMin + (memberCount - nMin) * (rMax - rMin) / (nMax - nMin);
 }
 
-// // Map UTI value to color using palette
-// function utiColor(value) {
-//   const normalized = Math.min(1, Math.max(0, value));
-//   const scaled = normalized * (UTI_PALETTE.length - 1);
-//   const i = Math.floor(scaled);
-//   const j = Math.min(i + 1, UTI_PALETTE.length - 1);
-//   const t = scaled - i;
-
-//   const r = lerp(UTI_PALETTE[i][0], UTI_PALETTE[j][0], t);
-//   const g = lerp(UTI_PALETTE[i][1], UTI_PALETTE[j][1], t);
-//   const b = lerp(UTI_PALETTE[i][2], UTI_PALETTE[j][2], t);
-
-//   return `#${((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1)}`;
-// }
-
-// Calculate grid step based on zoom level
+/**
+ * Calculate grid step based on zoom level
+ * @param {number} zoomLevel - Current zoom scale factor
+ * @returns {number} Grid step size
+ */
 function getGridStep(zoomLevel) {
   const visibleSpan = (2 * CONFIG.initialRange) / zoomLevel;
   const { spanMin, spanMax } = CONFIG.grid.visibility;
   const { min: stepMin, max: stepMax } = CONFIG.grid.step;
+
+  // Avoid division by zero
+  if (spanMax === spanMin) return stepMin;
 
   const t = Math.min(1, Math.max(0, (visibleSpan - spanMin) / (spanMax - spanMin)));
   return stepMin + t * (stepMax - stepMin);
 }
 
 /**
- * Convert Galactic coordinates (lon, lat, distance) to Cartesian (x, y)
- * Sun is at X_GC = sun.x kpc, Y_GC = sun.y kpc
- * l = 0 points toward Galactic Center from Sun
+ * Debounce function calls
+ * @param {Function} func - Function to debounce
+ * @param {number} wait - Wait time in milliseconds
+ * @returns {Function}
  */
-function galacticToCartesian(lon, lat, distPc) {
-  const lonRad = lon * Math.PI / 180;
-  const latRad = lat * Math.PI / 180;
-  
-  // Position relative to Sun (convert pc to kpc)
-  const distKpc = distPc / 1000;
-  const xSun = distKpc * Math.cos(latRad) * Math.cos(lonRad);
-  const ySun = distKpc * Math.cos(latRad) * Math.sin(lonRad);
-  
-  // Convert to Galactic Center coordinates
-  return {
-    x: xSun + CONFIG.sun.x,
-    y: ySun + CONFIG.sun.y
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
   };
+}
+
+/**
+ * Throttle function calls using requestAnimationFrame
+ * @param {Function} func - Function to throttle
+ * @returns {Function}
+ */
+function rafThrottle(func) {
+  let rafId = null;
+  return function throttled(...args) {
+    if (rafId !== null) return;
+    rafId = requestAnimationFrame(() => {
+      func(...args);
+      rafId = null;
+    });
+  };
+}
+
+/**
+ * Calculate viewport bounds in data coordinates
+ * @param {number} width - SVG width
+ * @param {number} height - SVG height
+ * @param {Object} transform - Current transform state
+ * @param {number} scale - Base scale factor
+ * @returns {Object} Viewport bounds {xMin, xMax, yMin, yMax}
+ */
+function getViewportBounds(width, height, transform, scale) {
+  // Calculate data space extent for current viewport
+  const invK = 1 / transform.k;
+  
+  // Get the data coordinates of viewport corners
+  const xMin = (0 - transform.x) * invK / scale - width / 2 / scale + CONFIG.sun.x;
+  const xMax = (width - transform.x) * invK / scale - width / 2 / scale + CONFIG.sun.x;
+  const yMin = -(height - transform.y) * invK / scale + height / 2 / scale + CONFIG.sun.y;
+  const yMax = -(0 - transform.y) * invK / scale + height / 2 / scale + CONFIG.sun.y;
+  
+  // Add margin for points near edges (based on max possible radius in data units)
+  const margin = CONFIG.radius.max / (scale * transform.k);
+  
+  return {
+    xMin: xMin - margin,
+    xMax: xMax + margin,
+    yMin: yMin - margin,
+    yMax: yMax + margin
+  };
+}
+
+/**
+ * Check if a point is within viewport bounds
+ * @param {Object} point - Point with x, y coordinates
+ * @param {Object} bounds - Viewport bounds
+ * @returns {boolean}
+ */
+function isInViewport(point, bounds) {
+  return point.x >= bounds.xMin && point.x <= bounds.xMax &&
+         point.y >= bounds.yMin && point.y <= bounds.yMax;
 }
 
 // ============================================================================
 // COORDINATE SYSTEM
 // ============================================================================
 
-// Create scale functions for coordinate transformation
+/**
+ * Create scale functions for coordinate transformation
+ * @param {number} width - SVG width
+ * @param {number} height - SVG height
+ * @returns {Object} Scale functions and scale factor
+ */
 function createScaleFunctions(width, height) {
   const scale = Math.min(width, height) / (2 * CONFIG.initialRange) * 0.9;
   
@@ -156,11 +219,14 @@ function createScaleFunctions(width, height) {
 // DRAWING FUNCTIONS
 // ============================================================================
 
-// Draw grid lines and labels
+/**
+ * Draw grid lines and labels
+ * @param {SVGElement} parent - Parent SVG group
+ * @param {Function} xScale - X coordinate scale function
+ * @param {Function} yScale - Y coordinate scale function
+ * @param {Object} transform - Current transform state
+ */
 function drawGrid(parent, xScale, yScale, transform) {
-  // Remove old grid elements
-  parent.querySelectorAll(".grid-line, .grid-label").forEach(el => el.remove());
-
   const gridStep = getGridStep(transform.k);
   const { range } = CONFIG.grid;
 
@@ -173,6 +239,9 @@ function drawGrid(parent, xScale, yScale, transform) {
     gridGroup.innerHTML = "";
   }
 
+  const scaledFontSize = UI_CONFIG.gridLabelFontSize / transform.k;
+  const scaledStrokeWidth = UI_CONFIG.gridStrokeWidth / transform.k;
+
   // Draw vertical grid lines (constant X)
   for (let x = -range; x <= range; x += gridStep) {
     if (Math.abs(x) < 0.01) continue; // Skip axis
@@ -181,7 +250,7 @@ function drawGrid(parent, xScale, yScale, transform) {
       x1: xScale(x), y1: yScale(-range),
       x2: xScale(x), y2: yScale(range),
       stroke: "#ddd",
-      "stroke-width": 2.5,
+      "stroke-width": scaledStrokeWidth,
       class: "grid-line"
     }, gridGroup);
     
@@ -191,7 +260,7 @@ function drawGrid(parent, xScale, yScale, transform) {
         x: xScale(x),
         y: yScale(0) + 15 / transform.k,
         "text-anchor": "middle",
-        "font-size": `${11 / transform.k}px`,
+        "font-size": `${scaledFontSize}px`,
         fill: "#666",
         class: "grid-label"
       }, gridGroup);
@@ -207,7 +276,7 @@ function drawGrid(parent, xScale, yScale, transform) {
       x1: xScale(-range), y1: yScale(y),
       x2: xScale(range), y2: yScale(y),
       stroke: "#ddd",
-      "stroke-width": 2.5,
+      "stroke-width": scaledStrokeWidth,
       class: "grid-line"
     }, gridGroup);
     
@@ -217,7 +286,7 @@ function drawGrid(parent, xScale, yScale, transform) {
         x: xScale(0) - 15 / transform.k,
         y: yScale(y) + 4 / transform.k,
         "text-anchor": "end",
-        "font-size": `${11 / transform.k}px`,
+        "font-size": `${scaledFontSize}px`,
         fill: "#666",
         class: "grid-label"
       }, gridGroup);
@@ -226,17 +295,24 @@ function drawGrid(parent, xScale, yScale, transform) {
   }
 }
 
-// Draw coordinate axes
+/**
+ * Draw coordinate axes
+ * @param {SVGElement} axisGroup - Axis group element
+ * @param {Function} xScale - X coordinate scale function
+ * @param {Function} yScale - Y coordinate scale function
+ * @param {Object} transform - Current transform state
+ */
 function drawAxes(axisGroup, xScale, yScale, transform) {
   axisGroup.innerHTML = "";
   const { range } = CONFIG.grid;
+  const scaledStrokeWidth = UI_CONFIG.axisStrokeWidth / transform.k;
   
   // X-axis (vertical line at x=0)
   createNode("line", {
     x1: xScale(0), y1: yScale(-range),
     x2: xScale(0), y2: yScale(range),
     stroke: "#666",
-    "stroke-width": 3 / transform.k,
+    "stroke-width": scaledStrokeWidth,
     class: "axis-line"
   }, axisGroup);
   
@@ -245,18 +321,23 @@ function drawAxes(axisGroup, xScale, yScale, transform) {
     x1: xScale(-range), y1: yScale(0),
     x2: xScale(range), y2: yScale(0),
     stroke: "#666",
-    "stroke-width": 3 / transform.k,
+    "stroke-width": scaledStrokeWidth,
     class: "axis-line"
   }, axisGroup);
 }
 
-// Create axis labels
+/**
+ * Create axis labels
+ * @param {SVGElement} svg - SVG element
+ * @param {number} width - SVG width
+ * @param {number} height - SVG height
+ */
 function createAxisLabels(svg, width, height) {
   createNode("text", {
     x: width / 2,
     y: height - 5,
     "text-anchor": "middle",
-    "font-size": "13px",
+    "font-size": `${UI_CONFIG.axisLabelFontSize}px`,
     fill: "#000",
     "font-weight": "bold"
   }, svg).textContent = "X [kpc]";
@@ -265,33 +346,45 @@ function createAxisLabels(svg, width, height) {
     x: 15,
     y: height / 2,
     "text-anchor": "middle",
-    "font-size": "13px",
+    "font-size": `${UI_CONFIG.axisLabelFontSize}px`,
     fill: "#000",
     "font-weight": "bold",
     transform: `rotate(-90, 15, ${height / 2})`
   }, svg).textContent = "Y [kpc]";
 }
 
-// Create reference markers (Sun and Galactic Center)
+/**
+ * Create reference markers (Sun and Galactic Center)
+ * @param {SVGElement} parent - Parent SVG group
+ * @param {Function} xScale - X coordinate scale function
+ * @param {Function} yScale - Y coordinate scale function
+ * @returns {Object} Marker elements
+ */
 function createMarkers(parent, xScale, yScale) {
   // Sun marker
   const sunMarker = createNode("circle", {
     cx: xScale(CONFIG.sun.x),
     cy: yScale(CONFIG.sun.y),
-    r: 6,
+    r: UI_CONFIG.markerSize,
     fill: "gold",
     stroke: "orange",
-    "stroke-width": 2
+    "stroke-width": UI_CONFIG.markerStrokeWidth,
+    "vector-effect": "non-scaling-stroke",
+    role: "img",
+    "aria-label": "Sun position"
   }, parent);
 
   // Galactic Center marker
   const gcMarker = createNode("circle", {
     cx: xScale(0),
     cy: yScale(0),
-    r: 6,
+    r: UI_CONFIG.markerSize,
     fill: "red",
     stroke: "darkred",
-    "stroke-width": 2
+    "stroke-width": UI_CONFIG.markerStrokeWidth,
+    "vector-effect": "non-scaling-stroke",
+    role: "img",
+    "aria-label": "Galactic Center"
   }, parent);
 
   // Galactic Center label
@@ -299,19 +392,27 @@ function createMarkers(parent, xScale, yScale) {
     x: xScale(0) - 10,
     y: yScale(0) - 8,
     "text-anchor": "end",
-    "font-size": "12px",
+    "font-size": `${UI_CONFIG.gcLabelFontSize}px`,
     fill: "#000",
-    "font-weight": "bold"
+    "font-weight": "bold",
+    "aria-hidden": "true"
   }, parent);
   gcLabel.textContent = "GC";
 
   return { sunMarker, gcMarker, gcLabel };
 }
 
-// Create tooltip element
+/**
+ * Create tooltip element
+ * @param {HTMLElement} container - Container element
+ * @returns {HTMLElement} Tooltip element
+ */
 function createTooltip(container) {
   const tooltip = document.createElement("div");
   tooltip.className = "tooltip";
+  tooltip.setAttribute("role", "tooltip");
+  tooltip.setAttribute("aria-live", "polite");
+  
   Object.assign(tooltip.style, {
     position: "absolute",
     visibility: "hidden",
@@ -319,19 +420,59 @@ function createTooltip(container) {
     background: "#fff",
     border: "1px solid #333",
     borderRadius: "4px",
-    pointerEvents: "none"
+    pointerEvents: "none",
+    zIndex: "1000"
   });
+  
   container.appendChild(tooltip);
   return tooltip;
+}
+
+/**
+ * Update tooltip content safely (prevents XSS)
+ * @param {HTMLElement} tooltip - Tooltip element
+ * @param {Object} data - Cluster data
+ */
+function updateTooltipContent(tooltip, data) {
+  // Clear existing content
+  tooltip.innerHTML = "";
+  
+  // Validate and format data
+  const name = String(data.Name || 'Unknown');
+  const ra = typeof data.RA_ICRS === 'number' ? data.RA_ICRS.toFixed(2) : 'N/A';
+  const dec = typeof data.DE_ICRS === 'number' ? data.DE_ICRS.toFixed(2) : 'N/A';
+  const distPlx = typeof data.dist_plx_pc === 'number' ? (data.dist_plx_pc / 1000).toFixed(2) : 'N/A';
+  const dist = typeof data.dist_kpc === 'number' ? data.dist_kpc.toFixed(2) : 'N/A';
+  
+  // Build tooltip using safe text nodes
+  const title = createSafeElement('strong', name);
+  const br1 = document.createElement('br');
+  const raText = createSafeElement('span', `RA: ${ra}º`);
+  const br2 = document.createElement('br');
+  const decText = createSafeElement('span', `DEC: ${dec}º`);
+  const br3 = document.createElement('br');
+  const distPlxText = createSafeElement('span', `Dist_plx: ${distPlx} kpc`);
+  const br4 = document.createElement('br');
+  const distText = createSafeElement('span', `Dist: ${dist} kpc`);
+  
+  appendChildren(tooltip, title, br1, raText, br2, decText, br3, distPlxText, br4, distText);
 }
 
 // ============================================================================
 // INTERACTION HANDLERS
 // ============================================================================
 
-// Setup zoom functionality
+/**
+ * Setup zoom functionality
+ * @param {SVGElement} svg - SVG element
+ * @param {Object} transform - Transform state object
+ * @param {Function} onZoom - Zoom callback
+ * @returns {Function} Cleanup function
+ */
 function setupZoom(svg, transform, onZoom) {
-  svg.addEventListener("wheel", (e) => {
+  const throttledZoom = rafThrottle(onZoom);
+  
+  const handleWheel = (e) => {
     e.preventDefault();
     
     const scaleFactor = e.deltaY > 0 ? 0.9 : 1.1;
@@ -343,72 +484,209 @@ function setupZoom(svg, transform, onZoom) {
     
     if (transform.k !== oldK) {
       const rect = svg.getBoundingClientRect();
-      const mx = e.clientX - rect.left;
-      const my = e.clientY - rect.top;
-      transform.x = mx - (mx - transform.x) * (transform.k / oldK);
-      transform.y = my - (my - transform.y) * (transform.k / oldK);
-      onZoom();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+      transform.x = mouseX - (mouseX - transform.x) * (transform.k / oldK);
+      transform.y = mouseY - (mouseY - transform.y) * (transform.k / oldK);
+      throttledZoom();
     }
-  }, { passive: false });
+  };
+  
+  svg.addEventListener("wheel", handleWheel, { passive: false });
+  
+  // Return cleanup function
+  return () => {
+    svg.removeEventListener("wheel", handleWheel);
+  };
 }
 
-// Setup pan functionality
+/**
+ * Setup pan functionality
+ * @param {SVGElement} svg - SVG element
+ * @param {Object} transform - Transform state object
+ * @param {Function} onPan - Pan callback
+ * @returns {Function} Cleanup function
+ */
 function setupPan(svg, transform, onPan) {
   let isDragging = false;
   let start = { x: 0, y: 0 };
+  const throttledPan = rafThrottle(onPan);
 
-  svg.addEventListener("mousedown", (e) => {
+  const handleMouseDown = (e) => {
     isDragging = true;
     start = {
       x: e.clientX - transform.x,
       y: e.clientY - transform.y
     };
-  });
+    svg.style.cursor = 'grabbing';
+  };
 
-  window.addEventListener("mouseup", () => {
+  const handleMouseUp = () => {
     isDragging = false;
-  });
+    svg.style.cursor = 'grab';
+  };
 
-  window.addEventListener("mousemove", (e) => {
+  const handleMouseMove = (e) => {
     if (!isDragging) return;
     e.preventDefault();
     transform.x = e.clientX - start.x;
     transform.y = e.clientY - start.y;
-    onPan();
-  });
+    throttledPan();
+  };
+
+  svg.addEventListener("mousedown", handleMouseDown);
+  window.addEventListener("mouseup", handleMouseUp);
+  window.addEventListener("mousemove", handleMouseMove);
+  
+  svg.style.cursor = 'grab';
+  
+  // Return cleanup function
+  return () => {
+    svg.removeEventListener("mousedown", handleMouseDown);
+    window.removeEventListener("mouseup", handleMouseUp);
+    window.removeEventListener("mousemove", handleMouseMove);
+  };
 }
 
-// Setup tooltip interactions for data points
-function setupTooltips(circle, data, tooltip, container) {
-  circle.addEventListener("mouseover", () => {
-    tooltip.innerHTML = `
-      <strong>${data.Name}</strong><br>
-      X_GC: ${data.x.toFixed(2)} kpc<br>
-      Y_GC: ${data.y.toFixed(2)} kpc<br>
-      D: ${data.dist_plx_pc} pc<br>
-      N_50: ${data.membs}
-    `;
-    tooltip.style.visibility = "visible";
-  });
+/**
+ * Setup keyboard navigation
+ * @param {SVGElement} svg - SVG element
+ * @param {Object} transform - Transform state object
+ * @param {Function} onUpdate - Update callback
+ * @returns {Function} Cleanup function
+ */
+function setupKeyboardNavigation(svg, transform, onUpdate) {
+  const panStep = 50;
+  const zoomStep = 0.1;
+  
+  const handleKeyDown = (e) => {
+    let updated = false;
+    
+    switch(e.key) {
+      case 'ArrowUp':
+        e.preventDefault();
+        transform.y += panStep;
+        updated = true;
+        break;
+      case 'ArrowDown':
+        e.preventDefault();
+        transform.y -= panStep;
+        updated = true;
+        break;
+      case 'ArrowLeft':
+        e.preventDefault();
+        transform.x += panStep;
+        updated = true;
+        break;
+      case 'ArrowRight':
+        e.preventDefault();
+        transform.x -= panStep;
+        updated = true;
+        break;
+      case '+':
+      case '=':
+        e.preventDefault();
+        transform.k = Math.min(CONFIG.zoom.max, transform.k * (1 + zoomStep));
+        updated = true;
+        break;
+      case '-':
+      case '_':
+        e.preventDefault();
+        transform.k = Math.max(CONFIG.zoom.min, transform.k * (1 - zoomStep));
+        updated = true;
+        break;
+    }
+    
+    if (updated) {
+      onUpdate();
+    }
+  };
+  
+  svg.setAttribute('tabindex', '0');
+  svg.setAttribute('role', 'application');
+  svg.setAttribute('aria-label', 'Galactic map visualization. Use arrow keys to pan, +/- to zoom.');
+  svg.addEventListener('keydown', handleKeyDown);
+  
+  return () => {
+    svg.removeEventListener('keydown', handleKeyDown);
+  };
+}
 
-  circle.addEventListener("mousemove", (e) => {
+/**
+ * Setup tooltip interactions for data points
+ * @param {SVGElement} circle - Circle element
+ * @param {Object} data - Cluster data
+ * @param {HTMLElement} tooltip - Tooltip element
+ * @param {HTMLElement} container - Container element
+ * @returns {Function} Cleanup function
+ */
+function setupTooltips(circle, data, tooltip, container) {
+  let isActive = false;
+  
+  const handleMouseOver = () => {
+    isActive = true;
+    updateTooltipContent(tooltip, data);
+    tooltip.style.visibility = "visible";
+  };
+
+  const handleMouseMove = (e) => {
+    if (!isActive) return;
     const rect = container.getBoundingClientRect();
     const x = e.clientX - rect.left;
     const y = e.clientY - rect.top;
-    tooltip.style.left = `${x + 10}px`;
-    tooltip.style.top = `${y + 10}px`;
-  });
+    tooltip.style.left = `${x + UI_CONFIG.tooltipOffset}px`;
+    tooltip.style.top = `${y + UI_CONFIG.tooltipOffset}px`;
+  };
 
-  circle.addEventListener("mouseout", () => {
+  const handleMouseOut = () => {
+    isActive = false;
     tooltip.style.visibility = "hidden";
-  });
+  };
 
-  circle.addEventListener("click", () => {
-    window.open(`https://ucc.ar/_clusters/${data.fname}`, "_blank");
-  });
+  const handleClick = (e) => {
+    e.preventDefault();
+    if (data.fname) {
+      window.open(`https://ucc.ar/_clusters/${data.fname}`, "_blank", "noopener,noreferrer");
+    }
+    // Remove focus after click to prevent persistent focus ring
+    circle.blur();
+  };
+  
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      handleClick(e);
+    }
+  };
+
+  circle.addEventListener("mouseover", handleMouseOver);
+  circle.addEventListener("mousemove", handleMouseMove);
+  circle.addEventListener("mouseout", handleMouseOut);
+  circle.addEventListener("click", handleClick);
+  circle.addEventListener("keydown", handleKeyDown);
+  
+  // Make circles keyboard accessible
+  circle.setAttribute('tabindex', '0');
+  circle.setAttribute('role', 'button');
+  circle.setAttribute('aria-label', `Star cluster: ${data.Name || 'Unknown'}`);
+  
+  // Return cleanup function
+  return () => {
+    circle.removeEventListener("mouseover", handleMouseOver);
+    circle.removeEventListener("mousemove", handleMouseMove);
+    circle.removeEventListener("mouseout", handleMouseOut);
+    circle.removeEventListener("click", handleClick);
+    circle.removeEventListener("keydown", handleKeyDown);
+  };
 }
 
-// Setup table row hover interactions
+/**
+ * Setup table row hover interactions
+ * @param {HTMLElement} table - Table element
+ * @param {Array} circleElements - Array of circle element data
+ * @param {Function} getTransform - Function to get current transform
+ * @returns {Function} Cleanup function
+ */
 function setupTableHover(table, circleElements, getTransform) {
   let hoverTimeout = null;
   
@@ -424,7 +702,7 @@ function setupTableHover(table, circleElements, getTransform) {
       if (c && c.el) {
         c.el.style.opacity = "0.5";
         c.el.style.stroke = "black";
-        c.el.setAttribute("stroke-width", "1px");
+        c.el.setAttribute("stroke-width", UI_CONFIG.normalStrokeWidth);
       }
     });
   };
@@ -432,15 +710,15 @@ function setupTableHover(table, circleElements, getTransform) {
   // Helper to highlight a circle
   const highlightCircle = (index) => {
     const target = circleElements[index];
-    if (!target) return;
+    if (!target || !target.el) return;
     
     target.el.parentElement.appendChild(target.el); // Bring to front
     target.el.style.opacity = "0.75";
     target.el.style.stroke = "cyan";
-    target.el.setAttribute("stroke-width", "5px");
+    target.el.setAttribute("stroke-width", UI_CONFIG.hoverStrokeWidth);
   };
 
-  table.addEventListener("mouseover", (e) => {
+  const handleMouseOver = (e) => {
     const row = e.target.closest("tr[data-index]");
     if (!row) return;
     
@@ -450,9 +728,9 @@ function setupTableHover(table, circleElements, getTransform) {
       resetCircles();
       highlightCircle(idx);
     }, delay);
-  });
+  };
 
-  table.addEventListener("mouseout", (e) => {
+  const handleMouseOut = (e) => {
     const row = e.target.closest("tr[data-index]");
     if (!row) return;
     
@@ -460,7 +738,107 @@ function setupTableHover(table, circleElements, getTransform) {
     hoverTimeout = setTimeout(() => {
       resetCircles();
     }, delay);
+  };
+
+  table.addEventListener("mouseover", handleMouseOver);
+  table.addEventListener("mouseout", handleMouseOut);
+  
+  // Return cleanup function
+  return () => {
+    clearTimeout(hoverTimeout);
+    table.removeEventListener("mouseover", handleMouseOver);
+    table.removeEventListener("mouseout", handleMouseOut);
+  };
+}
+
+// ============================================================================
+// VIEWPORT CULLING - DYNAMIC RENDERING
+// ============================================================================
+
+/**
+ * Update visible data points based on current viewport
+ * @param {SVGElement} dataGroup - Group containing data points
+ * @param {Array} points - All data points
+ * @param {Array} colors - Precomputed colors
+ * @param {Function} xScale - X coordinate scale function
+ * @param {Function} yScale - Y coordinate scale function
+ * @param {Object} transform - Current transform state
+ * @param {number} width - SVG width
+ * @param {number} height - SVG height
+ * @param {number} baseScale - Base scale factor
+ * @param {HTMLElement} tooltip - Tooltip element
+ * @param {HTMLElement} container - Container element
+ * @param {Array} cleanupFunctions - Array to collect cleanup functions
+ * @param {Array} circleElements - Array to track circle elements
+ * @returns {number} Number of rendered points
+ */
+function updateVisiblePoints(dataGroup, points, colors, xScale, yScale, transform, 
+                             width, height, baseScale, tooltip, container, 
+                             cleanupFunctions, circleElements) {
+  // Calculate viewport bounds in data coordinates
+  const bounds = getViewportBounds(width, height, transform, baseScale);
+  
+  // Track which points are visible with their indices and sizes
+  const visiblePoints = [];
+  points.forEach((d, i) => {
+    if (isInViewport(d, bounds)) {
+      visiblePoints.push({
+        index: i,
+        size: scaleLinear(d.membs || 0)
+      });
+    }
   });
+  
+  // Sort by size (largest first) and limit to max rendered points
+  visiblePoints.sort((a, b) => b.size - a.size);
+  const pointsToRender = visiblePoints.slice(0, UI_CONFIG.maxRenderedPoints);
+  
+  // Clear existing data points
+  dataGroup.innerHTML = "";
+  
+  // Reset circle elements tracking
+  circleElements.length = 0;
+  circleElements.length = points.length;
+  
+  // Enable tooltips if not too many visible points
+  const enableTooltips = pointsToRender.length < CONFIG.tooltipThreshold;
+  
+  // Render selected points (already sorted by size, largest first)
+  pointsToRender.forEach(({index: i, size: r}) => {
+    const d = points[i];
+    
+    // Validate required data
+    if (typeof d.x !== 'number' || typeof d.y !== 'number') {
+      return;
+    }
+    
+    const cx = xScale(d.x);
+    const cy = yScale(d.y);
+
+    const circle = createNode("circle", {
+      cx, cy, r,
+      fill: colors[i],
+      stroke: "black",
+      "stroke-width": UI_CONFIG.normalStrokeWidth,
+      "vector-effect": "non-scaling-stroke",
+      opacity: 0.5,
+      cursor: "pointer"
+    }, dataGroup);
+
+    circle.addEventListener('blur', () => {
+      circle.setAttribute('stroke', 'black');
+      circle.setAttribute('stroke-width', UI_CONFIG.normalStrokeWidth);
+    });
+
+    circleElements[i] = { el: circle, baseR: r, membs: d.membs || 0 };
+
+    if (enableTooltips) {
+      const cleanup = setupTooltips(circle, d, tooltip, container);
+      cleanupFunctions.push(cleanup);
+    }
+  });
+  
+  return pointsToRender.length;
 }
 
 // ============================================================================
@@ -468,15 +846,19 @@ function setupTableHover(table, circleElements, getTransform) {
 // ============================================================================
 
 /**
- * Draw the galactic map visualization
+ * Draw the galactic map visualization with viewport culling
  * @param {Array} points - Array of cluster data objects
  * @param {HTMLElement} table - Optional table element for row hover interaction
+ * @returns {Function} Cleanup function to remove all event listeners
  */
 export function drawMap(points, table) {
   // Get container element
   const plotDiv = document.getElementById("map_plot") || 
                   document.getElementById("search_map");
-  if (!plotDiv) return;
+  if (!plotDiv) {
+    console.warn('Map container element not found');
+    return () => {};
+  }
   
   // Setup dimensions
   const width = plotDiv.offsetWidth;
@@ -487,10 +869,18 @@ export function drawMap(points, table) {
   plotDiv.innerHTML = "";
 
   // Validate input
-  if (!points || points.length === 0) return;
+  if (!points || points.length === 0) {
+    console.warn('No data points provided to drawMap');
+    return () => {};
+  }
 
   // Create SVG
-  const svg = createNode("svg", { width, height }, plotDiv);
+  const svg = createNode("svg", { 
+    width, 
+    height,
+    role: "img",
+    "aria-label": "Galactic map showing star cluster positions"
+  }, plotDiv);
   svg.style.userSelect = "none";
 
   // Create main group for transformations
@@ -498,19 +888,12 @@ export function drawMap(points, table) {
 
   // Create axis group (won't be cleared during updates)
   const axisGroup = createNode("g", { class: "axis-group" }, g);
-
-  // Convert points to Cartesian coordinates
-  const cartesianPoints = points.map(d => ({
-    ...d,
-    ...galacticToCartesian(
-      parseFloat(d.GLON),
-      parseFloat(d.GLAT),
-      d.dist_plx_pc
-    )
-  }));
+  
+  // Create data group (will be updated dynamically)
+  const dataGroup = createNode("g", { class: "data-group" }, g);
 
   // Create coordinate scale functions
-  const { x: xScale, y: yScale } = createScaleFunctions(width, height);
+  const { x: xScale, y: yScale, scale: baseScale } = createScaleFunctions(width, height);
 
   // Initialize transform state
   const transform = { x: 0, y: 0, k: 1 };
@@ -520,6 +903,31 @@ export function drawMap(points, table) {
   const markers = createMarkers(g, xScale, yScale);
   const tooltip = createTooltip(plotDiv);
 
+  // Pre-calculate colors (only once)
+  const colors = points.map(d => utiColor(d.uti));
+  
+  // Track circle elements and cleanup functions
+  const circleElements = [];
+  const cleanupFunctions = [];
+  
+  // Debounced viewport update
+  let viewportUpdateTimer = null;
+  const debouncedViewportUpdate = () => {
+    clearTimeout(viewportUpdateTimer);
+    viewportUpdateTimer = setTimeout(() => {
+      const visibleCount = updateVisiblePoints(
+        dataGroup, points, colors, xScale, yScale, transform,
+        width, height, baseScale, tooltip, plotDiv, cleanupFunctions, circleElements
+      );
+      statsDiv.textContent = `Rendering ${visibleCount} / ${points.length} objects`;
+    }, UI_CONFIG.viewportUpdateDelay);
+  };
+  
+  // Stats display (optional - can be removed)
+  const statsDiv = document.createElement('div');
+  statsDiv.style.cssText = 'position:absolute;top:10px;right:10px;background:rgba(255,255,255,0.9);padding:8px;border-radius:4px;font-size:12px;pointer-events:none;';
+  plotDiv.appendChild(statsDiv);
+
   // Update function for zoom/pan changes
   const updateTransform = () => {
     g.setAttribute("transform", 
@@ -527,19 +935,18 @@ export function drawMap(points, table) {
     );
     
     drawAxes(axisGroup, xScale, yScale, transform);
-    
-    // Update marker sizes
-    const markerSize = 6 / transform.k;
-    const strokeWidth = 2 / transform.k;
-    
+
+    // Update marker sizes to maintain constant screen size
+    const markerSize = UI_CONFIG.markerSize / transform.k;
     markers.sunMarker.setAttribute("r", markerSize);
-    markers.sunMarker.setAttribute("stroke-width", strokeWidth);
     markers.gcMarker.setAttribute("r", markerSize);
-    markers.gcMarker.setAttribute("stroke-width", strokeWidth);
     
-    markers.gcLabel.setAttribute("font-size", `${12 / transform.k}px`);
+    markers.gcLabel.setAttribute("font-size", `${UI_CONFIG.gcLabelFontSize / transform.k}px`);
     markers.gcLabel.setAttribute("x", xScale(0) - 10 / transform.k);
     markers.gcLabel.setAttribute("y", yScale(0) - 8 / transform.k);
+    
+    // Debounced update of visible data points
+    debouncedViewportUpdate();
   };
 
   const handleZoom = () => {
@@ -550,40 +957,41 @@ export function drawMap(points, table) {
   // Initial render
   drawGrid(g, xScale, yScale, transform);
   drawAxes(axisGroup, xScale, yScale, transform);
+  
+  // Initial data render with viewport culling
+  const initialVisibleCount = updateVisiblePoints(
+    dataGroup, points, colors, xScale, yScale, transform,
+    width, height, baseScale, tooltip, plotDiv, cleanupFunctions, circleElements
+  );
+  statsDiv.textContent = `Rendering ${initialVisibleCount} / ${points.length} objects`;
 
-  // Setup interactions
-  setupZoom(svg, transform, handleZoom);
-  setupPan(svg, transform, updateTransform);
-
-  // Calculate colors
-  const colors = points.map(d => utiColor(d.uti));
-
-  // Draw data points
-  const circleElements = [];
-  const enableTooltips = cartesianPoints.length < CONFIG.tooltipThreshold;
-
-  cartesianPoints.forEach((d, i) => {
-    const cx = xScale(d.x);
-    const cy = yScale(d.y);
-    const r = scaleLinear(d.membs);
-
-    const circle = createNode("circle", {
-      cx, cy, r,
-      fill: colors[i],
-      stroke: "black",
-      opacity: 0.5,
-      cursor: "pointer"
-    }, g);
-
-    circleElements[i] = { el: circle, baseR: r, membs: d.membs };
-
-    if (enableTooltips) {
-      setupTooltips(circle, d, tooltip, plotDiv);
-    }
-  });
+  // Setup interactions and collect cleanup functions
+  cleanupFunctions.push(setupZoom(svg, transform, handleZoom));
+  cleanupFunctions.push(setupPan(svg, transform, updateTransform));
+  cleanupFunctions.push(setupKeyboardNavigation(svg, transform, handleZoom));
 
   // Setup table hover if applicable
   if (table && circleElements.length < CONFIG.hoverThreshold) {
-    setupTableHover(table, circleElements, () => transform);
+    const cleanup = setupTableHover(table, circleElements, () => transform);
+    cleanupFunctions.push(cleanup);
   }
+  
+  // Return master cleanup function
+  return () => {
+    // Clear any pending viewport updates
+    clearTimeout(viewportUpdateTimer);
+    
+    cleanupFunctions.forEach(fn => {
+      try {
+        fn();
+      } catch (err) {
+        console.error('Error during cleanup:', err);
+      }
+    });
+    
+    // Clear the container
+    if (plotDiv) {
+      plotDiv.innerHTML = "";
+    }
+  };
 }
