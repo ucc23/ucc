@@ -26,46 +26,53 @@ class FuzzySearch {
   
   // Calculate fuzzy match score
   fuzzyMatch(text, query) {
-    if (!query) return { matches: true, score: 1 };
+    if (!query) return { matches: true, score: 0 };
+
+    // 1. Alphanumeric Normalization: Strip non-alphanumeric chars
+    const normalize = (str) => str.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const target = normalize(text);
+    const search = normalize(query);
+
+    if (target.includes(search)) return { matches: true, score: 1 };
+
+    // 2. Levenshtein Distance Calculation
+    const distance = this.levenshtein(target, search);
     
-    text = text.toLowerCase();
-    query = query.toLowerCase();
+    // 3. Similarity Threshold
+    // Determine similarity as a percentage: 1 - (distance / max_length)
+    const maxLength = Math.max(target.length, search.length);
+    const similarity = 1 - (distance / maxLength);
+
+    // Define a threshold (e.g., 0.6) for what constitutes a "match"
+    const threshold = 0.49;
     
-    // Exact match gets highest score
-    if (text.includes(query)) {
-      return { matches: true, score: 100 };
+    return {
+      matches: similarity > threshold,
+      score: parseFloat(similarity.toFixed(4))
+    };
+  }
+
+  levenshtein(a, b) {
+    const tmp = [];
+    for (let i = 0; i <= a.length; i++) {
+      tmp[i] = [i];
     }
-    
-    // Fuzzy matching
-    let score = 0;
-    let queryIndex = 0;
-    let lastMatchIndex = -1;
-    
-    for (let i = 0; i < text.length && queryIndex < query.length; i++) {
-      if (text[i] === query[queryIndex]) {
-        score += 1;
-        
-        // Bonus for consecutive matches
-        if (lastMatchIndex === i - 1) {
-          score += 5;
-        }
-        
-        lastMatchIndex = i;
-        queryIndex++;
+    for (let j = 0; j <= b.length; j++) {
+      tmp[0][j] = j;
+    }
+    for (let i = 1; i <= a.length; i++) {
+      for (let j = 1; j <= b.length; j++) {
+        tmp[i][j] = Math.min(
+          tmp[i - 1][j] + 1,
+          tmp[i][j - 1] + 1,
+          tmp[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)
+        );
       }
     }
-    
-    // Check if all query characters were found
-    const matches = queryIndex === query.length;
-    
-    // Normalize score
-    if (matches) {
-      score = score / query.length;
-    }
-    
-    return { matches, score };
+    return tmp[a.length][b.length];
   }
-  
+
+
   filterTable(searchTerm) {
     // Refresh rows in case the DOM has changed (e.g., from sorting)
     this.refreshRows();
@@ -86,10 +93,13 @@ class FuzzySearch {
     
     this.rows.forEach(row => {
       const cells = row.querySelectorAll('td');
-      const title = cells[0]?.textContent || '';
+
+      const link  = cells[0]?.querySelector('a');
+      const title = link?.getAttribute('title') || link?.textContent || '';
+
       const author = cells[1]?.textContent || '';
       const year = cells[2]?.textContent || '';
-      
+    
       // Search across title, author, and year
       const titleMatch = this.fuzzyMatch(title, searchTerm);
       const authorMatch = this.fuzzyMatch(author, searchTerm);
@@ -97,12 +107,12 @@ class FuzzySearch {
       
       const bestMatch = Math.max(
         titleMatch.matches ? titleMatch.score : 0,
-        authorMatch.matches ? authorMatch.score : 0,
+        authorMatch.matches ? 1.1 * authorMatch.score : 0,
         yearMatch.matches ? yearMatch.score : 0
       );
-      
+
       const matches = titleMatch.matches || authorMatch.matches || yearMatch.matches;
-      
+
       if (matches) {
         results.push({ row, score: bestMatch });
         row.classList.remove('hidden', 'no-match');
@@ -116,6 +126,11 @@ class FuzzySearch {
     // Sort by relevance (only if there's a search term)
     results.sort((a, b) => b.score - a.score);
     
+    // console.table(results.map(r => ({
+    //   score: r.score,
+    //   text: r.row.textContent.trim()
+    // })));
+
     // Reorder rows by relevance
     results.forEach((result, index) => {
       this.tbody.appendChild(result.row);
