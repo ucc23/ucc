@@ -286,9 +286,14 @@ function buildTable(points, totalCount) {
   if (!tableContainer) return;
   
   if (!points || points.length === 0) {
-    tableContainer.innerHTML = "";
+    tableContainer.innerHTML = `
+      <div style="width:100%; padding:12px; text-align:center; color:#666; font-style:italic;">
+        No matches found for the query
+      </div>
+    `;
     return;
   }
+
 
   const coordsys = window.coordsys;
   const width = elements.plotDiv.offsetWidth;
