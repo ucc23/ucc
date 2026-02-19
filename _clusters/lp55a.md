@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.4
+N_comments: ""
+dens_val: 0.1
 N_50_val: 16
 scix_url: LP%2055A
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |78.01 | 52.462 | 0.208 | 0.103 | 0.099 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 78.0 | 52.503 | -- | -3.588 | -2.805 | -- 
+N_rows_pos: "1"
 cds_radec: 78.01009,+52.46196
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.9 | 0.88 | -- | 955 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.90 | 0.88 | -- | 955 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 1790](/_clusters/ngc1790/)| 8.0 | 77.75 | 52.11 | 0.22 | -0.07 | 0.1 | -21.82 |0.05 |
+N_rows_shared: "1"
 ---

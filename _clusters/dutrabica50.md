@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.7
+N_comments: ""
+dens_val: 0.3
 N_50_val: 14
 scix_url: Dutra%20Bica%2050
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |264.111 | -32.427 | 0.231 | -1.311 | -3.011 | -23.871 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 264.042 | -32.402 | -- | -0.8 | -2.06 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.042 | -32.402 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 264.11054,-32.42681
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 144](/_clusters/ryu144/)| 4.0 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.22 |
+N_rows_shared: "1"
 ---

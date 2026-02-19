@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.5
+N_comments: "2"
+dens_val: 5.1
 N_50_val: 29
 scix_url: COIN-Gaia%2032
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 28.194 | 63.066 | 0.775 | 0.053 | -2.195 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 28.194 | 63.066 | -- | -- | -- | 2.616 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 28.194 | 63.066 | 0.78 | 0.05 | -2.2 | -- 
+N_rows_pos: "13"
 cds_radec: 28.19964,+63.05336
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,7 +92,9 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.24 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.34 | 1.19 | -- | 175 | 0.032 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.25 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

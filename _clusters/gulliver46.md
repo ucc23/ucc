@@ -13,17 +13,17 @@ glon: 299.82305
 glat: 0.73986
 r50: 1.5
 plx: 0.2122
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.55
+UTI_C_lit: 0.5
 UTI_C_dup: 0.16
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.5
+N_comments: "2"
+dens_val: 36.0
 N_50_val: 152
 scix_url: Gulliver%2046
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 186.234 | -61.973 | 0.181 | -6.946 | 0.125 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 186.234 | -61.973 | -- | -- | -- | 2.732 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 186.234 | -61.973 | 0.181 | -6.946 | 0.125 | -- 
+N_rows_pos: "9"
 cds_radec: 186.23246,-61.97251
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -82,10 +84,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 4.77 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 6.02 | 2.63 | -- | 12 | 0.035 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 4.77 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
     |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.36 |
+N_rows_shared: "2"
 ---

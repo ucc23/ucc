@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.5
+N_comments: ""
+dens_val: 0.6
 N_50_val: 24
 scix_url: Dol%20Dzim%209
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 272.121 | 31.587 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 272.2 | 31.533 | -- | -0.28 | -1.19 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 272.2 | 31.533 | -- | -0.28 | -1.19 | -- 
+N_rows_pos: "3"
 cds_radec: 272.20146,+31.57687
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.33 | 0.19 | -- | 2291 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.33 | 0.19 | -- | 2291 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

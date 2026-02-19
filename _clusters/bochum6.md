@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.6
+N_comments: "1"
+dens_val: 6.4
 N_50_val: 107
 scix_url: Bochum%206
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 113.0 | -19.417 | -- | -1.19 | 2.37 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 113.0 | -19.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 113.0 | -19.417 | -- | -1.19 | 2.37 | -- 
+N_rows_pos: "13"
 cds_radec: 112.98385,-19.40752
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -88,9 +90,11 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.66 | 0.64 | -- | 1349 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.98 | 2.17 | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.98 | 2.17 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 9](/_clusters/dbsb9/)| 61.7 | 112.97 | -19.4 | 0.25 | -2.25 | 2.29 | 66.97 |0.02 |
+N_rows_shared: "1"
 ---

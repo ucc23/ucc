@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.6
+N_comments: ""
+dens_val: 1.0
 N_50_val: 20
 scix_url: DBSB%20159
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 241.586 | -50.724 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 241.586 | -50.724 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 241.597 | -50.725 | -- | -7.31 | -1.61 | -81.0 
+N_rows_pos: "3"
 cds_radec: 241.59803,-50.75394
 carousel: UCC
 fpars_table: |
@@ -68,7 +70,9 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 4 | -- | 791 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.36 | 5.49 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.36 | 5.49 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

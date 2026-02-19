@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 8.3
+N_comments: ""
+dens_val: 0.3
 N_50_val: 18
 scix_url: Loden%20165
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |158.986 | -58.749 | 0.304 | -5.932 | -2.247 | 13.941 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 158.983 | -58.737 | -- | -5.81 | -3.14 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 158.983 | -58.737 | -- | -5.81 | -3.14 | -- 
+N_rows_pos: "2"
 cds_radec: 158.98617,-58.74893
 carousel: UCC
 fpars_table: |
@@ -65,7 +67,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.9 | 0.78 | -- | 3020 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.90 | 0.78 | -- | 3020 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

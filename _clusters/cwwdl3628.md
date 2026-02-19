@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.9
+N_comments: ""
+dens_val: 0.7
 N_50_val: 18
 scix_url: CWWDL%203628
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |136.816 | -53.459 | 0.224 | -3.31 | 3.361 | 19.326 |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 136.829 | -53.468 | 0.249 | -3.339 | 3.307 | 44.477 
+N_rows_pos: "1"
 cds_radec: 136.8156,-53.45885
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 93 | 0.320 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 93 | 0.320 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

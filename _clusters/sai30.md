@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.8
+N_comments: ""
+dens_val: 0.7
 N_50_val: 27
 scix_url: SAI%2030
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 54.931 | 82.201 | -- | -- | -- | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 55.093 | 82.233 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 55.092 | 82.233 | -- | 2.2 | 0.97 | -- 
+N_rows_pos: "3"
 cds_radec: 55.16704,+82.23004
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.1 | 3.88 | -- | 100 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 3.10 | 3.88 | -- | 100 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.10 | 3.88 | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.9
+N_comments: ""
+dens_val: 4.5
 N_50_val: 64
 scix_url: SAI%2050
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |82.158 | 35.029 | 0.457 | 0.148 | -1.754 | 0.401 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 82.162 | 35.022 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 82.15797,+35.02868
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 21.9 | 1.86 | -- | 5012 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 21.90 | 1.86 | -- | 5012 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1351](/_clusters/hsc1351/)| 39.1 | 82.1 | 35.04 | 0.47 | 0.1 | -1.76 | -1.59 |0.0 |
+N_rows_shared: "1"
 ---

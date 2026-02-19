@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.3
+N_comments: ""
+dens_val: 0.4
 N_50_val: 22
 scix_url: Dolidze%2024
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 101.175 | 1.686 | -- | -0.273 | -0.967 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 101.171 | 1.685 | -- | -0.57 | -1.24 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 101.171 | 1.685 | -- | -0.57 | -1.24 | -- 
+N_rows_pos: "3"
 cds_radec: 101.18786,+1.7311
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.56 | 0.505 | -- | 608 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.86 | 0.56 | -- | 933 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.26 | 0.45 | -- | 282 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

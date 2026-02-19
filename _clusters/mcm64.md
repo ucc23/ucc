@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.2
+N_comments: ""
+dens_val: 3.6
 N_50_val: 19
 scix_url: MCM%2064
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |238.751 | -54.46 | 0.406 | -3.274 | -3.534 | -34.708 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 238.907 | -54.644 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 238.75089,-54.45971
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 246](/_clusters/teutsch246/)| 80.0 | 238.7 | -54.39 | 0.41 | -3.27 | -3.53 | -18.97 |0.61 |
     |[UBC 1538](/_clusters/ubc1538/)| 80.0 | 238.7 | -54.39 | 0.41 | -3.28 | -3.53 | -18.95 |0.01 |
+N_rows_shared: "2"
 ---

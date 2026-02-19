@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.3
+N_comments: ""
+dens_val: 1.2
 N_50_val: 16
 scix_url: Bica%2027
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.666 | -26.286 | 0.501 | -2.464 | -3.635 | -3.66 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 267.684 | -26.303 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 267.66643,-26.2862
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Dutra-Bica 42](/_clusters/dutrabica42/)| 80.0 | 267.69 | -26.28 | 0.49 | -2.47 | -3.64 | -3.66 |0.08 |
+N_rows_shared: "1"
 ---

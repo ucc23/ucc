@@ -13,17 +13,17 @@ glon: 109.32961
 glat: -0.59958
 r50: 61.2
 plx: 2.0652
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#acd6bf"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#b9e0c4"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.84
 UTI_C_dens: 0.93
 UTI_C_C3: 1.0
-UTI_C_lit: 0.86
+UTI_C_lit: 0.84
 UTI_C_dup: 0.97
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 61.2
+N_comments: "2"
+dens_val: 4.6
 N_50_val: 345
 scix_url: RSG8
 posit_table: |
@@ -74,6 +75,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 344.983 | 59.371 | -- | -- | -- | -9.64 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 344.983 | 59.371 | 2.21 | 5.343 | -1.654 | -- |
     |[Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 344.54 | 59.16 | -- | 5.81 | -0.7 | -- 
+N_rows_pos: "16"
 cds_radec: 345.42423,+59.36558
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -96,12 +98,14 @@ fpars_table: |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.45 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.45 | -- | -- | -- | -- | -- | -- | -- |
     | [Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 0.33 | 0.16 | -- | 316 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 18.6 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |
-    |[NGC 7429](/_clusters/ngc7429/)| 3.2 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.82 |
+    |[NGC 7429](/_clusters/ngc7429/)| 3.2 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.81 |
     |[CWWDL 14622](/_clusters/cwwdl14622/)| 2.3 | 345.68 | 58.22 | 2.25 | 5.43 | -1.31 | -8.93 |0.35 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 2.3 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.1 |
+N_rows_shared: "4"
 ---

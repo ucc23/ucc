@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 0.2
 N_50_val: 24
 scix_url: Teutsch%20202
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |103.621 | -7.864 | 0.165 | -0.759 | 1.388 | 88.385 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 103.638 | -7.864 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 103.62138,-7.86419
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1973](/_clusters/cwnu1973/)| 24.0 | 103.53 | -7.75 | 0.21 | -0.76 | 1.36 | -- |0.25 |
+N_rows_shared: "1"
 ---

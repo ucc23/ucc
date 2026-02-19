@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.5
+N_comments: ""
+dens_val: 0.0
 N_50_val: 18
 scix_url: Streicher%202
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |110.749 | 29.257 | 0.089 | -0.766 | -1.168 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 110.796 | 29.279 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 110.74944,+29.25706
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

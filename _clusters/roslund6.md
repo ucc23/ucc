@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 55.6
+N_comments: "2"
+dens_val: 12.6
 N_50_val: 412
 scix_url: Roslund%206
 posit_table: |
@@ -83,6 +84,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 307.2 | 39.26 | -- | 5.82 | 2.03 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 307.23 | 39.19 | -- | 5.71 | 0.33 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 307.204 | 39.327 | -- | -0.52 | -4.17 | -- 
+N_rows_pos: "25"
 cds_radec: 307.19662,+39.81828
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -113,10 +115,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.45 | 0.19 | -- | 295 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.50 | 0.16 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.45 | 0.19 | -- | 295 | -- | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14633](/_clusters/cwwdl14633/)| 18.4 | 307.52 | 39.84 | 2.84 | 6.04 | 2.18 | -7.77 |0.0 |
     |[CWWDL 14634](/_clusters/cwwdl14634/)| 11.7 | 307.38 | 40.11 | 2.84 | 6.01 | 2.17 | -7.94 |0.0 |
+N_rows_shared: "2"
 ---

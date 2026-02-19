@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 61.9
+N_comments: "2"
+dens_val: 0.4
 N_50_val: 23
 scix_url: Theia%20818
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 73.756 | 13.687 | -- | -- | -- | -- |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 73.73 | 14.458 | 2.408 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 73.756 | 13.687 | 2.425 | 5.459 | -4.187 | 10.297 
+N_rows_pos: "3"
 cds_radec: 74.08478,+13.91672
 carousel: UCC_HUNT23
 fpars_table: |
@@ -70,7 +72,9 @@ fpars_table: |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.011<sup>(1)</sup> | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.43 | 1.36 | -- | 37 | -0.350 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.39 | 0.88 | 0.50 | 138 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

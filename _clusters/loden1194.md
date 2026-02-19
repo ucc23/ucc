@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 12.6
+N_comments: "2"
+dens_val: 9.6
 N_50_val: 71
 scix_url: Loden%201194
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 211.412 | -59.714 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 211.42 | -59.7 | -- | 0.18 | -- | 2.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 211.42 | -59.72 | -- | -10.07 | -3.29 | 999.9 
+N_rows_pos: "24"
 cds_radec: 212.01343,-59.79023
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -109,7 +111,9 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.50 | -- | -- | 339 | -- | 21 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.50 | 0.16 | -- | 339 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.50 | 0.16 | -- | 339 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

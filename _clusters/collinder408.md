@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.1
+N_comments: "2"
+dens_val: 13.1
 N_50_val: 54
 scix_url: Collinder%20408
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 298.275 | 18.333 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 298.275 | 18.333 | -- | -1.68 | -0.93 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 298.275 | 18.333 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 298.3299,+18.35636
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,9 +106,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.54 | 0.78 | -- | 30 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.60 | 0.71 | -- | 112 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.74 | 0.79 | -- | 158 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 362](/_clusters/ubc362/)| 100.0 | 298.33 | 18.35 | 0.44 | -1.74 | -4.49 | 6.69 |0.14 |
+N_rows_shared: "1"
 ---

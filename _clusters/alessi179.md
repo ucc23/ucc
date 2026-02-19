@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.2
 N_50_val: 19
 scix_url: Alessi%20179
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |120.585 | -18.86 | 0.262 | -1.645 | 0.826 | 109.884 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 120.572 | -18.895 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 120.5845,-18.86001
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

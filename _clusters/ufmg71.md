@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.2
+N_comments: "1"
+dens_val: 5.9
 N_50_val: 32
 scix_url: UFMG%2071
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 265.589 | -27.333 | 0.655 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 265.553 | -27.336 | 0.654 | 0.744 | -1.784 | -- |
     |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 265.555 | -27.329 | 0.603 | 0.764 | -1.777 | -- 
+N_rows_pos: "4"
 cds_radec: 265.5567,-27.33502
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,7 +73,9 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.10 | 3.16 | -- | 38 | -0.970 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.44 | 2.47 | 0.70 | 52 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.26 | 2.94 | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

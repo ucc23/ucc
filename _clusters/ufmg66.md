@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.0
+N_comments: "1"
+dens_val: 3.8
 N_50_val: 23
 scix_url: UFMG%2066
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 260.888 | -32.034 | 0.58 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 260.86 | -32.047 | 0.576 | -1.221 | -2.449 | -56.826 |
     |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 260.852 | -32.05 | 0.591 | -1.107 | -2.465 | -- 
+N_rows_pos: "4"
 cds_radec: 260.87806,-32.051
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,9 +73,11 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.22 | 3.08 | -- | 15 | -0.540 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.56 | 2.47 | 2.25 | 14 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.26 | 2.48 | -- | 35 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0696](/_clusters/oc0696/)| 84.0 | 260.87 | -32.05 | 0.59 | -1.21 | -2.47 | -56.81 |0.04 |
+N_rows_shared: "1"
 ---

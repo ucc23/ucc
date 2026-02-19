@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.7
+N_comments: "1"
+dens_val: 0.2
 N_50_val: 16
 scix_url: Dolidze%2012
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 10.183 | 60.852 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 10.192 | 60.855 | -- | -0.72 | -0.99 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 10.192 | 60.855 | -- | -0.72 | -0.99 | -- 
+N_rows_pos: "4"
 cds_radec: 10.16259,+60.87154
 carousel: UCC
 fpars_table: |
@@ -71,7 +73,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 4.00 | 1.55 | -- | 1365 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.00 | 1.55 | -- | 1365 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.00 | 1.55 | -- | 1365 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

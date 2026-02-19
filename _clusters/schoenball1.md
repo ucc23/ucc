@@ -13,17 +13,17 @@ glon: 128.07136
 glat: -1.7015
 r50: 3.1
 plx: 0.2278
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.15"
+UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#fcd6c2"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 0.25
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.1
+N_comments: "1"
+dens_val: 8.2
 N_50_val: 129
 scix_url: Schoenball%201
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 23.395 | 60.757 | 0.191 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 23.441 | 60.762 | 0.194 | -1.273 | -0.664 | -44.838 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 23.419 | 60.76 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 23.41785,+60.74666
 carousel: UCC_HUNT23
 fpars_table: |
@@ -72,6 +74,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 726<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.25 | 1.83 | -- | 501 | -0.390 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.68 | 1.58 | 1.68 | 395 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -81,4 +84,5 @@ shared_table: |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 4.7 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
     |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |
     |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 0.8 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.09 |
+N_rows_shared: "5"
 ---

@@ -13,17 +13,17 @@ glon: 354.08948
 glat: -2.12066
 r50: 3.0
 plx: 0.3029
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.0
+N_comments: "1"
+dens_val: 14.2
 N_50_val: 118
 scix_url: UFMG%2091
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 264.866 | -35.084 | 0.302 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 264.866 | -35.084 | 0.301 | 0.251 | -3.699 | -44.147 |
     |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 264.868 | -35.075 | 0.269 | 0.222 | -3.637 | -- 
+N_rows_pos: "5"
 cds_radec: 264.86632,-35.08149
 carousel: UCC_HUNT23
 fpars_table: |
@@ -73,10 +75,12 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.47 | 3.47 | -- | 1413 | -0.620 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.92 | 3.41 | 1.64 | 541 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 2.82 | 2.76 | -- | 1778 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 952](/_clusters/cwwdl952/)| 50.0 | 264.86 | -35.08 | 0.32 | 0.26 | -3.7 | -44.08 |0.0 |
     |[OC 0693](/_clusters/oc0693/)| 25.4 | 264.86 | -35.09 | 0.32 | 0.26 | -3.65 | -40.51 |0.0 |
+N_rows_shared: "2"
 ---

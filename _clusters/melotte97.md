@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 10.5
+N_comments: "2"
+dens_val: 33.1
 N_50_val: 575
 scix_url: Melotte%2097
 posit_table: |
@@ -91,6 +92,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 141.91 | -56.98 | -- | -6.85 | 7.76 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 141.908 | -57.0 | -- | -3.11 | 4.55 | -1.84 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 141.908 | -57.0 | -- | -- | -- | -- 
+N_rows_pos: "33"
 cds_radec: 141.86878,-57.0082
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -127,7 +129,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.14 | 0.71 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.13 | 0.72 | -- | 130 | 0.100 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.08 | 0.72 | -- | 126 | -- | -- | -- | -- |
+N_rows_pars: "30"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

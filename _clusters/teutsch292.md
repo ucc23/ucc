@@ -13,17 +13,17 @@ glon: 69.59013
 glat: 1.95847
 r50: 4.7
 plx: 0.7932
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.7
+N_comments: "1"
+dens_val: 18.2
 N_50_val: 54
 scix_url: Teutsch%20292
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 299.644 | 33.152 | 0.799 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 299.615 | 33.151 | 0.8 | -0.752 | -2.06 | -19.795 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 299.616 | 33.134 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 299.62104,+33.15401
 carousel: UCC_HUNT23
 fpars_table: |
@@ -72,10 +74,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 161<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.24 | 0.97 | -- | 65 | -0.230 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.21 | 0.69 | 1.26 | 160 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14204](/_clusters/cwwdl14204/)| 77.8 | 299.62 | 33.15 | 0.79 | -0.73 | -2.05 | -18.43 |0.0 |
     |[UBC 1083](/_clusters/ubc1083/)| 50.0 | 299.63 | 33.15 | 0.79 | -0.74 | -2.06 | -19.97 |0.0 |
+N_rows_shared: "2"
 ---

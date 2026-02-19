@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.7
+N_comments: "2"
+dens_val: 32.5
 N_50_val: 688
 scix_url: Melotte%2067
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 114.07 | -20.62 | -- | -4.26 | 4.89 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.054 | -20.612 | -- | -3.07 | 2.41 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 114.05 | -20.617 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 114.05424,-20.62888
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -113,9 +115,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 2.17 | 1.40 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.20 | 1.30 | -- | 79 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.00 | 1.26 | -- | 32 | -- | -- | -- | -- |
+N_rows_pars: "23"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0405](/_clusters/oc0405/)| 3.6 | 114.0 | -20.64 | 0.38 | -3.08 | 3.14 | -- |0.0 |
+N_rows_shared: "1"
 ---

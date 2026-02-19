@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.4
+N_comments: "1"
+dens_val: 0.4
 N_50_val: 14
 scix_url: Bica%20631
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 263.509 | -33.455 | 0.275 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 263.679 | -33.479 | 0.275 | -0.64 | -2.074 | -9.508 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 263.685 | -33.474 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 263.63589,-33.45249
 carousel: UCC_HUNT23
 fpars_table: |
@@ -70,7 +72,9 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2414<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.06 | 5.34 | -- | 8 | -0.660 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.27 | 4.83 | 3.06 | 16 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

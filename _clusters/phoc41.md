@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 29.4
+N_comments: ""
+dens_val: 19.9
 N_50_val: 122
 scix_url: PHOC%2041
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |282.542 | 33.378 | 3.452 | 1.802 | -3.864 | -18.689 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 282.564 | 33.4 | 3.474 | 1.858 | -3.864 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2021A%26A...646A.104H) | 2021 | 282.554 | 33.41 | 3.422 | 1.848 | -3.84 | -- 
+N_rows_pos: "2"
 cds_radec: 282.54204,+33.37816
 carousel: UCC
 fpars_table: |
@@ -65,12 +67,14 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.55 | -- | 40 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.55 | -- | 40 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.68 |
+    |[Gaia 8](/_clusters/gaia8/)| 99.2 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.67 |
     |[OCSN 249](/_clusters/ocsn249/)| 84.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
     |[CWWL 3595](/_clusters/cwwl3595/)| 66.4 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
     |[OCSN 16](/_clusters/ocsn16/)| 1.6 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.45 |
+N_rows_shared: "4"
 ---

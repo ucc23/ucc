@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.4
+N_comments: ""
+dens_val: 3.7
 N_50_val: 62
 scix_url: DBSB%2027
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 131.658 | -43.881 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 131.658 | -43.881 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 131.662 | -43.884 | -- | -4.51 | 3.0 | 16.6 
+N_rows_pos: "3"
 cds_radec: 131.70212,-43.87642
 carousel: UCC
 fpars_table: |
@@ -68,10 +70,12 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 102 | -- | 44 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.48 | 4.13 | -- | 102 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.48 | 4.13 | -- | 102 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1418](/_clusters/fsr1418/)| 61.3 | 131.85 | -43.93 | 0.45 | -5.49 | 4.89 | -- |0.44 |
+    |[FSR 1418](/_clusters/fsr1418/)| 61.3 | 131.85 | -43.93 | 0.45 | -5.49 | 4.89 | -- |0.43 |
     |[CWNU 2960](/_clusters/cwnu2960/)| 51.6 | 131.84 | -43.92 | 0.45 | -5.47 | 4.89 | -- |0.0 |
+N_rows_shared: "2"
 ---

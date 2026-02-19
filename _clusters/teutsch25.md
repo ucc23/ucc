@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.2
+N_comments: "1"
+dens_val: 4.7
 N_50_val: 58
 scix_url: Teutsch%2025
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 117.111 | -27.914 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 117.108 | -27.914 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 117.112 | -27.914 | -- | -0.87 | 3.36 | -- 
+N_rows_pos: "13"
 cds_radec: 117.11621,-27.91861
 carousel: UCC_HUNT23
 fpars_table: |
@@ -85,9 +87,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.84 | 1.29 | -- | 1820 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.98 | 1.77 | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.98 | 1.77 | -- | 1000 | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1548](/_clusters/cwnu1548/)| 69.0 | 117.12 | -27.93 | 0.27 | -2.53 | 3.43 | 57.68 |0.0 |
+N_rows_shared: "1"
 ---

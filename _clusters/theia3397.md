@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 21.8
+N_comments: ""
+dens_val: 1.0
 N_50_val: 44
 scix_url: Theia%203397
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |114.008 | -25.545 | 0.939 | -4.93 | 4.07 | 30.967 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 113.94 | -25.527 | 0.93 | -4.887 | 4.011 | 27.682 
+N_rows_pos: "1"
 cds_radec: 114.00758,-25.54507
 carousel: UCC_HUNT23
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 55 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 55<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3492](/_clusters/cwnu3492/)| 54.5 | 114.0 | -25.57 | 0.95 | -4.93 | 4.07 | 31.71 |0.11 |
+N_rows_shared: "1"
 ---

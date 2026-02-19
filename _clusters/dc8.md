@@ -18,12 +18,12 @@ UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.0
+N_comments: "1"
+dens_val: 22.1
 N_50_val: 53
 scix_url: DC%208
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 92.329 | 31.223 | -- | 0.07 | -4.45 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 92.339 | 31.232 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 92.338 | 31.232 | -- | 0.07 | -4.45 | -- 
+N_rows_pos: "12"
 cds_radec: 92.33804,+31.2257
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -86,7 +88,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.71 | 3.23 | -- | 403 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.10 | 2.23 | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.10 | 2.23 | -- | 1000 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

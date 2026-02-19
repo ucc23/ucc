@@ -18,12 +18,12 @@ UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.8
+N_comments: "1"
+dens_val: 6.9
 N_50_val: 95
 scix_url: COIN-Gaia%2036
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 36.256 | 59.975 | 0.431 | -0.969 | -0.563 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 36.256 | 59.975 | -- | -- | -- | 2.335 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 36.256 | 59.975 | 0.43 | -0.97 | -0.56 | -- 
+N_rows_pos: "6"
 cds_radec: 36.29744,+59.94362
 carousel: UCC_HUNT23
 fpars_table: |
@@ -75,10 +77,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.17 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.96 | 2.69 | -- | 40 | 0.044 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 2.17 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1236](/_clusters/ubc1236/)| 100.0 | 36.27 | 59.96 | 0.45 | -0.99 | -0.56 | -- |0.11 |
     |[CWWDL 2011](/_clusters/cwwdl2011/)| 7.4 | 36.35 | 59.87 | 0.45 | -0.82 | -0.54 | -- |0.06 |
+N_rows_shared: "2"
 ---

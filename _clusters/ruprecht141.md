@@ -13,17 +13,17 @@ glon: 19.68397
 glat: -1.22363
 r50: 5.8
 plx: 0.325
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.1
 UTI_C_C3: 0.38
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.8
+N_comments: ""
+dens_val: 0.5
 N_50_val: 13
 scix_url: Ruprecht%20141
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 277.83 | -12.32 | -- | 0.57 | -2.68 | 30.7 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 277.83 | -12.3 | -- | 1.37 | -4.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 277.825 | -12.317 | -- | -1.13 | -0.76 | 30.7 
+N_rows_pos: "11"
 cds_radec: 277.8169,-12.33349
 carousel: UCC
 fpars_table: |
@@ -81,9 +83,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 5.50 | 1.77 | -- | 8 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.43 | 0.31 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.80 | 1.40 | -- | 30 | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Gulliver 41](/_clusters/gulliver41/)| 8.0 | 277.72 | -12.43 | 0.18 | -1.7 | -4.77 | 58.1 |0.57 |
+N_rows_shared: "1"
 ---

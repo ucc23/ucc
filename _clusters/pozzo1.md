@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 28.9
+N_comments: "2"
+dens_val: 67.7
 N_50_val: 574
 scix_url: Pozzo%201
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 122.374 | -47.335 | -- | -- | -- | 18.67 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 122.374 | -47.335 | 2.853 | -6.516 | 9.53 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 122.383 | -47.337 | -- | -2.14 | 3.77 | -- 
+N_rows_pos: "22"
 cds_radec: 122.38506,-47.3322
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -107,6 +109,7 @@ fpars_table: |
     | [Bossini et al.](https://scixplorer.org/abs/2019A%26A...623A.108B) | 2019 | 0.32 | 0.16 | -- | 13 | 0.000 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.35 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.35 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -117,4 +120,5 @@ shared_table: |
     |[OC 0478](/_clusters/oc0478/)| 4.4 | 122.65 | -47.46 | 2.98 | -6.75 | 9.8 | 14.78 |0.0 |
     |[CWWDL 14586](/_clusters/cwwdl14586/)| 4.0 | 121.61 | -48.0 | 2.74 | -6.0 | 9.04 | 18.68 |0.26 |
     |[CWWDL 14593](/_clusters/cwwdl14593/)| 2.1 | 123.1 | -46.18 | 2.87 | -6.51 | 9.41 | 15.29 |0.11 |
+N_rows_shared: "6"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 11.6
+N_comments: ""
+dens_val: 0.2
 N_50_val: 18
 scix_url: CWWDL%208509
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |37.292 | 59.482 | 0.368 | -0.026 | -0.591 | -- |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 37.134 | 59.506 | 0.375 | 0.002 | -0.589 | -- 
+N_rows_pos: "1"
 cds_radec: 37.29216,+59.48152
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 0 | 0.440 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 0 | 0.440 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -72,4 +75,5 @@ shared_table: |
     |[Ferrero 38](/_clusters/ferrero38/)| 16.0 | 37.57 | 59.79 | 0.34 | -0.09 | -0.49 | -51.17 |0.42 |
     |[UBC 190](/_clusters/ubc190/)| 12.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.12 |
     |[OC 0249](/_clusters/oc0249/)| 4.0 | 37.37 | 59.83 | 0.35 | -0.07 | -0.46 | -- |0.03 |
+N_rows_shared: "4"
 ---

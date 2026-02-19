@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>SAI 24</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>SAI 24</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 5 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.6
+N_comments: "2"
+dens_val: 25.2
 N_50_val: 224
 scix_url: SAI%2024
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 44.865 | 60.55 | -- | -1.42 | -0.2 | -40.0 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 44.856 | 60.566 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 44.854 | 60.566 | -- | -0.99 | 1.17 | -40.0 
+N_rows_pos: "18"
 cds_radec: 44.82609,+60.57052
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -98,10 +100,15 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.18 |
+    |[AFGL 4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
+    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.36 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
+    |[IRAS 02570+6028](/_clusters/iras02570p6028/)| 4.0 | 45.18 | 60.63 | 0.42 | -0.11 | 0.06 | -30.54 |0.21 |
+N_rows_shared: "5"
 ---

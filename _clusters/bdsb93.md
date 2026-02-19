@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.9
+N_comments: "2"
+dens_val: 16.5
 N_50_val: 87
 scix_url: BDSB%2093
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 104.297 | -8.202 | 0.77 | -2.41 | 1.021 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 104.288 | -8.188 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 104.295 | -8.19 | -- | 3.26 | 0.21 | -- 
+N_rows_pos: "13"
 cds_radec: 104.30425,-8.22079
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,9 +92,11 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.25 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.17 | 2.06 | -- | 3 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.17 | 2.06 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 1155](/_clusters/fsr1155/)| 72.4 | 104.3 | -8.2 | 0.76 | -2.46 | 1.1 | 35.96 |0.45 |
+N_rows_shared: "1"
 ---

@@ -18,12 +18,12 @@ UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#f5fbdc"
 UTI_C_dens_COL: "#f7fbde"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.56
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.4
+N_comments: "1"
+dens_val: 2.8
 N_50_val: 64
 scix_url: Bochum%201
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 96.25 | 19.867 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 96.354 | 19.767 | -- | 0.63 | -1.64 | 11.38 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 96.375 | 19.767 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 96.26672,+19.84642
 carousel: UCC_HUNT23
 fpars_table: |
@@ -87,10 +89,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.06 | 1.62 | -- | 4 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.80 | 1.56 | -- | 5 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 3.21 | 1.78 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1309](/_clusters/ubc1309/)| 85.9 | 96.29 | 19.85 | 0.22 | -0.22 | -0.45 | 35.13 |0.09 |
     |[OC 0319](/_clusters/oc0319/)| 39.1 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
+N_rows_shared: "2"
 ---

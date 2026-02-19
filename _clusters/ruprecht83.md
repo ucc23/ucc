@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.4
+N_comments: "2"
+dens_val: 35.0
 N_50_val: 267
 scix_url: Ruprecht%2083
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 147.317 | -54.606 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 147.278 | -54.569 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 147.312 | -54.6 | -- | -5.1 | -1.4 | -- 
+N_rows_pos: "19"
 cds_radec: 147.31468,-54.60786
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -99,6 +101,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 6.02 | 3.87 | -- | 3 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.46 | 1.40 | -- | 282 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.46 | 1.40 | -- | 282 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -107,4 +110,5 @@ shared_table: |
     |[OC 0526](/_clusters/oc0526/)| 9.4 | 147.32 | -54.61 | 0.26 | -4.64 | 2.87 | -- |0.0 |
     |[OC 0527](/_clusters/oc0527/)| 9.4 | 147.32 | -54.61 | 0.26 | -4.61 | 2.88 | -- |0.0 |
     |[OC 0528](/_clusters/oc0528/)| 9.4 | 147.31 | -54.62 | 0.29 | -4.6 | 2.92 | 25.6 |0.0 |
+N_rows_shared: "4"
 ---

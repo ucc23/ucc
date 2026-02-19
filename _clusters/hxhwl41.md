@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 22.7
+N_comments: ""
+dens_val: 0.3
 N_50_val: 20
 scix_url: HXHWL%2041
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |326.736 | 45.258 | 0.775 | 2.16 | -0.028 | -28.116 |
     |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 326.715 | 45.261 | 0.78 | 2.15 | -0.02 | -- 
+N_rows_pos: "1"
 cds_radec: 326.73615,+45.25803
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.1 | 0.48 | -- | 759 | 0.112 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.10 | 0.48 | -- | 759 | 0.112 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 734](/_clusters/hsc734/)| 48.0 | 327.66 | 45.5 | 0.79 | 2.27 | -0.05 | -13.66 |0.41 |
+N_rows_shared: "1"
 ---

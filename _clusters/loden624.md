@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.6
+N_comments: ""
+dens_val: 1.0
 N_50_val: 97
 scix_url: Loden%20624
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 186.592 | -61.717 | -- | -0.94 | -0.63 | -15.7 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 186.577 | -61.8 | -- | -9.2 | -1.94 | 8.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.592 | -61.717 | -- | -0.94 | -0.63 | -15.7 
+N_rows_pos: "4"
 cds_radec: 186.55328,-61.8654
 carousel: UCC
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.42 | 1.29 | -- | 40 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.42 | 1.29 | -- | 40 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.42 | 1.29 | -- | 40 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.13 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 12.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.12 |
     |[Teutsch 108](/_clusters/teutsch108/)| 9.3 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
+N_rows_shared: "2"
 ---

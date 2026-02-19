@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 12.1
+N_comments: ""
+dens_val: 0.2
 N_50_val: 13
 scix_url: Theia%201661
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.534 | -25.159 | 0.39 | -0.349 | -1.709 | -28.171 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 267.591 | -25.154 | 0.374 | -0.341 | -1.707 | -4.926 
+N_rows_pos: "1"
 cds_radec: 267.53371,-25.15905
 carousel: UCC_HUNT23
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 25463 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 25463<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

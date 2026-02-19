@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.3
+N_comments: "1"
+dens_val: 138.9
 N_50_val: 1029
 scix_url: Pismis%202
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 124.47 | -41.67 | -- | 0.03 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 124.479 | -41.672 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 124.475 | -41.667 | -- | -5.72 | 0.89 | -49.0 
+N_rows_pos: "20"
 cds_radec: 124.47777,-41.67235
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -99,10 +101,12 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.31 | -- | -- | 1148 | -0.070 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.31 | 0.16 | -- | 1148 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.31 | 0.16 | -- | 1148 | -0.070 | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0455](/_clusters/oc0455/)| 3.3 | 124.48 | -41.67 | 0.29 | -4.7 | 5.37 | 61.15 |0.0 |
     |[OC 0456](/_clusters/oc0456/)| 2.4 | 124.49 | -41.67 | 0.24 | -4.69 | 5.37 | 60.83 |0.0 |
+N_rows_shared: "2"
 ---

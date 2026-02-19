@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 0.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.7
+N_comments: "1"
+dens_val: 15.2
 N_50_val: 24
 scix_url: CWNU%20239
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 98.324 | 2.527 | 0.618 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 98.28 | 2.446 | 0.62 | -2.321 | -0.526 | 11.533 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 98.268 | 2.457 | 0.62 | -2.34 | -0.54 | -- 
+N_rows_pos: "5"
 cds_radec: 98.27392,+2.47731
 carousel: UCC_HUNT23
 fpars_table: |
@@ -73,6 +75,7 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.62 | 2.56 | -- | 11 | 0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.50 | 2.44 | 2.79 | 13 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.45 | 2.82 | -- | 25 | 0.457 | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -80,4 +83,5 @@ shared_table: |
     |[CWWDL 3775](/_clusters/cwwdl3775/)| 100.0 | 98.27 | 2.46 | 0.63 | -2.32 | -0.53 | -24.69 |0.0 |
     |[LISC-III 1682](/_clusters/lisciii1682/)| 100.0 | 98.27 | 2.47 | 0.63 | -2.29 | -0.53 | -17.72 |0.15 |
     |[UBC 1330](/_clusters/ubc1330/)| 100.0 | 98.28 | 2.46 | 0.62 | -2.33 | -0.56 | -17.72 |0.49 |
+N_rows_shared: "3"
 ---

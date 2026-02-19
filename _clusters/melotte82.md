@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 40.4
+N_comments: "2"
+dens_val: 151.8
 N_50_val: 3560
 scix_url: Melotte%2082
 posit_table: |
@@ -94,6 +95,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 119.518 | -60.796 | -- | -4.08 | 10.98 | 22.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 119.517 | -60.753 | -- | -5.43 | 8.41 | 23.08 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 119.517 | -60.753 | -- | -- | -- | -- 
+N_rows_pos: "36"
 cds_radec: 119.49863,-60.76689
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -133,9 +135,11 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.41 | 0.31 | -- | 110 | 0.060<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.41 | 0.31 | -- | 113 | 0.060 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.37 | 0.34 | -- | 126 | -- | -- | -- | -- |
+N_rows_pars: "33"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 613](/_clusters/theia613/)| 0.5 | 119.58 | -60.75 | 2.73 | -5.14 | 10.89 | 25.56 |0.05 |
+N_rows_shared: "1"
 ---

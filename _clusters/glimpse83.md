@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.4
+N_comments: ""
+dens_val: 0.4
 N_50_val: 14
 scix_url: GLIMPSE%2083
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.378 | -43.362 | 0.425 | -2.867 | -4.22 | -28.31 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 253.365 | -43.401 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 253.37817,-43.36231
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VVV 089](/_clusters/vvv089/)| 16.0 | 253.48 | -43.21 | 0.44 | -2.82 | -3.91 | -40.06 |0.05 |
+N_rows_shared: "1"
 ---

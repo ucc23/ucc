@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 67.3
+N_comments: ""
+dens_val: 2.9
 N_50_val: 91
 scix_url: OCSN%2067
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |78.626 | -6.761 | 3.493 | 1.769 | -2.971 | 13.69 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 78.76 | -6.6 | 3.58 | 1.69 | -3.16 | 14.49 
+N_rows_pos: "1"
 cds_radec: 78.62562,-6.76056
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.29 | 0.4 | -- | 18 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.29 | 0.40 | -- | 18 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1648](/_clusters/hsc1648/)| 63.7 | 78.95 | -6.62 | 3.46 | 1.77 | -2.93 | 11.55 |0.0 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.2
+N_comments: ""
+dens_val: 0.1
 N_50_val: 9
 scix_url: S%20Sct%20Group
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |282.722 | -7.91 | 0.187 | -3.708 | -6.729 | 63.837 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 282.734 | -7.917 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 282.722,-7.91006
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

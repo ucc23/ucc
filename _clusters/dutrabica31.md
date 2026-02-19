@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.1
+N_comments: ""
+dens_val: 0.7
 N_50_val: 15
 scix_url: Dutra%20Bica%2031
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.678 | -27.788 | 0.324 | 1.138 | -1.977 | -64.085 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 267.696 | -27.788 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.708 | -27.785 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 267.67808,-27.78821
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.7
+N_comments: ""
+dens_val: 0.2
 N_50_val: 49
 scix_url: Ruprecht%20154
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 120.444 | -44.415 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 120.442 | -44.417 | -- | -5.16 | 2.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 120.442 | -44.417 | -- | -5.16 | 2.67 | -- 
+N_rows_pos: "3"
 cds_radec: 120.40133,-44.4074
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.78 | 0.27 | -- | 2239 | 0.150 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.78 | 0.27 | -- | 2239 | 0.150 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

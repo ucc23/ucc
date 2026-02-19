@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.1
+N_comments: "1"
+dens_val: 27.9
 N_50_val: 107
 scix_url: Pismis%2022
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 243.555 | -51.865 | -- | -10.73 | -3.63 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 243.537 | -51.867 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 243.537 | -51.867 | -- | -2.97 | -3.31 | -- 
+N_rows_pos: "13"
 cds_radec: 243.54201,-51.86899
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -87,7 +89,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.02 | 5.97 | -- | 158 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.00 | 6.20 | -- | 40 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.00 | 6.20 | -- | 40 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

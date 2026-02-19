@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 10.4
+N_comments: ""
+dens_val: 0.7
 N_50_val: 17
 scix_url: VDBH%20223
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |260.208 | -35.891 | 0.622 | 0.156 | 0.892 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 260.171 | -35.883 | -- | 0.09 | 0.77 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 260.171 | -35.883 | -- | 0.09 | 0.77 | -- 
+N_rows_pos: "2"
 cds_radec: 260.20776,-35.8911
 carousel: UCC
 fpars_table: |
@@ -65,7 +67,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.41 | 0.16 | -- | 14 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.41 | 0.16 | -- | 14 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

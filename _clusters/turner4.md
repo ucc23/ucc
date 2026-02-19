@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.8
+N_comments: ""
+dens_val: 0.3
 N_50_val: 19
 scix_url: Turner%204
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 274.26 | -18.721 | -- | 4.429 | -2.053 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 274.283 | -18.7 | -- | 0.44 | -1.08 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 274.283 | -18.7 | -- | 0.44 | -1.08 | -- 
+N_rows_pos: "3"
 cds_radec: 274.25549,-18.65834
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.665 | 0.95 | -- | 262 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.00 | 0.95 | -- | 513 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.33 | -- | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

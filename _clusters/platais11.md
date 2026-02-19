@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 7.1
+N_comments: ""
+dens_val: 0.1
 N_50_val: 19
 scix_url: Platais%2011
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |206.906 | -66.042 | 0.172 | -3.988 | -5.079 | 4.879 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 206.988 | -66.02 | -- | -4.12 | -5.11 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 206.988 | -66.02 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 206.90602,-66.04232
 carousel: UCC
 fpars_table: |
@@ -65,7 +67,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.23 | -- | -- | 200 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.23 | -- | -- | 200 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

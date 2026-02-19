@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.4
+N_comments: "2"
+dens_val: 7.4
 N_50_val: 134
 scix_url: Collinder%20436
 posit_table: |
@@ -81,6 +82,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 321.05 | 48.017 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 321.096 | 48.01 | -- | -3.69 | -5.6 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 321.05 | 48.017 | -- | -- | -- | -- 
+N_rows_pos: "23"
 cds_radec: 321.05224,+48.01574
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -108,7 +110,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.33 | 2.63 | -- | 31 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.60 | 2.33 | -- | 100 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.25 | 2.63 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

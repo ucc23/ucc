@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.0
+N_comments: ""
+dens_val: 16.3
 N_50_val: 50
 scix_url: Pfleiderer%201
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |17.025 | 65.647 | 0.166 | -1.853 | -0.127 | -74.299 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 17.024 | 65.646 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 17.029 | 65.647 | -- | -2.48 | 3.83 | -- 
+N_rows_pos: "2"
 cds_radec: 17.02488,+65.6468
 carousel: UCC
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.2 | 2.91 | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 7.20 | 2.91 | -- | 1000 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3623](/_clusters/cwnu3623/)| 64.0 | 17.02 | 65.65 | 0.16 | -1.84 | -0.17 | -72.3 |0.09 |
+N_rows_shared: "1"
 ---

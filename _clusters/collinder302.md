@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.7
+N_comments: "1"
+dens_val: 19.4
 N_50_val: 26
 scix_url: Collinder%20302
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |246.059 | -26.413 | 1.684 | -12.382 | -18.825 | 11.987 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 245.888 | -26.523 | 2.362 | -12.145 | -18.708 | 12.414 
+N_rows_pos: "1"
 cds_radec: 246.05934,-26.41288
 carousel: UCC_HUNT23
 fpars_table: |
@@ -65,7 +67,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 2.02 | 0.63 | 5383 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.39 | 2.02 | 0.63 | 5383 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

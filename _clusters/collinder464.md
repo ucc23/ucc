@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.2
 N_50_val: 21
 scix_url: Collinder%20464
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |78.173 | 74.003 | 0.246 | 1.512 | 0.592 | -86.82 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 78.162 | 73.975 | -- | 1.81 | 0.57 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 78.162 | 73.975 | -- | 1.81 | 0.57 | -- 
+N_rows_pos: "2"
 cds_radec: 78.17328,+74.00297
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

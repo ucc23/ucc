@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.6
+N_comments: ""
+dens_val: 7.8
 N_50_val: 92
 scix_url: Pismis%2024
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 261.391 | -34.402 | 0.572 | -0.978 | -2.502 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 261.35 | -34.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 261.179 | -34.206 | -- | 2.29 | -0.91 | -- 
+N_rows_pos: "3"
 cds_radec: 261.3966,-34.36282
 carousel: UCC
 fpars_table: |
@@ -68,11 +70,13 @@ fpars_table: |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 1.75<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.00 | 5.33 | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.00 | 5.33 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 80.4 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.51 |
-    |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.79 |
+    |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.78 |
     |[OC 0688](/_clusters/oc0688/)| 27.2 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.05 |
+N_rows_shared: "3"
 ---

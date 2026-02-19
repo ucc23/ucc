@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.8
+N_comments: "2"
+dens_val: 42.2
 N_50_val: 197
 scix_url: Trumpler%2028
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 264.21 | -32.47 | -- | 1.72 | -2.21 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.25 | -32.483 | -- | -0.56 | -1.8 | 7.0 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 264.25 | -32.483 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 264.22401,-32.46405
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -115,6 +117,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.34 | 2.26 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.34 | 2.27 | -- | 19 | 0.326 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.23 | 2.36 | -- | 22 | -- | -- | -- | -- |
+N_rows_pars: "25"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -122,4 +125,5 @@ shared_table: |
     |[UBC 569](/_clusters/ubc569/)| 71.1 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
     |[Ryu 144](/_clusters/ryu144/)| 0.5 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.22 |
     |[Trumpler 28b](/_clusters/trumpler28b/)| 0.5 | 264.25 | -32.47 | 0.26 | -0.93 | -2.52 | -12.36 |0.29 |
+N_rows_shared: "3"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.2
+N_comments: ""
+dens_val: 1.8
 N_50_val: 20
 scix_url: MCM%2077
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |244.333 | -50.53 | 0.364 | -4.076 | -4.087 | -43.497 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 244.367 | -50.511 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 244.33311,-50.52953
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 163](/_clusters/dbsb163/)| 8.0 | 244.69 | -50.31 | 0.34 | -4.18 | -4.16 | -- |0.03 |
+N_rows_shared: "1"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.0
+N_comments: "2"
+dens_val: 27.5
 N_50_val: 571
 scix_url: Czernik%2021
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 81.682 | 36.015 | -- | 1.41 | -3.82 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 81.671 | 36.014 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 81.671 | 36.014 | -- | -2.56 | -4.73 | -- 
+N_rows_pos: "22"
 cds_radec: 81.66698,+36.01562
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,7 +108,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.30 | 2.63 | -- | 2239 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.30 | 2.23 | -- | 3548 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.30 | 2.23 | -- | 3548 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

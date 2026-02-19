@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.9
+N_comments: ""
+dens_val: 1.0
 N_50_val: 21
 scix_url: CBJC%207
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 313.391 | 44.786 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 313.391 | 44.786 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 313.396 | 44.789 | -- | -6.69 | -2.22 | -- 
+N_rows_pos: "3"
 cds_radec: 313.44136,+44.8765
 carousel: UCC
 fpars_table: |
@@ -68,10 +70,12 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 82 | -- | 399 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 4.49 | 7.10 | -- | 82 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.49 | 7.10 | -- | 82 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CBJC 8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.39 |
+    |[CBJC 8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.37 |
     |[CWNU 2830](/_clusters/cwnu2830/)| 80.0 | 313.49 | 44.9 | 0.38 | -2.8 | -3.54 | -21.17 |0.01 |
+N_rows_shared: "2"
 ---

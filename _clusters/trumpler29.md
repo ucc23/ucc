@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.3
+N_comments: "2"
+dens_val: 29.9
 N_50_val: 215
 scix_url: Trumpler%2029
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 265.369 | -40.153 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 265.38 | -40.15 | -- | 1.45 | -4.64 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 265.38 | -40.15 | -- | 3.45 | -3.26 | -- 
+N_rows_pos: "22"
 cds_radec: 265.3499,-40.14968
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,7 +108,9 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.76 | 0.59 | -- | 490 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.76 | 0.59 | -- | 490 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.50 | 0.16 | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

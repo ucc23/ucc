@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.7
+N_comments: "2"
+dens_val: 96.7
 N_50_val: 1192
 scix_url: King%2011
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 356.95 | 68.633 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 356.946 | 68.625 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 356.95 | 68.633 | -- | -1.92 | -3.84 | -35.0 
+N_rows_pos: "26"
 cds_radec: 356.90841,+68.63458
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -112,7 +114,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.89 | 3.94 | -- | 1122 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.89 | 3.94 | -- | 1110 | -0.230<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.89 | 3.94 | -- | 1117 | -0.270 | -- | -- | -- |
+N_rows_pars: "22"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

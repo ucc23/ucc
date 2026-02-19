@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.5
+N_comments: "1"
+dens_val: 44.6
 N_50_val: 512
 scix_url: Teutsch%20268
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 276.736 | -14.106 | 0.306 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 276.736 | -14.105 | 0.308 | -0.773 | -2.121 | 4.317 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 276.745 | -14.107 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 276.73767,-14.10784
 carousel: UCC_HUNT23
 fpars_table: |
@@ -70,10 +72,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 9328<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.20 | 4.20 | -- | 240 | -0.900 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.94 | 3.57 | 2.77 | 105 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1015](/_clusters/ubc1015/)| 87.9 | 276.74 | -14.11 | 0.3 | -0.77 | -2.12 | -2.98 |0.01 |
     |[Teutsch 267](/_clusters/teutsch267/)| 3.7 | 276.51 | -13.95 | 0.29 | -0.61 | -1.98 | 28.51 |0.33 |
+N_rows_shared: "2"
 ---

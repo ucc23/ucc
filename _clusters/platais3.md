@@ -52,7 +52,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 59.6
+N_comments: "3"
+dens_val: 10.6
 N_50_val: 102
 scix_url: Platais%203
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 70.404 | 71.237 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 68.85 | 71.58 | -- | 3.3 | -20.5 | 7.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 70.404 | 71.237 | -- | 3.84 | -21.35 | 7.0 
+N_rows_pos: "25"
 cds_radec: 69.70604,+71.1786
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -112,7 +114,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.16 | -- | -- | 398 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.20 | 0.31 | -- | 501 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.20 | 0.31 | -- | 501 | -- | -- | -- | -- |
+N_rows_pars: "22"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

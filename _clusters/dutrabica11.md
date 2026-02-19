@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.5
 N_50_val: 20
 scix_url: Dutra%20Bica%2011
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.629 | -28.879 | 0.361 | 0.383 | -3.743 | -0.927 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 267.6 | -28.885 | -- | 0.46 | -3.78 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.6 | -28.885 | -- | 0.46 | -3.78 | -- 
+N_rows_pos: "2"
 cds_radec: 267.62888,-28.87858
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

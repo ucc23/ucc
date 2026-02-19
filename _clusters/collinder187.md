@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 11.1
+N_comments: ""
+dens_val: 0.1
 N_50_val: 18
 scix_url: Collinder%20187
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |126.041 | -29.152 | 0.187 | -2.361 | 3.477 | 77.58 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 126.049 | -29.161 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 126.054 | -29.167 | -- | -2.2 | 1.39 | -- 
+N_rows_pos: "2"
 cds_radec: 126.04139,-29.15224
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

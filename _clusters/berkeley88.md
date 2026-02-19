@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 0.8
+N_comments: ""
+dens_val: 16.0
 N_50_val: 65
 scix_url: Berkeley%2088
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 305.329 | 48.137 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 305.332 | 48.14 | -- | -2.49 | -4.02 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 305.4 | 48.083 | -- | -2.49 | -4.02 | -- 
+N_rows_pos: "4"
 cds_radec: 305.30823,+48.14124
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.04 | 3.74 | -- | 653 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.04 | 3.74 | -- | 653 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.32 | 2.73 | -- | 1585 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3863](/_clusters/cwnu3863/)| 72.3 | 305.3 | 48.14 | 0.11 | -3.96 | -4.65 | -68.16 |0.06 |
+N_rows_shared: "1"
 ---

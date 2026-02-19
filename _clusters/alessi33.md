@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 18.7
+N_comments: "2"
+dens_val: 11.1
 N_50_val: 210
 scix_url: Alessi%2033
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 105.489 | -26.503 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 105.49 | -26.5 | -- | -3.39 | 1.97 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.496 | -26.503 | -- | -1.47 | 2.32 | -- 
+N_rows_pos: "26"
 cds_radec: 105.74438,-26.4765
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -114,6 +116,7 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.75 | 0.25 | -- | 151 | -- | 158 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.75 | 0.25 | -- | 151 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.75 | 0.25 | -- | 151 | -- | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -121,4 +124,5 @@ shared_table: |
     |[CWWDL 14294](/_clusters/cwwdl14294/)| 94.8 | 105.75 | -26.5 | 1.26 | -3.22 | 3.51 | 32.7 |0.06 |
     |[OC 0408](/_clusters/oc0408/)| 6.2 | 105.12 | -26.51 | 1.22 | -3.22 | 3.55 | 34.95 |0.09 |
     |[OC 0410](/_clusters/oc0410/)| 3.3 | 105.73 | -27.38 | 1.2 | -3.1 | 3.48 | 35.18 |0.13 |
+N_rows_shared: "3"
 ---

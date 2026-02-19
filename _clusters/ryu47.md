@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 2.9
+N_comments: ""
+dens_val: 0.6
 N_50_val: 15
 scix_url: Ryu%2047
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |252.476 | -51.621 | 0.162 | -3.635 | -3.763 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 252.488 | -51.624 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 252.47566,-51.62138
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

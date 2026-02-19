@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.0
+N_comments: "2"
+dens_val: 43.2
 N_50_val: 117
 scix_url: Berkeley%2011
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 65.15 | 44.917 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 65.15 | 44.917 | -- | 0.87 | -2.71 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 65.15 | 44.917 | -- | -- | -- | -- 
+N_rows_pos: "24"
 cds_radec: 65.12464,+44.92615
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -109,7 +111,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.88 | 2.94 | -- | 52 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.20 | 2.94 | -- | 110 | 0.010 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.16 | 3.00 | -- | 20 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

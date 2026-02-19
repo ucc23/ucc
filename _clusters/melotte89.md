@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.9
+N_comments: "2"
+dens_val: 7.8
 N_50_val: 200
 scix_url: Melotte%2089
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 129.608 | -34.77 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 129.617 | -34.76 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 129.608 | -34.77 | -- | -4.24 | 0.76 | -- 
+N_rows_pos: "19"
 cds_radec: 129.61408,-34.77802
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -100,9 +102,11 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 4.00 | -- | -- | 603 | -0.610 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.75 | 1.08 | -- | 316 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.00 | 1.08 | -- | 603 | -0.610 | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2049](/_clusters/hsc2049/)| 12.5 | 129.62 | -34.77 | 0.18 | -2.49 | 2.22 | 75.57 |0.0 |
+N_rows_shared: "1"
 ---

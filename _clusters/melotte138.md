@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.7
+N_comments: "2"
+dens_val: 77.0
 N_50_val: 646
 scix_url: Melotte%20138
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 238.995 | -57.44 | -- | 12.12 | 13.26 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 239.002 | -57.452 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 238.95 | -57.437 | -- | -0.26 | -4.06 | -25.2 
+N_rows_pos: "24"
 cds_radec: 238.95423,-57.43603
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -109,7 +111,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.80 | 2.13 | -- | 1148 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.69 | 1.40 | -- | 1202 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.69 | 1.40 | -- | 1202 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

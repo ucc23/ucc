@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.4
+N_comments: "2"
+dens_val: 219.6
 N_50_val: 2029
 scix_url: Melotte%2040
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 91.859 | 24.098 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 91.859 | 24.098 | 0.233 | -0.211 | -1.982 | 26.962 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 91.862 | 24.099 | 0.233 | -- | -- | -- |
+    |[Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 91.862 | 24.099 | 0.231 | -0.193 | -1.978 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 91.859 | 24.098 | 0.233 | -0.211 | -1.982 | 26.962 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 91.848 | 24.093 | -- | -- | -- | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 91.862 | 24.099 | 0.205 | -0.2 | -2.004 | -- |
@@ -85,17 +87,19 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 91.854 | 24.097 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 91.857 | 24.091 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 91.854 | 24.097 | -- | -1.22 | -3.3 | 26.9 
+N_rows_pos: "28"
 cds_radec: 91.86214,+24.09761
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.54 | 1.13 | 1.18 | 1858 | -0.243 | 12371 | -- | 39.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.54 | 1.14 | 1.18 | 1876 | -0.243 | 20923 | 0.37 | 39.0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.98 | 1.61 | -- | 1894 | -0.246 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.240<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.322<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 20923<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.34 | 1.37 | -- | 2512 | -0.010 | -- | -- | -- |
+    | [Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 3.59 | 1.33 | -- | 3057 | -- | 38854 | 0.37 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.80 | 1.37 | 1.18 | 1858 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 2138 | -- | 3819 | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 5.07<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
@@ -114,9 +118,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.07 | 1.12 | -- | 1047 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 3.60 | 1.71 | -- | 2000 | -0.230<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 5.07 | 1.12 | -- | 1054 | -0.280 | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0306](/_clusters/oc0306/)| 1.2 | 91.87 | 24.1 | 0.36 | -0.2 | -2.02 | -- |0.0 |
+N_rows_shared: "1"
 ---

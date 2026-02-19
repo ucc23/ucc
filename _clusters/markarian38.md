@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.5
+N_comments: "2"
+dens_val: 8.4
 N_50_val: 45
 scix_url: Markarian%2038
 posit_table: |
@@ -83,6 +84,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 273.82 | -19.0 | -- | -0.97 | -1.21 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 273.821 | -19.0 | -- | -1.76 | -2.12 | -3.2 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 273.826 | -19.002 | -- | -- | -- | -- 
+N_rows_pos: "25"
 cds_radec: 273.81974,-19.00305
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -111,7 +113,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.47 | 0.93 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.47 | 1.26 | -- | 8 | 0.180 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.71 | 1.00 | -- | 20 | -- | -- | -- | -- |
+N_rows_pars: "22"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

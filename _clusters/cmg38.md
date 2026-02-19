@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.8
+N_comments: ""
+dens_val: 0.1
 N_50_val: 17
 scix_url: Cmg%2038
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |78.777 | 19.936 | 0.194 | 0.275 | -1.084 | -1.297 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 78.824 | 19.88 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 78.77736,+19.93591
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 0851](/_clusters/fsr0851/)| 16.0 | 78.65 | 19.82 | 0.16 | 0.29 | -0.7 | -8.5 |0.18 |
+N_rows_shared: "1"
 ---

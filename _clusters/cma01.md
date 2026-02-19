@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.1
+N_comments: ""
+dens_val: 5.5
 N_50_val: 55
 scix_url: CMa01
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |106.81 | -7.667 | 0.926 | -3.933 | 1.185 | 32.252 |
     |[Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 106.8 | -7.66 | 0.91 | -3.94 | 1.13 | -- 
+N_rows_pos: "1"
 cds_radec: 106.81003,-7.66719
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.06 | 0.42 | -- | 172 | 0.070 | -- | -- | -- |
     | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.06<sup>(1)</sup> | 0.42<sup>(1)</sup> | -- | 172<sup>(1)</sup> | 0.070<sup>(1)</sup> | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -71,4 +74,5 @@ shared_table: |
     |[PHOC 4](/_clusters/phoc4/)| 100.0 | 106.82 | -7.65 | 0.92 | -3.94 | 1.18 | 33.55 |0.46 |
     |[HXHWL 54](/_clusters/hxhwl54/)| 94.5 | 106.85 | -7.66 | 0.93 | -3.94 | 1.21 | 32.38 |0.0 |
     |[Theia 2649](/_clusters/theia2649/)| 94.5 | 106.85 | -7.67 | 0.92 | -3.94 | 1.21 | 32.25 |0.01 |
+N_rows_shared: "3"
 ---

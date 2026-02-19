@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.9
+N_comments: "1"
+dens_val: 2.2
 N_50_val: 24
 scix_url: Casado%2012
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 12.578 | 63.71 | 0.339 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 12.727 | 63.649 | 0.339 | -2.989 | -0.497 | -- |
     |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 12.765 | 63.652 | 0.34 | -3.0 | -0.4 | -- 
+N_rows_pos: "4"
 cds_radec: 12.72904,+63.64822
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,9 +73,11 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.01 | 1.81 | -- | 38 | 0.680 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.67 | 2.04 | 0.69 | 15 | -- | -- | -- | -- |
     | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 2.80 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1208](/_clusters/ubc1208/)| 100.0 | 12.68 | 63.68 | 0.34 | -2.98 | -0.49 | -57.44 |0.25 |
+N_rows_shared: "1"
 ---

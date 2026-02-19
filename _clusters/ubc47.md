@@ -13,17 +13,17 @@ glon: 135.38544
 glat: 3.77746
 r50: 2.3
 plx: 0.639
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.3
+N_comments: "1"
+dens_val: 21.9
 N_50_val: 24
 scix_url: UBC%2047
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 41.996 | 63.789 | 0.647 | 1.192 | -1.103 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 41.996 | 63.789 | 0.647 | 1.192 | -1.103 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 42.001 | 63.802 | 0.651 | 1.191 | -1.12 | -- 
+N_rows_pos: "6"
 cds_radec: 41.9957,+63.79633
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -75,7 +77,9 @@ fpars_table: |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 1.46 | -- | -- | 263 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.51 | 2.24 | -- | 245 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.48 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

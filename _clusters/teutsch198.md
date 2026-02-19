@@ -13,17 +13,17 @@ glon: 196.42378
 glat: 3.10632
 r50: 1.0
 plx: 0.1362
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.0
+N_comments: "1"
+dens_val: 9.0
 N_50_val: 41
 scix_url: Teutsch%20198
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 98.012 | 16.097 | 0.142 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 98.012 | 16.096 | 0.14 | -0.009 | -0.964 | 60.743 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 98.007 | 16.095 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 98.01334,+16.09266
 carousel: UCC_HUNT23
 fpars_table: |
@@ -74,10 +76,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 585<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.66 | 1.86 | -- | 617 | -0.380 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.66 | 1.82 | 1.28 | 500 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3139](/_clusters/cwnu3139/)| 61.0 | 98.01 | 16.09 | 0.13 | -0.01 | -0.97 | 60.74 |0.0 |
     |[CWWDL 11965](/_clusters/cwwdl11965/)| 14.6 | 97.91 | 15.9 | 0.22 | -0.08 | -0.93 | 26.18 |0.13 |
+N_rows_shared: "2"
 ---

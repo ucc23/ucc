@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.7
+N_comments: "2"
+dens_val: 41.8
 N_50_val: 580
 scix_url: Melotte%2063
 posit_table: |
@@ -86,6 +87,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 109.25 | 13.783 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 109.205 | 13.828 | -- | 0.5 | -2.4 | 35.1 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 109.246 | 13.75 | -- | -2.5 | -3.0 | 35.02 
+N_rows_pos: "28"
 cds_radec: 109.25021,+13.76523
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -117,7 +119,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.20 | 0.37 | -- | 708 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.20 | 0.37 | -- | 700 | -0.070<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.95 | 0.68 | -- | 794 | -0.080 | -- | -- | -- |
+N_rows_pars: "25"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

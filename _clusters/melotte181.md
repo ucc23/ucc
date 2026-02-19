@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.2
+N_comments: "2"
+dens_val: 35.7
 N_50_val: 489
 scix_url: Melotte%20181
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 267.67 | -30.21 | -- | 0.06 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 267.675 | -30.217 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.671 | -30.21 | -- | 1.32 | -1.8 | -23.0 
+N_rows_pos: "24"
 cds_radec: 267.67535,-30.20865
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -108,6 +110,7 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 2.08 | -- | -- | 136 | -0.270 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.08 | 2.08 | -- | 135 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.08 | 2.08 | -- | 136 | -0.340 | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -115,4 +118,5 @@ shared_table: |
     |[UBC 570](/_clusters/ubc570/)| 95.1 | 267.68 | -30.21 | 0.33 | -0.11 | -1.35 | -7.85 |0.03 |
     |[OC 0703](/_clusters/oc0703/)| 8.2 | 267.67 | -30.2 | 0.31 | -0.14 | -1.38 | -8.52 |0.0 |
     |[OC 0702](/_clusters/oc0702/)| 0.4 | 267.67 | -30.21 | 0.52 | -0.12 | -1.11 | 8.5 |0.23 |
+N_rows_shared: "3"
 ---

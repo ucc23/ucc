@@ -13,17 +13,17 @@ glon: 31.30085
 glat: 5.20802
 r50: 17.8
 plx: 2.2851
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 17.8
+N_comments: "1"
+dens_val: 38.2
 N_50_val: 196
 scix_url: UPK%2039
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 277.53 | 1.04 | 2.26 | 3.24 | -8.68 | -8.0 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 277.519 | 0.975 | 2.252 | 3.255 | -8.639 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 277.485 | 1.002 | -- | 3.29 | -8.65 | -- 
+N_rows_pos: "7"
 cds_radec: 277.47533,+0.92852
 carousel: UCC_HUNT23
 fpars_table: |
@@ -77,9 +79,11 @@ fpars_table: |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 1.00 | 2.08 | -- | 7 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.50 | -- | 2 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.43 | -- | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "7"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14652](/_clusters/cwwdl14652/)| 57.1 | 277.5 | 1.02 | 2.29 | 3.03 | -8.83 | -11.21 |0.0 |
+N_rows_shared: "1"
 ---

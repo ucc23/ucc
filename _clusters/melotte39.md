@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 8.8
+N_comments: "2"
+dens_val: 20.2
 N_50_val: 232
 scix_url: Melotte%2039
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 90.648 | 49.872 | -- | -1.38 | -1.71 | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 90.638 | 49.873 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 90.621 | 49.918 | -- | -0.63 | -1.62 | -- 
+N_rows_pos: "22"
 cds_radec: 90.66173,+49.87996
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -105,9 +107,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.10 | 0.16 | -- | 2818 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.10 | 0.16 | -- | 2818 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.09 | 0.84 | -- | 1259 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 196](/_clusters/ubc196/)| 97.0 | 90.66 | 49.88 | 0.76 | 0.81 | -2.6 | -13.21 |0.03 |
+N_rows_shared: "1"
 ---

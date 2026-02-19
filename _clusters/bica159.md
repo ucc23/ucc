@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.6
+N_comments: ""
+dens_val: 0.5
 N_50_val: 16
 scix_url: Bica%20159
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |318.813 | 48.878 | 0.273 | -3.227 | -4.777 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 318.776 | 48.88 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 318.81346,+48.87751
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2438](/_clusters/cwnu2438/)| 8.0 | 318.42 | 49.01 | 0.33 | -3.25 | -4.75 | -42.31 |0.22 |
+    |[CWNU 2438](/_clusters/cwnu2438/)| 8.0 | 318.42 | 49.01 | 0.33 | -3.25 | -4.75 | -42.31 |0.21 |
+N_rows_shared: "1"
 ---

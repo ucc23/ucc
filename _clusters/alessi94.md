@@ -13,17 +13,17 @@ glon: 117.57919
 glat: -16.02798
 r50: 37.4
 plx: 1.7824
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#f5fbdc"
 UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
 UTI_C_dens: 0.34
 UTI_C_C3: 1.0
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 37.4
+N_comments: "2"
+dens_val: 1.7
 N_50_val: 64
 scix_url: Alessi%2094
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 5.584 | 46.532 | 1.754 | -6.374 | -5.022 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 5.796 | 46.605 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 5.802 | 46.604 | 1.745 | -6.34 | -5.003 | -9.73 
+N_rows_pos: "11"
 cds_radec: 5.37581,+46.54422
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -84,9 +86,11 @@ fpars_table: |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.55 | -- | -- | 209 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.55 | 0.18 | -- | 200 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.56 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14565](/_clusters/cwwdl14565/)| 39.1 | 5.59 | 46.52 | 1.78 | -6.39 | -5.1 | -16.39 |0.0 |
+N_rows_shared: "1"
 ---

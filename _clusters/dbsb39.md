@@ -13,17 +13,17 @@ glon: 274.80214
 glat: -1.91706
 r50: 5.5
 plx: 0.3604
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#fef0d2"
 UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.39
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.5
+N_comments: "1"
+dens_val: 1.9
 N_50_val: 38
 scix_url: DBSB%2039
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 141.098 | -53.132 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 141.098 | -53.132 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 141.103 | -53.136 | -- | -0.73 | 7.19 | -- 
+N_rows_pos: "6"
 cds_radec: 141.14896,-53.10795
 carousel: UCC_HUNT23
 fpars_table: |
@@ -75,9 +77,11 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 25 | -- | 18 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.86 | 2.39 | -- | 25 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.86 | 2.39 | -- | 25 | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 489](/_clusters/ubc489/)| 97.4 | 141.15 | -53.08 | 0.35 | -4.95 | 3.82 | -- |0.18 |
+N_rows_shared: "1"
 ---

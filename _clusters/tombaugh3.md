@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.4
+N_comments: "2"
+dens_val: 72.1
 N_50_val: 1850
 scix_url: Tombaugh%203
 posit_table: |
@@ -85,6 +86,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 28.12 | 61.83 | -- | 0.06 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 28.125 | 61.833 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 28.125 | 61.833 | -- | -1.26 | -0.04 | -36.7 
+N_rows_pos: "27"
 cds_radec: 28.08936,+61.85614
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -114,7 +116,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.80 | 2.63 | -- | 1000 | -0.178 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.97 | 3.26 | -- | 427 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.80 | 2.48 | -- | 1000 | -0.178 | -- | -- | -- |
+N_rows_pars: "23"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

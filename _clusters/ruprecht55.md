@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.1
+N_comments: "1"
+dens_val: 0.7
 N_50_val: 54
 scix_url: Ruprecht%2055
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 123.09 | -32.59 | -- | -2.7 | 4.15 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 123.112 | -32.583 | -- | -2.37 | 0.83 | 94.2 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 123.112 | -32.583 | -- | -- | -- | -- 
+N_rows_pos: "19"
 cds_radec: 123.11332,-32.57306
 carousel: UCC
 fpars_table: |
@@ -98,7 +100,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 4.76 | 1.46 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.60 | 1.40 | -- | 10 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 6.79 | 1.71 | -- | 8 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

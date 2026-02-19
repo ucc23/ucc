@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.3
+N_comments: ""
+dens_val: 0.4
 N_50_val: 15
 scix_url: Kronberger%2027
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |293.649 | 11.668 | 0.243 | -2.352 | -3.204 | 17.69 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 293.636 | 11.704 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 293.64903,+11.66796
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

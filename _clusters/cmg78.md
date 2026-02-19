@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.1
+N_comments: ""
+dens_val: 0.5
 N_50_val: 21
 scix_url: Cmg%2078
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |111.408 | 13.731 | 0.31 | -1.271 | -1.027 | 82.239 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 111.44 | 13.772 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 111.40805,+13.73098
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

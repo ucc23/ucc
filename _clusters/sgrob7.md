@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.5
+N_comments: ""
+dens_val: 0.1
 N_50_val: 8
 scix_url: Sgr%20OB7
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |273.716 | -20.437 | 0.197 | -1.618 | -3.646 | -1.148 |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 273.711 | -20.404 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 273.72 | -20.4 | -- | 1.8 | -1.2 | -7.19 
+N_rows_pos: "2"
 cds_radec: 273.71618,-20.4369
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.86 | 0.74 | -- | 4 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.86 | 0.74 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.86 | 0.74 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.2
+N_comments: "2"
+dens_val: 42.3
 N_50_val: 979
 scix_url: Trumpler%2036
 posit_table: |
@@ -81,6 +82,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 302.7 | 41.179 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 302.575 | 41.217 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 302.575 | 41.217 | -- | 0.59 | -6.51 | -63.15 
+N_rows_pos: "23"
 cds_radec: 302.70013,+41.17748
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -107,7 +109,9 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 6.03 | -- | -- | 1585 | -0.300 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.33 | 2.36 | -- | 417 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.03 | 0.87 | -- | 1585 | -0.300 | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

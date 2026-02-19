@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.6
+N_comments: ""
+dens_val: 2.6
 N_50_val: 66
 scix_url: MCM%2023
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |292.552 | 18.537 | 0.149 | -3.15 | -5.905 | 27.997 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 292.555 | 18.538 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 292.5522,+18.53654
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 42](/_clusters/teutsch42/)| 59.1 | 292.55 | 18.54 | 0.16 | -3.11 | -5.88 | -- |0.55 |
+    |[Teutsch 42](/_clusters/teutsch42/)| 59.1 | 292.55 | 18.54 | 0.16 | -3.11 | -5.88 | -- |0.53 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 12.3
+N_comments: ""
+dens_val: 118.1
 N_50_val: 56
 scix_url: OCSN%20187
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |167.487 | -76.535 | 5.195 | -21.839 | -0.455 | 12.251 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 167.55 | -76.58 | 5.19 | -21.71 | -0.55 | 10.23 
+N_rows_pos: "1"
 cds_radec: 167.48737,-76.5346
 carousel: UCC
 fpars_table: |
@@ -64,12 +66,14 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.31 | 1.15 | -- | 4 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.31 | 1.15 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.71 |
+    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.7 |
     |[CWWDL 14679](/_clusters/cwwdl14679/)| 100.0 | 167.44 | -76.55 | 5.2 | -22.07 | -0.25 | 14.71 |0.0 |
     |[FoF 2435](/_clusters/fof2435/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.28 | 13.92 |0.0 |
     |[OC 0578](/_clusters/oc0578/)| 87.5 | 167.51 | -76.51 | 5.19 | -21.83 | -0.52 | 12.25 |0.0 |
+N_rows_shared: "4"
 ---

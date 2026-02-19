@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 14.6
+N_comments: ""
+dens_val: 0.6
 N_50_val: 26
 scix_url: CWNU%20202
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |303.485 | 34.564 | 0.624 | -0.839 | -3.641 | -24.642 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 303.537 | 34.572 | 0.62 | -0.83 | -3.64 | -- 
+N_rows_pos: "1"
 cds_radec: 303.48532,+34.56356
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.32 | 1.68 | -- | 63 | -0.642 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.32 | 1.68 | -- | 63 | -0.642 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 2007](/_clusters/theia2007/)| 65.4 | 303.43 | 34.46 | 0.62 | -0.88 | -3.64 | -36.82 |0.04 |
+N_rows_shared: "1"
 ---

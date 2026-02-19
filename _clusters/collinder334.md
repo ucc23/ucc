@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.2
+N_comments: ""
+dens_val: 1.2
 N_50_val: 15
 scix_url: Collinder%20334
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |263.086 | -32.598 | 0.339 | -1.53 | -3.07 | -6.556 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 263.067 | -32.602 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 263.08623,-32.59751
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDSB 102](/_clusters/bdsb102/)| 44.0 | 263.18 | -32.57 | 0.29 | -1.61 | -2.75 | -6.65 |0.31 |
+N_rows_shared: "1"
 ---

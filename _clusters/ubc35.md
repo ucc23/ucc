@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 9.2
+N_comments: ""
+dens_val: 17.4
 N_50_val: 210
 scix_url: UBC%2035
 posit_table: |
@@ -57,10 +58,12 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |15.054 | 55.409 | 0.771 | -4.436 | -2.053 | -32.45 |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 15.095 | 55.411 | 0.786 | -4.464 | -1.941 | -- 
+N_rows_pos: "1"
 cds_radec: 15.05415,+55.40908
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -68,4 +71,5 @@ shared_table: |
     |[AT 21](/_clusters/at21/)| 99.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.63 |
     |[COIN-Gaia 2](/_clusters/coingaia2/)| 88.1 | 15.05 | 55.41 | 0.77 | -4.44 | -2.06 | -32.25 |0.0 |
     |[CWWDL 3306](/_clusters/cwwdl3306/)| 31.9 | 15.08 | 55.39 | 0.78 | -4.44 | -2.08 | -32.19 |0.0 |
+N_rows_shared: "3"
 ---

@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.8
+N_comments: "1"
+dens_val: 8.9
 N_50_val: 52
 scix_url: UFMG%2060
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 214.64 | -62.658 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 214.64 | -62.658 | 0.427 | -3.85 | -2.521 | -- |
     |[Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 214.63 | -62.679 | 0.428 | -3.852 | -2.519 | -- 
+N_rows_pos: "3"
 cds_radec: 214.67287,-62.66118
 carousel: UCC
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.20 | 1.97 | -- | 263 | -- | 209 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.20 | 1.97 | -- | 263 | 0.057 | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 2.29 | 2.79 | -- | 45 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.06 |
     |[LISC 3170](/_clusters/lisc3170/)| 71.2 | 214.65 | -62.66 | 0.46 | -3.91 | -2.55 | -- |0.07 |
+N_rows_shared: "2"
 ---

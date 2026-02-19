@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.1
+N_comments: ""
+dens_val: 0.0
 N_50_val: 12
 scix_url: Loden%201202
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 211.019 | -58.741 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 211.1 | -58.7 | -- | -2.37 | -5.56 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 211.1 | -58.7 | -- | -2.37 | -5.56 | -- 
+N_rows_pos: "3"
 cds_radec: 211.06692,-58.72481
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.06 | 2.58 | -- | 442 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.06 | 2.58 | -- | 442 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

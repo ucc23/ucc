@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 37.9
+N_comments: ""
+dens_val: 2.0
 N_50_val: 56
 scix_url: OCSN%2020
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |302.885 | 26.744 | 2.096 | 1.815 | -9.289 | -20.067 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 303.01 | 27.06 | 2.15 | 1.94 | -9.4 | -21.02 
+N_rows_pos: "1"
 cds_radec: 302.88461,+26.74418
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.52 | 0.34 | -- | 71 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.52 | 0.34 | -- | 71 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Collinder 416](/_clusters/collinder416/)| 94.6 | 302.86 | 26.74 | 2.09 | 1.78 | -9.28 | -19.95 |0.79 |
+N_rows_shared: "1"
 ---

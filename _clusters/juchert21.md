@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.1
+N_comments: ""
+dens_val: 51.9
 N_50_val: 103
 scix_url: Juchert%2021
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |335.494 | 58.719 | 0.433 | -3.917 | -2.699 | -46.551 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 335.501 | 58.716 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 335.504 | 58.719 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 335.49423,+58.71896
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

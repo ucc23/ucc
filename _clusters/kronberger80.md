@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.3
+N_comments: "1"
+dens_val: 5.1
 N_50_val: 84
 scix_url: Kronberger%2080
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 317.959 | 52.378 | -- | -3.03 | -3.96 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 317.96 | 52.38 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 317.958 | 52.38 | -- | -3.03 | -3.96 | -- 
+N_rows_pos: "13"
 cds_radec: 317.95221,+52.37959
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -86,9 +88,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.98 | 4.00 | -- | 562 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.98 | 4.00 | -- | 562 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.35 | 4.00 | -- | 708 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 0302](/_clusters/fsr0302/)| 15.5 | 317.99 | 52.41 | 0.08 | -2.46 | -2.8 | 35.67 |0.2 |
+N_rows_shared: "1"
 ---

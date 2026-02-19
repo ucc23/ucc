@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 11.7
+N_comments: ""
+dens_val: 0.1
 N_50_val: 18
 scix_url: LISC-III%201182
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |106.019 | 20.662 | 0.267 | -0.25 | -1.404 | 16.508 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 106.059 | 20.657 | 0.294 | -0.225 | -1.434 | -- 
+N_rows_pos: "1"
 cds_radec: 106.01882,+20.66246
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.37 | 0.38 | -- | -- | 0.274 | -- | 0.46 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 4.37 | 0.38 | -- | -- | 0.274 | -- | 0.46 | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Zeta Gemini](/_clusters/zetagemini/)| 4.0 | 105.97 | 20.56 | 0.27 | -0.74 | -1.59 | 39.17 |0.09 |
+N_rows_shared: "1"
 ---

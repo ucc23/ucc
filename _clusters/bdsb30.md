@@ -13,17 +13,17 @@ glon: 105.29965
 glat: 4.06479
 r50: 4.5
 plx: 1.1145
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.5
+N_comments: "1"
+dens_val: 106.6
 N_50_val: 147
 scix_url: BDSB30
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 333.667 | 61.433 | 1.109 | -1.579 | -3.005 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 333.667 | 61.433 | 1.109 | -1.579 | -3.005 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 333.667 | 61.433 | 1.109 | -1.579 | -3.005 | -- 
+N_rows_pos: "7"
 cds_radec: 333.65187,+61.44273
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -76,9 +78,11 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.87 | 3.08 | 2.60 | 8 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.88 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.88 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0181](/_clusters/oc0181/)| 2.0 | 334.02 | 61.12 | 1.13 | -1.0 | -3.01 | -15.42 |0.23 |
+N_rows_shared: "1"
 ---

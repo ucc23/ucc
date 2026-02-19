@@ -13,17 +13,17 @@ glon: 31.79519
 glat: 2.99338
 r50: 31.3
 plx: 2.0889
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 31.3
+N_comments: "1"
+dens_val: 14.9
 N_50_val: 283
 scix_url: UPK%2041
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 279.52 | 0.5 | 2.08 | 2.75 | -8.17 | -5.7 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 279.619 | 0.342 | 2.096 | 2.647 | -8.242 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 279.742 | 0.495 | -- | 2.51 | -8.13 | -- 
+N_rows_pos: "7"
 cds_radec: 279.57721,+0.42018
 carousel: UCC_HUNT23
 fpars_table: |
@@ -77,6 +79,7 @@ fpars_table: |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 1.71 | 3.13 | -- | 631 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 2.25 | -- | 6 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.48 | -- | -- | 7 | -- | -- | -- | -- |
+N_rows_pars: "7"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -85,4 +88,5 @@ shared_table: |
     |[OC 0059](/_clusters/oc0059/)| 10.6 | 279.46 | -0.37 | 2.14 | 2.83 | -8.45 | 2.52 |0.0 |
     |[CWWDL 14647](/_clusters/cwwdl14647/)| 10.2 | 279.98 | 0.64 | 2.09 | 2.52 | -8.25 | -7.7 |0.0 |
     |[OC 0062](/_clusters/oc0062/)| 8.8 | 279.39 | 0.44 | 2.06 | 2.55 | -8.24 | 1.1 |0.0 |
+N_rows_shared: "4"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.6
+N_comments: "2"
+dens_val: 63.8
 N_50_val: 164
 scix_url: Haffner%2016
 posit_table: |
@@ -87,6 +88,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 117.57 | -25.46 | -- | -5.51 | 0.85 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 117.583 | -25.467 | -- | -3.4 | 2.03 | 65.8 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 117.583 | -25.467 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 117.5845,-25.4587
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -118,6 +120,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 3.12 | 0.56 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.17 | 0.54 | -- | 12 | -0.111 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 3.31 | 0.61 | -- | 28 | -- | -- | -- | -- |
+N_rows_pars: "25"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -125,4 +128,5 @@ shared_table: |
     |[OC 0417](/_clusters/oc0417/)| 21.3 | 117.58 | -25.46 | 0.28 | -2.75 | 3.03 | -- |0.0 |
     |[FSR 1308](/_clusters/fsr1308/)| 11.6 | 117.57 | -25.46 | 0.31 | -2.83 | 3.05 | -- |0.08 |
     |[CWNU 2123](/_clusters/cwnu2123/)| 7.9 | 117.48 | -25.37 | 0.32 | -2.7 | 2.89 | -- |0.08 |
+N_rows_shared: "3"
 ---

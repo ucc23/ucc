@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.9
+N_comments: ""
+dens_val: 0.2
 N_50_val: 24
 scix_url: Saloranta%203
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |304.851 | 17.114 | 0.227 | -4.744 | -6.827 | 30.539 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 304.874 | 17.078 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 304.85117,+17.11367
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

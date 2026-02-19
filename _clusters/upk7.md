@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 13.1
+N_comments: "2"
+dens_val: 5.3
 N_50_val: 50
 scix_url: UPK%207
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 276.781 | -17.401 | 1.26 | -0.294 | -5.865 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 276.784 | -17.342 | 1.251 | -0.263 | -5.843 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 276.772 | -17.371 | -- | -0.28 | -5.87 | -- 
+N_rows_pos: "13"
 cds_radec: 276.79094,-17.33606
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,7 +92,9 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.78 | 0.89 | -- | 288 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.78 | -- | -- | -- | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.77 | -- | -- | 251 | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

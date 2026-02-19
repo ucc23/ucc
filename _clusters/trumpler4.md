@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.3
+N_comments: "2"
+dens_val: 22.8
 N_50_val: 98
 scix_url: Trumpler%204
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 91.207 | 24.07 | -- | -0.54 | -3.01 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 91.25 | 24.0 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 91.208 | 24.056 | -- | -1.05 | -3.36 | -- 
+N_rows_pos: "22"
 cds_radec: 91.1845,+24.09622
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,9 +108,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.31 | 1.74 | -- | 79 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.04 | 1.71 | -- | 63 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.04 | 1.70 | -- | 63 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0305](/_clusters/oc0305/)| 36.7 | 91.19 | 24.09 | 0.47 | 0.97 | -2.99 | -- |0.0 |
+N_rows_shared: "1"
 ---

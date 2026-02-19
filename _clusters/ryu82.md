@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.4
+N_comments: ""
+dens_val: 24.1
 N_50_val: 21
 scix_url: Ryu%2082
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.168 | -43.196 | 0.436 | -1.394 | -3.382 | -17.673 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 253.168 | -43.181 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 253.16829,-43.19644
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 175](/_clusters/dbsb175/)| 4.0 | 253.07 | -43.42 | 0.41 | -1.26 | -3.82 | -23.94 |0.05 |
+N_rows_shared: "1"
 ---

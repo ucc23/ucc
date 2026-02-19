@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.7
+N_comments: ""
+dens_val: 0.1
 N_50_val: 14
 scix_url: MCM%2017
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |287.315 | 8.17 | 0.113 | -2.146 | -4.522 | 50.857 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 287.329 | 8.196 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 287.31475,+8.16982
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[GLIMPSE 17](/_clusters/glimpse17/)| 60.0 | 287.27 | 8.12 | 0.12 | -2.14 | -4.54 | 40.51 |0.03 |
+N_rows_shared: "1"
 ---

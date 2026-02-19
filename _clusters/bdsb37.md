@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.9
+N_comments: ""
+dens_val: 5.3
 N_50_val: 66
 scix_url: BDSB%2037
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 344.768 | 59.465 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 344.775 | 59.468 | -- | -3.75 | 2.06 | -54.8 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 344.775 | 59.468 | -- | -4.52 | 1.74 | -- 
+N_rows_pos: "4"
 cds_radec: 344.80756,+59.46786
 carousel: UCC
 fpars_table: |
@@ -70,7 +72,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.27 | 3.03 | -- | 398 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.27 | 3.03 | -- | 398 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.25 | 2.79 | -- | 501 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

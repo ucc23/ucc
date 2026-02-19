@@ -13,17 +13,17 @@ glon: 167.5894
 glat: -4.11203
 r50: 2.9
 plx: 0.4557
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.76"
+UTI_COLOR: "#d3ecc9"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.9
+N_comments: "1"
+dens_val: 34.4
 N_50_val: 118
 scix_url: Teutsch%205
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 73.932 | 36.783 | -- | -0.77 | -6.4 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 73.93 | 36.782 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 73.929 | 36.782 | -- | -0.9 | -1.72 | -- 
+N_rows_pos: "14"
 cds_radec: 73.94106,+36.78433
 carousel: UCC_HUNT23
 fpars_table: |
@@ -88,6 +90,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.00 | 1.86 | -- | 2399 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 3.00 | 1.86 | -- | 2399 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.33 | 2.39 | -- | 2239 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -95,4 +98,5 @@ shared_table: |
     |[OC 0285](/_clusters/oc0285/)| 33.9 | 73.94 | 36.78 | 0.46 | 0.06 | -1.55 | -68.71 |0.0 |
     |[OC 0284](/_clusters/oc0284/)| 25.4 | 73.94 | 36.79 | 0.49 | 0.09 | -1.53 | -68.71 |0.0 |
     |[OC 0283](/_clusters/oc0283/)| 23.7 | 73.94 | 36.78 | 0.44 | 0.09 | -1.55 | -68.71 |0.0 |
+N_rows_shared: "3"
 ---

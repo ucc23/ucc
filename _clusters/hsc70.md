@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.7
+N_comments: ""
+dens_val: 1.9
 N_50_val: 20
 scix_url: HSC%2070
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |270.364 | -24.961 | 0.335 | -0.135 | -1.603 | 67.42 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 270.313 | -24.957 | 0.338 | -0.152 | -1.604 | 9.293 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 270.313 | -24.957 | 0.338 | -0.152 | -1.604 | 9.293 
+N_rows_pos: "2"
 cds_radec: 270.36417,-24.96057
 carousel: UCC_HUNT23
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.65 | 3.8 | 2.43 | 89 | -- | 430 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 430<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.65 | 3.80 | 2.43 | 89 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

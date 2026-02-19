@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.7
+N_comments: "2"
+dens_val: 14.3
 N_50_val: 126
 scix_url: Ruprecht%2036
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 117.097 | -26.29 | -- | -5.15 | 3.04 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 117.092 | -26.303 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 117.096 | -26.3 | -- | -3.67 | 2.29 | -- 
+N_rows_pos: "19"
 cds_radec: 117.09338,-26.2905
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -101,7 +103,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.82 | 0.46 | -- | 191 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.68 | 0.53 | -- | 41 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.68 | 0.51 | -- | 40 | -- | -- | -- | -- |
+N_rows_pars: "18"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

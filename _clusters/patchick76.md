@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.7
+N_comments: ""
+dens_val: 0.3
 N_50_val: 18
 scix_url: Patchick%2076
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |305.236 | 35.017 | 0.129 | -3.185 | -4.634 | -26.715 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 305.205 | 35.028 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 305.209 | 35.025 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 305.23639,+35.01702
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

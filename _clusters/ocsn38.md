@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 20.8
+N_comments: ""
+dens_val: 9.6
 N_50_val: 41
 scix_url: OCSN%2038
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |332.888 | 73.154 | 2.926 | 5.365 | 1.579 | -17.501 |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 333.135 | 73.353 | 2.927 | 5.366 | 1.657 | -- |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 332.37 | 72.93 | 2.93 | 5.36 | 1.61 | -17.5 
+N_rows_pos: "2"
 cds_radec: 332.88809,+73.1542
 carousel: UCC
 fpars_table: |
@@ -66,10 +68,12 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.49 | 1.02 | -- | 7 | 0.250 | 71 | 0.21 | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.48 | 1.11 | -- | 8 | 0.250 | 71 | 0.21 | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.50 | 0.93 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 10](/_clusters/theia10/)| 97.6 | 333.13 | 73.25 | 2.93 | 5.4 | 1.58 | -16.15 |0.24 |
-    |[Collinder 471](/_clusters/collinder471/)| 65.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.65 |
+    |[Collinder 471](/_clusters/collinder471/)| 65.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.63 |
+N_rows_shared: "2"
 ---

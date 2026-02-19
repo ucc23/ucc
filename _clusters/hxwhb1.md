@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 15.6
+N_comments: ""
+dens_val: 0.3
 N_50_val: 21
 scix_url: HXWHB%201
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |51.791 | 45.199 | 0.517 | 0.171 | -2.473 | -38.533 |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 51.78 | 45.14 | 0.61 | 0.18 | -2.46 | -- 
+N_rows_pos: "1"
 cds_radec: 51.79087,+45.19867
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 0.84 | -- | 1202 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.65 | 0.84 | -- | 1202 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

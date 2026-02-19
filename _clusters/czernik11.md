@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 0.4
 N_50_val: 13
 scix_url: Czernik%2011
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 39.135 | 59.632 | -- | -1.123 | -4.417 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 39.146 | 59.633 | -- | -0.08 | -0.53 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 39.146 | 59.633 | -- | -0.08 | -0.53 | -- 
+N_rows_pos: "3"
 cds_radec: 39.18863,+59.63737
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.78 | 3.815 | -- | 224 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.35 | 4.53 | -- | 100 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.21 | 3.10 | -- | 347 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

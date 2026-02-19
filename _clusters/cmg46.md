@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.7
+N_comments: ""
+dens_val: 1.7
 N_50_val: 25
 scix_url: Cmg%2046
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |93.612 | 21.189 | 0.504 | 0.157 | -2.199 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 93.686 | 21.266 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 93.61217,+21.1892
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1504](/_clusters/hsc1504/)| 72.0 | 93.58 | 21.12 | 0.5 | 0.16 | -2.19 | 35.59 |0.07 |
+N_rows_shared: "1"
 ---

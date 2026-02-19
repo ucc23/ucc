@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.9
+N_comments: ""
+dens_val: 0.6
 N_50_val: 17
 scix_url: MCM%2043
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |210.164 | -61.013 | 0.385 | -7.748 | -2.815 | -9.04 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 210.121 | -60.988 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 210.16352,-61.01274
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

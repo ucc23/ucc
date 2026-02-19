@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 2.2
+N_comments: ""
+dens_val: 17.1
 N_50_val: 35
 scix_url: SAI%2051
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |82.51 | 33.428 | 0.447 | 0.298 | -1.949 | 9.557 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 82.508 | 33.425 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 82.51016,+33.42761
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.81 | 1.92 | -- | 1995 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 0.81 | 1.92 | -- | 1995 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4116](/_clusters/cwnu4116/)| 48.6 | 82.5 | 33.44 | 0.45 | 0.21 | -1.93 | 9.73 |0.08 |
-    |[Teutsch 133](/_clusters/teutsch133/)| 2.9 | 82.48 | 33.52 | 0.31 | -0.14 | -1.59 | 13.37 |0.13 |
+    |[Teutsch 133](/_clusters/teutsch133/)| 2.9 | 82.48 | 33.52 | 0.31 | -0.14 | -1.59 | 13.37 |0.12 |
+N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 85.37018
 glat: 0.01836
 r50: 7.4
 plx: 0.3776
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.31
 UTI_C_C3: 0.25
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.4
+N_comments: "1"
+dens_val: 1.5
 N_50_val: 50
 scix_url: CBJC%208
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 313.554 | 44.906 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 313.554 | 44.906 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 313.558 | 44.91 | -- | -8.03 | -1.1 | -- 
+N_rows_pos: "7"
 cds_radec: 313.49417,+44.88995
 carousel: UCC_HUNT23
 fpars_table: |
@@ -77,10 +79,12 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 158 | -- | 106 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.15 | 3.23 | -- | 158 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.15 | 3.23 | -- | 158 | -- | -- | -- | -- |
+N_rows_pars: "7"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2830](/_clusters/cwnu2830/)| 70.0 | 313.49 | 44.9 | 0.38 | -2.8 | -3.54 | -21.17 |0.01 |
     |[CBJC 7](/_clusters/cbjc7/)| 48.0 | 313.44 | 44.88 | 0.38 | -2.77 | -3.54 | -21.17 |0.12 |
+N_rows_shared: "2"
 ---

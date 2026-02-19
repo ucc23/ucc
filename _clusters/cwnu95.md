@@ -18,12 +18,12 @@ UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fefbe2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.47
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 0.4
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.5
+N_comments: "1"
+dens_val: 37.5
 N_50_val: 47
 scix_url: CWNU%2095
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 223.297 | -54.112 | 0.904 | -2.858 | -2.311 | -15.491 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 223.304 | -54.118 | 0.901 | -2.806 | -2.3 | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 223.296 | -54.111 | 0.91 | -2.8 | -2.3 | -- 
+N_rows_pos: "5"
 cds_radec: 223.29152,-54.10229
 carousel: UCC_HUNT23
 fpars_table: |
@@ -73,10 +75,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.03 | 1.08 | 1.41 | 23 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.05 | -- | 11 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 0.85 | 1.38 | -- | 16 | -2.028 | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14468](/_clusters/cwwdl14468/)| 85.1 | 223.29 | -54.1 | 0.91 | -2.81 | -2.31 | -17.2 |0.0 |
     |[OC 0623](/_clusters/oc0623/)| 59.6 | 223.29 | -54.1 | 0.91 | -2.83 | -2.3 | -17.2 |0.41 |
+N_rows_shared: "2"
 ---

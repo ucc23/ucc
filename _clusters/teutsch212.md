@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.4
 N_50_val: 20
 scix_url: Teutsch%20212
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |115.71 | -27.412 | 0.352 | -2.268 | 2.298 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 115.776 | -27.453 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 115.71021,-27.41182
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 2234](/_clusters/lisciii2234/)| 20.0 | 116.07 | -27.61 | 0.41 | -2.2 | 2.31 | -- |0.05 |
     |[CWWDL 13327](/_clusters/cwwdl13327/)| 4.0 | 115.7 | -27.88 | 0.41 | -2.27 | 2.27 | -- |0.06 |
+N_rows_shared: "2"
 ---

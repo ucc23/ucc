@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.1
+N_comments: ""
+dens_val: 0.7
 N_50_val: 17
 scix_url: MCM%2068
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |238.658 | -52.544 | 0.371 | -5.734 | -5.228 | -- |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 238.695 | -52.53 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 238.65776,-52.54356
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 1712](/_clusters/fsr1712/)| 24.0 | 238.71 | -52.48 | 0.55 | -5.65 | -5.49 | -- |0.15 |
+N_rows_shared: "1"
 ---

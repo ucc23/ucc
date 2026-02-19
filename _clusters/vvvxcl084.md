@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.3
+N_comments: "1"
+dens_val: 0.1
 N_50_val: 9
 scix_url: VVVX%20CL084
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |273.996 | -16.101 | 0.217 | -0.796 | -1.702 | 7.193 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 274.006 | -16.086 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 273.99587,-16.10104
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

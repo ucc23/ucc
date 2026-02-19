@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.2
+N_comments: ""
+dens_val: 2.5
 N_50_val: 46
 scix_url: Kronberger%2014
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |315.928 | 47.194 | 0.149 | -3.383 | -3.892 | -96.774 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 315.805 | 47.076 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 315.928,+47.19374
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 156](/_clusters/teutsch156/)| 84.8 | 315.95 | 47.22 | 0.18 | -3.39 | -3.85 | -82.2 |0.86 |
+    |[Teutsch 156](/_clusters/teutsch156/)| 84.8 | 315.95 | 47.22 | 0.18 | -3.39 | -3.85 | -82.2 |0.85 |
+N_rows_shared: "1"
 ---

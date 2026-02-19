@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.3
+N_comments: ""
+dens_val: 0.1
 N_50_val: 20
 scix_url: Ruprecht%206
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |103.999 | -13.287 | 0.164 | -0.445 | 1.19 | 73.022 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 104.021 | -13.254 | -- | -- | -- | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 104.0 | -13.283 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 103.99916,-13.28699
 carousel: UCC
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.69 | -- | -- | 3162 | -0.380 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 7.69 | -- | -- | 3162 | -0.380 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3109](/_clusters/cwnu3109/)| 12.0 | 104.02 | -13.25 | 0.15 | -0.09 | 1.12 | 72.71 |0.44 |
+N_rows_shared: "1"
 ---

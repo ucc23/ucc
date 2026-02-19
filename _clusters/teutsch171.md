@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.4
+N_comments: ""
+dens_val: 0.8
 N_50_val: 18
 scix_url: Teutsch%20171
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |107.838 | -8.398 | 0.34 | -1.2 | 1.008 | 82.55 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 107.835 | -8.409 | 0.349 | -1.195 | 1.008 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 107.821 | -8.424 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 107.83813,-8.39844
 carousel: UCC
 fpars_table: |
@@ -65,10 +67,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 227 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 227<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1752](/_clusters/hsc1752/)| 60.0 | 107.82 | -8.39 | 0.37 | -1.21 | 1.0 | 97.51 |0.03 |
     |[NGC 2349](/_clusters/ngc2349/)| 4.0 | 107.7 | -8.58 | 0.23 | -1.19 | 0.69 | 81.94 |0.03 |
+N_rows_shared: "2"
 ---

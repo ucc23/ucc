@@ -13,17 +13,17 @@ glon: 48.31075
 glat: 1.60536
 r50: 22.6
 plx: 1.6822
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 22.6
+N_comments: "2"
+dens_val: 12.8
 N_50_val: 196
 scix_url: UPK%2053
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 288.544 | 14.392 | 1.661 | 2.441 | 1.086 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 288.553 | 14.396 | 1.659 | 2.449 | 1.084 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 288.59 | 14.388 | -- | 2.44 | 1.08 | -- 
+N_rows_pos: "12"
 cds_radec: 288.51967,+14.36878
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -88,10 +90,12 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.62 | 0.98 | -- | 457 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.59 | -- | -- | -- | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.59 | -- | -- | 794 | -- | -- | -- | -- |
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14443](/_clusters/cwwdl14443/)| 19.4 | 288.5 | 14.27 | 1.66 | 2.44 | 0.99 | -5.64 |0.0 |
     |[CWWDL 14632](/_clusters/cwwdl14632/)| 15.3 | 288.6 | 14.35 | 1.69 | 2.42 | 1.06 | -6.7 |0.0 |
+N_rows_shared: "2"
 ---

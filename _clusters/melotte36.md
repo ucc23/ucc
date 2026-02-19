@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 13.8
+N_comments: "2"
+dens_val: 55.5
 N_50_val: 1157
 scix_url: Melotte%2036
 posit_table: |
@@ -96,6 +97,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 82.18 | 35.83 | -- | 0.52 | -6.28 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 82.206 | 35.809 | -- | 0.32 | -5.07 | -1.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 82.167 | 35.848 | -- | 0.56 | -5.56 | -44.98 
+N_rows_pos: "38"
 cds_radec: 82.18425,+35.82008
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -136,7 +138,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.06 | 0.78 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.07 | -- | -- | 290 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.40 | 0.78 | -- | 316 | -0.380 | -- | -- | -- |
+N_rows_pars: "34"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

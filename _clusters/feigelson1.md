@@ -13,17 +13,17 @@ glon: 300.16532
 glat: -14.2085
 r50: 129.9
 plx: 9.7371
-UTI: "0.70"
-UTI_COLOR: "#e0f1cb"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 129.9
+N_comments: ""
+dens_val: 5.0
 N_50_val: 76
 scix_url: Feigelson%201
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 179.963 | -78.207 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 179.97 | -78.21 | -- | 0.15 | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 179.963 | -78.207 | -- | -39.5 | -1.0 | 13.0 
+N_rows_pos: "7"
 cds_radec: 180.4322,-76.36936
 carousel: UCC
 fpars_table: |
@@ -73,6 +75,7 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.11 | 0.06 | -- | 4 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.11 | -- | -- | 4 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.11 | 0.06 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -80,4 +83,5 @@ shared_table: |
     |[OCSN 193](/_clusters/ocsn193/)| 40.8 | 180.23 | -78.34 | 9.77 | -41.23 | -6.05 | 13.81 |0.0 |
     |[HSC 2515](/_clusters/hsc2515/)| 32.9 | 180.23 | -78.74 | 9.81 | -41.36 | -5.78 | 15.01 |0.0 |
     |[HSC 2523](/_clusters/hsc2523/)| 9.2 | 187.32 | -72.92 | 9.84 | -39.68 | -10.81 | 12.79 |0.25 |
+N_rows_shared: "3"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 9.0
+N_comments: "2"
+dens_val: 38.2
 N_50_val: 1389
 scix_url: Collinder%20110
 posit_table: |
@@ -87,6 +88,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 99.646 | 2.04 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 99.75 | 2.02 | -- | -1.42 | 0.13 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.6 | 2.017 | -- | -1.31 | -3.28 | 38.7 
+N_rows_pos: "29"
 cds_radec: 99.68055,+2.07554
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -119,7 +121,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.95 | 1.55 | -- | 1413 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.45 | 0.99 | -- | 155 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.95 | 1.55 | -- | 1413 | -0.020 | -- | -- | -- |
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.7
+N_comments: ""
+dens_val: 1.6
 N_50_val: 22
 scix_url: Kronberger%2082
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |317.379 | 52.393 | 0.528 | -4.191 | -3.815 | -35.468 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 317.377 | 52.395 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 317.37857,+52.39317
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

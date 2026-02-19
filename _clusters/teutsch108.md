@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.4
+N_comments: ""
+dens_val: 35.4
 N_50_val: 129
 scix_url: Teutsch%20108
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |186.23 | -61.972 | 0.213 | -6.943 | 0.155 | -36.32 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 186.234 | -61.972 | 0.224 | -6.945 | 0.149 | -38.6 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 186.227 | -61.975 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 186.22959,-61.97244
 carousel: UCC
 fpars_table: |
@@ -65,10 +67,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 1773 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1773<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.13 |
+    |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.12 |
     |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.36 |
+N_rows_shared: "2"
 ---

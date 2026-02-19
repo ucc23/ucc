@@ -18,12 +18,12 @@ UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#c2e4c6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 0.83
 UTI_C_C3: 0.75
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.7
+N_comments: "2"
+dens_val: 4.2
 N_50_val: 66
 scix_url: Gulliver%2047
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 107.932 | 0.827 | 0.491 | -1.957 | -0.432 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 107.932 | 0.827 | -- | -- | -- | 2.401 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 107.932 | 0.827 | 0.491 | -1.957 | -0.432 | -- 
+N_rows_pos: "12"
 cds_radec: 107.92745,+0.82011
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -88,9 +90,11 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.92 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.82 | 0.52 | -- | 389 | 0.011 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.92 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 12538](/_clusters/cwwdl12538/)| 62.1 | 107.92 | 0.83 | 0.48 | -1.91 | -0.46 | 47.4 |0.02 |
+N_rows_shared: "1"
 ---

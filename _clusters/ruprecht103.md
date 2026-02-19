@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.3
+N_comments: "1"
+dens_val: 0.2
 N_50_val: 12
 scix_url: Ruprecht%20103
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |184.072 | -58.469 | 0.2 | -6.185 | 0.766 | 6.04 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 183.974 | -58.42 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 184.07197,-58.4689
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

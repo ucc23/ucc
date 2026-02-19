@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.1
+N_comments: "2"
+dens_val: 24.9
 N_50_val: 126
 scix_url: Ruprecht%20127
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 264.425 | -36.267 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.462 | -36.3 | -- | 0.68 | -2.69 | -28.9 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 264.462 | -36.3 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 264.46168,-36.31378
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,7 +108,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.47 | 3.07 | -- | 22 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.47 | 3.07 | -- | 22 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.39 | 3.21 | -- | 20 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

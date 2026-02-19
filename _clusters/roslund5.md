@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 20.6
+N_comments: "2"
+dens_val: 28.6
 N_50_val: 303
 scix_url: Roslund%205
 posit_table: |
@@ -89,6 +90,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 302.59 | 33.8 | -- | 2.91 | -2.58 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 302.5 | 33.767 | -- | 2.32 | -1.5 | -17.66 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 302.5 | 33.767 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 302.6593,+33.72447
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -124,9 +126,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.39 | 0.09 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.39 | 0.30 | -- | 68 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.44 | 0.29 | -- | 79 | -- | -- | -- | -- |
+N_rows_pars: "29"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0100](/_clusters/oc0100/)| 8.3 | 302.81 | 33.68 | 1.85 | 2.05 | -1.23 | -17.0 |0.0 |
+N_rows_shared: "1"
 ---

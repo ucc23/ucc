@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.0
+N_comments: ""
+dens_val: 112.6
 N_50_val: 34
 scix_url: Ryu%2050
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |244.867 | -46.584 | 0.529 | -1.408 | -1.574 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 244.868 | -46.579 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 244.86712,-46.58384
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2785](/_clusters/cwnu2785/)| 47.1 | 244.87 | -46.59 | 0.54 | -1.37 | -1.55 | -61.38 |0.12 |
+N_rows_shared: "1"
 ---

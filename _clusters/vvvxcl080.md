@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 10.4
+N_comments: "1"
+dens_val: 0.4
 N_50_val: 13
 scix_url: VVVX%20CL080
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |273.565 | -17.886 | 0.513 | -0.189 | -3.16 | -4.381 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 273.527 | -17.935 | 0.534 | -0.157 | -3.113 | -- 
+N_rows_pos: "1"
 cds_radec: 273.56508,-17.88644
 carousel: UCC
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.2 | -- | -- | -- | -- | -- | -- | -- |
     | [Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 1.20 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VVVX CL079](/_clusters/vvvxcl079/)| 16.0 | 273.53 | -17.8 | 0.42 | -0.38 | -3.2 | -13.03 |0.1 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.6
+N_comments: ""
+dens_val: 0.4
 N_50_val: 17
 scix_url: Steine%2029
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |322.584 | 48.685 | 0.254 | -4.641 | -4.354 | -62.071 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 322.637 | 48.68 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 322.58372,+48.68485
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -13,17 +13,17 @@ glon: 204.25169
 glat: -0.55054
 r50: 7.4
 plx: 0.5578
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#b2dcc2"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 0.89
 UTI_C_C3: 0.5
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.4
+N_comments: "2"
+dens_val: 4.4
 N_50_val: 66
 scix_url: Gulliver%2032
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 98.383 | 7.478 | -- | -- | -- | 2.439 |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 98.383 | 7.478 | -- | -- | -- | 40.24 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 98.383 | 7.478 | 0.577 | -0.879 | 2.304 | -- 
+N_rows_pos: "11"
 cds_radec: 98.3831,+7.47802
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -86,7 +88,9 @@ fpars_table: |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.39 | 0.79 | -- | 713 | 0.032 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 1.65 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.65 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

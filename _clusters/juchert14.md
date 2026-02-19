@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.4
+N_comments: ""
+dens_val: 0.2
 N_50_val: 17
 scix_url: Juchert%2014
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |181.798 | -64.744 | 0.182 | -7.396 | 0.502 | -11.534 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 181.794 | -64.798 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 181.783 | -64.801 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 181.79798,-64.74391
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1377](/_clusters/cwnu1377/)| 20.0 | 181.78 | -64.79 | 0.23 | -7.12 | 0.48 | -39.17 |0.37 |
+N_rows_shared: "1"
 ---

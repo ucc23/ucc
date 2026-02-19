@@ -13,17 +13,17 @@ glon: 128.11638
 glat: -2.66686
 r50: 3.5
 plx: 0.4068
-UTI: "0.66"
-UTI_COLOR: "#e7f4cf"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fefae1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.55
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.5
+N_comments: "2"
+dens_val: 7.3
 N_50_val: 46
 scix_url: UBC%2041
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 23.255 | 59.797 | 0.384 | -0.787 | -0.708 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 23.255 | 59.797 | 0.384 | -0.787 | -0.708 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 23.232 | 59.794 | 0.382 | -0.756 | -0.73 | -- 
+N_rows_pos: "9"
 cds_radec: 23.19268,+59.79046
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -81,9 +83,11 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.35 | 1.56 | -- | 94 | -0.190 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.50 | 1.17 | -- | 65 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.42 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13366](/_clusters/cwwdl13366/)| 65.2 | 23.24 | 59.78 | 0.42 | -0.77 | -0.84 | -46.97 |0.07 |
+N_rows_shared: "1"
 ---

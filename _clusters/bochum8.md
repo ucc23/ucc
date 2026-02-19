@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.0
+N_comments: ""
+dens_val: 69.5
 N_50_val: 371
 scix_url: Bochum%208
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |153.058 | -58.069 | 0.378 | -5.399 | 2.338 | 26.803 |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 153.045 | -58.067 | -- | -2.347 | 5.285 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 153.042 | -58.07 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 153.05778,-58.0695
 carousel: UCC
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.895 | 1.6 | -- | 107 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.57 | 1.63 | -- | 88 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.22 | 1.57 | -- | 126 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VDBH 90](/_clusters/vdbh90/)| 59.3 | 153.06 | -58.07 | 0.38 | -5.4 | 2.33 | 25.53 |0.0 |
+N_rows_shared: "1"
 ---

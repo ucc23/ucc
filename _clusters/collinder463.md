@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 22.7
+N_comments: "2"
+dens_val: 16.3
 N_50_val: 535
 scix_url: Collinder%20463
 posit_table: |
@@ -90,6 +91,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 26.73 | 71.8 | -- | -1.13 | -2.32 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 26.71 | 71.8 | -- | -1.06 | -1.3 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 26.438 | 71.81 | -- | -0.91 | -0.9 | -7.2 
+N_rows_pos: "32"
 cds_radec: 27.13863,+71.7236
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -127,7 +129,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.70 | 0.93 | -- | 224 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.70 | 0.81 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.70 | 0.80 | -- | 236 | -- | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

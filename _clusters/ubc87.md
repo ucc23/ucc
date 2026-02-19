@@ -13,17 +13,17 @@ glon: 147.0958
 glat: 2.78108
 r50: 5.1
 plx: 0.4068
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#c2e4c6"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.83
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.1
+N_comments: "1"
+dens_val: 4.1
 N_50_val: 55
 scix_url: UBC%2087
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 60.53 | 56.419 | 0.389 | 0.791 | -1.324 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 60.53 | 56.419 | 0.389 | 0.791 | -1.324 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 60.508 | 56.422 | 0.382 | 0.768 | -1.311 | -- 
+N_rows_pos: "7"
 cds_radec: 60.54678,+56.43931
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -76,9 +78,11 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.38 | 1.83 | 1.34 | 153 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.49 | 1.71 | -- | 42 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.39 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 11945](/_clusters/cwwdl11945/)| 50.9 | 60.54 | 56.41 | 0.42 | 0.73 | -1.33 | -- |0.01 |
+N_rows_shared: "1"
 ---

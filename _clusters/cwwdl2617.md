@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 12.3
+N_comments: ""
+dens_val: 0.6
 N_50_val: 74
 scix_url: CWWDL%202617
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |27.995 | 62.704 | 0.334 | -1.094 | -0.233 | -- |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 27.971 | 62.722 | 0.343 | -1.098 | -0.235 | -55.51 
+N_rows_pos: "1"
 cds_radec: 27.99492,+62.70442
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 66 | 0.120 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 66 | 0.120 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -73,4 +76,5 @@ shared_table: |
     |[CWWDL 10622](/_clusters/cwwdl10622/)| 4.1 | 27.98 | 63.19 | 0.33 | -1.2 | -0.19 | -- |0.08 |
     |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.9 |
     |[CWWDL 10645](/_clusters/cwwdl10645/)| 1.4 | 27.42 | 62.98 | 0.29 | -0.98 | -0.37 | -61.0 |0.05 |
+N_rows_shared: "5"
 ---

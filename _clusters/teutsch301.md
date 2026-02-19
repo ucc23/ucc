@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.3
+N_comments: ""
+dens_val: 79.0
 N_50_val: 242
 scix_url: Teutsch%20301
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |302.656 | 35.868 | 0.548 | -1.083 | -3.118 | 12.637 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 302.658 | 35.866 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 302.65552,+35.86833
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 17](/_clusters/gulliver17/)| 67.4 | 302.66 | 35.87 | 0.56 | -1.08 | -3.1 | 12.64 |0.77 |
+    |[Gulliver 17](/_clusters/gulliver17/)| 67.4 | 302.66 | 35.87 | 0.56 | -1.08 | -3.1 | 12.64 |0.76 |
+N_rows_shared: "1"
 ---

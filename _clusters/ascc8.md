@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.1
+N_comments: ""
+dens_val: 0.6
 N_50_val: 19
 scix_url: ASCC%208
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 35.2 | 59.61 | -- | 0.3 | -- | -42.09 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 35.2 | 59.61 | -- | -1.24 | 0.57 | -42.09 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 35.204 | 59.61 | -- | 0.56 | -0.43 | -17.4 
+N_rows_pos: "13"
 cds_radec: 35.05498,+59.6161
 carousel: UCC
 fpars_table: |
@@ -85,7 +87,9 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 2.20 | 1.71 | -- | 6 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 2.20 | 1.71 | -- | 6 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.20 | 1.71 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

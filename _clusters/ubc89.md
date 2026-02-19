@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.2
+N_comments: ""
+dens_val: 13.8
 N_50_val: 98
 scix_url: UBC%2089
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |81.23 | 37.574 | 0.897 | 0.285 | -4.303 | 14.411 |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 81.223 | 37.568 | 0.882 | 0.388 | -4.271 | -- 
+N_rows_pos: "1"
 cds_radec: 81.23024,+37.57403
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 17](/_clusters/coingaia17/)| 98.0 | 81.23 | 37.57 | 0.89 | 0.29 | -4.31 | 8.92 |0.07 |
-    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.62 |
+    |[Saloranta 10](/_clusters/saloranta10/)| 91.8 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.61 |
+N_rows_shared: "2"
 ---

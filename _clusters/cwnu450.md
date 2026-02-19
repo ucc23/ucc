@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 23.4
+N_comments: ""
+dens_val: 2.9
 N_50_val: 32
 scix_url: CWNU%20450
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |194.426 | -55.77 | 2.059 | -13.536 | -3.649 | 0.007 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 194.32 | -55.76 | 2.05 | -13.54 | -3.69 | 2.77 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 194.328 | -55.874 | 2.06 | -13.59 | -3.7 | 4.8 
+N_rows_pos: "2"
 cds_radec: 194.42626,-55.76977
 carousel: UCC
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.595 | 0.545 | -- | 266 | 0.968 | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.57 | 0.43 | -- | 282 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 0.62 | 0.66 | -- | 251 | 0.968 | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 323](/_clusters/theia323/)| 37.5 | 194.18 | -55.69 | 2.05 | -13.69 | -3.3 | 3.25 |0.11 |
+N_rows_shared: "1"
 ---

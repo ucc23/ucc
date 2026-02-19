@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.3
+N_comments: "2"
+dens_val: 10.9
 N_50_val: 210
 scix_url: Ruprecht%204
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 102.24 | -10.51 | -- | 1.79 | 2.17 | 47.5 |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 102.225 | -10.533 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 102.225 | -10.533 | -- | 0.94 | -4.3 | 47.5 
+N_rows_pos: "19"
 cds_radec: 102.24656,-10.52606
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -100,10 +102,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.59 | 1.42 | -- | 1012 | -0.090 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 4.70 | -- | -- | 794 | -0.090 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.70 | 0.93 | -- | 794 | -0.090 | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0371](/_clusters/oc0371/)| 14.3 | 102.24 | -10.53 | 0.24 | -0.2 | 0.1 | 48.23 |0.0 |
     |[OC 0372](/_clusters/oc0372/)| 11.9 | 102.24 | -10.52 | 0.23 | -0.21 | 0.1 | 48.23 |0.0 |
+N_rows_shared: "2"
 ---

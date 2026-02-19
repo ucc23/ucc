@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 10.7
+N_comments: ""
+dens_val: 0.1
 N_50_val: 19
 scix_url: LISC-III%201031
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |75.074 | 50.84 | 0.249 | 0.48 | -0.874 | -16.669 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 75.072 | 50.858 | 0.258 | 0.504 | -0.907 | -- 
+N_rows_pos: "1"
 cds_radec: 75.07357,+50.84023
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.02 | 1.7 | -- | -- | -1.335 | -- | 0.54 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 3.02 | 1.70 | -- | -- | -1.335 | -- | 0.54 | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 0685](/_clusters/fsr0685/)| 4.0 | 74.87 | 51.22 | 0.24 | 0.45 | -0.51 | -- |0.03 |
+N_rows_shared: "1"
 ---

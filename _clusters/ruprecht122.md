@@ -18,12 +18,12 @@ UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#b2dcc2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.89
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.0
+N_comments: "2"
+dens_val: 49.9
 N_50_val: 476
 scix_url: Ruprecht%20122
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 253.779 | -40.947 | 0.551 | -1.869 | -3.802 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 253.783 | -40.95 | -- | -2.55 | -2.89 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 253.783 | -40.95 | -- | -2.55 | -2.89 | -- 
+N_rows_pos: "14"
 cds_radec: 253.78717,-40.94932
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,9 +92,11 @@ fpars_table: |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 1.72 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.72 | -- | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.61 | 2.70 | -- | 112 | -- | -- | -- | -- |
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VDBH 203](/_clusters/vdbh203/)| 5.3 | 253.83 | -40.93 | 0.58 | -1.91 | -3.75 | -50.18 |0.0 |
+N_rows_shared: "1"
 ---

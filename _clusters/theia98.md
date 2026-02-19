@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 48.3
+N_comments: ""
+dens_val: 1.0
 N_50_val: 48
 scix_url: Theia%2098
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |309.667 | 43.375 | 2.034 | 3.132 | -0.546 | -9.372 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 309.986 | 43.804 | 2.089 | 3.095 | -0.554 | -- 
+N_rows_pos: "1"
 cds_radec: 309.66656,+43.37514
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.65 | -- | 50 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.65 | -- | 50 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

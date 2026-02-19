@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 18.9
+N_comments: "1"
+dens_val: 5.4
 N_50_val: 22
 scix_url: Theia%20613
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |119.575 | -60.754 | 2.732 | -5.142 | 10.889 | 25.561 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 119.415 | -60.892 | 3.053 | -5.211 | 10.751 | -- 
+N_rows_pos: "1"
 cds_radec: 119.57504,-60.7542
 carousel: UCC_HUNT23
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.36 | 6.0 | 1.37 | 4198 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.36 | 6.00 | 1.37 | 4198 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Melotte 82](/_clusters/melotte82/)| 76.0 | 119.5 | -60.77 | 2.43 | -4.64 | 11.21 | 23.18 |1.0 |
+N_rows_shared: "1"
 ---

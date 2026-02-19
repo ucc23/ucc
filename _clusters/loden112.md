@@ -13,17 +13,17 @@ glon: 284.76337
 glat: 1.19552
 r50: 4.6
 plx: 0.3942
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#fef4d6"
 UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.4
 UTI_C_dens: 0.69
 UTI_C_C3: 0.38
-UTI_C_lit: 0.55
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Moderately dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.6
+N_comments: "1"
+dens_val: 3.5
 N_50_val: 40
 scix_url: Loden%20112
 posit_table: |
@@ -66,6 +67,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 158.085 | -56.695 | -- | -8.68 | 4.2 | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 158.095 | -56.691 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 158.1 | -56.7 | -- | -8.05 | 5.98 | -- 
+N_rows_pos: "9"
 cds_radec: 158.25629,-56.7122
 carousel: UCC_HUNT23
 fpars_table: |
@@ -80,7 +82,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.43 | 2.45 | -- | 9 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 2.50 | 1.86 | -- | 9 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 2.50 | 1.86 | -- | 9 | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

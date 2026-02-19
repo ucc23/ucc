@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.5
+N_comments: ""
+dens_val: 0.0
 N_50_val: 14
 scix_url: Ruprecht%202
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 100.26 | -29.549 | -- | 0.225 | 0.72 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 100.249 | -29.549 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 100.254 | -29.55 | -- | -1.31 | 7.73 | -- 
+N_rows_pos: "4"
 cds_radec: 100.29611,-29.51011
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.90 | 0.82 | -- | 794 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.16 | 1.94 | -- | 881 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.16 | 1.94 | -- | 881 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ruprecht 3](/_clusters/ruprecht3/)| 4.0 | 100.48 | -29.47 | 0.15 | -0.87 | 1.54 | -- |0.05 |
+N_rows_shared: "1"
 ---

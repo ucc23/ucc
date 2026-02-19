@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 12.8
+N_comments: "2"
+dens_val: 23.5
 N_50_val: 117
 scix_url: Gulliver%2010
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 123.09 | -38.676 | -- | -- | -- | 2.154 |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 123.09 | -38.676 | -- | -- | -- | 32.64 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 123.09 | -38.676 | 1.652 | -4.443 | 4.965 | -- 
+N_rows_pos: "13"
 cds_radec: 123.10651,-38.64724
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,7 +92,9 @@ fpars_table: |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.57 | 1.88 | -- | 7 | 0.006 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.59 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.59 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

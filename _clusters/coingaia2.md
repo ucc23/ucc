@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f7fbde"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.6
+UTI_C_lit: 0.56
 UTI_C_dup: 0.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 8.8
+N_comments: "1"
+dens_val: 16.9
 N_50_val: 185
 scix_url: COIN-Gaia%202
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | 15.081 | 55.405 | 0.772 | -4.454 | -1.901 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 15.06 | 55.409 | -- | -- | -- | 2.317 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 15.06 | 55.409 | 0.79 | -4.46 | -1.96 | -- 
+N_rows_pos: "10"
 cds_radec: 15.05355,+55.40911
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -83,6 +85,7 @@ fpars_table: |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 537 | -0.750 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.18 | 0.89 | -- | 432 | 0.017 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.23 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -90,4 +93,5 @@ shared_table: |
     |[AT 21](/_clusters/at21/)| 100.0 | 15.05 | 55.41 | 0.77 | -4.43 | -2.06 | -32.59 |0.63 |
     |[UBC 35](/_clusters/ubc35/)| 100.0 | 15.05 | 55.41 | 0.77 | -4.44 | -2.05 | -32.45 |0.01 |
     |[CWWDL 3306](/_clusters/cwwdl3306/)| 36.2 | 15.08 | 55.39 | 0.78 | -4.44 | -2.08 | -32.19 |0.0 |
+N_rows_shared: "3"
 ---

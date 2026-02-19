@@ -18,12 +18,12 @@ UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#feeed1"
 UTI_C_dens_COL: "#c7e6c7"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.37
 UTI_C_dens: 0.81
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.5
+N_comments: "1"
+dens_val: 4.1
 N_50_val: 37
 scix_url: Teutsch%20187
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 19.719 | 59.438 | 0.14 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 19.696 | 59.441 | 0.144 | -1.425 | 0.388 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 19.703 | 59.447 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 19.69949,+59.44165
 carousel: UCC_HUNT23
 fpars_table: |
@@ -72,9 +74,11 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 443<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.17 | 1.77 | -- | 1738 | -0.280 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.39 | 1.93 | 1.67 | 706 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3376](/_clusters/cwnu3376/)| 75.7 | 19.7 | 59.44 | 0.15 | -1.42 | 0.39 | -- |0.01 |
+N_rows_shared: "1"
 ---

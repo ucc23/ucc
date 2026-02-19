@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.6
+N_comments: ""
+dens_val: 25.4
 N_50_val: 76
 scix_url: UBC%2053
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 59.821 | 47.401 | 0.598 | 0.671 | -2.92 | -- 
+N_rows_pos: "4"
 cds_radec: 59.83186,+47.39436
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.52 | 1.95 | -- | 517 | -0.026 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.69 | 1.67 | -- | 479 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.59 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 56](/_clusters/teutsch56/)| 100.0 | 59.83 | 47.39 | 0.61 | 0.59 | -2.99 | -14.32 |0.63 |
+    |[Teutsch 56](/_clusters/teutsch56/)| 100.0 | 59.83 | 47.39 | 0.61 | 0.59 | -2.99 | -14.32 |0.62 |
     |[CWWDL 3753](/_clusters/cwwdl3753/)| 71.1 | 59.83 | 47.39 | 0.62 | 0.61 | -2.98 | -14.32 |0.0 |
+N_rows_shared: "2"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.9
+N_comments: "2"
+dens_val: 27.8
 N_50_val: 219
 scix_url: Pismis%2020
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 228.85 | -59.067 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 228.846 | -59.067 | -- | -5.3 | -5.62 | -49.0 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 228.846 | -59.067 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 228.85518,-59.07157
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,7 +106,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.02 | 3.66 | -- | 7 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.27 | 3.97 | -- | 7 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.64 | 3.63 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "18"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

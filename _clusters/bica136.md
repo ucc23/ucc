@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.4
+N_comments: ""
+dens_val: 8.6
 N_50_val: 81
 scix_url: Bica%20136
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |307.257 | 40.489 | 0.512 | -1.843 | -4.536 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 307.274 | 40.533 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 307.25689,+40.48875
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.45 |
+    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.43 |
     |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.28 |
+N_rows_shared: "2"
 ---

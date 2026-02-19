@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 6.4
+N_comments: ""
+dens_val: 1.7
 N_50_val: 26
 scix_url: O'Neal%209
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |115.262 | 21.776 | 0.474 | -1.08 | -4.417 | 43.717 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 115.231 | 21.811 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 115.26242,+21.7764
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

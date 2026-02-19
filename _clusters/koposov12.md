@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.7
+N_comments: "2"
+dens_val: 18.2
 N_50_val: 219
 scix_url: Koposov%2012
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[Koposov et al.](https://scixplorer.org/abs/2008A%26A...486..771K) | 2008 | 90.234 | 35.277 | -- | -- | -- | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 90.254 | 35.279 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 90.233 | 35.277 | -- | 0.44 | -1.82 | -- 
+N_rows_pos: "24"
 cds_radec: 90.24959,+35.29121
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -108,10 +110,12 @@ fpars_table: |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.05 | 0.93 | -- | 794 | -- | -- | -- | -- |
     | [Koposov et al.](https://scixplorer.org/abs/2008A%26A...486..771K) | 2008 | 2.05 | 0.93 | -- | 794 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.00 | 1.58 | -- | 603 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1579](/_clusters/ubc1579/)| 21.0 | 90.31 | 35.4 | 0.49 | 0.64 | -1.74 | 56.82 |0.19 |
     |[Alessi J0601.6+3531](/_clusters/alessij06016p3531/)| 9.1 | 90.35 | 35.5 | 0.56 | 0.63 | -1.74 | 26.3 |0.27 |
+N_rows_shared: "2"
 ---

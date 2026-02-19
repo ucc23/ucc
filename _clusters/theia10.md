@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 24.0
+N_comments: ""
+dens_val: 9.0
 N_50_val: 51
 scix_url: Theia%2010
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |333.126 | 73.246 | 2.927 | 5.398 | 1.582 | -16.149 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 333.248 | 73.292 | 2.92 | 5.367 | 1.657 | -- 
+N_rows_pos: "1"
 cds_radec: 333.12596,+73.24648
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.05 | -- | 4 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 38](/_clusters/ocsn38/)| 78.4 | 332.89 | 73.15 | 2.93 | 5.36 | 1.58 | -17.5 |0.01 |
-    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.65 |
+    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.63 |
+N_rows_shared: "2"
 ---

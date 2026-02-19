@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 17.3
+N_comments: ""
+dens_val: 19.6
 N_50_val: 80
 scix_url: OCSN%20284
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |56.448 | 29.825 | 2.49 | 2.68 | -5.242 | 18.547 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 56.33 | 29.74 | 2.48 | 2.62 | -5.28 | 17.47 
+N_rows_pos: "1"
 cds_radec: 56.44838,+29.82497
 carousel: UCC
 fpars_table: |
@@ -64,11 +66,13 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.57 | 0.87 | -- | 5 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.57 | 0.87 | -- | 5 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.72 |
+    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.7 |
     |[UBC 19](/_clusters/ubc19/)| 93.8 | 56.44 | 29.82 | 2.47 | 2.66 | -5.23 | 17.24 |0.0 |
     |[OC 0278](/_clusters/oc0278/)| 56.2 | 56.37 | 29.78 | 2.47 | 2.57 | -5.26 | 18.05 |0.0 |
+N_rows_shared: "3"
 ---

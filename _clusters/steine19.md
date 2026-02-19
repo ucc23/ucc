@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.3
+N_comments: ""
+dens_val: 0.3
 N_50_val: 16
 scix_url: Steine%2019
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |310.592 | 45.824 | 0.276 | -3.403 | -4.889 | -23.418 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 310.579 | 45.825 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 310.59233,+45.8241
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 1768](/_clusters/fof1768/)| 8.0 | 310.69 | 45.5 | 0.31 | -3.26 | -4.78 | -38.67 |0.04 |
+N_rows_shared: "1"
 ---

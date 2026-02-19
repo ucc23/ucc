@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.5
+N_comments: ""
+dens_val: 0.2
 N_50_val: 14
 scix_url: MCM%2078
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |245.319 | -50.702 | 0.243 | -3.928 | -4.328 | -34.745 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 245.284 | -50.666 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 245.31902,-50.70188
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VVV 069](/_clusters/vvv069/)| 12.0 | 245.4 | -50.45 | 0.37 | -3.82 | -4.36 | -43.81 |0.09 |
     |[VVV 068](/_clusters/vvv068/)| 4.0 | 245.33 | -50.45 | 0.36 | -3.77 | -3.96 | -8.76 |0.16 |
+N_rows_shared: "2"
 ---

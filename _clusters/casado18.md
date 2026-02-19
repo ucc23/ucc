@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.0
+N_comments: ""
+dens_val: 1.1
 N_50_val: 20
 scix_url: Casado%2018
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |353.356 | 61.842 | 0.348 | -3.748 | -1.646 | -60.57 |
     |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 353.383 | 61.845 | 0.37 | -3.7 | -1.6 | -- 
+N_rows_pos: "1"
 cds_radec: 353.35642,+61.84228
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.5 | -- | -- | -- | -- | -- | -- | -- |
     | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 2.50 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

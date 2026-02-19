@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.0
+N_comments: "1"
+dens_val: 4.1
 N_50_val: 93
 scix_url: Theia%202289
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 106.723 | -12.251 | 0.614 | -1.045 | -0.251 | 18.251 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 106.725 | -12.307 | 0.617 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 106.723 | -12.251 | 0.614 | -1.045 | -0.251 | 18.251 
+N_rows_pos: "3"
 cds_radec: 106.72096,-12.27641
 carousel: UCC_HUNT23
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 338<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.56 | 0.90 | -- | 398 | 0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.54 | 0.84 | 1.02 | 196 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CMa23](/_clusters/cma23/)| 73.1 | 106.71 | -12.31 | 0.61 | -1.03 | -0.27 | 18.26 |0.42 |
     |[UBC 1363](/_clusters/ubc1363/)| 49.5 | 106.7 | -12.3 | 0.61 | -1.04 | -0.28 | 18.26 |0.0 |
+N_rows_shared: "2"
 ---

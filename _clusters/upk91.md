@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 29.4
+N_comments: ""
+dens_val: 0.5
 N_50_val: 22
 scix_url: UPK%2091
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |307.217 | 24.942 | 1.255 | 2.009 | -4.001 | 1.899 |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 307.366 | 24.958 | -- | 2.04 | -3.97 | -- 
+N_rows_pos: "1"
 cds_radec: 307.21736,+24.94162
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.76 | -- | -- | 100 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.76 | -- | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.3
+N_comments: "1"
+dens_val: 25.9
 N_50_val: 438
 scix_url: Lynga%206
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 241.279 | -51.93 | -- | -13.61 | -1.83 | -59.4 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 241.217 | -51.933 | -- | -13.61 | -1.83 | -59.4 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 241.217 | -51.933 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 241.21251,-51.95858
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,7 +106,9 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.60 | -- | -- | 20 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.60 | 3.88 | -- | 27 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.04 | 4.20 | -- | 45 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

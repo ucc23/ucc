@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 8.5
+N_comments: ""
+dens_val: 0.8
 N_50_val: 24
 scix_url: Loden%20466
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 175.925 | -62.537 | -- | -6.365 | 0.751 | 2.41 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 175.925 | -62.517 | -- | -5.41 | -6.01 | -12.91 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 175.925 | -62.517 | -- | -5.42 | -6.02 | -12.91 
+N_rows_pos: "3"
 cds_radec: 175.88192,-62.54896
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.93 | 0.94 | -- | 14 | 0.041 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.93 | 0.94 | -- | 14 | 0.041 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 65.0
+N_comments: "1"
+dens_val: 1.5
 N_50_val: 25
 scix_url: OCSN%2049
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |90.601 | 45.07 | 4.633 | -4.063 | -7.835 | -0.485 |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 89.917 | 45.496 | -- | -- | -- | -- |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 90.55 | 45.26 | 4.64 | -3.97 | -7.64 | -0.93 
+N_rows_pos: "2"
 cds_radec: 90.60088,+45.06955
 carousel: UCC
 fpars_table: |
@@ -67,9 +69,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.21 | 0.09 | -- | 708 | 0.013 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.013<sup>(1)</sup> | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.21 | 0.09 | -- | 708 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 684](/_clusters/theia684/)| 96.0 | 90.31 | 45.12 | 4.68 | -4.1 | -7.93 | -0.55 |0.24 |
+N_rows_shared: "1"
 ---

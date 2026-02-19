@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 10.6
+N_comments: ""
+dens_val: 44.1
 N_50_val: 66
 scix_url: OCSN%20244
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |83.823 | -5.432 | 2.52 | 1.387 | 0.33 | 25.623 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 83.82 | -5.39 | 2.49 | 1.41 | 0.35 | 23.68 
+N_rows_pos: "1"
 cds_radec: 83.82298,-5.43156
 carousel: UCC
 fpars_table: |
@@ -64,15 +66,18 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.76 | 1.64 | -- | 4 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.76 | 1.64 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 225](/_clusters/ocsn225/)| 74.2 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
     |[UBC 208](/_clusters/ubc208/)| 43.9 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
-    |[NGC 1976](/_clusters/ngc1976/)| 40.9 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.77 |
+    |[NGC 1976](/_clusters/ngc1976/)| 40.9 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.78 |
     |[NGC 1980](/_clusters/ngc1980/)| 36.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.82 |
     |[OCSN 226](/_clusters/ocsn226/)| 33.3 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
+    |[OMC 2](/_clusters/omc2/)| 3.0 | 83.85 | -5.17 | 2.54 | 1.04 | -0.02 | 26.69 |0.17 |
     |[OC 0345](/_clusters/oc0345/)| 1.5 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
     |[UBC 207](/_clusters/ubc207/)| 1.5 | 83.87 | -4.61 | 2.57 | 1.11 | 0.57 | 20.54 |0.53 |
+N_rows_shared: "8"
 ---

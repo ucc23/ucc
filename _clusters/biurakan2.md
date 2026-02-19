@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.3
+N_comments: "2"
+dens_val: 6.3
 N_50_val: 123
 scix_url: Biurakan%202
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 302.29 | 35.48 | -- | -3.6 | -6.31 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 302.3 | 35.483 | -- | -1.95 | -4.49 | -19.66 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 302.3 | 35.483 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 302.30088,+35.4675
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -114,9 +116,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.11 | 1.12 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.11 | 1.12 | -- | 10 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.45 | 1.30 | -- | 16 | -- | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0102](/_clusters/oc0102/)| 2.4 | 301.71 | 35.64 | 0.53 | -3.1 | -6.61 | -17.95 |0.08 |
+N_rows_shared: "1"
 ---

@@ -13,17 +13,17 @@ glon: 99.4346
 glat: 4.02547
 r50: 29.7
 plx: 1.6417
-UTI: "0.70"
-UTI_COLOR: "#e0f1cb"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#eaf6d1"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 0.64
 UTI_C_C3: 0.75
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 29.7
+N_comments: "1"
+dens_val: 3.2
 N_50_val: 89
 scix_url: Trumpler%2037
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 324.801 | 57.467 | -- | -2.95 | -4.57 | 22.3 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 324.775 | 57.5 | -- | -1.58 | -1.7 | -19.06 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 324.536 | 57.447 | -- | -- | -- | -- 
+N_rows_pos: "12"
 cds_radec: 324.57163,+57.77727
 carousel: UCC_HUNT23
 fpars_table: |
@@ -86,7 +88,9 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.83 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.83 | 1.46 | -- | 11 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.81 | 1.43 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

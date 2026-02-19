@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.8
+N_comments: "2"
+dens_val: 22.4
 N_50_val: 128
 scix_url: Berkeley%207
 posit_table: |
@@ -78,6 +79,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 28.545 | 62.37 | -- | -4.3 | -1.95 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 28.55 | 62.367 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 28.55 | 62.367 | -- | -2.76 | 0.97 | -- 
+N_rows_pos: "20"
 cds_radec: 28.5468,+62.37114
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -103,6 +105,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.60 | 2.48 | -- | 18 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.57 | 2.48 | -- | 4 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.57 | 2.48 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -110,4 +113,5 @@ shared_table: |
     |[CWWDL 2006](/_clusters/cwwdl2006/)| 2.3 | 28.92 | 61.99 | 0.33 | -1.07 | -0.31 | -- |0.08 |
     |[CWWDL 2617](/_clusters/cwwdl2617/)| 0.8 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.3 |
     |[CWWDL 2619](/_clusters/cwwdl2619/)| 0.8 | 28.3 | 62.77 | 0.33 | -1.0 | -0.28 | -- |0.3 |
+N_rows_shared: "3"
 ---

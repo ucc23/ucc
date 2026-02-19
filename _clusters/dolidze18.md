@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 11.0
+N_comments: "1"
+dens_val: 0.2
 N_50_val: 19
 scix_url: Dolidze%2018
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 80.837 | 33.508 | -- | -0.237 | -1.375 | 2.813 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 80.837 | 33.508 | -- | -0.15 | -3.77 | -12.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 80.838 | 33.508 | -- | -0.15 | -3.77 | -12.0 
+N_rows_pos: "3"
 cds_radec: 80.86973,+33.58332
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.53 | 1.48 | -- | 10 | 0.012 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.53 | 1.48 | -- | 10 | 0.012 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

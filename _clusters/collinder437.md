@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.3
+N_comments: "2"
+dens_val: 94.9
 N_50_val: 890
 scix_url: Collinder%20437
 posit_table: |
@@ -86,6 +87,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 322.627 | 51.581 | -- | 0.98 | 0.22 | -5.6 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 322.613 | 51.6 | -- | 0.98 | 0.22 | -18.95 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 322.612 | 51.6 | -- | -- | -- | -- 
+N_rows_pos: "28"
 cds_radec: 322.62254,+51.59259
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -116,7 +118,9 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.30 | -- | -- | 130 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.30 | 2.50 | -- | 139 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.94 | 2.73 | -- | 79 | -- | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

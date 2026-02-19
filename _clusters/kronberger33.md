@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.0
+N_comments: ""
+dens_val: 8.2
 N_50_val: 82
 scix_url: Kronberger%2033
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |143.177 | -53.274 | 0.092 | -3.38 | 3.474 | 57.237 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 143.178 | -53.277 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 143.17652,-53.27425
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1466](/_clusters/ubc1466/)| 76.8 | 143.18 | -53.27 | 0.09 | -3.37 | 3.48 | 72.55 |0.02 |
+N_rows_shared: "1"
 ---

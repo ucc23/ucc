@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 5.7
+N_comments: ""
+dens_val: 1.0
 N_50_val: 21
 scix_url: Teutsch%20168
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |4.807 | 65.84 | 0.367 | -3.145 | 0.321 | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 4.817 | 65.853 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 4.491 | 65.839 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 4.80724,+65.83995
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 951](/_clusters/hsc951/)| 4.0 | 4.55 | 65.83 | 0.48 | -2.85 | -0.11 | 8.8 |0.2 |
+N_rows_shared: "1"
 ---

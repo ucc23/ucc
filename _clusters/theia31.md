@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 22.3
+N_comments: "2"
+dens_val: 16.4
 N_50_val: 88
 scix_url: Theia%2031
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 126.857 | -34.898 | 2.803 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 127.002 | -34.911 | 2.804 | -7.006 | 10.853 | 11.621 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 126.887 | -34.8 | 2.803 | -6.978 | 10.874 | -- 
+N_rows_pos: "3"
 cds_radec: 126.95584,-34.75745
 carousel: UCC_HUNT23
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.36 | 0.78 | -- | 5 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.35 | 0.31 | 0.88 | 7 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.15 | -- | 7 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 202](/_clusters/ocsn202/)| 100.0 | 126.93 | -34.74 | 2.81 | -6.96 | 10.9 | 13.13 |0.09 |
+N_rows_shared: "1"
 ---

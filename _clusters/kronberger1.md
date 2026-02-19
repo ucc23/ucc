@@ -13,17 +13,17 @@ glon: 173.09033
 glat: 0.04998
 r50: 5.0
 plx: 0.4618
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fef7db"
 UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#c7e6c7"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.43
 UTI_C_dens: 0.87
 UTI_C_C3: 0.38
-UTI_C_lit: 0.82
+UTI_C_lit: 0.81
 UTI_C_dup: 0.98
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.0
+N_comments: "1"
+dens_val: 4.3
 N_50_val: 43
 scix_url: Kronberger%201
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 82.092 | 34.773 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 82.088 | 34.775 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 82.088 | 34.775 | -- | -1.21 | -4.13 | 13.0 
+N_rows_pos: "15"
 cds_radec: 82.03599,+34.78359
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -92,10 +94,12 @@ fpars_table: |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 0.80 | 1.33 | -- | 126 | -- | -- | -- | -- |
     | [Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 1.90 | 1.61 | -- | 32 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.90 | 1.61 | -- | 32 | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.47 |
+    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.46 |
     |[Stock 8](/_clusters/stock8/)| 2.3 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.91 |
+N_rows_shared: "2"
 ---

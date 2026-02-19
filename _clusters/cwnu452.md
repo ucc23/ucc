@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 16.7
+N_comments: ""
+dens_val: 0.4
 N_50_val: 20
 scix_url: CWNU%20452
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |137.736 | -18.657 | 0.682 | -5.743 | 0.608 | 17.861 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 137.83 | -18.544 | 0.8 | -5.75 | 0.55 | 10.9 
+N_rows_pos: "1"
 cds_radec: 137.73583,-18.657
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.2 | 0.48 | -- | 1259 | -0.236 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.20 | 0.48 | -- | 1259 | -0.236 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

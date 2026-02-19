@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 7.6
+N_comments: ""
+dens_val: 0.3
 N_50_val: 22
 scix_url: SAI%202
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |2.981 | 76.24 | 0.275 | -3.425 | 1.414 | -72.757 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 3.126 | 76.232 | -- | -- | -- | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 3.118 | 76.235 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 2.98143,+76.23984
 carousel: UCC
 fpars_table: |
@@ -65,7 +67,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.09 | 2.51 | -- | 50 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 3.09 | 2.51 | -- | 50 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

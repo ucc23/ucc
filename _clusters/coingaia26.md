@@ -18,12 +18,12 @@ UTI_COLOR: "#c7e6c7"
 UTI_C_N_COL: "#d9eeca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.73
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.7
+N_comments: "2"
+dens_val: 25.4
 N_50_val: 96
 scix_url: COIN-Gaia%2026
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 83.771 | 15.721 | 0.688 | 0.267 | -2.376 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 83.771 | 15.721 | -- | -- | -- | 2.901 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 83.771 | 15.721 | 0.69 | 0.27 | -2.39 | -- 
+N_rows_pos: "14"
 cds_radec: 83.77049,+15.72039
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -92,6 +94,7 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.40 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.56 | 1.44 | -- | 137 | 0.019 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.40 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -99,4 +102,5 @@ shared_table: |
     |[LISC 0988](/_clusters/lisc0988/)| 100.0 | 83.77 | 15.72 | 0.7 | 0.25 | -2.39 | 10.42 |0.04 |
     |[UBC 75](/_clusters/ubc75/)| 95.8 | 83.77 | 15.72 | 0.7 | 0.26 | -2.4 | 10.42 |0.03 |
     |[CWWDL 3284](/_clusters/cwwdl3284/)| 91.7 | 83.77 | 15.72 | 0.7 | 0.25 | -2.39 | 10.42 |0.0 |
+N_rows_shared: "3"
 ---

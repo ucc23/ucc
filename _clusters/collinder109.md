@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.4
+N_comments: "2"
+dens_val: 47.5
 N_50_val: 326
 scix_url: Collinder%20109
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 99.915 | 1.14 | -- | 2.35 | -0.06 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 99.908 | 1.143 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.908 | 1.143 | -- | -0.71 | -0.76 | -- 
+N_rows_pos: "21"
 cds_radec: 99.90697,+1.14256
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,10 +106,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.51 | 1.94 | -- | 989 | -0.400 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.60 | -- | -- | 1000 | -0.400 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.60 | 1.71 | -- | 1000 | -0.380 | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0349](/_clusters/oc0349/)| 23.0 | 99.91 | 1.14 | 0.29 | 0.3 | 0.11 | 62.9 |0.0 |
     |[OC 0348](/_clusters/oc0348/)| 17.5 | 99.91 | 1.14 | 0.27 | 0.29 | 0.1 | 62.55 |0.0 |
+N_rows_shared: "2"
 ---

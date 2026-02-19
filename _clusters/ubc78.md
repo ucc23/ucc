@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.8
+N_comments: ""
+dens_val: 7.8
 N_50_val: 91
 scix_url: UBC%2078
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |85.768 | 13.73 | 0.919 | 0.665 | -3.591 | 12.493 |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 85.745 | 13.724 | 0.913 | 0.638 | -3.646 | -- 
+N_rows_pos: "1"
 cds_radec: 85.7681,+13.72961
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Streicher 52](/_clusters/streicher52/)| 93.4 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.62 |
     |[COIN-Gaia 27](/_clusters/coingaia27/)| 65.9 | 85.76 | 13.72 | 0.93 | 0.67 | -3.6 | 12.49 |0.0 |
+N_rows_shared: "2"
 ---

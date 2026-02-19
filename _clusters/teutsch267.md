@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.7
+N_comments: ""
+dens_val: 2.1
 N_50_val: 72
 scix_url: Teutsch%20267
 posit_table: |
@@ -57,10 +58,12 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |276.506 | -13.947 | 0.285 | -0.615 | -1.98 | 28.506 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 276.527 | -13.95 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 276.50556,-13.9471
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -68,4 +71,5 @@ shared_table: |
     |[Teutsch 268](/_clusters/teutsch268/)| 26.4 | 276.74 | -14.11 | 0.3 | -0.77 | -2.12 | -2.86 |0.7 |
     |[UBC 1015](/_clusters/ubc1015/)| 23.6 | 276.74 | -14.11 | 0.3 | -0.77 | -2.12 | -2.98 |0.01 |
     |[HSC 200](/_clusters/hsc200/)| 15.3 | 276.42 | -13.94 | 0.23 | -0.42 | -1.93 | 52.82 |0.17 |
+N_rows_shared: "3"
 ---

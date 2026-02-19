@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.3
+N_comments: "1"
+dens_val: 8.9
 N_50_val: 21
 scix_url: CWNU%20124
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 349.177 | 64.671 | 0.999 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 349.21 | 64.694 | 1.0 | 0.623 | -0.443 | -20.639 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 349.121 | 64.689 | 1.0 | 0.63 | -0.46 | -- 
+N_rows_pos: "4"
 cds_radec: 349.18822,+64.71755
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,7 +73,9 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.04 | 1.84 | -- | 162 | 0.410 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.03 | 2.10 | 0.48 | 230 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.20 | 2.22 | -- | 158 | 0.680 | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

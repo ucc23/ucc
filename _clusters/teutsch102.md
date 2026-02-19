@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.7
+N_comments: ""
+dens_val: 3.9
 N_50_val: 20
 scix_url: Teutsch%20102
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |138.798 | -47.488 | 0.601 | -5.263 | 4.282 | 63.621 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 138.919 | -47.623 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 138.7979,-47.48789
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 35](/_clusters/dbsb35/)| 64.0 | 138.79 | -47.47 | 0.59 | -5.32 | 4.23 | 63.62 |0.31 |
+N_rows_shared: "1"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.5
+N_comments: "2"
+dens_val: 21.8
 N_50_val: 375
 scix_url: Gulliver%2023
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 304.255 | 38.055 | -- | -- | -- | 2.177 |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 304.255 | 38.055 | -- | -- | -- | -3.33 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 304.255 | 38.055 | 0.246 | -2.446 | -4.444 | -- 
+N_rows_pos: "13"
 cds_radec: 304.2574,+38.05638
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -90,6 +92,7 @@ fpars_table: |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.98 | 2.57 | -- | 586 | 0.030 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 3.64 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.64 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -97,4 +100,5 @@ shared_table: |
     |[OC 0112](/_clusters/oc0112/)| 8.0 | 304.26 | 38.06 | 0.24 | -2.43 | -4.5 | -2.61 |0.0 |
     |[OC 0111](/_clusters/oc0111/)| 6.7 | 304.25 | 38.05 | 0.22 | -2.44 | -4.5 | -0.14 |0.0 |
     |[CWNU 2040](/_clusters/cwnu2040/)| 0.3 | 304.24 | 38.19 | 0.37 | -2.2 | -4.1 | -- |0.06 |
+N_rows_shared: "3"
 ---

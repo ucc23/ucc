@@ -13,17 +13,17 @@ glon: 191.24106
 glat: -3.9096
 r50: 11.6
 plx: 0.5756
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.50"
+UTI_COLOR: "#fefee8"
 UTI_C_N_COL: "#fefce4"
 UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 0.28
 UTI_C_C3: 0.75
-UTI_C_lit: 0.55
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 11.6
+N_comments: "2"
+dens_val: 1.4
 N_50_val: 48
 scix_url: UBC%2076
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 88.994 | 17.328 | 0.573 | 0.126 | -1.124 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 88.994 | 17.328 | 0.573 | 0.126 | -1.124 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 89.004 | 17.339 | 0.572 | 0.138 | -1.107 | -- 
+N_rows_pos: "9"
 cds_radec: 89.01518,+17.28084
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -81,9 +83,11 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.61 | 1.01 | -- | 63 | 0.031 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.73 | 0.59 | -- | 37 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.66 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 77](/_clusters/ubc77/)| 12.5 | 89.18 | 16.99 | 0.6 | 0.31 | -1.22 | -- |0.61 |
+    |[UBC 77](/_clusters/ubc77/)| 12.5 | 89.18 | 16.99 | 0.6 | 0.31 | -1.22 | -- |0.59 |
+N_rows_shared: "1"
 ---

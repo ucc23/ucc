@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.8
+N_comments: ""
+dens_val: 6.5
 N_50_val: 75
 scix_url: PHOC%2028
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |137.976 | -52.236 | 0.326 | -4.08 | 3.922 | 23.664 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2021A%26A...646A.104H) | 2021 | 137.953 | -52.243 | 0.301 | -4.07 | 3.891 | -- 
+N_rows_pos: "1"
 cds_radec: 137.97644,-52.23569
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 248](/_clusters/ubc248/)| 90.7 | 137.98 | -52.23 | 0.33 | -4.08 | 3.93 | 23.66 |0.67 |
+    |[UBC 248](/_clusters/ubc248/)| 90.7 | 137.98 | -52.23 | 0.33 | -4.08 | 3.93 | 23.66 |0.66 |
+N_rows_shared: "1"
 ---

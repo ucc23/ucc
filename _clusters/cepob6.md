@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 51.7
+N_comments: ""
+dens_val: 1.9
 N_50_val: 25
 scix_url: Cep%20OB6
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |335.129 | 56.437 | 4.129 | 16.792 | 4.786 | -14.344 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 334.481 | 56.35 | 4.124 | 16.352 | 4.81 | -- 
+N_rows_pos: "1"
 cds_radec: 335.12879,+56.43705
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.35 | -- | 63 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.35 | -- | 63 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.5 |
     |[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.08 | 56.53 | 4.13 | 16.79 | 4.81 | -13.98 |0.06 |
+N_rows_shared: "2"
 ---

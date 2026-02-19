@@ -13,17 +13,17 @@ glon: 287.99114
 glat: -0.87955
 r50: 3.9
 plx: 0.395
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.81"
+UTI_COLOR: "#c7e6c7"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.9
+N_comments: "1"
+dens_val: 15.4
 N_50_val: 127
 scix_url: Bochum%2011
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 161.813 | -60.097 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.812 | -60.083 | -- | -6.01 | -0.29 | -14.6 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 161.813 | -60.097 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 161.73466,-60.08701
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -90,7 +92,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.41 | 1.80 | -- | 6 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.41 | 1.79 | -- | 6 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.52 | 1.48 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

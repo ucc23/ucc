@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 34.3
+N_comments: ""
+dens_val: 29.7
 N_50_val: 31
 scix_url: OCSN%20193
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |180.229 | -78.342 | 9.769 | -41.233 | -6.05 | 13.812 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 180.34 | -78.47 | 9.78 | -40.74 | -6.64 | -15.0 
+N_rows_pos: "1"
 cds_radec: 180.22904,-78.34153
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.12 | 0.31 | -- | 8 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.12 | 0.31 | -- | 8 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Feigelson 1](/_clusters/feigelson1/)| 100.0 | 180.43 | -76.37 | 9.74 | -40.27 | -6.17 | 13.74 |0.7 |
+    |[Feigelson 1](/_clusters/feigelson1/)| 100.0 | 180.43 | -76.37 | 9.74 | -40.27 | -6.17 | 13.74 |0.69 |
     |[HSC 2515](/_clusters/hsc2515/)| 74.2 | 180.23 | -78.74 | 9.81 | -41.36 | -5.78 | 15.01 |0.0 |
+N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 265.2127
 glat: -1.97941
 r50: 6.3
 plx: 0.1903
-UTI: "0.27"
-UTI_COLOR: "#fddbc4"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f7fbde"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.12
-UTI_C_lit: 0.6
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.3
+N_comments: ""
+dens_val: 0.2
 N_50_val: 15
 scix_url: Bochum%207
 posit_table: |
@@ -66,6 +67,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 131.2 | -45.967 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 131.2 | -45.97 | -- | -3.74 | 3.93 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 131.2 | -45.967 | -- | -0.05 | 3.34 | 49.0 
+N_rows_pos: "10"
 cds_radec: 131.19664,-45.99329
 carousel: UCC
 fpars_table: |
@@ -80,10 +82,12 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.75 | 2.67 | -- | 10 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 5.75 | 2.67 | -- | 12 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 5.75 | 2.67 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2140](/_clusters/hsc2140/)| 20.0 | 131.18 | -46.15 | 0.21 | -3.31 | 3.93 | -- |0.4 |
     |[CWNU 3263](/_clusters/cwnu3263/)| 16.0 | 131.18 | -46.15 | 0.2 | -3.3 | 3.94 | -- |0.08 |
+N_rows_shared: "2"
 ---

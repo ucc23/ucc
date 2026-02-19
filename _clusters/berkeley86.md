@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.7
+N_comments: "2"
+dens_val: 12.5
 N_50_val: 109
 scix_url: Berkeley%2086
 posit_table: |
@@ -86,6 +87,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 305.095 | 38.743 | -- | -3.8 | -4.11 | -19.3 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 305.1 | 38.7 | -- | -4.56 | -5.56 | -25.54 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 305.05 | 38.69 | -- | -- | -- | -- 
+N_rows_pos: "28"
 cds_radec: 305.08081,+38.70651
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -117,9 +119,11 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.11 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.11 | 2.78 | -- | 13 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.79 | 3.09 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "25"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2501](/_clusters/cwwdl2501/)| 0.9 | 305.47 | 38.74 | 0.56 | -3.28 | -5.68 | -- |0.04 |
+N_rows_shared: "1"
 ---

@@ -13,17 +13,17 @@ glon: 355.89736
 glat: 0.92488
 r50: 2.8
 plx: 0.3418
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.8
+N_comments: "1"
+dens_val: 15.7
 N_50_val: 89
 scix_url: VDBH%20231
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 2019 | 262.983 | -31.91 | 0.328 | -0.851 | -1.852 | -11.34 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 262.957 | -31.92 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 262.983 | -31.91 | -- | 0.58 | -2.82 | -- 
+N_rows_pos: "7"
 cds_radec: 262.95344,-31.92236
 carousel: UCC_HUNT23
 fpars_table: |
@@ -75,9 +77,11 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.72 | 4.38 | 2.89 | 47 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 2019 | 2.64 | 2.88 | -- | 12 | -0.156 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.70 | 5.78 | -- | 5 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 568](/_clusters/ubc568/)| 65.2 | 262.95 | -31.92 | 0.34 | -0.87 | -1.85 | 11.53 |0.03 |
+N_rows_shared: "1"
 ---

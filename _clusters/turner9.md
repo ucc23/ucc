@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.9
+N_comments: "2"
+dens_val: 7.8
 N_50_val: 99
 scix_url: Turner%209
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 296.193 | 29.258 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 296.2 | 29.26 | -- | 0.63 | -3.6 | -13.86 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 296.204 | 29.265 | -- | -1.62 | -4.35 | -18.52 
+N_rows_pos: "21"
 cds_radec: 296.18196,+29.50142
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,9 +106,11 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.85 | 0.46 | -- | 115 | -- | 3491 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.85 | 0.46 | -- | 115 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.85 | -- | -- | 158 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14017](/_clusters/cwwdl14017/)| 72.7 | 296.18 | 29.5 | 0.57 | 0.3 | -2.45 | -0.88 |0.01 |
+N_rows_shared: "1"
 ---

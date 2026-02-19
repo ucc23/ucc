@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.4
+N_comments: ""
+dens_val: 0.0
 N_50_val: 13
 scix_url: BKF%2049
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |258.765 | -30.16 | 0.115 | -4.503 | -5.808 | -49.818 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 258.819 | -30.23 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 258.76521,-30.1596
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

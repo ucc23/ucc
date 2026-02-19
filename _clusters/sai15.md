@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.7
+N_comments: ""
+dens_val: 10.4
 N_50_val: 57
 scix_url: SAI%2015
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |27.486 | 53.901 | 0.336 | -0.817 | -1.623 | -97.287 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 27.469 | 53.909 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 27.48621,+53.90118
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 188](/_clusters/ubc188/)| 100.0 | 27.49 | 53.9 | 0.33 | -0.83 | -1.59 | -70.26 |0.28 |
+    |[UBC 188](/_clusters/ubc188/)| 100.0 | 27.49 | 53.9 | 0.33 | -0.83 | -1.59 | -70.26 |0.27 |
     |[CWWDL 3307](/_clusters/cwwdl3307/)| 66.7 | 27.49 | 53.89 | 0.34 | -0.79 | -1.64 | -97.29 |0.0 |
+N_rows_shared: "2"
 ---

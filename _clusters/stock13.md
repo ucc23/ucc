@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.2
+N_comments: "1"
+dens_val: 2.5
 N_50_val: 77
 scix_url: Stock%2013
 posit_table: |
@@ -75,6 +76,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 168.27 | -58.89 | -- | -9.16 | 2.89 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 168.271 | -58.883 | -- | -5.49 | -2.72 | 1.0 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 168.271 | -58.883 | -- | -- | -- | -- 
+N_rows_pos: "18"
 cds_radec: 168.29265,-58.88507
 carousel: UCC_HUNT23
 fpars_table: |
@@ -97,9 +99,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.58 | 0.68 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.58 | 0.68 | -- | 17 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.04 | 0.70 | -- | 3 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 267](/_clusters/ubc267/)| 50.6 | 168.35 | -58.94 | 0.32 | -6.02 | 1.83 | -- |0.14 |
+N_rows_shared: "1"
 ---

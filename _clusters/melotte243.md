@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.1
+N_comments: "2"
+dens_val: 143.0
 N_50_val: 1216
 scix_url: Melotte%20243
 posit_table: |
@@ -87,6 +88,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 351.117 | 61.649 | -- | -2.0 | -1.78 | -35.5 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 351.2 | 61.593 | -- | -0.89 | -1.0 | -32.98 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 351.2 | 61.593 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 351.19178,+61.59168
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -119,7 +121,9 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.42 | -- | -- | 50 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.40 | 1.77 | -- | 158 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.45 | 2.02 | -- | 71 | -- | -- | -- | -- |
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

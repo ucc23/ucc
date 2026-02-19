@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.1
+N_comments: "2"
+dens_val: 136.0
 N_50_val: 48
 scix_url: Sigma%20Orionis
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 84.67 | -2.6 | -- | 0.4 | -- | 29.45 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 84.67 | -2.61 | -- | 3.42 | -0.2 | 29.45 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 84.7 | -2.6 | -- | 4.43 | -1.52 | -- 
+N_rows_pos: "18"
 cds_radec: 84.69667,-2.59273
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -97,10 +99,12 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.40 | 0.16 | -- | 7 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.40 | 0.16 | -- | 7 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.36 | 0.16 | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "15"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 205](/_clusters/ubc205/)| 100.0 | 84.71 | -2.6 | 2.5 | 1.54 | -0.57 | 29.45 |0.16 |
     |[OCSN 262](/_clusters/ocsn262/)| 97.9 | 84.7 | -2.6 | 2.5 | 1.49 | -0.6 | 28.99 |0.01 |
+N_rows_shared: "2"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.1
+N_comments: ""
+dens_val: 7.1
 N_50_val: 60
 scix_url: Alessi%2065
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |101.087 | 6.973 | 0.21 | -0.139 | -0.537 | 53.151 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 101.085 | 6.979 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 101.08716,+6.97275
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3179](/_clusters/cwnu3179/)| 100.0 | 101.09 | 6.97 | 0.21 | -0.14 | -0.55 | 53.15 |0.18 |
     |[HSC 1620](/_clusters/hsc1620/)| 85.0 | 101.09 | 6.97 | 0.21 | -0.14 | -0.54 | -- |0.01 |
+N_rows_shared: "2"
 ---

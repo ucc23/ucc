@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 45.5
+N_comments: "1"
+dens_val: 15.3
 N_50_val: 214
 scix_url: UBC%2032
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 279.354 | -14.204 | -- | -1.81 | -9.33 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 279.424 | -14.049 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 279.436 | -14.047 | 3.562 | -1.753 | -9.265 | -21.58 
+N_rows_pos: "13"
 cds_radec: 279.20936,-14.12612
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -87,9 +89,11 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.28 | 0.55 | -- | 138 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.28 | -- | -- | -- | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.29 | -- | -- | 316 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 288](/_clusters/ocsn288/)| 98.6 | 279.21 | -14.15 | 3.54 | -1.78 | -9.31 | -22.13 |0.12 |
+N_rows_shared: "1"
 ---

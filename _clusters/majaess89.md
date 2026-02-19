@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 11.7
+N_comments: ""
+dens_val: 4.4
 N_50_val: 25
 scix_url: Majaess%2089
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |111.098 | -24.59 | 1.421 | 2.626 | -14.993 | -7.044 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 111.158 | -24.583 | -- | 2.58 | -16.9 | -- 
+N_rows_pos: "1"
 cds_radec: 111.09788,-24.58998
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

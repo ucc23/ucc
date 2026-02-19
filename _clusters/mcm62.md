@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.6
+N_comments: ""
+dens_val: 0.8
 N_50_val: 17
 scix_url: MCM%2062
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |236.088 | -54.217 | 0.415 | -3.768 | -3.109 | -32.079 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 236.272 | -54.137 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 236.08813,-54.21684
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2728](/_clusters/hsc2728/)| 32.0 | 235.97 | -54.31 | 0.43 | -3.7 | -3.19 | -33.99 |0.26 |
+N_rows_shared: "1"
 ---

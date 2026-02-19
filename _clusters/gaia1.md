@@ -13,17 +13,17 @@ glon: 227.32334
 glat: -8.74003
 r50: 4.9
 plx: 0.1681
-UTI: "0.73"
-UTI_COLOR: "#d9eeca"
+UTI: "0.71"
+UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.9
+N_comments: "1"
+dens_val: 11.7
 N_50_val: 843
 scix_url: Gaia%201
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 101.474 | -16.733 | 0.145 | -0.079 | 1.249 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 101.474 | -16.733 | 0.145 | -0.079 | 1.249 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 101.468 | -16.753 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 101.4731,-16.73498
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -76,6 +78,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.86 | 1.69 | 2.09 | 1330 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 6.46 | 0.59 | -- | 3162 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 5.76 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -83,4 +86,5 @@ shared_table: |
     |[OC 0384](/_clusters/oc0384/)| 13.4 | 101.47 | -16.73 | 0.17 | -0.05 | 1.25 | 56.33 |0.0 |
     |[OC 0386](/_clusters/oc0386/)| 7.6 | 101.47 | -16.75 | 0.18 | -0.04 | 1.24 | 56.92 |0.0 |
     |[OC 0385](/_clusters/oc0385/)| 4.9 | 101.47 | -16.75 | 0.19 | -0.05 | 1.24 | 55.88 |0.0 |
+N_rows_shared: "3"
 ---

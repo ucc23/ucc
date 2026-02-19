@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 39.4
+N_comments: "1"
+dens_val: 1.3
 N_50_val: 24
 scix_url: Zanin%206
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |342.912 | 41.333 | 2.684 | 5.936 | -6.696 | -4.343 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 342.928 | 41.308 | 2.697 | 5.642 | -6.644 | -1.738 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 342.946 | 41.318 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 342.91235,+41.33289
 carousel: UCC_HUNT23
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.36 | 0.22 | 0.41 | 125 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.36 | 0.22 | 0.41 | 125 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

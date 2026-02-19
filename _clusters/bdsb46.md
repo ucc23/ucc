@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.5
+N_comments: ""
+dens_val: 40.3
 N_50_val: 32
 scix_url: BDSB%2046
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 354.934 | 61.924 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 354.942 | 61.927 | -- | -5.14 | -5.18 | -57.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 354.942 | 61.927 | -- | -5.14 | -5.18 | -- 
+N_rows_pos: "4"
 cds_radec: 354.938,+61.9304
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.00 | 2.36 | -- | 18 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.00 | 2.36 | -- | 18 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.00 | 2.36 | -- | 18 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.45 |
+    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.44 |
+N_rows_shared: "1"
 ---

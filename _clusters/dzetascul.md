@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.0
+N_comments: ""
+dens_val: 139.9
 N_50_val: 24
 scix_url: Dzeta%20Scul
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |0.425 | -30.204 | 4.214 | 18.721 | 2.39 | 6.901 |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.42 | -30.217 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 0.42544,-30.2042
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.27 | 0.03 | -- | 63 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.27 | 0.03 | -- | 63 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Blanco 1](/_clusters/blanco1/)| 70.8 | 1.22 | -29.95 | 4.23 | 18.75 | 2.6 | 5.19 |1.0 |
     |[CWWDL 14677](/_clusters/cwwdl14677/)| 62.5 | 1.03 | -30.01 | 4.23 | 18.75 | 2.61 | 5.52 |0.0 |
+N_rows_shared: "2"
 ---

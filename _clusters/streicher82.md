@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.6
+N_comments: ""
+dens_val: 0.8
 N_50_val: 18
 scix_url: Streicher%2082
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |187.43 | -70.063 | 0.281 | -7.357 | 0.252 | 34.469 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 187.402 | -70.082 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 187.42962,-70.06326
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.6
+N_comments: ""
+dens_val: 0.9
 N_50_val: 20
 scix_url: Teutsch%20131
 posit_table: |
@@ -57,15 +58,18 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |71.331 | 41.996 | 0.29 | 0.257 | -1.294 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 71.34 | 41.987 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 71.33059,+41.99573
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3584](/_clusters/cwnu3584/)| 64.0 | 71.3 | 41.97 | 0.27 | 0.32 | -1.25 | -- |0.08 |
-    |[FSR 0717](/_clusters/fsr0717/)| 28.0 | 71.5 | 42.14 | 0.27 | 0.08 | -1.16 | -12.64 |0.6 |
+    |[FSR 0717](/_clusters/fsr0717/)| 28.0 | 71.5 | 42.14 | 0.27 | 0.08 | -1.16 | -12.64 |0.59 |
     |[FSR 0721](/_clusters/fsr0721/)| 4.0 | 71.59 | 41.97 | 0.31 | -0.03 | -1.71 | 2.14 |0.15 |
+N_rows_shared: "3"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.8
+N_comments: ""
+dens_val: 32.9
 N_50_val: 122
 scix_url: MCM%2050
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |214.82 | -61.431 | 0.574 | -3.252 | -3.095 | -41.325 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 214.913 | -61.422 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 214.81959,-61.43102
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.68 |
+    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.66 |
     |[OC 0608](/_clusters/oc0608/)| 20.5 | 214.85 | -61.43 | 0.59 | -3.19 | -3.14 | -55.63 |0.0 |
+N_rows_shared: "2"
 ---

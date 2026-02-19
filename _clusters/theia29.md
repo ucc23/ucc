@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 41.5
+N_comments: "2"
+dens_val: 13.1
 N_50_val: 74
 scix_url: Theia%2029
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |196.097 | -77.564 | 5.084 | -20.363 | -7.515 | 16.696 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 195.522 | -77.366 | 5.076 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 196.541 | -77.585 | 5.078 | -20.381 | -7.441 | 24.606 
+N_rows_pos: "2"
 cds_radec: 196.09744,-77.56431
 carousel: UCC_HUNT23
 fpars_table: |
@@ -68,9 +70,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.24 | 3.535 | 2.1 | 62 | 0.340 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.28 | 3.58 | -- | 105 | 0.340 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.20 | 3.49 | 2.10 | 18 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Chameleon II](/_clusters/chameleonii/)| 78.4 | 196.23 | -77.45 | 5.08 | -20.16 | -7.58 | 9.82 |0.51 |
+N_rows_shared: "1"
 ---

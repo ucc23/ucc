@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.6
+N_comments: ""
+dens_val: 11.6
 N_50_val: 259
 scix_url: Alessi%2066
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |113.864 | -27.714 | 0.16 | -1.51 | 3.122 | 98.11 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 113.906 | -27.771 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 113.86367,-27.71445
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Haffner 11](/_clusters/haffner11/)| 92.3 | 113.85 | -27.71 | 0.16 | -1.5 | 3.16 | 97.92 |0.92 |
+N_rows_shared: "1"
 ---

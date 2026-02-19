@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 62.7
+N_comments: "2"
+dens_val: 4.2
 N_50_val: 81
 scix_url: Delta%20Cephei%20Cluster
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 334.358 | 56.042 | 4.113 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 336.424 | 57.157 | 4.113 | 16.506 | 4.667 | -15.482 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 335.634 | 56.565 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 335.46699,+56.63798
 carousel: UCC_HUNT23
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.245 | 0.29 | 0.43 | 52 | 0.070 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.25 | 0.51 | -- | 36 | 0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.24 | 0.07 | 0.43 | 67 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 33](/_clusters/ocsn33/)| 79.0 | 335.08 | 56.53 | 4.13 | 16.79 | 4.81 | -13.98 |0.06 |
     |[Cep OB6](/_clusters/cepob6/)| 30.9 | 335.13 | 56.44 | 4.13 | 16.79 | 4.79 | -14.34 |0.0 |
+N_rows_shared: "2"
 ---

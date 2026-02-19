@@ -18,12 +18,12 @@ UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#fee4c9"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.55
+UTI_C_lit: 0.5
 UTI_C_dup: 0.31
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 11.2
+N_comments: "1"
+dens_val: 5.2
 N_50_val: 68
 scix_url: Gulliver%208
 posit_table: |
@@ -66,6 +67,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 80.56 | 33.792 | 0.872 | -0.156 | -2.982 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 80.56 | 33.792 | -- | -- | -- | 2.277 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 80.56 | 33.792 | 0.872 | -0.156 | -2.982 | -- 
+N_rows_pos: "9"
 cds_radec: 80.5607,+33.78748
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -81,6 +83,7 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.11 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.13 | 1.04 | -- | 21 | 0.012 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.11 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -88,4 +91,5 @@ shared_table: |
     |[Teutsch 89](/_clusters/teutsch89/)| 69.1 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.46 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 47.1 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
     |[HXWHB 5](/_clusters/hxwhb5/)| 25.0 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.05 |
+N_rows_shared: "3"
 ---

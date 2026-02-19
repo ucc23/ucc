@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.3
+N_comments: ""
+dens_val: 2.6
 N_50_val: 28
 scix_url: Casado%2017
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |3.832 | 63.568 | 0.471 | -3.227 | -1.075 | -65.487 |
     |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 3.776 | 63.557 | 0.47 | -3.3 | -1.0 | -- 
+N_rows_pos: "1"
 cds_radec: 3.83182,+63.5682
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | -- | -- | -- | -- | -- | -- | -- |
     | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 2.00 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -71,4 +74,5 @@ shared_table: |
     |[UBC 1201](/_clusters/ubc1201/)| 96.4 | 3.83 | 63.56 | 0.47 | -3.22 | -1.11 | -65.49 |0.26 |
     |[Theia 2330](/_clusters/theia2330/)| 67.9 | 3.77 | 63.56 | 0.47 | -3.21 | -1.1 | -65.49 |0.02 |
     |[CWWDL 10501](/_clusters/cwwdl10501/)| 39.3 | 4.33 | 63.56 | 0.47 | -3.16 | -1.1 | -81.84 |0.09 |
+N_rows_shared: "3"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 22.2
+N_comments: ""
+dens_val: 18.2
 N_50_val: 173
 scix_url: LISC-III%203449
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |279.688 | 5.559 | 2.096 | 1.103 | -4.878 | -25.005 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 280.063 | 6.373 | 2.034 | 0.835 | -4.849 | -- 
+N_rows_pos: "1"
 cds_radec: 279.68756,+5.55893
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 0.45 | -- | -- | -0.642 | -- | 0.49 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.44 | 0.45 | -- | -- | -0.642 | -- | 0.49 | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Melotte 210](/_clusters/melotte210/)| 96.5 | 279.66 | 5.45 | 2.11 | 1.26 | -4.95 | -24.82 |1.0 |
     |[OC 0066](/_clusters/oc0066/)| 9.8 | 279.46 | 5.25 | 2.13 | 1.22 | -4.99 | -25.29 |0.0 |
+N_rows_shared: "2"
 ---

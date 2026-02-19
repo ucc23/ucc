@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.5
+N_comments: "1"
+dens_val: 0.8
 N_50_val: 24
 scix_url: Dolidze%2050
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |241.402 | -20.489 | 0.234 | -2.343 | -2.903 | -67.219 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 241.411 | -0.008 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 241.40244,-20.4888
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

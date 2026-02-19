@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 5.7
 N_50_val: 24
 scix_url: Chupina%202
 posit_table: |
@@ -58,14 +59,17 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |132.644 | 12.259 | 1.144 | -11.008 | -2.964 | 33.832 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 132.621 | 12.293 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 132.625 | 12.295 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 132.6442,+12.25947
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Melotte 94](/_clusters/melotte94/)| 100.0 | 132.85 | 11.82 | 1.15 | -10.97 | -2.91 | 33.91 |1.0 |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 76.0 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
+N_rows_shared: "2"
 ---

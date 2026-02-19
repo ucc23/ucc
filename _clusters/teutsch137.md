@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.4
+N_comments: ""
+dens_val: 1.2
 N_50_val: 43
 scix_url: Teutsch%20137
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 97.92 | 5.884 | 0.136 | -0.181 | 0.184 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 97.923 | 5.877 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 97.921 | 5.877 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 97.92063,+5.88489
 carousel: UCC
 fpars_table: |
@@ -66,10 +68,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 216 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 216<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 32.6 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.4 |
+    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.39 |
+N_rows_shared: "2"
 ---

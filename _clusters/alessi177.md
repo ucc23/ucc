@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.1
 N_50_val: 16
 scix_url: Alessi%20177
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |111.935 | -1.47 | 0.153 | -0.972 | 0.061 | 92.78 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 111.955 | -1.489 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 111.93483,-1.47039
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13195](/_clusters/cwwdl13195/)| 4.0 | 111.85 | -1.55 | 0.27 | -0.72 | 0.03 | -- |0.03 |
+N_rows_shared: "1"
 ---

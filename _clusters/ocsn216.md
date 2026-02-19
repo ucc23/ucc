@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 55.3
+N_comments: ""
+dens_val: 11.7
 N_50_val: 119
 scix_url: OCSN%20216
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |264.463 | -7.883 | 5.048 | -10.805 | -20.698 | -17.901 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 264.3 | -7.97 | 4.98 | -10.48 | -20.12 | -18.8 
+N_rows_pos: "1"
 cds_radec: 264.46321,-7.88347
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.27 | 0.84 | -- | 126 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.27 | 0.84 | -- | 126 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.76 |
+    |[Mamajek 2](/_clusters/mamajek2/)| 92.4 | 264.46 | -7.93 | 5.05 | -10.85 | -20.72 | -17.9 |0.75 |
     |[CWWDL 14696](/_clusters/cwwdl14696/)| 28.6 | 264.35 | -7.95 | 5.11 | -11.13 | -20.88 | -17.8 |0.0 |
+N_rows_shared: "2"
 ---

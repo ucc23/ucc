@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.1
+N_comments: "2"
+dens_val: 13.7
 N_50_val: 44
 scix_url: Teutsch%2013
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 100.98 | 1.395 | -- | -2.64 | -3.72 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 100.979 | 1.403 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 100.979 | 1.405 | -- | -0.92 | -1.64 | -- 
+N_rows_pos: "18"
 cds_radec: 100.97986,+1.40727
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -97,7 +99,9 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.75 | 1.94 | -- | 20 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.75 | 1.94 | -- | 20 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.78 | 2.08 | -- | 30 | -- | -- | -- | -- |
+N_rows_pars: "15"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

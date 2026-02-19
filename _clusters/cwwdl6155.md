@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.0
+N_comments: ""
+dens_val: 0.4
 N_50_val: 18
 scix_url: CWWDL%206155
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |23.231 | 60.634 | 0.339 | -1.256 | -0.614 | -- |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 23.105 | 60.39 | 0.338 | -1.226 | -0.637 | -- 
+N_rows_pos: "1"
 cds_radec: 23.23115,+60.63404
 carousel: UCC
 fpars_table: |
@@ -64,11 +66,13 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 1 | 0.350 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 1 | 0.350 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 581](/_clusters/ngc581/)| 40.0 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[Gulliver 16](/_clusters/gulliver16/)| 24.0 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.46 |
-    |[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.16 |
+    |[Schoenball 1](/_clusters/schoenball1/)| 24.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.15 |
+N_rows_shared: "3"
 ---

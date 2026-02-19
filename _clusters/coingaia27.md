@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.8
+N_comments: "1"
+dens_val: 7.8
 N_50_val: 60
 scix_url: COIN-Gaia%2027
 posit_table: |
@@ -68,6 +69,7 @@ posit_table: |
     |[Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | 85.736 | 13.724 | 0.918 | 0.662 | -3.632 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 85.76 | 13.743 | -- | -- | -- | 2.535 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 85.76 | 13.743 | 0.91 | 0.7 | -3.6 | -- 
+N_rows_pos: "11"
 cds_radec: 85.76338,+13.7249
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -85,10 +87,12 @@ fpars_table: |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 1180 | -0.500 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.00 | 1.07 | -- | 528 | 0.057 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.06 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.62 |
     |[UBC 78](/_clusters/ubc78/)| 100.0 | 85.77 | 13.73 | 0.92 | 0.66 | -3.59 | 12.49 |0.03 |
+N_rows_shared: "2"
 ---

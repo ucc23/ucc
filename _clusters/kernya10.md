@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.5
+N_comments: ""
+dens_val: 0.0
 N_50_val: 12
 scix_url: Kernya%2010
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |332.239 | 62.615 | 0.148 | -2.273 | -1.151 | -54.771 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 332.317 | 62.588 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 332.23943,+62.61509
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

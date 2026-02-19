@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 8.9
+N_comments: ""
+dens_val: 2.6
 N_50_val: 19
 scix_url: Dolidze%206
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |305.105 | 41.406 | 0.966 | -0.647 | -4.334 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 305.133 | 41.357 | -- | -0.62 | -4.51 | -9.0 
+N_rows_pos: "1"
 cds_radec: 305.10499,+41.40568
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

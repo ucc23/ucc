@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 11.8
+N_comments: ""
+dens_val: 1.2
 N_50_val: 24
 scix_url: CMa05
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |105.264 | -11.289 | 0.766 | -3.058 | 0.862 | 19.535 |
     |[Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 105.32 | -11.2 | 0.78 | -2.98 | 0.79 | -- 
+N_rows_pos: "1"
 cds_radec: 105.26389,-11.28903
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.23 | 1.27 | -- | 17 | -0.140 | -- | -- | -- |
     | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.23<sup>(1)</sup> | 1.27<sup>(1)</sup> | -- | 17<sup>(1)</sup> | -0.140<sup>(1)</sup> | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 76](/_clusters/cwnu76/)| 24.0 | 104.97 | -11.16 | 0.88 | -2.9 | 0.68 | 31.15 |0.18 |
+N_rows_shared: "1"
 ---

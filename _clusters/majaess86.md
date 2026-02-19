@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 7.3
+N_comments: ""
+dens_val: 0.6
 N_50_val: 22
 scix_url: Majaess%2086
 posit_table: |
@@ -59,11 +60,14 @@ posit_table: |
     |[Sánchez et al.](https://scixplorer.org/abs/2020MNRAS.495.2882S) | 2020 | 109.629 | -18.371 | -- | -0.451 | 0.703 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 109.629 | -18.371 | -- | 0.58 | 0.48 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 109.629 | -18.371 | -- | 0.58 | 0.48 | -- 
+N_rows_pos: "3"
 cds_radec: 109.65872,-18.38547
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

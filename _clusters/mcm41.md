@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.5
+N_comments: ""
+dens_val: 19.8
 N_50_val: 40
 scix_url: MCM%2041
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |209.875 | -61.377 | 0.307 | -5.371 | -1.879 | -26.163 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 209.868 | -61.367 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 209.87492,-61.37665
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3872](/_clusters/cwnu3872/)| 85.0 | 209.91 | -61.38 | 0.3 | -5.2 | -1.89 | -24.55 |0.29 |
     |[HSC 2627](/_clusters/hsc2627/)| 37.5 | 209.89 | -61.38 | 0.29 | -5.19 | -1.88 | -- |0.14 |
+N_rows_shared: "2"
 ---

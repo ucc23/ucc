@@ -13,17 +13,17 @@ glon: 256.22212
 glat: -1.15792
 r50: 1.2
 plx: 0.1547
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#f1f9d6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.2
+N_comments: "2"
+dens_val: 13.9
 N_50_val: 71
 scix_url: UFMG%2058
 posit_table: |
@@ -65,6 +66,7 @@ posit_table: |
     |[Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 124.876 | -38.273 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 124.879 | -38.272 | 0.18 | -2.925 | 3.337 | -- |
     |[Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 124.88 | -38.27 | 0.18 | -2.953 | 3.356 | -- 
+N_rows_pos: "7"
 cds_radec: 124.89604,-38.27123
 carousel: UCC_HUNT23
 fpars_table: |
@@ -78,9 +80,11 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 5.05 | 2.99 | -- | 282 | -0.111 | 740<sup>(1)</sup> | 0.64 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 3.89 | 2.79 | -- | 365 | -0.094 | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 6.31 | 3.88 | -- | 89 | -- | -- | -- | -- |
+N_rows_pars: "7"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0449](/_clusters/oc0449/)| 35.2 | 124.91 | -38.27 | 0.15 | -2.97 | 3.36 | 93.81 |0.0 |
+N_rows_shared: "1"
 ---

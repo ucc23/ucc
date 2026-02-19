@@ -13,17 +13,17 @@ glon: 124.11297
 glat: 0.80244
 r50: 7.6
 plx: 0.335
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#e5f4ce"
 UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.67
 UTI_C_dens: 0.39
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.6
+N_comments: "1"
+dens_val: 1.9
 N_50_val: 84
 scix_url: COIN-Gaia%2029
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 15.548 | 63.648 | 0.313 | -2.654 | -0.317 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 15.548 | 63.648 | -- | -- | -- | 2.394 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 15.548 | 63.648 | 0.31 | -2.65 | -0.32 | -- 
+N_rows_pos: "7"
 cds_radec: 15.51815,+63.65001
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -76,9 +78,11 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.92 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 4.09 | 2.23 | -- | 76 | 0.058 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 2.92 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 10539](/_clusters/cwwdl10539/)| 4.8 | 15.38 | 63.59 | 0.35 | -2.44 | -0.41 | -- |0.11 |
+N_rows_shared: "1"
 ---

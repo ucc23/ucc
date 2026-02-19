@@ -13,17 +13,17 @@ glon: 165.53768
 glat: -2.11158
 r50: 14.5
 plx: 0.9574
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fee5ca"
 UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.33
 UTI_C_C3: 0.5
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 14.5
+N_comments: "1"
+dens_val: 1.6
 N_50_val: 32
 scix_url: HXHWL%2018
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 74.317 | 39.796 | 0.956 | -0.53 | -3.058 | -9.6 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 74.309 | 39.627 | 0.958 | -0.49 | -3.105 | -- |
     |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 74.319 | 39.594 | 0.95 | -0.4 | -3.05 | -- 
+N_rows_pos: "6"
 cds_radec: 74.28396,+39.57453
 carousel: UCC_HUNT23
 fpars_table: |
@@ -75,7 +77,9 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.00 | 0.76 | 0.57 | 69 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.15 | -- | 32 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 0.95 | 1.08 | -- | 35 | 0.223 | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

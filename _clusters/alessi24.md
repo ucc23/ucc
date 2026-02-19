@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 24.1
+N_comments: "2"
+dens_val: 30.2
 N_50_val: 350
 scix_url: Alessi%2024
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 260.804 | -62.641 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 260.82 | -62.64 | -- | 1.35 | -8.31 | 4.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 261.004 | -62.863 | -- | 1.35 | -8.31 | -6.95 
+N_rows_pos: "26"
 cds_radec: 260.77792,-62.71812
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -113,6 +115,7 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.50 | 0.31 | -- | 11 | -- | 944 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.50 | 0.31 | -- | 11 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.50 | 0.31 | -- | 11 | -0.133 | -- | -- | -- |
+N_rows_pars: "23"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -120,4 +123,5 @@ shared_table: |
     |[OC 0638](/_clusters/oc0638/)| 8.9 | 261.0 | -62.86 | 2.07 | -0.34 | -8.94 | 6.93 |0.0 |
     |[LISC-III 3249](/_clusters/lisciii3249/)| 7.4 | 260.88 | -62.08 | 2.06 | -0.56 | -8.74 | 9.26 |0.05 |
     |[OC 0639](/_clusters/oc0639/)| 7.1 | 261.07 | -62.46 | 2.04 | -0.42 | -8.97 | 8.85 |0.0 |
+N_rows_shared: "3"
 ---

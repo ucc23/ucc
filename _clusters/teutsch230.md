@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.0
+N_comments: ""
+dens_val: 37.2
 N_50_val: 229
 scix_url: Teutsch%20230
 posit_table: |
@@ -57,10 +58,12 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |177.321 | -62.229 | 0.234 | -7.724 | 1.357 | -15.469 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 177.315 | -62.233 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 177.32144,-62.22947
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -68,4 +71,5 @@ shared_table: |
     |[SAI 116](/_clusters/sai116/)| 95.2 | 177.32 | -62.23 | 0.23 | -7.74 | 1.35 | -15.51 |0.96 |
     |[VVV 006](/_clusters/vvv006/)| 21.0 | 177.31 | -62.23 | 0.23 | -7.74 | 1.32 | -15.42 |0.0 |
     |[OC 0572](/_clusters/oc0572/)| 17.5 | 177.31 | -62.23 | 0.23 | -7.74 | 1.36 | -15.42 |0.0 |
+N_rows_shared: "3"
 ---

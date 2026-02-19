@@ -18,12 +18,12 @@ UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f7fbde"
 UTI_C_dup_COL: "#f0b6b3"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.6
+UTI_C_lit: 0.56
 UTI_C_dup: 0.1
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.8
+N_comments: "1"
+dens_val: 12.5
 N_50_val: 102
 scix_url: COIN-Gaia%2017
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 81.244 | 37.558 | 0.885 | 0.358 | -4.297 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 81.244 | 37.558 | -- | -- | -- | 2.668 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 81.244 | 37.558 | 0.89 | 0.36 | -4.28 | -- 
+N_rows_pos: "10"
 cds_radec: 81.23024,+37.57144
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -83,10 +85,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.09 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.25 | 1.30 | -- | 266 | 0.018 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.09 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 89](/_clusters/ubc89/)| 94.1 | 81.23 | 37.57 | 0.9 | 0.29 | -4.3 | 14.41 |0.01 |
-    |[Saloranta 10](/_clusters/saloranta10/)| 90.2 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.62 |
+    |[Saloranta 10](/_clusters/saloranta10/)| 90.2 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.61 |
+N_rows_shared: "2"
 ---

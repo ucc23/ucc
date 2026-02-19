@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 0.8
+N_comments: ""
+dens_val: 4.4
 N_50_val: 27
 scix_url: Gaia%205
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |110.805 | -29.716 | 0.094 | -1.081 | 1.78 | 115.63 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 110.802 | -29.721 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 110.80549,-29.71629
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3305](/_clusters/cwnu3305/)| 100.0 | 110.81 | -29.71 | 0.12 | -1.09 | 1.77 | 109.32 |0.17 |
+N_rows_shared: "1"
 ---

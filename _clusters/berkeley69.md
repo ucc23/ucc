@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.5
+N_comments: "2"
+dens_val: 19.7
 N_50_val: 269
 scix_url: Berkeley%2069
 posit_table: |
@@ -84,6 +85,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 81.088 | 32.604 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 81.15 | 32.65 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 81.15 | 32.65 | -- | 5.9 | -12.51 | 5.2 
+N_rows_pos: "26"
 cds_radec: 81.08966,+32.60761
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -113,9 +115,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.80 | 2.08 | -- | 1026 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.68 | 2.08 | -- | 245 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.86 | 2.02 | -- | 891 | -- | -- | -- | -- |
+N_rows_pars: "23"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0294](/_clusters/oc0294/)| 17.1 | 81.09 | 32.61 | 0.3 | 0.76 | -1.95 | 39.74 |0.0 |
+N_rows_shared: "1"
 ---

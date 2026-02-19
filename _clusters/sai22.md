@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.5
+N_comments: ""
+dens_val: 2.4
 N_50_val: 40
 scix_url: SAI%2022
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |42.29 | 60.751 | 0.465 | -0.091 | -0.28 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 42.242 | 60.743 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 42.2902,+60.75134
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 0608](/_clusters/fsr0608/)| 5.0 | 42.82 | 60.6 | 0.46 | -0.53 | -0.39 | -16.76 |0.07 |
+N_rows_shared: "1"
 ---

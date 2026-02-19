@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 10.4
+N_comments: ""
+dens_val: 0.1
 N_50_val: 18
 scix_url: Ruprecht%20159
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |140.17 | -60.381 | 0.225 | -2.664 | 1.056 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 140.075 | -60.4 | -- | -2.67 | 0.93 | -- 
+N_rows_pos: "1"
 cds_radec: 140.16967,-60.38146
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.7
+N_comments: ""
+dens_val: 0.6
 N_50_val: 28
 scix_url: Teutsch%20305
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |304.33 | 39.626 | 0.358 | -3.569 | -5.433 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 304.312 | 39.592 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 304.32972,+39.62608
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.82 |
+    |[VDB 130](/_clusters/vdb130/)| 3.6 | 304.51 | 39.36 | 0.57 | -3.59 | -5.15 | -23.66 |0.81 |
+N_rows_shared: "1"
 ---

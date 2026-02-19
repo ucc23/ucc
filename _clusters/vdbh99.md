@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 25.8
+N_comments: "2"
+dens_val: 76.2
 N_50_val: 861
 scix_url: VDBH%2099
 posit_table: |
@@ -89,6 +90,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 159.48 | -59.14 | -- | -14.94 | 1.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 159.475 | -59.183 | -- | -5.81 | -2.5 | 11.2 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 159.475 | -59.183 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 159.5221,-59.16454
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -125,10 +127,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.51 | 0.19 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.51 | 0.17 | -- | 40 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.43 | 0.23 | -- | 50 | -- | -- | -- | -- |
+N_rows_pars: "30"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[XDOCC 07](/_clusters/xdocc07/)| 3.8 | 159.44 | -58.91 | 2.25 | -14.37 | 0.92 | 9.48 |0.0 |
     |[HSC 2356](/_clusters/hsc2356/)| 2.9 | 159.48 | -59.03 | 2.05 | -14.64 | 1.0 | -11.52 |0.0 |
+N_rows_shared: "2"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 5.0
+N_comments: ""
+dens_val: 2.5
 N_50_val: 24
 scix_url: Ferrero%2044
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |311.947 | -9.205 | 0.465 | 1.762 | -6.74 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 311.946 | -9.201 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 311.94661,-9.20504
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

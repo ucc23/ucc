@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.7
+N_comments: "2"
+dens_val: 20.5
 N_50_val: 221
 scix_url: Collinder%2028
 posit_table: |
@@ -89,6 +90,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 38.391 | 57.597 | -- | 1.11 | 0.28 | -36.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 38.337 | 57.56 | -- | -1.33 | -0.14 | -34.34 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 38.337 | 57.56 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 38.34163,+57.55039
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -123,10 +125,12 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.81 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.20 | 2.20 | -- | 10 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.72 | 2.42 | -- | 13 | -- | -- | -- | -- |
+N_rows_pars: "28"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0253](/_clusters/oc0253/)| 14.5 | 38.37 | 57.55 | 0.46 | -0.27 | -1.12 | -- |0.02 |
     |[UBC 606](/_clusters/ubc606/)| 2.7 | 37.62 | 57.27 | 0.41 | -0.28 | -1.13 | -- |0.09 |
+N_rows_shared: "2"
 ---

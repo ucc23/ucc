@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.1
+N_comments: ""
+dens_val: 12.0
 N_50_val: 75
 scix_url: CWWDL%206296
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |96.329 | 11.159 | 0.594 | -1.138 | -0.964 | 29.717 |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 96.347 | 11.166 | 0.59 | -1.151 | -0.96 | 9.893 
+N_rows_pos: "1"
 cds_radec: 96.32948,+11.1585
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 4 | -0.100 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 4 | -0.100 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 28](/_clusters/coingaia28/)| 100.0 | 96.33 | 11.16 | 0.59 | -1.13 | -0.96 | 29.72 |0.76 |
+    |[COIN-Gaia 28](/_clusters/coingaia28/)| 100.0 | 96.33 | 11.16 | 0.59 | -1.13 | -0.96 | 29.72 |0.75 |
     |[UBC 81](/_clusters/ubc81/)| 100.0 | 96.33 | 11.16 | 0.59 | -1.12 | -0.96 | 29.72 |0.02 |
+N_rows_shared: "2"
 ---

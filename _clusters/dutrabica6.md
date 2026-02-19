@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.9
+N_comments: ""
+dens_val: 1.1
 N_50_val: 18
 scix_url: Dutra%20Bica%206
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.841 | -28.812 | 0.352 | 0.017 | -2.223 | -18.64 |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 266.79 | -28.774 | -- | 0.494 | -1.971 | 2.527 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.792 | -28.773 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 266.84089,-28.81159
 carousel: UCC
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.91 | 4.69 | -- | 5 | 0.019 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.91 | 4.69 | -- | 5 | 0.019 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Dutra Bica 5](/_clusters/dutrabica5/)| 92.0 | 266.79 | -28.78 | 0.38 | 0.11 | -2.15 | -22.0 |0.48 |
+N_rows_shared: "1"
 ---

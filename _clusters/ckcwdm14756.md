@@ -1,0 +1,76 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: CKCWDM 14756
+title_flag: true
+more_names: 
+fname: ckcwdm14756
+members_file: "216_220"
+fov: 0.163
+ra_icrs: 108.07391
+de_icrs: -2.83113
+glon: 217.83337
+glat: 3.33919
+r50: 4.9
+plx: 0.152
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e7adb3"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#add7c0"
+UTI_C_N: 0.0
+UTI_C_dens: 0.05
+UTI_C_C3: 0.25
+UTI_C_lit: 0.0
+UTI_C_dup: 0.92
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Very likely unique
+summary: |
+    <b>CKCWDM 14756</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a metal-poor, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.92</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Very distant"
+badge_dist_url: "dist_min=5&dist_max=10"
+badge_av: "Low extinction"
+badge_av_url: "av_min=0&av_max=1"
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: "Metal-poor"
+badge_feh_url: "feh_min=-1&feh_max=-0.5"
+badge_age: "Intermediate age"
+badge_age_url: "age_min=100&age_max=1000"
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
+N_comments: ""
+dens_val: 0.3
+N_50_val: 23
+scix_url: CKCWDM%2014756
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |108.074 | -2.831 | 0.152 | -0.906 | 0.265 | 94.68 |
+    |[Chi et al.](https://scixplorer.org/abs/2025PASJ...77.1050C) | 2025 | 108.089 | -2.82 | 0.11 | -0.934 | 0.267 | -- 
+N_rows_pos: "1"
+cds_radec: 108.07391,-2.83113
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.11 | 0.67 | -- | 855 | -0.883 | -- | -- | -- |
+    | [Chi et al.](https://scixplorer.org/abs/2025PASJ...77.1050C) | 2025 | 9.11 | 0.67 | -- | 855 | -0.883 | -- | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWWDL 12007](/_clusters/cwwdl12007/)| 8.0 | 108.24 | -2.88 | 0.24 | -0.89 | 0.18 | 97.02 |0.04 |
+N_rows_shared: "1"
+---

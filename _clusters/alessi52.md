@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.4
+N_comments: ""
+dens_val: 0.2
 N_50_val: 15
 scix_url: Alessi%2052
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 183.258 | -62.706 | -- | -4.99 | -0.06 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 183.257 | -62.706 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 183.258 | -62.706 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 183.13853,-62.70394
 carousel: UCC
 fpars_table: |
@@ -66,6 +68,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.33 | 3.35 | -- | 1413 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.33 | 3.35 | -- | 1413 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -73,4 +76,5 @@ shared_table: |
     |[CWNU 3697](/_clusters/cwnu3697/)| 56.0 | 182.98 | -62.65 | 0.19 | -6.36 | 0.67 | -- |0.06 |
     |[CWNU 3471](/_clusters/cwnu3471/)| 40.0 | 183.26 | -62.71 | 0.17 | -6.25 | 0.64 | 10.87 |0.19 |
     |[VVV 011](/_clusters/vvv011/)| 12.0 | 183.21 | -62.71 | 0.03 | -6.3 | 0.57 | -- |0.07 |
+N_rows_shared: "3"
 ---

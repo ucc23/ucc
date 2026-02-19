@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.2
+N_comments: ""
+dens_val: 22.8
 N_50_val: 37
 scix_url: MCM%2032
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |186.726 | -62.828 | 0.274 | -6.14 | -0.352 | -25.346 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 186.72 | -62.824 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 186.72558,-62.82834
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2599](/_clusters/cwnu2599/)| 70.3 | 186.73 | -62.82 | 0.28 | -6.13 | -0.36 | -25.35 |0.12 |
+N_rows_shared: "1"
 ---

@@ -13,17 +13,17 @@ glon: 210.92801
 glat: 5.47924
 r50: 6.9
 plx: 0.4781
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#fdfee6"
 UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.51
 UTI_C_dens: 0.59
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.9
+N_comments: "1"
+dens_val: 3.0
 N_50_val: 52
 scix_url: HXHWL%2060
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 106.847 | 4.244 | 0.48 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 106.841 | 4.298 | 0.481 | -0.359 | -1.638 | 28.62 |
     |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 106.828 | 4.27 | 0.48 | -0.39 | -1.66 | -- 
+N_rows_pos: "5"
 cds_radec: 106.83382,+4.25919
 carousel: UCC_HUNT23
 fpars_table: |
@@ -73,10 +75,12 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.00 | 0.81 | -- | 302 | 0.190 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.90 | 0.48 | 0.95 | 382 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 2.00 | 1.08 | -- | 200 | 0.370 | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1337](/_clusters/ubc1337/)| 98.1 | 106.84 | 4.26 | 0.48 | -0.35 | -1.66 | 29.56 |0.05 |
     |[CWWDL 14076](/_clusters/cwwdl14076/)| 86.5 | 106.84 | 4.27 | 0.48 | -0.35 | -1.66 | 29.56 |0.0 |
+N_rows_shared: "2"
 ---

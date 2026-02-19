@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.3
+N_comments: "2"
+dens_val: 121.6
 N_50_val: 1438
 scix_url: Collinder%20433
 posit_table: |
@@ -83,6 +84,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 318.287 | 42.495 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 318.25 | 42.483 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 318.288 | 42.495 | -- | -2.18 | -4.97 | -50.56 
+N_rows_pos: "25"
 cds_radec: 318.28255,+42.49508
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -111,7 +113,9 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.16 | -- | -- | 1901 | -0.160 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.16 | 1.83 | -- | 1905 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.33 | 2.05 | -- | 1259 | -0.160 | -- | -- | -- |
+N_rows_pars: "22"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

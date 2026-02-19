@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.8
+N_comments: "1"
+dens_val: 0.2
 N_50_val: 14
 scix_url: Ruprecht%20155
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 121.262 | -31.814 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 121.271 | -31.817 | -- | -2.5 | -0.63 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 121.267 | -31.817 | -- | 0.61 | 0.71 | -- 
+N_rows_pos: "4"
 cds_radec: 121.27268,-31.81012
 carousel: UCC
 fpars_table: |
@@ -70,10 +72,12 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 372 | -- | 71 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.31 | 1.74 | -- | 372 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.31 | 1.74 | -- | 372 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 204](/_clusters/fof204/)| 24.0 | 121.44 | -31.6 | 0.24 | -2.45 | 2.85 | -- |0.27 |
     |[HSC 2006](/_clusters/hsc2006/)| 20.0 | 121.46 | -31.6 | 0.25 | -2.46 | 2.83 | -- |0.08 |
+N_rows_shared: "2"
 ---

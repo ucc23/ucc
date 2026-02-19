@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.1
+N_comments: ""
+dens_val: 1.9
 N_50_val: 37
 scix_url: BDSB%2088
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 103.636 | -4.528 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 103.636 | -4.528 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 103.642 | -4.53 | -- | 0.73 | 0.69 | -- 
+N_rows_pos: "3"
 cds_radec: 103.54739,-4.52504
 carousel: UCC
 fpars_table: |
@@ -68,10 +70,12 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 25 | -- | 36 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.79 | 1.29 | -- | 25 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.79 | 1.29 | -- | 25 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.55 |
+    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.54 |
     |[CWNU 3207](/_clusters/cwnu3207/)| 59.5 | 103.5 | -4.53 | 0.29 | -0.71 | 0.62 | -- |0.02 |
+N_rows_shared: "2"
 ---

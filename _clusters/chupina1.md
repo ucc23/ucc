@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 8.2
+N_comments: ""
+dens_val: 6.2
 N_50_val: 26
 scix_url: Chupina%201
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 132.526 | 11.942 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 132.529 | 11.945 | -- | -- | -- | 34.88 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 132.529 | 11.945 | -- | -8.28 | -2.78 | 34.88 
+N_rows_pos: "4"
 cds_radec: 132.62493,+11.90434
 carousel: UCC
 fpars_table: |
@@ -68,10 +70,12 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.78 | 2.45 | -- | 13 | 0.000 | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | 0.000 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.78 | 2.45 | -- | 13 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 100.0 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
     |[Melotte 94](/_clusters/melotte94/)| 100.0 | 132.85 | 11.82 | 1.15 | -10.97 | -2.91 | 33.91 |1.0 |
+N_rows_shared: "2"
 ---

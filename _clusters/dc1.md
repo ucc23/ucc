@@ -18,12 +18,12 @@ UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#f1f9d6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.6
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.7
+N_comments: ""
+dens_val: 6.4
 N_50_val: 71
 scix_url: DC%201
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 100.505 | -12.969 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 100.504 | -12.974 | -- | -0.15 | 2.01 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 100.504 | -12.974 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 100.50476,-12.96626
 carousel: UCC
 fpars_table: |
@@ -69,9 +71,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.23 | 1.18 | -- | 2278 | 0.003 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 5.75 | 1.10 | -- | 1585 | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 6.71 | 1.26 | -- | 2972 | 0.003 | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1757](/_clusters/hsc1757/)| 46.5 | 100.51 | -12.96 | 0.16 | 0.12 | 1.39 | 50.32 |0.0 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.3
+N_comments: ""
+dens_val: 6.3
 N_50_val: 22
 scix_url: MCM%2091
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |258.094 | -38.515 | 0.513 | -1.024 | -2.385 | 11.102 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 258.11 | -38.524 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 258.09395,-38.51462
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 401](/_clusters/ryu401/)| 8.0 | 257.95 | -38.61 | 0.66 | -1.41 | -3.07 | -39.66 |0.23 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 1.1
 N_50_val: 18
 scix_url: Teutsch%20170
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |93.851 | 22.848 | 0.451 | -0.307 | -1.613 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 93.839 | 22.891 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 93.85059,+22.84805
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 10843](/_clusters/cwwdl10843/)| 24.0 | 93.93 | 22.62 | 0.52 | -0.36 | -1.66 | -- |0.03 |
-    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.38 |
+    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.37 |
+N_rows_shared: "2"
 ---

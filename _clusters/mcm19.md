@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.4
+N_comments: ""
+dens_val: 10.0
 N_50_val: 22
 scix_url: MCM%2019
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |286.715 | 9.592 | 0.275 | -2.069 | -5.461 | -- |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 286.723 | 9.582 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 286.71513,+9.59226
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 56](/_clusters/alessi56/)| 80.0 | 286.72 | 9.6 | 0.28 | -2.1 | -5.44 | -- |0.5 |
+    |[Alessi 56](/_clusters/alessi56/)| 80.0 | 286.72 | 9.6 | 0.28 | -2.1 | -5.44 | -- |0.48 |
+N_rows_shared: "1"
 ---

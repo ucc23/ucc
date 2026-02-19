@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 23.4
+N_comments: ""
+dens_val: 6.0
 N_50_val: 157
 scix_url: Alessi%20Teutsch%207
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 127.943 | -39.082 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 127.95 | -39.08 | -- | -8.94 | 5.2 | 11.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 127.933 | -39.132 | -- | -8.94 | 5.2 | 11.0 
+N_rows_pos: "13"
 cds_radec: 128.23146,-39.40973
 carousel: UCC
 fpars_table: |
@@ -85,9 +87,11 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.90 | 0.31 | -- | 76 | -- | 442 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.90 | 0.31 | -- | 76 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.90 | 0.31 | -- | 76 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 274](/_clusters/theia274/)| 40.8 | 128.46 | -39.58 | 1.32 | -8.11 | 5.64 | 28.01 |0.07 |
+N_rows_shared: "1"
 ---

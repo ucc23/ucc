@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 37.2
+N_comments: "2"
+dens_val: 28.6
 N_50_val: 634
 scix_url: Trumpler%2010
 posit_table: |
@@ -92,6 +93,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 131.905 | -42.504 | -- | -13.4 | 7.04 | 21.5 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 131.975 | -42.45 | -- | -12.06 | 6.6 | 32.17 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 131.975 | -42.45 | -- | -- | -- | -- 
+N_rows_pos: "34"
 cds_radec: 131.91694,-42.47965
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -130,7 +132,9 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.42 | -- | -- | 30 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.42 | 0.11 | -- | 35 | -0.130 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.36 | 0.11 | -- | 32 | -- | -- | -- | -- |
+N_rows_pars: "32"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

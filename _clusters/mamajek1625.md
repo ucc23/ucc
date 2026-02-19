@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 7.9
+N_comments: ""
+dens_val: 0.2
 N_50_val: 29
 scix_url: Mamajek%201625
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |246.377 | -23.411 | 0.194 | -5.677 | -3.716 | -87.11 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 246.403 | -23.435 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 246.377,-23.41136
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -18,12 +18,12 @@ UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.1
+N_comments: "1"
+dens_val: 8.8
 N_50_val: 23
 scix_url: Collinder%20417
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 303.004 | 26.478 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 303.0 | 26.483 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 303.004 | 26.478 | -- | -3.3 | -5.14 | -1.5 
+N_rows_pos: "12"
 cds_radec: 302.92044,+26.50134
 carousel: UCC
 fpars_table: |
@@ -84,9 +86,11 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.60 | -- | -- | 1445 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.60 | 0.25 | -- | 1445 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.60 | 0.25 | -- | 1445 | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 18](/_clusters/gulliver18/)| 84.0 | 302.91 | 26.54 | 0.61 | -3.21 | -5.66 | -3.42 |0.8 |
+    |[Gulliver 18](/_clusters/gulliver18/)| 84.0 | 302.91 | 26.54 | 0.61 | -3.21 | -5.66 | -3.42 |0.79 |
+N_rows_shared: "1"
 ---

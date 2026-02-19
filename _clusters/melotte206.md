@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.5
+N_comments: "2"
+dens_val: 155.6
 N_50_val: 1189
 scix_url: Melotte%20206
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 278.375 | -10.4 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 278.363 | -10.403 | -- | 0.93 | -3.84 | -8.59 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 278.362 | -10.403 | -- | -- | -- | -- 
+N_rows_pos: "24"
 cds_radec: 278.35824,-10.40027
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -109,9 +111,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.37 | 3.72 | -- | 37 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.37 | 3.72 | -- | 37 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.67 | 4.04 | -- | 79 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2835](/_clusters/cwnu2835/)| 0.5 | 278.36 | -10.32 | 0.43 | 0.24 | -0.7 | 26.05 |0.11 |
+N_rows_shared: "1"
 ---

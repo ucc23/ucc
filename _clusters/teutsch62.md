@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 2.8
+N_comments: ""
+dens_val: 3.4
 N_50_val: 200
 scix_url: Teutsch%2062
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 117.931 | -30.639 | 0.11 | -1.404 | 1.852 | 114.099 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 117.945 | -30.627 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 117.952 | -30.63 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 117.94938,-30.62626
 carousel: UCC
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 1909 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1909<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0431](/_clusters/oc0431/)| 12.5 | 117.96 | -30.62 | 0.1 | -1.4 | 1.86 | 94.72 |0.0 |
+N_rows_shared: "1"
 ---

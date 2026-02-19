@@ -13,17 +13,17 @@ glon: 72.03542
 glat: 2.01075
 r50: 2.7
 plx: 0.3782
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.7
+N_comments: "1"
+dens_val: 31.1
 N_50_val: 134
 scix_url: Kronberger%2036
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 301.139 | 35.236 | 0.379 | -2.424 | -4.014 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 301.149 | 35.218 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 301.13 | 35.246 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 301.13873,+35.23856
 carousel: UCC_HUNT23
 fpars_table: |
@@ -74,10 +76,12 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.26 | 2.50 | -- | 186 | 0.220 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.40 | 2.35 | 2.31 | 207 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.90 | 2.36 | -- | 251 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2845](/_clusters/cwwdl2845/)| 75.4 | 301.14 | 35.24 | 0.38 | -2.41 | -4.01 | -- |0.02 |
     |[UBC 137](/_clusters/ubc137/)| 43.3 | 301.14 | 35.24 | 0.39 | -2.42 | -4.0 | -- |0.0 |
+N_rows_shared: "2"
 ---

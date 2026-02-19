@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.4
+N_comments: ""
+dens_val: 0.3
 N_50_val: 15
 scix_url: HD%20277262%20Group
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |74.382 | 40.99 | 0.283 | 0.261 | -1.293 | -12.224 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 74.403 | 40.964 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 74.38246,+40.98962
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

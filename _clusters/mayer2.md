@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.3
+N_comments: ""
+dens_val: 0.2
 N_50_val: 16
 scix_url: Mayer%202
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 64.935 | 53.168 | -- | -2.923 | 1.264 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 64.938 | 53.167 | -- | -1.41 | -5.88 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 64.938 | 53.167 | -- | -1.41 | -5.88 | -- 
+N_rows_pos: "3"
 cds_radec: 64.99562,+53.16079
 carousel: UCC
 fpars_table: |
@@ -67,9 +69,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.325 | 3.01 | -- | 28 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.06 | 2.73 | -- | 32 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.59 | 3.29 | -- | 25 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 609](/_clusters/ubc609/)| 16.0 | 65.23 | 53.05 | 0.22 | 0.46 | -0.73 | -- |0.18 |
+N_rows_shared: "1"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.3
+N_comments: "2"
+dens_val: 69.2
 N_50_val: 220
 scix_url: VDBH%2090
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 152.975 | -58.083 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 153.06 | -58.06 | -- | -1.97 | 6.03 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 153.042 | -58.067 | -- | -0.22 | 2.86 | -- 
+N_rows_pos: "18"
 cds_radec: 153.06174,-58.07208
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -98,9 +100,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.57 | 1.64 | -- | 87 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.43 | 1.58 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.57 | 1.63 | -- | 88 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Bochum 8](/_clusters/bochum8/)| 100.0 | 153.06 | -58.07 | 0.38 | -5.4 | 2.34 | 26.8 |0.52 |
+N_rows_shared: "1"
 ---

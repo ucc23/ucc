@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.0
+N_comments: ""
+dens_val: 0.7
 N_50_val: 19
 scix_url: MCM%2084
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |256.139 | -42.276 | 0.432 | -2.367 | -4.744 | -25.072 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 256.161 | -42.304 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 256.13908,-42.27617
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MCM 85](/_clusters/mcm85/)| 52.0 | 256.14 | -42.22 | 0.45 | -2.27 | -4.6 | -25.07 |0.04 |
+N_rows_shared: "1"
 ---

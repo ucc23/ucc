@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.4
+N_comments: "2"
+dens_val: 13.4
 N_50_val: 108
 scix_url: Ruprecht%20119
 posit_table: |
@@ -85,6 +86,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 247.03 | -51.52 | -- | -2.42 | -0.96 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 247.062 | -51.5 | -- | -2.13 | -3.42 | -11.21 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 247.062 | -51.5 | -- | -- | -- | -- 
+N_rows_pos: "27"
 cds_radec: 247.01194,-51.49544
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -115,9 +117,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.96 | 1.55 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.96 | 1.77 | -- | 7 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.95 | 1.73 | -- | 45 | -- | -- | -- | -- |
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0655](/_clusters/oc0655/)| 22.2 | 247.0 | -51.5 | 0.48 | -1.4 | -3.45 | -66.85 |0.02 |
+N_rows_shared: "1"
 ---

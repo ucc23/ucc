@@ -18,12 +18,12 @@ UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#ddf0ca"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.72
 UTI_C_dens: 0.71
 UTI_C_C3: 1.0
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 39.6
+N_comments: "2"
+dens_val: 3.6
 N_50_val: 94
 scix_url: UPK%2072
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 284.988 | 27.293 | 2.209 | -0.461 | -4.554 | -15.192 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 285.19 | 26.74 | 2.19 | -0.6 | -4.6 | -16.69 |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 284.687 | 26.344 | -- | -0.68 | -4.41 | -- 
+N_rows_pos: "5"
 cds_radec: 284.87718,+26.79283
 carousel: UCC_HUNT23
 fpars_table: |
@@ -74,7 +76,9 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.44 | 0.38 | 0.65 | 75 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.68 | 1.12 | -- | 316 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.45 | -- | -- | 63 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

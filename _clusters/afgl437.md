@@ -1,0 +1,77 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: AFGL 437
+title_flag: true
+more_names: 
+fname: afgl437
+members_file: "136_140"
+fov: 0.197
+ra_icrs: 46.91956
+de_icrs: 58.47626
+glon: 139.99461
+glat: 0.1798
+r50: 5.9
+plx: 0.4182
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#fcd4c1"
+UTI_C_C3_COL: "#eef7d4"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
+UTI_C_N: 0.0
+UTI_C_dens: 0.24
+UTI_C_C3: 0.62
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Intermediate quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Unique
+summary: |
+    <b>AFGL 437</b> is a sparse, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
+badge_av: ""
+badge_av_url: ""
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: ""
+badge_feh_url: ""
+badge_age: ""
+badge_age_url: ""
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L/abstract' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
+
+class3: |
+    <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
+N_comments: "1"
+dens_val: 1.2
+N_50_val: 20
+scix_url: AFGL%20437
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |46.92 | 58.476 | 0.418 | 0.737 | -0.955 | -22.156 |
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 46.857 | 58.514 | -- | -- | -- | -- 
+N_rows_pos: "1"
+cds_radec: 46.91956,+58.47626
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | -- | -- | -- | -- | 79 | -- | -- |
+    | [Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 2.00 | -- | -- | -- | -- | 79 | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[HSC 1130](/_clusters/hsc1130/)| 48.0 | 47.13 | 58.46 | 0.42 | 0.75 | -0.96 | -- |0.1 |
+N_rows_shared: "1"
+---

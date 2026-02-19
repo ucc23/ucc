@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 0.9
+N_comments: ""
+dens_val: 15.0
 N_50_val: 23
 scix_url: MCM%2053
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |220.043 | -60.374 | 0.212 | -5.038 | -2.711 | -70.641 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 220.035 | -60.372 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 220.04336,-60.37394
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Juchert 10](/_clusters/juchert10/)| 100.0 | 220.07 | -60.38 | 0.18 | -4.99 | -2.69 | -70.49 |0.83 |
+    |[Juchert 10](/_clusters/juchert10/)| 100.0 | 220.07 | -60.38 | 0.18 | -4.99 | -2.69 | -70.49 |0.82 |
+N_rows_shared: "1"
 ---

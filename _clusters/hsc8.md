@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 0.7
 N_50_val: 19
 scix_url: HSC%208
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.699 | -28.634 | 0.346 | 0.204 | -0.247 | -12.717 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 267.673 | -28.635 | 0.34 | 0.207 | -0.211 | -4.411 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 267.673 | -28.635 | 0.34 | 0.207 | -0.211 | -4.411 
+N_rows_pos: "2"
 cds_radec: 267.69851,-28.63406
 carousel: UCC_HUNT23
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.62 | 1.66 | 0.8 | 73 | -- | 443 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 443<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.62 | 1.66 | 0.80 | 73 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3480](/_clusters/cwnu3480/)| 100.0 | 267.73 | -28.62 | 0.35 | 0.2 | -0.15 | -13.67 |0.2 |
+N_rows_shared: "1"
 ---

@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.4
+N_comments: "1"
+dens_val: 12.1
 N_50_val: 22
 scix_url: Theia%20361
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |107.274 | -7.223 | 1.167 | -0.919 | -1.162 | 6.202 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 107.259 | -7.252 | 1.372 | -0.907 | -1.04 | 1.578 
+N_rows_pos: "1"
 cds_radec: 107.27356,-7.22301
 carousel: UCC_HUNT23
 fpars_table: |
@@ -65,6 +67,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.69 | 0.26 | 0.28 | 4121 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.69 | 0.26 | 0.28 | 4121 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -72,4 +75,5 @@ shared_table: |
     |[FOF 2302](/_clusters/fof2302/)| 96.0 | 107.26 | -7.2 | 1.14 | -0.9 | -1.2 | 3.48 |0.5 |
     |[CWWDL 14377](/_clusters/cwwdl14377/)| 84.0 | 107.26 | -7.19 | 1.14 | -0.89 | -1.2 | 1.22 |0.01 |
     |[OC 0370](/_clusters/oc0370/)| 80.0 | 107.27 | -7.19 | 1.14 | -0.89 | -1.19 | 1.12 |0.0 |
+N_rows_shared: "3"
 ---

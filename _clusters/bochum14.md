@@ -13,17 +13,17 @@ glon: 6.37954
 glat: -0.50879
 r50: 3.8
 plx: 0.3144
-UTI: "0.80"
-UTI_COLOR: "#c9e7c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f7fbde"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.6
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.8
+N_comments: "1"
+dens_val: 17.5
 N_50_val: 216
 scix_url: Bochum%2014
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 270.5 | -23.7 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 270.5 | -23.683 | -- | -1.75 | -1.63 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 270.5 | -23.7 | -- | -- | -- | -- 
+N_rows_pos: "10"
 cds_radec: 270.5018,-23.69892
 carousel: UCC_HUNT23
 fpars_table: |
@@ -81,10 +83,12 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.58 | 4.68 | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.58 | 4.67 | -- | 10 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.70 | 4.85 | -- | 8 | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 604](/_clusters/ryu604/)| 1.9 | 270.37 | -23.84 | 0.32 | 0.18 | -1.08 | 20.3 |0.14 |
-    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.78 |
+    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.77 |
+N_rows_shared: "2"
 ---

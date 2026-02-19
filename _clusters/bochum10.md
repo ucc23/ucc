@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.3
+N_comments: "2"
+dens_val: 5.1
 N_50_val: 201
 scix_url: Bochum%2010
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 160.6 | -59.13 | -- | -5.39 | 2.71 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 160.55 | -59.133 | -- | -5.79 | -1.31 | -2.3 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 160.559 | -59.146 | -- | -- | -- | -- 
+N_rows_pos: "19"
 cds_radec: 160.47152,-59.1372
 carousel: UCC_HUNT23
 fpars_table: |
@@ -100,10 +102,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 2.04 | 0.96 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.03 | 0.95 | -- | 7 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.09 | 1.03 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0544](/_clusters/oc0544/)| 11.9 | 160.32 | -59.17 | 0.39 | -7.35 | 3.02 | -59.99 |0.0 |
     |[UBC 653](/_clusters/ubc653/)| 7.0 | 160.12 | -58.98 | 0.39 | -7.47 | 3.03 | -59.99 |0.11 |
+N_rows_shared: "2"
 ---

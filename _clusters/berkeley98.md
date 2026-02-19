@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.3
+N_comments: "2"
+dens_val: 17.1
 N_50_val: 251
 scix_url: Berkeley%2098
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 340.654 | 52.368 | -- | -5.83 | -0.37 | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 340.679 | 52.411 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 340.658 | 52.388 | -- | -0.47 | -1.52 | -- 
+N_rows_pos: "22"
 cds_radec: 340.66488,+52.40835
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,9 +106,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.20 | 0.62 | -- | 2089 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.20 | 0.62 | -- | 2089 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.74 | 0.40 | -- | 2512 | -- | -- | -- | -- |
+N_rows_pars: "18"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0176](/_clusters/oc0176/)| 10.0 | 340.67 | 52.4 | 0.27 | -1.34 | -3.21 | -69.97 |0.0 |
+N_rows_shared: "1"
 ---

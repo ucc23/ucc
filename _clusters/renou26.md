@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.4
+N_comments: ""
+dens_val: 0.2
 N_50_val: 18
 scix_url: Renou%2026
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |86.488 | 42.098 | 0.218 | 0.601 | -2.216 | -17.642 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 86.519 | 42.105 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 86.48785,+42.09815
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

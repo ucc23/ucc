@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.8
+N_comments: ""
+dens_val: 0.2
 N_50_val: 21
 scix_url: Patchick%2086
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |354.494 | 46.353 | 0.216 | -2.413 | -1.389 | -47.08 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 354.461 | 46.323 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 354.49379,+46.35326
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

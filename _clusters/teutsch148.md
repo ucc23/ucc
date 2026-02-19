@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 0.5
+N_comments: ""
+dens_val: 111.1
 N_50_val: 24
 scix_url: Teutsch%20148
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |287.612 | 10.309 | 0.313 | -1.221 | -3.497 | 50.934 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 287.611 | 10.309 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 287.61195,+10.30928
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3498](/_clusters/cwnu3498/)| 68.0 | 287.61 | 10.31 | 0.33 | -1.18 | -3.49 | 123.32 |0.12 |
+N_rows_shared: "1"
 ---

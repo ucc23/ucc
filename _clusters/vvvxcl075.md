@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.8
+N_comments: "1"
+dens_val: 2.2
 N_50_val: 20
 scix_url: VVVX%20CL075
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |272.979 | -18.606 | 0.367 | -0.013 | -2.198 | 7.248 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 272.972 | -18.606 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 272.97891,-18.606
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4420](/_clusters/cwnu4420/)| 4.0 | 272.95 | -18.64 | 0.33 | 0.14 | -1.87 | 1.63 |0.38 |
+N_rows_shared: "1"
 ---

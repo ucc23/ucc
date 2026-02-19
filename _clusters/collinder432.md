@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.5
+N_comments: "2"
+dens_val: 33.0
 N_50_val: 459
 scix_url: Collinder%20432
 posit_table: |
@@ -83,6 +84,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 318.048 | 47.755 | -- | -4.02 | -0.91 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 318.025 | 47.733 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 318.025 | 47.733 | -- | -3.36 | -5.37 | -- 
+N_rows_pos: "25"
 cds_radec: 318.0329,+47.77257
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -111,9 +113,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.53 | 1.78 | -- | 347 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.08 | 1.77 | -- | 437 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.08 | 1.77 | -- | 437 | 0.090 | -- | -- | -- |
+N_rows_pars: "22"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0141](/_clusters/oc0141/)| 7.8 | 318.03 | 47.77 | 0.28 | -4.6 | -5.64 | -48.27 |0.0 |
+N_rows_shared: "1"
 ---

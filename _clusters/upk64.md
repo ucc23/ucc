@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 43.0
+N_comments: ""
+dens_val: 0.9
 N_50_val: 26
 scix_url: UPK%2064
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |281.746 | 24.752 | 2.359 | -0.915 | -5.066 | -14.956 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 284.07 | 25.53 | 2.32 | -0.6 | -4.88 | -15.91 |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 281.748 | 24.698 | -- | -0.93 | -5.03 | -- 
+N_rows_pos: "2"
 cds_radec: 281.74593,+24.75245
 carousel: UCC
 fpars_table: |
@@ -66,7 +68,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.51 | 0.81 | -- | 70 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.58 | 0.81 | -- | 40 | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.44 | -- | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

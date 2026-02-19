@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.4
+N_comments: ""
+dens_val: 26.1
 N_50_val: 86
 scix_url: Collinder%20232
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 161.163 | -59.56 | -- | -6.09 | 0.75 | -3.0 |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 161.2 | -59.567 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.162 | -59.56 | -- | -6.09 | 0.75 | -3.0 
+N_rows_pos: "4"
 cds_radec: 161.09407,-59.5527
 carousel: UCC
 fpars_table: |
@@ -69,10 +71,12 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.38 | 1.28 | -- | 7 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.00 | 1.77 | -- | 5 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.30 | 1.49 | -- | 2 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Trumpler 14](/_clusters/trumpler14/)| 90.7 | 160.99 | -59.55 | 0.39 | -6.51 | 2.08 | -17.89 |0.95 |
     |[Trumpler 15](/_clusters/trumpler15/)| 8.1 | 161.18 | -59.37 | 0.39 | -6.21 | 2.09 | 9.88 |0.95 |
+N_rows_shared: "2"
 ---

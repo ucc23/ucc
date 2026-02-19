@@ -52,7 +52,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 83.2
+N_comments: "3"
+dens_val: 7.7
 N_50_val: 45
 scix_url: Mamajek%201
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 130.525 | -79.027 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 130.53 | -79.03 | -- | -30.05 | 27.57 | 15.05 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 130.525 | -79.027 | -- | -30.0 | 27.8 | 16.1 
+N_rows_pos: "18"
 cds_radec: 131.1322,-78.91175
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -97,7 +99,9 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.10 | 0.00 | -- | 8 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.10 | 0.00 | -- | 8 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.10 | 0.00 | -- | 8 | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

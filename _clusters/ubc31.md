@@ -13,17 +13,17 @@ glon: 163.50445
 glat: -15.04658
 r50: 54.7
 plx: 2.7396
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.71"
+UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f7fbde"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.67
 UTI_C_C3: 1.0
-UTI_C_lit: 0.6
+UTI_C_lit: 0.56
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 54.7
+N_comments: ""
+dens_val: 3.3
 N_50_val: 113
 scix_url: UBC%2031
 posit_table: |
@@ -66,6 +67,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 61.146 | 32.532 | 2.723 | 3.803 | -5.468 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 61.119 | 32.785 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 61.119 | 32.775 | 2.705 | 3.78 | -5.437 | 22.74 
+N_rows_pos: "10"
 cds_radec: 60.97692,+32.34948
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -80,6 +82,7 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.38 | 1.57 | -- | 26 | 0.425 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.34 | 0.18 | -- | 26 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.36 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "8"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -87,4 +90,5 @@ shared_table: |
     |[OCSN 285](/_clusters/ocsn285/)| 65.5 | 60.52 | 32.25 | 2.69 | 3.6 | -5.24 | 20.31 |0.31 |
     |[OC 0280](/_clusters/oc0280/)| 19.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.21 |
     |[CWNU 442](/_clusters/cwnu442/)| 7.1 | 63.19 | 31.6 | 2.78 | 3.68 | -5.65 | 19.87 |0.4 |
+N_rows_shared: "3"
 ---

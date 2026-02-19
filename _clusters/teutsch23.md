@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.7
+N_comments: "2"
+dens_val: 3.5
 N_50_val: 101
 scix_url: Teutsch%2023
 posit_table: |
@@ -78,6 +79,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 356.962 | 62.997 | -- | 3.66 | -5.83 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 356.976 | 62.997 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 356.979 | 62.99 | -- | 0.1 | -2.15 | -- 
+N_rows_pos: "20"
 cds_radec: 356.94662,+63.0485
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -100,10 +102,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.80 | 2.39 | -- | 13 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.80 | 2.39 | -- | 13 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.68 | 2.39 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Negueruela 1](/_clusters/negueruela1/)| 46.5 | 356.86 | 63.21 | 0.31 | -2.97 | -1.38 | -- |0.85 |
     |[CWWDL 10426](/_clusters/cwwdl10426/)| 9.9 | 357.55 | 62.97 | 0.32 | -3.04 | -1.36 | -89.18 |0.11 |
+N_rows_shared: "2"
 ---

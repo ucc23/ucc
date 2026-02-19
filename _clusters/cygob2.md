@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.5
+N_comments: ""
+dens_val: 45.4
 N_50_val: 231
 scix_url: Cyg%20OB2
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 308.1 | 41.28 | -- | 0.6 | -- | -28.0 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 308.299 | 41.304 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 308.31 | 41.31 | -- | -1.6 | -4.72 | -28.0 
+N_rows_pos: "4"
 cds_radec: 308.30703,+41.30043
 carousel: UCC
 fpars_table: |
@@ -69,14 +71,16 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.50 | 4.03 | -- | 5 | -- | 25645<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.50 | 4.03 | -- | 5 | -- | 3532 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.50 | 4.03 | -- | 5 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.8 |
+    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.78 |
     |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.88 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 4.3 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.16 |
-    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.71 |
+    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.69 |
     |[OC 0129](/_clusters/oc0129/)| 1.3 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.25 |
     |[OC 0128](/_clusters/oc0128/)| 0.9 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.67 |
+N_rows_shared: "6"
 ---

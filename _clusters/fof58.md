@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 12.3
 N_50_val: 137
 scix_url: FoF%2058
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |129.902 | -46.287 | 0.54 | -5.833 | 5.087 | -1.51 |
     |[Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | 129.957 | -46.364 | 0.524 | -5.813 | 5.063 | -- 
+N_rows_pos: "1"
 cds_radec: 129.90198,-46.2874
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 23 | 0.250 | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 23 | 0.250 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -75,4 +78,5 @@ shared_table: |
     |[Pismis 8](/_clusters/pismis8/)| 6.6 | 130.39 | -46.27 | 0.54 | -5.71 | 4.99 | -- |0.95 |
     |[OC 0482](/_clusters/oc0482/)| 4.4 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.13 |
     |[OC 0485](/_clusters/oc0485/)| 4.4 | 130.17 | -46.65 | 0.55 | -5.7 | 5.01 | -- |0.13 |
+N_rows_shared: "7"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 42.3
+N_comments: ""
+dens_val: 1.4
 N_50_val: 71
 scix_url: LISC-III%203682
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |106.584 | -22.369 | 1.698 | -4.499 | 3.155 | 29.547 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 106.968 | -22.362 | 1.826 | -4.547 | 2.989 | -- 
+N_rows_pos: "1"
 cds_radec: 106.58437,-22.36938
 carousel: UCC
 fpars_table: |
@@ -64,7 +66,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.66 | 0.6 | -- | -- | -0.419 | -- | 0.45 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.66 | 0.60 | -- | -- | -0.419 | -- | 0.45 | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

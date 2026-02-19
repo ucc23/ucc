@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 65.2
+N_comments: "2"
+dens_val: 4.5
 N_50_val: 87
 scix_url: ASCC%20123
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 340.65 | 54.26 | -- | 1.28 | -- | -6.46 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 340.65 | 54.26 | -- | 12.5 | -1.06 | -6.46 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 340.65 | 54.26 | -- | 12.55 | -1.03 | -6.46 
+N_rows_pos: "19"
 cds_radec: 340.05975,+54.11341
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -99,9 +101,11 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.25 | 0.31 | -- | 257 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.25 | 0.31 | -- | 257 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.25 | 0.31 | -- | 257 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 117](/_clusters/theia117/)| 56.3 | 340.81 | 53.94 | 4.32 | 12.33 | -1.63 | -4.29 |0.0 |
+N_rows_shared: "1"
 ---

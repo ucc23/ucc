@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.6
+N_comments: ""
+dens_val: 1.3
 N_50_val: 41
 scix_url: Ferrero%2010
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 105.12 | -3.009 | -- | -0.422 | 0.191 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 105.112 | -3.01 | -- | 0.22 | 5.57 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.112 | -3.01 | -- | 0.22 | 5.57 | -- 
+N_rows_pos: "4"
 cds_radec: 105.19424,-3.0512
 carousel: UCC
 fpars_table: |
@@ -67,10 +69,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.85 | 1.06 | -- | 550 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 4.85 | 1.06 | -- | 550 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Wit 2](/_clusters/wit2/)| 48.8 | 105.35 | -3.13 | 0.43 | -1.23 | 0.57 | 56.53 |0.67 |
+    |[Wit 2](/_clusters/wit2/)| 48.8 | 105.35 | -3.13 | 0.43 | -1.23 | 0.57 | 56.53 |0.65 |
     |[CWNU 2501](/_clusters/cwnu2501/)| 46.3 | 105.36 | -3.14 | 0.45 | -1.22 | 0.6 | 56.53 |0.03 |
+N_rows_shared: "2"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 71.9
+N_comments: ""
+dens_val: 1.4
 N_50_val: 93
 scix_url: OCSN%2095
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.442 | -39.645 | 2.528 | -3.447 | -7.794 | -10.079 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 253.45 | -39.49 | 2.57 | -3.47 | -7.89 | -12.76 
+N_rows_pos: "1"
 cds_radec: 253.44156,-39.6455
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.5 | 0.71 | -- | 45 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.50 | 0.71 | -- | 45 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.33 |
+    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.31 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 4.7
+N_comments: ""
+dens_val: 15.3
 N_50_val: 26
 scix_url: Alessi%20135
 posit_table: |
@@ -57,15 +58,18 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |87.412 | 27.039 | 1.048 | -0.345 | -1.033 | -3.701 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 87.388 | 27.077 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 87.41182,+27.03902
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.14 |
-    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.69 |
+    |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.13 |
+    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.68 |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
+N_rows_shared: "3"
 ---

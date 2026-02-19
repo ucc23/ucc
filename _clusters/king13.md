@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.7
+N_comments: "2"
+dens_val: 35.9
 N_50_val: 669
 scix_url: King%2013
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.514 | 61.184 | -- | -0.14 | -2.99 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.514 | 61.184 | -- | 0.09 | -3.08 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.525 | 61.167 | -- | -4.15 | -2.46 | -- 
+N_rows_pos: "21"
 cds_radec: 2.55358,+61.17291
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -103,6 +105,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.10 | 2.54 | -- | 394 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 3.10 | 2.54 | -- | 395 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.10 | 2.54 | -- | 316 | -- | -- | -- | -- |
+N_rows_pars: "18"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -112,4 +115,5 @@ shared_table: |
     |[OC 0215](/_clusters/oc0215/)| 3.7 | 2.51 | 61.17 | 0.23 | -2.72 | -0.87 | -59.66 |0.0 |
     |[OC 0218](/_clusters/oc0218/)| 3.7 | 2.51 | 61.15 | 0.26 | -2.74 | -0.83 | -58.07 |0.0 |
     |[OC 0219](/_clusters/oc0219/)| 3.7 | 2.64 | 61.19 | 0.26 | -2.73 | -0.84 | -61.3 |0.0 |
+N_rows_shared: "5"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.5
+N_comments: ""
+dens_val: 83.7
 N_50_val: 33
 scix_url: Morgan%208
 posit_table: |
@@ -59,6 +60,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 84.106 | -6.42 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 84.106 | -6.42 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 84.112 | -6.42 | -- | 2.03 | -2.39 | -- 
+N_rows_pos: "3"
 cds_radec: 84.12541,-6.42372
 carousel: UCC
 fpars_table: |
@@ -68,6 +70,7 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 16 | -- | 3 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.31 | 0.13 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.31 | 0.13 | -- | 16 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -76,4 +79,5 @@ shared_table: |
     |[UBC 208](/_clusters/ubc208/)| 15.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
     |[NGC 1980](/_clusters/ngc1980/)| 12.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.82 |
     |[OCSN 226](/_clusters/ocsn226/)| 9.1 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
+N_rows_shared: "4"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 0.9
+N_comments: ""
+dens_val: 5.1
 N_50_val: 35
 scix_url: VDBH%204
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 114.45 | -36.033 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 114.44 | -36.057 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.433 | -36.067 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 114.43736,-36.0607
 carousel: UCC
 fpars_table: |
@@ -68,7 +70,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.065 | 1.4 | -- | 638 | -0.290 | 1800 | 0.64 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 10.00 | 1.75 | -- | 16 | -- | -- | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 8.13 | 1.05 | -- | 1259 | -0.290 | 1800 | 0.64 | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

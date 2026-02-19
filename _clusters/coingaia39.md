@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 11.5
+N_comments: "2"
+dens_val: 3.1
 N_50_val: 37
 scix_url: COIN-Gaia%2039
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 69.612 | 42.95 | 0.991 | 0.238 | -2.467 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 69.612 | 42.95 | -- | -- | -- | 2.074 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 69.612 | 42.95 | 0.99 | 0.24 | -2.46 | -- 
+N_rows_pos: "12"
 cds_radec: 69.5157,+42.96867
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -89,9 +91,11 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.98 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.08 | 1.20 | -- | 36 | 0.018 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.98 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14372](/_clusters/cwwdl14372/)| 91.9 | 69.52 | 42.98 | 0.97 | 0.14 | -2.54 | 15.85 |0.02 |
+N_rows_shared: "1"
 ---

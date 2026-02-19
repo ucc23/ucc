@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.3
+N_comments: "2"
+dens_val: 16.2
 N_50_val: 254
 scix_url: Stock%208
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 81.88 | 34.43 | -- | -1.44 | -4.35 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 82.029 | 34.423 | -- | -1.07 | -3.02 | -18.01 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 82.031 | 34.428 | -- | -- | -- | -- 
+N_rows_pos: "24"
 cds_radec: 81.95908,+34.42814
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -109,11 +111,13 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.82 | 1.36 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.00 | 1.24 | -- | 2 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.15 | 1.41 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.08 |
-    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.47 |
-    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.65 |
+    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.46 |
+    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.64 |
+N_rows_shared: "3"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.6
+N_comments: ""
+dens_val: 5.3
 N_50_val: 66
 scix_url: HXHWL%2032
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |105.681 | -7.744 | 0.876 | -1.588 | -3.484 | 6.472 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 105.691 | -7.724 | 0.882 | -1.565 | -3.487 | -- |
     |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 105.664 | -7.746 | 0.88 | -1.59 | -3.46 | -- 
+N_rows_pos: "2"
 cds_radec: 105.68106,-7.74418
 carousel: UCC
 fpars_table: |
@@ -66,10 +68,12 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.26 | 0.93 | -- | 252 | 0.498 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.90 | -- | 158 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.26 | 0.96 | -- | 347 | 0.498 | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CMa02](/_clusters/cma02/)| 98.5 | 105.68 | -7.75 | 0.88 | -1.59 | -3.48 | 5.88 |0.01 |
     |[CWWDL 14378](/_clusters/cwwdl14378/)| 77.3 | 105.68 | -7.72 | 0.88 | -1.58 | -3.48 | 5.88 |0.0 |
+N_rows_shared: "2"
 ---

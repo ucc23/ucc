@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.6
+N_comments: ""
+dens_val: 7.0
 N_50_val: 51
 scix_url: Sco%20OB5
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 268.129 | -38.644 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 268.129 | -38.644 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 268.14 | -38.64 | -- | 2.46 | -1.8 | -- 
+N_rows_pos: "4"
 cds_radec: 268.10862,-38.70385
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 3.31 | 0.71 | -- | 7 | -- | 588844<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 3.31 | 0.71 | -- | 7 | -- | 110408 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 3.31 | 0.71 | -- | 7 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Alessi 80B](/_clusters/alessi80b/)| 98.0 | 268.11 | -38.69 | 0.81 | 2.9 | -1.77 | -17.98 |0.21 |
+N_rows_shared: "1"
 ---

@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 34.4
+N_comments: "1"
+dens_val: 41.9
 N_50_val: 723
 scix_url: Gulliver%206
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 83.278 | -1.652 | -- | -- | -- | 2.205 |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 83.278 | -1.652 | -- | -- | -- | 28.35 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 83.278 | -1.652 | 2.367 | -0.007 | -0.207 | -- 
+N_rows_pos: "13"
 cds_radec: 83.33915,-1.62949
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -89,13 +91,15 @@ fpars_table: |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.43 | 0.52 | -- | 12 | 0.015 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.42 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.42 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 194](/_clusters/ocsn194/)| 91.6 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[UBC 17 b](/_clusters/ubc17b/)| 24.8 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.71 |
+    |[UBC 17 b](/_clusters/ubc17b/)| 24.8 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.7 |
     |[Theia 13](/_clusters/theia13/)| 13.6 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
     |[OCSN 61](/_clusters/ocsn61/)| 12.3 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.51 |
-    |[OCSN 65](/_clusters/ocsn65/)| 6.2 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.57 |
+    |[OCSN 65](/_clusters/ocsn65/)| 6.2 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.56 |
+N_rows_shared: "5"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 3.6
+N_comments: ""
+dens_val: 0.1
 N_50_val: 10
 scix_url: GLIMPSE%2017
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |287.27 | 8.115 | 0.124 | -2.142 | -4.542 | 40.509 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 287.331 | 8.197 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 287.26983,+8.11547
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MCM 17](/_clusters/mcm17/)| 60.0 | 287.31 | 8.17 | 0.11 | -2.15 | -4.52 | 50.86 |0.08 |
+N_rows_shared: "1"
 ---

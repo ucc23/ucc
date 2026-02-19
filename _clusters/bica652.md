@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.1
+N_comments: ""
+dens_val: 0.1
 N_50_val: 15
 scix_url: Bica%20652
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |317.789 | 46.241 | 0.208 | -3.632 | -3.807 | -39.037 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 317.85 | 46.218 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 317.78903,+46.24097
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

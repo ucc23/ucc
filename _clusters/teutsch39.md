@@ -13,17 +13,17 @@ glon: 95.54841
 glat: -17.81228
 r50: 28.6
 plx: 2.04
-UTI: "0.84"
-UTI_COLOR: "#bfe2c5"
+UTI: "0.83"
+UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 28.6
+N_comments: "2"
+dens_val: 10.5
 N_50_val: 175
 scix_url: Teutsch%2039
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 339.154 | 37.726 | -- | -4.37 | -6.15 | -19.5 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 339.154 | 37.726 | -- | -4.37 | -6.15 | -19.5 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 339.121 | 37.756 | -- | -3.25 | -2.32 | -19.5 
+N_rows_pos: "12"
 cds_radec: 339.2152,+37.7641
 carousel: UCC_HUNT23
 fpars_table: |
@@ -86,6 +88,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.60 | 0.62 | -- | 50 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 0.60 | 0.62 | -- | 50 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.81 | 0.25 | -- | 20 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -94,4 +97,5 @@ shared_table: |
     |[CWWDL 14543](/_clusters/cwwdl14543/)| 25.1 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.12 |
     |[FoF 2379](/_clusters/fof2379/)| 10.3 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.16 |
     |[CWWDL 14563](/_clusters/cwwdl14563/)| 1.1 | 339.57 | 38.97 | 2.0 | -1.59 | -5.35 | -22.61 |0.35 |
+N_rows_shared: "4"
 ---

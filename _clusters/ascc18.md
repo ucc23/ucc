@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 31.5
+N_comments: "2"
+dens_val: 6.0
 N_50_val: 87
 scix_url: ASCC%2018
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 81.532 | 0.819 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 81.54 | 0.82 | -- | 0.62 | -- | 24.4 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 81.54 | 0.82 | -- | 0.89 | -0.02 | 13.39 
+N_rows_pos: "13"
 cds_radec: 81.52625,+0.32097
 carousel: UCC_HUNT23
 fpars_table: |
@@ -87,10 +89,12 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.50 | -- | -- | 13 | -- | 513 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.50 | 0.19 | -- | 13 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.50 | 0.19 | -- | 13 | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 58](/_clusters/ocsn58/)| 49.4 | 81.25 | 0.32 | 2.4 | 0.15 | 1.36 | 26.71 |0.01 |
     |[OCSN 57](/_clusters/ocsn57/)| 4.6 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.1 |
+N_rows_shared: "2"
 ---

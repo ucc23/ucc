@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.3
+N_comments: ""
+dens_val: 14.9
 N_50_val: 247
 scix_url: Juchert%207
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |106.138 | -11.256 | 0.164 | -0.45 | 1.045 | 62.09 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 106.129 | -11.256 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 106.13827,-11.25627
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1361](/_clusters/ubc1361/)| 49.0 | 106.13 | -11.26 | 0.15 | -0.44 | 1.04 | 57.05 |0.0 |
+N_rows_shared: "1"
 ---

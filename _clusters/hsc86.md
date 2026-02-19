@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.2
+N_comments: ""
+dens_val: 3.4
 N_50_val: 34
 scix_url: HSC%2086
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.949 | -22.182 | 0.666 | 2.273 | -0.321 | -39.812 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 266.943 | -22.186 | 0.666 | 2.286 | -0.395 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 266.943 | -22.186 | 0.666 | 2.286 | -0.395 | -- 
+N_rows_pos: "2"
 cds_radec: 266.94896,-22.18218
 carousel: UCC_HUNT23
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.41 | 2.06 | 1.48 | 39 | -- | 265 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 265<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.41 | 2.06 | 1.48 | 39 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UFMG 64](/_clusters/ufmg64/)| 85.3 | 266.99 | -22.19 | 0.66 | 2.26 | -0.32 | -39.81 |0.43 |
+N_rows_shared: "1"
 ---

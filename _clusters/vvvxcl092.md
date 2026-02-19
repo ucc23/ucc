@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.1
+N_comments: "1"
+dens_val: 1.8
 N_50_val: 18
 scix_url: VVVX%20CL092
 posit_table: |
@@ -58,14 +59,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |274.26 | -17.076 | 0.564 | -1.179 | -2.632 | -- |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 274.361 | -17.093 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 274.25965,-17.07603
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[VVVX CL093](/_clusters/vvvxcl093/)| 52.0 | 274.38 | -16.97 | 0.61 | -1.54 | -3.1 | 4.2 |0.42 |
     |[Ryu 210](/_clusters/ryu210/)| 12.0 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.14 |
+N_rows_shared: "2"
 ---

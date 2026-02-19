@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.0
+N_comments: ""
+dens_val: 8.3
 N_50_val: 35
 scix_url: Casado%203
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |121.135 | -31.516 | 0.85 | -4.815 | 4.85 | 34.697 |
     |[Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 121.159 | -31.52 | 0.83 | -4.7 | 4.8 | -- 
+N_rows_pos: "1"
 cds_radec: 121.1348,-31.51553
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.16 | -- | -- | -- | -- | -- | -- | -- |
     | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 1.16 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2004](/_clusters/hsc2004/)| 45.7 | 121.13 | -31.5 | 0.88 | -4.97 | 4.97 | 41.69 |0.12 |
+N_rows_shared: "1"
 ---

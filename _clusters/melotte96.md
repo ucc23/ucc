@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.4
+N_comments: ""
+dens_val: 17.8
 N_50_val: 476
 scix_url: Melotte%2096
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |139.044 | -36.625 | 0.303 | -4.423 | 4.543 | 20.624 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 139.036 | -36.629 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 139.0437,-36.62493
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 2818](/_clusters/ngc2818/)| 89.3 | 139.04 | -36.62 | 0.3 | -4.42 | 4.54 | 20.62 |0.98 |
+N_rows_shared: "1"
 ---

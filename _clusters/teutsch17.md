@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.4
+N_comments: ""
+dens_val: 29.5
 N_50_val: 56
 scix_url: Teutsch%2017
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |322.754 | 52.833 | 0.296 | -2.902 | -3.112 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 322.753 | 52.835 | 0.296 | -2.914 | -3.127 | -23.195 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 322.743 | 52.833 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 322.75449,+52.83329
 carousel: UCC
 fpars_table: |
@@ -65,6 +67,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 1481 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1481<sup>(1)</sup> | -- | -- |
+N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -72,4 +75,5 @@ shared_table: |
     |[Theia 5761](/_clusters/theia5761/)| 100.0 | 322.76 | 52.84 | 0.3 | -2.9 | -3.11 | -- |0.08 |
     |[FoF 1787](/_clusters/fof1787/)| 91.1 | 322.75 | 52.83 | 0.29 | -2.89 | -3.12 | -- |0.09 |
     |[OC 0152](/_clusters/oc0152/)| 62.5 | 322.76 | 52.84 | 0.31 | -2.87 | -3.11 | -- |0.0 |
+N_rows_shared: "3"
 ---

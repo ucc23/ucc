@@ -13,17 +13,17 @@ glon: 3.52144
 glat: -1.48516
 r50: 4.5
 plx: 0.4022
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.5
+N_comments: "1"
+dens_val: 25.3
 N_50_val: 268
 scix_url: UBC%2092
 posit_table: |
@@ -63,6 +64,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 269.874 | -26.655 | 0.411 | 2.088 | 0.395 | -3.582 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 269.883 | -26.655 | 0.37 | 2.116 | 0.406 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2020A%26A...635A..45C) | 2020 | 269.884 | -26.655 | 0.375 | 2.125 | 0.406 | -- 
+N_rows_pos: "6"
 cds_radec: 269.87246,-26.65974
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -74,10 +76,12 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.34 | 3.79 | -- | 138 | -1.610 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.23 | 3.05 | 2.63 | 154 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.37 | 2.28 | -- | 302 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 962](/_clusters/cwwdl962/)| 37.3 | 269.88 | -26.66 | 0.4 | 2.11 | 0.4 | -10.23 |0.0 |
     |[CWWDL 13663](/_clusters/cwwdl13663/)| 17.2 | 269.87 | -26.65 | 0.41 | 2.1 | 0.4 | -10.18 |0.0 |
+N_rows_shared: "2"
 ---

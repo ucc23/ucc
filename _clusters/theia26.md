@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 17.9
+N_comments: "2"
+dens_val: 1.6
 N_50_val: 24
 scix_url: Theia%2026
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |320.537 | 46.963 | 1.362 | 0.329 | -1.885 | 8.748 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 321.232 | 47.409 | 1.369 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 320.601 | 46.862 | 1.361 | 0.345 | -1.817 | -8.269 
+N_rows_pos: "2"
 cds_radec: 320.53655,+46.96297
 carousel: UCC_HUNT23
 fpars_table: |
@@ -68,9 +70,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.825 | 1.785 | 2.45 | 10 | 0.150 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.94 | 1.93 | -- | 12 | 0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.71 | 1.64 | 2.45 | 7 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UPK 138](/_clusters/upk138/)| 40.0 | 320.58 | 46.86 | 1.45 | -0.37 | -1.82 | -9.66 |0.43 |
+N_rows_shared: "1"
 ---

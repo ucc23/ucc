@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.9
+N_comments: "1"
+dens_val: 26.6
 N_50_val: 184
 scix_url: Teutsch%2014a
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 270.871 | -22.117 | -- | 5.5 | -5.09 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 270.88 | -22.126 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 270.871 | -22.131 | -- | -0.5 | 0.39 | -- 
+N_rows_pos: "13"
 cds_radec: 270.87269,-22.12712
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -85,9 +87,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.11 | 4.65 | -- | 305 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.11 | 4.65 | -- | 305 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.72 | 4.77 | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 14b](/_clusters/teutsch14b/)| 71.7 | 270.88 | -22.13 | 0.31 | -0.38 | -1.67 | 31.14 |0.1 |
+N_rows_shared: "1"
 ---

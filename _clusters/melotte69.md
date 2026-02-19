@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.8
+N_comments: "2"
+dens_val: 62.3
 N_50_val: 1207
 scix_url: Melotte%2069
 posit_table: |
@@ -89,6 +90,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 114.596 | 21.573 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 114.593 | 21.569 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.596 | 21.573 | -- | -1.76 | -2.38 | 73.57 
+N_rows_pos: "31"
 cds_radec: 114.60323,+21.5766
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -123,9 +125,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.08 | 0.09 | -- | 1122 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 3.08 | 0.09 | -- | 1110 | -0.260<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.48 | 0.12 | -- | 1995 | -0.380 | -- | -- | -- |
+N_rows_pars: "28"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 6042](/_clusters/theia6042/)| 2.1 | 114.62 | 21.57 | 0.47 | -1.13 | -2.07 | 72.68 |0.0 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 7.9
+N_comments: ""
+dens_val: 0.3
 N_50_val: 38
 scix_url: Collinder%20404
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |295.587 | 23.111 | 0.216 | -2.486 | -5.322 | 23.856 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 295.617 | 23.088 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 295.58681,+23.11115
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 480](/_clusters/hsc480/)| 2.6 | 295.24 | 23.03 | 0.22 | -2.46 | -5.35 | 68.78 |0.24 |
+N_rows_shared: "1"
 ---

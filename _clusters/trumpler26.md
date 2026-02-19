@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.5
+N_comments: "2"
+dens_val: 26.5
 N_50_val: 238
 scix_url: Trumpler%2026
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 262.14 | -29.5 | -- | -2.41 | -1.52 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 262.14 | -29.48 | -- | -3.51 | -0.01 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 262.133 | -29.497 | -- | 0.24 | -2.37 | -9.6 
+N_rows_pos: "22"
 cds_radec: 262.13166,-29.49028
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,9 +108,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 2.80 | 0.43 | -- | 240 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 2.80 | 1.24 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.00 | 1.08 | -- | 708 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 332](/_clusters/ubc332/)| 79.8 | 262.13 | -29.49 | 0.63 | -0.9 | -3.11 | -10.29 |0.0 |
+N_rows_shared: "1"
 ---

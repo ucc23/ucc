@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.9
+N_comments: "1"
+dens_val: 3.6
 N_50_val: 42
 scix_url: HXHWL%2071
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 120.852 | -39.748 | 0.674 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 120.97 | -39.756 | 0.679 | -4.16 | 3.433 | 15.085 |
     |[He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 120.944 | -39.729 | 0.67 | -4.2 | 3.38 | -- 
+N_rows_pos: "4"
 cds_radec: 120.94908,-39.73784
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,7 +73,9 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.54 | 1.34 | -- | 324 | 0.490 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.41 | 1.45 | 1.42 | 171 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.66 | 1.44 | -- | 331 | 0.611 | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
 
+N_rows_shared: "0"
 ---

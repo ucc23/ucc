@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.0
+N_comments: ""
+dens_val: 2.6
 N_50_val: 41
 scix_url: Teutsch%20227
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |167.488 | -60.311 | 0.366 | -6.218 | 1.854 | -28.473 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 167.314 | -60.312 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 167.48847,-60.31088
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.95 |
-    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.82 |
+    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.81 |
+N_rows_shared: "2"
 ---

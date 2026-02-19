@@ -13,17 +13,17 @@ glon: 207.00878
 glat: -1.07407
 r50: 6.8
 plx: 0.6138
-UTI: "0.76"
-UTI_COLOR: "#d3ecc9"
+UTI: "0.75"
+UTI_COLOR: "#d4ecc9"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#e2f2cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.7
+UTI_C_lit: 0.69
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.8
+N_comments: "2"
+dens_val: 7.2
 N_50_val: 75
 scix_url: Collinder%20104
 posit_table: |
@@ -70,6 +71,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 99.125 | 4.817 | -- | -0.03 | -1.03 | 6.33 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 99.112 | 4.773 | -- | -1.99 | -1.74 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.125 | 4.817 | -- | -0.03 | -1.03 | 6.33 
+N_rows_pos: "12"
 cds_radec: 99.18704,+4.78965
 carousel: UCC_HUNT23
 fpars_table: |
@@ -87,10 +89,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.02 | 2.58 | -- | 316 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.02 | 2.58 | -- | 316 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.02 | 2.58 | -- | 316 | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14136](/_clusters/cwwdl14136/)| 24.0 | 99.16 | 4.85 | 0.64 | -1.43 | 0.63 | -- |0.04 |
     |[Collinder 107](/_clusters/collinder107/)| 20.0 | 99.25 | 4.9 | 0.61 | -1.36 | 0.65 | -- |0.45 |
+N_rows_shared: "2"
 ---

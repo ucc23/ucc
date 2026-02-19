@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.9
+N_comments: ""
+dens_val: 1.4
 N_50_val: 22
 scix_url: PHOC%2012
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |151.727 | -59.723 | 0.514 | -5.209 | 5.41 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2021A%26A...646A.104H) | 2021 | 151.677 | -59.757 | 0.499 | -5.227 | 5.406 | -- 
+N_rows_pos: "1"
 cds_radec: 151.72718,-59.72345
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 2448](/_clusters/theia2448/)| 84.0 | 151.8 | -59.74 | 0.51 | -5.21 | 5.41 | 27.71 |0.03 |
+N_rows_shared: "1"
 ---

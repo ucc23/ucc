@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.9
+N_comments: ""
+dens_val: 1.7
 N_50_val: 72
 scix_url: Trumpler%2028b
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |264.248 | -32.465 | 0.261 | -0.932 | -2.523 | -12.358 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 264.238 | -32.465 | 0.254 | -0.931 | -2.529 | -12.36 
+N_rows_pos: "1"
 cds_radec: 264.2485,-32.46528
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.09 | 5.75 | -- | 79 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 3.09 | 5.75 | -- | 79 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -71,4 +74,5 @@ shared_table: |
     |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.51 |
     |[Trumpler 28](/_clusters/trumpler28/)| 1.4 | 264.22 | -32.46 | 0.65 | -0.84 | -2.83 | -48.36 |0.91 |
     |[UBC 569](/_clusters/ubc569/)| 1.4 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
+N_rows_shared: "3"
 ---

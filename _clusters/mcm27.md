@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 0.9
+N_comments: ""
+dens_val: 37.9
 N_50_val: 85
 scix_url: MCM%2027
 posit_table: |
@@ -57,14 +58,17 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |179.581 | -61.874 | 0.175 | -6.338 | 1.127 | -11.262 |
     |[Mercer et al.](https://scixplorer.org/abs/2005ApJ...635..560M) | 2005 | 179.59 | -61.87 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 179.58146,-61.8744
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 78](/_clusters/teutsch78/)| 98.8 | 179.59 | -61.87 | 0.17 | -6.34 | 1.12 | -11.26 |0.15 |
+    |[Teutsch 78](/_clusters/teutsch78/)| 98.8 | 179.59 | -61.87 | 0.17 | -6.34 | 1.12 | -11.26 |0.14 |
     |[OC 0577](/_clusters/oc0577/)| 29.4 | 179.58 | -61.87 | 0.18 | -6.33 | 1.13 | -11.41 |0.0 |
+N_rows_shared: "2"
 ---

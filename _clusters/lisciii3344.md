@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 9.6
+N_comments: ""
+dens_val: 11.5
 N_50_val: 122
 scix_url: LISC-III%203344
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |100.473 | -5.858 | 0.856 | -0.145 | -0.931 | 13.144 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 100.625 | -6.01 | 0.915 | -0.418 | -1.022 | -- 
+N_rows_pos: "1"
 cds_radec: 100.47336,-5.85838
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.02 | 0.58 | -- | -- | -1.335 | -- | 0.52 | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 1.02 | 0.58 | -- | -- | -1.335 | -- | 0.52 | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.63 |
+    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.62 |
     |[UBC 216](/_clusters/ubc216/)| 49.2 | 100.42 | -5.78 | 0.84 | -0.08 | -0.88 | 13.61 |0.0 |
+N_rows_shared: "2"
 ---

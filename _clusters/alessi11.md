@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 7.6
+N_comments: "1"
+dens_val: 0.2
 N_50_val: 12
 scix_url: Alessi%2011
 posit_table: |
@@ -59,11 +60,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |305.3 | 18.376 | 0.273 | -3.319 | -5.319 | -39.681 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 305.348 | 18.357 | -- | -- | -- | -- |
     |[Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 305.3 | 18.4 | -- | -0.3 | -9.6 | -- 
+N_rows_pos: "2"
 cds_radec: 305.29954,+18.37571
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.7
+N_comments: "2"
+dens_val: 13.5
 N_50_val: 104
 scix_url: Juchert%20Saloran%201
 posit_table: |
@@ -78,6 +79,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 4.081 | 59.962 | -- | -2.42 | -1.19 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 4.085 | 59.962 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.083 | 59.962 | -- | -0.59 | 0.58 | -- 
+N_rows_pos: "20"
 cds_radec: 4.07833,+59.96158
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -101,9 +103,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.33 | 2.58 | -- | 1995 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.33 | 2.58 | -- | 1995 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.86 | 2.57 | -- | 1122 | -- | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0221](/_clusters/oc0221/)| 27.9 | 4.08 | 59.97 | 0.15 | -1.61 | -1.29 | -- |0.0 |
+N_rows_shared: "1"
 ---

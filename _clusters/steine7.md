@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.7
+N_comments: ""
+dens_val: 2.8
 N_50_val: 21
 scix_url: Steine%207
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |32.992 | 64.202 | 0.181 | -0.56 | 0.238 | -71.051 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 32.995 | 64.194 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 32.992 | 64.196 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 32.99248,+64.20152
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1232](/_clusters/ubc1232/)| 4.0 | 32.61 | 64.13 | 0.31 | -0.68 | 0.29 | -- |0.43 |
+N_rows_shared: "1"
 ---

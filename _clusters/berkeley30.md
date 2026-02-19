@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 1.7
+N_comments: "2"
+dens_val: 24.4
 N_50_val: 175
 scix_url: Berkeley%2030
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 104.425 | 3.217 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 104.425 | 3.217 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 104.425 | 3.217 | -- | -0.84 | -3.47 | -- 
+N_rows_pos: "22"
 cds_radec: 104.43699,+3.2297
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,9 +108,11 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 4.79 | -- | -- | 302 | 0.100 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.79 | 1.55 | -- | 302 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.79 | 1.55 | -- | 302 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0350](/_clusters/oc0350/)| 14.9 | 104.43 | 3.24 | 0.19 | -0.2 | -0.3 | 48.19 |0.0 |
+N_rows_shared: "1"
 ---

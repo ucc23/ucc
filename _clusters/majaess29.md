@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 9.4
+N_comments: ""
+dens_val: 1.7
 N_50_val: 21
 scix_url: Majaess%2029
 posit_table: |
@@ -60,6 +61,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 37.075 | 72.63 | -- | -1.435 | -1.335 | 2.419 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 37.029 | 72.626 | -- | -0.97 | 2.94 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 37.029 | 72.626 | -- | -0.97 | 2.94 | -- 
+N_rows_pos: "4"
 cds_radec: 37.27246,+72.70769
 carousel: UCC
 fpars_table: |
@@ -67,7 +69,9 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.83 | 0.99 | -- | 12 | 0.016 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.83 | 0.99 | -- | 12 | 0.016 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.9
+N_comments: "2"
+dens_val: 47.6
 N_50_val: 511
 scix_url: Haffner%2010
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 112.144 | -15.365 | -- | -5.8 | 4.41 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 112.15 | -15.383 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 112.15 | -15.383 | -- | -1.04 | -0.36 | -- 
+N_rows_pos: "18"
 cds_radec: 112.14977,-15.36245
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -98,10 +100,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.87 | 1.55 | -- | 2018 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.25 | 1.61 | -- | 1259 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.70 | 1.71 | -- | 1995 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.65 |
+    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.64 |
     |[HSC 1820](/_clusters/hsc1820/)| 0.8 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.1 |
+N_rows_shared: "2"
 ---

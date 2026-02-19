@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.3
+N_comments: ""
+dens_val: 14.9
 N_50_val: 95
 scix_url: CWWDL%2041
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |76.909 | 17.584 | 0.38 | 0.315 | -2.5 | 0.679 |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 76.903 | 17.574 | 0.386 | 0.293 | -2.505 | 1.238 
+N_rows_pos: "1"
 cds_radec: 76.90899,+17.58377
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 151 | 0.230 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 151 | 0.230 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Juchert 23](/_clusters/juchert23/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.71 |
+    |[Juchert 23](/_clusters/juchert23/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.69 |
     |[UBC 200](/_clusters/ubc200/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.31 | -2.49 | 0.36 |0.0 |
+N_rows_shared: "2"
 ---

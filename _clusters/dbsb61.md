@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.7
+N_comments: ""
+dens_val: 123.5
 N_50_val: 210
 scix_url: DBSB%2061
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |168.262 | -60.79 | 0.379 | -6.109 | 1.046 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 168.256 | -60.792 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 168.26234,-60.79012
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 3590](/_clusters/ngc3590/)| 82.4 | 168.26 | -60.79 | 0.38 | -6.11 | 1.04 | -- |0.96 |
+N_rows_shared: "1"
 ---

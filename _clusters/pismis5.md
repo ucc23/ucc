@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.8
+N_comments: "2"
+dens_val: 40.6
 N_50_val: 360
 scix_url: Pismis%205
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 129.408 | -39.584 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 129.408 | -39.583 | -- | -4.9 | 2.84 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 129.408 | -39.584 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 129.40948,-39.61947
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,10 +106,12 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.87 | 1.30 | -- | 16 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.87 | 1.31 | -- | 16 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.89 | 1.71 | -- | 50 | -- | -- | -- | -- |
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2221](/_clusters/fof2221/)| 13.1 | 129.43 | -40.23 | 1.06 | -5.62 | 3.77 | 21.57 |0.41 |
     |[OC 0460](/_clusters/oc0460/)| 6.9 | 129.4 | -39.59 | 1.07 | -5.51 | 4.31 | 11.45 |0.0 |
+N_rows_shared: "2"
 ---

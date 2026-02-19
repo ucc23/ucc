@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.4
+N_comments: ""
+dens_val: 7.6
 N_50_val: 83
 scix_url: CWWDL%202200
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |166.296 | -59.721 | 0.387 | -6.704 | 1.782 | -19.392 |
     |[Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | 166.279 | -59.73 | 0.384 | -6.684 | 1.864 | 6.903 
+N_rows_pos: "1"
 cds_radec: 166.29574,-59.7209
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | 2 | 0.230 | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023ApJS..266...36C) | 2023 | -- | -- | -- | 2 | 0.230 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 266](/_clusters/ubc266/)| 95.2 | 166.35 | -59.75 | 0.38 | -6.69 | 1.75 | -16.86 |0.29 |
-    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.89 |
+    |[Feinstein 1](/_clusters/feinstein1/)| 73.5 | 166.33 | -59.74 | 0.39 | -6.69 | 1.75 | -19.39 |0.88 |
+N_rows_shared: "2"
 ---

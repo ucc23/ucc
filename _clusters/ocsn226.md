@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 15.8
+N_comments: ""
+dens_val: 109.7
 N_50_val: 341
 scix_url: OCSN%20226
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |83.816 | -5.959 | 2.607 | 1.258 | 0.551 | 23.018 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 83.82 | -5.92 | 2.62 | 1.28 | 0.56 | 26.66 
+N_rows_pos: "1"
 cds_radec: 83.81595,-5.95859
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.42 | 0.22 | -- | 6 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.42 | 0.22 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -71,9 +74,10 @@ shared_table: |
     |[UBC 208](/_clusters/ubc208/)| 96.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
     |[NGC 1980](/_clusters/ngc1980/)| 92.4 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.82 |
     |[OC 0347](/_clusters/oc0347/)| 28.4 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
-    |[NGC 1976](/_clusters/ngc1976/)| 7.3 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.77 |
+    |[NGC 1976](/_clusters/ngc1976/)| 7.3 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.78 |
     |[OCSN 244](/_clusters/ocsn244/)| 6.5 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OCSN 225](/_clusters/ocsn225/)| 5.3 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
     |[OC 0345](/_clusters/oc0345/)| 4.4 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
     |[Morgan 8](/_clusters/morgan8/)| 0.9 | 84.13 | -6.42 | 2.55 | 0.85 | 0.3 | 16.82 |0.32 |
+N_rows_shared: "8"
 ---

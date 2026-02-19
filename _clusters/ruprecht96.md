@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.8
+N_comments: "2"
+dens_val: 23.8
 N_50_val: 190
 scix_url: Ruprecht%2096
 posit_table: |
@@ -77,6 +78,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 177.652 | -62.137 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 177.66 | -62.14 | -- | -5.74 | -0.03 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 177.654 | -62.133 | -- | -4.42 | -0.54 | -- 
+N_rows_pos: "19"
 cds_radec: 177.67886,-62.1431
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -100,9 +102,11 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.86 | 0.78 | -- | 1000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.86 | 0.78 | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.86 | 0.78 | -- | 1000 | -- | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0574](/_clusters/oc0574/)| 18.9 | 177.67 | -62.14 | 0.3 | -5.49 | 0.85 | -- |0.0 |
+N_rows_shared: "1"
 ---

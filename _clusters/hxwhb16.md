@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 12.9
+N_comments: ""
+dens_val: 0.4
 N_50_val: 17
 scix_url: HXWHB%2016
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |318.454 | 46.29 | 0.566 | -2.579 | -3.785 | -61.767 |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 318.35 | 46.29 | 0.62 | -2.59 | -3.79 | -- 
+N_rows_pos: "1"
 cds_radec: 318.45393,+46.29045
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 1.22 | -- | 380 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.61 | 1.22 | -- | 380 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13499](/_clusters/cwwdl13499/)| 8.0 | 318.43 | 46.18 | 0.45 | -2.92 | -3.73 | -- |0.07 |
+N_rows_shared: "1"
 ---

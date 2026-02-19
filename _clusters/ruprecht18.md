@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.2
+N_comments: "2"
+dens_val: 24.1
 N_50_val: 386
 scix_url: Ruprecht%2018
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 111.16 | -26.209 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 111.162 | -26.217 | -- | -1.45 | 2.43 | -- |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 111.162 | -26.217 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 111.15871,-26.20909
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -107,9 +109,11 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.06 | 2.17 | -- | 40 | -0.010<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.06 | 2.17 | -- | 44 | -0.010 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.02 | 2.30 | -- | 79 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 1300](/_clusters/fsr1300/)| 88.6 | 111.16 | -26.22 | 0.38 | -0.46 | 1.16 | 38.53 |0.02 |
+N_rows_shared: "1"
 ---

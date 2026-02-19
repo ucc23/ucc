@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.8
+N_comments: "1"
+dens_val: 20.2
 N_50_val: 49
 scix_url: VVVX%20CL048
 posit_table: |
@@ -58,15 +59,18 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |251.687 | -41.221 | 0.897 | 1.463 | -2.997 | -10.845 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 251.723 | -41.233 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 251.68665,-41.22141
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HXHWL 33](/_clusters/hxhwl33/)| 100.0 | 251.68 | -41.2 | 0.9 | 1.4 | -3.0 | -9.52 |0.38 |
+    |[HXHWL 33](/_clusters/hxhwl33/)| 100.0 | 251.68 | -41.2 | 0.9 | 1.4 | -3.0 | -9.52 |0.37 |
     |[CWWDL 14192](/_clusters/cwwdl14192/)| 98.0 | 251.7 | -41.21 | 0.9 | 1.43 | -3.0 | -6.31 |0.0 |
     |[UBC 1561](/_clusters/ubc1561/)| 98.0 | 251.68 | -41.21 | 0.9 | 1.45 | -2.99 | -10.85 |0.0 |
+N_rows_shared: "3"
 ---

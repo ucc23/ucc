@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 4.9
+N_comments: ""
+dens_val: 1.8
 N_50_val: 19
 scix_url: Bica%20513
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.417 | -43.517 | 0.438 | -1.399 | -3.843 | -16.702 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 253.359 | -43.501 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 253.41744,-43.51685
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 175](/_clusters/dbsb175/)| 20.0 | 253.07 | -43.42 | 0.41 | -1.26 | -3.82 | -23.94 |0.05 |
+N_rows_shared: "1"
 ---

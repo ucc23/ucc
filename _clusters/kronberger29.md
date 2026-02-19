@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 1.7
+N_comments: ""
+dens_val: 64.5
 N_50_val: 56
 scix_url: Kronberger%2029
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |301.83 | 35.584 | 0.531 | -3.343 | -6.996 | -24.765 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 301.833 | 35.585 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 301.83037,+35.58351
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0102](/_clusters/oc0102/)| 1.8 | 301.71 | 35.64 | 0.53 | -3.1 | -6.61 | -17.95 |0.08 |
+N_rows_shared: "1"
 ---

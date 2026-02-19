@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 28.9
+N_comments: ""
+dens_val: 21.2
 N_50_val: 58
 scix_url: Chameleon%20II
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |196.231 | -77.452 | 5.085 | -20.157 | -7.579 | 9.816 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 196.254 | -77.458 | 5.092 | -20.066 | -7.596 | -- 
+N_rows_pos: "1"
 cds_radec: 196.23138,-77.45175
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 4.95 | -- | 14 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 4.95 | -- | 14 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Theia 29](/_clusters/theia29/)| 100.0 | 196.1 | -77.56 | 5.08 | -20.36 | -7.52 | 16.7 |0.11 |
+N_rows_shared: "1"
 ---

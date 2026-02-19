@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.1
+N_comments: ""
+dens_val: 1.0
 N_50_val: 36
 scix_url: LK%201
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |306.107 | 36.41 | 0.104 | -2.958 | -4.808 | -4.451 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 306.104 | 36.408 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 306.10679,+36.40996
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4074](/_clusters/cwnu4074/)| 91.7 | 306.11 | 36.41 | 0.11 | -2.97 | -4.83 | -4.45 |0.18 |
+N_rows_shared: "1"
 ---

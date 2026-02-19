@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.1
+N_comments: ""
+dens_val: 11.4
 N_50_val: 112
 scix_url: Teutsch%2088
 posit_table: |
@@ -58,14 +59,17 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |80.123 | 39.54 | 0.287 | 0.533 | -1.583 | 31.259 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 80.132 | 39.541 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 80.125 | 39.542 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 80.12288,+39.54018
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Czernik 20](/_clusters/czernik20/)| 83.0 | 80.12 | 39.54 | 0.27 | 0.56 | -1.59 | 31.08 |0.85 |
     |[Melotte 32](/_clusters/melotte32/)| 13.4 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
+N_rows_shared: "2"
 ---

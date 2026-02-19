@@ -18,12 +18,12 @@ UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.62
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 10.4
+N_comments: "1"
+dens_val: 0.3
 N_50_val: 19
 scix_url: UBC%2046
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 33.672 | 57.318 | 0.401 | -0.824 | -1.151 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 33.672 | 57.318 | 0.401 | -0.824 | -1.151 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 33.693 | 57.309 | 0.397 | -0.818 | -1.144 | -- 
+N_rows_pos: "5"
 cds_radec: 33.69304,+57.31305
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -72,6 +74,7 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.00 | 1.76 | -- | 41 | -0.143 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.63 | 1.35 | -- | 112 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.32 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -79,4 +82,5 @@ shared_table: |
     |[CWWDL 3744](/_clusters/cwwdl3744/)| 12.0 | 33.13 | 57.56 | 0.38 | -0.8 | -1.07 | 13.37 |0.12 |
     |[CWWDL 13364](/_clusters/cwwdl13364/)| 4.0 | 34.05 | 57.8 | 0.43 | -0.84 | -1.05 | 317.01 |0.14 |
     |[CWWDL 4607](/_clusters/cwwdl4607/)| 4.0 | 33.96 | 57.71 | 0.41 | -0.82 | -1.04 | 317.01 |0.17 |
+N_rows_shared: "3"
 ---

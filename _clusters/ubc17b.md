@@ -13,17 +13,17 @@ glon: 205.25307
 glat: -18.26427
 r50: 16.8
 plx: 2.3964
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.38
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 16.8
+N_comments: ""
+dens_val: 43.0
 N_50_val: 179
 scix_url: UBC%2017%20b
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 83.195 | -1.585 | 2.376 | 0.078 | -0.163 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 83.195 | -1.585 | 2.376 | 0.078 | -0.163 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 83.355 | -1.548 | 2.363 | 0.055 | -0.167 | 33.19 
+N_rows_pos: "6"
 cds_radec: 83.16541,-1.70853
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -73,6 +75,7 @@ fpars_table: |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 12 | -- | 174 | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.41 | 0.05 | -- | 11 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.42 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -80,4 +83,5 @@ shared_table: |
     |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
     |[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
     |[Theia 13](/_clusters/theia13/)| 54.7 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
+N_rows_shared: "3"
 ---

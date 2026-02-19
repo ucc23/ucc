@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 10.6
+N_comments: "1"
+dens_val: 5.3
 N_50_val: 66
 scix_url: CMa02
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 105.67 | -7.71 | 0.873 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 105.682 | -7.757 | 0.873 | -1.576 | -3.467 | 5.707 |
     |[Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 105.68 | -7.74 | 0.87 | -1.59 | -3.45 | -- 
+N_rows_pos: "4"
 cds_radec: 105.68106,-7.74904
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,10 +73,12 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.43 | 0.34 | -- | 380 | 1.090 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.06 | 0.51 | 0.42 | 239 | -- | -- | -- | -- |
     | [Santos-Silva et al.](https://scixplorer.org/abs/2021MNRAS.508.1033S) | 2021 | 1.07<sup>(1)</sup> | 0.99<sup>(1)</sup> | -- | 137<sup>(1)</sup> | -0.150<sup>(1)</sup> | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HXHWL 32](/_clusters/hxhwl32/)| 98.5 | 105.68 | -7.74 | 0.88 | -1.59 | -3.48 | 6.47 |0.47 |
     |[CWWDL 14378](/_clusters/cwwdl14378/)| 77.3 | 105.68 | -7.72 | 0.88 | -1.58 | -3.48 | 5.88 |0.0 |
+N_rows_shared: "2"
 ---

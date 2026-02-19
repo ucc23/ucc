@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 24.9
+N_comments: "2"
+dens_val: 73.2
 N_50_val: 1337
 scix_url: Melotte%2026
 posit_table: |
@@ -92,6 +93,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 71.495 | 19.05 | -- | -1.37 | -1.02 | -2.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 71.479 | 19.115 | -- | -0.74 | -0.57 | -7.02 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 71.479 | 19.115 | -- | -- | -- | -- 
+N_rows_pos: "34"
 cds_radec: 71.47307,+19.08989
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -129,9 +131,11 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.54 | -- | -- | 140 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.54 | 1.15 | -- | 144 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.41 | 1.08 | -- | 158 | -- | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LP 13](/_clusters/lp13/)| 1.9 | 71.08 | 19.31 | 1.71 | -1.12 | -1.42 | -5.1 |0.0 |
+N_rows_shared: "1"
 ---

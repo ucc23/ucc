@@ -13,17 +13,17 @@ glon: 63.21222
 glat: 14.73322
 r50: 30.5
 plx: 3.4472
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 30.5
+N_comments: "1"
+dens_val: 20.1
 N_50_val: 133
 scix_url: Gaia%208
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 282.474 | 33.019 | 3.437 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 282.543 | 33.393 | 3.436 | 1.743 | -3.955 | -21.8 |
     |[Bastian](https://scixplorer.org/abs/2019A&A...630L...8B) | 2019 | 282.52 | 33.363 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 282.56167,+33.36265
 carousel: UCC_HUNT23
 fpars_table: |
@@ -72,6 +74,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 73<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.30 | 0.66 | -- | 14 | -0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.29 | 0.18 | 0.64 | 21 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -80,4 +83,5 @@ shared_table: |
     |[OCSN 249](/_clusters/ocsn249/)| 77.4 | 282.52 | 33.39 | 3.46 | 1.82 | -3.87 | -18.83 |0.0 |
     |[CWWL 3595](/_clusters/cwwl3595/)| 60.9 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
     |[OCSN 16](/_clusters/ocsn16/)| 3.0 | 283.65 | 32.19 | 2.7 | 1.17 | -3.57 | -15.94 |0.45 |
+N_rows_shared: "4"
 ---

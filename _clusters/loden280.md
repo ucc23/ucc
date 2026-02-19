@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 7.4
+N_comments: ""
+dens_val: 0.4
 N_50_val: 24
 scix_url: Loden%20280
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |167.453 | -59.112 | 0.29 | -4.877 | -2.381 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 167.425 | -59.1 | -- | -4.75 | -2.69 | -- 
+N_rows_pos: "1"
 cds_radec: 167.45306,-59.11237
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

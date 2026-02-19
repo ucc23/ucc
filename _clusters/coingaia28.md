@@ -13,17 +13,17 @@ glon: 200.03827
 glat: -0.63135
 r50: 5.5
 plx: 0.5919
-UTI: "0.76"
-UTI_COLOR: "#d3ecc9"
+UTI: "0.75"
+UTI_COLOR: "#d4ecc9"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.5
+N_comments: "2"
+dens_val: 21.2
 N_50_val: 155
 scix_url: COIN-Gaia%2028
 posit_table: |
@@ -69,6 +70,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 96.333 | 11.159 | 0.59 | -1.12 | -0.942 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 96.333 | 11.159 | -- | -- | -- | 3.082 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 96.333 | 11.159 | 0.59 | -1.12 | -0.94 | -- 
+N_rows_pos: "11"
 cds_radec: 96.32948,+11.15751
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -86,10 +88,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.62 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.52 | 0.85 | -- | 60 | 0.007 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.62 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 81](/_clusters/ubc81/)| 97.4 | 96.33 | 11.16 | 0.59 | -1.12 | -0.96 | 29.72 |0.02 |
     |[CWWDL 6296](/_clusters/cwwdl6296/)| 48.4 | 96.33 | 11.16 | 0.59 | -1.14 | -0.96 | 29.72 |0.0 |
+N_rows_shared: "2"
 ---

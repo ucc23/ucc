@@ -13,17 +13,17 @@ glon: 122.52349
 glat: 3.87641
 r50: 18.3
 plx: 1.5517
-UTI: "0.81"
-UTI_COLOR: "#c7e6c7"
+UTI: "0.80"
+UTI_COLOR: "#c9e7c8"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 18.3
+N_comments: "1"
+dens_val: 13.0
 N_50_val: 153
 scix_url: COIN-Gaia%201
 posit_table: |
@@ -67,6 +68,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 11.933 | 66.769 | 1.546 | -5.034 | -3.048 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 11.933 | 66.769 | -- | -- | -- | 2.687 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 11.933 | 66.769 | 1.55 | -5.03 | -3.04 | -- 
+N_rows_pos: "10"
 cds_radec: 11.82,+66.74673
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -84,10 +86,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.63 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.67 | 1.29 | -- | 543 | 0.036 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.64 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Steine 12](/_clusters/steine12/)| 94.1 | 11.81 | 66.74 | 1.55 | -5.04 | -3.15 | -13.82 |0.02 |
     |[UBC 34](/_clusters/ubc34/)| 83.7 | 11.8 | 66.75 | 1.55 | -5.03 | -3.14 | -15.01 |0.0 |
+N_rows_shared: "2"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.9
+N_comments: ""
+dens_val: 24.3
 N_50_val: 121
 scix_url: UBC%2070
 posit_table: |
@@ -57,15 +58,18 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |91.064 | 31.602 | 0.508 | -0.764 | -3.292 | 12.071 |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 91.057 | 31.606 | 0.484 | -0.722 | -3.265 | -- 
+N_rows_pos: "1"
 cds_radec: 91.06431,+31.60171
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 22](/_clusters/coingaia22/)| 100.0 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.05 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.72 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 95.9 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.7 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 81.0 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
+N_rows_shared: "3"
 ---

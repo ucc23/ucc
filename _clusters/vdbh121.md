@@ -18,12 +18,12 @@ UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#afdbc1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#ceeac8"
 UTI_C_N: 0.9
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 0.78
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 6.7
+N_comments: "1"
+dens_val: 20.5
 N_50_val: 492
 scix_url: VDBH%20121
 posit_table: |
@@ -71,6 +72,7 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 174.521 | -63.329 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 174.52 | -63.33 | -- | -5.12 | 1.05 | -3.76 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 174.55 | -63.35 | -- | -6.09 | 0.97 | -- 
+N_rows_pos: "14"
 cds_radec: 174.69486,-63.40126
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -90,6 +92,7 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 2.73 | 0.90 | -- | 4 | -- | 1476 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 2.73 | 0.90 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.25 | 0.78 | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -98,4 +101,5 @@ shared_table: |
     |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.95 |
     |[VVV 005](/_clusters/vvv005/)| 7.5 | 174.74 | -63.47 | 0.4 | -5.95 | 0.51 | -45.44 |0.0 |
     |[CWWDL 864](/_clusters/cwwdl864/)| 2.4 | 174.28 | -63.27 | 0.39 | -6.15 | 0.9 | 4.55 |0.23 |
+N_rows_shared: "4"
 ---

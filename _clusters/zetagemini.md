@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 8.0
+N_comments: ""
+dens_val: 0.3
 N_50_val: 19
 scix_url: Zeta%20Gemini
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |105.966 | 20.561 | 0.268 | -0.737 | -1.592 | 39.167 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 106.021 | 20.575 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 105.96593,+20.56051
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 1182](/_clusters/lisciii1182/)| 4.0 | 106.02 | 20.66 | 0.27 | -0.25 | -1.4 | 16.51 |0.03 |
+N_rows_shared: "1"
 ---

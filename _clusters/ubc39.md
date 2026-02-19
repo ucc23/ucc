@@ -13,17 +13,17 @@ glon: 126.30969
 glat: -1.66776
 r50: 5.4
 plx: 0.484
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.60"
+UTI_COLOR: "#f1f9d6"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef8dd"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.95
 UTI_C_C3: 0.75
-UTI_C_lit: 0.44
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.4
+N_comments: "1"
+dens_val: 4.7
 N_50_val: 50
 scix_url: UBC%2039
 posit_table: |
@@ -64,6 +65,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 19.817 | 61.019 | 0.478 | -1.231 | -0.157 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 19.817 | 61.019 | 0.478 | -1.231 | -0.157 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 19.794 | 61.025 | 0.478 | -1.233 | -0.13 | -- 
+N_rows_pos: "7"
 cds_radec: 19.84656,+61.01616
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -76,6 +78,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.93 | 1.61 | 1.61 | 152 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.04 | 1.35 | -- | 148 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.97 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -83,4 +86,5 @@ shared_table: |
     |[CWWDL 13510](/_clusters/cwwdl13510/)| 86.0 | 19.86 | 61.01 | 0.48 | -1.25 | -0.22 | -- |0.05 |
     |[CWWDL 6218](/_clusters/cwwdl6218/)| 82.0 | 19.82 | 61.03 | 0.5 | -1.25 | -0.21 | -- |0.03 |
     |[OC 0235](/_clusters/oc0235/)| 60.0 | 19.82 | 61.02 | 0.49 | -1.23 | -0.22 | -- |0.0 |
+N_rows_shared: "3"
 ---

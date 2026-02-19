@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.1
+N_comments: "1"
+dens_val: 0.0
 N_50_val: 39
 scix_url: VVVX%20CL041
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |247.883 | -44.167 | 0.045 | -4.511 | -5.604 | -75.401 |
     |[Borissova et al.](https://scixplorer.org/abs/2018MNRAS.481.3902B) | 2018 | 247.899 | -44.175 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 247.88288,-44.16671
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 336](/_clusters/ryu336/)| 2.6 | 247.87 | -44.17 | 0.18 | -5.17 | -6.35 | -50.0 |0.13 |
+N_rows_shared: "1"
 ---

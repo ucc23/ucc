@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 155.7
+N_comments: "1"
+dens_val: 6.4
 N_50_val: 739
 scix_url: Blanco%201
 posit_table: |
@@ -89,6 +90,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.82 | -30.14 | -- | 19.86 | 3.37 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.063 | -29.882 | -- | 20.17 | 3.0 | 5.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.029 | -29.833 | -- | 20.17 | 3.0 | 5.53 
+N_rows_pos: "32"
 cds_radec: 1.22232,-29.9478
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -124,10 +126,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.26 | 0.03 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.27 | 0.03 | -- | 60 | 0.230<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.27 | 0.03 | -- | 63 | 0.040 | -- | -- | -- |
+N_rows_pars: "29"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14677](/_clusters/cwwdl14677/)| 50.1 | 1.03 | -30.01 | 4.23 | 18.75 | 2.61 | 5.52 |0.0 |
     |[Dzeta Scul](/_clusters/dzetascul/)| 2.3 | 0.43 | -30.2 | 4.21 | 18.72 | 2.39 | 6.9 |0.12 |
+N_rows_shared: "2"
 ---

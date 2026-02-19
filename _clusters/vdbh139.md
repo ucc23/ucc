@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.2
+N_comments: "1"
+dens_val: 18.2
 N_50_val: 199
 scix_url: VDBH%20139
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 190.897 | -63.098 | -- | -6.55 | -1.0 | 55.0 |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 190.9 | -63.1 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 190.904 | -63.1 | -- | -7.87 | 2.39 | 55.0 
+N_rows_pos: "19"
 cds_radec: 190.90178,-63.1013
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -98,9 +100,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.08 | 3.94 | -- | 4 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.26 | 3.38 | -- | 6 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.20 | 4.03 | -- | 4 | -- | -- | -- | -- |
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0585](/_clusters/oc0585/)| 13.6 | 190.91 | -63.1 | 0.28 | -6.03 | -0.52 | -53.16 |0.0 |
+N_rows_shared: "1"
 ---

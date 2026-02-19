@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.5
+N_comments: ""
+dens_val: 126.7
 N_50_val: 52
 scix_url: OCSN%20262
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |84.697 | -2.605 | 2.498 | 1.487 | -0.596 | 28.993 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 84.69 | -2.6 | 2.48 | 1.61 | -0.56 | 28.56 
+N_rows_pos: "1"
 cds_radec: 84.69667,-2.60472
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.42 | 0.22 | -- | 5 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.42 | 0.22 | -- | 5 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 205](/_clusters/ubc205/)| 98.1 | 84.71 | -2.6 | 2.5 | 1.54 | -0.57 | 29.45 |0.16 |
     |[Sigma Orionis](/_clusters/sigmaorionis/)| 90.4 | 84.7 | -2.59 | 2.5 | 1.49 | -0.58 | 28.99 |0.9 |
+N_rows_shared: "2"
 ---

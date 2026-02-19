@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.0
+N_comments: ""
+dens_val: 17.7
 N_50_val: 78
 scix_url: HXWHB%2014
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |302.379 | 38.29 | 0.277 | -2.599 | -4.876 | -- |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 302.38 | 38.29 | 0.27 | -2.61 | -4.89 | -- 
+N_rows_pos: "1"
 cds_radec: 302.37945,+38.28996
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.67 | 3.19 | -- | 9 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 3.67 | 3.19 | -- | 9 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 372](/_clusters/ubc372/)| 93.6 | 302.38 | 38.29 | 0.27 | -2.58 | -4.87 | -- |0.1 |
+N_rows_shared: "1"
 ---

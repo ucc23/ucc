@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.0
+N_comments: ""
+dens_val: 2.3
 N_50_val: 54
 scix_url: Riddle%2014
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |173.774 | -64.834 | 0.179 | -6.626 | 1.004 | -5.822 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 173.777 | -64.839 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 173.786 | -64.838 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 173.7742,-64.83439
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3342](/_clusters/cwnu3342/)| 70.4 | 173.76 | -64.82 | 0.18 | -6.61 | 1.0 | -8.13 |0.01 |
+N_rows_shared: "1"
 ---

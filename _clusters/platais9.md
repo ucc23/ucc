@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 90.5
+N_comments: "2"
+dens_val: 7.2
 N_50_val: 172
 scix_url: Platais%209
 posit_table: |
@@ -82,6 +83,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 138.446 | -43.74 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 138.54 | -44.14 | -- | -24.53 | 12.01 | 17.83 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 138.446 | -43.74 | -- | -24.13 | 13.32 | 17.83 
+N_rows_pos: "24"
 cds_radec: 138.82079,-43.85041
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -111,9 +113,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.17 | -- | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.20 | 0.00 | -- | 123 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.17 | -- | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "23"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14691](/_clusters/cwwdl14691/)| 41.3 | 139.07 | -43.74 | 5.41 | -24.28 | 13.23 | 16.11 |0.0 |
+N_rows_shared: "1"
 ---

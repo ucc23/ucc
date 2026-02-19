@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 0.9
+N_comments: ""
+dens_val: 58.4
 N_50_val: 43
 scix_url: Cru%20II%20Group
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |192.344 | -61.522 | 0.305 | -7.329 | -0.643 | -27.913 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 192.352 | -61.521 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 192.3441,-61.5217
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

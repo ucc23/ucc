@@ -18,12 +18,12 @@ UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fefce4"
 UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#c7e6c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.48
 UTI_C_dens: 0.34
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.81
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.8
+N_comments: "1"
+dens_val: 1.7
 N_50_val: 48
 scix_url: Stock%2017
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 356.5 | 62.183 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 355.946 | 62.16 | -- | -1.58 | -2.55 | -44.8 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 356.5 | 62.183 | -- | -- | -- | -- 
+N_rows_pos: "15"
 cds_radec: 355.96636,+62.15981
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -92,9 +94,11 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.14 | 2.29 | -- | 6 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.14 | 2.28 | -- | 6 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.23 | 2.38 | -- | 5 | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2584](/_clusters/cwwdl2584/)| 27.1 | 356.44 | 62.14 | 0.31 | -3.59 | -1.56 | -- |0.27 |
+N_rows_shared: "1"
 ---

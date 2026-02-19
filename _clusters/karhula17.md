@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.3
+N_comments: ""
+dens_val: 0.3
 N_50_val: 16
 scix_url: Karhula%2017
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |113.396 | -27.811 | 0.251 | -1.847 | 2.805 | 84.887 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 113.38 | -27.817 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 113.39588,-27.81132
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

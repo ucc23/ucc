@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.8
+N_comments: "1"
+dens_val: 13.8
 N_50_val: 134
 scix_url: Trumpler%2011
 posit_table: |
@@ -79,6 +80,7 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 151.225 | -61.6 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 151.25 | -61.617 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 151.225 | -61.6 | -- | -3.03 | 0.09 | -- 
+N_rows_pos: "22"
 cds_radec: 151.25787,-61.62065
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -105,9 +107,11 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.10 | -- | -- | -- | -0.610 | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.10 | 0.65 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.10 | 0.65 | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0539](/_clusters/oc0539/)| 23.1 | 151.24 | -61.62 | 0.26 | -7.05 | 3.32 | -- |0.0 |
+N_rows_shared: "1"
 ---

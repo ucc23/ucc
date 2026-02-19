@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.3
+N_comments: ""
+dens_val: 3.5
 N_50_val: 23
 scix_url: Collinder%20467
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |114.727 | -10.654 | 0.372 | -4.157 | 3.705 | 70.397 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 114.796 | -10.598 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 114.72743,-10.65449
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Melotte 72](/_clusters/melotte72/)| 100.0 | 114.62 | -10.7 | 0.38 | -4.15 | 3.68 | 70.74 |0.93 |
+N_rows_shared: "1"
 ---

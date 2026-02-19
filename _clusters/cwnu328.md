@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 7.6
+N_comments: ""
+dens_val: 5.3
 N_50_val: 72
 scix_url: CWNU%20328
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |280.89 | -14.432 | 0.601 | 0.799 | -0.759 | -3.554 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 280.883 | -14.431 | 0.6 | 0.81 | -0.76 | -- 
+N_rows_pos: "1"
 cds_radec: 280.88954,-14.43195
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.62 | 2.4 | -- | 100 | 0.457 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.62 | 2.40 | -- | 100 | 0.457 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1021](/_clusters/ubc1021/)| 86.1 | 280.89 | -14.43 | 0.6 | 0.81 | -0.76 | -3.55 |0.61 |
     |[CWNU 1980](/_clusters/cwnu1980/)| 1.4 | 280.71 | -14.57 | 0.58 | 0.94 | -0.38 | -4.86 |0.21 |
+N_rows_shared: "2"
 ---

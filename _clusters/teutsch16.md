@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 3.2
+N_comments: ""
+dens_val: 6.4
 N_50_val: 76
 scix_url: Teutsch%2016
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |303.032 | 35.726 | 0.269 | -3.42 | -5.157 | -1.668 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 303.107 | 35.746 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 303.108 | 35.747 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 303.03234,+35.72648
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1093](/_clusters/ubc1093/)| 68.4 | 303.0 | 35.72 | 0.27 | -3.42 | -5.16 | -38.67 |0.11 |
+N_rows_shared: "1"
 ---

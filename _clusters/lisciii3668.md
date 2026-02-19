@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 45.7
+N_comments: "2"
+dens_val: 1.4
 N_50_val: 85
 scix_url: LISC-III%203668
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 120.416 | -44.902 | 1.706 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 120.112 | -44.189 | 1.702 | -6.251 | 7.335 | 25.371 |
     |[Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 120.166 | -45.397 | 1.794 | -6.223 | 7.063 | -- 
+N_rows_pos: "3"
 cds_radec: 120.48433,-44.81715
 carousel: UCC_HUNT23
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.61 | 0.38 | -- | 15 | 0.090 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.56 | 0.17 | 1.06 | 29 | -- | -- | -- | -- |
     | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.60 | 0.03 | -- | -- | 0.274 | -- | 0.36 | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 3323](/_clusters/lisciii3323/)| 23.5 | 121.26 | -45.64 | 1.69 | -6.31 | 7.22 | 25.58 |0.2 |
+N_rows_shared: "1"
 ---

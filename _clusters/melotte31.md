@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 5.9
+N_comments: ""
+dens_val: 1.1
 N_50_val: 19
 scix_url: Melotte%2031
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |79.524 | 33.342 | 0.41 | 0.239 | -3.558 | 9.079 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 79.542 | 33.374 | -- | 0.34 | -3.66 | -4.79 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 79.542 | 33.374 | -- | 0.34 | -3.66 | -4.79 
+N_rows_pos: "2"
 cds_radec: 79.52359,+33.34248
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

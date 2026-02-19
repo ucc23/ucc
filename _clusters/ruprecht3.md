@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.5
+N_comments: "1"
+dens_val: 0.1
 N_50_val: 19
 scix_url: Ruprecht%203
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |100.479 | -29.466 | 0.151 | -0.874 | 1.535 | -- |
     |[Angelo et al.](https://scixplorer.org/abs/2019A%26A...624A...8A) | 2019 | 100.533 | -29.452 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 100.47917,-29.46649
 carousel: UCC
 fpars_table: |
@@ -65,9 +67,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.29 | -- | -- | 1120 | -- | 24 | -- | -- |
     | [Angelo et al.](https://scixplorer.org/abs/2019A%26A...624A...8A) | 2019 | 2.29 | -- | -- | 1120 | -- | 24 | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ruprecht 2](/_clusters/ruprecht2/)| 4.0 | 100.3 | -29.51 | 0.12 | -0.47 | 1.79 | 69.32 |0.18 |
+N_rows_shared: "1"
 ---

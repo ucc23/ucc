@@ -13,17 +13,17 @@ glon: 218.18985
 glat: -2.14688
 r50: 8.9
 plx: 1.2746
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee4c9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.31
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 8.9
+N_comments: "1"
+dens_val: 7.5
 N_50_val: 31
 scix_url: Teutsch%20201
 posit_table: |
@@ -62,6 +63,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 103.385 | -5.725 | 1.265 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 103.308 | -5.641 | 1.266 | -0.775 | -2.5 | 23.139 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 103.216 | -5.656 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 103.34209,-5.64929
 carousel: UCC_HUNT23
 fpars_table: |
@@ -72,10 +74,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 120<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.77 | 0.46 | -- | 191 | 0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.74 | 0.12 | 0.49 | 180 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.4 |
+    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.39 |
     |[CWWDL 14340](/_clusters/cwwdl14340/)| 96.8 | 103.35 | -5.66 | 1.27 | -0.78 | -2.53 | 23.64 |0.0 |
+N_rows_shared: "2"
 ---

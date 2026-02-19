@@ -50,7 +50,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 6.9
+N_comments: "1"
+dens_val: 6.5
 N_50_val: 32
 scix_url: HXWHB%208
 posit_table: |
@@ -61,6 +62,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 80.318 | 33.507 | 0.884 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 80.573 | 33.783 | 0.882 | -0.397 | -3.225 | 4.462 |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 80.57 | 33.79 | 0.85 | -0.16 | -3.13 | -- 
+N_rows_pos: "4"
 cds_radec: 80.56402,+33.78235
 carousel: UCC_HUNT23
 fpars_table: |
@@ -71,6 +73,7 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.10 | 1.01 | -- | 33 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.06 | 0.87 | 1.68 | 34 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.18 | 1.37 | -- | 17 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -78,4 +81,5 @@ shared_table: |
     |[Gulliver 8](/_clusters/gulliver8/)| 100.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.21 |
     |[Teutsch 89](/_clusters/teutsch89/)| 100.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.46 |
     |[HXWHB 5](/_clusters/hxwhb5/)| 31.2 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.05 |
+N_rows_shared: "3"
 ---

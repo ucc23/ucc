@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 9.5
+N_comments: ""
+dens_val: 0.3
 N_50_val: 22
 scix_url: XDOCC%2004
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |118.824 | -24.172 | 0.303 | -2.678 | 3.057 | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 118.827 | -24.17 | 0.333 | -2.71 | 3.063 | -- 
+N_rows_pos: "1"
 cds_radec: 118.8237,-24.17206
 carousel: UCC
 fpars_table: |
@@ -65,10 +67,12 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.02 | 0.53 | -- | 178 | 0.230 | 1543 | 0.32 | -- |
     | [Piatti et al.](https://scixplorer.org/abs/2023MNRAS.518.6216P) | 2023 | -- | -- | -- | 295 | 0.230 | 1543 | 0.32 | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 3.02<sup>(1)</sup> | 0.53 | -- | 61 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 462](/_clusters/ubc462/)| 52.0 | 118.88 | -24.06 | 0.29 | -2.65 | 3.06 | -- |0.19 |
-    |[UBC 461](/_clusters/ubc461/)| 4.0 | 119.18 | -23.82 | 0.3 | -2.65 | 3.13 | -- |0.58 |
+    |[UBC 461](/_clusters/ubc461/)| 4.0 | 119.18 | -23.82 | 0.3 | -2.65 | 3.13 | -- |0.56 |
+N_rows_shared: "2"
 ---

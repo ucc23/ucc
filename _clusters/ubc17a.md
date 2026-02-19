@@ -18,12 +18,12 @@ UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#f7fbde"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.72
 UTI_C_dens: 0.56
 UTI_C_C3: 1.0
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 0.72
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 55.2
+N_comments: "2"
+dens_val: 2.8
 N_50_val: 95
 scix_url: UBC%2017%20a
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 83.422 | -1.671 | 2.753 | 1.582 | -1.2 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 83.422 | -1.671 | 2.753 | 1.582 | -1.2 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 83.383 | -1.584 | 2.748 | 1.593 | -1.207 | 18.96 
+N_rows_pos: "14"
 cds_radec: 83.45439,-1.70874
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -91,6 +93,7 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.35 | 0.51 | -- | 11 | -0.230 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.35 | 0.80 | -- | 19 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.36 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -98,4 +101,5 @@ shared_table: |
     |[ASCC 19](/_clusters/ascc19/)| 28.4 | 82.05 | -1.96 | 2.8 | 1.15 | -1.22 | 19.28 |0.96 |
     |[OC 0339](/_clusters/oc0339/)| 8.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.3 |
     |[CWWDL 14541](/_clusters/cwwdl14541/)| 1.1 | 83.57 | -3.18 | 2.76 | 1.46 | -1.66 | 15.04 |0.17 |
+N_rows_shared: "3"
 ---

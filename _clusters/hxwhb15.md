@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 4.0
+N_comments: ""
+dens_val: 3.5
 N_50_val: 197
 scix_url: HXWHB%2015
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |317.615 | 46.807 | 0.155 | -3.301 | -3.644 | -66.14 |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 317.62 | 46.81 | 0.14 | -3.31 | -3.63 | -- 
+N_rows_pos: "1"
 cds_radec: 317.61541,+46.80662
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.29 | 3.77 | -- | 7 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 7.29 | 3.77 | -- | 7 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 157](/_clusters/teutsch157/)| 69.5 | 317.59 | 46.79 | 0.16 | -3.3 | -3.65 | -67.59 |0.63 |
+N_rows_shared: "1"
 ---

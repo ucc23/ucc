@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 2.4
+N_comments: ""
+dens_val: 14.0
 N_50_val: 20
 scix_url: VDBH%20203
 posit_table: |
@@ -57,13 +58,16 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.825 | -40.926 | 0.584 | -1.907 | -3.749 | -50.18 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 253.865 | -40.831 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 253.82521,-40.92621
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ruprecht 122](/_clusters/ruprecht122/)| 100.0 | 253.79 | -40.95 | 0.56 | -1.87 | -3.8 | -49.3 |0.89 |
+N_rows_shared: "1"
 ---

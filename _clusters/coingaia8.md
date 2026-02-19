@@ -18,12 +18,12 @@ UTI_COLOR: "#bfe2c5"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#cce9c8"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.79
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 17.4
+N_comments: "2"
+dens_val: 5.6
 N_50_val: 76
 scix_url: COIN-Gaia%208
 posit_table: |
@@ -72,6 +73,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 39.048 | 50.013 | 1.359 | 2.51 | -2.499 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 39.048 | 50.013 | -- | -- | -- | 2.421 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 39.048 | 50.013 | 1.36 | 2.51 | -2.49 | -- 
+N_rows_pos: "14"
 cds_radec: 39.02433,+50.02391
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -92,10 +94,12 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.72 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.74 | 0.48 | -- | 263 | 0.026 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.72 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 48](/_clusters/ubc48/)| 78.9 | 39.07 | 50.02 | 1.38 | 2.42 | -2.52 | -8.36 |0.01 |
     |[CWWDL 14301](/_clusters/cwwdl14301/)| 65.8 | 39.13 | 50.0 | 1.38 | 2.4 | -2.52 | -9.87 |0.02 |
+N_rows_shared: "2"
 ---

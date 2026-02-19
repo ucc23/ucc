@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 2.9
+N_comments: ""
+dens_val: 15.3
 N_50_val: 46
 scix_url: Casado-Hendy%201
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |302.849 | 35.85 | 0.486 | -3.153 | -6.255 | -24.132 |
     |[Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 302.85 | 35.85 | 0.49 | -3.19 | -6.31 | -24.0 
+N_rows_pos: "1"
 cds_radec: 302.84852,+35.84972
 carousel: UCC
 fpars_table: |
@@ -64,9 +66,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.99 | 1.55 | -- | 6 | 0.112 | -- | -- | -- |
     | [Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 1.99 | 1.55 | -- | 6 | 0.112 | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.74 |
+N_rows_shared: "1"
 ---

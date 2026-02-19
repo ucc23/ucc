@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
-r_50_val: 2.2
+N_comments: ""
+dens_val: 3.8
 N_50_val: 7
 scix_url: Theia%206042
 posit_table: |
@@ -58,6 +59,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |114.619 | 21.569 | 0.47 | -1.125 | -2.069 | 72.683 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 114.628 | 21.543 | 0.719 | -1.084 | -2.024 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 114.628 | 21.543 | 0.719 | -1.084 | -2.024 | -- 
+N_rows_pos: "2"
 cds_radec: 114.61932,+21.56891
 carousel: UCC_HUNT23
 fpars_table: |
@@ -66,9 +68,11 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.38 | 1.88 | 0.58 | 6252 | -- | 528 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 528<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.38 | 1.88 | 0.58 | 6252 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Melotte 69](/_clusters/melotte69/)| 100.0 | 114.6 | 21.58 | 0.38 | -1.21 | -2.04 | 73.59 |1.0 |
+N_rows_shared: "1"
 ---

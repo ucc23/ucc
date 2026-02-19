@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.2
+N_comments: ""
+dens_val: 0.4
 N_50_val: 17
 scix_url: Alicante%2010
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |281.305 | -3.739 | 0.289 | -1.957 | -3.282 | 28.264 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 281.3 | -3.698 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 281.3052,-3.73918
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

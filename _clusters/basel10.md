@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.3
+N_comments: "2"
+dens_val: 23.7
 N_50_val: 109
 scix_url: Basel%2010
 posit_table: |
@@ -76,6 +77,7 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 34.862 | 58.294 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 34.7 | 58.317 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 34.867 | 58.3 | -- | 1.47 | 0.35 | -32.1 
+N_rows_pos: "18"
 cds_radec: 34.87904,+58.29061
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -97,9 +99,11 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 1.94 | -- | -- | 41 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 1.94 | 2.39 | -- | 41 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.94 | 2.40 | -- | 41 | -- | -- | -- | -- |
+N_rows_pars: "15"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0245](/_clusters/oc0245/)| 24.8 | 34.88 | 58.3 | 0.47 | -0.45 | -0.88 | -32.83 |0.01 |
+N_rows_shared: "1"
 ---

@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 1.0
+N_comments: ""
+dens_val: 123.2
 N_50_val: 37
 scix_url: Teutsch%20136
 posit_table: |
@@ -58,11 +59,14 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |92.988 | 20.674 | 0.531 | -0.291 | -2.435 | 1.647 |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 92.983 | 20.671 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 92.992 | 20.674 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 92.98807,+20.67383
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

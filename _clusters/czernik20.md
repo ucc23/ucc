@@ -51,7 +51,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 3.2
+N_comments: "2"
+dens_val: 8.9
 N_50_val: 102
 scix_url: Czernik%2020
 posit_table: |
@@ -80,6 +81,7 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 80.025 | 39.467 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 80.133 | 39.547 | -- | -0.67 | -3.3 | -29.97 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 80.025 | 39.467 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 80.11962,+39.53628
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -106,10 +108,12 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.37 | 1.30 | -- | 15 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.37 | 1.31 | -- | 15 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 3.56 | 1.65 | -- | 10 | -- | -- | -- | -- |
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.08 |
     |[Melotte 32](/_clusters/melotte32/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.94 |
+N_rows_shared: "2"
 ---

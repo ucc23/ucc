@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 6.9
+N_comments: ""
+dens_val: 0.1
 N_50_val: 14
 scix_url: Teutsch%20273
 posit_table: |
@@ -57,11 +58,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |280.474 | 3.668 | 0.16 | -3.072 | -6.055 | 22.812 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 280.47 | 3.654 | -- | -- | -- | -- 
+N_rows_pos: "1"
 cds_radec: 280.47387,+3.6676
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
 
+N_rows_shared: "0"
 ---

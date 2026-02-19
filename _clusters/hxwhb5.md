@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-r_50_val: 12.1
+N_comments: ""
+dens_val: 1.0
 N_50_val: 16
 scix_url: HXWHB%205
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |80.507 | 33.558 | 0.86 | -0.245 | -3.125 | 51.539 |
     |[Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 80.37 | 33.39 | 0.79 | -0.12 | -3.18 | -- 
+N_rows_pos: "1"
 cds_radec: 80.50694,+33.55808
 carousel: UCC
 fpars_table: |
@@ -64,6 +66,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.27 | 1.06 | -- | 55 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.27 | 1.06 | -- | 55 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -71,4 +74,5 @@ shared_table: |
     |[Gulliver 8](/_clusters/gulliver8/)| 68.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.21 |
     |[Teutsch 89](/_clusters/teutsch89/)| 60.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.46 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 40.0 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
+N_rows_shared: "3"
 ---

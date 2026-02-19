@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-r_50_val: 5.1
+N_comments: ""
+dens_val: 0.1
 N_50_val: 10
 scix_url: Teutsch%2069
 posit_table: |
@@ -58,13 +59,16 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |151.503 | -61.047 | 0.115 | -3.663 | 2.385 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 151.387 | -61.036 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 151.386 | -61.041 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 151.50325,-61.04728
 carousel: UCC
 fpars_table: |
 
+N_rows_pars: ""
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3313](/_clusters/cwnu3313/)| 28.0 | 151.39 | -61.04 | 0.06 | -3.63 | 2.34 | -- |0.28 |
+N_rows_shared: "1"
 ---

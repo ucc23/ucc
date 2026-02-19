@@ -49,7 +49,8 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-r_50_val: 5.6
+N_comments: ""
+dens_val: 6.2
 N_50_val: 84
 scix_url: UFMG%2086
 posit_table: |
@@ -57,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |261.58 | -37.794 | 0.443 | 0.586 | -0.984 | -8.601 |
     |[Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 261.578 | -37.8 | 0.447 | 0.576 | -0.977 | -- 
+N_rows_pos: "1"
 cds_radec: 261.57963,-37.7939
 carousel: UCC
 fpars_table: |
@@ -64,10 +66,12 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.45 | 3.56 | -- | 224 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.45 | 3.56 | -- | 224 | -- | -- | -- | -- |
+N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[PHOC 18](/_clusters/phoc18/)| 95.2 | 261.59 | -37.78 | 0.44 | 0.59 | -0.98 | -8.6 |0.65 |
     |[CWWDL 1647](/_clusters/cwwdl1647/)| 57.1 | 261.58 | -37.76 | 0.44 | 0.57 | -0.98 | -8.6 |0.0 |
+N_rows_shared: "2"
 ---
