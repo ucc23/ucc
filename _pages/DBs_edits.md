@@ -136,6 +136,24 @@ Changes:
 - Renamed 'NGC_2451.1' & 'NGC_2451.2' to 'NGC_2451_A' & 'NGC_2451_B'
 
 
+
+## Lada & Lada 2003
+
+[Embedded Clusters in Molecular Clouds](https://scixplorer.org/abs/2003ARA%26A..41...57L/abstract)
+
+Extracted 77 entries from Table 1, removed ONC/Trapezium :
+
+_"identified the Trapezium-ONC cluster as such a possible proto-Pleiades system with the
+Trapezium cluster likely being the future bound remnant of the emerging, mostly unbound
+ONC cluster"_
+
+Added `ra,dec` columns in degrees.
+Added 'IRAS' to 15 entries.
+
+The central coordinates for 'ic 5146' appear to be wrong.
+
+
+
 ## Mercer et al 2005
 
 [New Star Clusters Discovered in the GLIMPSE Survey](https://ui.adsabs.harvard.edu/abs/2005ApJ...635..560M/abstract)
@@ -1478,6 +1496,14 @@ Renamed:
 Finally, 46 new entries are added by this database.
 
 
+## Rain et al. 2024
+
+[Binary origin of blue straggler stars in Galactic star clusters](https://ui.adsabs.harvard.edu/abs/2024A%26A...685A..33R/abstract)
+
+Data table extracted from GIP own's data.
+
+
+
 ## Zhang et al. 2024
 
 [When LAMOST meets Gaia DR3 Exploring the metallicity of open clusters](https://scixplorer.org/abs/2024A%26A...692A.212Z)
@@ -1536,6 +1562,17 @@ Final list contains 42 entries.
 
 
 
+
+## Chi et al. 2025
+
+[Cataloging distant Galactic open clusters: Identification of 739 new star cluster candidates beyond 5 kpc utilizing GAIA DR3 data] (https://scixplorer.org/abs/2025PASJ...77.1050C/abstract)
+
+Data in [Github](https://github.com/astronomical-data-processing/openclusterdata) repository. The file `Table1_v4.csv` contains 739 entries.
+Added the 'CKCWDM' prefix to the cluster names that were just numbers.
+
+
+
+
 ## Hu & Soubiran 2025
 
 [Metallicities of old open clusters: A new Galactic map](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H)
@@ -1583,3 +1620,9 @@ Data is stored in, [ChinaVO](https://nadc.china-vo.org/res/r101693/). Merged fil
 Added 'FoF' to 'LP' entries.
 Removed 'Harvard_5' (duplicate of Collinder_258).
 
+
+## Obasi et al. 2026
+
+[Consensus-based algorithm for the nonparametric detection of star clusters (CANDiSC)](https://scixplorer.org/abs/2026A%26A...705A.244O/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/705/A244) table lists 40 VVVX-Obasi entries.
