@@ -22,7 +22,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/collinder76/" target="_blank" style="color: $blue;">Collinder 76</a> | 88.45 | 0.4 | 0.91 | 1259 | 13.6 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
 | <a href="{{ site.baseurl }}/_clusters/collinder79/" target="_blank" style="color: $blue;">Collinder 79</a> | 90.74 | 10.46 | 0.2 | 1357 | 3.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
 | <a href="{{ site.baseurl }}/_clusters/collinder94/" target="_blank" style="color: $blue;">Collinder 94</a> | 97.41 | 6.83 | 0.34 | 728 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.95  |
-| <a href="{{ site.baseurl }}/_clusters/fof145/" target="_blank" style="color: $blue;">FoF 145</a> | 256.99 | -44.15 | 0.53 | 200 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.78  |
+| <a href="{{ site.baseurl }}/_clusters/fof145/" target="_blank" style="color: $blue;">FoF 145</a> | 256.99 | -44.15 | 0.53 | 200 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.76  |
 | <a href="{{ site.baseurl }}/_clusters/king1/" target="_blank" style="color: $blue;">King 1</a> | 5.51 | 64.38 | 0.54 | 1169 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.95  |
 | <a href="{{ site.baseurl }}/_clusters/melotte146/" target="_blank" style="color: $blue;">Melotte 146</a> | 246.95 | -49.16 | 0.87 | 1351 | 10.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
 | <a href="{{ site.baseurl }}/_clusters/melotte156/" target="_blank" style="color: $blue;">Melotte 156</a> | 254.78 | -52.71 | 0.58 | 911 | 4.7 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
@@ -51,7 +51,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/trumpler23/" target="_blank" style="color: $blue;">Trumpler 23</a> | 240.22 | -53.54 | 0.36 | 750 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
 | <a href="{{ site.baseurl }}/_clusters/trumpler36/" target="_blank" style="color: $blue;">Trumpler 36</a> | 302.7 | 41.18 | 0.13 | 979 | 2.2 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
 | <a href="{{ site.baseurl }}/_clusters/trumpler5/" target="_blank" style="color: $blue;">Trumpler 5</a> | 99.12 | 9.47 | 0.3 | 4578 | 7.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0  |
-| <a href="{{ site.baseurl }}/_clusters/ubc252/" target="_blank" style="color: $blue;">UBC 252</a> | 139.16 | -54.15 | 0.18 | 232 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.8  |
+| <a href="{{ site.baseurl }}/_clusters/ubc252/" target="_blank" style="color: $blue;">UBC 252</a> | 139.16 | -54.15 | 0.18 | 232 | 3.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.78  |
 
 
 

@@ -72,7 +72,7 @@ This database consists of 61 entries, of which 44% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/lisc3479/" target="_blank" style="color: $blue;">LISC 3479</a> | 79.18 | 41.75 | 1.03 | 77 | 14.8 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.95 | 0.02  |
 | <a href="{{ site.baseurl }}/_clusters/lisc3483/" target="_blank" style="color: $blue;">LISC 3483</a> | 245.26 | -40.84 | 0.9 | 68 | 5.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.52  |
 | <a href="{{ site.baseurl }}/_clusters/lisc3530/" target="_blank" style="color: $blue;">LISC 3530</a> | 277.3 | -34.54 | 1.97 | 92 | 19.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.83 | 0.09  |
-| <a href="{{ site.baseurl }}/_clusters/lisc3534/" target="_blank" style="color: $blue;">LISC 3534</a> | 12.19 | 50.25 | 2.18 | 357 | 52.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.72  |
+| <a href="{{ site.baseurl }}/_clusters/lisc3534/" target="_blank" style="color: $blue;">LISC 3534</a> | 12.19 | 50.25 | 2.18 | 357 | 52.1 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.71  |
 
 
 
