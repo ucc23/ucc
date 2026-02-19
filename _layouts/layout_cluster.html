@@ -64,8 +64,8 @@ layout: default
                         <span class="fact-value">{{ page.N_50_val }}</span>
                     </div>
                     <div class="fact-item">
-                        <span class="fact-label" title="Radius that contains the identified members [arcmin]">Radius (P>50% members)</span>
-                        <span class="fact-value">{{ page.r_50_val }} [arcmin]</span>
+                        <span class="fact-label" title="Stellar density for the identified members [N/pc2]">Stellar density (N<sub>50</sub>/rad)</span>
+                        <span class="fact-value">{{ page.dens_val }} [N/pc<sup>2</sup>]</span>
                     </div>
                     <div class="fact-item">
                         <a href="{{ site.baseurl }}/faq#what-is-the-c3-parameter" target="_blank" title="C3 classification"><span class="fact-label">C3 classification</span></a>
@@ -113,6 +113,13 @@ layout: default
         <a class="btn" id="downloadMembersCSV" title="Download Gaia data for UCC members">📥 Members</a>
         <a class="btn" href="https://colab.research.google.com/github/ucc23/ucc/blob/main/assets/notebook.ipynb" title="Explore UCC members in Google Colab" target="_blank">📊 Colab</a>
         <a class="btn" href="http://argonaut.skymaps.info/query?lon={{page.glon}}%20&lat={{page.glat}}&coordsys=gal&mapname=bayestar2019" title="Explore Reddening vs. Distance in this region with Bayestar19" target="_blank">🔬 Bayestar19</a>
+        <a class="btn"
+           href="https://mocadb.ca/search/results?search-query={{page.fname}}&search-type=association"
+           title="Search object in MOCAdb"
+           target="_blank">
+            <img src="{{ site.baseurl }}/images/moca.png" alt="MOCA"
+            style="height:1em; vertical-align:middle; margin-right:0.3em;">MOCA
+        </a>
         <a class="btn" href="https://cdsportal.u-strasbg.fr/?target={{page.title}}" title="Search name in CDS" target="_blank">🔍 CDS</a>
         <a class="btn" href="https://simbad.cds.unistra.fr/simbad/sim-id?Ident={{page.fname}}" title="Search name in Simbad" target="_blank">🔍 Simbad</a>
         <a class="btn" href="https://cdsportal.u-strasbg.fr/?target={{page.cds_radec}}" title="Search position in CDS" target="_blank">🔍 CDS (α, δ)</a>
@@ -127,7 +134,7 @@ layout: default
             <div class="tabs">
                 <button class="tab active" onclick="switchTab(event, 'summary')">Summary</button>
                 {% if page.comments != empty %}
-                    <button id="tab_comments" class="tab" onclick="switchTab(event, 'comments')">Comments</button>
+                    <button id="tab_comments" class="tab" onclick="switchTab(event, 'comments')">Comments ({{page.N_comments}})</button>
                 {% endif %}
                 <a href="/faq/#about-the-overview-section" target="_blank" class="tabs-faq" title="About the Overview section">ℹ️</a>
             </div>
@@ -203,12 +210,12 @@ layout: default
 
         <div class="tab-container">
             <div class="tabs">
-                <button class="tab active" onclick="switchTab(event, 'positions')">Astrometry</button>
+                <button class="tab active" onclick="switchTab(event, 'positions')">Astrometry ({{page.N_rows_pos}})</button>
                 {% if page.fpars_table != empty %}
-                    <button id="tab_parameters" class="tab" onclick="switchTab(event, 'parameters')">Parameters</button>
+                    <button id="tab_parameters" class="tab" onclick="switchTab(event, 'parameters')">Parameters ({{page.N_rows_pars}})</button>
                 {% endif %}
                 {% if page.shared_table != empty %}
-                    <button id="tab_obj_shared" class="tab" onclick="switchTab(event, 'obj_shared')">Shared members</button>
+                    <button id="tab_obj_shared" class="tab" onclick="switchTab(event, 'obj_shared')">Shared members ({{page.N_rows_shared}})</button>
                 {% endif %}
                 <a href="/faq/#about-the-data-section" target="_blank" class="tabs-faq" title="About the Data section">ℹ️</a>
             </div>
