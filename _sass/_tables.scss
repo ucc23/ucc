@@ -176,6 +176,9 @@ transition: border-color 0.3s;
 outline: none;
 border-color: #4CAF50;
 }
+.search-input::-webkit-search-cancel-button {
+  cursor: pointer;
+}
 
 .search-stats {
 margin-top: 10px;

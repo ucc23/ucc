@@ -70,8 +70,27 @@ searchInput.addEventListener("input", (event) => {
         } else if (coordsys == "gal") {
             body.textContent = `G (${d.GLON}, ${d.GLAT})`;
         } else {
-            body.textContent = d.fnames.split(";").slice(1, 3).join(", ");
+            // body.textContent = d.fnames.split(";").slice(1, 3).join(", ");
+
+            // Show the alternative name with the smallest string difference to the query
+            const altNames = d.fnames.split(";").slice(1);
+            const bestMatch = altNames.reduce((best, name) => {
+                const dist = stringDifference(name.toLowerCase(), query);
+                return dist < best.dist ? { name, dist } : best;
+            }, { name: altNames[0], dist: Infinity });
+            body.textContent = bestMatch.name;
+
         }
         userCardContainer.appendChild(element);
     });
 });
+
+
+// Open the first search result on 'Enter'
+document.getElementById("search").onkeydown = e => {
+if (e.key === "Enter") {
+  e.preventDefault();
+  const a = document.querySelector(".user-cards .card a");
+  if (a) location.href = a.href;
+}
+};

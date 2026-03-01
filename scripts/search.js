@@ -46,14 +46,14 @@ export function generalSearch(d, coordsys, query) {
         // Only search if the first (up to 3) characters of the query are present
         if (d.fnames.includes(normalizedQuery.slice(0, 3))) {
             const fnames_s = d.fnames.split(";");
-            // const N_fnames = fnames_s.length;
             distance = Math.min(
                     ...fnames_s.map(fname => stringDifference(normalizedQuery, fname))
                 );
-            // Add a small penalty for entries with main fname that do not begin with the same first 3 characters
-            if (distance > 0 & !d.fname.includes(normalizedQuery.slice(0, 3))) {
-                distance += 0.1;
-            }
+            // // Add a small penalty for entries with main fname that do not begin with
+            // // the same first 3 characters
+            // if (distance > 0 & !d.fname.includes(normalizedQuery.slice(0, 3))) {
+            //     distance += 0.1;
+            // }
         }
     }
     return distance;
