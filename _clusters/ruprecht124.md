@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Piatti, A. E.; Clariá, J. J. 2001, A&A 379, 453); cat V3.5 (Jan 2016)</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>

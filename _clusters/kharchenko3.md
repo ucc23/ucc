@@ -13,17 +13,17 @@ glon: 16.69233
 glat: -0.506
 r50: 2.0
 plx: 0.3469
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.53"
+UTI_COLOR: "#fbfde3"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.3
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: one or a few submm emission within the cluster area.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 16.0
 N_50_val: 45
 scix_url: Kharchenko%203
@@ -62,19 +63,21 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 275.755 | -14.654 | 0.337 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 275.746 | -14.65 | 0.337 | -0.816 | -2.478 | -30.294 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 275.696 | -14.633 | -- | 1.8 | 0.06 | 21.0 |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 275.696 | -14.633 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 275.696 | -14.633 | -- | 1.8 | 0.06 | 21.0 
-N_rows_pos: "5"
+N_rows_pos: "6"
 cds_radec: 275.75881,-14.64416
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.13 | 2.81 | 1.91 | 54 | -0.850 | 408 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.13 | 2.81 | 1.91 | 77 | -0.850 | 408 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 408<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.95 | 3.08 | -- | 39 | -0.850 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.65 | 2.81 | 1.91 | 54 | -- | -- | -- | -- |
+    | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 2.13 | -- | -- | 100 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.13 | 2.23 | -- | 100 | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

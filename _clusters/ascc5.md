@@ -13,17 +13,17 @@ glon: 123.83927
 glat: -7.01339
 r50: 3.2
 plx: 0.5619
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.71"
+UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.78
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>

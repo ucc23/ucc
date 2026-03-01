@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 265 along with IC_1848.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G225, along with OC_0255 and IC_1848.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 25.2
 N_50_val: 224
 scix_url: SAI%2024
@@ -83,7 +85,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.915 | 1.67 | 13 | -0.016 | 627 | 0.76 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.85 | 1.67 | 13 | -0.016 | 627 | 0.76 | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 4.23 | 0.69 | -- | 8 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.93 | 1.98 | -- | 13 | -- | 627 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1173<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 7 | -- | 627 | -- | -- |
@@ -100,12 +103,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.00 | 1.55 | -- | 16 | -- | -- | -- | -- |
-N_rows_pars: "16"
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.18 |
+    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.23 |
     |[AFGL 4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
     |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.36 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |

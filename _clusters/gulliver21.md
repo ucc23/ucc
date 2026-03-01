@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 159 along with OC_0407, and of multiple system 21 along with Collinder_132, OC_0407 and CWNU_45.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G65, along with CWNU_45, Theia_1147, OC_0407 and Collinder_132.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 13.6
 N_50_val: 260
 scix_url: Gulliver%2021
@@ -59,6 +61,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |106.912 | -25.454 | 1.534 | -1.91 | 4.207 | 40.175 |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 106.89 | -25.51 | 1.54 | -1.91 | 4.23 | 39.7 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 106.961 | -25.462 | 1.504 | -1.929 | 4.205 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 106.973 | -25.458 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 106.89 | -25.439 | 1.505 | -1.896 | 4.202 | -- |
@@ -77,13 +80,14 @@ posit_table: |
     |[Bossini et al.](https://scixplorer.org/abs/2019A%26A...623A.108B) | 2019 | 106.961 | -25.462 | -- | -- | -- | -- |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 106.961 | -25.462 | -- | -- | -- | 39.86 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 106.961 | -25.462 | 1.504 | -1.929 | 4.205 | -- 
-N_rows_pos: "18"
+N_rows_pos: "19"
 cds_radec: 106.9117,-25.45352
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.65 | 0.14 | 0.39 | 285 | 0.089 | 281 | 0.6 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.65 | 0.14 | 0.39 | 282 | 0.089 | 281 | 0.6 | 0.0 |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.66 | 0.07 | -- | 204 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.68 | 0.01 | -- | 356 | 0.344 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.65 | 0.14 | -- | 405 | -- | 156 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.67 | 0.13 | -- | 280 | 0.068 | -- | -- | -- |
@@ -102,7 +106,7 @@ fpars_table: |
     | [Bossini et al.](https://scixplorer.org/abs/2019A%26A...623A.108B) | 2019 | 0.62 | 0.19 | -- | 296 | 0.000 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.65 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.65 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "18"
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

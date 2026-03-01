@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 18
 title_flag: true
-more_names: MWSC 2665
+more_names: DB2000 18; MWSC 2665
 fname: dutrabica18
 members_file: "0_4"
 fov: 0.22
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.0
 N_50_val: 9
 scix_url: Dutra%20Bica%2018
@@ -58,8 +59,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |265.699 | -28.122 | 0.044 | -3.741 | -5.588 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 265.71 | -28.115 | -- | -- | -- | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 265.702 | -28.108 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 265.7 | -28.108 | -- | 2.4 | 0.02 | -- 
-N_rows_pos: "2"
+N_rows_pos: "3"
 cds_radec: 265.69867,-28.12203
 carousel: UCC
 fpars_table: |

@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Several bright stars, open cluster.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B' target='_blank'>Borissova et al. (2018)</a></u><br>Several bright stars, open cluster.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>

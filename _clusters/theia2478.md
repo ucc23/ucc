@@ -13,17 +13,17 @@ glon: 305.08793
 glat: -1.50958
 r50: 5.2
 plx: 0.4612
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fef5d7"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.0
 UTI_C_dens: 0.41
 UTI_C_C3: 0.5
-UTI_C_lit: 0.25
+UTI_C_lit: 0.3
 UTI_C_dup: 0.32
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -46,11 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 363 along with UBC_525, and of multiple system 68 along with HSC_2562 and UBC_525.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G158, along with HSC_2549, UBC_525 and HSC_2562.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 2.0
 N_50_val: 22
 scix_url: Theia%202478
@@ -58,22 +60,24 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |197.833 | -64.296 | 0.461 | -4.996 | -1.464 | 35.114 |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 197.81 | -64.3 | 0.42 | -4.95 | -1.51 | 9.75 |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 197.953 | -64.213 | 0.484 | -5.581 | -1.485 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 197.809 | -64.302 | 0.424 | -4.953 | -1.507 | 9.746 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 198.347 | -64.286 | 0.431 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 197.809 | -64.302 | 0.424 | -4.953 | -1.507 | 9.746 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 197.83316,-64.29587
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.1 | 1.26 | 2.38 | 372 | 0.380 | 432 | 0.62 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.31 | 1.25 | 2.38 | 270 | 0.380 | 432 | 0.62 | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 3.10 | 0.48 | -- | 93 | -- | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 2.52 | 1.26 | -- | 576 | 0.500 | 641 | 0.62 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 222<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.90 | 1.24 | -- | 372 | 0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.10 | 1.42 | 2.38 | 169 | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

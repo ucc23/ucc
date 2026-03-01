@@ -13,17 +13,17 @@ glon: 294.90366
 glat: -1.66646
 r50: 6.7
 plx: 0.3983
-UTI: "0.70"
-UTI_COLOR: "#e0f1cb"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#afdbc1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#ceeac8"
 UTI_C_N: 0.9
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.78
+UTI_C_lit: 0.75
 UTI_C_dup: 0.78
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg09' along with IC 2948 and Ruprecht 94.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 20.5
 N_50_val: 492
 scix_url: VDBH%20121

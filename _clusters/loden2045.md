@@ -13,17 +13,17 @@ glon: 320.18053
 glat: -0.64205
 r50: 6.8
 plx: 0.3687
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.08
 UTI_C_C3: 0.12
-UTI_C_lit: 0.25
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: one or a few submm emission within the cluster area.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.4
 N_50_val: 12
 scix_url: Loden%202045
@@ -60,8 +61,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 227.627 | -58.768 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 227.627 | -58.768 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 227.6 | -58.783 | -- | -4.74 | -4.3 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 227.64 | -58.77 | -- | -5.24 | 1.56 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 227.64 | -58.77 | -- | -5.24 | 1.56 | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 227.6 | -58.783 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 227.74553,-58.77825
 carousel: UCC
 fpars_table: |

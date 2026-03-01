@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.3
 N_50_val: 15
 scix_url: Teutsch%2026
@@ -58,8 +59,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |291.511 | 13.774 | 0.105 | -2.439 | -4.969 | 29.611 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 291.526 | 13.758 | -- | -- | -- | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 291.525 | 13.763 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 291.525 | 13.763 | -- | -- | -- | -- 
-N_rows_pos: "2"
+N_rows_pos: "3"
 cds_radec: 291.51075,+13.77398
 carousel: UCC
 fpars_table: |

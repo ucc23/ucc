@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Bica 3
 title_flag: true
-more_names: MWSC 2915; BBD 4; FSR 0057
+more_names: BBD2004 1; MWSC 2915; BBD 4; FSR 0057
 fname: bica3
 members_file: "16_20"
 fov: 0.23
@@ -13,17 +13,17 @@ glon: 18.43777
 glat: -0.42928
 r50: 6.9
 plx: 0.4011
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f5c1b8"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.15
 UTI_C_C3: 0.12
-UTI_C_lit: 0.78
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.8
 N_50_val: 19
 scix_url: Bica%203
@@ -71,14 +72,16 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 276.509 | -13.052 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 276.517 | -13.059 | -- | 1.71 | 1.07 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 276.516 | -13.05 | -- | -1.33 | -5.15 | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 276.517 | -13.059 | -- | -- | -- | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 276.525 | -13.032 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 276.517 | -13.059 | -- | 1.8 | 0.95 | -- 
-N_rows_pos: "14"
+N_rows_pos: "16"
 cds_radec: 276.52871,-13.06779
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.38 | 6.76 | 3.09 | 16 | 0.100 | 749 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.37 | 6.32 | 3.09 | 16 | 0.100 | 994 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1647<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 16 | -- | 749 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.44 | 5.88 | -- | 4 | 0.100 | -- | -- | -- |
@@ -88,8 +91,11 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.38 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.61 | 7.10 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.61 | 7.10 | -- | 16 | -- | -- | -- | -- |
+    | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 1.64 | -- | -- | 26 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1239 | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.37<sup>(1)</sup> | 5.80 | -- | 56 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.64 | 6.76 | -- | 25 | -- | -- | -- | -- |
-N_rows_pars: "10"
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
 

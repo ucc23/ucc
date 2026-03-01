@@ -13,25 +13,25 @@ glon: 177.95643
 glat: 0.53094
 r50: 1.4
 plx: 0.164
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ddf0ca"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.71
 UTI_C_C3: 0.12
-UTI_C_lit: 0.4
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very low quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 45</b> is a sparse, moderately dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.10 kpc) differs significantly from the median photometric distance (~3.00 kpc).</p>
+    <b>Teutsch 45</b> is a sparse, moderately dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.10 kpc) differs significantly from the median photometric distance (~3.00 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -62,22 +62,25 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 85.683 | 30.971 | -- | -0.8 | -2.5 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 85.65 | 30.973 | -- | 2.41 | -4.93 | -7.2 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 85.65 | 30.973 | -- | 2.41 | -4.93 | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 85.688 | 30.967 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 85.691 | 30.959 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 85.683 | 30.971 | -- | -0.8 | -2.5 | -- 
-N_rows_pos: "7"
+N_rows_pos: "8"
 cds_radec: 85.68927,+30.95628
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 3.07 | -- | 13 | -- | 360 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 3.07 | -- | 13 | -- | 297 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 13 | -- | 360 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.00 | 3.07 | -- | 13 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.00 | 3.07 | -- | 13 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 234 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 3.00 | 3.07 | -- | 13 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.39<sup>(1)</sup> | 2.02 | -- | 13 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.77 | 2.33 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "5"
-note_asterisk: false
+N_rows_pars: "7"
+note_asterisk: true
 shared_table: |
 
 N_rows_shared: "0"

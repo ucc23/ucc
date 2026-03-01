@@ -13,17 +13,17 @@ glon: 211.99394
 glat: -1.30882
 r50: 1.8
 plx: 0.212
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#fefae1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b7dfc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.84
+UTI_C_lit: 0.87
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -69,18 +69,19 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 101.275 | 0.3 | -- | -0.29 | -1.79 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 101.28 | 0.24 | -- | 0.7 | -2.31 | 77.4 |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 101.275 | 0.3 | -- | -- | -- | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 101.258 | 0.3 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 101.28 | 0.3 | -- | 0.17 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 101.275 | 0.3 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 101.232 | 0.325 | -- | 1.81 | -1.98 | 71.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 101.275 | 0.3 | -- | -0.29 | -1.79 | 71.0 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 101.275 | 0.3 | -- | -- | -- | -- 
-N_rows_pos: "16"
+N_rows_pos: "17"
 cds_radec: 101.26975,+0.23664
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.675 | 2.09 | 2.53 | 6 | 0.230 | 1072 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.92 | 2.16 | 2.53 | 6 | 0.230 | 1731 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1731<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.72 | 1.84 | -- | 83 | 0.230 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 3.89 | 2.25 | -- | 20 | -- | -- | -- | -- |
@@ -90,12 +91,14 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 5.56 | 2.09 | -- | 14 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.80 | 2.06 | -- | 6 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.80 | 2.06 | -- | 6 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 7368 | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 6.80 | -- | -- | 6 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 8.87<sup>(1)</sup> | 2.60 | -- | 9 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 6.30 | 2.23 | -- | 7 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 6.30 | -- | -- | 0 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.80 | 2.48 | -- | 6 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.99 | 2.24 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "14"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
 

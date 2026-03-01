@@ -13,17 +13,17 @@ glon: 111.11082
 glat: 0.40018
 r50: 7.6
 plx: 0.3342
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.45
 UTI_C_dens: 0.21
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.3
 UTI_C_dup: 0.96
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -46,11 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 73 along with UBC_1177.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P206, along with UBC_1177.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 1.0
 N_50_val: 45
 scix_url: CWNU%20459
@@ -68,12 +70,13 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.67 | 2.27 | 2.2 | 27 | 0.608 | 1172 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.7 | 2.125 | 2.2 | 23 | 0.608 | 1172 | -- | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 6.19 | 0.80 | -- | 19 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1172<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.67 | 2.36 | -- | 27 | 0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.73 | 2.27 | 2.20 | 19 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.40 | 1.98 | -- | 63 | 0.916 | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

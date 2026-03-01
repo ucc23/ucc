@@ -13,17 +13,17 @@ glon: 222.07876
 glat: -11.2468
 r50: 43.8
 plx: 2.3048
-UTI: "0.43"
-UTI_COLOR: "#fef7db"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#fbfde3"
 UTI_C_dens_COL: "#feeed1"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
 UTI_C_dens: 0.37
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H/abstract' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 72 along with CWNU_1227, and as primordial binary cluster 322 along with OCSN_76, and of multiple system 25 along with OCSN_76 and CWNU_1227.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G230, along with Theia_319 and OCSN_76.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 1.8
 N_50_val: 56
 scix_url: CWNU%20410
@@ -59,22 +61,24 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |96.949 | -13.153 | 2.305 | -4.375 | 3.834 | 39.227 |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 96.13 | -12.96 | 2.31 | -4.44 | 3.8 | 37.08 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 96.757 | -13.008 | 2.315 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 96.126 | -12.957 | 2.313 | -4.443 | 3.798 | 37.078 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 96.99 | -13.49 | 2.31 | -4.39 | 3.78 | 38.33 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 97.171 | -13.582 | 2.22 | -4.36 | 3.88 | 39.5 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 96.94898,-13.1532
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.45 | 0.38 | 0.57 | 59 | 0.478 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.46 | 0.36 | 0.57 | 50 | 0.478 | -- | -- | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.54 | 0.16 | -- | 45 | -- | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.44 | 0.42 | -- | 68 | 0.500 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.42 | 0.21 | 0.57 | 76 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.52 | 0.40 | -- | 40 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 0.46 | 0.36 | -- | 50 | 0.457 | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
 

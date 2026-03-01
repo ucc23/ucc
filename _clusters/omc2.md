@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L/abstract' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
@@ -73,8 +73,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 225](/_clusters/ocsn225/)| 96.0 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
-    |[NGC 1976](/_clusters/ngc1976/)| 32.0 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.78 |
-    |[NGC 1977](/_clusters/ngc1977/)| 20.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.82 |
+    |[NGC 1976](/_clusters/ngc1976/)| 32.0 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.79 |
+    |[NGC 1977](/_clusters/ngc1977/)| 20.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.88 |
     |[UBC 621](/_clusters/ubc621/)| 20.0 | 83.83 | -4.86 | 2.53 | 1.25 | -0.72 | 22.95 |0.05 |
     |[OC 0345](/_clusters/oc0345/)| 12.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
     |[OCSN 244](/_clusters/ocsn244/)| 8.0 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |

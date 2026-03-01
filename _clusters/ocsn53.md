@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 66](/_clusters/theia66/)| 100.0 | 68.3 | 18.01 | 6.88 | 12.08 | -18.99 | 17.87 |0.6 |
+    |[Theia 66](/_clusters/theia66/)| 100.0 | 68.3 | 18.01 | 6.88 | 12.08 | -18.99 | 17.87 |0.62 |
 N_rows_shared: "1"
 ---

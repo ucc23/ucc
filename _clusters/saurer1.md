@@ -13,17 +13,17 @@ glon: 214.68656
 glat: 7.38043
 r50: 1.5
 plx: 0.0826
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e2f2cc"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.38
-UTI_C_lit: 0.69
+UTI_C_lit: 0.7
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -65,17 +65,18 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 110.226 | 1.802 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 110.233 | 1.8 | -- | 3.46 | -6.73 | 95.3 |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 110.233 | 1.808 | -- | -- | -- | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 110.237 | 1.839 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 110.23 | 1.81 | -- | 0.02 | -- | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 105.679 | -11.461 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 110.225 | 1.8 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 110.233 | 1.808 | -- | 3.46 | -6.73 | 98.0 
-N_rows_pos: "12"
+N_rows_pos: "13"
 cds_radec: 110.22859,+1.81132
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 13.2 | 0.385 | -- | 4496 | -0.380 | 10081 | 0.81 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 13.46 | 0.37 | -- | 3981 | -0.380 | 10081 | 0.81 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 15.85 | 0.65 | -- | 2512 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 3981 | -- | 10162 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 12.36 | 0.40 | -- | 6607 | -0.080 | 10000 | 0.81 | -- |
@@ -83,10 +84,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 13.72 | 0.13 | -- | 3981 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 13.72 | 0.13 | -- | 3981 | -0.380 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 13.20 | -- | -- | 5012 | -0.380 | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 16.98<sup>(1)</sup> | 0.22 | -- | 1995 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 11.97 | 0.37 | -- | 7079 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 13.20 | 0.43 | -- | 5012 | -0.380 | -- | -- | -- |
-N_rows_pars: "9"
-note_asterisk: false
+N_rows_pars: "10"
+note_asterisk: true
 shared_table: |
 
 N_rows_shared: "0"

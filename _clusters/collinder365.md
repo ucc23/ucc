@@ -13,17 +13,17 @@ glon: 7.28259
 glat: -1.39902
 r50: 6.9
 plx: 0.3742
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.41"
+UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#bfe2c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.1
 UTI_C_C3: 0.25
-UTI_C_lit: 0.81
+UTI_C_lit: 0.84
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.5
 N_50_val: 14
 scix_url: Collinder%20365
@@ -63,6 +64,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 271.866 | -23.326 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 271.842 | -23.297 | -- | -1.4 | -0.9 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 271.875 | -23.325 | -- | 0.2 | -1.73 | -29.4 |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 271.842 | -23.297 | -- | -- | -- | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 271.842 | -23.297 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 271.883 | -23.327 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 271.84 | -23.3 | -- | 0.2 | -- | -16.67 |
@@ -72,17 +74,18 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 271.89 | -23.34 | -- | -1.12 | -1.43 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 271.842 | -23.297 | -- | -1.4 | -0.9 | -31.1 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 271.842 | -23.297 | -- | -- | -- | -- 
-N_rows_pos: "15"
+N_rows_pos: "16"
 cds_radec: 271.83802,-23.34714
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.94 | 1.52 | -- | 525 | -0.334 | 128 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.94 | 1.52 | -- | 326 | -0.334 | 128 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 525 | -- | 91 | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.94 | 1.52 | -- | 73 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.94 | 1.52 | -- | 525 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.94 | 1.52 | -- | 525 | -0.334 | -- | -- | -- |
+    | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 0.94 | -- | -- | 71 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.94 | -- | -- | 71 | -- | 302 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.94 | 1.52 | -- | 525 | -- | 164<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.94 | 1.52 | -- | 525 | -- | 30 | -- | -- |
@@ -91,7 +94,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.94 | 1.52 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.94 | 1.52 | -- | 71 | -0.334 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.86 | 1.68 | -- | 126 | -- | -- | -- | -- |
-N_rows_pars: "12"
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 110
 title_flag: true
-more_names: MWSC 2783
+more_names: BDS2003 110; MWSC 2783
 fname: bdsb110
 members_file: "8_12"
 fov: 0.253
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.3
 N_50_val: 16
 scix_url: BDSB%20110
@@ -57,8 +58,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |270.513 | -21.81 | 0.313 | -0.034 | -1.813 | -- |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 270.523 | -21.806 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 270.523 | -21.806 | -- | -- | -- | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 270.521 | -21.803 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 270.51333,-21.80984
 carousel: UCC
 fpars_table: |

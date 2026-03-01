@@ -13,17 +13,17 @@ glon: 290.74903
 glat: -0.10084
 r50: 11.5
 plx: 0.5096
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#fef2d4"
 UTI_C_dens_COL: "#f8c6ba"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fefee8"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.39
 UTI_C_dens: 0.18
 UTI_C_C3: 0.25
-UTI_C_lit: 0.5
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P329, along with CWNU_1759.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.9
 N_50_val: 39
 scix_url: Loden%20309

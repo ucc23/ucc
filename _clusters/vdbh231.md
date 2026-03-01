@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 231
 title_flag: true
-more_names: vdBergh-Hagen 231; MWSC 2620; BH 231
+more_names: BH 231; vdBergh-Hagen 231; MWSC 2620
 fname: vdbh231
 members_file: "352_356"
 fov: 0.093
@@ -13,17 +13,17 @@ glon: 355.89736
 glat: 0.92488
 r50: 2.8
 plx: 0.3418
-UTI: "0.70"
-UTI_COLOR: "#e0f1cb"
+UTI: "0.72"
+UTI_COLOR: "#dbefca"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.4
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 15.7
 N_50_val: 89
 scix_url: VDBH%20231
@@ -64,8 +65,9 @@ posit_table: |
     |[Sánchez et al.](https://scixplorer.org/abs/2020MNRAS.495.2882S) | 2020 | 262.983 | -31.91 | -- | 0.714 | -1.893 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 2019 | 262.983 | -31.91 | 0.328 | -0.851 | -1.852 | -11.34 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 262.957 | -31.92 | -- | -- | -- | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 262.983 | -31.91 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 262.983 | -31.91 | -- | 0.58 | -2.82 | -- 
-N_rows_pos: "7"
+N_rows_pos: "8"
 cds_radec: 262.95344,-31.92236
 carousel: UCC_HUNT23
 fpars_table: |

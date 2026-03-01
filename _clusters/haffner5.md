@@ -13,17 +13,17 @@ glon: 236.06434
 glat: -4.63939
 r50: 6.6
 plx: 0.5802
-UTI: "0.86"
-UTI_COLOR: "#b9e0c4"
+UTI: "0.88"
+UTI_COLOR: "#b4ddc3"
 UTI_C_N_COL: "#b2dcc2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#b7dfc3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.89
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.84
+UTI_C_lit: 0.87
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -46,13 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>No cluster (Piatti, A. E.; Clariá, J. J.; Ahumada, A. V. 2011, NewA 16, 161); cat V3.5 (Jan 2016)</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2011NewA...16..161P' target='_blank'>Piatti et al. (2011)</a></u><br>Not a genuine open cluster.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 42.1
 N_50_val: 461
 scix_url: Haffner%205
@@ -75,14 +76,15 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 109.507 | -22.654 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 109.493 | -22.66 | 0.571 | 0.965 | -4.06 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 109.487 | -22.665 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 109.492 | -22.667 | -- | -3.95 | -1.36 | -- 
-N_rows_pos: "16"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 109.492 | -22.667 | -- | -3.95 | -1.36 | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 109.504 | -22.671 | -- | -- | -- | -- 
+N_rows_pos: "17"
 cds_radec: 109.48981,-22.66876
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.67 | 0.8 | 0.55 | 2757 | -0.154 | 631 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.67 | 0.79 | 0.55 | 2630 | -0.154 | 897 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.66 | 0.79 | -- | 4730 | -0.154 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.190<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.59 | 0.81 | -- | 5176 | -- | 631 | -- | -- |
@@ -98,7 +100,9 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.67 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.07 | 2.13 | -- | 398 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.07 | 2.13 | -- | 398 | -- | -- | -- | -- |
-N_rows_pars: "15"
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1404 | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.70<sup>(1)</sup> | 0.65 | -- | 2239 | -- | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
 

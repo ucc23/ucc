@@ -13,17 +13,17 @@ glon: 298.78545
 glat: -1.03156
 r50: 4.6
 plx: 0.0933
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.25
-UTI_C_lit: 0.4
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -62,9 +62,10 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 183.515 | -63.591 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 183.494 | -63.586 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 183.502 | -63.59 | -- | -7.38 | -0.61 | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 183.508 | -63.594 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 183.525 | -63.6 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 183.512 | -63.593 | -- | -4.98 | 0.59 | -- 
-N_rows_pos: "7"
+N_rows_pos: "8"
 cds_radec: 183.50043,-63.59037
 carousel: UCC
 fpars_table: |
@@ -75,10 +76,11 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1514 | -- | 34 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.18 | 4.13 | -- | 1514 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.18 | 4.13 | -- | 1514 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 14.19<sup>(1)</sup> | 2.79 | -- | 1778 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 6.19 | 3.84 | -- | 1514 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.19 | 3.84 | -- | 1514 | -- | -- | -- | -- |
-N_rows_pars: "6"
-note_asterisk: false
+N_rows_pars: "7"
+note_asterisk: true
 shared_table: |
 
 N_rows_shared: "0"

@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg55' along with Ruprecht 44.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 2.5
 N_50_val: 66
 scix_url: Ruprecht%2043
@@ -67,10 +68,11 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 119.814 | -28.867 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 119.692 | -28.811 | -- | -1.82 | 0.4 | 113.37 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 119.82 | -28.87 | -- | -1.03 | 1.18 | 113.4 |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 119.821 | -28.971 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 119.811 | -28.899 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 119.82 | -28.9 | -- | -3.57 | -0.08 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 119.67 | -28.87 | -- | -4.63 | -1.9 | -- 
-N_rows_pos: "13"
+N_rows_pos: "14"
 cds_radec: 119.68198,-28.81645
 carousel: UCC_CANTAT20
 fpars_table: |

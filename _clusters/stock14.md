@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: good fit.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 339 along with IC_2944, and of multiple system 74 along with IC_2944 and Ruprecht_94.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G208, along with IC_2944 and Ruprecht_94.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 10.1
 N_50_val: 107
 scix_url: Stock%2014
@@ -59,6 +61,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |175.911 | -62.545 | 0.394 | -6.403 | 0.73 | -- |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 175.93 | -62.53 | 0.38 | -6.43 | 0.75 | -9.01 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 175.925 | -62.537 | 0.385 | -6.388 | 0.714 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 175.931 | -62.527 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 175.925 | -62.533 | 0.383 | -6.428 | 0.747 | -9.011 |
@@ -86,13 +89,14 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 175.949 | -62.452 | -- | -5.93 | 0.82 | -4.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 175.95 | -62.517 | -- | -5.93 | 0.82 | -12.91 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 175.95 | -62.517 | -- | -- | -- | -- 
-N_rows_pos: "27"
+N_rows_pos: "28"
 cds_radec: 175.91052,-62.54546
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.23 | 0.695 | 1.13 | 12 | -0.146 | 676 | 0.64 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.235 | 0.69 | 1.13 | 14 | -0.146 | 676 | 0.64 | 0.0 |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 3.12 | 0.28 | -- | 17 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.07 | 0.69 | -- | 17 | -0.146 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.29 | 0.94 | -- | 14 | -- | 164 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 774<sup>(1)</sup> | -- | -- |
@@ -118,7 +122,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.15 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.40 | 0.65 | -- | 20 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.17 | 0.76 | -- | 11 | -- | -- | -- | -- |
-N_rows_pars: "25"
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
 

@@ -18,12 +18,12 @@ UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f7fbde"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#f0b6b3"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.56
+UTI_C_lit: 0.55
 UTI_C_dup: 0.1
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs cluster aggregate 'to' Agg15 along with COIN-Gaia 16.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 12.5
 N_50_val: 102
 scix_url: COIN-Gaia%2017
@@ -91,6 +92,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 89](/_clusters/ubc89/)| 94.1 | 81.23 | 37.57 | 0.9 | 0.29 | -4.3 | 14.41 |0.01 |
-    |[Saloranta 10](/_clusters/saloranta10/)| 90.2 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.61 |
+    |[Saloranta 10](/_clusters/saloranta10/)| 90.2 | 81.23 | 37.58 | 0.9 | 0.28 | -4.31 | 14.41 |0.63 |
 N_rows_shared: "2"
 ---

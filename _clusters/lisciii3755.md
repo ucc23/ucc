@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.83 |
+    |[Teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.81 |
     |[CWWDL 14675](/_clusters/cwwdl14675/)| 19.4 | 276.61 | 26.44 | 2.88 | 0.59 | -5.34 | -20.14 |0.0 |
 N_rows_shared: "2"
 ---

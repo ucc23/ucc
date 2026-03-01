@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G12, along with ASCC_99, HSC_191 and Ruprecht_147.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 15.3
 N_50_val: 214
 scix_url: UBC%2032
@@ -66,12 +67,13 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 279.322 | -14.003 | 3.498 | -1.808 | -9.229 | -19.725 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 279.249 | -14.268 | 3.552 | -1.745 | -9.42 | -- |
     |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 279.265 | -14.078 | 3.567 | -1.762 | -9.309 | -- |
+    |[Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 279.384 | -14.064 | 3.539 | -1.789 | -9.325 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 279.312 | -14.096 | 3.563 | -1.768 | -9.279 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 279.312 | -14.096 | 3.563 | -1.768 | -9.279 | -- |
     |[Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 279.354 | -14.204 | -- | -1.81 | -9.33 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 279.424 | -14.049 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 279.436 | -14.047 | 3.562 | -1.753 | -9.265 | -21.58 
-N_rows_pos: "13"
+N_rows_pos: "14"
 cds_radec: 279.20936,-14.12612
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -86,10 +88,11 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.28 | 1.03 | 1.58 | 77 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.25 | -- | 79 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.28 | -- | -- | 141 | -- | -- | -- | -- |
+    | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.28 | -- | -- | 138 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.28 | 0.55 | -- | 138 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.28 | -- | -- | -- | -- | -- | -- | -- |
     | [Sim et al.](https://scixplorer.org/abs/2019JKAS...52..145S) | 2019 | 0.29 | -- | -- | 316 | -- | -- | -- | -- |
-N_rows_pars: "11"
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

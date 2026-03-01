@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B/abstract' target='_blank'>Borissova et al. (2018)</a></u><br>Small group around YSO: SSTGLMA G014.0632-00.5199.</p>
+    <p><u><a href='https://scixplorer.org/abs/2018MNRAS.481.3902B' target='_blank'>Borissova et al. (2018)</a></u><br>Small group around YSO: SSTGLMA G014.0632-00.5199.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
@@ -70,7 +70,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 210](/_clusters/ryu210/)| 16.0 | 274.31 | -16.91 | 0.56 | -0.78 | -2.23 | 13.88 |0.14 |
+    |[G3CC 55](/_clusters/g3cc55/)| 12.0 | 274.56 | -16.96 | 0.69 | -0.35 | -1.65 | -20.32 |0.07 |
     |[MCM 3](/_clusters/mcm3/)| 12.0 | 274.71 | -17.05 | 0.61 | -0.61 | -2.17 | 15.3 |0.25 |
     |[VVVX CL097](/_clusters/vvvxcl097/)| 4.0 | 274.52 | -16.84 | 0.62 | 0.14 | -1.82 | 0.43 |0.33 |
-N_rows_shared: "3"
+N_rows_shared: "4"
 ---

@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P522, along with HSC_727.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.3
 N_50_val: 40
 scix_url: RSG4
@@ -67,18 +68,19 @@ posit_table: |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 287.84 | 56.86 | 3.06 | -2.5 | 3.6 | -23.18 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 287.959 | 56.89 | 3.084 | -2.471 | 3.728 | -- |
     |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 287.68 | 56.955 | 3.089 | -2.471 | 3.628 | -- |
+    |[Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 287.885 | 56.801 | 3.049 | -2.495 | 3.723 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 287.87 | 56.801 | 3.049 | -2.579 | 3.649 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 287.87 | 56.801 | 3.049 | -2.579 | 3.649 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 287.824 | 56.624 | -- | -- | -- | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2018A%26A...618A..59C) | 2018 | 287.998 | 56.833 | 3.051 | -2.493 | 3.694 | -21.46 |
     |[Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 288.54 | 56.97 | -- | -0.27 | 5.71 | -- 
-N_rows_pos: "14"
+N_rows_pos: "15"
 cds_radec: 287.74793,+56.78662
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.32 | 0.285 | 0.41 | 89 | 0.102 | 108 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.325 | 0.285 | 0.41 | 88 | 0.049 | 108 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.31 | 0.02 | -- | 102 | 0.049 | -- | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.33 | 0.35 | -- | 89 | 0.009 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.155<sup>(1)</sup> | -- | -- | -- |
@@ -88,10 +90,11 @@ fpars_table: |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.32 | 0.12 | -- | 89 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.35 | -- | 79 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.32 | -- | -- | 71 | -- | -- | -- | -- |
+    | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.33 | -- | -- | 69 | 0.020<sup>(20)</sup> | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.33 | 0.35 | -- | 69 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.32 | -- | -- | -- | -- | -- | -- | -- |
     | [Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 0.36 | 0.22 | -- | 355 | -- | -- | -- | -- |
-N_rows_pars: "12"
+N_rows_pars: "13"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

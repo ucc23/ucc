@@ -69,5 +69,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MCM 20](/_clusters/mcm20/)| 84.6 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.21 |
-N_rows_shared: "1"
+    |[Mol 99](/_clusters/mol99/)| 15.4 | 288.0 | 9.83 | 0.16 | -2.65 | -5.35 | 52.07 |0.17 |
+N_rows_shared: "2"
 ---

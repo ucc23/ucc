@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G210, along with L_1641S and OC_0356.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 24.5
 N_50_val: 209
 scix_url: OCSN%2070
@@ -78,9 +79,9 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.42 |
+    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.49 |
     |[FSR 1088](/_clusters/fsr1088/)| 15.8 | 85.27 | -9.35 | 2.29 | 0.49 | -1.2 | 16.61 |0.47 |
     |[Cmg 109](/_clusters/cmg109/)| 12.0 | 85.25 | -8.97 | 2.22 | 0.48 | -1.0 | 16.48 |0.45 |
-    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.87 |
+    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.85 |
 N_rows_shared: "4"
 ---

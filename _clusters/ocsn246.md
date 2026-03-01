@@ -71,9 +71,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2907](/_clusters/hsc2907/)| 69.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.41 |
+    |[HSC 2907](/_clusters/hsc2907/)| 69.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.49 |
     |[CWWDL 14698](/_clusters/cwwdl14698/)| 23.3 | 244.65 | -25.04 | 6.28 | -10.79 | -21.61 | -4.49 |0.43 |
-    |[OCSN 96](/_clusters/ocsn96/)| 15.1 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.67 |
+    |[OCSN 96](/_clusters/ocsn96/)| 15.1 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.69 |
     |[OCSN 245](/_clusters/ocsn245/)| 1.2 | 246.4 | -24.04 | 7.2 | -7.05 | -25.65 | -7.74 |0.53 |
 N_rows_shared: "4"
 ---

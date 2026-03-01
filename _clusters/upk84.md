@@ -18,12 +18,12 @@ UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f7fbde"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.77
 UTI_C_dens: 0.86
 UTI_C_C3: 1.0
-UTI_C_lit: 0.56
+UTI_C_lit: 0.55
 UTI_C_dup: 0.4
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

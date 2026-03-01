@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 156
 title_flag: true
-more_names: MWSC 3137
+more_names: BDS2003 156; MWSC 3137
 fname: bdsb156
 members_file: "52_56"
 fov: 0.267
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of emission related to PAH or warm dust.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 13
 scix_url: BDSB%20156
@@ -58,8 +59,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |292.94 | 18.705 | 0.278 | -3.024 | -6.001 | 30.889 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 292.928 | 18.678 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 292.935 | 18.68 | -- | 0.13 | -7.78 | -- 
-N_rows_pos: "2"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 292.935 | 18.68 | -- | 0.13 | -7.78 | -- |
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 292.929 | 18.699 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 292.9398,+18.70465
 carousel: UCC
 fpars_table: |
@@ -68,7 +70,8 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.45 | 5.91 | -- | 98 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.45 | 5.91 | -- | 98 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.45 | 5.91 | -- | 98 | -- | -- | -- | -- |
-N_rows_pars: "2"
+    | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 7.00 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
 

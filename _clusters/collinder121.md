@@ -13,17 +13,17 @@ glon: 235.72136
 glat: -10.00944
 r50: 8.5
 plx: 0.1745
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#e2f2cc"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.12
-UTI_C_lit: 0.69
+UTI_C_lit: 0.7
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 0.0, 0 WD candidates found, and 15 WD candidates found in the wide search.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.1
 N_50_val: 15
 scix_url: Collinder%20121
@@ -58,6 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |104.1 | -24.75 | 0.174 | -0.201 | 2.08 | 93.923 |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 103.641 | -24.312 | 1.135 | -2.786 | 3.482 | -- |
+    |[Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | 104.056 | -24.256 | 1.119 | -2.81 | 3.405 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 104.085 | -24.728 | -- | -1.002 | 1.221 | 31.4 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 104.083 | -24.729 | -- | -1.32 | 0.6 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 104.083 | -24.729 | -- | -- | -- | -- |
@@ -69,14 +71,15 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 103.536 | -24.636 | -- | -3.19 | 4.56 | 35.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 104.083 | -24.729 | -- | -3.87 | 4.08 | 31.35 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 104.083 | -24.73 | -- | -- | -- | -- 
-N_rows_pos: "12"
+N_rows_pos: "13"
 cds_radec: 104.10031,-24.75032
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 0.09 | -- | 12 | -- | 4365 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 0.105 | -- | 12 | -- | 4365 | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.88<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
+    | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.30 | -- | 20 | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.54 | 0.09 | -- | 12 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 1.10 | -- | -- | 12 | -- | 4365 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.10 | 0.12 | -- | 12 | -- | -- | -- | -- |
@@ -86,7 +89,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.47 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.10 | 0.12 | -- | 12 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.63 | 0.08 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "10"
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 

@@ -76,7 +76,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.78 |
+    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.82 |
     |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.88 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 4.3 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.16 |
     |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.69 |

@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 87.7 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.5 |
+    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 87.7 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.6 |
     |[Cep OB6](/_clusters/cepob6/)| 34.2 | 335.13 | 56.44 | 4.13 | 16.79 | 4.79 | -14.34 |0.0 |
 N_rows_shared: "2"
 ---

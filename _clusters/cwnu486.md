@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0587](/_clusters/oc0587/)| 44.4 | 193.71 | -61.77 | 0.52 | -5.25 | -1.34 | 97.64 |0.5 |
+    |[OC 0587](/_clusters/oc0587/)| 44.4 | 193.71 | -61.77 | 0.52 | -5.25 | -1.34 | 97.64 |0.52 |
 N_rows_shared: "1"
 ---

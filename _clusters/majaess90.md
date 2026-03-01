@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping pair) P234, along with Ivanov_6.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.5
 N_50_val: 34
 scix_url: Majaess%2090
@@ -78,6 +79,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1337](/_clusters/cwnu1337/)| 76.5 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.18 |
-    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.65 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.69 |
 N_rows_shared: "2"
 ---

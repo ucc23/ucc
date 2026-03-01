@@ -13,17 +13,17 @@ glon: 286.5146
 glat: 1.79475
 r50: 4.4
 plx: 0.3299
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e2f2cc"
+UTI_C_lit_COL: "#e9f5d0"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.69
+UTI_C_lit: 0.65
 UTI_C_dup: 0.88
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -46,7 +46,7 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -94,6 +94,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 61](/_clusters/ascc61/)| 11.5 | 161.54 | -56.96 | 0.34 | -7.97 | 3.61 | -20.89 |0.65 |
+    |[ASCC 61](/_clusters/ascc61/)| 11.5 | 161.54 | -56.96 | 0.34 | -7.97 | 3.61 | -20.89 |0.64 |
 N_rows_shared: "1"
 ---

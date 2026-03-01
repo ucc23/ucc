@@ -13,17 +13,17 @@ glon: 249.1645
 glat: -0.11069
 r50: 7.8
 plx: 0.2531
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Listed as a remnant in catalogues but never studied in detail; physical nature uncertain. More details in Appendix A of the article.</p>
+    <p><u><a href='https://scixplorer.org/abs/2020A%26A...633A..99C' target='_blank'>Cantat-Gaudin & Anders (2020)</a></u><br>Listed as a remnant in catalogues but never studied in detail; physical nature uncertain. More details in Appendix A of the article.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -61,8 +61,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 121.262 | -31.814 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 121.262 | -31.814 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 121.271 | -31.817 | -- | -2.5 | -0.63 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 121.267 | -31.817 | -- | 0.61 | 0.71 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 121.267 | -31.817 | -- | 0.61 | 0.71 | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 121.263 | -31.809 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 121.27268,-31.81012
 carousel: UCC
 fpars_table: |

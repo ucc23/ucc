@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.6
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>

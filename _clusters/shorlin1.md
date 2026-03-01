@@ -13,17 +13,17 @@ glon: 290.56629
 glat: -0.91757
 r50: 0.4
 plx: 0.1078
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.60"
+UTI_COLOR: "#f1f9d6"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.4
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Turner, D. G. 2012, Ap&SS 337, 303)</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Turner, D. G. 2012, Ap&SS 337, 303); cat V3.5 (Jan 2016)</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -64,8 +64,9 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 166.443 | -61.231 | 0.083 | -5.869 | 2.189 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 166.443 | -61.231 | 0.083 | -5.869 | 2.189 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 166.572 | -61.239 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 166.579 | -61.243 | -- | -5.4 | -0.16 | -- 
-N_rows_pos: "7"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 166.579 | -61.243 | -- | -5.4 | -0.16 | -- |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 166.592 | -61.242 | -- | -- | -- | -- 
+N_rows_pos: "8"
 cds_radec: 166.44655,-61.22806
 carousel: UCC_CANTAT20
 fpars_table: |

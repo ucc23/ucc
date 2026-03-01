@@ -13,17 +13,17 @@ glon: 163.50445
 glat: -15.04658
 r50: 54.7
 plx: 2.7396
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f7fbde"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.67
 UTI_C_C3: 1.0
-UTI_C_lit: 0.56
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -88,7 +88,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 285](/_clusters/ocsn285/)| 65.5 | 60.52 | 32.25 | 2.69 | 3.6 | -5.24 | 20.31 |0.31 |
-    |[OC 0280](/_clusters/oc0280/)| 19.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.21 |
+    |[OC 0280](/_clusters/oc0280/)| 19.5 | 60.57 | 32.15 | 2.65 | 3.6 | -5.21 | 21.76 |0.22 |
     |[CWNU 442](/_clusters/cwnu442/)| 7.1 | 63.19 | 31.6 | 2.78 | 3.68 | -5.65 | 19.87 |0.4 |
 N_rows_shared: "3"
 ---

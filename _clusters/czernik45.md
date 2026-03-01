@@ -13,17 +13,17 @@ glon: 117.00396
 glat: 2.39175
 r50: 1.2
 plx: 0.2454
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#e7f4cf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.66
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.35
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -62,20 +62,23 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 358.948 | 64.616 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 359.075 | 64.55 | -- | -3.09 | 1.04 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 358.957 | 64.62 | -- | -6.03 | -7.14 | -79.8 |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 358.957 | 64.62 | -- | -6.03 | -7.14 | -79.8 
-N_rows_pos: "6"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 358.957 | 64.62 | -- | -6.03 | -7.14 | -79.8 |
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 358.933 | 64.624 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 358.9281,+64.61995
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.5 | 3.56 | -- | 51 | -- | 68 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.5 | 3.56 | -- | 51 | -- | 212 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 51 | -- | 68 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.50 | 3.56 | -- | 51 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.50 | 3.56 | -- | 51 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 357 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.50 | 3.56 | -- | 51 | -- | -- | -- | -- |
-N_rows_pars: "4"
-note_asterisk: false
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.51<sup>(1)</sup> | 2.79 | -- | 22 | -- | -- | -- | -- |
+N_rows_pars: "6"
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

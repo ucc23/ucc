@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: XDOCC 01
 title_flag: true
-more_names: 
+more_names: XDOCC 1
 fname: xdocc01
 members_file: "124_128"
 fov: 0.543
@@ -13,17 +13,17 @@ glon: 126.74176
 glat: -4.34105
 r50: 16.3
 plx: 1.2532
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#f5fbdc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.57
 UTI_C_C3: 0.5
-UTI_C_lit: 0.3
+UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Moderately dense
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as hyperbolic encounter pair 400 along with HSC_1005, and of multiple system 50 along with HSC_1005 and Theia_872.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 2.9
 N_50_val: 41
 scix_url: XDOCC%2001
@@ -58,23 +59,25 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |20.119 | 58.312 | 1.253 | -1.689 | -0.429 | -27.211 |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 20.05 | 58.34 | 1.25 | -1.7 | -0.47 | -25.5 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 20.053 | 58.335 | 1.247 | -1.703 | -0.474 | -25.501 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 20.07 | 58.251 | 1.245 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 20.053 | 58.335 | 1.247 | -1.703 | -0.474 | -25.501 |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 19.898 | 58.353 | 1.26 | -1.683 | -0.343 | -- 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 20.11942,+58.31189
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.8 | 0.78 | 0.81 | 180 | 0.520 | 152 | 0.38 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.905 | 0.735 | 0.81 | 225 | 0.520 | 152 | 0.38 | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.12 | 0.30 | -- | 339 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 92<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.01 | 0.97 | -- | 100 | 0.640 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.77 | 0.78 | 0.81 | 225 | -- | -- | -- | -- |
     | [Piatti et al.](https://scixplorer.org/abs/2023MNRAS.518.6216P) | 2023 | -- | -- | -- | 135 | 0.400 | 213 | 0.38 | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.80<sup>(1)</sup> | 0.69 | -- | 337 | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
 

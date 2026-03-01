@@ -13,17 +13,17 @@ glon: 286.46533
 glat: 1.85042
 r50: 2.8
 plx: 0.3365
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#b2dcc2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e2f2cc"
+UTI_C_lit_COL: "#e9f5d0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.89
 UTI_C_C3: 0.75
-UTI_C_lit: 0.69
+UTI_C_lit: 0.65
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
@@ -92,6 +92,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 1](/_clusters/gulliver1/)| 96.2 | 161.59 | -57.04 | 0.33 | -7.96 | 3.61 | -20.89 |0.69 |
+    |[Gulliver 1](/_clusters/gulliver1/)| 96.2 | 161.59 | -57.04 | 0.33 | -7.96 | 3.61 | -20.89 |0.68 |
 N_rows_shared: "1"
 ---

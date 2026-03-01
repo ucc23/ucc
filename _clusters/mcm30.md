@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2005ApJ...635..560M' target='_blank'>Mercer et al. (2005)</a></u><br>Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. Appears in 2MASS images. Detected using 'bright' 3.6m magnitude cut.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.1
 N_50_val: 14
 scix_url: MCM%2030

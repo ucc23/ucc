@@ -13,17 +13,17 @@ glon: 281.01015
 glat: -0.15067
 r50: 6.1
 plx: 0.3703
-UTI: "0.22"
-UTI_COLOR: "#fbd0bf"
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fef4d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.17
 UTI_C_C3: 0.25
-UTI_C_lit: 0.35
+UTI_C_lit: 0.4
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Initially proposed as an old nearby cluster, but radial velocity studies show no co-moving group; not physical. More details in Appendix A of the article.</p>
+    <p><u><a href='https://scixplorer.org/abs/2020A%26A...633A..99C' target='_blank'>Cantat-Gaudin & Anders (2020)</a></u><br>Initially proposed as an old nearby cluster, but radial velocity studies show no co-moving group; not physical. More details in Appendix A of the article.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>

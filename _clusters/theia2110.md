@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -76,7 +76,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.68 |
+    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.66 |
     |[CWWDL 13798](/_clusters/cwwdl13798/)| 44.1 | 113.86 | -18.6 | 0.41 | -1.74 | 2.41 | -- |0.09 |
 N_rows_shared: "2"
 ---

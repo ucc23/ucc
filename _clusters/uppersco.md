@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 96](/_clusters/ocsn96/)| 6.8 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.67 |
+    |[OCSN 96](/_clusters/ocsn96/)| 6.8 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.69 |
 N_rows_shared: "1"
 ---

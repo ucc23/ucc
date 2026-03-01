@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -76,7 +76,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.06 |
+    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.07 |
     |[LISC 3170](/_clusters/lisc3170/)| 71.2 | 214.65 | -62.66 | 0.46 | -3.91 | -2.55 | -- |0.07 |
 N_rows_shared: "2"
 ---

@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -84,7 +84,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.16 |
+    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.17 |
     |[OC 0287](/_clusters/oc0287/)| 20.0 | 79.46 | 38.03 | 0.62 | 1.04 | -3.6 | -19.37 |0.12 |
 N_rows_shared: "2"
 ---

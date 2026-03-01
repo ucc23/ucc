@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A/abstract' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -87,7 +87,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 70](/_clusters/ubc70/)| 96.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.0 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.7 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.74 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 78.4 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
 N_rows_shared: "3"
 ---

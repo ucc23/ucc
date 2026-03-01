@@ -46,8 +46,8 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2020A&A...633A..99C/abstract' target='_blank'>Cantat-Gaudin et al. (2020)</a></u><br>Density enhancement without meaningful CMD features; likely not a real cluster. More details in Appendix A of the article.</p>
-    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D/abstract' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Carraro, G.; Patat, F. 1995, MNRAS 276, 563)</p>
+    <p><u><a href='https://scixplorer.org/abs/2020A%26A...633A..99C' target='_blank'>Cantat-Gaudin & Anders (2020)</a></u><br>Density enhancement without meaningful CMD features; likely not a real cluster. More details in Appendix A of the article.</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Carraro, G.; Patat, F. 1995, MNRAS 276, 563); cat V3.5 (Jan 2016)</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>

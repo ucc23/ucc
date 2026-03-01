@@ -46,7 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2020A&A...635A..45C/abstract' target='_blank'>Castro-Ginard et al. (2020)</a></u><br>Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5.</p>
+    <p><u><a href='https://scixplorer.org/abs/2020A%26A...635A..45C' target='_blank'>Castro-Ginard et al. (2020)</a></u><br>Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 12](/_clusters/upk12/)| 100.0 | 288.87 | -22.14 | 1.51 | 0.61 | -6.69 | 4.33 |0.82 |
+    |[UPK 12](/_clusters/upk12/)| 100.0 | 288.87 | -22.14 | 1.51 | 0.61 | -6.69 | 4.33 |0.83 |
 N_rows_shared: "1"
 ---

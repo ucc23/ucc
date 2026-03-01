@@ -13,17 +13,17 @@ glon: 205.67393
 glat: -17.74156
 r50: 32.1
 plx: 2.3665
-UTI: "0.56"
-UTI_COLOR: "#f7fbde"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#c4e5c7"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.35
 UTI_C_dup: 0.82
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C/abstract' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 321 along with Theia_13, and of multiple system 3 along with ASCC_18, Sigma_Orionis, CWNU_1054 and Theia_13.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G229, along with OCSN_56, Theia_13, CWNU_1072, Sigma_Orionis, CWNU_1088, ASCC_18 and OCSN_68.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 16.4
 N_50_val: 255
 scix_url: OCSN%2065
@@ -58,30 +60,32 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |83.789 | -1.805 | 2.366 | -1.311 | 0.921 | 27.08 |
+    |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 83.76 | -2.16 | 2.36 | -1.26 | 0.93 | 33.16 |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 83.764 | -2.155 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 83.764 | -2.155 | 2.365 | -1.258 | 0.93 | 33.161 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 83.749 | -1.836 | 2.362 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 83.764 | -2.155 | 2.365 | -1.258 | 0.93 | 33.161 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 83.88 | -1.79 | 2.37 | -1.34 | 0.93 | 26.34 
-N_rows_pos: "5"
+N_rows_pos: "6"
 cds_radec: 83.78876,-1.80532
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 0.59 | 0.58 | 13 | -0.162 | 52 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.46 | 0.475 | 0.58 | 14 | -0.162 | 52 | -- | -- |
+    | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.48 | 0.14 | -- | 19 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.133<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 52<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.44 | 0.85 | -- | 5 | -0.190 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.41 | 0.36 | 0.58 | 13 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.52 | 0.59 | -- | 14 | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.69 |
     |[OCSN 194](/_clusters/ocsn194/)| 14.5 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.51 |
+    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.52 |
 N_rows_shared: "3"
 ---
