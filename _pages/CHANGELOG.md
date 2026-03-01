@@ -9,6 +9,25 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260301](https://zenodo.org/records/18824643)
+
+- Added Lui et al. (2025)
+- Added Richer et al. (2021)
+- Added Spina et al. (2021)
+- Added Zhong et al. (2020)
+- Added Morales et al. (2013)
+- Added Bukowiecki  et al. (2012)
+- Added Bukowiecki  et al. (2011)
+
+Previously only listed as comments:
+
+- Added Palma et al. (2025)
+- Added Piecka & Paunzen (2021)
+- Added Piatti et al. (2011)
+
+
+
+
 ## Version [260219](https://doi.org/10.5281/zenodo.18704407)
 
 - Added Obasi et al. (2026)
