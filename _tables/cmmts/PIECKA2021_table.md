@@ -20,7 +20,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessi44/" target="_blank" style="color: $blue;">Alessi 44</a> | Belongs to cluster aggregate 'Agg06' along with UBC 14. |
 | <a href="{{ site.baseurl }}/_clusters/alessi5/" target="_blank" style="color: $blue;">Alessi 5</a> | Belongs to cluster aggregate 'Agg07' along with BH 99. |
 | <a href="{{ site.baseurl }}/_clusters/alessiteutsch5/" target="_blank" style="color: $blue;">Alessi Teutsch 5</a> | Belongs cluster aggregate 'to' Agg08 along with BDSB30. |
-| <a href="{{ site.baseurl }}/_clusters/bdsb30/" target="_blank" style="color: $blue;">BDSB30</a> | Belongs to Agg08 cluster aggregate 'along' with Alessi Teutsch 5. |
+| <a href="{{ site.baseurl }}/_clusters/bdsb30/" target="_blank" style="color: $blue;">BDSB 30</a> | Belongs to Agg08 cluster aggregate 'along' with Alessi Teutsch 5. |
 | <a href="{{ site.baseurl }}/_clusters/barkhatova1/" target="_blank" style="color: $blue;">Barkhatova 1</a> | Belongs to cluster aggregate 'Agg10' along with Gulliver 30. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley58/" target="_blank" style="color: $blue;">Berkeley 58</a> | Belongs to cluster aggregate 'Agg11' along with NGC 7788 and NGC 7790. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley62/" target="_blank" style="color: $blue;">Berkeley 62</a> | Belongs to cluster aggregate 'Agg12' along with COIN-Gaia 29. |

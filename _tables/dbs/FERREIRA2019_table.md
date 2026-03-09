@@ -13,9 +13,9 @@ style: style
 | Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/melotte137/" target="_blank" style="color: $blue;">Melotte 137</a> | 238.04 | -56.48 | 326.01 | -1.94 | 0.35 | 495 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.98 |
-| <a href="{{ site.baseurl }}/_clusters/ufmg1/" target="_blank" style="color: $blue;">UFMG 1</a> | 236.58 | -56.8 | 325.18 | -1.68 | 0.37 | 335 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.69 |
-| <a href="{{ site.baseurl }}/_clusters/ufmg2/" target="_blank" style="color: $blue;">UFMG 2</a> | 237.58 | -55.96 | 326.13 | -1.37 | 0.37 | 754 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.8 |
-| <a href="{{ site.baseurl }}/_clusters/ufmg3/" target="_blank" style="color: $blue;">UFMG 3</a> | 238.12 | -55.42 | 326.71 | -1.13 | 0.49 | 404 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.64 |
+| <a href="{{ site.baseurl }}/_clusters/ufmg1/" target="_blank" style="color: $blue;">UFMG 1</a> | 236.58 | -56.8 | 325.18 | -1.68 | 0.37 | 335 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.67 |
+| <a href="{{ site.baseurl }}/_clusters/ufmg2/" target="_blank" style="color: $blue;">UFMG 2</a> | 237.58 | -55.96 | 326.13 | -1.37 | 0.37 | 754 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.77 |
+| <a href="{{ site.baseurl }}/_clusters/ufmg3/" target="_blank" style="color: $blue;">UFMG 3</a> | 238.12 | -55.42 | 326.71 | -1.13 | 0.49 | 404 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.62 |
 
 
 

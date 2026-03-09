@@ -64,8 +64,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/antalova1/" target="_blank" style="color: $blue;">Antalova 1</a> | Part of multiple system G175, along with Trumpler_28 and HSC_2945. |
 | <a href="{{ site.baseurl }}/_clusters/antalova2/" target="_blank" style="color: $blue;">Antalova 2</a> | Part of multiple system G5, along with NGC_6383 and Theia_1645. |
 | <a href="{{ site.baseurl }}/_clusters/avenihunter1/" target="_blank" style="color: $blue;">Aveni Hunter 1</a> | Part of multiple system G13, along with HSC_883, HSC_886 and HSC_859. |
+| <a href="{{ site.baseurl }}/_clusters/bdsb30/" target="_blank" style="color: $blue;">BDSB 30</a> | Classified as tidal capture (resonant trapping pair) P2, along with OC_0181. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb93/" target="_blank" style="color: $blue;">BDSB 93</a> | Classified as genetic pair P187, along with HSC_1740. |
-| <a href="{{ site.baseurl }}/_clusters/bdsb30/" target="_blank" style="color: $blue;">BDSB30</a> | Classified as tidal capture (resonant trapping pair) P2, along with OC_0181. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb96/" target="_blank" style="color: $blue;">BDSB96</a> | Part of multiple system G89, along with OC_0377, FSR_1178 and vdBergh_92. |
 | <a href="{{ site.baseurl }}/_clusters/basel1/" target="_blank" style="color: $blue;">Basel 1</a> | Classified as optical pair P268, along with HSC_269. |
 | <a href="{{ site.baseurl }}/_clusters/basel11a/" target="_blank" style="color: $blue;">Basel 11a</a> | Classified as optical pair P82, along with HSC_1797. |
@@ -109,7 +109,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1020/" target="_blank" style="color: $blue;">CWNU 1020</a> | Part of multiple system G146, along with HSC_2260 and HSC_2282. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1024/" target="_blank" style="color: $blue;">CWNU 1024</a> | Classified as optical pair P267, along with ASCC_33. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1029/" target="_blank" style="color: $blue;">CWNU 1029</a> | Part of multiple system G26, along with Theia_1713, Theia_1722 and Theia_1740. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1031/" target="_blank" style="color: $blue;">CWNU 1031</a> | Part of multiple system G1, along with Alessi_3, CWNU_1265 and CWNU_536. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1031/" target="_blank" style="color: red;">CWNU 1031</a> | Part of multiple system G1, along with Alessi_3, CWNU_1265 and CWNU_536. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1032/" target="_blank" style="color: $blue;">CWNU 1032</a> | Classified as optical pair P287, along with HSC_544. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1042/" target="_blank" style="color: $blue;">CWNU 1042</a> | Classified as genetic pair P194, along with NGC_1444. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1044/" target="_blank" style="color: $blue;">CWNU 1044</a> | Classified as optical pair P195, along with HSC_2196. |
@@ -138,7 +138,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1143/" target="_blank" style="color: $blue;">CWNU 1143</a> | Part of multiple system G177, along with HSC_2976 and HSC_2971. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1145/" target="_blank" style="color: $blue;">CWNU 1145</a> | Part of multiple system G32, along with FSR_0744 and CWNU_154. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1150/" target="_blank" style="color: $blue;">CWNU 1150</a> | Part of multiple system G33, along with Alessi_34 and Gulliver_9. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1155/" target="_blank" style="color: $blue;">CWNU 1155</a> | Part of multiple system G34, along with UPK_220 and PTB_9. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1155/" target="_blank" style="color: red;">CWNU 1155</a> | Part of multiple system G34, along with UPK_220 and PTB_9. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1169/" target="_blank" style="color: $blue;">CWNU 1169</a> | Classified as optical pair P285, along with CWNU_1013. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1173/" target="_blank" style="color: $blue;">CWNU 1173</a> | Classified as genetic pair P196, along with CWNU_1256. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1178/" target="_blank" style="color: red;">CWNU 1178</a> | Part of multiple system G35, along with HSC_1923 and HSC_1986. |
@@ -154,15 +154,15 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1256/" target="_blank" style="color: $blue;">CWNU 1256</a> | Classified as genetic pair P196, along with CWNU_1173. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1262/" target="_blank" style="color: $blue;">CWNU 1262</a> | Classified as optical pair P297, along with HSC_1648. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1265/" target="_blank" style="color: red;">CWNU 1265</a> | Part of multiple system G1, along with Alessi_3, CWNU_536 and CWNU_1031. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1266/" target="_blank" style="color: $blue;">CWNU 1266</a> | Classified as optical pair P298, along with UBC_189. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1266/" target="_blank" style="color: red;">CWNU 1266</a> | Classified as optical pair P298, along with UBC_189. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1270/" target="_blank" style="color: red;">CWNU 1270</a> | Classified as optical pair P265, along with ASCC_123. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1273/" target="_blank" style="color: $blue;">CWNU 1273</a> | Classified as optical pair (not dynamically associated) P92, along with HSC_1893. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1276/" target="_blank" style="color: $blue;">CWNU 1276</a> | Classified as optical pair P299, along with HSC_779. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1279/" target="_blank" style="color: $blue;">CWNU 1279</a> | Part of multiple system G169, along with OC_0681 and HSC_2894. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1276/" target="_blank" style="color: red;">CWNU 1276</a> | Classified as optical pair P299, along with HSC_779. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1279/" target="_blank" style="color: red;">CWNU 1279</a> | Part of multiple system G169, along with OC_0681 and HSC_2894. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu128/" target="_blank" style="color: $blue;">CWNU 128</a> | Classified as optical pair P300, along with CWNU_129. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1281/" target="_blank" style="color: $blue;">CWNU 1281</a> | Part of multiple system G40, along with HSC_1641, CWNU_158, HSC_1636 and Collinder_104. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1284/" target="_blank" style="color: $blue;">CWNU 1284</a> | Classified as optical pair P93, along with CWNU_2708. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu129/" target="_blank" style="color: $blue;">CWNU 129</a> | Classified as optical pair P300, along with CWNU_128. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu129/" target="_blank" style="color: red;">CWNU 129</a> | Classified as optical pair P300, along with CWNU_128. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1290/" target="_blank" style="color: $blue;">CWNU 1290</a> | Classified as optical pair (not dynamically associated) P94, along with PHOC_22. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1292/" target="_blank" style="color: $blue;">CWNU 1292</a> | Classified as optical pair P301, along with HSC_285. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1298/" target="_blank" style="color: $blue;">CWNU 1298</a> | Part of multiple system G84, along with FSR_0498 and Stock_20. |
@@ -177,16 +177,16 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1388/" target="_blank" style="color: $blue;">CWNU 1388</a> | Classified as optical pair P96, along with CWNU_2277. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1391/" target="_blank" style="color: $blue;">CWNU 1391</a> | Classified as optical pair P97, along with Ruprecht_137. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1394/" target="_blank" style="color: $blue;">CWNU 1394</a> | Classified as optical pair P306, along with UBC_1462. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1398/" target="_blank" style="color: $blue;">CWNU 1398</a> | Classified as optical pair P198, along with FoF_1182. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1398/" target="_blank" style="color: red;">CWNU 1398</a> | Classified as optical pair P198, along with FoF_1182. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1409/" target="_blank" style="color: $blue;">CWNU 1409</a> | Part of multiple system G49, along with Theia_2045, OC_0018 and CWNU_2188. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1422/" target="_blank" style="color: $blue;">CWNU 1422</a> | Classified as optical pair (not dynamically associated) P307, along with FSR_0665. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1438/" target="_blank" style="color: $blue;">CWNU 1438</a> | Classified as optical pair P308, along with FSR_1172. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1439/" target="_blank" style="color: $blue;">CWNU 1439</a> | Classified as optical pair P98, along with CWNU_1478. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1441/" target="_blank" style="color: $blue;">CWNU 1441</a> | Classified as optical pair P99, along with Theia_2007. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1441/" target="_blank" style="color: red;">CWNU 1441</a> | Classified as optical pair P99, along with Theia_2007. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1445/" target="_blank" style="color: $blue;">CWNU 1445</a> | Classified as optical pair P309, along with CWNU_2918. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1446/" target="_blank" style="color: $blue;">CWNU 1446</a> | Classified as optical pair (not dynamically associated) P100, along with CWNU_1615. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1455/" target="_blank" style="color: $blue;">CWNU 1455</a> | Classified as optical pair P310, along with HSC_2719. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1464/" target="_blank" style="color: $blue;">CWNU 1464</a> | Part of multiple system G117, along with HSC_1411 and HSC_1417. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1464/" target="_blank" style="color: red;">CWNU 1464</a> | Part of multiple system G117, along with HSC_1411 and HSC_1417. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1465/" target="_blank" style="color: $blue;">CWNU 1465</a> | Classified as optical pair P311, along with CWNU_2530. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1466/" target="_blank" style="color: $blue;">CWNU 1466</a> | Classified as optical pair P101, along with HSC_2947. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1468/" target="_blank" style="color: $blue;">CWNU 1468</a> | Part of multiple system G101, along with CWNU_2598, HSC_104 and UFMG_81. |
@@ -196,8 +196,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1503/" target="_blank" style="color: $blue;">CWNU 1503</a> | Classified as optical pair (not dynamically associated) P102, along with NGC_2302. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1528/" target="_blank" style="color: $blue;">CWNU 1528</a> | Part of multiple system G39, along with CWNU_2792, HSC_2678 and CWNU_1560. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1529/" target="_blank" style="color: $blue;">CWNU 1529</a> | Classified as tidal capture (resonant trapping pair) P6, along with CWNU_1538. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1535/" target="_blank" style="color: $blue;">CWNU 1535</a> | Classified as optical pair P314, along with CWNU_2622. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1538/" target="_blank" style="color: $blue;">CWNU 1538</a> | Classified as tidal capture (resonant trapping pair) P6, along with CWNU_1529. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1535/" target="_blank" style="color: red;">CWNU 1535</a> | Classified as optical pair P314, along with CWNU_2622. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1538/" target="_blank" style="color: red;">CWNU 1538</a> | Classified as tidal capture (resonant trapping pair) P6, along with CWNU_1529. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu154/" target="_blank" style="color: $blue;">CWNU 154</a> | Part of multiple system G32, along with FSR_0744 and CWNU_1145. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1540/" target="_blank" style="color: $blue;">CWNU 1540</a> | Classified as optical pair P315, along with HSC_1816. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1543/" target="_blank" style="color: $blue;">CWNU 1543</a> | Part of multiple system G46, along with HSC_2910 and CWNU_1939. |
@@ -205,13 +205,13 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1560/" target="_blank" style="color: $blue;">CWNU 1560</a> | Part of multiple system G39, along with CWNU_2792, HSC_2678 and CWNU_1528. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1564/" target="_blank" style="color: $blue;">CWNU 1564</a> | Classified as optical pair P317, along with PHOC_14. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1566/" target="_blank" style="color: $blue;">CWNU 1566</a> | Classified as genetic pair P199, along with HSC_860. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1573/" target="_blank" style="color: $blue;">CWNU 1573</a> | Classified as optical pair P318, along with CWNU_2690. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1573/" target="_blank" style="color: red;">CWNU 1573</a> | Classified as optical pair P318, along with CWNU_2690. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1579/" target="_blank" style="color: $blue;">CWNU 1579</a> | Classified as optical pair P319, along with HSC_2324. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu158/" target="_blank" style="color: $blue;">CWNU 158</a> | Part of multiple system G40, along with HSC_1641, HSC_1636, Collinder_104 and CWNU_1281. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1586/" target="_blank" style="color: $blue;">CWNU 1586</a> | Classified as optical pair P320, along with Trumpler_9. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1586/" target="_blank" style="color: red;">CWNU 1586</a> | Classified as optical pair P320, along with Trumpler_9. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1615/" target="_blank" style="color: $blue;">CWNU 1615</a> | Classified as optical pair (not dynamically associated) P100, along with CWNU_1446. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1616/" target="_blank" style="color: $blue;">CWNU 1616</a> | Classified as optical pair P321, along with CWNU_1637. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1619/" target="_blank" style="color: $blue;">CWNU 1619</a> | Classified as optical pair P322, along with Teutsch_84. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1616/" target="_blank" style="color: red;">CWNU 1616</a> | Classified as optical pair P321, along with CWNU_1637. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1619/" target="_blank" style="color: red;">CWNU 1619</a> | Classified as optical pair P322, along with Teutsch_84. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1625/" target="_blank" style="color: red;">CWNU 1625</a> | Classified as optical pair P323, along with HSC_868. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1627/" target="_blank" style="color: $blue;">CWNU 1627</a> | Classified as optical pair P324, along with Harvard_16. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1630/" target="_blank" style="color: $blue;">CWNU 1630</a> | Part of multiple system G70, along with HSC_143, Dias_5 and HSC_135. |
@@ -228,12 +228,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1730/" target="_blank" style="color: $blue;">CWNU 1730</a> | Classified as optical pair P327, along with Feinstein_1. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu175/" target="_blank" style="color: $blue;">CWNU 175</a> | Classified as optical pair P105, along with NGC_4609. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1758/" target="_blank" style="color: $blue;">CWNU 1758</a> | Classified as optical pair P328, along with UBC_558. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1759/" target="_blank" style="color: $blue;">CWNU 1759</a> | Classified as optical pair P329, along with Loden_309. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1768/" target="_blank" style="color: $blue;">CWNU 1768</a> | Part of multiple system G41, along with OC_0513 and PHOC_30. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1759/" target="_blank" style="color: red;">CWNU 1759</a> | Classified as optical pair P329, along with Loden_309. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1768/" target="_blank" style="color: red;">CWNU 1768</a> | Part of multiple system G41, along with OC_0513 and PHOC_30. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1789/" target="_blank" style="color: $blue;">CWNU 1789</a> | Classified as optical pair P330, along with HSC_1866. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1800/" target="_blank" style="color: $blue;">CWNU 1800</a> | Part of multiple system G42, along with Gulliver_59 and HSC_2546. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1818/" target="_blank" style="color: $blue;">CWNU 1818</a> | Classified as optical pair P331, along with Theia_3457. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1819/" target="_blank" style="color: $blue;">CWNU 1819</a> | Classified as optical pair P332, along with CWNU_457. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1818/" target="_blank" style="color: red;">CWNU 1818</a> | Classified as optical pair P331, along with Theia_3457. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1819/" target="_blank" style="color: red;">CWNU 1819</a> | Classified as optical pair P332, along with CWNU_457. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu182/" target="_blank" style="color: $blue;">CWNU 182</a> | Part of multiple system G43, along with UPK_528, HSC_2148 and Theia_4456. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1832/" target="_blank" style="color: $blue;">CWNU 1832</a> | Part of multiple system G17, along with HSC_2897, Bochum_13 and NGC_6334. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1842/" target="_blank" style="color: $blue;">CWNU 1842</a> | Part of multiple system G165, along with HSC_2785, HSC_2778, NGC_6134, NGC_6193, Theia_1643 and NGC_6204. |
@@ -245,54 +245,54 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1893/" target="_blank" style="color: $blue;">CWNU 1893</a> | Classified as optical pair P336, along with HSC_385. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1917/" target="_blank" style="color: $blue;">CWNU 1917</a> | Classified as optical pair (not dynamically associated) P106, along with HSC_149. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1934/" target="_blank" style="color: red;">CWNU 1934</a> | Part of multiple system G45, along with CWNU_2568 and CWNU_2439. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1939/" target="_blank" style="color: $blue;">CWNU 1939</a> | Part of multiple system G46, along with HSC_2910 and CWNU_1543. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1939/" target="_blank" style="color: red;">CWNU 1939</a> | Part of multiple system G46, along with HSC_2910 and CWNU_1543. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1962/" target="_blank" style="color: red;">CWNU 1962</a> | Part of multiple system G47, along with CWNU_2575 and CWNU_2736. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1968/" target="_blank" style="color: $blue;">CWNU 1968</a> | Part of multiple system G48, along with CWNU_2518 and CWNU_296. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1968/" target="_blank" style="color: red;">CWNU 1968</a> | Part of multiple system G48, along with CWNU_2518 and CWNU_296. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1988/" target="_blank" style="color: $blue;">CWNU 1988</a> | Classified as optical pair P304, along with CWNU_1342. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1994/" target="_blank" style="color: $blue;">CWNU 1994</a> | Classified as tidal capture (resonant trapping pair) P9, along with OC_0034. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1997/" target="_blank" style="color: red;">CWNU 1997</a> | Classified as optical pair P107, along with UBC_397. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1998/" target="_blank" style="color: $blue;">CWNU 1998</a> | Classified as optical pair P337, along with HSC_2961. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu201/" target="_blank" style="color: $blue;">CWNU 201</a> | Classified as optical pair P338, along with vdBergh_80. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2016/" target="_blank" style="color: $blue;">CWNU 2016</a> | Classified as optical pair P339, along with HXHWL_21. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2016/" target="_blank" style="color: red;">CWNU 2016</a> | Classified as optical pair P339, along with HXHWL_21. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2051/" target="_blank" style="color: red;">CWNU 2051</a> | Part of multiple system G134, along with Kronberger_25 and HSC_198. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu207/" target="_blank" style="color: red;">CWNU 207</a> | Classified as tidal capture (resonant trapping pair) P10, along with HSC_2144. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2072/" target="_blank" style="color: $blue;">CWNU 2072</a> | Classified as optical pair P340, along with UBC_1474. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2088/" target="_blank" style="color: $blue;">CWNU 2088</a> | Classified as optical pair P313, along with CWNU_1500. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2105/" target="_blank" style="color: red;">CWNU 2105</a> | Classified as tidal capture (resonant trapping pair) P11, along with HSC_1440. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2116/" target="_blank" style="color: $blue;">CWNU 2116</a> | Classified as optical pair P341, along with Ruprecht_19. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2116/" target="_blank" style="color: red;">CWNU 2116</a> | Classified as optical pair P341, along with Ruprecht_19. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2136/" target="_blank" style="color: red;">CWNU 2136</a> | Classified as optical pair P342, along with HSC_1442. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu218/" target="_blank" style="color: $blue;">CWNU 218</a> | Classified as optical pair P252, along with FoF_2210. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2180/" target="_blank" style="color: $blue;">CWNU 2180</a> | Classified as optical pair P343, along with HSC_1387. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2180/" target="_blank" style="color: red;">CWNU 2180</a> | Classified as optical pair P343, along with HSC_1387. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2188/" target="_blank" style="color: $blue;">CWNU 2188</a> | Part of multiple system G49, along with Theia_2045, CWNU_1409 and OC_0018. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2203/" target="_blank" style="color: $blue;">CWNU 2203</a> | Part of multiple system G198, along with HSC_880, CWNU_2651 and Markarian_50. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2211/" target="_blank" style="color: $blue;">CWNU 2211</a> | Part of multiple system G133, along with UBC_1376, HSC_1847 and HSC_1848. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2221/" target="_blank" style="color: $blue;">CWNU 2221</a> | Part of multiple system G50, along with CWNU_2543 and UBC_103. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2238/" target="_blank" style="color: $blue;">CWNU 2238</a> | Classified as optical pair P344, along with UBC_1231. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2238/" target="_blank" style="color: red;">CWNU 2238</a> | Classified as optical pair P344, along with UBC_1231. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2259/" target="_blank" style="color: red;">CWNU 2259</a> | Classified as optical pair P200, along with Ruprecht_16. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2262/" target="_blank" style="color: red;">CWNU 2262</a> | Classified as optical pair P302, along with CWNU_1299. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2265/" target="_blank" style="color: $blue;">CWNU 2265</a> | Classified as optical pair P345, along with CWNU_2383. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2265/" target="_blank" style="color: red;">CWNU 2265</a> | Classified as optical pair P345, along with CWNU_2383. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2266/" target="_blank" style="color: $blue;">CWNU 2266</a> | Classified as optical pair P346, along with CWNU_2428. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2274/" target="_blank" style="color: $blue;">CWNU 2274</a> | Part of multiple system G51, along with UBC_565, Collinder_333, OC_0697 and UBC_566. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2277/" target="_blank" style="color: $blue;">CWNU 2277</a> | Classified as optical pair P96, along with CWNU_1388. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2307/" target="_blank" style="color: $blue;">CWNU 2307</a> | Classified as optical pair P108, along with HSC_1315. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2307/" target="_blank" style="color: red;">CWNU 2307</a> | Classified as optical pair P108, along with HSC_1315. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2312/" target="_blank" style="color: $blue;">CWNU 2312</a> | Classified as optical pair P109, along with FoF_1428. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2320/" target="_blank" style="color: $blue;">CWNU 2320</a> | Classified as optical pair P335, along with CWNU_1857. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2338/" target="_blank" style="color: $blue;">CWNU 2338</a> | Classified as optical pair (not dynamically associated) P110, along with UBC_379. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2338/" target="_blank" style="color: red;">CWNU 2338</a> | Classified as optical pair (not dynamically associated) P110, along with UBC_379. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2342/" target="_blank" style="color: $blue;">CWNU 2342</a> | Part of multiple system G38, along with CWNU_1303, BH_222, PHOC_18 and HSC_2889. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2344/" target="_blank" style="color: $blue;">CWNU 2344</a> | Classified as optical pair P347, along with Kronberger_36. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2348/" target="_blank" style="color: $blue;">CWNU 2348</a> | Classified as genetic pair P201, along with UBC_182. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2344/" target="_blank" style="color: red;">CWNU 2344</a> | Classified as optical pair P347, along with Kronberger_36. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2348/" target="_blank" style="color: red;">CWNU 2348</a> | Classified as genetic pair P201, along with UBC_182. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2364/" target="_blank" style="color: $blue;">CWNU 2364</a> | Part of multiple system G179, along with HSC_486 and Theia_2395. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2379/" target="_blank" style="color: $blue;">CWNU 2379</a> | Part of multiple system G183, along with UBC_93 and HSC_56. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2383/" target="_blank" style="color: $blue;">CWNU 2383</a> | Classified as optical pair P345, along with CWNU_2265. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2383/" target="_blank" style="color: red;">CWNU 2383</a> | Classified as optical pair P345, along with CWNU_2265. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2389/" target="_blank" style="color: $blue;">CWNU 2389</a> | Classified as tidal capture (resonant trapping pair) P76, along with UBC_549. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu240/" target="_blank" style="color: $blue;">CWNU 240</a> | Classified as optical pair P348, along with HSC_1676. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu240/" target="_blank" style="color: red;">CWNU 240</a> | Classified as optical pair P348, along with HSC_1676. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2405/" target="_blank" style="color: $blue;">CWNU 2405</a> | Classified as genetic pair P202, along with HSC_2514. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2412/" target="_blank" style="color: $blue;">CWNU 2412</a> | Classified as optical pair P349, along with NGC_5269. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2412/" target="_blank" style="color: red;">CWNU 2412</a> | Classified as optical pair P349, along with NGC_5269. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2419/" target="_blank" style="color: $blue;">CWNU 2419</a> | Classified as optical pair P350, along with IC_2948. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2428/" target="_blank" style="color: $blue;">CWNU 2428</a> | Classified as optical pair P346, along with CWNU_2266. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2431/" target="_blank" style="color: $blue;">CWNU 2431</a> | Classified as optical pair P351, along with Hogg_17. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2431/" target="_blank" style="color: red;">CWNU 2431</a> | Classified as optical pair P351, along with Hogg_17. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2439/" target="_blank" style="color: $blue;">CWNU 2439</a> | Part of multiple system G45, along with CWNU_2568 and CWNU_1934. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2446/" target="_blank" style="color: $blue;">CWNU 2446</a> | Classified as optical pair P104, along with CWNU_1718. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2446/" target="_blank" style="color: red;">CWNU 2446</a> | Classified as optical pair P104, along with CWNU_1718. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2448/" target="_blank" style="color: $blue;">CWNU 2448</a> | Classified as tidal capture (resonant trapping pair) P12, along with HSC_1503. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2464/" target="_blank" style="color: $blue;">CWNU 2464</a> | Part of multiple system G52, along with PHOC_19 and Theia_1886. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2468/" target="_blank" style="color: $blue;">CWNU 2468</a> | Classified as optical pair P352, along with UFMG_38. |
@@ -301,7 +301,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2487/" target="_blank" style="color: $blue;">CWNU 2487</a> | Classified as optical pair P179, along with Trumpler_17. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2494/" target="_blank" style="color: $blue;">CWNU 2494</a> | Classified as optical pair P13, along with HSC_636. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2496/" target="_blank" style="color: $blue;">CWNU 2496</a> | Classified as optical pair P353, along with HSC_1770. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2512/" target="_blank" style="color: $blue;">CWNU 2512</a> | Part of multiple system G16, along with HSC_2374, Bochum_10, Trumpler_14 and Trumpler_15. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2512/" target="_blank" style="color: red;">CWNU 2512</a> | Part of multiple system G16, along with HSC_2374, Bochum_10, Trumpler_14 and Trumpler_15. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2518/" target="_blank" style="color: $blue;">CWNU 2518</a> | Part of multiple system G48, along with CWNU_1968 and CWNU_296. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu252/" target="_blank" style="color: $blue;">CWNU 252</a> | Classified as tidal capture (resonant trapping pair) P203, along with Harvard_5. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2528/" target="_blank" style="color: $blue;">CWNU 2528</a> | Classified as optical pair P354, along with UBC_483. |
@@ -312,21 +312,21 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2568/" target="_blank" style="color: $blue;">CWNU 2568</a> | Part of multiple system G45, along with CWNU_1934 and CWNU_2439. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2569/" target="_blank" style="color: $blue;">CWNU 2569</a> | Classified as optical pair P356, along with HSC_14. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2574/" target="_blank" style="color: $blue;">CWNU 2574</a> | Part of multiple system G53, along with CWNU_2470 and HSC_202. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2575/" target="_blank" style="color: $blue;">CWNU 2575</a> | Part of multiple system G47, along with CWNU_1962 and CWNU_2736. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2575/" target="_blank" style="color: red;">CWNU 2575</a> | Part of multiple system G47, along with CWNU_1962 and CWNU_2736. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2581/" target="_blank" style="color: $blue;">CWNU 2581</a> | Classified as optical pair P357, along with HSC_373. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2584/" target="_blank" style="color: $blue;">CWNU 2584</a> | Classified as optical pair P358, along with HSC_289. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2587/" target="_blank" style="color: $blue;">CWNU 2587</a> | Classified as optical pair P359, along with NGC_2533. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2597/" target="_blank" style="color: red;">CWNU 2597</a> | Part of multiple system G54, along with HSC_118, vdBergh_113 and CWNU_482. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2598/" target="_blank" style="color: $blue;">CWNU 2598</a> | Part of multiple system G101, along with HSC_104, UFMG_81 and CWNU_1468. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu26/" target="_blank" style="color: $blue;">CWNU 26</a> | Classified as optical pair P360, along with Theia_2249. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu260/" target="_blank" style="color: $blue;">CWNU 260</a> | Classified as genetic pair P197, along with CWNU_135. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu260/" target="_blank" style="color: red;">CWNU 260</a> | Classified as genetic pair P197, along with CWNU_135. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2606/" target="_blank" style="color: $blue;">CWNU 2606</a> | Part of multiple system G57, along with CWNU_62 and CWNU_2714. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2608/" target="_blank" style="color: $blue;">CWNU 2608</a> | Part of multiple system G55, along with UBC_155 and UBC_1138. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2622/" target="_blank" style="color: $blue;">CWNU 2622</a> | Classified as optical pair P314, along with CWNU_1535. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2631/" target="_blank" style="color: $blue;">CWNU 2631</a> | Part of multiple system G161, along with Theia_2651, OC_0600 and HSC_2612. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2634/" target="_blank" style="color: $blue;">CWNU 2634</a> | Classified as optical pair (not dynamically associated) P204, along with UBC_1588. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2645/" target="_blank" style="color: $blue;">CWNU 2645</a> | Classified as genetic pair P15, along with CWNU_47. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2651/" target="_blank" style="color: $blue;">CWNU 2651</a> | Part of multiple system G198, along with HSC_880, CWNU_2203 and Markarian_50. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2651/" target="_blank" style="color: red;">CWNU 2651</a> | Part of multiple system G198, along with HSC_880, CWNU_2203 and Markarian_50. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2664/" target="_blank" style="color: $blue;">CWNU 2664</a> | Part of multiple system G59, along with CWNU_277, HSC_2552, CWNU_2692, NGC_4755 and Ruprecht_105. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2666/" target="_blank" style="color: $blue;">CWNU 2666</a> | Part of multiple system G56, along with HSC_224 and OC_0038. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2676/" target="_blank" style="color: $blue;">CWNU 2676</a> | Classified as optical pair P361, along with HSC_2952. |
@@ -361,7 +361,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu32/" target="_blank" style="color: $blue;">CWNU 32</a> | Classified as optical pair P368, along with HSC_2904. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu336/" target="_blank" style="color: $blue;">CWNU 336</a> | Classified as optical pair P253, along with FoF_2253. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu338/" target="_blank" style="color: $blue;">CWNU 338</a> | Part of multiple system G62, along with Theia_472 and Gulliver_10. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu339/" target="_blank" style="color: $blue;">CWNU 339</a> | Part of multiple system G213, along with OC_0471, Majaess_99, HSC_2091 and Theia_1079. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu339/" target="_blank" style="color: red;">CWNU 339</a> | Part of multiple system G213, along with OC_0471, Majaess_99, HSC_2091 and Theia_1079. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu346/" target="_blank" style="color: $blue;">CWNU 346</a> | Classified as optical pair P369, along with HSC_1086. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu348/" target="_blank" style="color: $blue;">CWNU 348</a> | Classified as optical pair P370, along with Theia_5356. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu350/" target="_blank" style="color: $blue;">CWNU 350</a> | Part of multiple system G8, along with HSC_1292 and ASCC_13. |
@@ -373,7 +373,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu399/" target="_blank" style="color: $blue;">CWNU 399</a> | Part of multiple system G63, along with Theia_1890 and HXHWL_68. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu406/" target="_blank" style="color: $blue;">CWNU 406</a> | Part of multiple system G64, along with COIN-Gaia_24 and HSC_1507. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu410/" target="_blank" style="color: $blue;">CWNU 410</a> | Part of multiple system G230, along with Theia_319 and OCSN_76. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu433/" target="_blank" style="color: $blue;">CWNU 433</a> | Classified as optical pair (not dynamically associated) P86, along with Collinder_185. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu433/" target="_blank" style="color: red;">CWNU 433</a> | Classified as optical pair (not dynamically associated) P86, along with Collinder_185. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu435/" target="_blank" style="color: red;">CWNU 435</a> | Classified as optical pair P374, along with OC_0446. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu446/" target="_blank" style="color: $blue;">CWNU 446</a> | Part of multiple system G30, along with Pismis-Moreno_1, OC_0185, CWNU_1126, HSC_824, CWNU_1228 and FSR_0398. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu45/" target="_blank" style="color: $blue;">CWNU 45</a> | Part of multiple system G65, along with Theia_1147, OC_0407, Gulliver_21 and Collinder_132. |
@@ -405,7 +405,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu95/" target="_blank" style="color: $blue;">CWNU 95</a> | Classified as optical pair P379, along with NGC_5749. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu96/" target="_blank" style="color: $blue;">CWNU 96</a> | Classified as optical pair (not dynamically associated) P380, along with UPK_118. |
 | <a href="{{ site.baseurl }}/_clusters/cwwl2084/" target="_blank" style="color: $blue;">CWWL 2084</a> | Part of multiple system G60, along with HSC_1880 and CWNU_2909. |
-| <a href="{{ site.baseurl }}/_clusters/casado12/" target="_blank" style="color: $blue;">Casado 12</a> | Classified as optical pair P277, along with FSR_0519. |
+| <a href="{{ site.baseurl }}/_clusters/casado12/" target="_blank" style="color: red;">Casado 12</a> | Classified as optical pair P277, along with FSR_0519. |
 | <a href="{{ site.baseurl }}/_clusters/casado82/" target="_blank" style="color: $blue;">Casado 82</a> | Classified as genetic pair P190, along with Teutsch_8. |
 | <a href="{{ site.baseurl }}/_clusters/chamaleoni/" target="_blank" style="color: $blue;">Chamaleon I</a> | Part of multiple system G243, along with Theia_29, HSC_2464, HSC_2458, HSC_2453 and HSC_2407. |
 | <a href="{{ site.baseurl }}/_clusters/collinder101/" target="_blank" style="color: $blue;">Collinder 101</a> | Classified as optical pair P269, along with Basel_8. |
@@ -582,7 +582,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1005/" target="_blank" style="color: red;">HSC 1005</a> | Classified as optical pair P403, along with HSC_1004. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1006/" target="_blank" style="color: red;">HSC 1006</a> | Classified as optical pair P402, along with HSC_1000. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1010/" target="_blank" style="color: red;">HSC 1010</a> | Classified as optical pair P123, along with Theia_872. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1022/" target="_blank" style="color: $blue;">HSC 1022</a> | Classified as optical pair P404, along with Theia_200. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1022/" target="_blank" style="color: red;">HSC 1022</a> | Classified as optical pair P404, along with Theia_200. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1026/" target="_blank" style="color: $blue;">HSC 1026</a> | Classified as tidal capture (resonant trapping pair) P23, along with OC_0237. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1027/" target="_blank" style="color: red;">HSC 1027</a> | Classified as optical pair P405, along with Theia_4940. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1031/" target="_blank" style="color: red;">HSC 1031</a> | Classified as tidal capture (resonant trapping pair) P4, along with CWNU_1229. |
@@ -638,7 +638,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc127/" target="_blank" style="color: $blue;">HSC 127</a> | Classified as optical pair P418, along with Theia_1914. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1270/" target="_blank" style="color: red;">HSC 1270</a> | Classified as optical pair P417, along with HSC_1253. |
 | <a href="{{ site.baseurl }}/_clusters/hsc129/" target="_blank" style="color: $blue;">HSC 129</a> | Classified as optical pair P419, along with UFMG_75. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1291/" target="_blank" style="color: $blue;">HSC 1291</a> | Part of multiple system G18, along with HSC_1268 and COIN-Gaia_11. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1291/" target="_blank" style="color: red;">HSC 1291</a> | Part of multiple system G18, along with HSC_1268 and COIN-Gaia_11. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1292/" target="_blank" style="color: red;">HSC 1292</a> | Part of multiple system G8, along with CWNU_350 and ASCC_13. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1294/" target="_blank" style="color: red;">HSC 1294</a> | Classified as optical pair P420, along with UBC_1274. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1308/" target="_blank" style="color: $blue;">HSC 1308</a> | Part of multiple system G110, along with COIN-Gaia_39, ASCC_12 and HXHWL_18. |
@@ -700,7 +700,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1513/" target="_blank" style="color: red;">HSC 1513</a> | Classified as optical pair P256, along with HSC_1534. |
 | <a href="{{ site.baseurl }}/_clusters/hsc152/" target="_blank" style="color: $blue;">HSC 152</a> | Classified as genetic pair P127, along with HSC_142. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1527/" target="_blank" style="color: red;">HSC 1527</a> | Classified as tidal capture (resonant trapping pair) P432, along with UPK_385. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1528/" target="_blank" style="color: $blue;">HSC 1528</a> | Classified as optical pair (not dynamically associated) P129, along with HSC_1512. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1528/" target="_blank" style="color: red;">HSC 1528</a> | Classified as optical pair (not dynamically associated) P129, along with HSC_1512. |
 | <a href="{{ site.baseurl }}/_clusters/hsc153/" target="_blank" style="color: red;">HSC 153</a> | Part of multiple system G214, along with Turner_3 and Markarian_38. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1531/" target="_blank" style="color: red;">HSC 1531</a> | Classified as optical pair P292, along with CWNU_1111. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1534/" target="_blank" style="color: red;">HSC 1534</a> | Classified as optical pair P256, along with HSC_1513. |
@@ -738,13 +738,13 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1658/" target="_blank" style="color: red;">HSC 1658</a> | Classified as optical pair P440, along with OCSN_69. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1667/" target="_blank" style="color: $blue;">HSC 1667</a> | Classified as optical pair P289, along with CWNU_1057. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1672/" target="_blank" style="color: red;">HSC 1672</a> | Classified as optical pair P133, along with HSC_1674. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1674/" target="_blank" style="color: $blue;">HSC 1674</a> | Classified as optical pair P133, along with HSC_1672. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1674/" target="_blank" style="color: red;">HSC 1674</a> | Classified as optical pair P133, along with HSC_1672. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1676/" target="_blank" style="color: red;">HSC 1676</a> | Classified as optical pair P348, along with CWNU_240. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1684/" target="_blank" style="color: red;">HSC 1684</a> | Part of multiple system G122, along with HSC_1470, HSC_1566, HSC_1347 and HSC_1580. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1686/" target="_blank" style="color: red;">HSC 1686</a> | Classified as optical pair P134, along with UBC_1342. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1687/" target="_blank" style="color: red;">HSC 1687</a> | Part of multiple system G125, along with CWNU_1227 and HSC_1719. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1688/" target="_blank" style="color: red;">HSC 1688</a> | Classified as optical pair P333, along with CWNU_1845. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1698/" target="_blank" style="color: $blue;">HSC 1698</a> | Classified as optical pair P615, along with OC_0361. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1698/" target="_blank" style="color: red;">HSC 1698</a> | Classified as optical pair P615, along with OC_0361. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1707/" target="_blank" style="color: red;">HSC 1707</a> | Part of multiple system G127, along with Theia_172 and Theia_383. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1709/" target="_blank" style="color: red;">HSC 1709</a> | Classified as optical pair P266, along with ASCC_24. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1714/" target="_blank" style="color: red;">HSC 1714</a> | Classified as optical pair P613, along with HSC_1640. |
@@ -1074,7 +1074,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc300/" target="_blank" style="color: red;">HSC 300</a> | Part of multiple system G61, along with UPK_42 and CWNU_313. |
 | <a href="{{ site.baseurl }}/_clusters/hsc315/" target="_blank" style="color: $blue;">HSC 315</a> | Part of multiple system G233, along with UBC_113, Berkeley_80 and PHOC_38. |
 | <a href="{{ site.baseurl }}/_clusters/hsc321/" target="_blank" style="color: $blue;">HSC 321</a> | Classified as optical pair P156, along with OC_0064. |
-| <a href="{{ site.baseurl }}/_clusters/hsc324/" target="_blank" style="color: $blue;">HSC 324</a> | Classified as optical pair P501, along with UBC_357. |
+| <a href="{{ site.baseurl }}/_clusters/hsc324/" target="_blank" style="color: red;">HSC 324</a> | Classified as optical pair P501, along with UBC_357. |
 | <a href="{{ site.baseurl }}/_clusters/hsc330/" target="_blank" style="color: $blue;">HSC 330</a> | Classified as tidal capture (resonant trapping pair) P48, along with Theia_202. |
 | <a href="{{ site.baseurl }}/_clusters/hsc373/" target="_blank" style="color: red;">HSC 373</a> | Classified as optical pair P357, along with CWNU_2581. |
 | <a href="{{ site.baseurl }}/_clusters/hsc381/" target="_blank" style="color: red;">HSC 381</a> | Classified as genetic pair P614, along with HSC_415. |
@@ -1087,7 +1087,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc427/" target="_blank" style="color: $blue;">HSC 427</a> | Classified as tidal capture (resonant trapping pair) P52, along with HSC_460. |
 | <a href="{{ site.baseurl }}/_clusters/hsc429/" target="_blank" style="color: red;">HSC 429</a> | Part of multiple system G4, along with UBC_26 and Alessi_62. |
 | <a href="{{ site.baseurl }}/_clusters/hsc430/" target="_blank" style="color: $blue;">HSC 430</a> | Classified as optical pair P503, along with HSC_432. |
-| <a href="{{ site.baseurl }}/_clusters/hsc432/" target="_blank" style="color: $blue;">HSC 432</a> | Classified as optical pair P503, along with HSC_430. |
+| <a href="{{ site.baseurl }}/_clusters/hsc432/" target="_blank" style="color: red;">HSC 432</a> | Classified as optical pair P503, along with HSC_430. |
 | <a href="{{ site.baseurl }}/_clusters/hsc437/" target="_blank" style="color: red;">HSC 437</a> | Part of multiple system G178, along with HSC_446, UPK_56, UPK_65 and Theia_978. |
 | <a href="{{ site.baseurl }}/_clusters/hsc443/" target="_blank" style="color: $blue;">HSC 443</a> | Classified as optical pair P504, along with Theia_1796. |
 | <a href="{{ site.baseurl }}/_clusters/hsc446/" target="_blank" style="color: red;">HSC 446</a> | Part of multiple system G178, along with HSC_437, UPK_56, UPK_65 and Theia_978. |
@@ -1119,19 +1119,19 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc569/" target="_blank" style="color: red;">HSC 569</a> | Classified as tidal capture (resonant trapping pair) P55, along with HSC_572. |
 | <a href="{{ site.baseurl }}/_clusters/hsc570/" target="_blank" style="color: red;">HSC 570</a> | Part of multiple system G182, along with HSC_558 and HSC_594. |
 | <a href="{{ site.baseurl }}/_clusters/hsc572/" target="_blank" style="color: red;">HSC 572</a> | Classified as tidal capture (resonant trapping pair) P55, along with HSC_569. |
-| <a href="{{ site.baseurl }}/_clusters/hsc579/" target="_blank" style="color: $blue;">HSC 579</a> | Classified as tidal capture (resonant trapping pair) P56, along with NGC_6883. |
+| <a href="{{ site.baseurl }}/_clusters/hsc579/" target="_blank" style="color: red;">HSC 579</a> | Classified as tidal capture (resonant trapping pair) P56, along with NGC_6883. |
 | <a href="{{ site.baseurl }}/_clusters/hsc582/" target="_blank" style="color: $blue;">HSC 582</a> | Classified as optical pair P263, along with ASCC_108. |
 | <a href="{{ site.baseurl }}/_clusters/hsc584/" target="_blank" style="color: $blue;">HSC 584</a> | Classified as optical pair P510, along with Theia_4725. |
 | <a href="{{ site.baseurl }}/_clusters/hsc588/" target="_blank" style="color: red;">HSC 588</a> | Classified as tidal capture (resonant trapping pair) P611, along with Dolidze_3. |
 | <a href="{{ site.baseurl }}/_clusters/hsc594/" target="_blank" style="color: red;">HSC 594</a> | Part of multiple system G182, along with HSC_558 and HSC_570. |
-| <a href="{{ site.baseurl }}/_clusters/hsc599/" target="_blank" style="color: $blue;">HSC 599</a> | Part of multiple system G75, along with Berkeley_86, LP_2179, Berkeley_87 and NGC_6913. |
+| <a href="{{ site.baseurl }}/_clusters/hsc599/" target="_blank" style="color: red;">HSC 599</a> | Part of multiple system G75, along with Berkeley_86, LP_2179, Berkeley_87 and NGC_6913. |
 | <a href="{{ site.baseurl }}/_clusters/hsc613/" target="_blank" style="color: red;">HSC 613</a> | Part of multiple system G184, along with UPK_116 and HSC_617. |
 | <a href="{{ site.baseurl }}/_clusters/hsc615/" target="_blank" style="color: $blue;">HSC 615</a> | Classified as optical pair P257, along with LK_10. |
 | <a href="{{ site.baseurl }}/_clusters/hsc616/" target="_blank" style="color: red;">HSC 616</a> | Part of multiple system G185, along with OC_0115 and HSC_618. |
 | <a href="{{ site.baseurl }}/_clusters/hsc617/" target="_blank" style="color: red;">HSC 617</a> | Part of multiple system G184, along with HSC_613 and UPK_116. |
-| <a href="{{ site.baseurl }}/_clusters/hsc618/" target="_blank" style="color: $blue;">HSC 618</a> | Part of multiple system G185, along with HSC_616 and OC_0115. |
+| <a href="{{ site.baseurl }}/_clusters/hsc618/" target="_blank" style="color: red;">HSC 618</a> | Part of multiple system G185, along with HSC_616 and OC_0115. |
 | <a href="{{ site.baseurl }}/_clusters/hsc620/" target="_blank" style="color: red;">HSC 620</a> | Part of multiple system G186, along with QC_1, HSC_622 and CWNU_455. |
-| <a href="{{ site.baseurl }}/_clusters/hsc622/" target="_blank" style="color: $blue;">HSC 622</a> | Part of multiple system G186, along with QC_1, HSC_620 and CWNU_455. |
+| <a href="{{ site.baseurl }}/_clusters/hsc622/" target="_blank" style="color: red;">HSC 622</a> | Part of multiple system G186, along with QC_1, HSC_620 and CWNU_455. |
 | <a href="{{ site.baseurl }}/_clusters/hsc625/" target="_blank" style="color: $blue;">HSC 625</a> | Part of multiple system G187, along with OC_0128 and Bica_2. |
 | <a href="{{ site.baseurl }}/_clusters/hsc626/" target="_blank" style="color: $blue;">HSC 626</a> | Classified as tidal capture (resonant trapping pair) P57, along with OC_0123. |
 | <a href="{{ site.baseurl }}/_clusters/hsc627/" target="_blank" style="color: $blue;">HSC 627</a> | Classified as optical pair P511, along with Theia_48. |
@@ -1286,7 +1286,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/kronberger69/" target="_blank" style="color: $blue;">Kronberger 69</a> | Classified as optical pair P539, along with UBC_1080. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger92/" target="_blank" style="color: $blue;">Kronberger 92</a> | Classified as optical pair P421, along with HSC_1303. |
 | <a href="{{ site.baseurl }}/_clusters/l1641s/" target="_blank" style="color: $blue;">L1641S</a> | Part of multiple system G210, along with OCSN_70 and OC_0356. |
-| <a href="{{ site.baseurl }}/_clusters/ldn988e/" target="_blank" style="color: $blue;">LDN 988e</a> | Classified as optical pair P523, along with HSC_730. |
+| <a href="{{ site.baseurl }}/_clusters/ldn988e/" target="_blank" style="color: $blue;">LDN988-e</a> | Classified as optical pair P523, along with HSC_730. |
 | <a href="{{ site.baseurl }}/_clusters/lk10/" target="_blank" style="color: $blue;">LK 10</a> | Classified as optical pair P257, along with HSC_615. |
 | <a href="{{ site.baseurl }}/_clusters/loden112/" target="_blank" style="color: $blue;">Loden 112</a> | Classified as optical pair P464, along with HSC_2340. |
 | <a href="{{ site.baseurl }}/_clusters/loden1194/" target="_blank" style="color: $blue;">Loden 1194</a> | Part of multiple system G246, along with Theia_447 and Theia_365. |
@@ -1337,7 +1337,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/melotte88/" target="_blank" style="color: $blue;">Melotte 88</a> | Classified as optical pair P434, along with HSC_1555. |
 | <a href="{{ site.baseurl }}/_clusters/melotte91/" target="_blank" style="color: $blue;">Melotte 91</a> | Classified as tidal capture (resonant trapping pair) P224, along with HSC_2118. |
 | <a href="{{ site.baseurl }}/_clusters/moffat1/" target="_blank" style="color: $blue;">Moffat 1</a> | Classified as optical pair P541, along with Teutsch_246. |
-| <a href="{{ site.baseurl }}/_clusters/monob1d/" target="_blank" style="color: $blue;">Mon OB1-D</a> | Classified as optical pair (not dynamically associated) P235, along with NGC_2264. |
+| <a href="{{ site.baseurl }}/_clusters/monob1d/" target="_blank" style="color: $blue;">MonOB1-D</a> | Classified as optical pair (not dynamically associated) P235, along with NGC_2264. |
 | <a href="{{ site.baseurl }}/_clusters/muzzio1/" target="_blank" style="color: $blue;">Muzzio 1</a> | Part of multiple system G142, along with HSC_2168 and Collinder_205. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1333/" target="_blank" style="color: $blue;">NGC 1333</a> | Part of multiple system G108, along with OC_0279 and HSC_1250. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1980/" target="_blank" style="color: $blue;">NGC 1980</a> | Part of multiple system G124, along with OCSN_59 and HSC_1633. |
@@ -1391,7 +1391,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0025/" target="_blank" style="color: $blue;">OC 0025</a> | Classified as optical pair P391, along with Gulliver_15. |
 | <a href="{{ site.baseurl }}/_clusters/oc0026/" target="_blank" style="color: $blue;">OC 0026</a> | Classified as optical pair P135, along with HSC_176. |
 | <a href="{{ site.baseurl }}/_clusters/oc0028/" target="_blank" style="color: $blue;">OC 0028</a> | Part of multiple system G132, along with HXHWL_66, HSC_187 and HSC_184. |
-| <a href="{{ site.baseurl }}/_clusters/oc0030/" target="_blank" style="color: $blue;">OC 0030</a> | Classified as optical pair P557, along with Trumpler_32. |
+| <a href="{{ site.baseurl }}/_clusters/oc0030/" target="_blank" style="color: red;">OC 0030</a> | Classified as optical pair P557, along with Trumpler_32. |
 | <a href="{{ site.baseurl }}/_clusters/oc0034/" target="_blank" style="color: $blue;">OC 0034</a> | Classified as tidal capture (resonant trapping pair) P9, along with CWNU_1994. |
 | <a href="{{ site.baseurl }}/_clusters/oc0037/" target="_blank" style="color: $blue;">OC 0037</a> | Classified as optical pair (not dynamically associated) P558, along with UBC_1026. |
 | <a href="{{ site.baseurl }}/_clusters/oc0038/" target="_blank" style="color: $blue;">OC 0038</a> | Part of multiple system G56, along with CWNU_2666 and HSC_224. |
@@ -1402,18 +1402,18 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0123/" target="_blank" style="color: $blue;">OC 0123</a> | Classified as tidal capture (resonant trapping pair) P57, along with HSC_626. |
 | <a href="{{ site.baseurl }}/_clusters/oc0124/" target="_blank" style="color: $blue;">OC 0124</a> | Part of multiple system G71, along with Dolidze_11 and FSR_0227. |
 | <a href="{{ site.baseurl }}/_clusters/oc0128/" target="_blank" style="color: $blue;">OC 0128</a> | Part of multiple system G187, along with HSC_625 and Bica_2. |
-| <a href="{{ site.baseurl }}/_clusters/oc0130/" target="_blank" style="color: $blue;">OC 0130</a> | Classified as optical pair P512, along with HSC_632. |
+| <a href="{{ site.baseurl }}/_clusters/oc0130/" target="_blank" style="color: red;">OC 0130</a> | Classified as optical pair P512, along with HSC_632. |
 | <a href="{{ site.baseurl }}/_clusters/oc0133/" target="_blank" style="color: $blue;">OC 0133</a> | Classified as optical pair P514, along with HSC_645. |
 | <a href="{{ site.baseurl }}/_clusters/oc0140/" target="_blank" style="color: $blue;">OC 0140</a> | Part of multiple system G220, along with NGC_7039 and Theia_26. |
 | <a href="{{ site.baseurl }}/_clusters/oc0158/" target="_blank" style="color: $blue;">OC 0158</a> | Part of multiple system G222, along with Riddle_6 and HSC_764. |
-| <a href="{{ site.baseurl }}/_clusters/oc0160/" target="_blank" style="color: $blue;">OC 0160</a> | Part of multiple system G223, along with IC_1396, HSC_771 and UPK_164. |
+| <a href="{{ site.baseurl }}/_clusters/oc0160/" target="_blank" style="color: red;">OC 0160</a> | Part of multiple system G223, along with IC_1396, HSC_771 and UPK_164. |
 | <a href="{{ site.baseurl }}/_clusters/oc0179/" target="_blank" style="color: $blue;">OC 0179</a> | Classified as tidal capture (resonant trapping pair) P64, along with UBC_388. |
 | <a href="{{ site.baseurl }}/_clusters/oc0181/" target="_blank" style="color: red;">OC 0181</a> | Classified as tidal capture (resonant trapping pair) P2, along with BDSB_30. |
 | <a href="{{ site.baseurl }}/_clusters/oc0185/" target="_blank" style="color: $blue;">OC 0185</a> | Part of multiple system G30, along with Pismis-Moreno_1, CWNU_1126, HSC_824, CWNU_1228, FSR_0398 and CWNU_446. |
 | <a href="{{ site.baseurl }}/_clusters/oc0192/" target="_blank" style="color: $blue;">OC 0192</a> | Part of multiple system G261, along with Theia_1001 and CWNU_58. |
-| <a href="{{ site.baseurl }}/_clusters/oc0206/" target="_blank" style="color: $blue;">OC 0206</a> | Part of multiple system G224, along with Skiff_J2330+60.2 and UBC_398. |
+| <a href="{{ site.baseurl }}/_clusters/oc0206/" target="_blank" style="color: red;">OC 0206</a> | Part of multiple system G224, along with Skiff_J2330+60.2 and UBC_398. |
 | <a href="{{ site.baseurl }}/_clusters/oc0227/" target="_blank" style="color: $blue;">OC 0227</a> | Classified as genetic pair P240, along with Theia_19. |
-| <a href="{{ site.baseurl }}/_clusters/oc0232/" target="_blank" style="color: $blue;">OC 0232</a> | Classified as tidal capture (resonant trapping pair) P62, along with NGC_366. |
+| <a href="{{ site.baseurl }}/_clusters/oc0232/" target="_blank" style="color: red;">OC 0232</a> | Classified as tidal capture (resonant trapping pair) P62, along with NGC_366. |
 | <a href="{{ site.baseurl }}/_clusters/oc0237/" target="_blank" style="color: $blue;">OC 0237</a> | Classified as tidal capture (resonant trapping pair) P23, along with HSC_1026. |
 | <a href="{{ site.baseurl }}/_clusters/oc0255/" target="_blank" style="color: $blue;">OC 0255</a> | Part of multiple system G225, along with SAI_24 and IC_1848. |
 | <a href="{{ site.baseurl }}/_clusters/oc0279/" target="_blank" style="color: $blue;">OC 0279</a> | Part of multiple system G108, along with NGC_1333 and HSC_1250. |
@@ -1447,7 +1447,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0501/" target="_blank" style="color: $blue;">OC 0501</a> | Classified as optical pair P462, along with HSC_2185. |
 | <a href="{{ site.baseurl }}/_clusters/oc0508/" target="_blank" style="color: $blue;">OC 0508</a> | Classified as tidal capture (resonant trapping pair) P36, along with HSC_2204. |
 | <a href="{{ site.baseurl }}/_clusters/oc0513/" target="_blank" style="color: $blue;">OC 0513</a> | Part of multiple system G41, along with CWNU_1768 and PHOC_30. |
-| <a href="{{ site.baseurl }}/_clusters/oc0521/" target="_blank" style="color: $blue;">OC 0521</a> | Classified as optical pair P392, along with Gulliver_27. |
+| <a href="{{ site.baseurl }}/_clusters/oc0521/" target="_blank" style="color: red;">OC 0521</a> | Classified as optical pair P392, along with Gulliver_27. |
 | <a href="{{ site.baseurl }}/_clusters/oc0571/" target="_blank" style="color: red;">OC 0571</a> | Classified as optical pair P560, along with UBC_1625. |
 | <a href="{{ site.baseurl }}/_clusters/oc0587/" target="_blank" style="color: $blue;">OC 0587</a> | Part of multiple system G159, along with CWNU_490 and HSC_2550. |
 | <a href="{{ site.baseurl }}/_clusters/oc0589/" target="_blank" style="color: $blue;">OC 0589</a> | Classified as tidal capture (resonant trapping pair) P42, along with HSC_2551. |
@@ -1504,7 +1504,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/phoc31/" target="_blank" style="color: $blue;">PHOC 31</a> | Classified as optical pair (not dynamically associated) P144, along with HSC_2418. |
 | <a href="{{ site.baseurl }}/_clusters/phoc33/" target="_blank" style="color: $blue;">PHOC 33</a> | Classified as optical pair P553, along with NGC_6871. |
 | <a href="{{ site.baseurl }}/_clusters/phoc34/" target="_blank" style="color: $blue;">PHOC 34</a> | Classified as optical pair P562, along with Theia_1798. |
-| <a href="{{ site.baseurl }}/_clusters/phoc37/" target="_blank" style="color: $blue;">PHOC 37</a> | Part of multiple system G244, along with Theia_4069, HSC_557 and Theia_3010. |
+| <a href="{{ site.baseurl }}/_clusters/phoc37/" target="_blank" style="color: red;">PHOC 37</a> | Part of multiple system G244, along with Theia_4069, HSC_557 and Theia_3010. |
 | <a href="{{ site.baseurl }}/_clusters/phoc38/" target="_blank" style="color: $blue;">PHOC 38</a> | Part of multiple system G233, along with UBC_113, HSC_315 and Berkeley_80. |
 | <a href="{{ site.baseurl }}/_clusters/phoc40/" target="_blank" style="color: $blue;">PHOC 40</a> | Classified as optical pair P563, along with Theia_236. |
 | <a href="{{ site.baseurl }}/_clusters/ptb9/" target="_blank" style="color: $blue;">PTB 9</a> | Part of multiple system G34, along with UPK_220 and CWNU_1155. |
@@ -1647,7 +1647,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia1975/" target="_blank" style="color: $blue;">Theia 1975</a> | Part of multiple system G209, along with UBC_1099 and IC_4996. |
 | <a href="{{ site.baseurl }}/_clusters/theia1982/" target="_blank" style="color: red;">Theia 1982</a> | Classified as optical pair P465, along with HSC_2353. |
 | <a href="{{ site.baseurl }}/_clusters/theia199/" target="_blank" style="color: $blue;">Theia 199</a> | Classified as optical pair P572, along with UPK_137. |
-| <a href="{{ site.baseurl }}/_clusters/theia200/" target="_blank" style="color: $blue;">Theia 200</a> | Classified as optical pair P404, along with HSC_1022. |
+| <a href="{{ site.baseurl }}/_clusters/theia200/" target="_blank" style="color: red;">Theia 200</a> | Classified as optical pair P404, along with HSC_1022. |
 | <a href="{{ site.baseurl }}/_clusters/theia2007/" target="_blank" style="color: $blue;">Theia 2007</a> | Classified as optical pair P99, along with CWNU_1441. |
 | <a href="{{ site.baseurl }}/_clusters/theia2018/" target="_blank" style="color: red;">Theia 2018</a> | Classified as optical pair P573, along with UBC_231. |
 | <a href="{{ site.baseurl }}/_clusters/theia202/" target="_blank" style="color: red;">Theia 202</a> | Classified as tidal capture (resonant trapping pair) P48, along with HSC_330. |
@@ -1690,7 +1690,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia2665/" target="_blank" style="color: $blue;">Theia 2665</a> | Classified as optical pair P172, along with Theia_4535. |
 | <a href="{{ site.baseurl }}/_clusters/theia267/" target="_blank" style="color: red;">Theia 267</a> | Part of multiple system G241, along with HSC_1743 and Theia_361. |
 | <a href="{{ site.baseurl }}/_clusters/theia274/" target="_blank" style="color: $blue;">Theia 274</a> | Part of multiple system G137, along with Theia_773, Theia_986, HSC_2082, HSC_2085 and Theia_2103. |
-| <a href="{{ site.baseurl }}/_clusters/theia2782/" target="_blank" style="color: $blue;">Theia 2782</a> | Classified as tidal capture (resonant trapping pair) P16, along with CWNU_2902. |
+| <a href="{{ site.baseurl }}/_clusters/theia2782/" target="_blank" style="color: red;">Theia 2782</a> | Classified as tidal capture (resonant trapping pair) P16, along with CWNU_2902. |
 | <a href="{{ site.baseurl }}/_clusters/theia280/" target="_blank" style="color: $blue;">Theia 280</a> | Classified as optical pair P173, along with Theia_776. |
 | <a href="{{ site.baseurl }}/_clusters/theia2803/" target="_blank" style="color: $blue;">Theia 2803</a> | Part of multiple system G240, along with Trumpler_26 and Theia_2505. |
 | <a href="{{ site.baseurl }}/_clusters/theia2812/" target="_blank" style="color: $blue;">Theia 2812</a> | Classified as optical pair (not dynamically associated) P170, along with Theia_2118. |
@@ -1779,7 +1779,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia638/" target="_blank" style="color: red;">Theia 638</a> | Classified as optical pair (not dynamically associated) P174, along with Theia_311. |
 | <a href="{{ site.baseurl }}/_clusters/theia65/" target="_blank" style="color: $blue;">Theia 65</a> | Classified as optical pair P431, along with HSC_1460. |
 | <a href="{{ site.baseurl }}/_clusters/theia651/" target="_blank" style="color: $blue;">Theia 651</a> | Classified as optical pair P373, along with CWNU_384. |
-| <a href="{{ site.baseurl }}/_clusters/theia652/" target="_blank" style="color: $blue;">Theia 652</a> | Classified as optical pair P585, along with UPK_294. |
+| <a href="{{ site.baseurl }}/_clusters/theia652/" target="_blank" style="color: red;">Theia 652</a> | Classified as optical pair P585, along with UPK_294. |
 | <a href="{{ site.baseurl }}/_clusters/theia66/" target="_blank" style="color: $blue;">Theia 66</a> | Part of multiple system G31, along with Theia_54 and CWNU_1129. |
 | <a href="{{ site.baseurl }}/_clusters/theia667/" target="_blank" style="color: $blue;">Theia 667</a> | Classified as optical pair P586, along with UPK_219. |
 | <a href="{{ site.baseurl }}/_clusters/theia6680/" target="_blank" style="color: $blue;">Theia 6680</a> | Classified as genetic pair P245, along with UPK_599. |
@@ -1790,7 +1790,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia70/" target="_blank" style="color: $blue;">Theia 70</a> | Part of multiple system G204, along with Mamajek_2 and HSC_95. |
 | <a href="{{ site.baseurl }}/_clusters/theia704/" target="_blank" style="color: red;">Theia 704</a> | Classified as optical pair P378, along with CWNU_61. |
 | <a href="{{ site.baseurl }}/_clusters/theia710/" target="_blank" style="color: red;">Theia 710</a> | Part of multiple system G6, along with ASCC_127 and HSC_913. |
-| <a href="{{ site.baseurl }}/_clusters/theia711/" target="_blank" style="color: $blue;">Theia 711</a> | Part of multiple system G152, along with HSC_236 and OCSN_6. |
+| <a href="{{ site.baseurl }}/_clusters/theia711/" target="_blank" style="color: red;">Theia 711</a> | Part of multiple system G152, along with HSC_236 and OCSN_6. |
 | <a href="{{ site.baseurl }}/_clusters/theia713/" target="_blank" style="color: red;">Theia 713</a> | Classified as optical pair P587, along with UPK_233. |
 | <a href="{{ site.baseurl }}/_clusters/theia72/" target="_blank" style="color: $blue;">Theia 72</a> | Part of multiple system G248, along with Theia_379 and ZHBJZ_1. |
 | <a href="{{ site.baseurl }}/_clusters/theia73/" target="_blank" style="color: red;">Theia 73</a> | Part of multiple system G245, along with Theia_470 and Theia_332. |
@@ -1813,7 +1813,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia844/" target="_blank" style="color: $blue;">Theia 844</a> | Classified as optical pair P589, along with UPK_120. |
 | <a href="{{ site.baseurl }}/_clusters/theia85/" target="_blank" style="color: $blue;">Theia 85</a> | Classified as optical pair P27, along with HSC_1149. |
 | <a href="{{ site.baseurl }}/_clusters/theia850/" target="_blank" style="color: red;">Theia 850</a> | Part of multiple system G99, along with HSC_1033 and HSC_1068. |
-| <a href="{{ site.baseurl }}/_clusters/theia862/" target="_blank" style="color: $blue;">Theia 862</a> | Part of multiple system G250, along with Theia_1432, Theia_863 and Trumpler_2. |
+| <a href="{{ site.baseurl }}/_clusters/theia862/" target="_blank" style="color: red;">Theia 862</a> | Part of multiple system G250, along with Theia_1432, Theia_863 and Trumpler_2. |
 | <a href="{{ site.baseurl }}/_clusters/theia863/" target="_blank" style="color: $blue;">Theia 863</a> | Part of multiple system G250, along with Theia_1432, Theia_862 and Trumpler_2. |
 | <a href="{{ site.baseurl }}/_clusters/theia872/" target="_blank" style="color: red;">Theia 872</a> | Classified as optical pair P123, along with HSC_1010. |
 | <a href="{{ site.baseurl }}/_clusters/theia873/" target="_blank" style="color: red;">Theia 873</a> | Part of multiple system G251, along with UPK_169 and Theia_990. |
@@ -1865,14 +1865,14 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1100/" target="_blank" style="color: $blue;">UBC 1100</a> | Part of multiple system G94, along with Gulliver_23 and Berkeley_85. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1103/" target="_blank" style="color: $blue;">UBC 1103</a> | Part of multiple system G79, along with UBC_1105 and FSR_0224. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1105/" target="_blank" style="color: $blue;">UBC 1105</a> | Part of multiple system G79, along with FSR_0224 and UBC_1103. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1120/" target="_blank" style="color: $blue;">UBC 1120</a> | Classified as tidal capture (resonant trapping pair) P208, along with CWNU_495. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1120/" target="_blank" style="color: red;">UBC 1120</a> | Classified as tidal capture (resonant trapping pair) P208, along with CWNU_495. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1128/" target="_blank" style="color: $blue;">UBC 1128</a> | Classified as optical pair P521, along with HSC_700. |
 | <a href="{{ site.baseurl }}/_clusters/ubc113/" target="_blank" style="color: $blue;">UBC 113</a> | Part of multiple system G233, along with HSC_315, Berkeley_80 and PHOC_38. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1138/" target="_blank" style="color: $blue;">UBC 1138</a> | Part of multiple system G55, along with UBC_155 and CWNU_2608. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1143/" target="_blank" style="color: $blue;">UBC 1143</a> | Classified as tidal capture (resonant trapping pair) P71, along with FSR_0316. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1147/" target="_blank" style="color: $blue;">UBC 1147</a> | Classified as genetic pair P214, along with FSR_0336. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1153/" target="_blank" style="color: $blue;">UBC 1153</a> | Classified as tidal capture (resonant trapping pair) P72, along with UBC_592. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1170/" target="_blank" style="color: $blue;">UBC 1170</a> | Classified as tidal capture (resonant trapping pair) P73, along with UBC_173. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1170/" target="_blank" style="color: red;">UBC 1170</a> | Classified as tidal capture (resonant trapping pair) P73, along with UBC_173. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1177/" target="_blank" style="color: $blue;">UBC 1177</a> | Classified as optical pair P206, along with CWNU_459. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1184/" target="_blank" style="color: $blue;">UBC 1184</a> | Part of multiple system G95, along with Gulliver_49 and NGC_7654. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1185/" target="_blank" style="color: $blue;">UBC 1185</a> | Part of multiple system G200, along with HSC_907 and HSC_903. |
@@ -1903,7 +1903,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1449/" target="_blank" style="color: $blue;">UBC 1449</a> | Part of multiple system G141, along with OC_0492, HSC_2149 and HSC_2153. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1451/" target="_blank" style="color: $blue;">UBC 1451</a> | Classified as optical pair P595, along with UBC_1447. |
 | <a href="{{ site.baseurl }}/_clusters/ubc146/" target="_blank" style="color: $blue;">UBC 146</a> | Classified as optical pair P596, along with UBC_148. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1462/" target="_blank" style="color: $blue;">UBC 1462</a> | Classified as optical pair P306, along with CWNU_1394. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1462/" target="_blank" style="color: red;">UBC 1462</a> | Classified as optical pair P306, along with CWNU_1394. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1474/" target="_blank" style="color: $blue;">UBC 1474</a> | Classified as optical pair P340, along with CWNU_2072. |
 | <a href="{{ site.baseurl }}/_clusters/ubc148/" target="_blank" style="color: $blue;">UBC 148</a> | Classified as optical pair P596, along with UBC_146. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1481/" target="_blank" style="color: $blue;">UBC 1481</a> | Classified as tidal capture (resonant trapping pair) P579, along with Theia_3409. |
@@ -1914,7 +1914,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1529/" target="_blank" style="color: $blue;">UBC 1529</a> | Classified as optical pair P180, along with UBC_1532. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1532/" target="_blank" style="color: $blue;">UBC 1532</a> | Classified as optical pair P180, along with UBC_1529. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1545/" target="_blank" style="color: $blue;">UBC 1545</a> | Classified as optical pair (not dynamically associated) P148, along with HSC_2754. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1547/" target="_blank" style="color: $blue;">UBC 1547</a> | Part of multiple system G237, along with UBC_312, CWNU_1648, Ruprecht_176 and Theia_2096. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1547/" target="_blank" style="color: red;">UBC 1547</a> | Part of multiple system G237, along with UBC_312, CWNU_1648, Ruprecht_176 and Theia_2096. |
 | <a href="{{ site.baseurl }}/_clusters/ubc155/" target="_blank" style="color: $blue;">UBC 155</a> | Part of multiple system G55, along with CWNU_2608 and UBC_1138. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1551/" target="_blank" style="color: $blue;">UBC 1551</a> | Classified as optical pair P399, along with Hogg_21. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1557/" target="_blank" style="color: $blue;">UBC 1557</a> | Part of multiple system G255, along with UBC_321, UBC_550 and UBC_1558. |
@@ -1930,7 +1930,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1620/" target="_blank" style="color: $blue;">UBC 1620</a> | Classified as optical pair P598, along with UBC_246. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1621/" target="_blank" style="color: $blue;">UBC 1621</a> | Part of multiple system G139, along with Theia_1742 and HSC_2145. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1625/" target="_blank" style="color: $blue;">UBC 1625</a> | Classified as optical pair P560, along with OC_0571. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1626/" target="_blank" style="color: $blue;">UBC 1626</a> | Classified as genetic pair P191, along with Collinder_268. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1626/" target="_blank" style="color: red;">UBC 1626</a> | Classified as genetic pair P191, along with Collinder_268. |
 | <a href="{{ site.baseurl }}/_clusters/ubc163/" target="_blank" style="color: $blue;">UBC 163</a> | Classified as optical pair P536, along with HXHWL_28. |
 | <a href="{{ site.baseurl }}/_clusters/ubc164/" target="_blank" style="color: $blue;">UBC 164</a> | Classified as optical pair P599, along with UBC_166. |
 | <a href="{{ site.baseurl }}/_clusters/ubc166/" target="_blank" style="color: $blue;">UBC 166</a> | Classified as optical pair P599, along with UBC_164. |
@@ -2045,7 +2045,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ufmg89/" target="_blank" style="color: $blue;">UFMG 89</a> | Classified as optical pair P43, along with HSC_26. |
 | <a href="{{ site.baseurl }}/_clusters/ufmg92/" target="_blank" style="color: $blue;">UFMG 92</a> | Classified as optical pair P565, along with Ruprecht_134. |
 | <a href="{{ site.baseurl }}/_clusters/ufmg96/" target="_blank" style="color: $blue;">UFMG 96</a> | Classified as optical pair P500, along with HSC_2982. |
-| <a href="{{ site.baseurl }}/_clusters/upk110/" target="_blank" style="color: $blue;">UPK 110</a> | Classified as optical pair (not dynamically associated) P79, along with ASCC_111. |
+| <a href="{{ site.baseurl }}/_clusters/upk110/" target="_blank" style="color: red;">UPK 110</a> | Classified as optical pair (not dynamically associated) P79, along with ASCC_111. |
 | <a href="{{ site.baseurl }}/_clusters/upk113/" target="_blank" style="color: $blue;">UPK 113</a> | Classified as tidal capture (resonant trapping pair) P238, along with NGC_7063. |
 | <a href="{{ site.baseurl }}/_clusters/upk116/" target="_blank" style="color: $blue;">UPK 116</a> | Part of multiple system G184, along with HSC_613 and HSC_617. |
 | <a href="{{ site.baseurl }}/_clusters/upk118/" target="_blank" style="color: $blue;">UPK 118</a> | Classified as optical pair (not dynamically associated) P380, along with CWNU_96. |
@@ -2107,7 +2107,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk56/" target="_blank" style="color: $blue;">UPK 56</a> | Part of multiple system G178, along with HSC_437, HSC_446, UPK_65 and Theia_978. |
 | <a href="{{ site.baseurl }}/_clusters/upk567/" target="_blank" style="color: $blue;">UPK 567</a> | Classified as optical pair P471, along with HSC_2449. |
 | <a href="{{ site.baseurl }}/_clusters/upk578/" target="_blank" style="color: $blue;">UPK 578</a> | Classified as optical pair P372, along with CWNU_382. |
-| <a href="{{ site.baseurl }}/_clusters/upk595/" target="_blank" style="color: $blue;">UPK 595</a> | Classified as optical pair P259, along with Alessi_6. |
+| <a href="{{ site.baseurl }}/_clusters/upk595/" target="_blank" style="color: red;">UPK 595</a> | Classified as optical pair P259, along with Alessi_6. |
 | <a href="{{ site.baseurl }}/_clusters/upk599/" target="_blank" style="color: $blue;">UPK 599</a> | Classified as genetic pair P245, along with Theia_6680. |
 | <a href="{{ site.baseurl }}/_clusters/upk604/" target="_blank" style="color: $blue;">UPK 604</a> | Classified as optical pair P590, along with Theia_89. |
 | <a href="{{ site.baseurl }}/_clusters/upk612/" target="_blank" style="color: $blue;">UPK 612</a> | Classified as tidal capture (resonant trapping pair) P485, along with HSC_2712. |

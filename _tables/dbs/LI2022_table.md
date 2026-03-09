@@ -8,7 +8,7 @@ style: style
 &nbsp;
 # [Li et al. (2022)](https://scixplorer.org/abs/2022ApJS..259...19L)
 
-This database consists of 61 entries, of which 44% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 28% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 61 entries, of which 44% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 30% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
@@ -31,7 +31,7 @@ This database consists of 61 entries, of which 44% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/lisc1141/" target="_blank" style="color: red;">LISC 1141</a> | 115.28 | -25.65 | 241.24 | -1.43 | 0.25 | 17 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/lisc1145/" target="_blank" style="color: $blue;">LISC 1145</a> | 114.52 | -25.37 | 240.64 | -1.88 | 0.5 | 253 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.48 | 0.27 |
 | <a href="{{ site.baseurl }}/_clusters/lisc1152/" target="_blank" style="color: $blue;">LISC 1152</a> | 117.86 | -29.51 | 245.7 | -1.39 | 0.28 | 105 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.5 |
-| <a href="{{ site.baseurl }}/_clusters/lisc1273/" target="_blank" style="color: $blue;">LISC 1273</a> | 177.92 | -63.31 | 296.28 | -1.21 | 0.25 | 21 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.3 |
+| <a href="{{ site.baseurl }}/_clusters/lisc1273/" target="_blank" style="color: red;">LISC 1273</a> | 177.92 | -63.31 | 296.28 | -1.21 | 0.25 | 21 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.2 |
 | <a href="{{ site.baseurl }}/_clusters/lisc1274/" target="_blank" style="color: $blue;">LISC 1274</a> | 180.96 | -63.61 | 297.67 | -1.22 | 0.28 | 60 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.46 |
 | <a href="{{ site.baseurl }}/_clusters/lisc1314/" target="_blank" style="color: $blue;">LISC 1314</a> | 222.56 | -61.77 | 316.5 | -2.06 | 0.3 | 130 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.55 |
 | <a href="{{ site.baseurl }}/_clusters/lisc1351/" target="_blank" style="color: $blue;">LISC 1351</a> | 308.92 | 36.57 | 76.71 | -2.43 | 0.32 | 70 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.52 |
@@ -62,7 +62,7 @@ This database consists of 61 entries, of which 44% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/lisc3241/" target="_blank" style="color: $blue;">LISC 3241</a> | 174.03 | -59.47 | 293.49 | 2.01 | 0.52 | 196 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.63 | 0.19 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3250/" target="_blank" style="color: $blue;">LISC 3250</a> | 216.2 | -61.05 | 314.0 | -0.2 | 0.49 | 93 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.8 | 0.11 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3279/" target="_blank" style="color: $blue;">LISC 3279</a> | 290.0 | 15.15 | 49.64 | 0.71 | 0.63 | 78 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.85 | 0.07 |
-| <a href="{{ site.baseurl }}/_clusters/lisc3287/" target="_blank" style="color: $blue;">LISC 3287</a> | 311.9 | 47.42 | 86.61 | 2.49 | 0.56 | 86 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.91 | 0.05 |
+| <a href="{{ site.baseurl }}/_clusters/lisc3287/" target="_blank" style="color: $blue;">LISC 3287</a> | 311.9 | 47.42 | 86.61 | 2.49 | 0.56 | 86 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.91 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3301/" target="_blank" style="color: $blue;">LISC 3301</a> | 282.65 | 9.78 | 41.56 | 4.64 | 0.65 | 94 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3315/" target="_blank" style="color: $blue;">LISC 3315</a> | 126.67 | -50.73 | 267.21 | -7.2 | 0.88 | 108 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.82 | 0.1 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3316/" target="_blank" style="color: $blue;">LISC 3316</a> | 173.07 | -68.08 | 295.62 | -6.33 | 0.7 | 63 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.97 | 0.01 |
@@ -74,7 +74,7 @@ This database consists of 61 entries, of which 44% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/lisc3479/" target="_blank" style="color: $blue;">LISC 3479</a> | 79.18 | 41.75 | 166.08 | 2.11 | 1.03 | 77 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.95 | 0.02 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3483/" target="_blank" style="color: $blue;">LISC 3483</a> | 245.26 | -40.84 | 340.03 | 6.48 | 0.9 | 68 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.52 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3530/" target="_blank" style="color: $blue;">LISC 3530</a> | 277.3 | -34.54 | 359.54 | -10.82 | 1.97 | 92 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.83 | 0.09 |
-| <a href="{{ site.baseurl }}/_clusters/lisc3534/" target="_blank" style="color: $blue;">LISC 3534</a> | 12.19 | 50.25 | 122.49 | -12.62 | 2.18 | 357 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.71 |
+| <a href="{{ site.baseurl }}/_clusters/lisc3534/" target="_blank" style="color: $blue;">LISC 3534</a> | 12.19 | 50.25 | 122.49 | -12.62 | 2.18 | 357 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.69 |
 
 
 

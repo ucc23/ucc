@@ -101,7 +101,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu207/" target="_blank" style="color: red;">CWNU 207</a> | Classified as primordial binary cluster 62 along with HSC_2144. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2072/" target="_blank" style="color: $blue;">CWNU 2072</a> | Classified as tidal capture (resonant trapping binary) 111 along with UBC_1474. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu218/" target="_blank" style="color: $blue;">CWNU 218</a> | Classified as primordial binary cluster 63 along with FoF_2210. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2180/" target="_blank" style="color: $blue;">CWNU 2180</a> | Classified as tidal capture (resonant trapping binary) 112 along with HSC_1387. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2180/" target="_blank" style="color: red;">CWNU 2180</a> | Classified as tidal capture (resonant trapping binary) 112 along with HSC_1387. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2188/" target="_blank" style="color: $blue;">CWNU 2188</a> | Classified as primordial binary cluster 113 along with Theia_2045. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2259/" target="_blank" style="color: red;">CWNU 2259</a> | Classified as primordial binary cluster 114 along with Ruprecht_16. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2312/" target="_blank" style="color: $blue;">CWNU 2312</a> | Classified as tidal capture (resonant trapping binary) 115 along with FoF_1428. |
@@ -396,7 +396,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/melotte36/" target="_blank" style="color: $blue;">Melotte 36</a> | Classified as tidal capture (resonant trapping binary) 336 along with Saloranta_10. |
 | <a href="{{ site.baseurl }}/_clusters/melotte82/" target="_blank" style="color: $blue;">Melotte 82</a> | Classified as tidal capture (resonant trapping binary) 285 along with UPK_540. |
 | <a href="{{ site.baseurl }}/_clusters/melotte91/" target="_blank" style="color: $blue;">Melotte 91</a> | Classified as tidal capture (resonant trapping binary) 220 along with HSC_2118. |
-| <a href="{{ site.baseurl }}/_clusters/monob1d/" target="_blank" style="color: $blue;">Mon OB1-D</a> | Classified as primordial binary cluster 274 along with NGC_2264. |
+| <a href="{{ site.baseurl }}/_clusters/monob1d/" target="_blank" style="color: $blue;">MonOB1-D</a> | Classified as primordial binary cluster 274 along with NGC_2264. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1333/" target="_blank" style="color: $blue;">NGC 1333</a> | Classified as primordial binary cluster 188 along with HSC_1250, and as primordial binary cluster 305 along with OC_0279, and of multiple system 52 along with HSC_1250 and OC_0279. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1980/" target="_blank" style="color: $blue;">NGC 1980</a> | Classified as primordial binary cluster 202 along with HSC_1633, and of multiple system 57 along with OCSN_59 and HSC_1633. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2129/" target="_blank" style="color: $blue;">NGC 2129</a> | Classified as tidal capture (resonant trapping binary) 279 along with UBC_437. |
