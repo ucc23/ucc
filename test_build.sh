@@ -4,16 +4,31 @@ set -euo pipefail
 SRC="_clusters"
 DST="_clusters2"
 HTML="cl_test.html"
+
 N="${1:-10}"
+shift || true
+
+# Collect exclusion prefixes (remove leading '-')
+EXCLUDE_PREFIXES=()
+for arg in "$@"; do
+    [[ "$arg" == -* ]] && EXCLUDE_PREFIXES+=("${arg#-}")
+done
 
 # 1. Clean destination
 mkdir -p "$DST"
 rm -f "$DST"/*.md
 
-# 2. Copy N random markdown files
-ls "$SRC"/*.md | shuf -n "$N" | xargs -I {} cp {} "$DST"/
+# 2. Build file list excluding prefixes
+FILES=$(ls "$SRC"/*.md)
 
-# 3. Generate HTML list items
+for p in "${EXCLUDE_PREFIXES[@]}"; do
+    FILES=$(echo "$FILES" | grep -v "/$p")
+done
+
+# 3. Copy N random markdown files
+echo "$FILES" | shuf -n "$N" | xargs -I {} cp {} "$DST"/
+
+# 4. Generate HTML list items
 LIST_ITEMS=""
 
 for f in "$DST"/*.md; do
@@ -29,7 +44,7 @@ for f in "$DST"/*.md; do
     LIST_ITEMS+="    <li><a href=\"http://127.0.0.1:4000/_clusters2/$name\" target=\"content\">$name</a> — UTI: $uti</li>"
 done
 
-# 4. Generate full HTML file
+# 5. Generate HTML file
 cat > "$HTML" <<EOF
 <!DOCTYPE html>
 <html lang="en">
@@ -59,8 +74,8 @@ $LIST_ITEMS
 </html>
 EOF
 
-# 5. Open the HTML file
+# 6. Open HTML
 xdg-open "$HTML" >/dev/null 2>&1 &
 
-# 6. Run Jekyll
+# 7. Run Jekyll
 bundle exec jekyll serve --incremental
