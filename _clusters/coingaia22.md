@@ -18,12 +18,12 @@ UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#ebb0b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 0.07
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -72,22 +72,23 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.31 | -- | 210 | -0.065 | 292 | 0.46 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.28 | -- | 210 | -0.065 | 292 | 0.46 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.99 | 1.20 | -- | 496 | -0.249 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.81 | 1.34 | -- | 209 | -- | 287 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.77 | 1.28 | -- | 210 | -0.067 | 297<sup>(1)</sup> | 0.46 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.81 | 1.34 | -- | 209 | -0.062 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.99 | 0.82 | -- | 302 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.06 | 1.16 | -- | 692 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.93 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.01 | 1.41 | -- | 198 | 0.015 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.93 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "8"
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 70](/_clusters/ubc70/)| 96.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.0 |
-    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.74 |
+    |[Kronberger 6](/_clusters/kronberger6/)| 92.8 | 91.06 | 31.6 | 0.51 | -0.76 | -3.29 | 12.07 |0.72 |
     |[CWWDL 12517](/_clusters/cwwdl12517/)| 78.4 | 91.07 | 31.6 | 0.51 | -0.77 | -3.29 | 12.07 |0.0 |
 N_rows_shared: "3"
 ---

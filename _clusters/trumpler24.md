@@ -13,17 +13,17 @@ glon: 344.80965
 glat: 1.63091
 r50: 58.8
 plx: 2.3765
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.33"
+UTI_COLOR: "#fee7cc"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.38
-UTI_C_lit: 0.7
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -50,7 +50,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G167, along with HSC_2850 and HSC_2873.</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: one or a few submm emission within the cluster area, but the submm emission is likely associated to the cluster.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.77 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>

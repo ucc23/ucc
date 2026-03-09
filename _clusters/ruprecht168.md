@@ -13,17 +13,17 @@ glon: 1.2188
 glat: -1.11808
 r50: 8.5
 plx: 0.0941
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -62,11 +62,12 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 268.199 | -28.44 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 268.182 | -28.438 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 268.199 | -28.44 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 268.192 | -28.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 268.192 | -28.433 | -- | -0.68 | -2.23 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 268.207 | -28.44 | -- | -2.05 | -3.45 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 268.192 | -28.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 268.192 | -28.433 | -- | -0.68 | -2.23 | -- 
-N_rows_pos: "8"
+N_rows_pos: "9"
 cds_radec: 268.21061,-28.43579
 carousel: UCC
 fpars_table: |
@@ -76,10 +77,11 @@ fpars_table: |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 4.27 | 3.90 | -- | 5 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1259 | -- | 144 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.63 | 6.78 | -- | 1259 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 820.00 | 3.29 | -- | 2000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.63 | 6.78 | -- | 1259 | -- | -- | -- | -- |
     | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 0.82 | -- | -- | 2000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.63 | 6.78 | -- | 1259 | -- | -- | -- | -- |
-N_rows_pars: "6"
+N_rows_pars: "7"
 note_asterisk: false
 shared_table: |
 

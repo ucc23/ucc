@@ -13,17 +13,17 @@ glon: 322.56262
 glat: 0.91751
 r50: 5.0
 plx: 0.588
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#c4e5c7"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.82
 UTI_C_C3: 0.38
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.38 (50th percentile).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 4.1
 N_50_val: 25
 scix_url: CWNU%206

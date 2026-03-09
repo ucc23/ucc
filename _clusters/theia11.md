@@ -13,29 +13,29 @@ glon: 115.035
 glat: 14.23737
 r50: 11.4
 plx: 2.9052
-UTI: "0.00"
-UTI_COLOR: "#dfa5b3"
+UTI: "0.47"
+UTI_COLOR: "#fefbe2"
 UTI_C_N_COL: "#fee9cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.0
+UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Very likely duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 11</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 11</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
-badge_av: "Moderate extinction"
-badge_av_url: "av_min=1&av_max=3"
+badge_av: "Low extinction"
+badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
@@ -48,7 +48,7 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair (not dynamically associated) P87, along with Collinder_471.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.49 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -61,23 +61,25 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |341.517 | 75.134 | 2.905 | 7.387 | 0.292 | -16.689 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 341.089 | 75.238 | 2.915 | -- | -- | -- |
-    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 341.328 | 75.155 | 2.913 | 7.332 | 0.521 | -44.971 
-N_rows_pos: "2"
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 341.328 | 75.155 | 2.913 | 7.332 | 0.521 | -44.971 |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 341.373 | 75.182 | 2.79 | -- | -- | -5.477 
+N_rows_pos: "3"
 cds_radec: 341.5175,+75.13397
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.36 | 1.17 | 1.77 | 6 | 0.170 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.36 | 0.8 | 1.77 | 6 | 0.170 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.39 | 1.85 | -- | 6 | 0.170 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.33 | 0.49 | 1.77 | 5 | -- | -- | -- | -- |
-N_rows_pars: "2"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.36 | 0.80 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LDN 1251](/_clusters/ldn1251/)| 100.0 | 340.96 | 75.2 | 2.9 | 7.34 | 0.48 | -34.04 |0.45 |
-    |[OC 0209](/_clusters/oc0209/)| 79.4 | 341.35 | 75.11 | 2.91 | 7.34 | 0.29 | -16.69 |0.46 |
+    |[LDN 1251](/_clusters/ldn1251/)| 100.0 | 340.96 | 75.2 | 2.9 | 7.34 | 0.48 | -34.04 |0.43 |
+    |[OC 0209](/_clusters/oc0209/)| 79.4 | 341.35 | 75.11 | 2.91 | 7.34 | 0.29 | -16.69 |0.03 |
     |[OCSN 39](/_clusters/ocsn39/)| 76.5 | 340.59 | 75.18 | 2.9 | 7.07 | 0.65 | -48.18 |0.0 |
 N_rows_shared: "3"
 ---

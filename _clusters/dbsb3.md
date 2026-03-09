@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 3
 title_flag: true
-more_names: MWSC 1133
+more_names: DBSB2003 3; MWSC 1133
 fname: dbsb3
 members_file: "228_232"
 fov: 0.073
@@ -48,10 +48,12 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.81 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 7.4
 N_50_val: 46
 scix_url: DBSB%203
@@ -71,8 +73,9 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 107.579 | -18.434 | -- | -- | -- | 41.07 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 107.579 | -18.434 | 0.281 | -1.937 | 2.696 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 107.573 | -18.484 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 107.578 | -18.486 | -- | 2.83 | 3.0 | -- 
-N_rows_pos: "13"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 107.578 | -18.486 | -- | 2.83 | 3.0 | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 107.576 | -18.482 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 107.57638,-18.43616
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -87,12 +90,13 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 10 | -- | 112 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.87 | 1.60 | -- | 6 | -0.200 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 3.24 | 1.57 | -- | 4 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.17 | 1.93 | -- | 9 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.23 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 3.23 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.23 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.36 | 3.55 | -- | 10 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.36 | 3.55 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "13"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
 

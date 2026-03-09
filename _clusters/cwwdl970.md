@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 265](/_clusters/teutsch265/)| 100.0 | 276.46 | -17.08 | 0.48 | -0.22 | -1.56 | -27.47 |0.65 |
+    |[Teutsch 265](/_clusters/teutsch265/)| 100.0 | 276.46 | -17.08 | 0.48 | -0.22 | -1.56 | -27.47 |0.55 |
     |[UBC 341](/_clusters/ubc341/)| 100.0 | 276.47 | -17.07 | 0.49 | -0.22 | -1.53 | -27.47 |0.02 |
 N_rows_shared: "2"
 ---

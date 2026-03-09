@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 82
 title_flag: true
-more_names: MWSC 819
+more_names: BDS2003 82; MWSC 819
 fname: bdsb82
 members_file: "196_200"
 fov: 0.087
@@ -13,17 +13,17 @@ glon: 197.79326
 glat: -2.31947
 r50: 2.6
 plx: 0.2479
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -46,11 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.22 (50th percentile), true positive? (human-assigned).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 5.7
 N_50_val: 53
 scix_url: BDSB%2082
@@ -65,8 +67,9 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 93.734 | 12.349 | 0.252 | -0.291 | -0.411 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 93.739 | 12.339 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 93.739 | 12.339 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 93.747 | 12.338 | -- | 0.17 | 0.07 | -- 
-N_rows_pos: "8"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 93.747 | 12.338 | -- | 0.17 | 0.07 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 93.737 | 12.351 | -- | -- | -- | -- 
+N_rows_pos: "9"
 cds_radec: 93.72809,+12.34124
 carousel: UCC_HUNT23
 fpars_table: |

@@ -13,17 +13,17 @@ glon: 181.34567
 glat: -3.38088
 r50: 6.8
 plx: 0.1751
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.25
-UTI_C_lit: 0.35
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -60,22 +60,24 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 83.951 | 25.95 | -- | -- | -- | -- |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 83.975 | 25.95 | -- | 0.64 | 0.23 | 48.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 83.951 | 25.95 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 83.975 | 25.95 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 83.975 | 25.95 | -- | -1.11 | 1.39 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 83.959 | 25.95 | -- | 0.18 | -4.94 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 83.975 | 25.95 | -- | -1.11 | 1.39 | -- 
-N_rows_pos: "6"
+N_rows_pos: "7"
 cds_radec: 83.94361,+25.97978
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.66 | 3.87 | -- | 285 | -0.470 | 207 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.66 | 3.64 | -- | 285 | -0.470 | 207 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 285 | -- | 207 | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | -0.470 | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.66 | 3.87 | -- | 285 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1220.00 | 3.41 | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.66 | 3.87 | -- | 285 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.22 | 3.41 | -- | 100 | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: false
 shared_table: |
 

@@ -13,17 +13,17 @@ glon: 294.9828
 glat: -0.66379
 r50: 7.3
 plx: 0.2234
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#f5c1b8"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 0.15
 UTI_C_C3: 0.38
-UTI_C_lit: 0.35
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose

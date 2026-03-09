@@ -13,17 +13,17 @@ glon: 64.9182
 glat: -12.0404
 r50: 48.4
 plx: 3.4149
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.31
 UTI_C_C3: 0.62
-UTI_C_lit: 0.45
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -47,7 +47,7 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.49 (50th percentile).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>

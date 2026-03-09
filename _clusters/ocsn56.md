@@ -13,22 +13,22 @@ glon: 201.30354
 glat: -16.84386
 r50: 33.1
 plx: 2.5262
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee4c9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.31
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
     <b>OCSN 56</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
@@ -48,7 +48,7 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G229, along with OCSN_65, Theia_13, CWNU_1072, Sigma_Orionis, CWNU_1088, ASCC_18 and OCSN_68.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

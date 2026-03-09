@@ -13,17 +13,17 @@ glon: 98.49068
 glat: 7.92372
 r50: 20.3
 plx: 1.1728
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a7cebb"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.98
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>Asterism (Kronberger, M. 2005, private communication); cat V3.5 (Jan 2016)</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G222, along with OC_0158 and HSC_764.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 4.9
 N_50_val: 124
 scix_url: Riddle%206
@@ -84,6 +85,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 385](/_clusters/ubc385/)| 28.2 | 317.94 | 60.02 | 1.18 | -2.53 | -3.51 | -17.86 |0.0 |
     |[CWNU 1192](/_clusters/cwnu1192/)| 18.5 | 318.54 | 59.41 | 1.16 | -2.51 | -3.5 | -25.37 |0.02 |
-    |[OC 0158](/_clusters/oc0158/)| 17.7 | 318.24 | 59.51 | 1.16 | -2.54 | -3.51 | -24.65 |0.03 |
+    |[OC 0158](/_clusters/oc0158/)| 17.7 | 318.24 | 59.51 | 1.16 | -2.54 | -3.51 | -24.65 |0.02 |
 N_rows_shared: "3"
 ---

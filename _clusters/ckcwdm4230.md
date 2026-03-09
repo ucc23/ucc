@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ruprecht 30](/_clusters/ruprecht30/)| 8.0 | 115.59 | -31.46 | 0.08 | -1.04 | 2.12 | 86.87 |0.25 |
+    |[Ruprecht 30](/_clusters/ruprecht30/)| 8.0 | 115.59 | -31.46 | 0.08 | -1.04 | 2.12 | 86.87 |0.23 |
 N_rows_shared: "1"
 ---

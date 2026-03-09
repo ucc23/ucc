@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 40](/_clusters/sai40/)| 71.2 | 75.21 | 41.22 | 0.21 | 0.29 | -1.22 | -16.52 |0.62 |
+    |[SAI 40](/_clusters/sai40/)| 71.2 | 75.21 | 41.22 | 0.21 | 0.29 | -1.22 | -16.52 |0.6 |
     |[UBC 431](/_clusters/ubc431/)| 59.6 | 75.22 | 41.22 | 0.2 | 0.31 | -1.2 | -16.52 |0.02 |
 N_rows_shared: "2"
 ---

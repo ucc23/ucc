@@ -13,17 +13,17 @@ glon: 222.07876
 glat: -11.2468
 r50: 43.8
 plx: 2.3048
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.43"
+UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#fbfde3"
 UTI_C_dens_COL: "#feeed1"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
 UTI_C_dens: 0.37
 UTI_C_C3: 0.75
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Loose
@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 72 along with CWNU_1227, and as primordial binary cluster 322 along with OCSN_76, and of multiple system 25 along with OCSN_76 and CWNU_1227.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G230, along with Theia_319 and OCSN_76.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.96 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>

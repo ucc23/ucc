@@ -13,17 +13,17 @@ glon: 126.30969
 glat: -1.66776
 r50: 5.4
 plx: 0.484
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#aad2bd"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 0.95
 UTI_C_C3: 0.75
-UTI_C_lit: 0.4
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg30' along with FSR 0534.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 4.7
 N_50_val: 50
 scix_url: UBC%2039
@@ -72,14 +73,15 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.97 | 1.595 | 1.61 | 150 | 0.026 | 383 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.965 | 1.61 | 1.61 | 148 | 0.026 | 383 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.78 | 1.58 | -- | 346 | -0.057 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 383<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.18 | 1.94 | -- | 98 | 0.110 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.93 | 1.61 | 1.61 | 152 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.04 | 1.35 | -- | 148 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.96 | 2.06 | -- | 38 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.97 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "6"
+N_rows_pars: "7"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

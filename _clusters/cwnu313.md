@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as hyperbolic encounter pair 66 along with UPK_42.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G61, along with HSC_300 and UPK_42.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.98 (50th percentile).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
@@ -61,21 +61,23 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |294.957 | -1.468 | 1.687 | 0.377 | -2.533 | -14.581 |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 295.138 | -1.992 | 1.722 | 0.556 | -2.529 | -14.581 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 295.329 | -0.681 | 1.725 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 295.138 | -1.992 | 1.722 | 0.556 | -2.529 | -15.903 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 294.705 | -1.134 | 1.65 | 0.36 | -2.48 | -- 
-N_rows_pos: "3"
+N_rows_pos: "4"
 cds_radec: 294.95743,-1.46836
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.585 | 0.6 | 0.67 | 38 | 0.399 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.57 | 0.6 | 0.67 | 40 | 0.399 | 210 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.83 | 0.29 | -- | 35 | -- | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.57 | -- | -- | 40 | -- | 210 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.62 | 1.00 | -- | 31 | 0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.55 | 0.66 | 0.67 | 40 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 0.54 | 0.54 | -- | 50 | 0.537 | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
 

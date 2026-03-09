@@ -13,17 +13,17 @@ glon: 243.15305
 glat: 0.45301
 r50: 4.1
 plx: 0.1995
-UTI: "0.83"
-UTI_COLOR: "#c2e4c6"
+UTI: "0.82"
+UTI_COLOR: "#c4e5c7"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#d0eac9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.77
 UTI_C_C3: 1.0
-UTI_C_lit: 0.81
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg43' along with Haffner 19.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.74 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 3.9
 N_50_val: 138
 scix_url: Haffner%2018
@@ -79,13 +80,14 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.08 | 1.89 | 1.62 | 11 | -- | 702 | -- | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.08 | 1.89 | 1.62 | 12 | -- | 702 | -- | 0.0 |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 298<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 14 | -- | 702 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.82 | 2.42 | 1.62 | 4 | -- | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 5.08<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 4.67 | 1.89 | -- | 8 | -- | -- | -- | 0 |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 5.08 | 1.52 | -- | 14 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.24 | 1.89 | -- | 32 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 4.67 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 4.67 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 4.67 | -- | -- | -- | -- | -- | -- | -- |
@@ -95,11 +97,12 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 6.03 | 1.89 | -- | 8 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.03 | 1.89 | -- | 8 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 4.57 | 1.28 | -- | 16 | -- | -- | -- | -- |
-N_rows_pars: "15"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.95 |
-N_rows_shared: "1"
+    |[NGC 2467-East](/_clusters/ngc2467east/)| 65.2 | 118.18 | -26.38 | 0.2 | -2.53 | 2.69 | -- |0.02 |
+    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.89 |
+N_rows_shared: "2"
 ---

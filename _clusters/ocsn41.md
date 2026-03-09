@@ -13,22 +13,22 @@ glon: 116.00833
 glat: -7.71755
 r50: 45.4
 plx: 2.4872
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#dbefca"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 0.72
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>OCSN 41</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 317 along with OCSN_40, and of multiple system 9 along with OCSN_40 and Alessi_20.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G228, along with Alessi_20 and OCSN_40.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 131
 title_flag: true
-more_names: DBS2003 131
+more_names: DBSB2003 131; DBS2003 131
 fname: dbsb131
 members_file: "304_308"
 fov: 0.3
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster, presence of an IR bubble.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.1
 N_50_val: 16
 scix_url: DBSB%20131
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |197.945 | -62.509 | 0.235 | -8.458 | -0.948 | -23.42 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 197.914 | -62.553 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 197.914 | -62.553 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 197.915 | -62.55 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 197.94546,-62.50875
 carousel: UCC
 fpars_table: |

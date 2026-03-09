@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 94
 title_flag: true
-more_names: DBS2003 94; MWSC 2312
+more_names: DBSB2003 94; DBS2003 94; MWSC 2312
 fname: dbsb94
 members_file: "324_328"
 fov: 0.207
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC1' (deeply embedded cluster). Morphological flag: cluster fully embedded, presence of an IR bubble.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 1.2
 N_50_val: 17
 scix_url: DBSB%2094
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 235.563 | -53.959 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 235.563 | -53.959 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 235.575 | -53.96 | -- | -3.7 | -0.19 | -42.4 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 235.575 | -53.974 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 235.575 | -53.974 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 235.572 | -53.971 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 235.56517,-53.95517
 carousel: UCC
 fpars_table: |

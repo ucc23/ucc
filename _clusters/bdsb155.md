@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC1' (totally exposed cluster still physically associated with gas). Morphological flag: exposed cluster, without submm emission, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.1
 N_50_val: 12
 scix_url: BDSB%20155
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |290.998 | 14.612 | 0.19 | -2.444 | -6.084 | 25.804 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 290.979 | 14.594 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 290.979 | 14.594 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 290.984 | 14.597 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 290.99816,+14.61175
 carousel: UCC
 fpars_table: |

@@ -13,25 +13,25 @@ glon: 294.90366
 glat: -1.66646
 r50: 6.7
 plx: 0.3983
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#afdbc1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#d4ecc9"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#ceeac8"
 UTI_C_N: 0.9
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.75
+UTI_C_lit: 0.7
 UTI_C_dup: 0.78
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Well-studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>VDBH 121</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>VDBH 121</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -79,12 +79,13 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.41 | 1.11 | -- | 4 | -0.089 | 1337 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.405 | 1.195 | -- | 4 | -0.089 | 1337 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.25 | 1.28 | -- | 7 | -- | 1285 | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 3 | -- | 1252 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 4 | -- | 1337 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.25 | 1.28 | -- | 7 | -0.089 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.41 | 1.11 | -- | 3 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.30 | 1.63 | -- | 7 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.40 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.40 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.94 | 1.55 | -- | 4 | -- | -- | -- | -- |
@@ -93,13 +94,13 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 2.73 | 0.90 | -- | 4 | -- | 1476 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 2.73 | 0.90 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.25 | 0.78 | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "13"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[IC 2948](/_clusters/ic2948/)| 38.6 | 174.88 | -63.46 | 0.4 | -5.95 | 0.65 | -11.68 |0.02 |
-    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.95 |
+    |[IC 2944](/_clusters/ic2944/)| 21.5 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.88 |
     |[VVV 005](/_clusters/vvv005/)| 7.5 | 174.74 | -63.47 | 0.4 | -5.95 | 0.51 | -45.44 |0.0 |
     |[CWWDL 864](/_clusters/cwwdl864/)| 2.4 | 174.28 | -63.27 | 0.39 | -6.15 | 0.9 | 4.55 |0.23 |
 N_rows_shared: "4"

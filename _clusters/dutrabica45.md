@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 45
 title_flag: true
-more_names: MWSC 2695
+more_names: DB2000 45; MWSC 2695
 fname: dutrabica45
 members_file: "0_4"
 fov: 0.217
@@ -18,12 +18,12 @@ UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.3
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -61,8 +61,9 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 266.824 | -24.893 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 266.816 | -24.894 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 266.824 | -24.893 | -- | 2.75 | -15.57 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.825 | -24.887 | -- | 1.61 | 0.97 | -- 
-N_rows_pos: "5"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.825 | -24.887 | -- | 1.61 | 0.97 | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 266.824 | -24.893 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 266.84161,-24.89729
 carousel: UCC
 fpars_table: |

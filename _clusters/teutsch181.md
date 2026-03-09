@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 342 along with Theia_619.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P566, along with Theia_619.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -61,20 +61,22 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |333.246 | 53.95 | 1.894 | 3.871 | -0.831 | -18.258 |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 333.213 | 54.008 | 1.919 | 4.116 | -0.937 | -12.763 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 335.002 | 54.124 | 1.91 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 333.213 | 54.008 | 1.919 | 4.116 | -0.937 | -13.534 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 333.084 | 53.878 | -- | -- | -- | -- 
-N_rows_pos: "3"
+N_rows_pos: "4"
 cds_radec: 333.24617,+53.94996
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.56 | 0.57 | 0.51 | 16 | -0.130 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.54 | 0.57 | 0.51 | 16 | -0.130 | 101 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.69 | 0.30 | -- | 30 | -- | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.52 | -- | -- | 16 | -- | 101 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.56 | 1.03 | -- | 7 | -0.130 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.51 | 0.57 | 0.51 | 16 | -- | -- | -- | -- |
-N_rows_pars: "3"
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
 

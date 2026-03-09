@@ -13,29 +13,29 @@ glon: 109.49018
 glat: -11.5417
 r50: 8.0
 plx: 0.342
-UTI: "0.24"
-UTI_COLOR: "#fcd4c1"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fefee8"
+UTI_C_lit_COL: "#fefae1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.08
 UTI_C_C3: 0.12
-UTI_C_lit: 0.5
+UTI_C_lit: 0.46
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very low quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 456</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a low-mass, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.92 kpc) differs significantly from the median photometric distance (~2.10 kpc).</p>
+    <b>Collinder 456</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.92 kpc) differs significantly from the median photometric distance (~2.10 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
-badge_av: "Moderate extinction"
-badge_av_url: "av_min=1&av_max=3"
+badge_av: "Low extinction"
+badge_av_url: "av_min=0&av_max=1"
 badge_mass: "Low mass"
 badge_mass_url: "mass_min=0&mass_max=50"
 badge_feh: ""
@@ -61,25 +61,27 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 352.483 | 49.121 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 352.425 | 49.17 | -- | -0.918 | -0.744 | 6.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 352.415 | 49.166 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 352.529 | 49.133 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 352.529 | 49.133 | -- | -1.33 | -1.58 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 352.422 | 49.17 | -- | -1.15 | -1.21 | 6.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 352.422 | 49.17 | -- | -1.15 | -1.21 | 6.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 352.53 | 49.13 | -- | 0.12 | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 352.529 | 49.133 | -- | -1.33 | -1.58 | -- 
-N_rows_pos: "9"
+N_rows_pos: "10"
 cds_radec: 352.45794,+49.14764
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.1 | 1.24 | -- | 1130 | -- | 31 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.1 | 0.93 | -- | 1130 | -- | 31 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1130 | -- | 31 | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.48 | 0.52 | -- | 1995 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.10 | 1.24 | -- | 1130 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1534.00 | 0.62 | -- | 2000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.10 | 1.24 | -- | 1130 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 2.10 | 1.24 | -- | 1130 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.53 | 0.62 | -- | 1995 | -- | -- | -- | -- |
-N_rows_pars: "6"
+N_rows_pars: "7"
 note_asterisk: false
 shared_table: |
 

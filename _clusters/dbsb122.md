@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 122
 title_flag: true
-more_names: DBS2003 122
+more_names: DBSB2003 122; DBS2003 122
 fname: dbsb122
 members_file: "348_352"
 fov: 0.187
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC1' (deeply embedded cluster). Morphological flag: cluster fully embedded, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 6.7
 N_50_val: 56
 scix_url: DBSB%20122
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |259.247 | -36.35 | 0.562 | -0.159 | -2.22 | -76.597 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 259.258 | -36.349 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 259.258 | -36.349 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 259.259 | -36.345 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 259.24676,-36.34951
 carousel: UCC
 fpars_table: |

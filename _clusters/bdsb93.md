@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 93
 title_flag: true
-more_names: MWSC 1030
+more_names: BDS2003 93; FSR 1155; MWSC 1030
 fname: bdsb93
 members_file: "220_224"
 fov: 0.197
@@ -13,25 +13,25 @@ glon: 220.90889
 glat: -2.47107
 r50: 5.9
 plx: 0.7483
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.76"
+UTI_COLOR: "#d3ecc9"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e0f1cb"
-UTI_C_dup_COL: "#fdddc5"
+UTI_C_lit_COL: "#d4ecc9"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.7
-UTI_C_dup: 0.28
+UTI_C_lit: 0.75
+UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: Moderately studied
-UTI_C_dup_desc: Possibly duplicate
+UTI_C_lit_desc: Well-studied
+UTI_C_dup_desc: Unique
 summary: |
-    <b>BDSB 93</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, age, and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>BDSB 93</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, age, and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -47,12 +47,14 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as genetic pair P187, along with HSC_1740.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.47 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 16.5
 N_50_val: 87
 scix_url: BDSB%2093
@@ -72,14 +74,16 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 104.297 | -8.202 | 0.77 | -2.41 | 1.021 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 104.297 | -8.202 | 0.77 | -2.41 | 1.021 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 104.288 | -8.188 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 104.295 | -8.19 | -- | 3.26 | 0.21 | -- 
-N_rows_pos: "13"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 104.295 | -8.19 | -- | 3.26 | 0.21 | -- |
+    |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 104.3 | -8.187 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 104.31 | -8.332 | -- | -- | -- | -- 
+N_rows_pos: "15"
 cds_radec: 104.30425,-8.22079
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.25 | 1.915 | 2.24 | 10 | 0.210 | 118 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.25 | 2.06 | 2.24 | 11 | 0.210 | 118 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.02 | 2.23 | -- | 12 | -- | 153 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 84<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 16 | -- | 62 | -- | -- |
@@ -89,15 +93,14 @@ fpars_table: |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 5 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.02 | 2.23 | -- | 12 | -0.109 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.20 | 1.77 | -- | 16 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.32 | 3.17 | -- | 11 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.25 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.25 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.17 | 2.06 | -- | 3 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.17 | 2.06 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "13"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
-    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
-    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1155](/_clusters/fsr1155/)| 72.4 | 104.3 | -8.2 | 0.76 | -2.46 | 1.1 | 35.96 |0.45 |
-N_rows_shared: "1"
+
+N_rows_shared: "0"
 ---

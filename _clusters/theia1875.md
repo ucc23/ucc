@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.8
 N_50_val: 23
 scix_url: Theia%201875
@@ -77,6 +78,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 944](/_clusters/cwwdl944/)| 84.0 | 257.88 | -41.36 | 0.42 | -0.75 | -2.72 | -20.1 |0.07 |
-    |[CWNU 85](/_clusters/cwnu85/)| 56.0 | 257.92 | -41.33 | 0.42 | -0.73 | -2.7 | -17.36 |0.65 |
+    |[CWNU 85](/_clusters/cwnu85/)| 56.0 | 257.92 | -41.33 | 0.42 | -0.73 | -2.7 | -17.36 |0.55 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 75.56008
 glat: 1.49388
 r50: 2.6
 plx: 0.2482
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.35
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -61,26 +61,28 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 304.045 | 37.877 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 304.095 | 37.867 | -- | -0.151 | -0.864 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 304.045 | 37.877 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 304.1 | 37.867 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 304.1 | 37.867 | -- | -0.92 | -1.41 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 304.05 | 37.88 | -- | -5.97 | -2.77 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 304.11 | 37.88 | -- | -2.12 | -6.08 | -- 
-N_rows_pos: "6"
+N_rows_pos: "7"
 cds_radec: 304.06958,+37.90362
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.92 | 1.525 | -- | 1122 | -- | 155 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.92 | 1.36 | -- | 1122 | -- | 155 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1122 | -- | 155 | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.76 | 0.89 | -- | 1122 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.92 | 1.81 | -- | 1122 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 872.00 | 1.36 | -- | 250 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.92 | 1.81 | -- | 1122 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.43 | 1.24 | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1100](/_clusters/ubc1100/)| 85.0 | 304.07 | 37.91 | 0.25 | -3.72 | -6.01 | 17.92 |0.09 |
+    |[UBC 1100](/_clusters/ubc1100/)| 85.0 | 304.07 | 37.91 | 0.25 | -3.72 | -6.01 | 17.92 |0.08 |
 N_rows_shared: "1"
 ---

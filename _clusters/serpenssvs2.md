@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Serpens SVS2
 title_flag: true
-more_names: 
+more_names: SVS20
 fname: serpenssvs2
 members_file: "28_32"
 fov: 0.347
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.1
 N_50_val: 16
 scix_url: Serpens%20SVS2
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |277.564 | 1.253 | 0.273 | -0.899 | -4.884 | 37.355 |
-    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 277.487 | 1.246 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 277.487 | 1.246 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 277.482 | 1.238 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 277.56435,+1.25302
 carousel: UCC
 fpars_table: |

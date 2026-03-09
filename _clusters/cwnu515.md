@@ -13,17 +13,17 @@ glon: 279.33738
 glat: -12.36298
 r50: 39.9
 plx: 4.8589
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.62"
+UTI_COLOR: "#eef7d4"
 UTI_C_N_COL: "#fee9cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.4
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -31,13 +31,13 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CWNU 515</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>CWNU 515</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
-badge_mass: ""
-badge_mass_url: ""
+badge_mass: "Low mass"
+badge_mass_url: "mass_min=0&mass_max=50"
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
 badge_age: "Young"
@@ -48,7 +48,7 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 79 along with HSC_2351.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -61,26 +61,28 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |131.812 | -63.409 | 4.859 | -26.564 | 15.495 | 11.108 |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 131.962 | -63.136 | 4.859 | -26.769 | 15.395 | -- |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 131.902 | -63.583 | 4.869 | -27.101 | 14.774 | 11.565 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 133.149 | -63.402 | 4.867 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 131.902 | -63.583 | 4.869 | -27.101 | 14.774 | 8.118 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 131.9 | -63.43 | 4.87 | -26.77 | 15.43 | 11.13 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 131.893 | -63.346 | 4.862 | -26.528 | 15.418 | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 132.183 | -63.529 | 4.84 | -26.65 | 15.39 | 11.9 
-N_rows_pos: "6"
+N_rows_pos: "7"
 cds_radec: 131.81203,-63.40949
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.21 | 0.31 | 0.5 | 28 | -0.250 | 56 | 0.51 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.21 | 0.31 | 0.5 | 28 | -0.250 | 49 | 0.51 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.21 | 0.07 | -- | 35 | -- | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.22 | 0.40 | -- | 27 | -0.250 | 56 | 0.51 | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.20 | -- | -- | 21 | -- | 42 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.20 | 0.63 | -- | 32 | 0.100 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.21 | 0.12 | 0.50 | 21 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.23 | 0.31 | -- | 28 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.20 | -- | 32 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 0.21 | 0.42 | -- | 25 | -0.419 | -- | -- | -- |
-N_rows_pars: "7"
+N_rows_pars: "8"
 note_asterisk: false
 shared_table: |
 

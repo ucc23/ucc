@@ -13,17 +13,17 @@ glon: 24.4483
 glat: -5.01014
 r50: 17.1
 plx: 1.0894
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.52
 UTI_C_C3: 0.75
-UTI_C_lit: 0.6
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 2.6
 N_50_val: 54
 scix_url: UPK%2026

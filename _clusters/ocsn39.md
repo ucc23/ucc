@@ -71,8 +71,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LDN 1251](/_clusters/ldn1251/)| 100.0 | 340.96 | 75.2 | 2.9 | 7.34 | 0.48 | -34.04 |0.45 |
-    |[Theia 11](/_clusters/theia11/)| 41.3 | 341.52 | 75.13 | 2.91 | 7.39 | 0.29 | -16.69 |0.0 |
-    |[OC 0209](/_clusters/oc0209/)| 39.7 | 341.35 | 75.11 | 2.91 | 7.34 | 0.29 | -16.69 |0.46 |
+    |[LDN 1251](/_clusters/ldn1251/)| 100.0 | 340.96 | 75.2 | 2.9 | 7.34 | 0.48 | -34.04 |0.43 |
+    |[Theia 11](/_clusters/theia11/)| 41.3 | 341.52 | 75.13 | 2.91 | 7.39 | 0.29 | -16.69 |0.47 |
+    |[OC 0209](/_clusters/oc0209/)| 39.7 | 341.35 | 75.11 | 2.91 | 7.34 | 0.29 | -16.69 |0.03 |
 N_rows_shared: "3"
 ---

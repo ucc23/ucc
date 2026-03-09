@@ -31,9 +31,9 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 540</b> is a sparse, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
-badge_dist: ""
-badge_dist_url: ""
+    <b>Theia 540</b> is a sparse, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Close"
+badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
@@ -57,21 +57,23 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |296.618 | 39.822 | 2.111 | 1.47 | -0.647 | -9.896 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 296.567 | 39.759 | 2.127 | 1.598 | -0.582 | -- 
-N_rows_pos: "1"
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 296.567 | 39.759 | 2.127 | 1.598 | -0.582 | -- |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 296.508 | 39.122 | 1.933 | -- | -- | 2.89 
+N_rows_pos: "2"
 cds_radec: 296.61806,+39.82196
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.85 | -- | 794 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.52 | 0.56 | -- | 498 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.85 | -- | 794 | -- | -- | -- | -- |
-N_rows_pars: "1"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.52 | 0.27 | -- | 201 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1183](/_clusters/cwnu1183/)| 36.0 | 295.93 | 38.47 | 2.09 | 1.42 | -0.83 | -10.27 |0.38 |
-    |[CWNU 1257](/_clusters/cwnu1257/)| 12.0 | 298.61 | 41.44 | 2.04 | 1.51 | -0.23 | -9.31 |0.18 |
+    |[CWNU 1183](/_clusters/cwnu1183/)| 36.0 | 295.93 | 38.47 | 2.09 | 1.42 | -0.83 | -10.27 |0.24 |
+    |[CWNU 1257](/_clusters/cwnu1257/)| 12.0 | 298.61 | 41.44 | 2.04 | 1.51 | -0.23 | -9.31 |0.16 |
 N_rows_shared: "2"
 ---

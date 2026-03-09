@@ -13,17 +13,17 @@ glon: 250.48993
 glat: -4.37981
 r50: 10.1
 plx: 0.7121
-UTI: "0.47"
-UTI_COLOR: "#fefbe2"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.55
 UTI_C_dens: 0.69
 UTI_C_C3: 0.5
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P300, along with CWNU_129.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 3.5
 N_50_val: 59
 scix_url: CWNU%20128

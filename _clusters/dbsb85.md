@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 85
 title_flag: true
-more_names: DBS2003 85; MWSC 2104
+more_names: DBSB2003 85; DBS2003 85; MWSC 2104
 fname: dbsb85
 members_file: "304_308"
 fov: 0.17
@@ -13,25 +13,25 @@ glon: 306.04402
 glat: 0.04138
 r50: 5.1
 plx: 0.3768
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#feebce"
 UTI_C_dens_COL: "#fef9de"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fcd6c2"
-UTI_C_dup_COL: "#a8cfbb"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.45
 UTI_C_C3: 0.25
 UTI_C_lit: 0.25
-UTI_C_dup: 0.97
+UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 85</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a low-mass, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.65 kpc) differs significantly from the median photometric distance (~2.02 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.97</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>DBSB 85</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a low-mass, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.65 kpc) differs significantly from the median photometric distance (~2.02 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster, presence of an IR bubble.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 2.3
 N_50_val: 35
 scix_url: DBSB%2085
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 199.6 | -62.662 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 199.6 | -62.662 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 199.612 | -62.665 | -- | -15.7 | 2.0 | -- |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 199.629 | -62.663 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 199.629 | -62.663 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 199.617 | -62.659 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 199.64805,-62.66581
 carousel: UCC
 fpars_table: |
@@ -80,6 +82,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2576](/_clusters/hsc2576/)| 25.7 | 199.65 | -62.57 | 0.49 | -4.3 | -1.74 | -29.39 |0.27 |
     |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.68 | -62.54 | 0.49 | -4.16 | -1.81 | -37.02 |0.45 |
-    |[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.74 | 0.38 | -4.89 | -1.58 | -- |0.05 |
+    |[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.74 | 0.38 | -4.89 | -1.58 | -- |0.04 |
 N_rows_shared: "3"
 ---

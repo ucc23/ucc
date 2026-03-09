@@ -13,17 +13,17 @@ glon: 344.63578
 glat: 1.63076
 r50: 3.2
 plx: 0.5814
-UTI: "0.87"
-UTI_COLOR: "#b7dfc3"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bfe2c5"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.84
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.28 (50th percentile), false positive (human-assigned).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 33.9
 N_50_val: 87
 scix_url: VDBH%20205
@@ -101,7 +102,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.42 |
+    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.4 |
     |[UBC 323](/_clusters/ubc323/)| 93.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
 N_rows_shared: "2"
 ---

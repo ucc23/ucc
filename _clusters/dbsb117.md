@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 117
 title_flag: true
-more_names: DBS2003 117
+more_names: DBSB2003 117; DBS2003 117
 fname: dbsb117
 members_file: "344_348"
 fov: 0.04
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 65.0
 N_50_val: 22
 scix_url: DBSB%20117
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |254.809 | -40.201 | 0.6 | -0.375 | -1.325 | -15.633 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 254.912 | -40.189 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 254.912 | -40.189 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 254.91 | -40.186 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 254.80891,-40.20124
 carousel: UCC
 fpars_table: |
@@ -74,6 +76,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 114](/_clusters/dbsb114/)| 92.0 | 254.76 | -40.2 | 0.6 | -0.32 | -1.28 | -14.73 |0.51 |
     |[CWNU 4046](/_clusters/cwnu4046/)| 56.0 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.14 |
-    |[DBSB 115](/_clusters/dbsb115/)| 36.0 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.07 |
+    |[DBSB 115](/_clusters/dbsb115/)| 36.0 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.33 |
 N_rows_shared: "3"
 ---

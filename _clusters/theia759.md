@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 4.2
 N_50_val: 73
 scix_url: Theia%20759
@@ -61,19 +62,21 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 112.325 | -18.86 | 1.353 | -5.288 | 0.273 | 21.886 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 112.373 | -18.816 | 1.359 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 112.325 | -18.86 | 1.353 | -5.288 | 0.273 | 21.886 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 112.403 | -18.808 | 1.333 | -5.253 | 0.389 | -- 
-N_rows_pos: "4"
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 112.403 | -18.808 | 1.333 | -5.253 | 0.389 | -- |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 112.248 | -18.793 | 1.343 | -- | -- | 10.187 
+N_rows_pos: "5"
 cds_radec: 112.34096,-18.9157
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.705 | 0.4 | 0.69 | 174 | -0.140 | 158 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.72 | 0.34 | 0.69 | 209 | -0.140 | 158 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 158<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.72 | 0.61 | -- | 174 | -0.140 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.69 | 0.16 | 0.69 | 244 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.40 | -- | 79 | -- | -- | -- | -- |
-N_rows_pars: "4"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.74 | 0.28 | -- | 374 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
 

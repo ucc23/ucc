@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.3
 N_50_val: 12
 scix_url: BDSB%20167
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |264.39 | -32.215 | 0.351 | -0.877 | -1.924 | -22.691 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 264.325 | -32.18 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 264.325 | -32.18 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 264.32 | -32.177 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 264.39036,-32.21471
 carousel: UCC
 fpars_table: |

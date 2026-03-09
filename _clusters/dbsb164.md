@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 164
 title_flag: true
-more_names: DBS2003 164; MWSC 2385
+more_names: DBSB2003 164; DBS2003 164; MWSC 2385
 fname: dbsb164
 members_file: "332_336"
 fov: 0.28
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.4
 N_50_val: 18
 scix_url: DBSB%20164
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 244.842 | -50.149 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 244.842 | -50.149 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 244.852 | -50.15 | -- | -5.49 | -7.53 | -50.0 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 244.846 | -50.157 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 244.846 | -50.157 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 244.848 | -50.156 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 244.9346,-50.14679
 carousel: UCC
 fpars_table: |
@@ -78,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 163](/_clusters/dbsb163/)| 20.0 | 244.69 | -50.31 | 0.34 | -4.18 | -4.16 | -- |0.12 |
+    |[DBSB 163](/_clusters/dbsb163/)| 20.0 | 244.69 | -50.31 | 0.34 | -4.18 | -4.16 | -- |0.13 |
 N_rows_shared: "1"
 ---

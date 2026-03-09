@@ -13,25 +13,25 @@ glon: 90.09413
 glat: 7.6464
 r50: 1.3
 plx: 0.1088
-UTI: "0.40"
-UTI_COLOR: "#fef4d6"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fefee8"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.26
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Patchick 103</b> is a sparse, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~9.19 kpc) differs significantly from the median photometric distance (~1.33 kpc).</p>
+    <b>Patchick 103</b> is a sparse, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~9.19 kpc) differs significantly from the median photometric distance (~1.33 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"

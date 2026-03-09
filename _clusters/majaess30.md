@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IRAS 02407+6047](/_clusters/iras02407p6047/)| 72.0 | 41.08 | 61.04 | 0.21 | -0.47 | -0.43 | -35.72 |0.04 |
+    |[IRAS02407+6047](/_clusters/iras02407p6047/)| 72.0 | 41.08 | 61.04 | 0.21 | -0.47 | -0.43 | -35.72 |0.04 |
 N_rows_shared: "1"
 ---

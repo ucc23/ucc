@@ -18,12 +18,12 @@ UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#f4fada"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.81
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -32,8 +32,8 @@ UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Kronberger 57</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, metal-rich, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
-badge_dist: "Relatively close"
-badge_dist_url: "dist_min=1&dist_max=3"
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
 badge_av_url: "av_min=3&av_max=5"
 badge_mass: "Massive"
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.10 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 36.8
 N_50_val: 66
 scix_url: Kronberger%2057
@@ -68,31 +69,34 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 305.986 | 36.602 | 0.275 | -3.54 | -4.406 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 305.985 | 36.6 | -- | -0.379 | -0.973 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 305.983 | 36.598 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 305.992 | 36.605 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 305.987 | 36.605 | -- | -3.3 | -10.03 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 305.988 | 36.6 | -- | -2.35 | -2.01 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 305.983 | 36.602 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 305.99 | 36.605 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 305.988 | 36.605 | -- | -2.35 | -2.01 | -- 
-N_rows_pos: "15"
+N_rows_pos: "16"
 cds_radec: 305.98868,+36.60162
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.78 | 4.58 | 2.66 | 164 | 0.610 | 1068 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.01 | 4.58 | 2.66 | 159 | 0.610 | 1068 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1068<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.78 | 5.38 | -- | 9 | 0.610 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.01 | 5.49 | 2.66 | 99 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 891 | -- | 4 | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.34 | 5.50 | -- | 11 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.29 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.29 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.09 | 3.57 | -- | 170 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.76 | 4.58 | -- | 891 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1295.00 | 3.29 | -- | 160 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.76 | 4.58 | -- | 891 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1750 | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.93<sup>(1)</sup> | 4.93 | -- | 35 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.29 | 3.29 | -- | 158 | -- | -- | -- | -- |
-N_rows_pars: "12"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
 

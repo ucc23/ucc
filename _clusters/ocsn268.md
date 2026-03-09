@@ -72,6 +72,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1318](/_clusters/hsc1318/)| 68.4 | 64.5 | 28.21 | 7.66 | 8.72 | -25.42 | 15.41 |0.0 |
-    |[Taurus](/_clusters/taurus/)| 26.3 | 65.78 | 27.29 | 7.72 | 8.8 | -25.91 | 14.81 |0.38 |
+    |[Taurus](/_clusters/taurus/)| 26.3 | 65.78 | 27.29 | 7.72 | 8.8 | -25.91 | 14.81 |0.34 |
 N_rows_shared: "2"
 ---

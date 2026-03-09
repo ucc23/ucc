@@ -13,17 +13,17 @@ glon: 162.81922
 glat: 0.84064
 r50: 11.1
 plx: 0.8798
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#feebce"
 UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#c7e6c7"
+UTI_C_lit_COL: "#ceeac8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.52
 UTI_C_C3: 0.62
-UTI_C_lit: 0.81
+UTI_C_lit: 0.78
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Moderately dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 38 along with Theia_2901, and of multiple system 18 along with FSR_0732 and Theia_2901.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G86, along with FSR_0732 and Theia_2901.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 2.6
 N_50_val: 35
 scix_url: Berkeley%2014A
@@ -82,7 +83,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.1 | 0.71 | 0.86 | 9 | -0.200 | 1516 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.1 | 0.71 | 0.86 | 13 | -0.200 | 1516 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.54 | 0.29 | -- | 24 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.367<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 101<sup>(1)</sup> | -- | -- |
@@ -90,13 +91,14 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.12 | 1.17 | -- | 17 | -0.200 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.08 | 0.56 | 0.86 | 37 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.00 | -- | 25 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.09 | 0.92 | -- | 44 | -- | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.00 | 0.00 | -- | 0 | -0.144 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.10 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.10 | -- | -- | -- | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.10 | 0.71 | -- | 9 | -- | 8730<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.10 | 0.71 | -- | 9 | -- | 2931 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.10 | 0.71 | -- | 9 | -- | -- | -- | -- |
-N_rows_pars: "13"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
 

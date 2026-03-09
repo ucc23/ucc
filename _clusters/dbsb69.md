@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 69
 title_flag: true
-more_names: MWSC 1956
+more_names: DBSB2003 69; MWSC 1956
 fname: dbsb69
 members_file: "292_296"
 fov: 0.147
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.5
 N_50_val: 18
 scix_url: DBSB%2069
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |173.481 | -63.287 | 0.212 | -5.888 | 0.948 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 173.445 | -63.282 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 173.445 | -63.282 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 173.452 | -63.285 | -- | -1.96 | -0.81 | -- 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 173.452 | -63.285 | -- | -1.96 | -0.81 | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 173.483 | -63.283 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 173.48067,-63.28714
 carousel: UCC
 fpars_table: |

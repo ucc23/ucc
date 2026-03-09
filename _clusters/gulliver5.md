@@ -13,17 +13,17 @@ glon: 265.44299
 glat: -0.91078
 r50: 4.9
 plx: 0.4294
-UTI: "0.76"
-UTI_COLOR: "#d3ecc9"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.6
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P397, along with UBC_1448.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: intermediate fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 6.2
 N_50_val: 68
 scix_url: Gulliver%205
@@ -78,7 +79,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.285 | 2.01 | 2.64 | 10 | 0.072 | 394 | 0.72 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.28 | 2.01 | 2.64 | 12 | 0.072 | 394 | 0.72 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 4.17 | 0.69 | -- | 19 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.27 | 2.01 | -- | 7 | -- | 208 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 812<sup>(1)</sup> | -- | -- |
@@ -87,10 +88,11 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.05 | 2.12 | -- | 12 | 0.075 | 394<sup>(1)</sup> | 0.72 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.27 | 2.01 | -- | 7 | 0.069 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.14 | 1.50 | -- | 38 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.28 | 2.10 | -- | 17 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.30 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.52 | 2.00 | -- | 14 | 0.027 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.30 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "11"
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
 

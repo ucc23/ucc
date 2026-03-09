@@ -13,25 +13,25 @@ glon: 102.68478
 glat: -8.33097
 r50: 17.9
 plx: 1.1922
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.35"
+UTI_COLOR: "#feebce"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#fdd9c3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fcd6c2"
-UTI_C_dup_COL: "#fef4d6"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
 UTI_C_dens: 0.26
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
-UTI_C_dup: 0.4
+UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
-UTI_C_dup_desc: Possibly duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 280</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 280</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P173, along with Theia_776.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 1.3
 N_50_val: 25
 scix_url: Theia%20280
@@ -62,23 +63,25 @@ posit_table: |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 340.739 | 49.347 | -- | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 340.739 | 49.347 | 1.199 | -1.66 | -5.312 | -13.927 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 342.431 | 50.008 | 1.198 | -- | -- | -- |
-    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 340.739 | 49.347 | 1.199 | -1.66 | -5.312 | -13.927 
-N_rows_pos: "4"
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 340.739 | 49.347 | 1.199 | -1.66 | -5.312 | -13.927 |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 341.71 | 49.787 | 1.232 | -- | -- | -13.014 
+N_rows_pos: "5"
 cds_radec: 341.03081,+49.45601
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.815 | 0.345 | 0.68 | 176 | 0.258 | 45 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.81 | 0.4 | 0.68 | 160 | 0.258 | 45 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.025<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 45<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.83 | 0.43 | -- | 191 | 0.540 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.80 | 0.26 | 0.68 | 160 | -- | -- | -- | -- |
-N_rows_pars: "4"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.81 | 0.40 | -- | 95 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 187](/_clusters/cwnu187/)| 60.0 | 340.56 | 49.15 | 1.2 | -1.82 | -5.57 | -14.41 |0.12 |
+    |[CWNU 187](/_clusters/cwnu187/)| 60.0 | 340.56 | 49.15 | 1.2 | -1.82 | -5.57 | -14.41 |0.05 |
 N_rows_shared: "1"
 ---

@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
-    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.67 |
+    |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.64 |
     |[OC 0674](/_clusters/oc0674/)| 34.2 | 253.7 | -40.77 | 0.6 | -0.28 | -1.29 | -22.14 |0.0 |
 N_rows_shared: "3"
 ---

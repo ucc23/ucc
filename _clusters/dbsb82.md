@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 82
 title_flag: true
-more_names: DBS2003 82
+more_names: DBSB2003 82; DBS2003 82
 fname: dbsb82
 members_file: "304_308"
 fov: 0.243
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of an IR bubble and possible YSOs.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.5
 N_50_val: 14
 scix_url: DBSB%2082
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |197.209 | -62.243 | 0.388 | -5.143 | -2.163 | -40.381 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 197.15 | -62.249 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 197.15 | -62.249 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 197.153 | -62.245 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 197.20948,-62.24322
 carousel: UCC
 fpars_table: |

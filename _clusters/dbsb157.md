@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 157
 title_flag: true
-more_names: DBS2003 157; MWSC 2367
+more_names: DBSB2003 157; DBS2003 157; MWSC 2367
 fname: dbsb157
 members_file: "328_332"
 fov: 0.153
@@ -13,17 +13,17 @@ glon: 331.37969
 glat: -0.28266
 r50: 4.6
 plx: 0.3186
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#f0f8d5"
 UTI_C_dens_COL: "#c4e5c7"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.61
 UTI_C_dens: 0.82
 UTI_C_C3: 1.0
-UTI_C_lit: 0.4
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -48,10 +48,12 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of an IR bubble.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.78 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as cluster candidate (IRCC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 4.1
 N_50_val: 72
 scix_url: DBSB%20157
@@ -65,8 +67,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 243.072 | -51.771 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 243.072 | -51.771 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 243.084 | -51.771 | -- | -4.71 | -3.3 | -67.3 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 243.083 | -51.771 | -- | -- | -- | -- 
-N_rows_pos: "7"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 243.083 | -51.771 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 243.078 | -51.767 | -- | -- | -- | -- 
+N_rows_pos: "8"
 cds_radec: 243.06176,-51.69446
 carousel: UCC_HUNT23
 fpars_table: |

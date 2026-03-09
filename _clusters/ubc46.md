@@ -18,12 +18,12 @@ UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.62
-UTI_C_lit: 0.3
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -69,12 +69,13 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.16 | 1.76 | -- | 41 | -0.143 | 1103 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.32 | 1.76 | -- | 41 | -0.143 | 1103 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.00 | 1.76 | -- | 41 | -- | 1103 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.00 | 1.76 | -- | 41 | -0.143 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.63 | 1.35 | -- | 112 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.59 | 2.00 | -- | 17 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.32 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

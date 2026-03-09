@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 47
 title_flag: true
-more_names: MWSC 3770
+more_names: BDS2003 47; MWSC 3770
 fname: bdsb47
 members_file: "112_116"
 fov: 0.22
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.8
 N_50_val: 19
 scix_url: BDSB%2047
@@ -60,8 +61,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 358.255 | 60.466 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 358.255 | 60.466 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 358.263 | 60.47 | -- | 1.88 | -4.55 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 358.263 | 60.47 | -- | 1.88 | -4.55 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 358.263 | 60.47 | -- | 1.88 | -4.55 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 358.231 | 60.477 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 358.25849,+60.47984
 carousel: UCC
 fpars_table: |

@@ -47,11 +47,12 @@ badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>The cluster shows evidence for a double BSS sequence, less pronounced than in Melotte 66. Both sequences are consistent with different binary evolution tracks. Independent studies confirm several BSSs as binaries, but CMD positions of binary and apparently single BSSs overlap without clear separation.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 103.3
 N_50_val: 4180
 scix_url: Melotte%20245
@@ -116,6 +117,7 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.91 | 1.02 | -- | 1618 | 0.026 | -- | -- | -- |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 2.23 | -- | -- | 1549 | -0.013<sup>(20)</sup> | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.10 | 0.83 | -- | 1549 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.09 | 0.95 | -- | 1445 | -- | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | -0.010 | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 1.80 | 0.69 | -- | 9265 | -0.059 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.07 | -- | -- | -- | -- | -- | -- | -- |
@@ -136,7 +138,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 2.34 | 0.68 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.34 | 0.67 | -- | 1710 | -0.080<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.79 | 0.87 | -- | 1413 | 0.020 | -- | -- | -- |
-N_rows_pars: "34"
+N_rows_pars: "35"
 note_asterisk: true
 shared_table: |
 

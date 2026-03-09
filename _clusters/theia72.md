@@ -13,25 +13,25 @@ glon: 221.12747
 glat: -5.46798
 r50: 34.2
 plx: 3.4551
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.43"
+UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#c9e7c8"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#e0f1cb"
+UTI_C_lit_COL: "#fcd6c2"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 0.8
 UTI_C_C3: 0.5
-UTI_C_lit: 0.0
-UTI_C_dup: 0.7
+UTI_C_lit: 0.25
+UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Likely unique
+UTI_C_lit_desc: Poorly studied
+UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 72</b> is a poorly populated, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 72</b> is a poorly populated, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 348 along with ZHBJZ_1, and of multiple system 80 along with ZHBJZ_1 and Theia_379.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G248, along with Theia_379 and ZHBJZ_1.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.63 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
@@ -62,23 +62,27 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |101.704 | -9.777 | 3.455 | -0.946 | -4.332 | 25.834 |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 101.7 | -9.79 | 3.45 | -0.99 | -4.3 | 27.43 |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 101.702 | -9.786 | 3.455 | -0.989 | -4.297 | 28.711 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 101.805 | -9.746 | 3.463 | -- | -- | -- |
-    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 101.702 | -9.786 | 3.455 | -0.989 | -4.297 | 27.426 
-N_rows_pos: "3"
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 101.702 | -9.786 | 3.455 | -0.989 | -4.297 | 27.426 |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 101.396 | -9.278 | 3.383 | -- | -- | 4.694 
+N_rows_pos: "5"
 cds_radec: 101.70423,-9.77651
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.3 | 0.16 | 0.54 | 27 | -0.020 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.3 | 0.185 | 0.54 | 27 | -0.020 | 120 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.31 | 0.10 | -- | 32 | -- | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.28 | -- | -- | 27 | -- | 120 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.30 | 0.72 | -- | 26 | -0.020 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.28 | 0.16 | 0.54 | 27 | -- | -- | -- | -- |
-N_rows_pars: "3"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.32 | 0.21 | -- | 31 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1099](/_clusters/cwnu1099/)| 30.3 | 101.14 | -8.72 | 3.65 | -0.77 | -5.0 | 27.86 |0.4 |
+    |[CWNU 1099](/_clusters/cwnu1099/)| 30.3 | 101.14 | -8.72 | 3.65 | -0.77 | -5.0 | 27.86 |0.28 |
 N_rows_shared: "1"
 ---

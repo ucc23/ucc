@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 61
 title_flag: true
-more_names: MWSC 1919
+more_names: DBSB2003 61; MWSC 1919
 fname: dbsb61
 members_file: "288_292"
 fov: 0.057
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as open cluster (IROC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 123.5
 N_50_val: 210
 scix_url: DBSB%2061
@@ -57,8 +58,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |168.262 | -60.79 | 0.379 | -6.109 | 1.046 | -- |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 168.256 | -60.792 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 168.256 | -60.792 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 168.256 | -60.792 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 168.26234,-60.79012
 carousel: UCC
 fpars_table: |

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 27
 title_flag: true
-more_names: MWSC 1564
+more_names: DBSB2003 27; MWSC 1564
 fname: dbsb27
 members_file: "260_264"
 fov: 0.213
@@ -13,25 +13,25 @@ glon: 263.77276
 glat: -0.35823
 r50: 6.4
 plx: 0.452
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#f7fbde"
 UTI_C_dens_COL: "#d9eeca"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#fef2d4"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.73
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
-UTI_C_dup: 0.39
+UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Possibly duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 27</b> is a moderately populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a low-mass, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 27</b> is a moderately populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a low-mass, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 3.7
 N_50_val: 62
 scix_url: DBSB%2027
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |131.702 | -43.876 | 0.452 | -5.464 | 4.888 | 37.673 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 131.658 | -43.881 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 131.658 | -43.881 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 131.662 | -43.884 | -- | -4.51 | 3.0 | 16.6 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 131.662 | -43.884 | -- | -4.51 | 3.0 | 16.6 |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 131.662 | -43.879 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 131.70212,-43.87642
 carousel: UCC
 fpars_table: |
@@ -75,7 +77,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1418](/_clusters/fsr1418/)| 61.3 | 131.85 | -43.93 | 0.45 | -5.49 | 4.89 | -- |0.45 |
+    |[FSR 1418](/_clusters/fsr1418/)| 61.3 | 131.85 | -43.93 | 0.45 | -5.49 | 4.89 | -- |0.17 |
     |[CWNU 2960](/_clusters/cwnu2960/)| 51.6 | 131.84 | -43.92 | 0.45 | -5.47 | 4.89 | -- |0.0 |
 N_rows_shared: "2"
 ---

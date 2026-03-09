@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Quintuplet
 title_flag: true
-more_names: BDB2003 G000.16-00.06
+more_names: AFGL2004; BDB2003 G000.16-00.06
 fname: quintuplet
 members_file: "0_4"
 fov: 0.27
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.0
 N_50_val: 161
 scix_url: Quintuplet
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.581 | -28.926 | 0.492 | 1.748 | -0.757 | -28.836 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.562 | -28.826 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.562 | -28.826 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 266.559 | -28.831 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 266.58096,-28.92579
 carousel: UCC
 fpars_table: |

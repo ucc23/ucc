@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.6
 N_50_val: 16
 scix_url: Herbig%201
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |314.743 | 43.926 | 0.254 | -1.551 | -3.287 | -12.491 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 314.573 | 43.891 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 314.573 | 43.891 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 314.578 | 43.894 | -- | -2.81 | 0.33 | -- 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 314.578 | 43.894 | -- | -2.81 | 0.33 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 314.586 | 43.894 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 314.74319,+43.92621
 carousel: UCC
 fpars_table: |

@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022MNRAS.512.4464D' target='_blank'>Dias et al. (2022)</a></u><br>Likely not a real open cluster.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.3
 N_50_val: 12
 scix_url: Ruprecht%20114

@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
     <b>Theia 10</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: ""
-badge_dist_url: ""
+badge_dist: "Very close"
+badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
@@ -57,21 +57,23 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |333.126 | 73.246 | 2.927 | 5.398 | 1.582 | -16.149 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 333.248 | 73.292 | 2.92 | 5.367 | 1.657 | -- 
-N_rows_pos: "1"
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 333.248 | 73.292 | 2.92 | 5.367 | 1.657 | -- |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 333.493 | 73.342 | 2.894 | -- | -- | -4.36 
+N_rows_pos: "2"
 cds_radec: 333.12596,+73.24648
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.05 | -- | 4 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.35 | 0.425 | -- | 5 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 4 | -- | -- | -- | -- |
-N_rows_pars: "1"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.35 | 0.80 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 38](/_clusters/ocsn38/)| 78.4 | 332.89 | 73.15 | 2.93 | 5.36 | 1.58 | -17.5 |0.01 |
-    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.65 |
+    |[Collinder 471](/_clusters/collinder471/)| 52.9 | 332.56 | 73.02 | 2.92 | 5.33 | 1.56 | -17.78 |0.62 |
 N_rows_shared: "2"
 ---

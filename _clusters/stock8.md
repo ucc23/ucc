@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Stock 8
 title_flag: true
-more_names: FSR 0780; BDS2003 69
+more_names: BDSB 69; BDS2003 69; FSR 0780
 fname: stock8
 members_file: "172_176"
 fov: 0.21
@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Stock 8</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Stock 8</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with 6 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -48,12 +48,14 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G114, along with HSC_1358 and HSC_1351.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg17' along with COIN-Gaia 40, Gulliver 53, Kronberger 1 and NGC 1893.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as open cluster (IROC).</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.89 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
+N_comments: "6"
 dens_val: 16.2
 N_50_val: 254
 scix_url: Stock%208
@@ -76,6 +78,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 81.956 | 34.452 | 0.446 | 0.094 | -2.249 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 82.035 | 34.423 | -- | 0.592 | -1.905 | -6.4 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 82.029 | 34.423 | -- | -1.07 | -3.02 | -- |
+    |[Camargo et al.](https://scixplorer.org/abs/2012MNRAS.423.1940C) | 2012 | 82.029 | 34.424 | -- | -- | -- | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 82.029 | 34.423 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 82.033 | 34.427 | -- | -- | -- | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 82.037 | 34.431 | -- | -- | -- | -- |
@@ -84,16 +87,17 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 81.858 | 34.403 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 82.05 | 34.417 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 82.03 | 34.42 | -- | -1.44 | -3.9 | -6.4 |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 82.042 | 34.422 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 81.88 | 34.43 | -- | -1.44 | -4.35 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 82.029 | 34.423 | -- | -1.07 | -3.02 | -18.01 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 82.031 | 34.428 | -- | -- | -- | -- 
-N_rows_pos: "26"
+N_rows_pos: "28"
 cds_radec: 81.95908,+34.42814
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.98 | 1.39 | 2.26 | 10 | -0.163 | 1950 | -- | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 1.465 | 2.26 | 10 | -0.163 | 1950 | -- | 0.0 |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.03 | 1.69 | -- | 10 | -- | 2105 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.060<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2065<sup>(1)</sup> | -- | -- |
@@ -104,11 +108,13 @@ fpars_table: |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 2.11 | 1.24 | -- | 2 | -- | -- | -- | 0 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.03 | 1.69 | -- | 10 | -0.071 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.36 | 1.17 | -- | 14 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.14 | 1.75 | -- | 11 | -- | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 1.73 | 1.87 | -- | 7050 | -0.255 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.11 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.11 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.80 | 1.37 | -- | 12 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1046 | -- | -- |
+    | [Camargo et al.](https://scixplorer.org/abs/2012MNRAS.423.1940C) | 2012 | 2.69 | 1.98 | -- | 2 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 2.00 | -- | -- | 2 | -- | 1950 | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.59<sup>(1)</sup> | 1.52 | -- | 7 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 0.90 | 3.75 | -- | 32 | -- | -- | -- | -- |
@@ -118,13 +124,16 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.82 | 1.36 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.00 | 1.24 | -- | 2 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.15 | 1.41 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "24"
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.09 |
-    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.46 |
-    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.67 |
-N_rows_shared: "3"
+    |[BPI 14](/_clusters/bpi14/)| 19.7 | 82.08 | 34.41 | 0.46 | 0.22 | -2.31 | 25.03 |0.2 |
+    |[CBB 5](/_clusters/cbb5/)| 19.7 | 82.05 | 34.45 | 0.46 | 0.14 | -2.09 | 11.91 |0.16 |
+    |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.08 |
+    |[CBB 3](/_clusters/cbb3/)| 4.7 | 81.91 | 34.57 | 0.46 | -0.11 | -2.1 | -- |0.14 |
+    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.45 |
+    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.66 |
+N_rows_shared: "6"
 ---

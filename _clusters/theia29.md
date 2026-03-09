@@ -13,29 +13,29 @@ glon: 303.64544
 glat: -14.71497
 r50: 41.5
 plx: 5.0838
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#fbd0bf"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.22
+UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Likely duplicate
+UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 29</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 29</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
-badge_av: "High extinction"
-badge_av_url: "av_min=3&av_max=5"
+badge_av: "Moderate extinction"
+badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 121 along with Chamaleon_I, and of multiple system 41 along with Chamaleon_I and HSC_2453.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G243, along with Chamaleon_I, HSC_2464, HSC_2458, HSC_2453 and HSC_2407.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.83 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
@@ -63,22 +63,24 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |196.097 | -77.564 | 5.084 | -20.363 | -7.515 | 16.696 |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 196.54 | -77.59 | 5.08 | -20.38 | -7.44 | 24.61 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 195.522 | -77.366 | 5.076 | -- | -- | -- |
-    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 196.541 | -77.585 | 5.078 | -20.381 | -7.441 | 24.606 
-N_rows_pos: "3"
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 196.541 | -77.585 | 5.078 | -20.381 | -7.441 | 24.606 |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 195.211 | -77.574 | 5.008 | -- | -- | -26.494 
+N_rows_pos: "4"
 cds_radec: 196.09744,-77.56431
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.28 | 3.49 | 2.1 | 18 | 0.340 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.24 | 2.745 | 2.1 | 18 | 0.340 | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.40 | 0.93 | -- | 17 | -- | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.28 | 3.58 | -- | 105 | 0.340 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.20 | 3.49 | 2.10 | 18 | -- | -- | -- | -- |
-N_rows_pars: "3"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.20 | 2.00 | -- | 13 | -- | -- | -- | -- |
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Chameleon II](/_clusters/chameleonii/)| 78.4 | 196.23 | -77.45 | 5.08 | -20.16 | -7.58 | 9.82 |0.51 |
+    |[Chameleon II](/_clusters/chameleonii/)| 78.4 | 196.23 | -77.45 | 5.08 | -20.16 | -7.58 | 9.82 |0.0 |
 N_rows_shared: "1"
 ---

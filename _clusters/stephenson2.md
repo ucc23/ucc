@@ -13,17 +13,17 @@ glon: 26.20881
 glat: -0.09549
 r50: 3.8
 plx: 0.1994
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f2bab5"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.12
 UTI_C_C3: 0.38
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.6
 N_50_val: 19
 scix_url: Stephenson%202
@@ -65,8 +66,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 279.921 | -6.028 | -- | -0.44 | 0.8 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 279.915 | -6.03 | -- | 2.69 | -7.0 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 279.833 | -6.029 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 279.823 | -6.034 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 279.921 | -6.028 | -- | -0.44 | 0.8 | -- 
-N_rows_pos: "8"
+N_rows_pos: "9"
 cds_radec: 279.86993,-6.02529
 carousel: UCC
 fpars_table: |

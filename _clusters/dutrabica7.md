@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 7
 title_flag: true
-more_names: 
+more_names: DB2000 07; DB2000 7
 fname: dutrabica7
 members_file: "0_4"
 fov: 0.267
@@ -58,8 +58,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.564 | -28.889 | 0.37 | -2.447 | -3.829 | 15.549 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 267.525 | -28.887 | -- | -0.63 | -3.52 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.525 | -28.887 | -- | -- | -- | -- 
-N_rows_pos: "2"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.525 | -28.887 | -- | -- | -- | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 267.516 | -28.893 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 267.56377,-28.88927
 carousel: UCC
 fpars_table: |

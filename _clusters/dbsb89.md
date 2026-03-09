@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 89
 title_flag: true
-more_names: DBS2003 89; MWSC 2250
+more_names: DBSB2003 89; DBS2003 89; MWSC 2250
 fname: dbsb89
 members_file: "316_320"
 fov: 0.21
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 1.1
 N_50_val: 18
 scix_url: DBSB%2089
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 221.246 | -59.831 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 221.246 | -59.831 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 221.257 | -59.833 | -- | -2.59 | 1.5 | -- |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 221.262 | -59.826 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 221.262 | -59.826 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 221.254 | -59.827 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 221.27148,-59.85153
 carousel: UCC
 fpars_table: |
@@ -79,6 +81,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 91](/_clusters/dbsb91/)| 24.0 | 221.37 | -59.85 | 0.42 | -5.17 | -3.26 | -24.91 |0.09 |
-    |[DBSB 90](/_clusters/dbsb90/)| 8.0 | 221.29 | -59.83 | 0.4 | -5.05 | -2.6 | -43.82 |0.18 |
+    |[DBSB 90](/_clusters/dbsb90/)| 8.0 | 221.29 | -59.83 | 0.4 | -5.05 | -2.6 | -43.82 |0.2 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 253.01323
 glat: -2.00987
 r50: 0.9
 plx: 0.2765
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.62"
+UTI_COLOR: "#eef7d4"
 UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.65
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -76,18 +76,19 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.87 | 2.88 | -- | 1907 | 0.058 | 199 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.04 | 2.88 | -- | 1318 | 0.058 | 199 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 4.21 | 3.08 | -- | 631 | -- | 219 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 3020 | -- | 179 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 4.21 | 3.08 | -- | 631 | 0.058 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 4.74 | 3.06 | -- | 617 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.32 | 2.88 | -- | 1318 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.87 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.87 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.25 | 2.58 | -- | 3020 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.25 | 2.58 | -- | 3020 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.41<sup>(1)</sup> | 2.88 | -- | 794 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.24 | 2.67 | -- | 3020 | -- | -- | -- | -- |
-N_rows_pars: "10"
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 

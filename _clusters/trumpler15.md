@@ -51,10 +51,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg41' along with Gulliver 52.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.90 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
+N_comments: "6"
 dens_val: 85.9
 N_50_val: 549
 scix_url: Trumpler%2015
@@ -93,7 +94,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.295 | 1.47 | 1.96 | 8 | 0.013 | 925 | 0.67 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.29 | 1.48 | 1.96 | 8 | 0.013 | 925 | 0.67 | 0.0 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 3.27 | 0.49 | -- | 11 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.29 | 1.61 | -- | 7 | -- | 1027 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 647<sup>(1)</sup> | -- | -- |
@@ -105,6 +106,7 @@ fpars_table: |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 2.34 | 1.33 | -- | 8 | -- | -- | -- | 0 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.29 | 1.61 | -- | 7 | -0.124 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.59 | 1.50 | -- | 9 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.21 | 1.59 | -- | 14 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.34 | -- | -- | -- | -- | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 8 | 0.500 | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 2019 | 3.69 | 1.46 | -- | 5 | 1.016 | -- | -- | -- |
@@ -117,11 +119,11 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.85 | 1.33 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.85 | 1.35 | -- | 8 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.19 | 1.48 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "23"
+N_rows_pars: "24"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 232](/_clusters/collinder232/)| 1.3 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.06 |
+    |[Collinder 232](/_clusters/collinder232/)| 1.3 | 161.09 | -59.55 | 0.38 | -6.6 | 2.06 | 17.58 |0.05 |
 N_rows_shared: "1"
 ---

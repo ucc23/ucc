@@ -18,12 +18,12 @@ UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.29
 UTI_C_dup: 0.02
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -69,16 +69,17 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.06 | 1.625 | -- | 146 | 0.186 | 1036 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.06 | 1.88 | -- | 115 | 0.186 | 1036 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.65 | 1.37 | -- | 650 | 0.025 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.06 | 1.88 | -- | 63 | -- | 1036 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.06 | 1.88 | -- | 63 | 0.347 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.20 | 1.28 | -- | 229 | -- | -- | -- | -- |
-N_rows_pars: "4"
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.77 | 2.27 | -- | 115 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.82 |
+    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.8 |
 N_rows_shared: "1"
 ---

@@ -68,8 +68,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDB2003 G010.16-00.36](/_clusters/bdb2003g010160036/)| 16.0 | 272.33 | -20.34 | 0.27 | -1.71 | -3.94 | 18.43 |0.03 |
+    |[BDB2003 G010.16-00.36](/_clusters/bdb2003g010160036/)| 16.0 | 272.33 | -20.34 | 0.27 | -1.71 | -3.94 | 18.43 |0.01 |
+    |[W31](/_clusters/w31/)| 12.0 | 272.33 | -20.38 | 0.27 | -1.66 | -3.89 | -8.12 |0.13 |
     |[BDSB 112](/_clusters/bdsb112/)| 8.0 | 272.23 | -20.07 | 0.58 | -2.26 | -3.85 | -43.49 |0.09 |
-    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.19 |
-N_rows_shared: "3"
+    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.18 |
+N_rows_shared: "4"
 ---

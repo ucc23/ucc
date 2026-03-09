@@ -13,17 +13,17 @@ glon: 110.17783
 glat: 2.71969
 r50: 3.8
 plx: 1.1874
-UTI: "0.78"
-UTI_COLOR: "#ceeac8"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#bce1c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.85
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.65
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 16 along with HSC_862, and as primordial binary cluster 374 along with UBC_178, and of multiple system 8 along with UPK_198, Theia_4, UBC_178 and HSC_862.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G82, along with Theia_4, FSR_0416, HSC_862, UBC_178, HSC_892 and UPK_198.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 423.5
 N_50_val: 367
 scix_url: ASCC%20125

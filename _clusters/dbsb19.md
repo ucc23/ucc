@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 19
 title_flag: true
-more_names: 
+more_names: DBSB2003 19
 fname: dbsb19
 members_file: "256_260"
 fov: 0.187
@@ -13,25 +13,25 @@ glon: 259.93664
 glat: -0.01262
 r50: 5.6
 plx: 1.0558
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fcd6c2"
-UTI_C_dup_COL: "#c2e4c6"
+UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.25
-UTI_C_dup: 0.83
+UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
-UTI_C_dup_desc: Very likely unique
+UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 19</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 19</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -49,10 +49,12 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 131 along with Pismis_5, and as primordial binary cluster 311 along with OC_0467, and of multiple system 23 along with OC_0467, CWNU_102 and Pismis_5.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G68, along with Pismis_5, CWNU_102 and OC_0467.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.63 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 88.2
 N_50_val: 210
 scix_url: DBSB%2019
@@ -63,8 +65,9 @@ posit_table: |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 128.9 | -40.61 | 1.06 | -5.85 | 3.32 | 24.86 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 128.899 | -40.61 | 1.061 | -5.854 | 3.321 | 24.863 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 128.929 | -40.605 | 1.059 | -- | -- | -- |
-    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 128.899 | -40.61 | 1.061 | -5.854 | 3.321 | 24.863 
-N_rows_pos: "4"
+    |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 128.899 | -40.61 | 1.061 | -5.854 | 3.321 | 24.863 |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 128.882 | -40.64 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 128.89215,-40.6222
 carousel: UCC_HUNT23
 fpars_table: |
@@ -80,6 +83,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0469](/_clusters/oc0469/)| 17.1 | 128.9 | -40.62 | 1.05 | -5.86 | 3.33 | 30.14 |0.42 |
+    |[OC 0469](/_clusters/oc0469/)| 17.1 | 128.9 | -40.62 | 1.05 | -5.86 | 3.33 | 30.14 |0.0 |
 N_rows_shared: "1"
 ---

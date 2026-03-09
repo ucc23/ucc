@@ -1,9 +1,9 @@
 ---
 layout: layout_cluster
 style: style_cluster
-title: Dutra-Bica 21
+title: Dutra Bica 21
 title_flag: true
-more_names: 
+more_names: DB2000 21
 fname: dutrabica21
 members_file: "0_4"
 fov: 0.19
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Dutra-Bica 21</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>Dutra Bica 21</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -52,13 +52,14 @@ class3: |
 N_comments: ""
 dens_val: 1.0
 N_50_val: 14
-scix_url: Dutra-Bica%2021
+scix_url: Dutra%20Bica%2021
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |265.778 | -27.885 | 0.433 | -2.14 | -4.66 | -28.12 |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 265.824 | -27.895 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 265.824 | -27.895 | -- | -- | -- | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 265.818 | -27.904 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 265.77779,-27.88491
 carousel: UCC
 fpars_table: |

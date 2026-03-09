@@ -13,17 +13,17 @@ glon: 275.12652
 glat: 0.91495
 r50: 4.0
 plx: 0.5373
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fafce1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 328 along with OC_0513, and of multiple system 38 along with OC_0513 and CWNU_1300.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G41, along with OC_0513 and CWNU_1768.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 12.2
 N_50_val: 57
 scix_url: PHOC%2030

@@ -13,17 +13,17 @@ glon: 257.29848
 glat: -3.63508
 r50: 7.9
 plx: 0.1671
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.02
 UTI_C_C3: 0.38
-UTI_C_lit: 0.7
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.09 (50th percentile).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.1
 N_50_val: 19
 scix_url: Ruprecht%2056

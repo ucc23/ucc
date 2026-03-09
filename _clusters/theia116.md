@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Theia 116</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: ""
-badge_dist_url: ""
+badge_dist: "Very close"
+badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
@@ -57,16 +57,18 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |92.578 | 14.93 | 4.771 | 5.895 | -17.101 | 22.359 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 92.545 | 15.046 | 4.835 | 5.895 | -17.202 | -- 
-N_rows_pos: "1"
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 92.545 | 15.046 | 4.835 | 5.895 | -17.202 | -- |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 91.008 | 16.29 | 4.312 | -- | -- | 9.046 
+N_rows_pos: "2"
 cds_radec: 92.5782,+14.93011
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.25 | -- | 45 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.22 | 0.215 | -- | 47 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.25 | -- | 45 | -- | -- | -- | -- |
-N_rows_pars: "1"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.22 | 0.18 | -- | 49 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

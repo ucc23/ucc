@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 33.9
 N_50_val: 197
 scix_url: Collinder%20270
@@ -66,6 +67,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 201.834 | -59.025 | 0.516 | -3.643 | -1.392 | -24.378 |
     |[Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 201.858 | -59.021 | -- | -- | -- | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 201.785 | -59.027 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2022MNRAS.512.4464D) | 2022 | 201.821 | -59.03 | 0.525 | -3.642 | -1.399 | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 201.836 | -59.022 | 0.542 | -3.605 | -1.456 | -- |
     |[Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 201.829 | -59.023 | 0.51 | -3.597 | -1.449 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 201.841 | -59.029 | 0.518 | -3.605 | -1.438 | -- |
@@ -87,7 +89,7 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 201.822 | -59.021 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 201.817 | -59.033 | -- | -7.95 | -1.52 | -9.58 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 201.817 | -59.033 | -- | -- | -- | -- 
-N_rows_pos: "28"
+N_rows_pos: "29"
 cds_radec: 201.84519,-59.02293
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -101,10 +103,12 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.82 | 0.77 | 1.57 | 175 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.84 | 0.84 | -- | 105 | 0.125 | 448<sup>(1)</sup> | 0.42 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 35 | -- | 193 | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2022MNRAS.512.4464D) | 2022 | 1.81<sup>(1)</sup> | 0.80<sup>(1)</sup> | -- | 75<sup>(1)</sup> | -0.040<sup>(1)</sup> | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 1.84<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 1.86 | 0.74 | -- | 43 | -- | -- | -- | 0 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.77 | 0.84 | -- | 63 | 0.091 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.83 | 0.73 | -- | 48 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.94 | 0.80 | -- | 87 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.86 | -- | -- | -- | -- | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 29 | -0.250 | -- | -- | -- |
     | [Bossini et al.](https://scixplorer.org/abs/2019A%26A...623A.108B) | 2019 | 1.99 | 0.76 | -- | 43 | 0.120 | -- | -- | -- |
@@ -120,7 +124,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.99 | 0.81 | -- | 90 | 0.120<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.99 | 0.81 | -- | 97 | 0.120 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.57 | 0.82 | -- | 40 | -- | -- | -- | -- |
-N_rows_pars: "26"
+N_rows_pars: "28"
 note_asterisk: true
 shared_table: |
 

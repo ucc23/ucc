@@ -13,17 +13,17 @@ glon: 80.21097
 glat: 0.7773
 r50: 4.8
 plx: 0.5775
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.65
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G187, along with HSC_625 and OC_0128.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.16 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 31.0
 N_50_val: 181
 scix_url: Bica%202
@@ -94,11 +95,12 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.17 |
-    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.88 |
-    |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.69 |
-    |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.16 |
+    |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.14 |
+    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.86 |
+    |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.66 |
+    |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 3.3 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.23 |
+    |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |
     |[OC 0129](/_clusters/oc0129/)| 2.8 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.25 |
-    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.67 |
-N_rows_shared: "6"
+    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.57 |
+N_rows_shared: "7"
 ---

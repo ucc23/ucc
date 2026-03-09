@@ -13,25 +13,25 @@ glon: 288.37314
 glat: 0.01603
 r50: 0.9
 plx: 0.1499
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.62"
+UTI_COLOR: "#eef7d4"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#d4ecc9"
+UTI_C_lit_COL: "#e0f1cb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.75
+UTI_C_lit: 0.7
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: Well-studied
+UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 31</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.67 kpc) differs significantly from the median photometric distance (~4.50 kpc).</p>
+    <b>Teutsch 31</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.67 kpc) differs significantly from the median photometric distance (~4.67 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -76,9 +76,10 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.5 | 2.65 | -- | 603 | -- | 117 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.67 | 2.62 | -- | 603 | -- | 117 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 603 | -- | 53 | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 5.86 | 2.35 | -- | 1660 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.67 | 2.59 | -- | 513 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 5.75 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 5.75 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 5.75 | -- | -- | -- | -- | -- | -- | -- |
@@ -87,7 +88,7 @@ fpars_table: |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 181 | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.91<sup>(1)</sup> | 1.12 | -- | 20 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.25 | 3.38 | -- | 603 | -- | -- | -- | -- |
-N_rows_pars: "10"
+N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
 

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: R CrA
 title_flag: true
-more_names: 
+more_names: Coronet
 fname: rcra
 members_file: "356_360"
 fov: 0.187
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.4
 N_50_val: 19
 scix_url: R%20CrA
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |285.399 | -37.091 | 0.242 | -2.568 | -5.317 | -- |
-    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 285.475 | -36.953 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 285.475 | -36.953 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 285.47 | -36.955 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 285.39922,-37.09118
 carousel: UCC
 fpars_table: |

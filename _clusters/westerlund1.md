@@ -13,29 +13,29 @@ glon: 339.54301
 glat: -0.40162
 r50: 1.2
 plx: 0.2076
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#c2e4c6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fefee8"
+UTI_C_lit_COL: "#fefae1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.5
+UTI_C_lit: 0.46
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Westerlund 1</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by <u>extremely</u> high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Westerlund 1</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as an <u>extremely</u> massive, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.82 kpc) differs significantly from the median photometric distance (~3.56 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
-badge_av: "Extremely high extinction"
-badge_av_url: "av_min=10&av_max=1000000.0"
+badge_av: "Very high extinction"
+badge_av_url: "av_min=5&av_max=10"
 badge_mass: "Extremely massive"
 badge_mass_url: "mass_min=10000&mass_max=1000000.0"
 badge_feh: ""
@@ -73,15 +73,16 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.78 | 11.39 | -- | 5 | -- | 22227 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.56 | 9.3 | -- | 4 | -- | 22227 | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 8 | -- | 22227 | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.87 | 5.90 | -- | 3 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 3.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 4.00 | -- | -- | 4 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.20 | 9.30 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 5.50 | 13.48 | -- | 5 | -- | -- | -- | -- |
-N_rows_pars: "7"
+N_rows_pars: "8"
 note_asterisk: false
 shared_table: |
 

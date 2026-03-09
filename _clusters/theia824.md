@@ -31,17 +31,17 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 824</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: ""
-badge_dist_url: ""
+    <b>Theia 824</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+badge_dist: "Very close"
+badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: ""
 badge_feh_url: ""
-badge_age: "Very young"
-badge_age_url: "age_min=0&age_max=20"
+badge_age: "Intermediate age"
+badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -57,21 +57,23 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |346.904 | 45.45 | 2.039 | -0.778 | -3.313 | -13.758 |
-    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 346.808 | 45.463 | 2.062 | -0.737 | -3.433 | -- 
-N_rows_pos: "1"
+    |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 346.808 | 45.463 | 2.062 | -0.737 | -3.433 | -- |
+    |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 344.786 | 44.121 | 2.223 | -- | -- | -1.161 
+N_rows_pos: "2"
 cds_radec: 346.90438,+45.45036
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | 0.15 | -- | 18 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.45 | 0.295 | -- | 244 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.15 | -- | 18 | -- | -- | -- | -- |
-N_rows_pars: "1"
+    | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.45 | 0.44 | -- | 469 | -- | -- | -- | -- |
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 100](/_clusters/theia100/)| 58.6 | 346.9 | 45.93 | 2.04 | -0.81 | -3.03 | -12.98 |0.1 |
+    |[Theia 100](/_clusters/theia100/)| 58.6 | 346.9 | 45.93 | 2.04 | -0.81 | -3.03 | -12.98 |0.51 |
     |[OCSN 35](/_clusters/ocsn35/)| 27.9 | 347.01 | 45.29 | 2.07 | -0.72 | -3.54 | -16.54 |0.02 |
 N_rows_shared: "2"
 ---

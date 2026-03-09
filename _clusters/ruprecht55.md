@@ -13,25 +13,25 @@ glon: 250.68688
 glat: 0.80192
 r50: 5.1
 plx: 0.165
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#a5cab9"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
 UTI_C_dens: 0.13
 UTI_C_C3: 0.25
-UTI_C_lit: 1.0
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: Very well-studied
+UTI_C_lit_desc: Well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 55</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Ruprecht 55</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. 
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"

@@ -68,7 +68,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 106](/_clusters/sai106/)| 62.1 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.62 |
+    |[SAI 106](/_clusters/sai106/)| 62.1 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.59 |
     |[OC 0509](/_clusters/oc0509/)| 16.0 | 139.48 | -51.02 | 0.14 | -3.54 | 3.73 | 33.9 |0.0 |
     |[VVVX-Obasi 5](/_clusters/vvvxobasi5/)| 7.3 | 139.46 | -51.0 | 0.16 | -3.81 | 3.75 | 33.09 |0.08 |
 N_rows_shared: "3"

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 88
 title_flag: true
-more_names: MWSC 1016
+more_names: BDS2003 88; MWSC 1016
 fname: bdsb88
 members_file: "216_220"
 fov: 0.137
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 1.9
 N_50_val: 37
 scix_url: BDSB%2088
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |103.547 | -4.525 | 0.269 | -0.729 | 0.67 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 103.636 | -4.528 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 103.636 | -4.528 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 103.642 | -4.53 | -- | 0.73 | 0.69 | -- 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 103.642 | -4.53 | -- | 0.73 | 0.69 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 103.655 | -4.534 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 103.54739,-4.52504
 carousel: UCC
 fpars_table: |
@@ -75,7 +77,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.53 |
+    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.49 |
     |[CWNU 3207](/_clusters/cwnu3207/)| 59.5 | 103.5 | -4.53 | 0.29 | -0.71 | 0.62 | -- |0.02 |
 N_rows_shared: "2"
 ---

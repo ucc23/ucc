@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 166
 title_flag: true
-more_names: DBS2003 166; MWSC 2390
+more_names: DBSB2003 166; DBS2003 166; MWSC 2390
 fname: dbsb166
 members_file: "332_336"
 fov: 0.21
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC1' (totally exposed cluster still physically associated with gas). Morphological flag: exposed cluster, without submm emission.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.7
 N_50_val: 19
 scix_url: DBSB%20166
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 245.366 | -50.01 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 245.366 | -50.01 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 245.377 | -50.01 | -- | -3.06 | -3.1 | -- |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 245.363 | -50.012 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 245.363 | -50.012 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 245.367 | -50.009 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 245.36053,-50.01955
 carousel: UCC
 fpars_table: |

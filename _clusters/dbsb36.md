@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 36
 title_flag: true
-more_names: MWSC 1645
+more_names: DBSB2003 36; MWSC 1645
 fname: dbsb36
 members_file: "268_272"
 fov: 0.06
@@ -18,12 +18,12 @@ UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#feecd0"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.36
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.35
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,12 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.15 (50th percentile), false positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 42.5
 N_50_val: 36
 scix_url: DBSB%2036
@@ -63,8 +65,9 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 139.188 | -47.95 | 0.583 | -5.128 | 4.203 | 93.615 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 139.195 | -47.942 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 139.195 | -47.942 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 139.2 | -47.945 | -- | -5.36 | 6.99 | 21.0 
-N_rows_pos: "6"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 139.2 | -47.945 | -- | -5.36 | 6.99 | 21.0 |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 139.183 | -47.937 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 139.19296,-47.95328
 carousel: UCC_HUNT23
 fpars_table: |

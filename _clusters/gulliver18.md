@@ -13,17 +13,17 @@ glon: 65.53914
 glat: -3.96506
 r50: 6.3
 plx: 0.61
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#add9c0"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.78
+UTI_C_lit: 0.75
 UTI_C_dup: 0.91
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 30.1
 N_50_val: 272
 scix_url: Gulliver%2018
@@ -80,7 +81,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.535 | 1.86 | 1.37 | 54 | 0.062 | 926 | 0.65 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.53 | 1.86 | 1.37 | 57 | 0.062 | 926 | 0.65 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.12 | 1.85 | -- | 48 | -0.343 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.42 | 1.86 | -- | 57 | -- | 926 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.093<sup>(1)</sup> | -- | -- | -- |
@@ -90,18 +91,19 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.51 | 2.07 | -- | 116 | 0.106 | 888<sup>(1)</sup> | 0.65 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.42 | 1.86 | -- | 57 | 0.243 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.59 | 1.59 | -- | 40 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.53 | 1.91 | -- | 245 | -- | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.00 | 0.00 | -- | 0 | 0.000 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 51 | 0.250 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.54 | 1.77 | -- | 65 | 0.018 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 1.56 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.56 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "15"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.52 |
-    |[Collinder 417](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.6 |
+    |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.5 |
+    |[Collinder 417](/_clusters/collinder417/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.56 |
 N_rows_shared: "2"
 ---

@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 308</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Collinder 308</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -51,10 +51,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
+N_comments: "6"
 dens_val: 20.4
 N_50_val: 126
 scix_url: Collinder%20308
@@ -66,6 +67,7 @@ posit_table: |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 248.951 | -45.549 | 1.124 | 0.436 | -3.329 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 248.933 | -45.646 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 249.034 | -45.413 | 1.072 | 0.433 | -3.306 | -- |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 248.929 | -45.651 | 1.095 | 0.511 | -3.27 | -7.088 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 248.929 | -45.651 | 1.095 | 0.511 | -3.27 | -7.493 |
     |[Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | 248.939 | -45.635 | -- | -- | -- | -- |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 249.082 | -45.453 | 1.098 | -- | -- | -- |
@@ -73,6 +75,7 @@ posit_table: |
     |[Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 248.934 | -45.641 | -- | -- | -- | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 248.936 | -45.625 | -- | -- | -- | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 248.931 | -45.637 | 1.111 | 0.412 | -3.374 | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2022MNRAS.512.4464D) | 2022 | 248.929 | -45.646 | 1.119 | 0.421 | -3.356 | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 248.927 | -45.621 | 1.15 | 0.488 | -3.327 | -- |
     |[Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 248.939 | -45.635 | 1.099 | 0.521 | -3.342 | -- |
     |[Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | 248.937 | -45.646 | 1.102 | 0.552 | -3.35 | -- |
@@ -95,18 +98,19 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 248.953 | -45.654 | -- | 0.62 | -2.06 | 4.5 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 248.946 | -45.643 | -- | 0.62 | -2.06 | 3.55 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 248.946 | -45.643 | -- | -- | -- | -- 
-N_rows_pos: "33"
+N_rows_pos: "35"
 cds_radec: 248.93591,-45.62776
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.93 | 0.715 | 1.8 | 17 | 0.013 | 138 | 0.535 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.93 | 0.72 | 1.8 | 17 | 0.000 | 157 | 0.535 | 0.0 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.03 | 0.28 | -- | 15 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.75 | 0.72 | -- | 16 | -0.273 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.93 | 1.30 | -- | 6 | 0.000 | 381 | 0.64 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.84 | 0.84 | -- | 13 | -- | 131 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.91 | 0.52 | -- | 17 | 0.068 | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.88 | -- | -- | 8 | -- | 583 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 406<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 17 | -- | 176 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.93 | 1.21 | -- | 6 | -0.100 | -- | -- | -- |
@@ -114,11 +118,13 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.85 | 0.87 | -- | 13 | 0.026 | 122<sup>(1)</sup> | 0.43 | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 32 | -- | 60 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.85 | -- | 8 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2022MNRAS.512.4464D) | 2022 | 0.89<sup>(1)</sup> | 0.72<sup>(1)</sup> | -- | 11<sup>(1)</sup> | -0.213<sup>(1)</sup> | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.87<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 0.89 | 0.65 | -- | 17 | -- | -- | -- | 0 |
     | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.81 | -- | 12 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.84 | 0.84 | -- | 13 | 0.068 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.91 | 0.52 | -- | 17 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.94 | 1.16 | -- | 42 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.89 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.89 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.01 | 0.68 | -- | 17 | -- | -- | -- | -- |
@@ -133,7 +139,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 1.01 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.01 | 0.68 | -- | 18 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.88 | 0.71 | -- | 50 | -- | -- | -- | -- |
-N_rows_pars: "31"
+N_rows_pars: "34"
 note_asterisk: true
 shared_table: |
 

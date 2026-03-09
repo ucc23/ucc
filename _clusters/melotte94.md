@@ -46,13 +46,15 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.44/1.2 Msun</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>Many BSSs are known binaries, consistent with their close match to binary evolution tracks. Two YSSs are also present and interpreted as evolved binary systems.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 87.4
 N_50_val: 1650
 scix_url: Melotte%2094
@@ -60,6 +62,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |132.847 | 11.818 | 1.152 | -10.97 | -2.914 | 33.912 |
+    |[Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 132.848 | 11.815 | -- | -- | -- | -- |
     |[Nizovkina et al.](https://scixplorer.org/abs/2025A%26A...703A.100N) | 2025 | 132.85 | 11.817 | -- | -- | -- | -- |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 132.846 | 11.814 | 1.135 | -10.986 | -2.964 | -- |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 132.839 | 11.827 | -- | -- | -- | -- |
@@ -104,13 +107,14 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 132.87 | 11.84 | -- | -8.83 | -4.96 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 132.716 | 11.813 | -- | -6.47 | -6.27 | 33.6 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 132.825 | 11.8 | -- | -9.4 | -4.87 | 33.62 
-N_rows_pos: "44"
+N_rows_pos: "45"
 cds_radec: 132.84738,+11.81824
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.86 | 0.13 | 0.56 | 3549 | 0.010 | 1205 | 0.37 | 0.1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.86 | 0.13 | 0.56 | 3548 | 0.011 | 1205 | 0.37 | 0.1 |
+    | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.86 | 0.11 | -- | 3548 | 0.020 | -- | -- | -- |
     | [Nizovkina et al.](https://scixplorer.org/abs/2025A%26A...703A.100N) | 2025 | 0.83<sup>(4)</sup> | 0.12<sup>(4)</sup> | -- | 4188<sup>(4)</sup> | -0.041<sup>(4)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.85 | 0.13 | -- | 4130 | -0.018 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.160<sup>(5)</sup> | -- | -- | -- |
@@ -133,6 +137,7 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.86 | 0.13 | -- | 3758 | 0.072 | -- | -- | -- |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.88 | -- | -- | 4266 | 0.001<sup>(20)</sup> | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.89 | 0.07 | -- | 4266 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.84 | 0.28 | -- | 2399 | -- | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | 0.010 | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.88 | 0.11 | -- | 9561 | -0.038 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.86 | -- | -- | -- | -- | -- | -- | -- |
@@ -153,17 +158,17 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.91 | 0.19 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.91 | 0.18 | -- | 2560 | 0.000<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.81 | 0.09 | -- | 2818 | 0.030 | -- | -- | -- |
-N_rows_pars: "42"
+N_rows_pars: "44"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 60.4 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
-    |[Chupina 1](/_clusters/chupina1/)| 1.6 | 132.62 | 11.9 | 1.16 | -10.99 | -2.99 | 34.59 |0.52 |
+    |[Chupina 1](/_clusters/chupina1/)| 1.6 | 132.62 | 11.9 | 1.16 | -10.99 | -2.99 | 34.59 |0.49 |
     |[Chupina 2](/_clusters/chupina2/)| 1.5 | 132.64 | 12.26 | 1.14 | -11.01 | -2.96 | 33.83 |0.4 |
     |[Chupina 3](/_clusters/chupina3/)| 1.5 | 132.85 | 11.41 | 1.15 | -11.04 | -2.83 | 34.39 |0.45 |
     |[Chupina 4](/_clusters/chupina4/)| 1.5 | 133.01 | 12.34 | 1.15 | -10.93 | -2.95 | 33.99 |0.35 |
-    |[Chupina 5](/_clusters/chupina5/)| 1.5 | 133.19 | 11.87 | 1.15 | -10.96 | -2.87 | 34.33 |0.43 |
+    |[Chupina 5](/_clusters/chupina5/)| 1.5 | 133.19 | 11.87 | 1.15 | -10.96 | -2.87 | 34.33 |0.32 |
     |[NGC 2678](/_clusters/ngc2678/)| 1.4 | 132.58 | 11.36 | 1.05 | -10.92 | -2.82 | 35.48 |0.28 |
 N_rows_shared: "7"
 ---

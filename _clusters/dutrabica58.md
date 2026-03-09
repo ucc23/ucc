@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 58
 title_flag: true
-more_names: MWSC 2677
+more_names: DB2000 58; MWSC 2677
 fname: dutrabica58
 members_file: "356_360"
 fov: 0.267
@@ -60,8 +60,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 266.259 | -28.849 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 266.259 | -28.849 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 266.268 | -28.848 | -- | 1.3 | 0.0 | -15.5 |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.25 | -28.86 | -- | 1.3 | 0.0 | -15.5 
-N_rows_pos: "4"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.25 | -28.86 | -- | 1.3 | 0.0 | -15.5 |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 266.253 | -28.866 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 266.26993,-28.88455
 carousel: UCC
 fpars_table: |

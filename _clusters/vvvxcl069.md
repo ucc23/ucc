@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SGR 1806-20](/_clusters/sgr180620/)| 4.0 | 272.13 | -20.47 | 0.38 | -0.59 | -1.28 | 14.47 |0.35 |
+    |[SGR1806-20](/_clusters/sgr180620/)| 4.0 | 272.13 | -20.47 | 0.38 | -0.59 | -1.28 | 14.47 |0.35 |
 N_rows_shared: "1"
 ---

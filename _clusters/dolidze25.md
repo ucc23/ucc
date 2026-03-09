@@ -13,17 +13,17 @@ glon: 211.99394
 glat: -1.30882
 r50: 1.8
 plx: 0.212
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#fefae1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#b7dfc3"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.46
 UTI_C_dens: 1.0
 UTI_C_C3: 0.25
-UTI_C_lit: 0.87
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.17 (50th percentile).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.5
 N_50_val: 46
 scix_url: Dolidze%2025

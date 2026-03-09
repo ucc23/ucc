@@ -13,25 +13,25 @@ glon: 61.6344
 glat: 1.91263
 r50: 2.6
 plx: 0.051
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fefae1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.04
 UTI_C_C3: 0.5
-UTI_C_lit: 0.55
+UTI_C_lit: 0.46
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Kronberger 31</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~19.61 kpc) differs significantly from the median photometric distance (~12.26 kpc).</p>
+    <b>Kronberger 31</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~19.61 kpc) differs significantly from the median photometric distance (~12.26 kpc).</p>
 badge_dist: "Extremely distant"
 badge_dist_url: "dist_min=10&dist_max=1000000.0"
 badge_av: "High extinction"

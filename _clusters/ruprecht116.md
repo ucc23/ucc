@@ -13,17 +13,17 @@ glon: 332.39271
 glat: -1.71457
 r50: 7.5
 plx: 0.2484
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.38
-UTI_C_lit: 0.45
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022MNRAS.512.4464D' target='_blank'>Dias et al. (2022)</a></u><br>Likely not a real open cluster.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 13
 scix_url: Ruprecht%20116

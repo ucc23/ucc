@@ -13,17 +13,17 @@ glon: 64.02746
 glat: -13.12233
 r50: 15.1
 plx: 1.0756
-UTI: "0.66"
-UTI_COLOR: "#e7f4cf"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 5.4
 N_50_val: 90
 scix_url: Alessi%20116
@@ -79,7 +80,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.3 |
+    |[UPK 84](/_clusters/upk84/)| 100.0 | 310.22 | 20.21 | 1.08 | -6.29 | -9.29 | 24.19 |0.28 |
     |[CWWDL 14281](/_clusters/cwwdl14281/)| 61.1 | 310.2 | 20.17 | 1.07 | -6.28 | -9.3 | 23.99 |0.0 |
     |[UBC 131](/_clusters/ubc131/)| 34.4 | 310.18 | 20.07 | 1.06 | -6.26 | -9.29 | 24.32 |0.0 |
 N_rows_shared: "3"

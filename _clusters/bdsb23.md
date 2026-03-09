@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 23
 title_flag: true
-more_names: MWSC 3497
+more_names: BDS2003 23; MWSC 3497
 fname: bdsb23
 members_file: "96_100"
 fov: 0.16
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 15
 scix_url: BDSB%2023
@@ -60,8 +61,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 320.096 | 55.466 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 320.096 | 55.466 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 320.1 | 55.47 | -- | 1.6 | -3.71 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 320.1 | 55.47 | -- | 1.34 | -5.94 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 320.1 | 55.47 | -- | 1.34 | -5.94 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 320.099 | 55.463 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 320.08783,+55.47739
 carousel: UCC
 fpars_table: |

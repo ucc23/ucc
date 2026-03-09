@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 167
 title_flag: true
-more_names: DBS2003 167; MWSC 2394
+more_names: DBSB2003 167; DBS2003 167; MWSC 2394
 fname: dbsb167
 members_file: "332_336"
 fov: 0.147
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as open cluster (IROC).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.8
 N_50_val: 17
 scix_url: DBSB%20167
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 245.847 | -49.544 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 245.847 | -49.544 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 245.857 | -49.545 | -- | -5.61 | 2.95 | -- |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 245.85 | -49.541 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 245.85 | -49.541 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 245.848 | -49.542 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 245.7701,-49.47466
 carousel: UCC
 fpars_table: |

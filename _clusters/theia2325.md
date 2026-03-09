@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 9.1
 N_50_val: 74
 scix_url: Theia%202325
@@ -76,7 +77,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2312](/_clusters/fof2312/)| 73.0 | 223.14 | -61.49 | 0.93 | -2.25 | -1.86 | 12.66 |0.55 |
+    |[FoF 2312](/_clusters/fof2312/)| 73.0 | 223.14 | -61.49 | 0.93 | -2.25 | -1.86 | 12.66 |0.45 |
     |[OC 0616](/_clusters/oc0616/)| 43.2 | 223.14 | -61.47 | 0.93 | -2.27 | -1.86 | 23.94 |0.0 |
 N_rows_shared: "2"
 ---

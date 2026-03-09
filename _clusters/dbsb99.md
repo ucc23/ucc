@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 99
 title_flag: true
-more_names: DBS2003 99; MWSC 2369
+more_names: DBSB2003 99; DBS2003 99; MWSC 2369
 fname: dbsb99
 members_file: "332_336"
 fov: 0.1
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of emission related to PAH or warm dust.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as cluster candidate (IRCC).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.4
 N_50_val: 34
 scix_url: DBSB%2099
@@ -61,8 +62,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 243.243 | -50.39 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 243.243 | -50.39 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 243.255 | -50.39 | -- | -7.26 | -3.47 | -- |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 243.267 | -50.392 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 243.267 | -50.392 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 243.27 | -50.392 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 243.0507,-50.26912
 carousel: UCC
 fpars_table: |
@@ -78,7 +80,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 541](/_clusters/ubc541/)| 64.7 | 243.01 | -50.2 | 0.42 | -2.69 | -2.87 | -22.35 |0.4 |
+    |[UBC 541](/_clusters/ubc541/)| 64.7 | 243.01 | -50.2 | 0.42 | -2.69 | -2.87 | -22.35 |0.39 |
     |[CWWDL 9645](/_clusters/cwwdl9645/)| 44.1 | 243.02 | -50.22 | 0.42 | -2.69 | -2.9 | -- |0.0 |
 N_rows_shared: "2"
 ---

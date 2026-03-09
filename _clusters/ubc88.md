@@ -18,12 +18,12 @@ UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.4
+UTI_C_lit: 0.38
 UTI_C_dup: 0.02
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -69,19 +69,20 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.95 | 1.055 | -- | 55 | -0.030 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.94 | 1.06 | -- | 59 | -0.030 | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.87 | 1.06 | -- | 80 | -0.040 | -- | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.95 | 1.05 | -- | 63 | -0.020 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.45 | -- | 45 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.93 | -- | -- | 55 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.95 | 1.05 | -- | 52 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.93 | 1.13 | -- | 91 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.97 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "6"
+N_rows_pars: "7"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UPK 322](/_clusters/upk322/)| 100.0 | 58.16 | 45.96 | 1.03 | -1.43 | -3.02 | -7.82 |0.12 |
-    |[Teutsch 176](/_clusters/teutsch176/)| 98.5 | 58.16 | 45.96 | 1.03 | -1.44 | -3.01 | -10.82 |0.62 |
+    |[Teutsch 176](/_clusters/teutsch176/)| 98.5 | 58.16 | 45.96 | 1.03 | -1.44 | -3.01 | -10.82 |0.6 |
 N_rows_shared: "2"
 ---

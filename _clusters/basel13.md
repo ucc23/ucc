@@ -13,17 +13,17 @@ glon: 88.83894
 glat: -1.36405
 r50: 2.2
 plx: 0.2468
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ddf0ca"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.71
 UTI_C_C3: 0.5
-UTI_C_lit: 0.7
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Moderately dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.06 (50th percentile).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 3.6
 N_50_val: 24
 scix_url: Basel%2013

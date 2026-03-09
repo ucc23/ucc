@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.6
+UTI_C_lit: 0.55
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -75,7 +75,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.06 | 1.76 | -- | 528 | -0.154 | 230 | 0.62 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.06 | 1.605 | -- | 566 | -0.154 | 230 | 0.62 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.08 | 1.45 | -- | 837 | -0.059 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.06 | 1.88 | -- | 175 | -- | 195 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.06 | 1.76 | -- | 415 | -0.154 | 265<sup>(1)</sup> | 0.62 | -- |
@@ -83,16 +83,17 @@ fpars_table: |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 1.13 | -- | -- | 813 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.06 | 1.88 | -- | 175 | -0.215 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.17 | 1.18 | -- | 724 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.16 | 1.42 | -- | 603 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.06 | -- | -- | -- | -- | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 1180 | -0.500 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.00 | 1.07 | -- | 528 | 0.057 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 1.06 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "11"
+N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.62 |
+    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.6 |
     |[UBC 78](/_clusters/ubc78/)| 100.0 | 85.77 | 13.73 | 0.92 | 0.66 | -3.59 | 12.49 |0.03 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 111.11082
 glat: 0.40018
 r50: 7.6
 plx: 0.3342
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.45
 UTI_C_dens: 0.21
 UTI_C_C3: 0.75
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 0.96
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 73 along with UBC_1177.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P206, along with UBC_1177.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 1.0
 N_50_val: 45
 scix_url: CWNU%20459
@@ -81,7 +82,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.27 |
+    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.25 |
     |[CWWDL 2573](/_clusters/cwwdl2573/)| 2.2 | 347.57 | 60.95 | 0.32 | -4.13 | -1.97 | -- |0.03 |
 N_rows_shared: "2"
 ---

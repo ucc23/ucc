@@ -13,17 +13,17 @@ glon: 353.11049
 glat: 0.62928
 r50: 6.6
 plx: 0.5602
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#ddf0ca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.71
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.35
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -82,7 +82,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 80.4 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.63 |
+    |[BDSB 101](/_clusters/bdsb101/)| 41.3 | 261.39 | -34.41 | 0.55 | -0.89 | -2.3 | 4.32 |0.0 |
     |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.81 |
     |[OC 0688](/_clusters/oc0688/)| 27.2 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.05 |
-N_rows_shared: "3"
+N_rows_shared: "4"
 ---

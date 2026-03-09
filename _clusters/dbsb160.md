@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 160
 title_flag: true
-more_names: DBS2003 160
+more_names: DBSB2003 160; DBS2003 160
 fname: dbsb160
 members_file: "332_336"
 fov: 0.19
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of an IR bubble.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as cluster candidate (IRCC).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.7
 N_50_val: 16
 scix_url: DBSB%20160
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |244.185 | -50.804 | 0.355 | -3.551 | -3.873 | -68.52 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 244.233 | -50.791 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 244.233 | -50.791 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 244.236 | -50.788 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 244.18524,-50.80378
 carousel: UCC
 fpars_table: |
@@ -72,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 161](/_clusters/dbsb161/)| 64.0 | 244.24 | -50.81 | 0.35 | -3.56 | -3.89 | -68.52 |0.18 |
+    |[DBSB 161](/_clusters/dbsb161/)| 64.0 | 244.24 | -50.81 | 0.35 | -3.56 | -3.89 | -68.52 |0.19 |
 N_rows_shared: "1"
 ---

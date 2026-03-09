@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 39
 title_flag: true
-more_names: MWSC 1665
+more_names: DBSB2003 39; MWSC 1665
 fname: dbsb39
 members_file: "272_276"
 fov: 0.183
@@ -13,17 +13,17 @@ glon: 274.80214
 glat: -1.91706
 r50: 5.5
 plx: 0.3604
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#fef0d2"
 UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 0.39
 UTI_C_C3: 0.75
-UTI_C_lit: 0.4
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -49,10 +49,12 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 132 along with UBC_490.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P18, along with UBC_490.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 1.9
 N_50_val: 38
 scix_url: DBSB%2039
@@ -65,8 +67,9 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 141.126 | -53.126 | 0.358 | -4.96 | 3.843 | 19.786 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 141.098 | -53.132 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 141.098 | -53.132 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 141.103 | -53.136 | -- | -0.73 | 7.19 | -- 
-N_rows_pos: "6"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 141.103 | -53.136 | -- | -0.73 | 7.19 | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 141.094 | -53.136 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 141.14896,-53.10795
 carousel: UCC_HUNT23
 fpars_table: |

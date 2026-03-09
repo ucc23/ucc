@@ -13,25 +13,25 @@ glon: 303.67674
 glat: -14.60634
 r50: 28.9
 plx: 5.0848
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.00"
+UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fafce1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.54
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Unique
+UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>Chameleon II</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Chameleon II</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: "High extinction"
@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 29](/_clusters/theia29/)| 100.0 | 196.1 | -77.56 | 5.08 | -20.36 | -7.52 | 16.7 |0.11 |
+    |[Theia 29](/_clusters/theia29/)| 100.0 | 196.1 | -77.56 | 5.08 | -20.36 | -7.52 | 16.7 |0.52 |
 N_rows_shared: "1"
 ---

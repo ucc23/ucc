@@ -67,16 +67,17 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.59 | 1.81 | -- | 498 | -0.026 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.6 | 1.95 | -- | 479 | -0.026 | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.52 | 1.95 | -- | 517 | -0.026 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.69 | 1.67 | -- | 479 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.61 | 2.50 | -- | 372 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.59 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "3"
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 56](/_clusters/teutsch56/)| 100.0 | 59.83 | 47.39 | 0.61 | 0.59 | -2.99 | -14.32 |0.62 |
+    |[Teutsch 56](/_clusters/teutsch56/)| 100.0 | 59.83 | 47.39 | 0.61 | 0.59 | -2.99 | -14.32 |0.6 |
     |[CWWDL 3753](/_clusters/cwwdl3753/)| 71.1 | 59.83 | 47.39 | 0.62 | 0.61 | -2.98 | -14.32 |0.0 |
 N_rows_shared: "2"
 ---

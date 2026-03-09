@@ -13,22 +13,22 @@ glon: 213.5757
 glat: -19.77781
 r50: 22.8
 plx: 2.2722
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fefde6"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.25
+UTI_C_lit: 0.0
 UTI_C_dup: 0.49
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Poorly studied
+UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
     <b>OCSN 70</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-rich, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G210, along with L_1641S and OC_0356.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.83 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 24.5
 N_50_val: 209
 scix_url: OCSN%2070
@@ -79,9 +80,11 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.49 |
+    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.42 |
     |[FSR 1088](/_clusters/fsr1088/)| 15.8 | 85.27 | -9.35 | 2.29 | 0.49 | -1.2 | 16.61 |0.47 |
     |[Cmg 109](/_clusters/cmg109/)| 12.0 | 85.25 | -8.97 | 2.22 | 0.48 | -1.0 | 16.48 |0.45 |
-    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.85 |
-N_rows_shared: "4"
+    |[IRAS05401-1002](/_clusters/iras054011002/)| 9.6 | 85.66 | -9.98 | 2.15 | 0.41 | -1.32 | -- |0.45 |
+    |[IRAS05404-0946](/_clusters/iras054040946/)| 7.7 | 85.74 | -9.8 | 2.22 | 0.33 | -1.15 | -- |0.45 |
+    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.71 |
+N_rows_shared: "6"
 ---

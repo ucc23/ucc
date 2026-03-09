@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 9
 title_flag: true
-more_names: MWSC 1255
+more_names: DBSB2003 9; MWSC 1255
 fname: dbsb9
 members_file: "232_236"
 fov: 0.097
@@ -18,12 +18,12 @@ UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#f3fad8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.59
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.35
+UTI_C_lit: 0.33
 UTI_C_dup: 0.03
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,12 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as genetic pair P210, along with HSC_1853.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.16 (50th percentile), true positive? (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "4"
 dens_val: 6.1
 N_50_val: 68
 scix_url: DBSB%209
@@ -64,8 +66,9 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 112.957 | -19.381 | 0.255 | -2.242 | 2.283 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 112.937 | -19.373 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 112.937 | -19.373 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 112.942 | -19.375 | -- | -9.33 | 7.91 | -- 
-N_rows_pos: "6"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 112.942 | -19.375 | -- | -9.33 | 7.91 | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 112.946 | -19.37 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 112.97176,-19.40315
 carousel: UCC_HUNT23
 fpars_table: |
@@ -83,6 +86,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bochum 6](/_clusters/bochum6/)| 97.1 | 112.98 | -19.41 | 0.26 | -2.25 | 2.3 | 66.97 |0.74 |
+    |[Bochum 6](/_clusters/bochum6/)| 97.1 | 112.98 | -19.41 | 0.26 | -2.25 | 2.3 | 66.97 |0.73 |
 N_rows_shared: "1"
 ---

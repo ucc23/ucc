@@ -13,17 +13,17 @@ glon: 138.02126
 glat: 1.4998
 r50: 4.0
 plx: 0.4366
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#feecd0"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 0.36
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -77,9 +77,9 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.91 |
+    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.85 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
-    |[AFGL 4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
-    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.36 |
+    |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
+    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
 N_rows_shared: "4"
 ---

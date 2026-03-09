@@ -71,7 +71,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.81 |
+    |[NGC 1333](/_clusters/ngc1333/)| 100.0 | 52.28 | 31.27 | 3.38 | 7.39 | -9.29 | 10.82 |0.54 |
+    |[NGC 1333NE](/_clusters/ngc1333ne/)| 46.4 | 52.29 | 31.34 | 3.36 | 6.82 | -9.82 | 30.81 |0.5 |
+    |[NGC 1333SW](/_clusters/ngc1333sw/)| 44.3 | 52.28 | 31.32 | 3.36 | 6.82 | -9.77 | 16.54 |0.49 |
     |[HSC 1250](/_clusters/hsc1250/)| 14.4 | 52.44 | 31.08 | 3.39 | 7.54 | -8.24 | 9.46 |0.0 |
-N_rows_shared: "2"
+N_rows_shared: "4"
 ---

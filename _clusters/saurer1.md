@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Saurer 1
 title_flag: true
-more_names: FSR 1184; MWSC 1184
+more_names: MWSC 1184
 fname: saurer1
 members_file: "212_216"
 fov: 0.05
@@ -13,17 +13,17 @@ glon: 214.68656
 glat: 7.38043
 r50: 1.5
 plx: 0.0826
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.33"
+UTI_COLOR: "#fee7cc"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.38
-UTI_C_lit: 0.7
+UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -67,10 +67,9 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 110.233 | 1.808 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 110.237 | 1.839 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 110.23 | 1.81 | -- | 0.02 | -- | -- |
-    |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 105.679 | -11.461 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 110.225 | 1.8 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 110.233 | 1.808 | -- | 3.46 | -6.73 | 98.0 
-N_rows_pos: "13"
+N_rows_pos: "12"
 cds_radec: 110.22859,+1.81132
 carousel: UCC
 fpars_table: |

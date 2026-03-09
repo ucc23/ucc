@@ -13,17 +13,17 @@ glon: 350.74302
 glat: 22.0364
 r50: 102.2
 plx: 7.0238
-UTI: "0.69"
-UTI_COLOR: "#e2f2cc"
+UTI: "0.68"
+UTI_COLOR: "#e3f3cd"
 UTI_C_N_COL: "#b9e0c4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a6ccba"
 UTI_C_N: 0.86
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.29
 UTI_C_dup: 0.99
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 325 along with OCSN_100, and as primordial binary cluster 326 along with OCSN_98, and of multiple system 72 along with HSC_2907, HSC_2931, OCSN_98, OCSN_100 and HSC_2919.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G172, along with OCSN_98, HSC_2907, HSC_2931, HSC_2919 and OCSN_100.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 21.6
 N_50_val: 388
 scix_url: OCSN%2096
@@ -61,23 +62,25 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |240.859 | -22.579 | 7.024 | -11.739 | -23.903 | -7.427 |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 240.43 | -22.71 | 7.06 | -11.54 | -23.89 | -11.8 |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 240.43 | -22.709 | 7.065 | -11.541 | -23.888 | -6.029 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 240.43 | -22.709 | 7.065 | -11.541 | -23.888 | -11.803 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 240.832 | -22.305 | 7.067 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 240.43 | -22.709 | 7.065 | -11.541 | -23.888 | -11.803 |
     |[Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 240.27 | -22.91 | 6.99 | -12.1 | -23.88 | -6.17 
-N_rows_pos: "5"
+N_rows_pos: "6"
 cds_radec: 240.8587,-22.57944
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.14 | 0.465 | 1.16 | 8 | -0.110 | 126 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.14 | 0.465 | 1.16 | 6 | -0.110 | 146 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.14 | 0.17 | -- | 15 | -- | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.14 | -- | -- | 5 | -- | 165 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 126<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.14 | 1.33 | -- | 6 | -0.110 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.14 | 0.40 | 1.16 | 5 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.18 | 0.53 | -- | 9 | -- | -- | -- | -- |
-N_rows_pars: "5"
+N_rows_pars: "6"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

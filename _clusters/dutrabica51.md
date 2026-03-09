@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 51
 title_flag: true
-more_names: MWSC 2708
+more_names: DB2000 51; MWSC 2708
 fname: dutrabica51
 members_file: "356_360"
 fov: 0.153
@@ -13,17 +13,17 @@ glon: 358.42736
 glat: -1.94058
 r50: 4.6
 plx: 0.7346
-UTI: "0.67"
-UTI_COLOR: "#e5f4ce"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#e2f2cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.69
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.60 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 26.5
 N_50_val: 88
 scix_url: Dutra%20Bica%2051
@@ -65,8 +66,9 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 267.362 | -31.259 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 267.358 | -31.25 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 267.367 | -31.25 | -- | 3.18 | 0.61 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.371 | -31.263 | -- | 3.18 | 0.61 | -- 
-N_rows_pos: "8"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.371 | -31.263 | -- | 3.18 | 0.61 | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 267.362 | -31.259 | -- | -- | -- | -- 
+N_rows_pos: "9"
 cds_radec: 267.3818,-31.27301
 carousel: UCC_HUNT23
 fpars_table: |

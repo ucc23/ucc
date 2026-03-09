@@ -60,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |294.746 | 6.783 | 0.141 | -3.796 | -6.596 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 294.743 | 6.766 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 294.743 | 6.766 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 294.75 | 6.767 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 294.75 | 6.768 | -- | -5.02 | -2.47 | -- 
-N_rows_pos: "3"
+N_rows_pos: "4"
 cds_radec: 294.74614,+6.78262
 carousel: UCC
 fpars_table: |
@@ -70,8 +71,9 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.69 | 2.58 | -- | 200 | -- | 219 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 200 | -- | 219 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.69 | 2.58 | -- | 200 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1870.00 | 1.18 | -- | 1600 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.69 | 2.58 | -- | 200 | -- | -- | -- | -- |
-N_rows_pars: "3"
+N_rows_pars: "4"
 note_asterisk: false
 shared_table: |
 

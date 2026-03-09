@@ -68,7 +68,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch J0718.0-1642](/_clusters/teutschj071801642/)| 74.3 | 109.52 | -16.71 | 0.27 | -1.59 | 2.3 | -- |0.48 |
+    |[Teutsch J0718.0-1642](/_clusters/teutschj071801642/)| 74.3 | 109.52 | -16.71 | 0.27 | -1.59 | 2.3 | -- |0.38 |
     |[CWNU 2027](/_clusters/cwnu2027/)| 33.8 | 109.51 | -16.71 | 0.27 | -1.6 | 2.3 | -- |0.0 |
 N_rows_shared: "2"
 ---

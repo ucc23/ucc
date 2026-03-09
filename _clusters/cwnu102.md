@@ -13,17 +13,17 @@ glon: 256.5994
 glat: 2.36363
 r50: 9.2
 plx: 1.0665
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#feebce"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#feebce"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.62
-UTI_C_lit: 0.35
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 57 along with Pismis_5, and of multiple system 23 along with OC_0467, DBSB_19 and Pismis_5.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G68, along with Pismis_5, DBSB_19 and OC_0467.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 5.6
 N_50_val: 35
 scix_url: CWNU%20102

@@ -13,17 +13,17 @@ glon: 165.53768
 glat: -2.11158
 r50: 14.5
 plx: 0.9574
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fee5ca"
 UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
 UTI_C_dens: 0.33
 UTI_C_C3: 0.5
-UTI_C_lit: 0.4
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 2 along with ASCC_12, and as primordial binary cluster 190 along with HSC_1308, and of multiple system 2 along with COIN-Gaia_10, COIN-Gaia_39, HSC_1308 and ASCC_12.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G110, along with COIN-Gaia_39, ASCC_12 and HSC_1308.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 1.6
 N_50_val: 32
 scix_url: HXHWL%2018

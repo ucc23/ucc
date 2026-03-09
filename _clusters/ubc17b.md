@@ -13,17 +13,17 @@ glon: 205.25307
 glat: -18.26427
 r50: 16.8
 plx: 2.3964
-UTI: "0.72"
-UTI_COLOR: "#dbefca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef4d6"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.4
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -83,7 +83,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.69 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
     |[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
     |[Theia 13](/_clusters/theia13/)| 54.7 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
 N_rows_shared: "3"

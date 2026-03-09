@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.66 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 1.2
 N_50_val: 43
 scix_url: Teutsch%20137
@@ -74,6 +75,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 32.6 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.39 |
+    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.36 |
 N_rows_shared: "2"
 ---

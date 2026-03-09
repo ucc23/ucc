@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 69.8
 N_50_val: 321
 scix_url: MonR2
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |91.944 | -6.388 | 1.085 | -2.831 | 1.045 | 30.754 |
-    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 91.944 | -6.383 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 91.944 | -6.383 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 91.94 | -6.371 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 91.94433,-6.3879
 carousel: UCC
 fpars_table: |

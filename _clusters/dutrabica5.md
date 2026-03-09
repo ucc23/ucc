@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 5
 title_flag: true
-more_names: DB2000 5
+more_names: DB2000 05; DB2000 5
 fname: dutrabica5
 members_file: "0_4"
 fov: 0.15
@@ -59,8 +59,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.789 | -28.783 | 0.378 | 0.114 | -2.148 | -22.0 |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.779 | -28.768 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.779 | -28.768 | -- | -- | -- | -- 
-N_rows_pos: "2"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 266.779 | -28.768 | -- | -- | -- | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 266.774 | -28.77 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 266.78857,-28.78347
 carousel: UCC
 fpars_table: |
@@ -71,6 +72,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Dutra Bica 6](/_clusters/dutrabica6/)| 27.7 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.19 |
+    |[Dutra Bica 4](/_clusters/dutrabica4/)| 26.5 | 266.79 | -28.81 | 0.36 | -0.02 | -2.22 | -26.8 |0.09 |
     |[Arches](/_clusters/arches/)| 12.0 | 266.52 | -28.85 | 0.49 | 0.08 | -2.1 | 21.14 |0.25 |
-N_rows_shared: "2"
+N_rows_shared: "3"
 ---

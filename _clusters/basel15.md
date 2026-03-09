@@ -13,17 +13,17 @@ glon: 90.78544
 glat: -0.12028
 r50: 5.2
 plx: 0.311
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fbcbbd"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.2
 UTI_C_C3: 0.25
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -78,6 +78,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2404](/_clusters/cwnu2404/)| 44.0 | 318.98 | 48.69 | 0.34 | -4.24 | -4.66 | -28.1 |0.3 |
+    |[CWNU 2404](/_clusters/cwnu2404/)| 44.0 | 318.98 | 48.69 | 0.34 | -4.24 | -4.66 | -28.1 |0.22 |
 N_rows_shared: "1"
 ---

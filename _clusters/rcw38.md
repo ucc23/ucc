@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: RCW38
 title_flag: true
-more_names: 
+more_names: Gum22; RCW38-IRS2
 fname: rcw38
 members_file: "264_268"
 fov: 0.097
@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 8.8
 N_50_val: 21
 scix_url: RCW38
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |134.586 | -47.63 | 0.547 | -5.197 | 4.411 | -42.699 |
-    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 134.773 | -47.512 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 134.773 | -47.512 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 134.75 | -47.497 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 134.58575,-47.62963
 carousel: UCC
 fpars_table: |
@@ -72,7 +74,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Muzzio 1](/_clusters/muzzio1/)| 52.0 | 134.49 | -47.73 | 0.54 | -5.26 | 4.32 | 39.31 |0.78 |
+    |[Muzzio 1](/_clusters/muzzio1/)| 52.0 | 134.49 | -47.73 | 0.54 | -5.26 | 4.32 | 39.31 |0.77 |
     |[OC 0500](/_clusters/oc0500/)| 16.0 | 134.59 | -47.87 | 0.53 | -5.07 | 4.33 | 20.95 |0.12 |
     |[OC 0498](/_clusters/oc0498/)| 12.0 | 134.45 | -47.81 | 0.54 | -5.24 | 4.27 | 72.01 |0.04 |
 N_rows_shared: "3"

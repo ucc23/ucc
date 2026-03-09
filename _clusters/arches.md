@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 3.3
 N_50_val: 80
 scix_url: Arches
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.517 | -28.848 | 0.489 | 0.075 | -2.101 | 21.145 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.458 | -28.823 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.458 | -28.823 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 266.467 | -28.829 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 266.51722,-28.8477
 carousel: UCC
 fpars_table: |
@@ -74,6 +76,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Dutra Bica 5](/_clusters/dutrabica5/)| 12.5 | 266.79 | -28.78 | 0.38 | 0.11 | -2.15 | -22.0 |0.48 |
     |[VVV 146](/_clusters/vvv146/)| 6.2 | 266.57 | -28.81 | 0.49 | 0.29 | -1.58 | -- |0.14 |
+    |[Dutra Bica 4](/_clusters/dutrabica4/)| 5.0 | 266.79 | -28.81 | 0.36 | -0.02 | -2.22 | -26.8 |0.09 |
     |[Dutra Bica 6](/_clusters/dutrabica6/)| 3.8 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.19 |
-N_rows_shared: "3"
+N_rows_shared: "4"
 ---

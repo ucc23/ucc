@@ -68,7 +68,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AFGL 5142](/_clusters/afgl5142/)| 2.6 | 82.68 | 33.85 | 0.3 | 0.04 | -1.71 | 34.5 |0.04 |
+    |[AFGL5142](/_clusters/afgl5142/)| 2.6 | 82.68 | 33.85 | 0.3 | 0.04 | -1.71 | 34.5 |0.04 |
     |[CWNU 4116](/_clusters/cwnu4116/)| 2.6 | 82.5 | 33.44 | 0.45 | 0.21 | -1.93 | 9.73 |0.08 |
     |[SAI 51](/_clusters/sai51/)| 2.6 | 82.51 | 33.43 | 0.45 | 0.3 | -1.95 | 9.56 |0.38 |
 N_rows_shared: "3"

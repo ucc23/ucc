@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 134
 title_flag: true
-more_names: DBS2003 134
+more_names: DBSB2003 134; DBS2003 134
 fname: dbsb134
 members_file: "304_308"
 fov: 0.153
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'EC2' (partially embedded cluster). Morphological flag: cluster partially embedded, presence of an IR bubble and possible YSOs.</p>
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.3
 N_50_val: 21
 scix_url: DBSB%20134
@@ -58,8 +59,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |198.38 | -62.725 | 0.173 | -6.986 | -0.604 | -31.819 |
-    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 198.592 | -62.744 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 198.592 | -62.744 | -- | -- | -- | -- |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 198.584 | -62.745 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 198.38048,-62.72494
 carousel: UCC
 fpars_table: |
@@ -72,8 +74,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Danks 2](/_clusters/danks2/)| 20.0 | 198.23 | -62.68 | 0.14 | -7.12 | -0.57 | 107.4 |0.86 |
-    |[Danks 1](/_clusters/danks1/)| 16.0 | 198.11 | -62.7 | 0.16 | -7.11 | -0.6 | 31.68 |0.76 |
+    |[Danks 2](/_clusters/danks2/)| 20.0 | 198.23 | -62.68 | 0.14 | -7.12 | -0.57 | 107.4 |0.85 |
+    |[Danks 1](/_clusters/danks1/)| 16.0 | 198.11 | -62.7 | 0.16 | -7.11 | -0.6 | 31.68 |0.74 |
     |[MCM 36](/_clusters/mcm36/)| 4.0 | 198.36 | -63.04 | 0.2 | -6.77 | -0.63 | -35.17 |0.13 |
 N_rows_shared: "3"
 ---

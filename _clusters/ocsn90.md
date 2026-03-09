@@ -73,7 +73,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Platais 12](/_clusters/platais12/)| 96.9 | 208.01 | -63.54 | 2.22 | -8.35 | -5.44 | -11.95 |0.86 |
+    |[Platais 12](/_clusters/platais12/)| 96.9 | 208.01 | -63.54 | 2.22 | -8.35 | -5.44 | -11.95 |0.83 |
     |[CWWDL 14613](/_clusters/cwwdl14613/)| 46.4 | 207.78 | -63.51 | 2.24 | -8.38 | -5.46 | -11.95 |0.0 |
 N_rows_shared: "2"
 ---

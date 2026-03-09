@@ -13,17 +13,17 @@ glon: 146.25963
 glat: 3.12908
 r50: 1.4
 plx: 0.2563
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.45
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -84,6 +84,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1249](/_clusters/ubc1249/)| 74.2 | 59.73 | 57.22 | 0.24 | -0.09 | 0.39 | -- |0.08 |
-    |[FSR 0647](/_clusters/fsr0647/)| 71.0 | 59.79 | 57.23 | 0.24 | -0.08 | 0.39 | -29.21 |0.61 |
+    |[FSR 0647](/_clusters/fsr0647/)| 71.0 | 59.79 | 57.23 | 0.24 | -0.08 | 0.39 | -29.21 |0.58 |
 N_rows_shared: "2"
 ---

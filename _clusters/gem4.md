@@ -13,25 +13,25 @@ glon: 189.00622
 glat: 0.75928
 r50: 3.2
 plx: 0.4701
-UTI: "0.47"
-UTI_COLOR: "#fefbe2"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_dup_COL: "#e9f5d0"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
-UTI_C_dup: 1.0
+UTI_C_dup: 0.65
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
-UTI_C_dup_desc: Unique
+UTI_C_dup_desc: Likely unique
 summary: |
-    <b>Gem4</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.13 kpc) differs significantly from the median photometric distance (~1.50 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Gem4</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.13 kpc) differs significantly from the median photometric distance (~1.50 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: ""
@@ -72,7 +72,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AFGL 6366S](/_clusters/afgl6366s/)| 35.1 | 92.13 | 21.52 | 0.48 | 0.4 | -1.91 | -- |0.35 |
-    |[AFGL 5180](/_clusters/afgl5180/)| 1.4 | 92.18 | 21.68 | 0.36 | -0.07 | -1.48 | 30.87 |0.11 |
-N_rows_shared: "2"
+    |[AFGL6366-S](/_clusters/afgl6366s/)| 35.1 | 92.13 | 21.52 | 0.48 | 0.4 | -1.91 | -- |0.35 |
+    |[AFGL6366-N](/_clusters/afgl6366n/)| 29.7 | 92.16 | 21.54 | 0.49 | 0.34 | -2.1 | -- |0.25 |
+    |[DB2001-27](/_clusters/db200127/)| 12.2 | 92.38 | 21.4 | 0.52 | 0.19 | -2.35 | 44.54 |0.37 |
+    |[AFGL5180](/_clusters/afgl5180/)| 1.4 | 92.18 | 21.68 | 0.36 | -0.07 | -1.48 | 30.87 |0.11 |
+N_rows_shared: "4"
 ---

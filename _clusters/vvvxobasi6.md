@@ -68,6 +68,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 313 03](/_clusters/eso31303/)| 3.1 | 127.92 | -41.78 | 0.15 | -3.17 | 3.5 | 94.61 |0.27 |
+    |[ESO 313 03](/_clusters/eso31303/)| 3.1 | 127.92 | -41.78 | 0.15 | -3.17 | 3.5 | 94.61 |0.25 |
 N_rows_shared: "1"
 ---

@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1007](/_clusters/ubc1007/)| 77.0 | 270.82 | -19.34 | 0.66 | 0.04 | -1.09 | 14.54 |0.61 |
+    |[UBC 1007](/_clusters/ubc1007/)| 77.0 | 270.82 | -19.34 | 0.66 | 0.04 | -1.09 | 14.54 |0.51 |
     |[CWWDL 14200](/_clusters/cwwdl14200/)| 70.3 | 270.82 | -19.35 | 0.66 | 0.05 | -1.1 | 14.54 |0.0 |
 N_rows_shared: "2"
 ---

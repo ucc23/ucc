@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Juchert 23](/_clusters/juchert23/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.69 |
+    |[Juchert 23](/_clusters/juchert23/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.3 | -2.49 | 0.36 |0.66 |
     |[UBC 200](/_clusters/ubc200/)| 100.0 | 76.91 | 17.59 | 0.38 | 0.31 | -2.49 | 0.36 |0.0 |
 N_rows_shared: "2"
 ---

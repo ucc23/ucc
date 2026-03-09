@@ -13,17 +13,17 @@ glon: 206.23026
 glat: -6.05836
 r50: 120.1
 plx: 4.2747
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.25
-UTI_C_lit: 0.65
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -49,7 +49,7 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 332 along with HSC_1553, and of multiple system 55 along with HSC_1553 and Theia_792.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G121, along with Theia_792 and HSC_1553.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as a moving group.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.96 (50th percentile).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
@@ -63,6 +63,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |94.102 | 2.929 | 4.275 | -0.844 | -12.875 | 31.861 |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 94.9 | 5.3 | 4.41 | -1.1 | -12.68 | 29.13 |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 94.896 | 5.301 | -- | -- | -- | -- |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 94.896 | 5.301 | 4.407 | -1.096 | -12.679 | 27.367 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 95.039 | 1.5 | 4.406 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 94.896 | 5.301 | 4.407 | -1.096 | -12.679 | 29.134 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 93.855 | 3.852 | -- | -- | -- | -- |
@@ -72,22 +73,23 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 93.85 | 3.85 | -- | 1.57 | -- | 13.1 |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 93.858 | 3.845 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 93.85 | 3.92 | -- | -4.45 | -4.27 | 26.0 
-N_rows_pos: "11"
+N_rows_pos: "12"
 cds_radec: 94.10231,+2.92925
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.35 | 0.05 | 0.57 | 60 | 0.029 | 2455 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.29 | 0.05 | 0.57 | 58 | 0.029 | 1252 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.23 | 0.05 | -- | 56 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.098<sup>(1)</sup> | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.22 | -- | -- | 48 | -- | 48 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.23 | 0.22 | -- | 22 | -0.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.23 | 0.15 | 0.57 | 48 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.35 | -- | -- | 60 | -- | 2455 | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.35 | 0.00 | -- | 62 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.35 | -- | -- | 60 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.35 | 0.00 | -- | 62 | -- | -- | -- | -- |
-N_rows_pars: "8"
+N_rows_pars: "9"
 note_asterisk: true
 shared_table: |
 

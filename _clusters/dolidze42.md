@@ -13,17 +13,17 @@ glon: 76.01393
 glat: 1.03295
 r50: 15.3
 plx: 0.8693
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f8c6ba"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.18
 UTI_C_C3: 0.38
-UTI_C_lit: 0.6
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as genetic pair P212, along with Theia_1920.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.66 (50th percentile).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 0.9
 N_50_val: 24
 scix_url: Dolidze%2042

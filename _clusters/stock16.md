@@ -13,17 +13,17 @@ glon: 306.11034
 glat: 0.08797
 r50: 6.2
 plx: 0.2275
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#b7dfc3"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 0.1
 UTI_C_C3: 0.25
-UTI_C_lit: 0.87
+UTI_C_lit: 0.82
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -82,10 +82,11 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.81 | 1.505 | -- | 8 | -- | 876 | -- | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.81 | 1.52 | -- | 8 | -- | 876 | -- | 0.0 |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 6 | -- | 340 | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 1.99<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 3.99 | 1.61 | -- | 8 | -- | -- | -- | 0 |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.52 | 3.59 | -- | 35 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.99 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 3.99 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.99 | -- | -- | -- | -- | -- | -- | -- |
@@ -98,7 +99,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.64 | 1.24 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.81 | 1.61 | -- | 8 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.85 | 1.45 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "15"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
 

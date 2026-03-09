@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[PHOC 17](/_clusters/phoc17/)| 100.0 | 261.17 | -34.68 | 0.6 | -1.28 | -3.12 | -1.58 |0.49 |
+    |[PHOC 17](/_clusters/phoc17/)| 100.0 | 261.17 | -34.68 | 0.6 | -1.28 | -3.12 | -1.58 |0.41 |
     |[CWWDL 13876](/_clusters/cwwdl13876/)| 66.7 | 261.16 | -34.69 | 0.6 | -1.26 | -3.15 | -1.58 |0.0 |
     |[G3CC 47](/_clusters/g3cc47/)| 26.1 | 260.85 | -34.8 | 0.6 | -0.86 | -3.02 | -14.93 |0.44 |
 N_rows_shared: "3"

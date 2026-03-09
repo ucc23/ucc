@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P551, along with NGC_6568.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.03 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 6.5
 N_50_val: 17
 scix_url: Theia%201927
@@ -74,6 +75,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0011](/_clusters/oc0011/)| 16.0 | 272.99 | -22.96 | 0.61 | 0.46 | 0.81 | 12.11 |0.68 |
+    |[OC 0011](/_clusters/oc0011/)| 16.0 | 272.99 | -22.96 | 0.61 | 0.46 | 0.81 | 12.11 |0.58 |
 N_rows_shared: "1"
 ---

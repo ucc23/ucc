@@ -1,9 +1,9 @@
 ---
 layout: layout_cluster
 style: style_cluster
-title: Dutra Bica 60
+title: Dutra-Bica 60
 title_flag: true
-more_names: MWSC 2657; DB2001 2; BDB 4; MWSC 2656
+more_names: DB2001 2; MWSC 2657; BDB 4; MWSC 2656
 fname: dutrabica60
 members_file: "0_4"
 fov: 0.337
@@ -13,17 +13,17 @@ glon: 3.73538
 glat: 3.94494
 r50: 10.1
 plx: 0.1467
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fee7cc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.25
-UTI_C_lit: 0.3
+UTI_C_lit: 0.33
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Dutra Bica 60</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.82 kpc) differs significantly from the median photometric distance (~3.05 kpc).</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>Dutra-Bica 60</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as an old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.82 kpc) differs significantly from the median photometric distance (~3.05 kpc).</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -46,13 +46,15 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
+    <p><u><a href='https://scixplorer.org/abs/2001A%26A...376..434D' target='_blank'>Dutra & Bica (2001)</a></u><br>Resolved stellar group, related to ldn114? partly optical</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "2"
 dens_val: 0.0
 N_50_val: 12
-scix_url: Dutra%20Bica%2060
+scix_url: Dutra-Bica%2060
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -61,8 +63,10 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 264.832 | -23.684 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 264.824 | -23.659 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 264.832 | -23.658 | -- | -5.44 | -9.21 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.833 | -23.683 | -- | -3.58 | -3.89 | -- 
-N_rows_pos: "5"
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 264.832 | -23.684 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.833 | -23.683 | -- | -3.58 | -3.89 | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2001A%26A...376..434D) | 2001 | 264.832 | -23.684 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 264.86602,-23.70097
 carousel: UCC
 fpars_table: |

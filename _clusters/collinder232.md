@@ -13,17 +13,17 @@ glon: 287.44978
 glat: -0.56137
 r50: 2.4
 plx: 0.3846
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#eeb4b3"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 0.09
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -78,6 +78,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Trumpler 14](/_clusters/trumpler14/)| 90.7 | 160.99 | -59.55 | 0.39 | -6.51 | 2.08 | -17.89 |0.95 |
+    |[DBSB 54](/_clusters/dbsb54/)| 26.7 | 160.99 | -59.55 | 0.39 | -6.5 | 1.99 | -4.01 |0.0 |
     |[Trumpler 15](/_clusters/trumpler15/)| 8.1 | 161.18 | -59.37 | 0.39 | -6.21 | 2.09 | 9.88 |0.95 |
-N_rows_shared: "2"
+N_rows_shared: "3"
 ---

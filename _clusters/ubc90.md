@@ -66,15 +66,16 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.825 | 1.14 | -- | 490 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.74 | 1.395 | -- | 526 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.91 | 1.14 | -- | 490 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.74 | 1.65 | -- | 562 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.74 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "2"
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 20](/_clusters/teutsch20/)| 100.0 | 97.2 | 14.92 | 0.35 | 1.24 | -1.37 | 49.32 |0.66 |
+    |[Teutsch 20](/_clusters/teutsch20/)| 100.0 | 97.2 | 14.92 | 0.35 | 1.24 | -1.37 | 49.32 |0.64 |
     |[CWWDL 2663](/_clusters/cwwdl2663/)| 98.8 | 97.2 | 14.92 | 0.35 | 1.23 | -1.38 | 49.46 |0.0 |
 N_rows_shared: "2"
 ---

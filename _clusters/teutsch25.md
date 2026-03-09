@@ -13,17 +13,17 @@ glon: 243.99832
 glat: -1.13525
 r50: 3.2
 plx: 0.2653
-UTI: "0.68"
-UTI_COLOR: "#e3f3cd"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fafce1"
 UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.94
 UTI_C_C3: 0.5
-UTI_C_lit: 0.7
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.95 (50th percentile), true positive (human-assigned).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 4.7
 N_50_val: 58
 scix_url: Teutsch%2025

@@ -76,7 +76,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.07 |
+    |[Theia 2819](/_clusters/theia2819/)| 92.3 | 214.66 | -62.66 | 0.46 | -3.9 | -2.53 | -5.0 |0.06 |
     |[LISC 3170](/_clusters/lisc3170/)| 71.2 | 214.65 | -62.66 | 0.46 | -3.91 | -2.55 | -- |0.07 |
 N_rows_shared: "2"
 ---

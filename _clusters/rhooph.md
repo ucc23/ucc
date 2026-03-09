@@ -1,9 +1,9 @@
 ---
 layout: layout_cluster
 style: style_cluster
-title: Rho Oph
+title: rho Oph
 title_flag: true
-more_names: 
+more_names: rho Oph Dark Cloud; Grasdalen 1; OCl-1015.1
 fname: rhooph
 members_file: "352_356"
 fov: 0.313
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Rho Oph</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>rho Oph</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: ""
@@ -46,20 +46,23 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
+    <p><u><a href='https://scixplorer.org/abs/2002A%26A...389..871D' target='_blank'>Dias et al. (2002)</a></u><br>IR-only cluster (Archinal, B. A. & Hynes, S. J. 2003); cat V3.5 (Jan 2016)</p>
     <p><u><a href='https://scixplorer.org/abs/2003ARA%26A..41...57L' target='_blank'>Lada & Lada (2003)</a></u><br>Embedded cluster within ∼2 Kpc of the Sun.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "3"
 dens_val: 176.1
 N_50_val: 25
-scix_url: Rho%20Oph
+scix_url: rho%20Oph
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |246.769 | -24.654 | 7.256 | -6.466 | -26.022 | -8.147 |
-    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 246.757 | -24.611 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Lada & Lada](https://scixplorer.org/abs/2003ARA%26A..41...57L) | 2003 | 246.757 | -24.611 | -- | -- | -- | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 246.594 | -24.402 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 246.76878,-24.65443
 carousel: UCC
 fpars_table: |

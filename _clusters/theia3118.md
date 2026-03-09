@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.41 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 2.3
 N_50_val: 53
 scix_url: Theia%203118
@@ -76,6 +77,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 45](/_clusters/ufmg45/)| 71.7 | 239.71 | -55.81 | 0.33 | -2.58 | -2.9 | -24.95 |0.52 |
+    |[UFMG 45](/_clusters/ufmg45/)| 71.7 | 239.71 | -55.81 | 0.33 | -2.58 | -2.9 | -24.95 |0.42 |
 N_rows_shared: "1"
 ---

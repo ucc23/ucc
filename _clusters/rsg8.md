@@ -18,12 +18,12 @@ UTI_COLOR: "#b7dfc3"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#acd6bf"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#b7dfc3"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.84
 UTI_C_dens: 0.93
 UTI_C_C3: 1.0
-UTI_C_lit: 0.87
+UTI_C_lit: 0.85
 UTI_C_dup: 0.97
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg53' along with RSG 7.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 4.6
 N_50_val: 345
 scix_url: RSG8
@@ -65,6 +66,7 @@ posit_table: |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 345.032 | 59.37 | -- | -- | -- | -- |
     |[Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | -14.769 | 59.221 | 2.077 | 5.537 | -1.602 | -- |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 345.453 | 59.509 | -- | -- | -- | -- |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 345.453 | 59.509 | 2.057 | 5.664 | -1.716 | -7.42 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 345.453 | 59.509 | 2.057 | 5.664 | -1.716 | -9.656 |
     |[Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | 344.983 | 59.371 | -- | -- | -- | -- |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 345.761 | 59.394 | 2.05 | -- | -- | -- |
@@ -79,17 +81,18 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 344.983 | 59.371 | -- | -- | -- | -9.64 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 344.983 | 59.371 | 2.21 | 5.343 | -1.654 | -- |
     |[Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 344.54 | 59.16 | -- | 5.81 | -0.7 | -- 
-N_rows_pos: "18"
+N_rows_pos: "19"
 cds_radec: 345.42423,+59.36558
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.45 | 0.61 | 0.62 | 27 | -0.023 | 205 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.45 | 0.59 | 0.62 | 27 | -0.023 | 220 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.44 | 0.61 | -- | 30 | 0.039 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.45 | 0.64 | -- | 37 | -- | 343 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.43 | 0.53 | -- | 30 | -0.023 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.086<sup>(1)</sup> | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.48 | -- | -- | 14 | -- | 235 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 83<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 27 | -- | 205 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.51 | 0.83 | -- | 9 | -0.140 | -- | -- | -- |
@@ -99,18 +102,19 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.45 | 0.64 | -- | 37 | -0.023 | -- | -- | -- |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.46 | -- | -- | 27 | 0.009<sup>(20)</sup> | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.43 | 0.53 | -- | 27 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.49 | 0.57 | -- | 35 | -- | -- | -- | -- |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.00 | 0.00 | -- | 0 | 0.000 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.45 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.45 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.45 | -- | -- | -- | -- | -- | -- | -- |
     | [Roser et al.](https://scixplorer.org/abs/2016A%26A...595A..22R) | 2016 | 0.33 | 0.16 | -- | 316 | -- | -- | -- | -- |
-N_rows_pars: "18"
+N_rows_pars: "20"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14636](/_clusters/cwwdl14636/)| 18.6 | 345.54 | 59.54 | 2.04 | 5.66 | -1.67 | -9.39 |0.0 |
-    |[NGC 7429](/_clusters/ngc7429/)| 3.2 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.82 |
+    |[NGC 7429](/_clusters/ngc7429/)| 3.2 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.8 |
     |[CWWDL 14622](/_clusters/cwwdl14622/)| 2.3 | 345.68 | 58.22 | 2.25 | 5.43 | -1.31 | -8.93 |0.35 |
     |[CWWDL 14638](/_clusters/cwwdl14638/)| 2.3 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.1 |
 N_rows_shared: "4"

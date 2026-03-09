@@ -13,17 +13,17 @@ glon: 350.12798
 glat: 3.2825
 r50: 19.3
 plx: 0.903
-UTI: "0.74"
-UTI_COLOR: "#d7eec9"
+UTI: "0.73"
+UTI_COLOR: "#d9eeca"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.45
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -72,22 +72,23 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.07 | 2.0 | -- | 11 | 0.006 | 1591 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.07 | 1.78 | -- | 11 | 0.006 | 1591 | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 11 | -- | 1591 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 2.00 | -- | 9 | -- | -- | -- | -- |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 1.12 | -- | -- | 11 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.18 | 1.02 | -- | 11 | -- | -- | -- | -- |
+    | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.15 | 1.56 | -- | 30 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.07 | -- | -- | -- | -- | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.95 | 2.20 | -- | 16 | 0.006 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 1.07 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.07 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "8"
+N_rows_pars: "9"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14433](/_clusters/cwwdl14433/)| 38.3 | 256.51 | -35.07 | 0.91 | 1.26 | -2.17 | 1.46 |0.0 |
     |[CWWDL 14471](/_clusters/cwwdl14471/)| 14.9 | 256.42 | -35.15 | 0.93 | 1.2 | -2.17 | 0.25 |0.01 |
-    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.11 |
+    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.07 |
 N_rows_shared: "3"
 ---

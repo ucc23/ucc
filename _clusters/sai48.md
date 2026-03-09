@@ -13,17 +13,17 @@ glon: 173.57693
 glat: -1.49704
 r50: 5.8
 plx: 0.2991
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fef9de"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.0
 UTI_C_dens: 0.11
 UTI_C_C3: 0.38
-UTI_C_lit: 0.45
+UTI_C_lit: 0.38
 UTI_C_dup: 0.4
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -84,5 +84,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 1893](/_clusters/ngc1893/)| 60.0 | 80.73 | 33.45 | 0.3 | -0.28 | -1.41 | 20.89 |0.92 |
-N_rows_shared: "1"
+    |[BDSB 70](/_clusters/bdsb70/)| 4.0 | 80.71 | 33.43 | 0.31 | -0.32 | -1.44 | 42.78 |0.0 |
+N_rows_shared: "2"
 ---

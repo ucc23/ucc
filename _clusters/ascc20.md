@@ -46,13 +46,15 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.17/5.6 Msun</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 6 along with Briceno_1, and of multiple system 5 along with ASCC_21 and Briceno_1.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G10, along with ASCC_19, OC_0339, OCSN_61 and UBC_17a.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 10.1
 N_50_val: 244
 scix_url: ASCC%2020
@@ -60,8 +62,10 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |82.08 | 1.656 | 2.75 | -0.556 | 0.778 | 29.188 |
+    |[Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 82.183 | 1.63 | -- | -- | -- | -- |
     |[Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 82.19 | 1.72 | 2.73 | -0.57 | 0.76 | 27.89 |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 82.194 | 1.721 | -- | -- | -- | -- |
+    |[Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 82.194 | 1.721 | 2.73 | -0.569 | 0.759 | 30.108 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 82.194 | 1.721 | 2.73 | -0.569 | 0.759 | 27.886 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 82.006 | 1.698 | 2.731 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 82.194 | 1.721 | 2.73 | -0.569 | 0.759 | 27.886 |
@@ -74,15 +78,17 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 82.18 | 1.63 | -- | 0.75 | -- | 22.97 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 82.181 | 1.627 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 82.18 | 1.63 | -- | -0.09 | 0.51 | 17.62 
-N_rows_pos: "14"
+N_rows_pos: "16"
 cds_radec: 82.08035,+1.65616
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 0.12 | 0.47 | 22 | 0.030 | 649 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 0.12 | 0.47 | 22 | 0.025 | 622 | -- | -- |
+    | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.36 | 0.03 | -- | 25 | -0.030 | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.38 | 0.06 | -- | 25 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.050<sup>(1)</sup> | -- | -- | -- |
+    | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.36 | -- | -- | 13 | -- | 161 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 105<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.37 | 0.53 | -- | 13 | 0.030 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.36 | 0.11 | 0.47 | 13 | -- | -- | -- | -- |
@@ -93,13 +99,13 @@ fpars_table: |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.45 | 0.12 | -- | 22 | -- | 1186<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.45 | 0.12 | -- | 22 | -- | 622 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...440..403K) | 2005 | 0.45 | 0.12 | -- | 22 | -- | -- | -- | -- |
-N_rows_pars: "12"
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 57](/_clusters/ocsn57/)| 97.1 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.1 |
     |[FoF 2371](/_clusters/fof2371/)| 37.7 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.13 |
-    |[OCSN 56](/_clusters/ocsn56/)| 17.2 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.2 |
+    |[OCSN 56](/_clusters/ocsn56/)| 17.2 | 82.64 | 2.37 | 2.53 | -0.82 | 0.53 | 31.28 |0.17 |
 N_rows_shared: "3"
 ---

@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#eaf6d1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -78,7 +78,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.7 |
+    |[Alessi Teutsch 10](/_clusters/alessiteutsch10/)| 100.0 | 56.43 | 29.82 | 2.49 | 2.69 | -5.24 | 18.55 |0.68 |
     |[OCSN 284](/_clusters/ocsn284/)| 96.2 | 56.45 | 29.82 | 2.49 | 2.68 | -5.24 | 18.55 |0.0 |
     |[OC 0278](/_clusters/oc0278/)| 57.7 | 56.37 | 29.78 | 2.47 | 2.57 | -5.26 | 18.05 |0.0 |
 N_rows_shared: "3"

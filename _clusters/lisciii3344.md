@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.62 |
+    |[Teutsch 177](/_clusters/teutsch177/)| 71.3 | 100.4 | -5.79 | 0.85 | -0.08 | -0.87 | 10.74 |0.6 |
     |[UBC 216](/_clusters/ubc216/)| 49.2 | 100.42 | -5.78 | 0.84 | -0.08 | -0.88 | 13.61 |0.0 |
 N_rows_shared: "2"
 ---

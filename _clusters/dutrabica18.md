@@ -60,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |265.699 | -28.122 | 0.044 | -3.741 | -5.588 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 265.71 | -28.115 | -- | -- | -- | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 265.702 | -28.108 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 265.7 | -28.108 | -- | 2.4 | 0.02 | -- 
-N_rows_pos: "3"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 265.7 | -28.108 | -- | 2.4 | 0.02 | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 265.71 | -28.115 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 265.69867,-28.12203
 carousel: UCC
 fpars_table: |

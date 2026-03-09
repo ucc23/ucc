@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Dutra Bica 32
 title_flag: true
-more_names: MWSC 2768
+more_names: DB2000 32; MWSC 2768
 fname: dutrabica32
 members_file: "0_4"
 fov: 0.173
@@ -60,8 +60,9 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 269.892 | -28.559 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 269.896 | -28.555 | -- | -0.61 | 0.27 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 269.925 | -28.522 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 269.896 | -28.555 | -- | -- | -- | -- 
-N_rows_pos: "4"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 269.896 | -28.555 | -- | -- | -- | -- |
+    |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 269.892 | -28.559 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 269.90921,-28.5289
 carousel: UCC
 fpars_table: |

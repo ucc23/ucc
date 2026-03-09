@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Nuclear Star</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.37 kpc) differs significantly from the median photometric distance (~8.23 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Nuclear Star</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.37 kpc) differs significantly from the median photometric distance (~8.23 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: ""
@@ -74,6 +74,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MKN 1](/_clusters/mkn1/)| 11.3 | 266.49 | -29.08 | 0.44 | -0.2 | -0.82 | -32.03 |0.1 |
     |[Dutra Bica 58](/_clusters/dutrabica58/)| 9.4 | 266.27 | -28.88 | 0.43 | -0.56 | -1.61 | -34.58 |0.2 |
-    |[dutra bica 55](/_clusters/dutrabica55/)| 1.9 | 266.12 | -29.23 | 0.42 | -0.04 | -1.16 | 81.18 |0.06 |
+    |[Dutra Bica 55](/_clusters/dutrabica55/)| 1.9 | 266.12 | -29.23 | 0.42 | -0.04 | -1.16 | 81.18 |0.06 |
 N_rows_shared: "3"
 ---

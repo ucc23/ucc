@@ -58,19 +58,21 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |269.857 | -24.792 | 0.355 | -1.32 | -2.553 | 25.592 |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 269.842 | -24.767 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 269.842 | -24.767 | -- | -1.34 | -2.6 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 269.842 | -24.767 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 269.842 | -24.767 | -- | -1.34 | -2.6 | -- 
-N_rows_pos: "3"
+N_rows_pos: "4"
 cds_radec: 269.8571,-24.79157
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.39 | 2.05 | -- | 1000 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1390.00 | 2.05 | -- | 1000 | -- | -- | -- | -- |
     | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 1.39 | -- | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.39 | 2.05 | -- | 1000 | -- | -- | -- | -- |
-N_rows_pars: "2"
+N_rows_pars: "3"
 note_asterisk: false
 shared_table: |
 

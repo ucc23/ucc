@@ -18,12 +18,12 @@ UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e9f5d0"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.65
 UTI_C_C3: 0.38
-UTI_C_lit: 0.3
+UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Moderately dense
@@ -59,21 +59,23 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |308.445 | 40.15 | 0.64 | -4.165 | -7.096 | -13.401 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 308.453 | 40.112 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 308.453 | 40.112 | -- | -- | -- | -- |
+    |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 305.958 | 40.148 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 308.458 | 40.115 | -- | -2.47 | 0.01 | -4.6 |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 308.458 | 40.148 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 308.458 | 40.148 | -- | -2.47 | 0.01 | -- 
-N_rows_pos: "5"
+N_rows_pos: "6"
 cds_radec: 308.44488,+40.15028
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 2.58 | -- | 100 | -- | 5 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 2.59 | -- | 100 | -- | 5 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 100 | -- | 5 | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.84 | 2.58 | -- | 100 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 780.00 | 2.60 | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.84 | 2.58 | -- | 100 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.78 | 2.60 | -- | 100 | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
 

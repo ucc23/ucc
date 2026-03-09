@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: DBSB 75
 title_flag: true
-more_names: MWSC 2001
+more_names: DBSB2003 75; MWSC 2001
 fname: dbsb75
 members_file: "296_300"
 fov: 0.197
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...400..533D' target='_blank'>Dutra et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 16
 scix_url: DBSB%2075
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |182.162 | -63.364 | 0.168 | -6.833 | 0.842 | -23.746 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 182.221 | -63.267 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 182.221 | -63.267 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 182.23 | -63.27 | -- | -10.91 | 6.06 | 28.8 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 182.23 | -63.27 | -- | -10.91 | 6.06 | 28.8 |
+    |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 182.251 | -63.26 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 182.16189,-63.36381
 carousel: UCC
 fpars_table: |

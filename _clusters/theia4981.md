@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#feecd0"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.36
 UTI_C_dens: 0.86
 UTI_C_C3: 0.62
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 369 along with Theia_4284.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P582, along with Theia_4284.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 4.3
 N_50_val: 36
 scix_url: Theia%204981

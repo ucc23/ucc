@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BDSB 77
 title_flag: true
-more_names: MWSC 678
+more_names: BDS2003 77; MWSC 678
 fname: bdsb77
 members_file: "184_188"
 fov: 0.163
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as cluster candidate (IRCC).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 2.0
 N_50_val: 22
 scix_url: BDSB%2077
@@ -59,8 +60,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |87.558 | 23.888 | 0.426 | -0.186 | -2.158 | -43.171 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 87.547 | 23.879 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 87.547 | 23.879 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 87.555 | 23.878 | -- | -1.2 | -4.69 | -- 
-N_rows_pos: "3"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 87.555 | 23.878 | -- | -1.2 | -4.69 | -- |
+    |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 87.561 | 23.873 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 87.55837,+23.88769
 carousel: UCC
 fpars_table: |

@@ -69,7 +69,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.13 |
-    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.68 |
+    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.65 |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
 N_rows_shared: "3"
 ---

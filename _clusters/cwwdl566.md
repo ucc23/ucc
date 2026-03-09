@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 876](/_clusters/fof876/)| 85.3 | 316.06 | 42.06 | 0.48 | -2.44 | -4.32 | -17.43 |0.68 |
+    |[FoF 876](/_clusters/fof876/)| 85.3 | 316.06 | 42.06 | 0.48 | -2.44 | -4.32 | -17.43 |0.65 |
     |[UBC 145](/_clusters/ubc145/)| 77.3 | 316.06 | 42.07 | 0.48 | -2.44 | -4.31 | -17.43 |0.0 |
 N_rows_shared: "2"
 ---

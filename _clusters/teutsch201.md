@@ -13,17 +13,17 @@ glon: 218.18985
 glat: -2.14688
 r50: 8.9
 plx: 1.2746
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee2c7"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.3
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 7.5
 N_50_val: 31
 scix_url: Teutsch%20201
@@ -79,7 +80,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.39 |
+    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.37 |
     |[CWWDL 14340](/_clusters/cwwdl14340/)| 96.8 | 103.35 | -5.66 | 1.27 | -0.78 | -2.53 | 23.64 |0.0 |
 N_rows_shared: "2"
 ---
