@@ -9,6 +9,24 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260309](https://zenodo.org/records/18928789)
+
+- Added Malhotra et al. (2026)
+- Added Swiggum et al. (2024)
+- Added Dias et al. (2022)
+- Added Kounkel et al. (2020)
+- Added Kounkel & Covey (2019)
+- Added Tadross et al. (2014)
+- Added Camargo et al. (2012)
+- Added Bica et al. (2003) (1)
+- Added Dutra et al. (2003)
+- Added Bica et al. (2003)
+- Added Dutra & Bica (2001)
+- Added Dutra et al. (2000)
+
+
+
+
 ## Version [260301](https://zenodo.org/records/18824643)
 
 - Added Lui et al. (2025)
