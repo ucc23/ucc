@@ -101,14 +101,14 @@ fpars_table: |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.34 | 2.92 | -- | 60 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.92 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.92 | -- | -- | -- | -- | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.50 | 2.52 | -- | 4 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.80 | 2.28 | -- | 35 | -- | -- | -- | -- |
-    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1800.00 | 2.33 | -- | 20 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.80 | 2.28 | -- | 35 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.50 | 2.56 | -- | 4 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.80 | 2.32 | -- | 35 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1800.00 | 2.37 | -- | 20 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.80 | 2.32 | -- | 35 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 793 | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.80 | 2.28 | -- | 35 | -- | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.45<sup>(1)</sup> | 2.26 | -- | 14 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.41 | 2.39 | -- | 251 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.80 | 2.32 | -- | 35 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.45<sup>(1)</sup> | 2.30 | -- | 14 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.41 | 2.43 | -- | 251 | -- | -- | -- | -- |
 N_rows_pars: "21"
 note_asterisk: true
 shared_table: |

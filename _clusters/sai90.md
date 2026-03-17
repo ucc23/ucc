@@ -76,15 +76,15 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.74 | 3.16 | 2.69 | 1122 | 1.040 | 328 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.74 | 3.22 | 2.69 | 1122 | 1.040 | 328 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 248<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.56 | 2.99 | -- | 38 | 1.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.21 | 2.72 | 2.69 | 13 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1274 | -- | 409 | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.11 | 3.23 | -- | 1274 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.11 | 3.23 | -- | 1274 | -- | -- | -- | -- |
-    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.74 | 3.16 | -- | 1122 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.74 | 3.16 | -- | 1122 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.11 | 3.28 | -- | 1274 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.11 | 3.28 | -- | 1274 | -- | -- | -- | -- |
+    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 2.74 | 3.22 | -- | 1122 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.74 | 3.22 | -- | 1122 | -- | -- | -- | -- |
 N_rows_pars: "8"
 note_asterisk: true
 shared_table: |

@@ -13,17 +13,17 @@ glon: 80.21097
 glat: 0.7773
 r50: 4.8
 plx: 0.5775
-UTI: "0.78"
-UTI_COLOR: "#ceeac8"
+UTI: "0.77"
+UTI_COLOR: "#d0eac9"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f8fcdf"
+UTI_C_lit_COL: "#fafce1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.55
+UTI_C_lit: 0.54
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -86,17 +86,17 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.67 | 5.59 | 2.99 | 4 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.59 | 4.49 | -- | 5 | 0.059 | 2150<sup>(1)</sup> | 0.86 | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.55 | 4.13 | -- | 6 | 0.100 | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.64 | 3.96 | -- | 41 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.64 | 4.03 | -- | 41 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 534 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.34<sup>(1)</sup> | 5.05 | -- | 9 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.80 | 5.64 | -- | 4 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.34<sup>(1)</sup> | 5.14 | -- | 9 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.80 | 5.74 | -- | 4 | -- | -- | -- | -- |
 N_rows_pars: "11"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.14 |
-    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.86 |
+    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.85 |
     |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.66 |
     |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 3.3 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.23 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |

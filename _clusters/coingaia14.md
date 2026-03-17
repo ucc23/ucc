@@ -18,12 +18,12 @@ UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fddfc6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e0f1cb"
+UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.29
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.7
+UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -69,18 +69,19 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 77.665 | 39.218 | 1.014 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 77.694 | 39.203 | 1.007 | 1.299 | -6.637 | 4.233 |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 77.636 | 39.215 | 1.041 | 1.29 | -6.652 | -- |
+    |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 77.696 | 39.195 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 77.686 | 39.205 | 1.04 | 1.329 | -6.569 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 77.696 | 39.195 | 1.043 | 1.331 | -6.598 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 77.696 | 39.195 | 1.043 | 1.331 | -6.598 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 77.696 | 39.195 | -- | -- | -- | 2.333 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 77.696 | 39.195 | 1.04 | 1.33 | -6.57 | -- 
-N_rows_pos: "13"
+N_rows_pos: "14"
 cds_radec: 77.68786,+39.20388
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.935 | 0.845 | 0.94 | 275 | -0.022 | 95 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.94 | 0.75 | 0.94 | 320 | -0.022 | 77 | -- | 0.0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.89 | 0.61 | -- | 387 | 0.045 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.92 | 1.04 | -- | 182 | -- | 58 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.94 | 0.62 | -- | 365 | -0.076 | -- | -- | -- |
@@ -90,13 +91,14 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.94 | 0.71 | 0.94 | 179 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.25 | -- | 56 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.92 | -- | -- | 479 | -- | -- | -- | -- |
+    | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 0.94 | 0.62 | -- | 427 | -- | 77 | -- | 0<sup>(1)</sup> |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.92 | 1.04 | -- | 182 | -0.076 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.94 | 0.62 | -- | 427 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.95 | 0.94 | -- | 562 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.93 | -- | -- | -- | -- | -- | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.04 | 1.23 | -- | 72 | 0.031 | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.04 | 1.25 | -- | 72 | 0.031 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2019A%26A...624A.126C) | 2019 | 0.93 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "15"
+N_rows_pars: "16"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

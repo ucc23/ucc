@@ -13,17 +13,17 @@ glon: 328.54038
 glat: -1.0183
 r50: 2.5
 plx: 0.4016
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#fef0d2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ceeac8"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.78
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -84,7 +84,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.28 | 2.9 | 2.61 | 8 | 0.510 | 112 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.28 | 2.96 | 2.61 | 8 | 0.510 | 112 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.51 | 2.41 | -- | 6 | -- | 112 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 941<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.76 | 2.00 | -- | 32 | 0.520 | -- | -- | -- |
@@ -95,11 +95,11 @@ fpars_table: |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.44 | 3.08 | -- | 10 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.32 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.32 | -- | -- | -- | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.12 | 2.90 | -- | 6 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.12 | 2.90 | -- | 6 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.12 | 2.96 | -- | 6 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.12 | 2.96 | -- | 6 | -- | -- | -- | -- |
     | [Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 2.10 | -- | -- | 10 | -- | -- | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.30 | 5.70 | -- | 4 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.10 | 3.10 | -- | 10 | -- | -- | -- | -- |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.30 | 5.80 | -- | 4 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.10 | 3.15 | -- | 10 | -- | -- | -- | -- |
 N_rows_pars: "15"
 note_asterisk: true
 shared_table: |

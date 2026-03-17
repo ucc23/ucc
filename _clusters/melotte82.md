@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Melotte 82</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Melotte 82</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -42,20 +42,22 @@ badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
 badge_age: "Intermediate age"
 badge_age_url: "age_min=100&age_max=1000"
-badge_bss: ""
-badge_bss_url: ""
+badge_bss: "Contains BSS"
+badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.25/3.55 Msun</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 34.6, 1 WD candidate found, and 6 WD candidates found in the wide search.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping binary) 285 along with UPK_540.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however, parameters log(t)=8.40, Av=0.220, [Fe/H]=0.00 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108). Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite star DR2 5290767631226220032=HD 66194 -- Be Star as a blue straggler, the same star is include in our catalogue.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Adopted cluster centre: star d in (1955ApJ...121..628C). Star A = HD 66194 = V374 Carinae has a membership probability of 99% (1978, Sydney Obs.Pap., No.81), and a spectrum B2Vne/B3ne (1973A&AS....9..233F). This star is cited as a blue straggler in (1982A&A...109...37M) and (1983A&AS...53..419V), and is considered to be an analogue of the straggler Theta Carinae in IC 2602 by (1981ApJ...246..817E) and (1979PASP...91..442W). According to (2003A&A...404..365G), both components of this binary are main-sequence stars, and would experience mass transfer before abandoning this stage.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
+N_comments: "8"
 dens_val: 151.8
 N_50_val: 3560
 scix_url: Melotte%2082
@@ -97,19 +99,20 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 119.522 | -60.746 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 119.52 | -60.75 | -- | 0.7 | -- | 20.67 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 119.522 | -60.746 | -- | -- | -- | -- |
+    |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 119.525 | -60.75 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 119.525 | -60.75 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 119.52 | -60.75 | -- | -4.13 | 10.15 | 18.53 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 119.55 | -60.81 | -- | -3.65 | 8.15 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 119.518 | -60.796 | -- | -4.08 | 10.98 | 22.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 119.517 | -60.753 | -- | -5.43 | 8.41 | 23.08 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 119.517 | -60.753 | -- | -- | -- | -- 
-N_rows_pos: "40"
+N_rows_pos: "41"
 cds_radec: 119.49863,-60.76689
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.41 | 0.31 | 0.87 | 126 | -0.004 | 303 | 0.25 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.41 | 0.32 | 0.87 | 126 | -0.008 | 303 | 0.25 | 1.0 |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.41 | 0.28 | -- | 147 | 0.080 | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.50 | 0.16 | -- | 100 | -- | -- | -- | -- |
     | [Nizovkina et al.](https://scixplorer.org/abs/2025A%26A...703A.100N) | 2025 | 0.37<sup>(4)</sup> | 0.40<sup>(4)</sup> | -- | 286<sup>(4)</sup> | -0.143<sup>(4)</sup> | -- | -- | -- |
@@ -119,14 +122,15 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3547<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.42 | 0.67 | -- | 72 | 0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.39 | 0.20 | 0.87 | 125 | -- | -- | -- | -- |
-    | [Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 0.41 | 0.45 | -- | 277 | -0.008 | 2877 | 0.25 | 0.00 |
+    | [Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 0.41 | 0.45 | -- | 277 | -0.008 | 2877 | 0.25 | 0<sup>(1)</sup> |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.46 | 0.28 | -- | 224 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 299 | -- | 151 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.55 | -- | 79 | -- | -- | -- | -- |
+    | [Spina et al.](https://scixplorer.org/abs/2022Univ....8...87S) | 2022 | -- | -- | -- | -- | -0.076 | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.42 | -- | -- | 234 | -- | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.41<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
-    | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 0.41 | 0.31 | -- | 112 | -- | -- | -- | 1 |
-    | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.21 | -- | 200 | -- | -- | -- | -- |
+    | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 0.41 | 0.32 | -- | 112 | -- | -- | -- | 1 |
+    | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.22 | -- | 200 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.41 | 0.45 | -- | 277 | -0.008 | -- | -- | -- |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.41 | -- | -- | 240 | -0.079<sup>(20)</sup> | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.42 | 0.11 | -- | 240 | -- | -- | -- | -- |
@@ -141,16 +145,17 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.37 | 0.22 | -- | 299 | -0.373 | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 355 | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.41 | -- | -- | 113 | -0.070 | 251 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.45<sup>(1)</sup> | 0.59 | -- | 126 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.45<sup>(1)</sup> | 0.60 | -- | 126 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.35 | 0.22 | -- | 120 | -- | 234<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.35 | 0.22 | -- | 120 | -- | 134 | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.41 | 0.31 | -- | 112 | -- | -- | -- | -- |
+    | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.32 | -- | 112 | -- | -- | -- | 1 |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.41 | 0.32 | -- | 112 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.35 | 0.22 | -- | 120 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.35 | 0.31 | -- | -- | -- | -- | -- | -- |
-    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.41 | 0.31 | -- | 110 | 0.060<sup>(1)</sup> | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.41 | 0.31 | -- | 113 | 0.060 | -- | -- | -- |
-    | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.37 | 0.34 | -- | 126 | -- | -- | -- | -- |
-N_rows_pars: "40"
+    | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.35 | 0.32 | -- | -- | -- | -- | -- | -- |
+    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.41 | 0.32 | -- | 110 | 0.060<sup>(1)</sup> | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.41 | 0.32 | -- | 113 | 0.060 | -- | -- | -- |
+    | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.37 | 0.35 | -- | 126 | -- | -- | -- | -- |
+N_rows_pars: "42"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

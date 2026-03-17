@@ -69,7 +69,7 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.37 | 0.25 | -- | 2512 | 0.039 | -- | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.16 | 1.14 | -- | 24 | 0.039 | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 2.16 | 1.16 | -- | 24 | 0.039 | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.51<sup>(1)</sup> | 0.22 | -- | 2512 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.37 | 0.25 | -- | 2512 | -- | -- | -- | -- |
 N_rows_pars: "3"

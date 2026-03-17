@@ -72,7 +72,7 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 4.90 | 1.39 | -- | 141 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.60 | 1.44 | -- | 257 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 4.22 | -- | -- | -- | -- | -- | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 8.76 | 1.81 | -- | 7 | 0.050 | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 8.76 | 1.84 | -- | 7 | 0.050 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 4.22 | -- | -- | -- | -- | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: false

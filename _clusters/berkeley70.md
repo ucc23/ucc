@@ -46,13 +46,15 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.28. An isochrone of log(t)=9.3 provide a better fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only straggler candidates inside a radius of 4' around the centre of coordinates have been considered. The red limit of the blue straggler area is (B-V)=0.71.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: intermediate fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.94 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "5"
 dens_val: 27.1
 N_50_val: 487
 scix_url: Berkeley%2070
@@ -68,6 +70,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 81.467 | 41.958 | 0.216 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 81.454 | 41.95 | 0.215 | 0.832 | -1.875 | -10.821 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 81.431 | 41.931 | -- | -- | -- | -- |
+    |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 81.457 | 41.951 | -- | -- | -- | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 81.459 | 41.963 | 0.183 | 0.92 | -1.917 | -- |
     |[Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 81.457 | 41.951 | 0.177 | 0.947 | -1.864 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 81.46 | 41.949 | 0.176 | 0.993 | -1.874 | -15.164 |
@@ -84,16 +87,17 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 81.425 | 41.9 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 81.441 | 41.93 | -- | -0.81 | -5.4 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 81.421 | 41.939 | -- | -- | -- | -- |
+    |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 81.425 | 41.9 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 81.436 | 41.896 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 81.422 | 41.904 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 81.425 | 41.9 | -- | 0.1 | 3.39 | -15.0 
-N_rows_pos: "27"
+N_rows_pos: "29"
 cds_radec: 81.45744,+41.95095
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.72 | 1.55 | 2.31 | 2344 | -0.320 | 1653 | -- | 12.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.85 | 1.51 | 2.31 | 2344 | -0.320 | 2407 | -- | 12.0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.57 | 2.09 | -- | 2344 | -0.652 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.250<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 4.59 | 1.56 | -- | 2891 | -- | 3161 | -- | -- |
@@ -102,25 +106,27 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.61 | 1.90 | -- | 2239 | -0.560 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.02 | 1.70 | 2.31 | 904 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 2239 | -- | 1493 | -- | -- |
+    | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 4.97 | 1.23 | -- | 2188 | -- | 3424 | -- | 6<sup>(1)</sup> |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 5.86<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
-    | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 4.85 | 1.49 | -- | 4677 | -- | -- | -- | 12 |
+    | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 4.85 | 1.51 | -- | 4677 | -- | -- | -- | 12 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 4.59 | 1.56 | -- | 2891 | 0.006 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 4.97 | 1.23 | -- | 2188 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.00 | 1.51 | -- | 1072 | -- | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 5.00 | 1.55 | -- | 9350 | -0.337 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 5.00 | 1.58 | -- | 9350 | -0.337 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 4.85 | -- | -- | -- | -- | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 4.85 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 4.85 | -- | -- | -- | -- | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.94 | 0.90 | -- | 1259 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.00 | 1.55 | -- | 2239 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.00 | 1.55 | -- | 2239 | -0.320 | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.94 | 0.92 | -- | 1259 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.00 | 1.58 | -- | 2239 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.00 | 1.58 | -- | 2239 | -0.320 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 4.17 | -- | -- | 4677 | -0.320 | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.00 | 1.55 | -- | 2239 | -0.320 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 5.68<sup>(1)</sup> | 0.87 | -- | 3162 | -- | -- | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.16 | 1.49 | -- | 4677 | -- | -- | -- | -- |
-    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 4.16 | 1.49 | -- | 4000 | -0.320<sup>(1)</sup> | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.17 | 1.49 | -- | 4677 | -0.010 | -- | -- | -- |
-N_rows_pars: "26"
+    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.00 | 1.58 | -- | 2239 | -0.320 | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 5.68<sup>(1)</sup> | 0.88 | -- | 3162 | -- | -- | -- | -- |
+    | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 1.51 | -- | 4677 | -- | -- | -- | 64 |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.16 | 1.51 | -- | 4677 | -- | -- | -- | -- |
+    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 4.16 | 1.51 | -- | 4000 | -0.320<sup>(1)</sup> | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.17 | 1.51 | -- | 4677 | -0.010 | -- | -- | -- |
+N_rows_pars: "28"
 note_asterisk: true
 shared_table: |
 

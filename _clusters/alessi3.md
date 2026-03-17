@@ -31,13 +31,13 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi 3</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Alessi 3</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
-badge_mass: "Low mass"
-badge_mass_url: "mass_min=0&mass_max=50"
+badge_mass: ""
+badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
 badge_age: "Intermediate age"
@@ -73,6 +73,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 109.046 | -46.615 | -- | -- | -- | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 109.09 | -46.308 | 3.611 | -9.82 | 11.958 | -- |
     |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 109.341 | -46.348 | 3.619 | -9.774 | 11.954 | -- |
+    |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 109.275 | -46.142 | -- | -- | -- | -- |
     |[Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | 109.117 | -46.554 | 3.559 | -9.876 | 11.883 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 109.7 | -46.026 | 3.559 | -9.872 | 12.014 | 2.314 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 109.275 | -46.142 | 3.566 | -9.875 | 11.958 | -- |
@@ -95,13 +96,13 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 109.08 | -46.61 | -- | -11.63 | 12.61 | -- |
     |[Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 109.1 | -46.6 | -- | -11.5 | 12.4 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 109.121 | -46.685 | -- | -11.49 | 12.37 | 20.0 
-N_rows_pos: "33"
+N_rows_pos: "34"
 cds_radec: 109.16921,-46.2555
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.29 | 0.31 | 0.43 | 720 | -0.001 | 44 | 0.53 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.29 | 0.31 | 0.43 | 676 | -0.001 | 52 | 0.53 | 0.0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.29 | 0.06 | -- | 946 | 0.055 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.26 | 0.04 | -- | 832 | 0.250 | 195 | 0.53 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.28 | 0.18 | -- | 798 | -- | 122 | -- | -- |
@@ -113,7 +114,8 @@ fpars_table: |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 741 | -- | 29 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.50 | -- | 398 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.29 | -- | -- | 631 | -- | -- | -- | -- |
-    | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.23 | -- | 600 | -- | -- | -- | -- |
+    | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 0.30 | 0.14 | -- | 631 | -- | 301 | -- | 0<sup>(1)</sup> |
+    | [Richer et al.](https://scixplorer.org/abs/2021ApJ...912..165R) | 2021 | -- | 0.24 | -- | 600 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.28 | 0.18 | -- | 798 | -0.057 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.30 | 0.14 | -- | 631 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.30 | 0.32 | -- | 447 | -- | -- | -- | -- |
@@ -123,17 +125,17 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.28 | -- | -- | -- | -- | -- | -- | -- |
     | [Angelo et al.](https://scixplorer.org/abs/2019A%26A...624A...8A) | 2019 | 0.26 | -- | -- | 630 | -- | 18 | -- | -- |
     | [Yen et al.](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 2018 | 0.26 | 0.11 | -- | 794 | -- | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.43 | 0.30 | -- | 723 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.31 | 0.34 | -- | 741 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.31 | 0.34 | -- | 741 | -0.275 | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.43 | 0.31 | -- | 723 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.31 | 0.35 | -- | 741 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.31 | 0.35 | -- | 741 | -0.275 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.29 | -- | -- | 501 | -- | 37 | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.29 | 0.34 | -- | 741 | -- | 52<sup>(1)</sup> | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.29 | 0.34 | -- | 741 | -- | 31 | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.29 | 0.34 | -- | 501 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.29 | 0.34 | -- | 741 | -- | -- | -- | -- |
-    | [Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 0.29 | 0.34 | -- | 501 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.29 | 0.34 | -- | 501 | -0.275 | -- | -- | -- |
-N_rows_pars: "31"
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.29 | 0.35 | -- | 741 | -- | 52<sup>(1)</sup> | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.29 | 0.35 | -- | 741 | -- | 31 | -- | -- |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.29 | 0.35 | -- | 501 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.29 | 0.35 | -- | 741 | -- | -- | -- | -- |
+    | [Alessi et al.](https://scixplorer.org/abs/2003A%26A...410..565A) | 2003 | 0.29 | 0.35 | -- | 501 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.29 | 0.35 | -- | 501 | -0.275 | -- | -- | -- |
+N_rows_pars: "32"
 note_asterisk: true
 shared_table: |
 

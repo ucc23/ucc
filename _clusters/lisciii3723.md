@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.3 | 0.26 | -- | -- | -0.642 | -- | 0.48 | -- |
-    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.30 | 0.26 | -- | -- | -0.642 | -- | 0.48 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.3 | 0.28 | -- | -- | -0.642 | -- | 0.48 | -- |
+    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.30 | 0.28 | -- | -- | -0.642 | -- | 0.48 | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.9 |
+    |[RSG5](/_clusters/rsg5/)| 53.5 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.89 |
     |[OCSN 23](/_clusters/ocsn23/)| 50.1 | 305.13 | 48.62 | 2.86 | 3.16 | 1.97 | -7.7 |0.35 |
     |[OCSN 256](/_clusters/ocsn256/)| 50.1 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
     |[Theia 96](/_clusters/theia96/)| 23.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.69 |

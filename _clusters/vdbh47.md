@@ -65,8 +65,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1232.915 | 1.21 | -- | 800 | -- | -- | -- | -- |
-    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 2465.00 | 2.26 | -- | 800 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1232.915 | 1.23 | -- | 800 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 2465.00 | 2.30 | -- | 800 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.83 | 0.16 | -- | -- | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: false

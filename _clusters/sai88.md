@@ -73,10 +73,10 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.84 | 3.55 | -- | 920 | -- | 762 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 5.37 | 3.55 | -- | 1995 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 841 | -- | 762 | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.84 | 3.55 | -- | 841 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.84 | 3.55 | -- | 841 | -- | -- | -- | -- |
-    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 8.24 | 2.85 | -- | 1000 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 8.24 | 2.85 | -- | 1000 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.84 | 3.61 | -- | 841 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.84 | 3.61 | -- | 841 | -- | -- | -- | -- |
+    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 8.24 | 2.90 | -- | 1000 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 8.24 | 2.90 | -- | 1000 | -- | -- | -- | -- |
 N_rows_pars: "6"
 note_asterisk: false
 shared_table: |

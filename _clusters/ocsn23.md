@@ -64,8 +64,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 0.34 | -- | 32 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.39 | 0.34 | -- | 32 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.39 | 0.35 | -- | 32 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.39 | 0.35 | -- | 32 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
@@ -73,7 +73,7 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 3723](/_clusters/lisciii3723/)| 52.6 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.27 |
     |[Theia 96](/_clusters/theia96/)| 38.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.69 |
-    |[RSG5](/_clusters/rsg5/)| 8.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.9 |
+    |[RSG5](/_clusters/rsg5/)| 8.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.89 |
     |[OCSN 256](/_clusters/ocsn256/)| 7.4 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
 N_rows_shared: "4"
 ---

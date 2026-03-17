@@ -68,11 +68,11 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.235 | 1.59 | -- | 184 | 0.097 | 68 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.235 | 1.605 | -- | 184 | 0.097 | 68 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.22 | 1.25 | -- | 284 | 0.055 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.25 | 1.63 | -- | 83 | -- | 68 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.25 | 1.63 | -- | 83 | 0.138 | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 1.15 | 1.55 | -- | 398 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 1.15 | 1.58 | -- | 398 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: false
 shared_table: |

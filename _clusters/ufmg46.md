@@ -13,37 +13,37 @@ glon: 6.95264
 glat: -4.40562
 r50: 1.9
 plx: 0.3752
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#fdddc5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
-UTI_C_lit_desc: Rarely studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UFMG 46</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very metal-poor, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.67 kpc) differs significantly from the median photometric distance (~2.00 kpc).</p>
+    <b>UFMG 46</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
 badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
 badge_mass_url: ""
-badge_feh: "Very metal-poor"
-badge_feh_url: "feh_min=-2&feh_max=-1"
-badge_age: "Intermediate age"
-badge_age_url: "age_min=100&age_max=1000"
-badge_bss: ""
-badge_bss_url: ""
+badge_feh: "Metal-poor"
+badge_feh_url: "feh_min=-1&feh_max=-0.5"
+badge_age: "Old"
+badge_age_url: "age_min=1000&age_max=5000"
+badge_bss: "Contains BSS"
+badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
@@ -62,19 +62,21 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 274.558 | -25.065 | 0.374 | -1.77 | 0.511 | 46.305 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 274.563 | -25.093 | 0.372 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 274.558 | -25.065 | 0.374 | -1.77 | 0.511 | 46.305 |
+    |[Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 274.564 | -25.078 | 0.38 | -1.74 | 0.44 | -- |
     |[Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 274.57 | -25.068 | 0.35 | -1.718 | 0.526 | -- 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 274.56166,-25.07861
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 1.89 | 0.95 | 906 | -1.470 | 291 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.255 | 1.665 | 0.95 | 1143 | -0.742 | 291 | -- | 2.0 |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 291<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.65 | 2.71 | -- | 1380 | -1.470 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.52 | 1.41 | 0.95 | 906 | -- | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 2.00 | 1.89 | -- | 794 | -- | -- | -- | -- |
-N_rows_pars: "4"
+    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 2.51 | 1.10 | -- | 3981 | -0.013 | -- | -- | 2<sup>(1)</sup> |
+    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 2.00 | 1.92 | -- | 794 | -- | -- | -- | -- |
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
 

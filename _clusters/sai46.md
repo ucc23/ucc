@@ -71,14 +71,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.865 | 3.05 | -- | 1585 | -- | 96 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.865 | 3.075 | -- | 1585 | -- | 96 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 3.98 | 3.00 | -- | 1585 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1585 | -- | 96 | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.44 | 3.10 | -- | 1585 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.44 | 3.10 | -- | 1585 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.44 | 3.10 | -- | 1585 | -- | -- | -- | -- |
-    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 4.29 | 2.42 | -- | 2818 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.29 | 2.42 | -- | 2818 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 5.44 | 3.15 | -- | 1585 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.44 | 3.15 | -- | 1585 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.44 | 3.15 | -- | 1585 | -- | -- | -- | -- |
+    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 4.29 | 2.46 | -- | 2818 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.29 | 2.46 | -- | 2818 | -- | -- | -- | -- |
 N_rows_pars: "7"
 note_asterisk: false
 shared_table: |

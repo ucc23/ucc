@@ -72,7 +72,7 @@ fpars_table: |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.232<sup>(1)</sup> | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.10 | 1.01 | -- | 33 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.06 | 0.87 | 1.68 | 34 | -- | -- | -- | -- |
-    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.18 | 1.37 | -- | 17 | -- | -- | -- | -- |
+    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.18 | 1.44 | -- | 17 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: true
 shared_table: |

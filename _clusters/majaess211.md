@@ -66,8 +66,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.25 | 1.2 | -- | 167 | 0.017 | -- | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.25 | 1.20 | -- | 167 | 0.017 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.25 | 1.22 | -- | 167 | 0.017 | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.25 | 1.22 | -- | 167 | 0.017 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |

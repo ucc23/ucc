@@ -77,7 +77,7 @@ fpars_table: |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.45 | -- | -- | 37 | -- | 199 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.47 | 0.47 | -- | 14 | 0.090 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.45 | 0.18 | 0.75 | 37 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.62 | 0.81 | -- | 63 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.62 | 0.82 | -- | 63 | -- | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: false
 shared_table: |

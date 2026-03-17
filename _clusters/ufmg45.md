@@ -72,7 +72,7 @@ fpars_table: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.22 | 1.78 | -- | 282 | 0.150 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.72 | 1.92 | -- | 43 | -- | 0 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.72 | 1.92 | -- | 43 | 0.417 | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 1.58 | 1.55 | -- | 631 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 1.58 | 1.58 | -- | 631 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: false
 shared_table: |

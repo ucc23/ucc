@@ -74,7 +74,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1700<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.23 | 4.30 | -- | 83 | -1.530 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.22 | 4.27 | 2.34 | 96 | -- | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.51 | 3.97 | -- | 355 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.51 | 4.04 | -- | 355 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: true
 shared_table: |

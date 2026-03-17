@@ -13,17 +13,17 @@ glon: 149.73335
 glat: -0.21257
 r50: 3.7
 plx: 0.1458
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.43
 UTI_C_C3: 0.75
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Loose
@@ -91,8 +91,8 @@ fpars_table: |
     | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.00 | 0.00 | -- | 0 | 0.000 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 7.63 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 7.63 | -- | -- | -- | -- | -- | -- | -- |
-    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.34 | 0.87 | -- | 1995 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.34 | 0.87 | -- | 1995 | -- | -- | -- | -- |
+    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.34 | 0.88 | -- | 1995 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.34 | 0.88 | -- | 1995 | -- | -- | -- | -- |
 N_rows_pars: "13"
 note_asterisk: true
 shared_table: |

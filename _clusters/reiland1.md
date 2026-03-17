@@ -65,10 +65,10 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.85 | 1.58 | -- | 1000 | -- | 119 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.85 | 1.61 | -- | 1000 | -- | 119 | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 119 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.04<sup>(1)</sup> | 1.55 | -- | 1000 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.66 | 1.61 | -- | 1000 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.04<sup>(1)</sup> | 1.58 | -- | 1000 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.66 | 1.64 | -- | 1000 | -- | -- | -- | -- |
 N_rows_pars: "3"
 note_asterisk: true
 shared_table: |

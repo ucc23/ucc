@@ -13,17 +13,17 @@ glon: 243.99832
 glat: -1.13525
 r50: 3.2
 plx: 0.2653
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#fafce1"
 UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#f1f9d6"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.54
 UTI_C_dens: 0.94
 UTI_C_C3: 0.5
-UTI_C_lit: 0.6
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -83,11 +83,11 @@ fpars_table: |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.65 | 1.79 | -- | 302 | -0.960 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.23 | 1.69 | 1.91 | 190 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1820 | -- | 147 | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.89 | 0.78 | -- | 1259 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.84 | 1.29 | -- | 1820 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.84 | 1.29 | -- | 1820 | -- | -- | -- | -- |
-    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.98 | 1.77 | -- | 1000 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.98 | 1.77 | -- | 1000 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 2.89 | 0.80 | -- | 1259 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.84 | 1.31 | -- | 1820 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.84 | 1.31 | -- | 1820 | -- | -- | -- | -- |
+    | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 1.98 | 1.80 | -- | 1000 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.98 | 1.80 | -- | 1000 | -- | -- | -- | -- |
 N_rows_pars: "9"
 note_asterisk: true
 shared_table: |

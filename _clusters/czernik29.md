@@ -13,17 +13,17 @@ glon: 230.8101
 glat: 0.96089
 r50: 1.7
 plx: 0.2405
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fefbe2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#e9f5d0"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.47
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.65
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -77,7 +77,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.625 | 1.39 | 0.49 | 247 | -0.440 | 904 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.625 | 1.4 | 0.49 | 247 | -0.440 | 904 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 455<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.06 | 1.72 | -- | 288 | -0.440 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.57 | 1.32 | 0.49 | 243 | -- | -- | -- | -- |
@@ -85,17 +85,17 @@ fpars_table: |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.68 | 1.59 | -- | 126 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 3.80 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 3.80 | -- | -- | -- | -- | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.51 | 0.81 | -- | 617 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.51 | 0.82 | -- | 617 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1353 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.37<sup>(1)</sup> | 1.12 | -- | 251 | -- | -- | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.17 | 1.49 | -- | 200 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.00 | 1.46 | -- | 282 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.37<sup>(1)</sup> | 1.14 | -- | 251 | -- | -- | -- | -- |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.17 | 1.51 | -- | 200 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.00 | 1.48 | -- | 282 | -- | -- | -- | -- |
 N_rows_pars: "12"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.94 |
+    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.95 |
     |[HSC 1820](/_clusters/hsc1820/)| 4.3 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.1 |
 N_rows_shared: "2"
 ---

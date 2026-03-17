@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.31 | 1.15 | -- | 4 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.31 | 1.15 | -- | 4 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.31 | 1.17 | -- | 4 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.31 | 1.17 | -- | 4 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.71 |
+    |[Chamaleon I](/_clusters/chamaleoni/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.29 | 13.92 |0.72 |
     |[CWWDL 14679](/_clusters/cwwdl14679/)| 100.0 | 167.44 | -76.55 | 5.2 | -22.07 | -0.25 | 14.71 |0.0 |
     |[FoF 2435](/_clusters/fof2435/)| 100.0 | 167.16 | -77.2 | 5.25 | -22.53 | 0.28 | 13.92 |0.0 |
     |[OC 0578](/_clusters/oc0578/)| 87.5 | 167.51 | -76.51 | 5.19 | -21.83 | -0.52 | 12.25 |0.0 |

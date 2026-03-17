@@ -67,17 +67,17 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.31 | 2.01 | -- | 24 | 0.006 | 1134 | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.69 | 2.01 | -- | 21 | 0.006 | -- | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.08 | 2.16 | -- | 24 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.31 | 2.04 | -- | 24 | 0.006 | 1134 | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 1.69 | 2.04 | -- | 21 | 0.006 | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.08 | 2.20 | -- | 24 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1134 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.31<sup>(1)</sup> | 1.52 | -- | 562 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.31<sup>(1)</sup> | 1.55 | -- | 562 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.85 |
+    |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.84 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
     |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
     |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |

@@ -71,7 +71,7 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.9 | 0.2 | 0.79 | 112 | -0.979 | -- | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.90 | 0.55 | -- | 112 | 0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.86 | 0.20 | 0.79 | 358 | -- | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.62 | 0.12 | -- | 2 | -2.028 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.62 | 0.13 | -- | 2 | -2.028 | -- | -- | -- |
 N_rows_pars: "3"
 note_asterisk: false
 shared_table: |

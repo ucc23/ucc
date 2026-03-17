@@ -64,13 +64,13 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.74 | 1.42 | -- | 40 | -- | -- | -- | -- |
-    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.74 | 1.42 | -- | 40 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.74 | 1.5 | -- | 40 | -- | -- | -- | -- |
+    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.74 | 1.50 | -- | 40 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 26](/_clusters/gulliver26/)| 36.0 | 80.68 | 35.27 | 0.38 | 1.85 | -2.86 | 14.27 |0.68 |
+    |[Gulliver 26](/_clusters/gulliver26/)| 36.0 | 80.68 | 35.27 | 0.38 | 1.85 | -2.86 | 14.27 |0.69 |
 N_rows_shared: "1"
 ---

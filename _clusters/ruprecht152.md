@@ -73,13 +73,13 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.02 | 2.08 | 2.21 | 794 | -0.670 | 3835 | 0.32 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.02 | 2.11 | 2.21 | 794 | -0.670 | 3835 | 0.32 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 770<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 5.60 | 2.06 | -- | 891 | -0.810 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 8.83 | 2.03 | 2.21 | 218 | -- | -- | -- | -- |
-    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 10.05 | 2.57 | -- | 1047 | -0.530 | 6900 | 0.32 | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 6.55<sup>(1)</sup> | 3.01 | -- | 794 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 8.02 | 2.08 | -- | 603 | -- | -- | -- | -- |
+    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 10.05 | 2.62 | -- | 1047 | -0.530 | 6900 | 0.32 | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 6.55<sup>(1)</sup> | 3.06 | -- | 794 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 8.02 | 2.11 | -- | 603 | -- | -- | -- | -- |
 N_rows_pars: "6"
 note_asterisk: true
 shared_table: |

@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#ecf7d3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fcd6c2"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.63
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.25
+UTI_C_lit: 0.29
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -58,22 +58,24 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |59.832 | 47.394 | 0.606 | 0.612 | -2.986 | -14.207 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
+    |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 59.821 | 47.395 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 59.821 | 47.395 | 0.6 | 0.666 | -2.965 | -- |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 59.821 | 47.401 | 0.598 | 0.671 | -2.92 | -- 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 59.83186,+47.39436
 carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.6 | 1.95 | -- | 479 | -0.026 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 1.81 | -- | 479 | -0.026 | 332 | -- | 0.0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.52 | 1.95 | -- | 517 | -0.026 | -- | -- | -- |
+    | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 1.69 | 1.67 | -- | 479 | -- | 332 | -- | 0<sup>(1)</sup> |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.69 | 1.67 | -- | 479 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 1.61 | 2.50 | -- | 372 | -- | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.59 | -- | -- | -- | -- | -- | -- | -- |
-N_rows_pars: "4"
-note_asterisk: false
+N_rows_pars: "5"
+note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |

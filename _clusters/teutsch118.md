@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.87 |
+    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.86 |
 N_rows_shared: "1"
 ---

@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.4 | 0.5 | -- | -- | 0.274 | -- | 0.47 | -- |
-    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.40 | 0.50 | -- | -- | 0.274 | -- | 0.47 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.4 | 0.54 | -- | -- | 0.274 | -- | 0.47 | -- |
+    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.40 | 0.54 | -- | -- | 0.274 | -- | 0.47 | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.79 |
+    |[Teutsch 179](/_clusters/teutsch179/)| 73.5 | 276.5 | 26.43 | 2.88 | 0.53 | -5.37 | -19.11 |0.78 |
     |[CWWDL 14675](/_clusters/cwwdl14675/)| 19.4 | 276.61 | 26.44 | 2.88 | 0.59 | -5.34 | -20.14 |0.0 |
 N_rows_shared: "2"
 ---

@@ -74,7 +74,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 63<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.54 | 2.71 | -- | 7 | 0.660 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.42 | 2.97 | 1.09 | 6 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.99 | 1.98 | -- | 8 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.99 | 2.02 | -- | 8 | -- | -- | -- | -- |
 N_rows_pars: "4"
 note_asterisk: true
 shared_table: |
@@ -85,6 +85,6 @@ shared_table: |
     |[Cmg 109](/_clusters/cmg109/)| 12.0 | 85.25 | -8.97 | 2.22 | 0.48 | -1.0 | 16.48 |0.45 |
     |[IRAS05401-1002](/_clusters/iras054011002/)| 9.6 | 85.66 | -9.98 | 2.15 | 0.41 | -1.32 | -- |0.45 |
     |[IRAS05404-0946](/_clusters/iras054040946/)| 7.7 | 85.74 | -9.8 | 2.22 | 0.33 | -1.15 | -- |0.45 |
-    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.71 |
+    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.72 |
 N_rows_shared: "6"
 ---

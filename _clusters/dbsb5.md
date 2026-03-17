@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Mayer 3](/_clusters/mayer3/)| 81.2 | 112.52 | -18.55 | 0.23 | -1.88 | 2.36 | 219.52 |0.74 |
+    |[Mayer 3](/_clusters/mayer3/)| 81.2 | 112.52 | -18.55 | 0.23 | -1.88 | 2.36 | 219.52 |0.73 |
     |[S 305](/_clusters/s305/)| 78.8 | 112.51 | -18.55 | 0.23 | -1.89 | 2.36 | 219.52 |0.0 |
 N_rows_shared: "2"
 ---

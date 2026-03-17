@@ -76,15 +76,15 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.795 | 2.25 | 1.56 | 2325 | -0.100 | 7313 | 0.86 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.795 | 2.27 | 1.56 | 2325 | -0.100 | 7313 | 0.86 | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.330<sup>(5)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 626<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 10.23 | 1.91 | -- | 2138 | -0.100 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 6.76 | 2.30 | -- | 2512 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.65 | 2.47 | 1.56 | 1033 | -- | -- | -- | -- |
-    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 6.14 | 2.20 | -- | 6457 | 0.020 | 14000 | 0.86 | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 8.83 | 1.92 | -- | 2818 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.55 | 2.36 | -- | 1995 | -- | -- | -- | -- |
+    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 6.14 | 2.24 | -- | 6457 | 0.020 | 14000 | 0.86 | -- |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 8.83 | 1.96 | -- | 2818 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.55 | 2.40 | -- | 1995 | -- | -- | -- | -- |
 N_rows_pars: "8"
 note_asterisk: true
 shared_table: |

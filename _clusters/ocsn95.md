@@ -64,13 +64,13 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.5 | 0.71 | -- | 45 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.50 | 0.71 | -- | 45 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.5 | 0.73 | -- | 45 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.50 | 0.73 | -- | 45 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.33 |
+    |[Trumpler 24](/_clusters/trumpler24/)| 6.5 | 254.2 | -40.61 | 2.38 | -3.04 | -7.28 | -14.06 |0.34 |
 N_rows_shared: "1"
 ---

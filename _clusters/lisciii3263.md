@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.4 | 1.12 | -- | -- | -3.925 | -- | 0.37 | -- |
-    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.40 | 1.12 | -- | -- | -3.925 | -- | 0.37 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.4 | 1.22 | -- | -- | -3.925 | -- | 0.37 | -- |
+    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.40 | 1.22 | -- | -- | -3.925 | -- | 0.37 | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 115](/_clusters/ubc115/)| 95.3 | 293.93 | -3.65 | 1.68 | -0.46 | -5.03 | 3.58 |0.12 |
-    |[UPK 42](/_clusters/upk42/)| 89.3 | 293.93 | -3.65 | 1.69 | -0.45 | -5.02 | 3.98 |0.81 |
+    |[UPK 42](/_clusters/upk42/)| 89.3 | 293.93 | -3.65 | 1.69 | -0.45 | -5.02 | 3.98 |0.8 |
 N_rows_shared: "2"
 ---

@@ -73,15 +73,15 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.2 | 2.65 | -- | 1585 | -0.110 | 3664 | 0.52 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.2 | 2.69 | -- | 1585 | -0.110 | 3664 | 0.52 | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 8.71 | 2.90 | -- | 1259 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1585 | -- | 2128 | -- | -- |
-    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 9.20 | 2.91 | -- | 1380 | -0.110 | 5200 | 0.52 | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 7.33 | 2.65 | -- | 1585 | -- | -- | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 7.33 | 2.65 | -- | 1585 | -- | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 13.30<sup>(1)</sup> | 2.14 | -- | 1413 | -- | -- | -- | -- |
-    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 9.33 | 2.39 | -- | 1950 | -- | -- | -- | -- |
-    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.33 | 2.39 | -- | 1950 | -- | -- | -- | -- |
+    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 9.20 | 2.97 | -- | 1380 | -0.110 | 5200 | 0.52 | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 7.33 | 2.69 | -- | 1585 | -- | -- | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 7.33 | 2.69 | -- | 1585 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 13.30<sup>(1)</sup> | 2.18 | -- | 1413 | -- | -- | -- | -- |
+    | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 9.33 | 2.43 | -- | 1950 | -- | -- | -- | -- |
+    | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.33 | 2.43 | -- | 1950 | -- | -- | -- | -- |
 N_rows_pars: "8"
 note_asterisk: true
 shared_table: |

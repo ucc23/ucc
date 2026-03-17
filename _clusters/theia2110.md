@@ -77,7 +77,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.66 |
+    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.64 |
     |[CWWDL 13798](/_clusters/cwwdl13798/)| 44.1 | 113.86 | -18.6 | 0.41 | -1.74 | 2.41 | -- |0.09 |
     |[DBSB 8](/_clusters/dbsb8/)| 5.4 | 113.88 | -18.81 | 0.26 | -1.88 | 2.31 | -- |0.33 |
 N_rows_shared: "3"

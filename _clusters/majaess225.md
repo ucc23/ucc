@@ -72,12 +72,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.015 | 3.02 | 1.79 | 22 | 0.233 | 524 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.015 | 3.045 | 1.79 | 22 | 0.233 | 524 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 524<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.15 | 2.89 | -- | 39 | 0.450 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 2.88 | 3.35 | -- | 16 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.84 | 2.93 | 1.79 | 28 | -- | -- | -- | -- |
-    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.60 | 3.11 | -- | 11 | 0.016 | -- | -- | -- |
+    | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 3.60 | 3.16 | -- | 11 | 0.016 | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: true
 shared_table: |

@@ -70,7 +70,7 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.2 | 1.97 | -- | 263 | 0.057 | 209 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.20 | 1.97 | -- | 263 | -- | 209 | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.20 | 1.97 | -- | 263 | 0.057 | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 2.29 | 2.79 | -- | 45 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2020MNRAS.496.2021F) | 2020 | 2.29 | 2.84 | -- | 45 | -- | -- | -- | -- |
 N_rows_pars: "3"
 note_asterisk: false
 shared_table: |

@@ -47,6 +47,7 @@ badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.44/1.2 Msun</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= M67. This cluster has a number of well-known blue stragglers, a detailed spectral analysis of which can be found in (1991A&A...245..467M). The photometry listed in (1989RMxAA..17...31S) was used; it includes all the stars with a membership probability greater than 50% according to the proper motion study (1977A&AS...27...89S). The adopted cluster centre is star 1023 of (1977A&AS...27...89S). All the stars with probability greater than 80% are listed in our catalogue. Note that the WEBDA numbers are the often-quoted Fagerholm numbers (e.g.: star 1284 = F190). The following are the membership probabilities: star 145(94%), 277(93%), 740(87%), 751(96%), 752(95%), 821(89%), 856(90%), 968(95%), 975(90%), 977(93%), 984(95%), 997(93%), 1005(95%), 1031(91%), 1036(91%), 1066(90%), 1072(95%), 1082(99%), 1165 (93%), 1183(95%), 1195(96%), 1263(89%), 1267(93%), 1273(91%), 1280(93%), 1284(95%), 1434(91%), 1440(94%), 1947(86%), 2204 (83%). Most of these stars are also catalogued as stragglers by (1994AJ....108.1828M). A possible relation between the blue stragglers and the `clump' stars is discussed in (1981ApJ...247..503E). In the IR study (1984ApJ...279..237P) of the five bluest stragglers, two of them (1284 and 1434) are found to show infrared excesses that are interpreted as signs of the presence of evolved companions (i.e. they may be Algol-type binaries). In the case of 1284, the binary character has received support from the discovery of radial velocity variations, which have been interpreted (1992PASP..104.1268M) as manifestations of a binary of period 4.18 days and eccentricity 0.205. This star is a good example in support of the mass transfer theory to explain some stragglers (1992PASP..104.1268M). However, star 977 is above the magnitude limit that the same theory predicts, although its membership is under discussion (1991A&A...245..467M). Stars 1280 and 1284 are small-amplitude pulsating variables of Delta Sct type (1992AJ....103.1945G). In (1986AJ.....92.1364M) it is shown that the spatial distribution of the blue stragglers (strong central concentration) is similar to that of the cluster binaries;an evolutionary relation between the two populations is suggested (1986AJ.....92.1364M). Stars 997 (2004A&A...418..509V) and 1082 (1993A&A...269..175B) are X-ray sources; star 1082 is also a triple star, two components of which would be blue stragglers (2003AJ....125..810S). Several `red stragglers' are pointed out in (1989AJ.....97..431E), and in (1986AJ.....92.1364M) star F136 is associated with an evolutionary stage related to the blue strag- glers (it is a binary star).Through the determination of lithium abundances on some stragglers, a form of mixing affecting their external layers has been proposed (1981ApJ...247..503E). Star 984 would not be an unresolved pair,but a single, `genuine' blue straggler (2000AJ....120.1913S). These authors analyse high-resolution spectra of stragglers and main-sequence turnoff stars, and find that their metallicities and abundance ratios are not significantly different. Based on arguments from hydrodynamical models of stellar collisions, they claim that the upper limits for the lithium abundances of all blue stragglers are consistent with a formation process without mixing. In reference (1997ApJ...481L..93L) is made a detailed analysis of the spectroscopic binary and `red straggler' 1040 (ref. 352), and it is proposed that it originated as a short-period binary and evolved through a blue straggler phase to its present state. According to (1998AJ....116..789L), stars 975 and 1082 have hot subluminous companions; this is confirmed for star 1082 in (1999A&A...347..866V).</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
@@ -54,7 +55,7 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
+N_comments: "6"
 dens_val: 87.4
 N_50_val: 1650
 scix_url: Melotte%2094
@@ -63,8 +64,10 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |132.847 | 11.818 | 1.152 | -10.97 | -2.914 | 33.912 |
     |[Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 132.848 | 11.815 | -- | -- | -- | -- |
+    |[Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | 132.959 | 11.769 | -- | -- | -- | -- |
     |[Nizovkina et al.](https://scixplorer.org/abs/2025A%26A...703A.100N) | 2025 | 132.85 | 11.817 | -- | -- | -- | -- |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 132.846 | 11.814 | 1.135 | -10.986 | -2.964 | -- |
+    |[Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | 133.0 | 11.8 | 1.15 | -11.0 | -2.92 | 34.2 |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 132.839 | 11.827 | -- | -- | -- | -- |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 132.846 | 11.824 | 1.153 | -10.976 | -2.919 | -- |
     |[Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 133.07 | 11.731 | -- | -- | -- | -- |
@@ -80,6 +83,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 132.84 | 11.818 | -- | -- | -- | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 132.845 | 11.819 | 1.153 | -10.972 | -2.922 | -- |
     |[Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 132.855 | 11.813 | 1.15 | -10.969 | -2.919 | -- |
+    |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 132.846 | 11.814 | -- | -- | -- | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 132.843 | 11.818 | 1.162 | -10.962 | -2.955 | -- |
     |[Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 132.846 | 11.814 | 1.135 | -10.986 | -2.964 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 132.848 | 11.814 | 1.138 | -11.001 | -2.963 | 34.045 |
@@ -102,24 +106,27 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 132.849 | 11.807 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 132.82 | 11.8 | -- | 0.31 | -- | 32.3 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 132.849 | 11.807 | -- | -- | -- | -- |
+    |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 132.825 | 11.8 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 132.825 | 11.8 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 132.85 | 11.8 | -- | -8.31 | -4.81 | 32.3 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 132.87 | 11.84 | -- | -8.83 | -4.96 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 132.716 | 11.813 | -- | -6.47 | -6.27 | 33.6 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 132.825 | 11.8 | -- | -9.4 | -4.87 | 33.62 
-N_rows_pos: "45"
+N_rows_pos: "49"
 cds_radec: 132.84738,+11.81824
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.86 | 0.13 | 0.56 | 3548 | 0.011 | 1205 | 0.37 | 0.1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.86 | 0.13 | 0.56 | 3549 | 0.010 | 1327 | 0.37 | 9.0 |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.86 | 0.11 | -- | 3548 | 0.020 | -- | -- | -- |
+    | [Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | -- | 0.07 | -- | 4270 | 0.010<sup>(14)</sup> | -- | -- | -- |
     | [Nizovkina et al.](https://scixplorer.org/abs/2025A%26A...703A.100N) | 2025 | 0.83<sup>(4)</sup> | 0.12<sup>(4)</sup> | -- | 4188<sup>(4)</sup> | -0.041<sup>(4)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.85 | 0.13 | -- | 4130 | -0.018 | -- | -- | -- |
+    | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 4270 | 0.000 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.160<sup>(5)</sup> | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.78 | 0.00 | -- | 2050 | 0.250 | 1750 | 0.26 | -- |
-    | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 0.86 | 0.13 | -- | 3758 | 0.150 | -- | -- | 0.10<sup>(1)</sup> |
+    | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 0.86 | 0.13 | -- | 3758 | 0.150 | -- | -- | 9<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.86 | 0.13 | -- | 3758 | -- | 1327 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.89 | 0.07 | -- | 3590 | 0.073 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.013<sup>(1)</sup> | -- | -- | -- |
@@ -128,10 +135,12 @@ fpars_table: |
     | [Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 0.80 | 0.08 | -- | 5208 | -- | 7437 | 0.24 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.82 | 0.10 | 0.56 | 1687 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.84 | 0.16 | -- | 3784 | -0.045 | 1843<sup>(1)</sup> | 0.56 | -- |
-    | [Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 0.86 | 0.13 | -- | 3758 | 0.072 | 1083 | 0.48 | 0.03 |
+    | [Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 0.86 | 0.13 | -- | 3758 | 0.072 | 1083 | 0.48 | 6<sup>(1)</sup> |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 3428 | -- | 1675 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.10 | -- | 4467 | -- | -- | -- | -- |
+    | [Spina et al.](https://scixplorer.org/abs/2022Univ....8...87S) | 2022 | -- | -- | -- | -- | 0.010 | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.87 | -- | -- | 4169 | -- | -- | -- | -- |
+    | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 0.89 | 0.07 | -- | 4266 | -- | 2817 | -- | 6<sup>(1)</sup> |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.86<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2021A%26A...650A..67R) | 2021 | 0.86 | 0.09 | -- | 2818 | -- | -- | -- | 11 |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 0.86 | 0.13 | -- | 3758 | 0.072 | -- | -- | -- |
@@ -139,13 +148,13 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.89 | 0.07 | -- | 4266 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.84 | 0.28 | -- | 2399 | -- | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | 0.010 | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.88 | 0.11 | -- | 9561 | -0.038 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.88 | 0.12 | -- | 9561 | -0.038 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.86 | -- | -- | -- | -- | -- | -- | -- |
     | [Bossini et al.](https://scixplorer.org/abs/2019A%26A...623A.108B) | 2019 | 0.88 | 0.12 | -- | 3639 | 0.000 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.86 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.86 | -- | -- | -- | -- | -- | -- | -- |
     | [Angelo et al.](https://scixplorer.org/abs/2019A%26A...624A...8A) | 2019 | 0.85 | -- | -- | 3550 | -- | 772 | -- | -- |
-    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.91 | 0.18 | -- | 2564 | -- | -- | -- | -- |
+    | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 0.91 | 0.19 | -- | 2564 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.89 | 0.16 | -- | 3428 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.89 | 0.16 | -- | 3428 | -0.102 | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 760 | -- | -- |
@@ -153,22 +162,23 @@ fpars_table: |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.85<sup>(1)</sup> | 0.06 | -- | 3548 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.91 | 0.19 | -- | 2570 | -- | 279<sup>(1)</sup> | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 0.91 | 0.19 | -- | 2570 | -- | 83 | -- | -- |
+    | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.19 | -- | 2570 | -- | -- | -- | 30 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.91 | 0.19 | -- | 2570 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.91 | 0.19 | -- | 2570 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.91 | 0.19 | -- | -- | -- | -- | -- | -- |
-    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.91 | 0.18 | -- | 2560 | 0.000<sup>(1)</sup> | -- | -- | -- |
+    | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.91 | 0.19 | -- | 2560 | 0.000<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.81 | 0.09 | -- | 2818 | 0.030 | -- | -- | -- |
-N_rows_pars: "44"
+N_rows_pars: "49"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 60.4 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
-    |[Chupina 1](/_clusters/chupina1/)| 1.6 | 132.62 | 11.9 | 1.16 | -10.99 | -2.99 | 34.59 |0.49 |
+    |[Chupina 1](/_clusters/chupina1/)| 1.6 | 132.62 | 11.9 | 1.16 | -10.99 | -2.99 | 34.59 |0.51 |
     |[Chupina 2](/_clusters/chupina2/)| 1.5 | 132.64 | 12.26 | 1.14 | -11.01 | -2.96 | 33.83 |0.4 |
     |[Chupina 3](/_clusters/chupina3/)| 1.5 | 132.85 | 11.41 | 1.15 | -11.04 | -2.83 | 34.39 |0.45 |
     |[Chupina 4](/_clusters/chupina4/)| 1.5 | 133.01 | 12.34 | 1.15 | -10.93 | -2.95 | 33.99 |0.35 |
-    |[Chupina 5](/_clusters/chupina5/)| 1.5 | 133.19 | 11.87 | 1.15 | -10.96 | -2.87 | 34.33 |0.32 |
-    |[NGC 2678](/_clusters/ngc2678/)| 1.4 | 132.58 | 11.36 | 1.05 | -10.92 | -2.82 | 35.48 |0.28 |
+    |[Chupina 5](/_clusters/chupina5/)| 1.5 | 133.19 | 11.87 | 1.15 | -10.96 | -2.87 | 34.33 |0.43 |
+    |[NGC 2678](/_clusters/ngc2678/)| 1.4 | 132.58 | 11.36 | 1.05 | -10.92 | -2.82 | 35.48 |0.38 |
 N_rows_shared: "7"
 ---

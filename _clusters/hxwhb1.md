@@ -64,8 +64,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 0.84 | -- | 1202 | -- | -- | -- | -- |
-    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.65 | 0.84 | -- | 1202 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 0.89 | -- | 1202 | -- | -- | -- | -- |
+    | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 1.65 | 0.89 | -- | 1202 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |

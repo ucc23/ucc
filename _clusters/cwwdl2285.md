@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 321](/_clusters/ubc321/)| 92.9 | 251.89 | -44.54 | 0.39 | -1.59 | -3.14 | -19.86 |0.7 |
+    |[UBC 321](/_clusters/ubc321/)| 92.9 | 251.89 | -44.54 | 0.39 | -1.59 | -3.14 | -19.86 |0.71 |
 N_rows_shared: "1"
 ---

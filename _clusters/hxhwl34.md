@@ -71,12 +71,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.215 | 1.03 | 0.94 | 125 | 0.498 | 208 | 0.34 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.215 | 1.055 | 0.94 | 125 | 0.498 | 208 | 0.34 | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 2.51 | 1.23 | -- | 63 | 0.500 | 210 | 0.34 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 206<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.17 | 1.10 | -- | 155 | -0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.23 | 0.65 | 0.94 | 263 | -- | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.20 | 0.96 | -- | 95 | 0.498 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.20 | 1.01 | -- | 95 | 0.498 | -- | -- | -- |
 N_rows_pars: "5"
 note_asterisk: true
 shared_table: |

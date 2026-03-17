@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.38 | 2.63 | -- | 18 | -- | -- | -- | -- |
-    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.38 | 2.63 | -- | 18 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.38 | 2.68 | -- | 18 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.38 | 2.68 | -- | 18 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 113](/_clusters/vdb113/)| 81.0 | 272.17 | -21.45 | 0.66 | -0.73 | -1.4 | -35.75 |0.83 |
+    |[VDB 113](/_clusters/vdb113/)| 81.0 | 272.17 | -21.45 | 0.66 | -0.73 | -1.4 | -35.75 |0.82 |
     |[UBC 1005](/_clusters/ubc1005/)| 41.7 | 272.18 | -21.44 | 0.67 | -0.71 | -1.38 | -20.92 |0.0 |
 N_rows_shared: "2"
 ---

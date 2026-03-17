@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.19 | 0.31 | -- | 16 | -- | -- | -- | -- |
-    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.19 | 0.31 | -- | 16 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.19 | 0.32 | -- | 16 | -- | -- | -- | -- |
+    | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.19 | 0.32 | -- | 16 | -- | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 640](/_clusters/upk640/)| 100.0 | 250.2 | -39.53 | 5.68 | -11.94 | -21.35 | 0.54 |0.88 |
+    |[UPK 640](/_clusters/upk640/)| 100.0 | 250.2 | -39.53 | 5.68 | -11.94 | -21.35 | 0.54 |0.87 |
     |[FoF 2442](/_clusters/fof2442/)| 98.1 | 250.22 | -39.53 | 5.67 | -11.92 | -21.3 | 0.21 |0.0 |
     |[CWNU 1146](/_clusters/cwnu1146/)| 0.9 | 252.86 | -38.13 | 6.03 | -11.84 | -22.52 | -4.5 |0.0 |
 N_rows_shared: "3"

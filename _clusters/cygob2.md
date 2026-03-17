@@ -67,17 +67,17 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.5 | 4.03 | -- | 5 | -- | 14588 | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.50 | 4.03 | -- | 5 | -- | 25645<sup>(1)</sup> | -- | -- |
-    | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.50 | 4.03 | -- | 5 | -- | 3532 | -- | -- |
-    | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.50 | 4.03 | -- | 5 | -- | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.5 | 4.1 | -- | 5 | -- | 14588 | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.50 | 4.10 | -- | 5 | -- | 25645<sup>(1)</sup> | -- | -- |
+    | [Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 1.50 | 4.10 | -- | 5 | -- | 3532 | -- | -- |
+    | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.50 | 4.10 | -- | 5 | -- | -- | -- | -- |
 N_rows_pars: "3"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.78 |
-    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.86 |
+    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.77 |
+    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.85 |
     |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 4.8 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.23 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 4.3 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |
     |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.66 |
