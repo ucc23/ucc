@@ -375,6 +375,31 @@ Changed 'ADS 13292 Cluster' to 'ADS 13292'.
 
 
 
+## Ahumada & Lapasset 2007
+
+[New catalogue of blue stragglers in open clusters](https://scixplorer.org/abs/2007A%26A...463..789A/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/463/789) table lists 427 entries.
+
+Removed GC 'Berkeley 42'.
+
+Fixed declination in 'NGC 2302' (positive to negative)
+
+```
+Entries with coords far from those in the UCC (N=7)
+name                 d [arcmin]
+collinder69          539  
+ngc6405              183  
+blanco1              83   
+melotte111           77   
+melotte20            50   
+collinder132         30  
+```
+
+
+
+
+
 ## Kharchenko et al. 2007
 
 [Astrophysical supplements to the ASCC-2.5 Ia. Radial velocities of 55000 stars and mean radial velocities of 516 Galactic open clusters and associations](https://scixplorer.org/abs/2007AN....328..889K)
@@ -735,6 +760,16 @@ to 'Skiff 1')
 [The astrophysical behavior of open clusters along the Milky Way Galaxy](https://scixplorer.org/abs/2014JAsGe...3...88T)
 
 Data taken from Table 1. Added RA, DEC columns.
+
+
+
+
+## Perren et al. 2015
+
+[ASteCA: Automated Stellar Cluster Analysis](https://scixplorer.org/abs/2015A%26A...576A...6P/abstract)
+
+Data table from my PDF.
+
 
 
 
@@ -1239,8 +1274,9 @@ entries are thus removed.
 Removed GCs: BH 140, FSR 1716, FSR 1758
 Removed 'Harvard 5' (duplicate of Collinder 258)
 
-The final number of entries in the table is 1904.
+Removed "UBC_60" after marking it a duplicate of 'Coin-Gaia 11'
 
+The final number of entries in the table is 1903.
 
 
 
@@ -1344,6 +1380,16 @@ Added `(RA_ICRS,DE_ICRS)` columns.
 Gaia DR2 data](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/646/A104) table lists 41 'PHOC_' clusters.
+
+
+
+## Jadhav et al. 2021
+
+[Blue straggler stars in open clusters using Gaia: dependence on cluster parameters and possible formation pathways](https://scixplorer.org/abs/2021MNRAS.507.1699J/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/MNRAS/507/1699/tablea1) table contains 670 clusters. Added VDBH to BH entries.
+
+
 
 
 
@@ -1534,6 +1580,23 @@ Re-assessing fundamental parameters with Gaia EDR3 and ASteCA](https://ui.adsabs
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/663/A131) table lists 25 clusters.
 
 
+
+
+## Spina et al. 2022
+
+[Mapping the Galactic Metallicity Gradient with Open Clusters: The State-of-the-Art and Future Challenges](https://scixplorer.org/abs/2022Univ....8...87S/abstract)
+
+Data table not available at CDS, requested to Dr Spina. The table contains no (ra, dec)
+information.
+
+Removed 'Carina' entry (not present in the UCC and has no coordinates)
+
+Added 'Chamaleon_I' to 'Chamaeleon_I'
+
+
+
+
+
 ## Tarricq et al. 2022
 
 [Structural parameters of 389 local open clusters](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..59T/abstract)
@@ -1573,6 +1636,10 @@ Two OCs, data taken from the article.
 
 The table in the article (IOP) lists 46 clusters with no acronym, 'CWWL_' was added to
 match HUNT23.
+
+Added 1 day to the 'received' entry in the JSON file to avoid a duplicate date with the
+article by Li et al. 2023 (1).
+
 
 
 
@@ -1676,6 +1743,8 @@ Fixes:
 
 
 
+
+
 ## Just et al. 2023
 
 [Global survey of star clusters in the Milky Way. VII. Tidal parameters and mass function](https://scixplorer.org/abs/2023A%26A...672A.187J)
@@ -1708,11 +1777,27 @@ distance moduli. These appear to either be MC clusters or not real clusters
 at all. HUNT23 recovers 0% of these clusters.
 
 
+
+## Li et al. 2023
+
+[The new detection of blue straggler stars in 50 open clusters using Gaia DR3](https://scixplorer.org/abs/2023A%26A...672A..81L/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2023A%26A...672A..81L) table contains 50 clusters. Added VDBH to BH entries.
+
+Added 'HXHWL_40' to 'HE_40'.
+Added 'FoF' to 'LP' entries.
+
+
+
+
+
 ## Piatti et al 2023
 
 Extracted data from PDF.
 
 - XDOCC-0Y --> XDOCC-Y
+
+
 
 
 ## Qin et al. 2023
@@ -1965,6 +2050,29 @@ Removed duplicated:
 
 
 
+
+## Bijavara et al. 2025
+
+[Stellar population astrophysics (SPA) with the TNG: 23 IR elemental abundances of 114 giant stars in 41 open clusters](https://scixplorer.org/abs/2025A%26A...704A.220B/abstract)
+
+Combined [Vizier tables](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/704/A220) 1, 8, 9, & 10.
+
+Added 'FoF 1800' to 'LP 1800'.
+
+This database marks the following entries as duplicates, which we adopt:
+
+-'UBC 60' (CASTRO2019) duplicate of 'Coin-Gaia 11'
+-'UBC 131' (CASTRO2020) duplicate of 'UPK 84'
+-'UBC 170' (CASTRO2020) duplicate of 'FoF 1800'
+
+Modified the Castro-Ginard databases accordingly.
+Also removed 'UBC 60' from KOUNKEL2020
+
+
+
+
+
+
 ## Carrasco-Varela et al. 2025
 
 [Beyond the main sequence Binary evolution pathways to blue stragglers in the Gaia era I. Galactic open and globular clusters](https://scixplorer.org/abs/2025A%26A...699A.142C)
@@ -1991,6 +2099,40 @@ Added the 'CKCWDM' prefix to the cluster names that were just numbers.
 
 
 
+## Cui et al 2025
+
+[Census of Blue Straggler Stars in Distant Open Clusters and Maximum Fractional Mass Excess of Open Cluster Blue Straggler Stars](https://scixplorer.org/abs/2025AJ....169..219C/abstract)
+
+Data extracted from PDF. Added (ra, dec) columns from (glon, glat)
+
+Selected 'N_TypeII' as the primary source of BSS information because it is described
+in the article as the most likely group of BSSs:
+
+we categorize the BSS into two distinct groups. The first group,
+denoted as P_BSS, includes stars that are situated within 0.25 mag
+bluer than the MSTO and no more than 0.752 mag fainter than
+SBGB. This definition aims to reduce contamination from the
+binary sequence. In contrast, R_BSS comprises stars that exceed
+these brightness and color thresholds, specifically remaining no
+more than 1 mag bluer than the MSTO and no more than 5 mag
+brighter than it (Colored boxes in Figure 3(c)). Further
+classification was performed based on follow criteria:
+
+1. Type I. Stars classified as R_BSS and core member.
+2. Type II. All other R_BSS or P_BSS stars not satisfying the Type I criteria.
+
+
+
+
+## Guerco et a. 2025
+
+[Open cluster members in APOGEE DR17: I. Dynamics and star members](https://scixplorer.org/abs/2025A%26A...701A.100G/abstract)
+
+The Vizier table does not contain parameters data, it was requested to Dr Guerco.
+
+
+
+
 ## Hu & Soubiran 2025
 
 [Metallicities of old open clusters: A new Galactic map](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.246H)
@@ -2002,6 +2144,7 @@ Renamed:
 
 
 
+
 ## Nizovkina et al. 2025
 
 [Refining open cluster parameters with Gaia XP metallicities](https://scixplorer.org/abs/2025A%26A...703A.100N)
@@ -2010,6 +2153,8 @@ Renamed:
 [Fe/H] values).
 
 Combined so that only one row per OC remained. Final table contains 20 entries.
+
+
 
 
 ## Palma et al. 2025

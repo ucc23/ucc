@@ -245,18 +245,8 @@ Ages are given in [Myr]. When ages are provided in [log(age/yr)], we apply:
 
 #### Absorption / Extinction
 
-The **UCC** lists `Av` absorption. To transform `E(B-V)` we use the standard value:
-
-    Av = 3.1 * E(B-V)
-
-In cases where `Ag` is present, it is always assumed to be Gaia's G band. The
-transformation coefficient to `Av`  is:
-
-    Av = 1.2 * Ag
-
-Conversion from `E(V-I)` assumes Cousin's I band and is expressed as:
-
-    Av = 2.5 * E(V-I)
+The **UCC** lists `Av` absorption. Transform coefficients are taken from 
+[Wang & Chen (2019)](https://iopscience.iop.org/article/10.3847/1538-4357/ab1c61), Table 3.
 
 All approximate coefficients can be estimated for example using the
 [dust_extinction](https://github.com/karllark/dust_extinction) package.
