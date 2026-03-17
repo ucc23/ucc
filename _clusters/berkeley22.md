@@ -46,10 +46,10 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.55.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area is (B-V)=1.06. In (1994A&AS..108..151K) it is remarked that most of the straggler candidates are near the cluster centre; however, if the apparent diameter given in (1987, Lund Catalogue of Open Cluster Data), which is the one listed in Table 1, is taken as correct, the stragglers do not appear so central. It is possible that this diameter is still too small.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.55.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area is (B-V)=1.06. In (1994A&AS..108..151K) it is remarked that most of the straggler candidates are near the cluster centre; however, if the apparent diameter given in (1987, Lund Catalogue of Open Cluster Data), which is the one listed in Table 1, is taken as correct, the stragglers do not appear so central. It is possible that this diameter is still too small.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

@@ -46,12 +46,12 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 37.7, 0 WD candidates found, and 0 WD candidates found in the wide search.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P261, along with Alessi-Teutsch_9.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only the photoelectric data of (1961PUSNO..17..343H) were examined. References (1985ApJ...294L.103A) and (1982A&A...109...37M) cite star 2=HD 21728 as a blue straggler. In (1985ApJ...294L.103A) this star is given a spectrum A0II-IIIp(Si(st),Mg(wk)) and a projected velocity v.sin i<40km/s. Star 4=HD 275501 has a spectrum G8II according to (2000AJ....120..333S). Both stars have a membership probability of 99% (ref. 148).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.40 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 37.7, 0 WD candidates found, and 0 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only the photoelectric data of (1961PUSNO..17..343H) were examined. References (1985ApJ...294L.103A) and (1982A&A...109...37M) cite star 2=HD 21728 as a blue straggler. In (1985ApJ...294L.103A) this star is given a spectrum A0II-IIIp(Si(st),Mg(wk)) and a projected velocity v.sin i<40km/s. Star 4=HD 275501 has a spectrum G8II according to (2000AJ....120..333S). Both stars have a membership probability of 99% (ref. 148).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

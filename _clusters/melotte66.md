@@ -46,12 +46,12 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the straggler area is (V-I)=0.76. In (1964ApJS....8..352L) it is suggested that a spread in the metal abundances may account for the observed dispersion around the turnoff in the colour- magnitude diagram. In that case, several stars that appear as blue stragglers would not be such.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: intermediate fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.50 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>BSSs appear in two distinct, parallel sequences, both well aligned with binary evolution tracks of different donor masses. This resembles double BSS sequences seen in other clusters. Existing evidence suggests mass transfer may contribute to both sequences, but the detailed origin remains uncertain.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the straggler area is (V-I)=0.76. In (1964ApJS....8..352L) it is suggested that a spread in the metal abundances may account for the observed dispersion around the turnoff in the colour- magnitude diagram. In that case, several stars that appear as blue stragglers would not be such.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

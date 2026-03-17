@@ -71,7 +71,7 @@ posit_table: |
     |[Castro-Ginard et al.](https://scixplorer.org/abs/2019A%26A...627A..35C) | 2019 | 95.467 | 22.411 | 0.354 | 1.092 | -2.619 | -- 
 N_rows_pos: "11"
 cds_radec: 95.45954,+22.41742
-carousel: UCC_CANTAT20
+carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

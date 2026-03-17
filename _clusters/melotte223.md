@@ -46,12 +46,12 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The apparent cluster diameter is from (1970PDDO....4....1H). Several stragglers are pointed out in (1974A&AS...13..143A). Membership probabilities from (1972A&A....19..155S): star 32, 88%; star 35, 90%; star 36, 92%; star 40, 81%; star 55, 66%; star 59, 86%; star 65, 89%; star 70, 92%; star 96, 49%; star 103, 57%; star 118, 77%; star 6044, 33%. Attention is drawn in (1998AJ....115.1516R) on several clump stars that appear to be more massive than the turnoff stars: it is suggested that they are the descendants of blue stragglers.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>The BSS population splits into two luminosity groups. Brighter BSSs are reproduced by binary evolution with higher-mass donors, while fainter ones follow lower-mass donor tracks. Overall agreement between models and observations is excellent, with some BSSs nearing MS turnoff.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The apparent cluster diameter is from (1970PDDO....4....1H). Several stragglers are pointed out in (1974A&AS...13..143A). Membership probabilities from (1972A&A....19..155S): star 32, 88%; star 35, 90%; star 36, 92%; star 40, 81%; star 55, 66%; star 59, 86%; star 65, 89%; star 70, 92%; star 96, 49%; star 103, 57%; star 118, 77%; star 6044, 33%. Attention is drawn in (1998AJ....115.1516R) on several clump stars that appear to be more massive than the turnoff stars: it is suggested that they are the descendants of blue stragglers.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

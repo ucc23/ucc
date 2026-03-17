@@ -46,11 +46,11 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.00. Best fit with log(t)=9.25, Av=1.3 and solar metallicity. This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The apparent cluster diameter was taken from (1970PDDO....4....1H). Only stars inside a radius of 3' were considered. Some membership probabilities from (1997AN....318..253K): star 3, 73%, star 14, 32%, star 25, 43%, star 414, 86%. Star 117 (=3347) has a 6% and star 228 (=3142) is not a cluster member (1997AN....318..253K).</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>Several BSS candidates lie blueward of the ZAMS, possibly due to misclassification or photometric errors. Excluding these, the remaining BSSs and the YSS are well matched by binary evolutionary tracks.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.00. Best fit with log(t)=9.25, Av=1.3 and solar metallicity. This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The apparent cluster diameter was taken from (1970PDDO....4....1H). Only stars inside a radius of 3' were considered. Some membership probabilities from (1997AN....318..253K): star 3, 73%, star 14, 32%, star 25, 43%, star 414, 86%. Star 117 (=3347) has a 6% and star 228 (=3142) is not a cluster member (1997AN....318..253K).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

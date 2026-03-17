@@ -46,10 +46,10 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Membership probabilities from (1985ChA&A...9..300Z): star 7, 98%; star 13, 97%; star 87, 86%; star 94, 99%. Stars 7 and 13 (2002AJ....124.2093R), and 59 and 349 (WEBDA) are cited as straggler candidates in (1969MNRAS.144..449C) and (1994AJ....108.1828M). Star 59 is also cited as a blue straggler in (1988PASP..100..338G), although is probably a non-member.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Membership probabilities from (1985ChA&A...9..300Z): star 7, 98%; star 13, 97%; star 87, 86%; star 94, 99%. Stars 7 and 13 (2002AJ....124.2093R), and 59 and 349 (WEBDA) are cited as straggler candidates in (1969MNRAS.144..449C) and (1994AJ....108.1828M). Star 59 is also cited as a blue straggler in (1988PASP..100..338G), although is probably a non-member.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

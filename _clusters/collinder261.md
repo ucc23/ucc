@@ -46,12 +46,12 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>There are several stragglers candidates with a radius larger than the apparent radius of the cluster (r=9.0 arcmin (Dias et al., 2002A&A...389..871D, Cat. B/ocl). This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area above the turnoff is (B-V)=0.86. In (1995MNRAS.273...59M) 10 short-period eclipsing variables are found among the 178 straggler candidates identified by the authors from their VI CCD photometry. Among our candidates, the variables are: star 772 (EW), star 1030 (EA/EB), star 1327 (EW), star 2287 (EB/EW), star 2290 (EA/EB).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.81 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>The cluster hosts a rich BSS population forming a nearly continuous sequence overlapping the ZAMS and binary tracks. A few objects lie below the turnoff and may be sub-subdwarfs or misidentifications. One bright candidate resembles a YSS but does not meet standard CMD criteria.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>There are several stragglers candidates with a radius larger than the apparent radius of the cluster (r=9.0 arcmin (Dias et al., 2002A&A...389..871D, Cat. B/ocl). This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area above the turnoff is (B-V)=0.86. In (1995MNRAS.273...59M) 10 short-period eclipsing variables are found among the 178 straggler candidates identified by the authors from their VI CCD photometry. Among our candidates, the variables are: star 772 (EW), star 1030 (EA/EB), star 1327 (EW), star 2287 (EB/EW), star 2290 (EA/EB).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

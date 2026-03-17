@@ -48,10 +48,10 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.12/2.17 Msun</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair (not dynamically associated) P130, along with HSC_1537.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= Coma cluster. Adopted cluster centre: star 91 in (1938LicOB..18..167T). Star 146 = 17 Comae = HD 108662 = AI Comae is a cluster member (1938LicOB..18..167T) and an Alpha Canum Venaticorum variable (1982A&A...109...37M). It is cited as a blue straggler by (1985ApJ...294L.103A), (1977IBVS.1293....1H), and (1982A&A...109...37M). Reference (1985ApJ...294L.103A) gives this star a projected velocity v.sin i=15km/s and a spectrum A0Vp(Sr,Cr,Si,Eu).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= Coma cluster. Adopted cluster centre: star 91 in (1938LicOB..18..167T). Star 146 = 17 Comae = HD 108662 = AI Comae is a cluster member (1938LicOB..18..167T) and an Alpha Canum Venaticorum variable (1982A&A...109...37M). It is cited as a blue straggler by (1985ApJ...294L.103A), (1977IBVS.1293....1H), and (1982A&A...109...37M). Reference (1985ApJ...294L.103A) gives this star a projected velocity v.sin i=15km/s and a spectrum A0Vp(Sr,Cr,Si,Eu).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

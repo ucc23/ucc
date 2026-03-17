@@ -46,10 +46,10 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.31. There are several stragglers candidates with a radius larger than the apparent radius of the cluster (r=12 arcmin (Dias et al., 2002A&A...389..871D, Cat. B/ocl).  Apparently, stars DR2 208498367050003072, DR2 208543824983422848, DR2 208563959789949568 are massive stragglers. This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only straggler candidates inside a radius of 3' around the centre of coordinates have been considered. The red limit of the blue straggler area is (B-V)=0.88.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.20 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.31. There are several stragglers candidates with a radius larger than the apparent radius of the cluster (r=12 arcmin (Dias et al., 2002A&A...389..871D, Cat. B/ocl).  Apparently, stars DR2 208498367050003072, DR2 208543824983422848, DR2 208563959789949568 are massive stragglers. This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only straggler candidates inside a radius of 3' around the centre of coordinates have been considered. The red limit of the blue straggler area is (B-V)=0.88.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>

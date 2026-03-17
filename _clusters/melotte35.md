@@ -46,10 +46,10 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The diagrams in (1961PUSNO..17..343H), (1964AnWie..26...37P), and (1999AJ....117..937S) were examined. Stars G and 4 have spectra B9V and B3V (1965ApJS...12..215H). Star B is HD 281143. Stars 10, 51, 116, and 132 (WEBDA numbers) appear as stragglers in some diagrams, but as main-sequence stars in others.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The diagrams in (1961PUSNO..17..343H), (1964AnWie..26...37P), and (1999AJ....117..937S) were examined. Stars G and 4 have spectra B9V and B3V (1965ApJS...12..215H). Star B is HD 281143. Stars 10, 51, 116, and 132 (WEBDA numbers) appear as stragglers in some diagrams, but as main-sequence stars in others.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>

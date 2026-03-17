@@ -47,12 +47,12 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 267 along with Platais_8.</p>
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite star Gaia DR2 5239828735008608896=HD 93030=Theta Carinae as a genuine blue straggler, which, however, does not appear in Gaia DR2.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G207, along with IC_2391, Platais_8 and HSC_2231.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Star 18=Theta Carinae=HD 93030 is a well known blue straggler. In (1969AJ.....74.1011H) this star is given the following: v=2.78, (b-y)=-0.094, m1=0.063, c1=-0.078, beta=2.603, spectrum: B0Vp. Reference (1982A&A...109...37M) gives it a projected velocity v.sin i=195km/s. Theta Car is a spectroscopic binary of period 1.77 days and eccentricity 0.446 (1979PASP...91..442W), thought to be the result of a mass transfer event in a close binary: an account of this interpretation can be found in (1988AJ.....96..635E).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite star Gaia DR2 5239828735008608896=HD 93030=Theta Carinae as a genuine blue straggler, which, however, does not appear in Gaia DR2.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Star 18=Theta Carinae=HD 93030 is a well known blue straggler. In (1969AJ.....74.1011H) this star is given the following: v=2.78, (b-y)=-0.094, m1=0.063, c1=-0.078, beta=2.603, spectrum: B0Vp. Reference (1982A&A...109...37M) gives it a projected velocity v.sin i=195km/s. Theta Car is a spectroscopic binary of period 1.77 days and eccentricity 0.446 (1979PASP...91..442W), thought to be the result of a mass transfer event in a close binary: an account of this interpretation can be found in (1988AJ.....96..635E).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

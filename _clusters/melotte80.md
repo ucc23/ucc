@@ -46,11 +46,11 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The following membership probabilities are from (1981ApJ...243..827C): star 441, 42%, star 447, 94%, star 462, 71%, star 467, 91%, star 510, 88%, star 571, 42%, star 691, 88%, star 769, 91%. Star 589 (1997MNRAS.291..763M) = 3129 (WEBDA), which also appears as a straggler, is a non-member according to (1981ApJ...243..827C).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>Except for one BSS near the ZAMS, all candidates follow binary evolution tracks over a broad luminosity range. The BSS population is small, and no YSSs are detected.</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The following membership probabilities are from (1981ApJ...243..827C): star 441, 42%, star 447, 94%, star 462, 71%, star 467, 91%, star 510, 88%, star 571, 42%, star 691, 88%, star 769, 91%. Star 589 (1997MNRAS.291..763M) = 3129 (WEBDA), which also appears as a straggler, is a non-member according to (1981ApJ...243..827C).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

@@ -46,10 +46,10 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The colour-magnitude diagram in (1980AJ.....85..432S) was examined. It displays stars with p>=90% according to the proper motion study (1977A&AS...27..117M). Star 1095 is given in (1977A&AS...27..117M) a membership probability of 61%. Adopted cluster centre: star 1066 (ref. 277). The apparent diameter is from (1980AJ.....85..432S). References (1985ApJ...294L.103A) and (1982A&A...109...37M) cite star 1095 as a blue straggler; in (1985ApJ...294L.103A) this star is given a spectrum B3p.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The colour-magnitude diagram in (1980AJ.....85..432S) was examined. It displays stars with p>=90% according to the proper motion study (1977A&AS...27..117M). Star 1095 is given in (1977A&AS...27..117M) a membership probability of 61%. Adopted cluster centre: star 1066 (ref. 277). The apparent diameter is from (1980AJ.....85..432S). References (1985ApJ...294L.103A) and (1982A&A...109...37M) cite star 1095 as a blue straggler; in (1985ApJ...294L.103A) this star is given a spectrum B3p.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

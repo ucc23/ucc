@@ -46,13 +46,13 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P434, along with HSC_1555.</p>
+    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 27.8, 11 WD candidates found, and 0 WD candidates found in the wide search.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however,  parameters log(t)=8.87, Av=0.084, [Fe/H]=+0.070 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108). Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite star DR2 661322060465742336 =HD 73666=40 Cancri as a blue straggler, the same star is include in our catalogue.</p>
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P434, along with HSC_1555.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= Praesepe. References (1985ApJ...294L.103A) and (1982A&A...109...37M) cite star 265 = HD 73666 = 40 Cancri as a blue straggler. Star 265 is a Si star (spectrum A1IIIp(Si)s) according to (1986PASP...98..307A), but this is not confirmed by (1998A&A...334..139A). Star 300=HD 73731=Epsilon Cnc has an spectrum Am(K/H/M= A5/A6/F0) (1986PASP...98..307A), and is a binary (1999ApJ...521..682A). Both stars are cluster members (1927PGro...41....1K). A spectroscopic study of the four straggler candidates listed in (1995A&AS..109..375A) is presented in (1998A&A...334..139A): besides star 265, the other three stars are not included in the present catalogue, since they rather seem located on the `blue hook.'  According to (1998A&A...334..139A), stars 224 = HD 73618 and 265 are Am, star 348 = HD 73819 is Ba-deficient, and star 50 = HD 73210 es metal-deficient. Internal mixing does not seem to be here a plausible mechanism to explain the stragglers (1998A&A...334..139A).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
-    <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
-    <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

@@ -47,10 +47,10 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G59, along with CWNU_277, HSC_2552, CWNU_2692, Ruprecht_105 and CWNU_2664.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= Kappa Crucis cluster. The colour-magnitude diagram with probable members in (1984A&AS...58..411D) was examined. The apparent cluster diameter is from (1970PDDO....4....1H). Star F = CPD-59 4564 = BW Crucis has a spectrum B2III (1970ApJ...161..855S), a membership probability of 92% (1981, Sydney Obs.Pap., No.89), and is a beta Cephei variable (1978AJ.....83.1179J).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>= Kappa Crucis cluster. The colour-magnitude diagram with probable members in (1984A&AS...58..411D) was examined. The apparent cluster diameter is from (1970PDDO....4....1H). Star F = CPD-59 4564 = BW Crucis has a spectrum B2III (1970ApJ...161..855S), a membership probability of 92% (1981, Sydney Obs.Pap., No.89), and is a beta Cephei variable (1978AJ.....83.1179J).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>

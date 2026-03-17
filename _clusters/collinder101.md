@@ -47,10 +47,10 @@ badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P269, along with Basel_8.</p>
-    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Stars 1=HD 259954, 4 (pg)=HD 259989, and 4 (pe)=HD 260022 are cited as blue stragglers in (1985ApJ...294L.103A) and (1982A&A...109...37M). Reference (1985ApJ...294L.103A) gives: star 1 (sp. B2IV, v.sin i<40km/s); star 34 (sp. B9.5V, v.sin i= 200km/s (approx)); star 4 (sp. A0p(Si)).</p>
-    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Stars 1=HD 259954, 4 (pg)=HD 259989, and 4 (pe)=HD 260022 are cited as blue stragglers in (1985ApJ...294L.103A) and (1982A&A...109...37M). Reference (1985ApJ...294L.103A) gives: star 1 (sp. B2IV, v.sin i<40km/s); star 34 (sp. B9.5V, v.sin i= 200km/s (approx)); star 4 (sp. A0p(Si)).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
