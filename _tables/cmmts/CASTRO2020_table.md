@@ -12,6 +12,7 @@ style: style
 
 | Name | Comment |
 | --- | :-: |
+| <a href="{{ site.baseurl }}/_clusters/fof1800/" target="_blank" style="color: $blue;">FoF 1800</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc109/" target="_blank" style="color: $blue;">UBC 109</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc111/" target="_blank" style="color: $blue;">UBC 111</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc112/" target="_blank" style="color: $blue;">UBC 112</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
@@ -20,12 +21,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc117/" target="_blank" style="color: $blue;">UBC 117</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc127/" target="_blank" style="color: $blue;">UBC 127</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc128/" target="_blank" style="color: $blue;">UBC 128</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
-| <a href="{{ site.baseurl }}/_clusters/ubc131/" target="_blank" style="color: $blue;">UBC 131</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc140/" target="_blank" style="color: $blue;">UBC 140</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc144/" target="_blank" style="color: $blue;">UBC 144</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc145/" target="_blank" style="color: $blue;">UBC 145</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc161/" target="_blank" style="color: $blue;">UBC 161</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
-| <a href="{{ site.baseurl }}/_clusters/ubc170/" target="_blank" style="color: $blue;">UBC 170</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc171/" target="_blank" style="color: $blue;">UBC 171</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc195/" target="_blank" style="color: $blue;">UBC 195</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc209/" target="_blank" style="color: $blue;">UBC 209</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
@@ -67,6 +66,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc635/" target="_blank" style="color: $blue;">UBC 635</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc98/" target="_blank" style="color: $blue;">UBC 98</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 | <a href="{{ site.baseurl }}/_clusters/ubc99/" target="_blank" style="color: $blue;">UBC 99</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
+| <a href="{{ site.baseurl }}/_clusters/upk84/" target="_blank" style="color: $blue;">UPK 84</a> | Coincidence with Sim et al. (2019, J. Korean Astron. Soc., 52, 145) or Liu & Pang (2019ApJS..245...32L), see Sect. 4.1.5. |
 
 
 <script type="module">

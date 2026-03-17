@@ -1,0 +1,78 @@
+---
+layout: page
+title:  
+permalink: /tables/dbs/CUI2025_table/
+style: style
+---
+
+&nbsp;
+# [Cui et al. (2025)](https://scixplorer.org/abs/2025AJ....169..219C)
+
+This database consists of 53 entries, of which 19% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 19% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+
+
+
+| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.48 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2946/" target="_blank" style="color: $blue;">CWNU 2946</a> | 161.96 | -55.87 | 286.16 | 2.92 | 0.09 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5 | 0.21 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2961/" target="_blank" style="color: $blue;">CWNU 2961</a> | 137.23 | -53.25 | 273.27 | -3.71 | 0.14 | 107 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.47 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2974/" target="_blank" style="color: $blue;">CWNU 2974</a> | 122.8 | -46.54 | 262.28 | -7.02 | 0.12 | 118 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.4 | 0.3 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2987/" target="_blank" style="color: $blue;">CWNU 2987</a> | 113.05 | -11.82 | 228.1 | 3.47 | 0.16 | 41 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3008/" target="_blank" style="color: $blue;">CWNU 3008</a> | 348.58 | 65.69 | 113.15 | 4.68 | 0.09 | 68 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.35 | 0.19 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3009/" target="_blank" style="color: red;">CWNU 3009</a> | 15.15 | 57.97 | 124.15 | -4.88 | 0.15 | 31 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.19 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3048/" target="_blank" style="color: $blue;">CWNU 3048</a> | 74.1 | 50.29 | 157.11 | 4.43 | 0.23 | 104 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.4 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3064/" target="_blank" style="color: $blue;">CWNU 3064</a> | 67.54 | 56.75 | 149.65 | 5.7 | 0.2 | 29 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.27 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3067/" target="_blank" style="color: $blue;">CWNU 3067</a> | 71.69 | 60.88 | 147.95 | 10.03 | 0.23 | 71 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.97 | 0.01 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3085/" target="_blank" style="color: red;">CWNU 3085</a> | 170.88 | -60.53 | 292.32 | 0.52 | 0.13 | 34 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.18 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3096/" target="_blank" style="color: $blue;">CWNU 3096</a> | 101.66 | -2.1 | 214.25 | -2.03 | 0.21 | 52 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.92 | 0.03 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3102/" target="_blank" style="color: $blue;">CWNU 3102</a> | 358.59 | 51.9 | 114.05 | -9.98 | 0.18 | 29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.41 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3109/" target="_blank" style="color: $blue;">CWNU 3109</a> | 104.02 | -13.25 | 225.28 | -4.99 | 0.16 | 67 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.04 | 0.44 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3114/" target="_blank" style="color: $blue;">CWNU 3114</a> | 299.57 | 30.04 | 66.92 | 0.39 | 0.14 | 29 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.41 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3129/" target="_blank" style="color: $blue;">CWNU 3129</a> | 127.95 | -36.21 | 255.95 | 2.02 | 0.12 | 170 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.87 | 0.07 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3142/" target="_blank" style="color: $blue;">CWNU 3142</a> | 1.29 | 63.34 | 117.77 | 0.93 | 0.16 | 33 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.29 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3153/" target="_blank" style="color: $blue;">CWNU 3153</a> | 89.81 | 33.94 | 177.16 | 5.05 | 0.19 | 58 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.86 | 0.05 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3154/" target="_blank" style="color: $blue;">CWNU 3154</a> | 278.27 | -11.91 | 20.26 | -1.4 | 0.19 | 57 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.46 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3160/" target="_blank" style="color: red;">CWNU 3160</a> | 291.59 | 29.22 | 62.78 | 6.01 | 0.05 | 46 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.22 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3184/" target="_blank" style="color: $blue;">CWNU 3184</a> | 301.69 | 37.68 | 74.33 | 2.94 | 0.06 | 72 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.31 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3190/" target="_blank" style="color: $blue;">CWNU 3190</a> | 308.64 | 49.95 | 87.31 | 5.74 | 0.2 | 251 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.98 | 0.01 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3200/" target="_blank" style="color: $blue;">CWNU 3200</a> | 163.07 | -59.35 | 288.26 | 0.09 | 0.1 | 96 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.45 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3204/" target="_blank" style="color: $blue;">CWNU 3204</a> | 103.23 | 5.46 | 208.23 | 2.81 | 0.17 | 59 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.48 | 0.12 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3252/" target="_blank" style="color: $blue;">CWNU 3252</a> | 104.25 | 7.37 | 206.99 | 4.58 | 0.17 | 37 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.35 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3267/" target="_blank" style="color: $blue;">CWNU 3267</a> | 200.91 | -63.67 | 306.5 | -1.02 | 0.14 | 72 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 0.89 | 0.05 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3282/" target="_blank" style="color: $blue;">CWNU 3282</a> | 110.23 | -22.86 | 236.56 | -4.12 | 0.13 | 93 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.35 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3284/" target="_blank" style="color: $blue;">CWNU 3284</a> | 356.83 | 68.24 | 117.02 | 6.11 | 0.22 | 117 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.82 | 0.08 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3296/" target="_blank" style="color: $blue;">CWNU 3296</a> | 141.91 | -58.03 | 278.55 | -5.16 | 0.14 | 56 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.46 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3455/" target="_blank" style="color: $blue;">CWNU 3455</a> | 24.68 | 71.8 | 126.65 | 9.28 | 0.16 | 83 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.61 | 0.19 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3510/" target="_blank" style="color: $blue;">CWNU 3510</a> | 149.85 | -54.51 | 279.6 | 0.37 | 0.11 | 43 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.4 | 0.22 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3523/" target="_blank" style="color: $blue;">CWNU 3523</a> | 137.08 | -56.16 | 275.36 | -5.74 | 0.06 | 57 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.3 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3555/" target="_blank" style="color: red;">CWNU 3555</a> | 338.72 | 64.38 | 108.83 | 5.31 | 0.11 | 37 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.18 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3556/" target="_blank" style="color: $blue;">CWNU 3556</a> | 119.7 | -39.01 | 254.64 | -4.97 | 0.06 | 118 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.36 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3593/" target="_blank" style="color: red;">CWNU 3593</a> | 167.91 | -67.89 | 293.74 | -6.81 | 0.08 | 57 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.24 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3629/" target="_blank" style="color: $blue;">CWNU 3629</a> | 307.76 | 46.61 | 84.27 | 4.24 | 0.17 | 51 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.38 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3633/" target="_blank" style="color: $blue;">CWNU 3633</a> | 5.7 | 58.35 | 119.17 | -4.31 | 0.15 | 147 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.51 | 0.23 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3825/" target="_blank" style="color: $blue;">CWNU 3825</a> | 295.58 | 19.66 | 56.15 | -1.78 | 0.07 | 41 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.28 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3863/" target="_blank" style="color: $blue;">CWNU 3863</a> | 305.3 | 48.14 | 84.56 | 6.48 | 0.11 | 55 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.86 | 0.06 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3911/" target="_blank" style="color: red;">CWNU 3911</a> | 193.06 | -58.93 | 303.04 | 3.94 | 0.14 | 13 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.08 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu3989/" target="_blank" style="color: red;">CWNU 3989</a> | 144.17 | -56.34 | 278.29 | -3.09 | 0.13 | 11 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.08 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu4001/" target="_blank" style="color: red;">CWNU 4001</a> | 180.49 | -65.99 | 297.92 | -3.6 | 0.09 | 20 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.18 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu4150/" target="_blank" style="color: red;">CWNU 4150</a> | 301.14 | 38.88 | 75.11 | 3.97 | 0.15 | 18 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu4172/" target="_blank" style="color: red;">CWNU 4172</a> | 70.93 | 36.2 | 166.48 | -6.34 | 0.15 | 17 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.07 |
+| <a href="{{ site.baseurl }}/_clusters/cwnu4203/" target="_blank" style="color: $blue;">CWNU 4203</a> | 285.76 | 2.65 | 36.61 | -1.37 | 0.23 | 51 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.4 |
+| <a href="{{ site.baseurl }}/_clusters/eso42905/" target="_blank" style="color: $blue;">ESO 429 05</a> | 114.26 | -32.2 | 246.51 | -5.4 | 0.1 | 129 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.72 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0291/" target="_blank" style="color: $blue;">FSR 0291</a> | 319.08 | 48.35 | 90.51 | -0.51 | 0.13 | 47 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.58 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0508/" target="_blank" style="color: $blue;">FSR 0508</a> | 10.48 | 64.96 | 121.92 | 2.11 | 0.19 | 63 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.73 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0687/" target="_blank" style="color: $blue;">FSR 0687</a> | 69.85 | 48.2 | 156.92 | 0.96 | 0.21 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.69 |
+| <a href="{{ site.baseurl }}/_clusters/pfleiderer4/" target="_blank" style="color: $blue;">Pfleiderer 4</a> | 357.72 | 62.32 | 115.96 | 0.27 | 0.1 | 109 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.73 |
+| <a href="{{ site.baseurl }}/_clusters/saurer1/" target="_blank" style="color: $blue;">Saurer 1</a> | 110.23 | 1.81 | 214.69 | 7.38 | 0.08 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.36 |
+| <a href="{{ site.baseurl }}/_clusters/saurer4/" target="_blank" style="color: $blue;">Saurer 4</a> | 183.5 | -63.59 | 298.79 | -1.03 | 0.09 | 7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.22 |
+| <a href="{{ site.baseurl }}/_clusters/teutsch48/" target="_blank" style="color: $blue;">Teutsch 48</a> | 140.11 | -52.83 | 274.17 | -2.17 | 0.21 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.25 |
+
+
+
+<script type="module">
+import { enableTableSorting } from '{{ site.baseurl }}/scripts/table-sorting.js';
+document.querySelectorAll("table").forEach(table => {
+  enableTableSorting(table);
+});
+</script>

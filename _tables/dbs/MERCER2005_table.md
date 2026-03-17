@@ -16,7 +16,7 @@ This database consists of 91 entries, of which 2% are probable duplicates ([P<su
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | 286.72 | 9.6 | 43.22 | 0.97 | 0.28 | 24 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.52 |
 | <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: $blue;">DBSB 88</a> | 214.82 | -61.43 | 313.24 | -0.34 | 0.57 | 122 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.57 | 0.27 |
-| <a href="{{ site.baseurl }}/_clusters/juchert10/" target="_blank" style="color: $blue;">Juchert 10</a> | 220.07 | -60.38 | 315.99 | -0.29 | 0.18 | 240 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.82 |
+| <a href="{{ site.baseurl }}/_clusters/juchert10/" target="_blank" style="color: $blue;">Juchert 10</a> | 220.07 | -60.38 | 315.99 | -0.29 | 0.18 | 240 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.81 |
 | <a href="{{ site.baseurl }}/_clusters/mcm1/" target="_blank" style="color: red;">MCM 1</a> | 273.48 | -17.94 | 12.76 | -0.15 | 0.43 | 21 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.11 |
 | <a href="{{ site.baseurl }}/_clusters/mcm10/" target="_blank" style="color: red;">MCM 10</a> | 278.7 | -8.81 | 23.22 | -0.37 | 0.43 | 18 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.09 |
 | <a href="{{ site.baseurl }}/_clusters/mcm11/" target="_blank" style="color: red;">MCM 11</a> | 281.66 | -2.77 | 29.91 | -0.21 | 0.18 | 16 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.24 | 0.02 |
@@ -104,7 +104,7 @@ This database consists of 91 entries, of which 2% are probable duplicates ([P<su
 | <a href="{{ site.baseurl }}/_clusters/mcm90/" target="_blank" style="color: red;">MCM 90</a> | 256.48 | -40.7 | 345.71 | 0.14 | 0.42 | 23 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.09 |
 | <a href="{{ site.baseurl }}/_clusters/mcm91/" target="_blank" style="color: $blue;">MCM 91</a> | 258.09 | -38.51 | 348.23 | 0.45 | 0.51 | 22 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.28 |
 | <a href="{{ site.baseurl }}/_clusters/mcm92/" target="_blank" style="color: red;">MCM 92</a> | 260.33 | -37.81 | 349.8 | -0.57 | 0.37 | 17 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.06 |
-| <a href="{{ site.baseurl }}/_clusters/teutsch42/" target="_blank" style="color: $blue;">Teutsch 42</a> | 292.55 | 18.54 | 53.77 | 0.17 | 0.16 | 48 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.55 |
+| <a href="{{ site.baseurl }}/_clusters/teutsch42/" target="_blank" style="color: $blue;">Teutsch 42</a> | 292.55 | 18.54 | 53.77 | 0.17 | 0.16 | 48 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.54 |
 
 
 

@@ -1780,6 +1780,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof1994/" target="_blank" style="color: $blue;">FoF 1994</a> | Classified as open cluster. CMD class: 0.99 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2068/" target="_blank" style="color: $blue;">FoF 2068</a> | Classified as open cluster. CMD class: 0.96 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2094/" target="_blank" style="color: $blue;">FoF 2094</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
+| <a href="{{ site.baseurl }}/_clusters/fof2117/" target="_blank" style="color: $blue;">FoF 2117</a> | Classified as open cluster. CMD class: 0.29 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2123/" target="_blank" style="color: $blue;">FoF 2123</a> | Classified as open cluster. CMD class: 1.00 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2139/" target="_blank" style="color: $blue;">FoF 2139</a> | Classified as open cluster. CMD class: 0.39 (50th percentile). |
 | <a href="{{ site.baseurl }}/_clusters/fof2198/" target="_blank" style="color: $blue;">FoF 2198</a> | Classified as open cluster. CMD class: 0.97 (50th percentile). |
