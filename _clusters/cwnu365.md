@@ -65,7 +65,7 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.575 | 0.535 | -- | 2048 | 0.570 | -- | -- | 1.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.575 | 0.535 | -- | 2048 | 0.570 | -- | -- | 1 |
     | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 2.40 | 0.50 | -- | 2512 | 0.223 | -- | -- | 1<sup>(1)</sup> |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.75 | 0.57 | -- | 1585 | 0.916 | -- | -- | -- |
 N_rows_pars: "2"

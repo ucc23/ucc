@@ -102,7 +102,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.36 | 0.38 | 1.1 | 6471 | -0.196 | 6456 | 0.23 | 20.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.36 | 0.38 | 1.1 | 6471 | -0.196 | 6456 | 0.23 | 20 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.25 | 0.51 | -- | 5919 | -0.156 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.250<sup>(5)</sup> | -- | -- | -- |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 4.16 | 0.39 | -- | 6471 | 0.000 | -- | -- | 22<sup>(1)</sup> |

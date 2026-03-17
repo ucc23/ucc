@@ -76,7 +76,7 @@ carousel: UCC_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.08 | 1.32 | -- | 291 | -0.074 | 265 | 0.58 | 0.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.08 | 1.32 | -- | 291 | -0.074 | 265 | 0.58 | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.07 | 1.30 | -- | 128 | -0.033 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.04 | 1.48 | -- | 86 | -- | 265 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.06 | 1.44 | -- | 133 | -0.142 | 264<sup>(1)</sup> | 0.58 | -- |

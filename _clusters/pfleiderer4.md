@@ -77,7 +77,7 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.81 | 2.56 | 1.12 | 3642 | -- | 2995 | -- | 15.0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.81 | 2.56 | 1.12 | 3642 | -- | 2995 | -- | 15 |
     | [Cui et al.](https://scixplorer.org/abs/2025AJ....169..219C) | 2025 | -- | 2.68 | -- | 2818 | -- | -- | -- | 15<sup>(1)</sup> |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2188<sup>(1)</sup> | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 7.08 | 2.95 | -- | 1585 | -- | -- | -- | -- |
