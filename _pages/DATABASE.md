@@ -26,7 +26,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_articles" href="/../articles">Articles</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- ND1 -->122<!-- ND2 --></strong>
+        <strong><!-- ND1 -->125<!-- ND2 --></strong>
       </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_parameters" href="/../faq/#parameters">Parameters</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- NP1 -->563277<!-- NP2 --></strong>
+        <strong><!-- NP1 -->565949<!-- NP2 --></strong>
       </td>
     </tr>
     <tr>

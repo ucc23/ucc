@@ -9,6 +9,16 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+
+## Version [260320](https://zenodo.org/records/19133636)
+
+- Added Yan et al. (2026)
+- Added Otto et al. (2026)
+- Added Angelo et al. (2023)
+- Fixed bad OCs in Perren et al. (2022)
+
+
+
 ## Version [260317](https://zenodo.org/records/19070209)
 
 - Added Bijavara et al. (2025)

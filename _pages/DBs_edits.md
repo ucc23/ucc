@@ -1579,6 +1579,10 @@ Re-assessing fundamental parameters with Gaia EDR3 and ASteCA](https://ui.adsabs
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/663/A131) table lists 25 clusters.
 
+Removed two entries identified as GCs: VDBH 176 and ESO 093 08.
+
+
+
 
 
 
@@ -1608,6 +1612,23 @@ Changes to names:
 
 - BH_99 --> VDBH_99
 - LP_ --> FoF_
+
+
+
+
+## Angelo et al. 2023
+
+[Enlightening the dynamical evolution of Galactic open clusters: an approach using Gaia DR3 and analytical descriptions](https://scixplorer.org/abs/2023MNRAS.522..956A/abstract)
+
+Data extracted from Tables 1 & 2.
+
+Fixed ra for 'Berkeley 81', positive to negative.
+
+
+
+
+
+
 
 
 ## Almeida et al. 2023
@@ -2225,3 +2246,26 @@ The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/706/
 [Consensus-based algorithm for the nonparametric detection of star clusters (CANDiSC)](https://scixplorer.org/abs/2026A%26A...705A.244O/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/705/A244) table lists 40 VVVX-Obasi entries.
+
+
+
+
+## Otto et al. 2026
+
+[The Open Cluster Chemical Abundances and Mapping Survey. VIII. Galactic Chemical Gradient and Azimuthal Analysis from SDSS/MWM DR19](https://scixplorer.org/abs/2026AJ....171...91O/abstract)
+
+Data extracted from Tables 1 & 2 in the online article.
+
+UPK 442 is missing from Table 2.
+
+
+
+
+# Yan et al. 2026
+
+[Searching for White Dwarf Candidates Formed Through Binary Evolution in Star Clusters](https://scixplorer.org/abs/2026ApJ...999..167Y/abstract)
+
+Data from Table 2, 3, 4, 5, 6 in Appendix B. Tables 3, 4, 5, 6 were used to estimate
+the number of probable WDs found in each cluster, applying a cut at P>=0.5.
+
+
