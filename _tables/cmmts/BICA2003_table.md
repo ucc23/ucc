@@ -176,7 +176,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/sh2140north/" target="_blank" style="color: red;">Sh2-140-north</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh2228/" target="_blank" style="color: red;">Sh2-228</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh2233se/" target="_blank" style="color: $blue;">Sh2-233SE</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/sh2235/" target="_blank" style="color: $blue;">Sh2-235</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/sh2235/" target="_blank" style="color: red;">Sh2-235</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh2235b/" target="_blank" style="color: red;">Sh2-235B</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh2242/" target="_blank" style="color: red;">Sh2-242</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh2252a/" target="_blank" style="color: $blue;">Sh2-252A</a> | Classified as infrared cluster (IRC). |
