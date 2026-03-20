@@ -46,12 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026ApJ...999..167Y' target='_blank'>Yan et al. (2026)</a></u><br>Number of WDs: expected from single-star evolution N=2, with probability of formation through binary evolution >=0.5 N=0.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 0.8
 N_50_val: 22
 scix_url: Theia%20291
@@ -59,22 +60,24 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |287.27 | -7.715 | 0.911 | -0.229 | -4.647 | 15.086 |
+    |[Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | 287.172 | -7.653 | 0.92 | -0.24 | -4.691 | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 287.172 | -7.653 | 0.92 | -0.24 | -4.691 | -10.27 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 287.18 | -8.371 | 0.922 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 287.172 | -7.653 | 0.92 | -0.24 | -4.691 | -10.27 |
     |[Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 285.177 | -8.443 | 1.174 | -- | -- | -1.554 
-N_rows_pos: "4"
+N_rows_pos: "5"
 cds_radec: 287.26967,-7.71456
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.01 | 0.95 | 0.75 | 57 | 0.060 | 45 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.01 | 0.95 | 0.75 | 58 | 0.060 | 45 | -- | -- |
+    | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 58 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 45<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.05 | 1.32 | -- | 51 | 0.060 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.01 | 0.95 | 0.75 | 57 | -- | -- | -- | -- |
     | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.86 | 0.95 | -- | 86 | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "5"
 note_asterisk: true
 shared_table: |
 

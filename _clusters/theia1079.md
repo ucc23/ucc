@@ -13,17 +13,17 @@ glon: 259.5526
 glat: -3.91648
 r50: 5.5
 plx: 0.6662
-UTI: "0.57"
-UTI_COLOR: "#f5fbdc"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.29
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -85,7 +85,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 479](/_clusters/ubc479/)| 100.0 | 124.36 | -42.58 | 0.66 | -4.78 | 5.13 | 38.63 |0.28 |
+    |[UBC 479](/_clusters/ubc479/)| 100.0 | 124.36 | -42.58 | 0.66 | -4.78 | 5.13 | 38.63 |0.27 |
     |[CWWDL 3586](/_clusters/cwwdl3586/)| 94.0 | 124.35 | -42.57 | 0.67 | -4.77 | 5.14 | 38.63 |0.0 |
 N_rows_shared: "2"
 ---

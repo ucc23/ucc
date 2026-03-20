@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 65](/_clusters/ascc65/)| 4.0 | 167.82 | -61.12 | 0.38 | -6.29 | 1.14 | 3.01 |0.71 |
+    |[ASCC 65](/_clusters/ascc65/)| 4.0 | 167.82 | -61.12 | 0.38 | -6.29 | 1.14 | 3.01 |0.7 |
 N_rows_shared: "1"
 ---

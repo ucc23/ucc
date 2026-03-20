@@ -62,6 +62,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |92.268 | 24.343 | 1.151 | 2.26 | -2.897 | -8.87 |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 92.284 | 24.326 | -- | 2.31 | -2.9 | -7.1 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 92.272 | 24.336 | 1.131 | 2.308 | -2.905 | -- |
     |[Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | 92.3 | 24.4 | 1.15 | 2.23 | -2.8 | -7.42 |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 92.263 | 24.347 | 1.152 | 2.26 | -2.886 | -- |
@@ -71,6 +72,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 92.284 | 24.326 | 1.154 | 2.253 | -2.895 | -9.304 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 92.277 | 24.333 | 1.153 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 92.284 | 24.326 | 1.154 | 2.253 | -2.895 | -9.304 |
+    |[Angelo et al.](https://scixplorer.org/abs/2023MNRAS.522..956A) | 2023 | 92.317 | 24.336 | -- | 2.27 | -2.9 | -- |
     |[Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 92.263 | 24.334 | 1.127 | 2.299 | -2.905 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 92.294 | 24.361 | -- | -- | -- | -- |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 92.269 | 24.332 | 1.153 | 2.26 | -2.886 | -- |
@@ -104,13 +106,14 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 92.231 | 24.332 | -- | 0.2 | -1.63 | 17.7 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 92.225 | 24.333 | -- | 0.65 | -3.06 | -8.17 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 92.225 | 24.333 | -- | -- | -- | -- 
-N_rows_pos: "42"
+N_rows_pos: "44"
 cds_radec: 92.26759,+24.34339
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 0.82 | 1.14 | 158 | -0.115 | 3444 | 0.39 | 1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 0.82 | 1.14 | 156 | -0.101 | 3274 | 0.39 | 1 |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 148 | -0.030<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.82 | 0.57 | -- | 385 | -0.047 | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 150 | -0.050 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 1.25 | 0.89 | -- | 91 | 0.250 | 2046 | 0.47 | -- |
@@ -120,6 +123,7 @@ fpars_table: |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4180<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.87 | 0.69 | -- | 219 | 0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.82 | 0.59 | 1.14 | 162 | -- | -- | -- | -- |
+    | [Angelo et al.](https://scixplorer.org/abs/2023MNRAS.522..956A) | 2023 | 0.81 | 0.88 | -- | 158 | 0.050 | 4<sup>(1)</sup> | -- | -- |
     | [Cordoni et al.](https://scixplorer.org/abs/2023A%26A...672A..29C) | 2023 | 0.82 | 0.88 | -- | 160 | -0.123 | 3912 | 0.31 | 0<sup>(1)</sup> |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 180 | -- | 1202 | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.95 | -- | 79 | -- | -- | -- | -- |
@@ -153,7 +157,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.82 | 0.83 | -- | 90 | -0.160<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.91 | 0.63 | -- | 178 | -0.160 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.76 | 0.79 | -- | 126 | -- | -- | -- | -- |
-N_rows_pars: "42"
+N_rows_pars: "44"
 note_asterisk: true
 shared_table: |
 

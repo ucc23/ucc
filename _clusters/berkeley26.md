@@ -13,17 +13,17 @@ glon: 207.694
 glat: 2.36086
 r50: 2.8
 plx: 0.1713
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#f4fada"
+UTI_C_lit_COL: "#fafce1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.4
 UTI_C_C3: 0.38
-UTI_C_lit: 0.58
+UTI_C_lit: 0.54
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -46,10 +46,11 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The cluster appears as a weak overdensity against the background field. The RDP gives a radius near 2', but the TO is diffuse due to scatter and BSS candidates, and the giant branch is even less prominent. ASteCA sets the TO at G=18.5, resulting in a distance of 4.6 kpc and an age of 8.6 Gyr. Piatti 2010 reports 4.3 kpc and 4 Gyr — the distances are close, but the age difference is substantial, likely because ASteCA sets the TO almost half a magnitude fainter due to a large binary fraction (~70%). WEBDA and MWSC give 4.3 and 2.7 kpc; MWSC assigns a very young age of ~0.5 Gyr. The OC02 distance of 12.5 kpc appears to be a database recording error.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 2.0
 N_50_val: 45
 scix_url: Berkeley%2026

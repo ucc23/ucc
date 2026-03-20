@@ -47,6 +47,7 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2026A%26A...706A..62M' target='_blank'>Malhotra et al. (2026)</a></u><br>Lowest/Highest stellar mass in the catalogue with a mass-ratio estimate: 0.12/2.17 Msun</p>
+    <p><u><a href='https://scixplorer.org/abs/2026ApJ...999..167Y' target='_blank'>Yan et al. (2026)</a></u><br>Number of WDs: expected from single-star evolution N=8, with probability of formation through binary evolution >=0.5 N=1.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair (not dynamically associated) P130, along with HSC_1537.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: worst fit. Isochrone match: good fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
@@ -55,7 +56,7 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
+N_comments: "7"
 dens_val: 0.4
 N_50_val: 150
 scix_url: Melotte%20111
@@ -63,7 +64,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |185.06 | 25.478 | 11.593 | -12.038 | -9.002 | 0.38 |
+    |[Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | 186.017 | 26.423 | 11.709 | -12.155 | -8.855 | -- |
     |[Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 182.979 | 25.277 | -- | -- | -- | -- |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 186.017 | 26.423 | -- | -12.03 | -8.97 | 0.4 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 186.014 | 25.652 | 11.595 | -12.03 | -8.973 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 186.304 | 25.368 | -- | -- | -- | -- |
     |[Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | 186.017 | 26.423 | -- | -- | -- | -- |
@@ -93,14 +96,16 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 185.62 | 25.85 | -- | -11.03 | -9.0 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 
-N_rows_pos: "30"
+N_rows_pos: "32"
 cds_radec: 185.06002,+25.47846
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.09 | 0.03 | 0.44 | 603 | 0.020 | 256 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.09 | 0.03 | 0.44 | 604 | 0.011 | 256 | -- | 0 |
+    | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 645 | -- | -- | -- | -- |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.09 | 0.03 | -- | 622 | -0.050 | -- | -- | -- |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 646 | -0.010<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.10 | 0.26 | -- | 604 | 0.066 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.09 | 0.15 | -- | 619 | -- | 51 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.062<sup>(1)</sup> | -- | -- | -- |
@@ -128,7 +133,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.09 | 0.03 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.10 | 0.04 | -- | 440 | -0.050<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.10 | 0.04 | -- | 449 | 0.070 | -- | -- | -- |
-N_rows_pars: "28"
+N_rows_pars: "30"
 note_asterisk: true
 shared_table: |
 

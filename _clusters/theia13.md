@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#d7eec9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee7cc"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.74
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.29
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -87,8 +87,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 100.0 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.66 |
     |[OCSN 194](/_clusters/ocsn194/)| 100.0 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[UBC 17 b](/_clusters/ubc17b/)| 100.0 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.71 |
+    |[UBC 17 b](/_clusters/ubc17b/)| 100.0 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.69 |
 N_rows_shared: "3"
 ---

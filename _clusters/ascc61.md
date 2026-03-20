@@ -13,17 +13,17 @@ glon: 286.46533
 glat: 1.85042
 r50: 2.8
 plx: 0.3365
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#b2dcc2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fafce1"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.89
 UTI_C_C3: 0.75
-UTI_C_lit: 0.54
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -93,6 +93,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 1](/_clusters/gulliver1/)| 96.2 | 161.59 | -57.04 | 0.33 | -7.96 | 3.61 | -20.89 |0.67 |
+    |[Gulliver 1](/_clusters/gulliver1/)| 96.2 | 161.59 | -57.04 | 0.33 | -7.96 | 3.61 | -20.89 |0.66 |
 N_rows_shared: "1"
 ---

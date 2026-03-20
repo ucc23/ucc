@@ -75,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.1 |
+    |[HSC 1403](/_clusters/hsc1403/)| 36.1 | 75.41 | 24.36 | 2.02 | 1.24 | -5.17 | 20.27 |0.07 |
 N_rows_shared: "1"
 ---

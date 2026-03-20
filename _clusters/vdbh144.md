@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.08 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Also known as Andrew-Lindsay 1 and ESO 96-SC04; hosts the planetary nebula PHR 1315-6555. The CMD shows a densely populated main sequence with the TO at G=17.5 and a scattered RC at similar magnitude. Janes 1994 gives 7.6 kpc; Carraro 2005 used a small 0.6' radius and obtained 16.9 kpc and 0.8 Gyr. Our RDP suggests a radius over 1.5'. ASteCA gives 10.1 kpc and ~1 Gyr. Majaess 2014 (10.0±0.4 kpc, 0.8±3 Gyr) and CG20 (9.6 kpc, 1.4 Gyr) are the closest matches. Fragkou 2019 gives ~12 kpc and 0.66 Gyr, consistent with OC02 and WEBDA.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 13.4
 N_50_val: 213
 scix_url: VDBH%20144
@@ -63,6 +64,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 198.835 | -65.923 | 0.042 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 198.833 | -65.918 | 0.047 | -5.141 | -0.431 | 60.849 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 198.805 | -65.917 | -- | -- | -- | -- |
+    |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 198.78 | -65.92 | -- | -- | -- | -- |
     |[Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 198.808 | -65.92 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 198.808 | -65.92 | 0.045 | -5.111 | -0.375 | -- |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 198.808 | -65.92 | 0.045 | -5.111 | -0.375 | -- |
@@ -77,17 +79,18 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 198.78 | -65.92 | -- | 0.01 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 198.817 | -65.922 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 198.775 | -65.917 | -- | -4.73 | -3.36 | 40.0 
-N_rows_pos: "18"
+N_rows_pos: "19"
 cds_radec: 198.81635,-65.92003
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.64 | 1.89 | 2.22 | 794 | -0.510 | 2811 | -- | 2 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.64 | 1.93 | 2.22 | 897 | -0.510 | 4318 | 0.32 | 2 |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2811<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.28 | 1.59 | -- | 3388 | -0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 13.16 | 2.81 | 2.22 | 90 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1000 | -- | 959 | -- | -- |
+    | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 10.05 | 2.62 | -- | 1047 | -0.530 | 6900 | 0.32 | -- |
     | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 9.64 | 1.68 | -- | 1479 | -- | 5824 | -- | 2<sup>(1)</sup> |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 9.64 | 1.68 | -- | 1479 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 6.27 | 2.54 | -- | 759 | -- | -- | -- | -- |
@@ -100,7 +103,7 @@ fpars_table: |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 15.85<sup>(1)</sup> | 1.17 | -- | 794 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 9.35 | 1.89 | -- | 676 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 12.00 | 2.21 | -- | 794 | -0.510 | -- | -- | -- |
-N_rows_pars: "16"
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
 

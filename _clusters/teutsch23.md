@@ -115,7 +115,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Negueruela 1](/_clusters/negueruela1/)| 46.5 | 356.86 | 63.21 | 0.31 | -2.97 | -1.38 | -- |0.8 |
+    |[Negueruela 1](/_clusters/negueruela1/)| 46.5 | 356.86 | 63.21 | 0.31 | -2.97 | -1.38 | -- |0.79 |
     |[CWWDL 10426](/_clusters/cwwdl10426/)| 9.9 | 357.55 | 62.97 | 0.32 | -3.04 | -1.36 | -89.18 |0.11 |
 N_rows_shared: "2"
 ---

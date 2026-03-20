@@ -63,6 +63,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |99.125 | 9.468 | 0.302 | -0.612 | 0.267 | 50.75 |
     |[Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | 99.098 | 9.527 | -- | -- | -- | -- |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 99.127 | 9.459 | -- | -0.59 | 0.27 | 50.6 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 99.126 | 9.465 | 0.284 | -0.59 | 0.273 | -- |
     |[Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | 99.3 | 9.54 | 0.3 | -0.65 | 0.24 | 50.5 |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 99.126 | 9.472 | -- | -- | -- | -- |
@@ -94,14 +95,15 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 99.175 | 9.433 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 99.175 | 9.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 99.175 | 9.433 | -- | 0.77 | 0.59 | -- 
-N_rows_pos: "32"
+N_rows_pos: "33"
 cds_radec: 99.1249,+9.46844
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.07 | 1.895 | 2.17 | 3752 | -0.402 | 25382 | -- | 58 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.07 | 1.895 | 2.17 | 3866 | -0.403 | 25382 | -- | 58 |
     | [Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | -- | 1.20 | -- | 4270 | -0.480<sup>(14)</sup> | -- | -- | -- |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 4266 | -0.440<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.04 | 2.05 | -- | 3752 | -0.441 | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 4270 | -0.440 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.230<sup>(5)</sup> | -- | -- | -- |
@@ -134,7 +136,7 @@ fpars_table: |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 1.83 | -- | 4074 | -- | -- | -- | 70 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.00 | 1.83 | -- | 4074 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.82 | 1.96 | -- | 3981 | -0.403 | -- | -- | -- |
-N_rows_pars: "33"
+N_rows_pars: "34"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

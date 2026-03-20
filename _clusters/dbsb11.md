@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.66 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 67.3 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.64 |
     |[CWNU 1337](/_clusters/cwnu1337/)| 6.7 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.18 |
     |[Majaess 90](/_clusters/majaess90/)| 6.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.42 |
 N_rows_shared: "3"

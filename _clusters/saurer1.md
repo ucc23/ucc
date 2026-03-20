@@ -13,17 +13,17 @@ glon: 214.68656
 glat: 7.38043
 r50: 1.5
 plx: 0.0826
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.16
 UTI_C_C3: 0.38
-UTI_C_lit: 0.62
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>First reported in Saurer 1994; analyzed by Carraro 2003 as Saurer A, who placed the TO at V=19 and estimated ~5 Gyr and 13.8 kpc. Our CMD also shows the TO at G=19, with a visible RGB and a handful of likely RC stars. ASteCA gives 12.4 kpc and 6.6 Gyr — the distance is in close agreement with Carraro 2003 given the uncertainties. Frinchaboy 2006 gives 13.1 kpc and 4.5 Gyr. Saurer 1 was previously thought to hold the record for largest galactocentric distance; this work finds Berkeley 29 to be ~2 kpc farther out.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.8
 N_50_val: 22
 scix_url: Saurer%201

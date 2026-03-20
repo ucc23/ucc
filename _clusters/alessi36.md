@@ -18,12 +18,12 @@ UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#fefae1"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.29
+UTI_C_lit: 0.25
 UTI_C_dup: 0.46
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -84,7 +84,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 210](/_clusters/ocsn210/)| 96.5 | 106.61 | -37.67 | 3.6 | -9.68 | 7.09 | 15.36 |0.01 |
-    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.7 |
+    |[UBC 7](/_clusters/ubc7/)| 53.5 | 106.63 | -37.7 | 3.59 | -9.69 | 7.06 | 15.28 |0.68 |
     |[Collinder 135](/_clusters/collinder135/)| 4.3 | 109.36 | -36.95 | 3.34 | -10.04 | 6.22 | 15.1 |0.97 |
 N_rows_shared: "3"
 ---

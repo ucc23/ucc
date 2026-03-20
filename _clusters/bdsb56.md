@@ -70,7 +70,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 19](/_clusters/sai19/)| 56.0 | 36.65 | 62.0 | 0.48 | -0.7 | -0.12 | -27.12 |0.1 |
-    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 48.0 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.6 |
+    |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 48.0 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.58 |
     |[CWNU 3691](/_clusters/cwnu3691/)| 36.0 | 36.65 | 62.0 | 0.47 | -0.69 | -0.06 | -21.84 |0.02 |
     |[BDSB 55](/_clusters/bdsb55/)| 20.0 | 36.47 | 62.1 | 0.37 | -1.2 | -0.3 | -31.43 |0.07 |
     |[W3-IRS5](/_clusters/w3irs5/)| 16.0 | 36.41 | 62.09 | 0.46 | -1.0 | -0.53 | 30.96 |0.19 |

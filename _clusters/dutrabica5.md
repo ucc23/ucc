@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dutra Bica 6](/_clusters/dutrabica6/)| 27.7 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.19 |
+    |[Dutra Bica 6](/_clusters/dutrabica6/)| 27.7 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.09 |
     |[Dutra Bica 4](/_clusters/dutrabica4/)| 26.5 | 266.79 | -28.81 | 0.36 | -0.02 | -2.22 | -26.8 |0.09 |
     |[Arches](/_clusters/arches/)| 12.0 | 266.52 | -28.85 | 0.49 | 0.08 | -2.1 | 21.14 |0.25 |
 N_rows_shared: "3"

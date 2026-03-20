@@ -13,17 +13,17 @@ glon: 289.52867
 glat: -1.95614
 r50: 5.8
 plx: 0.1159
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.02
 UTI_C_C3: 0.12
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Located in a region of high field star contamination. Kronberger 2006 used a 0.8' radius and reported ~11.1 kpc with no age estimate, classifying it as a cluster candidate with RC. Monteiro 2020 later discarded it due to a poor isochrone fit. The least populated cluster in the sample (55 members). ASteCA identifies the TO at G~20 and the RC at G~17.5, giving 13 kpc and 2.8 Gyr — in reasonable agreement with Kronberger 2006. MWSC values of 1 Myr and 4.4 kpc are entirely inconsistent with the CMD features.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.1
 N_50_val: 22
 scix_url: Kronberger%2039

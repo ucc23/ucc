@@ -13,17 +13,17 @@ glon: 248.12316
 glat: -5.88038
 r50: 1.6
 plx: 0.0645
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#fefee8"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 0.5
 UTI_C_C3: 0.62
-UTI_C_lit: 0.62
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -46,10 +46,11 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a well-traced TO and RGB with a short main sequence and a prominent RC at G=17. ASteCA gives ~11 kpc, 4.1 Gyr, and [Fe/H]=−0.33. Ortolani 1995 reports 12.4 kpc and [Fe/H]~−0.3 (no specific age); Lee 1997 finds 8.87 kpc, 5 Gyr, and [Fe/H]=−0.51; CG20 gives 11.7 kpc and 3.0 Gyr. ASteCA distance is a good match for CG20 and falls within the range of the prior studies. The metallicity agrees with the sub-solar values reported by Ortolani et al. and Lee.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 2.5
 N_50_val: 131
 scix_url: Arp%20Madore%202

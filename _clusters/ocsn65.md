@@ -13,17 +13,17 @@ glon: 205.67393
 glat: -17.74156
 r50: 32.1
 plx: 2.3665
-UTI: "0.57"
-UTI_COLOR: "#f5fbdc"
+UTI: "0.56"
+UTI_COLOR: "#f7fbde"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fee7cc"
+UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#c4e5c7"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.33
+UTI_C_lit: 0.29
 UTI_C_dup: 0.82
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -87,8 +87,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.68 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.66 |
     |[OCSN 194](/_clusters/ocsn194/)| 14.5 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.52 |
+    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.51 |
 N_rows_shared: "3"
 ---

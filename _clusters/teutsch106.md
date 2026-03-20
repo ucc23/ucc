@@ -13,17 +13,17 @@ glon: 289.15243
 glat: 0.29134
 r50: 1.3
 plx: 0.1257
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.75"
+UTI_COLOR: "#d4ecc9"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#eef7d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.67
+UTI_C_lit: 0.62
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -96,6 +96,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Turner 6](/_clusters/turner6/)| 53.3 | 164.83 | -59.54 | 0.13 | -6.01 | 2.12 | 51.24 |0.74 |
+    |[Turner 6](/_clusters/turner6/)| 53.3 | 164.83 | -59.54 | 0.13 | -6.01 | 2.12 | 51.24 |0.72 |
 N_rows_shared: "1"
 ---

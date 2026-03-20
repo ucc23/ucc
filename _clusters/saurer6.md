@@ -13,17 +13,17 @@ glon: 68.00332
 glat: 2.8533
 r50: 6.7
 plx: 0.1236
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.62
-UTI_C_lit: 0.46
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a wide and short main sequence with the TO at approximately G=18 mag. The giant branch is quite scattered although the RC is evident. The high star density in the region may explain the main sequence widening. Frinchaboy 2002 used CCD VI photometry and found 2 Gyr and 9.3 kpc. ASteCA gives 1.4 Gyr and 9.2 kpc, in close agreement. WEBDA and OC02 report the same distance as Frinchaboy; MWSC gives a smaller 7.3 kpc.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.0
 N_50_val: 12
 scix_url: Saurer%206

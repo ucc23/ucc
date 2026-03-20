@@ -77,6 +77,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 1722](/_clusters/fsr1722/)| 88.5 | 242.6 | -49.04 | 0.53 | -2.04 | -2.15 | -23.72 |0.02 |
-    |[DBSB 101](/_clusters/dbsb101/)| 54.0 | 242.61 | -49.04 | 0.54 | -1.92 | -2.15 | -22.9 |0.67 |
+    |[DBSB 101](/_clusters/dbsb101/)| 54.0 | 242.61 | -49.04 | 0.54 | -1.92 | -2.15 | -22.9 |0.66 |
 N_rows_shared: "2"
 ---

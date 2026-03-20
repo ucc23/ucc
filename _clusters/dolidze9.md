@@ -13,17 +13,17 @@ glon: 79.78494
 glat: 2.42634
 r50: 7.3
 plx: 0.8172
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#d0eac9"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.77
 UTI_C_C3: 0.25
-UTI_C_lit: 0.29
+UTI_C_lit: 0.25
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -82,6 +82,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 142](/_clusters/ubc142/)| 96.2 | 305.83 | 41.69 | 0.82 | -3.64 | -8.36 | 0.77 |0.06 |
-    |[Collinder 421](/_clusters/collinder421/)| 92.3 | 305.83 | 41.69 | 0.82 | -3.64 | -8.37 | -0.09 |0.97 |
+    |[Collinder 421](/_clusters/collinder421/)| 92.3 | 305.83 | 41.69 | 0.82 | -3.64 | -8.37 | -0.09 |0.92 |
 N_rows_shared: "2"
 ---

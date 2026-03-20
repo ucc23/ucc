@@ -69,8 +69,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 100.0 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.63 |
-    |[Pismis 24](/_clusters/pismis24/)| 52.1 | 261.4 | -34.36 | 0.56 | -0.95 | -2.53 | 9.47 |0.63 |
+    |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 100.0 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.61 |
+    |[Pismis 24](/_clusters/pismis24/)| 52.1 | 261.4 | -34.36 | 0.56 | -0.95 | -2.53 | 9.47 |0.61 |
     |[OC 0688](/_clusters/oc0688/)| 31.5 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.05 |
 N_rows_shared: "3"
 ---

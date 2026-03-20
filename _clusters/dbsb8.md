@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.64 |
+    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.63 |
     |[Theia 2110](/_clusters/theia2110/)| 10.0 | 113.86 | -18.63 | 0.4 | -1.75 | 2.41 | 122.74 |0.14 |
 N_rows_shared: "2"
 ---

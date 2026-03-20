@@ -46,6 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026ApJ...999..167Y' target='_blank'>Yan et al. (2026)</a></u><br>Number of WDs: expected from single-star evolution N=2, with probability of formation through binary evolution >=0.5 N=7.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...702A..48L' target='_blank'>Liu et al. (2025)</a></u><br>Classified as primordial binary cluster 185 along with HSC_1165.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping pair) P416, along with HSC_1165.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Gold sample.</p>
@@ -56,7 +57,7 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
+N_comments: "8"
 dens_val: 38.8
 N_50_val: 803
 scix_url: Melotte%2020
@@ -64,6 +65,8 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |51.633 | 48.965 | 5.74 | 22.911 | -25.434 | -1.009 |
+    |[Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | 51.332 | 49.119 | 5.741 | 22.918 | -25.463 | -- |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 51.332 | 49.119 | -- | 22.86 | -25.38 | -0.8 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 51.617 | 48.975 | 5.668 | 22.864 | -25.378 | -- |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 51.648 | 48.915 | 5.747 | 23.0 | -25.462 | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 51.51 | 48.933 | -- | -- | -- | -- |
@@ -106,13 +109,15 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 50.488 | 48.622 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 51.079 | 49.862 | -- | 22.41 | -25.87 | -1.39 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 51.079 | 49.862 | -- | -- | -- | -- 
-N_rows_pos: "42"
+N_rows_pos: "44"
 cds_radec: 51.63254,+48.9655
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.18 | 0.28 | 0.61 | 56 | 0.035 | 2025 | 0.12 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.18 | 0.28 | 0.61 | 56 | 0.030 | 2025 | 0.12 | 0 |
+    | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 51 | -- | -- | -- | -- |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 51 | -0.020<sup>(15)</sup> | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.19 | 0.11 | -- | 72 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.18 | 0.28 | -- | 85 | 0.058 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.22 | 0.65 | -- | 41 | 0.000 | 439 | 0.12 | -- |
@@ -156,7 +161,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.18 | 0.28 | -- | 70 | -0.050<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.18 | 0.28 | -- | 71 | 0.040 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.15 | 0.31 | -- | 25 | -- | -- | -- | -- |
-N_rows_pars: "43"
+N_rows_pars: "45"
 note_asterisk: true
 shared_table: |
 

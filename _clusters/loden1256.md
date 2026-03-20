@@ -13,17 +13,17 @@ glon: 313.21968
 glat: -0.32815
 r50: 4.9
 plx: 0.5808
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#e7f4cf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.66
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -90,7 +90,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 88](/_clusters/dbsb88/)| 83.1 | 214.82 | -61.43 | 0.57 | -3.25 | -3.09 | -41.32 |0.27 |
+    |[DBSB 88](/_clusters/dbsb88/)| 83.1 | 214.82 | -61.43 | 0.57 | -3.25 | -3.09 | -41.32 |0.26 |
     |[OC 0608](/_clusters/oc0608/)| 30.1 | 214.85 | -61.43 | 0.59 | -3.19 | -3.14 | -55.63 |0.0 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 16.58904
 glat: -0.4663
 r50: 1.2
 plx: 0.2832
-UTI: "0.73"
-UTI_COLOR: "#d9eeca"
+UTI: "0.71"
+UTI_COLOR: "#ddf0ca"
 UTI_C_N_COL: "#fefde6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#e5f4ce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.49
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.71
+UTI_C_lit: 0.67
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -101,6 +101,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kharchenko 2](/_clusters/kharchenko2/)| 18.4 | 275.59 | -14.61 | 0.32 | -0.25 | -1.94 | -240.39 |0.48 |
+    |[Kharchenko 2](/_clusters/kharchenko2/)| 18.4 | 275.59 | -14.61 | 0.32 | -0.25 | -1.94 | -240.39 |0.46 |
 N_rows_shared: "1"
 ---

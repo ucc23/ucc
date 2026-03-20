@@ -13,17 +13,17 @@ glon: 113.00687
 glat: -4.82202
 r50: 1.5
 plx: 0.0881
-UTI: "0.86"
-UTI_COLOR: "#b9e0c4"
+UTI: "0.85"
+UTI_COLOR: "#bce1c5"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#b4ddc3"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.88
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.20 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>A controversial object: Maciejewski 2008 concluded it is a chance alignment of unrelated stars. However, the CMD shows a scattered main sequence with the TO at G=18.5 and a well-defined giant branch, leading us to classify it as a genuine open cluster. The four catalogs span wildly different distances (2.6–10.5 kpc) and ages (0.6–4 Gyr). ASteCA gives 7.4 kpc and 4.9 Gyr. The age is close to CG20 (3.9 Gyr) but the distance is ~3 kpc smaller, placing the cluster below 9 kpc.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 7.4
 N_50_val: 181
 scix_url: Berkeley%20102

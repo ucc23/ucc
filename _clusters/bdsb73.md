@@ -13,17 +13,17 @@ glon: 173.65214
 glat: 2.86904
 r50: 4.3
 plx: 0.5908
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#eef7d4"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.29
+UTI_C_lit: 0.25
 UTI_C_dup: 0.62
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -80,11 +80,11 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sh2-235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.28 |
+    |[Sh2-235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.18 |
     |[FSR 0784](/_clusters/fsr0784/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.06 |
     |[S235B](/_clusters/s235b/)| 30.8 | 85.24 | 35.71 | 0.6 | 0.25 | -2.87 | -55.96 |0.14 |
     |[Sh2-235B](/_clusters/sh2235b/)| 30.8 | 85.28 | 35.72 | 0.65 | 0.25 | -2.87 | -76.72 |0.24 |
     |[BDSB 72](/_clusters/bdsb72/)| 26.9 | 85.24 | 35.69 | 0.6 | 0.19 | -2.9 | -20.92 |0.04 |
-    |[OC 0292](/_clusters/oc0292/)| 15.4 | 85.54 | 36.12 | 0.58 | 0.64 | -3.02 | -19.7 |0.24 |
+    |[OC 0292](/_clusters/oc0292/)| 15.4 | 85.54 | 36.12 | 0.58 | 0.64 | -3.02 | -19.7 |0.15 |
 N_rows_shared: "6"
 ---

@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dias 5](/_clusters/dias5/)| 29.7 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.84 |
+    |[Dias 5](/_clusters/dias5/)| 29.7 | 274.36 | -19.73 | 0.74 | 1.79 | -0.95 | -1.82 |0.83 |
 N_rows_shared: "1"
 ---

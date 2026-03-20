@@ -77,7 +77,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CBJC8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.36 |
+    |[CBJC8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.34 |
     |[CWNU 2830](/_clusters/cwnu2830/)| 80.0 | 313.49 | 44.9 | 0.38 | -2.8 | -3.54 | -21.17 |0.01 |
 N_rows_shared: "2"
 ---

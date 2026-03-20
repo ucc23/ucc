@@ -124,7 +124,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 104](/_clusters/collinder104/)| 60.0 | 99.19 | 4.79 | 0.61 | -1.42 | 0.6 | 36.18 |0.69 |
+    |[Collinder 104](/_clusters/collinder104/)| 60.0 | 99.19 | 4.79 | 0.61 | -1.42 | 0.6 | 36.18 |0.68 |
     |[CWWDL 14136](/_clusters/cwwdl14136/)| 40.0 | 99.16 | 4.85 | 0.64 | -1.43 | 0.63 | -- |0.04 |
 N_rows_shared: "2"
 ---

@@ -46,6 +46,7 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2026ApJ...999..167Y' target='_blank'>Yan et al. (2026)</a></u><br>Number of WDs: expected from single-star evolution N=4, with probability of formation through binary evolution >=0.5 N=11.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G111, along with HSC_1195, HSC_1318, Theia_7 and HSC_1340.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
@@ -55,7 +56,7 @@ comments: |
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
+N_comments: "7"
 dens_val: 117.8
 N_50_val: 1678
 scix_url: Melotte%2022
@@ -63,6 +64,8 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |56.6 | 24.114 | 7.361 | 19.904 | -45.35 | 5.491 |
+    |[Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | 56.68 | 24.108 | 7.378 | 19.955 | -45.457 | -- |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 56.68 | 24.108 | -- | 20.08 | -45.5 | 6.3 |
     |[Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 56.601 | 24.114 | 7.346 | 20.077 | -45.503 | -- |
     |[Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | 56.5 | 24.1 | 7.38 | 20.0 | -45.5 | 5.95 |
     |[Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 56.646 | 24.17 | 7.362 | 19.93 | -45.449 | -- |
@@ -108,13 +111,15 @@ posit_table: |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 56.75 | 24.118 | -- | 19.15 | -45.72 | 5.6 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 56.75 | 24.117 | -- | 19.88 | -45.0 | 5.94 |
     |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 56.75 | 24.117 | -- | -- | -- | -- 
-N_rows_pos: "45"
+N_rows_pos: "47"
 cds_radec: 56.59978,+24.11362
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.14 | 0.13 | 0.63 | 131 | 0.000 | 936 | 0.15 | 0 |
+    | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 150 | -- | -- | -- | -- |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 78 | 0.020<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.14 | 0.22 | -- | 120 | 0.086 | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 80 | -0.000 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.14 | 0.36 | -- | 98 | 0.000 | 504 | 0.10 | -- |
@@ -159,7 +164,7 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.15 | 0.09 | -- | 130 | -0.030<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.13 | 0.09 | -- | 135 | -0.030 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.12 | 0.13 | -- | 112 | -- | -- | -- | -- |
-N_rows_pars: "44"
+N_rows_pars: "46"
 note_asterisk: true
 shared_table: |
 

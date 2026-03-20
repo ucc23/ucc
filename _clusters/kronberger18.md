@@ -13,17 +13,17 @@ glon: 169.63776
 glat: -0.01172
 r50: 4.0
 plx: 0.2954
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fee2c7"
 UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fafce1"
+UTI_C_lit_COL: "#fefee8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.3
 UTI_C_dens: 0.39
 UTI_C_C3: 0.12
-UTI_C_lit: 0.54
+UTI_C_lit: 0.5
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -89,7 +89,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 68](/_clusters/bdsb68/)| 33.3 | 79.56 | 37.56 | 0.25 | 0.18 | -0.42 | -0.14 |0.15 |
+    |[BDSB 68](/_clusters/bdsb68/)| 33.3 | 79.56 | 37.56 | 0.25 | 0.18 | -0.42 | -0.14 |0.09 |
     |[CWNU 4000](/_clusters/cwnu4000/)| 16.7 | 79.53 | 37.49 | 0.2 | 0.2 | -0.37 | -9.66 |0.04 |
 N_rows_shared: "2"
 ---

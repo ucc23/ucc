@@ -13,17 +13,17 @@ glon: 190.06739
 glat: 0.7981
 r50: 6.4
 plx: 0.5084
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.76"
+UTI_COLOR: "#d3ecc9"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#c4e5c7"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.85
+UTI_C_lit: 0.82
 UTI_C_dup: 0.92
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -113,7 +113,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2175](/_clusters/ngc2175/)| 8.0 | 92.4 | 20.6 | 0.5 | 0.29 | -2.26 | 23.04 |0.75 |
+    |[NGC 2175](/_clusters/ngc2175/)| 8.0 | 92.4 | 20.6 | 0.5 | 0.29 | -2.26 | 23.04 |0.74 |
     |[IRAS 06068+2030](/_clusters/iras06068p2030/)| 3.6 | 92.45 | 20.51 | 0.52 | 0.17 | -2.35 | -- |0.04 |
     |[NGC 2174](/_clusters/ngc2174/)| 1.8 | 92.44 | 20.52 | 0.54 | 0.14 | -2.37 | -- |0.07 |
 N_rows_shared: "3"

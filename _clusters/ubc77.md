@@ -13,17 +13,17 @@ glon: 191.57764
 glat: -3.88952
 r50: 4.2
 plx: 0.5972
-UTI: "0.57"
-UTI_COLOR: "#f5fbdc"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#fef8dd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.46
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -91,6 +91,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 76](/_clusters/ubc76/)| 13.6 | 89.02 | 17.28 | 0.58 | 0.13 | -1.14 | 19.3 |0.49 |
+    |[UBC 76](/_clusters/ubc76/)| 13.6 | 89.02 | 17.28 | 0.58 | 0.13 | -1.14 | 19.3 |0.47 |
 N_rows_shared: "1"
 ---

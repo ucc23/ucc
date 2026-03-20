@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MKN 1](/_clusters/mkn1/)| 11.3 | 266.49 | -29.08 | 0.44 | -0.2 | -0.82 | -32.03 |0.1 |
-    |[Dutra Bica 58](/_clusters/dutrabica58/)| 9.4 | 266.27 | -28.88 | 0.43 | -0.56 | -1.61 | -34.58 |0.2 |
+    |[Dutra Bica 58](/_clusters/dutrabica58/)| 9.4 | 266.27 | -28.88 | 0.43 | -0.56 | -1.61 | -34.58 |0.1 |
     |[Dutra Bica 55](/_clusters/dutrabica55/)| 1.9 | 266.12 | -29.23 | 0.42 | -0.04 | -1.16 | 81.18 |0.06 |
 N_rows_shared: "3"
 ---

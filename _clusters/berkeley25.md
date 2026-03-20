@@ -13,17 +13,17 @@ glon: 226.60801
 glat: -9.63204
 r50: 2.0
 plx: 0.1046
-UTI: "0.85"
-UTI_COLOR: "#bce1c5"
+UTI: "0.84"
+UTI_COLOR: "#bfe2c5"
 UTI_C_N_COL: "#c2e4c6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.17 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a clear giant branch and several stars above the TO that are BSS candidates. The RDP yields a radius of ~5', the largest in the sample. Carraro 2005 used a much smaller 0.8' radius and obtained 3.0 Gyr and 11.3 kpc; Carraro 2007 gives 5 Gyr and 13.2 kpc. ASteCA estimates 7.4 kpc and 5.2 Gyr, placing the cluster considerably closer than the Carraro et al. values and most databases (>11 kpc). CG20 gives a similar distance of 6.8 kpc but a much younger age of 2.5 Gyr. The underestimated cluster region likely explains the discrepancies with Carraro et al.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 10.0
 N_50_val: 308
 scix_url: Berkeley%2025

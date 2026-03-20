@@ -13,17 +13,17 @@ glon: 313.23529
 glat: -0.336
 r50: 3.8
 plx: 0.5737
-UTI: "0.27"
-UTI_COLOR: "#fddbc4"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fcd6c2"
 UTI_C_dup_COL: "#fef7db"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.29
+UTI_C_lit: 0.25
 UTI_C_dup: 0.43
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -82,7 +82,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.65 |
+    |[Loden 1256](/_clusters/loden1256/)| 56.6 | 214.77 | -61.43 | 0.58 | -3.28 | -3.11 | -55.63 |0.63 |
     |[OC 0608](/_clusters/oc0608/)| 20.5 | 214.85 | -61.43 | 0.59 | -3.19 | -3.14 | -55.63 |0.0 |
 N_rows_shared: "2"
 ---

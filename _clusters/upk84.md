@@ -13,17 +13,17 @@ glon: 64.04055
 glat: -13.10962
 r50: 21.8
 plx: 1.0779
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#fef4d6"
 UTI_C_N: 0.77
 UTI_C_dens: 0.86
 UTI_C_C3: 1.0
-UTI_C_lit: 0.62
+UTI_C_lit: 0.58
 UTI_C_dup: 0.4
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Dense
@@ -97,7 +97,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Alessi 116](/_clusters/alessi116/)| 60.4 | 310.21 | 20.16 | 1.08 | -6.29 | -9.3 | 24.38 |0.64 |
+    |[Alessi 116](/_clusters/alessi116/)| 60.4 | 310.21 | 20.16 | 1.08 | -6.29 | -9.3 | 24.38 |0.54 |
     |[CWWDL 14281](/_clusters/cwwdl14281/)| 36.9 | 310.2 | 20.17 | 1.07 | -6.28 | -9.3 | 23.99 |0.0 |
 N_rows_shared: "2"
 ---

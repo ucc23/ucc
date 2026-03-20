@@ -13,17 +13,17 @@ glon: 230.79996
 glat: 1.01552
 r50: 2.9
 plx: 0.2574
-UTI: "0.95"
-UTI_COLOR: "#aad2bd"
+UTI: "0.94"
+UTI_COLOR: "#abd4be"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#b4ddc3"
+UTI_C_lit_COL: "#bce1c5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.88
+UTI_C_lit: 0.85
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -112,7 +112,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.64 |
+    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.63 |
     |[HSC 1820](/_clusters/hsc1820/)| 0.8 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.1 |
 N_rows_shared: "2"
 ---

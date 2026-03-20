@@ -68,7 +68,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 14](/_clusters/haffner14/)| 88.3 | 116.18 | -28.38 | 0.25 | -1.82 | 1.75 | 69.57 |0.91 |
+    |[Haffner 14](/_clusters/haffner14/)| 88.3 | 116.18 | -28.38 | 0.25 | -1.82 | 1.75 | 69.57 |0.9 |
     |[OC 0422](/_clusters/oc0422/)| 12.1 | 116.16 | -28.38 | 0.25 | -1.82 | 1.73 | 70.1 |0.0 |
 N_rows_shared: "2"
 ---

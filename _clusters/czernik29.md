@@ -13,17 +13,17 @@ glon: 230.8101
 glat: 0.96089
 r50: 1.7
 plx: 0.2405
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#fefbe2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.47
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.62
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -95,7 +95,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.95 |
+    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.94 |
     |[HSC 1820](/_clusters/hsc1820/)| 4.3 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.1 |
 N_rows_shared: "2"
 ---

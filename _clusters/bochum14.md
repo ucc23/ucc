@@ -13,17 +13,17 @@ glon: 6.37954
 glat: -0.50879
 r50: 3.8
 plx: 0.3144
-UTI: "0.81"
-UTI_COLOR: "#c7e6c7"
+UTI: "0.79"
+UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.62
+UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -98,6 +98,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Ryu 604](/_clusters/ryu604/)| 1.9 | 270.37 | -23.84 | 0.32 | 0.18 | -1.08 | 20.3 |0.14 |
-    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.76 |
+    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.75 |
 N_rows_shared: "2"
 ---

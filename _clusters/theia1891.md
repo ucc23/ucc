@@ -78,6 +78,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 30](/_clusters/ufmg30/)| 91.0 | 257.78 | -48.75 | 0.84 | -0.49 | -0.85 | 19.42 |0.59 |
+    |[UFMG 30](/_clusters/ufmg30/)| 91.0 | 257.78 | -48.75 | 0.84 | -0.49 | -0.85 | 19.42 |0.49 |
 N_rows_shared: "1"
 ---

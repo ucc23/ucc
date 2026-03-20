@@ -13,17 +13,17 @@ glon: 169.49729
 glat: 0.14612
 r50: 9.4
 plx: 0.6442
-UTI: "0.49"
-UTI_COLOR: "#fefde6"
+UTI: "0.47"
+UTI_COLOR: "#fefbe2"
 UTI_C_N_COL: "#fef4d6"
 UTI_C_dens_COL: "#fef8dd"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.4
 UTI_C_dens: 0.44
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -85,7 +85,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.16 |
+    |[HSC 1323](/_clusters/hsc1323/)| 22.5 | 79.39 | 37.86 | 0.64 | 0.99 | -3.53 | -19.41 |0.1 |
     |[OC 0287](/_clusters/oc0287/)| 20.0 | 79.46 | 38.03 | 0.62 | 1.04 | -3.6 | -19.37 |0.12 |
 N_rows_shared: "2"
 ---

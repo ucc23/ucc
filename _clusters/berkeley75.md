@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.65 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>A sparse cluster with fewer than 100 detected members. Carraro 2005 report a TO at V=17.5, a radius of 1', an age of 3.5 Gyr, and a distance of 9.8 kpc. Our structural analysis gives a 2' radius with the TO at G=17.7 mag. The giant branch is poorly populated but shows a two-star RC, and some stars above the sub-giant branch are likely binaries. ASteCA places Berkeley 75 at 8 kpc with an age of 5.5 Gyr. The distance is similar to CG20 (8.3 kpc), although CG20 assigns a much younger age of 1.7 Gyr. OC02 gives a closer age (4 Gyr) but a larger distance by ~1 kpc.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 9.4
 N_50_val: 165
 scix_url: Berkeley%2075
@@ -59,6 +60,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |102.251 | -23.996 | 0.104 | -0.232 | 1.147 | 125.075 |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 102.249 | -23.996 | -- | -0.26 | 1.09 | 124.8 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 102.249 | -23.996 | 0.108 | -0.241 | 1.179 | 125.07 |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 102.268 | -24.015 | 0.104 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 102.249 | -23.996 | 0.108 | -0.241 | 1.179 | 125.07 |
@@ -76,13 +78,14 @@ posit_table: |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 102.254 | -23.997 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 102.263 | -23.985 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 102.254 | -23.997 | -- | -4.56 | -9.82 | 94.6 
-N_rows_pos: "17"
+N_rows_pos: "18"
 cds_radec: 102.2507,-23.99565
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.32 | 0.29 | 1.08 | 1995 | -0.305 | 1752 | 0.77 | 3 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.32 | 0.29 | 1.08 | 1995 | -0.390 | 1752 | 0.77 | 3 |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 1698 | -0.410<sup>(15)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 583<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.37 | 0.80 | -- | 11482 | -1.000 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 7.44 | 0.20 | 1.08 | 1858 | -- | -- | -- | -- |
@@ -101,7 +104,7 @@ fpars_table: |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 9.10 | -- | -- | 3981 | -0.220 | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 9.08<sup>(1)</sup> | 0.00 | -- | 1995 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 9.10 | 0.13 | -- | 3981 | -0.220 | -- | -- | -- |
-N_rows_pars: "18"
+N_rows_pars: "19"
 note_asterisk: true
 shared_table: |
 

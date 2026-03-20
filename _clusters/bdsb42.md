@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 23](/_clusters/kronberger23/)| 64.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.33 |
+    |[Kronberger 23](/_clusters/kronberger23/)| 64.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.23 |
     |[BDSB 39](/_clusters/bdsb39/)| 20.0 | 346.43 | 60.26 | 0.32 | -3.77 | -2.33 | -- |0.07 |
 N_rows_shared: "2"
 ---

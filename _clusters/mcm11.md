@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 125](/_clusters/bdsb125/)| 24.0 | 281.46 | -2.73 | 0.24 | -1.17 | -3.72 | 28.11 |0.31 |
+    |[BDSB 125](/_clusters/bdsb125/)| 24.0 | 281.46 | -2.73 | 0.24 | -1.17 | -3.72 | 28.11 |0.21 |
 N_rows_shared: "1"
 ---

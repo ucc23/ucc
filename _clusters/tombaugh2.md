@@ -49,11 +49,12 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>A well-populated cluster with nearly 900 identified members. The CMD shows a wide main sequence, a prominent giant branch, and a clear RC; some stars above the TO are likely blue stragglers. ASteCA gives 8.7 kpc and 2.1 Gyr, close to Dias 2021 (9 kpc, 2.3 Gyr) and CG20 (9.3 kpc, 1.6 Gyr). OC02 and MWSC give distances below ~7 kpc; WEBDA gives over ~13 kpc. Frinchaboy 2008 proposed an abundance spread among members and adopted 7.9 kpc and 2.0 Gyr. Villanova 2010 places the cluster at 7.2 kpc. Kubiak 1992, studying variable stars, estimated 4 Gyr and 6.3 kpc.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only straggler candidates inside a radius of 2' around the centre of coordinates have been considered.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 42.3
 N_50_val: 796
 scix_url: Tombaugh%202
@@ -61,6 +62,7 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |105.777 | -20.818 | 0.107 | -0.511 | 1.401 | 122.805 |
+    |[Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | 105.777 | -20.817 | -- | -0.46 | 1.35 | 121.5 |
     |[Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | 106.0 | -20.8 | 0.07 | -0.51 | 1.47 | 121.0 |
     |[Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | 105.778 | -20.814 | -- | -- | -- | -- |
     |[Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 105.772 | -20.819 | -- | -- | -- | -- |
@@ -87,13 +89,14 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 105.85 | -20.85 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 105.77 | -20.815 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.771 | -20.817 | -- | -1.72 | 3.86 | 120.9 
-N_rows_pos: "26"
+N_rows_pos: "27"
 cds_radec: 105.77702,-20.81795
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.98 | 0.89 | 1.82 | 1620 | -0.330 | 8478 | 0.45 | 17 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 8.98 | 0.89 | 1.82 | 1621 | -0.350 | 8478 | 0.45 | 17 |
+    | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 1622 | -0.350<sup>(15)</sup> | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 1620 | -0.350 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.400<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 8.98 | 0.89 | -- | 2265 | -- | 8478 | -- | -- |
@@ -119,7 +122,7 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 13.26 | 0.25 | -- | 1023 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 6.30 | 1.26 | -- | 4000 | -0.450<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 6.08 | 0.95 | -- | 1023 | -0.310 | -- | -- | -- |
-N_rows_pars: "25"
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
 

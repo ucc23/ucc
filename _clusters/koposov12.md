@@ -122,6 +122,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1579](/_clusters/ubc1579/)| 21.0 | 90.31 | 35.4 | 0.49 | 0.64 | -1.74 | 56.82 |0.19 |
-    |[Alessi J0601.6+3531](/_clusters/alessij06016p3531/)| 9.1 | 90.35 | 35.5 | 0.56 | 0.63 | -1.74 | 26.3 |0.25 |
+    |[Alessi J0601.6+3531](/_clusters/alessij06016p3531/)| 9.1 | 90.35 | 35.5 | 0.56 | 0.63 | -1.74 | 26.3 |0.19 |
 N_rows_shared: "2"
 ---

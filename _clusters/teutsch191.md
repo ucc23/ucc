@@ -69,6 +69,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDSB 53](/_clusters/bdsb53/)| 86.7 | 37.03 | 72.64 | 1.06 | -1.3 | -1.49 | -25.77 |0.45 |
-    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.69 |
+    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.67 |
 N_rows_shared: "2"
 ---

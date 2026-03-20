@@ -13,17 +13,17 @@ glon: 173.09033
 glat: 0.04998
 r50: 5.0
 plx: 0.4618
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.64"
+UTI_COLOR: "#eaf6d1"
 UTI_C_N_COL: "#fef7db"
 UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.43
 UTI_C_dens: 0.87
 UTI_C_C3: 0.38
-UTI_C_lit: 0.82
+UTI_C_lit: 0.8
 UTI_C_dup: 0.98
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Dense
@@ -108,7 +108,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.45 |
+    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.43 |
     |[Stock 8](/_clusters/stock8/)| 2.3 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.91 |
 N_rows_shared: "2"
 ---

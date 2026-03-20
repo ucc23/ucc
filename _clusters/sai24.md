@@ -13,17 +13,17 @@ glon: 138.01916
 glat: 1.4984
 r50: 4.6
 plx: 0.4484
-UTI: "0.84"
-UTI_COLOR: "#bfe2c5"
+UTI: "0.83"
+UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#c9e7c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.8
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -110,7 +110,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.22 |
+    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.18 |
     |[AFGL4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
     |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |

@@ -13,17 +13,17 @@ glon: 61.6344
 glat: 1.91263
 r50: 2.6
 plx: 0.051
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fef5d7"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.41
 UTI_C_dens: 0.04
 UTI_C_C3: 0.5
-UTI_C_lit: 0.46
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>A compact, poorly studied cluster reported in Kronberger 2006 as a cluster candidate with RC, with E_BV=0.84 and a distance of 11.9 kpc using a 1.3' radius. The CMD shows a short main sequence, TO at G=18.3, and a giant branch whose scatter is explained by field contamination, high color excess (ASteCA finds E_BV~1.3, ~0.5 mag above Kronberger's value), and a large binary fraction (~80%). ASteCA gives 7.6 kpc and 1 Gyr, placing the cluster below the 9 kpc limit — in disagreement with Kronberger 2006 and MWSC (12.6 kpc).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 41
 scix_url: Kronberger%2031
