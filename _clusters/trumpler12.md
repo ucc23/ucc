@@ -85,8 +85,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 151.606 | -60.297 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 151.62 | -60.3 | -- | -9.08 | 2.23 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 151.6 | -60.27 | -- | -8.1 | 3.64 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 151.621 | -60.3 | -- | -3.82 | 1.75 | -- 
-N_rows_pos: "26"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 151.621 | -60.3 | -- | -3.82 | 1.75 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 151.622 | -60.303 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 151.2 | -60.067 | -- | -- | -- | -- 
+N_rows_pos: "28"
 cds_radec: 151.62432,-60.2902
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -113,7 +115,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.44 | 0.16 | -- | 1603 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.44 | 0.16 | -- | 1603 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 738 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.02<sup>(1)</sup> | 0.28 | -- | 708 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.91<sup>(1)</sup> | 0.28 | -- | 708 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.30 | 0.16 | -- | 646 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 1.30 | 0.16 | -- | 646 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.25 | 0.63 | -- | -- | -- | -- | -- | -- |

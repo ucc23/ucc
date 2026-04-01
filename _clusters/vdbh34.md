@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 34
 title_flag: true
-more_names: vdB-Hagen 34; vdBergh-Hagen 34; BH 34; MWSC 1497
+more_names: vdB-Hagen 34; van den Bergh-Hagen 34; vdBergh-Hagen 34; BH 34; MWSC 1497
 fname: vdbh34
 members_file: "260_264"
 fov: 0.197
@@ -13,17 +13,17 @@ glon: 262.57851
 glat: -2.95526
 r50: 5.9
 plx: 0.2418
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.06
 UTI_C_C3: 0.25
-UTI_C_lit: 0.46
+UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -68,8 +68,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 127.807 | -44.496 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 127.81 | -44.5 | -- | -7.81 | 4.02 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 127.81 | -44.5 | -- | -6.66 | 2.15 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 127.812 | -44.5 | -- | -4.0 | 0.54 | 24.0 
-N_rows_pos: "11"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 127.812 | -44.5 | -- | -4.0 | 0.54 | 24.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 127.83 | -44.484 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 127.4 | -44.317 | -- | -- | -- | -- 
+N_rows_pos: "13"
 cds_radec: 127.84796,-44.51336
 carousel: UCC
 fpars_table: |

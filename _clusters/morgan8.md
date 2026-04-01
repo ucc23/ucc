@@ -13,17 +13,17 @@ glon: 210.13441
 glat: -19.57604
 r50: 5.5
 plx: 2.5481
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.35"
+UTI_COLOR: "#feebce"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.88
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -80,7 +80,7 @@ shared_table: |
     |[OC 0347](/_clusters/oc0347/)| 90.9 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
     |[LDN1641 North](/_clusters/ldn1641north/)| 54.5 | 84.08 | -6.37 | 2.55 | 0.73 | 0.35 | 10.96 |0.23 |
     |[UBC 208](/_clusters/ubc208/)| 15.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
-    |[NGC 1980](/_clusters/ngc1980/)| 12.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.82 |
+    |[NGC 1980](/_clusters/ngc1980/)| 12.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.89 |
     |[OCSN 226](/_clusters/ocsn226/)| 9.1 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
 N_rows_shared: "5"
 ---

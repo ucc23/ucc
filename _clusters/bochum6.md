@@ -13,17 +13,17 @@ glon: 234.73286
 glat: -0.22767
 r50: 3.6
 plx: 0.256
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.71
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -72,8 +72,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 112.95 | -19.375 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 113.0 | -19.417 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 113.0 | -19.433 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 113.0 | -19.417 | -- | -1.19 | 2.37 | -- 
-N_rows_pos: "15"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 113.0 | -19.417 | -- | -1.19 | 2.37 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 113.001 | -19.444 | -- | -- | -- | -- 
+N_rows_pos: "16"
 cds_radec: 112.98385,-19.40752
 carousel: UCC_CANTAT20
 fpars_table: |
@@ -96,11 +97,12 @@ fpars_table: |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 2.24 | -- | 10 | -- | -- | -- | 0 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.98 | 2.21 | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.98 | 2.21 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "16"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 4.00 | -- | -- | 1 | -- | -- | -- | -- |
+N_rows_pars: "17"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 9](/_clusters/dbsb9/)| 61.7 | 112.97 | -19.4 | 0.25 | -2.25 | 2.29 | 66.97 |0.02 |
+    |[DBSB 9](/_clusters/dbsb9/)| 61.7 | 112.97 | -19.4 | 0.25 | -2.25 | 2.29 | 66.97 |0.01 |
 N_rows_shared: "1"
 ---

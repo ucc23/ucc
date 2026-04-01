@@ -70,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[S87E](/_clusters/s87e/)| 88.4 | 296.59 | 24.6 | 0.48 | -1.51 | -4.63 | 78.35 |0.49 |
-    |[Dolidze 53](/_clusters/dolidze53/)| 81.1 | 296.59 | 24.61 | 0.48 | -1.5 | -4.62 | 51.23 |0.05 |
+    |[Dolidze 53](/_clusters/dolidze53/)| 81.1 | 296.59 | 24.61 | 0.48 | -1.5 | -4.62 | 51.23 |0.04 |
 N_rows_shared: "2"
 ---

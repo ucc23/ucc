@@ -13,17 +13,17 @@ glon: 328.8552
 glat: -0.48494
 r50: 3.8
 plx: 0.3629
-UTI: "1.0"
-UTI_COLOR: "#a5cab9"
+UTI: "0.96"
+UTI_COLOR: "#a9d1bc"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#a5cab9"
+UTI_C_lit_COL: "#add9c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 1.0
+UTI_C_lit: 0.91
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -83,8 +83,10 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 240.204 | -53.536 | -- | -2.42 | -4.31 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 240.217 | -53.533 | -- | -5.67 | -4.96 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 240.204 | -53.536 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 240.204 | -53.536 | -- | -2.42 | -4.31 | -- 
-N_rows_pos: "21"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 240.204 | -53.536 | -- | -2.42 | -4.31 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 240.113 | -53.521 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 239.15 | -53.383 | -- | -- | -- | -- 
+N_rows_pos: "23"
 cds_radec: 240.21804,-53.5381
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

@@ -36,17 +36,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/collinder106/" target="_blank" style="color: $blue;">Collinder 106</a> | Belongs to cluster aggregate 'Agg19' along with Collinder 107 and NGC 2244. |
 | <a href="{{ site.baseurl }}/_clusters/collinder107/" target="_blank" style="color: $blue;">Collinder 107</a> | Belongs to cluster aggregate 'Agg19' along with Collinder 106 and NGC 2244. |
 | <a href="{{ site.baseurl }}/_clusters/collinder135/" target="_blank" style="color: $blue;">Collinder 135</a> | Belongs to cluster aggregate 'Agg20' along with UBC 7. |
-| <a href="{{ site.baseurl }}/_clusters/collinder162/" target="_blank" style="color: $blue;">Collinder 162</a> | Belongs to cluster aggregate 'Agg35' along with FSR 1315. |
 | <a href="{{ site.baseurl }}/_clusters/collinder197/" target="_blank" style="color: $blue;">Collinder 197</a> | Belongs to cluster aggregate 'Agg05' along with Alessi 43. |
-| <a href="{{ site.baseurl }}/_clusters/collinder220/" target="_blank" style="color: $blue;">Collinder 220</a> | Belongs to cluster aggregate 'Agg21' along with IC 2581. |
 | <a href="{{ site.baseurl }}/_clusters/collinder272/" target="_blank" style="color: $blue;">Collinder 272</a> | Belongs to cluster aggregate 'Agg22' along with NGC 5168. |
-| <a href="{{ site.baseurl }}/_clusters/collinder273/" target="_blank" style="color: $blue;">Collinder 273</a> | Belongs to cluster aggregate 'Agg22' along with Collinder 272. |
-| <a href="{{ site.baseurl }}/_clusters/collinder397/" target="_blank" style="color: $blue;">Collinder 397</a> | Belongs to cluster aggregate 'Agg25' along with Czernik 39 and NGC 6756. |
-| <a href="{{ site.baseurl }}/_clusters/collinder398/" target="_blank" style="color: $blue;">Collinder 398</a> | Belongs to cluster aggregate 'Agg25' along with Czernik 39 and NGC 6755. |
-| <a href="{{ site.baseurl }}/_clusters/collinder413/" target="_blank" style="color: $blue;">Collinder 413</a> | Belongs to cluster aggregate 'Agg14' along with Biurakan 2, FSR 0198 and Teutsch 8. |
-| <a href="{{ site.baseurl }}/_clusters/collinder437/" target="_blank" style="color: $blue;">Collinder 437</a> | Belongs to cluster aggregate 'Agg28' along with FSR 0306. |
-| <a href="{{ site.baseurl }}/_clusters/collinder459/" target="_blank" style="color: $blue;">Collinder 459</a> | Belongs to cluster aggregate 'Agg11' along with Berkeley 58 and NGC 7790. |
-| <a href="{{ site.baseurl }}/_clusters/collinder461/" target="_blank" style="color: $blue;">Collinder 461</a> | Belongs to cluster aggregate 'Agg11' along with Berkeley 58 and NGC 7788. |
 | <a href="{{ site.baseurl }}/_clusters/czernik20/" target="_blank" style="color: $blue;">Czernik 20</a> | Belongs to cluster aggregate 'Agg23' along with NGC 1857. |
 | <a href="{{ site.baseurl }}/_clusters/czernik31/" target="_blank" style="color: $blue;">Czernik 31</a> | Belongs to cluster aggregate 'Agg24' along with NGC 2421. |
 | <a href="{{ site.baseurl }}/_clusters/czernik39/" target="_blank" style="color: $blue;">Czernik 39</a> | Belongs to cluster aggregate 'Agg25' along with NGC 6755 and NGC 6756. |
@@ -87,26 +78,35 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/king16/" target="_blank" style="color: $blue;">King 16</a> | Belongs to cluster aggregate 'Agg27' along with Dias 1. |
 | <a href="{{ site.baseurl }}/_clusters/koposov63/" target="_blank" style="color: $blue;">Koposov 63</a> | Belongs to cluster aggregate 'Agg46' along with Kharchenko 1. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger1/" target="_blank" style="color: $blue;">Kronberger 1</a> | Belongs to cluster aggregate 'Agg17' along with COIN-Gaia 40, Gulliver 53, NGC 1893 and Stock 8. |
-| <a href="{{ site.baseurl }}/_clusters/melotte109/" target="_blank" style="color: $blue;">Melotte 109</a> | Belongs to cluster aggregate 'Agg37' along with Gulliver 12. |
-| <a href="{{ site.baseurl }}/_clusters/melotte125/" target="_blank" style="color: $blue;">Melotte 125</a> | Belongs to cluster aggregate 'Agg45' along with Hogg 17, Pismis 19 and Trumpler 22. |
-| <a href="{{ site.baseurl }}/_clusters/melotte32/" target="_blank" style="color: $blue;">Melotte 32</a> | Belongs to cluster aggregate 'Agg23' along with Czernik 20. |
-| <a href="{{ site.baseurl }}/_clusters/melotte41/" target="_blank" style="color: $blue;">Melotte 41</a> | Belongs to cluster aggregate 'Agg16' along with COIN-Gaia 24. |
-| <a href="{{ site.baseurl }}/_clusters/melotte43/" target="_blank" style="color: $blue;">Melotte 43</a> | Belongs to cluster aggregate 'Agg48' along with Skiff J0614+12.9. |
-| <a href="{{ site.baseurl }}/_clusters/melotte67/" target="_blank" style="color: $blue;">Melotte 67</a> | Belongs to cluster aggregate 'Agg24' along with Czernik 31. |
 | <a href="{{ site.baseurl }}/_clusters/ngc146/" target="_blank" style="color: $blue;">NGC 146</a> | Belongs to cluster aggregate 'Agg47' along with King 14. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1857/" target="_blank" style="color: $blue;">NGC 1857</a> | Belongs to cluster aggregate 'Agg23' along with Czernik 20. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1893/" target="_blank" style="color: $blue;">NGC 1893</a> | Belongs to cluster aggregate 'Agg17' along with COIN-Gaia 40, Gulliver 53, Kronberger 1 and Stock 8. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2168/" target="_blank" style="color: $blue;">NGC 2168</a> | Belongs to cluster aggregate 'Agg16' along with COIN-Gaia 24. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2194/" target="_blank" style="color: $blue;">NGC 2194</a> | Belongs to cluster aggregate 'Agg48' along with Skiff J0614+12.9. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2244/" target="_blank" style="color: $blue;">NGC 2244</a> | Belongs to cluster aggregate 'Agg19' along with Collinder 106 and Collinder 107. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2318/" target="_blank" style="color: $blue;">NGC 2318</a> | Belongs to cluster aggregate 'Agg49' along with Ruprecht 8. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2345/" target="_blank" style="color: $blue;">NGC 2345</a> | Belongs to cluster aggregate 'Agg34' along with FSR 1207. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2421/" target="_blank" style="color: $blue;">NGC 2421</a> | Belongs to cluster aggregate 'Agg24' along with Czernik 31. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2453/" target="_blank" style="color: $blue;">NGC 2453</a> | Belongs to cluster aggregate 'Agg35' along with FSR 1315. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3247/" target="_blank" style="color: $blue;">NGC 3247</a> | Belongs to cluster aggregate 'Agg21' along with IC 2581. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3572/" target="_blank" style="color: $blue;">NGC 3572</a> | Belongs to cluster aggregate 'Agg44' along with Hogg 10. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4103/" target="_blank" style="color: $blue;">NGC 4103</a> | Belongs to cluster aggregate 'Agg37' along with Gulliver 12. |
 | <a href="{{ site.baseurl }}/_clusters/ngc436/" target="_blank" style="color: $blue;">NGC 436</a> | Belongs to cluster aggregate 'Agg50' along with NGC 457. |
 | <a href="{{ site.baseurl }}/_clusters/ngc457/" target="_blank" style="color: $blue;">NGC 457</a> | Belongs to cluster aggregate 'Agg50' along with NGC 436. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5168/" target="_blank" style="color: $blue;">NGC 5168</a> | Belongs to cluster aggregate 'Agg22' along with Collinder 272. |
 | <a href="{{ site.baseurl }}/_clusters/ngc5269/" target="_blank" style="color: $blue;">NGC 5269</a> | Belongs to cluster aggregate 'Agg51' along with SAI 118. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5617/" target="_blank" style="color: $blue;">NGC 5617</a> | Belongs to cluster aggregate 'Agg45' along with Hogg 17, Pismis 19 and Trumpler 22. |
 | <a href="{{ site.baseurl }}/_clusters/ngc581/" target="_blank" style="color: $blue;">NGC 581</a> | Belongs to cluster aggregate 'Agg39' along with Gulliver 16. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6561/" target="_blank" style="color: $blue;">NGC 6561</a> | Belongs to cluster aggregate 'Agg38' along with Gulliver 15. |
 | <a href="{{ site.baseurl }}/_clusters/ngc659/" target="_blank" style="color: $blue;">NGC 659</a> | Belongs to cluster aggregate 'Agg52' along with NGC 663. |
 | <a href="{{ site.baseurl }}/_clusters/ngc663/" target="_blank" style="color: $blue;">NGC 663</a> | Belongs to cluster aggregate 'Agg52' along with NGC 659. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6735/" target="_blank" style="color: $blue;">NGC 6735</a> | Belongs to cluster aggregate 'Agg13' along with Berkeley 81. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6755/" target="_blank" style="color: $blue;">NGC 6755</a> | Belongs to cluster aggregate 'Agg25' along with Czernik 39 and NGC 6756. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6756/" target="_blank" style="color: $blue;">NGC 6756</a> | Belongs to cluster aggregate 'Agg25' along with Czernik 39 and NGC 6755. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6871/" target="_blank" style="color: $blue;">NGC 6871</a> | Belongs to cluster aggregate 'Agg14' along with Biurakan 2, FSR 0198 and Teutsch 8. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7086/" target="_blank" style="color: $blue;">NGC 7086</a> | Belongs to cluster aggregate 'Agg28' along with FSR 0306. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7788/" target="_blank" style="color: $blue;">NGC 7788</a> | Belongs to cluster aggregate 'Agg11' along with Berkeley 58 and NGC 7790. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7790/" target="_blank" style="color: $blue;">NGC 7790</a> | Belongs to cluster aggregate 'Agg11' along with Berkeley 58 and NGC 7788. |
 | <a href="{{ site.baseurl }}/_clusters/pismis19/" target="_blank" style="color: $blue;">Pismis 19</a> | Belongs to cluster aggregate 'Agg45' along with Hogg 17, NGC 5617 and Trumpler 22. |
 | <a href="{{ site.baseurl }}/_clusters/rsg7/" target="_blank" style="color: $blue;">RSG7</a> | Belongs to cluster aggregate 'Agg53' along with RSG 8. |
 | <a href="{{ site.baseurl }}/_clusters/rsg8/" target="_blank" style="color: $blue;">RSG8</a> | Belongs to cluster aggregate 'Agg53' along with RSG 7. |
@@ -129,7 +129,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/trumpler15/" target="_blank" style="color: $blue;">Trumpler 15</a> | Belongs to cluster aggregate 'Agg41' along with Gulliver 52. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler22/" target="_blank" style="color: $blue;">Trumpler 22</a> | Belongs to cluster aggregate 'Agg45' along with Hogg 17, NGC 5617 and Pismis 19. |
 | <a href="{{ site.baseurl }}/_clusters/ubc10a/" target="_blank" style="color: $blue;">UBC 10 a</a> | Belongs to cluster aggregate 'Agg58' along with UPK 169. |
-| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: $blue;">UBC 14</a> | Belongs to cluster aggregate 'Agg06' along with Alessi 44. |
+| <a href="{{ site.baseurl }}/_clusters/ubc14/" target="_blank" style="color: red;">UBC 14</a> | Belongs to cluster aggregate 'Agg06' along with Alessi 44. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17a/" target="_blank" style="color: $blue;">UBC 17 a</a> | Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17b. |
 | <a href="{{ site.baseurl }}/_clusters/ubc17b/" target="_blank" style="color: $blue;">UBC 17 b</a> | Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17a. |
 | <a href="{{ site.baseurl }}/_clusters/ubc39/" target="_blank" style="color: $blue;">UBC 39</a> | Belongs to cluster aggregate 'Agg30' along with FSR 0534. |

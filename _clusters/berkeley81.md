@@ -88,8 +88,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 285.404 | 0.449 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 285.4 | -0.517 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 285.4 | -0.517 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 285.417 | -0.456 | -- | 1.46 | -0.7 | 48.1 
-N_rows_pos: "27"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 285.417 | -0.456 | -- | 1.46 | -0.7 | 48.1 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 285.416 | -0.515 | -- | -- | -- | -- 
+N_rows_pos: "28"
 cds_radec: 285.4175,-0.45393
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -118,7 +119,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 3.40 | 3.35 | -- | 1000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 3.40 | 3.35 | -- | 1000 | -0.150 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.00 | -- | -- | 1000 | -0.150 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 5.13<sup>(1)</sup> | 2.84 | -- | 891 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.60<sup>(1)</sup> | 2.84 | -- | 891 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 3.15 | -- | 1000 | -- | -- | -- | 19 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 3.00 | 3.15 | -- | 1000 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.00 | 3.15 | -- | 1000 | -0.150 | -- | -- | -- |

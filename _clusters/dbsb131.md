@@ -74,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 133](/_clusters/dbsb133/)| 16.0 | 198.43 | -62.36 | 0.25 | -8.46 | -0.95 | -2.62 |0.03 |
+    |[DBSB 133](/_clusters/dbsb133/)| 16.0 | 198.43 | -62.36 | 0.25 | -8.46 | -0.95 | -2.62 |0.08 |
 N_rows_shared: "1"
 ---

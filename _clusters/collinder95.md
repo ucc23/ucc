@@ -87,14 +87,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 97.71 | 9.94 | -- | 0.2 | -- | -11.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 97.77 | 9.9 | -- | -1.81 | -4.62 | -11.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 97.78 | 9.92 | -- | -1.53 | -4.13 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.713 | 9.944 | -- | -0.74 | -1.17 | -11.0 
-N_rows_pos: "28"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.713 | 9.944 | -- | -0.74 | -1.17 | -11.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 97.632 | 9.933 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 97.80613,+9.91747
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.65 | 0.905 | 2.33 | 8 | -0.111 | 274 | 0.47 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.66 | 0.91 | 2.33 | 10 | -0.111 | 274 | 0.47 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.68 | 0.90 | -- | 7 | -- | 274 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.64 | 1.52 | -- | 16 | -0.042 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.325<sup>(1)</sup> | -- | -- | -- |
@@ -111,7 +112,7 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.66 | 1.52 | -- | 19 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.71 | 1.60 | -- | 10 | -- | -- | -- | -- |
     | [Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | -- | -- | -- | -- | -0.140 | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.00 | 0.00 | -- | 0 | -0.246 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.67<sup>(1)</sup> | -- | -- | -- | -0.246 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.67 | -- | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2019MNRAS.486.5726D) | 2019 | 0.63 | 0.60 | -- | 5 | 1.249 | -- | -- | -- |
     | [Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 0.64 | 0.73 | -- | 7 | 0.046 | -- | -- | -- |

@@ -56,7 +56,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/db200130/" target="_blank" style="color: $blue;">DB2001 30</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/db200131/" target="_blank" style="color: $blue;">DB2001 31</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/db200132/" target="_blank" style="color: red;">DB2001 32</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/db200135/" target="_blank" style="color: red;">DB2001 35</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/db200138/" target="_blank" style="color: red;">DB2001 38</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/db200139/" target="_blank" style="color: red;">DB2001 39</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/db200140/" target="_blank" style="color: red;">DB2001 40</a> | Classified as infrared cluster (IRC). |
@@ -78,6 +77,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ggd17/" target="_blank" style="color: $blue;">GGD17</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ggd27/" target="_blank" style="color: $blue;">GGD27</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ggd4/" target="_blank" style="color: red;">GGD4</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/grasdalen1/" target="_blank" style="color: $blue;">Grasdalen 1</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/gum25/" target="_blank" style="color: $blue;">Gum25</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/gy117/" target="_blank" style="color: red;">Gy1-17</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/gy27/" target="_blank" style="color: $blue;">Gy2-7</a> | Classified as infrared cluster (IRC). |
@@ -88,6 +88,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ic1805west/" target="_blank" style="color: red;">IC1805-West</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ic1871/" target="_blank" style="color: red;">IC1871</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ic2162/" target="_blank" style="color: $blue;">IC2162</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/ic466/" target="_blank" style="color: red;">IC466</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/ic4955/" target="_blank" style="color: $blue;">IC4955</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras02175p5845/" target="_blank" style="color: red;">IRAS02175+5845</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/iras02327p6019/" target="_blank" style="color: red;">IRAS02327+6019</a> | Classified as infrared cluster (IRC). |
@@ -187,7 +188,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/sh2287c/" target="_blank" style="color: red;">Sh2-287C</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh264/" target="_blank" style="color: $blue;">Sh2-64</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/sh288b/" target="_blank" style="color: $blue;">Sh2-88B</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/stephenson2/" target="_blank" style="color: $blue;">Stephenson 2</a> | Classified as infrared cluster (IRC). |
+| <a href="{{ site.baseurl }}/_clusters/stephenson2/" target="_blank" style="color: red;">Stephenson 2</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/w3irs5/" target="_blank" style="color: red;">W3-IRS5</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/w3oh/" target="_blank" style="color: $blue;">W3-OH</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/w31/" target="_blank" style="color: red;">W31</a> | Classified as infrared cluster (IRC). |
@@ -200,7 +201,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/w49asouthwest/" target="_blank" style="color: red;">W49A-southwest</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/w75n/" target="_blank" style="color: red;">W75N</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/w75s/" target="_blank" style="color: $blue;">W75S</a> | Classified as infrared cluster (IRC). |
-| <a href="{{ site.baseurl }}/_clusters/rhooph/" target="_blank" style="color: $blue;">rho Oph</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/vdbhrn26/" target="_blank" style="color: red;">vdBH-RN26</a> | Classified as infrared cluster (IRC). |
 | <a href="{{ site.baseurl }}/_clusters/vdbhrn43/" target="_blank" style="color: red;">vdBH-RN43</a> | Classified as infrared cluster (IRC). |
 

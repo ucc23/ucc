@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Collinder 261
 title_flag: true
-more_names: VDBH 136; MWSC 2055; Harvard 6; OCL 889; vdBergh-Hagen 136; ESO 065 02; FSR 1627; FoF 45
+more_names: VDBH 136; Harvard 6; MWSC 2055; OCL 889; vdBergh-Hagen 136; ESO 065 02; FSR 1627; FoF 45
 fname: collinder261
 members_file: "300_304"
 fov: 0.197
@@ -96,8 +96,10 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 189.475 | -68.367 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 189.475 | -68.467 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 189.479 | -68.359 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 189.488 | -68.367 | -- | -0.77 | -0.55 | -30.0 
-N_rows_pos: "34"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 189.488 | -68.367 | -- | -0.77 | -0.55 | -30.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 189.489 | -68.479 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 188.725 | -68.2 | -- | -- | -- | -- 
+N_rows_pos: "36"
 cds_radec: 189.51868,-68.3791
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -131,7 +133,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.68 | 1.05 | -- | 5012 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.68 | 1.05 | -- | 5012 | -0.030 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 2.19 | -- | -- | 8913 | -0.030 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.17<sup>(1)</sup> | 0.88 | -- | 2818 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.73<sup>(1)</sup> | 0.88 | -- | 2818 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.85 | -- | 8913 | -- | -- | -- | 54 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.19 | 0.85 | -- | 8913 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.19 | 0.85 | -- | 8900 | -0.140<sup>(1)</sup> | -- | -- | -- |

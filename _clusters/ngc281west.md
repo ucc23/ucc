@@ -19,12 +19,12 @@ UTI_C_N_COL: "#ddf0ca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
-UTI_C_dup_COL: "#e2a9b3"
+UTI_C_dup_COL: "#e0a7b3"
 UTI_C_N: 0.71
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
-UTI_C_dup: 0.02
+UTI_C_dup: 0.01
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: Very high quality
@@ -69,8 +69,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 281](/_clusters/ngc281/)| 98.9 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.12 |
+    |[NGC 281](/_clusters/ngc281/)| 98.9 | 13.22 | 56.63 | 0.33 | -2.36 | -1.5 | -67.2 |0.53 |
     |[NGC 281W](/_clusters/ngc281w/)| 98.9 | 13.2 | 56.62 | 0.34 | -2.36 | -1.52 | -73.41 |0.02 |
-    |[IC 1590](/_clusters/ic1590/)| 97.8 | 13.22 | 56.63 | 0.34 | -2.36 | -1.49 | -73.17 |0.86 |
+    |[IC 1590](/_clusters/ic1590/)| 97.8 | 13.22 | 56.63 | 0.34 | -2.36 | -1.49 | -73.17 |0.05 |
 N_rows_shared: "3"
 ---

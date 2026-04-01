@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 155
 title_flag: true
-more_names: vdBergh-Hagen 155; MWSC 2186
+more_names: van den Bergh-Hagen 155; vdBergh-Hagen 155; MWSC 2186
 fname: vdbh155
 members_file: "308_312"
 fov: 0.21
@@ -13,17 +13,17 @@ glon: 311.25769
 glat: 2.22872
 r50: 6.3
 plx: 0.3289
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f5c1b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.09
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.15
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -60,8 +60,10 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 209.364 | -59.578 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 209.389 | -59.584 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 209.364 | -59.578 | -- | -- | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 209.374 | -59.58 | -- | -5.89 | -0.67 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 209.374 | -59.58 | -- | -5.89 | -0.67 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 209.365 | -59.576 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 208.5 | -59.333 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 209.47513,-59.58311
 carousel: UCC
 fpars_table: |

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 4
 title_flag: true
-more_names: BH 4; vdBergh-Hagen 4; ESO 368 06; MWSC 1288
+more_names: van den Bergh-Hagen 4; BH 4; vdBergh-Hagen 4; ESO 368 06; MWSC 1288
 fname: vdbh4
 members_file: "248_252"
 fov: 0.03
@@ -13,17 +13,17 @@ glon: 249.98195
 glat: -7.12575
 r50: 0.9
 plx: 0.0995
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.50"
+UTI_COLOR: "#fefee8"
 UTI_C_N_COL: "#feebce"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -62,8 +62,10 @@ posit_table: |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 114.45 | -36.033 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 114.44 | -36.057 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 114.438 | -36.075 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.433 | -36.067 | -- | -- | -- | -- 
-N_rows_pos: "5"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 114.433 | -36.067 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 114.45 | -36.03 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 114.0 | -35.917 | -- | -- | -- | -- 
+N_rows_pos: "7"
 cds_radec: 114.43736,-36.0607
 carousel: UCC
 fpars_table: |

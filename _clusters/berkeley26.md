@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Berkeley 26
 title_flag: true
-more_names: MWSC 994; Biurakan 12; OCL 520
+more_names: Biurakan 12; MWSC 994; OCL 520
 fname: berkeley26
 members_file: "204_208"
 fov: 0.093
@@ -13,25 +13,25 @@ glon: 207.694
 glat: 2.36086
 r50: 2.8
 plx: 0.1713
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.43"
+UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#fef9de"
 UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fafce1"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
 UTI_C_dens: 0.4
 UTI_C_C3: 0.38
-UTI_C_lit: 0.54
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
-UTI_C_lit_desc: Moderately studied
+UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 26</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Berkeley 26</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -70,24 +70,25 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 102.547 | 5.755 | -- | -4.12 | -2.98 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 102.575 | 5.75 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 102.558 | 5.732 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 102.575 | 5.75 | -- | 2.7 | -1.44 | 68.0 
-N_rows_pos: "13"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 102.575 | 5.75 | -- | 2.7 | -1.44 | 68.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 102.568 | 5.771 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 102.5729,+5.72956
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.68 | 1.71 | -- | 1995 | -0.525 | 2368 | 0.78 | 20 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.57 | 1.71 | -- | 1995 | -0.525 | 2368 | 0.78 | 20 |
     | [Cui et al.](https://scixplorer.org/abs/2025AJ....169..219C) | 2025 | -- | 2.00 | -- | 4467 | -- | -- | -- | 20<sup>(1)</sup> |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 4.68 | 2.00 | -- | 3981 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 513 | -- | 136 | -- | -- |
     | [Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 4.57 | 1.74 | -- | 8710 | 0.070 | 4600 | 0.78 | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.58 | 1.35 | -- | 891 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.72 | 1.71 | -- | 513 | -- | -- | -- | -- |
-    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 2720.00 | 1.70 | -- | 600 | -- | -- | -- | -- |
+    | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 2.72 | 1.70 | -- | 600 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.72 | 1.71 | -- | 513 | -0.700 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 12.59 | -- | -- | 3981 | -0.700 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 9.95<sup>(1)</sup> | 1.58 | -- | 1995 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 8.16<sup>(1)</sup> | 1.58 | -- | 1995 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 12.59 | 2.37 | -- | 3981 | -0.350 | -- | -- | -- |
 N_rows_pars: "11"
 note_asterisk: true

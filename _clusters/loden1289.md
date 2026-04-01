@@ -13,17 +13,17 @@ glon: 313.87889
 glat: 3.26736
 r50: 9.1
 plx: 0.1226
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -59,8 +59,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |213.661 | -57.876 | 0.123 | -8.166 | -2.254 | -30.379 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 213.56 | -57.856 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 213.525 | -57.867 | -- | -6.32 | -5.23 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 213.525 | -57.867 | -- | -6.57 | -5.44 | -- 
-N_rows_pos: "3"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 213.525 | -57.867 | -- | -6.57 | -5.44 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 213.53 | -57.871 | -- | -- | -- | -- 
+N_rows_pos: "4"
 cds_radec: 213.66066,-57.8755
 carousel: UCC
 fpars_table: |

@@ -13,17 +13,17 @@ glon: 230.79996
 glat: 1.01552
 r50: 2.9
 plx: 0.2574
-UTI: "0.94"
-UTI_COLOR: "#abd4be"
+UTI: "0.92"
+UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#bce1c5"
+UTI_C_lit_COL: "#cce9c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.85
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -79,8 +79,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 112.144 | -15.365 | -- | -5.8 | 4.41 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 112.15 | -15.36 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 112.15 | -15.383 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 112.15 | -15.383 | -- | -1.04 | -0.36 | -- 
-N_rows_pos: "20"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 112.15 | -15.383 | -- | -1.04 | -0.36 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 112.145 | -15.389 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 112.14977,-15.36245
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -104,15 +105,16 @@ fpars_table: |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 3.54 | 1.80 | -- | 166 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 4.87 | 1.58 | -- | 2018 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.87 | 1.58 | -- | 2018 | -- | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.31<sup>(1)</sup> | 1.42 | -- | 2818 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.61<sup>(1)</sup> | 1.42 | -- | 2818 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.25 | 1.64 | -- | 1259 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 3.70 | 1.74 | -- | 1995 | -- | -- | -- | -- |
-N_rows_pars: "20"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | -- | -- | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "21"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.63 |
-    |[HSC 1820](/_clusters/hsc1820/)| 0.8 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.1 |
+    |[Czernik 29](/_clusters/czernik29/)| 3.5 | 112.11 | -15.4 | 0.24 | -1.55 | 1.32 | 88.41 |0.59 |
+    |[HSC 1820](/_clusters/hsc1820/)| 0.8 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.12 |
 N_rows_shared: "2"
 ---

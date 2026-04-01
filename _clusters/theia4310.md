@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 181](/_clusters/ubc181/)| 100.0 | 0.59 | 63.57 | 0.88 | -2.6 | -1.41 | -43.1 |0.56 |
+    |[UBC 181](/_clusters/ubc181/)| 100.0 | 0.59 | 63.57 | 0.88 | -2.6 | -1.41 | -43.1 |0.52 |
 N_rows_shared: "1"
 ---

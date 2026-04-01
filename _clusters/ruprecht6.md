@@ -13,17 +13,17 @@ glon: 225.29923
 glat: -5.04405
 r50: 8.3
 plx: 0.1636
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.02
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -58,8 +58,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |103.999 | -13.287 | 0.164 | -0.445 | 1.19 | 73.022 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 104.021 | -13.254 | -- | -- | -- | -- |
-    |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 104.0 | -13.283 | -- | -- | -- | -- 
-N_rows_pos: "2"
+    |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 104.0 | -13.283 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 104.003 | -13.285 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 103.99916,-13.28699
 carousel: UCC
 fpars_table: |

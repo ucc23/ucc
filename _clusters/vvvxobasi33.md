@@ -69,6 +69,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3145](/_clusters/cwnu3145/)| 84.2 | 133.95 | -41.0 | 0.17 | -2.77 | 2.62 | 71.87 |0.22 |
-    |[HSC 2112](/_clusters/hsc2112/)| 50.9 | 133.95 | -41.0 | 0.18 | -2.79 | 2.62 | 76.46 |0.38 |
+    |[HSC 2112](/_clusters/hsc2112/)| 50.9 | 133.95 | -41.0 | 0.18 | -2.79 | 2.62 | 76.46 |0.4 |
 N_rows_shared: "2"
 ---

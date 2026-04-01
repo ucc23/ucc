@@ -13,17 +13,17 @@ glon: 238.41676
 glat: -4.10853
 r50: 5.4
 plx: 0.7382
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#fee9cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.34
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -81,6 +81,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1337](/_clusters/cwnu1337/)| 76.5 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.18 |
     |[DBSB 11](/_clusters/dbsb11/)| 20.6 | 111.07 | -24.64 | 0.71 | -2.09 | 2.56 | 18.64 |0.16 |
-    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.64 |
+    |[Ivanov 6](/_clusters/ivanov6/)| 5.9 | 111.06 | -24.64 | 0.72 | -2.05 | 2.69 | 18.64 |0.59 |
 N_rows_shared: "3"
 ---

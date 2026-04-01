@@ -57,8 +57,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |275.456 | -33.193 | 0.13 | 0.88 | -3.753 | 124.612 |
-    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 275.462 | -33.217 | -- | 0.9 | -3.67 | -- 
-N_rows_pos: "1"
+    |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 275.462 | -33.217 | -- | 0.9 | -3.67 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 275.455 | -33.241 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 275.45588,-33.19283
 carousel: UCC
 fpars_table: |

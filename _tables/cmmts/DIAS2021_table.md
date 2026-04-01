@@ -22,7 +22,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc575/" target="_blank" style="color: $blue;">UBC 575</a> | Dubious open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ubc577/" target="_blank" style="color: $blue;">UBC 577</a> | Dubious open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ubc579/" target="_blank" style="color: red;">UBC 579</a> | Dubious open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/ubc592/" target="_blank" style="color: $blue;">UBC 592</a> | Dubious open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/ubc592/" target="_blank" style="color: red;">UBC 592</a> | Dubious open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ubc593/" target="_blank" style="color: $blue;">UBC 593</a> | Dubious open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ubc625/" target="_blank" style="color: red;">UBC 625</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ubc644/" target="_blank" style="color: red;">UBC 644</a> | Dubious open cluster. |

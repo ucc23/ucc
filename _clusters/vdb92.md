@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDB 92
 title_flag: true
-more_names: vdBergh 92; FSR 1188; CMa06
+more_names: van den Bergh 92; vdBergh 92; FSR 1188; CMa06
 fname: vdb92
 members_file: "224_228"
 fov: 0.297
@@ -88,8 +88,9 @@ posit_table: |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 106.0 | -11.579 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 105.97 | -11.49 | -- | -5.22 | 2.52 | 17.33 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 106.02 | -11.47 | -- | -5.11 | 2.37 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.975 | -11.533 | -- | -2.1 | 3.87 | 17.5 
-N_rows_pos: "27"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.975 | -11.533 | -- | -2.1 | 3.87 | 17.5 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 105.978 | -11.52 | -- | -- | -- | -- 
+N_rows_pos: "28"
 cds_radec: 106.04947,-11.48074
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

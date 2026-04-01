@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 144
 title_flag: true
-more_names: vdBergh-Hagen 144; BH 144; MWSC 2098; ESO 096 04; AL 1; Andrews-Lindsay 1
+more_names: van den Bergh-Hagen 144; vdBergh-Hagen 144; BH 144; MWSC 2098; ESO 096 04; AL 1; Andrews-Lindsay 1
 fname: vdbh144
 members_file: "304_308"
 fov: 0.03
@@ -13,17 +13,17 @@ glon: 305.36255
 glat: -3.1607
 r50: 0.9
 plx: 0.0656
-UTI: "0.83"
-UTI_COLOR: "#c2e4c6"
+UTI: "0.81"
+UTI_COLOR: "#c7e6c7"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c9e7c8"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -78,8 +78,10 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 198.829 | -65.924 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 198.78 | -65.92 | -- | 0.01 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 198.817 | -65.922 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 198.775 | -65.917 | -- | -4.73 | -3.36 | 40.0 
-N_rows_pos: "19"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 198.775 | -65.917 | -- | -4.73 | -3.36 | 40.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 198.788 | -65.93 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 197.95 | -65.667 | -- | -- | -- | -- 
+N_rows_pos: "21"
 cds_radec: 198.81635,-65.92003
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -100,7 +102,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 7.24 | 1.97 | -- | 1000 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 7.24 | 1.97 | -- | 1000 | -0.510 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 12.00 | -- | -- | 794 | -0.510 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 15.85<sup>(1)</sup> | 1.17 | -- | 794 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 13.68<sup>(1)</sup> | 1.17 | -- | 794 | -- | -- | -- | -- |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 9.35 | 1.89 | -- | 676 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 12.00 | 2.21 | -- | 794 | -0.510 | -- | -- | -- |
 N_rows_pars: "17"

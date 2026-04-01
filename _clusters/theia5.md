@@ -18,12 +18,12 @@ UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#feecd0"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#e9afb3"
 UTI_C_N: 0.36
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.06
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -80,6 +80,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 34](/_clusters/ocsn34/)| 100.0 | 315.44 | 68.16 | 2.91 | 7.44 | -1.39 | -21.36 |0.11 |
-    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.54 |
+    |[NGC 7023](/_clusters/ngc7023/)| 94.4 | 316.35 | 68.5 | 2.91 | 7.83 | -1.1 | -13.98 |0.57 |
 N_rows_shared: "2"
 ---

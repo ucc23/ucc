@@ -13,17 +13,17 @@ glon: 291.1086
 glat: -0.20466
 r50: 4.7
 plx: 0.1276
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#fdddc5"
 UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.28
 UTI_C_dens: 0.05
 UTI_C_C3: 0.5
-UTI_C_lit: 0.46
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -66,8 +66,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 168.06 | -60.765 | -- | -7.04 | 1.34 | -3.0 |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 168.267 | -60.791 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 168.07 | -60.75 | -- | -8.99 | 2.0 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 168.254 | -60.783 | -- | -3.43 | -1.84 | -- 
-N_rows_pos: "10"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 168.254 | -60.783 | -- | -3.43 | -1.84 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 168.085 | -60.759 | -- | -- | -- | -- 
+N_rows_pos: "11"
 cds_radec: 168.0591,-60.77236
 carousel: UCC
 fpars_table: |
@@ -79,7 +80,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.66 | 1.26 | -- | 40 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.66 | 1.26 | -- | 40 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1009 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.02<sup>(1)</sup> | 1.23 | -- | 25 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.59<sup>(1)</sup> | 1.23 | -- | 25 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.43 | 0.95 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.00 | 1.26 | -- | 30 | -- | -- | -- | -- |
 N_rows_pars: "8"

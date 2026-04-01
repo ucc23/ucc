@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDB 83
 title_flag: true
-more_names: vdBergh 83; MWSC 949
+more_names: van den Bergh 83; vdBergh 83; MWSC 949
 fname: vdb83
 members_file: "236_240"
 fov: 0.25
@@ -13,17 +13,17 @@ glon: 236.43725
 glat: -14.32679
 r50: 7.5
 plx: 1.0725
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.73"
+UTI_COLOR: "#d9eeca"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.71
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -74,8 +74,9 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 100.03 | -27.289 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 100.0 | -27.317 | -- | 0.64 | 1.91 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 100.035 | -27.29 | -- | 4.43 | 2.85 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 100.0 | -27.317 | -- | 0.64 | 1.91 | -- 
-N_rows_pos: "16"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 100.0 | -27.317 | -- | 0.64 | 1.91 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 99.996 | -27.307 | -- | -- | -- | -- 
+N_rows_pos: "17"
 cds_radec: 100.01714,-27.18839
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

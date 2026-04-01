@@ -18,12 +18,12 @@ UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dbefca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.72
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.32
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -77,7 +77,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.63 |
+    |[DBSB 7](/_clusters/dbsb7/)| 67.7 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.57 |
     |[CWWDL 13798](/_clusters/cwwdl13798/)| 44.1 | 113.86 | -18.6 | 0.41 | -1.74 | 2.41 | -- |0.09 |
     |[DBSB 8](/_clusters/dbsb8/)| 5.4 | 113.88 | -18.81 | 0.26 | -1.88 | 2.31 | -- |0.33 |
 N_rows_shared: "3"

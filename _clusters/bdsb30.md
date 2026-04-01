@@ -13,17 +13,17 @@ glon: 105.29965
 glat: 4.06479
 r50: 4.5
 plx: 1.1145
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -89,6 +89,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0181](/_clusters/oc0181/)| 2.0 | 334.02 | 61.12 | 1.13 | -1.0 | -3.01 | -15.42 |0.14 |
+    |[OC 0181](/_clusters/oc0181/)| 2.0 | 334.02 | 61.12 | 1.13 | -1.0 | -3.01 | -15.42 |0.17 |
 N_rows_shared: "1"
 ---

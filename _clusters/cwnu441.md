@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1577](/_clusters/ubc1577/)| 88.9 | 29.45 | 57.46 | 0.41 | -1.32 | -1.23 | -- |0.37 |
+    |[UBC 1577](/_clusters/ubc1577/)| 88.9 | 29.45 | 57.46 | 0.41 | -1.32 | -1.23 | -- |0.38 |
 N_rows_shared: "1"
 ---

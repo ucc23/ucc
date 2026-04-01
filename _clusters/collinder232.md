@@ -18,12 +18,12 @@ UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f5c1b8"
 UTI_C_dup_COL: "#eeb4b3"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.15
 UTI_C_dup: 0.09
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -61,8 +61,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 161.163 | -59.56 | -- | -6.09 | 0.75 | -3.0 |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 161.154 | -59.565 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 161.2 | -59.567 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.162 | -59.56 | -- | -6.09 | 0.75 | -3.0 
-N_rows_pos: "5"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.162 | -59.56 | -- | -6.09 | 0.75 | -3.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 161.205 | -59.556 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 161.09407,-59.5527
 carousel: UCC
 fpars_table: |

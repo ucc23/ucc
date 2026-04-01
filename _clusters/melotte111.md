@@ -95,14 +95,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 185.62 | 25.85 | -- | -11.45 | -8.98 | -1.17 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 185.62 | 25.85 | -- | -11.03 | -9.0 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 186.27 | 26.099 | -- | -11.38 | -9.05 | -0.1 |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 
-N_rows_pos: "32"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.275 | 26.1 | -- | -6.78 | -3.41 | 0.01 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 186.255 | 26.113 | -- | -- | -- | 0.0 
+N_rows_pos: "33"
 cds_radec: 185.06002,+25.47846
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.09 | 0.03 | 0.44 | 604 | 0.011 | 256 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.09 | 0.03 | 0.44 | 604 | 0.002 | 256 | -- | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 645 | -- | -- | -- | -- |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.09 | 0.03 | -- | 622 | -0.050 | -- | -- | -- |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 646 | -0.010<sup>(15)</sup> | -- | -- | -- |
@@ -133,7 +134,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.09 | 0.03 | -- | -- | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.10 | 0.04 | -- | 440 | -0.050<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.10 | 0.04 | -- | 449 | 0.070 | -- | -- | -- |
-N_rows_pars: "30"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.09 | 0.00 | -- | 398 | -0.030 | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
 

@@ -13,17 +13,17 @@ glon: 80.20931
 glat: 0.7756
 r50: 4.5
 plx: 0.58
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.15"
+UTI_COLOR: "#f5c1b8"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#fcd6c2"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.25
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -76,12 +76,12 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.76 |
-    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.84 |
+    |[Bica 2](/_clusters/bica2/)| 74.9 | 308.31 | 41.3 | 0.58 | -2.68 | -4.41 | -13.56 |0.71 |
+    |[FSR 0238](/_clusters/fsr0238/)| 19.0 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.78 |
     |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 4.8 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.23 |
     |[G 80.35+0.72](/_clusters/g8035p072/)| 4.3 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |
-    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.64 |
+    |[FSR 0236](/_clusters/fsr0236/)| 3.9 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.59 |
     |[OC 0129](/_clusters/oc0129/)| 1.3 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.25 |
-    |[OC 0128](/_clusters/oc0128/)| 0.9 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.57 |
+    |[OC 0128](/_clusters/oc0128/)| 0.9 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.6 |
 N_rows_shared: "7"
 ---

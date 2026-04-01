@@ -24,10 +24,11 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ggd1215/" target="_blank" style="color: $blue;">GGD 12-15</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/gem4/" target="_blank" style="color: $blue;">Gem4</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/geml/" target="_blank" style="color: red;">Geml</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/grasdalen1/" target="_blank" style="color: $blue;">Grasdalen 1</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ic1805w/" target="_blank" style="color: red;">IC 1805W</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ic348/" target="_blank" style="color: $blue;">IC 348</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ic5146/" target="_blank" style="color: $blue;">IC 5146</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras01546p6319/" target="_blank" style="color: $blue;">IRAS 01546+6319</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras01546p6319/" target="_blank" style="color: red;">IRAS 01546+6319</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02044p6031/" target="_blank" style="color: red;">IRAS 02044+6031</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02048p5957/" target="_blank" style="color: $blue;">IRAS 02048+5957</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02054p6011/" target="_blank" style="color: red;">IRAS 02054+6011</a> | Embedded cluster within ∼2 Kpc of the Sun. |
@@ -86,7 +87,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/trifid/" target="_blank" style="color: $blue;">Trifid</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/w3irs5/" target="_blank" style="color: red;">W3-IRS5</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/w75n/" target="_blank" style="color: red;">W75N</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/rhooph/" target="_blank" style="color: $blue;">rho Oph</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 
 
 <script type="module">

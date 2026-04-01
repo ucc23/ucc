@@ -91,8 +91,10 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 186.79 | -60.77 | -- | -7.81 | -0.73 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 186.79 | -60.77 | -- | -7.29 | -0.55 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 186.817 | -60.779 | -- | -2.94 | -1.94 | 14.9 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 186.817 | -60.778 | -- | -- | -- | -- 
-N_rows_pos: "29"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 186.817 | -60.778 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 186.77 | -60.761 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 186.1 | -60.5 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 186.80679,-60.77571
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -128,7 +130,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.18 | 0.50 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.18 | 0.50 | -- | 108 | 0.070 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 0.86 | 0.53 | -- | 32 | -- | -- | -- | -- |
-N_rows_pars: "29"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | -- | -- | -- | 40 | -- | -- | -- | -- |
+N_rows_pars: "30"
 note_asterisk: true
 shared_table: |
 

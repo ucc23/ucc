@@ -18,12 +18,12 @@ UTI_COLOR: "#fbcbbd"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#fef0d2"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.38
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -82,6 +82,6 @@ shared_table: |
     |[CWNU 1268](/_clusters/cwnu1268/)| 9.9 | 250.64 | -49.05 | 0.88 | 0.42 | -4.74 | -21.24 |0.32 |
     |[VVV 084](/_clusters/vvv084/)| 9.9 | 250.34 | -48.97 | 0.82 | 1.02 | -4.38 | -37.33 |0.0 |
     |[VVV 083](/_clusters/vvv083/)| 9.5 | 250.31 | -49.01 | 0.85 | 0.84 | -4.37 | -27.3 |0.02 |
-    |[HSC 2785](/_clusters/hsc2785/)| 2.0 | 249.57 | -48.8 | 0.83 | 1.25 | -4.27 | -19.26 |0.48 |
+    |[HSC 2785](/_clusters/hsc2785/)| 2.0 | 249.57 | -48.8 | 0.83 | 1.25 | -4.27 | -19.26 |0.5 |
 N_rows_shared: "5"
 ---

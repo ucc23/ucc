@@ -18,12 +18,12 @@ UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#ebb0b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 0.07
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -81,7 +81,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2184](/_clusters/ngc2184/)| 92.9 | 91.72 | -2.04 | 1.73 | -0.66 | -0.24 | 40.14 |0.95 |
+    |[NGC 2184](/_clusters/ngc2184/)| 92.9 | 91.72 | -2.04 | 1.73 | -0.66 | -0.24 | 40.14 |0.93 |
     |[CWWDL 14289](/_clusters/cwwdl14289/)| 39.4 | 91.68 | -2.01 | 1.74 | -0.66 | -0.24 | 40.11 |0.0 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 265.2127
 glat: -1.97941
 r50: 6.3
 plx: 0.1903
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#fefae1"
+UTI_C_lit_COL: "#fef0d2"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.12
-UTI_C_lit: 0.46
+UTI_C_lit: 0.38
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -67,8 +67,9 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 131.2 | -45.967 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 131.2 | -45.967 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 131.2 | -45.97 | -- | -3.74 | 3.93 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 131.2 | -45.967 | -- | -0.05 | 3.34 | 49.0 
-N_rows_pos: "11"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 131.2 | -45.967 | -- | -0.05 | 3.34 | 49.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 131.196 | -45.983 | -- | -- | -- | -- 
+N_rows_pos: "12"
 cds_radec: 131.19664,-45.99329
 carousel: UCC
 fpars_table: |
@@ -84,12 +85,13 @@ fpars_table: |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.75 | 2.71 | -- | 10 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 5.75 | 2.71 | -- | 12 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 5.75 | 2.71 | -- | 10 | -- | -- | -- | -- |
-N_rows_pars: "9"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 5.80 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "10"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2140](/_clusters/hsc2140/)| 20.0 | 131.18 | -46.15 | 0.21 | -3.31 | 3.93 | -- |0.32 |
+    |[HSC 2140](/_clusters/hsc2140/)| 20.0 | 131.18 | -46.15 | 0.21 | -3.31 | 3.93 | -- |0.34 |
     |[CWNU 3263](/_clusters/cwnu3263/)| 16.0 | 131.18 | -46.15 | 0.2 | -3.3 | 3.94 | -- |0.08 |
 N_rows_shared: "2"
 ---

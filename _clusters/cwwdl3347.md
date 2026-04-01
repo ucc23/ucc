@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.16 |
-    |[UBC 44](/_clusters/ubc44/)| 100.0 | 31.12 | 54.37 | 0.37 | -2.28 | -0.26 | -37.93 |0.57 |
+    |[Patchick 12](/_clusters/patchick12/)| 100.0 | 31.12 | 54.36 | 0.37 | -2.28 | -0.26 | -37.93 |0.18 |
+    |[UBC 44](/_clusters/ubc44/)| 100.0 | 31.12 | 54.37 | 0.37 | -2.28 | -0.26 | -37.93 |0.53 |
 N_rows_shared: "2"
 ---

@@ -18,12 +18,12 @@ UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.5
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.04
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -75,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 8](/_clusters/theia8/)| 96.0 | 315.29 | 77.04 | 2.68 | 5.49 | 3.68 | -20.48 |0.46 |
+    |[Theia 8](/_clusters/theia8/)| 96.0 | 315.29 | 77.04 | 2.68 | 5.49 | 3.68 | -20.48 |0.48 |
     |[OC 0204](/_clusters/oc0204/)| 50.0 | 315.52 | 77.04 | 2.69 | 5.27 | 3.9 | -19.5 |0.0 |
 N_rows_shared: "2"
 ---

@@ -104,14 +104,15 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 33.6 | 59.267 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 33.6 | 59.27 | -- | 16.22 | -13.39 | -2.85 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 33.69 | 59.39 | -- | 16.49 | -13.16 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 33.679 | 59.485 | -- | 17.29 | -13.1 | -41.14 
-N_rows_pos: "41"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 33.679 | 59.485 | -- | 17.29 | -13.1 | -41.14 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 33.73 | 59.228 | -- | -- | -- | 2.0 
+N_rows_pos: "42"
 cds_radec: 33.86139,+59.55619
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.38 | 1.07 | 2.02 | 282 | -0.020 | 3074 | 0.59 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.38 | 1.07 | 2.02 | 278 | -0.020 | 3074 | 0.59 | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 398 | -- | -- | -- | -- |
     | [Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | -- | 0.50 | -- | 400 | 0.010<sup>(14)</sup> | -- | -- | -- |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 398 | -0.050<sup>(15)</sup> | -- | -- | -- |
@@ -135,7 +136,7 @@ fpars_table: |
     | [Spina et al.](https://scixplorer.org/abs/2021MNRAS.503.3279S) | 2021 | 0.38 | -- | -- | 398 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 0.40 | 0.50 | -- | 398 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 0.40 | 0.66 | -- | 490 | -- | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.40 | 1.07 | -- | 8440 | -0.106 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 0.37<sup>(1)</sup> | 1.07 | -- | 8440 | -0.106 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 0.37 | -- | -- | -- | -- | -- | -- | -- |
     | [Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | -- | -- | -- | 676 | 0.250 | -- | -- | -- |
     | [Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 0.37 | -- | -- | -- | -- | -- | -- | -- |
@@ -152,7 +153,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 0.38 | 1.07 | -- | 148 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.30 | 1.20 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.30 | 1.20 | -- | 170 | -0.140 | -- | -- | -- |
-N_rows_pars: "40"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 0.32 | 1.32 | -- | 100 | -- | -- | -- | -- |
+N_rows_pars: "41"
 note_asterisk: true
 shared_table: |
 

@@ -13,17 +13,17 @@ glon: 314.88512
 glat: -30.60872
 r50: 6.3
 plx: 0.1863
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.05
 UTI_C_C3: 0.25
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -59,8 +59,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |304.028 | -78.981 | 0.186 | 1.859 | -5.498 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 304.07 | -78.963 | -- | -- | -- | -- |
-    |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 303.025 | -79.317 | -- | -- | -- | -- 
-N_rows_pos: "2"
+    |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 303.025 | -79.317 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 303.582 | -79.31 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 304.02791,-78.98144
 carousel: UCC
 fpars_table: |

@@ -74,7 +74,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Muzzio 1](/_clusters/muzzio1/)| 52.0 | 134.49 | -47.73 | 0.54 | -5.26 | 4.32 | 39.31 |0.73 |
+    |[Muzzio  1](/_clusters/muzzio1/)| 52.0 | 134.49 | -47.73 | 0.54 | -5.26 | 4.32 | 39.31 |0.69 |
     |[OC 0500](/_clusters/oc0500/)| 16.0 | 134.59 | -47.87 | 0.53 | -5.07 | 4.33 | 20.95 |0.12 |
     |[OC 0498](/_clusters/oc0498/)| 12.0 | 134.45 | -47.81 | 0.54 | -5.24 | 4.27 | 72.01 |0.04 |
 N_rows_shared: "3"

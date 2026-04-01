@@ -96,8 +96,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 115.115 | -30.078 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 115.12 | -30.08 | -- | -6.44 | 5.4 | 68.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 115.11 | -30.09 | -- | -5.91 | 5.17 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 115.125 | -30.083 | -- | -2.52 | 4.34 | 68.0 
-N_rows_pos: "35"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 115.125 | -30.083 | -- | -2.52 | 4.34 | 68.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 115.117 | -30.123 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 114.625 | -30.0 | -- | -- | -- | -- 
+N_rows_pos: "37"
 cds_radec: 115.21946,-30.08199
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

@@ -13,17 +13,17 @@ glon: 187.22134
 glat: 4.25008
 r50: 4.4
 plx: 0.1722
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.07
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -86,6 +86,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1484](/_clusters/hsc1484/)| 64.0 | 94.55 | 24.83 | 0.17 | 0.21 | -0.72 | -- |0.05 |
+    |[HSC 1484](/_clusters/hsc1484/)| 64.0 | 94.55 | 24.83 | 0.17 | 0.21 | -0.72 | -- |0.06 |
 N_rows_shared: "1"
 ---

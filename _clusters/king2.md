@@ -13,17 +13,17 @@ glon: 122.86816
 glat: -4.6794
 r50: 2.1
 plx: 0.1352
-UTI: "0.93"
-UTI_COLOR: "#acd6bf"
+UTI: "0.92"
+UTI_COLOR: "#add7c0"
 UTI_C_N_COL: "#b2dcc2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#a5cab9"
+UTI_C_lit_COL: "#a7cebb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.89
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 1.0
+UTI_C_lit: 0.98
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -85,8 +85,9 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 12.738 | 58.196 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 12.75 | 58.183 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 12.75 | 58.183 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 12.75 | 58.183 | -- | -2.0 | -2.6 | -144.25 
-N_rows_pos: "25"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 12.75 | 58.183 | -- | -2.0 | -2.6 | -144.25 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 12.761 | 58.202 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 12.73876,+58.19234
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -114,7 +115,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 5.50 | 0.95 | -- | 4677 | -0.420 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 5.75 | -- | -- | 6026 | -0.420 | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 5.50 | 0.95 | -- | 4677 | -0.420 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 8.13<sup>(1)</sup> | 1.17 | -- | 1778 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 7.01<sup>(1)</sup> | 1.17 | -- | 1778 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.98 | -- | 6026 | -- | -- | -- | 30 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 5.75 | 0.98 | -- | 6026 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 5.75 | 0.98 | -- | 6026 | -0.420 | -- | -- | -- |

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 164
 title_flag: true
-more_names: vdB-Hagen 164; vdBergh-Hagen 164; BH 164; MWSC 2255; Alessi 7; FoF 2403; OCSN 148
+more_names: vdB-Hagen 164; van den Bergh-Hagen 164; vdBergh-Hagen 164; BH 164; MWSC 2255; Alessi 7; FoF 2403; OCSN 148
 fname: vdbh164
 members_file: "312_316"
 fov: 0.837
@@ -93,8 +93,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 222.035 | -66.336 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 222.06 | -66.34 | -- | -7.36 | -11.14 | 13.5 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 222.06 | -66.44 | -- | -7.06 | -10.9 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 222.058 | -66.337 | -- | -7.38 | -10.89 | 16.8 
-N_rows_pos: "32"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 222.058 | -66.337 | -- | -7.38 | -10.89 | 16.8 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 221.033 | -66.394 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 219.975 | -66.183 | -- | -- | -- | -- 
+N_rows_pos: "34"
 cds_radec: 222.20235,-66.44172
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

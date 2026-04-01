@@ -13,17 +13,17 @@ glon: 59.91234
 glat: 0.85589
 r50: 2.0
 plx: 0.2369
-UTI: "0.34"
-UTI_COLOR: "#fee9cd"
+UTI: "0.35"
+UTI_COLOR: "#feebce"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0f1cb"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.7
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Moderately dense
@@ -78,6 +78,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.34 |
+    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.35 |
 N_rows_shared: "1"
 ---

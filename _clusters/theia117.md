@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fefde6"
 UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.49
 UTI_C_dens: 0.69
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Moderately dense
@@ -81,6 +81,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 123](/_clusters/ascc123/)| 100.0 | 340.06 | 54.11 | 4.3 | 12.25 | -1.48 | -4.99 |0.87 |
+    |[ASCC 123](/_clusters/ascc123/)| 100.0 | 340.06 | 54.11 | 4.3 | 12.25 | -1.48 | -4.99 |0.83 |
 N_rows_shared: "1"
 ---

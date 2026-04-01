@@ -18,12 +18,12 @@ UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#eeb4b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 0.09
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -79,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.85 |
+    |[Czernik 39](/_clusters/czernik39/)| 91.0 | 286.93 | 4.34 | 0.27 | -1.59 | -4.71 | 49.36 |0.81 |
 N_rows_shared: "1"
 ---

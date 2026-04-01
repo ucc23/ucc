@@ -13,17 +13,17 @@ glon: 332.96921
 glat: 1.87654
 r50: 4.6
 plx: 0.5356
-UTI: "0.66"
-UTI_COLOR: "#e7f4cf"
+UTI: "0.61"
+UTI_COLOR: "#f0f8d5"
 UTI_C_N_COL: "#ceeac8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.38
+UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -89,7 +89,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Nor OB5](/_clusters/norob5/)| 100.0 | 242.6 | -49.05 | 0.53 | -2.04 | -2.15 | -23.72 |0.24 |
+    |[Nor OB5](/_clusters/norob5/)| 100.0 | 242.6 | -49.05 | 0.53 | -2.04 | -2.15 | -23.72 |0.25 |
     |[FSR 1722](/_clusters/fsr1722/)| 98.9 | 242.6 | -49.04 | 0.53 | -2.04 | -2.15 | -23.72 |0.02 |
 N_rows_shared: "2"
 ---

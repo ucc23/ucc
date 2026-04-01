@@ -1,0 +1,74 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: Dias 18
+title_flag: true
+more_names: 
+fname: dias18
+members_file: "180_184"
+fov: 0.103
+ra_icrs: 84.27779
+de_icrs: 26.58845
+glon: 180.99329
+glat: -2.83565
+r50: 3.1
+plx: 0.235
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
+UTI_C_N_COL: "#fef5d7"
+UTI_C_dens_COL: "#f7fbde"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
+UTI_C_N: 0.41
+UTI_C_dens: 0.56
+UTI_C_C3: 0.25
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Moderately dense
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Unique
+summary: |
+    <b>Dias 18</b> is a poorly populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
+badge_av: "Moderate extinction"
+badge_av_url: "av_min=1&av_max=3"
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: "Near-solar metallicity"
+badge_feh_url: "feh_min=-0.5&feh_max=0.5"
+badge_age: "Intermediate age"
+badge_age_url: "age_min=100&age_max=1000"
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
+N_comments: ""
+dens_val: 2.8
+N_50_val: 41
+scix_url: Dias%2018
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |84.278 | 26.588 | 0.235 | 0.357 | -0.251 | -11.642 |
+    |[Dias & Monteiro](https://scixplorer.org/abs/2025RMxAA..61a...3D) | 2025 | 84.271 | 26.593 | 0.22 | 0.34 | -0.306 | -11.718 
+N_rows_pos: "1"
+cds_radec: 84.27779,+26.58845
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.73 | 2.4 | -- | 456 | -0.263 | -- | -- | -- |
+    | [Dias & Monteiro](https://scixplorer.org/abs/2025RMxAA..61a...3D) | 2025 | 3.73 | 2.40 | -- | 456 | -0.263 | -- | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+
+N_rows_shared: "0"
+---

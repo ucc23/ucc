@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDB 85
 title_flag: true
-more_names: vdBergh 85
+more_names: van den Bergh 85; vdBergh 85
 fname: vdb85
 members_file: "208_212"
 fov: 0.153
@@ -13,17 +13,17 @@ glon: 211.23877
 glat: -0.38546
 r50: 4.6
 plx: 0.553
-UTI: "0.73"
-UTI_COLOR: "#d9eeca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#e9f5d0"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#fbfde3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.65
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.53
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -72,8 +72,9 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 101.718 | 1.32 | 0.552 | -1.0 | 0.328 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 101.718 | 1.32 | 0.552 | -1.0 | 0.328 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 101.721 | 1.317 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 101.725 | 1.333 | -- | 0.17 | 1.23 | -- 
-N_rows_pos: "13"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 101.725 | 1.333 | -- | 0.17 | 1.23 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 101.718 | 1.328 | -- | -- | -- | -- 
+N_rows_pos: "14"
 cds_radec: 101.7419,+1.34788
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -89,11 +90,11 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 1.72 | 1.21 | -- | 13 | -0.055 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 1.69 | 1.35 | -- | 4 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.03 | 1.44 | -- | 23 | -- | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 1.89 | 2.10 | -- | 7685 | 0.000 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 1.72<sup>(1)</sup> | 2.10 | -- | 7685 | 0.000 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.72 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 1.72 | -- | -- | -- | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 938 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.50<sup>(1)</sup> | 5.90 | -- | 71 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.68<sup>(1)</sup> | 5.90 | -- | 71 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.64 | 6.06 | -- | 71 | -- | -- | -- | -- |
 N_rows_pars: "15"
 note_asterisk: true

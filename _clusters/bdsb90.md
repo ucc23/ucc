@@ -13,17 +13,17 @@ glon: 218.14142
 glat: -0.39076
 r50: 2.3
 plx: 0.4382
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#d3ecc9"
 UTI_C_N: 0.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.76
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very dense
@@ -77,8 +77,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1723](/_clusters/hsc1723/)| 28.0 | 104.85 | -4.74 | 0.43 | -1.49 | 0.69 | 62.26 |0.08 |
+    |[HSC 1723](/_clusters/hsc1723/)| 28.0 | 104.85 | -4.74 | 0.43 | -1.49 | 0.69 | 62.26 |0.09 |
     |[S 287 C](/_clusters/s287c/)| 24.0 | 104.88 | -4.74 | 0.44 | -1.46 | 0.6 | 62.26 |0.13 |
-    |[Sh2-287C](/_clusters/sh2287c/)| 8.0 | 104.85 | -4.7 | 0.45 | -1.61 | 0.76 | 48.19 |0.16 |
+    |[Sh2-287C](/_clusters/sh2287c/)| 8.0 | 104.85 | -4.7 | 0.45 | -1.61 | 0.76 | 48.19 |0.19 |
 N_rows_shared: "3"
 ---

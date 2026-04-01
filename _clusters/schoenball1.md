@@ -13,17 +13,17 @@ glon: 128.07136
 glat: -1.7015
 r50: 3.1
 plx: 0.2278
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#fcd6c2"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 0.25
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -80,10 +80,10 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.38 |
+    |[Gulliver 16](/_clusters/gulliver16/)| 75.2 | 23.42 | 60.75 | 0.21 | -1.28 | -0.65 | -37.02 |0.42 |
     |[NGC 581](/_clusters/ngc581/)| 26.4 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 4.7 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
-    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.11 |
+    |[UBC 186](/_clusters/ubc186/)| 1.6 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.12 |
     |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 0.8 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.09 |
 N_rows_shared: "5"
 ---

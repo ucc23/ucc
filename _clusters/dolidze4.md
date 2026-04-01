@@ -13,17 +13,17 @@ glon: 74.69635
 glat: 0.5467
 r50: 8.6
 plx: 0.2456
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -58,8 +58,9 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |304.46 | 36.642 | 0.246 | -1.701 | -3.069 | -6.186 |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 304.483 | 36.705 | -- | -1.7 | -3.1 | -- |
-    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 304.425 | 36.756 | -- | -- | -- | -- 
-N_rows_pos: "2"
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 304.425 | 36.756 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 304.439 | 36.688 | -- | -- | -- | -- 
+N_rows_pos: "3"
 cds_radec: 304.46022,+36.64225
 carousel: UCC
 fpars_table: |

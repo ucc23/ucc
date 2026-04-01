@@ -13,17 +13,17 @@ glon: 333.08784
 glat: 0.01167
 r50: 7.7
 plx: 0.3353
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.04
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -80,7 +80,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 164](/_clusters/dbsb164/)| 20.0 | 244.93 | -50.15 | 0.34 | -4.28 | -4.02 | -50.98 |0.04 |
+    |[DBSB 164](/_clusters/dbsb164/)| 20.0 | 244.93 | -50.15 | 0.34 | -4.28 | -4.02 | -50.98 |0.08 |
     |[MCM 77](/_clusters/mcm77/)| 8.0 | 244.33 | -50.53 | 0.36 | -4.08 | -4.09 | -43.5 |0.11 |
 N_rows_shared: "2"
 ---

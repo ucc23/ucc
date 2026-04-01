@@ -91,8 +91,10 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 264.25 | -32.48 | -- | 0.78 | -2.12 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 264.21 | -32.47 | -- | 1.72 | -2.21 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 264.25 | -32.483 | -- | -0.56 | -1.8 | 7.0 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 264.25 | -32.483 | -- | -- | -- | -- 
-N_rows_pos: "29"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 264.25 | -32.483 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 264.187 | -32.485 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 263.375 | -32.45 | -- | -- | -- | -- 
+N_rows_pos: "31"
 cds_radec: 264.22401,-32.46405
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -129,7 +131,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.34 | 2.30 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.34 | 2.31 | -- | 19 | 0.326 | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.23 | 2.40 | -- | 22 | -- | -- | -- | -- |
-N_rows_pars: "30"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.50 | 2.24 | -- | 200 | -- | -- | -- | -- |
+N_rows_pars: "31"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

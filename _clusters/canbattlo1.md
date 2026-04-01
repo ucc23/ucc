@@ -18,12 +18,12 @@ UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.5
 UTI_C_dens: 0.86
 UTI_C_C3: 0.62
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.24
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense

@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 197
 title_flag: true
-more_names: BH 197; vdBergh-Hagen 197; MWSC 2458
+more_names: van den Bergh-Hagen 197; BH 197; vdBergh-Hagen 197; MWSC 2458
 fname: vdbh197
 members_file: "336_340"
 fov: 0.14
@@ -13,17 +13,17 @@ glon: 339.43475
 glat: -0.31786
 r50: 4.2
 plx: 0.3394
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#fddfc6"
+UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.36
 UTI_C_C3: 0.38
-UTI_C_lit: 0.29
+UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -64,8 +64,10 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 251.625 | -45.85 | -- | -5.53 | -1.88 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 251.625 | -45.86 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 251.646 | -45.843 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 251.625 | -45.86 | -- | 1.63 | -2.3 | -- 
-N_rows_pos: "7"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 251.625 | -45.86 | -- | 1.63 | -2.3 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 251.719 | -45.822 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 250.8 | -45.733 | -- | -- | -- | -- 
+N_rows_pos: "9"
 cds_radec: 251.5757,-45.87683
 carousel: UCC
 fpars_table: |

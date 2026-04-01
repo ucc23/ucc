@@ -71,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3668](/_clusters/lisciii3668/)| 80.0 | 120.48 | -44.82 | 1.71 | -6.27 | 7.27 | 28.16 |0.39 |
+    |[LISC-III 3668](/_clusters/lisciii3668/)| 80.0 | 120.48 | -44.82 | 1.71 | -6.27 | 7.27 | 28.16 |0.42 |
 N_rows_shared: "1"
 ---

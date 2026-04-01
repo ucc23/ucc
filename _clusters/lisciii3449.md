@@ -71,7 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Melotte 210](/_clusters/melotte210/)| 96.5 | 279.66 | 5.45 | 2.11 | 1.26 | -4.95 | -24.82 |1.0 |
+    |[IC 4756](/_clusters/ic4756/)| 96.5 | 279.66 | 5.45 | 2.11 | 1.26 | -4.95 | -24.82 |1.0 |
     |[OC 0066](/_clusters/oc0066/)| 9.8 | 279.46 | 5.25 | 2.13 | 1.22 | -4.99 | -25.29 |0.0 |
 N_rows_shared: "2"
 ---

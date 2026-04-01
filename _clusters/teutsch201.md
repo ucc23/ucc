@@ -13,17 +13,17 @@ glon: 218.18985
 glat: -2.14688
 r50: 8.9
 plx: 1.2746
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#fee4c9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.31
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -80,7 +80,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.36 |
+    |[UPK 433](/_clusters/upk433/)| 100.0 | 103.38 | -5.69 | 1.27 | -0.76 | -2.52 | 23.18 |0.33 |
     |[CWWDL 14340](/_clusters/cwwdl14340/)| 96.8 | 103.35 | -5.66 | 1.27 | -0.78 | -2.53 | 23.64 |0.0 |
 N_rows_shared: "2"
 ---

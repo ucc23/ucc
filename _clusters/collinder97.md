@@ -13,17 +13,17 @@ glon: 205.39023
 glat: -1.63418
 r50: 4.9
 plx: 0.1233
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#e5f4ce"
+UTI_C_lit_COL: "#f5fbdc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.03
 UTI_C_C3: 0.38
-UTI_C_lit: 0.67
+UTI_C_lit: 0.57
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -73,8 +73,9 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 97.825 | 5.95 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 97.83 | 5.95 | -- | -3.78 | -2.03 | 17.5 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 97.81 | 5.83 | -- | -1.77 | -1.89 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.825 | 5.917 | -- | -1.62 | -1.32 | -14.7 
-N_rows_pos: "15"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.825 | 5.917 | -- | -1.62 | -1.32 | -14.7 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 97.824 | 5.915 | -- | -- | -- | -- 
+N_rows_pos: "16"
 cds_radec: 97.93021,+5.97501
 carousel: UCC_HUNT23
 fpars_table: |
@@ -100,6 +101,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 56.0 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Teutsch 137](/_clusters/teutsch137/)| 44.0 | 97.92 | 5.88 | 0.17 | -0.33 | 0.27 | 30.37 |0.16 |
+    |[Teutsch 137](/_clusters/teutsch137/)| 44.0 | 97.92 | 5.88 | 0.17 | -0.33 | 0.27 | 30.37 |0.17 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 212.85628
 glat: -2.08722
 r50: 2.6
 plx: 0.342
-UTI: "0.49"
-UTI_COLOR: "#fefde6"
+UTI: "0.50"
+UTI_COLOR: "#fefee8"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -73,7 +73,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 59a](/_clusters/teutsch59a/)| 100.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.5 |
+    |[Teutsch 59a](/_clusters/teutsch59a/)| 100.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 60.94 |0.52 |
     |[CWWDL 611](/_clusters/cwwdl611/)| 96.6 | 100.96 | -0.88 | 0.33 | -0.64 | 0.66 | 60.94 |0.09 |
     |[UBC 212](/_clusters/ubc212/)| 91.0 | 100.97 | -0.89 | 0.34 | -0.65 | 0.67 | 64.63 |0.01 |
 N_rows_shared: "3"

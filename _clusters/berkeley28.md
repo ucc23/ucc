@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Berkeley 28
 title_flag: true
-more_names: MWSC 1002; Biurakan 10; OCL 532
+more_names: Biurakan 10; MWSC 1002; OCL 532
 fname: berkeley28
 members_file: "208_212"
 fov: 0.057
@@ -85,14 +85,15 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 103.025 | 2.919 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 103.05 | 2.933 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 103.033 | 2.911 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 103.05 | 2.933 | -- | 1.68 | -1.54 | -- 
-N_rows_pos: "26"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 103.05 | 2.933 | -- | 1.68 | -1.54 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 103.054 | 2.955 | -- | -- | -- | -- 
+N_rows_pos: "27"
 cds_radec: 103.02874,+2.91956
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.93 | 2.29 | 1.77 | 79 | -0.254 | 684 | 0.74 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.015 | 2.29 | 1.77 | 79 | -0.254 | 684 | 0.74 | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.71 | 1.82 | -- | 943 | -0.246 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.250<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 4.52 | 2.29 | -- | 159 | -- | 658 | -- | -- |
@@ -115,11 +116,12 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.96 | 2.30 | -- | 34 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 711 | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 2.56 | -- | -- | 70 | -0.610 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 3.66<sup>(1)</sup> | 2.30 | -- | 63 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.75<sup>(1)</sup> | 2.30 | -- | 63 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 2.40 | -- | 71 | -- | -- | -- | 1 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 2.56 | 2.40 | -- | 71 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.56 | 2.40 | -- | 70 | -- | -- | -- | -- |
-N_rows_pars: "26"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 5.00 | -- | -- | -- | -- | -- | -- | -- |
+N_rows_pars: "27"
 note_asterisk: true
 shared_table: |
 

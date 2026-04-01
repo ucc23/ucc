@@ -1,0 +1,76 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: Dias 39
+title_flag: true
+more_names: 
+fname: dias39
+members_file: "96_100"
+fov: 0.093
+ra_icrs: 324.40583
+de_icrs: 57.0121
+glon: 98.83446
+glat: 3.48887
+r50: 2.8
+plx: 0.1286
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
+UTI_C_N_COL: "#dfa5b3"
+UTI_C_dens_COL: "#e9afb3"
+UTI_C_C3_COL: "#fef0d2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#fee5ca"
+UTI_C_N: 0.0
+UTI_C_dens: 0.06
+UTI_C_C3: 0.38
+UTI_C_lit: 0.0
+UTI_C_dup: 0.32
+UTI_C_N_desc: Sparse
+UTI_C_dens_desc: Very loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Possibly duplicate
+summary: |
+    <b>Dias 39</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~7.78 kpc) differs significantly from the median photometric distance (~5.18 kpc).</p>
+badge_dist: "Very distant"
+badge_dist_url: "dist_min=5&dist_max=10"
+badge_av: "Moderate extinction"
+badge_av_url: "av_min=1&av_max=3"
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: "Near-solar metallicity"
+badge_feh_url: "feh_min=-0.5&feh_max=0.5"
+badge_age: "Intermediate age"
+badge_age_url: "age_min=100&age_max=1000"
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
+N_comments: ""
+dens_val: 0.3
+N_50_val: 13
+scix_url: Dias%2039
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |324.406 | 57.012 | 0.129 | -2.481 | -2.147 | -- |
+    |[Dias & Monteiro](https://scixplorer.org/abs/2025RMxAA..61a...3D) | 2025 | 324.377 | 57.007 | 0.129 | -2.466 | -2.185 | -- 
+N_rows_pos: "1"
+cds_radec: 324.40583,+57.0121
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.18 | 2.78 | -- | 408 | -0.246 | -- | -- | -- |
+    | [Dias & Monteiro](https://scixplorer.org/abs/2025RMxAA..61a...3D) | 2025 | 5.18 | 2.78 | -- | 408 | -0.246 | -- | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+    | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
+    | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[CWNU 3661](/_clusters/cwnu3661/)| 68.0 | 324.41 | 57.02 | 0.12 | -2.51 | -2.13 | -70.23 |0.08 |
+N_rows_shared: "1"
+---

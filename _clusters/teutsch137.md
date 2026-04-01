@@ -13,17 +13,17 @@ glon: 205.4427
 glat: -1.68665
 r50: 3.4
 plx: 0.1679
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#fef7db"
 UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#d7eec9"
 UTI_C_N: 0.43
 UTI_C_dens: 0.25
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.74
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -75,6 +75,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 32.6 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.35 |
+    |[Collinder 97](/_clusters/collinder97/)| 25.6 | 97.93 | 5.98 | 0.12 | -0.19 | 0.21 | 25.49 |0.31 |
 N_rows_shared: "2"
 ---

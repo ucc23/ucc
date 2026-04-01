@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 221
 title_flag: true
-more_names: vdB-Hagen 221; vdBergh-Hagen 221; BH 221; MWSC 2563; ESO 454 06
+more_names: vdB-Hagen 221; van den Bergh-Hagen 221; vdBergh-Hagen 221; BH 221; MWSC 2563; ESO 454 06
 fname: vdbh221
 members_file: "352_356"
 fov: 0.287
@@ -13,17 +13,17 @@ glon: 353.9353
 glat: 3.01082
 r50: 8.6
 plx: 0.8952
-UTI: "0.92"
-UTI_COLOR: "#add7c0"
+UTI: "0.91"
+UTI_COLOR: "#add9c0"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#a5cab9"
+UTI_C_lit_COL: "#a7cebb"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 1.0
+UTI_C_lit: 0.98
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -85,8 +85,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 259.653 | -32.344 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 259.66 | -32.34 | -- | 2.84 | -3.1 | 6.33 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 259.59 | -32.39 | -- | 5.1 | -3.71 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 259.663 | -32.317 | -- | -2.22 | -3.37 | 8.86 
-N_rows_pos: "24"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 259.663 | -32.317 | -- | -2.22 | -3.37 | 8.86 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 259.613 | -32.357 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 258.8 | -32.3 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 259.6247,-32.36924
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

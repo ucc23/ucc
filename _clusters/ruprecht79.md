@@ -87,14 +87,16 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 145.24 | -53.85 | -- | -10.35 | 1.24 | 34.89 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 145.21 | -53.84 | -- | -8.63 | 2.91 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 145.246 | -53.85 | -- | -3.66 | -0.68 | 21.4 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 145.246 | -53.85 | -- | -- | -- | -- 
-N_rows_pos: "27"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 145.246 | -53.85 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 145.255 | -53.831 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 144.825 | -53.6 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 145.26308,-53.84454
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.515 | 2.3 | 2.15 | 38 | 0.076 | 2184 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.47 | 2.33 | 2.15 | 28 | 0.076 | 2184 | -- | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.47 | 2.42 | -- | 124 | 0.053 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.56 | 2.37 | -- | 38 | -- | 1401 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2966<sup>(1)</sup> | -- | -- |
@@ -120,7 +122,8 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 1.98 | 2.05 | -- | -- | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.98 | 2.26 | -- | 12 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 3.82 | 2.52 | -- | 71 | -- | -- | -- | -- |
-N_rows_pars: "25"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.37 | 2.49 | -- | 13 | -- | -- | -- | -- |
+N_rows_pars: "26"
 note_asterisk: true
 shared_table: |
 

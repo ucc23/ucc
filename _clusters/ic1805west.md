@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0584](/_clusters/fsr0584/)| 4.0 | 36.77 | 61.64 | 0.45 | -0.72 | -0.42 | 0.96 |0.51 |
+    |[FSR 0584](/_clusters/fsr0584/)| 4.0 | 36.77 | 61.64 | 0.45 | -0.72 | -0.42 | 0.96 |0.47 |
     |[IRAS 02245+6115](/_clusters/iras02245p6115/)| 4.0 | 37.26 | 61.5 | 0.44 | -1.2 | -0.19 | -29.81 |0.02 |
 N_rows_shared: "2"
 ---

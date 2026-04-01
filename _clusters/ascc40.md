@@ -13,17 +13,17 @@ glon: 230.0258
 glat: 2.85558
 r50: 9.1
 plx: 0.1816
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
 UTI_C_dens: 0.02
 UTI_C_C3: 0.62
-UTI_C_lit: 0.38
+UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -84,6 +84,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3444](/_clusters/cwnu3444/)| 34.6 | 113.59 | -13.65 | 0.2 | -1.37 | 1.87 | 77.28 |0.03 |
-    |[HSC 1814](/_clusters/hsc1814/)| 34.6 | 113.52 | -13.61 | 0.2 | -1.37 | 1.87 | 90.31 |0.04 |
+    |[HSC 1814](/_clusters/hsc1814/)| 34.6 | 113.52 | -13.61 | 0.2 | -1.37 | 1.87 | 90.31 |0.06 |
 N_rows_shared: "2"
 ---

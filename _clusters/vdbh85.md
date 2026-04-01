@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 85
 title_flag: true
-more_names: BH 85; vdBergh-Hagen 85; MWSC 1748; ESO 213 05
+more_names: van den Bergh-Hagen 85; BH 85; vdBergh-Hagen 85; MWSC 1748; ESO 213 05
 fname: vdbh85
 members_file: "276_280"
 fov: 0.06
@@ -13,17 +13,17 @@ glon: 276.91285
 glat: 4.54275
 r50: 1.8
 plx: 0.1375
-UTI: "0.84"
-UTI_COLOR: "#bfe2c5"
+UTI: "0.83"
+UTI_COLOR: "#c2e4c6"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#cce9c8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.79
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -79,8 +79,10 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 150.467 | -49.567 | -- | -5.04 | 7.73 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 150.465 | -49.585 | -- | -3.86 | 8.55 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 150.467 | -49.557 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 150.467 | -49.567 | -- | -4.2 | 7.57 | -- 
-N_rows_pos: "20"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 150.467 | -49.567 | -- | -4.2 | 7.57 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 150.485 | -49.643 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 150.0 | -49.4 | -- | -- | -- | -- 
+N_rows_pos: "22"
 cds_radec: 150.46686,-49.56438
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -103,7 +105,7 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 7.41 | -- | -- | -- | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.79 | 2.63 | -- | 631 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.79 | 2.63 | -- | 631 | -- | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 16.44<sup>(1)</sup> | 0.69 | -- | 708 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 15.05<sup>(1)</sup> | 0.69 | -- | 708 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.50 | 0.73 | -- | 708 | -- | -- | -- | -- |
 N_rows_pars: "18"
 note_asterisk: true

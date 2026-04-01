@@ -13,17 +13,17 @@ glon: 201.30354
 glat: -16.84386
 r50: 33.1
 plx: 2.5262
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#fee4c9"
 UTI_C_N: 0.7
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.31
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -82,6 +82,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 2371](/_clusters/fof2371/)| 68.9 | 82.39 | 2.02 | 2.69 | -0.68 | 0.69 | 29.78 |0.13 |
     |[OCSN 57](/_clusters/ocsn57/)| 58.9 | 82.08 | 1.67 | 2.74 | -0.52 | 0.79 | 29.19 |0.1 |
-    |[ASCC 20](/_clusters/ascc20/)| 46.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.86 |
+    |[ASCC 20](/_clusters/ascc20/)| 46.7 | 82.08 | 1.66 | 2.75 | -0.56 | 0.78 | 29.19 |0.8 |
 N_rows_shared: "3"
 ---

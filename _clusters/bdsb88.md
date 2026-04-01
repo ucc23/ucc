@@ -13,17 +13,17 @@ glon: 217.2855
 glat: -1.46814
 r50: 4.1
 plx: 0.269
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#feeed1"
 UTI_C_dens_COL: "#fef0d2"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.37
 UTI_C_dens: 0.38
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.32
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -77,7 +77,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.47 |
+    |[ASCC 27](/_clusters/ascc27/)| 67.6 | 103.5 | -4.5 | 0.28 | -0.71 | 0.62 | -- |0.42 |
     |[CWNU 3207](/_clusters/cwnu3207/)| 59.5 | 103.5 | -4.53 | 0.29 | -0.71 | 0.62 | -- |0.02 |
 N_rows_shared: "2"
 ---

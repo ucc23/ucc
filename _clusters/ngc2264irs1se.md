@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MonOB1-D](/_clusters/monob1d/)| 100.0 | 100.25 | 9.62 | 1.38 | -2.09 | -3.7 | 21.97 |0.38 |
+    |[MonOB1-D](/_clusters/monob1d/)| 100.0 | 100.25 | 9.62 | 1.38 | -2.09 | -3.7 | 21.97 |0.35 |
     |[NGC 2264 IRS1](/_clusters/ngc2264irs1/)| 89.7 | 100.28 | 9.5 | 1.37 | -2.29 | -3.7 | 20.23 |0.5 |
     |[LP 44](/_clusters/lp44/)| 43.3 | 100.27 | 9.56 | 1.38 | -1.99 | -3.93 | 19.6 |0.17 |
 N_rows_shared: "3"

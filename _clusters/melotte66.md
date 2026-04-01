@@ -93,14 +93,15 @@ posit_table: |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 111.6 | -47.667 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 111.596 | -47.667 | -- | -- | -- | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 111.595 | -47.657 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 111.596 | -47.667 | -- | -3.09 | 3.26 | 22.1 
-N_rows_pos: "31"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 111.596 | -47.667 | -- | -3.09 | 3.26 | 22.1 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 111.564 | -47.731 | -- | -- | -- | -- 
+N_rows_pos: "32"
 cds_radec: 111.58059,-47.68404
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.69 | 0.45 | 1.05 | 3030 | -0.340 | 8876 | 0.34 | 14 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.69 | 0.45 | 1.05 | 3162 | -0.350 | 8876 | 0.34 | 14 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.76 | 0.59 | -- | 3790 | -0.366 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.400<sup>(5)</sup> | -- | -- | -- |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 4.69 | 0.58 | -- | 4487 | -0.400 | -- | -- | 14<sup>(1)</sup> |
@@ -124,12 +125,13 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 4.49 | 0.39 | -- | 2317 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 4.49 | 0.39 | -- | 2317 | -0.330 | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 4.31 | -- | -- | 2786 | -0.330 | -- | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 5.06<sup>(1)</sup> | 0.19 | -- | 3162 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 4.95<sup>(1)</sup> | 0.19 | -- | 3162 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.44 | -- | 2818 | -- | -- | -- | 35 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 4.31 | 0.44 | -- | 2754 | -- | -- | -- | -- |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 4.31 | 0.45 | -- | 2780 | -0.350<sup>(1)</sup> | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 4.70 | 0.47 | -- | 3388 | -0.330 | -- | -- | -- |
-N_rows_pars: "28"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 3.95 | 0.50 | -- | 6026 | -0.360 | -- | -- | -- |
+N_rows_pars: "29"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

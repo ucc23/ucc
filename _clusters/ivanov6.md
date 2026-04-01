@@ -13,17 +13,17 @@ glon: 238.48749
 glat: -4.28102
 r50: 2.3
 plx: 0.7154
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.3
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -84,7 +84,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 2.43 | 3.61 | -- | 4 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 2.43 | 3.61 | -- | 4 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 205 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.68<sup>(1)</sup> | 3.31 | -- | 16 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.45<sup>(1)</sup> | 3.31 | -- | 16 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.44 | 3.41 | -- | 16 | -- | -- | -- | -- |
 N_rows_pars: "10"
 note_asterisk: true
@@ -93,6 +93,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 11](/_clusters/dbsb11/)| 95.9 | 111.07 | -24.64 | 0.71 | -2.09 | 2.56 | 18.64 |0.16 |
     |[CWNU 1337](/_clusters/cwnu1337/)| 4.1 | 111.03 | -24.4 | 0.72 | -2.14 | 2.23 | 31.62 |0.18 |
-    |[Majaess 90](/_clusters/majaess90/)| 2.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.42 |
+    |[Majaess 90](/_clusters/majaess90/)| 2.7 | 111.19 | -24.48 | 0.74 | -2.16 | 2.27 | 31.62 |0.45 |
 N_rows_shared: "3"
 ---

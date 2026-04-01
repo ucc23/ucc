@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 99](/_clusters/majaess99/)| 100.0 | 125.54 | -42.1 | 0.66 | -4.34 | 5.25 | 0.76 |0.57 |
+    |[Majaess 99](/_clusters/majaess99/)| 100.0 | 125.54 | -42.1 | 0.66 | -4.34 | 5.25 | 0.76 |0.53 |
     |[OC 0466](/_clusters/oc0466/)| 81.8 | 125.65 | -42.12 | 0.66 | -4.31 | 5.31 | 0.76 |0.01 |
     |[CWWDL 13331](/_clusters/cwwdl13331/)| 75.8 | 125.54 | -42.12 | 0.66 | -4.31 | 5.28 | -7.14 |0.0 |
     |[OC 0463](/_clusters/oc0463/)| 51.5 | 125.49 | -42.1 | 0.66 | -4.32 | 5.2 | 0.76 |0.0 |

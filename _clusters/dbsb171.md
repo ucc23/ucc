@@ -13,17 +13,17 @@ glon: 337.61381
 glat: -0.03516
 r50: 5.9
 plx: 0.4483
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.25
 UTI_C_C3: 0.25
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 169](/_clusters/dbsb169/)| 4.0 | 249.71 | -47.3 | 0.49 | -2.73 | -4.56 | -8.76 |0.09 |
+    |[DBSB 169](/_clusters/dbsb169/)| 4.0 | 249.71 | -47.3 | 0.49 | -2.73 | -4.56 | -8.76 |0.14 |
 N_rows_shared: "1"
 ---

@@ -75,7 +75,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 4046](/_clusters/cwnu4046/)| 42.3 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.14 |
-    |[DBSB 115](/_clusters/dbsb115/)| 17.9 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.33 |
+    |[DBSB 115](/_clusters/dbsb115/)| 17.9 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.36 |
     |[DBSB 117](/_clusters/dbsb117/)| 13.7 | 254.81 | -40.2 | 0.6 | -0.38 | -1.32 | -15.63 |0.28 |
 N_rows_shared: "3"
 ---

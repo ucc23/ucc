@@ -1,0 +1,74 @@
+---
+layout: layout_cluster
+style: style_cluster
+title: UFMG 108
+title_flag: true
+more_names: 
+fname: ufmg108
+members_file: "140_144"
+fov: 0.143
+ra_icrs: 53.17211
+de_icrs: 56.85826
+glon: 143.66482
+glat: 0.6152
+r50: 4.3
+plx: 0.294
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
+UTI_C_N_COL: "#fdd9c3"
+UTI_C_dens_COL: "#fddfc6"
+UTI_C_C3_COL: "#fcd6c2"
+UTI_C_lit_COL: "#dfa5b3"
+UTI_C_dup_COL: "#a5cab9"
+UTI_C_N: 0.26
+UTI_C_dens: 0.29
+UTI_C_C3: 0.25
+UTI_C_lit: 0.0
+UTI_C_dup: 1.0
+UTI_C_N_desc: Poorly populated
+UTI_C_dens_desc: Loose
+UTI_C_C3_desc: Low quality
+UTI_C_lit_desc: Rarely studied
+UTI_C_dup_desc: Unique
+summary: |
+    <b>UFMG 108</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by very high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
+badge_av: "Very high extinction"
+badge_av_url: "av_min=5&av_max=10"
+badge_mass: ""
+badge_mass_url: ""
+badge_feh: ""
+badge_feh_url: ""
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
+badge_bss: ""
+badge_bss_url: ""
+badge_nofpars_url: ""
+comments: |
+
+class3: |
+    <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
+N_comments: ""
+dens_val: 1.4
+N_50_val: 26
+scix_url: UFMG%20108
+posit_table: |
+    | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** |<span class="hidden-cell-val">99999</span>-- |53.172 | 56.858 | 0.294 | -0.479 | -0.243 | -62.47 |
+    |[Ferreira et al.](https://scixplorer.org/abs/2026arXiv260326572F) | 2026 | 53.181 | 56.87 | 0.31 | -0.443 | -0.197 | -- 
+N_rows_pos: "1"
+cds_radec: 53.17211,+56.85826
+carousel: UCC
+fpars_table: |
+    | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
+    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.68 | 5.14 | -- | 32 | -- | -- | -- | -- |
+    | [Ferreira et al.](https://scixplorer.org/abs/2026arXiv260326572F) | 2026 | 4.68 | 5.14 | -- | 32 | -- | -- | -- | -- |
+N_rows_pars: "1"
+note_asterisk: false
+shared_table: |
+
+N_rows_shared: "0"
+---

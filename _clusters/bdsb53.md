@@ -70,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 191](/_clusters/teutsch191/)| 96.3 | 36.95 | 72.64 | 1.07 | -1.32 | -1.47 | -17.0 |0.06 |
-    |[FSR 0569](/_clusters/fsr0569/)| 22.2 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.67 |
+    |[FSR 0569](/_clusters/fsr0569/)| 22.2 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.63 |
 N_rows_shared: "2"
 ---

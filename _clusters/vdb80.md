@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDB 80
 title_flag: true
-more_names: vdBergh 80
+more_names: van den Bergh 80; vdBergh 80
 fname: vdb80
 members_file: "216_220"
 fov: 0.353
@@ -13,17 +13,17 @@ glon: 219.22048
 glat: -8.91393
 r50: 10.6
 plx: 1.0134
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#f1f9d6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.71
+UTI_C_lit: 0.6
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -75,8 +75,9 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 97.739 | -9.625 | 1.025 | -3.298 | 0.418 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 97.71 | -9.654 | -- | -3.45 | -11.64 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 97.696 | -9.656 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.708 | -9.655 | -- | -3.45 | -11.64 | -- 
-N_rows_pos: "15"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 97.708 | -9.655 | -- | -3.45 | -11.64 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 97.695 | -9.671 | -- | -- | -- | -- 
+N_rows_pos: "16"
 cds_radec: 97.71173,-9.59863
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -98,7 +99,7 @@ fpars_table: |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 0.95 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.15 | 3.83 | -- | 14 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 336 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.37<sup>(1)</sup> | 2.93 | -- | 10 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.64<sup>(1)</sup> | 2.93 | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.10 | 1.92 | -- | 5 | -- | -- | -- | -- |
 N_rows_pars: "17"
 note_asterisk: true

@@ -13,17 +13,17 @@ glon: 350.12798
 glat: 3.2825
 r50: 19.3
 plx: 0.903
-UTI: "0.71"
-UTI_COLOR: "#ddf0ca"
+UTI: "0.67"
+UTI_COLOR: "#e5f4ce"
 UTI_C_N_COL: "#c4e5c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.38
+UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -89,6 +89,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14433](/_clusters/cwwdl14433/)| 38.3 | 256.51 | -35.07 | 0.91 | 1.26 | -2.17 | 1.46 |0.0 |
     |[CWWDL 14471](/_clusters/cwwdl14471/)| 14.9 | 256.42 | -35.15 | 0.93 | 1.2 | -2.17 | 0.25 |0.01 |
-    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.07 |
+    |[OC 0684](/_clusters/oc0684/)| 6.0 | 256.79 | -35.73 | 0.91 | 1.24 | -2.35 | -1.29 |0.08 |
 N_rows_shared: "3"
 ---

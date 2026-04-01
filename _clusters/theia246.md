@@ -13,17 +13,17 @@ glon: 301.1091
 glat: -3.20799
 r50: 29.4
 plx: 2.4507
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.36
 UTI_C_C3: 0.38
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 89](/_clusters/ocsn89/)| 100.0 | 187.91 | -66.01 | 2.45 | -13.58 | -2.65 | 2.59 |0.34 |
+    |[OCSN 89](/_clusters/ocsn89/)| 100.0 | 187.91 | -66.01 | 2.45 | -13.58 | -2.65 | 2.59 |0.37 |
 N_rows_shared: "1"
 ---

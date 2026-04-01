@@ -13,17 +13,17 @@ glon: 327.14834
 glat: -2.00544
 r50: 5.4
 plx: 0.3263
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#f7fbde"
 UTI_C_dens_COL: "#fafce1"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.56
 UTI_C_dens: 0.54
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Moderately dense
@@ -78,6 +78,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 3118](/_clusters/theia3118/)| 61.3 | 239.78 | -55.82 | 0.33 | -2.59 | -2.94 | -7.78 |0.11 |
+    |[Theia 3118](/_clusters/theia3118/)| 61.3 | 239.78 | -55.82 | 0.33 | -2.59 | -2.94 | -7.78 |0.12 |
 N_rows_shared: "1"
 ---

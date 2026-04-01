@@ -70,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14652](/_clusters/cwwdl14652/)| 92.3 | 277.5 | 1.02 | 2.29 | 3.03 | -8.83 | -11.21 |0.0 |
-    |[UPK 39](/_clusters/upk39/)| 92.3 | 277.48 | 0.93 | 2.29 | 3.26 | -8.73 | -11.21 |0.56 |
+    |[UPK 39](/_clusters/upk39/)| 92.3 | 277.48 | 0.93 | 2.29 | 3.26 | -8.73 | -11.21 |0.52 |
 N_rows_shared: "2"
 ---

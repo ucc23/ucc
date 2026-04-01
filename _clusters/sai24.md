@@ -13,25 +13,25 @@ glon: 138.01916
 glat: 1.4984
 r50: 4.6
 plx: 0.4484
-UTI: "0.83"
-UTI_COLOR: "#c2e4c6"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#c9e7c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c9e7c8"
-UTI_C_dup_COL: "#a5cab9"
+UTI_C_lit_COL: "#e3f3cd"
+UTI_C_dup_COL: "#fefae1"
 UTI_C_N: 0.8
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.8
-UTI_C_dup: 1.0
+UTI_C_lit: 0.68
+UTI_C_dup: 0.46
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
 UTI_C_C3_desc: High quality
-UTI_C_lit_desc: Well-studied
-UTI_C_dup_desc: Unique
+UTI_C_lit_desc: Moderately studied
+UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>SAI 24</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 6 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>SAI 24</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -110,7 +110,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.18 |
+    |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.57 |
     |[AFGL4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
     |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
     |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |

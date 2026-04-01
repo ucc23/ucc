@@ -81,7 +81,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessiteutsch9/" target="_blank" style="color: $blue;">Alessi Teutsch 9</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/antalova2/" target="_blank" style="color: $blue;">Antalova 2</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/archinal1/" target="_blank" style="color: $blue;">Archinal 1</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/avenihunter1/" target="_blank" style="color: $blue;">Aveni Hunter 1</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/avenihunter1/" target="_blank" style="color: $blue;">Aveni-Hunter 1</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb91/" target="_blank" style="color: $blue;">BDSB 91</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb93/" target="_blank" style="color: $blue;">BDSB 93</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb96/" target="_blank" style="color: $blue;">BDSB96</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
@@ -103,7 +103,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley13/" target="_blank" style="color: $blue;">Berkeley 13</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley14/" target="_blank" style="color: $blue;">Berkeley 14</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley15/" target="_blank" style="color: $blue;">Berkeley 15</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/berkeley16/" target="_blank" style="color: $blue;">Berkeley 16</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley17/" target="_blank" style="color: $blue;">Berkeley 17</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley19/" target="_blank" style="color: $blue;">Berkeley 19</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley2/" target="_blank" style="color: $blue;">Berkeley 2</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
@@ -114,7 +113,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley30/" target="_blank" style="color: $blue;">Berkeley 30</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley31/" target="_blank" style="color: $blue;">Berkeley 31</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley32/" target="_blank" style="color: $blue;">Berkeley 32</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/berkeley33/" target="_blank" style="color: $blue;">Berkeley 33</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley35/" target="_blank" style="color: $blue;">Berkeley 35</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley36/" target="_blank" style="color: $blue;">Berkeley 36</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley37/" target="_blank" style="color: $blue;">Berkeley 37</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
@@ -123,13 +121,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/berkeley43/" target="_blank" style="color: $blue;">Berkeley 43</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley44/" target="_blank" style="color: $blue;">Berkeley 44</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley45/" target="_blank" style="color: $blue;">Berkeley 45</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/berkeley46/" target="_blank" style="color: $blue;">Berkeley 46</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley47/" target="_blank" style="color: $blue;">Berkeley 47</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/berkeley48/" target="_blank" style="color: $blue;">Berkeley 48</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley50/" target="_blank" style="color: $blue;">Berkeley 50</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley54/" target="_blank" style="color: $blue;">Berkeley 54</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley55/" target="_blank" style="color: $blue;">Berkeley 55</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/berkeley57/" target="_blank" style="color: $blue;">Berkeley 57</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley6/" target="_blank" style="color: $blue;">Berkeley 6</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley60/" target="_blank" style="color: $blue;">Berkeley 60</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley61/" target="_blank" style="color: $blue;">Berkeley 61</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
@@ -207,142 +202,37 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/coingaia7/" target="_blank" style="color: $blue;">COIN-Gaia 7</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/coingaia8/" target="_blank" style="color: $blue;">COIN-Gaia 8</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/coingaia9/" target="_blank" style="color: $blue;">COIN-Gaia 9</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder1/" target="_blank" style="color: $blue;">Collinder 1</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder101/" target="_blank" style="color: $blue;">Collinder 101</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder103/" target="_blank" style="color: $blue;">Collinder 103</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder104/" target="_blank" style="color: $blue;">Collinder 104</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder106/" target="_blank" style="color: $blue;">Collinder 106</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder107/" target="_blank" style="color: $blue;">Collinder 107</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder109/" target="_blank" style="color: $blue;">Collinder 109</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder110/" target="_blank" style="color: $blue;">Collinder 110</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder114/" target="_blank" style="color: $blue;">Collinder 114</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder115/" target="_blank" style="color: $blue;">Collinder 115</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder117/" target="_blank" style="color: $blue;">Collinder 117</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder123/" target="_blank" style="color: $blue;">Collinder 123</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder131/" target="_blank" style="color: $blue;">Collinder 131</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder132/" target="_blank" style="color: $blue;">Collinder 132</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder135/" target="_blank" style="color: $blue;">Collinder 135</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder139/" target="_blank" style="color: $blue;">Collinder 139</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder140/" target="_blank" style="color: $blue;">Collinder 140</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder141/" target="_blank" style="color: $blue;">Collinder 141</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder143/" target="_blank" style="color: $blue;">Collinder 143</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder148/" target="_blank" style="color: $blue;">Collinder 148</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder149/" target="_blank" style="color: $blue;">Collinder 149</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder16/" target="_blank" style="color: $blue;">Collinder 16</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder161/" target="_blank" style="color: $blue;">Collinder 161</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder162/" target="_blank" style="color: $blue;">Collinder 162</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder166/" target="_blank" style="color: $blue;">Collinder 166</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder174/" target="_blank" style="color: $blue;">Collinder 174</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder175/" target="_blank" style="color: $blue;">Collinder 175</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder178/" target="_blank" style="color: $blue;">Collinder 178</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder181/" target="_blank" style="color: $blue;">Collinder 181</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder183/" target="_blank" style="color: $blue;">Collinder 183</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder184/" target="_blank" style="color: $blue;">Collinder 184</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder185/" target="_blank" style="color: $blue;">Collinder 185</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder186/" target="_blank" style="color: $blue;">Collinder 186</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder197/" target="_blank" style="color: $blue;">Collinder 197</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder201/" target="_blank" style="color: $blue;">Collinder 201</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder202/" target="_blank" style="color: $blue;">Collinder 202</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder205/" target="_blank" style="color: $blue;">Collinder 205</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder207/" target="_blank" style="color: $blue;">Collinder 207</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder209/" target="_blank" style="color: $blue;">Collinder 209</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder211/" target="_blank" style="color: $blue;">Collinder 211</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder212/" target="_blank" style="color: $blue;">Collinder 212</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder214/" target="_blank" style="color: $blue;">Collinder 214</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder218/" target="_blank" style="color: $blue;">Collinder 218</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder22/" target="_blank" style="color: $blue;">Collinder 22</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder220/" target="_blank" style="color: $blue;">Collinder 220</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder221/" target="_blank" style="color: $blue;">Collinder 221</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder226/" target="_blank" style="color: $blue;">Collinder 226</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder237/" target="_blank" style="color: $blue;">Collinder 237</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder251/" target="_blank" style="color: $blue;">Collinder 251</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder254/" target="_blank" style="color: $blue;">Collinder 254</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder258/" target="_blank" style="color: $blue;">Collinder 258</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder260/" target="_blank" style="color: $blue;">Collinder 260</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder261/" target="_blank" style="color: $blue;">Collinder 261</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder265/" target="_blank" style="color: $blue;">Collinder 265</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder268/" target="_blank" style="color: $blue;">Collinder 268</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder269/" target="_blank" style="color: $blue;">Collinder 269</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder270/" target="_blank" style="color: $blue;">Collinder 270</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder271/" target="_blank" style="color: $blue;">Collinder 271</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder272/" target="_blank" style="color: $blue;">Collinder 272</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder273/" target="_blank" style="color: $blue;">Collinder 273</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder277/" target="_blank" style="color: $blue;">Collinder 277</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder278/" target="_blank" style="color: $blue;">Collinder 278</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder28/" target="_blank" style="color: $blue;">Collinder 28</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder287/" target="_blank" style="color: $blue;">Collinder 287</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder288/" target="_blank" style="color: $blue;">Collinder 288</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder291/" target="_blank" style="color: $blue;">Collinder 291</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder292/" target="_blank" style="color: $blue;">Collinder 292</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder297/" target="_blank" style="color: $blue;">Collinder 297</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder304/" target="_blank" style="color: $blue;">Collinder 304</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder307/" target="_blank" style="color: $blue;">Collinder 307</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder308/" target="_blank" style="color: $blue;">Collinder 308</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder311/" target="_blank" style="color: $blue;">Collinder 311</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder313/" target="_blank" style="color: $blue;">Collinder 313</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder319/" target="_blank" style="color: $blue;">Collinder 319</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder320/" target="_blank" style="color: $blue;">Collinder 320</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder323/" target="_blank" style="color: $blue;">Collinder 323</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder332/" target="_blank" style="color: $blue;">Collinder 332</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder338/" target="_blank" style="color: $blue;">Collinder 338</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder339/" target="_blank" style="color: $blue;">Collinder 339</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder340/" target="_blank" style="color: $blue;">Collinder 340</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder344/" target="_blank" style="color: $blue;">Collinder 344</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder35/" target="_blank" style="color: $blue;">Collinder 35</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder350/" target="_blank" style="color: $blue;">Collinder 350</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder369/" target="_blank" style="color: $blue;">Collinder 369</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder37/" target="_blank" style="color: $blue;">Collinder 37</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder370/" target="_blank" style="color: $blue;">Collinder 370</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder376/" target="_blank" style="color: $blue;">Collinder 376</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder379/" target="_blank" style="color: $blue;">Collinder 379</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder385/" target="_blank" style="color: $blue;">Collinder 385</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder390/" target="_blank" style="color: $blue;">Collinder 390</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder393/" target="_blank" style="color: $blue;">Collinder 393</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder394/" target="_blank" style="color: $blue;">Collinder 394</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder397/" target="_blank" style="color: $blue;">Collinder 397</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder398/" target="_blank" style="color: $blue;">Collinder 398</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder400/" target="_blank" style="color: $blue;">Collinder 400</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder408/" target="_blank" style="color: $blue;">Collinder 408</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder413/" target="_blank" style="color: $blue;">Collinder 413</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder417/" target="_blank" style="color: $blue;">Collinder 417</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder419/" target="_blank" style="color: $blue;">Collinder 419</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder421/" target="_blank" style="color: $blue;">Collinder 421</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder422/" target="_blank" style="color: $blue;">Collinder 422</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder43/" target="_blank" style="color: $blue;">Collinder 43</a> | Mass determination: worst fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder431/" target="_blank" style="color: $blue;">Collinder 431</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder432/" target="_blank" style="color: $blue;">Collinder 432</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder433/" target="_blank" style="color: $blue;">Collinder 433</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder434/" target="_blank" style="color: $blue;">Collinder 434</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder435/" target="_blank" style="color: $blue;">Collinder 435</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder436/" target="_blank" style="color: $blue;">Collinder 436</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder437/" target="_blank" style="color: $blue;">Collinder 437</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder440/" target="_blank" style="color: $blue;">Collinder 440</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder442/" target="_blank" style="color: $blue;">Collinder 442</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder443/" target="_blank" style="color: $blue;">Collinder 443</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder446/" target="_blank" style="color: $blue;">Collinder 446</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder450/" target="_blank" style="color: $blue;">Collinder 450</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder451/" target="_blank" style="color: $blue;">Collinder 451</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder453/" target="_blank" style="color: $blue;">Collinder 453</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder459/" target="_blank" style="color: $blue;">Collinder 459</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder461/" target="_blank" style="color: $blue;">Collinder 461</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder462/" target="_blank" style="color: $blue;">Collinder 462</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder463/" target="_blank" style="color: $blue;">Collinder 463</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder469/" target="_blank" style="color: $blue;">Collinder 469</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder49/" target="_blank" style="color: $blue;">Collinder 49</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder51/" target="_blank" style="color: $blue;">Collinder 51</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder52/" target="_blank" style="color: $blue;">Collinder 52</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder55/" target="_blank" style="color: $blue;">Collinder 55</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder58/" target="_blank" style="color: $blue;">Collinder 58</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder60/" target="_blank" style="color: $blue;">Collinder 60</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder64/" target="_blank" style="color: $blue;">Collinder 64</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder69/" target="_blank" style="color: $blue;">Collinder 69</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder7/" target="_blank" style="color: $blue;">Collinder 7</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/collinder74/" target="_blank" style="color: $blue;">Collinder 74</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder76/" target="_blank" style="color: $blue;">Collinder 76</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/collinder79/" target="_blank" style="color: $blue;">Collinder 79</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder85/" target="_blank" style="color: $blue;">Collinder 85</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder93/" target="_blank" style="color: $blue;">Collinder 93</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/collinder94/" target="_blank" style="color: $blue;">Collinder 94</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/collinder95/" target="_blank" style="color: $blue;">Collinder 95</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/czernik1/" target="_blank" style="color: $blue;">Czernik 1</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/czernik12/" target="_blank" style="color: $blue;">Czernik 12</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
@@ -732,7 +622,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/gulliver9/" target="_blank" style="color: $blue;">Gulliver 9</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/haffner10/" target="_blank" style="color: $blue;">Haffner 10</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/haffner11/" target="_blank" style="color: $blue;">Haffner 11</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/haffner12/" target="_blank" style="color: $blue;">Haffner 12</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/haffner13/" target="_blank" style="color: $blue;">Haffner 13</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/haffner14/" target="_blank" style="color: $blue;">Haffner 14</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/haffner15/" target="_blank" style="color: $blue;">Haffner 15</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
@@ -761,16 +650,30 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hogg21/" target="_blank" style="color: $blue;">Hogg 21</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/hogg22/" target="_blank" style="color: $blue;">Hogg 22</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/hogg4/" target="_blank" style="color: $blue;">Hogg 4</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/hyades/" target="_blank" style="color: $blue;">Hyades</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic1311/" target="_blank" style="color: $blue;">IC 1311</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic1369/" target="_blank" style="color: $blue;">IC 1369</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic1396/" target="_blank" style="color: $blue;">IC 1396</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic1434/" target="_blank" style="color: $blue;">IC 1434</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic1442/" target="_blank" style="color: $blue;">IC 1442</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ic1590/" target="_blank" style="color: $blue;">IC 1590</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ic166/" target="_blank" style="color: $blue;">IC 166</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic1805/" target="_blank" style="color: $blue;">IC 1805</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic1848/" target="_blank" style="color: $blue;">IC 1848</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic2157/" target="_blank" style="color: $blue;">IC 2157</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ic2391/" target="_blank" style="color: $blue;">IC 2391</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic2395/" target="_blank" style="color: $blue;">IC 2395</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ic2488/" target="_blank" style="color: $blue;">IC 2488</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic2581/" target="_blank" style="color: $blue;">IC 2581</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ic2602/" target="_blank" style="color: $blue;">IC 2602</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic2714/" target="_blank" style="color: $blue;">IC 2714</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic2948/" target="_blank" style="color: $blue;">IC 2948</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ic348/" target="_blank" style="color: $blue;">IC 348</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic361/" target="_blank" style="color: $blue;">IC 361</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic4651/" target="_blank" style="color: $blue;">IC 4651</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ic4665/" target="_blank" style="color: $blue;">IC 4665</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ic4725/" target="_blank" style="color: $blue;">IC 4725</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ic4756/" target="_blank" style="color: $blue;">IC 4756</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic4996/" target="_blank" style="color: $blue;">IC 4996</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ic5146/" target="_blank" style="color: $blue;">IC 5146</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ivanov4/" target="_blank" style="color: $blue;">Ivanov 4</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
@@ -827,240 +730,348 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/mamajek4/" target="_blank" style="color: $blue;">Mamajek 4</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/markarian38/" target="_blank" style="color: $blue;">Markarian 38</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/markarian50/" target="_blank" style="color: $blue;">Markarian 50</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/mayer1/" target="_blank" style="color: $blue;">Mayer 1</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/mayer1/" target="_blank" style="color: $blue;">Mayer  1</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte101/" target="_blank" style="color: $blue;">Melotte 101</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte102/" target="_blank" style="color: $blue;">Melotte 102</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte103/" target="_blank" style="color: $blue;">Melotte 103</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte104/" target="_blank" style="color: $blue;">Melotte 104</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte105/" target="_blank" style="color: $blue;">Melotte 105</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte106/" target="_blank" style="color: $blue;">Melotte 106</a> | Mass determination: worst fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte108/" target="_blank" style="color: $blue;">Melotte 108</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte109/" target="_blank" style="color: $blue;">Melotte 109</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte110/" target="_blank" style="color: $blue;">Melotte 110</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte111/" target="_blank" style="color: $blue;">Melotte 111</a> | Mass determination: worst fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte114/" target="_blank" style="color: $blue;">Melotte 114</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte116/" target="_blank" style="color: $blue;">Melotte 116</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte12/" target="_blank" style="color: $blue;">Melotte 12</a> | Mass determination: worst fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte120/" target="_blank" style="color: $blue;">Melotte 120</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte122/" target="_blank" style="color: $blue;">Melotte 122</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte123/" target="_blank" style="color: $blue;">Melotte 123</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte125/" target="_blank" style="color: $blue;">Melotte 125</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte127/" target="_blank" style="color: $blue;">Melotte 127</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte128/" target="_blank" style="color: $blue;">Melotte 128</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte130/" target="_blank" style="color: $blue;">Melotte 130</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte131/" target="_blank" style="color: $blue;">Melotte 131</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte137/" target="_blank" style="color: $blue;">Melotte 137</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte138/" target="_blank" style="color: $blue;">Melotte 138</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte139/" target="_blank" style="color: $blue;">Melotte 139</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte141/" target="_blank" style="color: $blue;">Melotte 141</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte145/" target="_blank" style="color: $blue;">Melotte 145</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte146/" target="_blank" style="color: $blue;">Melotte 146</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte149/" target="_blank" style="color: $blue;">Melotte 149</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte152/" target="_blank" style="color: $blue;">Melotte 152</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte155/" target="_blank" style="color: $blue;">Melotte 155</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte156/" target="_blank" style="color: $blue;">Melotte 156</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte158/" target="_blank" style="color: $blue;">Melotte 158</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte161/" target="_blank" style="color: $blue;">Melotte 161</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte166/" target="_blank" style="color: $blue;">Melotte 166</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte169/" target="_blank" style="color: $blue;">Melotte 169</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte17/" target="_blank" style="color: $blue;">Melotte 17</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte177/" target="_blank" style="color: $blue;">Melotte 177</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte179/" target="_blank" style="color: $blue;">Melotte 179</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte18/" target="_blank" style="color: $blue;">Melotte 18</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte181/" target="_blank" style="color: $blue;">Melotte 181</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte182/" target="_blank" style="color: $blue;">Melotte 182</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte183/" target="_blank" style="color: $blue;">Melotte 183</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte184/" target="_blank" style="color: $blue;">Melotte 184</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte186/" target="_blank" style="color: $blue;">Melotte 186</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte187/" target="_blank" style="color: $blue;">Melotte 187</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte188/" target="_blank" style="color: $blue;">Melotte 188</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte197/" target="_blank" style="color: $blue;">Melotte 197</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte2/" target="_blank" style="color: $blue;">Melotte 2</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte20/" target="_blank" style="color: $blue;">Melotte 20</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte201/" target="_blank" style="color: $blue;">Melotte 201</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte204/" target="_blank" style="color: $blue;">Melotte 204</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte205/" target="_blank" style="color: $blue;">Melotte 205</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte206/" target="_blank" style="color: $blue;">Melotte 206</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte21/" target="_blank" style="color: $blue;">Melotte 21</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte210/" target="_blank" style="color: $blue;">Melotte 210</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte212/" target="_blank" style="color: $blue;">Melotte 212</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte213/" target="_blank" style="color: $blue;">Melotte 213</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte214/" target="_blank" style="color: $blue;">Melotte 214</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte22/" target="_blank" style="color: $blue;">Melotte 22</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte222/" target="_blank" style="color: $blue;">Melotte 222</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte223/" target="_blank" style="color: $blue;">Melotte 223</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte224/" target="_blank" style="color: $blue;">Melotte 224</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte23/" target="_blank" style="color: $blue;">Melotte 23</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte231/" target="_blank" style="color: $blue;">Melotte 231</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte232/" target="_blank" style="color: $blue;">Melotte 232</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte236/" target="_blank" style="color: $blue;">Melotte 236</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte238/" target="_blank" style="color: $blue;">Melotte 238</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte239/" target="_blank" style="color: $blue;">Melotte 239</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte24/" target="_blank" style="color: $blue;">Melotte 24</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte240/" target="_blank" style="color: $blue;">Melotte 240</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte241/" target="_blank" style="color: $blue;">Melotte 241</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte243/" target="_blank" style="color: $blue;">Melotte 243</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte244/" target="_blank" style="color: $blue;">Melotte 244</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte25/" target="_blank" style="color: $blue;">Melotte 25</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte26/" target="_blank" style="color: $blue;">Melotte 26</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte27/" target="_blank" style="color: $blue;">Melotte 27</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte32/" target="_blank" style="color: $blue;">Melotte 32</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte35/" target="_blank" style="color: $blue;">Melotte 35</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte36/" target="_blank" style="color: $blue;">Melotte 36</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte38/" target="_blank" style="color: $blue;">Melotte 38</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte39/" target="_blank" style="color: $blue;">Melotte 39</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte41/" target="_blank" style="color: $blue;">Melotte 41</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte42/" target="_blank" style="color: $blue;">Melotte 42</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte43/" target="_blank" style="color: $blue;">Melotte 43</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte44/" target="_blank" style="color: $blue;">Melotte 44</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte45/" target="_blank" style="color: $blue;">Melotte 45</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte46/" target="_blank" style="color: $blue;">Melotte 46</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte48/" target="_blank" style="color: $blue;">Melotte 48</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte50/" target="_blank" style="color: $blue;">Melotte 50</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte51/" target="_blank" style="color: $blue;">Melotte 51</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte52/" target="_blank" style="color: $blue;">Melotte 52</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte54/" target="_blank" style="color: $blue;">Melotte 54</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte55/" target="_blank" style="color: $blue;">Melotte 55</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte56/" target="_blank" style="color: $blue;">Melotte 56</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte59/" target="_blank" style="color: $blue;">Melotte 59</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte63/" target="_blank" style="color: $blue;">Melotte 63</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte64/" target="_blank" style="color: $blue;">Melotte 64</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte66/" target="_blank" style="color: $blue;">Melotte 66</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte67/" target="_blank" style="color: $blue;">Melotte 67</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte68/" target="_blank" style="color: $blue;">Melotte 68</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte69/" target="_blank" style="color: $blue;">Melotte 69</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte70/" target="_blank" style="color: $blue;">Melotte 70</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte71/" target="_blank" style="color: $blue;">Melotte 71</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte72/" target="_blank" style="color: $blue;">Melotte 72</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte73/" target="_blank" style="color: $blue;">Melotte 73</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte75/" target="_blank" style="color: $blue;">Melotte 75</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte76/" target="_blank" style="color: $blue;">Melotte 76</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte77/" target="_blank" style="color: $blue;">Melotte 77</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte78/" target="_blank" style="color: $blue;">Melotte 78</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte79/" target="_blank" style="color: $blue;">Melotte 79</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte80/" target="_blank" style="color: $blue;">Melotte 80</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte81/" target="_blank" style="color: $blue;">Melotte 81</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte82/" target="_blank" style="color: $blue;">Melotte 82</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte83/" target="_blank" style="color: $blue;">Melotte 83</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte85/" target="_blank" style="color: $blue;">Melotte 85</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte86/" target="_blank" style="color: $blue;">Melotte 86</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte87/" target="_blank" style="color: $blue;">Melotte 87</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte88/" target="_blank" style="color: $blue;">Melotte 88</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte89/" target="_blank" style="color: $blue;">Melotte 89</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte90/" target="_blank" style="color: $blue;">Melotte 90</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte91/" target="_blank" style="color: $blue;">Melotte 91</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte92/" target="_blank" style="color: $blue;">Melotte 92</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte93/" target="_blank" style="color: $blue;">Melotte 93</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte94/" target="_blank" style="color: $blue;">Melotte 94</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/melotte97/" target="_blank" style="color: $blue;">Melotte 97</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte98/" target="_blank" style="color: $blue;">Melotte 98</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/moffat1/" target="_blank" style="color: $blue;">Moffat 1</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1027/" target="_blank" style="color: $blue;">NGC 1027</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc103/" target="_blank" style="color: $blue;">NGC 103</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1039/" target="_blank" style="color: $blue;">NGC 1039</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1193/" target="_blank" style="color: $blue;">NGC 1193</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1220/" target="_blank" style="color: $blue;">NGC 1220</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1245/" target="_blank" style="color: $blue;">NGC 1245</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc129/" target="_blank" style="color: $blue;">NGC 129</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc133/" target="_blank" style="color: $blue;">NGC 133</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1342/" target="_blank" style="color: $blue;">NGC 1342</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1348/" target="_blank" style="color: $blue;">NGC 1348</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc136/" target="_blank" style="color: $blue;">NGC 136</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1444/" target="_blank" style="color: $blue;">NGC 1444</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc146/" target="_blank" style="color: $blue;">NGC 146</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1496/" target="_blank" style="color: $blue;">NGC 1496</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1502/" target="_blank" style="color: $blue;">NGC 1502</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1513/" target="_blank" style="color: $blue;">NGC 1513</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1528/" target="_blank" style="color: $blue;">NGC 1528</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1545/" target="_blank" style="color: $blue;">NGC 1545</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1579/" target="_blank" style="color: $blue;">NGC 1579</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1582/" target="_blank" style="color: $blue;">NGC 1582</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1605/" target="_blank" style="color: $blue;">NGC 1605</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1647/" target="_blank" style="color: $blue;">NGC 1647</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1662/" target="_blank" style="color: $blue;">NGC 1662</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1664/" target="_blank" style="color: $blue;">NGC 1664</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1708/" target="_blank" style="color: $blue;">NGC 1708</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1724/" target="_blank" style="color: $blue;">NGC 1724</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1750/" target="_blank" style="color: $blue;">NGC 1750</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1758/" target="_blank" style="color: $blue;">NGC 1758</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1778/" target="_blank" style="color: $blue;">NGC 1778</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1798/" target="_blank" style="color: $blue;">NGC 1798</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1817/" target="_blank" style="color: $blue;">NGC 1817</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1857/" target="_blank" style="color: $blue;">NGC 1857</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc188/" target="_blank" style="color: $blue;">NGC 188</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1883/" target="_blank" style="color: $blue;">NGC 1883</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc189/" target="_blank" style="color: $blue;">NGC 189</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1893/" target="_blank" style="color: $blue;">NGC 1893</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1901/" target="_blank" style="color: $blue;">NGC 1901</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1907/" target="_blank" style="color: $blue;">NGC 1907</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1912/" target="_blank" style="color: $blue;">NGC 1912</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1960/" target="_blank" style="color: $blue;">NGC 1960</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1976/" target="_blank" style="color: $blue;">NGC 1976</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1977/" target="_blank" style="color: $blue;">NGC 1977</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1980/" target="_blank" style="color: $blue;">NGC 1980</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2099/" target="_blank" style="color: $blue;">NGC 2099</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2112/" target="_blank" style="color: $blue;">NGC 2112</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2126/" target="_blank" style="color: $blue;">NGC 2126</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2129/" target="_blank" style="color: $blue;">NGC 2129</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2141/" target="_blank" style="color: $blue;">NGC 2141</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2168/" target="_blank" style="color: $blue;">NGC 2168</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2169/" target="_blank" style="color: $blue;">NGC 2169</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2183/" target="_blank" style="color: $blue;">NGC 2183</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2184/" target="_blank" style="color: $blue;">NGC 2184</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2186/" target="_blank" style="color: $blue;">NGC 2186</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2192/" target="_blank" style="color: $blue;">NGC 2192</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2194/" target="_blank" style="color: $blue;">NGC 2194</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2204/" target="_blank" style="color: $blue;">NGC 2204</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2215/" target="_blank" style="color: $blue;">NGC 2215</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2225/" target="_blank" style="color: $blue;">NGC 2225</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2232/" target="_blank" style="color: $blue;">NGC 2232</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2236/" target="_blank" style="color: $blue;">NGC 2236</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2243/" target="_blank" style="color: $blue;">NGC 2243</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2244/" target="_blank" style="color: $blue;">NGC 2244</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc225/" target="_blank" style="color: $blue;">NGC 225</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2251/" target="_blank" style="color: $blue;">NGC 2251</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2254/" target="_blank" style="color: $blue;">NGC 2254</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2259/" target="_blank" style="color: $blue;">NGC 2259</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2262/" target="_blank" style="color: $blue;">NGC 2262</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2264/" target="_blank" style="color: $blue;">NGC 2264</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2266/" target="_blank" style="color: $blue;">NGC 2266</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2269/" target="_blank" style="color: $blue;">NGC 2269</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2281/" target="_blank" style="color: $blue;">NGC 2281</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2286/" target="_blank" style="color: $blue;">NGC 2286</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2287/" target="_blank" style="color: $blue;">NGC 2287</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2301/" target="_blank" style="color: $blue;">NGC 2301</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2302/" target="_blank" style="color: $blue;">NGC 2302</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2304/" target="_blank" style="color: $blue;">NGC 2304</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2309/" target="_blank" style="color: $blue;">NGC 2309</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2311/" target="_blank" style="color: $blue;">NGC 2311</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2318/" target="_blank" style="color: $blue;">NGC 2318</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2323/" target="_blank" style="color: $blue;">NGC 2323</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2324/" target="_blank" style="color: $blue;">NGC 2324</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2335/" target="_blank" style="color: $blue;">NGC 2335</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2343/" target="_blank" style="color: $blue;">NGC 2343</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2345/" target="_blank" style="color: $blue;">NGC 2345</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2353/" target="_blank" style="color: $blue;">NGC 2353</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2354/" target="_blank" style="color: $blue;">NGC 2354</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2355/" target="_blank" style="color: $blue;">NGC 2355</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2358/" target="_blank" style="color: $blue;">NGC 2358</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2360/" target="_blank" style="color: $blue;">NGC 2360</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2362/" target="_blank" style="color: $blue;">NGC 2362</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2367/" target="_blank" style="color: $blue;">NGC 2367</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2374/" target="_blank" style="color: $blue;">NGC 2374</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2383/" target="_blank" style="color: $blue;">NGC 2383</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2384/" target="_blank" style="color: $blue;">NGC 2384</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2396/" target="_blank" style="color: $blue;">NGC 2396</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2401/" target="_blank" style="color: $blue;">NGC 2401</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2414/" target="_blank" style="color: $blue;">NGC 2414</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2420/" target="_blank" style="color: $blue;">NGC 2420</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2421/" target="_blank" style="color: $blue;">NGC 2421</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2422/" target="_blank" style="color: $blue;">NGC 2422</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2423/" target="_blank" style="color: $blue;">NGC 2423</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2425/" target="_blank" style="color: $blue;">NGC 2425</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2428/" target="_blank" style="color: $blue;">NGC 2428</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2432/" target="_blank" style="color: $blue;">NGC 2432</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2437/" target="_blank" style="color: $blue;">NGC 2437</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2439/" target="_blank" style="color: $blue;">NGC 2439</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2447/" target="_blank" style="color: $blue;">NGC 2447</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2448/" target="_blank" style="color: $blue;">NGC 2448</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2451/" target="_blank" style="color: $blue;">NGC 2451</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2451b/" target="_blank" style="color: $blue;">NGC 2451B</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2453/" target="_blank" style="color: $blue;">NGC 2453</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2455/" target="_blank" style="color: $blue;">NGC 2455</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2477/" target="_blank" style="color: $blue;">NGC 2477</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2479/" target="_blank" style="color: $blue;">NGC 2479</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2482/" target="_blank" style="color: $blue;">NGC 2482</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2489/" target="_blank" style="color: $blue;">NGC 2489</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2506/" target="_blank" style="color: $blue;">NGC 2506</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2509/" target="_blank" style="color: $blue;">NGC 2509</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2516/" target="_blank" style="color: $blue;">NGC 2516</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2527/" target="_blank" style="color: $blue;">NGC 2527</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2533/" target="_blank" style="color: $blue;">NGC 2533</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2539/" target="_blank" style="color: $blue;">NGC 2539</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2546/" target="_blank" style="color: $blue;">NGC 2546</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2547/" target="_blank" style="color: $blue;">NGC 2547</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2548/" target="_blank" style="color: $blue;">NGC 2548</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2567/" target="_blank" style="color: $blue;">NGC 2567</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2568/" target="_blank" style="color: $blue;">NGC 2568</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2571/" target="_blank" style="color: $blue;">NGC 2571</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2580/" target="_blank" style="color: $blue;">NGC 2580</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2587/" target="_blank" style="color: $blue;">NGC 2587</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2588/" target="_blank" style="color: $blue;">NGC 2588</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2627/" target="_blank" style="color: $blue;">NGC 2627</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2632/" target="_blank" style="color: $blue;">NGC 2632</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2635/" target="_blank" style="color: $blue;">NGC 2635</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2645/" target="_blank" style="color: $blue;">NGC 2645</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2658/" target="_blank" style="color: $blue;">NGC 2658</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2659/" target="_blank" style="color: $blue;">NGC 2659</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2660/" target="_blank" style="color: $blue;">NGC 2660</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2669/" target="_blank" style="color: $blue;">NGC 2669</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2670/" target="_blank" style="color: $blue;">NGC 2670</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2671/" target="_blank" style="color: $blue;">NGC 2671</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2682/" target="_blank" style="color: $blue;">NGC 2682</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2818/" target="_blank" style="color: $blue;">NGC 2818</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2849/" target="_blank" style="color: $blue;">NGC 2849</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2866/" target="_blank" style="color: $blue;">NGC 2866</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2910/" target="_blank" style="color: $blue;">NGC 2910</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2925/" target="_blank" style="color: $blue;">NGC 2925</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc2972/" target="_blank" style="color: $blue;">NGC 2972</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3033/" target="_blank" style="color: $blue;">NGC 3033</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3105/" target="_blank" style="color: $blue;">NGC 3105</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3114/" target="_blank" style="color: $blue;">NGC 3114</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3228/" target="_blank" style="color: $blue;">NGC 3228</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3247/" target="_blank" style="color: $blue;">NGC 3247</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3255/" target="_blank" style="color: $blue;">NGC 3255</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3293/" target="_blank" style="color: $blue;">NGC 3293</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3324/" target="_blank" style="color: $blue;">NGC 3324</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3330/" target="_blank" style="color: $blue;">NGC 3330</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3496/" target="_blank" style="color: $blue;">NGC 3496</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3519/" target="_blank" style="color: $blue;">NGC 3519</a> | Mass determination: worst fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3532/" target="_blank" style="color: $blue;">NGC 3532</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3572/" target="_blank" style="color: $blue;">NGC 3572</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3590/" target="_blank" style="color: $blue;">NGC 3590</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc366/" target="_blank" style="color: $blue;">NGC 366</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3680/" target="_blank" style="color: $blue;">NGC 3680</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc3766/" target="_blank" style="color: $blue;">NGC 3766</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc381/" target="_blank" style="color: $blue;">NGC 381</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc3960/" target="_blank" style="color: $blue;">NGC 3960</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4052/" target="_blank" style="color: $blue;">NGC 4052</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4103/" target="_blank" style="color: $blue;">NGC 4103</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4184/" target="_blank" style="color: $blue;">NGC 4184</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc433/" target="_blank" style="color: $blue;">NGC 433</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4337/" target="_blank" style="color: $blue;">NGC 4337</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4349/" target="_blank" style="color: $blue;">NGC 4349</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc436/" target="_blank" style="color: $blue;">NGC 436</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc4439/" target="_blank" style="color: $blue;">NGC 4439</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4463/" target="_blank" style="color: $blue;">NGC 4463</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc457/" target="_blank" style="color: $blue;">NGC 457</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc4609/" target="_blank" style="color: $blue;">NGC 4609</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4755/" target="_blank" style="color: $blue;">NGC 4755</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4815/" target="_blank" style="color: $blue;">NGC 4815</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc4852/" target="_blank" style="color: $blue;">NGC 4852</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5138/" target="_blank" style="color: $blue;">NGC 5138</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5168/" target="_blank" style="color: $blue;">NGC 5168</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc5269/" target="_blank" style="color: $blue;">NGC 5269</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5281/" target="_blank" style="color: $blue;">NGC 5281</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5288/" target="_blank" style="color: $blue;">NGC 5288</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5316/" target="_blank" style="color: $blue;">NGC 5316</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5381/" target="_blank" style="color: $blue;">NGC 5381</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5460/" target="_blank" style="color: $blue;">NGC 5460</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc559/" target="_blank" style="color: $blue;">NGC 559</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc5593/" target="_blank" style="color: $blue;">NGC 5593</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc5606/" target="_blank" style="color: $blue;">NGC 5606</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5617/" target="_blank" style="color: $blue;">NGC 5617</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5662/" target="_blank" style="color: $blue;">NGC 5662</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5715/" target="_blank" style="color: $blue;">NGC 5715</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5749/" target="_blank" style="color: $blue;">NGC 5749</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5764/" target="_blank" style="color: $blue;">NGC 5764</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc581/" target="_blank" style="color: $blue;">NGC 581</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5822/" target="_blank" style="color: $blue;">NGC 5822</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5823/" target="_blank" style="color: $blue;">NGC 5823</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5925/" target="_blank" style="color: $blue;">NGC 5925</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc5999/" target="_blank" style="color: $blue;">NGC 5999</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6005/" target="_blank" style="color: $blue;">NGC 6005</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6025/" target="_blank" style="color: $blue;">NGC 6025</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6031/" target="_blank" style="color: $blue;">NGC 6031</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6067/" target="_blank" style="color: $blue;">NGC 6067</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6087/" target="_blank" style="color: $blue;">NGC 6087</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc609/" target="_blank" style="color: $blue;">NGC 609</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6124/" target="_blank" style="color: $blue;">NGC 6124</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6134/" target="_blank" style="color: $blue;">NGC 6134</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6152/" target="_blank" style="color: $blue;">NGC 6152</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6178/" target="_blank" style="color: $blue;">NGC 6178</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6192/" target="_blank" style="color: $blue;">NGC 6192</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6193/" target="_blank" style="color: $blue;">NGC 6193</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6200/" target="_blank" style="color: $blue;">NGC 6200</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6204/" target="_blank" style="color: $blue;">NGC 6204</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6208/" target="_blank" style="color: $blue;">NGC 6208</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6216/" target="_blank" style="color: $blue;">NGC 6216</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6231/" target="_blank" style="color: $blue;">NGC 6231</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6242/" target="_blank" style="color: $blue;">NGC 6242</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6249/" target="_blank" style="color: $blue;">NGC 6249</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6250/" target="_blank" style="color: $blue;">NGC 6250</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6253/" target="_blank" style="color: $blue;">NGC 6253</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6259/" target="_blank" style="color: $blue;">NGC 6259</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6268/" target="_blank" style="color: $blue;">NGC 6268</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6281/" target="_blank" style="color: $blue;">NGC 6281</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6318/" target="_blank" style="color: $blue;">NGC 6318</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6322/" target="_blank" style="color: $blue;">NGC 6322</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc637/" target="_blank" style="color: $blue;">NGC 637</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6383/" target="_blank" style="color: $blue;">NGC 6383</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6396/" target="_blank" style="color: $blue;">NGC 6396</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6400/" target="_blank" style="color: $blue;">NGC 6400</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6404/" target="_blank" style="color: $blue;">NGC 6404</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6405/" target="_blank" style="color: $blue;">NGC 6405</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6416/" target="_blank" style="color: $blue;">NGC 6416</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6425/" target="_blank" style="color: $blue;">NGC 6425</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6444/" target="_blank" style="color: $blue;">NGC 6444</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6451/" target="_blank" style="color: $blue;">NGC 6451</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6469/" target="_blank" style="color: $blue;">NGC 6469</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6475/" target="_blank" style="color: $blue;">NGC 6475</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6494/" target="_blank" style="color: $blue;">NGC 6494</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6506/" target="_blank" style="color: $blue;">NGC 6506</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6520/" target="_blank" style="color: $blue;">NGC 6520</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6530/" target="_blank" style="color: $blue;">NGC 6530</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6531/" target="_blank" style="color: $blue;">NGC 6531</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc654/" target="_blank" style="color: $blue;">NGC 654</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6561/" target="_blank" style="color: $blue;">NGC 6561</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6568/" target="_blank" style="color: $blue;">NGC 6568</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6583/" target="_blank" style="color: $blue;">NGC 6583</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc659/" target="_blank" style="color: $blue;">NGC 659</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6603/" target="_blank" style="color: $blue;">NGC 6603</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6604/" target="_blank" style="color: $blue;">NGC 6604</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6611/" target="_blank" style="color: $blue;">NGC 6611</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6613/" target="_blank" style="color: $blue;">NGC 6613</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc663/" target="_blank" style="color: $blue;">NGC 663</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6631/" target="_blank" style="color: $blue;">NGC 6631</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6633/" target="_blank" style="color: $blue;">NGC 6633</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6645/" target="_blank" style="color: $blue;">NGC 6645</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6649/" target="_blank" style="color: $blue;">NGC 6649</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6664/" target="_blank" style="color: $blue;">NGC 6664</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6694/" target="_blank" style="color: $blue;">NGC 6694</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6704/" target="_blank" style="color: $blue;">NGC 6704</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6705/" target="_blank" style="color: $blue;">NGC 6705</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6709/" target="_blank" style="color: $blue;">NGC 6709</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6716/" target="_blank" style="color: $blue;">NGC 6716</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6728/" target="_blank" style="color: $blue;">NGC 6728</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6735/" target="_blank" style="color: $blue;">NGC 6735</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6755/" target="_blank" style="color: $blue;">NGC 6755</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6756/" target="_blank" style="color: $blue;">NGC 6756</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6774/" target="_blank" style="color: $blue;">NGC 6774</a> | Mass determination: worst fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6791/" target="_blank" style="color: $blue;">NGC 6791</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6793/" target="_blank" style="color: $blue;">NGC 6793</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6800/" target="_blank" style="color: $blue;">NGC 6800</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6802/" target="_blank" style="color: $blue;">NGC 6802</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6811/" target="_blank" style="color: $blue;">NGC 6811</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6819/" target="_blank" style="color: $blue;">NGC 6819</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6823/" target="_blank" style="color: $blue;">NGC 6823</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6827/" target="_blank" style="color: $blue;">NGC 6827</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6830/" target="_blank" style="color: $blue;">NGC 6830</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6834/" target="_blank" style="color: $blue;">NGC 6834</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6866/" target="_blank" style="color: $blue;">NGC 6866</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6871/" target="_blank" style="color: $blue;">NGC 6871</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6885/" target="_blank" style="color: $blue;">NGC 6885</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6910/" target="_blank" style="color: $blue;">NGC 6910</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6913/" target="_blank" style="color: $blue;">NGC 6913</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6939/" target="_blank" style="color: $blue;">NGC 6939</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6940/" target="_blank" style="color: $blue;">NGC 6940</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6991/" target="_blank" style="color: $blue;">NGC 6991</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6997/" target="_blank" style="color: $blue;">NGC 6997</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7024/" target="_blank" style="color: $blue;">NGC 7024</a> | Mass determination: worst fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7039/" target="_blank" style="color: $blue;">NGC 7039</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7044/" target="_blank" style="color: $blue;">NGC 7044</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7058/" target="_blank" style="color: $blue;">NGC 7058</a> | Mass determination: worst fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7062/" target="_blank" style="color: $blue;">NGC 7062</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7063/" target="_blank" style="color: $blue;">NGC 7063</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7067/" target="_blank" style="color: $blue;">NGC 7067</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7082/" target="_blank" style="color: $blue;">NGC 7082</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7086/" target="_blank" style="color: $blue;">NGC 7086</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7092/" target="_blank" style="color: $blue;">NGC 7092</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7128/" target="_blank" style="color: $blue;">NGC 7128</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7129/" target="_blank" style="color: $blue;">NGC 7129</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7142/" target="_blank" style="color: $blue;">NGC 7142</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7160/" target="_blank" style="color: $blue;">NGC 7160</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7209/" target="_blank" style="color: $blue;">NGC 7209</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7226/" target="_blank" style="color: $blue;">NGC 7226</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7235/" target="_blank" style="color: $blue;">NGC 7235</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7243/" target="_blank" style="color: $blue;">NGC 7243</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7245/" target="_blank" style="color: $blue;">NGC 7245</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7261/" target="_blank" style="color: $blue;">NGC 7261</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7281/" target="_blank" style="color: $blue;">NGC 7281</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7296/" target="_blank" style="color: $blue;">NGC 7296</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7380/" target="_blank" style="color: $blue;">NGC 7380</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7419/" target="_blank" style="color: $blue;">NGC 7419</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7423/" target="_blank" style="color: $blue;">NGC 7423</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc743/" target="_blank" style="color: $blue;">NGC 743</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc744/" target="_blank" style="color: $blue;">NGC 744</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ngc7510/" target="_blank" style="color: $blue;">NGC 7510</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc752/" target="_blank" style="color: $blue;">NGC 752</a> | Mass determination: worst fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7654/" target="_blank" style="color: $blue;">NGC 7654</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7762/" target="_blank" style="color: $blue;">NGC 7762</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7788/" target="_blank" style="color: $blue;">NGC 7788</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
+| <a href="{{ site.baseurl }}/_clusters/ngc7790/" target="_blank" style="color: $blue;">NGC 7790</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc869/" target="_blank" style="color: $blue;">NGC 869</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc884/" target="_blank" style="color: $blue;">NGC 884</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ngc886/" target="_blank" style="color: $blue;">NGC 886</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ngc957/" target="_blank" style="color: $blue;">NGC 957</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/negueruela1/" target="_blank" style="color: $blue;">Negueruela 1</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/patchick3/" target="_blank" style="color: $blue;">Patchick 3</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/patchick90/" target="_blank" style="color: $blue;">Patchick 90</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/pismis1/" target="_blank" style="color: $blue;">Pismis 1</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis11/" target="_blank" style="color: $blue;">Pismis 11</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/pismis12/" target="_blank" style="color: $blue;">Pismis 12</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/pismis13/" target="_blank" style="color: $blue;">Pismis 13</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis15/" target="_blank" style="color: $blue;">Pismis 15</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis18/" target="_blank" style="color: $blue;">Pismis 18</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis20/" target="_blank" style="color: $blue;">Pismis 20</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
@@ -1068,7 +1079,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/pismis3/" target="_blank" style="color: $blue;">Pismis 3</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismis4/" target="_blank" style="color: $blue;">Pismis 4</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/pismis5/" target="_blank" style="color: $blue;">Pismis 5</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/pismis6/" target="_blank" style="color: $blue;">Pismis 6</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/pismis7/" target="_blank" style="color: $blue;">Pismis 7</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/pismis8/" target="_blank" style="color: $blue;">Pismis 8</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pismismoreno1/" target="_blank" style="color: $blue;">Pismis Moreno 1</a> | Mass determination: good fit. Isochrone match: good fit. |
@@ -1091,11 +1101,9 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht10/" target="_blank" style="color: $blue;">Ruprecht 10</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht100/" target="_blank" style="color: $blue;">Ruprecht 100</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht101/" target="_blank" style="color: $blue;">Ruprecht 101</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht102/" target="_blank" style="color: $blue;">Ruprecht 102</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht105/" target="_blank" style="color: $blue;">Ruprecht 105</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht107/" target="_blank" style="color: $blue;">Ruprecht 107</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht108/" target="_blank" style="color: $blue;">Ruprecht 108</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht109/" target="_blank" style="color: $blue;">Ruprecht 109</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht111/" target="_blank" style="color: $blue;">Ruprecht 111</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht112/" target="_blank" style="color: $blue;">Ruprecht 112</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht117/" target="_blank" style="color: $blue;">Ruprecht 117</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
@@ -1108,14 +1116,11 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht127/" target="_blank" style="color: $blue;">Ruprecht 127</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht128/" target="_blank" style="color: $blue;">Ruprecht 128</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht130/" target="_blank" style="color: $blue;">Ruprecht 130</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht132/" target="_blank" style="color: $blue;">Ruprecht 132</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht134/" target="_blank" style="color: $blue;">Ruprecht 134</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht135/" target="_blank" style="color: $blue;">Ruprecht 135</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht138/" target="_blank" style="color: $blue;">Ruprecht 138</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht143/" target="_blank" style="color: $blue;">Ruprecht 143</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht144/" target="_blank" style="color: $blue;">Ruprecht 144</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht145/" target="_blank" style="color: $blue;">Ruprecht 145</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht147/" target="_blank" style="color: $blue;">Ruprecht 147</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht148/" target="_blank" style="color: $blue;">Ruprecht 148</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht151/" target="_blank" style="color: $blue;">Ruprecht 151</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht16/" target="_blank" style="color: $blue;">Ruprecht 16</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
@@ -1158,6 +1163,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht66/" target="_blank" style="color: $blue;">Ruprecht 66</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht67/" target="_blank" style="color: $blue;">Ruprecht 67</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht68/" target="_blank" style="color: $blue;">Ruprecht 68</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/ruprecht7/" target="_blank" style="color: $blue;">Ruprecht 7</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht71/" target="_blank" style="color: $blue;">Ruprecht 71</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht75/" target="_blank" style="color: $blue;">Ruprecht 75</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht76/" target="_blank" style="color: $blue;">Ruprecht 76</a> | Mass determination: worst fit. Isochrone match: good fit. |
@@ -1168,7 +1174,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht84/" target="_blank" style="color: $blue;">Ruprecht 84</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht85/" target="_blank" style="color: $blue;">Ruprecht 85</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht91/" target="_blank" style="color: $blue;">Ruprecht 91</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/ruprecht93/" target="_blank" style="color: $blue;">Ruprecht 93</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht94/" target="_blank" style="color: $blue;">Ruprecht 94</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht96/" target="_blank" style="color: $blue;">Ruprecht 96</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht97/" target="_blank" style="color: $blue;">Ruprecht 97</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
@@ -1207,7 +1212,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/stock21/" target="_blank" style="color: $blue;">Stock 21</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/stock23/" target="_blank" style="color: $blue;">Stock 23</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/stock24/" target="_blank" style="color: $blue;">Stock 24</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/stock3/" target="_blank" style="color: $blue;">Stock 3</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/stock3/" target="_blank" style="color: red;">Stock 3</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/stock4/" target="_blank" style="color: $blue;">Stock 4</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/stock5/" target="_blank" style="color: $blue;">Stock 5</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/stock7/" target="_blank" style="color: $blue;">Stock 7</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
@@ -1236,7 +1241,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/toepler1/" target="_blank" style="color: $blue;">Toepler 1</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/tombaugh1/" target="_blank" style="color: $blue;">Tombaugh 1</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/tombaugh2/" target="_blank" style="color: $blue;">Tombaugh 2</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/tombaugh3/" target="_blank" style="color: $blue;">Tombaugh 3</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/tombaugh4/" target="_blank" style="color: $blue;">Tombaugh 4</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/tombaugh5/" target="_blank" style="color: $blue;">Tombaugh 5</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler1/" target="_blank" style="color: $blue;">Trumpler 1</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
@@ -1262,11 +1266,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/trumpler30/" target="_blank" style="color: $blue;">Trumpler 30</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler32/" target="_blank" style="color: $blue;">Trumpler 32</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler33/" target="_blank" style="color: $blue;">Trumpler 33</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/trumpler36/" target="_blank" style="color: $blue;">Trumpler 36</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
-| <a href="{{ site.baseurl }}/_clusters/trumpler4/" target="_blank" style="color: $blue;">Trumpler 4</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler5/" target="_blank" style="color: $blue;">Trumpler 5</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler7/" target="_blank" style="color: $blue;">Trumpler 7</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/trumpler8/" target="_blank" style="color: $blue;">Trumpler 8</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/trumpler9/" target="_blank" style="color: $blue;">Trumpler 9</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/turner5/" target="_blank" style="color: $blue;">Turner 5</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/turner9/" target="_blank" style="color: $blue;">Turner 9</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
@@ -1465,7 +1466,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc545/" target="_blank" style="color: $blue;">UBC 545</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc546/" target="_blank" style="color: $blue;">UBC 546</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc548/" target="_blank" style="color: $blue;">UBC 548</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc549/" target="_blank" style="color: $blue;">UBC 549</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc549/" target="_blank" style="color: red;">UBC 549</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc550/" target="_blank" style="color: $blue;">UBC 550</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc552/" target="_blank" style="color: $blue;">UBC 552</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc556/" target="_blank" style="color: $blue;">UBC 556</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
@@ -1511,14 +1512,14 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc628/" target="_blank" style="color: $blue;">UBC 628</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc63/" target="_blank" style="color: $blue;">UBC 63</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc630/" target="_blank" style="color: $blue;">UBC 630</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc631/" target="_blank" style="color: $blue;">UBC 631</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc631/" target="_blank" style="color: red;">UBC 631</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc632/" target="_blank" style="color: $blue;">UBC 632</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc633/" target="_blank" style="color: $blue;">UBC 633</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc634/" target="_blank" style="color: $blue;">UBC 634</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc636/" target="_blank" style="color: $blue;">UBC 636</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc637/" target="_blank" style="color: $blue;">UBC 637</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc638/" target="_blank" style="color: $blue;">UBC 638</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc641/" target="_blank" style="color: $blue;">UBC 641</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc641/" target="_blank" style="color: red;">UBC 641</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc643/" target="_blank" style="color: $blue;">UBC 643</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc645/" target="_blank" style="color: red;">UBC 645</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc646/" target="_blank" style="color: $blue;">UBC 646</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
@@ -1621,7 +1622,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk398/" target="_blank" style="color: $blue;">UPK 398</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/upk4/" target="_blank" style="color: $blue;">UPK 4</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk40/" target="_blank" style="color: $blue;">UPK 40</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/upk418/" target="_blank" style="color: $blue;">UPK 418</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/upk418/" target="_blank" style="color: red;">UPK 418</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk42/" target="_blank" style="color: $blue;">UPK 42</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/upk422/" target="_blank" style="color: $blue;">UPK 422</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk429/" target="_blank" style="color: $blue;">UPK 429</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
@@ -1717,7 +1718,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vdbh221/" target="_blank" style="color: $blue;">VDBH 221</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh23/" target="_blank" style="color: $blue;">VDBH 23</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh245/" target="_blank" style="color: $blue;">VDBH 245</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/vdbh246/" target="_blank" style="color: $blue;">VDBH 246</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh253/" target="_blank" style="color: $blue;">VDBH 253</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh37/" target="_blank" style="color: $blue;">VDBH 37</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/vdbh54/" target="_blank" style="color: $blue;">VDBH 54</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |

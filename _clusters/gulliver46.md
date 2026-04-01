@@ -13,17 +13,17 @@ glon: 299.82305
 glat: 0.73986
 r50: 1.5
 plx: 0.2122
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#d0eac9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#fee2c7"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.77
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.42
+UTI_C_lit: 0.3
 UTI_C_dup: 0.16
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -92,6 +92,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
-    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.26 |
+    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.29 |
 N_rows_shared: "2"
 ---

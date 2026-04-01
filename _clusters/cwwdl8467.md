@@ -71,6 +71,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 602](/_clusters/ubc602/)| 12.0 | 24.6 | 60.67 | 0.34 | -1.21 | -0.51 | 300.88 |0.33 |
-N_rows_shared: "1"
+    |[Pickard 80](/_clusters/pickard80/)| 16.0 | 24.34 | 61.01 | 0.32 | -1.35 | -0.44 | -- |0.07 |
+    |[UBC 602](/_clusters/ubc602/)| 12.0 | 24.6 | 60.67 | 0.34 | -1.21 | -0.51 | 300.88 |0.37 |
+N_rows_shared: "2"
 ---

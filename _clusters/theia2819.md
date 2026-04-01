@@ -18,12 +18,12 @@ UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#fcfee5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#f3bcb6"
 UTI_C_N: 0.52
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.13
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -80,7 +80,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UFMG 60](/_clusters/ufmg60/)| 87.3 | 214.67 | -62.66 | 0.46 | -3.88 | -2.53 | -5.0 |0.5 |
+    |[UFMG 60](/_clusters/ufmg60/)| 87.3 | 214.67 | -62.66 | 0.46 | -3.88 | -2.53 | -5.0 |0.52 |
     |[LISC 3170](/_clusters/lisc3170/)| 74.5 | 214.65 | -62.66 | 0.46 | -3.91 | -2.55 | -- |0.07 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 110.43465
 glat: 2.92814
 r50: 12.2
 plx: 1.1626
-UTI: "0.47"
-UTI_COLOR: "#fefbe2"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#abd4be"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 0.94
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -83,6 +83,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.32 |
+    |[FSR 0413](/_clusters/fsr0413/)| 5.6 | 345.14 | 62.89 | 1.05 | -2.24 | -2.56 | 2.42 |0.29 |
 N_rows_shared: "1"
 ---

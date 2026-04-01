@@ -13,17 +13,17 @@ glon: 213.5757
 glat: -19.77781
 r50: 22.8
 plx: 2.2722
-UTI: "0.27"
-UTI_COLOR: "#fddbc4"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#cce9c8"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#fefde6"
 UTI_C_N: 0.79
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.49
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -80,11 +80,11 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.42 |
+    |[OC 0356](/_clusters/oc0356/)| 51.2 | 85.3 | -9.47 | 2.25 | 0.56 | -1.28 | 15.99 |0.44 |
     |[FSR 1088](/_clusters/fsr1088/)| 15.8 | 85.27 | -9.35 | 2.29 | 0.49 | -1.2 | 16.61 |0.47 |
     |[Cmg 109](/_clusters/cmg109/)| 12.0 | 85.25 | -8.97 | 2.22 | 0.48 | -1.0 | 16.48 |0.45 |
     |[IRAS05401-1002](/_clusters/iras054011002/)| 9.6 | 85.66 | -9.98 | 2.15 | 0.41 | -1.32 | -- |0.45 |
     |[IRAS05404-0946](/_clusters/iras054040946/)| 7.7 | 85.74 | -9.8 | 2.22 | 0.33 | -1.15 | -- |0.45 |
-    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.71 |
+    |[L1641S](/_clusters/l1641s/)| 1.4 | 85.65 | -8.13 | 2.34 | 0.1 | -0.36 | 15.82 |0.66 |
 N_rows_shared: "6"
 ---

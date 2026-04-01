@@ -91,14 +91,15 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 82.042 | 34.422 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 81.88 | 34.43 | -- | -1.44 | -4.35 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 82.029 | 34.423 | -- | -1.07 | -3.02 | -18.01 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 82.031 | 34.428 | -- | -- | -- | -- 
-N_rows_pos: "29"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 82.031 | 34.428 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 81.972 | 34.42 | -- | -- | -- | -- 
+N_rows_pos: "30"
 cds_radec: 81.95908,+34.42814
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 1.44 | 2.26 | 10 | -0.163 | 1950 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.015 | 1.44 | 2.26 | 10 | -0.163 | 1950 | -- | 0 |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.03 | 1.69 | -- | 10 | -- | 2105 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.060<sup>(1)</sup> | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2065<sup>(1)</sup> | -- | -- |
@@ -110,14 +111,14 @@ fpars_table: |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.03 | 1.69 | -- | 10 | -0.071 | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.36 | 1.17 | -- | 14 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 2.14 | 1.75 | -- | 11 | -- | -- | -- | -- |
-    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 1.73 | 1.91 | -- | 7050 | -0.255 | -- | -- | -- |
+    | [Zhong et al.](https://scixplorer.org/abs/2020A%26A...640A.127Z) | 2020 | 2.11<sup>(1)</sup> | 1.91 | -- | 7050 | -0.255 | -- | -- | -- |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 2.11 | -- | -- | -- | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 2.11 | -- | -- | -- | -- | -- | -- | -- |
     | [Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.80 | 1.40 | -- | 12 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 1046 | -- | -- |
     | [Camargo et al.](https://scixplorer.org/abs/2012MNRAS.423.1940C) | 2012 | 2.69 | 1.98 | -- | 2 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 2.00 | -- | -- | 2 | -- | 1950 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.59<sup>(1)</sup> | 1.55 | -- | 7 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.31<sup>(1)</sup> | 1.55 | -- | 7 | -- | -- | -- | -- |
     | [Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 0.90 | 3.82 | -- | 32 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 1.82 | 1.39 | -- | 41 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 1.42 | -- | 11 | -- | -- | -- | 0 |
@@ -135,7 +136,7 @@ shared_table: |
     |[CBB 5](/_clusters/cbb5/)| 19.7 | 82.05 | 34.45 | 0.46 | 0.14 | -2.09 | 11.91 |0.16 |
     |[HSC 1356](/_clusters/hsc1356/)| 11.8 | 81.86 | 34.39 | 0.46 | 0.17 | -1.87 | 79.39 |0.07 |
     |[CBB 3](/_clusters/cbb3/)| 4.7 | 81.91 | 34.57 | 0.46 | -0.11 | -2.1 | -- |0.14 |
-    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.43 |
-    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.64 |
+    |[FSR 0777](/_clusters/fsr0777/)| 2.0 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.4 |
+    |[Kronberger 1](/_clusters/kronberger1/)| 0.4 | 82.04 | 34.78 | 0.46 | -0.04 | -2.23 | -- |0.59 |
 N_rows_shared: "6"
 ---

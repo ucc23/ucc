@@ -88,8 +88,9 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 31.114 | 64.361 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 31.12 | 64.43 | -- | 0.23 | -- | -19.7 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 31.12 | 64.36 | -- | -0.85 | -1.51 | -19.3 |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 31.17 | 64.35 | -- | -0.33 | -2.19 | -- 
-N_rows_pos: "26"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 31.17 | 64.35 | -- | -0.33 | -2.19 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 31.169 | 64.406 | -- | -- | -- | -18.0 
+N_rows_pos: "27"
 cds_radec: 31.15716,+64.36299
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -128,6 +129,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.09 |
+    |[HSC 1071](/_clusters/hsc1071/)| 4.5 | 33.25 | 64.33 | 1.02 | -0.72 | -2.18 | -32.1 |0.11 |
 N_rows_shared: "1"
 ---

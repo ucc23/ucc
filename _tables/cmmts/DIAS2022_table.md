@@ -21,7 +21,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/eso02602/" target="_blank" style="color: red;">ESO 026 02</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso09906/" target="_blank" style="color: red;">ESO 099 06</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso13954/" target="_blank" style="color: red;">ESO 139 54</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/eso14147/" target="_blank" style="color: $blue;">ESO 141 47</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/eso14147/" target="_blank" style="color: red;">ESO 141 47</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso27704/" target="_blank" style="color: red;">ESO 277 04</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso33723/" target="_blank" style="color: red;">ESO 337 23</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso38905/" target="_blank" style="color: red;">ESO 389 05</a> | Likely not a real open cluster. |
@@ -30,15 +30,15 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/eso45609/" target="_blank" style="color: red;">ESO 456 09</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso52508/" target="_blank" style="color: $blue;">ESO 525 08</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/hogg20/" target="_blank" style="color: red;">Hogg 20</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/loden1002/" target="_blank" style="color: $blue;">Loden 1002</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/loden1002/" target="_blank" style="color: red;">Loden 1002</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/loden991/" target="_blank" style="color: $blue;">Loden 991</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/lynga11/" target="_blank" style="color: red;">Lynga 11</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/lynga13/" target="_blank" style="color: red;">Lynga 13</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6588/" target="_blank" style="color: red;">NGC 6588</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/ngc6724/" target="_blank" style="color: $blue;">NGC 6724</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6724/" target="_blank" style="color: red;">NGC 6724</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6773/" target="_blank" style="color: red;">NGC 6773</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6839/" target="_blank" style="color: red;">NGC 6839</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/ngc6840/" target="_blank" style="color: $blue;">NGC 6840</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/ngc6840/" target="_blank" style="color: red;">NGC 6840</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6858/" target="_blank" style="color: $blue;">NGC 6858</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ngc6938/" target="_blank" style="color: red;">NGC 6938</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht114/" target="_blank" style="color: red;">Ruprecht 114</a> | Likely not a real open cluster. |

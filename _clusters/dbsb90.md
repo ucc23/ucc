@@ -75,6 +75,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MCM 54](/_clusters/mcm54/)| 8.6 | 221.17 | -59.83 | 0.39 | -5.38 | -2.6 | -26.67 |0.06 |
-    |[DBSB 89](/_clusters/dbsb89/)| 5.7 | 221.27 | -59.85 | 0.45 | -5.22 | -3.02 | -- |0.09 |
+    |[DBSB 89](/_clusters/dbsb89/)| 5.7 | 221.27 | -59.85 | 0.45 | -5.22 | -3.02 | -- |0.14 |
 N_rows_shared: "2"
 ---

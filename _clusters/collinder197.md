@@ -13,17 +13,17 @@ glon: 261.52121
 glat: 0.94698
 r50: 6.4
 plx: 1.0371
-UTI: "0.95"
-UTI_COLOR: "#aad2bd"
+UTI: "0.93"
+UTI_COLOR: "#acd6bf"
 UTI_C_N_COL: "#a5cab9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#a5cab9"
+UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 1.0
+UTI_C_lit: 0.94
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
 UTI_C_dens_desc: Very dense
@@ -87,14 +87,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 131.19 | -41.42 | -- | -7.16 | 6.98 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 131.284 | -41.464 | -- | -9.8 | 7.5 | 33.1 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 131.213 | -41.233 | -- | -4.26 | 3.41 | 30.82 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 131.212 | -41.233 | -- | -- | -- | -- 
-N_rows_pos: "25"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 131.212 | -41.233 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 131.158 | -41.361 | -- | -- | -- | -- 
+N_rows_pos: "26"
 cds_radec: 131.19424,-41.27795
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 1.825 | 2.27 | 10 | 0.065 | 491 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.875 | 1.77 | 2.27 | 10 | 0.065 | 491 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.82 | 0.43 | -- | 23 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.83 | 1.92 | -- | 9 | -- | 610 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.95 | 1.42 | -- | 10 | 0.066 | -- | -- | -- |
@@ -119,7 +120,8 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 0.84 | -- | -- | 10 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 0.84 | 1.73 | -- | 13 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 1.06 | 1.91 | -- | 6 | -- | -- | -- | -- |
-N_rows_pars: "24"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 1.00 | 1.77 | -- | 6 | -- | -- | -- | -- |
+N_rows_pars: "25"
 note_asterisk: true
 shared_table: |
 

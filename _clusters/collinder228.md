@@ -13,17 +13,17 @@ glon: 287.66983
 glat: -1.04709
 r50: 3.5
 plx: 0.3986
-UTI: "0.73"
-UTI_COLOR: "#d9eeca"
+UTI: "0.69"
+UTI_COLOR: "#e2f2cc"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#eef7d4"
+UTI_C_lit_COL: "#fbfde3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.62
+UTI_C_lit: 0.53
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -74,14 +74,15 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 160.99 | -60.09 | -- | -6.3 | 2.67 | -- |
     |[Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 160.749 | -59.966 | -- | -6.55 | 2.03 | -12.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 161.0 | -60.087 | -- | -6.55 | 2.03 | -10.71 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 161.0 | -60.087 | -- | -- | -- | -- 
-N_rows_pos: "15"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 161.0 | -60.087 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 160.755 | -60.002 | -- | -- | -- | -- 
+N_rows_pos: "16"
 cds_radec: 161.00909,-60.08967
 carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.2 | 1.005 | 1.06 | 7 | -0.140 | 2975 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.2 | 1.05 | 1.06 | 6 | -0.140 | 2975 | -- | 0 |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 327<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.91 | 0.58 | -- | 59 | -0.140 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.32 | 0.96 | 1.06 | 5 | -- | -- | -- | -- |
@@ -95,7 +96,8 @@ fpars_table: |
     | [Chen et al.](https://scixplorer.org/abs/2003AJ....125.1397C) | 2003 | 2.20 | -- | -- | 0 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 2.20 | 1.08 | -- | 7 | -- | -- | -- | -- |
     | [Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 2.29 | 1.05 | -- | 3 | -- | -- | -- | -- |
-N_rows_pars: "13"
+    | [Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 2.60 | 1.51 | -- | 1 | -- | -- | -- | -- |
+N_rows_pars: "14"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |

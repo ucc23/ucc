@@ -71,8 +71,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 218](/_clusters/ubc218/)| 24.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.16 |
+    |[UBC 218](/_clusters/ubc218/)| 24.0 | 106.52 | -9.18 | 0.35 | -1.18 | 0.89 | -- |0.17 |
     |[OC 0375](/_clusters/oc0375/)| 8.0 | 106.76 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.27 |
+    |[Teutsch J0706.0 0907](/_clusters/teutschj070600907/)| 4.0 | 106.76 | -9.18 | 0.37 | -1.17 | 0.92 | -- |0.11 |
     |[Theia 1774](/_clusters/theia1774/)| 4.0 | 106.74 | -9.17 | 0.37 | -1.17 | 0.91 | -- |0.01 |
-N_rows_shared: "3"
+N_rows_shared: "4"
 ---

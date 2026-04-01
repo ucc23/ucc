@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: Barkhatova 1
 title_flag: true
-more_names: MWSC 3422; FoF 1773
+more_names: Baractova 1; MWSC 3422; FoF 1773
 fname: barkhatova1
 members_file: "84_88"
 fov: 0.137
@@ -13,17 +13,17 @@ glon: 86.21028
 glat: 0.8097
 r50: 4.1
 plx: 0.4844
-UTI: "0.83"
-UTI_COLOR: "#c2e4c6"
+UTI: "0.80"
+UTI_COLOR: "#c9e7c8"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#c4e5c7"
+UTI_C_lit_COL: "#d4ecc9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.82
+UTI_C_lit: 0.75
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -80,8 +80,9 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 313.425 | 46.033 | -- | -2.49 | -2.82 | -1.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 313.432 | 46.025 | -- | -4.44 | -1.62 | -9.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 313.42 | 46.03 | -- | 0.17 | -- | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 313.56 | 46.05 | -- | -6.69 | -4.05 | -- 
-N_rows_pos: "20"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 313.56 | 46.05 | -- | -6.69 | -4.05 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 313.431 | 46.02 | -- | -- | -- | -9.0 
+N_rows_pos: "21"
 cds_radec: 313.39954,+46.03984
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

@@ -72,6 +72,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    |[Alessi 432](/_clusters/alessi432/)| 12.0 | 121.79 | -32.94 | 0.2 | -2.35 | 2.79 | 117.77 |0.09 |
     |[CWNU 3476](/_clusters/cwnu3476/)| 4.0 | 121.72 | -33.39 | 0.22 | -2.39 | 2.64 | 64.31 |0.24 |
-N_rows_shared: "1"
+N_rows_shared: "2"
 ---

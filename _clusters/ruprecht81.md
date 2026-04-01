@@ -13,17 +13,17 @@ glon: 271.25391
 glat: 6.99664
 r50: 6.1
 plx: 0.2245
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#fef8dd"
 UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f1b8b4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.44
 UTI_C_dens: 0.14
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.11
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -60,8 +60,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 146.294 | -44.097 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 146.294 | -44.097 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 146.3 | -44.1 | -- | -8.12 | 4.37 | -- |
-    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 146.299 | -44.1 | -- | -6.05 | 2.24 | -- 
-N_rows_pos: "4"
+    |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 146.299 | -44.1 | -- | -6.05 | 2.24 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 146.367 | -44.136 | -- | -- | -- | -- 
+N_rows_pos: "5"
 cds_radec: 146.28145,-44.10586
 carousel: UCC
 fpars_table: |

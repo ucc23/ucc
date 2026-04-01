@@ -57,8 +57,9 @@ posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |294.616 | 0.358 | 0.251 | -3.29 | -6.554 | 21.407 |
-    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 294.585 | 0.346 | -- | -- | -- | -- 
-N_rows_pos: "1"
+    |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 294.585 | 0.346 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 294.59 | 0.333 | -- | -- | -- | -- 
+N_rows_pos: "2"
 cds_radec: 294.61582,+0.35827
 carousel: UCC
 fpars_table: |

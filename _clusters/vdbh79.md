@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 79
 title_flag: true
-more_names: BH 79; vdBergh-Hagen 79; MWSC 1708
+more_names: van den Bergh-Hagen 79; BH 79; vdBergh-Hagen 79; MWSC 1708
 fname: vdbh79
 members_file: "276_280"
 fov: 0.07
@@ -13,17 +13,17 @@ glon: 277.12402
 glat: -0.03504
 r50: 2.1
 plx: 0.2912
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#feecd0"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fef0d2"
+UTI_C_lit_COL: "#fee9cd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.36
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.38
+UTI_C_lit: 0.34
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -67,8 +67,10 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 145.923 | -53.249 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 146.026 | -53.321 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 146.032 | -53.325 | -- | -7.17 | 3.53 | -- |
-    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 146.146 | -53.28 | -- | -- | -- | -- 
-N_rows_pos: "8"
+    |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 146.146 | -53.28 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 146.027 | -53.315 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 145.6 | -53.083 | -- | -- | -- | -- 
+N_rows_pos: "10"
 cds_radec: 146.11896,-53.27957
 carousel: UCC_HUNT23
 fpars_table: |
@@ -82,7 +84,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 10.27 | 4.33 | -- | 251 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 10.27 | 4.33 | -- | 251 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 671 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 2.23<sup>(1)</sup> | 3.38 | -- | 22 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.46<sup>(1)</sup> | 3.38 | -- | 22 | -- | -- | -- | -- |
 N_rows_pars: "8"
 note_asterisk: true
 shared_table: |

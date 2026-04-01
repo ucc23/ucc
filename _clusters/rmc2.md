@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[RMC-4b](/_clusters/rmc4b/)| 36.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.5 |
+    |[RMC-4b](/_clusters/rmc4b/)| 36.5 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.53 |
     |[RMC-4a](/_clusters/rmc4a/)| 25.9 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.55 |
     |[RMC-5](/_clusters/rmc5/)| 7.1 | 98.58 | 4.43 | 0.69 | -1.58 | 0.14 | 7.99 |0.5 |
     |[LP 39](/_clusters/lp39/)| 2.4 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |

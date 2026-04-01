@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fefde6"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#e6acb3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.49
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.0
+UTI_C_lit: 0.04
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -76,7 +76,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 104](/_clusters/ocsn104/)| 100.0 | 110.2 | 3.61 | 2.13 | -6.5 | -5.1 | 13.56 |0.02 |
-    |[Theia 172](/_clusters/theia172/)| 100.0 | 110.21 | 3.7 | 2.12 | -6.5 | -5.12 | 13.56 |0.67 |
+    |[Theia 172](/_clusters/theia172/)| 100.0 | 110.21 | 3.7 | 2.12 | -6.5 | -5.12 | 13.56 |0.63 |
     |[CWWDL 14655](/_clusters/cwwdl14655/)| 95.9 | 110.32 | 3.74 | 2.14 | -6.53 | -5.24 | 13.45 |0.0 |
     |[CWWDL 14656](/_clusters/cwwdl14656/)| 46.9 | 109.7 | 3.37 | 2.13 | -6.46 | -5.05 | 15.02 |0.0 |
 N_rows_shared: "4"

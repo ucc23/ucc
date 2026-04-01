@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 223
 title_flag: true
-more_names: BH 223
+more_names: van den Bergh-Hagen 223; BH 223
 fname: vdbh223
 members_file: "348_352"
 fov: 0.347
@@ -13,17 +13,17 @@ glon: 351.32983
 glat: 0.60359
 r50: 10.4
 plx: 0.622
-UTI: "0.05"
-UTI_COLOR: "#e7adb3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#f5c1b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.14
 UTI_C_C3: 0.12
-UTI_C_lit: 0.0
+UTI_C_lit: 0.15
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -61,8 +61,10 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 260.171 | -35.883 | -- | 0.09 | 0.77 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 260.171 | -35.883 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 260.229 | -35.911 | -- | -- | -- | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 260.171 | -35.883 | -- | 0.09 | 0.77 | -- 
-N_rows_pos: "4"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 260.171 | -35.883 | -- | 0.09 | 0.77 | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 260.145 | -35.883 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 259.3 | -35.833 | -- | -- | -- | -- 
+N_rows_pos: "6"
 cds_radec: 260.20776,-35.8911
 carousel: UCC
 fpars_table: |

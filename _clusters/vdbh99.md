@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 99
 title_flag: true
-more_names: vdB-Hagen 99; vdBergh-Hagen 99; BH 99; MWSC 1831; FoF 2413; OCSN 147
+more_names: vdB-Hagen 99; van den Bergh-Hagen 99; vdBergh-Hagen 99; BH 99; MWSC 1831; FoF 2413; OCSN 147
 fname: vdbh99
 members_file: "284_288"
 fov: 0.86
@@ -102,8 +102,10 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 159.46 | -59.13 | -- | -14.1 | 0.55 | 6.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 159.48 | -59.14 | -- | -14.94 | 1.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 159.475 | -59.183 | -- | -5.81 | -2.5 | 11.2 |
-    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 159.475 | -59.183 | -- | -- | -- | -- 
-N_rows_pos: "38"
+    |[Dambis](https://scixplorer.org/abs/1999AstL...25....7D) | 1999 | 159.475 | -59.183 | -- | -- | -- | -- |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 159.474 | -59.189 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 159.0 | -58.933 | -- | -- | -- | -- 
+N_rows_pos: "40"
 cds_radec: 159.5221,-59.16454
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -142,7 +144,7 @@ fpars_table: |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.52 | 0.33 | -- | 100 | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 139 | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.51 | -- | -- | 40 | -- | 95 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.71<sup>(1)</sup> | 0.54 | -- | 45 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 0.67<sup>(1)</sup> | 0.54 | -- | 45 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.53 | 0.19 | -- | 72 | -- | -- | -- | -- |
     | [Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | -- | 0.19 | -- | 42 | -- | -- | -- | 0 |
     | [van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 0.51 | 0.19 | -- | 40 | -- | -- | -- | -- |

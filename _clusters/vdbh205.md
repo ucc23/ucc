@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 205
 title_flag: true
-more_names: vdB-Hagen 205; vdBergh-Hagen 205; BH 205
+more_names: vdB-Hagen 205; van den Bergh-Hagen 205; vdBergh-Hagen 205; BH 205
 fname: vdbh205
 members_file: "344_348"
 fov: 0.107
@@ -13,17 +13,17 @@ glon: 344.63578
 glat: 1.63076
 r50: 3.2
 plx: 0.5814
-UTI: "0.82"
-UTI_COLOR: "#c4e5c7"
+UTI: "0.79"
+UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#e3f3cd"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#ddf0ca"
+UTI_C_lit_COL: "#eaf6d1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.68
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.71
+UTI_C_lit: 0.64
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -74,14 +74,16 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 254.04 | -40.67 | -- | 0.06 | -- | -7.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 254.04 | -40.67 | -- | -1.12 | -1.22 | -7.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 254.05 | -40.66 | -- | -0.66 | -2.78 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 254.046 | -40.667 | -- | -1.72 | -2.44 | -7.0 
-N_rows_pos: "16"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 254.046 | -40.667 | -- | -1.72 | -2.44 | -7.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 254.016 | -40.641 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 253.15 | -40.567 | -- | -- | -- | -- 
+N_rows_pos: "18"
 cds_radec: 254.05127,-40.63548
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.615 | 1.15 | 0.49 | 13 | 0.129 | 450 | 0.6 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 1.15 | 0.49 | 13 | 0.129 | 450 | 0.6 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.61 | 1.38 | -- | 8 | -- | 449 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 140<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 6 | -- | 452 | -- | -- |
@@ -92,7 +94,7 @@ fpars_table: |
     | [Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 1.67 | -- | -- | -- | -- | -- | -- | -- |
     | [Bukowiecki et al.](https://scixplorer.org/abs/2012AcA....62..281B) | 2012 | -- | -- | -- | -- | -- | 2314 | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 0.42 | -- | -- | 13 | -- | 89 | -- | -- |
-    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.82<sup>(1)</sup> | 1.07 | -- | 25 | -- | -- | -- | -- |
+    | [Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 1.59<sup>(1)</sup> | 1.07 | -- | 25 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 2.16 | 0.95 | -- | 13 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 2.16 | 0.95 | -- | 13 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 0.42 | 0.32 | -- | -- | -- | -- | -- | -- |
@@ -102,7 +104,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.39 |
-    |[UBC 323](/_clusters/ubc323/)| 93.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
+    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.37 |
+    |[UBC 323](/_clusters/ubc323/)| 93.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.39 |
 N_rows_shared: "2"
 ---

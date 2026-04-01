@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 56
 title_flag: true
-more_names: vdB-Hagen 56; vdBergh-Hagen 56; BH 56; MWSC 1605; ESO 260 12; Magakian 425; FoF 2328
+more_names: vdB-Hagen 56; van den Bergh-Hagen 56; vdBergh-Hagen 56; BH 56; MWSC 1605; ESO 260 12; Magakian 425; FoF 2328
 fname: vdbh56
 members_file: "264_268"
 fov: 0.453
@@ -95,8 +95,10 @@ posit_table: |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 134.273 | -43.246 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 134.28 | -43.25 | -- | -4.88 | 6.08 | -18.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 134.29 | -43.24 | -- | -4.99 | 5.72 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 134.283 | -43.25 | -- | -3.51 | 4.91 | -18.0 
-N_rows_pos: "33"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 134.283 | -43.25 | -- | -3.51 | 4.91 | -18.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 134.325 | -43.213 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 133.875 | -43.017 | -- | -- | -- | -- 
+N_rows_pos: "35"
 cds_radec: 134.39536,-43.15656
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

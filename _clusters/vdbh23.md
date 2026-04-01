@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: VDBH 23
 title_flag: true
-more_names: vdB-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
+more_names: vdB-Hagen 23; van den Bergh-Hagen 23; vdBergh-Hagen 23; BH 23; OCSN 146
 fname: vdbh23
 members_file: "252_256"
 fov: 0.717
@@ -88,8 +88,10 @@ posit_table: |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 123.6 | -36.4 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 123.52 | -36.36 | -- | -7.47 | 7.12 | 17.4 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 123.49 | -36.34 | -- | -7.65 | 6.8 | -- |
-    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 123.6 | -36.383 | -- | -7.4 | 5.1 | 18.0 
-N_rows_pos: "27"
+    |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 123.6 | -36.383 | -- | -7.4 | 5.1 | 18.0 |
+    |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 123.602 | -36.405 | -- | -- | -- | -- |
+    |[van den Bergh & Hagen](https://scixplorer.org/abs/1975AJ.....80...11V) | 1975 | 123.125 | -36.25 | -- | -- | -- | -- 
+N_rows_pos: "29"
 cds_radec: 123.43836,-36.31659
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |

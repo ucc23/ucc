@@ -13,17 +13,17 @@ glon: 352.33585
 glat: -6.2307
 r50: 10.0
 plx: 0.8102
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#eef7d4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#dfa5b3"
+UTI_C_lit_COL: "#edb2b3"
 UTI_C_dup_COL: "#fee7cc"
 UTI_C_N: 0.62
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.0
+UTI_C_lit: 0.08
 UTI_C_dup: 0.33
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -78,6 +78,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.45 |
+    |[Sco OB5](/_clusters/scoob5/)| 66.7 | 268.11 | -38.7 | 0.82 | 2.9 | -1.81 | -14.82 |0.48 |
 N_rows_shared: "1"
 ---
