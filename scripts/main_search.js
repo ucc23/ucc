@@ -70,16 +70,16 @@ searchInput.addEventListener("input", (event) => {
         } else if (coordsys == "gal") {
             body.textContent = `G (${d.GLON}, ${d.GLAT})`;
         } else {
-            // body.textContent = d.fnames.split(";").slice(1, 3).join(", ");
-
-            // Show the alternative name with the smallest string difference to the query
-            const altNames = d.fnames.split(";").slice(1);
-            const bestMatch = altNames.reduce((best, name) => {
+            // Find the name most similar to the search query across all aliases,
+            // then fall back to the secondary name (allNames[1]) if the best match
+            // is the primary name (allNames[0])
+            const allNames = d.fnames.split(";");
+            const bestMatch = allNames.reduce((best, name) => {
                 const dist = stringDifference(name.toLowerCase(), query);
                 return dist < best.dist ? { name, dist } : best;
-            }, { name: altNames[0], dist: Infinity });
-            body.textContent = bestMatch.name;
-
+            }, { name: allNames[1], dist: Infinity });
+            const displayName = bestMatch.name === allNames[0] ? allNames[1] : bestMatch.name;
+            body.textContent = displayName;
         }
         userCardContainer.appendChild(element);
     });

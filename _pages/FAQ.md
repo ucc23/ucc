@@ -165,20 +165,53 @@ selecting the _Hide likely non-clusters_ option.
 ## About the Search page
 
 The [Search](/search) page allows the user to filter the **UCC** database by the stored
-parameter values, as well as the estimated number of members (**N<sub>50</sub>**),
-the probability of the object being a duplicate (**[P<sub>dup</sub>](#how-is-the-duplicate-probability-estimated)**),
-and the [UTI](#what-is-the-uti-parameter).
+[fundamental parameter values](#parameters):
 
-The values for each parameter are estimated as the median of all the values included
-in the [**UCC** literature](/articles). The user can select a range for each parameter, and also
-to exclude results with `NaN` values. In the resulting table, those objects that are
-considered likely [non-clusters](#how-are-objects-flagged-as-likely-not-real) (ie: asterisms, moving groups, artifacts, etc.)
-have their names colored in red.
+- **Dist**: distance [pc]
+- **Av**: visual absorption [mag]
+- **DAv**: differential visual absorption [mag]
+- **Age**: age [Myr]
+- **FeH**: metallicity [dex]
+- **Mass**: total cluster mass in [M⊙]
+- **B<sub>frac</sub>**: total binary fraction
+- **BSS**: blue stragglers (total)
 
-This page also displays an interactive (LON, LAT) map with the results found, where
-LON and LAT are the Galactic longitude and latitude, respectively.
+Note: The value for each parameter is estimated as the median of all values compiled 
+from the [**UCC** literature](/articles).
 
-If you want to download the entire **UCC** catalogue, it can be accessed through the
+Users can also filter the search results by:
+
+- **N<sub>50</sub>**: estimated number of members (stars with membership probability >50%)
+- **P<sub>dup</sub>**: [probability](#how-is-the-duplicate-probability-estimated) of the object being a duplicate of another object
+- **UTI**: [UCC Trust Index](#what-is-the-uti-parameter)
+
+The *Hide likely non-clusters* toggle filters out objects flagged as non-clusters
+(e.g., asterisms, moving groups, or data artifacts). If not filtered, these objects are
+highlighted with their names in red within the results table.
+
+
+### Search Modes
+
+Select between three modes using the button in the lower-left:
+
+- **Names**: Search by specific object identifiers
+- **Equatorial**: Search by central ``[RA, Dec]`` coordinates
+- **Galactic**: Search by central ``[Lon, Lat]`` coordinates
+ 
+The resulting table displays all objects matching the query or located within the
+specified spatial proximity, up to a maximum of **N<sub>max</sub>** rows.
+
+
+### Interactive Map
+
+The page includes a **Map** displaying the spatial distribution of results in a
+``[X, Y]`` Galactic projection. The interface supports interactive zooming and allows
+users to click on individual objects to navigate to their dedicated pages.
+
+
+### Data Export
+
+To download the complete **UCC** catalogue, visit the.
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
 
 
