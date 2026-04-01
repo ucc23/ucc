@@ -10,6 +10,24 @@ you can open a new issue in the [site's repository](https://github.com/ucc23/ucc
 
 
 
+
+## Version [260401](https://zenodo.org/records/19372033)
+ 
+- Added Dias et al (2026)
+- Added Ferreira et al (2026)
+- Added Dias & Monteiro (2025)
+- Change naming hierarchy for 262 entries: Melotte < IC < NGC
+- Added Lynga (1987)
+- Added van den Bergh & Hagen (1975)
+- Added Sulentic et al (1973)
+- Bukowiecki et al. (2011): use kpc distances because (m-M) contains weird values
+- Zhong et al. (2020): fixed bad values
+- Tadross et al. (2014): fixed bad distance units (kpc to pc)
+- New (simpler) formula for `C_lit`
+
+
+
+
 ## Version [260320](https://zenodo.org/records/19133636)
 
 - Added Yan et al. (2026)

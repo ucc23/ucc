@@ -14,6 +14,170 @@ publication.
 
 ---
 
+
+
+## Sulentic et al. 1973
+
+[The revised new catalogue of nonstellar astronomical objects](https://scixplorer.org/abs/1973rncn.book.....S/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=VII/1B) table contains 8163 entries. Kept only the types:
+
+1 Open Cluster
+6 Cluster associated with nebulosity 
+
+Removed:
+- NGC_6540; GC
+- NGC_2237; Nebulosity
+- NGC_6820; Nebulosity
+- NGC_6523; Nebulosity
+
+Added 'Trapezium' to 'NGC_1976'
+
+There are 347 final entries, with no new entries added by this DB.
+
+
+
+## van den Bergh & Hagen (1975)
+
+[Uniform survey of clusters in the southern Milky Way](https://scixplorer.org/abs/1975AJ.....80...11V/abstract)
+
+Data extracted from PDF.
+
+Filled empty entries in "Name" column with "VDBH_" + "No."
+
+Renamed:
+- Cr --> Collinder
+- Tr --> Trumpler
+- Markarjan --> Markarian
+- H --> Harvard
+
+Removed "?" from: "Pismis 15?", "Collinder 268?", "Pismis 18?", "Pismis 19?",
+"Lynga 5?", "Pismis 24?".
+
+Removed entry "Anon" which is marked as a GC and is close to the GC "Terzan 4"
+
+Added:
+- NGC 2645 to Pismis 6
+- Collinder 205 to Markarian 18
+
+Removed GCs:
+- VDBH_140   --> BH 140,VDBH 140          
+- NGC 5927   --> NGC 5927,                
+- NGC 5946   --> NGC 5946,                
+- Lynga 7    --> BH 184,Lynga 7           
+- VDBH_208   --> NGC 6256,VDBH 208        
+- NGC 6266   --> NGC 6266,M 62            
+- NGC 6293   --> NGC 6293,                
+- NGC 6304   --> NGC 6304,                
+- NGC 6316   --> NGC 6316,                
+- NGC 6352   --> NGC 6352,                
+- NGC 6380   --> NGC 6380,Ton 1           
+- NGC 6388   --> NGC 6388,                
+- Terzan 1   --> Terzan 1,HP 2            
+- Pismis 26  --> Ton 2,Pismis 26          
+- NGC 6441   --> NGC 6441,                
+- NGC 6453   --> NGC 6453,                
+- NGC 6522   --> NGC 6522,                
+- NGC 6528   --> NGC 6528,                
+- NGC 6540   --> NGC 6540,Djorg 3         
+- NGC 6558   --> NGC 6558,                
+- NGC 6569   --> NGC 6569,                
+- NGC 6624   --> NGC 6624,                
+- VDBH_176   --> BH 176,VDBH 176          
+- VDBH_261   --> BH 261,ESO 456-78, VDBH 261
+- VDBH_249   --> Terzan 6
+- VDBH_228   --> Terzan 2
+
+Removed:
+- ic 4451: The name corresponds to a galaxy even if the coordinates
+  (260.2,-49.9) are not really close to the ones published (218.65, -36.285)
+
+There are 234 final entries, with one new entries added by this DB (VDBH_220,
+quite probably a duplicate of NGC 6322).
+
+
+
+
+
+## Lynga 1987
+
+This entry is generated combining two publications:
+
+[The Lund catalogue of open cluster data](https://ui.adsabs.harvard.edu/abs/1988ESOC...28..379L/abstract)
+[VizieR Online Data Catalog: Open Cluster Data 5th Edition (Lynga 1987)](https://ui.adsabs.harvard.edu/abs/1995yCat.7092....0L/abstract)
+
+The first one is a proceeding from 1988 about the 1987 Lund (Lynga) catalogue.
+The second one is the Vizier entry of the 1987 catalogue but with a 1995 year
+publication. From this publication we obtain the [Vizier table](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=VII/92A).
+
+
+-ngc 2175: duplicated, removed second entry (no params data)
+-basel 11: two entries, renamed "basel 11a" and "basel 11b" given their coordinates
+
+Removed GCs by name:
+- VDBH_208, van den Bergh-Hagen_208 --> NGC 6256,VDBH 208        d=1.1
+- IC_1257                           --> IC 1257,                 d=1.19
+- VDBH_261, van den Bergh-Hagen_261 --> BH 261,ESO 456-78        d=1.38
+- Ruprecht_106                      --> Rup 106,                 d=1.49
+- Lynga_7                           --> BH 184,Lynga 7           d=1.78
+- Berkeley_42                       --> NGC 6749,Berkeley 42     d=2.07
+- VDBH_176, van den Bergh-Hagen_176 --> BH 176,                  d=3.15
+- NGC_6540                          --> NGC 6540,Djorg 3         d=3.21
+- VDBH_140, van den Bergh-Hagen_140 --> BH 140,VDBH 140          d=4.31
+
+Removed GCs by closeness:
+- VDBH_228, van den Bergh-Hagen_228 --> Terzan 2,HP 3            d=0.7
+- VDBH_249, van den Bergh-Hagen_249 --> Terzan 6,HP 5            d=2.01
+
+
+Removed duplicate entries:
+
+- vdbh52, vandenberghhagen52 --> ngc2669
+- vdbh133, vandenberghhagen133 --> harvard5
+- vdbh218, vandenberghhagen218  --> ngc6318
+- harvard16  --> collinder332
+- graff1 --> ic4756 
+- ic1311 --> dolidze2
+- dolidze41 --> berkeley85
+- NGC 7023 --> Collinder_427
+
+
+Renamed:
+- Pleiades_1 --> Pleiades
+- Trapezium_1 --> Trapezium
+- Hyades_1 --> Hyades
+- Sigma Ori_0 --> Sigma Orionis, Sigma Ori
+- Pfleiderer_1 --> Pfleiderer_3
+- NGC_6846 --> NGC_6847
+
+The ClSeq=64 is associated to "ref.378" in 'Note 1' of the Vizier table, which
+corresponds to "Pfleiderer". The "Pfleiderer_1" entry has a very large coordinates
+difference with the UCC "Pfleiderer_1" entry, but matches "Pfleiderer_3". We thus
+rename this entry.
+
+The "NGC_6846" entry has a very large coordinates difference with the UCC "NGC_6846"
+entry, but matches "NGC_6847". We thus rename this entry.
+
+
+Added:
+- NGC 2645 to Pismis_6
+- Collinder_205 to Markarian_18
+- Barkhatova_X to Baractova_X
+- Berkeley_33 to Ruprecht_7
+
+There are 1131 final entries.
+
+Four new entries are added by this DB:
+- Latysev_1
+- Iskudarian_1
+- Collinder_21
+- Upgren_1
+
+
+
+
+
+
 ## Dambis 1999
 
 [Space-age distribution of young open clusters and observational
@@ -624,6 +788,9 @@ berkeley81           58
 ruprecht57           57 
 ngc6996              44 
 ```
+
+
+
 
 
 ## Piatti et al 2011
@@ -1299,6 +1466,10 @@ Combined 'fsr0436; skiffj2330p602', same entry according to UCC (removed Skiff J
 [Exploring open cluster properties with Gaia and LAMOST](https://scixplorer.org/abs/2020A%26A...640A.127Z/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/640/A127/ocs) table contains 295 clusters.
+
+The entries with no "Ref" value contains "0.0" values for  "Ageref", "Distref", and
+"E(B-V)ref" which is incorrect. These values were changed to "nan".
+
 
 
 
@@ -2145,11 +2316,22 @@ classification was performed based on follow criteria:
 
 
 
+## Dias & Monteiro 2025
+
+[Discovery of 28 Open Clusters with Gaia DR3](https://scixplorer.org/abs/2025RMxAA..61a...3D/abstract)
+
+28 new "Dias" entries, taken from the article's tables.
+
+
+
+
+
 ## Guerco et a. 2025
 
 [Open cluster members in APOGEE DR17: I. Dynamics and star members](https://scixplorer.org/abs/2025A%26A...701A.100G/abstract)
 
 The Vizier table does not contain parameters data, it was requested to Dr Guerco.
+
 
 
 
@@ -2228,6 +2410,49 @@ Removed entries classified as moving groups in Hunt & Reffert (2023):
 hsc_2387, hsc_2453, hsc_2873, hsc_633, hsc_984, theia_379
 
 Final table contains 680 entries.
+
+Many distances in this article are far away from the ones listed in other articles.
+
+
+
+
+## Dias et al 2026
+
+[Discovery of 178 Open Clusters with Gaia DR3](https://scixplorer.org/abs/2026AJ....171...24D/abstract)
+
+Data extracted from table in online article.
+
+This article contains 49 entries that
+"were previously discovered by other authors". These entries have the names
+"used by the authors who discovered them"
+
+Of those 49 entries, 9 were already present in the UCC:
+
+- Kronberger_12
+- LP_1381
+- Teutsch_136
+- Teutsch_141
+- Teutsch_159
+- Teutsch_267
+- Teutsch_55
+- Teutsch_64
+- Teutsch_71
+
+This DB adds 169 entries to the UCC.
+
+
+
+
+
+
+## Ferreira et al 2026
+
+[New star clusters discovered towards the Galactic anticentre direction using Gaia DR3 data](https://scixplorer.org/abs/2026arXiv260326572F/abstract)
+
+Data extracted from PDF. This DB adds 31 new entries.
+
+
+
 
 
 
