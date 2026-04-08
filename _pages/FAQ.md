@@ -6,7 +6,11 @@ style: style
 ---
 
 The **UCC** is maintained by
-<a href="https://gabriel-p.github.io/" target="_blank">Gabriel I Perren</a>.
+<a href="https://gabriel-p.github.io/" target="_blank">Gabriel I Perren</a>. The
+latest version of the full database (including all the identified members)
+can be found in its
+<a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
+
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions, or open a
 <a href="https://github.com/ucc23/ucc/issues" target="_blank">Github issue</a>.
 

@@ -7,7 +7,7 @@ style: style
 
 The UCC is regularly updated with new articles and improved data
 (see <a data-umami-event="changelog" href="/../changelog">Changelog</a>). The
-latest version of the database (including all the identified members)
+latest version of the full database (including all the identified members)
 can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
 The UCC currently hosts the following data:
