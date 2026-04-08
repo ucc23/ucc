@@ -73,7 +73,7 @@ class FuzzySearch {
   }
 
 
-  filterTable(searchTerm) {
+  filterTable(searchTerm, reorder = true) {
     // Refresh rows in case the DOM has changed (e.g., from sorting)
     this.refreshRows();
     
@@ -123,18 +123,15 @@ class FuzzySearch {
       }
     });
     
-    // Sort by relevance (only if there's a search term)
-    results.sort((a, b) => b.score - a.score);
-    
-    // console.table(results.map(r => ({
-    //   score: r.score,
-    //   text: r.row.textContent.trim()
-    // })));
-
-    // Reorder rows by relevance
-    results.forEach((result, index) => {
-      this.tbody.appendChild(result.row);
-    });
+    if (reorder) {
+      // Sort by relevance and reorder rows in the DOM
+      results.sort((a, b) => b.score - a.score);
+      results.forEach((result) => {
+        this.tbody.appendChild(result.row);
+      });
+    }
+    // When reorder=false (triggered by a column sort), row order is owned
+    // by the sorter — only visibility classes are updated above.
     
     this.updateStats(visibleCount, this.rows.length);
   }
@@ -202,10 +199,11 @@ function initFuzzySearch() {
                              removedNodes.some(node => node.tagName === 'TBODY');
         
         if (tbodyReplaced) {
-          // Re-apply the current search filter
+          // Re-apply visibility only — do not reorder by relevance,
+          // as row order is now owned by the column sorter.
           const currentSearchTerm = searchInput.value;
           if (currentSearchTerm) {
-            fuzzySearch.filterTable(currentSearchTerm);
+            fuzzySearch.filterTable(currentSearchTerm, false);
           }
         }
       }

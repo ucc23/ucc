@@ -47,7 +47,7 @@ function enableTableSorting(table) {
             arrow.textContent = ascending ? "▲" : "▼";
             header.appendChild(arrow);
 
-            data.sort((a, b) => {
+            const comparator = (a, b) => {
                 const va = a.cells[columnIndex];
                 const vb = b.cells[columnIndex];
                 // Missing values always last
@@ -62,12 +62,22 @@ function enableTableSorting(table) {
                 return ascending
                     ? collator.compare(va.value, vb.value)
                     : collator.compare(vb.value, va.value);
-            });
+            };
+
+            // Sort visible and hidden rows independently so fuzzy search state is preserved
+            const visible = data.filter(item => !item.row.classList.contains("hidden"));
+            const hidden  = data.filter(item =>  item.row.classList.contains("hidden"));
+            visible.sort(comparator);
+            hidden.sort(comparator);
+
+            // Reflect new order back into data so subsequent sorts are stable
+            const sorted = [...visible, ...hidden];
+            sorted.forEach((item, i) => { data[i] = item; });
 
             // Replace tbody fresh each time
             const oldTbody = table.querySelector("tbody");
             const newTbody = oldTbody.cloneNode(false);
-            data.forEach(item => newTbody.appendChild(item.row));
+            sorted.forEach(item => newTbody.appendChild(item.row));
             oldTbody.parentNode.replaceChild(newTbody, oldTbody);
         });
     });
