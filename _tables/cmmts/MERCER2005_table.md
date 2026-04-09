@@ -13,7 +13,7 @@ style: style
 | Name | Comment |
 | --- | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | Association of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
-| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: $blue;">DBSB 88</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
+| <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: red;">DBSB 88</a> | Associated with mid-IR extended emission. Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. |
 | <a href="{{ site.baseurl }}/_clusters/juchert10/" target="_blank" style="color: $blue;">Juchert 10</a> | Cluster of stars. Detected using no magnitude cut. Detected in 2MASS catalog with our algorithm. Appears in 2MASS images. |
 | <a href="{{ site.baseurl }}/_clusters/mcm1/" target="_blank" style="color: red;">MCM 1</a> | Association of stars. Associated with mid-IR extended emission. |
 | <a href="{{ site.baseurl }}/_clusters/mcm10/" target="_blank" style="color: red;">MCM 10</a> | Association of stars. Appears in 2MASS images. |

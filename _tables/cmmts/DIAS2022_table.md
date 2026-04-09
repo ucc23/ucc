@@ -28,7 +28,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/eso39701/" target="_blank" style="color: $blue;">ESO 397 01</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso44729/" target="_blank" style="color: red;">ESO 447 29</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/eso45609/" target="_blank" style="color: red;">ESO 456 09</a> | Likely not a real open cluster. |
-| <a href="{{ site.baseurl }}/_clusters/eso52508/" target="_blank" style="color: $blue;">ESO 525 08</a> | Likely not a real open cluster. |
+| <a href="{{ site.baseurl }}/_clusters/eso52508/" target="_blank" style="color: red;">ESO 525 08</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/hogg20/" target="_blank" style="color: red;">Hogg 20</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/loden1002/" target="_blank" style="color: red;">Loden 1002</a> | Likely not a real open cluster. |
 | <a href="{{ site.baseurl }}/_clusters/loden991/" target="_blank" style="color: $blue;">Loden 991</a> | Likely not a real open cluster. |

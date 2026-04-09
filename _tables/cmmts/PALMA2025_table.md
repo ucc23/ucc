@@ -1556,7 +1556,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ruprecht94/" target="_blank" style="color: $blue;">Ruprecht 94</a> | Part of multiple system G208, along with IC_2944 and Stock_14. |
 | <a href="{{ site.baseurl }}/_clusters/ruprecht98/" target="_blank" style="color: $blue;">Ruprecht 98</a> | Part of multiple system G24, along with NGC_3532, HSC_2447 and CWNU_1008. |
 | <a href="{{ site.baseurl }}/_clusters/sai24/" target="_blank" style="color: $blue;">SAI 24</a> | Part of multiple system G225, along with OC_0255 and IC_1848. |
-| <a href="{{ site.baseurl }}/_clusters/sai90/" target="_blank" style="color: $blue;">SAI 90</a> | Classified as tidal capture (resonant trapping pair) P7, along with CWNU_1656. |
+| <a href="{{ site.baseurl }}/_clusters/sai90/" target="_blank" style="color: red;">SAI 90</a> | Classified as tidal capture (resonant trapping pair) P7, along with CWNU_1656. |
 | <a href="{{ site.baseurl }}/_clusters/saloranta10/" target="_blank" style="color: $blue;">Saloranta 10</a> | Classified as optical pair P423, along with HSC_1333. |
 | <a href="{{ site.baseurl }}/_clusters/sigmaorionis/" target="_blank" style="color: $blue;">Sigma Orionis</a> | Part of multiple system G229, along with OCSN_56, OCSN_65, Theia_13, CWNU_1072, CWNU_1088, ASCC_18 and OCSN_68. |
 | <a href="{{ site.baseurl }}/_clusters/skiffj0614p129/" target="_blank" style="color: $blue;">Skiff J0614+12.9</a> | Classified as optical pair P131, along with HSC_1560. |
@@ -2139,6 +2139,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vdbh99/" target="_blank" style="color: $blue;">VDBH 99</a> | Classified as optical pair P275, along with CWNU_287. |
 | <a href="{{ site.baseurl }}/_clusters/westerlund2/" target="_blank" style="color: $blue;">Westerlund 2</a> | Classified as tidal capture (resonant trapping pair) P39, along with HSC_2332. |
 | <a href="{{ site.baseurl }}/_clusters/wit2/" target="_blank" style="color: $blue;">Wit 2</a> | Classified as tidal capture (resonant trapping pair) P17, along with CWNU_302. |
+| <a href="{{ site.baseurl }}/_clusters/xdocc02/" target="_blank" style="color: $blue;">XDOCC 02</a> | Part of multiple system G19, along with Gulliver_54 and COIN-Gaia_19. |
 | <a href="{{ site.baseurl }}/_clusters/zhbjz1/" target="_blank" style="color: $blue;">ZHBJZ 1</a> | Part of multiple system G248, along with Theia_379 and Theia_72. |
 
 

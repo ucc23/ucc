@@ -8,13 +8,13 @@ style: style
 &nbsp;
 # [Cui et al. (2025)](https://scixplorer.org/abs/2025AJ....169..219C)
 
-This database consists of 53 entries, of which 19% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 21% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
+This database consists of 53 entries, of which 19% are probable duplicates ([P<sub>dup</sub>>50%](/faq/#how-is-the-duplicate-probability-estimated)) and 23% are classified as [likely non-clusters](/faq/#how-are-objects-flagged-as-likely-not-real) (names colored red).
 
 
 
 | Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.43 |
+| <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.44 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2946/" target="_blank" style="color: $blue;">CWNU 2946</a> | 161.96 | -55.87 | 286.16 | 2.92 | 0.09 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5 | 0.21 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2961/" target="_blank" style="color: $blue;">CWNU 2961</a> | 137.23 | -53.25 | 273.27 | -3.71 | 0.14 | 107 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.47 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2974/" target="_blank" style="color: $blue;">CWNU 2974</a> | 122.8 | -46.54 | 262.28 | -7.02 | 0.12 | 118 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.4 | 0.3 |
@@ -59,14 +59,14 @@ This database consists of 53 entries, of which 19% are probable duplicates ([P<s
 | <a href="{{ site.baseurl }}/_clusters/cwnu4150/" target="_blank" style="color: red;">CWNU 4150</a> | 301.14 | 38.88 | 75.11 | 3.97 | 0.15 | 18 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu4172/" target="_blank" style="color: red;">CWNU 4172</a> | 70.93 | 36.2 | 166.48 | -6.34 | 0.15 | 17 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.07 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu4203/" target="_blank" style="color: $blue;">CWNU 4203</a> | 285.76 | 2.65 | 36.61 | -1.37 | 0.23 | 51 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.4 |
-| <a href="{{ site.baseurl }}/_clusters/eso42905/" target="_blank" style="color: $blue;">ESO 429 05</a> | 114.26 | -32.2 | 246.51 | -5.4 | 0.1 | 129 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.65 |
-| <a href="{{ site.baseurl }}/_clusters/fsr0291/" target="_blank" style="color: $blue;">FSR 0291</a> | 319.08 | 48.35 | 90.51 | -0.51 | 0.13 | 47 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.52 |
-| <a href="{{ site.baseurl }}/_clusters/fsr0508/" target="_blank" style="color: $blue;">FSR 0508</a> | 10.48 | 64.96 | 121.92 | 2.11 | 0.19 | 63 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.66 |
-| <a href="{{ site.baseurl }}/_clusters/fsr0687/" target="_blank" style="color: $blue;">FSR 0687</a> | 69.85 | 48.2 | 156.92 | 0.96 | 0.21 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.63 |
-| <a href="{{ site.baseurl }}/_clusters/pfleiderer4/" target="_blank" style="color: $blue;">Pfleiderer 4</a> | 357.72 | 62.32 | 115.96 | 0.27 | 0.1 | 109 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.67 |
-| <a href="{{ site.baseurl }}/_clusters/saurer1/" target="_blank" style="color: $blue;">Saurer 1</a> | 110.23 | 1.81 | 214.69 | 7.38 | 0.08 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.29 |
-| <a href="{{ site.baseurl }}/_clusters/saurer4/" target="_blank" style="color: red;">Saurer 4</a> | 183.5 | -63.59 | 298.79 | -1.03 | 0.09 | 7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.16 |
-| <a href="{{ site.baseurl }}/_clusters/teutsch48/" target="_blank" style="color: $blue;">Teutsch 48</a> | 140.11 | -52.83 | 274.17 | -2.17 | 0.21 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.19 |
+| <a href="{{ site.baseurl }}/_clusters/eso42905/" target="_blank" style="color: $blue;">ESO 429 05</a> | 114.26 | -32.2 | 246.51 | -5.4 | 0.1 | 129 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.64 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0291/" target="_blank" style="color: $blue;">FSR 0291</a> | 319.08 | 48.35 | 90.51 | -0.51 | 0.13 | 47 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.51 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0508/" target="_blank" style="color: $blue;">FSR 0508</a> | 10.48 | 64.96 | 121.92 | 2.11 | 0.19 | 63 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.64 |
+| <a href="{{ site.baseurl }}/_clusters/fsr0687/" target="_blank" style="color: $blue;">FSR 0687</a> | 69.85 | 48.2 | 156.92 | 0.96 | 0.21 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.61 |
+| <a href="{{ site.baseurl }}/_clusters/pfleiderer4/" target="_blank" style="color: $blue;">Pfleiderer 4</a> | 357.72 | 62.32 | 115.96 | 0.27 | 0.1 | 109 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.66 |
+| <a href="{{ site.baseurl }}/_clusters/saurer1/" target="_blank" style="color: $blue;">Saurer 1</a> | 110.23 | 1.81 | 214.69 | 7.38 | 0.08 | 22 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.3 |
+| <a href="{{ site.baseurl }}/_clusters/saurer4/" target="_blank" style="color: red;">Saurer 4</a> | 183.5 | -63.59 | 298.79 | -1.03 | 0.09 | 7 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |
+| <a href="{{ site.baseurl }}/_clusters/teutsch48/" target="_blank" style="color: red;">Teutsch 48</a> | 140.11 | -52.83 | 274.17 | -2.17 | 0.21 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.2 |
 
 
 
