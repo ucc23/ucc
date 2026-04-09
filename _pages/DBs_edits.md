@@ -434,8 +434,13 @@ ONC cluster"_
 Added `ra,dec` columns in degrees.
 Added 'IRAS' to 15 entries.
 
-Added  alternative naming taken from Morales et al 2013:
+Added  alternative naming taken from Morales et al 2013 and Bica et al 2003:
 - M 17 --> NGC 6618
+- L1228 --> LDN_1228
+- L1641C --> LDN_1641C
+- NGC 281W --> NGC 281 West
+- NGC 281E --> NGC 281 East
+
 and changed a name
 - NGC 6334 1 --> NGC 6334 I
 
@@ -748,6 +753,21 @@ I correct this database to those alternative names.
 Added VDBH to the BH entries.
 
 
+
+## Paunzen et al (2010)
+
+[On the metallicity of open clusters. I. Photometry](https://scixplorer.org/abs/2010A%26A...517A..32P/abstract)
+
+Data extracted from Table 3 in article which provides unweighted averaged [Fe/H]
+values for 188 Galactic open clusters.
+
+Removed GC "Berkeley 42".
+
+
+
+
+
+
 ## Borissova et al. 2011
 
 [New Galactic star clusters discovered in the VVV survey](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A.131B)
@@ -886,6 +906,7 @@ Modified names:
 - Added 'BDSB XX' to 'BDS2003 XX'
 - Removed 'IR Cluster' from names
 - Removed 'Cluster' from names
+- Added W49_A to W49A Welch Ring
 
 Removed:
 -FSR2007 1681, duplicate of NGC 5606
@@ -908,6 +929,17 @@ Removed:
 - Duplicates of other entries (according to the UCC): BH 52, Dolidze 41, Harvard 5,
   NGC 6882, IC 1311, ESO 260 07, FSR 0814, FSR 0828, FSR 0856, FSR 0869, Koposov 27,
   NGC 2982
+
+
+
+## Heiter et al 2014
+
+[On the metallicity of open clusters. II. Spectroscopy](https://scixplorer.org/abs/2014A%26A...561A..93H/abstract)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/561/A93) Table 11 contains metallicity for 78 clusters.
+
+
+
 
 
 
@@ -948,6 +980,22 @@ Data table from my PDF.
 
 
 
+## Joshi et al 2016
+
+[Study of open clusters within 1.8 kpc and understanding the Galactic structure](https://scixplorer.org/abs/2016A%26A...593A.116J)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2016A%26A...593A.116J) table contains 1241 entries.
+
+Added name:
+- NGC_6991 to NGC_6991A
+
+New entries added by this DB (7): B_30, BDSB_31, BDSB_105, DBSB_47, DBSB_34, ESO_464_09,
+IC_1023 
+
+
+
+
+
 ## Kharchenko et al. 2016
 
 [Global survey of star clusters in the Milky Way. V. Integrated JHKSUBSSUB magnitudes and luminosity functions](https://scixplorer.org/abs/2016A%26A...585A.101K)
@@ -963,6 +1011,17 @@ Changes:
 - Removed GCs: VDBH 140, ESO 456-29, FSR 1716, FSR 1758
 
 Final table lists 2454 entries
+
+
+
+## Netopil et al 2016
+
+[On the metallicity of open clusters. III. Homogenised sample](https://scixplorer.org/abs/2016A%26A...585A.150N/abstract)
+
+[Vizier table](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2016A%26A...585A.150N) contains 172 clusters.
+
+
+
 
 
 
@@ -1036,6 +1095,35 @@ OCs with no formal ID assigned (only numbers).
 
 
 
+## Sampedro et al 2017
+
+[A multimembership catalogue for 1876 open clusters using UCAC4 data](https://scixplorer.org/abs/2017MNRAS.470.3937S)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2017MNRAS.470.3937S) table contains 1876 entries with three different methods for
+estimating proper motions. We select the first one (M1)
+
+Removed GCs: BH_140, ESO_456_29, FSR_1758, BH_208
+
+Removed duplicated entries:
+- AH03_J0748_26.9 (FSR_1315)
+- VDBH_52, BH_52 (NGC_2669)
+- Dolidze_41 (Berkeley_85)
+- Collinder_257 (Harvard_5)
+- NGC_6882 (Collinder_416)
+- Dolidze_2 (IC_1311)
+- Ruprecht_70 (ESO_260_07)
+- ESO_312_03 (FSR_1394)
+- ESO_368_14 (FSR_1343)
+- FSR_0814 (Koposov_36)
+- FSR_0828 (Koposov_43)
+- Koposov_53 (FSR_0856)
+- Koposov_63 (FSR_0869)
+- NGC_2982 (Ruprecht_80)
+
+
+
+
+
 ## Borissova et al. 2018
 
 [New Galactic star clusters discovered in the disc area of the VVVX survey](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3902B)
@@ -1043,6 +1131,9 @@ OCs with no formal ID assigned (only numbers).
 - Combined the tables `tablea1` and `tableb1`
 
 The `Dist` column in Vizier is labeled as `kpc` but it contains clearly `pc` values.
+
+
+
 
 
 ## Cantat-Gaudin et al. 2018
@@ -1060,12 +1151,64 @@ Renamed:
 - BH_XX      --> VDBH_XX
 
 
+
+
 ## Castro-Ginard et al. 2018
 
 [A new method for unveiling open clusters in Gaia. New nearby open clusters confirmed
 by DR2](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..59C/abstract)
 
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/618/A59) table contains 23 entries. No changes required.
+
+
+
+## Dias et al 2018
+
+[Update of membership and mean proper motion of open clusters from UCAC5 catalogue](https://scixplorer.org/abs/2018MNRAS.478.5184D)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2018MNRAS.478.5184D) table contains 1108 entries.
+
+Removed GC FSR_1758.
+
+Removed "Casado-Alessi" entry (not found in UCC, no parameters assigned, and the
+article does not give coordinates).
+
+Removed duplicated entries:
+- dolidze_41 is berkeley_85
+- harvard_5 is collinder_257
+- dolidze_2 is ic_1311
+- ruprecht_70 is eso_260-07
+- koposov_36 is fsr_0814
+- koposov_43 is; fsr_0828
+
+
+
+
+
+
+
+## Dib et al 2018
+
+[Structure and mass segregation in Galactic stellar clusters](https://scixplorer.org/abs/2018MNRAS.473..849D)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2018MNRAS.473..849D) table contains 1276 entries.
+
+Corrected duplicated names (based on coordinates):
+- MWSC_4114 --> MWSC_4005
+- MWSC_4146 --> MWSC_4158
+
+Changed names:
+- MWSC_4249 to MWSC_4229 (first one does not exist in the UCC and the coords match)
+
+Added names:
+- NGC_6991 to NGC_6991A
+
+The "RAJ2000" column has bad values for 42 'MWSC' entries. I replace those values
+with the ones taken from transforming the 'GLON,GLAT' columns.
+
+These DB adds 13 entries: dbsb50, cepob4, cepob5, pupob3, cirob1, bdsb13, ic446,
+ngc6989, eso44204, sctob3, bdsb74, ldn1495w, perob2.
+
 
 
 
@@ -1681,6 +1824,8 @@ Removed entries pointing to a GC:
 The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/260/8) table contains 541 with no acronym, added 'CWNU_'.
 Replaced '---' with '' for RV values.
 
+Added "LISC_3420" to "CWNU_394" according to Deng et al 2023.
+
 
 
 
@@ -1718,6 +1863,9 @@ follows:
 
 
 
+
+
+
 ## Li et al. 2022
 
 [LISC Catalog of Star Clusters. I. Galactic Disk Clusters in Gaia EDR3](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...19L/abstract)
@@ -1739,6 +1887,18 @@ known cluster.
 I only include the 61 new clusters in `table1` which contains a column called
 `t/t_range` in Gyr, not sure what it represents.
 
+
+
+
+
+## Netopil et al 2022
+
+[The Galactic metallicity gradient shown by open clusters in the light of radial migration](https://scixplorer.org/abs/2022MNRAS.509..421N)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2022MNRAS.509..421N) contains 2 tables (4 & 5) with data for 136 and 146 OCs. Additionally,
+the article contains data for 14 OCs in Tables 1 & 2.
+
+All tables were combined. The final table contains 147 entries.
 
 
 
@@ -1862,6 +2022,18 @@ The (GLON, GLAT) column in their [Vizier table](https://vizier.cds.unistra.fr/vi
 
 Two Vizier tables available ([tablec1](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/672/A29/tablec1) & [tablec2](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/672/A29/tablec2)) that were combined into
 a single one.
+
+
+
+## Deng et al 2023
+
+[Analysis of metallicities of open clusters in the Galactic disc](https://scixplorer.org/abs/2023MNRAS.521.6284D)
+
+Date for 57 entries extracted from table 1.
+
+
+
+
 
 
 
@@ -2348,6 +2520,38 @@ Renamed:
 
 
 
+## Li et al. 2025
+
+[The MiMO Catalog: Physical Parameters and Stellar Mass Functions of 1232 Open Clusters from Gaia DR3](https://scixplorer.org/abs/2025AJ....170..288L/abstract)
+
+Data is stored in, [ChinaVO](https://nadc.china-vo.org/res/r101693/). Merged files `cluster_input_info.fits` and
+`cluster_params.fits`.
+
+Added 'FoF' to 'LP' entries.
+Removed 'Harvard_5' (duplicate of Collinder_258).
+
+
+
+## Liu et al. 2025
+
+[Binary clusters in the Galactic I: systematic identification and classification using Gaia DR3](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..48L/abstract)
+
+The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/702/A48) tables lists 800 and 278 entries. After merging, the final table
+contains 686 unique entries.
+
+Added 'CMa_02' to 'CMa2'
+Added 'XDOCC_01' to 'XDOCC_1'
+
+Removed entries classified as moving groups in Hunt & Reffert (2023):
+hsc_2387, hsc_2453, hsc_2873, hsc_633, hsc_984, theia_379
+
+Final table contains 680 entries.
+
+Many distances in this article are far away from the ones listed in other articles.
+
+
+
+
 ## Nizovkina et al. 2025
 
 [Refining open cluster parameters with Gaia XP metallicities](https://scixplorer.org/abs/2025A%26A...703A.100N)
@@ -2384,34 +2588,16 @@ Added: 'ocsn38' to 'oc038'
 
 
 
-## Li et al. 2025
 
-[The MiMO Catalog: Physical Parameters and Stellar Mass Functions of 1232 Open Clusters from Gaia DR3](https://scixplorer.org/abs/2025AJ....170..288L/abstract)
+## Yang et al 2025
 
-Data is stored in, [ChinaVO](https://nadc.china-vo.org/res/r101693/). Merged files `cluster_input_info.fits` and
-`cluster_params.fits`.
+[Chemical Abundance Gradients in Open Clusters from the Gaia/LAMOST Sample](https://scixplorer.org/abs/2025AJ....169..214Y/abstract)
 
-Added 'FoF' to 'LP' entries.
-Removed 'Harvard_5' (duplicate of Collinder_258).
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/AJ/169/214) tables 1 & 2 combined.
 
+Added "XDOCC_02" to "XDOCC_2".
 
 
-## Liu et al. 2025
-
-[Binary clusters in the Galactic I: systematic identification and classification using Gaia DR3](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..48L/abstract)
-
-The [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/702/A48) tables lists 800 and 278 entries. After merging, the final table
-contains 686 unique entries.
-
-Added 'CMa_02' to 'CMa2'
-Added 'XDOCC_01' to 'XDOCC_1'
-
-Removed entries classified as moving groups in Hunt & Reffert (2023):
-hsc_2387, hsc_2453, hsc_2873, hsc_633, hsc_984, theia_379
-
-Final table contains 680 entries.
-
-Many distances in this article are far away from the ones listed in other articles.
 
 
 

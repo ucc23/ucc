@@ -9,6 +9,35 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260409](https://zenodo.org/records/19488683)
+
+- Fixed wrong transformation Z to FeH (was using natural logarithm instead of 10)
+
+- Added:
+  - Dias et al (2018)
+  - Joshi et al (2016)
+  - Dib et al (2018)
+  - Sampedro et al (2017)
+  - Deng et al (2023)
+  - Yang et al (2025)
+  - Heiter et al (2014)
+  - Paunzen et al (2010)
+  - Netopil et al (2022)
+  - Netopil et al (2016)
+
+- Fixed bad naming (duplicates)
+  - Lada & Lada (2003)
+    - L1228 --> LDN_1228
+    - L1641C --> LDN_1641C
+    - NGC 281W --> NGC 281 West
+    - NGC 281E --> NGC 281 East
+  - Morales et al (2013)
+    - W49A Welch Ring --> W49_A
+
+- Added comments from:
+  - Hunt & Reffert (2023)
+  - Bica et al (2019)
+
 
 
 ## Version [260401](https://zenodo.org/records/19372033)

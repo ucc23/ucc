@@ -26,7 +26,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_articles" href="/../articles">Articles</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- ND1 -->131<!-- ND2 --></strong>
+        <strong><!-- ND1 -->141<!-- ND2 --></strong>
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_clusters" href="/../faq/#what-objects-are-included-in-the-ucc">Clusters</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- NT1 -->18255<!-- NT2 --></strong>
+        <strong><!-- NT1 -->18269<!-- NT2 --></strong>
       </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_parameters" href="/../faq/#parameters">Parameters</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- NP1 -->580717<!-- NP2 --></strong>
+        <strong><!-- NP1 -->632395<!-- NP2 --></strong>
       </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ The UCC currently hosts the following data:
         <a data-umami-event="db_members" href="/../faq/#how-are-member-stars-selected">Member stars</a>
       </td>
       <td style="text-align:center;">
-        <strong><!-- NM1 -->1095306<!-- NM2 --></strong>
+        <strong><!-- NM1 -->1095686<!-- NM2 --></strong>
       </td>
     </tr>
   </tbody>
