@@ -13,17 +13,17 @@ glon: 308.14848
 glat: -1.93189
 r50: 7.2
 plx: 0.1498
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.01
 UTI_C_C3: 0.12
-UTI_C_lit: 0.08
+UTI_C_lit: 0.16
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -58,18 +58,22 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |204.982 | -64.315 | 0.15 | -7.94 | -1.016 | -32.09 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 204.922 | -64.324 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -7.18 | -2.88 | -- |
+    |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 204.921 | -64.32 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 204.921 | -64.333 | -3.4 | -4.71 | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 204.921 | -64.333 | -- | -3.57 | -4.89 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 204.921 | -64.333 | -- | -3.57 | -4.89 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 204.864 | -64.298 | -- | -- | -- | -- 
-N_rows_pos: "4"
+N_rows_pos: "7"
 cds_radec: 204.9815,-64.31543
 carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.42 | 2.3 | -- | 1096 | -- | -- | -- | -- |
+    | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.42 | -- | -- | 1096 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 1.42 | 2.30 | -- | 1096 | -- | -- | -- | -- |
-N_rows_pars: "1"
+N_rows_pars: "2"
 note_asterisk: false
 shared_table: |
 

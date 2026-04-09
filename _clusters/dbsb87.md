@@ -13,17 +13,17 @@ glon: 308.01857
 glat: 2.01766
 r50: 6.3
 plx: 0.4183
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#f2bab5"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.21
 UTI_C_C3: 0.12
-UTI_C_lit: 0.08
+UTI_C_lit: 0.13
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Very loose
@@ -59,10 +59,12 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |203.186 | -60.447 | 0.418 | -3.775 | -1.224 | -26.95 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 203.201 | -60.452 | -- | -- | -- | -- |
+    |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 203.212 | -60.455 | -- | -- | -- | -- |
+    |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 203.212 | -60.455 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 203.201 | -60.452 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 203.212 | -60.455 | -- | -6.63 | 1.7 | -- |
     |[Dutra et al.](https://scixplorer.org/abs/2003A%26A...400..533D) | 2003 | 203.193 | -60.454 | -- | -- | -- | -- 
-N_rows_pos: "4"
+N_rows_pos: "6"
 cds_radec: 203.18565,-60.44688
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.79 | 2.3 | -- | 100 | -- | 12 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 100 | -- | 12 | -- | -- |
+    | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.79 | -- | -- | 100 | -- | -- | -- | -- |
+    | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 1.79 | 2.30 | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.79 | 2.30 | -- | 100 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.79 | 2.30 | -- | 100 | -- | -- | -- | -- |
-N_rows_pars: "3"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
 

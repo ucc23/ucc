@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f8fcdf"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fef6d9"
+UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.55
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.42
+UTI_C_lit: 0.35
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -95,7 +95,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.54 |
+    |[Streicher 52](/_clusters/streicher52/)| 100.0 | 85.78 | 13.72 | 0.92 | 0.67 | -3.59 | 10.88 |0.55 |
     |[UBC 78](/_clusters/ubc78/)| 100.0 | 85.77 | 13.73 | 0.92 | 0.66 | -3.59 | 12.49 |0.03 |
 N_rows_shared: "2"
 ---

@@ -13,17 +13,17 @@ glon: 285.08789
 glat: 3.01216
 r50: 1.6
 plx: 0.1423
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#fee9cd"
+UTI_C_lit_COL: "#fee5ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.34
+UTI_C_lit: 0.32
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -48,11 +48,12 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.75 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.75 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Also known as Saurer C; poorly studied. The CMD shows a dispersed sequence with the TO at G~19 and a clear RC at G=16.5. Members are scattered around the short main sequence, likely due to increasing Gaia photometric errors at G>19. ASteCA gives 6.1 kpc, 6.5 Gyr, and the largest binary fraction in the sample (~86%). Carraro 2003 used CCD VI photometry and reported 9.5 kpc and ~2 Gyr — both differ substantially from our values, likely because their CMD suffers from severe field star contamination spanning a broader but unreliable sequence. MWSC (7.1 kpc) is the closest catalog value. The cluster lies below 9 kpc, contradicting OC02 (~9.5 kpc, sourced from Carraro 2003).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 12.2
 N_50_val: 130
 scix_url: Saurer%203
@@ -68,10 +69,11 @@ posit_table: |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 160.375 | -55.3 | -- | -- | -- | -- |
     |[Sánchez et al.](https://scixplorer.org/abs/2020MNRAS.495.2882S) | 2020 | 160.354 | -55.306 | -- | -6.836 | 3.34 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 160.339 | -55.288 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 160.354 | -55.306 | -5.81 | -2.9 | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 160.354 | -55.306 | -- | -6.73 | -1.62 | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 160.375 | -55.3 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 160.354 | -55.306 | -- | -6.73 | -1.62 | -- 
-N_rows_pos: "11"
+N_rows_pos: "12"
 cds_radec: 160.35373,-55.2897
 carousel: UCC_HUNT23
 fpars_table: |

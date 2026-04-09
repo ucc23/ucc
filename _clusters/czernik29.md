@@ -13,17 +13,17 @@ glon: 230.8101
 glat: 0.96089
 r50: 1.7
 plx: 0.2405
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#fefbe2"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#fefde6"
+UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.47
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.49
+UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned).</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 11.1
 N_50_val: 47
 scix_url: Czernik%2029
@@ -67,12 +68,13 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 112.085 | -15.386 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 112.1 | -15.385 | 0.235 | -1.406 | 1.354 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 112.095 | -15.405 | -- | -5.013 | 4.53 | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 112.075 | -15.4 | -3.05 | 2.06 | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 112.075 | -15.4 | -- | -3.04 | 2.18 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 112.092 | -15.398 | -- | -- | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 112.075 | -15.4 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 112.075 | -15.4 | -- | -3.04 | 2.18 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 112.071 | -15.405 | -- | -- | -- | -- 
-N_rows_pos: "13"
+N_rows_pos: "14"
 cds_radec: 112.1056,-15.39964
 carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
@@ -97,7 +99,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.92 |
-    |[HSC 1820](/_clusters/hsc1820/)| 4.3 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.12 |
+    |[Haffner 10](/_clusters/haffner10/)| 38.3 | 112.15 | -15.36 | 0.26 | -1.18 | 1.57 | 87.99 |0.88 |
+    |[HSC 1820](/_clusters/hsc1820/)| 4.3 | 111.98 | -15.4 | 0.17 | -1.51 | 1.47 | -- |0.11 |
 N_rows_shared: "2"
 ---

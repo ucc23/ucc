@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.51 | 1.58 | -- | 398 | -0.236 | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.51 | 1.58 | -- | 398 | -0.236 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.51 | 1.58 | -- | 398 | -0.103 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.51 | 1.58 | -- | 398 | -0.103 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 1173](/_clusters/fsr1173/)| 90.0 | 107.19 | -9.42 | 0.34 | -0.47 | -0.38 | 27.94 |0.59 |
+    |[FSR 1173](/_clusters/fsr1173/)| 90.0 | 107.19 | -9.42 | 0.34 | -0.47 | -0.38 | 27.94 |0.58 |
     |[UBC 1358](/_clusters/ubc1358/)| 80.0 | 107.18 | -9.42 | 0.34 | -0.46 | -0.39 | 13.04 |0.0 |
 N_rows_shared: "2"
 ---

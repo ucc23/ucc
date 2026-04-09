@@ -13,17 +13,17 @@ glon: 128.0728
 glat: -1.69939
 r50: 2.5
 plx: 0.2148
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.41"
+UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#d4ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f1b8b4"
+UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#d0eac9"
 UTI_C_N: 0.75
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.11
+UTI_C_lit: 0.1
 UTI_C_dup: 0.77
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -79,7 +79,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.14 |
+    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.13 |
     |[NGC 581](/_clusters/ngc581/)| 23.0 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 6.0 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
     |[UBC 186](/_clusters/ubc186/)| 3.0 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.12 |

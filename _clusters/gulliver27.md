@@ -18,12 +18,12 @@ UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#fefde6"
+UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#f9c9bc"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.49
+UTI_C_lit: 0.42
 UTI_C_dup: 0.19
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -49,11 +49,12 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P392, along with OC_0521.</p>
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was not include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl), parameters log(t)=8.504, E(b-v)=0.603 and Z=0.005 are from Monteiro & Dias (2019MNRAS.487.2385M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 25.0
 N_50_val: 121
 scix_url: Gulliver%2027
@@ -102,6 +103,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 68](/_clusters/teutsch68/)| 81.0 | 146.08 | -54.11 | 0.33 | -4.64 | 3.44 | 17.29 |0.57 |
+    |[Teutsch 68](/_clusters/teutsch68/)| 81.0 | 146.08 | -54.11 | 0.33 | -4.64 | 3.44 | 17.29 |0.56 |
 N_rows_shared: "1"
 ---

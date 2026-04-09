@@ -13,17 +13,17 @@ glon: 350.74302
 glat: 22.0364
 r50: 102.2
 plx: 7.0238
-UTI: "0.63"
-UTI_COLOR: "#ecf7d3"
+UTI: "0.62"
+UTI_COLOR: "#eef7d4"
 UTI_C_N_COL: "#b9e0c4"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f5c1b8"
+UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a6ccba"
 UTI_C_N: 0.86
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.15
+UTI_C_lit: 0.13
 UTI_C_dup: 0.99
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G172, along with OCSN_98, HSC_2907, HSC_2931, HSC_2919 and OCSN_100.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 21.6
 N_50_val: 388
 scix_url: OCSN%2096
@@ -87,8 +88,8 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 100](/_clusters/ocsn100/)| 4.4 | 242.71 | -19.44 | 7.17 | -8.76 | -24.38 | -7.18 |0.61 |
     |[OCSN 246](/_clusters/ocsn246/)| 3.4 | 245.41 | -24.73 | 6.71 | -10.64 | -22.4 | -3.67 |0.45 |
-    |[HSC 2907](/_clusters/hsc2907/)| 0.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.45 |
+    |[HSC 2907](/_clusters/hsc2907/)| 0.8 | 244.86 | -24.99 | 6.37 | -10.63 | -21.5 | -5.44 |0.44 |
     |[Upper Sco](/_clusters/uppersco/)| 0.8 | 241.77 | -27.09 | 7.02 | -15.58 | -23.3 | -1.41 |0.22 |
-    |[OCSN 98](/_clusters/ocsn98/)| 0.5 | 241.26 | -19.7 | 6.56 | -9.89 | -21.69 | -7.92 |0.6 |
+    |[OCSN 98](/_clusters/ocsn98/)| 0.5 | 241.26 | -19.7 | 6.56 | -9.89 | -21.69 | -7.92 |0.59 |
 N_rows_shared: "5"
 ---

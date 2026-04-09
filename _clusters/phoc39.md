@@ -73,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 247](/_clusters/ocsn247/)| 86.1 | 277.89 | -3.95 | 2.6 | 2.01 | -9.02 | -8.03 |0.01 |
-    |[Theia 23](/_clusters/theia23/)| 40.1 | 277.9 | -3.95 | 2.61 | 2.08 | -9.0 | -8.26 |0.61 |
+    |[Theia 23](/_clusters/theia23/)| 40.1 | 277.9 | -3.95 | 2.61 | 2.08 | -9.0 | -8.26 |0.6 |
     |[CWWL 3567](/_clusters/cwwl3567/)| 25.4 | 277.91 | -3.91 | 2.61 | 2.06 | -9.03 | -7.18 |0.0 |
 N_rows_shared: "3"
 ---

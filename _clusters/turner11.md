@@ -60,12 +60,13 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 310.795 | 35.582 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 310.848 | 35.589 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 310.845 | 35.588 | -- | -0.568 | -1.175 | 10.5 |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 310.85 | 35.588 | -2.98 | -4.71 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 310.795 | 35.582 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 310.85 | 35.588 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 310.85 | 35.588 | -- | -3.58 | -5.41 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 310.8 | 35.585 | -- | -2.14 | -3.44 | 10.5 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 310.85 | 35.588 | -- | -3.58 | -5.41 | -- 
-N_rows_pos: "8"
+N_rows_pos: "9"
 cds_radec: 310.87701,+35.6187
 carousel: UCC
 fpars_table: |

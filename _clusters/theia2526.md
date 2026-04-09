@@ -18,12 +18,12 @@ UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fcd6c2"
 UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.25
 UTI_C_dens: 0.43
 UTI_C_C3: 0.25
-UTI_C_lit: 0.08
+UTI_C_lit: 0.06
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G196, along with HSC_890, HSC_854 and HSC_844.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 2.2
 N_50_val: 25
 scix_url: Theia%202526
@@ -80,10 +81,9 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 394](/_clusters/cwnu394/)| 100.0 | 348.15 | 57.48 | 0.92 | 0.25 | -1.35 | -27.34 |0.12 |
-    |[CWWDL 14366](/_clusters/cwwdl14366/)| 100.0 | 348.22 | 57.48 | 0.92 | 0.24 | -1.34 | -29.86 |0.02 |
-    |[LISC 3420](/_clusters/lisc3420/)| 96.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.24 |
+    |[CWWDL 14366](/_clusters/cwwdl14366/)| 100.0 | 348.22 | 57.48 | 0.92 | 0.24 | -1.34 | -29.86 |0.16 |
+    |[LISC 3420](/_clusters/lisc3420/)| 96.0 | 348.1 | 57.47 | 0.91 | 0.26 | -1.37 | -31.89 |0.27 |
     |[CWNU 415](/_clusters/cwnu415/)| 64.0 | 347.86 | 57.41 | 0.91 | 0.24 | -1.38 | -23.5 |0.04 |
     |[CWNU 83](/_clusters/cwnu83/)| 16.0 | 347.51 | 57.0 | 0.91 | 0.19 | -1.4 | -19.28 |0.05 |
-N_rows_shared: "5"
+N_rows_shared: "4"
 ---

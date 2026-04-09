@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDB 92](/_clusters/vdb92/)| 100.0 | 106.05 | -11.48 | 0.86 | -4.41 | 1.56 | 24.52 |0.95 |
+    |[VDB 92](/_clusters/vdb92/)| 100.0 | 106.05 | -11.48 | 0.86 | -4.41 | 1.56 | 24.52 |0.92 |
     |[NGC 2327](/_clusters/ngc2327/)| 68.8 | 106.03 | -11.39 | 0.87 | -4.55 | 1.66 | 30.36 |0.0 |
 N_rows_shared: "2"
 ---

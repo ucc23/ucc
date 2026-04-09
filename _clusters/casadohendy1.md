@@ -64,13 +64,13 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.99 | 1.55 | -- | 6 | 0.112 | -- | -- | -- |
-    | [Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 1.99 | 1.55 | -- | 6 | 0.112 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.99 | 1.55 | -- | 6 | 0.049 | -- | -- | -- |
+    | [Casado & Hendy](https://scixplorer.org/abs/2023MNRAS.521.1399C) | 2023 | 1.99 | 1.55 | -- | 6 | 0.049 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.65 |
+    |[NGC 6883](/_clusters/ngc6883/)| 71.7 | 302.85 | 35.86 | 0.49 | -3.14 | -6.25 | -24.13 |0.66 |
 N_rows_shared: "1"
 ---

@@ -13,17 +13,17 @@ glon: 14.35502
 glat: 0.13618
 r50: 6.5
 plx: 0.3128
-UTI: "0.43"
-UTI_COLOR: "#fef7db"
+UTI: "0.42"
+UTI_COLOR: "#fef6d9"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#e9f5d0"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#e6acb3"
+UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.76
 UTI_C_dens: 0.65
 UTI_C_C3: 0.75
-UTI_C_lit: 0.04
+UTI_C_lit: 0.03
 UTI_C_dup: 0.96
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Moderately dense
@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P556, along with OC_0023.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Wood sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.08 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.08 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 3.2
 N_50_val: 118
 scix_url: Theia%201756

@@ -46,12 +46,13 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Present study.</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: possibly associated submm emission surrounding the cluster, presence of an IR bubble.</p>
     <p><u><a href='https://scixplorer.org/abs/2003A%26A...404..223B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as stellar group (IRGr).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 2.9
 N_50_val: 59
 scix_url: BDSB%2099
@@ -78,7 +79,7 @@ shared_table: |
     |[Bochum 13](/_clusters/bochum13/)| 6.8 | 259.34 | -35.53 | 0.57 | -0.28 | -1.26 | -62.15 |0.9 |
     |[NGC 6334 IV](/_clusters/ngc6334iv/)| 6.8 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.28 |
     |[BDSB 98](/_clusters/bdsb98/)| 5.1 | 260.0 | -35.93 | 0.56 | -0.19 | -1.82 | -14.06 |0.05 |
-    |[NGC 6334](/_clusters/ngc6334/)| 3.4 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.51 |
+    |[NGC 6334](/_clusters/ngc6334/)| 3.4 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.55 |
     |[NGC 6334 III](/_clusters/ngc6334iii/)| 1.7 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.08 |
 N_rows_shared: "6"
 ---

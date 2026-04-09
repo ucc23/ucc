@@ -18,12 +18,12 @@ UTI_COLOR: "#fafce1"
 UTI_C_N_COL: "#eaf6d1"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#e6acb3"
+UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.04
+UTI_C_lit: 0.03
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -73,6 +73,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Pismis 11](/_clusters/pismis11/)| 100.0 | 138.97 | -50.0 | 0.37 | -5.34 | 3.98 | 61.2 |0.53 |
+    |[Pismis 11](/_clusters/pismis11/)| 100.0 | 138.97 | -50.0 | 0.37 | -5.34 | 3.98 | 61.2 |0.51 |
 N_rows_shared: "1"
 ---

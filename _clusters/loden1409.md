@@ -59,12 +59,13 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |221.268 | -61.749 | 0.106 | -4.999 | -2.947 | -42.197 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 221.155 | -61.713 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 221.233 | -61.719 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 221.233 | -61.717 | -4.9 | -4.24 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 221.155 | -61.713 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 221.233 | -61.717 | -- | -4.8 | -4.29 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 221.167 | -61.715 | -- | -7.0 | -4.5 | -33.8 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 221.233 | -61.717 | -- | -4.8 | -4.29 | -33.8 |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 221.186 | -61.718 | -- | -- | -- | -- 
-N_rows_pos: "7"
+N_rows_pos: "8"
 cds_radec: 221.26828,-61.74893
 carousel: UCC
 fpars_table: |

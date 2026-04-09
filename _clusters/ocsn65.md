@@ -18,12 +18,12 @@ UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#c7e6c7"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f9c9bc"
+UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#c4e5c7"
 UTI_C_N: 0.81
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.19
+UTI_C_lit: 0.16
 UTI_C_dup: 0.82
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G229, along with OCSN_56, Theia_13, CWNU_1072, Sigma_Orionis, CWNU_1088, ASCC_18 and OCSN_68.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 16.4
 N_50_val: 255
 scix_url: OCSN%2065
@@ -87,8 +88,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.62 |
+    |[Gulliver 6](/_clusters/gulliver6/)| 17.6 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.6 |
     |[OCSN 194](/_clusters/ocsn194/)| 14.5 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
-    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.47 |
+    |[OCSN 61](/_clusters/ocsn61/)| 0.4 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.48 |
 N_rows_shared: "3"
 ---

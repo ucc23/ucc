@@ -77,6 +77,6 @@ shared_table: |
     |[Dutra Bica 5](/_clusters/dutrabica5/)| 12.5 | 266.79 | -28.78 | 0.38 | 0.11 | -2.15 | -22.0 |0.5 |
     |[VVV 146](/_clusters/vvv146/)| 6.2 | 266.57 | -28.81 | 0.49 | 0.29 | -1.58 | -- |0.14 |
     |[Dutra Bica 4](/_clusters/dutrabica4/)| 5.0 | 266.79 | -28.81 | 0.36 | -0.02 | -2.22 | -26.8 |0.09 |
-    |[Dutra Bica 6](/_clusters/dutrabica6/)| 3.8 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.14 |
+    |[Dutra Bica 6](/_clusters/dutrabica6/)| 3.8 | 266.84 | -28.81 | 0.35 | 0.02 | -2.22 | -18.64 |0.13 |
 N_rows_shared: "4"
 ---

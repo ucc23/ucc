@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.46 | 0.86 | -- | -- | 0.274 | -- | 0.44 | -- |
-    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.46 | 0.86 | -- | -- | 0.274 | -- | 0.44 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.46 | 0.86 | -- | -- | 0.119 | -- | 0.44 | -- |
+    | [Chi et al.](https://scixplorer.org/abs/2023RAA....23f5008C) | 2023 | 0.46 | 0.86 | -- | -- | 0.119 | -- | 0.44 | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 111](/_clusters/ocsn111/)| 100.0 | 79.29 | 18.61 | 2.83 | -0.11 | -5.87 | 21.26 |0.46 |
-    |[CWNU 1007](/_clusters/cwnu1007/)| 57.6 | 79.33 | 18.53 | 2.79 | 0.04 | -5.75 | 19.17 |0.36 |
+    |[CWNU 1007](/_clusters/cwnu1007/)| 57.6 | 79.33 | 18.53 | 2.79 | 0.04 | -5.75 | 19.17 |0.37 |
 N_rows_shared: "2"
 ---

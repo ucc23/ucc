@@ -64,13 +64,13 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.89 | 3.74 | -- | 631 | 0.169 | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 3.89 | 3.74 | -- | 631 | 0.169 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.89 | 3.74 | -- | 631 | 0.073 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 3.89 | 3.74 | -- | 631 | 0.073 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 489](/_clusters/cwnu489/)| 92.9 | 50.3 | 60.06 | 0.35 | 0.95 | -0.63 | -35.47 |0.38 |
+    |[CWNU 489](/_clusters/cwnu489/)| 92.9 | 50.3 | 60.06 | 0.35 | 0.95 | -0.63 | -35.47 |0.37 |
 N_rows_shared: "1"
 ---

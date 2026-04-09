@@ -60,6 +60,8 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |277.817 | -12.333 | 0.325 | -1.469 | -4.255 | 20.693 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 277.821 | -12.327 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 277.845 | -12.298 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.27 | -1.76 | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 277.825 | -12.317 | -1.04 | -1.0 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 277.821 | -12.327 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 277.825 | -12.317 | -- | -1.13 | -0.76 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 277.828 | -12.326 | -- | -1.79 | -1.27 | 30.7 |
@@ -71,7 +73,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 277.83 | -12.3 | -- | 1.37 | -4.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 277.825 | -12.317 | -- | -1.13 | -0.76 | 30.7 |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 277.827 | -12.311 | -- | -- | -- | -- 
-N_rows_pos: "13"
+N_rows_pos: "15"
 cds_radec: 277.8169,-12.33349
 carousel: UCC
 fpars_table: |

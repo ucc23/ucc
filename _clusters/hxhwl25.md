@@ -64,13 +64,13 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.74 | 1.52 | -- | 40 | 0.323 | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.74 | 1.52 | -- | 40 | 0.323 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.74 | 1.52 | -- | 40 | 0.140 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.74 | 1.52 | -- | 40 | 0.140 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 339](/_clusters/theia339/)| 98.1 | 213.88 | -63.74 | 0.52 | -4.69 | -3.12 | -- |0.52 |
+    |[Theia 339](/_clusters/theia339/)| 98.1 | 213.88 | -63.74 | 0.52 | -4.69 | -3.12 | -- |0.51 |
 N_rows_shared: "1"
 ---

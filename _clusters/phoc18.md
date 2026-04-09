@@ -13,17 +13,17 @@ glon: 350.39309
 glat: -1.37338
 r50: 6.0
 plx: 0.4394
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.60"
+UTI_COLOR: "#f1f9d6"
 UTI_C_N_COL: "#d9eeca"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f5c1b8"
+UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.73
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.15
+UTI_C_lit: 0.13
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Very dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G38, along with CWNU_1303, BH_222, HSC_2889 and CWNU_2342.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 6.1
 N_50_val: 96
 scix_url: PHOC%2018
@@ -72,12 +73,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.385 | 2.705 | 1.32 | 54 | 0.324 | 844 | -- | 1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.385 | 2.705 | 1.32 | 54 | 0.415 | 844 | -- | 1 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 7.35 | 1.22 | -- | 60 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 844<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.65 | 3.54 | -- | 43 | 0.970 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.12 | 3.41 | 1.32 | 49 | -- | -- | -- | -- |
-    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 1.91 | 2.00 | -- | 1995 | -0.323 | -- | -- | 1<sup>(1)</sup> |
+    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 1.91 | 2.00 | -- | 1995 | -0.140 | -- | -- | 1<sup>(1)</sup> |
 N_rows_pars: "5"
 note_asterisk: true
 shared_table: |

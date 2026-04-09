@@ -47,10 +47,11 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Located in a region of high field star contamination. Kronberger 2006 used a 0.8' radius and reported ~11.1 kpc with no age estimate, classifying it as a cluster candidate with RC. Monteiro 2020 later discarded it due to a poor isochrone fit. The least populated cluster in the sample (55 members). ASteCA identifies the TO at G~20 and the RC at G~17.5, giving 13 kpc and 2.8 Gyr — in reasonable agreement with Kronberger 2006. MWSC values of 1 Myr and 4.4 kpc are entirely inconsistent with the CMD features.</p>
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 0.1
 N_50_val: 22
 scix_url: Kronberger%2039
@@ -62,12 +63,13 @@ posit_table: |
     |[Perren et al.](https://scixplorer.org/abs/2022A%26A...663A.131P) | 2022 | 163.557 | -61.738 | -- | -- | -- | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 163.557 | -61.738 | -- | -5.955 | 2.167 | 2.594 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 163.545 | -61.74 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 163.558 | -61.738 | -3.69 | -0.82 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 163.552 | -61.729 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 163.558 | -61.738 | -- | -4.44 | -0.77 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 163.558 | -61.733 | -- | -3.91 | 6.07 | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 163.557 | -61.738 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 163.558 | -61.738 | -- | -3.91 | 6.07 | -- 
-N_rows_pos: "9"
+N_rows_pos: "10"
 cds_radec: 163.57536,-61.74683
 carousel: UCC
 fpars_table: |

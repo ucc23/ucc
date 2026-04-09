@@ -13,17 +13,17 @@ glon: 173.65214
 glat: 2.86904
 r50: 4.3
 plx: 0.5908
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#fdd9c3"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f5c1b8"
+UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#eef7d4"
 UTI_C_N: 0.26
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.15
+UTI_C_lit: 0.19
 UTI_C_dup: 0.62
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -59,12 +59,14 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |85.363 | 35.858 | 0.591 | 0.456 | -2.956 | -4.382 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 85.377 | 35.862 | -- | -- | -- | -- |
+    |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 85.387 | 35.861 | -- | -- | -- | -- |
+    |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 85.387 | 35.861 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 85.377 | 35.862 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 85.387 | 35.861 | -- | 2.52 | -4.9 | -13.4 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 85.387 | 35.861 | -- | 2.89 | -4.8 | -- |
     |[Froebrich et al.](https://scixplorer.org/abs/2007MNRAS.374..399F) | 2007 | 85.375 | 35.811 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2003A%26A...404..223B) | 2003 | 85.226 | 35.733 | -- | -- | -- | -- 
-N_rows_pos: "6"
+N_rows_pos: "8"
 cds_radec: 85.36314,+35.8584
 carousel: UCC
 fpars_table: |
@@ -72,15 +74,17 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.11 | 1.71 | -- | 750 | -- | 95 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 750 | -- | 95 | -- | -- |
+    | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.11 | -- | -- | 750 | -- | -- | -- | -- |
+    | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 1.11 | 1.71 | -- | 750 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 1.11 | 1.71 | -- | 750 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 1.11 | 1.71 | -- | 750 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2012A%26A...543A.156K) | 2012 | 1.14 | 1.14 | -- | 3162 | -- | -- | -- | -- |
-N_rows_pars: "4"
+N_rows_pars: "6"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Sh2-235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.23 |
+    |[Sh2-235](/_clusters/sh2235/)| 38.5 | 85.22 | 35.89 | 0.59 | 0.3 | -2.97 | -- |0.22 |
     |[FSR 0784](/_clusters/fsr0784/)| 30.8 | 85.2 | 35.89 | 0.6 | 0.35 | -2.97 | -4.38 |0.06 |
     |[S235B](/_clusters/s235b/)| 30.8 | 85.24 | 35.71 | 0.6 | 0.25 | -2.87 | -55.96 |0.14 |
     |[Sh2-235B](/_clusters/sh2235b/)| 30.8 | 85.28 | 35.72 | 0.65 | 0.25 | -2.87 | -76.72 |0.24 |

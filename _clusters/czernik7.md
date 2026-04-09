@@ -60,7 +60,9 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 30.742 | 62.251 | -- | -- | -- | -- |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 30.755 | 62.253 | -- | -0.39 | -0.45 | -39.5 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 30.761 | 62.252 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.34 | -0.15 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 30.75 | 62.247 | -- | -3.578 | -1.75 | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 30.754 | 62.247 | -0.8 | 0.4 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 30.742 | 62.251 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 30.6 | 62.25 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 30.754 | 62.247 | -- | -1.22 | 0.21 | -- |
@@ -69,7 +71,7 @@ posit_table: |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 30.75 | 62.255 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 30.754 | 62.247 | -- | -1.22 | 0.21 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 30.584 | 62.255 | -- | -- | -- | -- 
-N_rows_pos: "12"
+N_rows_pos: "14"
 cds_radec: 30.82612,+62.25932
 carousel: UCC
 fpars_table: |

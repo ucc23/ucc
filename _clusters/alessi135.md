@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>List of clusters and alike reported by B. Alessi.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 15.3
 N_50_val: 26
 scix_url: Alessi%20135
@@ -69,7 +70,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[COIN-Gaia 23](/_clusters/coingaia23/)| 100.0 | 87.45 | 27.03 | 1.05 | -0.33 | -1.01 | -0.01 |0.12 |
-    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.59 |
+    |[Majaess 65](/_clusters/majaess65/)| 100.0 | 87.45 | 27.04 | 1.04 | -0.33 | -1.01 | -0.05 |0.61 |
     |[CWWDL 14154](/_clusters/cwwdl14154/)| 96.2 | 87.46 | 27.02 | 1.06 | -0.33 | -1.0 | -3.59 |0.01 |
 N_rows_shared: "3"
 ---

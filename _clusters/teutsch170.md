@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 1.1
 N_50_val: 18
 scix_url: Teutsch%20170
@@ -69,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 10843](/_clusters/cwwdl10843/)| 24.0 | 93.93 | 22.62 | 0.52 | -0.36 | -1.66 | -- |0.03 |
-    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.32 |
+    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.31 |
 N_rows_shared: "2"
 ---

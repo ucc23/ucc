@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Present study.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 8.6
 N_50_val: 81
 scix_url: Bica%20136
@@ -68,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.33 |
+    |[FSR 0227](/_clusters/fsr0227/)| 18.5 | 307.26 | 40.48 | 0.63 | -1.92 | -4.38 | -- |0.34 |
     |[IRAS 20264+4042](/_clusters/iras20264p4042/)| 12.3 | 307.06 | 40.82 | 0.51 | -2.02 | -4.36 | -- |0.11 |
     |[DB2001 11](/_clusters/db200111/)| 7.4 | 307.06 | 40.87 | 0.51 | -2.03 | -4.28 | -- |0.11 |
 N_rows_shared: "3"

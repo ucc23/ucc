@@ -18,12 +18,12 @@ UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#d3ecc9"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#a5cab9"
-UTI_C_lit_COL: "#f5c1b8"
+UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#e2a9b3"
 UTI_C_N: 0.76
 UTI_C_dens: 1.0
 UTI_C_C3: 1.0
-UTI_C_lit: 0.15
+UTI_C_lit: 0.13
 UTI_C_dup: 0.02
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -80,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.74 |
+    |[Collinder 351](/_clusters/collinder351/)| 98.5 | 267.42 | -28.75 | 0.45 | -0.58 | -1.14 | -40.06 |0.76 |
 N_rows_shared: "1"
 ---

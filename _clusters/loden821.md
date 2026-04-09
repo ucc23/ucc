@@ -58,6 +58,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |201.067 | -59.795 | 0.189 | -5.907 | -1.149 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 201.049 | -59.807 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 201.088 | -59.733 | -8.14 | -1.14 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 201.049 | -59.807 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 201.087 | -59.733 | -- | -8.22 | -1.21 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 201.06 | -59.81 | -- | -7.0 | 2.76 | -39.0 |
@@ -66,7 +67,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 201.09 | -59.73 | -- | 0.2 | -- | -39.0 |
     |[Piskunov et al.](https://scixplorer.org/abs/2007A%26A...468..151P) | 2007 | 200.993 | -59.783 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 201.0 | -59.79 | -- | -6.13 | 0.57 | -39.0 
-N_rows_pos: "9"
+N_rows_pos: "10"
 cds_radec: 201.06676,-59.79539
 carousel: UCC
 fpars_table: |

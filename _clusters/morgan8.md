@@ -13,17 +13,17 @@ glon: 210.13441
 glat: -19.57604
 r50: 5.5
 plx: 2.5481
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fee7cc"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#fefee8"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.33
 UTI_C_dens: 1.0
 UTI_C_C3: 0.5
-UTI_C_lit: 0.08
+UTI_C_lit: 0.13
 UTI_C_dup: 0.88
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very dense
@@ -59,10 +59,12 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |84.125 | -6.424 | 2.548 | 0.846 | 0.298 | 16.822 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 84.106 | -6.42 | -- | -- | -- | -- |
+    |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 84.112 | -6.42 | -- | -- | -- | -- |
+    |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 84.112 | -6.42 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 84.106 | -6.42 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 84.112 | -6.42 | -- | 2.03 | -2.39 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2003A%26A...397..177B) | 2003 | 84.097 | -6.421 | -- | -- | -- | -- 
-N_rows_pos: "4"
+N_rows_pos: "6"
 cds_radec: 84.12541,-6.42372
 carousel: UCC
 fpars_table: |
@@ -70,9 +72,11 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.31 | 0.13 | -- | 16 | -- | 3 | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 16 | -- | 3 | -- | -- |
+    | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 0.31 | -- | -- | 16 | -- | -- | -- | -- |
+    | [Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 0.31 | 0.13 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.31 | 0.13 | -- | 16 | -- | -- | -- | -- |
     | [Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 0.31 | 0.13 | -- | 16 | -- | -- | -- | -- |
-N_rows_pars: "3"
+N_rows_pars: "5"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
@@ -80,7 +84,7 @@ shared_table: |
     |[OC 0347](/_clusters/oc0347/)| 90.9 | 83.99 | -6.36 | 2.6 | 1.01 | 0.32 | 24.19 |0.31 |
     |[LDN1641 North](/_clusters/ldn1641north/)| 54.5 | 84.08 | -6.37 | 2.55 | 0.73 | 0.35 | 10.96 |0.23 |
     |[UBC 208](/_clusters/ubc208/)| 15.2 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
-    |[NGC 1980](/_clusters/ngc1980/)| 12.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.89 |
+    |[NGC 1980](/_clusters/ngc1980/)| 12.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.88 |
     |[OCSN 226](/_clusters/ocsn226/)| 9.1 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
 N_rows_shared: "5"
 ---

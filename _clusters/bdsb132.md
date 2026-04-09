@@ -75,7 +75,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[W49A](/_clusters/w49a/)| 64.9 | 287.53 | 9.08 | 0.47 | -3.04 | -5.77 | 24.45 |0.12 |
-    |[W49A Welch Ring](/_clusters/w49awelchring/)| 62.2 | 287.53 | 9.08 | 0.47 | -3.06 | -5.77 | 24.84 |0.01 |
     |[W49A-southwest](/_clusters/w49asouthwest/)| 43.2 | 287.52 | 9.08 | 0.43 | -3.06 | -5.64 | 45.46 |0.12 |
-N_rows_shared: "3"
+N_rows_shared: "2"
 ---

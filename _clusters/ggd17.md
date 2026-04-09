@@ -69,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 2183](/_clusters/ngc2183/)| 23.1 | 92.69 | -6.24 | 1.19 | -3.63 | 0.4 | 25.06 |0.74 |
+    |[NGC 2183](/_clusters/ngc2183/)| 23.1 | 92.69 | -6.24 | 1.19 | -3.63 | 0.4 | 25.06 |0.75 |
     |[OC 0358](/_clusters/oc0358/)| 11.5 | 93.11 | -6.38 | 1.17 | -3.88 | 0.35 | 27.82 |0.19 |
 N_rows_shared: "2"
 ---

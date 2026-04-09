@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 1.7
 N_50_val: 19
 scix_url: Teutsch%20258
@@ -70,6 +71,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LS 474](/_clusters/ls474/)| 20.0 | 257.88 | -38.3 | 0.58 | -2.45 | -3.32 | -27.48 |0.32 |
     |[Ryu 403](/_clusters/ryu403/)| 8.0 | 257.95 | -38.52 | 0.76 | -2.93 | -7.2 | 12.27 |0.2 |
-    |[FSR 1755](/_clusters/fsr1755/)| 4.0 | 258.1 | -38.44 | 0.61 | -2.63 | -3.64 | -36.13 |0.21 |
+    |[FSR 1755](/_clusters/fsr1755/)| 4.0 | 258.1 | -38.44 | 0.61 | -2.63 | -3.64 | -36.13 |0.23 |
 N_rows_shared: "3"
 ---

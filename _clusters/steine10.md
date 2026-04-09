@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.4
 N_50_val: 18
 scix_url: Steine%2010
@@ -69,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 164](/_clusters/ubc164/)| 76.0 | 333.99 | 54.0 | 0.27 | -3.33 | -3.33 | -68.79 |0.2 |
-    |[IC 1442](/_clusters/ic1442/)| 60.0 | 333.98 | 53.99 | 0.26 | -3.33 | -3.32 | -- |0.74 |
+    |[IC 1442](/_clusters/ic1442/)| 60.0 | 333.98 | 53.99 | 0.26 | -3.33 | -3.32 | -- |0.75 |
 N_rows_shared: "2"
 ---

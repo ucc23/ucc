@@ -18,12 +18,12 @@ UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#feeed1"
 UTI_C_C3_COL: "#fef0d2"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
 UTI_C_dens: 0.37
 UTI_C_C3: 0.38
-UTI_C_lit: 0.08
+UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
 UTI_C_dens_desc: Loose
@@ -77,6 +77,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2585](/_clusters/cwnu2585/)| 96.0 | 358.4 | 68.23 | 0.34 | -2.83 | 0.18 | -53.82 |0.26 |
+    |[CWNU 2585](/_clusters/cwnu2585/)| 96.0 | 358.4 | 68.23 | 0.34 | -2.83 | 0.18 | -53.82 |0.25 |
 N_rows_shared: "1"
 ---

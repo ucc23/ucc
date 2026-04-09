@@ -72,8 +72,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[LISC-III 3723](/_clusters/lisciii3723/)| 52.6 | 304.16 | 46.65 | 2.92 | 3.51 | 1.72 | -7.45 |0.27 |
-    |[Theia 96](/_clusters/theia96/)| 38.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.64 |
-    |[RSG5](/_clusters/rsg5/)| 8.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.85 |
+    |[Theia 96](/_clusters/theia96/)| 38.6 | 305.28 | 48.77 | 2.84 | 3.0 | 1.96 | -7.96 |0.63 |
+    |[RSG5](/_clusters/rsg5/)| 8.8 | 303.5 | 45.6 | 2.96 | 3.62 | 1.55 | -7.39 |0.81 |
     |[OCSN 256](/_clusters/ocsn256/)| 7.4 | 303.59 | 45.59 | 2.96 | 3.63 | 1.56 | -7.39 |0.01 |
 N_rows_shared: "4"
 ---

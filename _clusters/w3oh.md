@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Tombaugh 4](/_clusters/tombaugh4/)| 56.0 | 37.3 | 61.79 | 0.3 | -1.06 | -0.21 | -42.48 |0.88 |
+    |[Tombaugh 4](/_clusters/tombaugh4/)| 56.0 | 37.3 | 61.79 | 0.3 | -1.06 | -0.21 | -42.48 |0.84 |
 N_rows_shared: "1"
 ---

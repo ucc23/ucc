@@ -70,7 +70,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3351](/_clusters/cwnu3351/)| 91.2 | 115.07 | -33.57 | 0.26 | -2.25 | 3.04 | -- |0.05 |
-    |[Bochum 15](/_clusters/bochum15/)| 76.5 | 115.08 | -33.57 | 0.26 | -2.24 | 3.04 | -- |0.26 |
+    |[Bochum 15](/_clusters/bochum15/)| 76.5 | 115.08 | -33.57 | 0.26 | -2.24 | 3.04 | -- |0.25 |
     |[Cmg 1050](/_clusters/cmg1050/)| 20.6 | 114.86 | -33.65 | 0.26 | -2.24 | 3.03 | -- |0.06 |
 N_rows_shared: "3"
 ---

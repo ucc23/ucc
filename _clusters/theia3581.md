@@ -18,12 +18,12 @@ UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#fefae1"
 UTI_C_dens_COL: "#fbd0bf"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e9f5d0"
 UTI_C_N: 0.46
 UTI_C_dens: 0.22
 UTI_C_C3: 0.62
-UTI_C_lit: 0.08
+UTI_C_lit: 0.06
 UTI_C_dup: 0.65
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Very loose
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G236, along with Ruprecht_26, Ruprecht_151 and HSC_1867.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.99 (50th percentile), true positive (human-assigned).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 1.1
 N_50_val: 46
 scix_url: Theia%203581

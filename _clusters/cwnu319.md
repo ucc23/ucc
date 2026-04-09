@@ -65,14 +65,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.085 | 1.825 | -- | 1108 | 0.248 | -- | -- | 1 |
-    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 5.01 | 1.50 | -- | 1585 | 0.223 | -- | -- | 1<sup>(1)</sup> |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 3.16 | 2.15 | -- | 631 | 0.274 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.085 | 1.825 | -- | 1108 | 0.108 | -- | -- | 1 |
+    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 5.01 | 1.50 | -- | 1585 | 0.097 | -- | -- | 1<sup>(1)</sup> |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 3.16 | 2.15 | -- | 631 | 0.119 | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1073](/_clusters/ubc1073/)| 100.0 | 298.26 | 30.82 | 0.25 | -1.76 | -3.04 | -24.15 |0.55 |
+    |[UBC 1073](/_clusters/ubc1073/)| 100.0 | 298.26 | 30.82 | 0.25 | -1.76 | -3.04 | -24.15 |0.54 |
 N_rows_shared: "1"
 ---

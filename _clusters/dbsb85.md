@@ -13,17 +13,17 @@ glon: 306.04402
 glat: 0.04138
 r50: 5.1
 plx: 0.3768
-UTI: "0.26"
-UTI_COLOR: "#fdd9c3"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#feebce"
 UTI_C_dens_COL: "#fef9de"
 UTI_C_C3_COL: "#fcd6c2"
-UTI_C_lit_COL: "#f1b8b4"
+UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
 UTI_C_dens: 0.45
 UTI_C_C3: 0.25
-UTI_C_lit: 0.11
+UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
 UTI_C_dens_desc: Loose
@@ -81,7 +81,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2576](/_clusters/hsc2576/)| 25.7 | 199.65 | -62.57 | 0.49 | -4.3 | -1.74 | -29.39 |0.28 |
-    |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.68 | -62.54 | 0.49 | -4.16 | -1.81 | -37.02 |0.48 |
+    |[UBC 526](/_clusters/ubc526/)| 2.9 | 199.68 | -62.54 | 0.49 | -4.16 | -1.81 | -37.02 |0.47 |
     |[VVV 024](/_clusters/vvv024/)| 2.9 | 199.65 | -62.74 | 0.38 | -4.89 | -1.58 | -- |0.04 |
 N_rows_shared: "3"
 ---

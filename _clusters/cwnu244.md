@@ -65,9 +65,9 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 1.315 | -- | 476 | -0.209 | -- | -- | 1 |
-    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 1.82 | 1.05 | -- | 794 | 0.223 | -- | -- | 1<sup>(1)</sup> |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.48 | 1.58 | -- | 158 | -0.642 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 1.315 | -- | 476 | -0.091 | -- | -- | 1 |
+    | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 1.82 | 1.05 | -- | 794 | 0.097 | -- | -- | 1<sup>(1)</sup> |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 1.48 | 1.58 | -- | 158 | -0.279 | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |

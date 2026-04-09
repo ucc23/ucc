@@ -18,12 +18,12 @@ UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#bfe2c5"
 UTI_C_dens_COL: "#a5cab9"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#edb2b3"
+UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fefae1"
 UTI_C_N: 0.84
 UTI_C_dens: 1.0
 UTI_C_C3: 0.75
-UTI_C_lit: 0.08
+UTI_C_lit: 0.06
 UTI_C_dup: 0.46
 UTI_C_N_desc: Rich
 UTI_C_dens_desc: Very dense
@@ -77,6 +77,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FSR 1722](/_clusters/fsr1722/)| 88.5 | 242.6 | -49.04 | 0.53 | -2.04 | -2.15 | -23.72 |0.02 |
-    |[DBSB 101](/_clusters/dbsb101/)| 54.0 | 242.61 | -49.04 | 0.54 | -1.92 | -2.15 | -22.9 |0.61 |
+    |[DBSB 101](/_clusters/dbsb101/)| 54.0 | 242.61 | -49.04 | 0.54 | -1.92 | -2.15 | -22.9 |0.62 |
 N_rows_shared: "2"
 ---

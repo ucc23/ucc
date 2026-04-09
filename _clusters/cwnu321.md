@@ -64,14 +64,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.69 | 1.77 | -- | 158 | 0.370 | -- | -- | -- |
-    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.69 | 1.77 | -- | 158 | 0.370 | -- | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.69 | 1.77 | -- | 158 | 0.161 | -- | -- | -- |
+    | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.69 | 1.77 | -- | 158 | 0.161 | -- | -- | -- |
 N_rows_pars: "1"
 note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0403](/_clusters/oc0403/)| 35.2 | 113.31 | -20.16 | 0.34 | -2.29 | 3.31 | 80.56 |0.36 |
+    |[OC 0403](/_clusters/oc0403/)| 35.2 | 113.31 | -20.16 | 0.34 | -2.29 | 3.31 | 80.56 |0.35 |
     |[CWWDL 6375](/_clusters/cwwdl6375/)| 4.2 | 113.54 | -20.22 | 0.33 | -2.13 | 3.25 | 56.66 |0.03 |
 N_rows_shared: "2"
 ---

@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Present study.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 0.2
 N_50_val: 9
 scix_url: Bica%20643
@@ -71,6 +72,6 @@ shared_table: |
     |[BDB2003 G010.16-00.36](/_clusters/bdb2003g010160036/)| 16.0 | 272.33 | -20.34 | 0.27 | -1.71 | -3.94 | 18.43 |0.01 |
     |[W31](/_clusters/w31/)| 12.0 | 272.33 | -20.38 | 0.27 | -1.66 | -3.89 | -8.12 |0.13 |
     |[BDSB 112](/_clusters/bdsb112/)| 8.0 | 272.23 | -20.07 | 0.58 | -2.26 | -3.85 | -43.49 |0.09 |
-    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.13 |
+    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.12 |
 N_rows_shared: "4"
 ---

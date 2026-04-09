@@ -69,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 3324](/_clusters/ngc3324/)| 73.2 | 159.33 | -58.62 | 0.37 | -7.08 | 2.8 | -21.01 |0.88 |
+    |[NGC 3324](/_clusters/ngc3324/)| 73.2 | 159.33 | -58.62 | 0.37 | -7.08 | 2.8 | -21.01 |0.85 |
 N_rows_shared: "1"
 ---

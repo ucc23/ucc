@@ -74,8 +74,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Danks 2](/_clusters/danks2/)| 20.0 | 198.23 | -62.68 | 0.14 | -7.12 | -0.57 | 107.4 |0.78 |
-    |[Danks 1](/_clusters/danks1/)| 16.0 | 198.11 | -62.7 | 0.16 | -7.11 | -0.6 | 31.68 |0.68 |
+    |[Danks 2](/_clusters/danks2/)| 20.0 | 198.23 | -62.68 | 0.14 | -7.12 | -0.57 | 107.4 |0.75 |
+    |[Danks 1](/_clusters/danks1/)| 16.0 | 198.11 | -62.7 | 0.16 | -7.11 | -0.6 | 31.68 |0.66 |
     |[MCM 36](/_clusters/mcm36/)| 4.0 | 198.36 | -63.04 | 0.2 | -6.77 | -0.63 | -35.17 |0.13 |
 N_rows_shared: "3"
 ---

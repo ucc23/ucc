@@ -13,17 +13,17 @@ glon: 300.941
 glat: -3.2239
 r50: 38.1
 plx: 2.447
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#e0f1cb"
 UTI_C_dens_COL: "#b4ddc3"
 UTI_C_C3_COL: "#d4ecc9"
-UTI_C_lit_COL: "#f1b8b4"
+UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.7
 UTI_C_dens: 0.88
 UTI_C_C3: 0.75
-UTI_C_lit: 0.11
+UTI_C_lit: 0.1
 UTI_C_dup: 0.72
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -50,10 +50,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as optical pair P561, along with Theia_246.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.96 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.96 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
+N_comments: "5"
 dens_val: 4.4
 N_50_val: 90
 scix_url: OCSN%2089
@@ -83,7 +84,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 246](/_clusters/theia246/)| 27.8 | 188.39 | -65.99 | 2.45 | -13.57 | -2.62 | 5.37 |0.18 |
+    |[Theia 246](/_clusters/theia246/)| 27.8 | 188.39 | -65.99 | 2.45 | -13.57 | -2.62 | 5.37 |0.17 |
     |[CWNU 1103](/_clusters/cwnu1103/)| 2.2 | 186.85 | -66.53 | 2.23 | -14.94 | -2.89 | -11.11 |0.21 |
 N_rows_shared: "2"
 ---

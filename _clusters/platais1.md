@@ -59,7 +59,9 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |322.557 | 48.973 | 0.18 | -3.399 | -3.73 | -39.583 |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 322.365 | 48.884 | 0.329 | -3.821 | -4.18 | -24.16 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 322.51 | 48.997 | -- | -- | -- | -- |
+    |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -4.92 | -3.55 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 322.515 | 48.977 | -- | -1.224 | -0.197 | -15.4 |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 322.508 | 48.977 | -1.89 | -0.28 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 322.51 | 48.997 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 322.508 | 48.977 | -- | -2.65 | -1.31 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 322.515 | 49.0 | -- | -4.54 | -0.5 | -15.4 |
@@ -69,7 +71,7 @@ posit_table: |
     |[Kharchenko et al.](https://scixplorer.org/abs/2007AN....328..889K) | 2007 | 322.51 | 48.98 | -- | 0.08 | -- | -- |
     |[van den Bergh](https://scixplorer.org/abs/2006AJ....131.1559V) | 2006 | 322.508 | 48.977 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 322.508 | 48.977 | -- | -2.65 | -1.31 | -26.73 
-N_rows_pos: "12"
+N_rows_pos: "14"
 cds_radec: 322.55698,+48.97349
 carousel: UCC
 fpars_table: |

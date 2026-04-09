@@ -48,10 +48,11 @@ badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Part of multiple system G113, along with HSC_1350, NGC_1912 and CWNU_525.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 4.8
 N_50_val: 67
 scix_url: Teutsch%2089
@@ -74,7 +75,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 70.1 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.19 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 70.1 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.18 |
     |[HXWHB 8](/_clusters/hxwhb8/)| 47.8 | 80.56 | 33.78 | 0.91 | -0.31 | -3.1 | -3.92 |0.0 |
     |[HXWHB 5](/_clusters/hxwhb5/)| 22.4 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.05 |
 N_rows_shared: "3"

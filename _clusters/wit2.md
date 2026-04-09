@@ -49,10 +49,11 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.218P' target='_blank'>Palma et al. (2025)</a></u><br>Classified as tidal capture (resonant trapping pair) P17, along with CWNU_302.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.43 (50th percentile), false positive? (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.43 (50th percentile), false positive? (human-assigned).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
+N_comments: "4"
 dens_val: 8.0
 N_50_val: 93
 scix_url: Wit%202
@@ -64,10 +65,11 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 105.349 | -3.127 | 0.421 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 105.352 | -3.098 | 0.415 | -1.215 | 0.542 | 52.628 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 105.334 | -3.116 | -- | -- | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 105.362 | -3.118 | 2.21 | 4.96 | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 105.334 | -3.116 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 105.34 | -3.117 | -- | -5.15 | 0.1 | 22.9 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 105.362 | -3.118 | -- | -5.15 | 0.1 | -- 
-N_rows_pos: "7"
+N_rows_pos: "8"
 cds_radec: 105.35314,-3.12825
 carousel: UCC_HUNT23
 fpars_table: |
@@ -87,6 +89,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2501](/_clusters/cwnu2501/)| 61.3 | 105.36 | -3.14 | 0.45 | -1.22 | 0.6 | 56.53 |0.03 |
-    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.24 |
+    |[Ferrero 10](/_clusters/ferrero10/)| 21.5 | 105.19 | -3.05 | 0.44 | -1.29 | 0.64 | 83.93 |0.26 |
 N_rows_shared: "2"
 ---

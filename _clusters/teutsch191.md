@@ -46,10 +46,11 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: ""
+N_comments: "1"
 dens_val: 66.3
 N_50_val: 60
 scix_url: Teutsch%20191
@@ -69,6 +70,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDSB 53](/_clusters/bdsb53/)| 86.7 | 37.03 | 72.64 | 1.06 | -1.3 | -1.49 | -25.77 |0.45 |
-    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.63 |
+    |[FSR 0569](/_clusters/fsr0569/)| 20.0 | 37.79 | 72.45 | 1.08 | -1.62 | -1.78 | -24.86 |0.61 |
 N_rows_shared: "2"
 ---

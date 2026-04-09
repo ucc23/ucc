@@ -46,11 +46,12 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>2MASS website.</p>
     <p><u><a href='https://scixplorer.org/abs/2003A%26A...397..177B' target='_blank'>Bica et al. (2003)</a></u><br>Classified as infrared cluster (IRC).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
+N_comments: "2"
 dens_val: 6.1
 N_50_val: 93
 scix_url: NGC%202467-East
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Haffner 18](/_clusters/haffner18/)| 96.8 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.76 |
-    |[Haffner 19](/_clusters/haffner19/)| 43.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.87 |
+    |[Haffner 18](/_clusters/haffner18/)| 96.8 | 118.18 | -26.38 | 0.2 | -2.53 | 2.63 | 103.52 |0.75 |
+    |[Haffner 19](/_clusters/haffner19/)| 43.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.84 |
 N_rows_shared: "2"
 ---

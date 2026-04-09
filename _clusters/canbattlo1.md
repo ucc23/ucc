@@ -18,12 +18,12 @@ UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fefee8"
 UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#eef7d4"
-UTI_C_lit_COL: "#e6acb3"
+UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.5
 UTI_C_dens: 0.86
 UTI_C_C3: 0.62
-UTI_C_lit: 0.04
+UTI_C_lit: 0.03
 UTI_C_dup: 0.24
 UTI_C_N_desc: Moderately populated
 UTI_C_dens_desc: Dense
@@ -48,10 +48,11 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.96 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.96 (50th percentile).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "2"
+N_comments: "3"
 dens_val: 4.3
 N_50_val: 50
 scix_url: Can-Battlo%201
