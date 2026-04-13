@@ -429,8 +429,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof1390/" target="_blank" style="color: $blue;">FoF 1390</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1392/" target="_blank" style="color: red;">FoF 1392</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1393/" target="_blank" style="color: red;">FoF 1393</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/fof1394/" target="_blank" style="color: $blue;">FoF 1394</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/fof1398/" target="_blank" style="color: $blue;">FoF 1398</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/fof1394/" target="_blank" style="color: red;">FoF 1394</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/fof1398/" target="_blank" style="color: red;">FoF 1398</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1399/" target="_blank" style="color: red;">FoF 1399</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof140/" target="_blank" style="color: red;">FoF 140</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1401/" target="_blank" style="color: red;">FoF 1401</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
@@ -483,7 +483,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof1816/" target="_blank" style="color: $blue;">FoF 1816</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1817/" target="_blank" style="color: red;">FoF 1817</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1821/" target="_blank" style="color: red;">FoF 1821</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/fof1822/" target="_blank" style="color: $blue;">FoF 1822</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/fof1822/" target="_blank" style="color: red;">FoF 1822</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1825/" target="_blank" style="color: red;">FoF 1825</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1831/" target="_blank" style="color: red;">FoF 1831</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof1836/" target="_blank" style="color: red;">FoF 1836</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
@@ -515,7 +515,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/fof2027/" target="_blank" style="color: red;">FoF 2027</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof2028/" target="_blank" style="color: red;">FoF 2028</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof2036/" target="_blank" style="color: $blue;">FoF 2036</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
-| <a href="{{ site.baseurl }}/_clusters/fof204/" target="_blank" style="color: $blue;">FoF 204</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/fof204/" target="_blank" style="color: red;">FoF 204</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof2047/" target="_blank" style="color: red;">FoF 2047</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof2059/" target="_blank" style="color: $blue;">FoF 2059</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/fof2068/" target="_blank" style="color: $blue;">FoF 2068</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
@@ -736,7 +736,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/melotte111/" target="_blank" style="color: $blue;">Melotte 111</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte186/" target="_blank" style="color: $blue;">Melotte 186</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/melotte20/" target="_blank" style="color: $blue;">Melotte 20</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
-| <a href="{{ site.baseurl }}/_clusters/melotte22/" target="_blank" style="color: $blue;">Melotte 22</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte66/" target="_blank" style="color: $blue;">Melotte 66</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte71/" target="_blank" style="color: $blue;">Melotte 71</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/melotte72/" target="_blank" style="color: $blue;">Melotte 72</a> | Mass determination: good fit. Isochrone match: good fit. |
@@ -1086,6 +1085,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/platais3/" target="_blank" style="color: $blue;">Platais 3</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/platais8/" target="_blank" style="color: $blue;">Platais 8</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/platais9/" target="_blank" style="color: $blue;">Platais 9</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
+| <a href="{{ site.baseurl }}/_clusters/pleiades/" target="_blank" style="color: $blue;">Pleiades</a> | Mass determination: good fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/pozzo1/" target="_blank" style="color: $blue;">Pozzo 1</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |
 | <a href="{{ site.baseurl }}/_clusters/rsg1/" target="_blank" style="color: $blue;">RSG1</a> | Mass determination: intermediate fit. Isochrone match: good fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/rsg5/" target="_blank" style="color: $blue;">RSG5</a> | Mass determination: good fit. Isochrone match: good fit. |
@@ -1420,8 +1420,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc475/" target="_blank" style="color: $blue;">UBC 475</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc476/" target="_blank" style="color: $blue;">UBC 476</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc479/" target="_blank" style="color: $blue;">UBC 479</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc482/" target="_blank" style="color: $blue;">UBC 482</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc483/" target="_blank" style="color: $blue;">UBC 483</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc482/" target="_blank" style="color: red;">UBC 482</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc483/" target="_blank" style="color: red;">UBC 483</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc484/" target="_blank" style="color: $blue;">UBC 484</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc485/" target="_blank" style="color: $blue;">UBC 485</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc487/" target="_blank" style="color: $blue;">UBC 487</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
@@ -1482,7 +1482,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc574/" target="_blank" style="color: $blue;">UBC 574</a> | Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc576/" target="_blank" style="color: $blue;">UBC 576</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc578/" target="_blank" style="color: red;">UBC 578</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc580/" target="_blank" style="color: $blue;">UBC 580</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc580/" target="_blank" style="color: red;">UBC 580</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc582/" target="_blank" style="color: $blue;">UBC 582</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc586/" target="_blank" style="color: $blue;">UBC 586</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc588/" target="_blank" style="color: $blue;">UBC 588</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
@@ -1490,8 +1490,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc590/" target="_blank" style="color: $blue;">UBC 590</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample. |
 | <a href="{{ site.baseurl }}/_clusters/ubc591/" target="_blank" style="color: $blue;">UBC 591</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc594/" target="_blank" style="color: $blue;">UBC 594</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc596/" target="_blank" style="color: $blue;">UBC 596</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc599/" target="_blank" style="color: $blue;">UBC 599</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc596/" target="_blank" style="color: red;">UBC 596</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc599/" target="_blank" style="color: red;">UBC 599</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc600/" target="_blank" style="color: $blue;">UBC 600</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc601/" target="_blank" style="color: red;">UBC 601</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc606/" target="_blank" style="color: $blue;">UBC 606</a> | Mass determination: worst fit. Isochrone match: intermediate fit. |
@@ -1505,7 +1505,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc617/" target="_blank" style="color: $blue;">UBC 617</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc618/" target="_blank" style="color: $blue;">UBC 618</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc619/" target="_blank" style="color: red;">UBC 619</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc620/" target="_blank" style="color: $blue;">UBC 620</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc620/" target="_blank" style="color: red;">UBC 620</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc624/" target="_blank" style="color: red;">UBC 624</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc626/" target="_blank" style="color: $blue;">UBC 626</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc627/" target="_blank" style="color: red;">UBC 627</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
@@ -1534,7 +1534,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc660/" target="_blank" style="color: $blue;">UBC 660</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc663/" target="_blank" style="color: $blue;">UBC 663</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc664/" target="_blank" style="color: $blue;">UBC 664</a> | Mass determination: good fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/ubc665/" target="_blank" style="color: $blue;">UBC 665</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
+| <a href="{{ site.baseurl }}/_clusters/ubc665/" target="_blank" style="color: red;">UBC 665</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc668/" target="_blank" style="color: $blue;">UBC 668</a> | Mass determination: intermediate fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc670/" target="_blank" style="color: $blue;">UBC 670</a> | Mass determination: good fit. Isochrone match: intermediate fit. |
 | <a href="{{ site.baseurl }}/_clusters/ubc671/" target="_blank" style="color: $blue;">UBC 671</a> | Mass determination: good fit. Isochrone match: intermediate fit. Silver sample. |
@@ -1632,7 +1632,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk442/" target="_blank" style="color: $blue;">UPK 442</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk445/" target="_blank" style="color: $blue;">UPK 445</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk45/" target="_blank" style="color: $blue;">UPK 45</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
-| <a href="{{ site.baseurl }}/_clusters/upk452/" target="_blank" style="color: $blue;">UPK 452</a> | Mass determination: good fit. Isochrone match: good fit. |
+| <a href="{{ site.baseurl }}/_clusters/upk452/" target="_blank" style="color: red;">UPK 452</a> | Mass determination: good fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk457/" target="_blank" style="color: $blue;">UPK 457</a> | Mass determination: worst fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk46/" target="_blank" style="color: $blue;">UPK 46</a> | Mass determination: intermediate fit. Isochrone match: good fit. |
 | <a href="{{ site.baseurl }}/_clusters/upk467/" target="_blank" style="color: $blue;">UPK 467</a> | Mass determination: good fit. Isochrone match: good fit. Gold sample. |

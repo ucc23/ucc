@@ -32,9 +32,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/iras02044p6031/" target="_blank" style="color: red;">IRAS 02044+6031</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02048p5957/" target="_blank" style="color: $blue;">IRAS 02048+5957</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02054p6011/" target="_blank" style="color: red;">IRAS 02054+6011</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras02175p5845/" target="_blank" style="color: red;">IRAS 02175+5845</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02232p6138/" target="_blank" style="color: $blue;">IRAS 02232+6138</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02245p6115/" target="_blank" style="color: red;">IRAS 02245+6115</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: $blue;">IRAS 02407+6047</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02461p6147/" target="_blank" style="color: red;">IRAS 02461+6147</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/iras02484p6022/" target="_blank" style="color: $blue;">IRAS 02484+6022</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02497p6217/" target="_blank" style="color: red;">IRAS 02497+6217</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02541p6208/" target="_blank" style="color: red;">IRAS 02541+6208</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras02570p6028/" target="_blank" style="color: $blue;">IRAS 02570+6028</a> | Embedded cluster within ∼2 Kpc of the Sun. |
@@ -42,9 +45,6 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/iras02593p6016/" target="_blank" style="color: red;">IRAS 02593+6016</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras06068p2030/" target="_blank" style="color: $blue;">IRAS 06068+2030</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/iras061552319/" target="_blank" style="color: red;">IRAS 06155-2319</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras02175p5845/" target="_blank" style="color: red;">IRAS02175+5845</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras02407p6047/" target="_blank" style="color: $blue;">IRAS02407+6047</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/iras02484p6022/" target="_blank" style="color: $blue;">IRAS02484+6022</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/l1654/" target="_blank" style="color: $blue;">L 1654</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/l1641n/" target="_blank" style="color: red;">L1641 N</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/l1641s/" target="_blank" style="color: $blue;">L1641S</a> | Embedded cluster within ∼2 Kpc of the Sun. |
@@ -53,12 +53,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ldn1641c/" target="_blank" style="color: $blue;">LDN1641C</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/lkhalpha101/" target="_blank" style="color: $blue;">LKHalpha 101</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/lkhalpha234/" target="_blank" style="color: $blue;">LKHalpha 234</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/mwc137/" target="_blank" style="color: $blue;">MWC 137</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/mwc137/" target="_blank" style="color: red;">MWC 137</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/mwc297/" target="_blank" style="color: red;">MWC 297</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/monr2/" target="_blank" style="color: $blue;">MonR2</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1333/" target="_blank" style="color: $blue;">NGC 1333</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ngc1976/" target="_blank" style="color: $blue;">NGC 1976</a> | Embedded cluster within ∼2 Kpc of the Sun. |
-| <a href="{{ site.baseurl }}/_clusters/ngc1985/" target="_blank" style="color: $blue;">NGC 1985</a> | Embedded cluster within ∼2 Kpc of the Sun. |
+| <a href="{{ site.baseurl }}/_clusters/ngc1985/" target="_blank" style="color: red;">NGC 1985</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2024/" target="_blank" style="color: red;">NGC 2024</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2068/" target="_blank" style="color: $blue;">NGC 2068</a> | Embedded cluster within ∼2 Kpc of the Sun. |
 | <a href="{{ site.baseurl }}/_clusters/ngc2071/" target="_blank" style="color: $blue;">NGC 2071</a> | Embedded cluster within ∼2 Kpc of the Sun. |

@@ -25,7 +25,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/db200125/" target="_blank" style="color: red;">DB2001 25</a> | Resolved cluster or dust window, related to iras 05489+2723?, partly optical |
 | <a href="{{ site.baseurl }}/_clusters/db200129/" target="_blank" style="color: $blue;">DB2001 29</a> | Resolved cluster in nebula bfs52, related to iras 06117+1901 |
 | <a href="{{ site.baseurl }}/_clusters/db20013/" target="_blank" style="color: red;">DB2001 3</a> | Mostly a resolved cluster in nebula ic 4955=bfs2c, in complex ic4954 |
-| <a href="{{ site.baseurl }}/_clusters/db200130/" target="_blank" style="color: $blue;">DB2001 30</a> | Partly resolved cluster in hii region sh2-254 |
+| <a href="{{ site.baseurl }}/_clusters/db200130/" target="_blank" style="color: red;">DB2001 30</a> | Partly resolved cluster in hii region sh2-254 |
 | <a href="{{ site.baseurl }}/_clusters/db200131/" target="_blank" style="color: $blue;">DB2001 31</a> | Mostly a resolved cluster in hii region sh2-256 |
 | <a href="{{ site.baseurl }}/_clusters/db200132/" target="_blank" style="color: red;">DB2001 32</a> | Partly resolved cluster in hii region sh2-258 |
 | <a href="{{ site.baseurl }}/_clusters/db200138/" target="_blank" style="color: red;">DB2001 38</a> | Mostly unresolved cluster in radio hii region g351.6+0.2 |
@@ -37,7 +37,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/db20016/" target="_blank" style="color: red;">DB2001 6</a> | Partly resolved cluster in radio hii region dr9 |
 | <a href="{{ site.baseurl }}/_clusters/db20017/" target="_blank" style="color: $blue;">DB2001 7</a> | Resolved cluster in radio hii region dr6 |
 | <a href="{{ site.baseurl }}/_clusters/db20018/" target="_blank" style="color: red;">DB2001 8</a> | Partly resolved cluster in radio hii region dr13 |
-| <a href="{{ site.baseurl }}/_clusters/db20019/" target="_blank" style="color: $blue;">DB2001 9</a> | Partly resolved cluster related to iras 20306+3841, in radio complex w69 |
+| <a href="{{ site.baseurl }}/_clusters/db20019/" target="_blank" style="color: red;">DB2001 9</a> | Partly resolved cluster related to iras 20306+3841, in radio complex w69 |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica59/" target="_blank" style="color: red;">Dutra-Bica 59</a> | Resolved cluster or dust window, related to ldn74? partly optical |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica60/" target="_blank" style="color: red;">Dutra-Bica 60</a> | Resolved stellar group, related to ldn114? partly optical |
 | <a href="{{ site.baseurl }}/_clusters/ic466/" target="_blank" style="color: red;">IC466</a> | Mostly unresolved cluster in hii region ic 466=sh2-288 |

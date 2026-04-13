@@ -72,7 +72,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1086/" target="_blank" style="color: $blue;">CWNU 1086</a> | Classified as primordial binary cluster 91 along with HSC_1210, and of multiple system 31 along with Theia_47 and HSC_1210. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1092/" target="_blank" style="color: red;">CWNU 1092</a> | Classified as primordial binary cluster 92 along with CWNU_1106, and of multiple system 32 along with CWNU_1106, Collinder_69 and UPK_398. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1096/" target="_blank" style="color: $blue;">CWNU 1096</a> | Classified as primordial binary cluster 90 along with CWNU_1083, and as primordial binary cluster 93 along with Theia_31, and of multiple system 30 along with Theia_31 and CWNU_1083. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu110/" target="_blank" style="color: $blue;">CWNU 110</a> | Classified as tidal capture (resonant trapping binary) 58 along with NGC_2428. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu110/" target="_blank" style="color: red;">CWNU 110</a> | Classified as tidal capture (resonant trapping binary) 58 along with NGC_2428. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1106/" target="_blank" style="color: $blue;">CWNU 1106</a> | Classified as primordial binary cluster 92 along with CWNU_1092, and as primordial binary cluster 122 along with Collinder_69, and as primordial binary cluster 396 along with UPK_398, and of multiple system 32 along with Collinder_69, CWNU_1092 and UPK_398. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1107/" target="_blank" style="color: $blue;">CWNU 1107</a> | Classified as tidal capture (resonant trapping binary) 94 along with Theia_3779, and as primordial binary cluster 394 along with UPK_189, and of multiple system 33 along with UBC_396, UPK_189 and Theia_3779. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1126/" target="_blank" style="color: $blue;">CWNU 1126</a> | Classified as primordial binary cluster 95 along with OC_0185, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1228, HSC_853, OC_0185 and HSC_824. |
@@ -89,7 +89,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1298/" target="_blank" style="color: red;">CWNU 1298</a> | Classified as tidal capture (resonant trapping binary) 103 along with FSR_0498, and of multiple system 37 along with FSR_0498 and Stock_20. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1300/" target="_blank" style="color: $blue;">CWNU 1300</a> | Classified as tidal capture (resonant trapping binary) 104 along with OC_0513, and of multiple system 38 along with OC_0513 and PHOC_30. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1303/" target="_blank" style="color: $blue;">CWNU 1303</a> | Classified as tidal capture (resonant trapping binary) 105 along with PHOC_18. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1445/" target="_blank" style="color: $blue;">CWNU 1445</a> | Classified as primordial binary cluster 106 along with CWNU_2918. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1445/" target="_blank" style="color: red;">CWNU 1445</a> | Classified as primordial binary cluster 106 along with CWNU_2918. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1465/" target="_blank" style="color: $blue;">CWNU 1465</a> | Classified as primordial binary cluster 107 along with CWNU_2530. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu154/" target="_blank" style="color: red;">CWNU 154</a> | Classified as primordial binary cluster 59 along with CWNU_1145. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu155/" target="_blank" style="color: $blue;">CWNU 155</a> | Classified as tidal capture (resonant trapping binary) 60 along with HXHWL_7. |
@@ -97,10 +97,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu1684/" target="_blank" style="color: red;">CWNU 1684</a> | Classified as primordial binary cluster 109 along with HSC_1421. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu175/" target="_blank" style="color: $blue;">CWNU 175</a> | Classified as tidal capture (resonant trapping binary) 61 along with NGC_4609. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1849/" target="_blank" style="color: red;">CWNU 1849</a> | Classified as tidal capture (resonant trapping binary) 153 along with FoF_1182. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu1994/" target="_blank" style="color: $blue;">CWNU 1994</a> | Classified as tidal capture (resonant trapping binary) 110 along with OC_0034. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu1994/" target="_blank" style="color: red;">CWNU 1994</a> | Classified as tidal capture (resonant trapping binary) 110 along with OC_0034. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu207/" target="_blank" style="color: red;">CWNU 207</a> | Classified as primordial binary cluster 62 along with HSC_2144. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2072/" target="_blank" style="color: $blue;">CWNU 2072</a> | Classified as tidal capture (resonant trapping binary) 111 along with UBC_1474. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu218/" target="_blank" style="color: $blue;">CWNU 218</a> | Classified as primordial binary cluster 63 along with FoF_2210. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2072/" target="_blank" style="color: red;">CWNU 2072</a> | Classified as tidal capture (resonant trapping binary) 111 along with UBC_1474. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu218/" target="_blank" style="color: red;">CWNU 218</a> | Classified as primordial binary cluster 63 along with FoF_2210. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2180/" target="_blank" style="color: red;">CWNU 2180</a> | Classified as tidal capture (resonant trapping binary) 112 along with HSC_1387. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2188/" target="_blank" style="color: $blue;">CWNU 2188</a> | Classified as primordial binary cluster 113 along with Theia_2045. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2259/" target="_blank" style="color: red;">CWNU 2259</a> | Classified as primordial binary cluster 114 along with Ruprecht_16. |
@@ -114,15 +114,15 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu2664/" target="_blank" style="color: $blue;">CWNU 2664</a> | Classified as tidal capture (resonant trapping binary) 118 along with CWNU_277. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu277/" target="_blank" style="color: $blue;">CWNU 277</a> | Classified as tidal capture (resonant trapping binary) 118 along with CWNU_2664. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu281/" target="_blank" style="color: $blue;">CWNU 281</a> | Classified as primordial binary cluster 65 along with Alessi_72, and of multiple system 12 along with Alessi_72 and HSC_1808. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu2888/" target="_blank" style="color: $blue;">CWNU 2888</a> | Classified as tidal capture (resonant trapping binary) 119 along with UBC_292, and as tidal capture (resonant trapping binary) 128 along with Collinder_272, and of multiple system 40 along with Collinder_272 and UBC_292. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu2888/" target="_blank" style="color: red;">CWNU 2888</a> | Classified as tidal capture (resonant trapping binary) 119 along with UBC_292, and as tidal capture (resonant trapping binary) 128 along with Collinder_272, and of multiple system 40 along with Collinder_272 and UBC_292. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2918/" target="_blank" style="color: red;">CWNU 2918</a> | Classified as primordial binary cluster 106 along with CWNU_1445. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu313/" target="_blank" style="color: red;">CWNU 313</a> | Classified as hyperbolic encounter pair 66 along with UPK_42. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu336/" target="_blank" style="color: $blue;">CWNU 336</a> | Classified as primordial binary cluster 67 along with FoF_2253. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu336/" target="_blank" style="color: red;">CWNU 336</a> | Classified as primordial binary cluster 67 along with FoF_2253. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu338/" target="_blank" style="color: $blue;">CWNU 338</a> | Classified as primordial binary cluster 68 along with Gulliver_10. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu350/" target="_blank" style="color: red;">CWNU 350</a> | Classified as tidal capture (resonant trapping binary) 3 along with ASCC_13. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu354/" target="_blank" style="color: red;">CWNU 354</a> | Classified as primordial binary cluster 51 along with CWNU_56. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu356/" target="_blank" style="color: $blue;">CWNU 356</a> | Classified as tidal capture (resonant trapping binary) 69 along with Theia_2166. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu361/" target="_blank" style="color: $blue;">CWNU 361</a> | Classified as primordial binary cluster 70 along with NGC_1582, and of multiple system 24 along with Gulliver_11, NGC_1582 and HSC_1256. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu361/" target="_blank" style="color: red;">CWNU 361</a> | Classified as primordial binary cluster 70 along with NGC_1582, and of multiple system 24 along with Gulliver_11, NGC_1582 and HSC_1256. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu406/" target="_blank" style="color: $blue;">CWNU 406</a> | Classified as tidal capture (resonant trapping binary) 44 along with COIN-Gaia_24, and as tidal capture (resonant trapping binary) 71 along with HSC_1507, and of multiple system 19 along with COIN-Gaia_24 and HSC_1507. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu410/" target="_blank" style="color: $blue;">CWNU 410</a> | Classified as primordial binary cluster 72 along with CWNU_1227, and as primordial binary cluster 322 along with OCSN_76, and of multiple system 25 along with OCSN_76 and CWNU_1227. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu45/" target="_blank" style="color: $blue;">CWNU 45</a> | Classified as primordial binary cluster 49 along with OC_0407, and as primordial binary cluster 126 along with Collinder_132, and of multiple system 21 along with Collinder_132, OC_0407 and Gulliver_21. |
@@ -134,12 +134,12 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/cwnu488/" target="_blank" style="color: $blue;">CWNU 488</a> | Classified as tidal capture (resonant trapping binary) 77 along with Ruprecht_138. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu490/" target="_blank" style="color: $blue;">CWNU 490</a> | Classified as primordial binary cluster 78 along with OC_0587, and of multiple system 27 along with OC_0587 and HSC_2550. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu515/" target="_blank" style="color: $blue;">CWNU 515</a> | Classified as tidal capture (resonant trapping binary) 79 along with HSC_2351. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu522/" target="_blank" style="color: $blue;">CWNU 522</a> | Classified as tidal capture (resonant trapping binary) 80 along with OC_0322. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu522/" target="_blank" style="color: red;">CWNU 522</a> | Classified as tidal capture (resonant trapping binary) 80 along with OC_0322. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu525/" target="_blank" style="color: $blue;">CWNU 525</a> | Classified as primordial binary cluster 81 along with HSC_1350. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu56/" target="_blank" style="color: red;">CWNU 56</a> | Classified as primordial binary cluster 51 along with CWNU_354. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu61/" target="_blank" style="color: $blue;">CWNU 61</a> | Classified as tidal capture (resonant trapping binary) 8 along with ASCC_51. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu61/" target="_blank" style="color: red;">CWNU 61</a> | Classified as tidal capture (resonant trapping binary) 8 along with ASCC_51. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu77/" target="_blank" style="color: red;">CWNU 77</a> | Classified as tidal capture (resonant trapping binary) 52 along with HSC_1082, and of multiple system 22 along with UBC_415, FSR_0569 and HSC_1082. |
-| <a href="{{ site.baseurl }}/_clusters/cwnu80/" target="_blank" style="color: $blue;">CWNU 80</a> | Classified as tidal capture (resonant trapping binary) 53 along with Theia_282. |
+| <a href="{{ site.baseurl }}/_clusters/cwnu80/" target="_blank" style="color: red;">CWNU 80</a> | Classified as tidal capture (resonant trapping binary) 53 along with Theia_282. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu88/" target="_blank" style="color: $blue;">CWNU 88</a> | Classified as primordial binary cluster 54 along with Theia_953. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu95/" target="_blank" style="color: $blue;">CWNU 95</a> | Classified as tidal capture (resonant trapping binary) 55 along with NGC_5749. |
 | <a href="{{ site.baseurl }}/_clusters/cwnu96/" target="_blank" style="color: $blue;">CWNU 96</a> | Classified as primordial binary cluster 56 along with UPK_118. |
@@ -253,7 +253,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1808/" target="_blank" style="color: $blue;">HSC 1808</a> | Classified as primordial binary cluster 24 along with Alessi_72, and of multiple system 12 along with CWNU_281 and Alessi_72. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1840/" target="_blank" style="color: red;">HSC 1840</a> | Classified as tidal capture (resonant trapping binary) 208 along with HSC_1849, and of multiple system 59 along with HSC_1849 and Theia_118. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1843/" target="_blank" style="color: red;">HSC 1843</a> | Classified as primordial binary cluster 209 along with Theia_366, and of multiple system 60 along with NGC_2358 and Theia_366. |
-| <a href="{{ site.baseurl }}/_clusters/hsc1845/" target="_blank" style="color: $blue;">HSC 1845</a> | Classified as tidal capture (resonant trapping binary) 210 along with UBC_1375. |
+| <a href="{{ site.baseurl }}/_clusters/hsc1845/" target="_blank" style="color: red;">HSC 1845</a> | Classified as tidal capture (resonant trapping binary) 210 along with UBC_1375. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1847/" target="_blank" style="color: red;">HSC 1847</a> | Classified as primordial binary cluster 211 along with HSC_1848, and as tidal capture (resonant trapping binary) 384 along with UBC_1376, and of multiple system 61 along with HSC_1848 and UBC_1376. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1848/" target="_blank" style="color: $blue;">HSC 1848</a> | Classified as primordial binary cluster 211 along with HSC_1847, and of multiple system 61 along with HSC_1847 and UBC_1376. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1849/" target="_blank" style="color: red;">HSC 1849</a> | Classified as tidal capture (resonant trapping binary) 208 along with HSC_1840, and as primordial binary cluster 212 along with Theia_118, and of multiple system 59 along with HSC_1840 and Theia_118. |
@@ -263,8 +263,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc1897/" target="_blank" style="color: $blue;">HSC 1897</a> | Classified as primordial binary cluster 213 along with HSC_1911. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1911/" target="_blank" style="color: red;">HSC 1911</a> | Classified as primordial binary cluster 213 along with HSC_1897. |
 | <a href="{{ site.baseurl }}/_clusters/hsc1913/" target="_blank" style="color: $blue;">HSC 1913</a> | Classified as primordial binary cluster 214 along with Alessi_33, and of multiple system 10 along with HSC_1894 and Alessi_33. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2015/" target="_blank" style="color: $blue;">HSC 2015</a> | Classified as primordial binary cluster 215 along with UPK_492. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2039/" target="_blank" style="color: $blue;">HSC 2039</a> | Classified as primordial binary cluster 156 along with Gulliver_2. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2015/" target="_blank" style="color: red;">HSC 2015</a> | Classified as primordial binary cluster 215 along with UPK_492. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2039/" target="_blank" style="color: red;">HSC 2039</a> | Classified as primordial binary cluster 156 along with Gulliver_2. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2056/" target="_blank" style="color: red;">HSC 2056</a> | Classified as primordial binary cluster 216 along with CWNU_1069, and of multiple system 29 along with CWNU_1069 and OC_0470. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2068/" target="_blank" style="color: red;">HSC 2068</a> | Classified as primordial binary cluster 217 along with HSC_2139. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2080/" target="_blank" style="color: red;">HSC 2080</a> | Classified as primordial binary cluster 388 along with UFMG_59. |
@@ -289,7 +289,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2398/" target="_blank" style="color: $blue;">HSC 2398</a> | Classified as primordial binary cluster 18 along with Alessi_5. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2403/" target="_blank" style="color: red;">HSC 2403</a> | Classified as tidal capture (resonant trapping binary) 227 along with Theia_743. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2406/" target="_blank" style="color: $blue;">HSC 2406</a> | Classified as primordial binary cluster 10 along with ASCC_65, and as primordial binary cluster 228 along with NGC_3590, and of multiple system 6 along with ASCC_65 and NGC_3590. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2412/" target="_blank" style="color: $blue;">HSC 2412</a> | Classified as primordial binary cluster 229 along with HSC_2433. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2412/" target="_blank" style="color: red;">HSC 2412</a> | Classified as primordial binary cluster 229 along with HSC_2433. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2433/" target="_blank" style="color: $blue;">HSC 2433</a> | Classified as primordial binary cluster 229 along with HSC_2412. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2442/" target="_blank" style="color: $blue;">HSC 2442</a> | Classified as primordial binary cluster 230 along with HSC_2462, and as tidal capture (resonant trapping binary) 235 along with HSC_2518, and of multiple system 66 along with HSC_2462 and HSC_2518. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2462/" target="_blank" style="color: red;">HSC 2462</a> | Classified as primordial binary cluster 230 along with HSC_2442, and of multiple system 66 along with HSC_2442 and HSC_2518. |
@@ -300,7 +300,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2515/" target="_blank" style="color: $blue;">HSC 2515</a> | Classified as primordial binary cluster 234 along with HSC_2523, and of multiple system 67 along with HSC_2468, HSC_2505 and HSC_2523. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2518/" target="_blank" style="color: red;">HSC 2518</a> | Classified as tidal capture (resonant trapping binary) 235 along with HSC_2442, and of multiple system 66 along with HSC_2442 and HSC_2462. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2523/" target="_blank" style="color: $blue;">HSC 2523</a> | Classified as primordial binary cluster 233 along with HSC_2505, and as primordial binary cluster 234 along with HSC_2515, and of multiple system 67 along with HSC_2468, HSC_2505 and HSC_2515. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2550/" target="_blank" style="color: $blue;">HSC 2550</a> | Classified as primordial binary cluster 236 along with OC_0587, and of multiple system 27 along with OC_0587 and CWNU_490. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2550/" target="_blank" style="color: red;">HSC 2550</a> | Classified as primordial binary cluster 236 along with OC_0587, and of multiple system 27 along with OC_0587 and CWNU_490. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2562/" target="_blank" style="color: red;">HSC 2562</a> | Classified as primordial binary cluster 237 along with UBC_525, and of multiple system 68 along with Theia_2478 and UBC_525. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2603/" target="_blank" style="color: red;">HSC 2603</a> | Classified as tidal capture (resonant trapping binary) 238 along with HSC_2662, and as tidal capture (resonant trapping binary) 239 along with HSC_2615, and of multiple system 69 along with HSC_2662 and HSC_2615. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2615/" target="_blank" style="color: red;">HSC 2615</a> | Classified as tidal capture (resonant trapping binary) 239 along with HSC_2603, and of multiple system 69 along with HSC_2603 and HSC_2662. |
@@ -322,7 +322,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc2907/" target="_blank" style="color: $blue;">HSC 2907</a> | Classified as primordial binary cluster 253 along with OCSN_98, and of multiple system 72 along with OCSN_96, HSC_2931, OCSN_98, OCSN_100 and HSC_2919. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2911/" target="_blank" style="color: $blue;">HSC 2911</a> | Classified as primordial binary cluster 32 along with BH_221, and as primordial binary cluster 389 along with UFMG_65, and of multiple system 16 along with UFMG_65 and BH_221. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2919/" target="_blank" style="color: $blue;">HSC 2919</a> | Classified as primordial binary cluster 254 along with HSC_2931, and of multiple system 72 along with OCSN_96, HSC_2907, HSC_2931, OCSN_98 and OCSN_100. |
-| <a href="{{ site.baseurl }}/_clusters/hsc2928/" target="_blank" style="color: $blue;">HSC 2928</a> | Classified as tidal capture (resonant trapping binary) 255 along with NGC_6400. |
+| <a href="{{ site.baseurl }}/_clusters/hsc2928/" target="_blank" style="color: red;">HSC 2928</a> | Classified as tidal capture (resonant trapping binary) 255 along with NGC_6400. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2931/" target="_blank" style="color: $blue;">HSC 2931</a> | Classified as primordial binary cluster 254 along with HSC_2919, and as primordial binary cluster 327 along with OCSN_100, and of multiple system 72 along with OCSN_96, HSC_2907, OCSN_98, OCSN_100 and HSC_2919. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2972/" target="_blank" style="color: $blue;">HSC 2972</a> | Classified as primordial binary cluster 256 along with PHOC_10. |
 | <a href="{{ site.baseurl }}/_clusters/hsc2986/" target="_blank" style="color: $blue;">HSC 2986</a> | Classified as tidal capture (resonant trapping binary) 257 along with OCSN_3. |
@@ -340,15 +340,15 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/hsc758/" target="_blank" style="color: red;">HSC 758</a> | Classified as tidal capture (resonant trapping binary) 171 along with HSC_719, and as primordial binary cluster 173 along with OCSN_24, and of multiple system 48 along with HSC_719 and OCSN_24. |
 | <a href="{{ site.baseurl }}/_clusters/hsc764/" target="_blank" style="color: red;">HSC 764</a> | Classified as primordial binary cluster 174 along with OC_0158, and of multiple system 49 along with Riddle_6 and OC_0158. |
 | <a href="{{ site.baseurl }}/_clusters/hsc767/" target="_blank" style="color: red;">HSC 767</a> | Classified as tidal capture (resonant trapping binary) 172 along with HSC_752. |
-| <a href="{{ site.baseurl }}/_clusters/hsc797/" target="_blank" style="color: $blue;">HSC 797</a> | Classified as primordial binary cluster 175 along with Teutsch_127. |
+| <a href="{{ site.baseurl }}/_clusters/hsc797/" target="_blank" style="color: red;">HSC 797</a> | Classified as primordial binary cluster 175 along with Teutsch_127. |
 | <a href="{{ site.baseurl }}/_clusters/hsc807/" target="_blank" style="color: $blue;">HSC 807</a> | Classified as primordial binary cluster 37 along with Berkeley_96. |
-| <a href="{{ site.baseurl }}/_clusters/hsc824/" target="_blank" style="color: $blue;">HSC 824</a> | Classified as tidal capture (resonant trapping binary) 176 along with Pismis-Moreno_1, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1126, CWNU_1228, HSC_853 and OC_0185. |
+| <a href="{{ site.baseurl }}/_clusters/hsc824/" target="_blank" style="color: red;">HSC 824</a> | Classified as tidal capture (resonant trapping binary) 176 along with Pismis-Moreno_1, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1126, CWNU_1228, HSC_853 and OC_0185. |
 | <a href="{{ site.baseurl }}/_clusters/hsc853/" target="_blank" style="color: $blue;">HSC 853</a> | Classified as primordial binary cluster 177 along with CWNU_1228, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1126, CWNU_1228, OC_0185 and HSC_824. |
 | <a href="{{ site.baseurl }}/_clusters/hsc862/" target="_blank" style="color: $blue;">HSC 862</a> | Classified as primordial binary cluster 16 along with ASCC_125, and of multiple system 8 along with UPK_198, Theia_4, UBC_178 and ASCC_125. |
 | <a href="{{ site.baseurl }}/_clusters/hsc873/" target="_blank" style="color: red;">HSC 873</a> | Classified as primordial binary cluster 17 along with ASCC_127. |
-| <a href="{{ site.baseurl }}/_clusters/hsc915/" target="_blank" style="color: $blue;">HSC 915</a> | Classified as primordial binary cluster 178 along with HSC_925. |
+| <a href="{{ site.baseurl }}/_clusters/hsc915/" target="_blank" style="color: red;">HSC 915</a> | Classified as primordial binary cluster 178 along with HSC_925. |
 | <a href="{{ site.baseurl }}/_clusters/hsc925/" target="_blank" style="color: red;">HSC 925</a> | Classified as primordial binary cluster 178 along with HSC_915. |
-| <a href="{{ site.baseurl }}/_clusters/hxhwl18/" target="_blank" style="color: $blue;">HXHWL 18</a> | Classified as tidal capture (resonant trapping binary) 2 along with ASCC_12, and as primordial binary cluster 190 along with HSC_1308, and of multiple system 2 along with COIN-Gaia_10, COIN-Gaia_39, HSC_1308 and ASCC_12. |
+| <a href="{{ site.baseurl }}/_clusters/hxhwl18/" target="_blank" style="color: red;">HXHWL 18</a> | Classified as tidal capture (resonant trapping binary) 2 along with ASCC_12, and as primordial binary cluster 190 along with HSC_1308, and of multiple system 2 along with COIN-Gaia_10, COIN-Gaia_39, HSC_1308 and ASCC_12. |
 | <a href="{{ site.baseurl }}/_clusters/hxhwl22/" target="_blank" style="color: $blue;">HXHWL 22</a> | Classified as tidal capture (resonant trapping binary) 258 along with NGC_2353. |
 | <a href="{{ site.baseurl }}/_clusters/hxhwl45/" target="_blank" style="color: $blue;">HXHWL 45</a> | Classified as primordial binary cluster 141 along with FSR_0435. |
 | <a href="{{ site.baseurl }}/_clusters/hxhwl65/" target="_blank" style="color: $blue;">HXHWL 65</a> | Classified as tidal capture (resonant trapping binary) 259 along with Ruprecht_53. |
@@ -431,7 +431,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0140/" target="_blank" style="color: $blue;">OC 0140</a> | Classified as primordial binary cluster 294 along with NGC_7039. |
 | <a href="{{ site.baseurl }}/_clusters/oc0158/" target="_blank" style="color: $blue;">OC 0158</a> | Classified as primordial binary cluster 174 along with HSC_764, and as primordial binary cluster 302 along with Riddle_6, and of multiple system 49 along with Riddle_6 and HSC_764. |
 | <a href="{{ site.baseurl }}/_clusters/oc0179/" target="_blank" style="color: $blue;">OC 0179</a> | Classified as primordial binary cluster 303 along with UBC_388. |
-| <a href="{{ site.baseurl }}/_clusters/oc0185/" target="_blank" style="color: $blue;">OC 0185</a> | Classified as primordial binary cluster 95 along with CWNU_1126, and as tidal capture (resonant trapping binary) 331 along with Pismis-Moreno_1, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1126, CWNU_1228, HSC_853 and HSC_824. |
+| <a href="{{ site.baseurl }}/_clusters/oc0185/" target="_blank" style="color: red;">OC 0185</a> | Classified as primordial binary cluster 95 along with CWNU_1126, and as tidal capture (resonant trapping binary) 331 along with Pismis-Moreno_1, and of multiple system 34 along with Pismis-Moreno_1, CWNU_1126, CWNU_1228, HSC_853 and HSC_824. |
 | <a href="{{ site.baseurl }}/_clusters/oc0227/" target="_blank" style="color: $blue;">OC 0227</a> | Classified as primordial binary cluster 304 along with Theia_19. |
 | <a href="{{ site.baseurl }}/_clusters/oc0279/" target="_blank" style="color: $blue;">OC 0279</a> | Classified as primordial binary cluster 305 along with NGC_1333, and of multiple system 52 along with HSC_1250 and NGC_1333. |
 | <a href="{{ site.baseurl }}/_clusters/oc0280/" target="_blank" style="color: $blue;">OC 0280</a> | Classified as primordial binary cluster 189 along with HSC_1262. |
@@ -451,8 +451,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/oc0479/" target="_blank" style="color: $blue;">OC 0479</a> | Classified as primordial binary cluster 286 along with NGC_2547, and of multiple system 76 along with Theia_1918, Pozzo_1 and NGC_2547. |
 | <a href="{{ site.baseurl }}/_clusters/oc0513/" target="_blank" style="color: $blue;">OC 0513</a> | Classified as tidal capture (resonant trapping binary) 104 along with CWNU_1300, and as tidal capture (resonant trapping binary) 328 along with PHOC_30, and of multiple system 38 along with PHOC_30 and CWNU_1300. |
 | <a href="{{ site.baseurl }}/_clusters/oc0587/" target="_blank" style="color: $blue;">OC 0587</a> | Classified as primordial binary cluster 78 along with CWNU_490, and as primordial binary cluster 236 along with HSC_2550, and of multiple system 27 along with CWNU_490 and HSC_2550. |
-| <a href="{{ site.baseurl }}/_clusters/oc0606/" target="_blank" style="color: $blue;">OC 0606</a> | Classified as primordial binary cluster 312 along with Theia_339. |
-| <a href="{{ site.baseurl }}/_clusters/oc0630/" target="_blank" style="color: $blue;">OC 0630</a> | Classified as tidal capture (resonant trapping binary) 313 along with UPK_621. |
+| <a href="{{ site.baseurl }}/_clusters/oc0606/" target="_blank" style="color: red;">OC 0606</a> | Classified as primordial binary cluster 312 along with Theia_339. |
+| <a href="{{ site.baseurl }}/_clusters/oc0630/" target="_blank" style="color: red;">OC 0630</a> | Classified as tidal capture (resonant trapping binary) 313 along with UPK_621. |
 | <a href="{{ site.baseurl }}/_clusters/oc0666/" target="_blank" style="color: $blue;">OC 0666</a> | Classified as primordial binary cluster 82 along with CWNU_1004, and as primordial binary cluster 399 along with UPK_640, and of multiple system 28 along with UPK_640 and CWNU_1004. |
 | <a href="{{ site.baseurl }}/_clusters/oc0673/" target="_blank" style="color: $blue;">OC 0673</a> | Classified as primordial binary cluster 314 along with NGC_6231, and of multiple system 45 along with ESO_332-13, HSC_2849 and NGC_6231. |
 | <a href="{{ site.baseurl }}/_clusters/ocsn100/" target="_blank" style="color: $blue;">OCSN 100</a> | Classified as primordial binary cluster 325 along with OCSN_96, and as primordial binary cluster 327 along with HSC_2931, and of multiple system 72 along with OCSN_96, HSC_2907, HSC_2931, OCSN_98 and HSC_2919. |
@@ -532,7 +532,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia2119/" target="_blank" style="color: $blue;">Theia 2119</a> | Classified as primordial binary cluster 288 along with NGC_4103. |
 | <a href="{{ site.baseurl }}/_clusters/theia2151/" target="_blank" style="color: red;">Theia 2151</a> | Classified as tidal capture (resonant trapping binary) 361 along with UBC_502. |
 | <a href="{{ site.baseurl }}/_clusters/theia2166/" target="_blank" style="color: $blue;">Theia 2166</a> | Classified as tidal capture (resonant trapping binary) 69 along with CWNU_356. |
-| <a href="{{ site.baseurl }}/_clusters/theia2179/" target="_blank" style="color: $blue;">Theia 2179</a> | Classified as primordial binary cluster 362 along with UBC_531. |
+| <a href="{{ site.baseurl }}/_clusters/theia2179/" target="_blank" style="color: red;">Theia 2179</a> | Classified as primordial binary cluster 362 along with UBC_531. |
 | <a href="{{ site.baseurl }}/_clusters/theia222/" target="_blank" style="color: $blue;">Theia 222</a> | Classified as primordial binary cluster 162 along with HSC_180. |
 | <a href="{{ site.baseurl }}/_clusters/theia2249/" target="_blank" style="color: $blue;">Theia 2249</a> | Classified as tidal capture (resonant trapping binary) 48 along with CWNU_26. |
 | <a href="{{ site.baseurl }}/_clusters/theia23/" target="_blank" style="color: $blue;">Theia 23</a> | Classified as tidal capture (resonant trapping binary) 165 along with HSC_238. |
@@ -552,7 +552,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia339/" target="_blank" style="color: $blue;">Theia 339</a> | Classified as primordial binary cluster 312 along with OC_0606. |
 | <a href="{{ site.baseurl }}/_clusters/theia3397/" target="_blank" style="color: $blue;">Theia 3397</a> | Classified as tidal capture (resonant trapping binary) 284 along with NGC_2448. |
 | <a href="{{ site.baseurl }}/_clusters/theia3409/" target="_blank" style="color: $blue;">Theia 3409</a> | Classified as primordial binary cluster 366 along with UBC_1481. |
-| <a href="{{ site.baseurl }}/_clusters/theia35/" target="_blank" style="color: $blue;">Theia 35</a> | Classified as primordial binary cluster 345 along with ASCC_33. |
+| <a href="{{ site.baseurl }}/_clusters/theia35/" target="_blank" style="color: red;">Theia 35</a> | Classified as primordial binary cluster 345 along with ASCC_33. |
 | <a href="{{ site.baseurl }}/_clusters/theia3581/" target="_blank" style="color: $blue;">Theia 3581</a> | Classified as primordial binary cluster 367 along with Ruprecht_26. |
 | <a href="{{ site.baseurl }}/_clusters/theia366/" target="_blank" style="color: $blue;">Theia 366</a> | Classified as primordial binary cluster 209 along with HSC_1843, and as tidal capture (resonant trapping binary) 283 along with NGC_2358, and of multiple system 60 along with HSC_1843 and NGC_2358. |
 | <a href="{{ site.baseurl }}/_clusters/theia3669/" target="_blank" style="color: $blue;">Theia 3669</a> | Classified as hyperbolic encounter pair 368 along with UBC_537. |
@@ -561,7 +561,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/theia4/" target="_blank" style="color: $blue;">Theia 4</a> | Classified as primordial binary cluster 344 along with UBC_178, and as tidal capture (resonant trapping binary) 395 along with UPK_198, and of multiple system 8 along with UPK_198, UBC_178, ASCC_125 and HSC_862. |
 | <a href="{{ site.baseurl }}/_clusters/theia4284/" target="_blank" style="color: red;">Theia 4284</a> | Classified as tidal capture (resonant trapping binary) 369 along with Theia_4981. |
 | <a href="{{ site.baseurl }}/_clusters/theia447/" target="_blank" style="color: red;">Theia 447</a> | Classified as tidal capture (resonant trapping binary) 271 along with Loden_1194. |
-| <a href="{{ site.baseurl }}/_clusters/theia47/" target="_blank" style="color: $blue;">Theia 47</a> | Classified as tidal capture (resonant trapping binary) 187 along with HSC_1210, and of multiple system 31 along with CWNU_1086 and HSC_1210. |
+| <a href="{{ site.baseurl }}/_clusters/theia47/" target="_blank" style="color: red;">Theia 47</a> | Classified as tidal capture (resonant trapping binary) 187 along with HSC_1210, and of multiple system 31 along with CWNU_1086 and HSC_1210. |
 | <a href="{{ site.baseurl }}/_clusters/theia4981/" target="_blank" style="color: $blue;">Theia 4981</a> | Classified as tidal capture (resonant trapping binary) 369 along with Theia_4284. |
 | <a href="{{ site.baseurl }}/_clusters/theia54/" target="_blank" style="color: $blue;">Theia 54</a> | Classified as primordial binary cluster 346 along with CWNU_1129, and of multiple system 35 along with Theia_71, HSC_1438, CWNU_1129, HSC_1426 and Theia_66. |
 | <a href="{{ site.baseurl }}/_clusters/theia558/" target="_blank" style="color: $blue;">Theia 558</a> | Classified as primordial binary cluster 307 along with OC_0343. |
@@ -595,8 +595,8 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ubc1147/" target="_blank" style="color: $blue;">UBC 1147</a> | Classified as primordial binary cluster 140 along with FSR_0336. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1153/" target="_blank" style="color: red;">UBC 1153</a> | Classified as primordial binary cluster 382 along with UBC_592. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1177/" target="_blank" style="color: red;">UBC 1177</a> | Classified as primordial binary cluster 73 along with CWNU_459. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1305/" target="_blank" style="color: $blue;">UBC 1305</a> | Classified as primordial binary cluster 123 along with Collinder_89. |
-| <a href="{{ site.baseurl }}/_clusters/ubc1320/" target="_blank" style="color: $blue;">UBC 1320</a> | Classified as tidal capture (resonant trapping binary) 201 along with HSC_1585. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1305/" target="_blank" style="color: red;">UBC 1305</a> | Classified as primordial binary cluster 123 along with Collinder_89. |
+| <a href="{{ site.baseurl }}/_clusters/ubc1320/" target="_blank" style="color: red;">UBC 1320</a> | Classified as tidal capture (resonant trapping binary) 201 along with HSC_1585. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1375/" target="_blank" style="color: $blue;">UBC 1375</a> | Classified as tidal capture (resonant trapping binary) 210 along with HSC_1845. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1376/" target="_blank" style="color: red;">UBC 1376</a> | Classified as tidal capture (resonant trapping binary) 384 along with HSC_1847, and of multiple system 61 along with HSC_1848 and HSC_1847. |
 | <a href="{{ site.baseurl }}/_clusters/ubc1474/" target="_blank" style="color: $blue;">UBC 1474</a> | Classified as tidal capture (resonant trapping binary) 111 along with CWNU_2072. |
@@ -661,7 +661,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk172/" target="_blank" style="color: $blue;">UPK 172</a> | Classified as primordial binary cluster 296 along with NGC_7160, and as primordial binary cluster 387 along with UBC_10b, and of multiple system 77 along with NGC_7160 and UBC_10b. |
 | <a href="{{ site.baseurl }}/_clusters/upk178/" target="_blank" style="color: $blue;">UPK 178</a> | Classified as tidal capture (resonant trapping binary) 356 along with Theia_1474. |
 | <a href="{{ site.baseurl }}/_clusters/upk189/" target="_blank" style="color: red;">UPK 189</a> | Classified as primordial binary cluster 380 along with UBC_396, and as primordial binary cluster 394 along with CWNU_1107, and of multiple system 33 along with CWNU_1107, UBC_396 and Theia_3779. |
-| <a href="{{ site.baseurl }}/_clusters/upk198/" target="_blank" style="color: $blue;">UPK 198</a> | Classified as tidal capture (resonant trapping binary) 395 along with Theia_4, and of multiple system 8 along with Theia_4, UBC_178, ASCC_125 and HSC_862. |
+| <a href="{{ site.baseurl }}/_clusters/upk198/" target="_blank" style="color: red;">UPK 198</a> | Classified as tidal capture (resonant trapping binary) 395 along with Theia_4, and of multiple system 8 along with Theia_4, UBC_178, ASCC_125 and HSC_862. |
 | <a href="{{ site.baseurl }}/_clusters/upk27/" target="_blank" style="color: $blue;">UPK 27</a> | Classified as hyperbolic encounter pair 390 along with UPK_28. |
 | <a href="{{ site.baseurl }}/_clusters/upk28/" target="_blank" style="color: $blue;">UPK 28</a> | Classified as hyperbolic encounter pair 390 along with UPK_27. |
 | <a href="{{ site.baseurl }}/_clusters/upk312/" target="_blank" style="color: $blue;">UPK 312</a> | Classified as tidal capture (resonant trapping binary) 97 along with CWNU_1137. |
@@ -675,7 +675,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/upk445/" target="_blank" style="color: $blue;">UPK 445</a> | Classified as primordial binary cluster 308 along with OC_0367. |
 | <a href="{{ site.baseurl }}/_clusters/upk470/" target="_blank" style="color: $blue;">UPK 470</a> | Classified as tidal capture (resonant trapping binary) 350 along with Theia_283. |
 | <a href="{{ site.baseurl }}/_clusters/upk492/" target="_blank" style="color: red;">UPK 492</a> | Classified as primordial binary cluster 215 along with HSC_2015. |
-| <a href="{{ site.baseurl }}/_clusters/upk52/" target="_blank" style="color: $blue;">UPK 52</a> | Classified as tidal capture (resonant trapping binary) 300 along with OC_0070. |
+| <a href="{{ site.baseurl }}/_clusters/upk52/" target="_blank" style="color: red;">UPK 52</a> | Classified as tidal capture (resonant trapping binary) 300 along with OC_0070. |
 | <a href="{{ site.baseurl }}/_clusters/upk540/" target="_blank" style="color: $blue;">UPK 540</a> | Classified as tidal capture (resonant trapping binary) 285 along with NGC_2516. |
 | <a href="{{ site.baseurl }}/_clusters/upk552/" target="_blank" style="color: $blue;">UPK 552</a> | Classified as primordial binary cluster 224 along with HSC_2263. |
 | <a href="{{ site.baseurl }}/_clusters/upk606/" target="_blank" style="color: $blue;">UPK 606</a> | Classified as primordial binary cluster 240 along with HSC_2630, and as primordial binary cluster 241 along with HSC_2636, and as primordial binary cluster 398 along with HSC_2733, and of multiple system 70 along with HSC_2630, HSC_2636, HSC_2816, HSC_2733, OCSN_92 and OCSN_91. |

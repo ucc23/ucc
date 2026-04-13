@@ -105,10 +105,10 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl091/" target="_blank" style="color: red;">VVVX CL091</a> | Young cluster or dust window. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl092/" target="_blank" style="color: red;">VVVX CL092</a> | Embedded group around YSO:[PW2010] 48. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl093/" target="_blank" style="color: $blue;">VVVX CL093</a> | Embedded, compact group in HII region: MSX6C G014.0329-00.5155. |
-| <a href="{{ site.baseurl }}/_clusters/vvvxcl094/" target="_blank" style="color: $blue;">VVVX CL094</a> | Second small group of stars close to BDS9, sub-cluster?. |
+| <a href="{{ site.baseurl }}/_clusters/vvvxcl094/" target="_blank" style="color: red;">VVVX CL094</a> | Second small group of stars close to BDS9, sub-cluster?. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl095/" target="_blank" style="color: red;">VVVX CL095</a> | Small group around YSO: SSTGLMA G014.0632-00.5199. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl096/" target="_blank" style="color: red;">VVVX CL096</a> | Small group around YSO: IRAS 18151-1208. |
-| <a href="{{ site.baseurl }}/_clusters/vvvxcl097/" target="_blank" style="color: $blue;">VVVX CL097</a> | Neb, YSOs, bubbles, IR. |
+| <a href="{{ site.baseurl }}/_clusters/vvvxcl097/" target="_blank" style="color: red;">VVVX CL097</a> | Neb, YSOs, bubbles, IR. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl098/" target="_blank" style="color: red;">VVVX CL098</a> | Group in HII region: IRAS 18159-1550. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl099/" target="_blank" style="color: $blue;">VVVX CL099</a> | Small group in HII region: MSX6C G016.9512+00.7806, close to M16, sub-cluster?. |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl100/" target="_blank" style="color: $blue;">VVVX CL100</a> | Four bright stars, very compact, part of M16, RSG?. |

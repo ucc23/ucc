@@ -22,7 +22,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ascc23/" target="_blank" style="color: $blue;">ASCC 23</a> | Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ascc24/" target="_blank" style="color: $blue;">ASCC 24</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/ascc30/" target="_blank" style="color: $blue;">ASCC 30</a> | List of clusters and alike reported by B. Alessi. The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
-| <a href="{{ site.baseurl }}/_clusters/ascc70/" target="_blank" style="color: $blue;">ASCC 70</a> | List of clusters and alike reported by B. Alessi. |
+| <a href="{{ site.baseurl }}/_clusters/ascc70/" target="_blank" style="color: red;">ASCC 70</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/ascc77/" target="_blank" style="color: $blue;">ASCC 77</a> | Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ascc79/" target="_blank" style="color: $blue;">ASCC 79</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/ascc83/" target="_blank" style="color: $blue;">ASCC 83</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
@@ -67,7 +67,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessi186/" target="_blank" style="color: red;">Alessi 186</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi187/" target="_blank" style="color: red;">Alessi 187</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi188/" target="_blank" style="color: red;">Alessi 188</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/alessi189/" target="_blank" style="color: $blue;">Alessi 189</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/alessi189/" target="_blank" style="color: red;">Alessi 189</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi19/" target="_blank" style="color: $blue;">Alessi 19</a> | Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi190/" target="_blank" style="color: $blue;">Alessi 190</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/alessi191/" target="_blank" style="color: $blue;">Alessi 191</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -100,7 +100,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessi59/" target="_blank" style="color: $blue;">Alessi 59</a> | Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi6/" target="_blank" style="color: $blue;">Alessi 6</a> | Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi60/" target="_blank" style="color: $blue;">Alessi 60</a> | Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
-| <a href="{{ site.baseurl }}/_clusters/alessi61/" target="_blank" style="color: $blue;">Alessi 61</a> | List of clusters and alike reported by B. Alessi. |
+| <a href="{{ site.baseurl }}/_clusters/alessi61/" target="_blank" style="color: red;">Alessi 61</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi62/" target="_blank" style="color: $blue;">Alessi 62</a> | List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi64/" target="_blank" style="color: red;">Alessi 64</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. List of clusters and alike reported by B. Alessi. |
 | <a href="{{ site.baseurl }}/_clusters/alessi65/" target="_blank" style="color: $blue;">Alessi 65</a> | List of clusters and alike reported by B. Alessi. |
@@ -160,7 +160,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/bica484/" target="_blank" style="color: red;">Bica 484</a> | Present study. |
 | <a href="{{ site.baseurl }}/_clusters/bica486/" target="_blank" style="color: red;">Bica 486</a> | Present study. |
 | <a href="{{ site.baseurl }}/_clusters/bica490/" target="_blank" style="color: red;">Bica 490</a> | Present study. |
-| <a href="{{ site.baseurl }}/_clusters/bica494/" target="_blank" style="color: $blue;">Bica 494</a> | Present study. |
+| <a href="{{ site.baseurl }}/_clusters/bica494/" target="_blank" style="color: red;">Bica 494</a> | Present study. |
 | <a href="{{ site.baseurl }}/_clusters/bica497/" target="_blank" style="color: red;">Bica 497</a> | Present study. |
 | <a href="{{ site.baseurl }}/_clusters/bica498/" target="_blank" style="color: red;">Bica 498</a> | Present study. |
 | <a href="{{ site.baseurl }}/_clusters/bica499/" target="_blank" style="color: red;">Bica 499</a> | Present study. |
@@ -199,7 +199,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/dc5/" target="_blank" style="color: $blue;">DC 5</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/dc8/" target="_blank" style="color: $blue;">DC 8</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/deltacepheicluster/" target="_blank" style="color: $blue;">Delta Cephei Cluster</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/desvoivres2/" target="_blank" style="color: $blue;">Desvoivres 2</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
+| <a href="{{ site.baseurl }}/_clusters/desvoivres2/" target="_blank" style="color: red;">Desvoivres 2</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. |
 | <a href="{{ site.baseurl }}/_clusters/dias1/" target="_blank" style="color: $blue;">Dias 1</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/dias2/" target="_blank" style="color: $blue;">Dias 2</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
 | <a href="{{ site.baseurl }}/_clusters/dias3/" target="_blank" style="color: red;">Dias 3</a> | Web updates in DAML02, some were later removed (2003 to 2010). |
@@ -259,7 +259,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/ferrero1/" target="_blank" style="color: $blue;">Ferrero 1</a> | Web updates in DAML02, some were later removed (2003 to 2010). The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ferrero10/" target="_blank" style="color: red;">Ferrero 10</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ferrero11/" target="_blank" style="color: $blue;">Ferrero 11</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms and clusters by L. Ferrero. |
-| <a href="{{ site.baseurl }}/_clusters/ferrero17/" target="_blank" style="color: $blue;">Ferrero 17</a> | Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero. |
+| <a href="{{ site.baseurl }}/_clusters/ferrero17/" target="_blank" style="color: red;">Ferrero 17</a> | Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ferrero24a/" target="_blank" style="color: red;">Ferrero 24a</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/ferrero29/" target="_blank" style="color: red;">Ferrero 29</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. Asterisms and clusters by L. Ferrero. |
 | <a href="{{ site.baseurl }}/_clusters/ferrero33/" target="_blank" style="color: red;">Ferrero 33</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. Asterisms and clusters by L. Ferrero. |
@@ -362,7 +362,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/kronberger84/" target="_blank" style="color: $blue;">Kronberger 84</a> | Web updates in DAML02, some were later removed (2003 to 2010). Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger86/" target="_blank" style="color: red;">Kronberger 86</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger87/" target="_blank" style="color: red;">Kronberger 87</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/kronberger92/" target="_blank" style="color: $blue;">Kronberger 92</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/kronberger92/" target="_blank" style="color: red;">Kronberger 92</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger93/" target="_blank" style="color: red;">Kronberger 93</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger94/" target="_blank" style="color: red;">Kronberger 94</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/kronberger95/" target="_blank" style="color: red;">Kronberger 95</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
@@ -789,7 +789,7 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/teutsch322/" target="_blank" style="color: red;">Teutsch 322</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch323/" target="_blank" style="color: red;">Teutsch 323</a> | The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003. Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch324/" target="_blank" style="color: red;">Teutsch 324</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
-| <a href="{{ site.baseurl }}/_clusters/teutsch325/" target="_blank" style="color: $blue;">Teutsch 325</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
+| <a href="{{ site.baseurl }}/_clusters/teutsch325/" target="_blank" style="color: red;">Teutsch 325</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch327/" target="_blank" style="color: red;">Teutsch 327</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch330/" target="_blank" style="color: $blue;">Teutsch 330</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |
 | <a href="{{ site.baseurl }}/_clusters/teutsch331/" target="_blank" style="color: red;">Teutsch 331</a> | Asterisms and cluster alikes by B. Alessi reported in DAML02. |

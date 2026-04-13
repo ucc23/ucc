@@ -19,20 +19,20 @@ style: style
 | <a href="{{ site.baseurl }}/_clusters/alessi43/" target="_blank" style="color: $blue;">Alessi 43</a> | Belongs to cluster aggregate 'Agg05' along with Collinder 197. |
 | <a href="{{ site.baseurl }}/_clusters/alessi44/" target="_blank" style="color: $blue;">Alessi 44</a> | Belongs to cluster aggregate 'Agg06' along with UBC 14. |
 | <a href="{{ site.baseurl }}/_clusters/alessi5/" target="_blank" style="color: $blue;">Alessi 5</a> | Belongs to cluster aggregate 'Agg07' along with BH 99. |
-| <a href="{{ site.baseurl }}/_clusters/alessiteutsch5/" target="_blank" style="color: $blue;">Alessi Teutsch 5</a> | Belongs cluster aggregate 'to' Agg08 along with BDSB30. |
+| <a href="{{ site.baseurl }}/_clusters/alessiteutsch5/" target="_blank" style="color: $blue;">Alessi Teutsch 5</a> | Belongs to cluster aggregate 'Agg08' along with BDSB30. |
 | <a href="{{ site.baseurl }}/_clusters/bdsb30/" target="_blank" style="color: $blue;">BDSB 30</a> | Belongs to Agg08 cluster aggregate 'along' with Alessi Teutsch 5. |
 | <a href="{{ site.baseurl }}/_clusters/barkhatova1/" target="_blank" style="color: $blue;">Barkhatova 1</a> | Belongs to cluster aggregate 'Agg10' along with Gulliver 30. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley58/" target="_blank" style="color: $blue;">Berkeley 58</a> | Belongs to cluster aggregate 'Agg11' along with NGC 7788 and NGC 7790. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley62/" target="_blank" style="color: $blue;">Berkeley 62</a> | Belongs to cluster aggregate 'Agg12' along with COIN-Gaia 29. |
 | <a href="{{ site.baseurl }}/_clusters/berkeley81/" target="_blank" style="color: $blue;">Berkeley 81</a> | Belongs to cluster aggregate 'Agg13' along with NGC 6735. |
 | <a href="{{ site.baseurl }}/_clusters/biurakan2/" target="_blank" style="color: $blue;">Biurakan 2</a> | Belongs to cluster aggregate 'Agg14' along with FSR 0198, NGC 6871 and Teutsch 8. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia16/" target="_blank" style="color: $blue;">COIN-Gaia 16</a> | Belongs cluster aggregate 'to' Agg15 along with COIN-Gaia 17. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia17/" target="_blank" style="color: $blue;">COIN-Gaia 17</a> | Belongs cluster aggregate 'to' Agg15 along with COIN-Gaia 16. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia24/" target="_blank" style="color: $blue;">COIN-Gaia 24</a> | Belongs cluster aggregate 'to' Agg16 along with NGC 2168. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia29/" target="_blank" style="color: $blue;">COIN-Gaia 29</a> | Belongs cluster aggregate 'to' Agg12 along with Berkeley 62. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia40/" target="_blank" style="color: $blue;">COIN-Gaia 40</a> | Belongs cluster aggregate 'to' Agg17 along with Gulliver 53, Kronberger 1, NGC 1893 and Stock 8. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia5/" target="_blank" style="color: $blue;">COIN-Gaia 5</a> | Belongs cluster aggregate 'to' Agg18 along with COIN-Gaia 6. |
-| <a href="{{ site.baseurl }}/_clusters/coingaia6/" target="_blank" style="color: $blue;">COIN-Gaia 6</a> | Belongs cluster aggregate 'to' Agg18 along with COIN-Gaia 5. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia16/" target="_blank" style="color: $blue;">COIN-Gaia 16</a> | Belongs to cluster aggregate 'Agg15' along with COIN-Gaia 17. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia17/" target="_blank" style="color: $blue;">COIN-Gaia 17</a> | Belongs to cluster aggregate 'Agg15' along with COIN-Gaia 16. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia24/" target="_blank" style="color: $blue;">COIN-Gaia 24</a> | Belongs to cluster aggregate 'Agg16' along with NGC 2168. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia29/" target="_blank" style="color: $blue;">COIN-Gaia 29</a> | Belongs to cluster aggregate 'Agg12' along with Berkeley 62. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia40/" target="_blank" style="color: $blue;">COIN-Gaia 40</a> | Belongs to cluster aggregate 'Agg17' along with Gulliver 53, Kronberger 1, NGC 1893 and Stock 8. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia5/" target="_blank" style="color: $blue;">COIN-Gaia 5</a> | Belongs to cluster aggregate 'Agg18' along with COIN-Gaia 6. |
+| <a href="{{ site.baseurl }}/_clusters/coingaia6/" target="_blank" style="color: $blue;">COIN-Gaia 6</a> | Belongs to cluster aggregate 'Agg18' along with COIN-Gaia 5. |
 | <a href="{{ site.baseurl }}/_clusters/collinder106/" target="_blank" style="color: $blue;">Collinder 106</a> | Belongs to cluster aggregate 'Agg19' along with Collinder 107 and NGC 2244. |
 | <a href="{{ site.baseurl }}/_clusters/collinder107/" target="_blank" style="color: $blue;">Collinder 107</a> | Belongs to cluster aggregate 'Agg19' along with Collinder 106 and NGC 2244. |
 | <a href="{{ site.baseurl }}/_clusters/collinder135/" target="_blank" style="color: $blue;">Collinder 135</a> | Belongs to cluster aggregate 'Agg20' along with UBC 7. |
