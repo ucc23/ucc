@@ -13,25 +13,25 @@ glon: 95.54841
 glat: -17.81228
 r50: 28.6
 plx: 2.04
-UTI: "0.74"
-UTI_COLOR: "#d7eec9"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#ceeac8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fafce1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
-UTI_C_dens: 1.0
+UTI_C_dens: 0.54
 UTI_C_C3: 1.0
 UTI_C_lit: 0.45
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 39</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 39</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-dens_val: 10.5
+rc_val: 2.0
+dens_val: 2.7
 N_50_val: 175
 scix_url: Teutsch%2039
 posit_table: |
@@ -71,7 +72,7 @@ posit_table: |
     |[He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | 340.792 | 40.065 | 2.303 | -2.014 | -5.261 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 339.12 | 37.784 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 339.12 | 37.756 | -- | -2.794 | -5.011 | -19.5 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 339.121 | 37.756 | -2.82 | -2.23 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 339.121 | 37.756 | -- | -2.82 | -2.23 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 339.154 | 37.726 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 339.148 | 37.722 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 339.121 | 37.756 | -- | -2.97 | -2.38 | -- |
@@ -104,8 +105,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OCSN 29](/_clusters/ocsn29/)| 50.9 | 339.15 | 37.72 | 2.03 | -1.72 | -6.19 | -13.08 |0.02 |
-    |[CWWDL 14543](/_clusters/cwwdl14543/)| 25.1 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.12 |
-    |[FoF 2379](/_clusters/fof2379/)| 10.3 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.16 |
-    |[CWWDL 14563](/_clusters/cwwdl14563/)| 1.1 | 339.57 | 38.97 | 2.0 | -1.59 | -5.35 | -22.61 |0.35 |
+    |[CWWDL 14543](/_clusters/cwwdl14543/)| 25.1 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.08 |
+    |[FoF 2379](/_clusters/fof2379/)| 10.3 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.14 |
+    |[CWWDL 14563](/_clusters/cwwdl14563/)| 1.1 | 339.57 | 38.97 | 2.0 | -1.59 | -5.35 | -22.61 |0.24 |
 N_rows_shared: "4"
 ---

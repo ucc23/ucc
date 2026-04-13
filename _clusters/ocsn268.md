@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 23.7
+rc_val: 0.7
+dens_val: 11
 N_50_val: 76
 scix_url: OCSN%20268
 posit_table: |
@@ -72,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 1318](/_clusters/hsc1318/)| 68.4 | 64.5 | 28.21 | 7.66 | 8.72 | -25.42 | 15.41 |0.0 |
-    |[Taurus](/_clusters/taurus/)| 26.3 | 65.78 | 27.29 | 7.72 | 8.8 | -25.91 | 14.81 |0.34 |
+    |[Taurus](/_clusters/taurus/)| 26.3 | 65.78 | 27.29 | 7.72 | 8.8 | -25.91 | 14.81 |0.2 |
 N_rows_shared: "2"
 ---

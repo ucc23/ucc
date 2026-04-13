@@ -51,11 +51,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.3532, e_all=0.3208.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
-dens_val: 33.2
+N_comments: "6"
+rc_val: 0.9
+dens_val: 11
 N_50_val: 83
 scix_url: VDBH%2092
 posit_table: |
@@ -93,9 +95,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.32 | 1.6 | 2.08 | 156 | 0.001 | 228 | 0.53 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.34 | 1.64 | 2.08 | 141 | 0.001 | 228 | 0.53 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.25 | 1.89 | -- | 29 | -- | 228 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 614<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.34 | 1.88 | 2.08 | 75 | -- | 614<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.63 | 1.68 | -- | 170 | 0.530 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.34 | 1.88 | 2.08 | 75 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.30 | 1.90 | -- | 28 | -0.009 | 215<sup>(1)</sup> | 0.53 | -- |

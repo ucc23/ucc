@@ -13,25 +13,25 @@ glon: 86.12233
 glat: -1.42948
 r50: 1.3
 plx: 0.0976
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.42"
+UTI_COLOR: "#fef6d9"
 UTI_C_N_COL: "#fefce4"
-UTI_C_dens_COL: "#eaf6d1"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.48
-UTI_C_dens: 0.64
+UTI_C_dens: 0.11
 UTI_C_C3: 0.75
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 428</b> is a poorly populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.25 kpc) differs significantly from the median photometric distance (~1.19 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Collinder 428</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.25 kpc) differs significantly from the median photometric distance (~1.19 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 3.2
+rc_val: 3.5
+dens_val: 0.6
 N_50_val: 48
 scix_url: Collinder%20428
 posit_table: |
@@ -68,7 +69,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.35 | -2.98 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 315.768 | 44.56 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 315.795 | 44.583 | -- | -1.213 | -0.257 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 315.8 | 44.583 | -3.28 | -0.89 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 315.8 | 44.583 | -- | -3.28 | -0.89 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 315.768 | 44.56 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 315.8 | 44.583 | -- | -3.13 | -1.47 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 315.76 | 44.58 | -- | -0.5 | -0.55 | -- |
@@ -80,10 +81,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.19 | 1.63 | 1.57 | 716 | 0.002 | 1156 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.19 | 1.83 | 1.57 | 660 | 0.002 | 1156 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.230<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.002<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1156<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 7.68 | 2.90 | 1.57 | 158 | -- | 1156<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.59 | 1.83 | -- | 794 | 0.390 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 7.68 | 2.90 | 1.57 | 158 | -- | -- | -- | -- |
     | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.19 | -- | -- | 716 | -- | -- | -- | -- |
@@ -97,6 +98,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3030](/_clusters/cwnu3030/)| 89.6 | 315.74 | 44.5 | 0.11 | -2.9 | -3.04 | -72.05 |0.19 |
+    |[CWNU 3030](/_clusters/cwnu3030/)| 89.6 | 315.74 | 44.5 | 0.11 | -2.9 | -3.04 | -72.05 |0.12 |
 N_rows_shared: "1"
 ---

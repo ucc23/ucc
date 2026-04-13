@@ -13,15 +13,15 @@ glon: 186.82741
 glat: -2.48634
 r50: 2.1
 plx: 0.1462
-UTI: "0.92"
-UTI_COLOR: "#add7c0"
+UTI: "0.91"
+UTI_COLOR: "#add9c0"
 UTI_C_N_COL: "#c2e4c6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a7cebb"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
-UTI_C_dens: 1.0
+UTI_C_dens: 0.98
 UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -49,13 +49,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.13 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.13 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0773, e_all=0.1266.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.44. Apparently, star Gaia DR2 3424171202249574656 is a massive straggler.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area is (B-V)=0.97.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 17.4
+N_comments: "6"
+rc_val: 1.9
+dens_val: 4.9
 N_50_val: 304
 scix_url: Berkeley%2021
 posit_table: |
@@ -82,7 +84,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 87.93 | 21.812 | 0.159 | 0.562 | -1.051 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.87 | -3.45 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 87.93 | 21.815 | -- | 0.266 | -1.085 | 12.4 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 87.925 | 21.783 | 1.16 | -5.6 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 87.925 | 21.783 | -- | 1.16 | -5.6 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 87.936 | 21.816 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 87.925 | 21.783 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 87.925 | 21.783 | -- | 1.47 | -5.8 | -- |
@@ -101,12 +103,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.31 | 2.1 | 1.84 | 2114 | -0.263 | 1632 | -- | 20 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.31 | 2.1 | 1.84 | 2089 | -0.263 | 1632 | -- | 20 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 2138 | -0.230<sup>(15)</sup> | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 2140 | -0.220 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.200<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.263<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1632<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.93 | 2.49 | 1.84 | 882 | -- | 1632<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 5.94 | 2.05 | -- | 2089 | -0.380 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.93 | 2.50 | 1.84 | 881 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1995 | -- | 1230 | -- | -- |

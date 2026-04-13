@@ -13,25 +13,25 @@ glon: 185.21831
 glat: -13.03119
 r50: 35.5
 plx: 2.3254
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#e7f4cf"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 0.66
+UTI_C_dens: 0.21
 UTI_C_C3: 0.75
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>OCSN 54</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 54</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 3.3
+rc_val: 1.5
+dens_val: 1.1
 N_50_val: 65
 scix_url: OCSN%2054
 posit_table: |
@@ -84,6 +85,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 111](/_clusters/ocsn111/)| 6.2 | 79.29 | 18.61 | 2.83 | -0.11 | -5.87 | 21.26 |0.46 |
+    |[OCSN 111](/_clusters/ocsn111/)| 6.2 | 79.29 | 18.61 | 2.83 | -0.11 | -5.87 | 21.26 |0.38 |
 N_rows_shared: "1"
 ---

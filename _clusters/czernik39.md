@@ -47,12 +47,14 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2755, e_all=0.1308.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg25' along with NGC 6755 and NGC 6756.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
-dens_val: 25.8
+N_comments: "3"
+rc_val: 1.6
+dens_val: 5.8
 N_50_val: 134
 scix_url: Czernik%2039
 posit_table: |
@@ -71,7 +73,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.19 | -3.67 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 286.882 | 4.333 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 286.935 | 4.349 | -- | -7.336 | -7.767 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 286.933 | 4.333 | 0.02 | -3.05 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 286.933 | 4.333 | -- | 0.02 | -3.05 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 286.882 | 4.333 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 286.875 | 4.331 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 286.933 | 4.333 | -- | -- | -- | -- |

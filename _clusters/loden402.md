@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.0
+rc_val: 8.0
+dens_val: 0.05
 N_50_val: 7
 scix_url: Loden%20402
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 173.161 | -60.711 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -7.5 | 1.62 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 173.085 | -60.705 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 173.217 | -60.717 | -3.06 | -3.79 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 173.217 | -60.717 | -- | -3.06 | -3.79 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 173.085 | -60.705 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 173.077 | -60.702 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 173.217 | -60.717 | -- | -3.23 | -3.59 | -- |

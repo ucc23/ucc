@@ -52,13 +52,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.3434, e_all=0.0227.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg02' along with Gulliver 6, UBC 17a and UBC 17b.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "8"
-dens_val: 22.8
+N_comments: "9"
+rc_val: 1.4
+dens_val: 6.4
 N_50_val: 279
 scix_url: ASCC%2019
 posit_table: |
@@ -92,7 +94,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 81.982 | -1.987 | -- | -- | -- | 23.89 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 81.982 | -1.987 | 2.768 | 1.152 | -1.234 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 81.922 | -1.965 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 81.946 | -1.98 | 1.58 | -0.95 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 81.946 | -1.98 | -- | 1.58 | -0.95 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 81.922 | -1.965 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 81.915 | -1.964 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 81.946 | -1.98 | -- | 1.43 | -1.0 | -- |
@@ -117,7 +119,7 @@ fpars_table: |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.35 | 0.13 | -- | 11 | 0.076 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.015<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.35 | -- | -- | 7 | -- | 72 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 56<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.34 | 0.23 | 0.52 | 7 | -- | 56<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 10 | -- | 181 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.35 | 0.56 | -- | 5 | 0.140 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.34 | 0.23 | 0.52 | 7 | -- | -- | -- | -- |
@@ -150,7 +152,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 17 a](/_clusters/ubc17a/)| 9.7 | 83.45 | -1.71 | 2.76 | 1.61 | -1.22 | 17.6 |0.48 |
-    |[OC 0339](/_clusters/oc0339/)| 0.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.25 |
+    |[UBC 17 a](/_clusters/ubc17a/)| 9.7 | 83.45 | -1.71 | 2.76 | 1.61 | -1.22 | 17.6 |0.41 |
+    |[OC 0339](/_clusters/oc0339/)| 0.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.23 |
 N_rows_shared: "2"
 ---

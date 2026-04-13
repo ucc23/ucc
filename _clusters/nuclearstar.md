@@ -13,25 +13,25 @@ glon: 359.95217
 glat: -0.0638
 r50: 6.1
 plx: 0.4219
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#f1f9d6"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#add9c0"
 UTI_C_N: 0.52
-UTI_C_dens: 0.6
+UTI_C_dens: 0.11
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.91
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Nuclear Star</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.37 kpc) differs significantly from the median photometric distance (~8.23 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Nuclear Star</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~2.37 kpc) differs significantly from the median photometric distance (~8.23 kpc).</p><p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.91</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 3.0
+rc_val: 3.4
+dens_val: 0.5
 N_50_val: 53
 scix_url: Nuclear%20Star
 posit_table: |
@@ -72,8 +73,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MKN 1](/_clusters/mkn1/)| 11.3 | 266.49 | -29.08 | 0.44 | -0.2 | -0.82 | -32.03 |0.1 |
-    |[Dutra Bica 58](/_clusters/dutrabica58/)| 9.4 | 266.27 | -28.88 | 0.43 | -0.56 | -1.61 | -34.58 |0.16 |
-    |[Dutra Bica 55](/_clusters/dutrabica55/)| 1.9 | 266.12 | -29.23 | 0.42 | -0.04 | -1.16 | 81.18 |0.07 |
+    |[MKN 1](/_clusters/mkn1/)| 11.3 | 266.49 | -29.08 | 0.44 | -0.2 | -0.82 | -32.03 |0.05 |
+    |[Dutra Bica 58](/_clusters/dutrabica58/)| 9.4 | 266.27 | -28.88 | 0.43 | -0.56 | -1.61 | -34.58 |0.14 |
+    |[Dutra Bica 55](/_clusters/dutrabica55/)| 1.9 | 266.12 | -29.23 | 0.42 | -0.04 | -1.16 | 81.18 |0.06 |
 N_rows_shared: "3"
 ---

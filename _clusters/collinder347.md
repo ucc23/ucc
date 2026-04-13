@@ -13,25 +13,25 @@ glon: 359.74146
 glat: -0.3392
 r50: 3.8
 plx: 0.3333
-UTI: "0.66"
-UTI_COLOR: "#e7f4cf"
+UTI: "0.63"
+UTI_COLOR: "#ecf7d3"
 UTI_C_N_COL: "#ceeac8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#bce1c5"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.78
-UTI_C_dens: 1.0
+UTI_C_dens: 0.85
 UTI_C_C3: 0.75
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 347</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.00 kpc) differs significantly from the median photometric distance (~1.51 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Collinder 347</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.00 kpc) differs significantly from the median photometric distance (~1.51 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 16.7
+rc_val: 1.7
+dens_val: 4.3
 N_50_val: 184
 scix_url: Collinder%20347
 posit_table: |
@@ -67,7 +68,7 @@ posit_table: |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 266.586 | -29.344 | 0.347 | 0.324 | -1.75 | 8.86 |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 266.581 | -29.345 | 0.334 | 0.392 | -1.886 | 21.376 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.35 | -2.5 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 266.575 | -29.333 | -2.13 | -2.02 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 266.575 | -29.333 | -- | -2.13 | -2.02 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 266.575 | -29.333 | -- | -1.94 | -2.13 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 266.575 | -29.333 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 266.525 | -29.262 | -- | -- | -- | -- |
@@ -81,8 +82,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.51 | 3.66 | 3.0 | 9 | -0.320 | 1868 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2548<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.51 | 3.965 | 3.0 | 6 | -0.320 | 1868 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.78 | 4.27 | 3.00 | 6 | -- | 2548<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.75 | 4.53 | -- | 5 | -0.320 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 2.57 | 4.45 | -- | 2 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.78 | 4.27 | 3.00 | 6 | -- | -- | -- | -- |

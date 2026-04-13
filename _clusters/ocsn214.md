@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 163.0
+rc_val: 0.4
+dens_val: 75
 N_50_val: 84
 scix_url: OCSN%20214
 posit_table: |
@@ -73,6 +74,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 1014](/_clusters/cwnu1014/)| 100.0 | 242.2 | -39.07 | 6.28 | -9.91 | -23.43 | -2.54 |0.31 |
     |[OC 0666](/_clusters/oc0666/)| 51.2 | 242.17 | -39.06 | 6.31 | -10.0 | -23.48 | -2.45 |0.52 |
-    |[CWNU 1004](/_clusters/cwnu1004/)| 20.2 | 240.21 | -41.68 | 6.24 | -10.93 | -23.51 | -2.11 |0.44 |
+    |[CWNU 1004](/_clusters/cwnu1004/)| 20.2 | 240.21 | -41.68 | 6.24 | -10.93 | -23.51 | -2.11 |0.35 |
 N_rows_shared: "3"
 ---

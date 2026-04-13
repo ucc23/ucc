@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 10
+dens_val: 0.03
 N_50_val: 9
 scix_url: Collinder%2062
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |80.533 | 41.062 | 0.21 | 0.485 | -1.554 | 3.276 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 80.567 | 41.026 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 80.577 | 41.025 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 80.721 | 41.081 | 0.65 | -0.91 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 80.721 | 41.081 | -- | 0.65 | -0.91 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 80.577 | 41.025 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 80.567 | 41.026 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 80.721 | 41.081 | -- | 0.37 | -0.88 | -- |

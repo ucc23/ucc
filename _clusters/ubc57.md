@@ -13,25 +13,25 @@ glon: 157.47814
 glat: -6.31154
 r50: 3.7
 plx: 0.506
-UTI: "0.57"
-UTI_COLOR: "#f5fbdc"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fcfee5"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
-UTI_C_dens: 1.0
+UTI_C_dens: 0.52
 UTI_C_C3: 0.62
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UBC 57</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>UBC 57</b> is a moderately populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.85 (50th percentile), true positive (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.85 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2919, e_all=0.2813.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "4"
-dens_val: 12.4
+N_comments: "5"
+rc_val: 1.7
+dens_val: 2.6
 N_50_val: 56
 scix_url: UBC%2057
 posit_table: |
@@ -79,11 +81,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.77 | 1.42 | 0.26 | 1514 | -0.142 | 213 | 0.59 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.77 | 1.32 | 0.26 | 1514 | -0.142 | 213 | 0.59 | 0 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.070<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.60 | 1.52 | -- | 1722 | -- | 233 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.252<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 193<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.77 | 1.10 | 0.26 | 1393 | -- | 193<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.71 | 1.32 | -- | 1413 | 0.030 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.77 | 1.10 | 0.26 | 1393 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.75 | 1.54 | -- | 1648 | -0.142 | 192<sup>(1)</sup> | 0.59 | -- |

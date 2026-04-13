@@ -53,12 +53,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 31.3, 2 WD candidates found, and 0 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2314, e_all=0.3842.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Adopted  cluster centre: star 69 in (1967ApJ...147..988K). Star 2=HD 13088 (member?), star 161=HD 14172 (non-member?), star 164=HD 14183 (member?), according to (1967ApJ...147..988K); their spectra are A1V, A2V, A0V, respectively (1974AJ.....79..107M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "8"
-dens_val: 69.6
+N_comments: "9"
+rc_val: 2.0
+dens_val: 22
 N_50_val: 2019
 scix_url: Stock%202
 posit_table: |
@@ -95,7 +97,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 33.856 | 59.522 | 2.641 | 15.966 | -13.627 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 33.66 | 59.44 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 33.675 | 59.485 | -- | 1.744 | -1.948 | 1.8 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 33.679 | 59.485 | 16.03 | -13.53 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 33.679 | 59.485 | -- | 16.03 | -13.53 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 33.66 | 59.44 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 33.648 | 59.438 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 33.679 | 59.485 | -- | -- | -- | -- |
@@ -128,7 +130,7 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.37 | 0.79 | -- | 804 | -- | 1753 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.40 | 0.50 | -- | 1094 | 0.032 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.081<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3319<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.36 | 0.90 | 2.02 | 290 | -- | 3319<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.38 | 1.23 | -- | 234 | 0.290 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.36 | 0.90 | 2.02 | 290 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.50 | 0.79 | -- | 355 | -- | -- | -- | -- |

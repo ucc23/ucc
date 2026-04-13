@@ -13,15 +13,15 @@ glon: 222.66932
 glat: 0.55254
 r50: 5.4
 plx: 0.3396
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#fbcbbd"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.17
+UTI_C_dens: 0.2
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -31,20 +31,20 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 171</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.96</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
-badge_dist: ""
-badge_dist_url: ""
-badge_av: ""
-badge_av_url: ""
+    <b>Teutsch 171</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=0.96</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
+badge_av: "Low extinction"
+badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: ""
 badge_feh_url: ""
-badge_age: ""
-badge_age_url: ""
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
 badge_bss: ""
 badge_bss_url: ""
-badge_nofpars_url: "dav_min=1e6&bf_min=1e6&dist_min=1e6&av_min=1e6&mass_min=1e6&feh_min=1e6&age_min=1e6&bss_min=1e6&nofpars=true"
+badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.98 (50th percentile), true positive? (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.8
+rc_val: 1.6
+dens_val: 1.0
 N_50_val: 18
 scix_url: Teutsch%20171
 posit_table: |
@@ -67,8 +68,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 227 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 227<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.5 | 0.69 | 1.11 | 47 | -- | 227 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.50 | 0.69 | 1.11 | 47 | -- | 227<sup>(1)</sup> | -- | -- |
 N_rows_pars: "1"
 note_asterisk: true
 shared_table: |

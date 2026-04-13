@@ -13,25 +13,25 @@ glon: 289.30688
 glat: 4.82199
 r50: 12.0
 plx: 1.0244
-UTI: "0.66"
-UTI_COLOR: "#e7f4cf"
+UTI: "0.58"
+UTI_COLOR: "#f4fada"
 UTI_C_N_COL: "#fef8dd"
-UTI_C_dens_COL: "#d3ecc9"
+UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e3f3cd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.44
-UTI_C_dens: 0.76
+UTI_C_dens: 0.33
 UTI_C_C3: 0.75
 UTI_C_lit: 0.68
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>ASCC 66</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>ASCC 66</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.81 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.81 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4012, e_all=0.2744.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 3.8
+N_comments: "5"
+rc_val: 1.7
+dens_val: 1.7
 N_50_val: 44
 scix_url: ASCC%2066
 posit_table: |
@@ -73,7 +75,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 168.399 | -55.419 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 168.367 | -55.437 | 0.999 | -11.331 | 2.969 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 168.39 | -55.44 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 168.404 | -55.42 | -6.22 | 0.7 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 168.404 | -55.42 | -- | -6.22 | 0.7 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 168.39 | -55.44 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 168.383 | -55.437 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 168.404 | -55.42 | -- | -6.31 | 0.57 | -- |
@@ -90,7 +92,7 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.97 | 0.32 | 0.59 | 58 | -0.046 | 76 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.91 | 0.30 | -- | 116 | -0.046 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.94 | 0.35 | -- | 117 | -- | 56 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 89<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.94 | 0.29 | 0.59 | 91 | -- | 89<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.00 | 0.57 | -- | 40 | -0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.94 | 0.29 | 0.59 | 91 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 58 | -- | 63 | -- | -- |

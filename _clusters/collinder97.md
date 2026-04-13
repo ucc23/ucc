@@ -13,15 +13,15 @@ glon: 205.39023
 glat: -1.63418
 r50: 4.9
 plx: 0.1233
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.01
 UTI_C_C3: 0.38
 UTI_C_lit: 0.61
 UTI_C_dup: 1.0
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 0.1
+rc_val: 5.0
+dens_val: 0.06
 N_50_val: 20
 scix_url: Collinder%2097
 posit_table: |
@@ -66,7 +67,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.2 | -1.83 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 97.92 | 5.975 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 97.83 | 5.975 | -- | -0.235 | -1.088 | 17.9 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 97.825 | 5.917 | -1.75 | -1.45 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 97.825 | 5.917 | -- | -1.75 | -1.45 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 97.92 | 5.975 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 97.913 | 5.976 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 97.825 | 5.917 | -- | -1.62 | -1.32 | -- |
@@ -108,6 +109,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2937](/_clusters/cwnu2937/)| 56.0 | 97.93 | 5.87 | 0.14 | -0.18 | 0.21 | 25.0 |0.06 |
-    |[Teutsch 137](/_clusters/teutsch137/)| 44.0 | 97.92 | 5.88 | 0.17 | -0.33 | 0.27 | 30.37 |0.17 |
+    |[Teutsch 137](/_clusters/teutsch137/)| 44.0 | 97.92 | 5.88 | 0.17 | -0.33 | 0.27 | 30.37 |0.16 |
 N_rows_shared: "2"
 ---

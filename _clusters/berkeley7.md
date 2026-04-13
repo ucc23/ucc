@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 7</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Berkeley 7</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption, age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -40,8 +40,8 @@ badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
-badge_age: "Very young"
-badge_age_url: "age_min=0&age_max=20"
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -52,11 +52,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2043, e_all=0.1489.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "6"
-dens_val: 22.4
+N_comments: "7"
+rc_val: 1.2
+dens_val: 9.2
 N_50_val: 128
 scix_url: Berkeley%207
 posit_table: |
@@ -77,7 +79,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 28.546 | 62.366 | 0.337 | -0.993 | -0.13 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.28 | -0.94 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 28.545 | 62.367 | -- | -4.554 | -2.041 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 28.55 | 62.367 | -1.83 | 0.23 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 28.55 | 62.367 | -- | -1.83 | 0.23 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 28.533 | 62.367 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 28.55 | 62.367 | -- | -2.76 | 0.97 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 28.545 | 62.37 | -- | -4.3 | -1.95 | -- |
@@ -94,10 +96,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.6 | 2.2 | 2.19 | 19 | -0.154 | 472 | 0.69 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.62 | 2.2 | 2.19 | 20 | -0.154 | 472 | 0.69 | 0 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 5.81 | 0.73 | -- | 47 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.39 | 2.12 | -- | 40 | -- | 710 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 886<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.64 | 2.06 | 2.19 | 36 | -- | 886<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.98 | 2.11 | -- | 45 | 0.650 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.64 | 2.06 | 2.19 | 36 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.43 | 2.20 | -- | 38 | -0.058 | 472<sup>(1)</sup> | 0.69 | -- |
@@ -127,7 +129,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2006](/_clusters/cwwdl2006/)| 2.3 | 28.92 | 61.99 | 0.33 | -1.07 | -0.31 | -- |0.08 |
-    |[CWWDL 2617](/_clusters/cwwdl2617/)| 0.8 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.3 |
-    |[CWWDL 2619](/_clusters/cwwdl2619/)| 0.8 | 28.3 | 62.77 | 0.33 | -1.0 | -0.28 | -- |0.3 |
+    |[CWWDL 2617](/_clusters/cwwdl2617/)| 0.8 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.28 |
+    |[CWWDL 2619](/_clusters/cwwdl2619/)| 0.8 | 28.3 | 62.77 | 0.33 | -1.0 | -0.28 | -- |0.27 |
 N_rows_shared: "3"
 ---

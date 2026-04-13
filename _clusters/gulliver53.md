@@ -13,25 +13,25 @@ glon: 173.22253
 glat: -1.13561
 r50: 4.8
 plx: 0.381
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.43"
+UTI_COLOR: "#fef7db"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#aad2bd"
+UTI_C_dens_COL: "#fbcbbd"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fee5ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 0.95
+UTI_C_dens: 0.2
 UTI_C_C3: 0.75
 UTI_C_lit: 0.32
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Gulliver 53</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>Gulliver 53</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4843, e_all=0.0815.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg17' along with COIN-Gaia 40, Kronberger 1, NGC 1893 and Stock 8.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 4.8
+N_comments: "6"
+rc_val: 2.5
+dens_val: 1.0
 N_50_val: 64
 scix_url: Gulliver%2053
 posit_table: |
@@ -79,10 +81,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.395 | 1.46 | 0.87 | 144 | 0.000 | 267 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.37 | 1.46 | 0.87 | 144 | 0.000 | 267 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.19 | 1.46 | -- | 213 | -- | 124 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.056<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 410<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.37 | 1.35 | 0.87 | 144 | -- | 410<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.25 | 1.56 | -- | 195 | -0.020 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.37 | 1.35 | 0.87 | 144 | -- | -- | -- | -- |
     | [Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 2.19 | 1.46 | -- | 213 | -0.072 | -- | -- | -- |

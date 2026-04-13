@@ -13,25 +13,25 @@ glon: 161.03247
 glat: -0.65605
 r50: 5.5
 plx: 0.4907
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#f1f9d6"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
-UTI_C_dens: 0.6
+UTI_C_dens: 0.11
 UTI_C_C3: 0.62
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HXHWL 35</b> is a poorly populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>HXHWL 35</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 3.0
+rc_val: 2.2
+dens_val: 0.6
 N_50_val: 32
 scix_url: HXHWL%2035
 posit_table: |
@@ -71,9 +72,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 1.09 | 0.48 | 109 | 0.198 | 217 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.94 | 1.055 | 0.485 | 109 | 0.198 | 217 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.150<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 217<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.88 | 1.02 | 0.49 | 109 | -- | 217<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.02 | 1.09 | -- | 54 | 0.220 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.88 | 1.02 | 0.48 | 109 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 2.00 | 1.27 | -- | 275 | 0.198 | -- | -- | -- |

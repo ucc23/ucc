@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 46.2
+rc_val: 0.7
+dens_val: 16
 N_50_val: 64
 scix_url: DBSB%2035
 posit_table: |
@@ -79,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 102](/_clusters/teutsch102/)| 25.0 | 138.8 | -47.49 | 0.6 | -5.26 | 4.28 | 63.62 |0.09 |
+    |[Teutsch 102](/_clusters/teutsch102/)| 25.0 | 138.8 | -47.49 | 0.6 | -5.26 | 4.28 | 63.62 |0.07 |
 N_rows_shared: "1"
 ---

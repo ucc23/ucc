@@ -50,6 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
+rc_val: 2.3
 dens_val: 0.3
 N_50_val: 20
 scix_url: HXHWL%2041
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 734](/_clusters/hsc734/)| 48.0 | 327.66 | 45.5 | 0.79 | 2.27 | -0.05 | -13.66 |0.34 |
+    |[HSC 734](/_clusters/hsc734/)| 48.0 | 327.66 | 45.5 | 0.79 | 2.27 | -0.05 | -13.66 |0.3 |
 N_rows_shared: "1"
 ---

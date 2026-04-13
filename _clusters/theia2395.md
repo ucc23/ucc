@@ -13,25 +13,25 @@ glon: 59.91234
 glat: 0.85589
 r50: 2.0
 plx: 0.2369
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e0f1cb"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.7
+UTI_C_dens: 0.14
 UTI_C_C3: 1.0
 UTI_C_lit: 0.03
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 2395</b> is a sparse, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 2395</b> is a sparse, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -40,8 +40,8 @@ badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Metal-rich"
 badge_feh_url: "feh_min=0.5&feh_max=1"
-badge_age: "Young"
-badge_age_url: "age_min=20&age_max=100"
+badge_age: "Very young"
+badge_age_url: "age_min=0&age_max=20"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 3.5
+rc_val: 2.1
+dens_val: 0.7
 N_50_val: 21
 scix_url: Theia%202395
 posit_table: |
@@ -70,8 +71,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.12 | 3.085 | 2.77 | 53 | 0.740 | 614 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 614<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.03 | 3.44 | 2.77 | 17 | 0.740 | 614 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.03 | 3.44 | 2.77 | 17 | -- | 614<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.21 | 2.73 | -- | 89 | 0.740 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.03 | 3.44 | 2.77 | 17 | -- | -- | -- | -- |
 N_rows_pars: "3"
@@ -79,6 +80,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.35 |
+    |[HSC 486](/_clusters/hsc486/)| 76.0 | 295.1 | 24.24 | 0.24 | -2.32 | -5.6 | 36.37 |0.24 |
 N_rows_shared: "1"
 ---

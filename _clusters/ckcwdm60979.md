@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 4.2
+dens_val: 0.06
 N_50_val: 15
 scix_url: CKCWDM%2060979
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 4199](/_clusters/cwnu4199/)| 4.0 | 174.3 | -58.89 | 0.12 | -5.42 | 1.35 | 41.5 |0.13 |
+    |[CWNU 4199](/_clusters/cwnu4199/)| 4.0 | 174.3 | -58.89 | 0.12 | -5.42 | 1.35 | 41.5 |0.11 |
     |[VVVX-Obasi 24](/_clusters/vvvxobasi24/)| 4.0 | 174.3 | -58.89 | 0.13 | -5.43 | 1.34 | 41.5 |0.03 |
 N_rows_shared: "2"
 ---

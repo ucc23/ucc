@@ -47,12 +47,14 @@ badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2667, e_all=0.1897.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was not include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl), parameters  log(t)=9.13, E(B-V)=0.220 and Z=0.016 are from Monteiro & Dias (2019MNRAS.487.2385M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
-dens_val: 14.4
+N_comments: "3"
+rc_val: 1.9
+dens_val: 5.1
 N_50_val: 217
 scix_url: Gulliver%201
 posit_table: |
@@ -98,6 +100,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ASCC 61](/_clusters/ascc61/)| 11.5 | 161.54 | -56.96 | 0.34 | -7.97 | 3.61 | -20.89 |0.55 |
+    |[ASCC 61](/_clusters/ascc61/)| 11.5 | 161.54 | -56.96 | 0.34 | -7.97 | 3.61 | -20.89 |0.39 |
 N_rows_shared: "1"
 ---

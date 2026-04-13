@@ -13,25 +13,25 @@ glon: 358.57199
 glat: -2.16762
 r50: 1.1
 plx: 0.0831
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
 UTI_C_N_COL: "#fee7cc"
-UTI_C_dens_COL: "#fef9de"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.33
-UTI_C_dens: 0.45
+UTI_C_dens: 0.11
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>BDSB 103</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. 
+    <b>BDSB 103</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 2.2
+rc_val: 3.0
+dens_val: 0.5
 N_50_val: 33
 scix_url: BDSB%20103
 posit_table: |

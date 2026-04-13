@@ -13,25 +13,25 @@ glon: 309.53608
 glat: -1.44746
 r50: 34.0
 plx: 2.236
-UTI: "0.02"
-UTI_COLOR: "#e2a9b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#f8fcdf"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e4aab3"
 UTI_C_N: 0.79
-UTI_C_dens: 1.0
+UTI_C_dens: 0.55
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.03
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>OCSN 90</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~0.45 kpc) differs significantly from the median photometric distance (~0.65 kpc).</p>
+    <b>OCSN 90</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~0.45 kpc) differs significantly from the median photometric distance (~0.65 kpc).</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 9.9
+rc_val: 2.2
+dens_val: 2.8
 N_50_val: 194
 scix_url: OCSN%2090
 posit_table: |

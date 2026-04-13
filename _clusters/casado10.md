@@ -13,25 +13,25 @@ glon: 249.15456
 glat: -0.74744
 r50: 2.4
 plx: 0.2702
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#fef8dd"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.44
-UTI_C_dens: 1.0
+UTI_C_dens: 0.25
 UTI_C_C3: 0.62
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Casado 10</b> is a poorly populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Casado 10</b> is a poorly populated, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 6.6
+rc_val: 2.0
+dens_val: 1.2
 N_50_val: 44
 scix_url: Casado%2010
 posit_table: |
@@ -70,8 +71,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.28 | 1.745 | 0.64 | 135 | -0.150 | 225 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 225<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.28 | 1.65 | 0.64 | 153 | -0.150 | 225 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.28 | 1.65 | 0.64 | 154 | -- | 225<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.49 | 1.84 | -- | 117 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.28 | 1.65 | 0.64 | 153 | -- | -- | -- | -- |
     | [Casado](https://scixplorer.org/abs/2021RAA....21..117C) | 2021 | 3.60 | -- | -- | -- | -- | -- | -- | -- |

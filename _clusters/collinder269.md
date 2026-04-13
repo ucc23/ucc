@@ -13,25 +13,25 @@ glon: 306.20574
 glat: -3.53324
 r50: 5.9
 plx: 0.5806
-UTI: "0.77"
-UTI_COLOR: "#d0eac9"
+UTI: "0.70"
+UTI_COLOR: "#e0f1cb"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#ecf7d3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e3f3cd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 1.0
+UTI_C_dens: 0.63
 UTI_C_C3: 0.75
 UTI_C_lit: 0.68
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Collinder 269</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Collinder 269</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 1.00 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0408, e_all=0.1077.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 13.0
+N_comments: "5"
+rc_val: 2.1
+dens_val: 3.2
 N_50_val: 114
 scix_url: Collinder%20269
 posit_table: |
@@ -77,7 +79,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 200.887 | -66.19 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 200.992 | -66.204 | 0.568 | -5.058 | -2.492 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 200.962 | -66.16 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 200.879 | -66.183 | -3.38 | -3.99 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 200.879 | -66.183 | -- | -3.38 | -3.99 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 200.952 | -66.157 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 200.879 | -66.183 | -- | -3.45 | -3.87 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 200.962 | -66.16 | -- | -8.16 | -1.75 | -- |
@@ -89,11 +91,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.68 | 0.81 | 0.28 | 385 | -0.080 | 354 | 0.52 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.65 | 0.81 | 0.28 | 397 | -0.080 | 354 | 0.52 | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.35 | 0.62 | -- | 918 | -0.242 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.280<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.57 | 0.81 | -- | 444 | -- | 208 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 354<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.62 | 0.61 | 0.28 | 409 | -- | 354<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.49 | 0.76 | -- | 692 | -0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.62 | 0.61 | 0.28 | 409 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.62 | 1.00 | -- | 385 | 0.013 | 477<sup>(1)</sup> | 0.52 | -- |

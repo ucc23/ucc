@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 6.6
+rc_val: 1.1
+dens_val: 6.7
 N_50_val: 66
 scix_url: Collinder%20367
 posit_table: |
@@ -66,7 +67,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 272.387 | -23.655 | 0.787 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 272.456 | -23.652 | 0.783 | 1.893 | -1.515 | -22.582 |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 272.407 | -23.7 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 272.462 | -23.828 | -0.71 | -3.49 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 272.462 | -23.828 | -- | -0.71 | -3.49 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 272.407 | -23.7 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 272.462 | -23.828 | -- | -0.65 | -3.73 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 272.462 | -23.828 | -- | -- | -- | -- |
@@ -84,7 +85,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.2 | 1.1 | 2.5 | 7 | 0.040 | 3162 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.19 | 0.41 | -- | 16 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 424<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.23 | 1.66 | 2.50 | 4 | -- | 424<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.29 | 1.79 | -- | 5 | 0.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.23 | 1.66 | 2.50 | 4 | -- | -- | -- | -- |
     | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 1.17 | -- | -- | 20 | -- | -- | -- | -- |

@@ -13,25 +13,25 @@ glon: 332.63527
 glat: 16.52795
 r50: 34.1
 plx: 7.4519
-UTI: "0.43"
-UTI_COLOR: "#fef7db"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 1.0
+UTI_C_dens: 0.43
 UTI_C_C3: 0.75
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>OCSN 91</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
+    <b>OCSN 91</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 14.1
+rc_val: 1.4
+dens_val: 2.1
 N_50_val: 25
 scix_url: OCSN%2091
 posit_table: |

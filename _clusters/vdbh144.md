@@ -13,25 +13,25 @@ glon: 305.36255
 glat: -3.1607
 r50: 0.9
 plx: 0.0656
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.75"
+UTI_COLOR: "#d4ecc9"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#d0eac9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.79
-UTI_C_dens: 1.0
+UTI_C_dens: 0.77
 UTI_C_C3: 0.75
 UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>VDBH 144</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~15.24 kpc) differs significantly from the median photometric distance (~9.64 kpc).</p><p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>VDBH 144</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~15.24 kpc) differs significantly from the median photometric distance (~9.85 kpc).</p><p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.08 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.08 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Also known as Andrew-Lindsay 1 and ESO 96-SC04; hosts the planetary nebula PHR 1315-6555. The CMD shows a densely populated main sequence with the TO at G=17.5 and a scattered RC at similar magnitude. Janes 1994 gives 7.6 kpc; Carraro 2005 used a small 0.6' radius and obtained 16.9 kpc and 0.8 Gyr. Our RDP suggests a radius over 1.5'. ASteCA gives 10.1 kpc and ~1 Gyr. Majaess 2014 (10.0±0.4 kpc, 0.8±3 Gyr) and CG20 (9.6 kpc, 1.4 Gyr) are the closest matches. Fragkou 2019 gives ~12 kpc and 0.66 Gyr, consistent with OC02 and WEBDA.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2778, e_all=0.1201.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 13.4
+N_comments: "5"
+rc_val: 2.0
+dens_val: 3.8
 N_50_val: 213
 scix_url: VDBH%20144
 posit_table: |
@@ -90,8 +92,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.64 | 1.93 | 2.22 | 897 | -0.510 | 4318 | 0.32 | 2 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2811<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 9.845 | 1.97 | 2.22 | 794 | -0.510 | 4318 | 0.32 | 2 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 13.16 | 2.81 | 2.22 | 90 | -- | 2811<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.28 | 1.59 | -- | 3388 | -0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 13.16 | 2.81 | 2.22 | 90 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1000 | -- | 959 | -- | -- |

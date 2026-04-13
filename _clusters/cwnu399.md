@@ -13,25 +13,25 @@ glon: 260.34905
 glat: -3.80828
 r50: 9.8
 plx: 0.8215
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#fefee8"
+UTI_C_dens_COL: "#f8c6ba"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.3
-UTI_C_dens: 0.5
+UTI_C_dens: 0.18
 UTI_C_C3: 0.25
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CWNU 399</b> is a poorly populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>CWNU 399</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 2.5
+rc_val: 1.7
+dens_val: 0.9
 N_50_val: 30
 scix_url: CWNU%20399
 posit_table: |
@@ -72,8 +73,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.22 | 1.815 | 2.14 | 26 | -0.470 | 150 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 150<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.2 | 1.57 | 2.14 | 32 | -0.470 | 150 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.18 | 1.57 | 2.14 | 40 | -- | 150<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.22 | 2.06 | -- | 20 | -0.060 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.18 | 1.57 | 2.14 | 40 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 2.45 | -- | 32 | -- | -- | -- | -- |

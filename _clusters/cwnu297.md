@@ -13,25 +13,25 @@ glon: 108.79306
 glat: -8.85559
 r50: 3.9
 plx: 0.4599
-UTI: "0.02"
-UTI_COLOR: "#e2a9b3"
+UTI: "0.01"
+UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#bce1c5"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#edb2b3"
 UTI_C_N: 0.26
-UTI_C_dens: 0.85
+UTI_C_dens: 0.25
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.08
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>CWNU 297</b> is a poorly populated, dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~2.17 kpc) differs significantly from the median photometric distance (~3.80 kpc).</p>
+    <b>CWNU 297</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~2.17 kpc) differs significantly from the median photometric distance (~3.80 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Low extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 4.3
+rc_val: 1.7
+dens_val: 1.3
 N_50_val: 26
 scix_url: CWNU%20297
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1174](/_clusters/ubc1174/)| 92.3 | 350.06 | 51.5 | 0.46 | -2.96 | -0.45 | -- |0.23 |
+    |[UBC 1174](/_clusters/ubc1174/)| 92.3 | 350.06 | 51.5 | 0.46 | -2.96 | -0.45 | -- |0.15 |
 N_rows_shared: "1"
 ---

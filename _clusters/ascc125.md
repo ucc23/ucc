@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>ASCC 125</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.84 kpc) differs significantly from the median photometric distance (~1.50 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>ASCC 125</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~0.84 kpc) differs significantly from the median photometric distance (~1.36 kpc).</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 423.5
+rc_val: 0.9
+dens_val: 70
 N_50_val: 367
 scix_url: ASCC%20125
 posit_table: |
@@ -69,7 +70,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 344.102 | 62.711 | 1.191 | -0.541 | -2.197 | -23.131 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 344.079 | 62.746 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 344.122 | 62.722 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 344.071 | 62.75 | -0.32 | -1.17 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 344.071 | 62.75 | -- | -0.32 | -1.17 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 344.071 | 62.75 | -- | -0.66 | -1.47 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 344.071 | 62.75 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 344.059 | 62.742 | -- | -- | -- | -- |
@@ -82,10 +83,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.5 | 2.24 | 2.45 | 10 | -0.265 | 4913 | 0.52 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.36 | 2.605 | 2.45 | 8 | -0.265 | 4913 | 0.52 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.64 | 0.84 | -- | 6 | -- | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 1.22 | 2.97 | -- | 15 | -0.750 | 4913 | 0.52 | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 316<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.82 | 3.82 | 2.45 | 4 | -- | 316<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.11 | 3.01 | -- | 6 | 0.220 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.82 | 3.83 | 2.45 | 4 | -- | -- | -- | -- |
     | [Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 0.57 | -- | -- | 5 | -- | -- | -- | -- |

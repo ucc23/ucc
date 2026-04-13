@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 14.9
+rc_val: 0.9
+dens_val: 5.1
 N_50_val: 47
 scix_url: CWWDL%205475
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC 3164](/_clusters/lisc3164/)| 100.0 | 198.23 | -64.26 | 0.46 | -4.34 | -0.54 | -18.4 |0.49 |
+    |[LISC 3164](/_clusters/lisc3164/)| 100.0 | 198.23 | -64.26 | 0.46 | -4.34 | -0.54 | -18.4 |0.44 |
     |[UBC 1522](/_clusters/ubc1522/)| 100.0 | 198.22 | -64.26 | 0.46 | -4.35 | -0.53 | -18.4 |0.01 |
     |[CWNU 278](/_clusters/cwnu278/)| 51.1 | 198.22 | -64.26 | 0.45 | -4.35 | -0.53 | -15.14 |0.0 |
 N_rows_shared: "3"

@@ -13,15 +13,15 @@ glon: 47.0366
 glat: 20.53181
 r50: 61.1
 plx: 3.392
-UTI: "0.19"
-UTI_COLOR: "#f9c9bc"
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.18
+UTI_C_dens: 0.03
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.9
+rc_val: 1.4
+dens_val: 0.2
 N_50_val: 25
 scix_url: OCSN%2011
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3785](/_clusters/lisciii3785/)| 36.0 | 270.59 | 22.7 | 3.47 | -1.32 | -7.27 | -18.74 |0.15 |
-    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.29 |
+    |[LISC-III 3785](/_clusters/lisciii3785/)| 36.0 | 270.59 | 22.7 | 3.47 | -1.32 | -7.27 | -18.74 |0.14 |
+    |[HSC 381](/_clusters/hsc381/)| 4.0 | 270.96 | 19.47 | 3.23 | -1.16 | -8.03 | -16.73 |0.26 |
 N_rows_shared: "2"
 ---

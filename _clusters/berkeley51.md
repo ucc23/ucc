@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 51</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.41 kpc) differs significantly from the median photometric distance (~3.46 kpc).</p>
+    <b>Berkeley 51</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~6.41 kpc) differs significantly from the median photometric distance (~3.67 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 40.9
+rc_val: 1.4
+dens_val: 11
 N_50_val: 205
 scix_url: Berkeley%2051
 posit_table: |
@@ -84,8 +85,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.46 | 5.275 | 2.81 | 180 | -0.250 | 3146 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 6904<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.675 | 5.31 | 2.81 | 165 | -0.250 | 3146 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.47 | 5.64 | 2.81 | 49 | -- | 6904<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.89 | 5.31 | -- | 102 | -0.250 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.47 | 5.64 | 2.81 | 50 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 180 | -- | 1274 | -- | -- |

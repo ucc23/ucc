@@ -53,13 +53,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2539, e_all=0.4283.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg07' along with Alessi 5.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The dereddened colour-magnitude diagram in (1990AJ....100..695L) was examined.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "9"
-dens_val: 76.2
+N_comments: "10"
+rc_val: 1.5
+dens_val: 23
 N_50_val: 861
 scix_url: VDBH%2099
 posit_table: |
@@ -92,7 +94,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 159.553 | -59.168 | 2.225 | -14.494 | 0.919 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 159.465 | -59.125 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 159.48 | -59.183 | -- | -13.85 | 0.05 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 159.475 | -59.183 | -5.64 | -2.69 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 159.475 | -59.183 | -- | -5.64 | -2.69 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 159.465 | -59.125 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 159.458 | -59.122 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 159.475 | -59.183 | -- | -5.81 | -2.5 | -- |
@@ -115,14 +117,14 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.46 | 0.24 | 0.52 | 53 | -0.041 | 139 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.455 | 0.235 | 0.52 | 50 | -0.041 | 139 | -- | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 100 | -- | -- | -- | -- |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.44 | 0.30 | -- | 44 | -0.099 | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.42 | 0.24 | -- | 59 | -0.081 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.44 | 0.27 | -- | 62 | -- | 511 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.47 | 0.34 | -- | 46 | 0.067 | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.44 | -- | -- | 45 | -- | 855 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 728<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.43 | 0.11 | 0.52 | 45 | -- | 728<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.47 | 0.50 | -- | 17 | 0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.43 | 0.11 | 0.52 | 45 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.47 | 0.22 | -- | 56 | -- | -- | -- | -- |

@@ -13,25 +13,25 @@ glon: 174.27444
 glat: -0.90179
 r50: 3.8
 plx: 0.3822
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f1f9d6"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.6
+UTI_C_dens: 0.21
 UTI_C_C3: 0.38
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HXWHB 10</b> is a poorly populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>HXWHB 10</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 3.0
+rc_val: 1.7
+dens_val: 1.1
 N_50_val: 25
 scix_url: HXWHB%2010
 posit_table: |
@@ -71,9 +72,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.32 | 0.94 | 0.72 | 404 | 0.023 | 343 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.295 | 0.94 | 0.72 | 404 | 0.023 | 343 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.334<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 343<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.27 | 0.94 | 0.72 | 404 | -- | 343<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.32 | 0.80 | -- | 490 | 0.380 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.27 | 0.94 | 0.72 | 404 | -- | -- | -- | -- |
     | [Hao et al.](https://scixplorer.org/abs/2020PASP..132c4502H) | 2020 | 3.09 | 1.62 | -- | 316 | -- | -- | -- | -- |
@@ -82,6 +83,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1283](/_clusters/ubc1283/)| 100.0 | 81.9 | 33.3 | 0.39 | 1.29 | -2.85 | 18.47 |0.13 |
+    |[UBC 1283](/_clusters/ubc1283/)| 100.0 | 81.9 | 33.3 | 0.39 | 1.29 | -2.85 | 18.47 |0.09 |
 N_rows_shared: "1"
 ---

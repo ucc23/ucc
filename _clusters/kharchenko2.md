@@ -13,25 +13,25 @@ glon: 16.65076
 glat: -0.34554
 r50: 3.1
 plx: 0.3164
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.33"
+UTI_COLOR: "#fee7cc"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#cce9c8"
+UTI_C_dens_COL: "#fcd4c1"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
-UTI_C_dens: 0.79
+UTI_C_dens: 0.24
 UTI_C_C3: 0.62
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Kharchenko 2</b> is a poorly populated, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a very massive, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Kharchenko 2</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a very massive, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 3.9
+rc_val: 1.5
+dens_val: 1.2
 N_50_val: 32
 scix_url: Kharchenko%202
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |275.592 | -14.605 | 0.316 | -0.245 | -1.936 | -240.386 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 275.579 | -14.587 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.76 | -1.95 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 275.571 | -14.59 | 2.13 | -0.35 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 275.571 | -14.59 | -- | 2.13 | -0.35 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 275.579 | -14.587 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 275.587 | -14.585 | -- | -0.07 | -0.33 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 275.571 | -14.59 | -- | -- | -- | -- |

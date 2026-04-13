@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 0.0
+rc_val: 20
+dens_val: 0.00
 N_50_val: 13
 scix_url: Lynga%207
 posit_table: |

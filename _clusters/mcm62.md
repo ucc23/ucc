@@ -16,12 +16,12 @@ plx: 0.4153
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.0
-UTI_C_dens: 0.16
+UTI_C_dens: 0.03
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.16
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 0.8
+rc_val: 2.5
+dens_val: 0.1
 N_50_val: 17
 scix_url: MCM%2062
 posit_table: |
@@ -74,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 95](/_clusters/dbsb95/)| 84.0 | 236.09 | -54.22 | 0.42 | -3.73 | -3.19 | -25.17 |0.28 |
-    |[HSC 2728](/_clusters/hsc2728/)| 32.0 | 235.97 | -54.31 | 0.43 | -3.7 | -3.19 | -33.99 |0.17 |
+    |[DBSB 95](/_clusters/dbsb95/)| 84.0 | 236.09 | -54.22 | 0.42 | -3.73 | -3.19 | -25.17 |0.24 |
+    |[HSC 2728](/_clusters/hsc2728/)| 32.0 | 235.97 | -54.31 | 0.43 | -3.7 | -3.19 | -33.99 |0.12 |
 N_rows_shared: "2"
 ---

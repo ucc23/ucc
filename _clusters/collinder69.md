@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.87 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.87 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2746, e_all=0.216.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02. Asterisms reported by amateur astronomers in the web.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 25.9
+N_comments: "8"
+rc_val: 2.7
+dens_val: 9.1
 N_50_val: 742
 scix_url: Collinder%2069
 posit_table: |
@@ -94,7 +96,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 83.792 | 9.813 | 2.462 | 1.194 | -2.118 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 83.835 | 9.83 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 83.775 | 9.934 | -- | 0.45 | -2.4 | 31.4 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 83.775 | 9.933 | -0.43 | -5.1 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 83.775 | 9.933 | -- | -0.43 | -5.1 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 83.835 | 9.83 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 83.827 | 9.83 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 83.775 | 9.933 | -- | 0.28 | -5.34 | -- |
@@ -114,7 +116,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.41 | 0.3 | 1.75 | 6 | -0.036 | 448 | 0.21 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.41 | 0.31 | 1.75 | 6 | -0.036 | 448 | 0.21 | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 13 | -- | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.39 | 0.09 | -- | 14 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.41 | 0.30 | -- | 7 | 0.050 | -- | -- | -- |
@@ -124,7 +126,7 @@ fpars_table: |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.42 | 0.25 | -- | 10 | -0.005 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.086<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.39 | -- | -- | 5 | -- | 1210 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 358<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.38 | 0.42 | 1.75 | 5 | -- | 358<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 13 | -- | 564 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.41 | 0.85 | -- | 3 | 0.000 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.38 | 0.42 | 1.75 | 5 | -- | -- | -- | -- |

@@ -13,25 +13,25 @@ glon: 231.96546
 glat: 2.72673
 r50: 12.2
 plx: 0.9039
-UTI: "0.90"
-UTI_COLOR: "#afdbc1"
+UTI: "0.77"
+UTI_COLOR: "#d0eac9"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 1.0
+UTI_C_dens: 0.36
 UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 26</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Ruprecht 26</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -52,11 +52,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1003, e_all=0.0177.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "6"
-dens_val: 8.7
+N_comments: "7"
+rc_val: 2.8
+dens_val: 1.8
 N_50_val: 134
 scix_url: Ruprecht%2026
 posit_table: |
@@ -82,7 +84,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.29 | 1.41 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 114.292 | -15.66 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 114.3 | -15.663 | -- | -1.092 | 0.934 | 17.8 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.296 | -15.663 | -1.49 | 0.74 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.296 | -15.663 | -- | -1.49 | 0.74 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 114.292 | -15.66 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 114.286 | -15.658 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 114.296 | -15.663 | -- | -1.51 | 1.25 | -- |
@@ -102,11 +104,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.25 | 0.475 | 0.99 | 45 | -0.122 | 351 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.205 | 0.47 | 0.99 | 38 | -0.122 | 351 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.16 | 0.10 | -- | 29 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.00 | 0.40 | -- | 26 | -0.145 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.03 | 0.48 | -- | 45 | -- | 227 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 333<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.06 | 0.21 | 0.99 | 30 | -- | 333<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.07 | 0.57 | -- | 19 | -0.240 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.06 | 0.21 | 0.99 | 30 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 63 | -- | 194 | -- | -- |

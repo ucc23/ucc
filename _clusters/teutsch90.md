@@ -16,12 +16,12 @@ plx: 0.2188
 UTI: "0.22"
 UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
-UTI_C_dens: 0.33
+UTI_C_dens: 0.31
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
@@ -53,6 +53,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
+rc_val: 1.5
 dens_val: 1.6
 N_50_val: 26
 scix_url: Teutsch%2090
@@ -71,13 +72,13 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.06 | 1.33 | 1.1 | 1995 | -- | 176 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 176<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.06 | 1.33 | 1.10 | 1995 | -- | 176<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.06 | 1.33 | 1.10 | 1995 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3483](/_clusters/cwnu3483/)| 84.6 | 82.61 | 27.1 | 0.18 | 0.31 | -0.69 | 4.06 |0.11 |
+    |[CWNU 3483](/_clusters/cwnu3483/)| 84.6 | 82.61 | 27.1 | 0.18 | 0.31 | -0.69 | 4.06 |0.06 |
 N_rows_shared: "1"
 ---

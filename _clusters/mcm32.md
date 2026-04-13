@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 22.8
+rc_val: 0.6
+dens_val: 8.8
 N_50_val: 37
 scix_url: MCM%2032
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2599](/_clusters/cwnu2599/)| 70.3 | 186.73 | -62.82 | 0.28 | -6.13 | -0.36 | -25.35 |0.12 |
+    |[CWNU 2599](/_clusters/cwnu2599/)| 70.3 | 186.73 | -62.82 | 0.28 | -6.13 | -0.36 | -25.35 |0.11 |
 N_rows_shared: "1"
 ---

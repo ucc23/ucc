@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 13.2
+rc_val: 1.1
+dens_val: 5.0
 N_50_val: 79
 scix_url: CWWDL%20594
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[COIN-Gaia 4](/_clusters/coingaia4/)| 96.2 | 26.13 | 58.75 | 0.47 | -0.97 | -1.1 | -56.31 |0.62 |
+    |[COIN-Gaia 4](/_clusters/coingaia4/)| 96.2 | 26.13 | 58.75 | 0.47 | -0.97 | -1.1 | -56.31 |0.59 |
     |[UBC 42](/_clusters/ubc42/)| 94.9 | 26.13 | 58.75 | 0.46 | -0.96 | -1.1 | -56.31 |0.03 |
     |[OC 0239](/_clusters/oc0239/)| 46.8 | 26.13 | 58.76 | 0.49 | -0.97 | -1.1 | -33.43 |0.0 |
 N_rows_shared: "3"

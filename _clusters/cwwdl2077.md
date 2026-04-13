@@ -16,12 +16,12 @@ plx: 0.2707
 UTI: "0.10"
 UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fefee8"
 UTI_C_N: 0.26
-UTI_C_dens: 0.03
+UTI_C_dens: 0.01
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.5
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.2
+rc_val: 5.6
+dens_val: 0.06
 N_50_val: 26
 scix_url: CWWDL%202077
 posit_table: |
@@ -72,7 +73,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWL 2084](/_clusters/cwwl2084/)| 50.0 | 115.7 | -21.06 | 0.27 | -2.11 | 2.88 | 102.47 |0.13 |
-    |[UBC 1384](/_clusters/ubc1384/)| 19.2 | 115.72 | -21.18 | 0.31 | -2.13 | 2.97 | -- |0.09 |
-    |[CWWL 2083](/_clusters/cwwl2083/)| 7.7 | 115.66 | -21.4 | 0.25 | -2.16 | 2.81 | 78.07 |0.21 |
+    |[UBC 1384](/_clusters/ubc1384/)| 19.2 | 115.72 | -21.18 | 0.31 | -2.13 | 2.97 | -- |0.08 |
+    |[CWWL 2083](/_clusters/cwwl2083/)| 7.7 | 115.66 | -21.4 | 0.25 | -2.16 | 2.81 | 78.07 |0.2 |
 N_rows_shared: "3"
 ---

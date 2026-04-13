@@ -13,25 +13,25 @@ glon: 0.9606
 glat: -2.24851
 r50: 6.7
 plx: 0.5525
-UTI: "0.27"
-UTI_COLOR: "#fddbc4"
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#feebce"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.35
+UTI_C_dens: 0.21
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HSC 9</b> is a sparse, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
+    <b>HSC 9</b> is a sparse, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 1.8
+rc_val: 1.4
+dens_val: 1.0
 N_50_val: 22
 scix_url: HSC%209
 posit_table: |
@@ -68,7 +69,7 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.72 | 2.18 | 2.34 | 41 | -- | 148 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 148<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.72 | 2.18 | 2.34 | 41 | -- | 148<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.72 | 2.18 | 2.34 | 41 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true

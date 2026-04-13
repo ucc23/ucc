@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-dens_val: 30.0
+rc_val: 0.9
+dens_val: 9.5
 N_50_val: 230
 scix_url: Alessi%2036
 posit_table: |
@@ -77,7 +78,7 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.28 | 0.14 | 0.58 | 29 | -0.030 | 152 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.32 | 0.09 | -- | 35 | -- | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.28 | -- | -- | 29 | -- | 204 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 100<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.28 | 0.14 | 0.58 | 29 | -- | 100<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.28 | 0.62 | -- | 21 | -0.030 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.28 | 0.14 | 0.58 | 29 | -- | -- | -- | -- |
 N_rows_pars: "5"

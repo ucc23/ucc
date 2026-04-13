@@ -13,25 +13,25 @@ glon: 221.7603
 glat: -4.63892
 r50: 6.9
 plx: 0.4764
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.35"
+UTI_COLOR: "#feebce"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 1.0
+UTI_C_dens: 0.25
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HXHWL 61</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>HXHWL 61</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 6.0
+rc_val: 3.1
+dens_val: 1.2
 N_50_val: 106
 scix_url: HXHWL%2061
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 2266](/_clusters/theia2266/)| 74.5 | 102.73 | -9.99 | 0.48 | -1.3 | 1.24 | -- |0.01 |
+    |[Theia 2266](/_clusters/theia2266/)| 74.5 | 102.73 | -9.99 | 0.48 | -1.3 | 1.24 | -- |0.0 |
     |[UBC 1354](/_clusters/ubc1354/)| 60.4 | 102.73 | -9.98 | 0.48 | -1.3 | 1.24 | -- |0.0 |
     |[CWWDL 13298](/_clusters/cwwdl13298/)| 44.3 | 102.73 | -9.98 | 0.47 | -1.31 | 1.24 | -- |0.0 |
 N_rows_shared: "3"

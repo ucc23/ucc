@@ -51,11 +51,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a main sequence extending for over 4 magnitudes with no clear RGB or RC. ASteCA gives 2.9 kpc and ~0.7 Gyr, close to Piatti 2010 (2.5 kpc, 0.7–1 Gyr). OC02 lists 11.22 kpc, which appears to be a recording error since the source is Piatti et al. Dias 2021 revised the distance to 3.4 kpc with an age of 0.3 Gyr. CG20 gives 4.0 kpc and a very young 0.17 Gyr, the largest discrepancy.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1163, e_all=0.0889.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 31.8
+N_comments: "6"
+rc_val: 1.2
+dens_val: 9.6
 N_50_val: 228
 scix_url: VDBH%2037
 posit_table: |
@@ -75,7 +77,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 128.946 | -43.61 | -- | -- | -- | 51.9 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 128.959 | -43.597 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 128.946 | -43.61 | 0.243 | -3.484 | 3.953 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 128.954 | -43.617 | -4.58 | 2.96 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 128.954 | -43.617 | -- | -4.58 | 2.96 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 128.943 | -43.615 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 128.954 | -43.617 | -- | -3.91 | 1.62 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 128.947 | -43.618 | -- | -2.14 | 7.4 | -- |
@@ -89,9 +91,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.65 | 3.4 | 2.12 | 243 | -0.060 | 2483 | 0.52 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.63 | 3.475 | 2.12 | 219 | -0.060 | 2483 | 0.52 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.44 | 3.32 | -- | 267 | -- | 1275 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2123<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.57 | 3.73 | 2.12 | 95 | -- | 2123<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.63 | 3.55 | -- | 219 | 0.530 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.57 | 3.73 | 2.12 | 95 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 32 | -- | 2483 | -- | -- |

@@ -16,12 +16,12 @@ plx: 0.4027
 UTI: "0.19"
 UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.04
 UTI_C_C3: 0.62
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -47,11 +47,13 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1583, e_all=0.1877.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
-dens_val: 0.3
+N_comments: "2"
+rc_val: 2.1
+dens_val: 0.2
 N_50_val: 19
 scix_url: UBC%2046
 posit_table: |
@@ -80,8 +82,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 3744](/_clusters/cwwdl3744/)| 12.0 | 33.13 | 57.56 | 0.38 | -0.8 | -1.07 | 13.37 |0.12 |
-    |[CWWDL 13364](/_clusters/cwwdl13364/)| 4.0 | 34.05 | 57.8 | 0.43 | -0.84 | -1.05 | 317.01 |0.14 |
-    |[CWWDL 4607](/_clusters/cwwdl4607/)| 4.0 | 33.96 | 57.71 | 0.41 | -0.82 | -1.04 | 317.01 |0.17 |
+    |[CWWDL 3744](/_clusters/cwwdl3744/)| 12.0 | 33.13 | 57.56 | 0.38 | -0.8 | -1.07 | 13.37 |0.11 |
+    |[CWWDL 13364](/_clusters/cwwdl13364/)| 4.0 | 34.05 | 57.8 | 0.43 | -0.84 | -1.05 | 317.01 |0.13 |
+    |[CWWDL 4607](/_clusters/cwwdl4607/)| 4.0 | 33.96 | 57.71 | 0.41 | -0.82 | -1.04 | 317.01 |0.15 |
 N_rows_shared: "3"
 ---

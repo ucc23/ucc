@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 12.1
+rc_val: 0.3
+dens_val: 12
 N_50_val: 22
 scix_url: Theia%20361
 posit_table: |
@@ -76,8 +77,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FOF 2302](/_clusters/fof2302/)| 96.0 | 107.26 | -7.2 | 1.14 | -0.9 | -1.2 | 3.48 |0.42 |
-    |[CWWDL 14377](/_clusters/cwwdl14377/)| 84.0 | 107.26 | -7.19 | 1.14 | -0.89 | -1.2 | 1.22 |0.01 |
+    |[FOF 2302](/_clusters/fof2302/)| 96.0 | 107.26 | -7.2 | 1.14 | -0.9 | -1.2 | 3.48 |0.36 |
+    |[CWWDL 14377](/_clusters/cwwdl14377/)| 84.0 | 107.26 | -7.19 | 1.14 | -0.89 | -1.2 | 1.22 |0.0 |
     |[OC 0370](/_clusters/oc0370/)| 80.0 | 107.27 | -7.19 | 1.14 | -0.89 | -1.19 | 1.12 |0.0 |
 N_rows_shared: "3"
 ---

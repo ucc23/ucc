@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 18.1
+rc_val: 0.6
+dens_val: 6.7
 N_50_val: 22
 scix_url: Theia%20738
 posit_table: |

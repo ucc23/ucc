@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 27.3
+rc_val: 1.1
+dens_val: 10
 N_50_val: 110
 scix_url: Danks%201
 posit_table: |
@@ -95,6 +96,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 130](/_clusters/dbsb130/)| 3.6 | 198.12 | -62.77 | 0.15 | -7.28 | -0.65 | -12.55 |0.13 |
-    |[DBSB 134](/_clusters/dbsb134/)| 3.6 | 198.38 | -62.72 | 0.17 | -6.99 | -0.6 | -31.82 |0.13 |
+    |[DBSB 134](/_clusters/dbsb134/)| 3.6 | 198.38 | -62.72 | 0.17 | -6.99 | -0.6 | -31.82 |0.12 |
 N_rows_shared: "2"
 ---

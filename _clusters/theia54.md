@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 12.1
+rc_val: 0.8
+dens_val: 5.2
 N_50_val: 25
 scix_url: Theia%2054
 posit_table: |
@@ -88,6 +89,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 273](/_clusters/ocsn273/)| 96.0 | 74.25 | 30.3 | 6.33 | 4.51 | -24.7 | 13.89 |0.08 |
+    |[OCSN 273](/_clusters/ocsn273/)| 96.0 | 74.25 | 30.3 | 6.33 | 4.51 | -24.7 | 13.89 |0.06 |
 N_rows_shared: "1"
 ---

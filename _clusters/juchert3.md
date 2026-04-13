@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Juchert 3</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, metal-rich, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.89 kpc) differs significantly from the median photometric distance (~2.08 kpc).</p>
+    <b>Juchert 3</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, metal-rich, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.89 kpc) differs significantly from the median photometric distance (~2.69 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Very high extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 19.0
+rc_val: 1.5
+dens_val: 5.5
 N_50_val: 97
 scix_url: Juchert%203
 posit_table: |
@@ -87,8 +88,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.085 | 6.27 | 1.77 | 1 | 0.870 | 1500 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1547<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.69 | 6.015 | 1.77 | 4 | 0.870 | 1500 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.34 | 5.76 | 1.77 | 2240 | -- | 1547<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 1 | -- | 2158 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.01 | 6.27 | -- | 7 | 0.870 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.34 | 5.76 | 1.77 | 2239 | -- | -- | -- | -- |

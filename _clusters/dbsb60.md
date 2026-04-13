@@ -13,15 +13,15 @@ glon: 291.00251
 glat: -2.07623
 r50: 2.9
 plx: 0.1781
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.16
+UTI_C_dens: 0.04
 UTI_C_C3: 0.62
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 60</b> is a sparse, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.61 kpc) differs significantly from the median photometric distance (~4.05 kpc).</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>DBSB 60</b> is a sparse, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.8
+rc_val: 5.3
+dens_val: 0.2
 N_50_val: 18
 scix_url: DBSB%2060
 posit_table: |

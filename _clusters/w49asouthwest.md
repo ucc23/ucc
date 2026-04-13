@@ -13,15 +13,15 @@ glon: 43.13233
 glat: 0.04211
 r50: 4.3
 plx: 0.4284
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.09"
+UTI_COLOR: "#eeb4b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fefde6"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.49
+UTI_C_dens: 0.34
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-dens_val: 2.5
+rc_val: 1.1
+dens_val: 1.7
 N_50_val: 21
 scix_url: W49A-southwest
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 132](/_clusters/bdsb132/)| 64.0 | 287.53 | 9.1 | 0.47 | -3.05 | -5.78 | 24.45 |0.07 |
-    |[W49A](/_clusters/w49a/)| 60.0 | 287.53 | 9.08 | 0.47 | -3.04 | -5.77 | 24.45 |0.12 |
+    |[BDSB 132](/_clusters/bdsb132/)| 64.0 | 287.53 | 9.1 | 0.47 | -3.05 | -5.78 | 24.45 |0.05 |
+    |[W49A](/_clusters/w49a/)| 60.0 | 287.53 | 9.08 | 0.47 | -3.04 | -5.77 | 24.45 |0.09 |
 N_rows_shared: "2"
 ---

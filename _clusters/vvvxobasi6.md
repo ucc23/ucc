@@ -13,15 +13,15 @@ glon: 260.43512
 glat: -1.30093
 r50: 2.0
 plx: 0.158
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#fefbe2"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.32
-UTI_C_dens: 0.47
+UTI_C_dens: 0.28
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.97
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 2.4
+rc_val: 1.7
+dens_val: 1.4
 N_50_val: 32
 scix_url: VVVX-Obasi%206
 posit_table: |

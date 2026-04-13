@@ -16,12 +16,12 @@ plx: 0.1589
 UTI: "0.05"
 UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e0a7b3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#add7c0"
 UTI_C_N: 0.0
-UTI_C_dens: 0.01
+UTI_C_dens: 0.0
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.92
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 4.2
+dens_val: 0.02
 N_50_val: 10
 scix_url: Pickard%20221
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3431](/_clusters/cwnu3431/)| 8.0 | 130.95 | -47.14 | 0.15 | -3.13 | 3.56 | 84.45 |0.05 |
+    |[CWNU 3431](/_clusters/cwnu3431/)| 8.0 | 130.95 | -47.14 | 0.15 | -3.13 | 3.56 | 84.45 |0.03 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 28.03905
 glat: -7.40585
 r50: 16.7
 plx: 0.9106
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f5c1b8"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.15
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "4"
-dens_val: 0.8
+rc_val: 3.1
+dens_val: 0.2
 N_50_val: 22
 scix_url: Theia%20291
 posit_table: |
@@ -72,9 +73,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.01 | 0.95 | 0.75 | 58 | 0.060 | 45 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.01 | 0.95 | 0.75 | 57 | 0.060 | 45 | -- | -- |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 58 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 45<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.01 | 0.95 | 0.75 | 57 | -- | 45<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.05 | 1.32 | -- | 51 | 0.060 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.01 | 0.95 | 0.75 | 57 | -- | -- | -- | -- |
     | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.86 | 0.95 | -- | 86 | -- | -- | -- | -- |

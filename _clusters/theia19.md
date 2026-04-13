@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 25.0
+rc_val: 0.8
+dens_val: 5.1
 N_50_val: 21
 scix_url: Theia%2019
 posit_table: |
@@ -73,9 +74,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.87 | 2.12 | 1.55 | 2 | 0.290 | 98 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.75 | 2.275 | 1.55 | 3 | 0.290 | 98 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.10 | 0.37 | -- | 2 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 98<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.69 | 3.01 | 1.55 | 4 | -- | 98<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.99 | 2.12 | -- | 2 | 0.290 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.69 | 3.01 | 1.55 | 4 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.90 | -- | 2 | -- | -- | -- | -- |

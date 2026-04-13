@@ -13,25 +13,25 @@ glon: 144.7803
 glat: -1.23293
 r50: 4.9
 plx: 0.3601
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fddbc4"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.27
+UTI_C_dens: 0.08
 UTI_C_C3: 0.12
 UTI_C_lit: 0.03
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 2135</b> is a sparse, loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>Theia 2135</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 1.3
+rc_val: 1.8
+dens_val: 0.4
 N_50_val: 21
 scix_url: Theia%202135
 posit_table: |
@@ -69,8 +70,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.73 | 4.02 | 2.38 | 52 | 0.520 | 535 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 535<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.47 | 4.07 | 2.38 | 31 | 0.520 | 535 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.47 | 4.07 | 2.38 | 31 | -- | 535<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.99 | 3.97 | -- | 72 | 0.520 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.47 | 4.07 | 2.38 | 31 | -- | -- | -- | -- |
 N_rows_pars: "3"

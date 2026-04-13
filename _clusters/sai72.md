@@ -13,25 +13,25 @@ glon: 213.23225
 glat: 1.07272
 r50: 1.8
 plx: 0.2274
-UTI: "0.55"
-UTI_COLOR: "#f8fcdf"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#f4fada"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#e5f4ce"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.58
-UTI_C_dens: 1.0
+UTI_C_dens: 0.67
 UTI_C_C3: 0.38
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>SAI 72</b> is a moderately populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>SAI 72</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 12.6
+rc_val: 1.4
+dens_val: 3.4
 N_50_val: 67
 scix_url: SAI%2072
 posit_table: |
@@ -64,7 +65,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 103.957 | 0.227 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 103.973 | 0.232 | 0.242 | -0.325 | 0.065 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 103.95 | 0.228 | -- | -0.512 | -0.267 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 103.95 | 0.227 | 1.07 | -1.08 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 103.95 | 0.227 | -- | 1.07 | -1.08 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 103.943 | 0.224 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 103.95 | 0.227 | -- | 1.47 | -1.06 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 103.95 | 0.222 | -- | -1.47 | -0.57 | -- |

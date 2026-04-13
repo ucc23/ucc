@@ -13,15 +13,15 @@ glon: 187.22134
 glat: 4.25008
 r50: 4.4
 plx: 0.1722
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.03
 UTI_C_C3: 0.75
 UTI_C_lit: 0.29
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.3
+rc_val: 3.1
+dens_val: 0.2
 N_50_val: 19
 scix_url: Koposov%2062
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 94.5 | 24.696 | -- | -- | -- | -- |
     |[Donor et al.](https://scixplorer.org/abs/2020AJ....159..199D) | 2020 | 94.509 | 24.695 | -- | -0.02 | -0.43 | 51.8 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 94.511 | 24.712 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 94.508 | 24.711 | 1.15 | 0.27 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 94.508 | 24.711 | -- | 1.15 | 0.27 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 94.5 | 24.696 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 94.508 | 24.711 | -- | 1.86 | -0.42 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 94.509 | 24.695 | -- | -2.1 | -4.84 | -- |
@@ -87,6 +88,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1484](/_clusters/hsc1484/)| 64.0 | 94.55 | 24.83 | 0.17 | 0.21 | -0.72 | -- |0.06 |
+    |[HSC 1484](/_clusters/hsc1484/)| 64.0 | 94.55 | 24.83 | 0.17 | 0.21 | -0.72 | -- |0.05 |
 N_rows_shared: "1"
 ---

@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.0
+rc_val: 6.1
+dens_val: 0.01
 N_50_val: 11
 scix_url: ASCC%2081
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |236.65 | -51.031 | 0.122 | -5.726 | -4.068 | -83.642 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 236.72 | -50.982 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 236.692 | -50.995 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 236.729 | -50.98 | -3.77 | -4.87 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 236.729 | -50.98 | -- | -3.77 | -4.87 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 236.692 | -50.995 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 236.681 | -50.994 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 236.729 | -50.98 | -- | -3.76 | -4.88 | -- |

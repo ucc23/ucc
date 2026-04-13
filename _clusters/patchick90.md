@@ -13,25 +13,25 @@ glon: 212.63618
 glat: -1.73441
 r50: 1.3
 plx: 0.1685
-UTI: "0.64"
-UTI_COLOR: "#eaf6d1"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#f3fad8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#f8fcdf"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.59
-UTI_C_dens: 1.0
+UTI_C_dens: 0.55
 UTI_C_C3: 0.5
 UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Patchick 90</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Patchick 90</b> is a moderately populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.246, e_all=0.2139.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 13.5
+N_comments: "6"
+rc_val: 2.0
+dens_val: 2.7
 N_50_val: 68
 scix_url: Patchick%2090
 posit_table: |
@@ -74,7 +76,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 101.181 | -0.532 | 0.126 | -0.15 | 1.063 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 101.182 | -0.52 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 101.181 | -0.532 | 0.126 | -0.15 | 1.063 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 101.179 | -0.539 | -0.8 | -4.23 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 101.179 | -0.539 | -- | -0.8 | -4.23 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 101.15 | -0.558 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 101.157 | -0.56 | -- | -0.44 | -2.28 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 101.178 | -0.539 | -- | -- | -- | -- |
@@ -86,10 +88,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.37 | 1.77 | 1.79 | 891 | -0.300 | 368 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.37 | 1.755 | 1.79 | 891 | -0.300 | 368 | -- | 0 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.300<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 7.25 | 1.94 | -- | 676 | -- | 286 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 508<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.81 | 1.74 | 1.79 | 859 | -- | 508<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.35 | 2.67 | -- | 832 | -1.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.81 | 1.74 | 1.79 | 859 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 891 | -- | 287 | -- | -- |

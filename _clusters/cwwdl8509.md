@@ -13,15 +13,15 @@ glon: 134.99311
 glat: -1.11348
 r50: 11.6
 plx: 0.3677
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#bfe2c5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.04
+UTI_C_dens: 0.01
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.84
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.2
+rc_val: 9.9
+dens_val: 0.05
 N_50_val: 18
 scix_url: CWWDL%208509
 posit_table: |
@@ -71,9 +72,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 2007](/_clusters/cwwdl2007/)| 20.0 | 37.43 | 59.78 | 0.35 | -0.06 | -0.49 | -- |0.06 |
-    |[Ferrero 38](/_clusters/ferrero38/)| 16.0 | 37.57 | 59.79 | 0.34 | -0.09 | -0.49 | -51.17 |0.42 |
-    |[UBC 190](/_clusters/ubc190/)| 12.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.1 |
+    |[CWWDL 2007](/_clusters/cwwdl2007/)| 20.0 | 37.43 | 59.78 | 0.35 | -0.06 | -0.49 | -- |0.05 |
+    |[Ferrero 38](/_clusters/ferrero38/)| 16.0 | 37.57 | 59.79 | 0.34 | -0.09 | -0.49 | -51.17 |0.33 |
+    |[UBC 190](/_clusters/ubc190/)| 12.0 | 37.43 | 59.79 | 0.34 | -0.07 | -0.49 | -- |0.08 |
     |[OC 0249](/_clusters/oc0249/)| 4.0 | 37.37 | 59.83 | 0.35 | -0.07 | -0.46 | -- |0.03 |
 N_rows_shared: "4"
 ---

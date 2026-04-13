@@ -31,7 +31,7 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Dolidze 20</b> is a sparse, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.09 kpc) differs significantly from the median photometric distance (~0.80 kpc).</p>
+    <b>Dolidze 20</b> is a sparse, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-dens_val: 24.9
+rc_val: 0.8
+dens_val: 5.0
 N_50_val: 24
 scix_url: Dolidze%2020
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 81.928 | 33.786 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.47 | -3.25 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 81.93 | 33.786 | -- | 0.565 | -1.36 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 81.954 | 33.793 | 0.57 | -2.66 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 81.954 | 33.793 | -- | 0.57 | -2.66 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 81.937 | 33.785 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 81.928 | 33.786 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 81.954 | 33.793 | -- | 0.6 | -3.03 | -- |

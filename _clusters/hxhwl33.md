@@ -13,25 +13,25 @@ glon: 343.05884
 glat: 2.66171
 r50: 9.5
 plx: 0.9045
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#f3fad8"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#f7fbde"
 UTI_C_N: 0.75
-UTI_C_dens: 1.0
+UTI_C_dens: 0.59
 UTI_C_C3: 1.0
 UTI_C_lit: 0.1
 UTI_C_dup: 0.56
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>HXHWL 33</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>HXHWL 33</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 11.9
+rc_val: 1.9
+dens_val: 3.0
 N_50_val: 111
 scix_url: HXHWL%2033
 posit_table: |
@@ -71,8 +72,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.05 | 1.2 | 0.65 | 64 | 0.066 | 447 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 447<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.05 | 1.1 | 0.65 | 83 | 0.066 | 447 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.05 | 1.09 | 0.65 | 95 | -- | 447<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.03 | 1.10 | -- | 83 | 0.110 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.05 | 1.09 | 0.65 | 95 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.30 | -- | 40 | -- | -- | -- | -- |
@@ -84,6 +85,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14192](/_clusters/cwwdl14192/)| 65.8 | 251.7 | -41.21 | 0.9 | 1.43 | -3.0 | -6.31 |0.0 |
     |[UBC 1561](/_clusters/ubc1561/)| 52.3 | 251.68 | -41.21 | 0.9 | 1.45 | -2.99 | -10.85 |0.0 |
-    |[VVVX CL048](/_clusters/vvvxcl048/)| 44.1 | 251.69 | -41.22 | 0.9 | 1.46 | -3.0 | -10.85 |0.5 |
+    |[VVVX CL048](/_clusters/vvvxcl048/)| 44.1 | 251.69 | -41.22 | 0.9 | 1.46 | -3.0 | -10.85 |0.45 |
 N_rows_shared: "3"
 ---

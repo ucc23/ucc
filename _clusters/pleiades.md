@@ -1,10 +1,10 @@
 ---
 layout: layout_cluster
 style: style_cluster
-title: Melotte 22
+title: Pleiades
 title_flag: true
-more_names: Collinder 42; Pleiades; MWSC 305; Messier 45; M45; OCL 421; Escorial 1; OCSN 219
-fname: melotte22
+more_names: Melotte 22; Collinder 42; MWSC 305; Messier 45; M45; OCL 421; Escorial 1; OCSN 219
+fname: pleiades
 members_file: "164_168"
 fov: 3.183
 ra_icrs: 56.59978
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Melotte 22</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Pleiades</b> is a very rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -53,14 +53,16 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 10.1, 1 WD candidate found, and 1 WD candidate found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2622, e_all=0.2255.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Adopted cluster centre: star 1432=HD 23630, which has a spectrum B8IIIe (1986ApJ...309..311B), a projected velocity v.sin i=230 km/sec (1987ApJ...312..778M), and it is cited as a blue straggler in (1982A&A...109...37M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "8"
-dens_val: 117.8
+N_comments: "9"
+rc_val: 1.4
+dens_val: 43
 N_50_val: 1678
-scix_url: Melotte%2022
+scix_url: Pleiades
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -100,7 +102,7 @@ posit_table: |
     |[Yen et al.](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 2018 | 56.57 | 24.224 | 7.38 | 19.92 | -45.2 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 56.505 | 24.37 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 56.745 | 24.117 | -- | 19.85 | -44.81 | 5.5 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 56.75 | 24.117 | 18.87 | -44.76 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 56.75 | 24.117 | -- | 18.87 | -44.76 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 56.505 | 24.37 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 56.497 | 24.369 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 56.75 | 24.117 | -- | -- | -- | -- |
@@ -125,7 +127,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.14 | 0.13 | 0.63 | 130 | 0.000 | 876 | 0.15 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.14 | 0.115 | 0.63 | 126 | 0.000 | 876 | 0.15 | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 150 | -- | -- | -- | -- |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 78 | 0.020<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.14 | 0.22 | -- | 120 | 0.086 | -- | -- | -- |
@@ -135,7 +137,7 @@ fpars_table: |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.14 | 0.17 | -- | 131 | -- | 653 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.13 | 0.17 | -- | 103 | 0.029 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.000<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 947<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.13 | 0.10 | 0.63 | 122 | -- | 947<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.14 | 0.67 | -- | 87 | 0.100 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.13 | 0.10 | 0.63 | 122 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.14 | 0.35 | -- | 101 | -0.017 | 816<sup>(1)</sup> | 0.18 | -- |

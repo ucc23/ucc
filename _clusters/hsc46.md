@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 294.5
+rc_val: 0.2
+dens_val: 93
 N_50_val: 25
 scix_url: HSC%2046
 posit_table: |
@@ -67,8 +68,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 6.05 | 1.37 | 4305 | -- | 136 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 136<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 6.05 | 1.37 | 4304 | -- | 136 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.44 | 6.05 | 1.37 | 4303 | -- | 136<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.44 | 6.05 | 1.37 | 4305 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true

@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.3
+rc_val: 2.3
+dens_val: 0.2
 N_50_val: 14
 scix_url: Dutra%20Bica%2050
 posit_table: |
@@ -73,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 144](/_clusters/ryu144/)| 4.0 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.22 |
+    |[Ryu 144](/_clusters/ryu144/)| 4.0 | 264.02 | -32.63 | 0.35 | -1.38 | -2.86 | -42.75 |0.12 |
 N_rows_shared: "1"
 ---

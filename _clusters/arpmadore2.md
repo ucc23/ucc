@@ -13,25 +13,25 @@ glon: 248.12316
 glat: -5.88038
 r50: 1.6
 plx: 0.0645
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.46"
+UTI_COLOR: "#fefae1"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#fefee8"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.5
+UTI_C_dens: 0.14
 UTI_C_C3: 0.62
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Arp Madore 2</b> is a rich, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Arp Madore 2</b> is a rich, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Extremely distant"
 badge_dist_url: "dist_min=10&dist_max=1000000.0"
 badge_av: "Moderate extinction"
@@ -47,11 +47,13 @@ badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a well-traced TO and RGB with a short main sequence and a prominent RC at G=17. ASteCA gives ~11 kpc, 4.1 Gyr, and [Fe/H]=−0.33. Ortolani 1995 reports 12.4 kpc and [Fe/H]~−0.3 (no specific age); Lee 1997 finds 8.87 kpc, 5 Gyr, and [Fe/H]=−0.51; CG20 gives 11.7 kpc and 3.0 Gyr. ASteCA distance is a good match for CG20 and falls within the range of the prior studies. The metallicity agrees with the sub-solar values reported by Ortolani et al. and Lee.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1406, e_all=0.2379.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
-dens_val: 2.5
+N_comments: "2"
+rc_val: 4.3
+dens_val: 0.7
 N_50_val: 131
 scix_url: Arp%20Madore%202
 posit_table: |

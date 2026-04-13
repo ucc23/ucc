@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 47.3
+rc_val: 0.8
+dens_val: 7.4
 N_50_val: 23
 scix_url: MCM%2079
 posit_table: |

@@ -16,22 +16,22 @@ plx: 0.4679
 UTI: "0.08"
 UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fddfc6"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#eaf6d1"
 UTI_C_N: 0.0
-UTI_C_dens: 0.29
+UTI_C_dens: 0.21
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.64
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>BDSB 54</b> is a sparse, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>BDSB 54</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 1.4
+rc_val: 1.1
+dens_val: 1.1
 N_50_val: 20
 scix_url: BDSB%2054
 posit_table: |
@@ -71,9 +72,9 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 19](/_clusters/sai19/)| 44.0 | 36.65 | 62.0 | 0.48 | -0.7 | -0.12 | -27.12 |0.1 |
     |[IRAS 02232+6138](/_clusters/iras02232p6138/)| 36.0 | 36.65 | 62.0 | 0.48 | -0.68 | -0.13 | -24.58 |0.55 |
-    |[W3-IRS5](/_clusters/w3irs5/)| 36.0 | 36.41 | 62.09 | 0.46 | -1.0 | -0.53 | 30.96 |0.19 |
+    |[W3-IRS5](/_clusters/w3irs5/)| 36.0 | 36.41 | 62.09 | 0.46 | -1.0 | -0.53 | 30.96 |0.16 |
     |[IC1795 2](/_clusters/ic17952/)| 20.0 | 36.87 | 61.94 | 0.48 | -0.71 | -0.57 | -58.52 |0.1 |
     |[CWNU 3691](/_clusters/cwnu3691/)| 16.0 | 36.65 | 62.0 | 0.47 | -0.69 | -0.06 | -21.84 |0.02 |
-    |[BDSB 56](/_clusters/bdsb56/)| 4.0 | 36.53 | 62.02 | 0.48 | -0.98 | -0.11 | -21.84 |0.14 |
+    |[BDSB 56](/_clusters/bdsb56/)| 4.0 | 36.53 | 62.02 | 0.48 | -0.98 | -0.11 | -21.84 |0.09 |
 N_rows_shared: "6"
 ---

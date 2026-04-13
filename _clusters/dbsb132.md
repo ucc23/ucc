@@ -13,15 +13,15 @@ glon: 305.25847
 glat: 0.07089
 r50: 6.0
 plx: 0.2202
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.02
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.4
+rc_val: 6.8
+dens_val: 0.08
 N_50_val: 24
 scix_url: DBSB%20132
 posit_table: |
@@ -74,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVV 022](/_clusters/vvv022/)| 4.0 | 198.11 | -62.56 | 0.22 | -7.89 | -0.91 | -36.24 |0.19 |
+    |[VVV 022](/_clusters/vvv022/)| 4.0 | 198.11 | -62.56 | 0.22 | -7.89 | -0.91 | -36.24 |0.17 |
 N_rows_shared: "1"
 ---

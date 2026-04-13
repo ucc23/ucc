@@ -13,15 +13,15 @@ glon: 359.9517
 glat: 0.08974
 r50: 8.0
 plx: 0.4338
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.03
 UTI_C_C3: 0.38
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.6
+rc_val: 5.8
+dens_val: 0.1
 N_50_val: 17
 scix_url: Dutra%20Bica%2058
 posit_table: |
@@ -58,7 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |266.27 | -28.885 | 0.434 | -0.561 | -1.615 | -34.58 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 266.259 | -28.849 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 266.25 | -28.86 | -0.88 | -2.3 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 266.25 | -28.86 | -- | -0.88 | -2.3 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 266.268 | -28.848 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 266.259 | -28.849 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 266.268 | -28.848 | -- | 1.3 | 0.0 | -15.5 |
@@ -81,6 +82,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Nuclear Star](/_clusters/nuclearstar/)| 20.0 | 266.44 | -29.0 | 0.42 | -0.25 | -1.4 | -15.76 |0.25 |
+    |[Nuclear Star](/_clusters/nuclearstar/)| 20.0 | 266.44 | -29.0 | 0.42 | -0.25 | -1.4 | -15.76 |0.16 |
 N_rows_shared: "1"
 ---

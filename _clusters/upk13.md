@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 28.1
+rc_val: 1.4
+dens_val: 8.1
 N_50_val: 116
 scix_url: UPK%2013
 posit_table: |
@@ -79,11 +80,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.925 | 0.885 | 0.79 | 182 | 0.204 | 308 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.92 | 0.88 | 0.79 | 178 | 0.204 | 308 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.81 | 0.88 | -- | 142 | -0.257 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.93 | 0.89 | -- | 275 | -- | 281 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.95 | 0.67 | -- | 258 | 0.204 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 334<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.90 | 0.63 | 0.79 | 132 | -- | 334<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.92 | 0.89 | -- | 257 | 0.240 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.90 | 0.63 | 0.79 | 132 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.10 | -- | 56 | -- | -- | -- | -- |

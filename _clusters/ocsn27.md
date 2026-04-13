@@ -13,25 +13,25 @@ glon: 91.2362
 glat: -2.28498
 r50: 26.0
 plx: 2.4208
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#ddf0ca"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#f5fbdc"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.71
-UTI_C_dens: 1.0
+UTI_C_dens: 0.57
 UTI_C_C3: 1.0
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>OCSN 27</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 27</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 9.4
+rc_val: 1.6
+dens_val: 2.9
 N_50_val: 92
 scix_url: OCSN%2027
 posit_table: |
@@ -75,11 +76,11 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.43 | 0.25 | 0.49 | 15 | -0.005 | 128 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.42 | 0.15 | 0.49 | 15 | -0.005 | 128 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.44 | 0.09 | -- | 30 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.089<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.41 | -- | -- | 15 | -- | 193 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 64<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.41 | 0.15 | 0.49 | 15 | -- | 64<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.43 | 0.56 | -- | 10 | -0.100 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.41 | 0.15 | 0.49 | 15 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.49 | 0.35 | -- | 22 | -- | -- | -- | -- |

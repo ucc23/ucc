@@ -13,25 +13,25 @@ glon: 99.4346
 glat: 4.02547
 r50: 29.7
 plx: 1.6417
-UTI: "0.59"
-UTI_COLOR: "#f3fad8"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#e0f1cb"
-UTI_C_dens_COL: "#eaf6d1"
+UTI_C_dens_COL: "#f5c1b8"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
-UTI_C_dens: 0.64
+UTI_C_dens: 0.15
 UTI_C_C3: 0.75
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Trumpler 37</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>Trumpler 37</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 3.2
+rc_val: 3.5
+dens_val: 0.8
 N_50_val: 89
 scix_url: Trumpler%2037
 posit_table: |
@@ -66,7 +67,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 324.648 | 57.768 | 1.639 | -6.141 | -5.965 | -3.615 |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 324.77 | 57.504 | 1.105 | -2.318 | -4.724 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 324.78 | 57.5 | -- | -1.016 | -0.968 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 324.775 | 57.5 | -0.15 | -4.27 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 324.775 | 57.5 | -- | -0.15 | -4.27 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 324.775 | 57.5 | -- | -0.19 | -4.29 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 324.775 | 57.5 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 324.775 | 57.5 | -- | -- | -- | -- |
@@ -82,7 +83,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.83 | 1.48 | 2.27 | 11 | 0.105 | 1408 | -- | 0 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.110<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 62<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.59 | 1.52 | 2.27 | 285 | -- | 62<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.64 | 1.34 | -- | 513 | 0.320 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.59 | 1.52 | 2.27 | 285 | -- | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 0.90<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |

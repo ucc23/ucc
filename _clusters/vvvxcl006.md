@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.1
+rc_val: 11
+dens_val: 0.04
 N_50_val: 8
 scix_url: VVVX%20CL006
 posit_table: |

@@ -13,25 +13,25 @@ glon: 162.81922
 glat: 0.84064
 r50: 11.1
 plx: 0.8798
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.42"
+UTI_COLOR: "#fef6d9"
 UTI_C_N_COL: "#feebce"
-UTI_C_dens_COL: "#fcfee5"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#fcfee5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
-UTI_C_dens: 0.52
+UTI_C_dens: 0.08
 UTI_C_C3: 0.62
 UTI_C_lit: 0.52
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 14A</b> is a poorly populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Berkeley 14A</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a massive, near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "5"
-dens_val: 2.6
+rc_val: 3.6
+dens_val: 0.4
 N_50_val: 35
 scix_url: Berkeley%2014A
 posit_table: |
@@ -85,10 +86,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.1 | 0.73 | 0.86 | 13 | -0.200 | 1516 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.1 | 0.73 | 0.86 | 17 | -0.200 | 1516 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.54 | 0.29 | -- | 24 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.367<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 101<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.08 | 0.56 | 0.86 | 37 | -- | 101<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 9 | -- | 97 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.12 | 1.17 | -- | 17 | -0.200 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.08 | 0.56 | 0.86 | 37 | -- | -- | -- | -- |

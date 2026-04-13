@@ -51,13 +51,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.29 (50th percentile), true positive? (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.29 (50th percentile), true positive? (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0583, e_all=0.0394.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010).</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 38.5
+N_comments: "8"
+rc_val: 1.2
+dens_val: 16
 N_50_val: 425
 scix_url: Dias%206
 posit_table: |
@@ -84,7 +86,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 277.617 | -12.33 | 0.331 | 0.482 | -0.591 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 277.635 | -12.305 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 277.62 | -12.316 | -- | -1.115 | -2.737 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 277.625 | -12.316 | -1.51 | -0.78 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 277.625 | -12.316 | -- | -1.51 | -0.78 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 277.627 | -12.306 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 277.625 | -12.316 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 277.625 | -12.316 | -- | -1.04 | -1.65 | -- |
@@ -97,11 +99,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.34 | 2.82 | 2.5 | 566 | -0.068 | 1731 | -- | 1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.4 | 2.84 | 2.5 | 566 | -0.068 | 1731 | -- | 1 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.92 | 2.86 | -- | 960 | -0.068 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.320<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.40 | 2.80 | -- | 566 | -- | 1731 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4732<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.70 | 3.35 | 2.50 | 128 | -- | 4732<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.02 | 3.42 | -- | 603 | -0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.70 | 3.35 | 2.50 | 128 | -- | -- | -- | -- |
     | [Angelo et al.](https://scixplorer.org/abs/2023MNRAS.522..956A) | 2023 | 2.00 | 3.12 | -- | 794 | -0.060 | 7<sup>(1)</sup> | -- | -- |

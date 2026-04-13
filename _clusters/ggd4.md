@@ -13,25 +13,25 @@ glon: 183.68553
 glat: -3.73201
 r50: 9.5
 plx: 0.8255
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#feecd0"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#dfa5b3"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.36
+UTI_C_dens: 0.16
 UTI_C_C3: 0.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>GGD4</b> is a sparse, loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
+    <b>GGD4</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-dens_val: 1.8
+rc_val: 1.1
+dens_val: 0.8
 N_50_val: 20
 scix_url: GGD4
 posit_table: |

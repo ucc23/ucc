@@ -13,15 +13,15 @@ glon: 79.80516
 glat: -2.7634
 r50: 5.2
 plx: 0.3394
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.2
+UTI_C_dens: 0.05
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 1.0
+rc_val: 2.9
+dens_val: 0.2
 N_50_val: 20
 scix_url: Teutsch%20310
 posit_table: |

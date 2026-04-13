@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: RMC-4a
 title_flag: true
-more_names: IRAS06314+0427
+more_names: IRAS 06314+0427
 fname: rmc4a
 members_file: "204_208"
 fov: 0.14
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 29.6
+rc_val: 0.8
+dens_val: 9.2
 N_50_val: 95
 scix_url: RMC-4a
 posit_table: |
@@ -72,7 +73,7 @@ shared_table: |
     |[RMC-4b](/_clusters/rmc4b/)| 97.9 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.54 |
     |[RMC-5](/_clusters/rmc5/)| 71.6 | 98.58 | 4.43 | 0.69 | -1.58 | 0.14 | 7.99 |0.5 |
     |[LP 39](/_clusters/lp39/)| 49.5 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |
-    |[RMC-2](/_clusters/rmc2/)| 23.2 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.48 |
+    |[RMC-2](/_clusters/rmc2/)| 23.2 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.37 |
     |[AFGL961](/_clusters/afgl961/)| 14.7 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.35 |
 N_rows_shared: "5"
 ---

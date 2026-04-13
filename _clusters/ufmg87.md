@@ -13,25 +13,25 @@ glon: 353.35453
 glat: -1.07301
 r50: 3.4
 plx: 0.2932
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee5ca"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 1.0
+UTI_C_dens: 0.32
 UTI_C_C3: 1.0
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UFMG 87</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, metal-poor, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.41 kpc) differs significantly from the median photometric distance (~2.19 kpc).</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>UFMG 87</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, metal-poor, young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a very small percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 9.3
+rc_val: 3.0
+dens_val: 1.6
 N_50_val: 106
 scix_url: UFMG%2087
 posit_table: |
@@ -71,8 +72,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.19 | 4.89 | 2.27 | 62 | -0.990 | 1703 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1703<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.685 | 4.825 | 2.27 | 62 | -0.990 | 1703 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.18 | 4.76 | 2.27 | 62 | -- | 1703<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.02 | 4.98 | -- | 58 | -0.990 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.18 | 4.76 | 2.27 | 62 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 2.19 | 4.89 | -- | 316 | -- | -- | -- | -- |
@@ -81,6 +82,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3529](/_clusters/cwnu3529/)| 0.9 | 263.43 | -35.02 | 0.35 | -0.81 | -2.32 | -33.33 |0.51 |
+    |[CWNU 3529](/_clusters/cwnu3529/)| 0.9 | 263.43 | -35.02 | 0.35 | -0.81 | -2.32 | -33.33 |0.44 |
 N_rows_shared: "1"
 ---

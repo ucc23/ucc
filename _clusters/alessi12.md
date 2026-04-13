@@ -13,25 +13,25 @@ glon: 67.44184
 glat: -11.49676
 r50: 29.6
 plx: 1.8379
-UTI: "0.97"
-UTI_COLOR: "#a8cfbb"
+UTI: "0.86"
+UTI_COLOR: "#b9e0c4"
 UTI_C_N_COL: "#c2e4c6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fefde6"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
-UTI_C_dens: 1.0
+UTI_C_dens: 0.49
 UTI_C_C3: 1.0
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi 12</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Alessi 12</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -51,12 +51,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 2.8, 0 WD candidates found, and 9 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.205, e_all=0.2342.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
-dens_val: 13.8
+N_comments: "7"
+rc_val: 4.2
+dens_val: 2.4
 N_50_val: 303
 scix_url: Alessi%2012
 posit_table: |
@@ -87,7 +89,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 310.875 | 23.871 | 1.816 | 4.303 | -4.639 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 310.845 | 23.785 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 310.95 | 23.792 | -- | 4.33 | -5.35 | -26.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 310.95 | 23.792 | 0.53 | -2.28 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 310.95 | 23.792 | -- | 0.53 | -2.28 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 310.845 | 23.785 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 310.839 | 23.782 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 310.95 | 23.792 | -- | 0.82 | -2.65 | -- |
@@ -106,13 +108,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.54 | 0.25 | 0.92 | 114 | -0.010 | 394 | 0.23 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.54 | 0.25 | 0.92 | 122 | -0.010 | 394 | 0.23 | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.57 | 0.29 | -- | 107 | -0.041 | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 123 | -0.100<sup>(3)</sup> | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.68 | 0.37 | -- | 62 | 0.500 | 319 | 0.22 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.54 | 0.25 | -- | 157 | -- | 416 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.53 | 0.10 | -- | 133 | -0.020 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 471<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.52 | 0.14 | 0.92 | 122 | -- | 471<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.56 | 0.47 | -- | 74 | 0.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.52 | 0.14 | 0.92 | 122 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.53 | 0.27 | -- | 234 | 0.003 | 485<sup>(1)</sup> | 0.48 | -- |

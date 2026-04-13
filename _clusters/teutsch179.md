@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.78 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.78 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2863, e_all=0.1554.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms and cluster alikes by B. Alessi reported in DAML02.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
-dens_val: 13.2
+N_comments: "6"
+rc_val: 1.3
+dens_val: 5.2
 N_50_val: 114
 scix_url: Teutsch%20179
 posit_table: |
@@ -87,7 +89,7 @@ fpars_table: |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 31 | -0.090<sup>(3)</sup> | -- | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.35 | 0.15 | -- | 33 | 0.010 | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.34 | -- | -- | 31 | -- | 168 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 77<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.34 | 0.21 | 0.70 | 31 | -- | 77<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 26 | -- | 34 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.35 | 0.46 | -- | 11 | 0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.34 | 0.21 | 0.70 | 31 | -- | -- | -- | -- |
@@ -100,7 +102,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC-III 3755](/_clusters/lisciii3755/)| 100.0 | 276.28 | 26.46 | 2.86 | 0.44 | -5.38 | -18.79 |0.15 |
+    |[LISC-III 3755](/_clusters/lisciii3755/)| 100.0 | 276.28 | 26.46 | 2.86 | 0.44 | -5.38 | -18.79 |0.12 |
     |[CWWDL 14675](/_clusters/cwwdl14675/)| 26.3 | 276.61 | 26.44 | 2.88 | 0.59 | -5.34 | -20.14 |0.0 |
 N_rows_shared: "2"
 ---

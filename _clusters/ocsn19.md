@@ -13,25 +13,25 @@ glon: 64.36463
 glat: 4.17756
 r50: 53.1
 plx: 3.148
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#bce1c5"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.75
-UTI_C_dens: 0.85
+UTI_C_dens: 0.16
 UTI_C_C3: 0.75
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>OCSN 19</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
+    <b>OCSN 19</b> is a rich, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 4.2
+rc_val: 2.9
+dens_val: 0.8
 N_50_val: 102
 scix_url: OCSN%2019
 posit_table: |

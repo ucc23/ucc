@@ -13,25 +13,25 @@ glon: 91.30998
 glat: 8.07225
 r50: 22.9
 plx: 1.222
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.31"
+UTI_COLOR: "#fee4c9"
 UTI_C_N_COL: "#fef8dd"
-UTI_C_dens_COL: "#fee2c7"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.44
-UTI_C_dens: 0.3
+UTI_C_dens: 0.1
 UTI_C_C3: 0.75
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 199</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 199</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-dens_val: 1.5
+rc_val: 2.8
+dens_val: 0.5
 N_50_val: 44
 scix_url: Theia%20199
 posit_table: |
@@ -74,10 +75,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.835 | 0.535 | 1.09 | 44 | 0.260 | 50 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.83 | 0.46 | 1.09 | 39 | 0.260 | 50 | -- | -- |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 34 | -- | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.83 | 0.16 | -- | 62 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 50<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.79 | 0.46 | 1.09 | 34 | -- | 50<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.84 | 0.68 | -- | 44 | 0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.79 | 0.46 | 1.09 | 34 | -- | -- | -- | -- |
     | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.84 | 0.61 | -- | 79 | -- | -- | -- | -- |

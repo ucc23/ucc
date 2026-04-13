@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 59.6
+rc_val: 0.3
+dens_val: 20
 N_50_val: 24
 scix_url: Markarian%206
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |37.429 | 60.685 | 1.467 | -3.548 | 0.482 | -5.885 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.4 | -0.62 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 37.41 | 60.707 | -- | -1.343 | -2.513 | -7.18 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 37.417 | 60.707 | -3.09 | -0.76 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 37.417 | 60.707 | -- | -3.09 | -0.76 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 37.417 | 60.707 | -- | -4.44 | 0.32 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 37.417 | 60.707 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 37.41 | 60.67 | -- | -4.8 | -1.73 | -- |

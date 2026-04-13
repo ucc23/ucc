@@ -13,25 +13,25 @@ glon: 243.15305
 glat: 0.45301
 r50: 4.1
 plx: 0.1995
-UTI: "0.75"
-UTI_COLOR: "#d4ecc9"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#d0eac9"
+UTI_C_dens_COL: "#ddf0ca"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.77
+UTI_C_dens: 0.71
 UTI_C_C3: 1.0
 UTI_C_lit: 0.61
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Haffner 18</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Haffner 18</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -48,12 +48,14 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.74 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.74 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.3247, e_all=0.3485.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg43' along with Haffner 19.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
-dens_val: 3.9
+N_comments: "4"
+rc_val: 1.7
+dens_val: 3.6
 N_50_val: 138
 scix_url: Haffner%2018
 posit_table: |
@@ -71,7 +73,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 118.168 | -26.387 | 0.185 | -2.548 | 2.67 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.18 | 2.96 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 118.17 | -26.382 | -- | -3.472 | 0.961 | 60.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 118.162 | -26.383 | -4.78 | 2.66 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 118.162 | -26.383 | -- | -4.78 | 2.66 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 118.162 | -26.383 | -- | -3.98 | 2.73 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 118.167 | -26.389 | -- | -- | -- | -- |
     |[Ahumada & Lapasset](https://scixplorer.org/abs/2007A%26A...463..789A) | 2007 | 118.175 | -26.383 | -- | -- | -- | -- |
@@ -85,8 +87,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.08 | 1.92 | 1.62 | 10 | -- | 702 | -- | 0 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 298<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.08 | 1.92 | 1.62 | 8 | -- | 702 | -- | 0 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 6.82 | 2.42 | 1.62 | 4 | -- | 298<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 14 | -- | 702 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.82 | 2.42 | 1.62 | 4 | -- | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 5.08<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
@@ -110,6 +112,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[NGC 2467-East](/_clusters/ngc2467east/)| 65.2 | 118.18 | -26.38 | 0.2 | -2.53 | 2.69 | -- |0.02 |
-    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.84 |
+    |[Haffner 19](/_clusters/haffner19/)| 50.0 | 118.19 | -26.28 | 0.2 | -2.53 | 2.52 | 111.14 |0.81 |
 N_rows_shared: "2"
 ---

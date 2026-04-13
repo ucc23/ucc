@@ -52,6 +52,7 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
+rc_val: 2.9
 dens_val: 0.2
 N_50_val: 9
 scix_url: DBSB%20163
@@ -85,6 +86,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 164](/_clusters/dbsb164/)| 20.0 | 244.93 | -50.15 | 0.34 | -4.28 | -4.02 | -50.98 |0.08 |
-    |[MCM 77](/_clusters/mcm77/)| 8.0 | 244.33 | -50.53 | 0.36 | -4.08 | -4.09 | -43.5 |0.11 |
+    |[MCM 77](/_clusters/mcm77/)| 8.0 | 244.33 | -50.53 | 0.36 | -4.08 | -4.09 | -43.5 |0.06 |
 N_rows_shared: "2"
 ---

@@ -16,12 +16,12 @@ plx: 0.096
 UTI: "0.08"
 UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e0a7b3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.01
+UTI_C_dens: 0.0
 UTI_C_C3: 0.25
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.0
+rc_val: 12
+dens_val: 0.01
 N_50_val: 20
 scix_url: SAI%2036
 posit_table: |
@@ -58,7 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |64.228 | 41.091 | 0.096 | -0.229 | -0.509 | -9.677 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 64.208 | 41.061 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 64.208 | 41.067 | -2.96 | -2.3 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 64.208 | 41.067 | -- | -2.96 | -2.3 | -- |
     |[Glushkova et al.](https://scixplorer.org/abs/2010AstL...36...75G) | 2010 | 64.21 | 41.067 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 64.208 | 41.067 | -- | 0.86 | -3.77 | -- 
 N_rows_pos: "4"

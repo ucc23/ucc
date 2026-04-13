@@ -13,25 +13,25 @@ glon: 21.7102
 glat: -0.29048
 r50: 4.6
 plx: 0.4344
-UTI: "0.52"
-UTI_COLOR: "#fcfee5"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#eaf6d1"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef0d2"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.64
-UTI_C_dens: 1.0
+UTI_C_dens: 0.38
 UTI_C_C3: 0.75
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CWNU 70</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>CWNU 70</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -40,8 +40,8 @@ badge_mass: "Massive"
 badge_mass_url: "mass_min=1000&mass_max=5000"
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
-badge_age: "Intermediate age"
-badge_age_url: "age_min=100&age_max=1000"
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
 badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 8.2
+rc_val: 1.8
+dens_val: 1.9
 N_50_val: 78
 scix_url: CWNU%2070
 posit_table: |
@@ -71,8 +72,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.015 | 4.14 | 2.69 | 544 | 0.040 | 1012 | -- | 3 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1012<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.03 | 4.18 | 2.69 | 89 | 0.040 | 1012 | -- | 3 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.03 | 4.55 | 2.69 | 52 | -- | 1012<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.10 | 4.10 | -- | 89 | 0.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.03 | 4.55 | 2.69 | 52 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 2.00 | 2.40 | -- | 3981 | 0.049 | -- | -- | 3<sup>(1)</sup> |

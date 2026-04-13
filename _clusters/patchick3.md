@@ -13,15 +13,15 @@ glon: 162.90971
 glat: 4.2862
 r50: 7.1
 plx: 0.5824
-UTI: "0.80"
-UTI_COLOR: "#c9e7c8"
+UTI: "0.78"
+UTI_COLOR: "#ceeac8"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#add9c0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#d7eec9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 1.0
+UTI_C_dens: 0.91
 UTI_C_C3: 0.75
 UTI_C_lit: 0.74
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 12.0
+rc_val: 1.6
+dens_val: 4.6
 N_50_val: 151
 scix_url: Patchick%203
 posit_table: |
@@ -92,13 +93,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.69 | 1.43 | 0.59 | 1217 | -0.154 | 487 | 0.6 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.69 | 1.43 | 0.59 | 1175 | -0.154 | 487 | 0.6 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.73 | 1.18 | -- | 1519 | -0.154 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.170<sup>(5)</sup> | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 4.16 | 1.69 | -- | 513 | 0.500 | 752 | 0.51 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.63 | 1.43 | -- | 1259 | -- | 196 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.068<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 487<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.64 | 1.00 | 0.59 | 1162 | -- | 487<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.66 | 1.03 | -- | 1259 | 0.310 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.64 | 1.00 | 0.59 | 1161 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.59 | 1.36 | -- | 1384 | -0.123 | 213<sup>(1)</sup> | 0.69 | -- |

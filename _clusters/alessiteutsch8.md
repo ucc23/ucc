@@ -51,12 +51,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 23.2, 0 WD candidates found, and 0 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0984, e_all=0.161.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
-dens_val: 22.9
+N_comments: "7"
+rc_val: 1.8
+dens_val: 6.7
 N_50_val: 317
 scix_url: Alessi%20Teutsch%208
 posit_table: |
@@ -82,7 +84,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 180.649 | -60.935 | 0.967 | -6.625 | 1.63 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 180.712 | -60.92 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 180.735 | -60.924 | -- | -3.579 | -1.817 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 180.729 | -60.925 | -4.61 | -0.53 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 180.729 | -60.925 | -- | -4.61 | -0.53 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 180.712 | -60.92 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 180.703 | -60.917 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 180.729 | -60.925 | -- | -4.71 | -0.11 | -- |
@@ -96,11 +98,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.955 | 0.49 | 0.78 | 200 | 0.250 | 847 | 0.33 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.95 | 0.485 | 0.78 | 195 | 0.250 | 847 | 0.33 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.95 | 0.49 | -- | 305 | 0.050 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 1.74 | 0.94 | -- | 100 | 0.500 | 847 | 0.33 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.97 | 0.63 | -- | 190 | -- | 882 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1184<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.95 | 0.48 | 0.78 | 134 | -- | 1184<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.98 | 0.47 | -- | 372 | 0.400 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.95 | 0.48 | 0.78 | 134 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 398 | -- | 251 | -- | -- |

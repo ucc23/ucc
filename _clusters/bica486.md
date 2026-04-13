@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 7.9
+dens_val: 0.04
 N_50_val: 11
 scix_url: Bica%20486
 posit_table: |

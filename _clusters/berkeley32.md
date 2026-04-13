@@ -51,13 +51,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>Most BSSs lie just above the turnoff, but others span a wide luminosity range, implying diverse binary histories. Both BSSs and YSSs are broadly matched by binary models, though a few faint candidates may be misclassified or require different model parameters.</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1087, e_all=0.1474.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=0.86</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area is (B-V)=0.55. Stars 30, 31, and 40 are cited as blue stragglers in (1991AcA....41..167K). Adopted cluster centre: star 16 of (1991AcA....41..167K).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "7"
-dens_val: 32.9
+N_comments: "8"
+rc_val: 1.6
+dens_val: 15
 N_50_val: 767
 scix_url: Berkeley%2032
 posit_table: |
@@ -91,7 +93,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 104.529 | 6.438 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 104.53 | 6.433 | 0.28 | -0.335 | -1.608 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 104.52 | 6.434 | -- | -0.088 | -0.698 | 101.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 104.525 | 6.433 | -1.27 | -1.46 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 104.525 | 6.433 | -- | -1.27 | -1.46 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 104.521 | 6.437 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 104.525 | 6.433 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 104.525 | 6.433 | -- | -1.41 | -0.86 | -- |
@@ -118,7 +120,7 @@ fpars_table: |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 3.32 | 0.55 | -- | 4853 | -0.300 | -- | -- | 14<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.32 | 0.55 | -- | 4853 | -- | 3138 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.324<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3540<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.22 | 0.16 | 0.71 | 3252 | -- | 3540<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.75 | 0.49 | -- | 5129 | -0.160 | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 3.20 | 0.25 | -- | 7026 | -- | 16649 | 0.29 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.22 | 0.16 | 0.71 | 3251 | -- | -- | -- | -- |

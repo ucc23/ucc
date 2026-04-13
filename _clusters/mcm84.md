@@ -13,15 +13,15 @@ glon: 344.28904
 glat: -0.63725
 r50: 8.0
 plx: 0.4324
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f3bcb6"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.13
+UTI_C_dens: 0.03
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.7
+rc_val: 2.9
+dens_val: 0.1
 N_50_val: 19
 scix_url: MCM%2084
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MCM 85](/_clusters/mcm85/)| 52.0 | 256.14 | -42.22 | 0.45 | -2.27 | -4.6 | -25.07 |0.04 |
-    |[DBSB 177](/_clusters/dbsb177/)| 4.0 | 256.08 | -42.3 | 0.4 | -2.09 | -4.19 | 14.07 |0.07 |
+    |[MCM 85](/_clusters/mcm85/)| 52.0 | 256.14 | -42.22 | 0.45 | -2.27 | -4.6 | -25.07 |0.02 |
+    |[DBSB 177](/_clusters/dbsb177/)| 4.0 | 256.08 | -42.3 | 0.4 | -2.09 | -4.19 | 14.07 |0.06 |
 N_rows_shared: "2"
 ---

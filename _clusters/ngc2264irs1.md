@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 221.9
+rc_val: 0.2
+dens_val: 56
 N_50_val: 102
 scix_url: NGC%202264%20IRS1
 posit_table: |

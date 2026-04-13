@@ -16,12 +16,12 @@ plx: 0.2388
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.3
+rc_val: 4.7
+dens_val: 0.1
 N_50_val: 17
 scix_url: VVVX-Obasi%2030
 posit_table: |
@@ -68,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3673](/_clusters/cwnu3673/)| 12.0 | 127.96 | -35.83 | 0.17 | -2.34 | 2.74 | 60.7 |0.25 |
+    |[CWNU 3673](/_clusters/cwnu3673/)| 12.0 | 127.96 | -35.83 | 0.17 | -2.34 | 2.74 | 60.7 |0.15 |
 N_rows_shared: "1"
 ---

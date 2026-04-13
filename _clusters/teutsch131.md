@@ -13,15 +13,15 @@ glon: 162.29277
 glat: -2.35033
 r50: 4.6
 plx: 0.2904
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f9c9bc"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.19
+UTI_C_dens: 0.06
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.72
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.9
+rc_val: 2.4
+dens_val: 0.3
 N_50_val: 20
 scix_url: Teutsch%20131
 posit_table: |
@@ -69,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3584](/_clusters/cwnu3584/)| 64.0 | 71.3 | 41.97 | 0.27 | 0.32 | -1.25 | -- |0.08 |
-    |[FSR 0717](/_clusters/fsr0717/)| 28.0 | 71.5 | 42.14 | 0.27 | 0.08 | -1.16 | -12.64 |0.53 |
-    |[FSR 0721](/_clusters/fsr0721/)| 4.0 | 71.59 | 41.97 | 0.31 | -0.03 | -1.71 | 2.14 |0.1 |
+    |[CWNU 3584](/_clusters/cwnu3584/)| 64.0 | 71.3 | 41.97 | 0.27 | 0.32 | -1.25 | -- |0.06 |
+    |[FSR 0717](/_clusters/fsr0717/)| 28.0 | 71.5 | 42.14 | 0.27 | 0.08 | -1.16 | -12.64 |0.42 |
+    |[FSR 0721](/_clusters/fsr0721/)| 4.0 | 71.59 | 41.97 | 0.31 | -0.03 | -1.71 | 2.14 |0.08 |
 N_rows_shared: "3"
 ---

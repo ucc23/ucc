@@ -13,25 +13,25 @@ glon: 266.43797
 glat: -12.83218
 r50: 18.3
 plx: 1.4235
-UTI: "0.91"
-UTI_COLOR: "#add9c0"
+UTI: "0.84"
+UTI_COLOR: "#bfe2c5"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#e7f4cf"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#afdbc1"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 1.0
+UTI_C_dens: 0.66
 UTI_C_C3: 1.0
 UTI_C_lit: 0.9
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi Teutsch 3</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
+    <b>Alessi Teutsch 3</b> is a rich, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 8.4, 0 WD candidates found, and 0 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1858, e_all=0.2851.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010). List of clusters and alike reported by B. Alessi. The Preliminary Amateur Open Cluster Catalog, Version 08/03/2003.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 8.2
+N_comments: "8"
+rc_val: 1.5
+dens_val: 3.3
 N_50_val: 115
 scix_url: Alessi%20Teutsch%203
 posit_table: |
@@ -85,7 +87,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 118.228 | -53.022 | 1.417 | -5.378 | 8.926 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 118.14 | -52.995 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 118.26 | -53.044 | -- | -1.918 | 8.792 | 15.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 118.254 | -53.045 | -4.42 | 5.63 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 118.254 | -53.045 | -- | -4.42 | 5.63 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 118.14 | -52.995 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 118.136 | -52.992 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 118.254 | -53.045 | -- | -4.23 | 5.11 | -- |
@@ -104,7 +106,7 @@ fpars_table: |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.86 | 0.77 | -- | 54 | 0.000 | 270 | 0.29 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.69 | 0.70 | -- | 160 | -- | 209 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.69 | 0.47 | -- | 107 | 0.011 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 151<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.67 | 0.51 | 1.09 | 103 | -- | 151<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.71 | 0.74 | -- | 115 | 0.210 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.67 | 0.51 | 1.09 | 103 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.68 | 0.74 | -- | 149 | -0.039 | 235<sup>(1)</sup> | 0.42 | -- |

@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 23.3
+rc_val: 1.2
+dens_val: 5.5
 N_50_val: 80
 scix_url: Dutra%20Bica%2056
 posit_table: |
@@ -68,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Collinder 347](/_clusters/collinder347/)| 91.2 | 266.58 | -29.34 | 0.33 | 0.38 | -1.89 | 8.86 |0.66 |
+    |[Collinder 347](/_clusters/collinder347/)| 91.2 | 266.58 | -29.34 | 0.33 | 0.38 | -1.89 | 8.86 |0.63 |
 N_rows_shared: "1"
 ---

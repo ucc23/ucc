@@ -13,25 +13,25 @@ glon: 350.49192
 glat: 0.9672
 r50: 5.6
 plx: 0.5618
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.33"
+UTI_COLOR: "#fee7cc"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
-UTI_C_dens: 1.0
+UTI_C_dens: 0.36
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 122</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 122</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: ""
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 6.7
+rc_val: 1.4
+dens_val: 1.8
 N_50_val: 56
 scix_url: DBSB%20122
 posit_table: |
@@ -74,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 123](/_clusters/dbsb123/)| 42.9 | 259.27 | -36.32 | 0.56 | -0.2 | -2.21 | -- |0.34 |
+    |[DBSB 123](/_clusters/dbsb123/)| 42.9 | 259.27 | -36.32 | 0.56 | -0.2 | -2.21 | -- |0.22 |
     |[HSC 2897](/_clusters/hsc2897/)| 42.9 | 259.2 | -36.36 | 0.56 | -0.2 | -2.22 | -403.31 |0.01 |
 N_rows_shared: "2"
 ---

@@ -13,27 +13,27 @@ glon: 31.79519
 glat: 2.99338
 r50: 31.3
 plx: 2.0889
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#c4e5c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fefde6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
-UTI_C_dens: 1.0
+UTI_C_dens: 0.49
 UTI_C_C3: 0.75
 UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UPK 41</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the distance, absorption, and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: "Close"
-badge_dist_url: "dist_min=0.5&dist_max=1"
+    <b>UPK 41</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the distance, absorption, and age parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+badge_dist: "Very close"
+badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Moderate extinction"
 badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-dens_val: 14.9
+rc_val: 4.2
+dens_val: 2.5
 N_50_val: 283
 scix_url: UPK%2041
 posit_table: |
@@ -79,12 +80,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.515 | 2.89 | 2.41 | 6 | -0.077 | 418 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.48 | 2.96 | 2.41 | 6 | -0.077 | 418 | -- | -- |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 11 | -- | -- | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.90 | 0.79 | -- | 19 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.055<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.47 | -- | -- | 6 | -- | 519 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 316<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.46 | 3.03 | 2.41 | 6 | -- | 316<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.55 | 2.89 | -- | 5 | -0.100 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.46 | 3.03 | 2.41 | 6 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 1.71 | 3.19 | -- | 631 | -- | -- | -- | -- |

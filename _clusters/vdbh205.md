@@ -49,11 +49,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: intermediate fit. Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.28 (50th percentile), false positive (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.28 (50th percentile), false positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4685, e_all=0.1882.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "3"
-dens_val: 33.9
+N_comments: "4"
+rc_val: 1.7
+dens_val: 5.1
 N_50_val: 87
 scix_url: VDBH%20205
 posit_table: |
@@ -70,7 +72,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 254.053 | -40.636 | 0.569 | -0.15 | -1.083 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.76 | -2.39 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 254.035 | -40.68 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 254.046 | -40.667 | -1.43 | -2.46 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 254.046 | -40.667 | -- | -1.43 | -2.46 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 254.046 | -40.667 | -- | -1.72 | -2.44 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 254.046 | -40.667 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 254.033 | -40.664 | -- | -- | -- | -- |
@@ -87,9 +89,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 1.15 | 0.49 | 13 | 0.129 | 450 | 0.6 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.61 | 1.23 | 0.49 | 13 | 0.129 | 450 | 0.6 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.61 | 1.38 | -- | 8 | -- | 449 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 140<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.95 | 2.65 | 0.49 | 4704 | -- | 140<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 6 | -- | 452 | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.95 | 2.65 | 0.49 | 4699 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.62 | 1.45 | -- | 6 | 0.148 | 1643<sup>(1)</sup> | 0.60 | -- |
@@ -109,7 +111,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.37 |
-    |[UBC 323](/_clusters/ubc323/)| 93.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.39 |
+    |[ESO 332 13](/_clusters/eso33213/)| 97.7 | 254.11 | -40.61 | 0.59 | -0.12 | -1.12 | -21.73 |0.36 |
+    |[UBC 323](/_clusters/ubc323/)| 93.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
 N_rows_shared: "2"
 ---

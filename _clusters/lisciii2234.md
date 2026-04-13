@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.3
+rc_val: 2.6
+dens_val: 0.2
 N_50_val: 17
 scix_url: LISC-III%202234
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 212](/_clusters/teutsch212/)| 20.0 | 115.71 | -27.41 | 0.35 | -2.27 | 2.3 | -- |0.07 |
+    |[Teutsch 212](/_clusters/teutsch212/)| 20.0 | 115.71 | -27.41 | 0.35 | -2.27 | 2.3 | -- |0.06 |
 N_rows_shared: "1"
 ---

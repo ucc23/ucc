@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.98 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0302, e_all=0.1067.</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 80.8
+N_comments: "8"
+rc_val: 1.4
+dens_val: 25
 N_50_val: 750
 scix_url: Trumpler%2023
 posit_table: |
@@ -81,7 +83,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 240.196 | -53.532 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 240.218 | -53.539 | 0.352 | -4.178 | -4.746 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.57 | -4.31 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 240.204 | -53.536 | -2.16 | -4.51 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 240.204 | -53.536 | -- | -2.16 | -4.51 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 240.205 | -53.532 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 240.204 | -53.536 | -- | -2.42 | -4.31 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 240.217 | -53.533 | -- | -5.67 | -4.96 | -- |
@@ -95,13 +97,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.48 | 2.28 | 1.54 | 708 | 0.175 | 3720 | -- | 2 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.48 | 2.33 | 1.54 | 708 | 0.175 | 3720 | -- | 2 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 7.31 | 0.93 | -- | 407 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.38 | 2.52 | -- | 670 | 0.253 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.170<sup>(5)</sup> | -- | -- | -- |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 2.59 | 2.28 | -- | 708 | 0.350 | -- | -- | 2<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.23 | 2.73 | -- | 292 | -- | 3218 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 6307<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.48 | 2.84 | 1.54 | 332 | -- | 6307<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.85 | 2.83 | -- | 871 | -0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.48 | 2.84 | 1.54 | 332 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 912 | -- | 326 | -- | -- |

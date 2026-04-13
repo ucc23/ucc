@@ -13,15 +13,15 @@ glon: 0.68917
 glat: -0.92046
 r50: 2.9
 plx: 0.2621
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fefae1"
+UTI_C_dens_COL: "#fcd6c2"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e3f3cd"
 UTI_C_N: 0.0
-UTI_C_dens: 0.46
+UTI_C_dens: 0.25
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.68
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 2.3
+rc_val: 1.7
+dens_val: 1.3
 N_50_val: 24
 scix_url: HSC%206
 posit_table: |
@@ -68,13 +69,13 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.51 | 3.48 | 1.97 | 70 | -- | 608 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 608<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.51 | 3.48 | 1.97 | 70 | -- | 608<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.51 | 3.48 | 1.97 | 70 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Dutra Bica 8](/_clusters/dutrabica8/)| 32.0 | 267.58 | -28.86 | 0.26 | -0.18 | -1.46 | 4.34 |0.19 |
+    |[Dutra Bica 8](/_clusters/dutrabica8/)| 32.0 | 267.58 | -28.86 | 0.26 | -0.18 | -1.46 | 4.34 |0.17 |
 N_rows_shared: "1"
 ---

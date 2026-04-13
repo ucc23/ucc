@@ -13,25 +13,25 @@ glon: 254.23809
 glat: 2.13994
 r50: 22.3
 plx: 2.8034
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.48"
+UTI_COLOR: "#fefce4"
 UTI_C_N_COL: "#e2f2cc"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.69
-UTI_C_dens: 1.0
+UTI_C_dens: 0.53
 UTI_C_C3: 1.0
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Theia 31</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Theia 31</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 16.4
+rc_val: 2.5
+dens_val: 2.6
 N_50_val: 88
 scix_url: Theia%2031
 posit_table: |
@@ -84,6 +85,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 202](/_clusters/ocsn202/)| 100.0 | 126.93 | -34.74 | 2.81 | -6.96 | 10.9 | 13.13 |0.09 |
+    |[OCSN 202](/_clusters/ocsn202/)| 100.0 | 126.93 | -34.74 | 2.81 | -6.96 | 10.9 | 13.13 |0.07 |
 N_rows_shared: "1"
 ---

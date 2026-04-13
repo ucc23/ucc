@@ -13,15 +13,15 @@ glon: 77.23434
 glat: 4.95805
 r50: 6.5
 plx: 0.1264
-UTI: "0.29"
-UTI_COLOR: "#fddfc6"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fee5ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.39
-UTI_C_dens: 0.03
+UTI_C_dens: 0.0
 UTI_C_C3: 0.38
 UTI_C_lit: 0.32
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.2
+rc_val: 4.4
+dens_val: 0.02
 N_50_val: 39
 scix_url: Dolidze%2038
 posit_table: |
@@ -62,7 +63,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.37 | -4.17 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 301.47 | 41.195 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 301.425 | 41.2 | -- | -0.675 | -0.348 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 301.425 | 41.2 | -1.95 | -7.0 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 301.425 | 41.2 | -- | -1.95 | -7.0 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 301.47 | 41.195 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 301.465 | 41.193 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 301.425 | 41.2 | -- | -1.73 | -6.11 | -- |

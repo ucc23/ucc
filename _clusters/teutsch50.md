@@ -47,11 +47,13 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: invalid due to poor quality CMD. Isochrone match: worst fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1612, e_all=0.1927.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
-dens_val: 45.7
+N_comments: "2"
+rc_val: 0.7
+dens_val: 8.1
 N_50_val: 41
 scix_url: Teutsch%2050
 posit_table: |
@@ -66,7 +68,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 121.787 | -36.057 | 0.229 | -2.899 | 2.327 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 121.784 | -36.061 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 121.787 | -36.057 | 0.229 | -2.899 | 2.327 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 121.787 | -36.069 | -1.88 | -4.48 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 121.787 | -36.069 | -- | -1.88 | -4.48 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 121.784 | -36.07 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 121.789 | -36.073 | -- | -10.48 | 3.21 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 121.779 | -36.054 | -- | -- | -- | -- |

@@ -49,14 +49,16 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.89 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.89 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2891, e_all=0.0596.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however, parameters log(t)=8.47, Av=2.317, [Fe/H]=-0.102 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108).</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC2' (totally exposed cluster without correlation with ATLASGAL emission). Morphological flag: exposed cluster, without submm emission.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Selected angular diameter from (1987, Lund Catalogue of Open Cluster Data).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
-dens_val: 45.4
+N_comments: "7"
+rc_val: 0.9
+dens_val: 15
 N_50_val: 130
 scix_url: Ruprecht%20115
 posit_table: |
@@ -77,7 +79,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 243.215 | -52.393 | 0.366 | -4.333 | -4.546 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -4.06 | -4.43 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 243.24 | -52.427 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 243.217 | -52.4 | -2.12 | -4.83 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 243.217 | -52.4 | -- | -2.12 | -4.83 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 243.228 | -52.426 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 243.24 | -52.427 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 243.217 | -52.4 | -- | -2.49 | -4.8 | -- |
@@ -95,8 +97,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.355 | 2.285 | 1.83 | 603 | -0.102 | 668 | -- | 1 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 954<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.35 | 2.32 | 1.83 | 603 | -0.102 | 668 | -- | 1 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.35 | 2.96 | 1.83 | 157 | -- | 954<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.79 | 3.56 | -- | 112 | -0.600 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.35 | 2.96 | 1.83 | 157 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1365 | -- | 116 | -- | -- |

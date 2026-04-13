@@ -13,25 +13,25 @@ glon: 24.4483
 glat: -5.01014
 r50: 17.1
 plx: 1.0894
-UTI: "0.47"
-UTI_COLOR: "#fefbe2"
+UTI: "0.40"
+UTI_COLOR: "#fef4d6"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#fcfee5"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
-UTI_C_dens: 0.52
+UTI_C_dens: 0.17
 UTI_C_C3: 0.75
 UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UPK 26</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
+    <b>UPK 26</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. 
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 2.6
+rc_val: 1.5
+dens_val: 0.9
 N_50_val: 54
 scix_url: UPK%2026
 posit_table: |
@@ -82,7 +83,7 @@ fpars_table: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.95 | 0.85 | -- | 60 | 0.360 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.88 | 1.00 | -- | 92 | -- | 129 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.85 | 0.59 | -- | 205 | 0.078 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 279<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.88 | 0.85 | 0.78 | 109 | -- | 279<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.92 | 1.15 | -- | 59 | 0.090 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.88 | 0.85 | 0.78 | 109 | -- | -- | -- | -- |
     | [Tarricq et al.](https://scixplorer.org/abs/2022A%26A...659A..59T) | 2022 | 0.83 | -- | -- | 81 | -- | -- | -- | -- |

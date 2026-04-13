@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 16.2
+rc_val: 0.5
+dens_val: 8.7
 N_50_val: 23
 scix_url: AFGL961
 posit_table: |

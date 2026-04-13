@@ -13,15 +13,15 @@ glon: 334.68715
 glat: 0.36713
 r50: 7.6
 plx: 0.4774
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 0.6
+rc_val: 2.1
+dens_val: 0.2
 N_50_val: 13
 scix_url: Theia%201749
 posit_table: |
@@ -68,7 +69,7 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.86 | 2.41 | 1.65 | 182 | -- | 103 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 103<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.86 | 2.41 | 1.65 | 182 | -- | 103<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.86 | 2.41 | 1.65 | 182 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true

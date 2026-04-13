@@ -52,11 +52,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.93 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.93 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.3912, e_all=0.2246.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "6"
-dens_val: 25.2
+N_comments: "7"
+rc_val: 0.9
+dens_val: 8.4
 N_50_val: 224
 scix_url: SAI%2024
 posit_table: |
@@ -77,7 +79,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 44.816 | 60.566 | 0.446 | -0.201 | 0.114 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.36 | 0.0 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 44.865 | 60.55 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 44.854 | 60.566 | 0.06 | 0.77 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 44.854 | 60.566 | -- | 0.06 | 0.77 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 44.865 | 60.55 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 44.852 | 60.548 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 44.854 | 60.566 | -- | -0.99 | 1.17 | -- |
@@ -91,10 +93,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.85 | 1.67 | 14 | -0.016 | 627 | 0.76 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.93 | 1.915 | 1.67 | 13 | -0.016 | 627 | 0.76 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 4.23 | 0.69 | -- | 8 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.93 | 1.98 | -- | 13 | -- | 627 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1173<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.04 | 1.99 | 1.67 | 5 | -- | 1173<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 7 | -- | 627 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.89 | 1.99 | -- | 5 | -0.190 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.04 | 1.99 | 1.67 | 5 | -- | -- | -- | -- |
@@ -118,10 +120,10 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Collinder 34](/_clusters/collinder34/)| 53.6 | 44.83 | 60.57 | 0.44 | -0.35 | 0.04 | -55.55 |0.58 |
-    |[AFGL4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
-    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
-    |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
-    |[IRAS 02570+6028](/_clusters/iras02570p6028/)| 4.0 | 45.18 | 60.63 | 0.42 | -0.11 | 0.06 | -30.54 |0.21 |
-    |[BRC13](/_clusters/brc13/)| 0.4 | 45.19 | 60.6 | 0.34 | 0.06 | -0.18 | -- |0.05 |
+    |[AFGL4029](/_clusters/afgl4029/)| 6.2 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.08 |
+    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 4.9 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.2 |
+    |[CWNU 4436](/_clusters/cwnu4436/)| 4.5 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.02 |
+    |[IRAS 02570+6028](/_clusters/iras02570p6028/)| 4.0 | 45.18 | 60.63 | 0.42 | -0.11 | 0.06 | -30.54 |0.13 |
+    |[BRC13](/_clusters/brc13/)| 0.4 | 45.19 | 60.6 | 0.34 | 0.06 | -0.18 | -- |0.04 |
 N_rows_shared: "6"
 ---

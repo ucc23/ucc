@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 0.0, 0 WD candidates found, and 3 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.186, e_all=0.4103.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>List of clusters and alike reported by B. Alessi.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 48.3
+N_comments: "8"
+rc_val: 2.3
+dens_val: 9.6
 N_50_val: 456
 scix_url: VDBH%20164
 posit_table: |
@@ -106,13 +108,13 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 0.41 | 0.69 | 32 | 0.000 | 220 | 0.405 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.44 | 0.41 | 0.69 | 30 | 0.000 | 220 | 0.405 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.40 | 0.38 | -- | 38 | 0.042 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.42 | 0.40 | -- | 41 | 0.000 | 210 | 0.33 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.42 | 0.43 | -- | 46 | -- | 236 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.44 | 0.17 | -- | 29 | 0.135 | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.41 | -- | -- | 19 | -- | 896 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 425<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.41 | 0.20 | 0.69 | 19 | -- | 425<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.44 | 0.75 | -- | 13 | -0.130 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.41 | 0.20 | 0.69 | 19 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.40 | 0.42 | -- | 59 | -0.003 | 432<sup>(1)</sup> | 0.48 | -- |
@@ -144,6 +146,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2648](/_clusters/hsc2648/)| 4.6 | 222.4 | -66.33 | 2.61 | -7.54 | -10.54 | -0.51 |0.06 |
+    |[HSC 2648](/_clusters/hsc2648/)| 4.6 | 222.4 | -66.33 | 2.61 | -7.54 | -10.54 | -0.51 |0.04 |
 N_rows_shared: "1"
 ---

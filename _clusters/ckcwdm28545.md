@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 8.6
+dens_val: 0.03
 N_50_val: 11
 scix_url: CKCWDM%2028545
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 215](/_clusters/cwwdl215/)| 16.0 | 152.29 | -60.45 | 0.23 | -5.15 | 3.18 | 37.27 |0.06 |
+    |[CWWDL 215](/_clusters/cwwdl215/)| 16.0 | 152.29 | -60.45 | 0.23 | -5.15 | 3.18 | 37.27 |0.05 |
 N_rows_shared: "1"
 ---

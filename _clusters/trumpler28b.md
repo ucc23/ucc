@@ -13,25 +13,25 @@ glon: 356.03266
 glat: -0.2887
 r50: 5.9
 plx: 0.2606
-UTI: "0.29"
-UTI_COLOR: "#fddfc6"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#f0f8d5"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b9e0c4"
 UTI_C_N: 0.61
-UTI_C_dens: 0.33
+UTI_C_dens: 0.11
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.86
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Trumpler 28b</b> is a moderately populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Trumpler 28b</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 1.7
+rc_val: 2.6
+dens_val: 0.6
 N_50_val: 72
 scix_url: Trumpler%2028b
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.52 |
+    |[HSC 2950](/_clusters/hsc2950/)| 13.9 | 264.27 | -32.49 | 0.29 | -0.51 | -2.19 | -19.96 |0.36 |
     |[Trumpler 28](/_clusters/trumpler28/)| 1.4 | 264.22 | -32.46 | 0.65 | -0.84 | -2.83 | -48.36 |0.91 |
     |[UBC 569](/_clusters/ubc569/)| 1.4 | 264.22 | -32.46 | 0.66 | -0.78 | -2.81 | -37.2 |0.05 |
 N_rows_shared: "3"

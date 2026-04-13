@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.0
+rc_val: 9.1
+dens_val: 0.05
 N_50_val: 32
 scix_url: Teutsch%2043
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 295.687 | 29.847 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 295.696 | 29.851 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.94 | -4.21 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 295.692 | 29.86 | -4.22 | -5.13 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 295.692 | 29.86 | -- | -4.22 | -5.13 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 295.687 | 29.847 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 295.692 | 29.86 | -- | -4.55 | -4.89 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 295.692 | 29.85 | -- | -4.43 | -4.46 | -- |
@@ -84,6 +85,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3118](/_clusters/cwnu3118/)| 53.1 | 295.69 | 29.86 | 0.03 | -2.0 | -3.58 | -73.09 |0.14 |
+    |[CWNU 3118](/_clusters/cwnu3118/)| 53.1 | 295.69 | 29.86 | 0.03 | -2.0 | -3.58 | -73.09 |0.1 |
 N_rows_shared: "1"
 ---

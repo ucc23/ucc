@@ -13,15 +13,15 @@ glon: 349.90472
 glat: -0.9803
 r50: 11.0
 plx: 0.533
-UTI: "0.29"
-UTI_COLOR: "#fddfc6"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.61
 UTI_C_dup: 1.0
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 123</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.88 kpc) differs significantly from the median photometric distance (~1.19 kpc).</p>
+    <b>Ruprecht 123</b> is a sparse, very loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "5"
-dens_val: 0.5
+rc_val: 6.7
+dens_val: 0.1
 N_50_val: 17
 scix_url: Ruprecht%20123
 posit_table: |
@@ -74,7 +75,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 260.88 | -37.925 | -- | 1.03 | 0.888 | 3.055 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.63 | -2.55 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 260.88 | -37.925 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 260.858 | -37.9 | -1.03 | -3.71 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 260.858 | -37.9 | -- | -1.03 | -3.71 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 260.88 | -37.925 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 260.871 | -37.925 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 260.858 | -37.9 | -- | -0.79 | -3.15 | -- |
@@ -89,10 +90,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.19 | 1.565 | 1.13 | 128 | 0.174 | 76 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.45 | 1.64 | 1.13 | 129 | 0.174 | 76 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.55 | 1.87 | -- | 516 | 0.160 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.51 | 1.91 | -- | 481 | -- | 76 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 321<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.45 | 1.77 | 1.13 | 241 | -- | 321<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.47 | 1.64 | -- | 129 | 0.280 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 1.45 | 2.00 | -- | 32 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.45 | 1.77 | 1.13 | 242 | -- | -- | -- | -- |

@@ -13,15 +13,15 @@ glon: 85.33244
 glat: 0.04055
 r50: 5.9
 plx: 0.3767
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.2
+UTI_C_dens: 0.06
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 1.0
+rc_val: 2.5
+dens_val: 0.3
 N_50_val: 21
 scix_url: CBJC7
 posit_table: |
@@ -77,7 +78,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CBJC8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.29 |
+    |[CBJC8](/_clusters/cbjc8/)| 96.0 | 313.49 | 44.89 | 0.38 | -2.8 | -3.52 | -21.17 |0.25 |
     |[CWNU 2830](/_clusters/cwnu2830/)| 80.0 | 313.49 | 44.9 | 0.38 | -2.8 | -3.54 | -21.17 |0.01 |
 N_rows_shared: "2"
 ---

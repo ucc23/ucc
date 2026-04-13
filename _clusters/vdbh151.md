@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Bronze sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2255, e_all=0.1678.</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC1' (totally exposed cluster still physically associated with gas). Morphological flag: exposed cluster, without submm emission, presence of an IR bubble and possible YSOs.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 32.8
+N_comments: "6"
+rc_val: 0.8
+dens_val: 16
 N_50_val: 78
 scix_url: VDBH%20151
 posit_table: |
@@ -72,7 +74,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 205.051 | -61.731 | 0.176 | -5.853 | -1.878 | -- |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 205.051 | -61.731 | -- | -5.858 | -1.874 | 2.787 |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 205.051 | -61.731 | 0.176 | -5.853 | -1.878 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 205.046 | -61.731 | -0.2 | -6.38 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 205.046 | -61.731 | -- | -0.2 | -6.38 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 205.05 | -61.73 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 205.054 | -61.735 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 205.046 | -61.731 | -- | 0.05 | -6.2 | -- |
@@ -84,9 +86,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.91 | 4.1 | 2.86 | 14 | 0.341 | 468 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.95 | 4.1 | 2.86 | 13 | 0.341 | 468 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.87 | 4.10 | -- | 6 | -- | 489 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1017<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.95 | 4.82 | 2.86 | 13 | -- | 1017<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 16 | -- | 418 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.67 | 4.49 | -- | 16 | 0.820 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.95 | 4.82 | 2.86 | 13 | -- | -- | -- | -- |

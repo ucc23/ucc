@@ -16,22 +16,22 @@ plx: 1.1438
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fcd2c0"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.0
-UTI_C_dens: 1.0
+UTI_C_dens: 0.23
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>Chupina 2</b> is a sparse, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Chupina 2</b> is a sparse, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 5.7
+rc_val: 1.4
+dens_val: 1.1
 N_50_val: 24
 scix_url: Chupina%202
 posit_table: |

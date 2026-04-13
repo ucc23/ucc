@@ -13,15 +13,15 @@ glon: 197.94745
 glat: 7.98043
 r50: 1.4
 plx: 0.0848
-UTI: "0.91"
-UTI_COLOR: "#add9c0"
+UTI: "0.89"
+UTI_COLOR: "#b2dcc2"
 UTI_C_N_COL: "#c4e5c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#add9c0"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.82
-UTI_C_dens: 1.0
+UTI_C_dens: 0.91
 UTI_C_C3: 0.75
 UTI_C_lit: 1.0
 UTI_C_dup: 1.0
@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Tosi 2004 found this to be potentially the most distant cluster in the Galaxy, with an age of 3.5 Gyr and a distance of 11.2–14.4 kpc. The CMD shows a visible TO between 18<G<19, followed by sub-giant and giant branches with a RC at G~16.5. ASteCA finds a distance of 14.4 kpc and an age of 3.7 Gyr, in good agreement with Tosi et al. Frinchaboy 2006 gives 13.4 kpc and 4 Gyr; CG20 gives 12.6 kpc and 3 Gyr, both slightly smaller. Berkeley 29 is the second most distant cluster heliocentrically (after vdBH 176), but the most distant by galactocentric distance (~22 kpc), surpassing Saurer 1.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1333, e_all=0.2058.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>Best fit with log(t)=9.4, E(b-v)=0.2 and solar metallicity.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 12.3
+N_comments: "6"
+rc_val: 1.8
+dens_val: 4.5
 N_50_val: 283
 scix_url: Berkeley%2029
 posit_table: |
@@ -84,7 +86,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 103.268 | 16.93 | 0.023 | 0.151 | -1.01 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -0.4 | -1.95 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 103.32 | 16.918 | -- | -2.26 | -5.99 | 28.4 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 103.325 | 16.917 | -1.38 | -6.17 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 103.325 | 16.917 | -- | -1.38 | -6.17 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 103.252 | 16.932 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 103.267 | 16.927 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 103.325 | 16.917 | -- | -2.26 | -5.99 | -- |
@@ -103,11 +105,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 14.65 | 0.47 | 1.63 | 1259 | -0.366 | 5068 | 0.56 | 1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 14.52 | 0.485 | 1.63 | 1259 | -0.366 | 5068 | 0.56 | 1 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 3090 | -0.510<sup>(15)</sup> | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.280<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.380<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1063<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 13.19 | 1.49 | 1.63 | 256 | -- | 1063<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 8.87 | 0.43 | -- | 7413 | -0.440 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 13.19 | 1.49 | 1.63 | 256 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1259 | -- | 7709 | -- | -- |

@@ -13,25 +13,25 @@ glon: 331.67444
 glat: -0.55875
 r50: 3.2
 plx: 0.3461
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fafce1"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef2d4"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee2c7"
 UTI_C_N: 0.54
-UTI_C_dens: 1.0
+UTI_C_dens: 0.39
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.3
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>CWWDL 1583</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CWWDL 1583</b> is a moderately populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 7.9
+rc_val: 1.9
+dens_val: 2.0
 N_50_val: 57
 scix_url: CWWDL%201583
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 540](/_clusters/ubc540/)| 70.2 | 243.76 | -51.69 | 0.33 | -3.58 | -4.02 | -34.76 |0.35 |
-    |[Ryu 288](/_clusters/ryu288/)| 35.1 | 243.74 | -51.65 | 0.37 | -3.61 | -3.99 | -34.76 |0.28 |
+    |[UBC 540](/_clusters/ubc540/)| 70.2 | 243.76 | -51.69 | 0.33 | -3.58 | -4.02 | -34.76 |0.29 |
+    |[Ryu 288](/_clusters/ryu288/)| 35.1 | 243.74 | -51.65 | 0.37 | -3.61 | -3.99 | -34.76 |0.17 |
 N_rows_shared: "2"
 ---

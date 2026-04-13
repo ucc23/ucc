@@ -13,25 +13,25 @@ glon: 19.45439
 glat: -2.26319
 r50: 4.6
 plx: 0.5856
-UTI: "0.54"
-UTI_COLOR: "#fafce1"
+UTI: "0.41"
+UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#feecd0"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 1.0
+UTI_C_dens: 0.36
 UTI_C_C3: 1.0
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HXHWL 51</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>HXHWL 51</b> is a moderately populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 12.3
+rc_val: 2.2
+dens_val: 1.8
 N_50_val: 64
 scix_url: HXHWL%2051
 posit_table: |
@@ -70,8 +71,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.62 | 1.91 | 0.63 | 68 | 0.258 | 371 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 371<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.62 | 1.78 | 0.63 | 68 | 0.258 | 371 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.62 | 1.65 | 0.63 | 68 | -- | 371<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.73 | 1.91 | -- | 40 | 0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.62 | 1.65 | 0.63 | 68 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.51 | 2.41 | -- | 126 | 0.216 | -- | -- | -- |
@@ -80,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1023](/_clusters/ubc1023/)| 87.5 | 278.68 | -13.03 | 0.59 | 0.65 | -0.17 | 1.56 |0.02 |
+    |[UBC 1023](/_clusters/ubc1023/)| 87.5 | 278.68 | -13.03 | 0.59 | 0.65 | -0.17 | 1.56 |0.01 |
 N_rows_shared: "1"
 ---

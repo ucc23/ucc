@@ -13,27 +13,27 @@ glon: 124.79622
 glat: 3.36104
 r50: 14.4
 plx: 0.9644
-UTI: "0.09"
-UTI_COLOR: "#eeb4b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#eaf6d1"
+UTI_C_dens_COL: "#fbcdbe"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#fdddc5"
 UTI_C_N: 0.55
-UTI_C_dens: 0.64
+UTI_C_dens: 0.21
 UTI_C_C3: 0.38
 UTI_C_lit: 0.03
 UTI_C_dup: 0.28
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>Theia 4228</b> is a moderately populated, moderately dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: "Relatively close"
-badge_dist_url: "dist_min=1&dist_max=3"
+    <b>Theia 4228</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a metal-rich, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+badge_dist: "Close"
+badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "High extinction"
 badge_av_url: "av_min=3&av_max=5"
 badge_mass: ""
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 3.2
+rc_val: 0.8
+dens_val: 1.1
 N_50_val: 60
 scix_url: Theia%204228
 posit_table: |
@@ -69,8 +70,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.115 | 3.115 | 2.35 | 33 | 0.500 | 278 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 278<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.99 | 3.08 | 2.35 | 27 | 0.500 | 278 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.99 | 3.08 | 2.35 | 27 | -- | 278<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.24 | 3.15 | -- | 39 | 0.500 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.99 | 3.08 | 2.35 | 27 | -- | -- | -- | -- |
 N_rows_pars: "3"
@@ -78,7 +79,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1059](/_clusters/cwnu1059/)| 71.7 | 17.44 | 66.18 | 0.96 | -0.24 | 0.77 | -21.63 |0.26 |
-    |[CWWDL 14456](/_clusters/cwwdl14456/)| 65.0 | 17.69 | 66.07 | 0.96 | -0.23 | 0.76 | -19.37 |0.04 |
+    |[CWNU 1059](/_clusters/cwnu1059/)| 71.7 | 17.44 | 66.18 | 0.96 | -0.24 | 0.77 | -21.63 |0.19 |
+    |[CWWDL 14456](/_clusters/cwwdl14456/)| 65.0 | 17.69 | 66.07 | 0.96 | -0.23 | 0.76 | -19.37 |0.03 |
 N_rows_shared: "2"
 ---

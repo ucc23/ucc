@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 8.6
+rc_val: 0.5
+dens_val: 6.4
 N_50_val: 30
 scix_url: BDSB%2097
 posit_table: |
@@ -74,10 +75,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 63.3 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.28 |
-    |[NGC 6334 V](/_clusters/ngc6334v/)| 46.7 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.32 |
-    |[BDSB 98](/_clusters/bdsb98/)| 36.7 | 260.0 | -35.93 | 0.56 | -0.19 | -1.82 | -14.06 |0.05 |
-    |[NGC 6334](/_clusters/ngc6334/)| 3.3 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.55 |
-    |[NGC 6334 III](/_clusters/ngc6334iii/)| 3.3 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.08 |
+    |[NGC 6334 IV](/_clusters/ngc6334iv/)| 63.3 | 260.05 | -35.91 | 0.59 | -0.05 | -1.9 | -14.06 |0.23 |
+    |[NGC 6334 V](/_clusters/ngc6334v/)| 46.7 | 259.99 | -35.96 | 0.54 | -0.15 | -1.71 | -55.76 |0.22 |
+    |[BDSB 98](/_clusters/bdsb98/)| 36.7 | 260.0 | -35.93 | 0.56 | -0.19 | -1.82 | -14.06 |0.04 |
+    |[NGC 6334](/_clusters/ngc6334/)| 3.3 | 260.04 | -36.05 | 0.56 | 0.15 | -1.75 | -29.57 |0.43 |
+    |[NGC 6334 III](/_clusters/ngc6334iii/)| 3.3 | 260.09 | -35.9 | 0.58 | -0.24 | -1.71 | -- |0.05 |
 N_rows_shared: "5"
 ---

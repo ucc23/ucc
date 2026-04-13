@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 19.9
+rc_val: 1.3
+dens_val: 5.3
 N_50_val: 103
 scix_url: OCSN%20249
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gaia 8](/_clusters/gaia8/)| 100.0 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.6 |
+    |[Gaia 8](/_clusters/gaia8/)| 100.0 | 282.56 | 33.36 | 3.45 | 1.79 | -3.89 | -18.69 |0.58 |
     |[PHOC 41](/_clusters/phoc41/)| 100.0 | 282.54 | 33.38 | 3.45 | 1.8 | -3.86 | -18.69 |0.0 |
     |[CWWL 3595](/_clusters/cwwl3595/)| 78.6 | 282.53 | 33.37 | 3.47 | 1.82 | -3.87 | -18.54 |0.0 |
 N_rows_shared: "3"

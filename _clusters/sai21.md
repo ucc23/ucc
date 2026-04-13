@@ -13,25 +13,25 @@ glon: 134.50638
 glat: 2.05295
 r50: 1.1
 plx: 0.3178
-UTI: "0.42"
-UTI_COLOR: "#fef6d9"
+UTI: "0.40"
+UTI_COLOR: "#fef4d6"
 UTI_C_N_COL: "#fddfc6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.29
-UTI_C_dens: 1.0
+UTI_C_dens: 0.87
 UTI_C_C3: 0.38
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>SAI 21</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a low-mass, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.15 kpc) differs significantly from the median photometric distance (~1.90 kpc).</p>
+    <b>SAI 21</b> is a poorly populated, dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a low-mass, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.15 kpc) differs significantly from the median photometric distance (~1.90 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 28.6
+rc_val: 0.9
+dens_val: 4.3
 N_50_val: 29
 scix_url: SAI%2021
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |38.672 | 62.582 | 0.318 | -0.082 | -0.39 | -86.122 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 38.694 | 62.586 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 38.707 | 62.588 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 38.688 | 62.573 | -1.68 | 0.1 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 38.688 | 62.573 | -- | -1.68 | 0.1 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 38.694 | 62.586 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 38.688 | 62.573 | -- | -2.95 | -1.76 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 38.707 | 62.588 | -- | -1.25 | -2.1 | -- |

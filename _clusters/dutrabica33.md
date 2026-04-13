@@ -13,8 +13,8 @@ glon: 1.88433
 glat: 1.178
 r50: 6.7
 plx: 0.2483
-UTI: "0.14"
-UTI_COLOR: "#f4beb7"
+UTI: "0.13"
+UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fef0d2"
@@ -51,6 +51,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
+rc_val: 2.5
 dens_val: 0.2
 N_50_val: 13
 scix_url: Dutra%20Bica%2033

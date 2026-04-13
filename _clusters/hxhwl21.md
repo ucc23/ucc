@@ -13,25 +13,25 @@ glon: 224.67643
 glat: 3.43459
 r50: 5.6
 plx: 0.4709
-UTI: "0.38"
-UTI_COLOR: "#fef0d2"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#feebce"
-UTI_C_dens_COL: "#f4fada"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.35
-UTI_C_dens: 0.58
+UTI_C_dens: 0.1
 UTI_C_C3: 0.75
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>HXHWL 21</b> is a poorly populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
+    <b>HXHWL 21</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 2.9
+rc_val: 3.2
+dens_val: 0.5
 N_50_val: 35
 scix_url: HXHWL%2021
 posit_table: |
@@ -74,7 +75,7 @@ fpars_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.0 | 0.18 | 0.6 | 802 | 0.097 | 155 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.160<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 155<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.00 | 0.18 | 0.60 | 802 | -- | 155<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.01 | 0.47 | -- | 631 | 0.110 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.00 | 0.18 | 0.60 | 802 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2021RAA....21...93H) | 2021 | 1.66 | 0.13 | -- | 1047 | 0.097 | -- | -- | -- |

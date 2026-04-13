@@ -16,12 +16,12 @@ plx: 0.2824
 UTI: "0.07"
 UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#bfe2c5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.04
+UTI_C_dens: 0.03
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.84
@@ -51,6 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
+rc_val: 2.0
 dens_val: 0.2
 N_50_val: 9
 scix_url: Bica%20643
@@ -70,8 +71,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDB2003 G010.16-00.36](/_clusters/bdb2003g010160036/)| 16.0 | 272.33 | -20.34 | 0.27 | -1.71 | -3.94 | 18.43 |0.01 |
-    |[W31](/_clusters/w31/)| 12.0 | 272.33 | -20.38 | 0.27 | -1.66 | -3.89 | -8.12 |0.13 |
-    |[BDSB 112](/_clusters/bdsb112/)| 8.0 | 272.23 | -20.07 | 0.58 | -2.26 | -3.85 | -43.49 |0.09 |
-    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.12 |
+    |[W31](/_clusters/w31/)| 12.0 | 272.33 | -20.38 | 0.27 | -1.66 | -3.89 | -8.12 |0.11 |
+    |[BDSB 112](/_clusters/bdsb112/)| 8.0 | 272.23 | -20.07 | 0.58 | -2.26 | -3.85 | -43.49 |0.07 |
+    |[BDSB 113](/_clusters/bdsb113/)| 8.0 | 272.26 | -20.06 | 0.48 | -2.28 | -4.1 | -78.65 |0.08 |
 N_rows_shared: "4"
 ---

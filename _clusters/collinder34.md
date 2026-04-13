@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 26.5
+rc_val: 1.1
+dens_val: 7.2
 N_50_val: 188
 scix_url: Collinder%2034
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 44.846 | 60.567 | -- | -0.208 | 0.122 | 2.471 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.62 | -0.17 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 44.85 | 60.567 | -- | 1.433 | -0.137 | -40.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 44.846 | 60.567 | 0.69 | 0.31 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 44.846 | 60.567 | -- | 0.69 | 0.31 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 44.846 | 60.567 | -- | 0.4 | 0.44 | -40.0 |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 44.854 | 60.562 | -- | -- | -- | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 45.252 | 60.402 | -- | -- | -- | -- 
@@ -81,8 +82,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[SAI 24](/_clusters/sai24/)| 63.8 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.37 |
-    |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.04 |
-    |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
-    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
+    |[CWNU 4436](/_clusters/cwnu4436/)| 13.8 | 44.87 | 60.57 | 0.23 | -0.48 | 0.1 | -- |0.02 |
+    |[AFGL4029](/_clusters/afgl4029/)| 2.1 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.08 |
+    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 0.5 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.2 |
 N_rows_shared: "4"
 ---

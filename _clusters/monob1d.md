@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-dens_val: 110.2
+rc_val: 1.7
+dens_val: 19
 N_50_val: 491
 scix_url: MonOB1-D
 posit_table: |
@@ -76,12 +77,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.695 | 0.41 | 1.61 | 8 | 0.227 | 760 | 0.58 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.69 | 0.44 | 1.61 | 7 | 0.227 | 760 | 0.58 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.70 | 0.07 | -- | 8 | -- | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 6 | -0.290<sup>(3)</sup> | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 0.61 | 0.38 | -- | 13 | 0.250 | 1408 | 0.58 | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.203<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 112<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.69 | 0.44 | 1.61 | 6 | -- | 112<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.88 | 0.74 | -- | 28 | 0.330 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.69 | 0.44 | 1.61 | 6 | -- | -- | -- | -- |
 N_rows_pars: "7"

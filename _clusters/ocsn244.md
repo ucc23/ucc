@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 44.1
+rc_val: 0.5
+dens_val: 24
 N_50_val: 66
 scix_url: OCSN%20244
 posit_table: |
@@ -79,7 +80,7 @@ shared_table: |
     |[Orion Nebula](/_clusters/orionnebula/)| 25.8 | 83.82 | -5.36 | 2.51 | 1.23 | 0.18 | 25.16 |0.34 |
     |[OMC-1](/_clusters/omc1/)| 18.2 | 83.82 | -5.37 | 2.5 | 0.95 | -0.07 | -7.13 |0.39 |
     |[OMC-2](/_clusters/omc2/)| 3.0 | 83.85 | -5.17 | 2.54 | 1.04 | -0.02 | 26.69 |0.17 |
-    |[OC 0345](/_clusters/oc0345/)| 1.5 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
-    |[UBC 207](/_clusters/ubc207/)| 1.5 | 83.87 | -4.61 | 2.57 | 1.11 | 0.57 | 20.54 |0.49 |
+    |[OC 0345](/_clusters/oc0345/)| 1.5 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
+    |[UBC 207](/_clusters/ubc207/)| 1.5 | 83.87 | -4.61 | 2.57 | 1.11 | 0.57 | 20.54 |0.4 |
 N_rows_shared: "10"
 ---

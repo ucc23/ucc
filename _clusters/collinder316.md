@@ -50,14 +50,15 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 23.0
+rc_val: 0.6
+dens_val: 10
 N_50_val: 73
 scix_url: Collinder%20316
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |253.697 | -40.76 | 0.604 | -0.284 | -1.289 | -24.59 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 253.875 | -40.833 | -3.02 | -3.5 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 253.875 | -40.833 | -- | -3.02 | -3.5 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 253.875 | -40.833 | -- | -2.26 | -3.39 | -29.05 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2003ARep...47..263K) | 2003 | 253.68 | -40.76 | -- | -0.89 | -4.33 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 253.865 | -40.831 | -- | -- | -- | -- |
@@ -75,7 +76,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.39 |
+    |[UBC 323](/_clusters/ubc323/)| 78.1 | 253.97 | -40.69 | 0.59 | -0.23 | -1.25 | -21.03 |0.37 |
     |[ESO 332 08](/_clusters/eso33208/)| 46.6 | 253.7 | -40.76 | 0.58 | -0.27 | -1.34 | -18.45 |0.14 |
     |[OC 0674](/_clusters/oc0674/)| 34.2 | 253.7 | -40.77 | 0.6 | -0.28 | -1.29 | -22.14 |0.0 |
 N_rows_shared: "3"

@@ -13,15 +13,15 @@ glon: 247.35737
 glat: -3.2431
 r50: 4.4
 plx: 0.2498
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f6c2b8"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.16
+UTI_C_dens: 0.06
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.8
+rc_val: 2.5
+dens_val: 0.3
 N_50_val: 21
 scix_url: CWWDL%20348
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3620](/_clusters/cwnu3620/)| 96.0 | 116.97 | -31.89 | 0.25 | -2.23 | 3.11 | 66.08 |0.09 |
-    |[HSC 1992](/_clusters/hsc1992/)| 84.0 | 116.96 | -31.89 | 0.25 | -2.23 | 3.13 | 66.08 |0.06 |
+    |[CWNU 3620](/_clusters/cwnu3620/)| 96.0 | 116.97 | -31.89 | 0.25 | -2.23 | 3.11 | 66.08 |0.08 |
+    |[HSC 1992](/_clusters/hsc1992/)| 84.0 | 116.96 | -31.89 | 0.25 | -2.23 | 3.13 | 66.08 |0.05 |
 N_rows_shared: "2"
 ---

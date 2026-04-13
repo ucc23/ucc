@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 448.3
+rc_val: 0.3
+dens_val: 74
 N_50_val: 47
 scix_url: LDN1641%20South
 posit_table: |

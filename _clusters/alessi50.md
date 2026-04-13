@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Alessi 50</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: "Relatively close"
-badge_dist_url: "dist_min=1&dist_max=3"
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
 badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "4"
-dens_val: 20.2
+rc_val: 1.9
+dens_val: 6.0
 N_50_val: 239
 scix_url: Alessi%2050
 posit_table: |
@@ -74,10 +75,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.92 | 1.37 | 0.69 | 2312 | -0.210 | 845 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.05 | 1.18 | 0.69 | 1932 | -0.210 | 845 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.180<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.496<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 845<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.05 | 1.18 | 0.69 | 1931 | -- | 845<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.79 | 1.56 | -- | 2692 | -0.210 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.05 | 1.18 | 0.69 | 1932 | -- | -- | -- | -- |
 N_rows_pars: "5"

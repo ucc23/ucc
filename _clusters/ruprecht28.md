@@ -13,25 +13,25 @@ glon: 245.65458
 glat: -4.31564
 r50: 3.6
 plx: 0.2248
-UTI: "0.81"
-UTI_COLOR: "#c7e6c7"
+UTI: "0.79"
+UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#c2e4c6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#b9e0c4"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#d7eec9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
-UTI_C_dens: 1.0
+UTI_C_dens: 0.86
 UTI_C_C3: 0.75
 UTI_C_lit: 0.74
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Ruprecht 28</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Ruprecht 28</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1249, e_all=0.0796.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 14.6
+N_comments: "5"
+rc_val: 2.4
+dens_val: 4.3
 N_50_val: 316
 scix_url: Ruprecht%2028
 posit_table: |
@@ -79,7 +81,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 114.9 | -30.933 | 0.198 | -2.567 | 3.854 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.01 | 2.6 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 114.9 | -30.936 | -- | -1.586 | 1.408 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.9 | -30.933 | -3.46 | 2.83 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.9 | -30.933 | -- | -3.46 | 2.83 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 114.895 | -30.932 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 114.9 | -30.933 | -- | -2.84 | 2.31 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 114.9 | -30.935 | -- | -3.01 | 0.44 | -- |
@@ -91,11 +93,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.25 | 1.23 | 0.62 | 1175 | -0.197 | 1031 | 0.78 | 2 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.205 | 1.15 | 0.62 | 1175 | -0.197 | 1031 | 0.78 | 2 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.16 | 1.15 | -- | 1904 | -0.247 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.170<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.71 | 1.41 | -- | 1667 | -- | 1031 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 887<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.08 | 0.89 | 0.62 | 1207 | -- | 887<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.33 | 1.57 | -- | 1230 | -0.490 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.09 | 0.89 | 0.62 | 1208 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 3.68 | 0.90 | -- | 2588 | -0.045 | 707<sup>(1)</sup> | 0.78 | -- |

@@ -13,25 +13,25 @@ glon: 168.28883
 glat: 1.43146
 r50: 3.2
 plx: 0.2748
-UTI: "0.79"
-UTI_COLOR: "#cce9c8"
+UTI: "0.72"
+UTI_COLOR: "#dbefca"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#f0f8d5"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#a5cab9"
 UTI_C_dup_COL: "#acd6bf"
 UTI_C_N: 0.75
-UTI_C_dens: 1.0
+UTI_C_dens: 0.61
 UTI_C_C3: 0.5
 UTI_C_lit: 1.0
 UTI_C_dup: 0.93
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Very well-studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Czernik 20</b> is a rich, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Czernik 20</b> is a rich, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is very well-studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD classes: 0.97 (50th percentile), true positive (human-assigned).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD classes: 0.97 (50th percentile), true positive (human-assigned).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0819, e_all=0.1612.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg23' along with NGC 1857.</p>
 
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "5"
-dens_val: 8.9
+N_comments: "6"
+rc_val: 1.8
+dens_val: 3.0
 N_50_val: 102
 scix_url: Czernik%2020
 posit_table: |
@@ -83,7 +85,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 80.055 | 39.573 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 80.129 | 39.545 | 0.264 | 0.619 | -1.583 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 80.13 | 39.547 | -- | -0.67 | -3.3 | -29.97 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 80.133 | 39.547 | -0.37 | -2.68 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 80.133 | 39.547 | -- | -0.37 | -2.68 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 80.105 | 39.54 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 80.133 | 39.547 | -- | -0.67 | -3.3 | -29.97 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 80.115 | 39.54 | -- | -3.76 | -1.12 | -- |
@@ -99,14 +101,14 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.42 | 1.68 | 0.58 | 1549 | -0.160 | 426 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.42 | 1.615 | 0.58 | 1549 | -0.160 | 426 | -- | 0 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 1660 | -0.160<sup>(15)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 2.48 | 1.55 | -- | 325 | -0.148 | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 1660 | -0.180 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.220<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 3.42 | 1.86 | -- | 1479 | -- | 434 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.224<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 426<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.38 | 1.47 | 0.58 | 1903 | -- | 426<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.60 | 2.10 | -- | 1259 | -0.510 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.38 | 1.47 | 0.58 | 1901 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1549 | -- | 238 | -- | -- |
@@ -135,7 +137,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.08 |
-    |[NGC 1857](/_clusters/ngc1857/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.96 |
+    |[Teutsch 88](/_clusters/teutsch88/)| 91.2 | 80.12 | 39.54 | 0.29 | 0.53 | -1.58 | 31.26 |0.07 |
+    |[NGC 1857](/_clusters/ngc1857/)| 6.9 | 80.03 | 39.33 | 0.34 | 0.48 | -1.37 | -0.3 |0.9 |
 N_rows_shared: "2"
 ---

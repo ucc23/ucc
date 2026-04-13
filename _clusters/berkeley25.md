@@ -13,25 +13,25 @@ glon: 226.60801
 glat: -9.63204
 r50: 2.0
 plx: 0.1046
-UTI: "0.80"
-UTI_COLOR: "#c9e7c8"
+UTI: "0.74"
+UTI_COLOR: "#d7eec9"
 UTI_C_N_COL: "#c2e4c6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#e2f2cc"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#ddf0ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.83
-UTI_C_dens: 1.0
+UTI_C_dens: 0.69
 UTI_C_C3: 0.75
 UTI_C_lit: 0.71
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 25</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, very old cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Berkeley 25</b> is a rich, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as a very massive, near-solar metallicity, very old cluster, but with a <u>large variance across recent sources</u> for the age, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.17 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.17 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a clear giant branch and several stars above the TO that are BSS candidates. The RDP yields a radius of ~5', the largest in the sample. Carraro 2005 used a much smaller 0.8' radius and obtained 3.0 Gyr and 11.3 kpc; Carraro 2007 gives 5 Gyr and 13.2 kpc. ASteCA estimates 7.4 kpc and 5.2 Gyr, placing the cluster considerably closer than the Carraro et al. values and most databases (>11 kpc). CG20 gives a similar distance of 6.8 kpc but a much younger age of 2.5 Gyr. The underestimated cluster region likely explains the discrepancies with Carraro et al.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0441, e_all=0.0502.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 10.0
+N_comments: "5"
+rc_val: 2.3
+dens_val: 3.4
 N_50_val: 308
 scix_url: Berkeley%2025
 posit_table: |
@@ -74,7 +76,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 100.31 | -16.476 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 100.317 | -16.487 | 0.077 | -0.114 | 0.845 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 100.305 | -16.495 | -- | -0.215 | -0.918 | 134.3 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 100.25 | -16.517 | -6.35 | -1.87 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 100.25 | -16.517 | -- | -6.35 | -1.87 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 100.299 | -16.493 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 100.317 | -16.487 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 100.25 | -16.517 | -- | -3.68 | -4.17 | -- |
@@ -89,9 +91,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.815 | 1.07 | 2.03 | 5012 | -0.200 | 8560 | 0.82 | 2 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.69 | 1.07 | 2.03 | 5012 | -0.200 | 8560 | 0.82 | 2 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.360<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2119<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 7.69 | 1.65 | 2.03 | 929 | -- | 2119<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.31 | 1.18 | -- | 4169 | -0.560 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 7.69 | 1.65 | 2.03 | 929 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 5012 | -- | 16331 | -- | -- |

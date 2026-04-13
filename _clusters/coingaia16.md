@@ -13,15 +13,15 @@ glon: 170.03514
 glat: 0.26218
 r50: 4.0
 plx: 0.6194
-UTI: "0.61"
-UTI_COLOR: "#f0f8d5"
+UTI: "0.60"
+UTI_COLOR: "#f1f9d6"
 UTI_C_N_COL: "#fdfee6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a7cebb"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.51
-UTI_C_dens: 1.0
+UTI_C_dens: 0.98
 UTI_C_C3: 0.75
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
-    <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs cluster aggregate 'to' Agg15 along with COIN-Gaia 17.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2644, e_all=0.2328.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg15' along with COIN-Gaia 17.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "7"
-dens_val: 14.7
+N_comments: "8"
+rc_val: 0.9
+dens_val: 4.9
 N_50_val: 52
 scix_url: COIN-Gaia%2016
 posit_table: |
@@ -82,12 +84,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.55 | 0.92 | 0.43 | 18 | -0.203 | 177 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.55 | 0.86 | 0.43 | 17 | -0.203 | 177 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 2.44 | 0.32 | -- | 12 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.43 | 0.92 | -- | 17 | -0.203 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.55 | 1.07 | -- | 18 | -- | 177 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.272<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 187<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.55 | 0.74 | 0.43 | 12 | -- | 187<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 26 | -- | 135 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.51 | 1.08 | -- | 9 | -0.460 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.55 | 0.74 | 0.43 | 12 | -- | -- | -- | -- |

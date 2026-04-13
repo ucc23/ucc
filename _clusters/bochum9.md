@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.2
+rc_val: 2.9
+dens_val: 0.1
 N_50_val: 14
 scix_url: Bochum%209
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |158.872 | -60.15 | 0.208 | -5.421 | 2.569 | -0.826 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 158.92 | -60.126 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 158.925 | -60.13 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 158.942 | -60.117 | -6.26 | -2.54 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 158.942 | -60.117 | -- | -6.26 | -2.54 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 158.925 | -60.13 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 158.92 | -60.126 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 158.942 | -60.117 | -- | -6.38 | -2.51 | -9.82 |

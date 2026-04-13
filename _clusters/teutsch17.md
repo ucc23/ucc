@@ -31,17 +31,17 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 17</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a massive cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: ""
-badge_dist_url: ""
-badge_av: ""
-badge_av_url: ""
+    <b>Teutsch 17</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a massive, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
+badge_av: "High extinction"
+badge_av_url: "av_min=3&av_max=5"
 badge_mass: "Massive"
 badge_mass_url: "mass_min=1000&mass_max=5000"
 badge_feh: ""
 badge_feh_url: ""
-badge_age: ""
-badge_age_url: ""
+badge_age: "Intermediate age"
+badge_age_url: "age_min=100&age_max=1000"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 29.5
+rc_val: 0.7
+dens_val: 10
 N_50_val: 56
 scix_url: Teutsch%2017
 posit_table: |
@@ -67,8 +68,8 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 1481 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1481<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.95 | 3.77 | 2.71 | 131 | -- | 1481 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.95 | 3.77 | 2.71 | 131 | -- | 1481<sup>(1)</sup> | -- | -- |
 N_rows_pars: "1"
 note_asterisk: true
 shared_table: |

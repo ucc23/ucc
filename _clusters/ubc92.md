@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 25.3
+rc_val: 2.1
+dens_val: 5.6
 N_50_val: 268
 scix_url: UBC%2092
 posit_table: |
@@ -72,9 +73,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.2 | 3.05 | 2.63 | 302 | -0.768 | 3447 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.215 | 3.05 | 2.63 | 228 | -0.768 | 3447 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.95 | 2.66 | -- | 535 | 0.073 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3447<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.23 | 3.05 | 2.63 | 154 | -- | 3447<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.34 | 3.79 | -- | 138 | -1.610 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.23 | 3.05 | 2.63 | 154 | -- | -- | -- | -- |
     | [Cantat-Gaudin et al.](https://scixplorer.org/abs/2020A%26A...640A...1C) | 2020 | 2.37 | 2.28 | -- | 302 | -- | -- | -- | -- |

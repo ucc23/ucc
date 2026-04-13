@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Teutsch 247</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the distance parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: "Distant"
-badge_dist_url: "dist_min=3&dist_max=5"
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
 badge_av_url: "av_min=3&av_max=5"
 badge_mass: "Massive"
@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "6"
-dens_val: 53.6
+rc_val: 1.3
+dens_val: 13
 N_50_val: 277
 scix_url: Teutsch%20247
 posit_table: |
@@ -73,9 +74,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.48 | 3.72 | 2.53 | 55 | 0.450 | 2125 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.99 | 3.72 | 2.53 | 56 | 0.450 | 2125 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 10.86 | 1.17 | -- | 55 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2125<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.50 | 3.72 | 2.53 | 57 | -- | 2125<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.48 | 3.89 | -- | 32 | 0.450 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.50 | 3.72 | 2.53 | 57 | -- | -- | -- | -- |
 N_rows_pars: "4"

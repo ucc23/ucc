@@ -13,25 +13,25 @@ glon: 97.67846
 glat: -8.36648
 r50: 6.5
 plx: 0.1928
-UTI: "0.49"
-UTI_COLOR: "#fefde6"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#fee5ca"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 0.32
+UTI_C_dens: 0.08
 UTI_C_C3: 0.62
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>ASCC 119</b> is a rich, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.19 kpc) differs significantly from the median photometric distance (~1.20 kpc).</p>
+    <b>ASCC 119</b> is a rich, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by low extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~5.19 kpc) differs significantly from the median photometric distance (~1.20 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 1.6
+rc_val: 4.1
+dens_val: 0.4
 N_50_val: 155
 scix_url: ASCC%20119
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 334.8 | 46.897 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -4.22 | -3.32 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 334.665 | 46.885 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 334.8 | 46.9 | -1.52 | -2.2 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 334.8 | 46.9 | -- | -1.52 | -2.2 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 334.665 | 46.885 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 334.658 | 46.881 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 334.8 | 46.9 | -- | -1.52 | -2.42 | -- |

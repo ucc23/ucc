@@ -16,22 +16,22 @@ plx: 0.3298
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fee9cd"
-UTI_C_dens_COL: "#ddf0ca"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.34
-UTI_C_dens: 0.71
+UTI_C_dens: 0.14
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>CWNU 17</b> is a poorly populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>CWNU 17</b> is a poorly populated, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, old cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 3.6
+rc_val: 2.5
+dens_val: 0.7
 N_50_val: 34
 scix_url: CWNU%2017
 posit_table: |
@@ -74,7 +75,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 4657](/_clusters/cwwdl4657/)| 100.0 | 56.31 | 50.74 | 0.35 | 0.79 | -1.25 | 8.41 |0.0 |
-    |[UBC 1254](/_clusters/ubc1254/)| 100.0 | 56.33 | 50.73 | 0.34 | 0.8 | -1.25 | -43.3 |0.54 |
+    |[UBC 1254](/_clusters/ubc1254/)| 100.0 | 56.33 | 50.73 | 0.34 | 0.8 | -1.25 | -43.3 |0.4 |
     |[OC 0274](/_clusters/oc0274/)| 79.4 | 56.32 | 50.73 | 0.34 | 0.81 | -1.26 | -43.47 |0.0 |
 N_rows_shared: "3"
 ---

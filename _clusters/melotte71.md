@@ -50,12 +50,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.036, e_all=0.0434.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however, parameters log(t)=9.112, Av=0.483, [Fe/H]=-0.270 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
-dens_val: 67.9
+N_comments: "6"
+rc_val: 2.0
+dens_val: 22
 N_50_val: 1474
 scix_url: Melotte%2071
 posit_table: |
@@ -92,7 +94,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 114.383 | -12.065 | 0.434 | -2.446 | 4.21 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.72 | 3.52 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 114.39 | -12.055 | -- | -1.021 | 4.298 | 50.1 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.375 | -12.067 | -4.74 | 3.78 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 114.375 | -12.067 | -- | -4.74 | 3.78 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 114.384 | -12.053 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 114.39 | -12.055 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 114.375 | -12.067 | -- | -5.07 | 5.76 | 0.55 |
@@ -123,7 +125,7 @@ fpars_table: |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 2.66 | 0.66 | -- | 977 | 0.000 | 1866 | 0.72 | -- |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 1.93 | 0.50 | -- | 1327 | -0.200 | -- | -- | 3<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.93 | 0.56 | -- | 1327 | -- | 2068 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4184<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.08 | 0.17 | 0.43 | 1290 | -- | 4184<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.04 | 0.51 | -- | 1413 | -0.030 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.08 | 0.17 | 0.43 | 1291 | -- | -- | -- | -- |
     | [Angelo et al.](https://scixplorer.org/abs/2023MNRAS.522..956A) | 2023 | 1.92 | 0.57 | -- | 1259 | -0.130 | 9<sup>(1)</sup> | -- | -- |

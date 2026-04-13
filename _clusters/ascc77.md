@@ -50,13 +50,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0836, e_all=0.0818.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Asterisms reported by amateur astronomers in the web. Asterisms and clusters by L. Ferrero.</p>
     <p><u><a href='https://scixplorer.org/abs/2013A%26A...560A..76M' target='_blank'>Morales et al. (2013)</a></u><br>Classified as morphological type 'OC0' (emerging exposed cluster). Morphological flag: one or a few submm emission within the cluster area, but the submm emission is likely associated to the cluster.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
-dens_val: 30.1
+N_comments: "7"
+rc_val: 1.5
+dens_val: 8.3
 N_50_val: 177
 scix_url: ASCC%2077
 posit_table: |
@@ -78,7 +80,7 @@ posit_table: |
     |[Liu & Pang](https://scixplorer.org/abs/2019ApJS..245...32L) | 2019 | 212.745 | -62.3 | 0.835 | -4.202 | -3.176 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 212.695 | -62.327 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 212.694 | -62.331 | 0.842 | -4.243 | -3.22 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 212.7 | -62.33 | -6.28 | -4.69 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 212.7 | -62.33 | -- | -6.28 | -4.69 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 212.7 | -62.33 | -- | -6.37 | -4.66 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 212.7 | -62.33 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 212.695 | -62.327 | -- | -- | -- | -- |
@@ -91,11 +93,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.14 | 0.815 | 0.94 | 81 | 0.228 | 547 | 0.595 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.135 | 0.81 | 0.94 | 75 | 0.228 | 547 | 0.595 | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.13 | 0.57 | -- | 213 | 0.245 | -- | -- | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 1.15 | 0.69 | -- | 148 | 0.250 | 417 | 0.52 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.07 | 0.81 | -- | 121 | -- | 345 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 614<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.08 | 0.70 | 0.94 | 69 | -- | 614<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.04 | 0.79 | -- | 138 | 0.190 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.08 | 0.70 | 0.94 | 69 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.08 | 0.82 | -- | 145 | 0.124 | 480<sup>(1)</sup> | 0.67 | -- |

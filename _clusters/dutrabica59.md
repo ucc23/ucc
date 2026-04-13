@@ -16,12 +16,12 @@ plx: 0.0875
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#e0a7b3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 0.01
+UTI_C_dens: 0.0
 UTI_C_C3: 0.25
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.0
+rc_val: 17
+dens_val: 0.01
 N_50_val: 25
 scix_url: Dutra-Bica%2059
 posit_table: |

@@ -13,25 +13,25 @@ glon: 131.15847
 glat: -0.27652
 r50: 1.8
 plx: 0.158
-UTI: "0.49"
-UTI_COLOR: "#fefde6"
+UTI: "0.36"
+UTI_COLOR: "#feecd0"
 UTI_C_N_COL: "#fef9de"
-UTI_C_dens_COL: "#c4e5c7"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
-UTI_C_dens: 0.82
+UTI_C_dens: 0.14
 UTI_C_C3: 0.75
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>COIN-Gaia 33</b> is a poorly populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
+    <b>COIN-Gaia 33</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and metallicity parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 4.1
+rc_val: 2.9
+dens_val: 0.7
 N_50_val: 45
 scix_url: COIN-Gaia%2033
 posit_table: |
@@ -74,9 +75,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.2 | 2.42 | 1.51 | 158 | 0.042 | 711 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.195 | 2.71 | 1.51 | 110 | 0.042 | 711 | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.09 | 2.19 | -- | 557 | -0.140 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 711<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.19 | 3.21 | 1.51 | 61 | -- | 711<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.52 | 3.00 | -- | 158 | 0.160 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.20 | 3.21 | 1.51 | 61 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 3.38 | 2.42 | -- | 158 | -- | -- | -- | -- |

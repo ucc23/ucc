@@ -13,25 +13,25 @@ glon: 216.20871
 glat: -15.67306
 r50: 7.2
 plx: 1.0771
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee7cc"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 1.0
+UTI_C_dens: 0.33
 UTI_C_C3: 0.25
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Majaess 70</b> is a sparse, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. 
+    <b>Majaess 70</b> is a sparse, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-dens_val: 6.3
+rc_val: 0.9
+dens_val: 1.6
 N_50_val: 24
 scix_url: Majaess%2070
 posit_table: |
@@ -58,7 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |90.235 | -9.885 | 1.077 | -1.093 | -2.28 | 21.474 |
     |[Monteiro & Dias](https://scixplorer.org/abs/2019MNRAS.487.2385M) | 2019 | 90.242 | -9.903 | -- | -1.974 | 1.895 | 2.086 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 90.242 | -9.903 | -1.55 | -2.74 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 90.242 | -9.903 | -- | -1.55 | -2.74 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 90.242 | -9.903 | -- | -1.53 | -2.56 | -31.0 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 90.242 | -9.903 | -- | -1.53 | -2.56 | -31.0 
 N_rows_pos: "4"

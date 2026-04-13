@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 15.0
+rc_val: 0.8
+dens_val: 5.1
 N_50_val: 45
 scix_url: CWNU%20256
 posit_table: |
@@ -73,6 +74,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 13864](/_clusters/cwwdl13864/)| 100.0 | 239.44 | -53.07 | 0.72 | -3.28 | -3.2 | -15.8 |0.02 |
     |[Theia 2115](/_clusters/theia2115/)| 91.1 | 239.44 | -53.07 | 0.72 | -3.28 | -3.2 | -15.8 |0.0 |
-    |[OC 0637](/_clusters/oc0637/)| 57.8 | 239.43 | -53.06 | 0.73 | -3.28 | -3.2 | -15.8 |0.4 |
+    |[OC 0637](/_clusters/oc0637/)| 57.8 | 239.43 | -53.06 | 0.73 | -3.28 | -3.2 | -15.8 |0.31 |
 N_rows_shared: "3"
 ---

@@ -13,15 +13,15 @@ glon: 224.38963
 glat: 2.65381
 r50: 6.6
 plx: 0.2744
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,14 +50,15 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.4
+rc_val: 7.6
+dens_val: 0.09
 N_50_val: 19
 scix_url: Wit%203
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |110.526 | -8.958 | 0.274 | -2.259 | 0.184 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 110.508 | -8.979 | 0.18 | -3.89 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 110.508 | -8.979 | -- | 0.18 | -3.89 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 110.508 | -8.979 | -- | -- | -- | -- 
 N_rows_pos: "2"
 cds_radec: 110.52577,-8.95782

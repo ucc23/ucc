@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 25.6
+rc_val: 0.9
+dens_val: 5.1
 N_50_val: 26
 scix_url: Alessi%20257
 posit_table: |

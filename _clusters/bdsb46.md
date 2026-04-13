@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 40.3
+rc_val: 0.7
+dens_val: 7.7
 N_50_val: 32
 scix_url: BDSB%2046
 posit_table: |
@@ -79,6 +80,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.37 |
+    |[Majaess 225](/_clusters/majaess225/)| 3.1 | 354.77 | 61.95 | 0.32 | -3.47 | -1.67 | -- |0.32 |
 N_rows_shared: "1"
 ---

@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 64.5
+rc_val: 0.4
+dens_val: 23
 N_50_val: 56
 scix_url: Kronberger%2029
 posit_table: |
@@ -69,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0102](/_clusters/oc0102/)| 1.8 | 301.71 | 35.64 | 0.53 | -3.1 | -6.61 | -17.95 |0.08 |
+    |[OC 0102](/_clusters/oc0102/)| 1.8 | 301.71 | 35.64 | 0.53 | -3.1 | -6.61 | -17.95 |0.06 |
 N_rows_shared: "1"
 ---

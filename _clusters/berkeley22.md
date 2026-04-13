@@ -49,13 +49,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.12 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.3394, e_all=0.2086.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The red limit of the straggler area is BP-RP=1.55.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the blue straggler area is (B-V)=1.06. In (1994A&AS..108..151K) it is remarked that most of the straggler candidates are near the cluster centre; however, if the apparent diameter given in (1987, Lund Catalogue of Open Cluster Data), which is the one listed in Table 1, is taken as correct, the stragglers do not appear so central. It is possible that this diameter is still too small.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
-dens_val: 22.5
+N_comments: "6"
+rc_val: 1.2
+dens_val: 14
 N_50_val: 406
 scix_url: Berkeley%2022
 posit_table: |
@@ -97,11 +99,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.92 | 1.97 | 2.54 | 2484 | -0.305 | 1410 | -- | 3 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.57 | 1.97 | 2.54 | 2455 | -0.305 | 1410 | -- | 3 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 2455 | -0.310<sup>(15)</sup> | -- | -- | -- |
     | [Guerco et al.](https://scixplorer.org/abs/2025A%26A...701A.100G) | 2025 | -- | -- | -- | 2450 | -0.330 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.300<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1410<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.26 | 1.81 | 2.54 | 789 | -- | 1410<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 6.22 | 1.52 | -- | 2884 | -0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.26 | 1.81 | 2.54 | 789 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 3162 | -- | 703 | -- | -- |

@@ -13,15 +13,15 @@ glon: 10.63964
 glat: -0.41567
 r50: 10.8
 plx: 0.3516
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#fef7db"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.43
-UTI_C_dens: 0.11
+UTI_C_dens: 0.02
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.5
+rc_val: 3.0
+dens_val: 0.1
 N_50_val: 43
 scix_url: Kes29
 posit_table: |
@@ -70,6 +71,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDB2003 G010.62-00.38](/_clusters/bdb2003g010620038/)| 72.1 | 272.62 | -19.94 | 0.4 | -0.87 | -2.13 | 36.43 |0.11 |
-    |[Bica 644](/_clusters/bica644/)| 11.6 | 272.33 | -19.94 | 0.42 | -0.9 | -1.97 | -- |0.03 |
+    |[Bica 644](/_clusters/bica644/)| 11.6 | 272.33 | -19.94 | 0.42 | -0.9 | -1.97 | -- |0.02 |
 N_rows_shared: "2"
 ---

@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 1145.7
+rc_val: 0.2
+dens_val: 309
 N_50_val: 97
 scix_url: OMC-1
 posit_table: |
@@ -79,6 +80,6 @@ shared_table: |
     |[NGC 1980](/_clusters/ngc1980/)| 4.1 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.88 |
     |[OCSN 226](/_clusters/ocsn226/)| 4.1 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
     |[OMC-2](/_clusters/omc2/)| 2.1 | 83.85 | -5.17 | 2.54 | 1.04 | -0.02 | 26.69 |0.17 |
-    |[OC 0345](/_clusters/oc0345/)| 1.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
+    |[OC 0345](/_clusters/oc0345/)| 1.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
 N_rows_shared: "11"
 ---

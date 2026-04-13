@@ -13,25 +13,25 @@ glon: 289.15243
 glat: 0.29134
 r50: 1.3
 plx: 0.1257
-UTI: "0.70"
-UTI_COLOR: "#e0f1cb"
+UTI: "0.65"
+UTI_COLOR: "#e9f5d0"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#d3ecc9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fefce4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 1.0
+UTI_C_dens: 0.76
 UTI_C_C3: 0.75
 UTI_C_lit: 0.48
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 106</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 106</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a significant percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -48,12 +48,14 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.34 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.34 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.258, e_all=0.0089.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
-dens_val: 16.6
+N_comments: "4"
+rc_val: 1.9
+dens_val: 3.8
 N_50_val: 150
 scix_url: Teutsch%20106
 posit_table: |
@@ -69,7 +71,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 164.85 | -59.542 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 164.836 | -59.557 | 0.1 | -5.909 | 2.115 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -6.06 | 1.59 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 164.854 | -59.547 | -1.86 | -0.03 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 164.854 | -59.547 | -- | -1.86 | -0.03 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 164.848 | -59.532 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 164.854 | -59.547 | -- | -2.29 | 0.56 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 164.854 | -59.535 | -- | -0.78 | -3.42 | -- |
@@ -82,8 +84,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.94 | 2.2 | 1.77 | 603 | -- | 859 | -- | 3 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 239<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.7 | 2.03 | 1.77 | 603 | -- | 859 | -- | 3 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.27 | 2.03 | 1.77 | 353 | -- | 239<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.27 | 2.03 | 1.77 | 352 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 603 | -- | 859 | -- | -- |
     | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 7.18 | 1.74 | -- | 3020 | -- | 8125 | -- | 3<sup>(1)</sup> |
@@ -100,6 +102,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Turner 6](/_clusters/turner6/)| 53.3 | 164.83 | -59.54 | 0.13 | -6.01 | 2.12 | 51.24 |0.68 |
+    |[Turner 6](/_clusters/turner6/)| 53.3 | 164.83 | -59.54 | 0.13 | -6.01 | 2.12 | 51.24 |0.58 |
 N_rows_shared: "1"
 ---

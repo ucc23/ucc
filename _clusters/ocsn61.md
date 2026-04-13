@@ -13,25 +13,25 @@ glon: 204.65478
 glat: -16.90828
 r50: 37.5
 plx: 2.5578
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.44"
+UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#bfe2c5"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#ceeac8"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#d7eec9"
 UTI_C_N: 0.84
-UTI_C_dens: 1.0
+UTI_C_dens: 0.78
 UTI_C_C3: 1.0
 UTI_C_lit: 0.19
 UTI_C_dup: 0.74
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>OCSN 61</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>OCSN 61</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry, and a moderate percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 18.7
+rc_val: 3.0
+dens_val: 3.9
 N_50_val: 340
 scix_url: OCSN%2061
 posit_table: |
@@ -76,12 +77,12 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.38 | 0.19 | 0.66 | 12 | -0.130 | 108 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.375 | 0.19 | 0.655 | 12 | -0.130 | 108 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.32 | 0.01 | -- | 27 | -- | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 12 | -0.130<sup>(3)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.049<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.38 | -- | -- | 12 | -- | 116 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 100<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.37 | 0.19 | 0.65 | 12 | -- | 100<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.39 | 0.57 | -- | 7 | -0.130 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.37 | 0.19 | 0.66 | 12 | -- | -- | -- | -- |
     | [Qin et al.](https://scixplorer.org/abs/2023ApJS..265...12Q) | 2023 | 0.42 | 0.19 | -- | 18 | -- | -- | -- | -- |
@@ -93,7 +94,7 @@ shared_table: |
     |[OCSN 194](/_clusters/ocsn194/)| 27.1 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
     |[Gulliver 6](/_clusters/gulliver6/)| 26.2 | 83.34 | -1.63 | 2.41 | -0.07 | -0.24 | 28.06 |0.6 |
     |[OC 0340](/_clusters/oc0340/)| 5.0 | 84.54 | -0.18 | 2.44 | -0.07 | -0.62 | 24.57 |0.45 |
-    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.52 |
-    |[OCSN 66](/_clusters/ocsn66/)| 0.3 | 85.38 | -1.87 | 2.5 | 0.07 | -0.89 | 24.93 |0.44 |
+    |[OCSN 65](/_clusters/ocsn65/)| 0.3 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.45 |
+    |[OCSN 66](/_clusters/ocsn66/)| 0.3 | 85.38 | -1.87 | 2.5 | 0.07 | -0.89 | 24.93 |0.37 |
 N_rows_shared: "5"
 ---

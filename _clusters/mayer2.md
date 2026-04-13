@@ -13,8 +13,8 @@ glon: 151.1939
 glat: 2.14396
 r50: 8.3
 plx: 0.2548
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
@@ -50,6 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
+rc_val: 2.6
 dens_val: 0.2
 N_50_val: 16
 scix_url: Mayer%20%202
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |64.996 | 53.161 | 0.255 | 0.312 | -0.719 | -25.204 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 1.42 | -2.01 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 64.935 | 53.168 | -- | -2.923 | 1.264 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 64.938 | 53.167 | -2.02 | -7.48 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 64.938 | 53.167 | -- | -2.02 | -7.48 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 64.938 | 53.167 | -- | -1.41 | -5.88 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 64.929 | 53.169 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 64.938 | 53.167 | -- | -1.41 | -5.88 | -- |
@@ -80,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 609](/_clusters/ubc609/)| 16.0 | 65.23 | 53.05 | 0.22 | 0.46 | -0.73 | -- |0.12 |
+    |[UBC 609](/_clusters/ubc609/)| 16.0 | 65.23 | 53.05 | 0.22 | 0.46 | -0.73 | -- |0.11 |
 N_rows_shared: "1"
 ---

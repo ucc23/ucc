@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 104.4
+rc_val: 0.4
+dens_val: 21
 N_50_val: 23
 scix_url: OMC-2
 posit_table: |
@@ -79,7 +80,7 @@ shared_table: |
     |[NGC 1977](/_clusters/ngc1977/)| 20.0 | 83.84 | -4.86 | 2.53 | 1.26 | -0.71 | 23.87 |0.79 |
     |[Orion Nebula](/_clusters/orionnebula/)| 20.0 | 83.82 | -5.36 | 2.51 | 1.23 | 0.18 | 25.16 |0.34 |
     |[UBC 621](/_clusters/ubc621/)| 20.0 | 83.83 | -4.86 | 2.53 | 1.25 | -0.72 | 22.95 |0.05 |
-    |[OC 0345](/_clusters/oc0345/)| 12.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
+    |[OC 0345](/_clusters/oc0345/)| 12.0 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
     |[OCSN 244](/_clusters/ocsn244/)| 8.0 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OMC-1](/_clusters/omc1/)| 8.0 | 83.82 | -5.37 | 2.5 | 0.95 | -0.07 | -7.13 |0.39 |
 N_rows_shared: "8"

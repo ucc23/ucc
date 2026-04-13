@@ -47,11 +47,13 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0982, e_all=0.2542.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
-dens_val: 46.1
+N_comments: "2"
+rc_val: 2.1
+dens_val: 12
 N_50_val: 560
 scix_url: ASCC%2016
 posit_table: |
@@ -126,6 +128,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Briceno 1](/_clusters/briceno1/)| 77.3 | 81.21 | 1.68 | 2.88 | 1.38 | -0.06 | 18.29 |0.0 |
-    |[CWWL 3512](/_clusters/cwwl3512/)| 0.2 | 80.71 | -1.29 | 2.92 | 1.28 | -0.36 | 16.24 |0.51 |
+    |[CWWL 3512](/_clusters/cwwl3512/)| 0.2 | 80.71 | -1.29 | 2.92 | 1.28 | -0.36 | 16.24 |0.38 |
 N_rows_shared: "2"
 ---

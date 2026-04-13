@@ -13,15 +13,15 @@ glon: 62.55934
 glat: -4.40557
 r50: 11.1
 plx: 0.5206
-UTI: "0.34"
-UTI_COLOR: "#fee9cd"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#fefae1"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.46
-UTI_C_dens: 0.24
+UTI_C_dens: 0.05
 UTI_C_C3: 0.75
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 1.2
+rc_val: 2.0
+dens_val: 0.2
 N_50_val: 46
 scix_url: CWNU%2047
 posit_table: |
@@ -73,10 +74,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.095 | 1.765 | 1.75 | 52 | -0.113 | 125 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.85 | 1.95 | 1.745 | 59 | -0.113 | 125 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 3.72 | 0.69 | -- | 45 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.113<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 125<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.83 | 1.97 | 1.74 | 74 | -- | 125<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.85 | 1.95 | -- | 59 | 0.200 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.83 | 1.97 | 1.75 | 74 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.34 | 1.58 | -- | 3 | -0.279 | -- | -- | -- |

@@ -13,25 +13,25 @@ glon: 88.17101
 glat: 1.63562
 r50: 128.3
 plx: 6.2356
-UTI: "0.50"
-UTI_COLOR: "#fefee8"
+UTI: "0.41"
+UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#d7eec9"
-UTI_C_dens_COL: "#f8fcdf"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.74
-UTI_C_dens: 0.55
+UTI_C_dens: 0.14
 UTI_C_C3: 1.0
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>OCSN 24</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
+    <b>OCSN 24</b> is a moderately populated, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a low-mass, near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the absorption parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. 
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 2.7
+rc_val: 2.8
+dens_val: 0.7
 N_50_val: 98
 scix_url: OCSN%2024
 posit_table: |

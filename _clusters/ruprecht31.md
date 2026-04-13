@@ -13,15 +13,15 @@ glon: 249.73555
 glat: -5.9938
 r50: 39.7
 plx: 2.2998
-UTI: "0.40"
-UTI_COLOR: "#fef4d6"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.26
-UTI_C_dens: 0.21
+UTI_C_dens: 0.05
 UTI_C_C3: 0.75
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 1.0
+rc_val: 3.5
+dens_val: 0.3
 N_50_val: 26
 scix_url: Ruprecht%2031
 posit_table: |
@@ -92,6 +93,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 84](/_clusters/ocsn84/)| 92.3 | 115.03 | -34.48 | 2.3 | -8.25 | 4.28 | 16.39 |0.22 |
+    |[OCSN 84](/_clusters/ocsn84/)| 92.3 | 115.03 | -34.48 | 2.3 | -8.25 | 4.28 | 16.39 |0.2 |
 N_rows_shared: "1"
 ---

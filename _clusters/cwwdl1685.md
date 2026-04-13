@@ -13,25 +13,25 @@ glon: 7.41181
 glat: -0.80252
 r50: 3.1
 plx: 0.305
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#fcfee5"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fbcbbd"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.52
-UTI_C_dens: 1.0
+UTI_C_dens: 0.2
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CWWDL 1685</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CWWDL 1685</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 6.1
+rc_val: 2.8
+dens_val: 1.0
 N_50_val: 53
 scix_url: CWWDL%201685
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 108](/_clusters/hsc108/)| 92.5 | 271.32 | -22.94 | 0.3 | -0.06 | -1.42 | 16.27 |0.21 |
+    |[HSC 108](/_clusters/hsc108/)| 92.5 | 271.32 | -22.94 | 0.3 | -0.06 | -1.42 | 16.27 |0.17 |
     |[CWNU 3539](/_clusters/cwnu3539/)| 37.7 | 271.32 | -22.95 | 0.29 | -0.05 | -1.37 | 37.42 |0.0 |
 N_rows_shared: "2"
 ---

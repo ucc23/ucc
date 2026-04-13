@@ -13,25 +13,25 @@ glon: 205.9103
 glat: 1.60557
 r50: 2.1
 plx: 0.2096
-UTI: "0.46"
-UTI_COLOR: "#fefae1"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fbfde3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.55
-UTI_C_dens: 1.0
+UTI_C_dens: 0.53
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Alessi 65</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 20 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Alessi 65</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 20 years. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 7.1
+rc_val: 1.5
+dens_val: 2.6
 N_50_val: 60
 scix_url: Alessi%2065
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3179](/_clusters/cwnu3179/)| 100.0 | 101.09 | 6.97 | 0.21 | -0.14 | -0.55 | 53.15 |0.18 |
+    |[CWNU 3179](/_clusters/cwnu3179/)| 100.0 | 101.09 | 6.97 | 0.21 | -0.14 | -0.55 | 53.15 |0.14 |
     |[HSC 1620](/_clusters/hsc1620/)| 85.0 | 101.09 | 6.97 | 0.21 | -0.14 | -0.54 | -- |0.01 |
 N_rows_shared: "2"
 ---

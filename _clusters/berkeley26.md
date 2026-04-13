@@ -13,25 +13,25 @@ glon: 207.694
 glat: 2.36086
 r50: 2.8
 plx: 0.1713
-UTI: "0.44"
-UTI_COLOR: "#fef8dd"
+UTI: "0.38"
+UTI_COLOR: "#fef0d2"
 UTI_C_N_COL: "#fef9de"
-UTI_C_dens_COL: "#fef4d6"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fefce4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.45
-UTI_C_dens: 0.4
+UTI_C_dens: 0.13
 UTI_C_C3: 0.38
 UTI_C_lit: 0.48
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 26</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Berkeley 26</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, metal-poor, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 2.0
+rc_val: 2.5
+dens_val: 0.7
 N_50_val: 45
 scix_url: Berkeley%2026
 posit_table: |

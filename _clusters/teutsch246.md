@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 54.5
+rc_val: 1.7
+dens_val: 11
 N_50_val: 258
 scix_url: Teutsch%20246
 posit_table: |
@@ -72,8 +73,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.255 | 3.745 | 2.61 | 110 | -0.070 | 2454 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2454<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.26 | 3.6 | 2.61 | 118 | -0.070 | 2454 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.26 | 3.60 | 2.61 | 118 | -- | 2454<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.25 | 3.89 | -- | 102 | -0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.26 | 3.60 | 2.61 | 118 | -- | -- | -- | -- |
 N_rows_pars: "3"
@@ -82,6 +83,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[UBC 1538](/_clusters/ubc1538/)| 89.9 | 238.7 | -54.39 | 0.41 | -3.28 | -3.53 | -18.95 |0.01 |
-    |[MCM 64](/_clusters/mcm64/)| 7.8 | 238.75 | -54.46 | 0.41 | -3.27 | -3.53 | -34.71 |0.24 |
+    |[MCM 64](/_clusters/mcm64/)| 7.8 | 238.75 | -54.46 | 0.41 | -3.27 | -3.53 | -34.71 |0.13 |
 N_rows_shared: "2"
 ---

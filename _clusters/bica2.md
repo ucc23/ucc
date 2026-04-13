@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 31.0
+rc_val: 1.1
+dens_val: 8.4
 N_50_val: 181
 scix_url: Bica%202
 posit_table: |
@@ -71,7 +72,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2021MNRAS.504..356D) | 2021 | 308.315 | 41.307 | 0.555 | -2.66 | -4.378 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.08 | -4.31 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 308.31 | 41.313 | -- | -0.179 | -0.551 | -28.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 308.312 | 41.312 | -0.85 | -3.21 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 308.312 | 41.312 | -- | -0.85 | -3.21 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 308.312 | 41.312 | -- | -0.49 | -3.56 | -28.0 |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 308.333 | 41.298 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 308.312 | 41.312 | -- | -0.49 | -3.56 | -28.0 
@@ -81,10 +82,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.64 | 4.71 | 2.99 | 6 | 0.300 | 1654 | 0.725 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.655 | 4.71 | 2.99 | 6 | 0.300 | 1654 | 0.725 | -- |
     | [Wei et al.](https://scixplorer.org/abs/2025AJ....169..115W) | 2025 | 1.69 | 4.71 | -- | 6 | 0.500 | 11328 | 0.59 | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.55 | 4.13 | -- | 6 | -- | 1072 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1654<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.67 | 5.59 | 2.99 | 4 | -- | 1654<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.69 | 4.71 | -- | 5 | 0.520 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.67 | 5.59 | 2.99 | 4 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.59 | 4.49 | -- | 5 | 0.059 | 2150<sup>(1)</sup> | 0.86 | -- |
@@ -99,11 +100,11 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Cyg OB2](/_clusters/cygob2/)| 95.6 | 308.31 | 41.3 | 0.58 | -2.72 | -4.41 | -8.19 |0.15 |
-    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.75 |
-    |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.63 |
-    |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 3.3 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.23 |
-    |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.04 |
-    |[OC 0129](/_clusters/oc0129/)| 2.8 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.25 |
-    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.6 |
+    |[FSR 0238](/_clusters/fsr0238/)| 18.8 | 308.63 | 41.39 | 0.59 | -2.84 | -4.53 | -27.33 |0.62 |
+    |[FSR 0236](/_clusters/fsr0236/)| 6.1 | 308.15 | 41.43 | 0.57 | -2.41 | -4.11 | 55.7 |0.58 |
+    |[G80.35+0.72 IR Cl](/_clusters/g8035p072ircl/)| 3.3 | 308.42 | 41.38 | 0.54 | -2.81 | -4.12 | -4.79 |0.19 |
+    |[G 80.35+0.72](/_clusters/g8035p072/)| 2.8 | 308.43 | 41.38 | 0.54 | -2.83 | -4.13 | -4.79 |0.03 |
+    |[OC 0129](/_clusters/oc0129/)| 2.8 | 308.06 | 41.46 | 0.58 | -2.53 | -4.04 | 57.08 |0.19 |
+    |[OC 0128](/_clusters/oc0128/)| 0.6 | 307.98 | 40.8 | 0.58 | -2.97 | -4.4 | 38.32 |0.47 |
 N_rows_shared: "7"
 ---

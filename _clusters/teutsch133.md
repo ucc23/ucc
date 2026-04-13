@@ -13,15 +13,15 @@ glon: 174.33524
 glat: -0.38368
 r50: 8.9
 plx: 0.3104
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a8cfbb"
 UTI_C_N: 0.39
-UTI_C_dens: 0.11
+UTI_C_dens: 0.04
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.97
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.6
+rc_val: 2.7
+dens_val: 0.2
 N_50_val: 39
 scix_url: Teutsch%20133
 posit_table: |
@@ -69,8 +70,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AFGL5142](/_clusters/afgl5142/)| 2.6 | 82.68 | 33.85 | 0.3 | 0.04 | -1.71 | 34.5 |0.04 |
-    |[CWNU 4116](/_clusters/cwnu4116/)| 2.6 | 82.5 | 33.44 | 0.45 | 0.21 | -1.93 | 9.73 |0.08 |
-    |[SAI 51](/_clusters/sai51/)| 2.6 | 82.51 | 33.43 | 0.45 | 0.3 | -1.95 | 9.56 |0.38 |
+    |[AFGL5142](/_clusters/afgl5142/)| 2.6 | 82.68 | 33.85 | 0.3 | 0.04 | -1.71 | 34.5 |0.03 |
+    |[CWNU 4116](/_clusters/cwnu4116/)| 2.6 | 82.5 | 33.44 | 0.45 | 0.21 | -1.93 | 9.73 |0.03 |
+    |[SAI 51](/_clusters/sai51/)| 2.6 | 82.51 | 33.43 | 0.45 | 0.3 | -1.95 | 9.56 |0.36 |
 N_rows_shared: "3"
 ---

@@ -13,15 +13,15 @@ glon: 286.78912
 glat: -1.13667
 r50: 3.2
 plx: 0.1636
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.01
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.6
+rc_val: 2.9
+dens_val: 0.04
 N_50_val: 20
 scix_url: Pickard%20246
 posit_table: |

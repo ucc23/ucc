@@ -13,15 +13,15 @@ glon: 309.38189
 glat: -0.27703
 r50: 7.8
 plx: 0.4553
-UTI: "0.27"
-UTI_COLOR: "#fddbc4"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fef9de"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.13
 UTI_C_C3: 0.25
 UTI_C_lit: 0.45
 UTI_C_dup: 1.0
@@ -32,8 +32,8 @@ UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>ASCC 75</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a significant percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: "Distant"
-badge_dist_url: "dist_min=3&dist_max=5"
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
 badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 0.9
+rc_val: 1.6
+dens_val: 0.6
 N_50_val: 22
 scix_url: ASCC%2075
 posit_table: |
@@ -67,7 +68,7 @@ posit_table: |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 206.932 | -62.452 | 0.476 | -2.632 | -2.187 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 206.8 | -62.397 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 206.785 | -62.418 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 206.792 | -62.42 | -4.39 | -6.64 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 206.792 | -62.42 | -- | -4.39 | -6.64 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 206.8 | -62.397 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 206.792 | -62.42 | -- | -4.35 | -6.64 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 206.812 | -62.4 | -- | -4.7 | -1.15 | -15.0 |
@@ -83,9 +84,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 1.31 | 1.4 | 4 | -0.245 | 327 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.975 | 1.31 | 1.4 | 4 | -0.245 | 327 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.160<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 102<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.97 | 1.55 | 1.40 | 103 | -- | 102<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.69 | 1.56 | -- | 759 | -0.330 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.97 | 1.55 | 1.40 | 103 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 4 | -- | 327 | -- | -- |
@@ -101,6 +102,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 2237](/_clusters/cwnu2237/)| 72.0 | 206.97 | -62.47 | 0.48 | -2.6 | -2.15 | -- |0.03 |
+    |[CWNU 2237](/_clusters/cwnu2237/)| 72.0 | 206.97 | -62.47 | 0.48 | -2.6 | -2.15 | -- |0.02 |
 N_rows_shared: "1"
 ---

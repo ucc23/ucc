@@ -13,15 +13,15 @@ glon: 2.38501
 glat: 1.44391
 r50: 7.5
 plx: 0.3924
-UTI: "0.12"
-UTI_COLOR: "#f2bab5"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.07
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.5
+rc_val: 2.0
+dens_val: 0.3
 N_50_val: 14
 scix_url: Dutra%20Bica%2036
 posit_table: |

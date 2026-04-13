@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 22.4
+rc_val: 1.1
+dens_val: 7.8
 N_50_val: 150
 scix_url: LISC-III%203263
 posit_table: |

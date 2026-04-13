@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 109.7
+rc_val: 0.9
+dens_val: 36
 N_50_val: 341
 scix_url: OCSN%20226
 posit_table: |
@@ -77,7 +78,7 @@ shared_table: |
     |[NGC 1976](/_clusters/ngc1976/)| 7.3 | 83.82 | -5.45 | 2.58 | 1.25 | 0.19 | 19.86 |0.75 |
     |[OCSN 244](/_clusters/ocsn244/)| 6.5 | 83.82 | -5.43 | 2.52 | 1.39 | 0.33 | 25.62 |0.25 |
     |[OCSN 225](/_clusters/ocsn225/)| 5.3 | 83.84 | -4.96 | 2.55 | 1.25 | -0.08 | 22.73 |0.36 |
-    |[OC 0345](/_clusters/oc0345/)| 4.4 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
+    |[OC 0345](/_clusters/oc0345/)| 4.4 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
     |[OMC-1](/_clusters/omc1/)| 1.2 | 83.82 | -5.37 | 2.5 | 0.95 | -0.07 | -7.13 |0.39 |
     |[Orion Nebula](/_clusters/orionnebula/)| 1.2 | 83.82 | -5.36 | 2.51 | 1.23 | 0.18 | 25.16 |0.34 |
     |[LDN1641 North](/_clusters/ldn1641north/)| 0.9 | 84.08 | -6.37 | 2.55 | 0.73 | 0.35 | 10.96 |0.23 |

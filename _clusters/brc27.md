@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: BRC27
 title_flag: true
-more_names: IRAS07016-1118
+more_names: IRAS 07016-1118
 fname: brc27
 members_file: "224_228"
 fov: 0.097
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 99.9
+rc_val: 0.8
+dens_val: 19
 N_50_val: 93
 scix_url: BRC27
 posit_table: |

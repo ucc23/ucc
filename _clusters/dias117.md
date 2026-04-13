@@ -13,15 +13,15 @@ glon: 265.31871
 glat: -2.64292
 r50: 3.7
 plx: 0.2064
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#b4ddc3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.88
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.5
+rc_val: 3.6
+dens_val: 0.2
 N_50_val: 13
 scix_url: Dias%20117
 posit_table: |

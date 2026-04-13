@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 17.1
+rc_val: 0.5
+dens_val: 7.6
 N_50_val: 25
 scix_url: CWNU%20220
 posit_table: |

@@ -13,8 +13,8 @@ glon: 50.65453
 glat: 3.39218
 r50: 7.5
 plx: 0.0619
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#f2bab5"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 28
+dens_val: 0.00
 N_50_val: 13
 scix_url: Steine%2030
 posit_table: |

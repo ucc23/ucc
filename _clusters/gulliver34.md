@@ -13,25 +13,25 @@ glon: 290.36125
 glat: 1.2236
 r50: 2.2
 plx: 0.207
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.45"
+UTI_COLOR: "#fef9de"
 UTI_C_N_COL: "#f8fcdf"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fcd4c1"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.55
-UTI_C_dens: 1.0
+UTI_C_dens: 0.24
 UTI_C_C3: 1.0
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Gulliver 34</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Gulliver 34</b> is a moderately populated, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with a later reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 6.3
+rc_val: 2.7
+dens_val: 1.2
 N_50_val: 60
 scix_url: Gulliver%2034
 posit_table: |
@@ -74,8 +75,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.97 | 1.38 | 1.12 | 438 | 0.134 | 612 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 612<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.14 | 1.36 | 1.12 | 363 | 0.134 | 612 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.52 | 1.36 | 1.12 | 265 | -- | 612<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.70 | 1.40 | -- | 363 | 0.240 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.52 | 1.36 | 1.12 | 265 | -- | -- | -- | -- |
     | [Kounkel et al.](https://scixplorer.org/abs/2020AJ....160..279K) | 2020 | 4.38 | 1.44 | -- | 550 | -- | -- | -- | -- |
@@ -88,6 +89,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0556](/_clusters/oc0556/)| 38.3 | 167.73 | -59.18 | 0.19 | -6.26 | 2.42 | 18.42 |0.03 |
+    |[OC 0556](/_clusters/oc0556/)| 38.3 | 167.73 | -59.18 | 0.19 | -6.26 | 2.42 | 18.42 |0.02 |
 N_rows_shared: "1"
 ---

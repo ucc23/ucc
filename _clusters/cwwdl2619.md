@@ -13,15 +13,15 @@ glon: 129.94635
 glat: 0.7349
 r50: 10.5
 plx: 0.334
-UTI: "0.30"
-UTI_COLOR: "#fee2c7"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a6ccba"
 UTI_C_N: 0.6
-UTI_C_dens: 0.17
+UTI_C_dens: 0.03
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.99
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.8
+rc_val: 1.4
+dens_val: 0.2
 N_50_val: 70
 scix_url: CWWDL%202619
 posit_table: |
@@ -71,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 2617](/_clusters/cwwdl2617/)| 37.1 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.3 |
-    |[CWWDL 10632](/_clusters/cwwdl10632/)| 28.6 | 28.5 | 62.85 | 0.32 | -1.0 | -0.23 | -- |0.16 |
+    |[CWWDL 2617](/_clusters/cwwdl2617/)| 37.1 | 27.99 | 62.7 | 0.33 | -1.09 | -0.23 | -- |0.28 |
+    |[CWWDL 10632](/_clusters/cwwdl10632/)| 28.6 | 28.5 | 62.85 | 0.32 | -1.0 | -0.23 | -- |0.15 |
     |[Berkeley 7](/_clusters/berkeley7/)| 1.4 | 28.55 | 62.37 | 0.34 | -0.98 | -0.21 | -67.13 |0.86 |
     |[CWWDL 10622](/_clusters/cwwdl10622/)| 1.4 | 27.98 | 63.19 | 0.33 | -1.2 | -0.19 | -- |0.08 |
 N_rows_shared: "4"

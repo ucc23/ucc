@@ -52,6 +52,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
+rc_val: 1.4
 dens_val: 0.2
 N_50_val: 10
 scix_url: MCM%2015

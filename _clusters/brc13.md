@@ -13,15 +13,15 @@ glon: 138.14726
 glat: 1.63886
 r50: 5.4
 plx: 0.3421
-UTI: "0.05"
-UTI_COLOR: "#e7adb3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#f0b6b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.1
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.6
+rc_val: 1.6
+dens_val: 0.5
 N_50_val: 13
 scix_url: BRC13
 posit_table: |
@@ -69,9 +70,9 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 40.0 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.29 |
-    |[AFGL4029](/_clusters/afgl4029/)| 4.0 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.14 |
-    |[IRAS 02570+6028](/_clusters/iras02570p6028/)| 4.0 | 45.18 | 60.63 | 0.42 | -0.11 | 0.06 | -30.54 |0.21 |
+    |[IRAS 02575+6017](/_clusters/iras02575p6017/)| 40.0 | 45.26 | 60.52 | 0.42 | -0.06 | -0.09 | -30.61 |0.2 |
+    |[AFGL4029](/_clusters/afgl4029/)| 4.0 | 45.21 | 60.54 | 0.44 | -0.13 | 0.03 | -30.61 |0.08 |
+    |[IRAS 02570+6028](/_clusters/iras02570p6028/)| 4.0 | 45.18 | 60.63 | 0.42 | -0.11 | 0.06 | -30.54 |0.13 |
     |[SAI 24](/_clusters/sai24/)| 4.0 | 44.83 | 60.57 | 0.45 | -0.23 | 0.07 | -49.28 |0.37 |
 N_rows_shared: "4"
 ---

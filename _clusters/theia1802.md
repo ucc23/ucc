@@ -13,15 +13,15 @@ glon: 188.6334
 glat: -1.48882
 r50: 4.8
 plx: 0.304
-UTI: "0.11"
-UTI_COLOR: "#f1b8b4"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Theia 1802</b> is a sparse, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, young cluster, but with a <u>large variance across recent sources</u> for the metallicity parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
-badge_dist: "Distant"
-badge_dist_url: "dist_min=3&dist_max=5"
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
 badge_av_url: "av_min=3&av_max=5"
 badge_mass: ""
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 0.9
+rc_val: 4.2
+dens_val: 0.2
 N_50_val: 19
 scix_url: Theia%201802
 posit_table: |
@@ -70,9 +71,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.545 | 3.13 | 2.82 | 28 | 0.409 | 241 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.94 | 3.27 | 2.82 | 22 | 0.409 | 241 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.088<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 241<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.94 | 3.28 | 2.82 | 22 | -- | 241<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.15 | 2.99 | -- | 35 | 0.730 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.94 | 3.27 | 2.82 | 22 | -- | -- | -- | -- |
 N_rows_pars: "4"

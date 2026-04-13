@@ -16,12 +16,12 @@ plx: 0.8601
 UTI: "0.05"
 UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#fee2c7"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#f3bcb6"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#feeed1"
 UTI_C_N: 0.3
-UTI_C_dens: 0.17
+UTI_C_dens: 0.13
 UTI_C_C3: 0.12
 UTI_C_lit: 0.06
 UTI_C_dup: 0.37
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 0.8
+rc_val: 1.9
+dens_val: 0.7
 N_50_val: 30
 scix_url: Theia%202449
 posit_table: |
@@ -70,9 +71,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.09 | 0.67 | 0.51 | 346 | -0.106 | 65 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.07 | 0.67 | 0.51 | 275 | -0.106 | 65 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.063<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 65<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.07 | 0.67 | 0.51 | 275 | -- | 65<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.11 | 0.67 | -- | 417 | -0.150 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.07 | 0.67 | 0.51 | 275 | -- | -- | -- | -- |
 N_rows_pars: "4"
@@ -80,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1041](/_clusters/cwnu1041/)| 63.3 | 102.43 | -3.71 | 0.85 | -0.14 | -0.84 | -8.19 |0.07 |
+    |[CWNU 1041](/_clusters/cwnu1041/)| 63.3 | 102.43 | -3.71 | 0.85 | -0.14 | -0.84 | -8.19 |0.04 |
 N_rows_shared: "1"
 ---

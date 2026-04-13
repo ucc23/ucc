@@ -13,25 +13,25 @@ glon: 234.61664
 glat: 0.81343
 r50: 2.9
 plx: 0.2565
-UTI: "0.33"
-UTI_COLOR: "#fee7cc"
+UTI: "0.18"
+UTI_COLOR: "#f8c6ba"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#add7c0"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
-UTI_C_dens: 0.92
+UTI_C_dens: 0.14
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 8</b> is a moderately populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 8</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. <p class="note"><strong>Note:</strong> This object shares a small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 4.6
+rc_val: 3.5
+dens_val: 0.7
 N_50_val: 50
 scix_url: DBSB%208
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.55 |
-    |[Theia 2110](/_clusters/theia2110/)| 10.0 | 113.86 | -18.63 | 0.4 | -1.75 | 2.41 | 122.74 |0.14 |
+    |[DBSB 7](/_clusters/dbsb7/)| 20.0 | 113.86 | -18.64 | 0.39 | -1.72 | 2.4 | 109.31 |0.42 |
+    |[Theia 2110](/_clusters/theia2110/)| 10.0 | 113.86 | -18.63 | 0.4 | -1.75 | 2.41 | 122.74 |0.1 |
 N_rows_shared: "2"
 ---

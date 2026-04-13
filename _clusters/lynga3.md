@@ -13,25 +13,25 @@ glon: 321.03728
 glat: -0.70739
 r50: 1.3
 plx: 0.1478
-UTI: "0.65"
-UTI_COLOR: "#e9f5d0"
+UTI: "0.51"
+UTI_COLOR: "#fdfee6"
 UTI_C_N_COL: "#fefbe2"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee4c9"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fcfee5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.47
-UTI_C_dens: 1.0
+UTI_C_dens: 0.31
 UTI_C_C3: 0.75
 UTI_C_lit: 0.52
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Lynga 3</b> is a poorly populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
+    <b>Lynga 3</b> is a poorly populated, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "High extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 7.2
+rc_val: 1.8
+dens_val: 1.6
 N_50_val: 47
 scix_url: Lynga%203
 posit_table: |
@@ -71,7 +72,7 @@ posit_table: |
     |[Cantat-Gaudin & Anders](https://scixplorer.org/abs/2020A%26A...633A..99C) | 2020 | 229.194 | -58.373 | 0.108 | -4.853 | -3.727 | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 229.194 | -58.373 | 0.108 | -4.853 | -3.727 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -4.17 | -3.44 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 229.204 | -58.367 | -10.09 | -3.61 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 229.204 | -58.367 | -- | -10.09 | -3.61 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 229.195 | -58.339 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 229.204 | -58.367 | -- | -10.04 | -3.89 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 229.207 | -58.34 | -- | -2.39 | 0.01 | -- |
@@ -84,9 +85,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.3 | 4.93 | 2.26 | 479 | -0.051 | 2636 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.75 | 4.93 | 2.26 | 243 | -0.051 | 2636 | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 6.92 | 4.69 | -- | 5 | -- | 1949 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3768<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.75 | 6.26 | 2.26 | 7 | -- | 3768<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.85 | 5.79 | -- | 2 | -0.170 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.75 | 6.26 | 2.26 | 7 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 822 | -- | 2636 | -- | -- |

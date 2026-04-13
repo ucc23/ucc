@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 26.3
+rc_val: 1.1
+dens_val: 9.4
 N_50_val: 161
 scix_url: RMC-4b
 posit_table: |
@@ -82,7 +83,7 @@ shared_table: |
     |[RMC-4a](/_clusters/rmc4a/)| 57.8 | 98.54 | 4.46 | 0.68 | -1.58 | 0.16 | 25.77 |0.55 |
     |[RMC-5](/_clusters/rmc5/)| 52.8 | 98.58 | 4.43 | 0.69 | -1.58 | 0.14 | 7.99 |0.5 |
     |[LP 39](/_clusters/lp39/)| 34.2 | 98.6 | 4.43 | 0.68 | -1.57 | 0.12 | 25.77 |0.0 |
-    |[RMC-2](/_clusters/rmc2/)| 19.3 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.48 |
+    |[RMC-2](/_clusters/rmc2/)| 19.3 | 98.37 | 4.56 | 0.68 | -1.68 | 0.2 | 31.26 |0.37 |
     |[AFGL961](/_clusters/afgl961/)| 11.8 | 98.64 | 4.33 | 0.71 | -1.5 | 0.0 | -- |0.35 |
 N_rows_shared: "5"
 ---

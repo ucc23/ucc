@@ -13,15 +13,15 @@ glon: 233.92355
 glat: -22.48656
 r50: 66.5
 plx: 3.2034
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.11"
+UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#fefde6"
 UTI_C_N: 0.39
-UTI_C_dens: 0.21
+UTI_C_dens: 0.09
 UTI_C_C3: 0.62
 UTI_C_lit: 0.03
 UTI_C_dup: 0.49
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 1.1
+rc_val: 1.8
+dens_val: 0.5
 N_50_val: 39
 scix_url: Theia%20229
 posit_table: |
@@ -78,7 +79,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.22 |
-    |[OCSN 81](/_clusters/ocsn81/)| 33.3 | 91.01 | -27.1 | 3.19 | -6.59 | 0.26 | 3.26 |0.02 |
+    |[ESO 489 01](/_clusters/eso48901/)| 51.3 | 90.79 | -27.21 | 3.19 | -6.54 | 0.01 | 3.26 |0.18 |
+    |[OCSN 81](/_clusters/ocsn81/)| 33.3 | 91.01 | -27.1 | 3.19 | -6.59 | 0.26 | 3.26 |0.01 |
 N_rows_shared: "2"
 ---

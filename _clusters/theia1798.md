@@ -13,15 +13,15 @@ glon: 178.426
 glat: -4e-05
 r50: 13.1
 plx: 0.533
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#feeed1"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fddbc4"
 UTI_C_N: 0.37
-UTI_C_dens: 0.14
+UTI_C_dens: 0.07
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 0.27
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 0.7
+rc_val: 3.0
+dens_val: 0.4
 N_50_val: 37
 scix_url: Theia%201798
 posit_table: |
@@ -71,9 +72,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.775 | 2.14 | 2.64 | 72 | 0.004 | 161 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.71 | 2.08 | 2.64 | 54 | 0.004 | 161 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.123<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 161<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.71 | 2.08 | 2.64 | 54 | -- | 161<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.84 | 2.20 | -- | 89 | 0.130 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.71 | 2.08 | 2.64 | 54 | -- | -- | -- | -- |
 N_rows_pars: "4"
@@ -81,6 +82,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 126](/_clusters/cwnu126/)| 73.0 | 85.48 | 30.28 | 0.54 | 0.47 | -2.48 | -- |0.22 |
+    |[CWNU 126](/_clusters/cwnu126/)| 73.0 | 85.48 | 30.28 | 0.54 | 0.47 | -2.48 | -- |0.15 |
 N_rows_shared: "1"
 ---

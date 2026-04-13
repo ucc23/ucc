@@ -16,12 +16,12 @@ plx: 0.5917
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f1f9d6"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.6
-UTI_C_dens: 1.0
+UTI_C_dens: 0.97
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 14.7
+rc_val: 1.2
+dens_val: 4.9
 N_50_val: 69
 scix_url: UFMG%2076
 posit_table: |
@@ -73,6 +74,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[PHOC 17](/_clusters/phoc17/)| 100.0 | 261.17 | -34.68 | 0.6 | -1.28 | -3.12 | -1.58 |0.43 |
     |[CWWDL 13876](/_clusters/cwwdl13876/)| 66.7 | 261.16 | -34.69 | 0.6 | -1.26 | -3.15 | -1.58 |0.0 |
-    |[G3CC 47](/_clusters/g3cc47/)| 26.1 | 260.85 | -34.8 | 0.6 | -0.86 | -3.02 | -14.93 |0.44 |
+    |[G3CC 47](/_clusters/g3cc47/)| 26.1 | 260.85 | -34.8 | 0.6 | -0.86 | -3.02 | -14.93 |0.32 |
 N_rows_shared: "3"
 ---

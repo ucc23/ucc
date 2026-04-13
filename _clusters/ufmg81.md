@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 26.2
+rc_val: 1.5
+dens_val: 5.3
 N_50_val: 89
 scix_url: UFMG%2081
 posit_table: |
@@ -72,7 +73,7 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.23 | 4.58 | 2.75 | 9 | 0.020 | 1852 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1852<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.23 | 4.58 | 2.75 | 9 | -- | 1852<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.27 | 4.71 | -- | 6 | 0.020 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.23 | 4.58 | 2.75 | 9 | -- | -- | -- | -- |
     | [Ferreira et al.](https://scixplorer.org/abs/2021MNRAS.502L..90F) | 2021 | 1.48 | 4.42 | -- | 398 | -- | -- | -- | -- |

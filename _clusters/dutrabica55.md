@@ -13,15 +13,15 @@ glon: 359.63599
 glat: 0.05772
 r50: 6.9
 plx: 0.425
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.09
 UTI_C_C3: 0.12
 UTI_C_lit: 0.03
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.9
+rc_val: 1.6
+dens_val: 0.5
 N_50_val: 20
 scix_url: Dutra%20Bica%2055
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Nuclear Star](/_clusters/nuclearstar/)| 4.0 | 266.44 | -29.0 | 0.42 | -0.25 | -1.4 | -15.76 |0.25 |
+    |[Nuclear Star](/_clusters/nuclearstar/)| 4.0 | 266.44 | -29.0 | 0.42 | -0.25 | -1.4 | -15.76 |0.16 |
 N_rows_shared: "1"
 ---

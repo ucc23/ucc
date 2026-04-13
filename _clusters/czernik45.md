@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 40.0
+rc_val: 1.0
+dens_val: 9.9
 N_50_val: 81
 scix_url: Czernik%2045
 posit_table: |

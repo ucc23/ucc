@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0885, e_all=0.0564.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
-dens_val: 63.8
+N_comments: "5"
+rc_val: 0.9
+dens_val: 21
 N_50_val: 164
 scix_url: Haffner%2016
 posit_table: |
@@ -80,7 +82,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 117.586 | -25.458 | 0.293 | -2.811 | 2.991 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.06 | 2.62 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 117.585 | -25.467 | -- | -3.4 | 2.03 | 48.7 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 117.583 | -25.467 | -3.28 | 2.07 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 117.583 | -25.467 | -- | -3.28 | 2.07 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 117.582 | -25.454 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 117.583 | -25.467 | -- | -3.4 | 2.03 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 117.588 | -25.457 | -- | -3.83 | 4.06 | 48.7 |
@@ -100,10 +102,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.11 | 0.57 | 1.01 | 26 | -0.111 | 446 | 0.82 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.1 | 0.57 | 1.01 | 28 | -0.111 | 446 | 0.82 | 0 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 3.03 | 0.65 | -- | 24 | -0.058 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 2.86 | 0.75 | -- | 33 | -- | 348 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 446<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.92 | 0.35 | 1.01 | 99 | -- | 446<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.81 | 0.51 | -- | 69 | -0.160 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.92 | 0.35 | 1.01 | 99 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 2.79 | 0.39 | -- | 211 | -0.058 | 511<sup>(1)</sup> | 0.82 | -- |
@@ -135,7 +137,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0417](/_clusters/oc0417/)| 21.3 | 117.58 | -25.46 | 0.28 | -2.75 | 3.03 | -- |0.0 |
-    |[FSR 1308](/_clusters/fsr1308/)| 11.6 | 117.57 | -25.46 | 0.31 | -2.83 | 3.05 | -- |0.09 |
-    |[CWNU 2123](/_clusters/cwnu2123/)| 7.9 | 117.48 | -25.37 | 0.32 | -2.7 | 2.89 | -- |0.08 |
+    |[FSR 1308](/_clusters/fsr1308/)| 11.6 | 117.57 | -25.46 | 0.31 | -2.83 | 3.05 | -- |0.05 |
+    |[CWNU 2123](/_clusters/cwnu2123/)| 7.9 | 117.48 | -25.37 | 0.32 | -2.7 | 2.89 | -- |0.07 |
 N_rows_shared: "3"
 ---

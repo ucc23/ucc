@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.0
+rc_val: 4.7
+dens_val: 0.04
 N_50_val: 12
 scix_url: Loden%20282
 posit_table: |

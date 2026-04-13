@@ -13,15 +13,15 @@ glon: 130.88869
 glat: -0.22106
 r50: 9.4
 plx: 0.2639
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#e7adb3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.25
-UTI_C_dens: 0.05
+UTI_C_dens: 0.01
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.2
+rc_val: 5.7
+dens_val: 0.05
 N_50_val: 25
 scix_url: Pickard%20102
 posit_table: |
@@ -72,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 2006](/_clusters/cwwdl2006/)| 4.0 | 28.92 | 61.99 | 0.33 | -1.07 | -0.31 | -- |0.08 |
-    |[CWWDL 8449](/_clusters/cwwdl8449/)| 4.0 | 29.76 | 62.03 | 0.34 | -1.01 | -0.22 | -- |0.06 |
+    |[CWWDL 8449](/_clusters/cwwdl8449/)| 4.0 | 29.76 | 62.03 | 0.34 | -1.01 | -0.22 | -- |0.05 |
 N_rows_shared: "2"
 ---

@@ -13,8 +13,8 @@ glon: 48.93876
 glat: -0.29826
 r50: 7.1
 plx: 0.0425
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
 UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#eef7d4"
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.0
+rc_val: 19
+dens_val: 0.00
 N_50_val: 9
 scix_url: BDSB%20138
 posit_table: |

@@ -13,15 +13,15 @@ glon: 59.11
 glat: -0.08206
 r50: 7.9
 plx: 0.2159
-UTI: "0.24"
-UTI_COLOR: "#fcd4c1"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#fef0d2"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
-UTI_C_dens: 0.07
+UTI_C_dens: 0.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.3
+rc_val: 5.0
+dens_val: 0.01
 N_50_val: 38
 scix_url: Collinder%20404
 posit_table: |
@@ -73,6 +74,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 480](/_clusters/hsc480/)| 2.6 | 295.24 | 23.03 | 0.22 | -2.46 | -5.35 | 68.78 |0.26 |
+    |[HSC 480](/_clusters/hsc480/)| 2.6 | 295.24 | 23.03 | 0.22 | -2.46 | -5.35 | 68.78 |0.19 |
 N_rows_shared: "1"
 ---

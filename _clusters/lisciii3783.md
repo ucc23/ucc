@@ -13,25 +13,25 @@ glon: 256.47042
 glat: 12.74608
 r50: 42.2
 plx: 3.8408
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#fefde6"
+UTI_C_dens_COL: "#f5c1b8"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.25
-UTI_C_dens: 0.49
+UTI_C_dens: 0.15
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.12
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely duplicate
 summary: |
-    <b>LISC-III 3783</b> is a poorly populated, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>LISC-III 3783</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 2.4
+rc_val: 1.3
+dens_val: 0.8
 N_50_val: 25
 scix_url: LISC-III%203783
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 86](/_clusters/ocsn86/)| 88.0 | 138.34 | -29.91 | 3.84 | -20.49 | 16.17 | 25.19 |0.29 |
+    |[OCSN 86](/_clusters/ocsn86/)| 88.0 | 138.34 | -29.91 | 3.84 | -20.49 | 16.17 | 25.19 |0.21 |
 N_rows_shared: "1"
 ---

@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 7.3
+rc_val: 0.8
+dens_val: 6.2
 N_50_val: 18
 scix_url: Patchick%2094
 posit_table: |

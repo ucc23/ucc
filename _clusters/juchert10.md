@@ -32,8 +32,8 @@ UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>Juchert 10</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a very massive, metal-rich, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. 
-badge_dist: "Very distant"
-badge_dist_url: "dist_min=5&dist_max=10"
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Very high extinction"
 badge_av_url: "av_min=5&av_max=10"
 badge_mass: "Very massive"
@@ -56,7 +56,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "6"
-dens_val: 33.1
+rc_val: 2.2
+dens_val: 6.0
 N_50_val: 240
 scix_url: Juchert%2010
 posit_table: |
@@ -72,7 +73,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 220.049 | -60.375 | -- | -- | -- | -70.74 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 220.075 | -60.37 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 220.049 | -60.375 | 0.107 | -4.915 | -2.592 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 220.079 | -60.381 | -4.65 | -5.4 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 220.079 | -60.381 | -- | -4.65 | -5.4 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 220.059 | -60.37 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 220.071 | -60.372 | -- | -2.62 | -4.64 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 220.05 | -60.379 | -- | -- | -- | -- |
@@ -86,8 +87,8 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.41 | 5.26 | 2.87 | 316 | 0.710 | 5352 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 4262<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.715 | 5.275 | 2.87 | 316 | 0.710 | 5352 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.21 | 5.53 | 2.87 | 85 | -- | 4262<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 5.47 | 4.82 | -- | 302 | 0.710 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.21 | 5.53 | 2.87 | 85 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 316 | -- | 6442 | -- | -- |

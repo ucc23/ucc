@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 8.3
+rc_val: 0.6
+dens_val: 6.4
 N_50_val: 35
 scix_url: Casado%203
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2004](/_clusters/hsc2004/)| 45.7 | 121.13 | -31.5 | 0.88 | -4.97 | 4.97 | 41.69 |0.12 |
+    |[HSC 2004](/_clusters/hsc2004/)| 45.7 | 121.13 | -31.5 | 0.88 | -4.97 | 4.97 | 41.69 |0.09 |
 N_rows_shared: "1"
 ---

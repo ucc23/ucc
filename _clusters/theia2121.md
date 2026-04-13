@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 0.1
+rc_val: 2.4
+dens_val: 0.2
 N_50_val: 15
 scix_url: Theia%202121
 posit_table: |

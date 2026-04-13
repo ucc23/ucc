@@ -13,25 +13,25 @@ glon: 231.31853
 glat: -0.78212
 r50: 0.9
 plx: 0.1547
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#fee9cd"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef8dd"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fddfc6"
 UTI_C_N: 0.34
-UTI_C_dens: 1.0
+UTI_C_dens: 0.44
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.29
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>VVVX-Obasi 16</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>VVVX-Obasi 16</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It was recently reported in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 11.9
+rc_val: 1.5
+dens_val: 2.2
 N_50_val: 34
 scix_url: VVVX-Obasi%2016
 posit_table: |
@@ -68,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3312](/_clusters/cwnu3312/)| 70.6 | 110.76 | -16.68 | 0.16 | -0.78 | 0.99 | 111.02 |0.3 |
+    |[CWNU 3312](/_clusters/cwnu3312/)| 70.6 | 110.76 | -16.68 | 0.16 | -0.78 | 0.99 | 111.02 |0.18 |
 N_rows_shared: "1"
 ---

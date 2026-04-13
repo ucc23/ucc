@@ -13,25 +13,25 @@ glon: 345.32622
 glat: 1.49742
 r50: 4.0
 plx: 0.605
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.24"
+UTI_COLOR: "#fcd4c1"
 UTI_C_N_COL: "#fef0d2"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fefae1"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.38
-UTI_C_dens: 1.0
+UTI_C_dens: 0.46
 UTI_C_C3: 0.25
 UTI_C_lit: 0.06
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>DBSB 115</b> is a poorly populated, very dense object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.65 kpc) differs significantly from the median photometric distance (~2.63 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>DBSB 115</b> is a poorly populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.65 kpc) differs significantly from the median photometric distance (~2.63 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "High extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 10.3
+rc_val: 1.5
+dens_val: 2.3
 N_50_val: 38
 scix_url: DBSB%20115
 posit_table: |
@@ -79,6 +80,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 114](/_clusters/dbsb114/)| 78.9 | 254.76 | -40.2 | 0.6 | -0.32 | -1.28 | -14.73 |0.51 |
     |[DBSB 117](/_clusters/dbsb117/)| 23.7 | 254.81 | -40.2 | 0.6 | -0.38 | -1.32 | -15.63 |0.28 |
-    |[CWNU 4046](/_clusters/cwnu4046/)| 18.4 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.14 |
+    |[CWNU 4046](/_clusters/cwnu4046/)| 18.4 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.12 |
 N_rows_shared: "3"
 ---

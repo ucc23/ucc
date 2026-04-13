@@ -16,12 +16,12 @@ plx: 0.1537
 UTI: "0.17"
 UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e2a9b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.02
+UTI_C_dens: 0.01
 UTI_C_C3: 0.12
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 5.2
+dens_val: 0.06
 N_50_val: 20
 scix_url: ASCC%207
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     |[He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 29.62 | 59.266 | 0.411 | -1.447 | -0.856 | -48.91 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 29.764 | 58.922 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 29.718 | 58.97 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 29.729 | 58.97 | 0.33 | 0.28 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 29.729 | 58.97 | -- | 0.33 | 0.28 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 29.764 | 58.922 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 29.729 | 58.97 | -- | 0.24 | -0.98 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 29.775 | 58.925 | -- | 1.94 | -1.21 | -49.0 |

@@ -13,25 +13,25 @@ glon: 13.64629
 glat: -0.62422
 r50: 7.7
 plx: 0.5821
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#d9eeca"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fddfc6"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.73
-UTI_C_dens: 1.0
+UTI_C_dens: 0.29
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Mol 45</b> is a moderately populated, very dense object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.72 kpc) differs significantly from the median photometric distance (~11.61 kpc).</p>
+    <b>Mol 45</b> is a moderately populated, loose object of very low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. It is catalogued as a  cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 13 years. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.72 kpc) differs significantly from the median photometric distance (~11.61 kpc).</p><p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>the low <a href="/faq#what-is-the-uti-parameter" title="UTI parameter" target="_blank"><b>UTI</b></a> value and no obvious signs of duplication (<i>C<sub>dup</sub>=1.0</i>) indicate that this is quite probably an asterism, moving group, or artifact, and <a href="/faq#how-are-objects-flagged-as-likely-not-real" title="Not real open cluster" target="_blank"><u>not a real open cluster</u></a>.</p>
 badge_dist: "Extremely distant"
 badge_dist_url: "dist_min=10&dist_max=1000000.0"
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 6.5
+rc_val: 1.6
+dens_val: 1.5
 N_50_val: 96
 scix_url: Mol%2045
 posit_table: |

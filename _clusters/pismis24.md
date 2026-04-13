@@ -13,25 +13,25 @@ glon: 353.11049
 glat: 0.62928
 r50: 6.6
 plx: 0.5602
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.59"
+UTI_COLOR: "#f3fad8"
 UTI_C_N_COL: "#ddf0ca"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#c2e4c6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fee5ca"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.71
-UTI_C_dens: 1.0
+UTI_C_dens: 0.83
 UTI_C_C3: 0.75
 UTI_C_lit: 0.32
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Pismis 24</b> is a moderately populated, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Pismis 24</b> is a moderately populated, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 4 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Very high extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 7.8
+rc_val: 1.1
+dens_val: 4.1
 N_50_val: 92
 scix_url: Pismis%2024
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |261.397 | -34.363 | 0.56 | -0.947 | -2.53 | 9.47 |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 261.391 | -34.402 | 0.572 | -0.978 | -2.502 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.9 | -2.26 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 261.179 | -34.206 | -3.56 | -1.08 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 261.179 | -34.206 | -- | -3.56 | -1.08 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 261.39 | -34.4 | -- | -- | -- | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 261.179 | -34.206 | -- | -- | -- | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 261.387 | -34.435 | -- | -- | -- | -- |
@@ -93,6 +94,6 @@ shared_table: |
     |[AH03 J1725 34.4](/_clusters/ah03j1725344/)| 80.4 | 261.39 | -34.4 | 0.56 | -1.0 | -2.38 | 6.82 |0.39 |
     |[BDSB 101](/_clusters/bdsb101/)| 41.3 | 261.39 | -34.41 | 0.55 | -0.89 | -2.3 | 4.32 |0.0 |
     |[NGC 6357](/_clusters/ngc6357/)| 30.4 | 261.2 | -34.21 | 0.55 | -0.85 | -2.1 | 6.35 |0.6 |
-    |[OC 0688](/_clusters/oc0688/)| 27.2 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.05 |
+    |[OC 0688](/_clusters/oc0688/)| 27.2 | 261.29 | -34.35 | 0.55 | -0.91 | -2.15 | 18.21 |0.04 |
 N_rows_shared: "4"
 ---

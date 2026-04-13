@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 30.6
+rc_val: 1.4
+dens_val: 6.7
 N_50_val: 109
 scix_url: Juchert%2011
 posit_table: |
@@ -79,8 +80,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.015 | 5.65 | 2.24 | 794 | 0.160 | 549 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1001<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 5.3 | 2.24 | 794 | 0.160 | 549 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.83 | 5.22 | 2.24 | 758 | -- | 1001<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.55 | 4.86 | -- | 661 | 0.160 | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2023ApJS..267...34H) | 2023 | 4.17 | 6.40 | -- | 398 | -- | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.83 | 5.22 | 2.24 | 759 | -- | -- | -- | -- |

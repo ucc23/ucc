@@ -13,15 +13,15 @@ glon: 110.20323
 glat: 0.01141
 r50: 5.1
 plx: 0.3308
-UTI: "0.28"
-UTI_COLOR: "#fdddc5"
+UTI: "0.27"
+UTI_COLOR: "#fddbc4"
 UTI_C_N_COL: "#fee7cc"
-UTI_C_dens_COL: "#fee7cc"
+UTI_C_dens_COL: "#fddbc4"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.33
-UTI_C_dens: 0.33
+UTI_C_dens: 0.27
 UTI_C_C3: 0.5
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -51,14 +51,15 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 1.6
+rc_val: 1.2
+dens_val: 1.4
 N_50_val: 33
 scix_url: Kronberger%2023
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |346.492 | 60.252 | 0.331 | -3.716 | -2.484 | -59.293 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 346.496 | 60.254 | -0.92 | -0.45 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 346.496 | 60.254 | -- | -0.92 | -0.45 | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 346.496 | 60.254 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 346.496 | 60.254 | -- | -4.02 | -1.8 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 346.592 | 60.258 | -- | -- | -- | -- |
@@ -78,7 +79,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 42](/_clusters/bdsb42/)| 48.5 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.12 |
-    |[BDSB 39](/_clusters/bdsb39/)| 30.3 | 346.43 | 60.26 | 0.32 | -3.77 | -2.33 | -- |0.07 |
+    |[BDSB 42](/_clusters/bdsb42/)| 48.5 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.1 |
+    |[BDSB 39](/_clusters/bdsb39/)| 30.3 | 346.43 | 60.26 | 0.32 | -3.77 | -2.33 | -- |0.06 |
 N_rows_shared: "2"
 ---

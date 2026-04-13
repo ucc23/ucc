@@ -13,15 +13,15 @@ glon: 173.04747
 glat: -2.53445
 r50: 5.9
 plx: 0.4102
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#dfa5b3"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.22
+UTI_C_dens: 0.06
 UTI_C_C3: 0.0
 UTI_C_lit: 0.03
 UTI_C_dup: 1.0
@@ -51,14 +51,15 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: "1"
-dens_val: 1.1
+rc_val: 3.5
+dens_val: 0.3
 N_50_val: 19
 scix_url: Melotte%2031
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |79.524 | 33.342 | 0.41 | 0.239 | -3.558 | 9.079 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 79.542 | 33.374 | 0.42 | -3.03 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 79.542 | 33.374 | -- | 0.42 | -3.03 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 79.542 | 33.374 | -- | 0.34 | -3.66 | -4.79 |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 79.542 | 33.374 | -- | 0.34 | -3.66 | -4.79 
 N_rows_pos: "3"

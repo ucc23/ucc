@@ -13,15 +13,15 @@ glon: 171.99723
 glat: 3.39611
 r50: 18.0
 plx: 0.8601
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.32"
+UTI_COLOR: "#fee5ca"
 UTI_C_N_COL: "#fef7db"
-UTI_C_dens_COL: "#fcd2c0"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.43
-UTI_C_dens: 0.23
+UTI_C_dens: 0.07
 UTI_C_C3: 0.75
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 1.2
+rc_val: 2.8
+dens_val: 0.4
 N_50_val: 43
 scix_url: CWNU%20525
 posit_table: |
@@ -74,10 +75,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.14 | 0.74 | 1.1 | 20 | -0.280 | 262 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.11 | 0.745 | 1.1 | 20 | -0.280 | 262 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 1.72 | 0.32 | -- | 21 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.112<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 262<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.11 | 0.75 | 1.10 | 28 | -- | 262<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.17 | 1.05 | -- | 9 | -0.280 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.11 | 0.74 | 1.10 | 28 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.20 | -- | 13 | -- | -- | -- | -- |

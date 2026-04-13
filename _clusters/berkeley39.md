@@ -51,13 +51,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>BSS candidates form two groups: faint objects consistent with low-mass donors and redder, brighter BSSs matched by higher-mass donor models. Two YSSs are present. Some stars may be misidentified or require alternative binary parameters.</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.95 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1428, e_all=0.1013.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>The distance d=3035.4 (dmode+01) of Cantat-Gaudin et al.  (2018A&A...618A..93C, Cat. J/A+A18/A93) was use to fit the  isochrone. There are several stragglers candidates with a radius  larger than the apparent radius of the cluster (r=10 arcmin  (Dias et al., 2002A&A...389..871D, Cat. B/ocl).</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Only straggler candidates inside a radius of 6' around the centre of coordinates have been considered. The red limit of the blue straggler area is (B-V)=0.64. Four probable members, short- period, eclipsing binaries are identified among the stragglers by (1993MNRAS.262...49K). Another Delta Scuti straggler is found by (1999AcA....49..551M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 49.8
+N_comments: "8"
+rc_val: 2.7
+dens_val: 14
 N_50_val: 1429
 scix_url: Berkeley%2039
 posit_table: |
@@ -90,7 +92,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 116.702 | -4.665 | 0.201 | -1.73 | -1.645 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.67 | -1.52 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 116.7 | -4.68 | -- | -1.373 | -3.361 | 55.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 116.7 | -4.668 | -0.85 | -4.77 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 116.7 | -4.668 | -- | -0.85 | -4.77 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 116.701 | -4.678 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 116.675 | -4.6 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 116.675 | -4.6 | -- | -2.97 | -2.57 | -- |
@@ -116,7 +118,7 @@ fpars_table: |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 4.16 | 0.39 | -- | 6471 | 0.000 | -- | -- | 22<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 4.36 | 0.39 | -- | 6471 | -- | 6456 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.196<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3576<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.90 | 0.25 | 1.10 | 3126 | -- | 3576<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.27 | 0.72 | -- | 6918 | -0.550 | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 3.95 | 0.36 | -- | 7865 | -- | 16716 | 0.23 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.90 | 0.25 | 1.10 | 3126 | -- | -- | -- | -- |

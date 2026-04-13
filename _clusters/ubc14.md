@@ -13,15 +13,15 @@ glon: 41.81963
 glat: -8.92084
 r50: 26.3
 plx: 1.3062
-UTI: "0.22"
-UTI_COLOR: "#fbd0bf"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f3bcb6"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.13
+UTI_C_dens: 0.02
 UTI_C_C3: 0.62
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.7476, e_all=0.37.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg06' along with Alessi 44.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
-dens_val: 0.7
+N_comments: "2"
+rc_val: 1.9
+dens_val: 0.09
 N_50_val: 23
 scix_url: UBC%2014
 posit_table: |

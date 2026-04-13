@@ -13,15 +13,15 @@ glon: 305.45976
 glat: 0.03743
 r50: 4.6
 plx: 0.1726
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#c9e7c8"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.03
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.8
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 0.3
+rc_val: 3.0
+dens_val: 0.1
 N_50_val: 21
 scix_url: DBSB%20134
 posit_table: |
@@ -76,6 +77,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Danks 2](/_clusters/danks2/)| 20.0 | 198.23 | -62.68 | 0.14 | -7.12 | -0.57 | 107.4 |0.75 |
     |[Danks 1](/_clusters/danks1/)| 16.0 | 198.11 | -62.7 | 0.16 | -7.11 | -0.6 | 31.68 |0.66 |
-    |[MCM 36](/_clusters/mcm36/)| 4.0 | 198.36 | -63.04 | 0.2 | -6.77 | -0.63 | -35.17 |0.13 |
+    |[MCM 36](/_clusters/mcm36/)| 4.0 | 198.36 | -63.04 | 0.2 | -6.77 | -0.63 | -35.17 |0.12 |
 N_rows_shared: "3"
 ---

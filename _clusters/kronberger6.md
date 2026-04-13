@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 23.3
+rc_val: 1.5
+dens_val: 5.5
 N_50_val: 116
 scix_url: Kronberger%206
 posit_table: |
@@ -78,10 +79,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.96 | 2.59 | 1.26 | 617 | -0.180 | 538 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.9 | 1.805 | 1.26 | 528 | -0.180 | 538 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.180<sup>(5)</sup> | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.208<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 491<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.84 | 1.00 | 1.26 | 440 | -- | 491<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.73 | 1.02 | -- | 617 | -0.040 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.84 | 0.99 | 1.26 | 440 | -- | -- | -- | -- |
     | [Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 1.96 | 2.65 | -- | 800 | -- | -- | -- | -- |

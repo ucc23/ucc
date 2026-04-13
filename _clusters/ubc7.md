@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.465, e_all=0.4775.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg20' along with Collinder 135.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
-dens_val: 30.5
+N_comments: "2"
+rc_val: 1.3
+dens_val: 8.0
 N_50_val: 123
 scix_url: UBC%207
 posit_table: |

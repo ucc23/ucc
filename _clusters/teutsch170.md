@@ -13,15 +13,15 @@ glon: 188.62741
 glat: 2.77541
 r50: 6.2
 plx: 0.4505
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.22
+UTI_C_dens: 0.17
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 1.1
+rc_val: 1.1
+dens_val: 0.8
 N_50_val: 18
 scix_url: Teutsch%20170
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 10843](/_clusters/cwwdl10843/)| 24.0 | 93.93 | 22.62 | 0.52 | -0.36 | -1.66 | -- |0.03 |
-    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.31 |
+    |[CWWDL 10843](/_clusters/cwwdl10843/)| 24.0 | 93.93 | 22.62 | 0.52 | -0.36 | -1.66 | -- |0.02 |
+    |[UBC 1305](/_clusters/ubc1305/)| 16.0 | 93.94 | 22.62 | 0.52 | -0.35 | -1.67 | -- |0.21 |
 N_rows_shared: "2"
 ---

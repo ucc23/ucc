@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 18.3
+rc_val: 1.2
+dens_val: 5.1
 N_50_val: 62
 scix_url: CWWDL%202676
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Patchick 79](/_clusters/patchick79/)| 93.5 | 108.84 | -7.43 | 0.31 | -1.28 | 1.35 | 93.47 |0.52 |
+    |[Patchick 79](/_clusters/patchick79/)| 93.5 | 108.84 | -7.43 | 0.31 | -1.28 | 1.35 | 93.47 |0.44 |
     |[UBC 1357](/_clusters/ubc1357/)| 83.9 | 108.84 | -7.43 | 0.31 | -1.3 | 1.36 | 80.09 |0.0 |
 N_rows_shared: "2"
 ---

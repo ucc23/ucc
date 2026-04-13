@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 108
+dens_val: 0.00
 N_50_val: 14
 scix_url: Dutra%20Bica%2027
 posit_table: |

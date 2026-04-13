@@ -13,25 +13,25 @@ glon: 192.3282
 glat: 3.36364
 r50: 3.4
 plx: 0.2077
-UTI: "0.60"
-UTI_COLOR: "#f1f9d6"
+UTI: "0.52"
+UTI_COLOR: "#fcfee5"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#f7fbde"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 0.56
+UTI_C_dens: 0.17
 UTI_C_C3: 0.75
 UTI_C_lit: 0.55
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Bochum 1</b> is a moderately populated, moderately dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.81 kpc) differs significantly from the median photometric distance (~3.21 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Bochum 1</b> is a moderately populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.81 kpc) differs significantly from the median photometric distance (~3.26 kpc).</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 2.8
+rc_val: 2.2
+dens_val: 0.8
 N_50_val: 64
 scix_url: Bochum%201
 posit_table: |
@@ -71,7 +72,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 96.256 | 19.855 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.38 | -2.88 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 96.36 | 19.768 | -- | 0.63 | -1.64 | 38.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 96.354 | 19.767 | 1.43 | -1.38 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 96.354 | 19.767 | -- | 1.43 | -1.38 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 96.314 | 19.781 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 96.354 | 19.767 | -- | 0.63 | -1.64 | 11.38 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 96.322 | 19.78 | -- | -0.93 | -2.82 | 38.0 |
@@ -86,9 +87,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.21 | 1.53 | 2.19 | 5 | -0.150 | 666 | -- | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.26 | 1.48 | 2.19 | 8 | -0.150 | 666 | -- | 0 |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 151 | -0.140<sup>(3)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1118<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.90 | 1.19 | 2.19 | 151 | -- | 1118<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.31 | 1.11 | -- | 93 | -0.160 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.90 | 1.19 | 2.19 | 151 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 4 | -- | 215 | -- | -- |
@@ -105,7 +106,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1309](/_clusters/ubc1309/)| 85.9 | 96.29 | 19.85 | 0.22 | -0.22 | -0.45 | 35.13 |0.09 |
+    |[UBC 1309](/_clusters/ubc1309/)| 85.9 | 96.29 | 19.85 | 0.22 | -0.22 | -0.45 | 35.13 |0.07 |
     |[OC 0319](/_clusters/oc0319/)| 39.1 | 96.26 | 19.85 | 0.2 | -0.23 | -0.47 | -- |0.0 |
 N_rows_shared: "2"
 ---

@@ -16,12 +16,12 @@ plx: 0.1874
 UTI: "0.21"
 UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e6acb3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.04
+UTI_C_dens: 0.02
 UTI_C_C3: 0.25
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.2
+rc_val: 3.0
+dens_val: 0.1
 N_50_val: 15
 scix_url: Kronberger%2068
 posit_table: |
@@ -63,7 +64,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.58 | -5.41 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 300.15 | 30.577 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 300.15 | 30.59 | -- | -2.209 | -3.326 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 300.15 | 30.59 | -2.15 | -2.9 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 300.15 | 30.59 | -- | -2.15 | -2.9 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 300.15 | 30.577 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 300.145 | 30.574 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 300.15 | 30.59 | -- | -- | -- | -- |
@@ -92,6 +93,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3016](/_clusters/cwnu3016/)| 28.0 | 300.14 | 30.59 | 0.12 | -2.81 | -5.56 | -17.96 |0.06 |
+    |[CWNU 3016](/_clusters/cwnu3016/)| 28.0 | 300.14 | 30.59 | 0.12 | -2.81 | -5.56 | -17.96 |0.05 |
 N_rows_shared: "1"
 ---

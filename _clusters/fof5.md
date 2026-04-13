@@ -13,25 +13,25 @@ glon: 292.32869
 glat: -12.74205
 r50: 10.0
 plx: 0.5183
-UTI: "0.62"
-UTI_COLOR: "#eef7d4"
+UTI: "0.49"
+UTI_COLOR: "#fefde6"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#c2e4c6"
+UTI_C_dens_COL: "#f7c5ba"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.83
+UTI_C_dens: 0.17
 UTI_C_C3: 1.0
 UTI_C_lit: 0.26
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>FoF 5</b> is a rich, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>FoF 5</b> is a rich, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the metallicity and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p><p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 4.1
+rc_val: 3.2
+dens_val: 0.8
 N_50_val: 130
 scix_url: FoF%205
 posit_table: |
@@ -77,10 +78,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.84 | 0.27 | 0.42 | 2631 | 0.002 | 967 | -- | 5 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.825 | 0.27 | 0.42 | 2570 | 0.002 | 967 | -- | 5 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.250<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.78 | 0.33 | -- | 2570 | -- | 967 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 337<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.81 | 0.12 | 0.42 | 2324 | -- | 337<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.84 | 0.27 | -- | 1995 | 0.280 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.80 | 0.12 | 0.42 | 2323 | -- | -- | -- | -- |
     | [Jadhav & Subramaniam](https://scixplorer.org/abs/2021MNRAS.507.1699J) | 2021 | 1.84 | 0.27 | -- | 2692 | -- | 2459 | -- | 5<sup>(1)</sup> |
@@ -93,7 +94,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 274](/_clusters/ubc274/)| 100.0 | 156.26 | -72.56 | 0.52 | -6.88 | 1.46 | -23.51 |0.27 |
+    |[UBC 274](/_clusters/ubc274/)| 100.0 | 156.26 | -72.56 | 0.52 | -6.88 | 1.46 | -23.51 |0.21 |
     |[OC 0560](/_clusters/oc0560/)| 1.5 | 154.51 | -72.17 | 0.52 | -6.87 | 1.69 | -22.78 |0.05 |
 N_rows_shared: "2"
 ---

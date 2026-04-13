@@ -16,12 +16,12 @@ plx: 0.1701
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.01
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.1
+rc_val: 6.7
+dens_val: 0.04
 N_50_val: 16
 scix_url: BDSB%20149
 posit_table: |
@@ -74,8 +75,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 150](/_clusters/bdsb150/)| 88.0 | 290.93 | 14.54 | 0.2 | -2.59 | -5.31 | 38.19 |0.15 |
-    |[BDSB 152](/_clusters/bdsb152/)| 68.0 | 290.92 | 14.53 | 0.2 | -2.61 | -5.25 | 94.92 |0.09 |
-    |[BDSB 146](/_clusters/bdsb146/)| 48.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.07 |
+    |[BDSB 150](/_clusters/bdsb150/)| 88.0 | 290.93 | 14.54 | 0.2 | -2.59 | -5.31 | 38.19 |0.14 |
+    |[BDSB 152](/_clusters/bdsb152/)| 68.0 | 290.92 | 14.53 | 0.2 | -2.61 | -5.25 | 94.92 |0.08 |
+    |[BDSB 146](/_clusters/bdsb146/)| 48.0 | 290.92 | 14.54 | 0.29 | -2.65 | -5.37 | 131.09 |0.06 |
 N_rows_shared: "3"
 ---

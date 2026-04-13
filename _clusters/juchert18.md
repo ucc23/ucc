@@ -13,15 +13,15 @@ glon: 204.59668
 glat: -1.31202
 r50: 2.4
 plx: 0.1617
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.23"
+UTI_COLOR: "#fcd2c0"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.21
+UTI_C_dens: 0.14
 UTI_C_C3: 0.25
 UTI_C_lit: 0.39
 UTI_C_dup: 1.0
@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2748, e_all=0.1614.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>Web updates in DAML02, some were later removed (2003 to 2010).</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
-N_comments: "1"
-dens_val: 1.1
+N_comments: "2"
+rc_val: 1.7
+dens_val: 0.7
 N_50_val: 20
 scix_url: Juchert%2018
 posit_table: |

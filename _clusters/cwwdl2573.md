@@ -13,15 +13,15 @@ glon: 110.95677
 glat: 0.45068
 r50: 7.6
 plx: 0.3197
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#eaf6d1"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.04
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.64
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.4
+rc_val: 2.1
+dens_val: 0.2
 N_50_val: 20
 scix_url: CWWDL%202573
 posit_table: |
@@ -72,6 +73,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[FoF 1821](/_clusters/fof1821/)| 36.0 | 347.73 | 60.93 | 0.32 | -4.29 | -2.05 | -82.55 |0.03 |
-    |[CWNU 459](/_clusters/cwnu459/)| 4.0 | 347.95 | 60.97 | 0.33 | -4.44 | -1.79 | -68.97 |0.31 |
+    |[CWNU 459](/_clusters/cwnu459/)| 4.0 | 347.95 | 60.97 | 0.33 | -4.44 | -1.79 | -68.97 |0.28 |
 N_rows_shared: "2"
 ---

@@ -13,15 +13,15 @@ glon: 355.8034
 glat: 1.62036
 r50: 8.1
 plx: 0.646
-UTI: "0.37"
-UTI_COLOR: "#feeed1"
+UTI: "0.40"
+UTI_COLOR: "#fef4d6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fee5ca"
+UTI_C_dens_COL: "#fefce4"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#fcfee5"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.32
+UTI_C_dens: 0.48
 UTI_C_C3: 0.5
 UTI_C_lit: 0.52
 UTI_C_dup: 1.0
@@ -31,7 +31,7 @@ UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Antalova 1</b> is a sparse, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.55 kpc) differs significantly from the median photometric distance (~0.93 kpc).</p>
+    <b>Antalova 1</b> is a sparse, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by moderate extinction. It is catalogued as a metal-poor, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.55 kpc) differs significantly from the median photometric distance (~0.98 kpc).</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Moderate extinction"
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 1.6
+rc_val: 1.0
+dens_val: 2.4
 N_50_val: 21
 scix_url: Antalova%201
 posit_table: |
@@ -68,7 +69,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 262.228 | -31.58 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 262.228 | -31.607 | -- | -- | -- | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 262.237 | -31.58 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 262.225 | -31.55 | 0.11 | -3.04 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 262.225 | -31.55 | -- | 0.11 | -3.04 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 262.237 | -31.58 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 262.228 | -31.58 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 262.225 | -31.55 | -- | 0.33 | -2.89 | -- |
@@ -85,9 +86,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.93 | 1.35 | 0.39 | 305 | -0.802 | 138 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.985 | 1.35 | 0.39 | 305 | -0.802 | 138 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 2.68 | 0.62 | -- | 45 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 176<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.45 | 1.76 | 0.39 | 25 | -- | 176<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.04 | 2.04 | -- | 47 | -0.950 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.45 | 1.76 | 0.39 | 24 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 305 | -- | 116 | -- | -- |

@@ -13,15 +13,15 @@ glon: 206.23026
 glat: -6.05836
 r50: 120.1
 plx: 4.2747
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.03
 UTI_C_C3: 0.25
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "5"
-dens_val: 0.4
+rc_val: 3.3
+dens_val: 0.1
 N_50_val: 24
 scix_url: Platais%206
 posit_table: |

@@ -16,12 +16,12 @@ plx: 0.181
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#fcd2c0"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f5c1b8"
 UTI_C_N: 0.26
-UTI_C_dens: 0.24
+UTI_C_dens: 0.23
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.15
@@ -50,6 +50,7 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
+rc_val: 1.7
 dens_val: 1.2
 N_50_val: 26
 scix_url: GLIMPSE%2020
@@ -68,7 +69,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[MCM 20](/_clusters/mcm20/)| 84.6 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.21 |
-    |[Mol 99](/_clusters/mol99/)| 15.4 | 288.0 | 9.83 | 0.16 | -2.65 | -5.35 | 52.07 |0.17 |
+    |[MCM 20](/_clusters/mcm20/)| 84.6 | 288.09 | 9.95 | 0.2 | -2.98 | -5.61 | 142.99 |0.25 |
+    |[Mol 99](/_clusters/mol99/)| 15.4 | 288.0 | 9.83 | 0.16 | -2.65 | -5.35 | 52.07 |0.16 |
 N_rows_shared: "2"
 ---

@@ -47,12 +47,14 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4124, e_all=0.2794.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg02' along with ASCC 19, UBC 17a and UBC 17b.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
-dens_val: 41.9
+N_comments: "3"
+rc_val: 1.5
+dens_val: 13
 N_50_val: 723
 scix_url: Gulliver%206
 posit_table: |
@@ -106,7 +108,7 @@ shared_table: |
     |[OCSN 194](/_clusters/ocsn194/)| 91.6 | 83.32 | -1.64 | 2.42 | -0.06 | -0.25 | 28.06 |0.02 |
     |[UBC 17 b](/_clusters/ubc17b/)| 24.8 | 83.17 | -1.71 | 2.4 | 0.07 | -0.22 | 25.62 |0.63 |
     |[Theia 13](/_clusters/theia13/)| 13.6 | 83.14 | -1.76 | 2.4 | 0.08 | -0.22 | 25.77 |0.0 |
-    |[OCSN 61](/_clusters/ocsn61/)| 12.3 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.48 |
-    |[OCSN 65](/_clusters/ocsn65/)| 6.2 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.52 |
+    |[OCSN 61](/_clusters/ocsn61/)| 12.3 | 84.06 | -0.59 | 2.56 | -1.03 | -0.63 | 29.9 |0.44 |
+    |[OCSN 65](/_clusters/ocsn65/)| 6.2 | 83.79 | -1.81 | 2.37 | -1.31 | 0.92 | 27.08 |0.45 |
 N_rows_shared: "5"
 ---

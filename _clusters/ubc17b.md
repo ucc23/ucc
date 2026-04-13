@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1979, e_all=0.1807.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17a.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "1"
-dens_val: 43.0
+N_comments: "2"
+rc_val: 1.1
+dens_val: 9.8
 N_50_val: 179
 scix_url: UBC%2017%20b
 posit_table: |

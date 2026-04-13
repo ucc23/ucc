@@ -13,25 +13,25 @@ glon: 290.68736
 glat: 0.11443
 r50: 5.0
 plx: 0.3657
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.10"
+UTI_COLOR: "#f0b6b3"
 UTI_C_N_COL: "#fef5d7"
-UTI_C_dens_COL: "#fcfee5"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fdfee6"
 UTI_C_N: 0.41
-UTI_C_dens: 0.52
+UTI_C_dens: 0.09
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.51
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>Teutsch 227</b> is a poorly populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Teutsch 227</b> is a poorly populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 7 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 2.6
+rc_val: 4.3
+dens_val: 0.4
 N_50_val: 41
 scix_url: Teutsch%20227
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.95 |
-    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.36 |
+    |[NGC 3572](/_clusters/ngc3572/)| 48.8 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.85 |
+    |[Hogg 10](/_clusters/hogg10/)| 17.1 | 167.68 | -60.41 | 0.39 | -6.2 | 1.79 | -10.87 |0.29 |
 N_rows_shared: "2"
 ---

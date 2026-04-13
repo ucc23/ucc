@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 58.4
+rc_val: 0.9
+dens_val: 8.2
 N_50_val: 43
 scix_url: Cru%20II%20Group
 posit_table: |

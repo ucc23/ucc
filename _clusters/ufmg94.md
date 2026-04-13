@@ -13,25 +13,25 @@ glon: 356.86842
 glat: -3.42332
 r50: 7.8
 plx: 0.7761
-UTI: "0.51"
-UTI_COLOR: "#fdfee6"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
-UTI_C_dens: 1.0
+UTI_C_dens: 0.43
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>UFMG 94</b> is a moderately populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>UFMG 94</b> is a moderately populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as an intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 6.6
+rc_val: 1.3
+dens_val: 2.1
 N_50_val: 56
 scix_url: UFMG%2094
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 3922](/_clusters/theia3922/)| 87.5 | 267.95 | -33.4 | 0.77 | 0.43 | -2.86 | -10.4 |0.07 |
+    |[Theia 3922](/_clusters/theia3922/)| 87.5 | 267.95 | -33.4 | 0.77 | 0.43 | -2.86 | -10.4 |0.06 |
     |[OC 0700](/_clusters/oc0700/)| 50.0 | 267.96 | -33.4 | 0.78 | 0.44 | -2.88 | -10.1 |0.0 |
 N_rows_shared: "2"
 ---

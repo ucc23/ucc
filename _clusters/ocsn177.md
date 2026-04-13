@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 13.4
+rc_val: 1.1
+dens_val: 6.9
 N_50_val: 272
 scix_url: OCSN%20177
 posit_table: |
@@ -72,8 +73,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[HSC 2505](/_clusters/hsc2505/)| 44.5 | 185.58 | -64.05 | 9.33 | -37.8 | -10.73 | 12.41 |0.0 |
-    |[OCSN 178](/_clusters/ocsn178/)| 27.9 | 191.21 | -57.65 | 8.99 | -34.71 | -14.46 | 11.89 |0.47 |
-    |[CWNU 1136](/_clusters/cwnu1136/)| 22.1 | 186.94 | -60.63 | 9.22 | -36.69 | -12.15 | 12.27 |0.35 |
-    |[HSC 2468](/_clusters/hsc2468/)| 21.7 | 185.31 | -56.63 | 9.04 | -35.54 | -11.74 | 12.65 |0.25 |
+    |[OCSN 178](/_clusters/ocsn178/)| 27.9 | 191.21 | -57.65 | 8.99 | -34.71 | -14.46 | 11.89 |0.34 |
+    |[CWNU 1136](/_clusters/cwnu1136/)| 22.1 | 186.94 | -60.63 | 9.22 | -36.69 | -12.15 | 12.27 |0.29 |
+    |[HSC 2468](/_clusters/hsc2468/)| 21.7 | 185.31 | -56.63 | 9.04 | -35.54 | -11.74 | 12.65 |0.19 |
 N_rows_shared: "4"
 ---

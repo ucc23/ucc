@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 19.8
+rc_val: 0.9
+dens_val: 5.5
 N_50_val: 40
 scix_url: MCM%2041
 posit_table: |
@@ -74,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3872](/_clusters/cwnu3872/)| 85.0 | 209.91 | -61.38 | 0.3 | -5.2 | -1.89 | -24.55 |0.29 |
-    |[HSC 2627](/_clusters/hsc2627/)| 37.5 | 209.89 | -61.38 | 0.29 | -5.19 | -1.88 | -- |0.15 |
+    |[CWNU 3872](/_clusters/cwnu3872/)| 85.0 | 209.91 | -61.38 | 0.3 | -5.2 | -1.89 | -24.55 |0.26 |
+    |[HSC 2627](/_clusters/hsc2627/)| 37.5 | 209.89 | -61.38 | 0.29 | -5.19 | -1.88 | -- |0.1 |
 N_rows_shared: "2"
 ---

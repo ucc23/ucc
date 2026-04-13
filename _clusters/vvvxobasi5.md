@@ -13,15 +13,15 @@ glon: 272.57016
 glat: -1.16895
 r50: 3.7
 plx: 0.1572
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.07"
+UTI_COLOR: "#ebb0b3"
 UTI_C_N_COL: "#fdd9c3"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fef0d2"
 UTI_C_N: 0.26
-UTI_C_dens: 0.11
+UTI_C_dens: 0.02
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 0.38
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.6
+rc_val: 8.0
+dens_val: 0.08
 N_50_val: 26
 scix_url: VVVX-Obasi%205
 posit_table: |
@@ -68,8 +69,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SAI 106](/_clusters/sai106/)| 61.5 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.53 |
-    |[VVVX-Obasi 9](/_clusters/vvvxobasi9/)| 57.7 | 139.49 | -51.01 | 0.16 | -3.54 | 3.67 | 33.9 |0.18 |
+    |[SAI 106](/_clusters/sai106/)| 61.5 | 139.48 | -51.02 | 0.16 | -3.54 | 3.7 | 33.9 |0.37 |
+    |[VVVX-Obasi 9](/_clusters/vvvxobasi9/)| 57.7 | 139.49 | -51.01 | 0.16 | -3.54 | 3.67 | 33.9 |0.13 |
     |[OC 0509](/_clusters/oc0509/)| 34.6 | 139.48 | -51.02 | 0.14 | -3.54 | 3.73 | 33.9 |0.0 |
 N_rows_shared: "3"
 ---

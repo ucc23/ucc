@@ -13,25 +13,25 @@ glon: 85.97558
 glat: -5.20785
 r50: 2.0
 plx: 0.0704
-UTI: "0.78"
-UTI_COLOR: "#ceeac8"
+UTI: "0.66"
+UTI_COLOR: "#e7f4cf"
 UTI_C_N_COL: "#a5cab9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 1.0
-UTI_C_dens: 1.0
+UTI_C_dens: 0.4
 UTI_C_C3: 0.75
 UTI_C_lit: 0.58
 UTI_C_dup: 1.0
 UTI_C_N_desc: Very rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 56</b> is a very rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Berkeley 56</b> is a very rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well below the mid-plane</a>, affected by moderate extinction. It is catalogued as an <u>extremely</u> massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the mass parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Extremely distant"
 badge_dist_url: "dist_min=10&dist_max=1000000.0"
 badge_av: "Moderate extinction"
@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.05 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.05 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>Always classified as an old open cluster; one of the most populated in the sample and the second most massive (~53000 M_sun). Janes 1994 gives 5.7 kpc and 5.67 Gyr; Carraro 2006 finds 12.1 kpc and 4 Gyr; Janes 2011 gives 15.2 kpc and 6 Gyr. OC02 and WEBDA adopt the Carraro values; MWSC gives 13.2 kpc and 2.5 Gyr; CG20 gives 9.5 kpc and 3 Gyr. There is a substantial spread across all studies. ASteCA gives 11.1 kpc and 5.2 Gyr, within the full range of published values.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1355, e_all=0.2622.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "4"
-dens_val: 9.1
+N_comments: "5"
+rc_val: 5.8
+dens_val: 2.0
 N_50_val: 624
 scix_url: Berkeley%2056
 posit_table: |
@@ -73,7 +75,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 319.413 | 41.848 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 319.391 | 41.835 | 0.047 | -1.901 | -1.831 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.7 | -5.73 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 319.425 | 41.827 | -2.36 | -7.63 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 319.425 | 41.827 | -- | -2.36 | -7.63 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 319.404 | 41.814 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 319.425 | 41.827 | -- | 0.09 | -8.11 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 319.41 | 41.817 | -- | -0.56 | -0.07 | -- |
@@ -86,9 +88,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 11.485 | 1.42 | 1.57 | 2951 | -0.340 | 19210 | 0.7 | 2 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 11.12 | 1.42 | 1.57 | 2732 | -0.340 | 19210 | 0.7 | 2 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.270<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 6483<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 9.05 | 2.06 | 1.57 | 1937 | -- | 6483<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 9.64 | 1.63 | -- | 5012 | -0.430 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 9.05 | 2.06 | 1.57 | 1936 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 2512 | -- | 18664 | -- | -- |

@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.1
+rc_val: 3.0
+dens_val: 0.2
 N_50_val: 11
 scix_url: Lynga%2013
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |252.214 | -43.423 | 0.237 | -2.805 | -4.713 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 252.222 | -43.428 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.87 | -4.09 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 252.221 | -43.433 | -2.62 | -3.76 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 252.221 | -43.433 | -- | -2.62 | -3.76 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 252.222 | -43.428 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 252.221 | -43.433 | -- | -1.71 | -2.25 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 252.232 | -43.428 | -- | -6.77 | -1.59 | -- |

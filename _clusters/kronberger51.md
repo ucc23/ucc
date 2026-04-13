@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 6.9
+dens_val: 0.01
 N_50_val: 12
 scix_url: Kronberger%2051
 posit_table: |

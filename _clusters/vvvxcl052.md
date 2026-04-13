@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.1
+rc_val: 6.9
+dens_val: 0.05
 N_50_val: 6
 scix_url: VVVX%20CL052
 posit_table: |

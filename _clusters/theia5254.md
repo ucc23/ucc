@@ -16,12 +16,12 @@ plx: 0.2963
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#f2bab5"
 UTI_C_N: 0.25
-UTI_C_dens: 0.07
+UTI_C_dens: 0.03
 UTI_C_C3: 0.62
 UTI_C_lit: 0.03
 UTI_C_dup: 0.12
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 0.3
+rc_val: 2.4
+dens_val: 0.2
 N_50_val: 25
 scix_url: Theia%205254
 posit_table: |
@@ -69,8 +70,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.93 | 0.805 | 0.95 | 118 | -0.070 | 118 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 118<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.85 | 0.68 | 0.95 | 157 | -0.070 | 118 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.85 | 0.68 | 0.95 | 157 | -- | 118<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.01 | 0.93 | -- | 79 | -0.070 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.85 | 0.68 | 0.95 | 157 | -- | -- | -- | -- |
 N_rows_pars: "3"
@@ -78,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1859](/_clusters/cwnu1859/)| 88.0 | 106.87 | -18.47 | 0.3 | -0.64 | 2.58 | 56.66 |0.22 |
+    |[CWNU 1859](/_clusters/cwnu1859/)| 88.0 | 106.87 | -18.47 | 0.3 | -0.64 | 2.58 | 56.66 |0.21 |
 N_rows_shared: "1"
 ---

@@ -31,7 +31,7 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Bochum 14</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.18 kpc) differs significantly from the median photometric distance (~0.70 kpc).</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Bochum 14</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.18 kpc) differs significantly from the median photometric distance (~0.83 kpc).</p><p class="note"><strong>Note:</strong> This object shares a very small percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "High extinction"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 17.5
+rc_val: 1.2
+dens_val: 11
 N_50_val: 216
 scix_url: Bochum%2014
 posit_table: |
@@ -67,7 +68,7 @@ posit_table: |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 270.517 | -23.698 | 0.311 | 0.251 | -1.063 | -- |
     |[Sánchez et al.](https://scixplorer.org/abs/2020MNRAS.495.2882S) | 2020 | 270.5 | -23.683 | -- | 0.351 | -1.167 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 270.495 | -23.684 | -- | -1.75 | -1.63 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 270.5 | -23.683 | -0.22 | -1.34 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 270.5 | -23.683 | -- | -0.22 | -1.34 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 270.498 | -23.705 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 270.5 | -23.683 | -- | 0.08 | -2.55 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 270.5 | -23.683 | -- | -- | -- | -- |
@@ -83,8 +84,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.7 | 4.76 | 3.13 | 10 | 0.470 | 1737 | -- | 0 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 3287<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.835 | 4.85 | 3.13 | 10 | 0.470 | 1737 | -- | 0 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.92 | 5.18 | 3.13 | 13 | -- | 3287<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.18 | 5.13 | -- | 6 | 0.470 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.92 | 5.18 | 3.13 | 13 | -- | -- | -- | -- |
     | [Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 3.08<sup>(1)</sup> | -- | -- | -- | -- | -- | -- | -- |
@@ -103,7 +104,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Ryu 604](/_clusters/ryu604/)| 1.9 | 270.37 | -23.84 | 0.32 | 0.18 | -1.08 | 20.3 |0.14 |
-    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.74 |
+    |[Ryu 604](/_clusters/ryu604/)| 1.9 | 270.37 | -23.84 | 0.32 | 0.18 | -1.08 | 20.3 |0.08 |
+    |[Ruprecht 139](/_clusters/ruprecht139/)| 1.4 | 270.23 | -23.53 | 0.32 | -0.01 | -1.41 | 1.35 |0.62 |
 N_rows_shared: "2"
 ---

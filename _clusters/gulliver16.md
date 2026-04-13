@@ -13,25 +13,25 @@ glon: 128.0728
 glat: -1.69939
 r50: 2.5
 plx: 0.2148
-UTI: "0.41"
-UTI_COLOR: "#fef5d7"
+UTI: "0.33"
+UTI_COLOR: "#fee7cc"
 UTI_C_N_COL: "#d4ecc9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef9de"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#d0eac9"
 UTI_C_N: 0.75
-UTI_C_dens: 1.0
+UTI_C_dens: 0.45
 UTI_C_C3: 0.75
 UTI_C_lit: 0.1
 UTI_C_dup: 0.77
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Gulliver 16</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Gulliver 16</b> is a rich, loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature, with no articles listed in the last 6 years. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4026, e_all=0.1638.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg39' along with NGC 581.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
-dens_val: 8.7
+N_comments: "2"
+rc_val: 1.9
+dens_val: 2.3
 N_50_val: 100
 scix_url: Gulliver%2016
 posit_table: |
@@ -79,10 +81,10 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.13 |
+    |[Schoenball 1](/_clusters/schoenball1/)| 97.0 | 23.42 | 60.75 | 0.23 | -1.29 | -0.65 | -37.74 |0.1 |
     |[NGC 581](/_clusters/ngc581/)| 23.0 | 23.34 | 60.66 | 0.36 | -1.4 | -0.58 | -38.14 |0.96 |
     |[CWWDL 6155](/_clusters/cwwdl6155/)| 6.0 | 23.23 | 60.63 | 0.34 | -1.26 | -0.61 | -- |0.05 |
-    |[UBC 186](/_clusters/ubc186/)| 3.0 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.12 |
-    |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 1.0 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.09 |
+    |[UBC 186](/_clusters/ubc186/)| 3.0 | 23.47 | 60.66 | 0.34 | -1.34 | -0.51 | -- |0.1 |
+    |[Teutsch J0135.2+6041](/_clusters/teutschj01352p6041/)| 1.0 | 23.44 | 60.67 | 0.36 | -1.44 | -0.61 | -38.14 |0.05 |
 N_rows_shared: "5"
 ---

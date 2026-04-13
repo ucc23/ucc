@@ -16,12 +16,12 @@ plx: 0.4087
 UTI: "0.03"
 UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f6c2b8"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.04
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.16
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 0.5
+rc_val: 2.4
+dens_val: 0.2
 N_50_val: 20
 scix_url: Pickard%2087
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 192](/_clusters/ubc192/)| 84.0 | 37.05 | 57.16 | 0.4 | -0.43 | -1.15 | -27.22 |0.46 |
+    |[UBC 192](/_clusters/ubc192/)| 84.0 | 37.05 | 57.16 | 0.4 | -0.43 | -1.15 | -27.22 |0.37 |
     |[UBC 606](/_clusters/ubc606/)| 4.0 | 37.62 | 57.27 | 0.41 | -0.28 | -1.13 | -- |0.1 |
 N_rows_shared: "2"
 ---

@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 22.0
+rc_val: 1.2
+dens_val: 7.1
 N_50_val: 103
 scix_url: CWWDL%201589
 posit_table: |
@@ -75,6 +76,6 @@ shared_table: |
     |[FoF 273](/_clusters/fof273/)| 98.1 | 245.72 | -50.18 | 0.39 | -2.35 | -4.12 | -72.39 |0.61 |
     |[CWWDL 13867](/_clusters/cwwdl13867/)| 36.9 | 245.73 | -50.18 | 0.41 | -2.41 | -4.1 | -72.39 |0.04 |
     |[BDB2003 G333.60-00.21](/_clusters/bdb2003g333600021/)| 1.9 | 245.6 | -50.12 | 0.35 | -2.74 | -4.01 | -29.65 |0.02 |
-    |[G333.6-0.2](/_clusters/g333602/)| 1.0 | 245.61 | -50.11 | 0.36 | -2.73 | -4.01 | -14.28 |0.04 |
+    |[G333.6-0.2](/_clusters/g333602/)| 1.0 | 245.61 | -50.11 | 0.36 | -2.73 | -4.01 | -14.28 |0.03 |
 N_rows_shared: "5"
 ---

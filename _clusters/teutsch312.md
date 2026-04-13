@@ -13,15 +13,15 @@ glon: 74.6817
 glat: -11.00084
 r50: 14.3
 plx: 1.1734
-UTI: "0.35"
-UTI_COLOR: "#feebce"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#fdddc5"
-UTI_C_dens_COL: "#fef9de"
+UTI_C_dens_COL: "#fef4d6"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.28
-UTI_C_dens: 0.45
+UTI_C_dens: 0.4
 UTI_C_C3: 0.75
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 2.2
+rc_val: 1.2
+dens_val: 2.0
 N_50_val: 28
 scix_url: Teutsch%20312
 posit_table: |
@@ -73,10 +74,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.84 | 0.305 | 0.95 | 29 | 0.008 | 168 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.835 | 0.19 | 0.95 | 29 | 0.008 | 168 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | 0.046<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.84 | -- | -- | 29 | -- | 249 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 86<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.83 | 0.19 | 0.95 | 29 | -- | 86<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.92 | 0.42 | -- | 19 | -0.030 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.83 | 0.19 | 0.95 | 29 | -- | -- | -- | -- |
 N_rows_pars: "5"
@@ -84,6 +85,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UPK 108](/_clusters/upk108/)| 92.9 | 315.46 | 29.74 | 1.18 | 1.03 | -4.79 | -11.95 |0.12 |
+    |[UPK 108](/_clusters/upk108/)| 92.9 | 315.46 | 29.74 | 1.18 | 1.03 | -4.79 | -11.95 |0.1 |
 N_rows_shared: "1"
 ---

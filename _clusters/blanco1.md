@@ -52,13 +52,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2021ApJ...912..165R' target='_blank'>Richer et al. (2021)</a></u><br>The expected number of WDs is 3.2, 0 WD candidates found, and 0 WD candidates found in the wide search.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.8185, e_all=0.8059.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however, parameters log(t)=7.975, Av=0.031, [Fe/H]=0.00 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108). Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite star Zeta Sculptoris=HD 224990=DR2 2320885329010329216 as a possible blue straggler however, according to Cantat-Gaudin et al. (2018A&A...618A..93C, Cat. J/A+A18/A93) it is not a member.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>Zeta Sculptoris=HD 224990. The identification chart is in the ubvy photometry (1988A&AS...76..101W), where the star Zeta Scl is cited as a blue straggler and is given the following: (b-y)=-0.064, (u-b)= 0.518, m1=0.101, c1=0.441, and spectrum B6III-B5V.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "8"
-dens_val: 6.4
+N_comments: "9"
+rc_val: 2.5
+dens_val: 14
 N_50_val: 739
 scix_url: Blanco%201
 posit_table: |
@@ -91,7 +93,7 @@ posit_table: |
     |[Yen et al.](https://scixplorer.org/abs/2018A%26A...615A..12Y) | 2018 | 1.056 | -29.928 | 4.11 | 18.65 | 2.63 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 0.885 | -30.0 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 1.035 | -29.833 | -- | 20.17 | 3.0 | 5.5 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 1.029 | -29.833 | 18.92 | 3.6 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 1.029 | -29.833 | -- | 18.92 | 3.6 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 0.885 | -30.0 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 0.878 | -30.003 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 1.029 | -29.833 | -- | -- | -- | -- |
@@ -114,12 +116,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.245 | 0.03 | 0.4 | 88 | 0.030 | 2985 | 0.23 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.24 | 0.03 | 0.4 | 91 | 0.030 | 2985 | 0.23 | 0 |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 104 | -- | -- | -- | -- |
     | [Malhotra et al.](https://scixplorer.org/abs/2026A%26A...706A..62M) | 2026 | 0.24 | 0.02 | -- | 279 | 0.040 | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.25 | 0.16 | -- | 85 | 0.055 | -- | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.24 | 0.01 | -- | 79 | -0.015 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 465<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.24 | 0.06 | 0.40 | 173 | -- | 465<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.24 | 0.36 | -- | 83 | 0.050 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.24 | 0.06 | 0.40 | 173 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.23 | 0.01 | -- | 100 | -0.024 | 338<sup>(1)</sup> | 0.23 | -- |

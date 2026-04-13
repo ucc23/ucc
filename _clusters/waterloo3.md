@@ -13,15 +13,15 @@ glon: 242.55681
 glat: 1.44638
 r50: 3.0
 plx: 0.1933
-UTI: "0.45"
-UTI_COLOR: "#fef9de"
+UTI: "0.42"
+UTI_COLOR: "#fef6d9"
 UTI_C_N_COL: "#fefbe2"
-UTI_C_dens_COL: "#fefae1"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.47
-UTI_C_dens: 0.46
+UTI_C_dens: 0.28
 UTI_C_C3: 0.75
 UTI_C_lit: 0.29
 UTI_C_dup: 1.0
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 2.3
+rc_val: 1.6
+dens_val: 1.4
 N_50_val: 47
 scix_url: Waterloo%203
 posit_table: |
@@ -77,8 +78,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.11 | 1.07 | 1.35 | 312 | -0.082 | 290 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 356<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.11 | 1.07 | 1.35 | 309 | -0.082 | 290 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 5.11 | 0.43 | 1.35 | 282 | -- | 356<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.61 | 0.76 | -- | 309 | -0.200 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 5.11 | 0.43 | 1.35 | 282 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 316 | -- | 224 | -- | -- |
@@ -92,6 +93,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 465](/_clusters/ubc465/)| 59.6 | 118.84 | -25.42 | 0.19 | -2.4 | 2.68 | -- |0.15 |
+    |[UBC 465](/_clusters/ubc465/)| 59.6 | 118.84 | -25.42 | 0.19 | -2.4 | 2.68 | -- |0.14 |
 N_rows_shared: "1"
 ---

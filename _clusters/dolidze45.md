@@ -16,12 +16,12 @@ plx: 0.1359
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e2a9b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.02
+UTI_C_dens: 0.01
 UTI_C_C3: 0.38
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.1
+rc_val: 7.5
+dens_val: 0.04
 N_50_val: 17
 scix_url: Dolidze%2045
 posit_table: |
@@ -60,7 +61,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |317.707 | 37.565 | 0.136 | -2.213 | -3.619 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.06 | -4.71 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 317.7 | 37.534 | -- | -0.684 | -0.667 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 317.692 | 37.574 | -0.15 | -3.31 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 317.692 | 37.574 | -- | -0.15 | -3.31 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 317.692 | 37.574 | -- | -0.12 | -3.08 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 317.692 | 37.574 | -- | -0.12 | -3.08 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 317.244 | 37.603 | -- | -- | -- | -- 

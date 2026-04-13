@@ -31,17 +31,17 @@ UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely unique
 summary: |
-    <b>Teutsch 108</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a massive cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
-badge_dist: ""
-badge_dist_url: ""
-badge_av: ""
-badge_av_url: ""
+    <b>Teutsch 108</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a massive, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">very likely a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+badge_dist: "Distant"
+badge_dist_url: "dist_min=3&dist_max=5"
+badge_av: "High extinction"
+badge_av_url: "av_min=3&av_max=5"
 badge_mass: "Massive"
 badge_mass_url: "mass_min=1000&mass_max=5000"
 badge_feh: ""
 badge_feh_url: ""
-badge_age: ""
-badge_age_url: ""
+badge_age: "Young"
+badge_age_url: "age_min=20&age_max=100"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 35.4
+rc_val: 1.8
+dens_val: 5.9
 N_50_val: 129
 scix_url: Teutsch%20108
 posit_table: |
@@ -67,14 +68,14 @@ carousel: UCC
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | -- | -- | -- | -- | -- | 1773 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1773<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.0 | 3.08 | 2.58 | 26 | -- | 1773 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.00 | 3.08 | 2.58 | 26 | -- | 1773<sup>(1)</sup> | -- | -- |
 N_rows_pars: "1"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Gulliver 46](/_clusters/gulliver46/)| 98.4 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.15 |0.11 |
-    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.32 |
+    |[Loden 624](/_clusters/loden624/)| 7.0 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.29 |
 N_rows_shared: "2"
 ---

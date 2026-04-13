@@ -46,11 +46,13 @@ badge_bss: "Contains BSS"
 badge_bss_url: "bss_min=0&bss_max=1000000.0"
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1824, e_all=0.5175.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: ""
-dens_val: 24.0
+N_comments: "1"
+rc_val: 1.6
+dens_val: 6.4
 N_50_val: 172
 scix_url: Berkeley%205
 posit_table: |

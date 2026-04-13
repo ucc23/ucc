@@ -13,15 +13,15 @@ glon: 254.00803
 glat: 6.95662
 r50: 8.4
 plx: 0.3201
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.16"
+UTI_COLOR: "#f6c2b8"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#edb2b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#fdd9c3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.08
+UTI_C_dens: 0.01
 UTI_C_C3: 0.25
 UTI_C_lit: 0.26
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.4
+rc_val: 8.0
+dens_val: 0.07
 N_50_val: 22
 scix_url: Collinder%20196
 posit_table: |

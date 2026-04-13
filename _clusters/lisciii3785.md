@@ -13,15 +13,15 @@ glon: 48.7377
 glat: 20.47084
 r50: 63.8
 plx: 3.4667
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#eaf6d1"
 UTI_C_N: 0.25
-UTI_C_dens: 0.17
+UTI_C_dens: 0.07
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.64
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 0.9
+rc_val: 1.6
+dens_val: 0.4
 N_50_val: 25
 scix_url: LISC-III%203785
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 11](/_clusters/ocsn11/)| 36.0 | 270.09 | 21.47 | 3.39 | -1.34 | -7.63 | -18.06 |0.19 |
+    |[OCSN 11](/_clusters/ocsn11/)| 36.0 | 270.09 | 21.47 | 3.39 | -1.34 | -7.63 | -18.06 |0.16 |
 N_rows_shared: "1"
 ---

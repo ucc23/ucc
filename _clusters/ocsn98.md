@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 22.9
+rc_val: 0.7
+dens_val: 18
 N_50_val: 115
 scix_url: OCSN%2098
 posit_table: |
@@ -84,6 +85,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OCSN 96](/_clusters/ocsn96/)| 1.7 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.62 |
+    |[OCSN 96](/_clusters/ocsn96/)| 1.7 | 240.86 | -22.58 | 7.02 | -11.74 | -23.9 | -7.43 |0.56 |
 N_rows_shared: "1"
 ---

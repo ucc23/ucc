@@ -13,15 +13,15 @@ glon: 209.36858
 glat: 0.36631
 r50: 13.1
 plx: 0.6746
-UTI: "0.05"
-UTI_COLOR: "#e7adb3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#fee9cd"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.34
-UTI_C_dens: 0.21
+UTI_C_dens: 0.09
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 0.24
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 1.1
+rc_val: 2.3
+dens_val: 0.4
 N_50_val: 34
 scix_url: Theia%201734
 posit_table: |
@@ -70,9 +71,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.405 | 1.0 | 1.54 | 53 | -0.197 | 114 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.39 | 0.86 | 1.54 | 67 | -0.197 | 114 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.214<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 114<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.39 | 0.86 | 1.54 | 67 | -- | 114<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.42 | 1.14 | -- | 39 | -0.180 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.39 | 0.86 | 1.54 | 67 | -- | -- | -- | -- |
 N_rows_pars: "4"
@@ -80,6 +81,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0346](/_clusters/oc0346/)| 76.5 | 101.61 | 3.33 | 0.68 | -1.77 | 0.88 | -- |0.19 |
+    |[OC 0346](/_clusters/oc0346/)| 76.5 | 101.61 | 3.33 | 0.68 | -1.77 | 0.88 | -- |0.13 |
 N_rows_shared: "1"
 ---

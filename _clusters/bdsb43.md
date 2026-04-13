@@ -13,15 +13,15 @@ glon: 111.19436
 glat: -0.73933
 r50: 4.8
 plx: 0.2665
-UTI: "0.05"
-UTI_COLOR: "#e7adb3"
+UTI: "0.04"
+UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f2bab5"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e3f3cd"
 UTI_C_N: 0.0
-UTI_C_dens: 0.12
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.68
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.6
+rc_val: 2.7
+dens_val: 0.2
 N_50_val: 17
 scix_url: BDSB%2043
 posit_table: |
@@ -70,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0417](/_clusters/fsr0417/)| 32.0 | 348.56 | 59.85 | 0.28 | -3.02 | -1.66 | -66.38 |0.38 |
+    |[FSR 0417](/_clusters/fsr0417/)| 32.0 | 348.56 | 59.85 | 0.28 | -3.02 | -1.66 | -66.38 |0.31 |
 N_rows_shared: "1"
 ---

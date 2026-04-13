@@ -13,15 +13,15 @@ glon: 173.09033
 glat: 0.04998
 r50: 5.0
 plx: 0.4618
-UTI: "0.58"
-UTI_COLOR: "#f4fada"
+UTI: "0.57"
+UTI_COLOR: "#f5fbdc"
 UTI_C_N_COL: "#fef7db"
-UTI_C_dens_COL: "#b7dfc3"
+UTI_C_dens_COL: "#c9e7c8"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9f5d0"
 UTI_C_dup_COL: "#a7cebb"
 UTI_C_N: 0.43
-UTI_C_dens: 0.87
+UTI_C_dens: 0.8
 UTI_C_C3: 0.38
 UTI_C_lit: 0.65
 UTI_C_dup: 0.98
@@ -47,12 +47,14 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: intermediate fit. Isochrone match: good fit.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1583, e_all=0.0592.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg17' along with COIN-Gaia 40, Gulliver 53, NGC 1893 and Stock 8.</p>
 
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "2"
-dens_val: 4.3
+N_comments: "3"
+rc_val: 0.9
+dens_val: 4.0
 N_50_val: 43
 scix_url: Kronberger%201
 posit_table: |
@@ -69,7 +71,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 82.089 | 34.777 | 0.443 | -0.05 | -2.199 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 82.087 | 34.785 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 82.08 | 34.775 | -- | -1.21 | -4.13 | 13.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 82.088 | 34.775 | -2.11 | -2.13 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 82.088 | 34.775 | -- | -2.11 | -2.13 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 82.078 | 34.786 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 82.087 | 34.775 | -- | -1.21 | -4.13 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 82.087 | 34.785 | -- | -0.3 | -3.67 | 13.0 |
@@ -111,7 +113,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.43 |
-    |[Stock 8](/_clusters/stock8/)| 2.3 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.91 |
+    |[FSR 0777](/_clusters/fsr0777/)| 32.6 | 81.9 | 34.75 | 0.47 | -0.01 | -2.29 | -- |0.3 |
+    |[Stock 8](/_clusters/stock8/)| 2.3 | 81.96 | 34.43 | 0.46 | 0.08 | -2.34 | -59.37 |0.83 |
 N_rows_shared: "2"
 ---

@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 6.5
+rc_val: 0.8
+dens_val: 5.3
 N_50_val: 32
 scix_url: HXWHB%208
 posit_table: |
@@ -81,8 +82,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 8](/_clusters/gulliver8/)| 100.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.18 |
-    |[Teutsch 89](/_clusters/teutsch89/)| 100.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.46 |
-    |[HXWHB 5](/_clusters/hxwhb5/)| 31.2 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.05 |
+    |[Gulliver 8](/_clusters/gulliver8/)| 100.0 | 80.56 | 33.79 | 0.9 | -0.3 | -3.07 | 6.27 |0.16 |
+    |[Teutsch 89](/_clusters/teutsch89/)| 100.0 | 80.56 | 33.77 | 0.9 | -0.35 | -3.12 | -6.34 |0.4 |
+    |[HXWHB 5](/_clusters/hxwhb5/)| 31.2 | 80.51 | 33.56 | 0.86 | -0.25 | -3.12 | 51.54 |0.04 |
 N_rows_shared: "3"
 ---

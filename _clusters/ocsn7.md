@@ -13,15 +13,15 @@ glon: 26.16282
 glat: -2.87309
 r50: 38.0
 plx: 2.2952
-UTI: "0.03"
-UTI_COLOR: "#e4aab3"
+UTI: "0.02"
+UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fee5ca"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.03
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.32
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.9
+rc_val: 5.7
+dens_val: 0.2
 N_50_val: 21
 scix_url: OCSN%207
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Theia 711](/_clusters/theia711/)| 68.0 | 282.21 | -7.56 | 2.3 | 1.13 | -11.4 | -10.75 |0.17 |
+    |[Theia 711](/_clusters/theia711/)| 68.0 | 282.21 | -7.56 | 2.3 | 1.13 | -11.4 | -10.75 |0.13 |
 N_rows_shared: "1"
 ---

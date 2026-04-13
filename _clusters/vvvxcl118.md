@@ -13,15 +13,15 @@ glon: 19.29892
 glat: -0.64072
 r50: 4.5
 plx: 0.3461
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.22
+UTI_C_dens: 0.07
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 1.1
+rc_val: 2.5
+dens_val: 0.4
 N_50_val: 16
 scix_url: VVVX%20CL118
 posit_table: |

@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 98.6
+rc_val: 0.7
+dens_val: 19
 N_50_val: 87
 scix_url: Cep%20OB4
 posit_table: |

@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.1
+rc_val: 3.0
+dens_val: 0.03
 N_50_val: 10
 scix_url: Teutsch%2069
 posit_table: |
@@ -70,6 +71,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3313](/_clusters/cwnu3313/)| 28.0 | 151.39 | -61.04 | 0.06 | -3.63 | 2.34 | -- |0.28 |
+    |[CWNU 3313](/_clusters/cwnu3313/)| 28.0 | 151.39 | -61.04 | 0.06 | -3.63 | 2.34 | -- |0.19 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 352.50585
 glat: 2.65648
 r50: 5.8
 plx: 0.912
-UTI: "0.57"
-UTI_COLOR: "#f5fbdc"
+UTI: "0.55"
+UTI_COLOR: "#f8fcdf"
 UTI_C_N_COL: "#f5fbdc"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#abd4be"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.57
-UTI_C_dens: 1.0
+UTI_C_dens: 0.94
 UTI_C_C3: 1.0
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "5"
-dens_val: 19.0
+rc_val: 1.4
+dens_val: 4.7
 N_50_val: 65
 scix_url: UFMG%2065
 posit_table: |
@@ -74,9 +75,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.055 | 1.11 | 0.91 | 9 | 0.060 | 117 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.01 | 1.11 | 0.91 | 8 | 0.060 | 117 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.95 | 0.35 | -- | 21 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 117<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.01 | 1.11 | 0.91 | 3 | -- | 117<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.19 | 1.30 | -- | 9 | 0.060 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.01 | 1.11 | 0.91 | 3 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 1.10 | -- | 6 | -- | -- | -- | -- |
@@ -86,6 +87,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[OC 0687](/_clusters/oc0687/)| 44.6 | 258.98 | -33.77 | 0.93 | 1.51 | -1.42 | 11.28 |0.07 |
+    |[OC 0687](/_clusters/oc0687/)| 44.6 | 258.98 | -33.77 | 0.93 | 1.51 | -1.42 | 11.28 |0.06 |
 N_rows_shared: "1"
 ---

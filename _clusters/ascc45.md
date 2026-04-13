@@ -13,25 +13,25 @@ glon: 253.7091
 glat: -0.24066
 r50: 4.7
 plx: 0.2538
-UTI: "0.53"
-UTI_COLOR: "#fbfde3"
+UTI: "0.39"
+UTI_COLOR: "#fef2d4"
 UTI_C_N_COL: "#d3ecc9"
-UTI_C_dens_COL: "#c4e5c7"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#fddfc6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.76
-UTI_C_dens: 0.82
+UTI_C_dens: 0.14
 UTI_C_C3: 0.5
 UTI_C_lit: 0.29
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>ASCC 45</b> is a rich, dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~3.94 kpc) differs significantly from the median photometric distance (~3.00 kpc).</p><p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>ASCC 45</b> is a rich, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with 2 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 4.1
+rc_val: 5.1
+dens_val: 0.7
 N_50_val: 119
 scix_url: ASCC%2045
 posit_table: |
@@ -64,7 +65,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 123.913 | -35.678 | 0.248 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 124.145 | -35.655 | 0.246 | -2.868 | 3.188 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 123.958 | -35.647 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 123.958 | -35.65 | -3.08 | -1.55 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 123.958 | -35.65 | -- | -3.08 | -1.55 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 123.958 | -35.65 | -- | -2.84 | -1.34 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 123.958 | -35.65 | -- | -- | -- | -- |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 123.958 | -35.647 | -- | -- | -- | -- |
@@ -77,8 +78,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 1.89 | 2.28 | 13 | 0.470 | 4166 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 205<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.0 | 1.935 | 2.28 | 13 | 0.470 | 4166 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 3.56 | 2.06 | 2.28 | 29 | -- | 205<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.60 | 1.98 | -- | 19 | 0.470 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 3.56 | 2.06 | 2.28 | 29 | -- | -- | -- | -- |
     | [Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 3.00 | -- | -- | 13 | -- | 8128 | -- | -- |
@@ -91,6 +92,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3997](/_clusters/cwnu3997/)| 44.5 | 124.13 | -35.65 | 0.26 | -2.87 | 3.34 | -- |0.05 |
-    |[CWNU 3273](/_clusters/cwnu3273/)| 2.5 | 123.7 | -35.68 | 0.26 | -2.96 | 3.19 | -- |0.12 |
+    |[CWNU 3273](/_clusters/cwnu3273/)| 2.5 | 123.7 | -35.68 | 0.26 | -2.96 | 3.19 | -- |0.11 |
 N_rows_shared: "2"
 ---

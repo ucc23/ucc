@@ -13,15 +13,15 @@ glon: 176.04595
 glat: 3.54792
 r50: 25.4
 plx: 1.361
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
-UTI_C_dens: 0.22
+UTI_C_dens: 0.11
 UTI_C_C3: 0.38
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "5"
-dens_val: 1.1
+rc_val: 1.6
+dens_val: 0.5
 N_50_val: 32
 scix_url: Theia%20874
 posit_table: |
@@ -74,10 +75,10 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.71 | 0.61 | 0.67 | 320 | -0.007 | 42 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.7 | 0.545 | 0.67 | 320 | -0.007 | 42 | -- | -- |
     | [Yan et al.](https://scixplorer.org/abs/2026ApJ...999..167Y) | 2026 | -- | -- | -- | 319 | -- | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.095<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 42<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.69 | 0.48 | 0.67 | 320 | -- | 42<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.71 | 0.69 | -- | 234 | 0.080 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.69 | 0.48 | 0.67 | 320 | -- | -- | -- | -- |
     | [Kounkel & Covey](https://scixplorer.org/abs/2019AJ....158..122K) | 2019 | 0.77 | 0.61 | -- | 442 | -- | -- | -- | -- |

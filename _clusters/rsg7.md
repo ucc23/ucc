@@ -13,25 +13,25 @@ glon: 108.76078
 glat: -0.18712
 r50: 30.1
 plx: 2.3497
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.26"
+UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#fef2d4"
 UTI_C_dup_COL: "#fef9de"
 UTI_C_N: 0.77
-UTI_C_dens: 1.0
+UTI_C_dens: 0.34
 UTI_C_C3: 1.0
 UTI_C_lit: 0.39
 UTI_C_dup: 0.45
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Possibly duplicate
 summary: |
-    <b>RSG7</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>RSG7</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">possibly a duplicate</a> object, which shares a significant percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -47,12 +47,14 @@ badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Silver sample.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.343, e_all=0.1422.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg53' along with RSG 8.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "2"
-dens_val: 11.4
+N_comments: "3"
+rc_val: 4.2
+dens_val: 1.7
 N_50_val: 158
 scix_url: RSG7
 posit_table: |
@@ -98,9 +100,9 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 7429](/_clusters/ngc7429/)| 55.1 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.77 |
+    |[NGC 7429](/_clusters/ngc7429/)| 55.1 | 344.03 | 59.88 | 2.36 | 4.81 | -2.19 | -12.68 |0.66 |
     |[CWWDL 14637](/_clusters/cwwdl14637/)| 31.6 | 343.95 | 59.81 | 2.37 | 4.78 | -2.24 | -12.62 |0.0 |
-    |[CWWDL 14638](/_clusters/cwwdl14638/)| 26.6 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.1 |
-    |[CWWDL 14622](/_clusters/cwwdl14622/)| 4.4 | 345.68 | 58.22 | 2.25 | 5.43 | -1.31 | -8.93 |0.35 |
+    |[CWWDL 14638](/_clusters/cwwdl14638/)| 26.6 | 344.12 | 59.28 | 2.29 | 5.37 | -0.9 | -14.39 |0.07 |
+    |[CWWDL 14622](/_clusters/cwwdl14622/)| 4.4 | 345.68 | 58.22 | 2.25 | 5.43 | -1.31 | -8.93 |0.26 |
 N_rows_shared: "4"
 ---

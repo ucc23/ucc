@@ -16,12 +16,12 @@ plx: 0.153
 UTI: "0.44"
 UTI_COLOR: "#fef8dd"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.25
-UTI_C_dens: 1.0
+UTI_C_dens: 0.97
 UTI_C_C3: 0.25
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
@@ -46,12 +46,14 @@ badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
 comments: |
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2739, e_all=0.1829.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>List of clusters and alike reported by B. Alessi.</p>
 
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "1"
-dens_val: 76.8
+N_comments: "2"
+rc_val: 1.1
+dens_val: 4.9
 N_50_val: 25
 scix_url: Alessi%2015
 posit_table: |

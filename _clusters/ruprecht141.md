@@ -16,12 +16,12 @@ plx: 0.325
 UTI: "0.26"
 UTI_COLOR: "#fdd9c3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#fef6d9"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.07
 UTI_C_C3: 0.38
 UTI_C_lit: 0.42
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.5
+rc_val: 1.7
+dens_val: 0.3
 N_50_val: 13
 scix_url: Ruprecht%20141
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 277.821 | -12.327 | -- | -- | -- | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 277.845 | -12.298 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.27 | -1.76 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 277.825 | -12.317 | -1.04 | -1.0 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 277.825 | -12.317 | -- | -1.04 | -1.0 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 277.821 | -12.327 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 277.825 | -12.317 | -- | -1.13 | -0.76 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 277.828 | -12.326 | -- | -1.79 | -1.27 | 30.7 |
@@ -94,6 +95,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Gulliver 41](/_clusters/gulliver41/)| 8.0 | 277.72 | -12.43 | 0.18 | -1.7 | -4.77 | 58.1 |0.51 |
+    |[Gulliver 41](/_clusters/gulliver41/)| 8.0 | 277.72 | -12.43 | 0.18 | -1.7 | -4.77 | 58.1 |0.44 |
 N_rows_shared: "1"
 ---

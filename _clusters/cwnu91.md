@@ -13,25 +13,25 @@ glon: 232.71549
 glat: -8.32082
 r50: 21.9
 plx: 1.216
-UTI: "0.10"
-UTI_COLOR: "#f0b6b3"
+UTI: "0.08"
+UTI_COLOR: "#edb2b3"
 UTI_C_N_COL: "#cce9c8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fef7db"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f8c6ba"
 UTI_C_N: 0.79
-UTI_C_dens: 1.0
+UTI_C_dens: 0.43
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.18
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Likely duplicate
 summary: |
-    <b>CWNU 91</b> is a rich, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CWNU 91</b> is a rich, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Close"
 badge_dist_url: "dist_min=0.5&dist_max=1"
 badge_av: "Low extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 7.7
+rc_val: 2.6
+dens_val: 2.1
 N_50_val: 210
 scix_url: CWNU%2091
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[LISC 3392](/_clusters/lisc3392/)| 82.4 | 104.35 | -21.34 | 1.22 | -3.46 | 3.25 | 36.61 |0.56 |
+    |[LISC 3392](/_clusters/lisc3392/)| 82.4 | 104.35 | -21.34 | 1.22 | -3.46 | 3.25 | 36.61 |0.43 |
     |[OC 0395](/_clusters/oc0395/)| 49.5 | 104.35 | -21.28 | 1.21 | -3.49 | 3.26 | 36.28 |0.0 |
     |[CWWDL 14305](/_clusters/cwwdl14305/)| 21.4 | 104.37 | -21.34 | 1.22 | -3.51 | 3.28 | 34.91 |0.0 |
 N_rows_shared: "3"

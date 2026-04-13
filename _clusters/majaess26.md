@@ -13,15 +13,15 @@ glon: 128.78001
 glat: 2.02424
 r50: 4.9
 plx: 0.2219
-UTI: "0.16"
-UTI_COLOR: "#f6c2b8"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#fefde6"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#dfa5b3"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.49
-UTI_C_dens: 0.24
+UTI_C_dens: 0.05
 UTI_C_C3: 0.0
 UTI_C_lit: 0.03
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: purple; font-weight: bold;">D</span>
 N_comments: ""
-dens_val: 1.2
+rc_val: 5.2
+dens_val: 0.2
 N_50_val: 49
 scix_url: Majaess%2026
 posit_table: |
@@ -58,7 +59,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |26.43 | 64.279 | 0.222 | 0.965 | -0.24 | -30.396 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | 0.3 | -0.82 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 26.417 | 64.269 | 0.51 | 0.2 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 26.417 | 64.269 | -- | 0.51 | 0.2 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 26.417 | 64.269 | -- | 1.19 | -0.14 | -- 
 N_rows_pos: "3"
 cds_radec: 26.43013,+64.27856

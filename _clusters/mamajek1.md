@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 7.7
+rc_val: 0.9
+dens_val: 6.6
 N_50_val: 45
 scix_url: Mamajek%201
 posit_table: |
@@ -73,7 +74,7 @@ posit_table: |
     |[Soubiran et al.](https://scixplorer.org/abs/2018A%26A...619A.155S) | 2018 | 130.637 | -78.963 | -- | -- | -- | 16.69 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 130.484 | -79.008 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 130.637 | -78.963 | 10.13 | -29.834 | 26.99 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 130.525 | -79.027 | -28.94 | 26.12 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 130.525 | -79.027 | -- | -28.94 | 26.12 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 130.47 | -79.045 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 130.525 | -79.027 | -- | -4.27 | 4.52 | -- |
     |[Gozha et al.](https://scixplorer.org/abs/2012AstL...38..506G) | 2012 | 130.525 | -79.027 | -- | -- | -- | -- |

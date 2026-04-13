@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2025A%26A...693A.305A' target='_blank'>Almeida et al. (2025)</a></u><br>Mass determination: good fit. Isochrone match: good fit. Silver sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.19 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1339, e_all=0.2133.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
-dens_val: 36.0
+N_comments: "5"
+rc_val: 1.9
+dens_val: 6.1
 N_50_val: 152
 scix_url: Gulliver%2046
 posit_table: |
@@ -93,6 +95,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[Teutsch 108](/_clusters/teutsch108/)| 83.6 | 186.23 | -61.97 | 0.21 | -6.94 | 0.15 | -36.32 |0.51 |
-    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.32 |
+    |[Loden 624](/_clusters/loden624/)| 7.9 | 186.55 | -61.87 | 0.25 | -6.79 | 0.02 | -27.75 |0.29 |
 N_rows_shared: "2"
 ---

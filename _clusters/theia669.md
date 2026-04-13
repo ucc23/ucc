@@ -53,6 +53,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
+rc_val: 1.3
 dens_val: 1.0
 N_50_val: 19
 scix_url: Theia%20669

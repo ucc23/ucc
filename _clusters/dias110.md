@@ -13,15 +13,15 @@ glon: 242.4264
 glat: -0.687
 r50: 5.3
 plx: 0.2158
-UTI: "0.04"
-UTI_COLOR: "#e6acb3"
+UTI: "0.03"
+UTI_COLOR: "#e4aab3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.3
+rc_val: 3.3
+dens_val: 0.09
 N_50_val: 17
 scix_url: Dias%20110
 posit_table: |

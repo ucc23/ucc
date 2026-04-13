@@ -13,15 +13,15 @@ glon: 300.97312
 glat: 1.16554
 r50: 4.5
 plx: 0.2326
-UTI: "0.19"
-UTI_COLOR: "#f9c9bc"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f1b8b4"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.11
+UTI_C_dens: 0.05
 UTI_C_C3: 0.62
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.6
+rc_val: 2.0
+dens_val: 0.2
 N_50_val: 18
 scix_url: DBSB%2077
 posit_table: |

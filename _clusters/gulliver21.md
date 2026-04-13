@@ -16,12 +16,12 @@ plx: 1.5342
 UTI: "0.79"
 UTI_COLOR: "#cce9c8"
 UTI_C_N_COL: "#c7e6c7"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a9d1bc"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f4fada"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.81
-UTI_C_dens: 1.0
+UTI_C_dens: 0.96
 UTI_C_C3: 1.0
 UTI_C_lit: 0.58
 UTI_C_dup: 1.0
@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.2888, e_all=0.3671.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was not include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl), parameters log(t)=8.536, E(b-v)=0.054 and Z=0.038 are from Monteiro & Dias (2019MNRAS.487.2385M).</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 13.6
+N_comments: "8"
+rc_val: 1.9
+dens_val: 4.8
 N_50_val: 260
 scix_url: Gulliver%2021
 posit_table: |
@@ -94,7 +96,7 @@ fpars_table: |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.68 | 0.01 | -- | 356 | 0.344 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 0.65 | 0.14 | -- | 405 | -- | 156 | -- | -- |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.67 | 0.13 | -- | 280 | 0.068 | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 345<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.61 | 0.11 | 0.39 | 282 | -- | 345<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.66 | 0.40 | -- | 151 | 0.330 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.61 | 0.11 | 0.39 | 282 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 0.64 | 0.05 | -- | 150 | 0.111 | 281<sup>(1)</sup> | 0.60 | -- |

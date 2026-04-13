@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 725.2
+rc_val: 0.2
+dens_val: 238
 N_50_val: 88
 scix_url: Orion%20Nebula
 posit_table: |
@@ -79,6 +80,6 @@ shared_table: |
     |[UBC 208](/_clusters/ubc208/)| 5.7 | 83.81 | -5.95 | 2.6 | 1.24 | 0.54 | 23.25 |0.06 |
     |[NGC 1980](/_clusters/ngc1980/)| 4.5 | 83.82 | -5.96 | 2.6 | 1.24 | 0.55 | 20.88 |0.88 |
     |[OCSN 226](/_clusters/ocsn226/)| 4.5 | 83.82 | -5.96 | 2.61 | 1.26 | 0.55 | 23.02 |0.02 |
-    |[OC 0345](/_clusters/oc0345/)| 2.3 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.03 |
+    |[OC 0345](/_clusters/oc0345/)| 2.3 | 83.77 | -5.87 | 2.58 | 1.06 | 0.21 | 19.86 |0.02 |
 N_rows_shared: "11"
 ---

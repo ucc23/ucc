@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "3"
-dens_val: 176.1
+rc_val: 0.2
+dens_val: 88
 N_50_val: 25
 scix_url: Grasdalen%201
 posit_table: |

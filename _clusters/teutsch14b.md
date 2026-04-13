@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 42.7
+rc_val: 0.9
+dens_val: 16
 N_50_val: 162
 scix_url: Teutsch%2014b
 posit_table: |

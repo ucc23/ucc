@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.4
+rc_val: 1.3
+dens_val: 0.3
 N_50_val: 18
 scix_url: DBSB%20164
 posit_table: |

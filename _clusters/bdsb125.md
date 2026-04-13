@@ -13,15 +13,15 @@ glon: 29.86798
 glat: -0.00324
 r50: 7.5
 plx: 0.2439
-UTI: "0.25"
-UTI_COLOR: "#fcd6c2"
+UTI: "0.22"
+UTI_COLOR: "#fbd0bf"
 UTI_C_N_COL: "#fbfde3"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.53
-UTI_C_dens: 0.14
+UTI_C_dens: 0.03
 UTI_C_C3: 0.38
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.7
+rc_val: 7.6
+dens_val: 0.1
 N_50_val: 56
 scix_url: BDSB%20125
 posit_table: |
@@ -81,7 +82,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[MCM 11](/_clusters/mcm11/)| 10.7 | 281.66 | -2.77 | 0.18 | -1.14 | -3.82 | -- |0.02 |
-    |[CWNU 3930](/_clusters/cwnu3930/)| 1.8 | 281.31 | -2.8 | 0.21 | -1.52 | -3.85 | 47.3 |0.17 |
-    |[Ryu 912](/_clusters/ryu912/)| 1.8 | 281.32 | -2.8 | 0.19 | -1.54 | -3.86 | -- |0.39 |
+    |[CWNU 3930](/_clusters/cwnu3930/)| 1.8 | 281.31 | -2.8 | 0.21 | -1.52 | -3.85 | 47.3 |0.11 |
+    |[Ryu 912](/_clusters/ryu912/)| 1.8 | 281.32 | -2.8 | 0.19 | -1.54 | -3.86 | -- |0.3 |
 N_rows_shared: "3"
 ---

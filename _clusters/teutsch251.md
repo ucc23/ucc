@@ -51,6 +51,7 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
+rc_val: 4.0
 dens_val: 0.1
 N_50_val: 12
 scix_url: Teutsch%20251

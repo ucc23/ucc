@@ -13,25 +13,25 @@ glon: 97.9233
 glat: 5.06423
 r50: 1.4
 plx: 0.1
-UTI: "0.78"
-UTI_COLOR: "#ceeac8"
+UTI: "0.76"
+UTI_COLOR: "#d3ecc9"
 UTI_C_N_COL: "#c9e7c8"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#b7dfc3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e3f3cd"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.8
-UTI_C_dens: 1.0
+UTI_C_dens: 0.87
 UTI_C_C3: 0.75
 UTI_C_lit: 0.68
 UTI_C_dup: 1.0
 UTI_C_N_desc: Rich
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Dense
 UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Berkeley 92</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~10.00 kpc) differs significantly from the median photometric distance (~7.51 kpc).</p><p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
+    <b>Berkeley 92</b> is a rich, dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a large distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">well above the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, old cluster, but with a <u>large variance across recent sources</u> for the age and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
 badge_dist: "Very distant"
 badge_dist_url: "dist_min=5&dist_max=10"
 badge_av: "Moderate extinction"
@@ -49,11 +49,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.28 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.28 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0447, e_all=0.355.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
-dens_val: 14.6
+N_comments: "4"
+rc_val: 2.1
+dens_val: 4.4
 N_50_val: 242
 scix_url: Berkeley%2092
 posit_table: |
@@ -72,7 +74,7 @@ posit_table: |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 321.28 | 57.493 | -- | -- | -- | -- |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 321.206 | 57.528 | 0.068 | -2.464 | -2.325 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -5.04 | -4.33 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 321.196 | 57.533 | -0.98 | 1.02 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 321.196 | 57.533 | -- | -0.98 | 1.02 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 321.19 | 57.529 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 321.196 | 57.533 | -- | -4.36 | 1.83 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 321.195 | 57.532 | -- | -2.29 | -1.62 | -- |
@@ -88,9 +90,9 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.51 | 2.43 | 2.23 | 1575 | -0.380 | 1488 | -- | 1 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 7.28 | 2.52 | 2.23 | 1288 | -0.380 | 1488 | -- | 1 |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.080<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1488<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 7.00 | 3.12 | 2.23 | 470 | -- | 1488<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 7.80 | 2.34 | -- | 1862 | -0.260 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 7.00 | 3.12 | 2.23 | 470 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1000 | -- | 711 | -- | -- |

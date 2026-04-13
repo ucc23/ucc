@@ -13,15 +13,15 @@ glon: 75.44919
 glat: 0.06672
 r50: 8.5
 plx: 0.4951
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#fcfee5"
 UTI_C_N: 0.0
-UTI_C_dens: 0.18
+UTI_C_dens: 0.05
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 0.52
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 0.9
+rc_val: 2.7
+dens_val: 0.3
 N_50_val: 22
 scix_url: Theia%201975
 posit_table: |
@@ -72,9 +73,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.23 | 3.74 | 2.76 | 12 | 0.810 | 1053 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.095 | 3.91 | 2.76 | 10 | 0.810 | 1053 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 7.94 | 1.34 | -- | 12 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1053<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.96 | 4.08 | 2.76 | 7 | -- | 1053<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.23 | 3.74 | -- | 13 | 0.810 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.96 | 4.08 | 2.76 | 7 | -- | -- | -- | -- |
 N_rows_pars: "4"
@@ -83,8 +84,8 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 1872](/_clusters/cwwdl1872/)| 48.0 | 305.53 | 37.13 | 0.5 | -2.43 | -5.33 | 53.95 |0.05 |
-    |[UBC 1101](/_clusters/ubc1101/)| 44.0 | 305.72 | 37.19 | 0.49 | -2.38 | -5.32 | 46.61 |0.44 |
-    |[XDOCC 10](/_clusters/xdocc10/)| 20.0 | 305.52 | 37.24 | 0.5 | -2.4 | -5.26 | 53.95 |0.25 |
-    |[UBC 1098](/_clusters/ubc1098/)| 16.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.38 |
+    |[UBC 1101](/_clusters/ubc1101/)| 44.0 | 305.72 | 37.19 | 0.49 | -2.38 | -5.32 | 46.61 |0.31 |
+    |[XDOCC 10](/_clusters/xdocc10/)| 20.0 | 305.52 | 37.24 | 0.5 | -2.4 | -5.26 | 53.95 |0.21 |
+    |[UBC 1098](/_clusters/ubc1098/)| 16.0 | 305.39 | 36.93 | 0.49 | -2.63 | -5.41 | -134.78 |0.27 |
 N_rows_shared: "4"
 ---

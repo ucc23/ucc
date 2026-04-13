@@ -16,12 +16,12 @@ plx: 0.1903
 UTI: "0.17"
 UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#f2bab5"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.12
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.2
+rc_val: 4.0
+dens_val: 0.1
 N_50_val: 15
 scix_url: Bochum%207
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |131.197 | -45.993 | 0.19 | -3.388 | 3.87 | -- |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 131.185 | -45.977 | -- | -- | -- | -- |
     |[Jaehnig et al.](https://scixplorer.org/abs/2021ApJ...923..129J) | 2021 | 131.092 | -45.974 | 0.185 | -3.087 | 3.647 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 131.2 | -45.967 | -0.6 | 3.28 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 131.2 | -45.967 | -- | -0.6 | 3.28 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 131.185 | -45.977 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 131.2 | -45.967 | -- | -0.05 | 3.34 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 131.19 | -45.98 | -- | -3.47 | 4.33 | 49.0 |
@@ -92,7 +93,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 2140](/_clusters/hsc2140/)| 20.0 | 131.18 | -46.15 | 0.21 | -3.31 | 3.93 | -- |0.34 |
-    |[CWNU 3263](/_clusters/cwnu3263/)| 16.0 | 131.18 | -46.15 | 0.2 | -3.3 | 3.94 | -- |0.08 |
+    |[HSC 2140](/_clusters/hsc2140/)| 20.0 | 131.18 | -46.15 | 0.21 | -3.31 | 3.93 | -- |0.27 |
+    |[CWNU 3263](/_clusters/cwnu3263/)| 16.0 | 131.18 | -46.15 | 0.2 | -3.3 | 3.94 | -- |0.07 |
 N_rows_shared: "2"
 ---

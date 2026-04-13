@@ -13,15 +13,15 @@ glon: 0.60125
 glat: -0.85243
 r50: 4.9
 plx: 0.3383
-UTI: "0.15"
-UTI_COLOR: "#f5c1b8"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.17
+UTI_C_dens: 0.05
 UTI_C_C3: 0.38
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
@@ -51,14 +51,15 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.8
+rc_val: 2.7
+dens_val: 0.3
 N_50_val: 15
 scix_url: Dutra%20Bica%2012
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |267.598 | -28.868 | 0.338 | -0.768 | -1.574 | -25.597 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 267.567 | -28.862 | 1.27 | -3.82 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 267.567 | -28.862 | -- | 1.27 | -3.82 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 267.567 | -28.862 | -- | 2.77 | -6.33 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 267.568 | -28.862 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 267.567 | -28.862 | -- | -- | -- | -- |

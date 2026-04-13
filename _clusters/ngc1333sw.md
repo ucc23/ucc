@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 303.3
+rc_val: 0.3
+dens_val: 55
 N_50_val: 46
 scix_url: NGC%201333SW
 posit_table: |

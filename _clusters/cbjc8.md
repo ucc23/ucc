@@ -13,29 +13,29 @@ glon: 85.37018
 glat: 0.01836
 r50: 7.4
 plx: 0.3776
-UTI: "0.29"
-UTI_COLOR: "#fddfc6"
+UTI: "0.25"
+UTI_COLOR: "#fcd6c2"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#fee4c9"
+UTI_C_dens_COL: "#f1b8b4"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#f9c9bc"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.5
-UTI_C_dens: 0.31
+UTI_C_dens: 0.11
 UTI_C_C3: 0.25
 UTI_C_lit: 0.19
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Loose
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CBJC8</b> is a moderately populated, loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CBJC8</b> is a moderately populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a moderate percentage of members with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
-badge_av: "High extinction"
-badge_av_url: "av_min=3&av_max=5"
+badge_av: "Moderate extinction"
+badge_av_url: "av_min=1&av_max=3"
 badge_mass: ""
 badge_mass_url: ""
 badge_feh: "Near-solar metallicity"
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "4"
-dens_val: 1.5
+rc_val: 2.6
+dens_val: 0.6
 N_50_val: 50
 scix_url: CBJC8
 posit_table: |
@@ -75,9 +76,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.27 | 3.085 | 2.5 | 158 | -0.134 | 190 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.39 | 2.89 | 2.5 | 158 | -0.134 | 190 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.258<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 274<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.39 | 2.23 | 2.50 | 186 | -- | 274<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.69 | 2.89 | -- | 33 | -0.010 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.39 | 2.23 | 2.50 | 186 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 158 | -- | 106 | -- | -- |
@@ -89,6 +90,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 2830](/_clusters/cwnu2830/)| 70.0 | 313.49 | 44.9 | 0.38 | -2.8 | -3.54 | -21.17 |0.01 |
-    |[CBJC7](/_clusters/cbjc7/)| 48.0 | 313.44 | 44.88 | 0.38 | -2.77 | -3.54 | -21.17 |0.14 |
+    |[CBJC7](/_clusters/cbjc7/)| 48.0 | 313.44 | 44.88 | 0.38 | -2.77 | -3.54 | -21.17 |0.11 |
 N_rows_shared: "2"
 ---

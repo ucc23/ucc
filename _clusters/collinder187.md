@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 4.9
+dens_val: 0.04
 N_50_val: 18
 scix_url: Collinder%20187
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |126.041 | -29.152 | 0.187 | -2.361 | 3.477 | 77.58 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 126.049 | -29.161 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.85 | 2.91 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 126.054 | -29.167 | -2.34 | 1.6 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 126.054 | -29.167 | -- | -2.34 | 1.6 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 126.054 | -29.167 | -- | -2.2 | 1.39 | -- |
     |[Lynga](https://scixplorer.org/abs/1988ESOC...28..379L) | 1987 | 126.039 | -29.131 | -- | -- | -- | -- 
 N_rows_pos: "5"

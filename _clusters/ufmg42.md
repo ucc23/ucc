@@ -32,8 +32,8 @@ UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
     <b>UFMG 42</b> is a rich, very dense object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by very high extinction. It is catalogued as a massive, near-solar metallicity, intermediate-age cluster, but with a <u>large variance across recent sources</u> for the age parameter (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object contains blue stragglers according to at least one source.</p>
-badge_dist: "Distant"
-badge_dist_url: "dist_min=3&dist_max=5"
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Very high extinction"
 badge_av_url: "av_min=5&av_max=10"
 badge_mass: "Massive"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 46.6
+rc_val: 1.1
+dens_val: 12
 N_50_val: 212
 scix_url: UFMG%2042
 posit_table: |
@@ -71,8 +72,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 3.52 | 5.525 | 2.89 | 332 | -0.003 | 2709 | -- | 5 |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 2709<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.67 | 5.79 | 2.89 | 376 | -0.003 | 2709 | -- | 5 |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.48 | 5.79 | 2.89 | 376 | -- | 2709<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.67 | 5.26 | -- | 288 | 0.000 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.48 | 5.79 | 2.89 | 376 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2023A%26A...672A..81L) | 2023 | 4.37 | 3.15 | -- | 10000 | -0.006 | -- | -- | 5<sup>(1)</sup> |

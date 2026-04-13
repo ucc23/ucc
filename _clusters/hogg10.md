@@ -13,25 +13,25 @@ glon: 290.80694
 glat: 0.08321
 r50: 3.3
 plx: 0.3911
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#feecd0"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee9cd"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f0f8d5"
 UTI_C_dup_COL: "#fefee8"
 UTI_C_N: 0.36
-UTI_C_dens: 1.0
+UTI_C_dens: 0.34
 UTI_C_C3: 1.0
 UTI_C_lit: 0.61
 UTI_C_dup: 0.5
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>Hogg 10</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Hogg 10</b> is a poorly populated, loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "3"
-dens_val: 6.0
+rc_val: 1.7
+dens_val: 1.7
 N_50_val: 36
 scix_url: Hogg%2010
 posit_table: |
@@ -71,7 +72,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 167.663 | -60.385 | 0.382 | -6.201 | 1.754 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 167.685 | -60.385 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 167.685 | -60.385 | -- | -8.72 | -1.036 | -7.0 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 167.675 | -60.4 | -3.87 | -2.18 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 167.675 | -60.4 | -- | -3.87 | -2.18 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 167.679 | -60.381 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 167.675 | -60.4 | -- | -4.55 | -1.01 | 1.0 |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 167.685 | -60.385 | -- | -9.75 | 2.06 | -7.0 |
@@ -110,7 +111,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[NGC 3572](/_clusters/ngc3572/)| 50.0 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.95 |
-    |[Teutsch 227](/_clusters/teutsch227/)| 19.4 | 167.49 | -60.31 | 0.37 | -6.22 | 1.85 | -28.47 |0.15 |
+    |[NGC 3572](/_clusters/ngc3572/)| 50.0 | 167.65 | -60.31 | 0.38 | -6.25 | 1.9 | -4.92 |0.85 |
+    |[Teutsch 227](/_clusters/teutsch227/)| 19.4 | 167.49 | -60.31 | 0.37 | -6.22 | 1.85 | -28.47 |0.1 |
 N_rows_shared: "2"
 ---

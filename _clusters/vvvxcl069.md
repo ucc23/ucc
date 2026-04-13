@@ -13,15 +13,15 @@ glon: 10.15458
 glat: -0.43105
 r50: 4.1
 plx: 0.2569
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f9c9bc"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.19
+UTI_C_dens: 0.05
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.9
+rc_val: 1.9
+dens_val: 0.3
 N_50_val: 20
 scix_url: VVVX%20CL069
 posit_table: |
@@ -69,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[SGR1806-20](/_clusters/sgr180620/)| 4.0 | 272.13 | -20.47 | 0.38 | -0.59 | -1.28 | 14.47 |0.35 |
+    |[SGR1806-20](/_clusters/sgr180620/)| 4.0 | 272.13 | -20.47 | 0.38 | -0.59 | -1.28 | 14.47 |0.22 |
 N_rows_shared: "1"
 ---

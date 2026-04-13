@@ -13,15 +13,15 @@ glon: 309.13629
 glat: 0.17491
 r50: 4.2
 plx: 0.2978
-UTI: "0.34"
-UTI_COLOR: "#fee9cd"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fcd2c0"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.23
+UTI_C_dens: 0.01
 UTI_C_C3: 1.0
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "2"
-dens_val: 1.1
+rc_val: 2.4
+dens_val: 0.06
 N_50_val: 19
 scix_url: Loden%20991
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |206.22 | -62.066 | 0.298 | -6.394 | -1.768 | 21.203 |
     |[Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | 206.306 | -62.032 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -6.87 | -2.85 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 206.35 | -62.017 | -4.99 | -3.67 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 206.35 | -62.017 | -- | -4.99 | -3.67 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 206.306 | -62.032 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 206.35 | -62.017 | -- | -4.63 | -3.66 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 206.317 | -62.035 | -- | -11.17 | -2.17 | -- |
@@ -84,6 +85,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1606](/_clusters/cwnu1606/)| 64.0 | 206.22 | -62.12 | 0.29 | -6.41 | -1.76 | 21.2 |0.07 |
+    |[CWNU 1606](/_clusters/cwnu1606/)| 64.0 | 206.22 | -62.12 | 0.29 | -6.41 | -1.76 | 21.2 |0.06 |
 N_rows_shared: "1"
 ---

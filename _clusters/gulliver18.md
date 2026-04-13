@@ -50,11 +50,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0526, e_all=0.0888.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "4"
-dens_val: 30.1
+N_comments: "5"
+rc_val: 1.1
+dens_val: 11
 N_50_val: 272
 scix_url: Gulliver%2018
 posit_table: |
@@ -83,12 +85,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.54 | 1.86 | 1.37 | 57 | 0.009 | 926 | 0.65 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.535 | 1.86 | 1.37 | 57 | 0.009 | 926 | 0.65 | -- |
     | [Bijavara Seshashayana et al.](https://scixplorer.org/abs/2025A%26A...704A.220B) | 2025 | -- | 1.59 | -- | 40 | -0.030<sup>(14)</sup> | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.12 | 1.85 | -- | 48 | -0.343 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.42 | 1.86 | -- | 57 | -- | 926 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.093<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1050<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.53 | 1.94 | 1.37 | 68 | -- | 1050<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.70 | 1.99 | -- | 45 | 0.490 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.53 | 1.94 | 1.37 | 68 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.51 | 2.07 | -- | 116 | 0.106 | 888<sup>(1)</sup> | 0.65 | -- |
@@ -107,7 +109,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.45 |
-    |[NGC 6885](/_clusters/ngc6885/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.49 |
+    |[AH03 J2011+26.7](/_clusters/ah03j2011p267/)| 9.2 | 302.92 | 26.62 | 0.6 | -3.2 | -5.66 | -29.06 |0.36 |
+    |[NGC 6885](/_clusters/ngc6885/)| 7.7 | 302.92 | 26.5 | 0.56 | -3.16 | -5.54 | 85.77 |0.35 |
 N_rows_shared: "2"
 ---

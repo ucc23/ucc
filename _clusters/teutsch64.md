@@ -13,25 +13,25 @@ glon: 260.6903
 glat: -1.30198
 r50: 1.1
 plx: 0.2201
-UTI: "0.39"
-UTI_COLOR: "#fef2d4"
+UTI: "0.34"
+UTI_COLOR: "#fee9cd"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#d9eeca"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#fcd2c0"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 1.0
+UTI_C_dens: 0.73
 UTI_C_C3: 0.5
 UTI_C_lit: 0.23
 UTI_C_dup: 1.0
 UTI_C_N_desc: Sparse
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Teutsch 64</b> is a sparse, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.54 kpc) differs significantly from the median photometric distance (~2.98 kpc).</p>
+    <b>Teutsch 64</b> is a sparse, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by moderate extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~4.54 kpc) differs significantly from the median photometric distance (~2.98 kpc).</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 7.1
+rc_val: 1.0
+dens_val: 3.6
 N_50_val: 15
 scix_url: Teutsch%2064
 posit_table: |
@@ -61,7 +62,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2026AJ....171...24D) | 2026 | 127.904 | -41.768 | 0.156 | -2.916 | 3.569 | 94.46 |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 128.131 | -41.993 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -3.86 | 4.11 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 128.129 | -41.988 | -0.53 | -1.07 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 128.129 | -41.988 | -- | -0.53 | -1.07 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 128.129 | -41.988 | -- | -0.88 | -0.57 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 128.133 | -41.99 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 128.127 | -41.992 | -- | -- | -- | -- |

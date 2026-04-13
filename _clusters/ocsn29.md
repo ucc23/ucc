@@ -16,12 +16,12 @@ plx: 2.0347
 UTI: "0.02"
 UTI_COLOR: "#e2a9b3"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#acd6bf"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.72
-UTI_C_dens: 1.0
+UTI_C_dens: 0.93
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.04
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 10.9
+rc_val: 1.1
+dens_val: 4.7
 N_50_val: 93
 scix_url: OCSN%2029
 posit_table: |
@@ -71,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Teutsch 39](/_clusters/teutsch39/)| 95.7 | 339.22 | 37.76 | 2.04 | -1.76 | -6.04 | -13.08 |0.74 |
-    |[CWWDL 14543](/_clusters/cwwdl14543/)| 34.4 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.12 |
-    |[FoF 2379](/_clusters/fof2379/)| 14.0 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.16 |
+    |[Teutsch 39](/_clusters/teutsch39/)| 95.7 | 339.22 | 37.76 | 2.04 | -1.76 | -6.04 | -13.08 |0.65 |
+    |[CWWDL 14543](/_clusters/cwwdl14543/)| 34.4 | 339.72 | 37.29 | 2.01 | -1.55 | -6.12 | -13.97 |0.08 |
+    |[FoF 2379](/_clusters/fof2379/)| 14.0 | 339.63 | 38.15 | 1.98 | -1.56 | -5.8 | -21.27 |0.14 |
 N_rows_shared: "3"
 ---

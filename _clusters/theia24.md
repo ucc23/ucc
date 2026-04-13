@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 38.1
+rc_val: 0.8
+dens_val: 7.8
 N_50_val: 38
 scix_url: Theia%2024
 posit_table: |

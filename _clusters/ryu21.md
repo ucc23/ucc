@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 10.1
+rc_val: 0.5
+dens_val: 7.3
 N_50_val: 21
 scix_url: Ryu%2021
 posit_table: |

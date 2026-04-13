@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 17
+dens_val: 0.00
 N_50_val: 9
 scix_url: Dutra%20Bica%2018
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |265.699 | -28.122 | 0.044 | -3.741 | -5.588 | -- |
     |[Bica et al.](https://scixplorer.org/abs/2019AJ....157...12B) | 2019 | 265.71 | -28.115 | -- | -- | -- | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 265.7 | -28.108 | -0.71 | -6.07 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 265.7 | -28.108 | -- | -0.71 | -6.07 | -- |
     |[Morales et al.](https://scixplorer.org/abs/2013A%26A...560A..76M) | 2013 | 265.702 | -28.108 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2002A%26A...389..871D) | 2002 | 265.7 | -28.108 | -- | 2.4 | 0.02 | -- |
     |[Dutra & Bica](https://scixplorer.org/abs/2000A%26A...359L...9D) | 2000 | 265.71 | -28.115 | -- | -- | -- | -- 

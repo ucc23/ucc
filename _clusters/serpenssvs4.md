@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 51.2
+rc_val: 0.4
+dens_val: 10
 N_50_val: 26
 scix_url: Serpens%20SVS4
 posit_table: |

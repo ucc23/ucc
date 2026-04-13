@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 9.4
+rc_val: 0.6
+dens_val: 7.4
 N_50_val: 28
 scix_url: DBSB%2010
 posit_table: |

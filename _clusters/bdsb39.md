@@ -13,15 +13,15 @@ glon: 110.20323
 glat: 0.04501
 r50: 8.5
 plx: 0.3158
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e9afb3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#f1f9d6"
 UTI_C_N: 0.0
-UTI_C_dens: 0.06
+UTI_C_dens: 0.02
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.6
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.3
+rc_val: 3.7
+dens_val: 0.09
 N_50_val: 19
 scix_url: BDSB%2039
 posit_table: |
@@ -69,7 +70,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Kronberger 23](/_clusters/kronberger23/)| 40.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.28 |
-    |[BDSB 42](/_clusters/bdsb42/)| 20.0 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.12 |
+    |[Kronberger 23](/_clusters/kronberger23/)| 40.0 | 346.49 | 60.25 | 0.33 | -3.72 | -2.48 | -59.29 |0.27 |
+    |[BDSB 42](/_clusters/bdsb42/)| 20.0 | 346.59 | 60.26 | 0.34 | -3.77 | -2.74 | 2.56 |0.1 |
 N_rows_shared: "2"
 ---

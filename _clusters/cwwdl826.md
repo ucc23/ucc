@@ -50,6 +50,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
+rc_val: 1.6
 dens_val: 0.3
 N_50_val: 18
 scix_url: CWWDL%20826

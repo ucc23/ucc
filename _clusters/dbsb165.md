@@ -13,15 +13,15 @@ glon: 333.30226
 glat: -0.42631
 r50: 6.2
 plx: 0.401
-UTI: "0.08"
-UTI_COLOR: "#edb2b3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f9c9bc"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.0
-UTI_C_dens: 0.19
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 0.96
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 0.9
+rc_val: 5.3
+dens_val: 0.2
 N_50_val: 19
 scix_url: DBSB%20165
 posit_table: |
@@ -75,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDB2003 G333.60-00.21](/_clusters/bdb2003g333600021/)| 4.0 | 245.6 | -50.12 | 0.35 | -2.74 | -4.01 | -29.65 |0.02 |
-    |[G333.6-0.2](/_clusters/g333602/)| 4.0 | 245.61 | -50.11 | 0.36 | -2.73 | -4.01 | -14.28 |0.04 |
+    |[G333.6-0.2](/_clusters/g333602/)| 4.0 | 245.61 | -50.11 | 0.36 | -2.73 | -4.01 | -14.28 |0.03 |
 N_rows_shared: "2"
 ---

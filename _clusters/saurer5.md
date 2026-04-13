@@ -13,15 +13,15 @@ glon: 61.01953
 glat: 1.73877
 r50: 1.7
 plx: 0.0725
-UTI: "0.20"
-UTI_COLOR: "#fbcbbd"
+UTI: "0.19"
+UTI_COLOR: "#f9c9bc"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#ebb0b3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.07
+UTI_C_dens: 0.02
 UTI_C_C3: 0.62
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.3
+rc_val: 5.4
+dens_val: 0.1
 N_50_val: 16
 scix_url: Saurer%205
 posit_table: |
@@ -82,6 +83,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3858](/_clusters/cwnu3858/)| 68.0 | 294.87 | 25.64 | 0.07 | -2.15 | -4.26 | -75.92 |0.41 |
+    |[CWNU 3858](/_clusters/cwnu3858/)| 68.0 | 294.87 | 25.64 | 0.07 | -2.15 | -4.26 | -75.92 |0.27 |
 N_rows_shared: "1"
 ---

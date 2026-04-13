@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 0.1
+rc_val: 3.7
+dens_val: 0.09
 N_50_val: 15
 scix_url: Teutsch%20314
 posit_table: |

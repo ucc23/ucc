@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 66.1
+rc_val: 0.3
+dens_val: 15
 N_50_val: 25
 scix_url: LDN1641%20North
 posit_table: |

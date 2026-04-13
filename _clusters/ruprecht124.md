@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.0
+rc_val: 9.2
+dens_val: 0.00
 N_50_val: 17
 scix_url: Ruprecht%20124
 posit_table: |

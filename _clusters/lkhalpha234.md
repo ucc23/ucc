@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 344.9
+rc_val: 0.3
+dens_val: 117
 N_50_val: 110
 scix_url: LKHalpha%20234
 posit_table: |

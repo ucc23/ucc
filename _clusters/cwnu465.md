@@ -16,22 +16,22 @@ plx: 0.4085
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#f7fbde"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#fee5ca"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.56
-UTI_C_dens: 1.0
+UTI_C_dens: 0.32
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>CWNU 465</b> is a moderately populated, very dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~2.45 kpc) differs significantly from the median photometric distance (~4.79 kpc).</p>
+    <b>CWNU 465</b> is a moderately populated, loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>, affected by high extinction. It is catalogued as a near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a significant percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p><p class="note"><strong>(*):</strong> The parallax distance estimate (~2.45 kpc) differs significantly from the median photometric distance (~4.79 kpc).</p>
 badge_dist: "Distant"
 badge_dist_url: "dist_min=3&dist_max=5"
 badge_av: "High extinction"
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 8.5
+rc_val: 2.0
+dens_val: 1.6
 N_50_val: 62
 scix_url: CWNU%20465
 posit_table: |
@@ -71,8 +72,8 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1280](/_clusters/ubc1280/)| 100.0 | 83.65 | 37.22 | 0.41 | 0.92 | -2.49 | 26.19 |0.46 |
+    |[UBC 1280](/_clusters/ubc1280/)| 100.0 | 83.65 | 37.22 | 0.41 | 0.92 | -2.49 | 26.19 |0.32 |
     |[CWWDL 12514](/_clusters/cwwdl12514/)| 98.4 | 83.64 | 37.23 | 0.41 | 0.92 | -2.49 | -- |0.0 |
-    |[CWNU 470](/_clusters/cwnu470/)| 72.6 | 83.59 | 37.22 | 0.44 | 0.94 | -2.48 | 26.41 |0.13 |
+    |[CWNU 470](/_clusters/cwnu470/)| 72.6 | 83.59 | 37.22 | 0.44 | 0.94 | -2.48 | 26.41 |0.08 |
 N_rows_shared: "3"
 ---

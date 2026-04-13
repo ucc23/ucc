@@ -13,25 +13,25 @@ glon: 205.35156
 glat: -17.77692
 r50: 55.2
 plx: 2.763
-UTI: "0.48"
-UTI_COLOR: "#fefce4"
+UTI: "0.41"
+UTI_COLOR: "#fef5d7"
 UTI_C_N_COL: "#dbefca"
-UTI_C_dens_COL: "#f7fbde"
+UTI_C_dens_COL: "#ebb0b3"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#f8fcdf"
 UTI_C_dup_COL: "#dbefca"
 UTI_C_N: 0.72
-UTI_C_dens: 0.56
+UTI_C_dens: 0.07
 UTI_C_C3: 1.0
 UTI_C_lit: 0.55
 UTI_C_dup: 0.72
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Moderately studied
 UTI_C_dup_desc: Likely unique
 summary: |
-    <b>UBC 17 a</b> is a moderately populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>UBC 17 a</b> is a moderately populated, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a very close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">below the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, very young cluster, but with a <u>large variance across recent sources</u> for the absorption, metallicity, and mass parameters (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is moderately studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">likely a unique</a> object, which shares a moderate percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Very close"
 badge_dist_url: "dist_min=0&dist_max=0.5"
 badge_av: "Low extinction"
@@ -52,12 +52,14 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.96 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.96 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.4417, e_all=0.2354.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...649A..54P' target='_blank'>Piecka & Paunzen (2021)</a></u><br>Belongs to cluster aggregate 'Agg02' along with ASCC 19, Gulliver 6 and UBC 17b.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 2.8
+N_comments: "8"
+rc_val: 0.9
+dens_val: 0.3
 N_50_val: 95
 scix_url: UBC%2017%20a
 posit_table: |
@@ -88,7 +90,7 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.35 | 0.51 | 0.99 | 10 | -0.150 | 228 | 0.38 | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.35 | 0.51 | 0.99 | 8 | -0.150 | 228 | 0.38 | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 0.52 | 0.13 | -- | 3 | -- | -- | -- | -- |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 0.31 | 0.14 | -- | 11 | -0.153 | -- | -- | -- |
     | [Yang et al.](https://scixplorer.org/abs/2025AJ....169..214Y) | 2025 | -- | -- | -- | 5 | -0.150<sup>(3)</sup> | -- | -- | -- |
@@ -97,7 +99,7 @@ fpars_table: |
     | [Alfonso et al.](https://scixplorer.org/abs/2024A%26A...689A..18A) | 2024 | 0.33 | 0.80 | -- | 11 | -0.224 | -- | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.264<sup>(1)</sup> | -- | -- | -- |
     | [Swiggum et al.](https://scixplorer.org/abs/2024Natur.631...49S) | 2024 | 0.36 | -- | -- | 5 | -- | 104 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 53<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.35 | 0.24 | 0.99 | 5 | -- | 53<sup>(1)</sup> | -- | -- |
     | [Celli et al.](https://scixplorer.org/abs/2024A%26A...686A.118C) | 2024 | -- | -- | -- | 19 | -- | 228 | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 0.36 | 0.68 | -- | 4 | -0.020 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.35 | 0.24 | 0.99 | 5 | -- | -- | -- | -- |
@@ -113,7 +115,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[ASCC 19](/_clusters/ascc19/)| 28.4 | 82.05 | -1.96 | 2.8 | 1.15 | -1.22 | 19.28 |0.96 |
-    |[OC 0339](/_clusters/oc0339/)| 8.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.25 |
-    |[CWWDL 14541](/_clusters/cwwdl14541/)| 1.1 | 83.57 | -3.18 | 2.76 | 1.46 | -1.66 | 15.04 |0.17 |
+    |[OC 0339](/_clusters/oc0339/)| 8.4 | 83.1 | -0.48 | 2.75 | 1.59 | -0.98 | 20.8 |0.23 |
+    |[CWWDL 14541](/_clusters/cwwdl14541/)| 1.1 | 83.57 | -3.18 | 2.76 | 1.46 | -1.66 | 15.04 |0.14 |
 N_rows_shared: "3"
 ---

@@ -50,13 +50,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1422, e_all=0.0997.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This cluster was include in (Dias et al., 2002A&A...389..871D, Cat. B/ocl) however, parameters log(t)=7.643, Av=1.035, [Fe/H]=0.080 were taken from Bossini et al. (2019A&A...623A.108B, Cat. J/A+A/623/A108). Ahumada & Lapasset (2007A&A...463..789A, Cat. J/A+A/463/789) cite stars DR2 1823376864591083904=HD 350990 and HD 350991 as blue stragglers, HD 350990 is a member according to Cantat-Gaudin et al. (2018A&A...618A..93C, Cat. J/A+A18/A93) however is located in the main sequence of the cluster and not in the straggler region, on the other hand, HD 350991 was not observed by Gaia.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The dereddened colour-magnitude diagram in (1993A&AS...97..755T) was examined. Adopted cluster centre: star 41 in (1993A&AS...97..755T). Stars A=HD 350990 and B=HD 350991 have spectra B6IIIn and are cluster members (1993A&AS...97..755T). The author assigns the unusual positions of these stars in the colour-magnitude diagram to high rotation velocities.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "6"
-dens_val: 23.7
+N_comments: "7"
+rc_val: 1.2
+dens_val: 7.8
 N_50_val: 184
 scix_url: Roslund%203
 posit_table: |
@@ -84,7 +86,7 @@ posit_table: |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -2.44 | -4.75 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 299.662 | 20.514 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 299.67 | 20.514 | -- | -2.385 | -8.765 | -2.6 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 299.675 | 20.483 | 0.6 | -4.85 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 299.675 | 20.483 | -- | 0.6 | -4.85 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 299.662 | 20.514 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 299.656 | 20.512 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 299.675 | 20.483 | -- | -0.98 | -4.74 | -- |
@@ -109,7 +111,7 @@ fpars_table: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.58 | 1.07 | 1.38 | 75 | 0.154 | 508 | 0.58 | 1 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 1.44 | 0.86 | -- | 233 | 0.053 | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.58 | 1.08 | -- | 109 | -- | 399 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 793<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.64 | 0.97 | 1.38 | 75 | -- | 793<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.80 | 1.11 | -- | 56 | 0.430 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.64 | 0.97 | 1.38 | 75 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.62 | 1.15 | -- | 105 | 0.112 | 496<sup>(1)</sup> | 0.58 | -- |

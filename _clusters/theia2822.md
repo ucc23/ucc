@@ -16,12 +16,12 @@ plx: 0.1633
 UTI: "0.06"
 UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#fee7cc"
-UTI_C_dens_COL: "#f7c5ba"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#e4aab3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.33
-UTI_C_dens: 0.17
+UTI_C_dens: 0.04
 UTI_C_C3: 0.75
 UTI_C_lit: 0.03
 UTI_C_dup: 0.24
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 0.8
+rc_val: 4.1
+dens_val: 0.2
 N_50_val: 33
 scix_url: Theia%202822
 posit_table: |
@@ -69,8 +70,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 5.16 | 0.465 | 0.7 | 310 | 0.380 | 168 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 168<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.05 | 0.63 | 0.7 | 282 | 0.380 | 168 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 6.05 | 0.63 | 0.70 | 282 | -- | 168<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 4.27 | 0.30 | -- | 339 | 0.380 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.05 | 0.63 | 0.70 | 282 | -- | -- | -- | -- |
 N_rows_pars: "3"
@@ -78,6 +79,6 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1392](/_clusters/ubc1392/)| 75.8 | 118.05 | -25.49 | 0.16 | -2.15 | 3.15 | 89.36 |0.24 |
+    |[UBC 1392](/_clusters/ubc1392/)| 75.8 | 118.05 | -25.49 | 0.16 | -2.15 | 3.15 | 89.36 |0.21 |
 N_rows_shared: "1"
 ---

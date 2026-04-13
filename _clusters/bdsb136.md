@@ -16,12 +16,12 @@ plx: 0.2136
 UTI: "0.04"
 UTI_COLOR: "#e6acb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fef8dd"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.04
 UTI_C_C3: 0.38
 UTI_C_lit: 0.0
 UTI_C_dup: 0.44
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.4
+rc_val: 2.5
+dens_val: 0.2
 N_50_val: 16
 scix_url: BDSB%20136
 posit_table: |
@@ -75,6 +76,6 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[BDB2003 G045.45+00.06](/_clusters/bdb2003g04545p0006/)| 56.0 | 288.62 | 11.13 | 0.12 | -2.64 | -5.49 | 42.97 |0.02 |
-    |[G45.45+0.06](/_clusters/g4545p006/)| 56.0 | 288.62 | 11.12 | 0.12 | -2.64 | -5.49 | 53.3 |0.18 |
+    |[G45.45+0.06](/_clusters/g4545p006/)| 56.0 | 288.62 | 11.12 | 0.12 | -2.64 | -5.49 | 53.3 |0.17 |
 N_rows_shared: "2"
 ---

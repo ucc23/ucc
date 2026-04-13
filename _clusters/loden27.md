@@ -13,15 +13,15 @@ glon: 282.15129
 glat: -0.32252
 r50: 6.3
 plx: 0.2634
-UTI: "0.32"
-UTI_COLOR: "#fee5ca"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#fefde6"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.49
-UTI_C_dens: 0.2
+UTI_C_dens: 0.03
 UTI_C_C3: 0.62
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 1.0
+rc_val: 7.2
+dens_val: 0.1
 N_50_val: 49
 scix_url: Loden%2027
 posit_table: |

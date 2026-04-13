@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 65.0
+rc_val: 0.7
+dens_val: 9.7
 N_50_val: 22
 scix_url: DBSB%20117
 posit_table: |
@@ -75,7 +76,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[DBSB 114](/_clusters/dbsb114/)| 92.0 | 254.76 | -40.2 | 0.6 | -0.32 | -1.28 | -14.73 |0.51 |
-    |[CWNU 4046](/_clusters/cwnu4046/)| 56.0 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.14 |
-    |[DBSB 115](/_clusters/dbsb115/)| 36.0 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.35 |
+    |[CWNU 4046](/_clusters/cwnu4046/)| 56.0 | 254.73 | -40.2 | 0.55 | -0.15 | -1.38 | -15.49 |0.12 |
+    |[DBSB 115](/_clusters/dbsb115/)| 36.0 | 254.77 | -40.17 | 0.6 | -0.75 | -1.01 | -15.49 |0.24 |
 N_rows_shared: "3"
 ---

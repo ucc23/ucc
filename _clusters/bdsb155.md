@@ -16,12 +16,12 @@ plx: 0.1898
 UTI: "0.13"
 UTI_COLOR: "#f3bcb6"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e2a9b3"
+UTI_C_dens_COL: "#e0a7b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.02
+UTI_C_dens: 0.01
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 0.1
+rc_val: 6.9
+dens_val: 0.05
 N_50_val: 12
 scix_url: BDSB%20155
 posit_table: |
@@ -74,7 +75,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 143](/_clusters/bdsb143/)| 12.0 | 290.78 | 14.45 | 0.26 | -2.19 | -5.9 | 31.65 |0.08 |
-    |[NKD2004 G49.2-0.3](/_clusters/nkd2004g49203/)| 4.0 | 290.75 | 14.27 | 0.31 | -2.42 | -5.97 | 41.8 |0.06 |
+    |[BDSB 143](/_clusters/bdsb143/)| 12.0 | 290.78 | 14.45 | 0.26 | -2.19 | -5.9 | 31.65 |0.06 |
+    |[NKD2004 G49.2-0.3](/_clusters/nkd2004g49203/)| 4.0 | 290.75 | 14.27 | 0.31 | -2.42 | -5.97 | 41.8 |0.05 |
 N_rows_shared: "2"
 ---

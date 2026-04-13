@@ -13,15 +13,15 @@ glon: 218.20309
 glat: 17.6103
 r50: 54.3
 plx: 1.6001
-UTI: "0.40"
-UTI_COLOR: "#fef4d6"
+UTI: "0.37"
+UTI_COLOR: "#feeed1"
 UTI_C_N_COL: "#d9eeca"
-UTI_C_dens_COL: "#fbcbbd"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f6c2b8"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.73
-UTI_C_dens: 0.2
+UTI_C_dens: 0.06
 UTI_C_C3: 0.75
 UTI_C_lit: 0.16
 UTI_C_dup: 1.0
@@ -48,12 +48,14 @@ badge_nofpars_url: ""
 comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as moving group. CMD class: 0.99 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as moving group. CMD class: 0.99 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.452, e_all=0.0898.</p>
     <p><u><a href='https://scixplorer.org/abs/2019AJ....157...12B' target='_blank'>Bica et al. (2019)</a></u><br>List of clusters and alike reported by B. Alessi.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
-N_comments: "3"
-dens_val: 1.0
+N_comments: "4"
+rc_val: 2.6
+dens_val: 0.3
 N_50_val: 96
 scix_url: Alessi%20145
 posit_table: |

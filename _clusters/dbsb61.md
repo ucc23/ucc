@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 123.5
+rc_val: 0.8
+dens_val: 30
 N_50_val: 210
 scix_url: DBSB%2061
 posit_table: |

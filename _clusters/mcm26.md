@@ -13,15 +13,15 @@ glon: 296.29569
 glat: -0.48504
 r50: 1.4
 plx: 0.1327
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.21"
+UTI_COLOR: "#fbcdbe"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fef6d9"
+UTI_C_dens_COL: "#fdddc5"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.42
+UTI_C_dens: 0.28
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 2.1
+rc_val: 1.3
+dens_val: 1.4
 N_50_val: 20
 scix_url: MCM%2026
 posit_table: |
@@ -69,6 +70,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3029](/_clusters/cwnu3029/)| 44.0 | 178.32 | -62.61 | 0.12 | -6.44 | 1.17 | -0.09 |0.2 |
+    |[CWNU 3029](/_clusters/cwnu3029/)| 44.0 | 178.32 | -62.61 | 0.12 | -6.44 | 1.17 | -0.09 |0.1 |
 N_rows_shared: "1"
 ---

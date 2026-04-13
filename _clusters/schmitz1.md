@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.0
+rc_val: 5.5
+dens_val: 0.04
 N_50_val: 10
 scix_url: Schmitz%201
 posit_table: |

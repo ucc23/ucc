@@ -52,11 +52,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024AJ....167...12C' target='_blank'>Cavallo et al. (2024)</a></u><br>Gold sample.</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 1.00 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.1232, e_all=0.1395.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "6"
-dens_val: 10.7
+N_comments: "7"
+rc_val: 1.1
+dens_val: 6.9
 N_50_val: 98
 scix_url: Pismis%208
 posit_table: |
@@ -79,7 +81,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 130.407 | -46.272 | 0.517 | -5.757 | 4.945 | -- |
     |[Dib et al.](https://scixplorer.org/abs/2018MNRAS.473..849D) | 2018 | 130.414 | -46.267 | -- | -- | -- | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 130.395 | -46.266 | -- | -3.29 | 3.07 | 63.4 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 130.4 | -46.267 | -1.51 | 3.67 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 130.4 | -46.267 | -- | -1.51 | 3.67 | -- |
     |[Joshi et al.](https://scixplorer.org/abs/2016A%26A...593A.116J) | 2016 | 130.414 | -46.267 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 130.41 | -46.264 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 130.4 | -46.267 | -- | -- | -- | 63.4 |
@@ -97,10 +99,10 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.755 | 2.23 | 1.1 | 27 | 0.088 | 250 | 0.62 | 0 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.76 | 2.23 | 1.1 | 27 | 0.088 | 250 | 0.62 | 0 |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 2.98 | 0.69 | -- | 22 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 1.76 | 2.08 | -- | 14 | -- | 262 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 219<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.89 | 2.16 | 1.10 | 47 | -- | 219<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.92 | 2.45 | -- | 31 | 0.210 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.89 | 2.16 | 1.10 | 47 | -- | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2023MNRAS.525.2315A) | 2023 | 1.75 | 2.23 | -- | 14 | -0.037 | 250<sup>(1)</sup> | 0.62 | -- |
@@ -131,8 +133,8 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 58](/_clusters/fof58/)| 9.2 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.14 |
-    |[OC 0484](/_clusters/oc0484/)| 8.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.11 |
-    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.13 |
+    |[FoF 58](/_clusters/fof58/)| 9.2 | 129.9 | -46.29 | 0.54 | -5.83 | 5.09 | -1.51 |0.13 |
+    |[OC 0484](/_clusters/oc0484/)| 8.2 | 130.25 | -46.52 | 0.54 | -5.74 | 5.05 | 41.74 |0.08 |
+    |[OC 0482](/_clusters/oc0482/)| 7.1 | 130.27 | -46.41 | 0.56 | -5.79 | 5.1 | -- |0.12 |
 N_rows_shared: "3"
 ---

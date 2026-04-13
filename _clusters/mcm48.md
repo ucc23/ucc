@@ -52,6 +52,7 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
+rc_val: 1.0
 dens_val: 1.0
 N_50_val: 18
 scix_url: MCM%2048
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VVV 036](/_clusters/vvv036/)| 52.0 | 212.24 | -61.31 | 0.35 | -5.91 | -2.48 | -53.25 |0.21 |
+    |[VVV 036](/_clusters/vvv036/)| 52.0 | 212.24 | -61.31 | 0.35 | -5.91 | -2.48 | -53.25 |0.16 |
 N_rows_shared: "1"
 ---

@@ -51,13 +51,15 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.50 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...685A..33R' target='_blank'>Rain et al. (2024)</a></u><br>BSSs appear in two distinct, parallel sequences, both well aligned with binary evolution tracks of different donor masses. This resembles double BSS sequences seen in other clusters. Existing evidence suggests mass transfer may contribute to both sequences, but the detailed origin remains uncertain.</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.50 (50th percentile).</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0699, e_all=0.0287.</p>
     <p><u><a href='https://scixplorer.org/abs/2021A%26A...650A..67R' target='_blank'>Rain et al. (2021)</a></u><br>This object probably suffers from differential reddening. We suggest exploring this effect in future works.</p>
     <p><u><a href='https://scixplorer.org/abs/2007A%26A...463..789A' target='_blank'>Ahumada & Lapasset (2007)</a></u><br>The red limit of the straggler area is (V-I)=0.76. In (1964ApJS....8..352L) it is suggested that a spread in the metal abundances may account for the observed dispersion around the turnoff in the colour- magnitude diagram. In that case, several stars that appear as blue stragglers would not be such.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "7"
-dens_val: 29.2
+N_comments: "8"
+rc_val: 3.8
+dens_val: 8.0
 N_50_val: 1800
 scix_url: Melotte%2066
 posit_table: |
@@ -87,7 +89,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 111.573 | -47.685 | 0.183 | -1.474 | 2.745 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.7 | 2.9 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 111.555 | -47.666 | -- | -5.385 | 3.903 | 23.5 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 111.596 | -47.667 | -2.59 | 3.61 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 111.596 | -47.667 | -- | -2.59 | 3.61 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 111.547 | -47.666 | -- | -- | -- | -- |
     |[Netopil et al.](https://scixplorer.org/abs/2016A%26A...585A.150N) | 2016 | 111.596 | -47.667 | -- | -- | -- | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 111.596 | -47.667 | -- | -3.09 | 3.26 | -- |
@@ -106,12 +108,12 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.69 | 0.45 | 1.05 | 3388 | -0.330 | 8876 | 0.34 | 14 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 4.69 | 0.45 | 1.05 | 3275 | -0.330 | 8876 | 0.34 | 14 |
     | [Li et al.](https://scixplorer.org/abs/2025AJ....170..288L) | 2025 | 4.76 | 0.59 | -- | 3790 | -0.366 | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.400<sup>(5)</sup> | -- | -- | -- |
     | [Carrasco-Varela et al.](https://scixplorer.org/abs/2025A%26A...699A.142C) | 2025 | 4.69 | 0.58 | -- | 4487 | -0.400 | -- | -- | 14<sup>(1)</sup> |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 4.69 | 0.58 | -- | 4487 | -- | 8876 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 5794<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 4.70 | 0.21 | 1.05 | 2473 | -- | 5794<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 3.70 | 0.66 | -- | 7244 | -0.630 | -- | -- | -- |
     | [Rain et al.](https://scixplorer.org/abs/2024A%26A...685A..33R) | 2024 | 4.68 | 0.34 | -- | 4757 | -- | 20958 | 0.34 | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 4.70 | 0.21 | 1.05 | 2472 | -- | -- | -- | -- |

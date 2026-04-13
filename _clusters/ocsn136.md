@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 7.8
+rc_val: 1.1
+dens_val: 5.6
 N_50_val: 114
 scix_url: OCSN%20136
 posit_table: |

@@ -13,25 +13,25 @@ glon: 16.62108
 glat: -1.92391
 r50: 8.3
 plx: 0.871
-UTI: "0.43"
-UTI_COLOR: "#fef7db"
+UTI: "0.30"
+UTI_COLOR: "#fee2c7"
 UTI_C_N_COL: "#fee5ca"
-UTI_C_dens_COL: "#c2e4c6"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.32
-UTI_C_dens: 0.83
+UTI_C_dens: 0.16
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>PHOC 20</b> is a poorly populated, dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>PHOC 20</b> is a poorly populated, very loose object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This object shares a large percentage of members with 3 later reported entries. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 4.2
+rc_val: 2.3
+dens_val: 0.8
 N_50_val: 32
 scix_url: PHOC%2020
 posit_table: |
@@ -69,7 +70,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14359](/_clusters/cwwdl14359/)| 100.0 | 277.01 | -15.36 | 0.87 | -2.67 | -3.59 | 16.41 |0.02 |
-    |[HXHWL 57](/_clusters/hxhwl57/)| 100.0 | 276.99 | -15.35 | 0.87 | -2.67 | -3.57 | 12.94 |0.18 |
+    |[HXHWL 57](/_clusters/hxhwl57/)| 100.0 | 276.99 | -15.35 | 0.87 | -2.67 | -3.57 | 12.94 |0.13 |
     |[Theia 2510](/_clusters/theia2510/)| 100.0 | 277.01 | -15.36 | 0.87 | -2.66 | -3.57 | 12.94 |0.0 |
 N_rows_shared: "3"
 ---

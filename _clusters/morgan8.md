@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: purple; font-weight: bold;">D</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 83.7
+rc_val: 0.3
+dens_val: 31
 N_50_val: 33
 scix_url: Morgan%208
 posit_table: |

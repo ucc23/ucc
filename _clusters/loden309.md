@@ -13,15 +13,15 @@ glon: 290.74903
 glat: -0.10084
 r50: 11.5
 plx: 0.5096
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#fef2d4"
-UTI_C_dens_COL: "#f8c6ba"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#feebce"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.39
-UTI_C_dens: 0.18
+UTI_C_dens: 0.06
 UTI_C_C3: 0.25
 UTI_C_lit: 0.35
 UTI_C_dup: 1.0
@@ -31,9 +31,9 @@ UTI_C_C3_desc: Low quality
 UTI_C_lit_desc: Poorly studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>Loden 309</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.96 kpc) differs significantly from the median photometric distance (~0.80 kpc).</p>
-badge_dist: "Close"
-badge_dist_url: "dist_min=0.5&dist_max=1"
+    <b>Loden 309</b> is a poorly populated, very loose object of low <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a relatively close<sup><b>*</b></sup> distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by low extinction. It is catalogued as a near-solar metallicity, intermediate-age cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is poorly studied in the literature. <p class="note"><strong>(*):</strong> The parallax distance estimate (~1.96 kpc) differs significantly from the median photometric distance (~1.00 kpc).</p>
+badge_dist: "Relatively close"
+badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Low extinction"
 badge_av_url: "av_min=0&av_max=1"
 badge_mass: ""
@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "4"
-dens_val: 0.9
+rc_val: 3.0
+dens_val: 0.3
 N_50_val: 39
 scix_url: Loden%20309
 posit_table: |
@@ -66,7 +67,7 @@ posit_table: |
     |[Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 167.821 | -60.532 | 0.513 | -- | -- | -- |
     |[Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 167.369 | -60.484 | 0.514 | -9.25 | 2.33 | -49.375 |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -7.63 | 0.96 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 167.679 | -60.383 | -5.28 | 0.35 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 167.679 | -60.383 | -- | -5.28 | 0.35 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 167.679 | -60.383 | -- | -5.7 | 0.47 | 1.0 |
     |[Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 167.398 | -60.578 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2005A%26A...438.1163K) | 2005 | 167.41 | -60.58 | -- | -11.1 | 1.85 | -- |
@@ -79,9 +80,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.8 | 0.79 | 1.14 | 427 | -0.025 | 54 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.0 | 0.79 | 1.14 | 427 | -0.025 | 54 | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.170<sup>(5)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 54<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.81 | 1.27 | 1.14 | 282 | -- | 54<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.13 | 1.45 | -- | 661 | 0.120 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.81 | 1.27 | 1.14 | 282 | -- | -- | -- | -- |
     | [Piskunov et al.](https://scixplorer.org/abs/2008A%26A...477..165P) | 2008 | 0.60 | 0.79 | -- | 427 | -- | -- | -- | -- |

@@ -16,12 +16,12 @@ plx: 1.4988
 UTI: "0.11"
 UTI_COLOR: "#f1b8b4"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a8cfbb"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fdddc5"
 UTI_C_N: 0.0
-UTI_C_dens: 1.0
+UTI_C_dens: 0.97
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.28
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 8.1
+rc_val: 0.6
+dens_val: 4.8
 N_50_val: 22
 scix_url: CWNU%2018
 posit_table: |
@@ -75,6 +76,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0367](/_clusters/oc0367/)| 72.0 | 89.46 | -14.1 | 1.48 | -2.04 | 1.63 | 28.57 |0.45 |
     |[CWWDL 14262](/_clusters/cwwdl14262/)| 68.0 | 89.46 | -14.1 | 1.49 | -2.03 | 1.58 | 26.55 |0.14 |
-    |[OC 0366](/_clusters/oc0366/)| 20.0 | 89.65 | -13.69 | 1.47 | -1.71 | 1.72 | 25.66 |0.48 |
+    |[OC 0366](/_clusters/oc0366/)| 20.0 | 89.65 | -13.69 | 1.47 | -1.71 | 1.72 | 25.66 |0.35 |
 N_rows_shared: "3"
 ---

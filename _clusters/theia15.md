@@ -54,7 +54,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "4"
-dens_val: 27.2
+rc_val: 0.4
+dens_val: 15
 N_50_val: 24
 scix_url: Theia%2015
 posit_table: |
@@ -72,8 +73,8 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.83 | 1.55 | 1.54 | 6 | -0.110 | 62 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 62<sup>(1)</sup> | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 0.815 | 1.35 | 1.54 | 6 | -0.110 | 62 | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 0.80 | 1.35 | 1.54 | 6 | -- | 62<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.24 | 1.75 | -- | 8 | -0.110 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 0.80 | 1.35 | 1.54 | 6 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..262....7H) | 2022 | -- | 0.05 | -- | 3 | -- | -- | -- | -- |
@@ -85,6 +86,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[OC 0362](/_clusters/oc0362/)| 96.0 | 90.89 | -9.79 | 1.19 | -2.11 | 1.64 | 39.52 |0.32 |
     |[CWWDL 14261](/_clusters/cwwdl14261/)| 64.0 | 90.89 | -9.75 | 1.16 | -2.05 | 1.62 | 44.56 |0.01 |
-    |[OC 0361](/_clusters/oc0361/)| 52.0 | 90.56 | -9.92 | 1.23 | -2.02 | 1.77 | 18.13 |0.36 |
+    |[OC 0361](/_clusters/oc0361/)| 52.0 | 90.56 | -9.92 | 1.23 | -2.02 | 1.77 | 18.13 |0.26 |
 N_rows_shared: "3"
 ---

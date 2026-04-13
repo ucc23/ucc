@@ -13,15 +13,15 @@ glon: 298.4799
 glat: -0.15405
 r50: 4.4
 plx: 0.1364
-UTI: "0.21"
-UTI_COLOR: "#fbcdbe"
+UTI: "0.20"
+UTI_COLOR: "#fbcbbd"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#dfa5b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f3bcb6"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.0
 UTI_C_C3: 0.75
 UTI_C_lit: 0.13
 UTI_C_dup: 1.0
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 0.2
+rc_val: 3.9
+dens_val: 0.02
 N_50_val: 15
 scix_url: Alessi%2052
 posit_table: |
@@ -59,7 +60,7 @@ posit_table: |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** |<span class="hidden-cell-val">99999</span>-- |183.139 | -62.704 | 0.136 | -6.36 | 0.686 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -6.11 | -0.4 | -- |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 183.258 | -62.706 | -5.78 | 0.08 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 183.258 | -62.706 | -- | -5.78 | 0.08 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2014A%26A...564A..79D) | 2014 | 183.258 | -62.706 | -- | -4.99 | -0.06 | -- |
     |[Bukowiecki et al.](https://scixplorer.org/abs/2011AcA....61..231B) | 2011 | 183.233 | -62.693 | -- | -- | -- | -- |
     |[Kronberger et al.](https://scixplorer.org/abs/2006A%26A...447..921K) | 2006 | 183.257 | -62.706 | -- | -- | -- | -- |
@@ -79,7 +80,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3697](/_clusters/cwnu3697/)| 56.0 | 182.98 | -62.65 | 0.19 | -6.36 | 0.67 | -- |0.06 |
-    |[CWNU 3471](/_clusters/cwnu3471/)| 40.0 | 183.26 | -62.71 | 0.17 | -6.25 | 0.64 | 10.87 |0.19 |
+    |[CWNU 3471](/_clusters/cwnu3471/)| 40.0 | 183.26 | -62.71 | 0.17 | -6.25 | 0.64 | 10.87 |0.16 |
     |[VVV 011](/_clusters/vvv011/)| 12.0 | 183.21 | -62.71 | 0.03 | -6.3 | 0.57 | -- |0.07 |
 N_rows_shared: "3"
 ---

@@ -13,15 +13,15 @@ glon: 332.53706
 glat: -0.11467
 r50: 7.0
 plx: 0.3481
-UTI: "0.13"
-UTI_COLOR: "#f3bcb6"
+UTI: "0.12"
+UTI_COLOR: "#f2bab5"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#eeb4b3"
+UTI_C_dens_COL: "#e4aab3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.09
+UTI_C_dens: 0.03
 UTI_C_C3: 0.38
 UTI_C_lit: 0.1
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 0.4
+rc_val: 4.3
+dens_val: 0.1
 N_50_val: 15
 scix_url: DBSB%20161
 posit_table: |
@@ -80,7 +81,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[DBSB 160](/_clusters/dbsb160/)| 64.0 | 244.19 | -50.8 | 0.36 | -3.55 | -3.87 | -68.52 |0.05 |
-    |[VVV 064](/_clusters/vvv064/)| 4.0 | 243.85 | -50.94 | 0.36 | -3.35 | -3.76 | -51.27 |0.11 |
+    |[DBSB 160](/_clusters/dbsb160/)| 64.0 | 244.19 | -50.8 | 0.36 | -3.55 | -3.87 | -68.52 |0.03 |
+    |[VVV 064](/_clusters/vvv064/)| 4.0 | 243.85 | -50.94 | 0.36 | -3.35 | -3.76 | -51.27 |0.08 |
 N_rows_shared: "2"
 ---

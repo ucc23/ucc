@@ -16,12 +16,12 @@ plx: 4.1288
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#fef0d2"
+UTI_C_dens_COL: "#fef6d9"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.25
-UTI_C_dens: 0.38
+UTI_C_dens: 0.42
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 1.9
+rc_val: 0.9
+dens_val: 2.1
 N_50_val: 25
 scix_url: Cep%20OB6
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.55 |
-    |[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.08 | 56.53 | 4.13 | 16.79 | 4.81 | -13.98 |0.06 |
+    |[Delta Cephei Cluster](/_clusters/deltacepheicluster/)| 100.0 | 335.47 | 56.64 | 4.14 | 16.9 | 4.72 | -14.54 |0.42 |
+    |[OCSN 33](/_clusters/ocsn33/)| 100.0 | 335.08 | 56.53 | 4.13 | 16.79 | 4.81 | -13.98 |0.05 |
 N_rows_shared: "2"
 ---

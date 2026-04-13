@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "2"
-dens_val: 111.1
+rc_val: 0.7
+dens_val: 11
 N_50_val: 24
 scix_url: Teutsch%20148
 posit_table: |

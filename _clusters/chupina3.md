@@ -16,22 +16,22 @@ plx: 1.153
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#fcd6c2"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#eef7d4"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#dfa5b3"
 UTI_C_N: 0.25
-UTI_C_dens: 1.0
+UTI_C_dens: 0.62
 UTI_C_C3: 1.0
 UTI_C_lit: 0.06
 UTI_C_dup: 0.0
 UTI_C_N_desc: Poorly populated
-UTI_C_dens_desc: Very dense
+UTI_C_dens_desc: Moderately dense
 UTI_C_C3_desc: Very high quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Very likely duplicate
 summary: |
-    <b>Chupina 3</b> is a poorly populated, very dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a near-solar metallicity cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>Chupina 3</b> is a poorly populated, moderately dense object of very high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a close distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">above the mid-plane</a>. It is catalogued as a near-solar metallicity cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p>⚠️ <span style="color: #99180f; font-weight: bold;">Warning: </span>This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?"><u>very likely a duplicate</u></a> object, which shares a large percentage of members with at least one previously reported entry, and a very small percentage with at least one entry reported in the same catalogue. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: "1"
-dens_val: 6.1
+rc_val: 0.8
+dens_val: 3.1
 N_50_val: 25
 scix_url: Chupina%203
 posit_table: |
@@ -77,6 +78,6 @@ shared_table: |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWWDL 14090](/_clusters/cwwdl14090/)| 100.0 | 132.84 | 11.82 | 1.15 | -10.98 | -2.91 | 33.79 |0.0 |
     |[NGC 2682](/_clusters/ngc2682/)| 100.0 | 132.85 | 11.82 | 1.15 | -10.97 | -2.91 | 33.91 |1.0 |
-    |[NGC 2678](/_clusters/ngc2678/)| 4.0 | 132.58 | 11.36 | 1.05 | -10.92 | -2.82 | 35.48 |0.03 |
+    |[NGC 2678](/_clusters/ngc2678/)| 4.0 | 132.58 | 11.36 | 1.05 | -10.92 | -2.82 | 35.48 |0.02 |
 N_rows_shared: "3"
 ---

@@ -13,15 +13,15 @@ glon: 226.33922
 glat: 4.15712
 r50: 1.6
 plx: 0.1284
-UTI: "0.93"
-UTI_COLOR: "#acd6bf"
+UTI: "0.91"
+UTI_COLOR: "#add9c0"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#add9c0"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#abd4be"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.77
-UTI_C_dens: 1.0
+UTI_C_dens: 0.91
 UTI_C_C3: 1.0
 UTI_C_lit: 0.94
 UTI_C_dup: 1.0
@@ -51,11 +51,13 @@ comments: |
     <p><u><a href='https://scixplorer.org/abs/2024A%26A...686A..42H' target='_blank'>Hunt & Reffert (2024)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2023A%26A...673A.114H' target='_blank'>Hunt & Reffert (2023)</a></u><br>Classified as open cluster. CMD class: 0.97 (50th percentile).</p>
     <p><u><a href='https://scixplorer.org/abs/2022A%26A...663A.131P' target='_blank'>Perren et al. (2022)</a></u><br>The CMD shows a robust main sequence and a well-defined giant branch, with the TO at approximately G=17.5. ASteCA gives a distance of 6.5 kpc and an age of 3.6 Gyr, in good agreement with Dias 2021 (5.9 kpc, 3 Gyr). Hayes 2015 found 9.12 kpc and 2.8 Gyr, and seven prior studies all give distances in the range 7.9–9.3 kpc, all of which appear to overestimate the distance. CG20, WEBDA, and MWSC are consistent with ASteCA at 6.2–6.8 kpc. The OC02 value of 9.1 kpc is rejected. A footnote notes that the distance modulus quoted in Table 7 of Hayes et al. is incorrect.</p>
+    <p><u><a href='https://scixplorer.org/abs/2021A%26A...656A..49H' target='_blank'>Hu et al. (2021)</a></u><br>Ellipticities (core, all): e_core=0.0504, e_all=0.1815.</p>
 
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
-N_comments: "5"
-dens_val: 12.3
+N_comments: "6"
+rc_val: 1.6
+dens_val: 4.5
 N_50_val: 162
 scix_url: Czernik%2030
 posit_table: |
@@ -82,7 +84,7 @@ posit_table: |
     |[Cantat-Gaudin et al.](https://scixplorer.org/abs/2018A%26A...618A..93C) | 2018 | 112.796 | -9.945 | 0.11 | -0.587 | -0.097 | -- |
     |[Dias et al.](https://scixplorer.org/abs/2018MNRAS.478.5184D) | 2018 | -- | -- | -- | -1.85 | 0.56 | -- |
     |[Loktin & Popova](https://scixplorer.org/abs/2017AstBu..72..257L) | 2017 | 112.785 | -9.94 | -- | -1.874 | 1.12 | 79.9 |
-    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 112.825 | -9.967 | -3.57 | -2.72 | -- | -- |
+    |[Sampedro et al.](https://scixplorer.org/abs/2017MNRAS.470.3937S) | 2017 | 112.825 | -9.967 | -- | -3.57 | -2.72 | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2016A%26A...585A.101K) | 2016 | 112.79 | -9.938 | -- | -- | -- | -- |
     |[Tadross](https://scixplorer.org/abs/2014JAsGe...3...88T) | 2014 | 112.825 | -9.967 | -- | -- | -- | -- |
     |[Kharchenko et al.](https://scixplorer.org/abs/2013A%26A...558A..53K) | 2013 | 112.797 | -9.94 | -- | -1.89 | 0.94 | -- |
@@ -96,11 +98,11 @@ carousel: UCC_HUNT23_CANTAT20
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.595 | 0.76 | 1.51 | 2512 | -0.380 | 2939 | 0.79 | 5 |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 6.55 | 0.835 | 1.51 | 2512 | -0.380 | 2939 | 0.79 | 5 |
     | [Otto et al.](https://scixplorer.org/abs/2026AJ....171...91O) | 2026 | -- | -- | -- | 2884 | -0.380<sup>(15)</sup> | -- | -- | -- |
     | [Hu & Soubiran](https://scixplorer.org/abs/2025A%26A...699A.246H) | 2025 | -- | -- | -- | -- | -0.330<sup>(5)</sup> | -- | -- | -- |
     | [Almeida et al.](https://scixplorer.org/abs/2025A%26A...693A.305A) | 2025 | 5.94 | 0.96 | -- | 2985 | -- | 2172 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1037<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 6.24 | 0.91 | 1.51 | 1081 | -- | 1037<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 5.04 | 1.23 | -- | 4169 | -0.740 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 6.23 | 0.91 | 1.51 | 1081 | -- | -- | -- | -- |
     | [Just et al.](https://scixplorer.org/abs/2023A%26A...672A.187J) | 2023 | -- | -- | -- | 1585 | -- | 3133 | -- | -- |

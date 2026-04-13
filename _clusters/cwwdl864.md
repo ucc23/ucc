@@ -13,15 +13,15 @@ glon: 294.69589
 glat: -1.61688
 r50: 8.8
 plx: 0.3912
-UTI: "0.23"
-UTI_COLOR: "#fcd2c0"
+UTI: "0.20"
+UTI_COLOR: "#fbcbbd"
 UTI_C_N_COL: "#fefee8"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#d3ecc9"
 UTI_C_N: 0.5
-UTI_C_dens: 0.24
+UTI_C_dens: 0.04
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 0.76
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: ""
-dens_val: 1.2
+rc_val: 8.1
+dens_val: 0.2
 N_50_val: 51
 scix_url: CWWDL%20864
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[VDBH 121](/_clusters/vdbh121/)| 23.5 | 174.69 | -63.4 | 0.4 | -6.01 | 0.65 | 0.02 |0.77 |
+    |[VDBH 121](/_clusters/vdbh121/)| 23.5 | 174.69 | -63.4 | 0.4 | -6.01 | 0.65 | 0.02 |0.71 |
     |[IC 2944](/_clusters/ic2944/)| 13.7 | 174.56 | -63.37 | 0.39 | -6.09 | 0.66 | 0.02 |0.0 |
 N_rows_shared: "2"
 ---

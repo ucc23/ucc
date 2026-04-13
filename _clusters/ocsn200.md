@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 21.3
+rc_val: 1.9
+dens_val: 9.7
 N_50_val: 657
 scix_url: OCSN%20200
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.52 |
+    |[FoF 2387](/_clusters/fof2387/)| 93.9 | 117.39 | -46.67 | 2.53 | -4.71 | 8.96 | 17.63 |0.51 |
     |[OC 0470](/_clusters/oc0470/)| 13.7 | 117.34 | -46.37 | 2.55 | -4.71 | 9.06 | 17.63 |0.6 |
     |[CWWL 3526](/_clusters/cwwl3526/)| 7.6 | 117.91 | -46.81 | 2.54 | -4.78 | 8.82 | 19.74 |0.0 |
     |[CWWDL 14576](/_clusters/cwwdl14576/)| 3.8 | 116.76 | -47.37 | 2.52 | -4.68 | 8.88 | 20.47 |0.0 |

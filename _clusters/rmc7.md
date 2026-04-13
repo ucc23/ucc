@@ -3,7 +3,7 @@ layout: layout_cluster
 style: style_cluster
 title: RMC-7
 title_flag: true
-more_names: IRAS06329+0401
+more_names: IRAS 06329+0401
 fname: rmc7
 members_file: "204_208"
 fov: 0.28
@@ -13,25 +13,25 @@ glon: 207.56255
 glat: -1.69534
 r50: 8.4
 plx: 0.4072
-UTI: "0.36"
-UTI_COLOR: "#feecd0"
+UTI: "0.29"
+UTI_COLOR: "#fddfc6"
 UTI_C_N_COL: "#e0f1cb"
-UTI_C_dens_COL: "#fefee8"
+UTI_C_dens_COL: "#f4beb7"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.7
-UTI_C_dens: 0.5
+UTI_C_dens: 0.14
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
 UTI_C_N_desc: Moderately populated
-UTI_C_dens_desc: Moderately dense
+UTI_C_dens_desc: Very loose
 UTI_C_C3_desc: Intermediate quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>RMC-7</b> is a moderately populated, moderately dense object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. 
+    <b>RMC-7</b> is a moderately populated, very loose object of intermediate <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>. No fundamental parameter values are available for this object. It is <u>rarely</u> studied in the literature, with no articles listed in the last 23 years. 
 badge_dist: ""
 badge_dist_url: ""
 badge_av: ""
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "1"
-dens_val: 2.5
+rc_val: 2.2
+dens_val: 0.7
 N_50_val: 90
 scix_url: RMC-7
 posit_table: |

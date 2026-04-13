@@ -13,15 +13,15 @@ glon: 150.85407
 glat: -1.1266
 r50: 7.2
 plx: 0.3642
-UTI: "0.07"
-UTI_COLOR: "#ebb0b3"
+UTI: "0.06"
+UTI_COLOR: "#e9afb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e6acb3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.04
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.5
+rc_val: 1.9
+dens_val: 0.2
 N_50_val: 17
 scix_url: Majaess%2042
 posit_table: |
@@ -68,6 +69,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[BDSB 62](/_clusters/bdsb62/)| 84.0 | 60.94 | 51.0 | 0.36 | -0.34 | -0.88 | -29.33 |0.02 |
+    |[BDSB 62](/_clusters/bdsb62/)| 84.0 | 60.94 | 51.0 | 0.36 | -0.34 | -0.88 | -29.33 |0.01 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 139.99461
 glat: 0.1798
 r50: 5.9
 plx: 0.4182
-UTI: "0.17"
-UTI_COLOR: "#f7c5ba"
+UTI: "0.14"
+UTI_COLOR: "#f4beb7"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#fcd4c1"
+UTI_C_dens_COL: "#eeb4b3"
 UTI_C_C3_COL: "#eef7d4"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.24
+UTI_C_dens: 0.09
 UTI_C_C3: 0.62
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -52,7 +52,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: "2"
-dens_val: 1.2
+rc_val: 1.9
+dens_val: 0.5
 N_50_val: 20
 scix_url: AFGL437
 posit_table: |
@@ -74,6 +75,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[HSC 1130](/_clusters/hsc1130/)| 48.0 | 47.13 | 58.46 | 0.42 | 0.75 | -0.96 | -- |0.1 |
+    |[HSC 1130](/_clusters/hsc1130/)| 48.0 | 47.13 | 58.46 | 0.42 | 0.75 | -0.96 | -- |0.09 |
 N_rows_shared: "1"
 ---

@@ -13,15 +13,15 @@ glon: 245.3181
 glat: 1.31341
 r50: 9.0
 plx: 0.2462
-UTI: "0.06"
-UTI_COLOR: "#e9afb3"
+UTI: "0.05"
+UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#e4aab3"
+UTI_C_dens_COL: "#e2a9b3"
 UTI_C_C3_COL: "#fcd6c2"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.03
+UTI_C_dens: 0.02
 UTI_C_C3: 0.25
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span>
 N_comments: ""
-dens_val: 0.1
+rc_val: 3.9
+dens_val: 0.09
 N_50_val: 15
 scix_url: CWWDL%208831
 posit_table: |
@@ -71,6 +72,6 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWWDL 11011](/_clusters/cwwdl11011/)| 8.0 | 120.09 | -28.19 | 0.25 | -2.22 | 2.57 | 53.72 |0.12 |
+    |[CWWDL 11011](/_clusters/cwwdl11011/)| 8.0 | 120.09 | -28.19 | 0.25 | -2.22 | 2.57 | 53.72 |0.11 |
 N_rows_shared: "1"
 ---

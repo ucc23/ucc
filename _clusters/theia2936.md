@@ -16,12 +16,12 @@ plx: 0.5662
 UTI: "0.00"
 UTI_COLOR: "#dfa5b3"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f0b6b3"
+UTI_C_dens_COL: "#e7adb3"
 UTI_C_C3_COL: "#fef0d2"
 UTI_C_lit_COL: "#e9afb3"
 UTI_C_dup_COL: "#e6acb3"
 UTI_C_N: 0.0
-UTI_C_dens: 0.1
+UTI_C_dens: 0.05
 UTI_C_C3: 0.38
 UTI_C_lit: 0.06
 UTI_C_dup: 0.04
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 0.5
+rc_val: 2.2
+dens_val: 0.2
 N_50_val: 21
 scix_url: Theia%202936
 posit_table: |
@@ -70,9 +71,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.735 | 0.49 | 1.13 | 294 | 0.067 | 56 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 1.71 | 0.56 | 1.13 | 132 | 0.067 | 56 | -- | -- |
     | [Zhang et al.](https://scixplorer.org/abs/2024A%26A...692A.212Z) | 2024 | -- | -- | -- | -- | -0.156<sup>(1)</sup> | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 56<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 1.71 | 0.56 | 1.13 | 132 | -- | 56<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 1.76 | 0.42 | -- | 457 | 0.290 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 1.71 | 0.56 | 1.13 | 132 | -- | -- | -- | -- |
 N_rows_pars: "4"
@@ -80,10 +81,10 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[UBC 1202](/_clusters/ubc1202/)| 96.0 | 6.5 | 52.75 | 0.56 | -1.99 | -1.27 | -17.01 |0.33 |
+    |[UBC 1202](/_clusters/ubc1202/)| 96.0 | 6.5 | 52.75 | 0.56 | -1.99 | -1.27 | -17.01 |0.28 |
     |[CWNU 177](/_clusters/cwnu177/)| 56.0 | 6.57 | 52.73 | 0.57 | -1.99 | -1.27 | -- |0.0 |
-    |[UBC 1197](/_clusters/ubc1197/)| 28.0 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.12 |
-    |[OC 0224](/_clusters/oc0224/)| 20.0 | 6.64 | 52.91 | 0.57 | -2.04 | -1.24 | -7.39 |0.03 |
-    |[CWNU 479](/_clusters/cwnu479/)| 8.0 | 5.23 | 52.59 | 0.56 | -2.05 | -1.36 | -37.29 |0.07 |
+    |[UBC 1197](/_clusters/ubc1197/)| 28.0 | 5.36 | 52.69 | 0.55 | -2.02 | -1.35 | -37.29 |0.11 |
+    |[OC 0224](/_clusters/oc0224/)| 20.0 | 6.64 | 52.91 | 0.57 | -2.04 | -1.24 | -7.39 |0.02 |
+    |[CWNU 479](/_clusters/cwnu479/)| 8.0 | 5.23 | 52.59 | 0.56 | -2.05 | -1.36 | -37.29 |0.06 |
 N_rows_shared: "5"
 ---

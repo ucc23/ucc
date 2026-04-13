@@ -13,15 +13,15 @@ glon: 0.84952
 glat: -0.81162
 r50: 6.2
 plx: 0.3457
-UTI: "0.18"
-UTI_COLOR: "#f8c6ba"
+UTI: "0.17"
+UTI_COLOR: "#f7c5ba"
 UTI_C_N_COL: "#dfa5b3"
-UTI_C_dens_COL: "#f4beb7"
+UTI_C_dens_COL: "#edb2b3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#a5cab9"
 UTI_C_N: 0.0
-UTI_C_dens: 0.14
+UTI_C_dens: 0.08
 UTI_C_C3: 0.75
 UTI_C_lit: 0.0
 UTI_C_dup: 1.0
@@ -53,7 +53,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "3"
-dens_val: 0.7
+rc_val: 2.6
+dens_val: 0.4
 N_50_val: 19
 scix_url: HSC%208
 posit_table: |
@@ -69,13 +70,13 @@ fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
     | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.62 | 1.66 | 0.8 | 73 | -- | 443 | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 443<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.62 | 1.66 | 0.80 | 73 | -- | 443<sup>(1)</sup> | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.62 | 1.66 | 0.80 | 73 | -- | -- | -- | -- |
 N_rows_pars: "2"
 note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 3480](/_clusters/cwnu3480/)| 100.0 | 267.73 | -28.62 | 0.35 | 0.2 | -0.15 | -13.67 |0.2 |
+    |[CWNU 3480](/_clusters/cwnu3480/)| 100.0 | 267.73 | -28.62 | 0.35 | 0.2 | -0.15 | -13.67 |0.18 |
 N_rows_shared: "1"
 ---

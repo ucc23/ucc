@@ -13,15 +13,15 @@ glon: 111.11082
 glat: 0.40018
 r50: 7.6
 plx: 0.3342
-UTI: "0.31"
-UTI_COLOR: "#fee4c9"
+UTI: "0.28"
+UTI_COLOR: "#fdddc5"
 UTI_C_N_COL: "#fef9de"
-UTI_C_dens_COL: "#fbcdbe"
+UTI_C_dens_COL: "#e9afb3"
 UTI_C_C3_COL: "#d4ecc9"
 UTI_C_lit_COL: "#f0b6b3"
 UTI_C_dup_COL: "#a9d1bc"
 UTI_C_N: 0.45
-UTI_C_dens: 0.21
+UTI_C_dens: 0.06
 UTI_C_C3: 0.75
 UTI_C_lit: 0.1
 UTI_C_dup: 0.96
@@ -31,7 +31,7 @@ UTI_C_C3_desc: High quality
 UTI_C_lit_desc: Rarely studied
 UTI_C_dup_desc: Unique
 summary: |
-    <b>CWNU 459</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
+    <b>CWNU 459</b> is a poorly populated, very loose object of high <a href="/faq#what-is-the-c3-parameter" title="C3 classification" target="_blank">C3 quality</a>. Its parallax locates it at a moderate distance, <a href="#tab_gcpos" onclick="activateTabById(event, 'tab_gcpos', 'gcpos')">near the mid-plane</a>, affected by moderate extinction. It is catalogued as a massive, near-solar metallicity, very young cluster (see <a href="#parameters" onclick="activateTabById(event, 'tab_parameters', 'parameters')">Parameters</a>). It is <u>rarely</u> studied in the literature. <p class="note"><strong>Note:</strong> This is <a href="/faq#how-is-the-duplicate-probability-estimated" target="_blank" title="How is the duplicate probability estimated?">a unique</a> object, which shares a very small percentage of members with at least one previously reported entry. See table with <a href="#tab_obj_shared" onclick="activateTabById(event, 'tab_obj_shared', 'obj_shared')">shared members information</a>.</p>
 badge_dist: "Relatively close"
 badge_dist_url: "dist_min=1&dist_max=3"
 badge_av: "Moderate extinction"
@@ -40,8 +40,8 @@ badge_mass: "Massive"
 badge_mass_url: "mass_min=1000&mass_max=5000"
 badge_feh: "Near-solar metallicity"
 badge_feh_url: "feh_min=-0.5&feh_max=0.5"
-badge_age: "Young"
-badge_age_url: "age_min=20&age_max=100"
+badge_age: "Very young"
+badge_age_url: "age_min=0&age_max=20"
 badge_bss: ""
 badge_bss_url: ""
 badge_nofpars_url: ""
@@ -55,7 +55,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "5"
-dens_val: 1.0
+rc_val: 1.1
+dens_val: 0.3
 N_50_val: 45
 scix_url: CWNU%20459
 posit_table: |
@@ -72,9 +73,9 @@ carousel: UCC_HUNT23
 fpars_table: |
     | Reference | Year | Dist [kpc] | Av [mag] | DAv [mag] | Age [Myr] | [Fe/H] [dex] | Mass [Msun] | B<sub>frac</sub> | BSS |
     | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.7 | 2.18 | 2.2 | 23 | 0.349 | 1172 | -- | -- |
+    | **UCC** | <span class="hidden-cell-val">99999</span>-- | 2.73 | 2.27 | 2.2 | 19 | 0.349 | 1172 | -- | -- |
     | [Liu et al.](https://scixplorer.org/abs/2025A%26A...702A..48L) | 2025 | 6.19 | 0.80 | -- | 19 | -- | -- | -- | -- |
-    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | -- | -- | -- | -- | -- | 1172<sup>(1)</sup> | -- | -- |
+    | [Hunt & Reffert](https://scixplorer.org/abs/2024A%26A...686A..42H) | 2024 | 2.73 | 2.27 | 2.20 | 19 | -- | 1172<sup>(1)</sup> | -- | -- |
     | [Cavallo et al.](https://scixplorer.org/abs/2024AJ....167...12C) | 2024 | 2.67 | 2.36 | -- | 27 | 0.300 | -- | -- | -- |
     | [Hunt & Reffert](https://scixplorer.org/abs/2023A%26A...673A.114H) | 2023 | 2.73 | 2.27 | 2.20 | 19 | -- | -- | -- | -- |
     | [He et al.](https://scixplorer.org/abs/2022ApJS..260....8H) | 2022 | 2.40 | 2.09 | -- | 63 | 0.398 | -- | -- | -- |
@@ -83,7 +84,7 @@ note_asterisk: true
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.19 |
-    |[CWWDL 2573](/_clusters/cwwdl2573/)| 2.2 | 347.57 | 60.95 | 0.32 | -4.13 | -1.97 | -- |0.03 |
+    |[FSR 0425](/_clusters/fsr0425/)| 4.4 | 348.56 | 61.22 | 0.35 | -4.43 | -1.86 | -- |0.18 |
+    |[CWWDL 2573](/_clusters/cwwdl2573/)| 2.2 | 347.57 | 60.95 | 0.32 | -4.13 | -1.97 | -- |0.02 |
 N_rows_shared: "2"
 ---

@@ -16,12 +16,12 @@ plx: 0.2589
 UTI: "0.05"
 UTI_COLOR: "#e7adb3"
 UTI_C_N_COL: "#fee9cd"
-UTI_C_dens_COL: "#fbd0bf"
+UTI_C_dens_COL: "#f6c2b8"
 UTI_C_C3_COL: "#fefee8"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#fcd4c1"
 UTI_C_N: 0.34
-UTI_C_dens: 0.22
+UTI_C_dens: 0.16
 UTI_C_C3: 0.5
 UTI_C_lit: 0.0
 UTI_C_dup: 0.24
@@ -51,7 +51,8 @@ comments: |
 class3: |
     <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span>
 N_comments: "1"
-dens_val: 1.1
+rc_val: 2.1
+dens_val: 0.8
 N_50_val: 34
 scix_url: DBSB%2015
 posit_table: |
@@ -70,7 +71,7 @@ shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
     |[CWNU 3351](/_clusters/cwnu3351/)| 91.2 | 115.07 | -33.57 | 0.26 | -2.25 | 3.04 | -- |0.05 |
-    |[Bochum 15](/_clusters/bochum15/)| 76.5 | 115.08 | -33.57 | 0.26 | -2.24 | 3.04 | -- |0.25 |
-    |[Cmg 1050](/_clusters/cmg1050/)| 20.6 | 114.86 | -33.65 | 0.26 | -2.24 | 3.03 | -- |0.06 |
+    |[Bochum 15](/_clusters/bochum15/)| 76.5 | 115.08 | -33.57 | 0.26 | -2.24 | 3.04 | -- |0.24 |
+    |[Cmg 1050](/_clusters/cmg1050/)| 20.6 | 114.86 | -33.65 | 0.26 | -2.24 | 3.03 | -- |0.05 |
 N_rows_shared: "3"
 ---

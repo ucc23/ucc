@@ -16,12 +16,12 @@ plx: 2.9359
 UTI: "0.01"
 UTI_COLOR: "#e0a7b3"
 UTI_C_N_COL: "#d0eac9"
-UTI_C_dens_COL: "#a5cab9"
+UTI_C_dens_COL: "#a9d1bc"
 UTI_C_C3_COL: "#a5cab9"
 UTI_C_lit_COL: "#dfa5b3"
 UTI_C_dup_COL: "#e0a7b3"
 UTI_C_N: 0.77
-UTI_C_dens: 1.0
+UTI_C_dens: 0.96
 UTI_C_C3: 1.0
 UTI_C_lit: 0.0
 UTI_C_dup: 0.01
@@ -50,7 +50,8 @@ comments: |
 class3: |
     <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span>
 N_comments: ""
-dens_val: 12.4
+rc_val: 1.6
+dens_val: 4.8
 N_50_val: 148
 scix_url: OCSN%20201
 posit_table: |
@@ -71,7 +72,7 @@ note_asterisk: false
 shared_table: |
     | Cluster | <span title="Percentage of members that this OC shares with the ones listed">%</span>   | RA   | DEC   | Plx   | pmRA  | pmDE  | Rv | UTI |
     | :-: | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    |[CWNU 1083](/_clusters/cwnu1083/)| 98.6 | 125.88 | -41.17 | 2.94 | -7.12 | 10.11 | 15.36 |0.59 |
+    |[CWNU 1083](/_clusters/cwnu1083/)| 98.6 | 125.88 | -41.17 | 2.94 | -7.12 | 10.11 | 15.36 |0.54 |
     |[CWWDL 14610](/_clusters/cwwdl14610/)| 43.9 | 126.15 | -40.96 | 2.94 | -7.12 | 10.14 | 15.09 |0.0 |
 N_rows_shared: "2"
 ---
