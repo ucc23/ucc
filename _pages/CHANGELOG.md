@@ -9,6 +9,15 @@ If you find any problems with the site or have suggestions on how to improve it,
 you can open a new issue in the [site's repository](https://github.com/ucc23/ucc/issues)
 
 
+## Version [260413](https://zenodo.org/records/19559975)
+
+- Added Hu et al (2021); comments only
+- Fixed Sampedro et al 2017 bad plx,pmra/pmde columns
+- Better stellar density estimation + add core radius estimation
+- Added more parameters to HUNT2024 (same as HUNT2023)
+
+
+
 ## Version [260409](https://zenodo.org/records/19488683)
 
 - Fixed wrong transformation Z to FeH (was using natural logarithm instead of 10)

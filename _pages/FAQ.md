@@ -12,10 +12,8 @@ can be found in its
 <a data-umami-event="zenodo_repo" href="https://zenodo.org/doi/10.5281/zenodo.8250523" target="_blank">Zenodo repository</a>.
 
 Please [contact me](mailto:gabrielperren@gmail.com) for any comments/suggestions, or open a
-<a href="https://github.com/ucc23/ucc/issues" target="_blank">Github issue</a>.
-
-
-If you found the **UCC** useful for your research, please reference its original article
+<a href="https://github.com/ucc23/ucc/issues" target="_blank">Github issue</a>. If
+you found the **UCC** useful for your research, please reference its original article
 <a data-umami-event="orig_article" href="https://doi.org/10.1093/mnras/stad2826">Perren
 et al. (2023)</a>. You can use the following text:
 
@@ -79,6 +77,24 @@ in the [database]({% link _pages/ARTICLES.md %}), you can
 Membership is obtained through the `fastMP` method described in Sect. 3 of
 [Perren et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4107P/abstract). The `fastMP` membership estimation method has been
 incorporated into the [`ASteCA` package](https://asteca.github.io/) (see details [here](https://asteca.readthedocs.io/en/latest/contents/membership_mod.html)).
+
+If the number of stars identified with P>50% (P: membership probability) is
+less than 25, then the 25 stars with the highest membership probabilities are selected
+as members.
+
+
+
+## How are the core values estimated?
+
+The core radius is estimated as the radius where the stellar density drops to half of
+the central density. The core stellar density is then obtained as the number of members
+within the core radius divided by the area of the core.
+
+Notice that both values are approximations since the actual core radius should
+be estimated by fitting a King profile to the observed stellar density distribution.
+
+The conversion to parsec is done using the parallax of the cluster, estimated as the
+median parallax of the identified members.
 
 
 

@@ -1688,6 +1688,18 @@ Added `(RA_ICRS,DE_ICRS)` columns.
 
 
 
+## Hu et al 2021
+
+[Decoding the morphological evolution of open clusters](https://scixplorer.org/abs/2021A%26A...656A..49H)
+
+[Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=2021A%26A...656A..49H) table contains 1256 entries. Extracted ellipticities (core, all)
+as comments.
+
+
+
+
+
+
 ## Hunt & Reffert 2021
 
 [Improving the open cluster census. I. Comparison of clustering algorithms applied to
@@ -2678,5 +2690,4 @@ UPK 442 is missing from Table 2.
 
 Data from Table 2, 3, 4, 5, 6 in Appendix B. Tables 3, 4, 5, 6 were used to estimate
 the number of probable WDs found in each cluster, applying a cut at P>=0.5.
-
 
