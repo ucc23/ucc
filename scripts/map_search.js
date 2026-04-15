@@ -15,7 +15,7 @@ const DEFAULTS = {
   mass: { min: 0, max: 1e7 },
   bf: { min: 0, max: 1.01 },
   bss: { min: 0, max: 1e6 },
-  n50: { min: 0, max: 100000 },
+  nmembs: { min: 0, max: 100000 },
   Pdup: { min: 0, max: 1.01 },
   uti: { min: 0, max: 1.01 },
   Nmax: 100
@@ -106,7 +106,7 @@ async function loadAndNormalizeData() {
       bfrac: num(d.bi_frac),
       bss: num(d.blue_str),
       dist_plx_pc: +d.dist_plx_pc,
-      membs: +d.N_50,
+      membs: +d.N_membs,
       uti: +d.UTI,
       pdup: +d.P_dup,
       badoc: d.bad_oc,
@@ -150,8 +150,8 @@ function getInputValues() {
     bssmin: getValue("bss_min"),
     bssmax: getValue("bss_max"),
     hide_bss_nans: getChecked("hide_bss_nans"),
-    n50min: getValue("n50_min"),
-    n50max: getValue("n50_max"),
+    nmembsmin: getValue("nmembs_min"),
+    nmembsmax: getValue("nmembs_max"),
     Pdupmin: getValue("Pdup_min"),
     Pdupmax: getValue("Pdup_max"),
     utimin: getValue("uti_min"),
@@ -215,9 +215,9 @@ function getFilteredPoints() {
       max: parseWithDefault(inputs.bssmax, DEFAULTS.bss.max),
       hideNans: inputs.hide_bss_nans
     },
-    n50: {
-      min: parseWithDefault(inputs.n50min, DEFAULTS.n50.min),
-      max: parseWithDefault(inputs.n50max, DEFAULTS.n50.max)
+    nmembs: {
+      min: parseWithDefault(inputs.nmembsmin, DEFAULTS.nmembs.min),
+      max: parseWithDefault(inputs.nmembsmax, DEFAULTS.nmembs.max)
     },
     Pdup: {
       min: parseWithDefault(inputs.Pdupmin, DEFAULTS.Pdup.min),
@@ -249,7 +249,7 @@ function getFilteredPoints() {
       if (!inRange(filters.bss.hideNans, d.bss, filters.bss.min, filters.bss.max)) return false;
       
       // Simple numeric filters
-      if (d.membs < filters.n50.min || d.membs > filters.n50.max) return false;
+      if (d.membs < filters.nmembs.min || d.membs > filters.nmembs.max) return false;
       if (d.pdup < filters.Pdup.min || d.pdup > filters.Pdup.max) return false;
       if (d.uti < filters.uti.min || d.uti > filters.uti.max) return false;
       
@@ -372,7 +372,7 @@ function buildTable(points, totalCount) {
           <th class="center">Mass<br><span style="font-size:0.85em;">[M⊙]</span></th>
           <th class="center">B<sub>frac</sub></th>
           <th class="center">BSS</th>
-          <th class="center">N<sub>50</sub></th>
+          <th class="center">N<sub>m</sub></th>
           <th class="center">P<sub>dup</sub></th>
           <th class="center">UTI</th>
         </tr>
@@ -389,7 +389,7 @@ function downloadCSV() {
     return;
   }
 
-  const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist", "Av", "DAv", "Age", "FeH", "Mass", "BF", "BSS", "N_50", "P_dup", "UTI", "bad_oc"];
+  const headers = ["Name", "RA", "DEC", "GLON", "GLAT", "Dist", "Av", "DAv", "Age", "FeH", "Mass", "BF", "BSS", "N_membs", "P_dup", "UTI", "bad_oc"];
   const rows = cachedPoints.map(d => [
     `"${d.Name}"`,
     d.RA_ICRS,

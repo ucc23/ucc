@@ -78,9 +78,9 @@ style: style_search
                 </div>
                <div class="separator-horizontal"></div>
                 <div class="search-row">
-                    <input-label>N<sub>50</sub></input-label>
-                    <input id="n50_min" class="search-trigger" type="number" min="0" step="10" placeholder="min" title="Minimum N50 value">
-                    <input id="n50_max" class="search-trigger" type="number" min="0" step="10" placeholder="max" title="Maximum N50 value">
+                    <input-label>N<sub>m</sub></input-label>
+                    <input id="nmembs_min" class="search-trigger" type="number" min="0" step="100" placeholder="min" title="Minimum number of members">
+                    <input id="nmembs_max" class="search-trigger" type="number" min="0" step="100" placeholder="max" title="Maximum number of members">
                     <!-- <div class="separator"></div> -->
                     <input-label>P<sub>dup</sub></input-label>
                     <input id="Pdup_min" class="search-trigger" type="number" min="0" max="1" step="0.1" placeholder="min" title="Minimum duplicate probability">
