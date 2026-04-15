@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 1.1
 dens_val: 0.8
-N_50_val: 23
+N_membs_val: 23
 scix_url: MCM%2066
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

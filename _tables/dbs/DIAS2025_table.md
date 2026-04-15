@@ -12,7 +12,7 @@ This database consists of 28 entries, of which 25% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/dias12/" target="_blank" style="color: red;">Dias 12</a> | 9.3 | 66.32 | 121.5 | 3.49 | 0.14 | 33 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.1 |
 | <a href="{{ site.baseurl }}/_clusters/dias13/" target="_blank" style="color: $blue;">Dias 13</a> | 15.03 | 64.41 | 123.87 | 1.55 | 0.12 | 27 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.74 | 0.02 |

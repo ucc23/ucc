@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 2.0
 dens_val: 22
-N_50_val: 1474
+N_membs_val: 1474
 scix_url: Melotte%2071
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

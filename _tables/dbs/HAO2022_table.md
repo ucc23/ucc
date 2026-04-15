@@ -12,7 +12,7 @@ This database consists of 703 entries, of which 55% are probable duplicates ([P<
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/oc0001/" target="_blank" style="color: $blue;">OC 0001</a> | 267.98 | -27.85 | 1.65 | -0.62 | 0.34 | 27 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0 |
 | <a href="{{ site.baseurl }}/_clusters/oc0002/" target="_blank" style="color: $blue;">OC 0002</a> | 263.36 | -25.01 | 1.9 | 4.36 | 0.81 | 45 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.96 | 0.02 |

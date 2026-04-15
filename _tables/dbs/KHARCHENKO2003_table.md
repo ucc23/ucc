@@ -12,7 +12,7 @@ This database consists of 401 entries, of which 4% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/antalova1/" target="_blank" style="color: $blue;">Antalova 1</a> | 262.22 | -31.62 | 355.8 | 1.62 | 0.65 | 21 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.4 |
 | <a href="{{ site.baseurl }}/_clusters/avenihunter1/" target="_blank" style="color: $blue;">Aveni-Hunter 1</a> | 354.18 | 48.16 | 110.27 | -12.82 | 2.37 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.8 |

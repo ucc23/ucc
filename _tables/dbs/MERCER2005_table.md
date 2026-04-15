@@ -12,7 +12,7 @@ This database consists of 91 entries, of which 1% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | 286.72 | 9.6 | 43.22 | 0.97 | 0.28 | 24 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.41 |
 | <a href="{{ site.baseurl }}/_clusters/dbsb88/" target="_blank" style="color: red;">DBSB 88</a> | 215.0 | -65.46 | 311.95 | -4.13 | 0.2 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.09 |

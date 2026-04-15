@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 2.0
 dens_val: 2.5
-N_50_val: 78
+N_membs_val: 78
 scix_url: Koposov%2053
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

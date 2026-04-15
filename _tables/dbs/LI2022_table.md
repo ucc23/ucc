@@ -12,7 +12,7 @@ This database consists of 61 entries, of which 44% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/lisc0192/" target="_blank" style="color: red;">LISC 0192</a> | 153.53 | -58.18 | 283.39 | -1.36 | 0.32 | 29 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.09 |
 | <a href="{{ site.baseurl }}/_clusters/lisc0275/" target="_blank" style="color: $blue;">LISC 0275</a> | 359.59 | 61.19 | 116.58 | -1.02 | 0.3 | 100 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.85 | 0.07 |

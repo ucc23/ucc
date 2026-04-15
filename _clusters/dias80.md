@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 4.4
 dens_val: 0.08
-N_50_val: 32
+N_membs_val: 32
 scix_url: Dias%2080
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

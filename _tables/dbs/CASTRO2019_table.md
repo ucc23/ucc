@@ -12,7 +12,7 @@ This database consists of 53 entries, of which 43% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/coingaia11/" target="_blank" style="color: $blue;">COIN-Gaia 11</a> | 68.1 | 39.49 | 162.51 | -5.8 | 1.52 | 142 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.73 |
 | <a href="{{ site.baseurl }}/_clusters/ubc33/" target="_blank" style="color: $blue;">UBC 33</a> | 7.4 | 60.51 | 120.24 | -2.25 | 0.65 | 74 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.37 |

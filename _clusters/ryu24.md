@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 0.7
 dens_val: 4.3
-N_50_val: 21
+N_membs_val: 21
 scix_url: Ryu%2024
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

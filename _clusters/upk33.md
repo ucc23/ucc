@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 2.2
 dens_val: 2.0
-N_50_val: 81
+N_membs_val: 81
 scix_url: UPK%2033
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

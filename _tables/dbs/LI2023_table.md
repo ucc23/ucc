@@ -12,7 +12,7 @@ This database consists of 35 entries, of which 100% are classified as [likely no
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/lisc3630/" target="_blank" style="color: red;">LISC 3630</a> | 17.7 | -72.52 | 300.89 | -44.53 | 0.24 | 3 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/lisc3632/" target="_blank" style="color: red;">LISC 3632</a> | 9.16 | -73.51 | 304.38 | -43.58 | 0.2 | 8 | <span style="color: red; font-weight: bold;">C</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.03 |

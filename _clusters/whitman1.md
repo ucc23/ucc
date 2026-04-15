@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 6.9
 dens_val: 0.08
-N_50_val: 14
+N_membs_val: 14
 scix_url: Whitman%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

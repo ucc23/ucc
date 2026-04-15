@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 0.2
 dens_val: 238
-N_50_val: 88
+N_membs_val: 88
 scix_url: Orion%20Nebula
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 78
 dens_val: 0.00
-N_50_val: 11
+N_membs_val: 11
 scix_url: Mamajek%201732
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

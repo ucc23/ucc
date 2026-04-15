@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 1.3
 dens_val: 6.6
-N_50_val: 162
+N_membs_val: 162
 scix_url: VDBH%2019
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

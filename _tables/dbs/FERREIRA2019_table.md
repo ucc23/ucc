@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ngc5999/" target="_blank" style="color: $blue;">NGC 5999</a> | 238.04 | -56.48 | 326.01 | -1.94 | 0.35 | 495 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.95 |
 | <a href="{{ site.baseurl }}/_clusters/ufmg1/" target="_blank" style="color: $blue;">UFMG 1</a> | 236.58 | -56.8 | 325.18 | -1.68 | 0.37 | 335 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.57 |

@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 3.7
 dens_val: 1.1
-N_50_val: 149
+N_membs_val: 149
 scix_url: UPK%2084
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

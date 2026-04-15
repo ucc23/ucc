@@ -12,7 +12,7 @@ This database consists of 31 entries, of which 3% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/db200110/" target="_blank" style="color: $blue;">DB2001 10</a> | 308.08 | 40.29 | 79.3 | 0.32 | 1.02 | 99 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.55 |
 | <a href="{{ site.baseurl }}/_clusters/db200111/" target="_blank" style="color: red;">DB2001 11</a> | 307.06 | 40.87 | 79.27 | 1.25 | 0.51 | 21 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.08 |

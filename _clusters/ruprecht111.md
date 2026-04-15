@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.8
 dens_val: 10
-N_50_val: 335
+N_membs_val: 335
 scix_url: Ruprecht%20111
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

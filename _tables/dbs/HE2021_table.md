@@ -12,7 +12,7 @@ This database consists of 74 entries, of which 8% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/hxhwl1/" target="_blank" style="color: red;">HXHWL 1</a> | 328.51 | 46.91 | 94.27 | -5.82 | 0.67 | 28 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.18 |
 | <a href="{{ site.baseurl }}/_clusters/hxhwl10/" target="_blank" style="color: $blue;">HXHWL 10</a> | 256.47 | -48.39 | 339.56 | -4.47 | 1.1 | 75 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.38 |

@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 1.0
 dens_val: 26
-N_50_val: 217
+N_membs_val: 217
 scix_url: Westerlund%202
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ic2714/" target="_blank" style="color: $blue;">IC 2714</a> | 169.38 | -62.71 | 292.4 | -1.78 | 0.74 | 1345 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |
 | <a href="{{ site.baseurl }}/_clusters/ic4756/" target="_blank" style="color: $blue;">IC 4756</a> | 279.66 | 5.45 | 36.34 | 5.32 | 2.11 | 643 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 1.0 |

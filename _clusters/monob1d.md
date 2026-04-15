@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.7
 dens_val: 19
-N_50_val: 491
+N_membs_val: 491
 scix_url: MonOB1-D
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

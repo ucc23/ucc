@@ -12,7 +12,7 @@ This database consists of 255 entries, of which 5% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/theia10/" target="_blank" style="color: $blue;">Theia 10</a> | 333.13 | 73.25 | 111.93 | 13.83 | 2.93 | 51 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.53 | 0.18 |
 | <a href="{{ site.baseurl }}/_clusters/theia100/" target="_blank" style="color: $blue;">Theia 100</a> | 346.9 | 45.93 | 104.71 | -13.31 | 2.04 | 87 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.39 |

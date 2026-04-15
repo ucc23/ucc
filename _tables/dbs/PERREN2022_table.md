@@ -12,7 +12,7 @@ This database consists of 23 entries, of which 9% are classified as [likely non-
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/arpmadore2/" target="_blank" style="color: $blue;">Arp Madore 2</a> | 114.69 | -33.84 | 248.12 | -5.88 | 0.06 | 131 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.46 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley102/" target="_blank" style="color: $blue;">Berkeley 102</a> | 354.66 | 56.64 | 113.01 | -4.82 | 0.09 | 181 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.68 |

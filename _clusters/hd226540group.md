@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 1.0
 dens_val: 3.3
-N_50_val: 42
+N_membs_val: 42
 scix_url: HD%20226540%20Group
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

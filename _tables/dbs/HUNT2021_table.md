@@ -12,7 +12,7 @@ This database consists of 41 entries, of which 5% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/phoc1/" target="_blank" style="color: $blue;">PHOC 1</a> | 127.0 | -42.77 | 260.81 | -2.43 | 0.69 | 39 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.32 |
 | <a href="{{ site.baseurl }}/_clusters/phoc10/" target="_blank" style="color: $blue;">PHOC 10</a> | 266.64 | -30.37 | 358.89 | -0.93 | 0.77 | 38 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.32 |

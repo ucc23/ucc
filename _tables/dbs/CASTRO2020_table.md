@@ -12,7 +12,7 @@ This database consists of 570 entries, of which 23% are probable duplicates ([P<
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/fof1800/" target="_blank" style="color: $blue;">FoF 1800</a> | 337.85 | 58.06 | 105.26 | 0.08 | 0.7 | 253 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.66 |
 | <a href="{{ site.baseurl }}/_clusters/ubc100/" target="_blank" style="color: $blue;">UBC 100</a> | 281.24 | -11.09 | 22.35 | -3.64 | 0.73 | 43 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.4 |

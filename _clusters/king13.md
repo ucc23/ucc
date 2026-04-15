@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 2.5
 dens_val: 8.7
-N_50_val: 669
+N_membs_val: 669
 scix_url: King%2013
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

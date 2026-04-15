@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ascc20/" target="_blank" style="color: $blue;">ASCC 20</a> | 82.08 | 1.66 | 201.58 | -17.62 | 2.75 | 244 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.71 |
 | <a href="{{ site.baseurl }}/_clusters/alessi24/" target="_blank" style="color: $blue;">Alessi 24</a> | 260.78 | -62.72 | 328.96 | -14.59 | 2.06 | 350 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |

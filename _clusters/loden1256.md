@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 2.2
 dens_val: 2.3
-N_50_val: 83
+N_membs_val: 83
 scix_url: Loden%201256
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

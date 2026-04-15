@@ -12,7 +12,7 @@ This database consists of 234 entries, of which 3% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/collinder140/" target="_blank" style="color: $blue;">Collinder 140</a> | 110.9 | -31.99 | 244.99 | -7.81 | 2.6 | 275 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.93 |
 | <a href="{{ site.baseurl }}/_clusters/collinder205/" target="_blank" style="color: $blue;">Collinder 205</a> | 135.12 | -48.98 | 269.21 | -1.85 | 0.53 | 192 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |

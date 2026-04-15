@@ -55,7 +55,7 @@ class3: |
 N_comments: "3"
 rc_val: 2.4
 dens_val: 2.8
-N_50_val: 206
+N_membs_val: 206
 scix_url: Majaess%20133
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

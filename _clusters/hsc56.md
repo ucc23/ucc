@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 0.9
 dens_val: 4.2
-N_50_val: 46
+N_membs_val: 46
 scix_url: HSC%2056
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

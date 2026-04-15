@@ -12,7 +12,7 @@ This database consists of 40 entries, of which 20% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/vvvxobasi1/" target="_blank" style="color: red;">VVVX-Obasi 1</a> | 271.55 | -20.08 | 10.0 | 0.42 | 0.31 | 24 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.04 |
 | <a href="{{ site.baseurl }}/_clusters/vvvxobasi10/" target="_blank" style="color: $blue;">VVVX-Obasi 10</a> | 112.09 | -22.68 | 237.2 | -2.52 | 0.32 | 41 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.61 | 0.11 |

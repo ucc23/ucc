@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 10
 dens_val: 0.02
-N_50_val: 13
+N_membs_val: 13
 scix_url: VVVX%20CL056
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

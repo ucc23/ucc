@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 0.6
 dens_val: 25
-N_50_val: 133
+N_membs_val: 133
 scix_url: Pismis%20Moreno%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

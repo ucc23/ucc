@@ -12,7 +12,7 @@ This database consists of 83 entries, of which 13% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/lisciii1031/" target="_blank" style="color: red;">LISC-III 1031</a> | 75.07 | 50.84 | 157.11 | 5.29 | 0.25 | 19 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.04 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/lisciii1036/" target="_blank" style="color: red;">LISC-III 1036</a> | 70.15 | 55.32 | 151.71 | 5.8 | 0.24 | 18 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.08 |

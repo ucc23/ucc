@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 3.8
 dens_val: 2.2
-N_50_val: 201
+N_membs_val: 201
 scix_url: UBC%2043
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

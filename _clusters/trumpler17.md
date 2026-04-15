@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.9
 dens_val: 8.6
-N_50_val: 284
+N_membs_val: 284
 scix_url: Trumpler%2017
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

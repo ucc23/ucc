@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 0.7
 dens_val: 3.2
-N_50_val: 26
+N_membs_val: 26
 scix_url: Chupina%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

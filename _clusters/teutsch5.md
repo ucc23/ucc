@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 0.9
 dens_val: 13
-N_50_val: 118
+N_membs_val: 118
 scix_url: Teutsch%205
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

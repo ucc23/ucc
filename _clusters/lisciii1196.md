@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 5.8
 dens_val: 0.05
-N_50_val: 22
+N_membs_val: 22
 scix_url: LISC-III%201196
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 1.1
 dens_val: 6.9
-N_50_val: 105
+N_membs_val: 105
 scix_url: Bochum%2013
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

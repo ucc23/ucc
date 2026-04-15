@@ -62,7 +62,7 @@ class3: |
 N_comments: "10"
 rc_val: 2.6
 dens_val: 8.7
-N_50_val: 803
+N_membs_val: 803
 scix_url: Melotte%2020
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

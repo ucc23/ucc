@@ -12,7 +12,7 @@ This database consists of 15 entries, of which 13% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi21/" target="_blank" style="color: $blue;">Alessi 21</a> | 107.66 | -9.4 | 223.47 | -0.05 | 1.74 | 476 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.94 |
 | <a href="{{ site.baseurl }}/_clusters/cma01/" target="_blank" style="color: $blue;">CMa01</a> | 106.81 | -7.67 | 221.57 | 0.03 | 0.93 | 55 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 1.0 | 0.0 |

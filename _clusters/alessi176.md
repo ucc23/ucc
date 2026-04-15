@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 3.0
 dens_val: 0.1
-N_50_val: 39
+N_membs_val: 39
 scix_url: Alessi%20176
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

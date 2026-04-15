@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 3.5
 dens_val: 0.05
-N_50_val: 12
+N_membs_val: 12
 scix_url: CKCWDM%2030820
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

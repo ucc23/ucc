@@ -12,7 +12,7 @@ This database consists of 541 entries, of which 34% are probable duplicates ([P<
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/cwnu1/" target="_blank" style="color: $blue;">CWNU 1</a> | 259.27 | -41.69 | 346.14 | -2.14 | 0.6 | 32 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: green; font-weight: bold;">A</span> | 1.0 | 0.0 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu10/" target="_blank" style="color: $blue;">CWNU 10</a> | 95.29 | 18.84 | 192.77 | 2.09 | 1.01 | 26 | <span style="color: red; font-weight: bold;">C</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.81 | 0.04 |

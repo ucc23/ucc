@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.9
 dens_val: 12
-N_50_val: 434
+N_membs_val: 434
 scix_url: Briceno%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

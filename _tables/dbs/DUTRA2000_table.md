@@ -12,7 +12,7 @@ This database consists of 58 entries, of which 2% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica1/" target="_blank" style="color: red;">Dutra Bica 1</a> | 266.72 | -29.06 | 0.05 | -0.3 | 0.4 | 34 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.11 |
 | <a href="{{ site.baseurl }}/_clusters/dutrabica10/" target="_blank" style="color: red;">Dutra Bica 10</a> | 267.58 | -28.89 | 0.58 | -0.85 | 0.29 | 18 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.09 |

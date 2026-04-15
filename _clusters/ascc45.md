@@ -55,7 +55,7 @@ class3: |
 N_comments: "3"
 rc_val: 5.1
 dens_val: 0.7
-N_50_val: 119
+N_membs_val: 119
 scix_url: ASCC%2045
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

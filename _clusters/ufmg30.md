@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 2.1
 dens_val: 2.1
-N_50_val: 93
+N_membs_val: 93
 scix_url: UFMG%2030
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

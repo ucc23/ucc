@@ -12,7 +12,7 @@ This database consists of 120 entries, of which 2% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl001/" target="_blank" style="color: red;">VVVX CL001</a> | 180.31 | -65.16 | 297.67 | -2.77 | 0.21 | 10 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.05 |
 | <a href="{{ site.baseurl }}/_clusters/vvvxcl002/" target="_blank" style="color: red;">VVVX CL002</a> | 180.32 | -65.12 | 297.65 | -2.75 | 0.34 | 14 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |

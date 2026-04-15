@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 7.8
 dens_val: 0.2
-N_50_val: 66
+N_membs_val: 66
 scix_url: Bica%205
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

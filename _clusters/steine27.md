@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 2.2
 dens_val: 0.3
-N_50_val: 30
+N_membs_val: 30
 scix_url: Steine%2027
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

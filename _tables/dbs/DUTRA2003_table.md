@@ -12,7 +12,7 @@ This database consists of 144 entries, of which 6% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/dbsb10/" target="_blank" style="color: $blue;">DBSB 10</a> | 113.87 | -22.4 | 237.75 | -0.96 | 0.39 | 28 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.36 |
 | <a href="{{ site.baseurl }}/_clusters/dbsb100/" target="_blank" style="color: $blue;">DBSB 100</a> | 245.11 | -50.91 | 332.84 | -0.59 | 0.21 | 164 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.62 |

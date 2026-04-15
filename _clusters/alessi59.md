@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 1.0
 dens_val: 4.4
-N_50_val: 39
+N_membs_val: 39
 scix_url: Alessi%2059
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 2.5
 dens_val: 5.1
-N_50_val: 276
+N_membs_val: 276
 scix_url: Kronberger%2053
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -12,7 +12,7 @@ This database consists of 347 entries, of which 6% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ngc1027/" target="_blank" style="color: $blue;">NGC 1027</a> | 40.68 | 61.62 | 135.75 | 1.54 | 0.88 | 634 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.95 |
 | <a href="{{ site.baseurl }}/_clusters/ngc103/" target="_blank" style="color: $blue;">NGC 103</a> | 6.31 | 61.33 | 119.79 | -1.39 | 0.28 | 343 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.97 |

@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 1.1
 dens_val: 1.0
-N_50_val: 23
+N_membs_val: 23
 scix_url: AFGL6366-N
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

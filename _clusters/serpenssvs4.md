@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 0.4
 dens_val: 10
-N_50_val: 26
+N_membs_val: 26
 scix_url: Serpens%20SVS4
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

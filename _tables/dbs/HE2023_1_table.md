@@ -12,7 +12,7 @@ This database consists of 2056 entries, of which 22% are probable duplicates ([P
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ascc110/" target="_blank" style="color: $blue;">ASCC 110</a> | 300.72 | 33.52 | 70.4 | 1.38 | 0.5 | 54 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.66 |
 | <a href="{{ site.baseurl }}/_clusters/ascc7/" target="_blank" style="color: $blue;">ASCC 7</a> | 29.72 | 58.94 | 131.55 | -2.79 | 0.15 | 20 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.17 |

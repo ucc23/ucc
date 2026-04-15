@@ -12,7 +12,7 @@ This database consists of 139 entries, of which 98% are classified as [likely no
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/mwsc5004/" target="_blank" style="color: red;">MWSC 5004</a> | 64.65 | 86.14 | 126.27 | 24.73 | 0.41 | 31 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.23 |
 | <a href="{{ site.baseurl }}/_clusters/mwsc5010/" target="_blank" style="color: red;">MWSC 5010</a> | 94.6 | 86.02 | 127.3 | 26.47 | 0.6 | 25 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: purple; font-weight: bold;">D</span> | 0.0 | 0.13 |

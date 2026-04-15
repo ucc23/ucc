@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/berkeley17/" target="_blank" style="color: $blue;">Berkeley 17</a> | 80.13 | 30.58 | 175.66 | -3.68 | 0.3 | 844 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.95 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley18/" target="_blank" style="color: $blue;">Berkeley 18</a> | 80.54 | 45.44 | 163.59 | 5.03 | 0.17 | 1766 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.89 |

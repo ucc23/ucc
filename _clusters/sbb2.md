@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 1.5
 dens_val: 1.2
-N_50_val: 32
+N_membs_val: 32
 scix_url: SBB%202
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

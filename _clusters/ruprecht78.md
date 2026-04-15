@@ -55,7 +55,7 @@ class3: |
 N_comments: "3"
 rc_val: 1.6
 dens_val: 6.6
-N_50_val: 228
+N_membs_val: 228
 scix_url: Ruprecht%2078
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

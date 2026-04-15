@@ -12,7 +12,7 @@ This database consists of 27 entries, of which 7% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/bpi14/" target="_blank" style="color: $blue;">BPI 14</a> | 82.08 | 34.41 | 173.41 | -0.15 | 0.46 | 86 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.58 | 0.14 |
 | <a href="{{ site.baseurl }}/_clusters/cbb3/" target="_blank" style="color: $blue;">CBB 3</a> | 81.91 | 34.57 | 173.21 | -0.19 | 0.46 | 19 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.48 | 0.08 |

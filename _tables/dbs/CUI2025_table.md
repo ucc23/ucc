@@ -12,7 +12,7 @@ This database consists of 53 entries, of which 19% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/berkeley26/" target="_blank" style="color: $blue;">Berkeley 26</a> | 102.57 | 5.73 | 207.69 | 2.36 | 0.17 | 45 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.38 |
 | <a href="{{ site.baseurl }}/_clusters/cwnu2946/" target="_blank" style="color: $blue;">CWNU 2946</a> | 161.96 | -55.87 | 286.16 | 2.92 | 0.09 | 128 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.5 | 0.16 |

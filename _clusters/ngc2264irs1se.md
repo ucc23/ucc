@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 0.6
 dens_val: 40
-N_50_val: 97
+N_membs_val: 97
 scix_url: NGC%202264%20IRS1%20SE
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

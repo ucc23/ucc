@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.6
 dens_val: 4.5
-N_50_val: 109
+N_membs_val: 109
 scix_url: Ferrero%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

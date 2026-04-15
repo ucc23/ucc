@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 3.6
 dens_val: 1.6
-N_50_val: 172
+N_membs_val: 172
 scix_url: Platais%209
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

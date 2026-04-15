@@ -61,7 +61,7 @@ class3: |
 N_comments: "9"
 rc_val: 2.5
 dens_val: 14
-N_50_val: 739
+N_membs_val: 739
 scix_url: Blanco%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

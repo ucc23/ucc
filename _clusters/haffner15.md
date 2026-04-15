@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 1.5
 dens_val: 15
-N_50_val: 392
+N_membs_val: 392
 scix_url: Haffner%2015
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

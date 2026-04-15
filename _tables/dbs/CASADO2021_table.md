@@ -12,7 +12,7 @@ This database consists of 20 entries, of which 50% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/casado10/" target="_blank" style="color: $blue;">Casado 10</a> | 120.58 | -32.13 | 249.15 | -0.75 | 0.27 | 44 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.29 |
 | <a href="{{ site.baseurl }}/_clusters/casado11/" target="_blank" style="color: red;">Casado 11</a> | 7.21 | 56.7 | 119.84 | -6.04 | 0.56 | 24 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.15 |

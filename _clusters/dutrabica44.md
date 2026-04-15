@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 9.5
 dens_val: 0.01
-N_50_val: 19
+N_membs_val: 19
 scix_url: Dutra%20Bica%2044
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

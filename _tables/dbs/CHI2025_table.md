@@ -12,7 +12,7 @@ This database consists of 739 entries, of which 99% are classified as [likely no
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ckcwdm10746/" target="_blank" style="color: red;">CKCWDM 10746</a> | 330.55 | 54.58 | 99.96 | -0.54 | 0.17 | 13 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.05 |
 | <a href="{{ site.baseurl }}/_clusters/ckcwdm10750/" target="_blank" style="color: red;">CKCWDM 10750</a> | 330.69 | 54.72 | 100.13 | -0.51 | 0.18 | 11 | <span style="color: red; font-weight: bold;">C</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.05 |

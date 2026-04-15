@@ -55,7 +55,7 @@ class3: |
 N_comments: "3"
 rc_val: 2.5
 dens_val: 0.5
-N_50_val: 17
+N_membs_val: 17
 scix_url: HSC%2027
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 18
 dens_val: 0.00
-N_50_val: 5
+N_membs_val: 5
 scix_url: MCM%2022
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

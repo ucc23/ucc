@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 1.2
 dens_val: 3.1
-N_50_val: 43
+N_membs_val: 43
 scix_url: COIN-Gaia%2035
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

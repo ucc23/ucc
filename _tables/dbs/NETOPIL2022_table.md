@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/basel11b/" target="_blank" style="color: $blue;">Basel 11b</a> | 89.55 | 21.96 | 187.45 | -1.12 | 0.55 | 160 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.9 |
 | <a href="{{ site.baseurl }}/_clusters/basel4/" target="_blank" style="color: $blue;">Basel 4</a> | 87.24 | 30.19 | 179.3 | 1.28 | 0.29 | 123 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.82 |

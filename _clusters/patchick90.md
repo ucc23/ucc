@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 2.0
 dens_val: 2.7
-N_50_val: 68
+N_membs_val: 68
 scix_url: Patchick%2090
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -12,7 +12,7 @@ This database consists of 34 entries, of which 9% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ufmg63/" target="_blank" style="color: $blue;">UFMG 63</a> | 263.37 | -25.02 | 1.9 | 4.36 | 0.81 | 51 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.41 |
 | <a href="{{ site.baseurl }}/_clusters/ufmg64/" target="_blank" style="color: $blue;">UFMG 64</a> | 266.99 | -22.19 | 6.04 | 3.06 | 0.66 | 46 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.33 |

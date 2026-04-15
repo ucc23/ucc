@@ -12,7 +12,7 @@ This database consists of 843 entries, of which 16% are classified as [likely no
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ah03j0822364/" target="_blank" style="color: red;">AH03 J0822 36.4</a> | 125.55 | -36.37 | 254.98 | 0.34 | 0.25 | 11 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.14 |
 | <a href="{{ site.baseurl }}/_clusters/ah03j1725344/" target="_blank" style="color: $blue;">AH03 J1725 34.4</a> | 261.39 | -34.4 | 353.1 | 0.63 | 0.56 | 236 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.31 | 0.39 |

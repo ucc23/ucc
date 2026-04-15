@@ -12,7 +12,7 @@ This database consists of 9 entries, of which 22% are probable duplicates ([P<su
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/rsg1/" target="_blank" style="color: $blue;">RSG1</a> | 75.55 | 37.48 | 167.8 | -2.67 | 3.03 | 297 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.85 |
 | <a href="{{ site.baseurl }}/_clusters/rsg2/" target="_blank" style="color: $blue;">RSG2</a> | 110.72 | 55.28 | 161.96 | 26.35 | 5.04 | 65 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.43 |

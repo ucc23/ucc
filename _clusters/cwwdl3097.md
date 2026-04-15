@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 1.4
 dens_val: 2.8
-N_50_val: 39
+N_membs_val: 39
 scix_url: CWWDL%203097
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

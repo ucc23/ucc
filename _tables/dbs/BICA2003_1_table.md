@@ -12,7 +12,7 @@ This database consists of 142 entries, of which 11% are probable duplicates ([P<
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ah03j1725344/" target="_blank" style="color: $blue;">AH03 J1725 34.4</a> | 261.39 | -34.4 | 353.1 | 0.63 | 0.56 | 236 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.31 | 0.39 |
 | <a href="{{ site.baseurl }}/_clusters/bdsb1/" target="_blank" style="color: $blue;">BDSB 1</a> | 271.01 | -24.38 | 6.0 | -1.25 | 0.76 | 189 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.67 | 0.17 |

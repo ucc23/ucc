@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 2.4
 dens_val: 4.0
-N_50_val: 172
+N_membs_val: 172
 scix_url: Gulliver%2019
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

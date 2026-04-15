@@ -57,7 +57,7 @@ class3: |
 N_comments: "5"
 rc_val: 2.7
 dens_val: 0.3
-N_50_val: 21
+N_membs_val: 21
 scix_url: Theia%20101
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

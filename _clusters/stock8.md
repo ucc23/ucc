@@ -60,7 +60,7 @@ class3: |
 N_comments: "8"
 rc_val: 2.9
 dens_val: 3.1
-N_50_val: 254
+N_membs_val: 254
 scix_url: Stock%208
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

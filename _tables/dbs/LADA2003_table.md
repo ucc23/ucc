@@ -12,7 +12,7 @@ This database consists of 76 entries, of which 21% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/afgl4029/" target="_blank" style="color: $blue;">AFGL4029</a> | 45.21 | 60.54 | 138.21 | 1.56 | 0.44 | 30 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.47 | 0.08 |
 | <a href="{{ site.baseurl }}/_clusters/afgl437/" target="_blank" style="color: red;">AFGL437</a> | 46.92 | 58.48 | 139.99 | 0.18 | 0.42 | 20 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.14 |

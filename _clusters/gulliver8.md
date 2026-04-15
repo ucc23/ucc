@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 1.2
 dens_val: 3.7
-N_50_val: 68
+N_membs_val: 68
 scix_url: Gulliver%208
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

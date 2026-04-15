@@ -59,7 +59,7 @@ class3: |
 N_comments: "7"
 rc_val: 1.1
 dens_val: 5.9
-N_50_val: 87
+N_membs_val: 87
 scix_url: BDSB%2093
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

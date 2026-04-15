@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 1.7
 dens_val: 4.3
-N_50_val: 92
+N_membs_val: 92
 scix_url: Basel%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

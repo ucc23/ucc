@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 4.0
 dens_val: 0.6
-N_50_val: 117
+N_membs_val: 117
 scix_url: Juchert%2019
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

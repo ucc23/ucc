@@ -12,7 +12,7 @@ This database consists of 628 entries, of which 16% are probable duplicates ([P<
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ubc1001/" target="_blank" style="color: $blue;">UBC 1001</a> | 267.36 | -29.24 | 0.17 | -0.87 | 0.36 | 39 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.32 |
 | <a href="{{ site.baseurl }}/_clusters/ubc1002/" target="_blank" style="color: $blue;">UBC 1002</a> | 268.11 | -28.19 | 1.41 | -0.9 | 0.28 | 80 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.74 | 0.11 |

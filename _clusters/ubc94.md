@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 2.6
 dens_val: 3.3
-N_50_val: 217
+N_membs_val: 217
 scix_url: UBC%2094
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

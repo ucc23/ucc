@@ -55,7 +55,7 @@ class3: |
 N_comments: "3"
 rc_val: 2.7
 dens_val: 1.0
-N_50_val: 66
+N_membs_val: 66
 scix_url: Berkeley%2084
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

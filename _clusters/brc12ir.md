@@ -53,7 +53,7 @@ class3: |
 N_comments: "1"
 rc_val: 1.8
 dens_val: 1.1
-N_50_val: 23
+N_membs_val: 23
 scix_url: BRC12%20IR
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 3.4
 dens_val: 3.2
-N_50_val: 843
+N_membs_val: 843
 scix_url: Gaia%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

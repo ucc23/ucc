@@ -12,7 +12,7 @@ This database consists of 1179 entries, of which 49% are probable duplicates ([P
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/cwwdl10030/" target="_blank" style="color: red;">CWWDL 10030</a> | 297.5 | 27.72 | 64.01 | 0.76 | 0.24 | 13 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |
 | <a href="{{ site.baseurl }}/_clusters/cwwdl10077/" target="_blank" style="color: red;">CWWDL 10077</a> | 297.51 | 27.59 | 63.91 | 0.67 | 0.25 | 22 | <span style="color: purple; font-weight: bold;">D</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.03 |

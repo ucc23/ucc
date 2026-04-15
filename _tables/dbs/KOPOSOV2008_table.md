@@ -12,7 +12,7 @@ This database consists of 11 entries, of which 9% are classified as [likely non-
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/koposov10/" target="_blank" style="color: $blue;">Koposov 10</a> | 86.86 | 35.43 | 174.65 | 3.69 | 0.33 | 79 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.8 |
 | <a href="{{ site.baseurl }}/_clusters/koposov12/" target="_blank" style="color: $blue;">Koposov 12</a> | 90.25 | 35.29 | 176.16 | 6.01 | 0.39 | 219 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.89 |

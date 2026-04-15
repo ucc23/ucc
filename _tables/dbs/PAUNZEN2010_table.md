@@ -12,7 +12,7 @@ This database consists of 187 entries, of which 2% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/berkeley1/" target="_blank" style="color: $blue;">Berkeley 1</a> | 2.45 | 60.48 | 117.82 | -1.98 | 0.23 | 86 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.79 |
 | <a href="{{ site.baseurl }}/_clusters/berkeley14/" target="_blank" style="color: $blue;">Berkeley 14</a> | 74.93 | 43.49 | 162.81 | 0.65 | 0.19 | 462 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.91 |

@@ -12,7 +12,7 @@ This database consists of 11 entries, of which 45% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/xdocc01/" target="_blank" style="color: $blue;">XDOCC 01</a> | 20.12 | 58.31 | 126.74 | -4.34 | 1.25 | 41 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.31 |
 | <a href="{{ site.baseurl }}/_clusters/xdocc02/" target="_blank" style="color: $blue;">XDOCC 02</a> | 84.06 | 34.3 | 174.39 | 1.13 | 0.75 | 52 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.4 |

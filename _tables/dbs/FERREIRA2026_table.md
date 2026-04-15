@@ -12,7 +12,7 @@ This database consists of 32 entries, of which 97% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/dias17/" target="_blank" style="color: red;">Dias 17</a> | 66.55 | 53.42 | 151.68 | 2.99 | 0.25 | 23 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.12 |
 | <a href="{{ site.baseurl }}/_clusters/ufmg100/" target="_blank" style="color: $blue;">UFMG 100</a> | 65.41 | 55.26 | 149.9 | 3.8 | 0.26 | 46 | <span style="color: green; font-weight: bold;">A</span><span style="color: red; font-weight: bold;">C</span> | 0.0 | 0.28 |

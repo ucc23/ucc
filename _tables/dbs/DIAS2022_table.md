@@ -10,7 +10,7 @@ style: style
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/collinder307/" target="_blank" style="color: $blue;">Collinder 307</a> | 248.79 | -50.99 | 334.38 | -2.32 | 0.51 | 256 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.85 |
 | <a href="{{ site.baseurl }}/_clusters/dias6/" target="_blank" style="color: $blue;">Dias 6</a> | 277.62 | -12.33 | 19.59 | -1.03 | 0.34 | 425 | <span style="color: green; font-weight: bold;">A</span><span style="color: green; font-weight: bold;">A</span> | 0.0 | 0.91 |

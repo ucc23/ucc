@@ -12,7 +12,7 @@ This database consists of 239 entries, of which 3% are probable duplicates ([P<s
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/ads13292/" target="_blank" style="color: $blue;">ADS 13292</a> | 300.6 | 35.31 | 71.86 | 2.42 | 0.52 | 83 | <span style="color: green; font-weight: bold;">A</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.24 | 0.37 |
 | <a href="{{ site.baseurl }}/_clusters/alessi15/" target="_blank" style="color: $blue;">Alessi 15</a> | 100.76 | 1.67 | 210.49 | -1.1 | 0.15 | 25 | <span style="color: purple; font-weight: bold;">D</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.44 |

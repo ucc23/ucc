@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 0.9
 dens_val: 2.7
-N_50_val: 32
+N_membs_val: 32
 scix_url: CWNU%201
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

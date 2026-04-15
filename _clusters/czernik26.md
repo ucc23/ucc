@@ -56,7 +56,7 @@ class3: |
 N_comments: "4"
 rc_val: 2.7
 dens_val: 1.1
-N_50_val: 69
+N_membs_val: 69
 scix_url: Czernik%2026
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

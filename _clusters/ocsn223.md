@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 0.6
 dens_val: 23
-N_50_val: 97
+N_membs_val: 97
 scix_url: OCSN%20223
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

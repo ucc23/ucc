@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 8.2
 dens_val: 0.04
-N_50_val: 21
+N_membs_val: 21
 scix_url: Riddle%205
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

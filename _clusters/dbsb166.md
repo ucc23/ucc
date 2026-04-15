@@ -54,7 +54,7 @@ class3: |
 N_comments: "2"
 rc_val: 1.8
 dens_val: 0.6
-N_50_val: 19
+N_membs_val: 19
 scix_url: DBSB%20166
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

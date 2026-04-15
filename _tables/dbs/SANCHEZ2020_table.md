@@ -12,7 +12,7 @@ This database consists of 399 entries, of which 2% are classified as [likely non
 
 
 
-| Name | RA | DEC | LON | LAT | Plx | N<sub>50</sub> | C3 | P<sub>dup</sub> | UTI |
+| Name | RA | DEC | LON | LAT | Plx | N<sub>m</sub> | C3 | P<sub>dup</sub> | UTI |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <a href="{{ site.baseurl }}/_clusters/alessi53/" target="_blank" style="color: $blue;">Alessi 53</a> | 97.35 | 9.18 | 202.26 | -0.66 | 0.18 | 54 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.63 |
 | <a href="{{ site.baseurl }}/_clusters/alessi56/" target="_blank" style="color: $blue;">Alessi 56</a> | 286.72 | 9.6 | 43.22 | 0.97 | 0.28 | 24 | <span style="color: #FFC300; font-weight: bold;">B</span><span style="color: #FFC300; font-weight: bold;">B</span> | 0.0 | 0.41 |

@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 0.6
 dens_val: 20
-N_50_val: 339
+N_membs_val: 339
 scix_url: Nor%20OB5
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

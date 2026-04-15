@@ -58,7 +58,7 @@ class3: |
 N_comments: "6"
 rc_val: 2.1
 dens_val: 11
-N_50_val: 458
+N_membs_val: 458
 scix_url: Collinder%20332
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

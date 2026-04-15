@@ -52,7 +52,7 @@ class3: |
 N_comments: ""
 rc_val: 3.0
 dens_val: 0.9
-N_50_val: 72
+N_membs_val: 72
 scix_url: CMa23
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |

@@ -60,7 +60,7 @@ class3: |
 N_comments: "8"
 rc_val: 0.9
 dens_val: 31
-N_50_val: 427
+N_membs_val: 427
 scix_url: Pismis%2018
 posit_table: |
     | Reference | Year | RA [deg] | DEC [deg] | Plx [mas] | pmRA [mas/yr] | pmDE [mas/yr] | Rv [km/s] |
